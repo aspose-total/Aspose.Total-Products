@@ -1,6 +1,6 @@
 ---
 title: 使用 Python 創建和更新 Microsoft Excel 文件 
-url: /zh-hant/python-java/create/
+
 description: 無需安裝 Microsoft Office 即可創建 Microsoft Excel 工作表報告 
 ---
 

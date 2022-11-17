@@ -1,7 +1,7 @@
 ---
 title: Converter DOCX para ICS em Python
 description: Salve DOCX para ICS em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/docx-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti ODS in DOC con C++
 description: Converti ODS in DOC all'interno di applicazioni C++
-url: /it/cpp/conversion/ods-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

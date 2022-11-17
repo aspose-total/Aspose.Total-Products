@@ -1,7 +1,7 @@
 ---
 title: Interfejsy API przetwarzania formatu plików w systemie Android dla aplikacji mobilnych — Aspose 
 weight: 50
-url: /pl/android-java/ 
+
 description: Interfejsy API formatu plików Android dla programu Word Excel PDF PowerPoint i wiadomości e-mail. Programistyczne tworzenie renderowania edycji i konwertowania formatów dokumentów w aplikacjach mobilnych
 ---
 

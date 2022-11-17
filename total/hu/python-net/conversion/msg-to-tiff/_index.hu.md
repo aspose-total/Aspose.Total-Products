@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MSG-t TIFF-be Pythonban
 description: Mentse a MSG-t TIFF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/msg-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

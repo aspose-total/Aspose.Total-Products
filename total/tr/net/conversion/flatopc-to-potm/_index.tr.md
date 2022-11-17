@@ -1,6 +1,6 @@
 ---
 title: FLATOPC'yi C# .NET aracılığıyla POTM'ye dönüştürün 
-url: /tr/net/conversion/flatopc-to-potm/ 
+
 description: C# ile Word flatopc belgelerini PowerPoint potm dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

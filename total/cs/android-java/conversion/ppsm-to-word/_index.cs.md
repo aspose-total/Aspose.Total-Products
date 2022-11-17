@@ -1,7 +1,7 @@
 ---
 title: Export PPSM do WORD na Andorid přes Java
 description: Převeďte PPSM na WORD v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/ppsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

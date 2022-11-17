@@ -1,7 +1,7 @@
 ---
 title: สร้าง DOTM ใน Python
 description: สร้างไฟล์ DOTM โดยใช้แอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word 
-url: /th/python-net/create/dotm/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t VCF-be Pythonban
 description: MD mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

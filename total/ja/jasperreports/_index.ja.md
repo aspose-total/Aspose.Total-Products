@@ -1,7 +1,7 @@
 ---
 title: JasperReportsExportersSuite-ビジネスドキュメント形式でレポートを生成する
 weight: 80
-url: /ja/jasperreports/ 
+
 description: JasperReportsは、スイートをエクスポートして、レポートをWordExcelPDFおよびPowerPoint形式にエクスポートします。エクスポートされたレポートにバーコードを追加する
 ---
 

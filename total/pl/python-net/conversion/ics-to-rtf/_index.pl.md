@@ -1,7 +1,7 @@
 ---
 title: Konwertuj ICS na RTF w Pythonie
 description: Zapisz ICS w formacie RTF w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/ics-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

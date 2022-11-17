@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t PCL-be Pythonban
 description: Mentse a OST-t PCL formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

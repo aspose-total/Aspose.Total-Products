@@ -1,6 +1,6 @@
 ---
 title: 通過 C# .NET 將 RTF 轉換為 PPSM 
-url: /zh-hant/net/conversion/rtf-to-ppsm/ 
+
 description: 使用 C# 將 Word rtf 文檔轉換為 PowerPoint ppsm 文件。在 ASP.NET 或其他 .NET 應用程序中轉換多個文件。
 ---
 

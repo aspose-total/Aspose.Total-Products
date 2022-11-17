@@ -1,7 +1,7 @@
 ---
 title: Convert SVG to ICS in Python
 description: Save SVG to ICS within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/svg-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

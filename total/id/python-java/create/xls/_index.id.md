@@ -1,7 +1,7 @@
 ---
 title: Buat XLS dengan Python
 description: Hasilkan file XLS menggunakan aplikasi Python tanpa menggunakan Microsoft Office. 
-url: /id/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

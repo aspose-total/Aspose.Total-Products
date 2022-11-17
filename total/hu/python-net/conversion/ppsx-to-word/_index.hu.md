@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPSX-t WORD-be Pythonban
 description: PPSX-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/ppsx-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

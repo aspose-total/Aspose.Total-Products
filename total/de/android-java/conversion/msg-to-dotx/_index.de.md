@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu DOTX in der Andorid App
 description: Exportieren Sie E-MAIL nach DOTX, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/msg-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

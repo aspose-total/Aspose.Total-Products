@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCX en PPT via C++
 description: Exportez DOCX vers PPT dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint
-url: /fr/cpp/conversion/docx-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSX PPSM PPTX PPTM POTM POT PPS POTX POWERPOINT ODP
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOCX en PPT" h2="Exportez DOCX vers PPT dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOCX en PPT tout en utilisant deux de ses API. Chargez votre DOCX en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOCX en PPT tout en utilisant deux de ses API. Chargez votre DOCX en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

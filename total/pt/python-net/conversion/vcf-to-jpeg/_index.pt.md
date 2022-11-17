@@ -1,7 +1,7 @@
 ---
 title: Converter VCF para JPEG em Python
 description: Salve VCF para JPEG em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/vcf-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

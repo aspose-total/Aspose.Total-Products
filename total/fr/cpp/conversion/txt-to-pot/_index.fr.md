@@ -1,7 +1,7 @@
 ---
 title: Convertir TXT en POT via C++
 description: Exportez TXT vers POT dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint
-url: /fr/cpp/conversion/txt-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTM PPSM PPSX PPT PPS PPTX POTX POWERPOINT PPTM ODP
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir TXT en POT" h2="Exportez TXT vers POT dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion TXT en POT tout en utilisant deux de ses API. Chargez votre TXT en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous POT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion TXT en POT tout en utilisant deux de ses API. Chargez votre TXT en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pot
 pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Outre la conversion de txtuments, l'API [Aspose.Words for C++](https://products.
 auto options = MakeObject<LoadOptions>(u"txtPassword");
 // load the txtument from the local file system by filename:
 SharedPtr<Txtument> txt = MakeObject<Txtument>(u"Encrypted.txt", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pot
 pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

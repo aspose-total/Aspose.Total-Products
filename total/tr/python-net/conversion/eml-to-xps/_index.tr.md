@@ -1,7 +1,7 @@
 ---
 title: Python'da EML'yi XPS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EML'yi XPS'e kaydedin 
-url: /tr/python-net/conversion/eml-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

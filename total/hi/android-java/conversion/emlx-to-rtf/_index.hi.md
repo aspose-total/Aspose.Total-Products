@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में RTF को EMLX रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EMLX को RTF में निर्यात करें
-url: /hi/android-java/conversion/emlx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

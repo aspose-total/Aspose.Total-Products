@@ -1,6 +1,6 @@
 ---
 title: Python Dosya Otomasyon Kitaplıkları - Aspose
-url: /tr/python-java/
+
 url_ignore: /python-java/ 
 description: Excel elektronik tabloları ayrıştırma, barkod oluşturma ve taramanın yanı sıra Visio diyagramı işleme için Python kitaplıkları
 ---

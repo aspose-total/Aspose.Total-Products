@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang CHM trong Android qua Java
 description: Phân tích cú pháp JSON thành CHM trong Java mà không cần sử dụng Microsoft Word
-url: /vi/android-java/conversion/json-to-chm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-doc.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 Hơn nữa, API cho phép bạn đặt các tùy chọn bố cục cho định dạng JSON của mình trong khi phân tích cú pháp JSON thành CHM bằng [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Nó cho phép bạn xử lý Mảng dưới dạng bảng, bỏ qua giá trị rỗng, bỏ qua tiêu đề mảng, bỏ qua tiêu đề đối tượng, chuyển đổi chuỗi thành số hoặc ngày tháng, đặt định dạng ngày và số và đặt kiểu tiêu đề. Tất cả các tùy chọn này cho phép bạn trình bày dữ liệu của mình theo nhu cầu của bạn. Đoạn mã sau đây cho bạn biết cách đặt các tùy chọn bố cục.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Hơn nữa, API cho phép bạn đặt các tùy chọn bố cục cho định d
 Sử dụng API, bạn cũng có thể chuyển đổi JSON thành CHM với hình mờ. Để thêm hình mờ vào tài liệu CHM của bạn, trước tiên bạn có thể phân tích cú pháp tệp JSON thành PDF và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp PDF mới được tạo bằng cách sử dụng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), tạo một phiên bản của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions. Sau khi thêm hình mờ, bạn có thể lưu tài liệu vào CHM.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

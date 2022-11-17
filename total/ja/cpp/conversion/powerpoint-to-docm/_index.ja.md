@@ -1,7 +1,7 @@
 ---
 title: POWERPOINTをDOCMに変換するC++API
 description: C++アプリケーション内でPOWERPOINTをDOCMにエクスポートする
-url: /ja/cpp/conversion/powerpoint-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

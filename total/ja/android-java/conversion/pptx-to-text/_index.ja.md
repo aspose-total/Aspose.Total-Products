@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのTEXTにPPTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTXをTEXTに変換する
-url: /ja/android-java/conversion/pptx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

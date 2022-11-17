@@ -1,7 +1,7 @@
 ---
 title: Python'da TEXT'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında TEXT'yi OFT'e kaydedin
-url: /tr/python-net/conversion/text-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

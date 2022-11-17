@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в ODT в приложении Andorid
 description: Экспорт EMAIL в ODT без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

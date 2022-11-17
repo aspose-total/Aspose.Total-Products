@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi ODS'ye Dönüştürmek için Android API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOCX'yi ODS'ye dönüştürün
-url: /tr/android-java/conversion/docx-to-ods/
+
 family: total
 platformtag: cpp
 feature: conversion

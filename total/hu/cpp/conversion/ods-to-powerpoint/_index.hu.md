@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODS-t POWERPOINT-ba a C++ segítségével
 description: A ODS konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/ods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

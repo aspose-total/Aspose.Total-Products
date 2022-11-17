@@ -1,7 +1,7 @@
 ---
 title: 通過 C++ 將 JSON 格式轉換為 WORD
 description: C++ API t0 在不使用 Microsoft Word 的情況下將 JSON 解析為 WORD
-url: /zh-hant/cpp/conversion/json-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: PS PCL DOCM WORDML FLATOPC OTT ODT MOBI CHM DOC DOT DOTX EPUB RTF
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: PS PCL DOCM WORDML FLATOPC OTT ODT MOBI CHM DOC DOT DOTX EPUB RTF
 在將 JSON 解析為 WORD 時，您還可以通過使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類加載 JSON 來設置行和列的大小。如果您需要為工作表中的所有行設置相同的行高，您可以使用 [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) 集合的方法。同樣，要為工作表中的所有列設置相同的列寬，請使用 ICells 集合的 [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) 方法。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ otherformats: PS PCL DOCM WORDML FLATOPC OTT ODT MOBI CHM DOC DOT DOTX EPUB RTF
 調用 SetText 方法並傳遞 TextWatermarkOptions 的水印文本和對象。添加水印後，您可以將文檔保存到 WORD。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε SVG στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε SVG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

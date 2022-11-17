@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε BMP στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε BMP χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

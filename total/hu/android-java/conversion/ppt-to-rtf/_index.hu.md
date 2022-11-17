@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

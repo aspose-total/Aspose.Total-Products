@@ -1,7 +1,7 @@
 ---
 title: ส่งออก POTX เป็น DOCM บน Andorid ผ่าน Java
 description: แปลง POTX เป็น DOCM ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ
-url: /th/android-java/conversion/potx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

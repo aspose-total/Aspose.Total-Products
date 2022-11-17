@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в PPSM в Android через Java
 description: Анализ JSON в PPSM в приложениях Android без использования Microsoft PowerPoint
-url: /ru/android-java/conversion/json-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: PPT POTX OTP PPSX PPS POWERPOINT PPTM POTM ODP POT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: PPT POTX OTP PPSX PPS POWERPOINT PPTM POTM ODP POT
 Кроме того, API позволяет анализировать JSON в PPSM с указанными параметрами макета. Чтобы указать параметры макета, вы можете использовать класс [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Он позволяет обрабатывать массив как таблицу, игнорировать нули, игнорировать заголовок массива, игнорировать заголовок объекта, преобразовывать строку в число или дату, устанавливать формат даты и числа и устанавливать стиль заголовка. Все эти параметры позволяют вам представить ваши данные в соответствии с вашими потребностями. В следующем фрагменте кода показано, как установить параметры макета.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: PPT POTX OTP PPSX PPS POWERPOINT PPTM POTM ODP POT
 Используя API, вы также можете конвертировать JSON в PPSM с водяным знаком. Чтобы добавить водяной знак в документ PPSM, вы можете сначала преобразовать JSON в PPTX и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл PPTX с помощью класса [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), просмотрите все слайды, добавьте текст используя addTextFrame, установите все соответствующие параметры, такие как цвет, fillType и другие, и можете сохранить документ в PPSM.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

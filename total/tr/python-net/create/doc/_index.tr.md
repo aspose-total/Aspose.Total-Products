@@ -1,7 +1,7 @@
 ---
 title: Python'da DOC oluşturun
 description: Microsoft Word kullanmadan Python uygulamalarını kullanarak DOC dosyası oluşturun. 
-url: /tr/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Andorid의 DOTM로 PPSM 내보내기
 description: 소프트웨어를 설치하지 않고 모바일 앱에서 PPSM을 DOTM로 변환
-url: /ko/android-java/conversion/ppsm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

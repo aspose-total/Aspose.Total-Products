@@ -1,7 +1,7 @@
 ---
 title: Créer RTF en Python
 description: Générez un fichier RTF à l'aide d'applications Python sans utiliser Microsoft Word. 
-url: /fr/python-net/create/rtf/
+
 family: total
 platformtag: Python
 feature: create

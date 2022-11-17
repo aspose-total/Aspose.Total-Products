@@ -1,7 +1,7 @@
 ---
 title: Konwertuj JPEG na OST w Pythonie
 description: Zapisuj JPEG do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/jpeg-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

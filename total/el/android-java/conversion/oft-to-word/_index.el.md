@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε WORD στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε WORD χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

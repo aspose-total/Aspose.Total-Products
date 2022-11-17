@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da OST'yi RTF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OST'yi RTF'e kaydedin 
-url: /tr/python-net/conversion/ost-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

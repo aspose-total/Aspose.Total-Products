@@ -1,6 +1,6 @@
 ---
 title: Buat File menggunakan Python 
-url: /id/python-net/create/
+
 description: Buat teks dan dokumen Microsoft Word tanpa menginstal Microsoft Office 
 ---
 

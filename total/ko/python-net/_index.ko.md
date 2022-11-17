@@ -1,6 +1,6 @@
 ---
 title: .NET 파일 형식 처리 API를 통한 Python - Aspose 
-url: /ko/python-net/
+
 url_ignore: /python-net/ 
 description: Python 애플리케이션 내에서 Microsoft Word 문서, PowerPoint 프레젠테이션 및 Outlook 이메일 형식을 위한 Python API.
 ---

@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında ICS'yi ICS'e kaydedin
-url: /tr/python-net/conversion/gif-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

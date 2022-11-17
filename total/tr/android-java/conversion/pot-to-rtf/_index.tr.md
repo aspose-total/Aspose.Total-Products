@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POT'u RTF'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POT'u RTF'ye dönüştürün
-url: /tr/android-java/conversion/pot-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

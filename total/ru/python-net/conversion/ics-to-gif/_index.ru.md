@@ -1,7 +1,7 @@
 ---
 title: Преобразование ICS в GIF в Python
 description: Сохраняйте ICS в GIF в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/ics-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

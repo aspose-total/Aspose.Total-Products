@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do TIFF v aplikaci Andorid
 description: Exportujte MSG do TIFF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

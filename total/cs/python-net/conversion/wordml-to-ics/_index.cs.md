@@ -1,7 +1,7 @@
 ---
 title: Převést WORDML na ICS v Pythonu
 description: Ukládejte WORDML do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/wordml-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

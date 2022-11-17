@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie TXT in PPS über C# .NET 
-url: /de/net/conversion/txt-to-pps/ 
+
 description: Konvertieren Sie Word-Dokumente mit C# in PowerPoint-PPS-Dateien. Konvertieren Sie mehrere Dateien innerhalb von ASP.NET oder anderen .NET-Anwendungen.
 ---
 

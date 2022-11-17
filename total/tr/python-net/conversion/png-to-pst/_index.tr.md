@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi PST'e kaydedin
-url: /tr/python-net/conversion/png-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

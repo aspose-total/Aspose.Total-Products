@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOCMにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをDOCMにエクスポートする
-url: /ja/android-java/conversion/msg-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

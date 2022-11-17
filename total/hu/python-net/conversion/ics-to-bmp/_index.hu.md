@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t BMP-be Pythonban
 description: Mentse a ICS-t BMP formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ics-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

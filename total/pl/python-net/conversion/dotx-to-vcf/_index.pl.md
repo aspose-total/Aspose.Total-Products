@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOTX na VCF w Pythonie
 description: Zapisuj DOTX do VCF w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/dotx-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

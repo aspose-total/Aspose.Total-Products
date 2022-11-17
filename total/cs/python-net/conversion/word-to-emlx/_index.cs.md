@@ -1,7 +1,7 @@
 ---
 title: Převést WORD na EMLX v Pythonu
 description: Ukládejte WORD do EMLX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/word-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

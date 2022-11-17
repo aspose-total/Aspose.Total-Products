@@ -1,7 +1,7 @@
 ---
 title: A XLSM konvertálása DOCX formátumba .NET segítségével 
 description: A XLSM konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlsm-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

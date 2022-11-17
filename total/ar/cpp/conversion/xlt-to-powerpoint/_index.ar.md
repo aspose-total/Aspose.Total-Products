@@ -1,7 +1,7 @@
 ---
 title: تحويل XLT إلى POWERPOINT باستخدام C++
 description: تحويل XLT إلى POWERPOINT داخل تطبيقات C++
-url: /ar/cpp/conversion/xlt-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

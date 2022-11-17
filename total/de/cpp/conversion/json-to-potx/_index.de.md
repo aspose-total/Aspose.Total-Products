@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über C++ in POTX
 description: Analysieren Sie JSON in POTX in C++, ohne Microsoft PowerPoint zu verwenden
-url: /de/cpp/conversion/json-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 Beim Analysieren von JSON zu POTX können Sie auch die Größe von Zeilen und Spalten festlegen, indem Sie JSON mit der Klasse [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) laden. Wenn Sie dieselbe Zeilenhöhe für alle Zeilen im Arbeitsblatt festlegen müssen, können Sie dies tun, indem Sie [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f )-Methode der Sammlung [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Um dieselbe Spaltenbreite für alle Spalten im Arbeitsblatt festzulegen, verwenden Sie die Methode [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) der ICells-Sammlung.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Beim Analysieren von JSON zu POTX können Sie auch die Größe von Zeilen und Sp
 Mit der API können Sie auch JSON in POTX mit Wasserzeichen konvertieren. Um Ihrem POTX-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst JSON in PPTX parsen und ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PPTX-Datei mit der Klasse [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation), rufen Sie die erste Folie ab, fügen Sie eine hinzu AutoShape vom Typ Rectangle, fügen Sie TextFrame zum Rectangle hinzu, erstellen Sie das Paragraph-Objekt für einen Textrahmen, erstellen Sie das Portion-Objekt für den Absatz, fügen Sie Wasserzeichen mit set_Text() hinzu und speichern Sie das Dokument im POTX.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

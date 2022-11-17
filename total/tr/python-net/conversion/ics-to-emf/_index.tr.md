@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi EMF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi EMF'e kaydedin 
-url: /tr/python-net/conversion/ics-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

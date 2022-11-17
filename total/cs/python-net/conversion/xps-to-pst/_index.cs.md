@@ -1,7 +1,7 @@
 ---
 title: Převést XPS na PST v Pythonu
 description: Ukládejte XPS do PST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/xps-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

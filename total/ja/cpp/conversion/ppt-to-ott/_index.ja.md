@@ -1,7 +1,7 @@
 ---
 title: PPTをOTTに変換するC++API
 description: C++アプリケーション内でPPTをOTTにエクスポートする
-url: /ja/cpp/conversion/ppt-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

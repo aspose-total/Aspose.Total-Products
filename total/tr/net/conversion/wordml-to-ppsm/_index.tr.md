@@ -1,6 +1,6 @@
 ---
 title: WORDML'yi C# .NET aracılığıyla PPSM'ye dönüştürün 
-url: /tr/net/conversion/wordml-to-ppsm/ 
+
 description: C# ile Word wordml belgelerini PowerPoint ppsm dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中將 XLS 導出為 DOC
 description: 無需使用 Microsoft Word 即可將 XLS 轉換為 DOC 的 Android API
-url: /zh-hant/android-java/conversion/xls-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Document document = new Document("pdfOutput.pdf");
 // save document in DOC format
 document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.xls");
 DocumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocumentProperties();
 // remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

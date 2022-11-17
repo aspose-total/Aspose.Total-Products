@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t RTF-nek az Andorid alkalmazásban
 description: Exportálja az EML-t RTF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

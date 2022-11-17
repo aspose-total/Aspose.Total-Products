@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS DOTX formátumba konvertálásához
 description: Exportálja a PPS-ot DOTX-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

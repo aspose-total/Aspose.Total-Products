@@ -1,7 +1,7 @@
 ---
 title: Converter XLS para DOC com .NET 
 description: Converter XLS para DOC em plataformas .NET Framework, .NET Core, Mono ou Xamarin
-url: /pt/net/conversion/xls-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

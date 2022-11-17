@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε ODT στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε ODT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

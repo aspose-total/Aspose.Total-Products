@@ -1,7 +1,7 @@
 ---
 title: Converter CSV para POWERPOINT com .NET 
 description: Converter CSV para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin
-url: /pt/net/conversion/csv-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

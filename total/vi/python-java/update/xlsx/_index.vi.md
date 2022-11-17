@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLSX bằng Python
 description: Sửa đổi tài liệu XLSX trong các ứng dụng Python mà không cần sử dụng Microsoft Excel. 
-url: /vi/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

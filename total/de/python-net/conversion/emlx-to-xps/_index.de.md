@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EMLX in XPS in Python
 description: Speichern Sie EMLX in XPS in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/emlx-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

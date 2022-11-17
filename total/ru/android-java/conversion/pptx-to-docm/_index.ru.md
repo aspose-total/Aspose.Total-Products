@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPTX в DOCM на Andorid через Java
 description: Конвертируйте PPTX в DOCM в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/pptx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

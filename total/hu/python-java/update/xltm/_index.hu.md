@@ -1,7 +1,7 @@
 ---
 title: Frissítse a XLTM fájlt Python használatával
 description: Módosítsa a XLTM-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/xltm/
+
 family: total
 platformtag: Python
 feature: update

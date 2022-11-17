@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή XLTX σε DOCX στο Android
 description: Android API για μετατροπή XLTX σε DOCX χωρίς χρήση του Microsoft Word
-url: /el/android-java/conversion/xltx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

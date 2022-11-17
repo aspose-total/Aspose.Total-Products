@@ -1,7 +1,7 @@
 ---
 title: API de traitement de format de fichier C++ - Aspose 
 weight: 70
-url: /fr/cpp/ 
+
 description: Les bibliothèques C++ lisent, écrivent, rendent et convertissent plusieurs formats de documents.
 ---
 

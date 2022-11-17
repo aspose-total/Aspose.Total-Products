@@ -1,7 +1,7 @@
 ---
 title: Python'da DOTX'yi MBOX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOTX'yi MBOX'e kaydedin
-url: /tr/python-net/conversion/dotx-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPTX σε WORD
 description: Εξαγωγή PPTX σε WORD στις εφαρμογές σας C++
-url: /el/cpp/conversion/pptx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

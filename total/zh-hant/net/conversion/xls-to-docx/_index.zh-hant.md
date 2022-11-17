@@ -1,7 +1,7 @@
 ---
 title: 使用 .NET 將 XLS 轉換為 DOCX 
 description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上將 XLS 轉換為 DOCX
-url: /zh-hant/net/conversion/xls-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

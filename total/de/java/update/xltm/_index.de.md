@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren Sie die XLTM-Datei mit Java
 description: Ändern Sie XLTM-Dokumente in Java-Anwendungen, ohne Microsoft Excel zu verwenden. Optimieren Sie den Code für den schnellsten Weg, Excel-Dateien in Java zu schreiben und zu bearbeiten.
-url: /de/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

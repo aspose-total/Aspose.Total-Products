@@ -1,7 +1,7 @@
 ---
 title: Экспорт POT в RTF на Andorid через Java
 description: Конвертируйте POT в RTF в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/pot-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

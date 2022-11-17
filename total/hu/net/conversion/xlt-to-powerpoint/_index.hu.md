@@ -1,7 +1,7 @@
 ---
 title: A XLT konvertálása POWERPOINT formátumba .NET segítségével 
 description: A XLT konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlt-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 C++ 中將 DOTM 轉換為 JSON 格式
 description: 在 C++ 中將 DOTM 導出為 JSON，而不使用 Microsoft Excel 或 Word
-url: /zh-hant/cpp/conversion/dotm-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 使用 API，您還可以打開受密碼保護的文檔。如果您的輸入 DOTM 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 JSON 格式。為此，請使用接受 LoadOptions 對象的特殊構造函數重載。此對象包含 Password 屬性，該屬性指定密碼字符串。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

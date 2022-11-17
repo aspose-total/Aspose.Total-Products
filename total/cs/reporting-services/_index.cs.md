@@ -1,7 +1,7 @@
 ---
 title: Rozšíření vykreslování SQL Server Reporting Services pro formáty souborů 
 weight: 40
-url: /cs/reporting-services/ 
+
 description: Rozšíření vykreslování SQL Server Reporting Services pro formáty souborů pro export sestav RDL do formátů Word Excel PDF PowerPoint. Přidejte čárové kódy do exportovaných zpráv
 ---
 

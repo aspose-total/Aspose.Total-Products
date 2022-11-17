@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite – generujte zprávy ve formátech obchodních dokumentů
 weight: 80
-url: /cs/jasperreports/ 
+
 description: JasperReports exportuje sadu pro export zpráv do formátů Word Excel PDF a PowerPoint. Přidejte čárové kódy do exportovaných sestav
 ---
 

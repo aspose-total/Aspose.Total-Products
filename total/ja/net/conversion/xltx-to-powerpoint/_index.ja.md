@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTXをPOWERPOINTに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTXをPOWERPOINTに変換する
-url: /ja/net/conversion/xltx-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

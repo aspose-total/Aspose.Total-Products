@@ -1,7 +1,7 @@
 ---
 title: Aggiorna il file XLSB utilizzando .NET
 description: Modifica i documenti XLSB nelle applicazioni C# VB.NET senza utilizzare Microsoft Excel. 
-url: /it/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

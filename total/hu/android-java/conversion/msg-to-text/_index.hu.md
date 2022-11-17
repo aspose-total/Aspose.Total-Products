@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t TEXT-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t TEXT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

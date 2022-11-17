@@ -1,7 +1,7 @@
 ---
 title: Python'da TXT'yi PPTX'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan TXT'den PPTX'e dönüştürme 
-url: /tr/python-net/conversion/txt-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

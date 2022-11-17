@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в ODP в Python
 description: Преобразование DOT в ODP в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/dot-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

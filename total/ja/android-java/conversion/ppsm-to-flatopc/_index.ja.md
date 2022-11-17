@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのFLATOPCにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをFLATOPCに変換する
-url: /ja/android-java/conversion/ppsm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

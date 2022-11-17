@@ -1,7 +1,7 @@
 ---
 title: Python で OFT を DOCM に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OFT を DOCM に保存します。 
-url: /ja/python-net/conversion/oft-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してEXCELをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをDOCXに変換する
-url: /ja/net/conversion/excel-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

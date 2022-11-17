@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do SVG v aplikaci Andorid
 description: Exportujte EMLX do SVG bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: A XLSX konvertálása POWERPOINT formátumba .NET segítségével 
 description: A XLSX konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlsx-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

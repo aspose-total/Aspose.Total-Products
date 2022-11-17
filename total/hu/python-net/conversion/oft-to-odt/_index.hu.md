@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t ODT-be Pythonban
 description: Mentse a OFT-t ODT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

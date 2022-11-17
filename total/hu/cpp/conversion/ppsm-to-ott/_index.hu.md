@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSM OTT formátumba konvertálásához
 description: Exportálja a PPSM-ot OTT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

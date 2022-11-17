@@ -1,7 +1,7 @@
 ---
 title: Converti XLSX in DOCX con C++
 description: Converti XLSX in DOCX all'interno di applicazioni C++
-url: /it/cpp/conversion/xlsx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

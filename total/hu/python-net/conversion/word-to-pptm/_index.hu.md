@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t PPTM-be Pythonban
 description: WORD-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/word-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

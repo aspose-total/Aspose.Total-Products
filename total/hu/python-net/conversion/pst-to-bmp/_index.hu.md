@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t BMP-be Pythonban
 description: Mentse a PST-t BMP formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

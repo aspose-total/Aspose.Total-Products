@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε XPS στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε XPS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

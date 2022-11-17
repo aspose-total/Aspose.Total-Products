@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのTEXTにPOTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTをTEXTに変換する
-url: /ja/android-java/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

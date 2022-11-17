@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをRTFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをRTFにエクスポートする
-url: /ja/android-java/conversion/emlx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

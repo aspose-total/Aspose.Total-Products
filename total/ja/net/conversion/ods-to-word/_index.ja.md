@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してODSをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでODSをWORDに変換する
-url: /ja/net/conversion/ods-to-word/
+
 family: total
 platformtag: net
 feature: conversion

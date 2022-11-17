@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPSX σε TEXT
 description: Εξαγωγή PPSX σε TEXT στις εφαρμογές σας C++
-url: /el/cpp/conversion/ppsx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

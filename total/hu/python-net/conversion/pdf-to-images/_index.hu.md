@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az PDF-et képekké Pythonban
 description: PDF kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/pdf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

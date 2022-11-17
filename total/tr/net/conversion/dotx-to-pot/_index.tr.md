@@ -1,6 +1,6 @@
 ---
 title: DOTX'yi C# .NET aracılığıyla POT'ye dönüştürün 
-url: /tr/net/conversion/dotx-to-pot/ 
+
 description: C# ile Word dotx belgelerini PowerPoint pot dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

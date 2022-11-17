@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをJPEGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをJPEGにエクスポートする
-url: /ja/android-java/conversion/msg-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

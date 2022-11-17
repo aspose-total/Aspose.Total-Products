@@ -1,7 +1,7 @@
 ---
 title: APIs de automação de arquivos C# .NET - Aspose 
 weight: 30
-url: /pt/net/ 
+
 description: C# ASP.NET VB.NET APIs para criar, manipular, converter e renderizar qualquer tipo de documento.
 ---
 

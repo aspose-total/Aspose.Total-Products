@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в PCL в Python
 description: Сохраняйте MSG в PCL в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/msg-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

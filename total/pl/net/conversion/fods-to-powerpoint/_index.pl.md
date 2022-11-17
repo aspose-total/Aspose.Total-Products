@@ -1,7 +1,7 @@
 ---
 title: Konwertuj FODS na POWERPOINT za pomocą .NET 
 description: Konwertuj FODS na POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin
-url: /pl/net/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

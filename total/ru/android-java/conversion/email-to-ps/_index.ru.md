@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в PS в приложении Andorid
 description: Экспорт EMAIL в PS без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

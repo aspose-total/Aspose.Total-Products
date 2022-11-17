@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to SVG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i SVG'ye aktarın
-url: /tr/android-java/conversion/email-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

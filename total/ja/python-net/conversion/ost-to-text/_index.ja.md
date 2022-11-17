@@ -1,7 +1,7 @@
 ---
 title: Python で OST を TEXT に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OST を TEXT に保存します。 
-url: /ja/python-net/conversion/ost-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

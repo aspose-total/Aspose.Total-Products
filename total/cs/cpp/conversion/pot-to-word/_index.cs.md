@@ -1,7 +1,7 @@
 ---
 title: C++ API pro převod POT na WORD
 description: Exportujte POT do WORD v rámci vašich aplikací C++
-url: /cs/cpp/conversion/pot-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

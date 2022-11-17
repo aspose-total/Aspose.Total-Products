@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t MSG-be Pythonban
 description: EPUB mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

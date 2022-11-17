@@ -1,7 +1,7 @@
 ---
 title: PPT'u OTT'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPT'u OTT'a aktarın
-url: /tr/cpp/conversion/ppt-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

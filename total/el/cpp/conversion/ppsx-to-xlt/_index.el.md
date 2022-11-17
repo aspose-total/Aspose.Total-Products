@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PPSX σε XLT μέσω C++
 description: Εξαγωγή PPSX σε XLT σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint
-url: /el/cpp/conversion/ppsx-to-xlt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX CSV XLSM XLSX MARKD
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX CSV XLSM XLSX MARKD
 Χρησιμοποιώντας το API, μπορείτε επίσης να ανοίξετε το έγγραφο που προστατεύεται με κωδικό πρόσβασης. Εάν το έγγραφο PPSX εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε XLT χωρίς να χρησιμοποιήσετε τον κωδικό πρόσβασης. Όταν το έγγραφό σας προστατεύεται με κωδικό πρόσβασης, αυτό σημαίνει ότι επιβάλλει ορισμένους περιορισμούς στην παρουσίαση. Για να καταργήσετε τους περιορισμούς, πρέπει να εισαγάγετε τον κωδικό πρόσβασης. Μια παρουσίαση που προστατεύεται με κωδικό πρόσβασης θεωρείται κλειδωμένη παρουσίαση. Το API σάς επιτρέπει να ανοίξετε το κρυπτογραφημένο έγγραφο περνώντας τον σωστό κωδικό πρόσβασης σε ένα αντικείμενο LoadOptions. Το ακόλουθο παράδειγμα κώδικα δείχνει πώς να ανοίξετε ένα κρυπτογραφημένο έγγραφο με κωδικό πρόσβασης.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

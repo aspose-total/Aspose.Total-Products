@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na PPT přes C# .NET 
-url: /cs/net/conversion/flatopc-to-ppt/ 
+
 description: Převeďte dokumenty Word flatopc na soubory PowerPoint ppt pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

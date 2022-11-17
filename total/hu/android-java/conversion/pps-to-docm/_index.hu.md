@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot DOCM-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot DOCM-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 PDF 转换为图像
 description: PDF 到图像 TIFF BMP PNG JPEG GIF SVG 在 Python 应用程序中的转换，无需使用 Microsoft Word 
-url: /zh/python-net/conversion/pdf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCM σε PPT μέσω C++
 description: Εξαγωγή DOCM σε PPT στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint
-url: /el/cpp/conversion/docm-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POWERPOINT PPS ODP PPSM POT PPTM PPTX PPSX POTM POTX
 {{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOCM σε PPT" h2="Εξαγωγή DOCM σε PPT εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής DOCM σε PPT ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το DOCM σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως PPT. 
+Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής DOCM σε PPT ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το DOCM σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως PPT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
 SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMAIL a OTT en la aplicación Andorid
 description: Exporte EMAIL a OTT sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/email-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

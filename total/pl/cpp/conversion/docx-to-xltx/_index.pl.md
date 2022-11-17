@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na XLTX w C++
 description: C++ API do konwersji DOCX na XLTX bez używania Microsoft Word lub Microsoft Excel
-url: /pl/cpp/conversion/docx-to-xltx/
+
 family: total
 platformtag: cpp
 feature: conversion

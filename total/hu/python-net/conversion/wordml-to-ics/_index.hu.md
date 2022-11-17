@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t ICS-be Pythonban
 description: WORDML mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t OTT-be Pythonban
 description: Mentse a EMAIL-t OTT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

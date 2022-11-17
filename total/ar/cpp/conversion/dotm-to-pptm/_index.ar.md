@@ -1,7 +1,7 @@
 ---
 title: تحويل DOTM إلى PPTM عبر C++
 description: قم بتصدير DOTM إلى PPTM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint
-url: /ar/cpp/conversion/dotm-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSX PPT PPSM POTM POT POTX PPS POWERPOINT PPTX ODP
 {{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOTM إلى PPTM" h2="تصدير DOTM إلى PPTM داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل DOTM إلى PPTM أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند DOTM باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ PPTM. 
+يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل DOTM إلى PPTM أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند DOTM باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pptm
 pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 auto options = MakeObject<LoadOptions>(u"dotmPassword");
 // load the dotmument from the local file system by filename:
 SharedPtr<Dotmument> dotm = MakeObject<Dotmument>(u"Encrypted.dotm", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pptm
 pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

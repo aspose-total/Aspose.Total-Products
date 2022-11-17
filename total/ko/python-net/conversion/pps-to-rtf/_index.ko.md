@@ -1,7 +1,7 @@
 ---
 title: Python에서 PPS를 RTF로 변환
 description: Microsoft Word 또는 PowerPoint를 사용하지 않고 Python 응용 프로그램에서 PPS에서 RTF로 변환 
-url: /ko/python-net/conversion/pps-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

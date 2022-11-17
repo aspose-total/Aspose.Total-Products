@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTX в формат JSON через C++
 description: Экспорт POTX в формат JSON на C++ без использования Microsoft Excel или Powerpoint
-url: /ru/cpp/conversion/potx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-powerpoint-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 С помощью API вы также можете открыть защищенный паролем документ. Если ваш входной POTX-документ защищен паролем, вы не сможете преобразовать его в формат JSON без использования пароля. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions. В следующем примере кода показано, как открыть зашифрованный документ с помощью пароля.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

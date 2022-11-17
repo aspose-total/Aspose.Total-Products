@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSX WORDML formátumba konvertálásához
 description: Exportálja a PPSX-ot WORDML-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

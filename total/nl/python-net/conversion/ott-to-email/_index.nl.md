@@ -1,7 +1,7 @@
 ---
 title: Converteer OTT naar EMAIL in Python
 description: Bewaar OTT naar EMAIL binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/ott-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

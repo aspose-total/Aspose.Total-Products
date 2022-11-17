@@ -1,7 +1,7 @@
 ---
 title: Convertir XLSM en PPTX avec C++
 description: Convertir XLSM en PPTX dans les applications C++
-url: /fr/cpp/conversion/xlsm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

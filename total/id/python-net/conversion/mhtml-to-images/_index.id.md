@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke Gambar dengan Python
 description: Konversi gambar MHTML, HTML, dan Html menjadi IMAGES, PNG, BMP, JPEG, TIFF di aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

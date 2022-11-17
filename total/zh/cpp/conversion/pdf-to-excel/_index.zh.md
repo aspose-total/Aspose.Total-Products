@@ -1,7 +1,7 @@
 ---
 title: 将 PDF 转换为 EXCEL 的 C++ API
 description: 通过 C++ API 将 PDF 转换为 EXCEL，无需使用 Microsoft Excel 或 Adobe Reader
-url: /zh/cpp/conversion/pdf-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: CSV MD XLSB XLTX SXC XLTM DIF XLT ODS XLAM TSV FODS
 {{< blocks/products/pf/feature-page-header h1="在 C++ 应用程序中将 PDF 渲染为 EXCEL" h2="在本机 C++ 应用程序中将 PDF 转换为 EXCEL，无需 Microsoft<sup>&reg;</sup> Excel 或 Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-通过 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 文件格式自动化库将 PDF 转换为 C++ 中的 EXCEL 是一个简单的两步过程。第一步，您可以使用 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 将 PDF 导出到 XLSX，然后使用 [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) 电子表格编程 API，您可以将 XLSX 转换为 EXCEL。 
+通过 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 文件格式自动化库将 PDF 转换为 C++ 中的 EXCEL 是一个简单的两步过程。第一步，您可以使用 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 将 PDF 导出到 XLSX，然后使用 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) 电子表格编程 API，您可以将 XLSX 转换为 EXCEL。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -32,7 +32,8 @@ otherformats: CSV MD XLSB XLTX SXC XLTM DIF XLT ODS XLAM TSV FODS
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: CSV MD XLSB XLTX SXC XLTM DIF XLT ODS XLAM TSV FODS
 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) 还允许您获取有关 PDF 文档的信息，并让您在转换过程之前做出明智的决定。为了获取PDF文件的文件特定信息，首先需要调用[get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a)方法[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 类。一旦检索到 DocumentInfo 对象，您就可以获取各个属性的值。此外，您还可以使用 DocumentInfo 类的相应方法设置属性。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: CSV MD XLSB XLTX SXC XLTM DIF XLT ODS XLAM TSV FODS
 [Aspose.Cells for C++](https://products.aspose.com/cells/net/) 允许将 EXCEL 文件格式保存为流式传输。要将文件保存到流中，请创建 MemoryStream 或 FileStream 对象并通过调用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 将文件保存到该流对象中对象的 [保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法。调用 Save 方法时，使用 [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) 枚举指定所需的文件格式。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

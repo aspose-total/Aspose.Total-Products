@@ -1,7 +1,7 @@
 ---
 title: Python'da OFT'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında OFT'yi OFT'e kaydedin
-url: /tr/python-net/conversion/gif-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

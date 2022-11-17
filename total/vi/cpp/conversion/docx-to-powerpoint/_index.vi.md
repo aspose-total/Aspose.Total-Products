@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOCX sang POWERPOINT qua C++
 description: Xuất DOCX sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint
-url: /vi/cpp/conversion/docx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: ODP PPSM PPS PPTM POTX PPSX POT PPT POTM PPTX
 {{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCX sang POWERPOINT" h2="Xuất DOCX sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCX sang POWERPOINT trong khi sử dụng hai trong số các API của nó. Tải DOCX của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POWERPOINT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCX sang POWERPOINT trong khi sử dụng hai trong số các API của nó. Tải DOCX của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POWERPOINT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

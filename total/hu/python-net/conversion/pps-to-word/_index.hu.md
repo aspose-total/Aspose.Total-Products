@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPS-t WORD-be Pythonban
 description: PPS-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/pps-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

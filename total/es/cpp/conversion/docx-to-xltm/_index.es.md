@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCX a XLTM en C++
 description: API de C++ para convertir DOCX a XLTM sin usar Microsoft Word o Microsoft Excel
-url: /es/cpp/conversion/docx-to-xltm/
+
 family: total
 platformtag: cpp
 feature: conversion

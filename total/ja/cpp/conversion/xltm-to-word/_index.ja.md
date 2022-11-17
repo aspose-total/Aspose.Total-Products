@@ -1,7 +1,7 @@
 ---
 title: C++でXLTMをWORDに変換する
 description: C++アプリケーション内でXLTMをWORDに変換する
-url: /ja/cpp/conversion/xltm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

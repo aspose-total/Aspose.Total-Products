@@ -1,7 +1,7 @@
 ---
 title: Exportálja a CGM-et POTX-be Androidon
 description: Android API a CGM konvertálásához POTX-vé Microsoft Word használata nélkül
-url: /hu/android-java/conversion/cgm-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Potx format
 presentation.save("output.potx", SaveFormat.Potx);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -55,10 +56,11 @@ Document doc = new Document("input.cgm", "Your@Password");
 // save CGM as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+](https://
 {{% blocks/products/pf/feature-page-section  h2="Hozzon létre miniatűrt az POTX-fájlról az Android alkalmazásokban" %}}
 A CGM POTX-vé konvertálása után a kimeneti dokumentum miniatűrjeit is létrehozhatja. Az [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) gazdag funkciójának használatával miniatűrképeket hozhat létre a diákról a [Presentation]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály. Ezt követően bármely kívánt diára vonatkozó hivatkozást lekérheti annak azonosítójával vagy indexével, és megkaphatja a hivatkozott dia miniatűrjét meghatározott léptékben.
 {{% blocks/products/pf/feature-page-code %}}
@@ -72,7 +74,8 @@ ISlide sld = pres.getSlides().get_Item(0);
 BufferedImage image = sld.getThumbnail(1f, 1f);
  // save the image to disk in PNG format
 ImageIO.write(image, "PNG", new java.io.File("Thumbnail_out.png"));
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

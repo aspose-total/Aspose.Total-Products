@@ -1,7 +1,7 @@
 ---
 title: Ekspor POT ke WORDML di Andorid melalui Java
 description: Konversi POT ke WORDML di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/pot-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

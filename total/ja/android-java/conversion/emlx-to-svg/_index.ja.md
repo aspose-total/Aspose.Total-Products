@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをSVGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをSVGにエクスポートする
-url: /ja/android-java/conversion/emlx-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

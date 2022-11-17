@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPSM-t OTT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppsm-to-ott/ 
+
 description: Konvertálja a PowerPoint ppsm dokumentumokat Word ott fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

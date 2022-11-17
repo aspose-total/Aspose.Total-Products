@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do DOTM v aplikaci Andorid
 description: Exportujte OFT do DOTM bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

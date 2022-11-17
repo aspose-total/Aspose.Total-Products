@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t DOTM-be Pythonban
 description: Mentse a MBOX-t DOTM formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

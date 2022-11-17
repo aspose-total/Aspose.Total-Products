@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPSX-t DOCX-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppsx-to-docx/ 
+
 description: Konvertálja a PowerPoint ppsx dokumentumokat Word docx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

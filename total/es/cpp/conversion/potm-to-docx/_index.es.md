@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir POTM a DOCX
 description: Exporte POTM a DOCX dentro de sus aplicaciones C++
-url: /es/cpp/conversion/potm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

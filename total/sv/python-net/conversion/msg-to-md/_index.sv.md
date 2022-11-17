@@ -1,7 +1,7 @@
 ---
 title: Konvertera MSG till MD i Python
 description: Spara MSG till MD i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/msg-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

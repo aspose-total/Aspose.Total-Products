@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t EMAIL-be Pythonban
 description: DOCM mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docm-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

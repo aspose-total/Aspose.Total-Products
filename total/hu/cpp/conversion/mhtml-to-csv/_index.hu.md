@@ -1,7 +1,7 @@
 ---
 title: C++ API a MHTML CSV-vé konvertálásához
 description: Konvertálja a MHTML-et CSV-vé a C++ API-n keresztül Microsoft Excel vagy Adobe Reader használata nélkül
-url: /hu/cpp/conversion/mhtml-to-csv/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 Az [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) emellett lehetővé teszi, hogy információkat szerezzen MHTML-dokumentumáról, és megalapozott döntéseket hozzon az átalakítási folyamat előtt. A MHTML-fájlok fájlspecifikus információinak megtekintéséhez először meg kell hívnia a [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) metódust. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) osztály. A DocumentInfo objektum lekérése után megkaphatja az egyes tulajdonságok értékeit. Ezenkívül a tulajdonságokat a DocumentInfo osztály megfelelő metódusaival is beállíthatja.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Az [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) emellett lehetőv�
 Az [Aspose.Cells for C++](https://products.aspose.com/cells/net/) lehetővé teszi a CSV-fájl formátumú mentését az adatfolyamhoz. Fájlok adatfolyamba mentéséhez hozzon létre egy MemoryStream vagy FileStream objektumot, és mentse a fájlt az adatfolyam objektumba az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) meghívásával. az objektum [Mentés](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metódusával. Adja meg a kívánt fájlformátumot a [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) felsorolással a Mentés metódus meghívásakor.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-csv-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-csv-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

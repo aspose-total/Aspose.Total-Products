@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή POWERPOINT σε DOTM στο Andorid μέσω Java
 description: Μετατρέψτε το POWERPOINT σε DOTM σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

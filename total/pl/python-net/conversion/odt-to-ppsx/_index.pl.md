@@ -1,7 +1,7 @@
 ---
 title: Konwertuj ODT na PPSX w Pythonie
 description: Konwersja ODT do PPSX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/odt-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

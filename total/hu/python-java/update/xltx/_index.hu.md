@@ -1,7 +1,7 @@
 ---
 title: Frissítse a XLTX fájlt Python használatával
 description: Módosítsa a XLTX-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/xltx/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: 將 PPTX 轉換為 ODT 的 C++ API
 description: 在 C++ 應用程序中將 PPTX 導出為 ODT
-url: /zh-hant/cpp/conversion/pptx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

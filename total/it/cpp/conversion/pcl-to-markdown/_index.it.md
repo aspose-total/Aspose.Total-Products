@@ -1,7 +1,7 @@
 ---
 title: API C++ per esportare PCL in MARKDOWN
 description: Converti PCL in MARKDOWN all'interno di applicazioni C++.
-url: /it/cpp/conversion/pcl-to-markdown/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"DocOutput.doc", SaveFormat::Doc);
 System::SharedPtr<Document> wordDoc = System::MakeObject<Document>(u"DocOutput.doc");
 // save document as Markdown
 wordDoc->Save(u"output.Markdown");  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.pcl", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ auto doc = System::MakeObject<Document>("input.doc");
 doc->Protect(ProtectionType::AllowOnlyFormFields, u"password");
 // save the protected document.
 doc->Save(u"Protected.Markdown");  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

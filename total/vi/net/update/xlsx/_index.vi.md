@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLSX bằng .NET
 description: Sửa đổi tài liệu XLSX trong ứng dụng C # VB.NET mà không cần sử dụng Microsoft Excel. 
-url: /vi/net/update/xlsx/
+
 family: total
 platformtag: .NET
 feature: update

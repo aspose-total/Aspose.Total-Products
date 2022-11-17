@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t EMAIL-be Pythonban
 description: MD mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

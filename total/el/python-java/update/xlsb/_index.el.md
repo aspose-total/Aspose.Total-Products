@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLSB χρησιμοποιώντας Python
 description: Τροποποιήστε το έγγραφο XLSB σε εφαρμογές Python χωρίς τη χρήση του Microsoft Excel. 
-url: /el/python-java/update/xlsb/
+
 family: total
 platformtag: Python
 feature: update

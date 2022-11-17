@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t ICS-be Pythonban
 description: EPUB mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

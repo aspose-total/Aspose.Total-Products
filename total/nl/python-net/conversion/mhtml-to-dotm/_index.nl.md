@@ -1,7 +1,7 @@
 ---
 title: Converteer MHTML naar DOTM in Python
 description: MHTML en Html Vast naar DOTM-conversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/mhtml-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

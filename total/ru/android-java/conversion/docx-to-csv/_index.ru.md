@@ -1,7 +1,7 @@
 ---
 title: Android API для преобразования DOCX в CSV
 description: Преобразование DOCX в CSV в Android через Java без использования Microsoft Word или Microsoft Excel
-url: /ru/android-java/conversion/docx-to-csv/
+
 family: total
 platformtag: cpp
 feature: conversion

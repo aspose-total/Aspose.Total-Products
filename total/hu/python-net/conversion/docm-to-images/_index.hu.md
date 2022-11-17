@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az DOCM-et képekké Pythonban
 description: DOCM kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/docm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

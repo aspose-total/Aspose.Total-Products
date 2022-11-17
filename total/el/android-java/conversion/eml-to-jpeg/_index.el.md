@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε JPEG στην εφαρμογή Andorid
 description: Εξαγωγή EML σε JPEG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u DOTX'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u DOTX'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

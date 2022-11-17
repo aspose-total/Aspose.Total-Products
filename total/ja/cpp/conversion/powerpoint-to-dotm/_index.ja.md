@@ -1,7 +1,7 @@
 ---
 title: POWERPOINTをDOTMに変換するC++API
 description: C++アプリケーション内でPOWERPOINTをDOTMにエクスポートする
-url: /ja/cpp/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

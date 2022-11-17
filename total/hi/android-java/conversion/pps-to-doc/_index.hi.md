@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर DOC को PPS निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPS को DOC में बदलें
-url: /hi/android-java/conversion/pps-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

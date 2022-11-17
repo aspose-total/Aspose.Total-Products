@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POWERPOINT'u TEXT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POWERPOINT'u TEXT'ye dönüştürün
-url: /tr/android-java/conversion/powerpoint-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

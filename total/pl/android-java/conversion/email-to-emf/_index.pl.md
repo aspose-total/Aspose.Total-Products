@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMAIL do EMF w aplikacji Andorid
 description: Eksportuj EMAIL do EMF bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

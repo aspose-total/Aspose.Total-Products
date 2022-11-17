@@ -1,7 +1,7 @@
 ---
 title: Converteer XLT naar afbeelding met Python
 description: XLT naar afbeelding TIFF BMP PNG JPEG GIF EMF SVG-conversie in uw Python-toepassingen zonder Microsoft Excel 
-url: /nl/python-java/conversion/xlt-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

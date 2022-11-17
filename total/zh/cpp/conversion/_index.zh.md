@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 进行文档转换 
-url: /zh/cpp/conversion/
+
 description: 使用 C++ API 转换各种文档格式，例如 Word、Excel、PowerPoint、PDF、JSON、图像等。 
 ---
 

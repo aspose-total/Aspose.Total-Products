@@ -1,7 +1,7 @@
 ---
 title: Buat TSV dengan Python
 description: Hasilkan file TSV menggunakan aplikasi Python tanpa menggunakan Microsoft Office. 
-url: /id/python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

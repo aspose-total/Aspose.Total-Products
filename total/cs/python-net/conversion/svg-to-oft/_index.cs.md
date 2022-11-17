@@ -1,7 +1,7 @@
 ---
 title: Převést SVG na OFT v Pythonu
 description: Ukládejte SVG do OFT v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/svg-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

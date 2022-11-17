@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCX na PPT przez C# .NET 
-url: /pl/net/conversion/docx-to-ppt/ 
+
 description: Konwertuj dokumenty Word docx na pliki ppt programu PowerPoint za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

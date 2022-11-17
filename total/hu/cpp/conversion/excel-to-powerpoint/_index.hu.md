@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EXCEL-t POWERPOINT-ba a C++ segítségével
 description: A EXCEL konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/excel-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

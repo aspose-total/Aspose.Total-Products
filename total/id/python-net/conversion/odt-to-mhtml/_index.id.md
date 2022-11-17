@@ -1,7 +1,7 @@
 ---
 title: Konversi ODT ke MHTML dengan Python
 description: ODT ke format arsip Web mhtml dan konversi file HtmlFixed dalam aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/odt-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

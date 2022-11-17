@@ -1,7 +1,7 @@
 ---
 title: Python で WORDML を POTM に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORDML から POTM への変換 
-url: /ja/python-net/conversion/wordml-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

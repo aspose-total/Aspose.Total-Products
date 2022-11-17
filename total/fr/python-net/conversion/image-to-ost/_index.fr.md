@@ -1,7 +1,7 @@
 ---
 title: Convertir IMAGE en OST en Python
 description: Enregistrez IMAGE au format OST dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/image-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

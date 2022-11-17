@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى DOT في تطبيق Andorid
 description: قم بتصدير EMLX إلى DOT دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/emlx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

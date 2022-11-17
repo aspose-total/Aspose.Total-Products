@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर OTT को PPTM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPTM को OTT में बदलें
-url: /hi/android-java/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

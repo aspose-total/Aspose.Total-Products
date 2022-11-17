@@ -1,7 +1,7 @@
 ---
 title: Rendre EMAIL en FLATOPC dans l'application Andorid
 description: Exportez EMAIL vers FLATOPC sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/email-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

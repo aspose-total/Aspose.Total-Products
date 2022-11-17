@@ -1,7 +1,7 @@
 ---
 title: 使用 Python 將 XLTM 轉換為圖像
 description: XLTM 到圖像 TIFF BMP PNG JPEG GIF EMF SVG 在 Python 應用程序中的轉換，無需使用 Microsoft Excel 
-url: /zh-hant/python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

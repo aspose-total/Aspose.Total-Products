@@ -1,7 +1,7 @@
 ---
 title: Render MSG naar IMAGE in de Andorid-app
 description: Exporteer MSG naar IMAGE zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/msg-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

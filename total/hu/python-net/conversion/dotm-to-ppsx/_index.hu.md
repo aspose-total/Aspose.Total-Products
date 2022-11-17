@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTM-t PPSX-be Pythonban
 description: DOTM-ből PPSX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/dotm-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

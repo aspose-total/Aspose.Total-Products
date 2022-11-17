@@ -1,7 +1,7 @@
 ---
 title: XLSX maken in Python
 description: Genereer een XLSX-bestand met Python-toepassingen zonder Microsoft Office te gebruiken. 
-url: /nl/python-java/create/xlsx/
+
 family: total
 platformtag: Python
 feature: create

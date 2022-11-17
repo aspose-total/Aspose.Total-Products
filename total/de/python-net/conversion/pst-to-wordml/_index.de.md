@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PST in WORDML in Python
 description: Speichern Sie PST in WORDML in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/pst-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

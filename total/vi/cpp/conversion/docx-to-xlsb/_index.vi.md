@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOCX sang XLSB trong C++
 description: C++ API để chuyển đổi DOCX sang XLSB mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
-url: /vi/cpp/conversion/docx-to-xlsb/
+
 family: total
 platformtag: cpp
 feature: conversion

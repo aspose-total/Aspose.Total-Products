@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - İş Belgesi Formatlarında Raporlar Oluşturun
 weight: 80
-url: /tr/jasperreports/ 
+
 description: JasperReports, raporları Word Excel PDF ve PowerPoint biçimlerine dışa aktarmak için paketi dışa aktarır. Dışa Aktarılan raporlara Barkod Ekleme
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python'da EML'yi OTT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EML'yi OTT'e kaydedin 
-url: /tr/python-net/conversion/eml-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

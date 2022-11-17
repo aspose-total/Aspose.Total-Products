@@ -1,7 +1,7 @@
 ---
 title: Python'da ODT'yi OST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında ODT'yi OST'e kaydedin
-url: /tr/python-net/conversion/odt-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

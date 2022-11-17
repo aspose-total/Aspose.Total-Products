@@ -1,7 +1,7 @@
 ---
 title: Export ODS do DOCX v Androidu
 description: Android API pro převod ODS na DOCX bez použití aplikace Microsoft Word
-url: /cs/android-java/conversion/ods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

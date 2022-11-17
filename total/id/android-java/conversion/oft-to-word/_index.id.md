@@ -1,7 +1,7 @@
 ---
 title: Render OFT ke WORD di Aplikasi Andorid
 description: Ekspor OFT ke WORD tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

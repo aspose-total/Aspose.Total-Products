@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCM в ODP в Android через Java
 description: Преобразование DOCM в ODP на ваших телефонах Android без использования Microsoft Word of PowerPoint
-url: /ru/android-java/conversion/docm-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPS POWERPOINT PPTX PPSX POT POTX PPT PPSM PPTM POTM CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPS POWERPOINT PPTX PPSX POT POTX PPT PPSM PPTM POTM CSV DIF FODS 
 Вы также можете преобразовать защищенный паролем DOCM в ODP в своих приложениях для Android. Если ваш входной документ DOCM защищен паролем, вы не можете преобразовать его в формат ODP без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

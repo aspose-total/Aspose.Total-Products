@@ -1,7 +1,7 @@
 ---
 title: Renderize EMLX para WORDML no aplicativo Andorid
 description: Exporte EMLX para WORDML sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/emlx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

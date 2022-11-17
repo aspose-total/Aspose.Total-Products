@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u WORDML'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u WORDML'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

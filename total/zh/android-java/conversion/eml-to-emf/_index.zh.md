@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中将 EML 渲染为 EMF
 description: 在您的 Andorid 应用程序中不使用 Microsoft Word 或 Outlook 将 EML 导出为 EMF
-url: /zh/android-java/conversion/eml-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

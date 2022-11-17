@@ -1,7 +1,7 @@
 ---
 title: 用於將 SVG 導出到 DOT 的 C++ API
 description: 在 C++ 應用程序中將 SVG 轉換為 DOT。
-url: /zh-hant/cpp/conversion/svg-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"DocOutput.doc", SaveFormat::Doc);
 System::SharedPtr<Document> wordDoc = System::MakeObject<Document>(u"DocOutput.doc");
 // save document as Dot
 wordDoc->Save(u"output.Dot");  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.svg", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ auto doc = System::MakeObject<Document>("input.doc");
 doc->Protect(ProtectionType::AllowOnlyFormFields, u"password");
 // save the protected document.
 doc->Save(u"Protected.Dot");  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

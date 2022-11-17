@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir POTX a FLATOPC
 description: Exporte POTX a FLATOPC dentro de sus aplicaciones C++
-url: /es/cpp/conversion/potx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

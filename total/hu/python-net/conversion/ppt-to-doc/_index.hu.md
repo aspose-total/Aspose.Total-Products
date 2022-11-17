@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPT-t DOC-be Pythonban
 description: PPT-ből DOC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/ppt-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

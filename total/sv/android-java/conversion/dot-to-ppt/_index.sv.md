@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOT till PPT i Android via Java
 description: DOT till PPT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint
-url: /sv/android-java/conversion/dot-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 Du kan också konvertera din lösenordsskyddade DOT till PPT i dina Android-applikationer. Om ditt inmatade DOT-dokument är lösenordsskyddat kan du inte konvertera det till PPT-format utan att använda lösenordet. För att öppna ett krypterat dokument kan du ställa in rätt lösenord i LoadOptions-objektet och skicka det till dokumentkonstruktorn.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

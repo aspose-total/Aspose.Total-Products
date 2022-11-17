@@ -1,7 +1,7 @@
 ---
 title: Converter SXC para DOCX com C++
 description: Converter SXC para DOCX em aplicativos C++
-url: /pt/cpp/conversion/sxc-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

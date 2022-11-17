@@ -1,7 +1,7 @@
 ---
 title: .NET ile XLS'yi DOCX'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'yi DOCX'ye dönüştürün
-url: /tr/net/conversion/xls-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

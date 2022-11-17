@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε JPEG στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε JPEG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

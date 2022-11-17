@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FLATOPC-t MBOX-be Pythonban
 description: FLATOPC mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/flatopc-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

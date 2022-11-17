@@ -1,7 +1,7 @@
 ---
 title: C++を介してOTPをJSON形式に変換します
 description: MicrosoftExcelまたはPowerpointを使用せずにOTPをC++でJSON形式にエクスポートする
-url: /ja/cpp/conversion/otp-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-powerpoint-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 APIを使用して、パスワードで保護されたドキュメントを開くこともできます。入力OTPドキュメントがパスワードで保護されている場合、パスワードを使用せずにJSON形式に変換することはできません。 APIを使用すると、LoadOptionsオブジェクトに正しいパスワードを渡すことで、暗号化されたドキュメントを開くことができます。次のコード例は、パスワードを使用して暗号化されたドキュメントを開く方法を示しています。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

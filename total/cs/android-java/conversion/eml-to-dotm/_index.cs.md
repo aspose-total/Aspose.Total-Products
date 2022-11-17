@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do DOTM v aplikaci Andorid
 description: Exportujte EML do DOTM bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

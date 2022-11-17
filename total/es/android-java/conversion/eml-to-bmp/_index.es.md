@@ -1,7 +1,7 @@
 ---
 title: Renderizar EML a BMP en la aplicación Andorid
 description: Exporte EML a BMP sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/eml-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

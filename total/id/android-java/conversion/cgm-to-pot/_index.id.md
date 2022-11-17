@@ -1,7 +1,7 @@
 ---
 title: Ekspor CGM ke POT di Android
 description: Android API untuk Mengonversi CGM ke POT tanpa menggunakan Microsoft Word
-url: /id/android-java/conversion/cgm-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Pot format
 presentation.save("output.pot", SaveFormat.Pot);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -55,10 +56,11 @@ Document doc = new Document("input.cgm", "Your@Password");
 // save CGM as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+](https://
 {{% blocks/products/pf/feature-page-section  h2="Buat Gambar Thumbnail File POT di Aplikasi Android" %}}
 Setelah mengonversi CGM ke POT, Anda juga dapat membuat gambar mini dari dokumen keluaran Anda. Dengan menggunakan fitur yang kaya [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) Anda dapat membuat gambar mini slide dengan membuat dan instance dari [Presentation]( https://reference.aspose.com/slides/Java/com.aspose.slides/Presentation) kelas. Setelah itu, Anda dapat memperoleh referensi slide yang diinginkan dengan menggunakan ID atau indeksnya dan mendapatkan gambar mini dari slide yang direferensikan pada skala tertentu.
 {{% blocks/products/pf/feature-page-code %}}
@@ -72,7 +74,8 @@ ISlide sld = pres.getSlides().get_Item(0);
 BufferedImage image = sld.getThumbnail(1f, 1f);
  // save the image to disk in PNG format
 ImageIO.write(image, "PNG", new java.io.File("Thumbnail_out.png"));
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

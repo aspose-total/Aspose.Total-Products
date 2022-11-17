@@ -1,6 +1,6 @@
 ---
 title: Python عبر واجهات برمجة تطبيقات معالجة تنسيق الملفات .NET - Aspose 
-url: /ar/python-net/
+
 url_ignore: /python-net/ 
 description: واجهات برمجة تطبيقات Python لمستندات Microsoft Word وعروض PowerPoint التقديمية وتنسيقات البريد الإلكتروني في Outlook من داخل تطبيقات Python.
 ---

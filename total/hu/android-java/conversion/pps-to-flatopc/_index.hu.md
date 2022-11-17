@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

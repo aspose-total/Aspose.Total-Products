@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODP-t DOCM-be Pythonban
 description: ODP-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/odp-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

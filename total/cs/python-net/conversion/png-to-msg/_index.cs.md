@@ -1,7 +1,7 @@
 ---
 title: Převést PNG na MSG v Pythonu
 description: Ukládejte PNG do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/png-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java Kullanarak XLT Dosyasını Güncelleyin
 description: XLT belgesini Java uygulamalarında Microsoft Excel kullanmadan değiştirin. Java'da excel dosyasını yazmanın ve düzenlemenin en hızlı yolu için kodu optimize edin.
-url: /tr/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをBMPにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをBMPにエクスポートする
-url: /ja/android-java/conversion/oft-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir PPT en WORD
 description: Exportez PPT vers WORD dans vos applications C++
-url: /fr/cpp/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

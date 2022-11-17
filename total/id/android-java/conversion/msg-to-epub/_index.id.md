@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke EPUB di Aplikasi Andorid
 description: Ekspor MSG ke EPUB tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

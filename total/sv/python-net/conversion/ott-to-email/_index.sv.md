@@ -1,7 +1,7 @@
 ---
 title: Konvertera OTT till EMAIL i Python
 description: Spara OTT till EMAIL i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/ott-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

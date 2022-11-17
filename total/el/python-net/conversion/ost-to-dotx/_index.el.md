@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή OST σε DOTX στην Python
 description: Αποθηκεύστε το OST σε DOTX στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/ost-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

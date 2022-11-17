@@ -1,7 +1,7 @@
 ---
 title: Java API-k népszerű fájlformátumokhoz – Aspose 
 weight: 60
-url: /hu/java/ 
+
 description: API-k gyűjteménye Java-fejlesztők számára a Word Excel PDF PowerPoint Visio OneNote Email Project Képek 3D GIS fájljainak kezeléséhez.
 ---
 

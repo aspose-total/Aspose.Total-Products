@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t PPT-be Pythonban
 description: OTT-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/ott-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

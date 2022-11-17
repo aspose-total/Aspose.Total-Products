@@ -1,7 +1,7 @@
 ---
 title: Convert EMAIL to DOCX in Python
 description: Save EMAIL to DOCX in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/email-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

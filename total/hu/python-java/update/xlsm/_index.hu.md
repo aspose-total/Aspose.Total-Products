@@ -1,7 +1,7 @@
 ---
 title: Frissítse a XLSM fájlt Python használatával
 description: Módosítsa a XLSM-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/xlsm/
+
 family: total
 platformtag: Python
 feature: update

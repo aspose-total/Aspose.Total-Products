@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t DOCX-be Pythonban
 description: Mentse a MBOX-t DOCX formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

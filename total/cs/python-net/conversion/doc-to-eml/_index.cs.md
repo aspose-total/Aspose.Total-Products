@@ -1,7 +1,7 @@
 ---
 title: Převést DOC na EML v Pythonu
 description: Ukládejte DOC do EML v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/doc-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

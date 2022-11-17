@@ -1,7 +1,7 @@
 ---
 title: A DOTX konvertálása JSON formátumba C++ nyelven
 description: Exportálja a DOTX-t JSON-ba C++-ban Microsoft Excel vagy Word használata nélkül
-url: /hu/cpp/conversion/dotx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bemeneti DOTX-dokumentum jelszóval védett, nem konvertálhatja azt JSON-formátumba a jelszó használata nélkül. Ehhez használjon speciális konstruktor túlterhelést, amely elfogad egy LoadOptions objektumot. Ez az objektum tartalmazza a Jelszó tulajdonságot, amely a jelszó karakterláncot adja meg.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

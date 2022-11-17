@@ -1,7 +1,7 @@
 ---
 title: Actualizar archivo XLTM usando Python
 description: Modifique el documento XLTM en aplicaciones de Python sin usar Microsoft Excel. 
-url: /es/python-java/update/xltm/
+
 family: total
 platformtag: Python
 feature: update

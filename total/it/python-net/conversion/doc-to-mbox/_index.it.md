@@ -1,7 +1,7 @@
 ---
 title: Converti DOC in MBOX in Python
 description: Salva DOC in MBOX all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/doc-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

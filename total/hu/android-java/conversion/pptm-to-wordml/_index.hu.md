@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot WORDML-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot WORDML-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर WORD को PPSM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPSM को WORD में बदलें
-url: /hi/android-java/conversion/ppsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

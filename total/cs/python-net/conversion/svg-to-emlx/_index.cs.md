@@ -1,7 +1,7 @@
 ---
 title: Převést SVG na EMLX v Pythonu
 description: Ukládejte SVG do EMLX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/svg-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

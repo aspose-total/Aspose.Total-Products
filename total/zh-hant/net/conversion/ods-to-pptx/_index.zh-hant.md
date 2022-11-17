@@ -1,7 +1,7 @@
 ---
 title: 使用 .NET 將 ODS 轉換為 PPTX 
 description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上將 ODS 轉換為 PPTX
-url: /zh-hant/net/conversion/ods-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

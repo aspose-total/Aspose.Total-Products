@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в MBOX в Python
 description: Сохраняйте PDF в MBOX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/pdf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

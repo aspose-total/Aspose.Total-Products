@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do DOTX v aplikaci Andorid
 description: Exportujte MSG do DOTX bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

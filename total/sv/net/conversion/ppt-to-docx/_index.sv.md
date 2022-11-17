@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPT till DOCX via C# .NET 
-url: /sv/net/conversion/ppt-to-docx/ 
+
 description: Konvertera PowerPoint ppt-dokument till Word-docx-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

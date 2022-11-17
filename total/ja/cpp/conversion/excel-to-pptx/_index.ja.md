@@ -1,7 +1,7 @@
 ---
 title: C++でEXCELをPPTXに変換する
 description: C++アプリケーション内でEXCELをPPTXに変換する
-url: /ja/cpp/conversion/excel-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

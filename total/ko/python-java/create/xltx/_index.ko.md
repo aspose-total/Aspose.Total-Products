@@ -1,7 +1,7 @@
 ---
 title: Python에서 XLTX 만들기
 description: Microsoft Office를 사용하지 않고 Python 응용 프로그램을 사용하여 XLTX 파일을 생성합니다. 
-url: /ko/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Converti DOCM in PPTM in Android tramite Java
 description: Conversione da DOCM a PPTM nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint
-url: /it/android-java/conversion/docm-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 Puoi anche convertire il tuo DOCM protetto da password in PPTM all'interno delle tue applicazioni Android. Se il docmumento DOCM di input è protetto da password, non è possibile convertirlo in formato PPTM senza utilizzare la password. Per aprire un docmumento crittografato, è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del docmumento.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

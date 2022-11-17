@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى DOCM في تطبيق Andorid
 description: قم بتصدير OFT إلى DOCM دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/oft-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

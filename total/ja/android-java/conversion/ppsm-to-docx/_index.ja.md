@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCXにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをDOCXに変換する
-url: /ja/android-java/conversion/ppsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

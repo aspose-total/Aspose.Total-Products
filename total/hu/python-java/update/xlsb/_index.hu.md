@@ -1,7 +1,7 @@
 ---
 title: Frissítse a XLSB fájlt Python használatával
 description: Módosítsa a XLSB-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/xlsb/
+
 family: total
 platformtag: Python
 feature: update

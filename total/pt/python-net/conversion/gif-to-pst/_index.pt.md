@@ -1,7 +1,7 @@
 ---
 title: Converter PST para PST em Python
 description: Salve PST para PST em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/gif-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XPS-t MBOX-be Pythonban
 description: XPS mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/xps-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

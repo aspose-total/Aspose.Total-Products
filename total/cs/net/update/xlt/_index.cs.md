@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLT pomocí .NET
 description: Upravte dokumenty XLT v aplikacích C# VB.NET bez použití aplikace Microsoft Excel. 
-url: /cs/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

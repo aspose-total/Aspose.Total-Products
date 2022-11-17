@@ -1,7 +1,7 @@
 ---
 title: Buat CSV dengan Python
 description: Hasilkan file CSV menggunakan aplikasi Python tanpa menggunakan Microsoft Office. 
-url: /id/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

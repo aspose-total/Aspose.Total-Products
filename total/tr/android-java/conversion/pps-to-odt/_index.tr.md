@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u ODT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u ODT'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

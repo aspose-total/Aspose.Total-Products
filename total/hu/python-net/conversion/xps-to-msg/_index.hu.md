@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XPS-t MSG-be Pythonban
 description: XPS mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/xps-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

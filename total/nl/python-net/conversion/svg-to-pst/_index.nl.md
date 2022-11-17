@@ -1,7 +1,7 @@
 ---
 title: Converteer SVG naar PST in Python
 description: Bewaar SVG naar PST binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/svg-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t WORDML-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t WORDML-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

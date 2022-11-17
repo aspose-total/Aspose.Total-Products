@@ -1,7 +1,7 @@
 ---
 title: Converteer ICS naar DOT in Python
 description: Bewaar ICS naar DOT in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/ics-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

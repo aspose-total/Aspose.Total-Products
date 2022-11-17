@@ -1,7 +1,7 @@
 ---
 title: Converter EML para TEXT em Python
 description: Salve EML para TEXT em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/eml-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

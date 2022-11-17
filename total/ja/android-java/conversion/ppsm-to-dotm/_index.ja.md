@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOTMにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをDOTMに変換する
-url: /ja/android-java/conversion/ppsm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

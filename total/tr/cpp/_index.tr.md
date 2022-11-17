@@ -1,7 +1,7 @@
 ---
 title: C++ Dosya Biçimi İşleme API'leri - Aspose 
 weight: 70
-url: /tr/cpp/ 
+
 description: C++ Kitaplıkları, yazma oluşturmayı okur ve birden çok belge biçimini dönüştürür.
 ---
 

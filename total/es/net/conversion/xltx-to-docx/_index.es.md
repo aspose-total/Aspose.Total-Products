@@ -1,7 +1,7 @@
 ---
 title: Convierta XLTX a DOCX con .NET 
 description: Convierta XLTX a DOCX en plataformas .NET Framework, .NET Core, Mono o Xamarin
-url: /es/net/conversion/xltx-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

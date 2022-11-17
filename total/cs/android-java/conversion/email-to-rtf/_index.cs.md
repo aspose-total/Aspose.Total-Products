@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do RTF v aplikaci Andorid
 description: Exportujte EMAIL do RTF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

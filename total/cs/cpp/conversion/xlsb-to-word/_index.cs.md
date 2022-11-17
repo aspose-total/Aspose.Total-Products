@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSB na WORD pomocí C++
 description: Převeďte XLSB na WORD v aplikacích C++
-url: /cs/cpp/conversion/xlsb-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

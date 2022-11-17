@@ -1,7 +1,7 @@
 ---
 title: تحويل OTT إلى POTM في Python
 description: تحويل OTT إلى POTM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/ott-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF en PCL en Python
 description: Enregistrez VCF au format PCL dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/vcf-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

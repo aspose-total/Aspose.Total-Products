@@ -1,7 +1,7 @@
 ---
 title: Exportar POTX para FLATOPC no Andorid via Java
 description: Converta POTX para FLATOPC em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/potx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

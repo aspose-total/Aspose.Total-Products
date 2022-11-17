@@ -1,7 +1,7 @@
 ---
 title: Преобразование EML в IMAGE в приложении Andorid
 description: Экспорт EML в IMAGE без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

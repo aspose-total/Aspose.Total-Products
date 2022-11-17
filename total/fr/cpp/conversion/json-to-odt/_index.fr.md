@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en ODT via C++
 description: API C++ pour analyser JSON vers ODT sans utiliser Microsoft Word
-url: /fr/cpp/conversion/json-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 Lors de l'analyse de JSON vers ODT, vous pouvez également définir la taille des lignes et des colonnes en chargeant JSON avec la classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Si vous devez définir la même hauteur de ligne pour toutes les lignes de la feuille de calcul, vous pouvez le faire en utilisant [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) méthode de la collection [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). De même, pour définir la même largeur de colonne pour toutes les colonnes de la feuille de calcul, utilisez la méthode [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) de la collection ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ Lors de l'analyse de JSON vers ODT, vous pouvez également définir la taille de
 appelez la méthode SetText et passez le texte et l'objet du filigrane de TextWatermarkOptions. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur ODT.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

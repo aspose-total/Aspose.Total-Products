@@ -1,7 +1,7 @@
 ---
 title: Преобразование PNG в MSG в Python
 description: Сохраняйте PNG в MSG в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/png-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

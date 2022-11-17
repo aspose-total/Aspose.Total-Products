@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t WORD-nek az Andorid alkalmazásban
 description: Exportálja az EML-t WORD-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

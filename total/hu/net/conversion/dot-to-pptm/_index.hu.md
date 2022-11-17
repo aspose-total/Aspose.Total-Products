@@ -1,6 +1,6 @@
 ---
 title: A DOT konvertálása PPTM-re C# .NET-en keresztül 
-url: /hu/net/conversion/dot-to-pptm/ 
+
 description: Konvertálja a Word dot dokumentumokat PowerPoint pptm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

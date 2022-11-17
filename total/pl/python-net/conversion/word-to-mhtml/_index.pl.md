@@ -1,7 +1,7 @@
 ---
 title: Konwertuj WORD na MHTML w Pythonie
 description: Format archiwum WORD na mhtml w sieci Web i konwersja plików HtmlFixed w aplikacjach Pythona bez korzystania z programu Microsoft Word 
-url: /pl/python-net/conversion/word-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

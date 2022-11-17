@@ -1,6 +1,6 @@
 ---
 title: Преобразование формата файла через Java 
-url: /ru/java/conversion/
+
 description: Преобразование Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D-изображений, диаграмм, форматов видео и других форматов с помощью всего нескольких строк кода Java.
 ---
 

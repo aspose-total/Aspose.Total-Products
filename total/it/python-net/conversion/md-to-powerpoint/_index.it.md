@@ -1,7 +1,7 @@
 ---
 title: Converti MD in POWERPOINT in Python
 description: Conversione da MD a POWERPOINT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/md-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

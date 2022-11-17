@@ -1,7 +1,7 @@
 ---
 title: C++ API a XPS PPSM-vé konvertálásához
 description: A XPS konvertálása PPSM-vé C++ segítségével Microsoft Word vagy Adobe Acrobat Reader használata nélkül
-url: /hu/cpp/conversion/xps-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"PptxOutput.pptx", SaveFormat::Pptx);
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"PptxOutput.pptx");
 // save the presentation as Ppsm format
 prs->Save(u"output.ppsm", Aspose::Slides::Export::SaveFormat::Ppsm);  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.xps", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -79,7 +81,8 @@ auto image = pres->get_Images()->AddImage(imageData);
 slide->get_Shapes()->AddPictureFrame(ShapeType::Rectangle, 10.0f, 10.0f, 100.0f, 100.0f, image);
 // save updated file
 pres->Save(u"updated.ppsm", SaveFormat::Ppsm);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSX na WORD pomocí .NET 
 description: Převeďte XLSX na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/xlsx-to-word/
+
 family: total
 platformtag: net
 feature: conversion

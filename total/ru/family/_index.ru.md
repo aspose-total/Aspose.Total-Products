@@ -1,7 +1,7 @@
 ---
 title: API-интерфейсы автоматизации форматов файлов для нескольких платформ — Aspose 
 weight: 10
-url: /ru/family/
+
 description: Microsoft Excel Word PowerPoint Электронная почта PDF Visio Project Штрих-код OCR Imaging OneNote 3D и API-интерфейсы управления CAD для .NET, Java, Android, C++. Компоненты для SharePoint, расширения для служб Reporting Services и средства экспорта для JasperReports.
 ---
 

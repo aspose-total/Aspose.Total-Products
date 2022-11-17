@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL naar DOC in de Andorid-app
 description: Exporteer EMAIL naar DOC zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/email-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

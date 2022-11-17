@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε RTF στην εφαρμογή Andorid
 description: Εξαγωγή EML σε RTF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

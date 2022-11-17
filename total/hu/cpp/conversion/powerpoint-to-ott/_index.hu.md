@@ -1,7 +1,7 @@
 ---
 title: C++ API a POWERPOINT OTT formátumba konvertálásához
 description: Exportálja a POWERPOINT-ot OTT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/powerpoint-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

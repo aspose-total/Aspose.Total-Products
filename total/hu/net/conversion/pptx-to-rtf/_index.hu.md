@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPTX-t RTF-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pptx-to-rtf/ 
+
 description: Konvertálja a PowerPoint pptx dokumentumokat Word rtf fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

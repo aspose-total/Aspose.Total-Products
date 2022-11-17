@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをDOTにエクスポートする
-url: /ja/android-java/conversion/email-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

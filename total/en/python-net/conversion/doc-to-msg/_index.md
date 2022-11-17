@@ -1,7 +1,7 @@
 ---
 title: Convert DOC to MSG in Python
 description: Save DOC to MSG within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/doc-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

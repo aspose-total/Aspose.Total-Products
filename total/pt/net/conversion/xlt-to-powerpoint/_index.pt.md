@@ -1,7 +1,7 @@
 ---
 title: Converter XLT para POWERPOINT com .NET 
 description: Converter XLT para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin
-url: /pt/net/conversion/xlt-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

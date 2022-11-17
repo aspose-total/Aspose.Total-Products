@@ -1,7 +1,7 @@
 ---
 title: Rozhraní API pro zpracování formátu souborů C++ - Aspose 
 weight: 70
-url: /cs/cpp/ 
+
 description: Knihovny C++ čtou, vykreslují a převádějí různé formáty dokumentů.
 ---
 

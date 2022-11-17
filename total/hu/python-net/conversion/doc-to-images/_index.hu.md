@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az DOC-et képekké Pythonban
 description: DOC kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/doc-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

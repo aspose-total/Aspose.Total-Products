@@ -1,7 +1,7 @@
 ---
 title: Konversi XLSM ke WORD dengan C++
 description: Konversi XLSM ke WORD dalam aplikasi C++
-url: /id/cpp/conversion/xlsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

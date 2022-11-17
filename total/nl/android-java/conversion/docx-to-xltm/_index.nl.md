@@ -1,7 +1,7 @@
 ---
 title: Android API om DOCX naar XLTM te converteren
 description: Converteer DOCX naar XLTM in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken
-url: /nl/android-java/conversion/docx-to-xltm/
+
 family: total
 platformtag: cpp
 feature: conversion

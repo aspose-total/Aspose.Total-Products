@@ -1,7 +1,7 @@
 ---
 title: Eksportuj PPS do DOCX na Androidzie przez Javę
 description: Konwertuj PPS na DOCX w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/pps-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

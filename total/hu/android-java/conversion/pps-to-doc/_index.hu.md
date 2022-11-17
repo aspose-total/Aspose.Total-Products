@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot DOC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

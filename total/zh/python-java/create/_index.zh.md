@@ -1,6 +1,6 @@
 ---
 title: 使用 Python 创建和更新 Microsoft Excel 文件 
-url: /zh/python-java/create/
+
 description: 无需安装 Microsoft Office 即可创建 Microsoft Excel 工作表报告 
 ---
 

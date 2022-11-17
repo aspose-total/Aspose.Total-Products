@@ -1,7 +1,7 @@
 ---
 title: Python'da TIFF'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında TIFF'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/tiff-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

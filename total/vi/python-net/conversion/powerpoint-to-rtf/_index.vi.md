@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi POWERPOINT sang RTF bằng Python
 description: Chuyển đổi POWERPOINT sang RTF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint 
-url: /vi/python-net/conversion/powerpoint-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

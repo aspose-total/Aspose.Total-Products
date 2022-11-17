@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke DOT di Aplikasi Andorid
 description: Ekspor MSG ke DOT tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Převést POT na OTT přes C# .NET 
-url: /cs/net/conversion/pot-to-ott/ 
+
 description: Převádějte dokumenty pot aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

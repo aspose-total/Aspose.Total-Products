@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してOTTをPOTMに変換する 
-url: /ja/net/conversion/ott-to-potm/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointpotmファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

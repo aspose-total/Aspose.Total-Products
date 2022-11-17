@@ -1,7 +1,7 @@
 ---
 title: C++ में WORD को CSV में बदलें
 description: सी ++ एपीआई माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना डीओसी को सीएसवी में कनवर्ट करने के लिए
-url: /hi/cpp/conversion/word-to-csv/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLSB XLSX XLSM XLS XLTM ODS XLAM FODS SXC EXCEL XLT DIF XLTX TSV
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLSB XLSX XLSM XLS XLTM ODS XLAM FODS SXC EXCEL XLT DIF XLTX TSV
 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) भी आपको WORD फ़ाइल के दस्तावेज़ गुणों तक पहुंचने की अनुमति देता है और आपको रूपांतरण प्रक्रिया से पहले एक सूचित निर्णय लेने देता है। दस्तावेज़ गुणों तक पहुँचने के लिए आप [BuiltInWordumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_wordument_properties) का उपयोग करके अंतर्निहित गुण प्राप्त कर सकते हैं और [CustomWordumentProperties](https:// Reference.aspose.com/words/cpp/class/aspose.words.properties.custom_wordument_properties) कस्टम गुण प्राप्त करने के लिए। निम्न कोड उदाहरण दिखाता है कि किसी दस्तावेज़ में सभी अंतर्निहित और कस्टम गुणों की गणना कैसे करें।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordument-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLSB XLSX XLSM XLS XLTM ODS XLAM FODS SXC EXCEL XLT DIF XLTX TSV
 WORD को CSV में बदलने के बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) आपको अपने दस्तावेज़ को स्ट्रीम में सहेजने में सक्षम बनाता है। फ़ाइलों को स्ट्रीम में सहेजने के लिए, एक मेमोरीस्ट्रीम या फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं और [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) पर कॉल करके फ़ाइल को उस स्ट्रीम ऑब्जेक्ट में सहेजें। ऑब्जेक्ट की [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) विधि। [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) एन्यूमरेशन का उपयोग करके [सेव](https://reference.aspose.com) एन्यूमरेशन का उपयोग करके वांछित फ़ाइल स्वरूप निर्दिष्ट करें) विधि।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

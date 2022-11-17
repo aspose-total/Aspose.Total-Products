@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t DOCM-be Pythonban
 description: Mentse a VCF-t DOCM formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

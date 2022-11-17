@@ -1,7 +1,7 @@
 ---
 title: Python'da HTML'yi Görüntülere Dönüştür
 description: Microsoft Word kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF SVG dönüştürme görüntüsüne HTML 
-url: /tr/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

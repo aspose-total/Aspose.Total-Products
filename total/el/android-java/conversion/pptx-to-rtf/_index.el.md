@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή PPTX σε RTF στο Andorid μέσω Java
 description: Μετατρέψτε το PPTX σε RTF σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/pptx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

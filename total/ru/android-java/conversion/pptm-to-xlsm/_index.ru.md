@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPTM в XLSM в Android через Java
 description: Преобразование PPTM в XLSM в Android через Java без использования Microsoft Excel или PowerPoint
-url: /ru/android-java/conversion/pptm-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: EXCEL DIF XLTM MHTML CSV XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT X
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: EXCEL DIF XLTM MHTML CSV XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT X
 С помощью API вы также можете открыть защищенный паролем документ. Если ваш входной документ PPTM защищен паролем, вы не сможете преобразовать его в XLSM без использования пароля. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions. В следующем примере кода показано, как попытаться открыть зашифрованный документ с помощью пароля:
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: EXCEL DIF XLTM MHTML CSV XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT X
 При преобразовании файла PPTM в XLSM вы также можете добавить водяной знак в формат выходного файла XLSM. Чтобы добавить водяной знак, создайте новую рабочую книгу, чтобы открыть преобразованный HTML-файл. Выберите рабочий лист через его индекс, создайте форму и используйте ее функцию addTextEffect, установите цвета, прозрачность и многое другое. После этого вы можете сохранить свой HTML-документ в формате XLSM с водяным знаком.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

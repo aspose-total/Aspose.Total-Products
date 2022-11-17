@@ -1,7 +1,7 @@
 ---
 title: Android-API zum Rendern von MHTML in GIF
 description: Wandeln Sie MHTML über Android über die Java-API in GIF um
-url: /de/android-java/conversion/mhtml-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.GIF
 outputDocument.save("output.gif", SaveFormat.GIF);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -61,7 +62,8 @@ System.out.println("Keywords: " + docInfo.getKeywords());
 System.out.println("Modify Date: " + docInfo.getModDate());
 System.out.println("Subject: " + docInfo.getSubject());
 System.out.println("Title: " + docInfo.getTitle());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -86,7 +88,8 @@ option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
 option.setPosition(EndnotePosition.END_OF_SECTION);
 // save the document to disk.
 doc.save("output.gif", SaveFormat.GIF);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

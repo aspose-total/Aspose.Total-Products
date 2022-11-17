@@ -1,7 +1,7 @@
 ---
 title: Python で DOCX を作成する
 description: Microsoft Word を使用せずに、Python アプリケーションを使用して DOCX ファイルを生成します。 
-url: /ja/python-net/create/docx/
+
 family: total
 platformtag: Python
 feature: create

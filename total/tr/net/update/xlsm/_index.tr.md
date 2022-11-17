@@ -1,7 +1,7 @@
 ---
 title: .NET Kullanarak XLSM Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan C# VB.NET uygulamalarında XLSM belgelerini değiştirin. 
-url: /tr/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

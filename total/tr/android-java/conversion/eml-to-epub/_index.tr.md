@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to EPUB'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i EPUB'ye aktarın
-url: /tr/android-java/conversion/eml-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

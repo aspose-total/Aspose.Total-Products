@@ -1,7 +1,7 @@
 ---
 title: SQL Server Reporting Services Rendering-kiterjesztések fájlformátumokhoz 
 weight: 40
-url: /hu/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering-kiterjesztések fájlformátumokhoz az RDL-jelentések Word Excel PDF PowerPoint formátumokba való exportálásához. Vonalkód hozzáadása az exportált jelentésekhez
 ---
 

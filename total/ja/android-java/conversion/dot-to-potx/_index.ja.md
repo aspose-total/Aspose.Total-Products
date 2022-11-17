@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでDOTをPOTXに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOTからPOTXに変換
-url: /ja/android-java/conversion/dot-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ DOTからPOTXファイルへの変換では、[Maven](https://repository.aspose.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ DOTからPOTXファイルへの変換では、[Maven](https://repository.aspose.
 Androidアプリケーション内でパスワードで保護されたDOTをPOTXに変換することもできます。入力DOTドキュメントがパスワードで保護されている場合、パスワードを使用せずにPOTX形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをDotumentコンストラクターに渡すことができます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

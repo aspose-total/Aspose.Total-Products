@@ -1,7 +1,7 @@
 ---
 title: Convertir EMAIL en PDF en Python
 description: Enregistrez EMAIL au format PDF dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/email-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

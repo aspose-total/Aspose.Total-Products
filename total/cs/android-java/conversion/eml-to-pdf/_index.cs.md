@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do PDF v aplikaci Andorid
 description: Exportujte EML do PDF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

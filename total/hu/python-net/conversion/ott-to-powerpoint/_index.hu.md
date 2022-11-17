@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t POWERPOINT-be Pythonban
 description: OTT-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/ott-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

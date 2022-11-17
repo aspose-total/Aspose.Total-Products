@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi TXT sang POTX qua C# .NET 
-url: /vi/net/conversion/txt-to-potx/ 
+
 description: Chuyển đổi tài liệu Word txt sang tệp potx PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

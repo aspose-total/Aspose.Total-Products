@@ -1,7 +1,7 @@
 ---
 title: Convert PST to PDF in Python
 description: Save PST to PDF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/pst-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta PPSM a DIF a través de C++
 description: Exporte PPSM a DIF en C++ sin usar Microsoft Excel o Powerpoint
-url: /es/cpp/conversion/ppsm-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Usando la API, también puede abrir el documento protegido por contraseña. Si su documento PPSM de entrada está protegido con contraseña, no puede convertirlo a DIF sin usar la contraseña. Cuando su documento está protegido con contraseña, significa que impone ciertas restricciones en la presentación. Para eliminar las restricciones, se debe ingresar la contraseña. Una presentación protegida con contraseña se considera una presentación bloqueada. La API le permite abrir el documento cifrado pasando la contraseña correcta en un objeto LoadOptions. El siguiente ejemplo de código muestra cómo abrir un documento cifrado con una contraseña.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

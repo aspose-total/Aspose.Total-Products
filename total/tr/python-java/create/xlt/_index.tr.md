@@ -1,7 +1,7 @@
 ---
 title: Python'da XLT oluşturun
 description: Microsoft Office kullanmadan Python uygulamalarını kullanarak XLT dosyası oluşturun. 
-url: /tr/python-java/create/xlt/
+
 family: total
 platformtag: Python
 feature: create

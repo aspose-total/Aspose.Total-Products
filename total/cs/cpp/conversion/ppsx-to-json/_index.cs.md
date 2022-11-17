@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSX do formátu JSON pomocí C++
 description: Export PPSX do formátu JSON v C++ bez použití Microsoft Excel nebo Powerpoint
-url: /cs/cpp/conversion/ppsx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-powerpoint-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 Pomocí rozhraní API můžete také otevřít dokument chráněný heslem. Pokud je váš vstupní dokument PPSX chráněn heslem, nemůžete jej převést do formátu JSON bez použití hesla. Rozhraní API vám umožňuje otevřít zašifrovaný dokument předáním správného hesla v objektu LoadOptions. Následující příklad kódu ukazuje, jak otevřít zašifrovaný dokument pomocí hesla.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

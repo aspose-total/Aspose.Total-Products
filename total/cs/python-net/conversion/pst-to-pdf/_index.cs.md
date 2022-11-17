@@ -1,7 +1,7 @@
 ---
 title: Převést PST na PDF v Pythonu
 description: Uložte PST do PDF ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/pst-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

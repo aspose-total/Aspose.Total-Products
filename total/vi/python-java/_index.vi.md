@@ -1,6 +1,6 @@
 ---
 title: Thư viện tự động hóa tệp Python - Aspose
-url: /vi/python-java/
+
 url_ignore: /python-java/ 
 description: Thư viện Python để phân tích cú pháp bảng tính Excel, tạo và quét mã vạch cũng như xử lý sơ đồ Visio
 ---

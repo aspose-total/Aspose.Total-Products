@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EMAIL in WORD in Python
 description: Speichern Sie EMAIL in WORD in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/email-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

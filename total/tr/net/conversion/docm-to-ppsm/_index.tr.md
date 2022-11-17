@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi C# .NET aracılığıyla PPSM'ye dönüştürün 
-url: /tr/net/conversion/docm-to-ppsm/ 
+
 description: C# ile Word docm belgelerini PowerPoint ppsm dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

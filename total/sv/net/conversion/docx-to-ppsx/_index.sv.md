@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCX till PPSX via C# .NET 
-url: /sv/net/conversion/docx-to-ppsx/ 
+
 description: Konvertera Word docx-dokument till PowerPoint ppsx-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python'da DOCM'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOCM'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/docm-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

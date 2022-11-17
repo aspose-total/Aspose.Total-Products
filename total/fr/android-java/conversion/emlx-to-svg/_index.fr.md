@@ -1,7 +1,7 @@
 ---
 title: Rendre EMLX en SVG dans l'application Andorid
 description: Exportez EMLX vers SVG sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/emlx-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

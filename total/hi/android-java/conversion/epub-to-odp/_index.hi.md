@@ -1,7 +1,7 @@
 ---
 title: Android में EPUB को ODP में निर्यात करें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना सीजीएम को ओडीपी में बदलने के लिए एंड्रॉइड एपीआई
-url: /hi/android-java/conversion/epub-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 Presentation presentation = new Presentation("PptxOutput.pptx");
 // save the presentation as Odp format
 presentation.save("output.odp", SaveFormat.Odp);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -55,10 +56,11 @@ Document doc = new Document("input.epub", "Your@Password");
 // save EPUB as PPTX format 
 document.save("PptxOutput.pptx", SaveFormat.Pptx); 
 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+](https://
 {{% blocks/products/pf/feature-page-section  h2="Android एप्लिकेशन में ODP फ़ाइल की थंबनेल छवि बनाएं" %}}
 EPUB को ODP में बदलने के बाद, आप अपने आउटपुट दस्तावेज़ की थंबनेल इमेज भी बना सकते हैं। रिच इन फीचर [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) का उपयोग करके आप [प्रेजेंटेशन]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) वर्ग। उसके बाद, आप किसी भी वांछित स्लाइड का संदर्भ उसकी आईडी या अनुक्रमणिका का उपयोग करके प्राप्त कर सकते हैं और निर्दिष्ट पैमाने पर संदर्भित स्लाइड की थंबनेल छवि प्राप्त कर सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
@@ -72,7 +74,8 @@ ISlide sld = pres.getSlides().get_Item(0);
 BufferedImage image = sld.getThumbnail(1f, 1f);
  // save the image to disk in PNG format
 ImageIO.write(image, "PNG", new java.io.File("Thumbnail_out.png"));
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

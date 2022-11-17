@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのRTFにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをRTFに変換する
-url: /ja/android-java/conversion/pptm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSX-t WORD-ba a C++ segítségével
 description: A XLSX konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

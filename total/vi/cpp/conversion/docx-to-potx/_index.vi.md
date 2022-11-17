@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOCX sang POTX qua C++
 description: Xuất DOCX sang POTX trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint
-url: /vi/cpp/conversion/docx-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPTX PPSX POTM ODP PPS PPSM PPT POT POWERPOINT PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCX sang POTX" h2="Xuất DOCX sang POTX trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCX sang POTX trong khi sử dụng hai trong số các API của nó. Tải DOCX của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCX sang POTX trong khi sử dụng hai trong số các API của nó. Tải DOCX của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: C++でCSVをWORDに変換する
 description: C++アプリケーション内でCSVをWORDに変換する
-url: /ja/cpp/conversion/csv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

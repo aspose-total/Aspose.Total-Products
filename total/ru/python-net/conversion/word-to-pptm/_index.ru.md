@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в PPTM в Python
 description: Преобразование WORD в PPTM в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/word-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

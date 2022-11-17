@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOC na PPTX w Pythonie
 description: Konwersja DOC do PPTX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/doc-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

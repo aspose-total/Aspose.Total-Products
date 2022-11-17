@@ -1,7 +1,7 @@
 ---
 title: Android में TSV को DOCX में निर्यात करें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना सीएसवी को डीओसी में कनवर्ट करने के लिए एंड्रॉइड एपीआई
-url: /hi/android-java/conversion/tsv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

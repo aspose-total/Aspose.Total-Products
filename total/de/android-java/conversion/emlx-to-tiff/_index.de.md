@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu TIFF in der Andorid App
 description: Exportieren Sie E-MAIL nach TIFF, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 C++ 中将 WORDML 转换为 EXCEL
 description: 无需使用 Microsoft Word 或 Microsoft Excel 即可将 WORDML 转换为 EXCEL 的 C++ API
-url: /zh/cpp/conversion/wordml-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLAM ODS XLT CSV TSV XLSX XLS XLTX SXC XLSB FODS XLTM DIF XLSM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLAM ODS XLT CSV TSV XLSX XLS XLTX SXC XLSB FODS XLTM DIF XLSM
 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) 还允许您访问 WORDML 文件的文档属性，并让您在转换过程之前做出明智的决定。要访问文档属性，您可以使用 [BuiltInWordmlumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_wordmlument_properties) 获取内置属性和 [CustomWordmlumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_wordmlument_properties)来获取自定义属性。以下代码示例演示如何枚举文档中的所有内置和自定义属性。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordmlument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordmlument-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLAM ODS XLT CSV TSV XLSX XLS XLTX SXC XLSB FODS XLTM DIF XLSM
 将 WORDML 转换为 EXCEL 后，[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) 使您能够将文档保存为流式传输。要将文件保存到流中，请创建 MemoryStream 或 FileStream 对象，然后通过调用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 将文件保存到该流对象中对象的 [保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法。调用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

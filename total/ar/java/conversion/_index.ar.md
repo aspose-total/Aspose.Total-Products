@@ -1,6 +1,6 @@
 ---
 title: تحويل تنسيق الملف عبر Java 
-url: /ar/java/conversion/
+
 description: قم بتحويل Microsoft Office Word و Excel و PowerPoint و Outlook و PDF و HTML والصور ثلاثية الأبعاد والمخططات وتنسيقات الفيديو وتنسيقات أخرى مختلفة باستخدام سطور قليلة فقط من كود Java.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python で DOC を POWERPOINT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOC から POWERPOINT への変換 
-url: /ja/python-net/conversion/doc-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

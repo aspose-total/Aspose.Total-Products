@@ -1,7 +1,7 @@
 ---
 title: Python'da WORD'yi Görüntülere Dönüştür
 description: Microsoft Word kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF SVG dönüştürme görüntüsüne WORD 
-url: /tr/python-net/conversion/word-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

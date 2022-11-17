@@ -1,7 +1,7 @@
 ---
 title: Python에서 TSV 만들기
 description: Microsoft Office를 사용하지 않고 Python 응용 프로그램을 사용하여 TSV 파일을 생성합니다. 
-url: /ko/python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

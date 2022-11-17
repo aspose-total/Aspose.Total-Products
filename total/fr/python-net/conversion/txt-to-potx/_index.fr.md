@@ -1,7 +1,7 @@
 ---
 title: Convertir TXT en POTX en Python
 description: Conversion TXT en POTX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/txt-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte FODS na POWERPOINT pomocí C++
 description: Převeďte FODS na POWERPOINT v aplikacích C++
-url: /cs/cpp/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

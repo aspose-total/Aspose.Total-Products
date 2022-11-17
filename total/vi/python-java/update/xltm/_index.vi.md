@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLTM bằng Python
 description: Sửa đổi tài liệu XLTM trong các ứng dụng Python mà không cần sử dụng Microsoft Excel. 
-url: /vi/python-java/update/xltm/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t OST-be Pythonban
 description: OST mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/gif-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

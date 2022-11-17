@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε EMF στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε EMF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

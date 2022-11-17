@@ -1,7 +1,7 @@
 ---
 title: PPTMをWORDに変換するC++API
 description: C++アプリケーション内でPPTMをWORDにエクスポートする
-url: /ja/cpp/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

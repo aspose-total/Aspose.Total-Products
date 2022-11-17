@@ -1,7 +1,7 @@
 ---
 title: SharePointファイル形式アプリ-SharePointアプリケーションでドキュメントを変換する 
 weight: 20
-url: /ja/sharepoint/ 
+
 description: MicrosoftSharePoint内でWordExcelPDFPowerPoint電子メールおよびイメージングドキュメント形式を変換および結合するSharePointファイル形式アプリ
 ---
 

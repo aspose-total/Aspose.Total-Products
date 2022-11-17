@@ -1,7 +1,7 @@
 ---
 title: Konwertuj RTF na EMAIL w Pythonie
 description: Zapisuj RTF do EMAIL w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/rtf-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

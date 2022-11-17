@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u DOT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u DOT'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

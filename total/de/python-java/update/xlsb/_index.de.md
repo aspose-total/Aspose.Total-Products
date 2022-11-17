@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren Sie die XLSB-Datei mit Python
 description: Ändern Sie XLSB-Dokumente in Python-Anwendungen, ohne Microsoft Excel zu verwenden. 
-url: /de/python-java/update/xlsb/
+
 family: total
 platformtag: Python
 feature: update

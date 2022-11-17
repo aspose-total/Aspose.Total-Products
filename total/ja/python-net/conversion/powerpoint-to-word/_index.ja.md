@@ -1,7 +1,7 @@
 ---
 title: Python で POWERPOINT を WORD に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで POWERPOINT から WORD への変換 
-url: /ja/python-net/conversion/powerpoint-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

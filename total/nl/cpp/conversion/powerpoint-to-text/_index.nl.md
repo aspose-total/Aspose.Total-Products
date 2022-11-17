@@ -1,7 +1,7 @@
 ---
 title: C++ API om POWERPOINT naar TEXT te converteren
 description: Exporteer POWERPOINT naar TEXT binnen uw C++-toepassingen
-url: /nl/cpp/conversion/powerpoint-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

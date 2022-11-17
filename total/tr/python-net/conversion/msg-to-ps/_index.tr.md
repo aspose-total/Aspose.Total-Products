@@ -1,7 +1,7 @@
 ---
 title: Python'da MSG'yi PS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda MSG'yi PS'e kaydedin 
-url: /tr/python-net/conversion/msg-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLTX Menggunakan .NET
 description: Memodifikasi dokumen XLTX di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xltx/
+
 family: total
 platformtag: .NET
 feature: update

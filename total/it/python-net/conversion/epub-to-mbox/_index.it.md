@@ -1,7 +1,7 @@
 ---
 title: Converti EPUB in MBOX in Python
 description: Salva EPUB in MBOX all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/epub-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

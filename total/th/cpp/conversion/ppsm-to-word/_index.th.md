@@ -1,7 +1,7 @@
 ---
 title: C++ API เพื่อแปลง PPSM เป็น WORD
 description: ส่งออก PPSM เป็น WORD ภายในแอปพลิเคชัน C++ ของคุณ
-url: /th/cpp/conversion/ppsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

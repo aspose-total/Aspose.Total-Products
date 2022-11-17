@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDにPPSXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSXをWORDに変換する
-url: /ja/android-java/conversion/ppsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

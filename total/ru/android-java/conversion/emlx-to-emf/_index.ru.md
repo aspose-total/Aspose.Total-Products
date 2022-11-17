@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в EMF в приложении Andorid
 description: Экспорт EMLX в EMF без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

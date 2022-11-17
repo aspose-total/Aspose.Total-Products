@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをSVGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをSVGにエクスポートする
-url: /ja/android-java/conversion/oft-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

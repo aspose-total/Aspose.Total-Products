@@ -1,7 +1,7 @@
 ---
 title: TSV-bestand bijwerken met Java
 description: Wijzig TSV-document in Java-toepassingen zonder Microsoft Excel te gebruiken. Optimaliseer code voor de snelste manier om Excel-bestanden in Java te schrijven en te bewerken.
-url: /nl/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

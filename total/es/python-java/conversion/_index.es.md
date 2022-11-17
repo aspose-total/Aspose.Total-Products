@@ -1,6 +1,6 @@
 ---
 title: Conversión de hojas de cálculo de Microsoft Excel y formatos de Visio a través de Python 
-url: /es/python-java/conversion/
+
 description: Convierta archivos de Excel XLS XLSX XLSM XLSB XLTX XLTM CSV y más, así como formatos de Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM, etc., solo unas pocas líneas de código Python.
 ---
 

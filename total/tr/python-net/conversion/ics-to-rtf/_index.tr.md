@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi RTF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi RTF'e kaydedin 
-url: /tr/python-net/conversion/ics-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

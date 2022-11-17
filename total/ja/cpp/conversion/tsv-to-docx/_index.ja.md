@@ -1,7 +1,7 @@
 ---
 title: C++でTSVをDOCXに変換する
 description: C++アプリケーション内でTSVをDOCXに変換する
-url: /ja/cpp/conversion/tsv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPTM na DOT w Pythonie
 description: Konwersja PPTM do DOT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/pptm-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

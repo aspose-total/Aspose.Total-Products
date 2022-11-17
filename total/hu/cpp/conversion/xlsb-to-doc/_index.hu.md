@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSB-t DOC-ba a C++ segítségével
 description: A XLSB konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsb-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 EML 轉換為 WORDML
 description: 在 Python 應用程序中將 EML 保存為 WORDML，而無需使用 Microsoft Outlook 或 Word 
-url: /zh-hant/python-net/conversion/eml-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: POTM'u DOT'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POTM'u DOT'a aktarın
-url: /tr/cpp/conversion/potm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

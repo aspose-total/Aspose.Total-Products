@@ -1,7 +1,7 @@
 ---
 title: Преобразование OFT в JPEG в Python
 description: Сохраняйте OFT в JPEG в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/oft-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

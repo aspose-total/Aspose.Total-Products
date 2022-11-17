@@ -1,7 +1,7 @@
 ---
 title: Convert ICS to EPUB in Python
 description: Save ICS to EPUB in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/ics-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

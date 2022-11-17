@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSX-ot DOC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSX-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

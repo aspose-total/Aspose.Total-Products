@@ -1,7 +1,7 @@
 ---
 title: Exporteer POTX naar WORD op Andorid via Java
 description: Converteer POTX naar WORD in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/potx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

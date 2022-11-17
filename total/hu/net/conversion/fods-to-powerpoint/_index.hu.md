@@ -1,7 +1,7 @@
 ---
 title: A FODS konvertálása POWERPOINT formátumba .NET segítségével 
 description: A FODS konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

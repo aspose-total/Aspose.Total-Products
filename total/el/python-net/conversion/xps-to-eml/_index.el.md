@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XPS σε EML στην Python
 description: Αποθηκεύστε το XPS σε EML εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/xps-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で ICS を TEXT に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで ICS を TEXT に保存します。 
-url: /ja/python-net/conversion/ics-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

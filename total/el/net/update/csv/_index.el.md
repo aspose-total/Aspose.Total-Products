@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο CSV χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα CSV σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/csv/
+
 family: total
 platformtag: .NET
 feature: update

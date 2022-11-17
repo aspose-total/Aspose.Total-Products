@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji POT na DOC
 description: Eksportuj POT do DOC w swoich aplikacjach C++
-url: /pl/cpp/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

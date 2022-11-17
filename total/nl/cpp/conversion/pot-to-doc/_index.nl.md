@@ -1,7 +1,7 @@
 ---
 title: C++ API om POT naar DOC te converteren
 description: Exporteer POT naar DOC binnen uw C++-toepassingen
-url: /nl/cpp/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

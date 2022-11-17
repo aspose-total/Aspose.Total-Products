@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t WORD-be Pythonban
 description: Mentse a OST-t WORD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

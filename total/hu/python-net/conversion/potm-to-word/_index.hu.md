@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POTM-t WORD-be Pythonban
 description: POTM-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/potm-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

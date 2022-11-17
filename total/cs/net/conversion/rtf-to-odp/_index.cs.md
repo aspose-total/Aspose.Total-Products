@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na ODP přes C# .NET 
-url: /cs/net/conversion/rtf-to-odp/ 
+
 description: Převeďte dokumenty Word rtf na soubory PowerPoint odp pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

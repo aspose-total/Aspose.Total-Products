@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή PPTM σε WORDML στο Andorid μέσω Java
 description: Μετατρέψτε το PPTM σε WORDML σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/pptm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

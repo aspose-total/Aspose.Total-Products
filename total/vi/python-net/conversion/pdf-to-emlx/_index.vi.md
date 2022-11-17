@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PDF sang EMLX bằng Python
 description: Lưu PDF thành EMLX trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/pdf-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

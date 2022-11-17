@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLSX pomocí Javy
 description: Upravte dokument XLSX v aplikacích Java bez použití aplikace Microsoft Excel. Optimalizujte kód pro nejrychlejší způsob zápisu a úpravy excelového souboru v Javě.
-url: /cs/java/update/xlsx/
+
 family: total
 platformtag: Java
 feature: update

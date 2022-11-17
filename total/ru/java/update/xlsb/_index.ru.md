@@ -1,7 +1,7 @@
 ---
 title: Обновите файл XLSB с помощью Java
 description: Измените документ XLSB в приложениях Java без использования Microsoft Excel. Оптимизируйте код для быстрого написания и редактирования файла Excel в Java.
-url: /ru/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

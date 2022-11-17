@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPSX nach DOTM auf Andorid über Java
 description: Konvertieren Sie PPSX in DOTM in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/ppsx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

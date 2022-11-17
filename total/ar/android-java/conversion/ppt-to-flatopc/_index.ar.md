@@ -1,7 +1,7 @@
 ---
 title: تصدير PPT إلى FLATOPC على Andorid عبر Java
 description: قم بتحويل PPT إلى FLATOPC في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/ppt-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

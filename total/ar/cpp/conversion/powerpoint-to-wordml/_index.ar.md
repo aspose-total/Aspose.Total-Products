@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل POWERPOINT إلى WORDML
 description: قم بتصدير POWERPOINT إلى WORDML داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/powerpoint-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

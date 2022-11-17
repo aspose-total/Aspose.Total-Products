@@ -1,7 +1,7 @@
 ---
 title: Konversi PDF ke MHTML dengan Python
 description: PDF ke format arsip Web mhtml dan konversi file HtmlFixed dalam aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/pdf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

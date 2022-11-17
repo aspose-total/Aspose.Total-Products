@@ -1,7 +1,7 @@
 ---
 title: Преобразование EXCEL в WORD с помощью C++
 description: Преобразование EXCEL в WORD в приложениях C++
-url: /ru/cpp/conversion/excel-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

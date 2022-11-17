@@ -1,7 +1,7 @@
 ---
 title: Konwertuj WORD na ICS w Pythonie
 description: Zapisuj WORD do ICS w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/word-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

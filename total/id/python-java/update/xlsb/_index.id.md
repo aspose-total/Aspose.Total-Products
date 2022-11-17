@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSB Menggunakan Python
 description: Memodifikasi dokumen XLSB dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xlsb/
+
 family: total
 platformtag: Python
 feature: update

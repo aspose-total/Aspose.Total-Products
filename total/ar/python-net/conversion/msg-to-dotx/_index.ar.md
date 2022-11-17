@@ -1,7 +1,7 @@
 ---
 title: تحويل MSG إلى DOTX في Python
 description: احفظ MSG في DOTX في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/msg-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

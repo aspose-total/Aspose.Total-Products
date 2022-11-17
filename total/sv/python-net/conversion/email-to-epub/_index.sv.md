@@ -1,7 +1,7 @@
 ---
 title: Konvertera EMAIL till EPUB i Python
 description: Spara EMAIL till EPUB i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/email-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

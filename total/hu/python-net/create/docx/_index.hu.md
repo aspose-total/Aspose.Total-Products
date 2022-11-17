@@ -1,7 +1,7 @@
 ---
 title: DOCX létrehozása Pythonban
 description: DOCX-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/docx/
+
 family: total
 platformtag: Python
 feature: create

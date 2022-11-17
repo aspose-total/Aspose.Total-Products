@@ -1,7 +1,7 @@
 ---
 title: Render EMLX ke OTT di Aplikasi Andorid
 description: Ekspor EMLX ke OTT tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/emlx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

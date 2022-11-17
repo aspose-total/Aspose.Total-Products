@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε OTT στην εφαρμογή Andorid
 description: Εξαγωγή EML σε OTT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

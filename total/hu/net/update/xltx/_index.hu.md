@@ -1,7 +1,7 @@
 ---
 title: XLTX fájl frissítése .NET használatával
 description: XLTX dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/xltx/
+
 family: total
 platformtag: .NET
 feature: update

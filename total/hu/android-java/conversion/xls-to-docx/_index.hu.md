@@ -1,7 +1,7 @@
 ---
 title: XLS exportálása DOCX formátumba Androidon
 description: Android API a XLS konvertálásához DOCX formátumba Microsoft Word használata nélkül
-url: /hu/android-java/conversion/xls-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

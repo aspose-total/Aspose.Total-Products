@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON formátumot WORD-re az Androidon Java segítségével
 description: Elemezze a JSON-t WORD-be Java-ban Microsoft Word használata nélkül
-url: /hu/android-java/conversion/json-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-doc.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 Ezenkívül az API lehetővé teszi, hogy elrendezési beállításokat állítson be a JSON-formátumhoz, miközben a JSON-t WORD-be elemezi a [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayotoptions) használatával. Lehetővé teszi a tömb táblaként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően jelenítse meg. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ezenkívül az API lehetővé teszi, hogy elrendezési beállításokat állíts
 Az API használatával a JSON-t vízjellel WORD-re is konvertálhatja. Ha vízjelet szeretne hozzáadni a WORD-dokumentumhoz, először elemezheti a JSON-fájlt PDF-be, és vízjelet adhat hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott PDF-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával, hozzon létre egy TextWatermarkOptions példányt, és állítsa be tulajdonságait, hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát. A vízjel hozzáadása után a dokumentumot elmentheti a WORD-be.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

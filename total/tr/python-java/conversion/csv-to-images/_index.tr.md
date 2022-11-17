@@ -1,7 +1,7 @@
 ---
 title: Python kullanarak CSV'i Görüntüye dönüştürün
 description: Microsoft Excel kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF EMF SVG dönüştürme görüntüsüne CSV 
-url: /tr/python-java/conversion/csv-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

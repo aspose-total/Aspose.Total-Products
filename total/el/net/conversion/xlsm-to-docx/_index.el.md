@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLSM σε DOCX με .NET 
 description: Μετατροπή XLSM σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/xlsm-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

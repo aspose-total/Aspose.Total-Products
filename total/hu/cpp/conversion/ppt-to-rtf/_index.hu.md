@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT RTF formátumba konvertálásához
 description: Exportálja a PPT-ot RTF-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

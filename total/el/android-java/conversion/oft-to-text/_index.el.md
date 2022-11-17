@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε TEXT στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε TEXT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

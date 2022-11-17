@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az POTM-t ODT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/potm-to-odt/ 
+
 description: Konvertálja a PowerPoint potm dokumentumokat Word odt fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

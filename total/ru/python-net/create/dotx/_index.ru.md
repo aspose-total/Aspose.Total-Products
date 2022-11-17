@@ -1,7 +1,7 @@
 ---
 title: Создать DOTX на Python
 description: Создайте файл DOTX с помощью приложений Python без использования Microsoft Word. 
-url: /ru/python-net/create/dotx/
+
 family: total
 platformtag: Python
 feature: create

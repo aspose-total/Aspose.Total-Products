@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してPPTMをRTFに変換する 
-url: /ja/net/conversion/pptm-to-rtf/ 
+
 description: PowerPointのpptmドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

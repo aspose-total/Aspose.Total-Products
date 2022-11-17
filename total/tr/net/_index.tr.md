@@ -1,7 +1,7 @@
 ---
 title: C# .NET Dosya Otomasyonu API'leri - Aspose 
 weight: 30
-url: /tr/net/ 
+
 description: C# ASP.NET VB.NET API'leri oluşturmak için her tür belgeyi dönüştürün ve işleyin.
 ---
 

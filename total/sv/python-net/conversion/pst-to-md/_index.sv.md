@@ -1,7 +1,7 @@
 ---
 title: Konvertera PST till MD i Python
 description: Spara PST till MD i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/pst-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

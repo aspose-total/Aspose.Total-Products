@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till PDF i Andorid-appen
 description: Exportera EML till PDF utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

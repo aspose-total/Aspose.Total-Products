@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to RTF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i RTF'ye aktarın
-url: /tr/android-java/conversion/email-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

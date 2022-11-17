@@ -1,7 +1,7 @@
 ---
 title: Convert PST to BMP in Python
 description: Save PST to BMP in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/pst-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

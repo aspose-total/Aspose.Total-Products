@@ -1,7 +1,7 @@
 ---
 title: Renderize MSG para PCL no aplicativo Andorid
 description: Exporte MSG para PCL sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/msg-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

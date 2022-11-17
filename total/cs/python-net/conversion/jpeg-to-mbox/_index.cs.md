@@ -1,7 +1,7 @@
 ---
 title: Převést JPEG na MBOX v Pythonu
 description: Ukládejte JPEG do MBOX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/jpeg-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

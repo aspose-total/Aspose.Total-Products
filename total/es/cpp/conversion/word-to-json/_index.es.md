@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato WORD a JSON en C++
 description: Exporte WORD a JSON en C++ sin usar Microsoft Excel o Word
-url: /es/cpp/conversion/word-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Usando la API, también puede abrir el wordumento protegido por contraseña. Si su wordumento WORD de entrada está protegido con contraseña, no puede convertirlo al formato JSON sin usar la contraseña. Para hacer esto, use una sobrecarga de constructor especial, que acepta un objeto LoadOptions. Este objeto contiene la propiedad Password, que especifica la cadena de contraseña.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

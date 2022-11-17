@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर ODT को PPTM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPTM को ODT में बदलें
-url: /hi/android-java/conversion/pptm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

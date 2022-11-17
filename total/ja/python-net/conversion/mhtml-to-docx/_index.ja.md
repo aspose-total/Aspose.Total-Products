@@ -1,7 +1,7 @@
 ---
 title: Python で MHTML を DOCX に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで MHTML および HtmlFix から DOCX に変換 
-url: /ja/python-net/conversion/mhtml-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

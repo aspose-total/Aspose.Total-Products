@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to DOT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i DOT'ye aktarın
-url: /tr/android-java/conversion/email-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

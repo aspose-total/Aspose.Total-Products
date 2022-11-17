@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в PDF в приложении Andorid
 description: Экспорт EMAIL в PDF без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

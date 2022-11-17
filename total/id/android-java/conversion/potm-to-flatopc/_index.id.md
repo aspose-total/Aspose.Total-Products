@@ -1,7 +1,7 @@
 ---
 title: Ekspor POTM ke FLATOPC di Andorid melalui Java
 description: Konversi POTM ke FLATOPC di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/potm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

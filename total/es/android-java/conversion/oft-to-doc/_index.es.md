@@ -1,7 +1,7 @@
 ---
 title: Renderizar OFT a DOC en la aplicación Andorid
 description: Exporte OFT a DOC sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/oft-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

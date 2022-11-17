@@ -1,7 +1,7 @@
 ---
 title: CSV létrehozása Pythonban
 description: CSV-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

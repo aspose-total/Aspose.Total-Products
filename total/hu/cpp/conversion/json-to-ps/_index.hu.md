@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON formátumot PS-re a C++ segítségével
 description: C++ API t0 JSON elemzése PS-re Microsoft Word használata nélkül
-url: /hu/cpp/conversion/json-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 A JSON PS-re történő elemzése közben a sorok és oszlopok méretét is beállíthatja az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztály JSON-jának betöltésével. Ha ugyanazt a sormagasságot kell beállítania a munkalap minden sorához, ezt a [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a673f16a673f) segítségével teheti meg. ) módszere az [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) gyűjteményben. Hasonlóképpen, ha a munkalap minden oszlopához azonos oszlopszélességet szeretne beállítani, használja az ICells gyűjtemény [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b7)500094b7 metódusát.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ Az API használatával a JSON-t is elemezheti a PS-be vízjellel. Ha vízjelet s
 hívja meg a SetText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát. A vízjel hozzáadása után a dokumentumot elmentheti a PS-be.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

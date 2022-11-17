@@ -1,7 +1,7 @@
 ---
 title: Esporta PPS in OTT su Andorid tramite Java
 description: Converti PPS in OTT nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/pps-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

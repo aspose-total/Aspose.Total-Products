@@ -1,7 +1,7 @@
 ---
 title: Konversi TEX ke ODS di Android melalui Java
 description: Render TEX ke ODS di Android melalui Java API tanpa menggunakan Microsoft Excel atau Adobe Reader
-url: /id/android-java/conversion/tex-to-ods/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,15 +42,17 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) memungkinkan Anda mengakses metadata XMP file TEX. Untuk mendapatkan metadata, buat objek [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) dan buka file TEX input dan gunakan [getMetadata()](https://reference.aspose.com/pdf/Java/com.aspose.pdf/Document#getMetadata--) properti untuk mendapatkan metadata.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+](https://
 {{% blocks/products/pf/feature-page-section  h2="Lindungi Dokumen ODS di Android melalui Java" %}}
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) mendukung perlindungan file ODS Anda tergantung pada kebutuhan Anda. Untuk melindungi dokumen Anda, Anda dapat menggunakan metode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) dari [Buku Kerja]( https://reference.aspose.com/cells/Java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-ods.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-ods.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: แสดงผล MSG เป็น DOTM ใน Andorid App
 description: ส่งออก MSG เป็น DOTM โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/msg-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

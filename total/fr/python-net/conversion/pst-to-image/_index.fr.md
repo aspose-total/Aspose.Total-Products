@@ -1,7 +1,7 @@
 ---
 title: Convertir PST en IMAGE en Python
 description: Enregistrez PST au format IMAGE dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/pst-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

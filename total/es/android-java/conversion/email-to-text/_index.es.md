@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMAIL a TEXT en la aplicación Andorid
 description: Exporte EMAIL a TEXT sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot ODT-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till MD i Andorid-appen
 description: Exportera EMAIL till MD utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

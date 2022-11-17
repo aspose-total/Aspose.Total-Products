@@ -1,7 +1,7 @@
 ---
 title: C++でXLTをWORDに変換する
 description: C++アプリケーション内でXLTをWORDに変換する
-url: /ja/cpp/conversion/xlt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

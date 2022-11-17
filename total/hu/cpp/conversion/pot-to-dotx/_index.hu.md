@@ -1,7 +1,7 @@
 ---
 title: C++ API a POT DOTX formátumba konvertálásához
 description: Exportálja a POT-ot DOTX-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pot-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

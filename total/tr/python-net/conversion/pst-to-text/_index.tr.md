@@ -1,7 +1,7 @@
 ---
 title: Python'da PST'yi TEXT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda PST'yi TEXT'e kaydedin 
-url: /tr/python-net/conversion/pst-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

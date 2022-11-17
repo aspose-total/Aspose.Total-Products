@@ -1,7 +1,7 @@
 ---
 title: Převést XPS na EXCEL v Androidu přes Java
 description: Vykreslete XPS do EXCEL v systému Android přes Java API bez použití Microsoft Excel nebo Adobe Reader
-url: /cs/android-java/conversion/xps-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) umožňuje přístup k metadatům XMP souboru XPS. Chcete-li získat metadata, vytvořte objekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) a otevřete vstupní soubor XPS a použijte [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) pro získání metadat.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) podporuje ochranu vašeho souboru EXCEL v závislosti na vašich potřebách. K ochraně vašeho dokumentu můžete použít metodu [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) metody [Sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) třídy.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-excel.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

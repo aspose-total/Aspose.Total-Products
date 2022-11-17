@@ -1,7 +1,7 @@
 ---
 title: Převést XPS na OST v Pythonu
 description: Ukládejte XPS do OST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/xps-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést DOTX na MSG v Pythonu
 description: Ukládejte DOTX do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dotx-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

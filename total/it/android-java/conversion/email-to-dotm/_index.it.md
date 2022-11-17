@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL a DOTM nell'app Andorid
 description: Esporta EMAIL in DOTM senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

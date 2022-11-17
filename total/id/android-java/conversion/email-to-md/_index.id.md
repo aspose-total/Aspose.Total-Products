@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL ke MD di Aplikasi Andorid
 description: Ekspor EMAIL ke MD tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/email-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

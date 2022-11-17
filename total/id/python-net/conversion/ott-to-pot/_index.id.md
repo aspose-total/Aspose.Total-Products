@@ -1,7 +1,7 @@
 ---
 title: Konversi OTT ke POT dengan Python
 description: Konversi OTT ke POT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/ott-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

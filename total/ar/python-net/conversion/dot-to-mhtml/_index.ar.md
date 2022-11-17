@@ -1,7 +1,7 @@
 ---
 title: تحويل DOT إلى MHTML في Python
 description: DOT إلى تنسيق أرشيف الويب mhtml وتحويل الملفات الثابتة في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/dot-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

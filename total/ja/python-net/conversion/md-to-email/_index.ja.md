@@ -1,7 +1,7 @@
 ---
 title: Python で MD を EMAIL に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で MD を EMAIL に保存します。
-url: /ja/python-net/conversion/md-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

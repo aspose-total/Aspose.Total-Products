@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODT-t EMAIL-be Pythonban
 description: ODT mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/odt-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

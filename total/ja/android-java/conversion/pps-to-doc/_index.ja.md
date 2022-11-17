@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCにPPSをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSをDOCに変換する
-url: /ja/android-java/conversion/pps-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

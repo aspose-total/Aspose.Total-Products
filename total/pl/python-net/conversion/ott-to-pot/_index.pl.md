@@ -1,7 +1,7 @@
 ---
 title: Konwertuj OTT na POT w Pythonie
 description: Konwersja OTT do POT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/ott-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

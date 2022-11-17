@@ -1,7 +1,7 @@
 ---
 title: A XLSM konvertálása POWERPOINT formátumba .NET segítségével 
 description: A XLSM konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlsm-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

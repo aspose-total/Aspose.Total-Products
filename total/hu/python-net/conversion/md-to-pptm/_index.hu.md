@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t PPTM-be Pythonban
 description: MD-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/md-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

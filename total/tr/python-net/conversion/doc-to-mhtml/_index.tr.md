@@ -1,7 +1,7 @@
 ---
 title: Python'da DOC'yi MHTML'ye Dönüştür
 description: Python uygulamalarınızda Microsoft Word kullanmadan DOC'den mhtml Web arşiv formatına ve HtmlFixed dosya dönüştürme 
-url: /tr/python-net/conversion/doc-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

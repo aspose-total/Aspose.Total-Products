@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PDF σε MSG στην Python
 description: Αποθηκεύστε το PDF σε MSG εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/pdf-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

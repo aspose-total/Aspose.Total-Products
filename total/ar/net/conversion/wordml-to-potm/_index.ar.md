@@ -1,6 +1,6 @@
 ---
 title: تحويل WORDML إلى POTM عبر C# .NET 
-url: /ar/net/conversion/wordml-to-potm/ 
+
 description: تحويل مستندات Word wordml إلى ملفات PowerPoint potm باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODS-t DOC-ba a C++ segítségével
 description: A ODS konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/ods-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

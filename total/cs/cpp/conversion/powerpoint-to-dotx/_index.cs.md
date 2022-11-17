@@ -1,7 +1,7 @@
 ---
 title: C++ API pro převod POWERPOINT na DOTX
 description: Exportujte POWERPOINT do DOTX v rámci vašich aplikací C++
-url: /cs/cpp/conversion/powerpoint-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

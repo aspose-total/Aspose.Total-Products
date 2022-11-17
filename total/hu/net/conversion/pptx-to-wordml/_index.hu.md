@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPTX-t WORDML-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pptx-to-wordml/ 
+
 description: Konvertálja a PowerPoint pptx dokumentumokat Word wordml fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

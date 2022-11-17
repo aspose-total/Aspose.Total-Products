@@ -1,7 +1,7 @@
 ---
 title: Converteer EML naar WORDML in Python
 description: Bewaar EML naar WORDML in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/eml-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

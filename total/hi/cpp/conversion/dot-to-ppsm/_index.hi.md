@@ -1,7 +1,7 @@
 ---
 title: DOT को C++ के माध्यम से PPSM में बदलें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में DOT को PPSM में निर्यात करें
-url: /hi/cpp/conversion/dot-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsm
 pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);
 auto options = MakeObject<LoadOptions>(u"dotPassword");
 // load the dotument from the local file system by filename:
 SharedPtr<Dotument> dot = MakeObject<Dotument>(u"Encrypted.dot", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsm
 pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

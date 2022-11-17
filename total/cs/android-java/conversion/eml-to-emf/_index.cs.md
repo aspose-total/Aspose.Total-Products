@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do EMF v aplikaci Andorid
 description: Exportujte EML do EMF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

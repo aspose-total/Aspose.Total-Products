@@ -1,7 +1,7 @@
 ---
 title: Convertir OST a DOTM en Python
 description: Guarde OST en DOTM en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/ost-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

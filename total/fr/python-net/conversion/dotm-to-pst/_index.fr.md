@@ -1,7 +1,7 @@
 ---
 title: Convertir DOTM en PST en Python
 description: Enregistrez DOTM au format PST dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/dotm-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

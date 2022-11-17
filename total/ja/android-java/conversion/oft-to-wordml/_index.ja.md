@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをWORDMLにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをWORDMLにエクスポートする
-url: /ja/android-java/conversion/oft-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

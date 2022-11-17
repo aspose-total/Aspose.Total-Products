@@ -1,6 +1,6 @@
 ---
 title: Создать файл с помощью Python 
-url: /ru/python-net/create/
+
 description: Создавайте текстовые документы и документы Microsoft Word без установки Microsoft Office 
 ---
 

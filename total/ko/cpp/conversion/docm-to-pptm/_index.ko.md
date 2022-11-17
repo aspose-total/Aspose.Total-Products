@@ -1,7 +1,7 @@
 ---
 title: C++를 통해 DOCM를 PPTM로 변환
 description: PowerPoint의 Microsoft Word를 사용하지 않고 C++ 응용 프로그램에서 DOCM를 PPTM로 내보내기
-url: /ko/cpp/conversion/docm-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPT POTM PPSM ODP PPSX PPS POT POWERPOINT POTX PPTX
 {{< blocks/products/pf/feature-page-header h1="DOCM를 PPTM로 변환하는 C++ API" h2="Microsoft Word&reg;를 사용하지 않고 C++ 응용 프로그램 내에서 DOCM를 PPTM로 내보내기 또는 파워포인트" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)는 두 개의 API를 사용하면서 DOCM에서 PPTM로의 변환을 자동화할 수 있는 강력한 파일 자동화 API로 구성되어 있습니다. [Aspose.Words for C++](https://products.aspose.com/words/cpp/)를 사용하여 DOCM를 로드하고 HTML로 변환한 다음 PowerPoint 조작 C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) 새 프레젠테이션을 만들고 PPTM로 저장합니다. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)는 두 개의 API를 사용하면서 DOCM에서 PPTM로의 변환을 자동화할 수 있는 강력한 파일 자동화 API로 구성되어 있습니다. [Aspose.Words for C++](https://products.aspose.com/words/cpp/)를 사용하여 DOCM를 로드하고 HTML로 변환한 다음 PowerPoint 조작 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 새 프레젠테이션을 만들고 PPTM로 저장합니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pptm
 pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
 SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pptm
 pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

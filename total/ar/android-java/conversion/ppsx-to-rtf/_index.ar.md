@@ -1,7 +1,7 @@
 ---
 title: تصدير PPSX إلى RTF على Andorid عبر Java
 description: قم بتحويل PPSX إلى RTF في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/ppsx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

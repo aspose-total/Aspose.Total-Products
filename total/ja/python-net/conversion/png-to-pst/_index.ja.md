@@ -1,7 +1,7 @@
 ---
 title: Python で PNG を PST に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で PNG を PST に保存します。
-url: /ja/python-net/conversion/png-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

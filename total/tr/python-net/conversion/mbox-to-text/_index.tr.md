@@ -1,7 +1,7 @@
 ---
 title: Python'da MBOX'yi TEXT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda MBOX'yi TEXT'e kaydedin 
-url: /tr/python-net/conversion/mbox-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

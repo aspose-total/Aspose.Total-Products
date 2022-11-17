@@ -1,7 +1,7 @@
 ---
 title: Python'da VCF'yi PCL'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda VCF'yi PCL'e kaydedin 
-url: /tr/python-net/conversion/vcf-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

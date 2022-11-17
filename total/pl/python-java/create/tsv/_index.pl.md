@@ -1,7 +1,7 @@
 ---
 title: Utwórz TSV w Pythonie
 description: Generuj plik TSV za pomocą aplikacji Python bez korzystania z pakietu Microsoft Office. 
-url: /pl/python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

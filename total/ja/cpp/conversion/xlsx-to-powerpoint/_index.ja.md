@@ -1,7 +1,7 @@
 ---
 title: C++でXLSXをPOWERPOINTに変換する
 description: C++アプリケーション内でXLSXをPOWERPOINTに変換する
-url: /ja/cpp/conversion/xlsx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

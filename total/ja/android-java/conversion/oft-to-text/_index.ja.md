@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをTEXTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをTEXTにエクスポートする
-url: /ja/android-java/conversion/oft-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

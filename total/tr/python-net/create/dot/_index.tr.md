@@ -1,7 +1,7 @@
 ---
 title: Python'da DOT oluşturun
 description: Microsoft Word kullanmadan Python uygulamalarını kullanarak DOT dosyası oluşturun. 
-url: /tr/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

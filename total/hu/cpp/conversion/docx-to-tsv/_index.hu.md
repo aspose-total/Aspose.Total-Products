@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t TSV-vé C++-ban
 description: C++ API a DOCX konvertálásához TSV-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-tsv/
+
 family: total
 platformtag: cpp
 feature: conversion

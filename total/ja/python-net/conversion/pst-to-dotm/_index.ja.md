@@ -1,7 +1,7 @@
 ---
 title: Python で PST を DOTM に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで PST を DOTM に保存します。 
-url: /ja/python-net/conversion/pst-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

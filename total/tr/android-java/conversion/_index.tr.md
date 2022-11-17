@@ -1,6 +1,6 @@
 ---
 title: Android API ile Belge Dönüştürme 
-url: /tr/android-java/conversion/
+
 description: Android dönüştürme API'sini kullanarak Word, Excel, PowerPoint, HTML, PDF ve Görüntü formatlarını dönüştürün. Android, Office docx, xlsx, pptx'i PDF'ye dönüştürür. 
 ---
 

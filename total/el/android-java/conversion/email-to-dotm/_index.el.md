@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε DOTM στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε DOTM χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

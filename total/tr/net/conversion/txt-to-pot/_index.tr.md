@@ -1,6 +1,6 @@
 ---
 title: TXT'yi C# .NET aracılığıyla POT'ye dönüştürün 
-url: /tr/net/conversion/txt-to-pot/ 
+
 description: C# ile Word txt belgelerini PowerPoint pot dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

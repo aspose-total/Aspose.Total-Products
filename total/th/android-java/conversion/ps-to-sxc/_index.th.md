@@ -1,7 +1,7 @@
 ---
 title: แปลง PS เป็น SXC ใน Android ผ่าน Java
 description: แสดง PS เป็น SXC ใน Android ผ่าน Java API โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
-url: /th/android-java/conversion/ps-to-sxc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLSB FODS EXCEL TXT XLT DIF ODS CSV XLTM TSV XLTX XLSM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLSB FODS EXCEL TXT XLT DIF ODS CSV XLTM TSV XLTX XLSM
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) ให้คุณเข้าถึงข้อมูลเมตา XMP ของไฟล์ PS ในการรับข้อมูลเมตา ให้สร้างออบเจ็กต์ [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) และเปิดไฟล์ PS อินพุตและใช้ [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) เพื่อรับข้อมูลเมตา
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLSB FODS EXCEL TXT XLT DIF ODS CSV XLTM TSV XLTX XLSM
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) รองรับการปกป้องไฟล์ SXC ตามความต้องการของคุณ เพื่อป้องกันเอกสารของคุณ คุณสามารถใช้วิธี [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) ของ [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) คลาส
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-sxc.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-sxc.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

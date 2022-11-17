@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t TEXT-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t TEXT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

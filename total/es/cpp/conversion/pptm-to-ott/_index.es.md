@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir PPTM a OTT
 description: Exporte PPTM a OTT dentro de sus aplicaciones C++
-url: /es/cpp/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPTM'u DOTM'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u DOTM'ye dönüştürün
-url: /tr/android-java/conversion/pptm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

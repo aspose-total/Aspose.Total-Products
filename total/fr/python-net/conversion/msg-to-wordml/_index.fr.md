@@ -1,7 +1,7 @@
 ---
 title: Convertir MSG en WORDML en Python
 description: Enregistrez MSG au format WORDML dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/msg-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

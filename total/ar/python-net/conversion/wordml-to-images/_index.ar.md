@@ -1,7 +1,7 @@
 ---
 title: تحويل WORDML إلى صور في Python
 description: WORDML لصورة تحويل TIFF BMP PNG JPEG GIF SVG في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/wordml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

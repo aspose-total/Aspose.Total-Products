@@ -1,7 +1,7 @@
 ---
 title: PPSXをTEXTに変換するC++API
 description: C++アプリケーション内でPPSXをTEXTにエクスポートする
-url: /ja/cpp/conversion/ppsx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

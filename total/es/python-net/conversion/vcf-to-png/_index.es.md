@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF a PNG en Python
 description: Guarde VCF en PNG en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/vcf-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

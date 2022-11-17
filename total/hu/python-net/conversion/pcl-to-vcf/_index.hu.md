@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PCL-t VCF-be Pythonban
 description: PCL mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pcl-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

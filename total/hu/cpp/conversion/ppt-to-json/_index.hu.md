@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az PPT-t JSON formátumba a C++ segítségével
 description: Exportálja az PPT-t JSON formátumba C++ formátumban Microsoft Excel vagy Powerpoint használata nélkül
-url: /hu/cpp/conversion/ppt-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-powerpoint-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bemeneti PPT-dokumentum jelszóval védett, nem konvertálhatja azt JSON-formátumba jelszó nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban. A következő kódpélda bemutatja, hogyan lehet titkosított dokumentumot jelszóval megnyitni.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Převést FLATOPC na ODP přes C++
 description: Exportujte FLATOPC do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint
-url: /cs/cpp/conversion/flatopc-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPS POTX PPT POTM PPTX PPSX POWERPOINT PPSM PPTM POT
 {{< blocks/products/pf/feature-page-header h1="C++ API pro převod FLATOPC na ODP" h2="Exportujte FLATOPC do ODP v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod FLATOPC na ODP při použití dvou z těchto rozhraní API. Načtěte svůj FLATOPC pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako ODP. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod FLATOPC na ODP při použití dvou z těchto rozhraní API. Načtěte svůj FLATOPC pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Odp
 pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Kromě převodu dokumentů umožňuje [Aspose.Words for C++](https://products.as
 auto options = MakeObject<LoadOptions>(u"flatopcPassword");
 // load the flatopcument from the local file system by filename:
 SharedPtr<Flatopcument> flatopc = MakeObject<Flatopcument>(u"Encrypted.flatopc", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Odp
 pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

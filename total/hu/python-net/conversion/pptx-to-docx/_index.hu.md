@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPTX-t DOCX-be Pythonban
 description: PPTX-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/pptx-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

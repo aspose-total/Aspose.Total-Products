@@ -1,7 +1,7 @@
 ---
 title: Преобразование формата JSON в DOTX через C++
 description: C++ API t0 Анализировать JSON в DOTX без использования Microsoft Word
-url: /ru/cpp/conversion/json-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DOC MOBI DOT ODT WORD WORDML FLATOPC PS CHM PCL OTT EPUB DOCM RTF
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DOC MOBI DOT ODT WORD WORDML FLATOPC PS CHM PCL OTT EPUB DOCM RTF
 При синтаксическом анализе JSON в DOTX вы также можете установить размер строк и столбцов, загрузив JSON с классом [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Если вам нужно установить одинаковую высоту строки для всех строк на листе, вы можете сделать это с помощью [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) метод коллекции [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Точно так же, чтобы установить одинаковую ширину столбца для всех столбцов на листе, используйте метод [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) коллекции ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ otherformats: DOC MOBI DOT ODT WORD WORDML FLATOPC PS CHM PCL OTT EPUB DOCM RTF
 вызовите метод SetText и передайте текст водяного знака и объект TextWatermarkOptions. После добавления водяного знака вы можете сохранить документ в DOTX.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

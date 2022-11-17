@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PDF-t EML-be Pythonban
 description: PDF mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pdf-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

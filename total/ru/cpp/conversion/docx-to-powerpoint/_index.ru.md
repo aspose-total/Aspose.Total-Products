@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в POWERPOINT через C++
 description: Экспортируйте DOCX в POWERPOINT в свои приложения C++ без использования Microsoft Word of PowerPoint.
-url: /ru/cpp/conversion/docx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: ODP PPSM PPS PPTM POTX PPSX POT PPT POTM PPTX
 {{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOCX в POWERPOINT" h2="Экспортируйте DOCX в POWERPOINT в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCX в POWERPOINT при использовании двух API-интерфейсов. Загрузите свой DOCX с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как POWERPOINT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCX в POWERPOINT при использовании двух API-интерфейсов. Загрузите свой DOCX с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как POWERPOINT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

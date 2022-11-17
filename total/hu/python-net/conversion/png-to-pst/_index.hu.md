@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t PST-be Pythonban
 description: PNG mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

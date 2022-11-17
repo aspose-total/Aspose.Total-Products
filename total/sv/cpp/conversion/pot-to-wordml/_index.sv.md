@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera POT till WORDML
 description: Exportera POT till WORDML i dina C++-applikationer
-url: /sv/cpp/conversion/pot-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

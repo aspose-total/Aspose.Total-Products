@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot DOCX-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot DOCX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

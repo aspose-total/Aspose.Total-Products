@@ -1,7 +1,7 @@
 ---
 title: Andorid 앱에서 EMLX을 WORD로 렌더링
 description: Andorid 응용 프로그램에서 Microsoft Word 또는 Outlook을 사용하지 않고 EMLX을 WORD로 내보내기
-url: /ko/android-java/conversion/emlx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

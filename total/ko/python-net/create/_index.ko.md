@@ -1,6 +1,6 @@
 ---
 title: Python을 사용하여 파일 생성 
-url: /ko/python-net/create/
+
 description: Microsoft Office를 설치하지 않고 텍스트 및 Microsoft Word 문서 만들기 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Convertir XLTM a DOCX con C++
 description: Convierta XLTM a DOCX dentro de aplicaciones C++
-url: /es/cpp/conversion/xltm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

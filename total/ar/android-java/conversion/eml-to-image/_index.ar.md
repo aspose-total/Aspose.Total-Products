@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى IMAGE في تطبيق Andorid
 description: قم بتصدير EML إلى IMAGE دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

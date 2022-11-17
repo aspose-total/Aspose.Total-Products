@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi định dạng JSON sang PPSX qua C++
 description: Phân tích cú pháp JSON thành PPSX trong C++ mà không cần sử dụng Microsoft PowerPoint
-url: /vi/cpp/conversion/json-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp Z
 Trong khi phân tích cú pháp JSON thành PPSX, bạn cũng có thể đặt kích thước của hàng và cột bằng cách tải JSON với lớp [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Nếu bạn cần đặt cùng một chiều cao hàng cho tất cả các hàng trong trang tính, bạn có thể thực hiện bằng cách sử dụng [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) của bộ sưu tập [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Tương tự, để đặt cùng một chiều rộng cột cho tất cả các cột trong trang tính, hãy sử dụng phương pháp [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) của bộ sưu tập ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Trong khi phân tích cú pháp JSON thành PPSX, bạn cũng có thể đặt k
 Sử dụng API, bạn cũng có thể chuyển đổi JSON thành PPSX với hình mờ. Để thêm hình mờ vào tài liệu PPSX của bạn, trước tiên bạn có thể phân tích cú pháp JSON thành PPTX và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp PPTX mới được tạo bằng cách sử dụng lớp [Bản trình bày](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation), tải trang chiếu đầu tiên, Thêm một AutoShape của kiểu Hình chữ nhật, thêm TextFrame vào Hình chữ nhật, tạo đối tượng Đoạn văn cho khung văn bản, tạo đối tượng Portion cho đoạn văn, thêm hình mờ bằng cách sử dụng set_Text () và có thể lưu tài liệu vào PPSX.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

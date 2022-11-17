@@ -1,7 +1,7 @@
 ---
 title: Převeďte PPSX do SXC přes C++
 description: Exportujte PPSX do SXC v C++ bez použití Microsoft Excel nebo Powerpoint
-url: /cs/cpp/conversion/ppsx-to-sxc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Případně si můžete stáhnout offline instalační program MSI nebo knihovny
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Případně si můžete stáhnout offline instalační program MSI nebo knihovny
 Pomocí rozhraní API můžete také otevřít dokument chráněný heslem. Pokud je váš vstupní dokument PPSX chráněn heslem, nemůžete jej převést na SXC bez použití hesla. Když je váš dokument chráněn heslem, znamená to, že vynucuje určitá omezení prezentace. Pro odstranění omezení je nutné zadat heslo. Prezentace chráněná heslem je považována za zamčenou prezentaci. Rozhraní API vám umožňuje otevřít zašifrovaný dokument předáním správného hesla v objektu LoadOptions. Následující příklad kódu ukazuje, jak otevřít zašifrovaný dokument pomocí hesla.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

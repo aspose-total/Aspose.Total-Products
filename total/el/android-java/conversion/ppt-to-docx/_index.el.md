@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή PPT σε DOCX στο Andorid μέσω Java
 description: Μετατρέψτε το PPT σε DOCX σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/ppt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

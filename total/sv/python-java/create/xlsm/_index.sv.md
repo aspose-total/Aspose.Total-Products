@@ -1,7 +1,7 @@
 ---
 title: Skapa XLSM i Python
 description: Generera XLSM-fil med Python-applikationer utan att använda Microsoft Office. 
-url: /sv/python-java/create/xlsm/
+
 family: total
 platformtag: Python
 feature: create

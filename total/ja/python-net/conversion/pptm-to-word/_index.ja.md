@@ -1,7 +1,7 @@
 ---
 title: Python で PPTM を WORD に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPTM から WORD への変換 
-url: /ja/python-net/conversion/pptm-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

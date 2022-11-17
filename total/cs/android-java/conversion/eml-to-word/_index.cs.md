@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do WORD v aplikaci Andorid
 description: Exportujte EML do WORD bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

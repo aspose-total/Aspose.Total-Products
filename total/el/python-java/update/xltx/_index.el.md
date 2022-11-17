@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLTX χρησιμοποιώντας Python
 description: Τροποποιήστε το έγγραφο XLTX σε εφαρμογές Python χωρίς τη χρήση του Microsoft Excel. 
-url: /el/python-java/update/xltx/
+
 family: total
 platformtag: Python
 feature: update

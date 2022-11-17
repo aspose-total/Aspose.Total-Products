@@ -1,7 +1,7 @@
 ---
 title: Konwertuj RTF na obrazy w Pythonie
 description: Konwersja RTF do obrazu TIFF BMP PNG JPEG GIF SVG w aplikacjach Pythona bez użycia programu Microsoft Word 
-url: /pl/python-net/conversion/rtf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

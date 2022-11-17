@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのRTFにPPSXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSXをRTFに変換する
-url: /ja/android-java/conversion/ppsx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

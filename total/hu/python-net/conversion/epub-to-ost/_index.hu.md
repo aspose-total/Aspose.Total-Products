@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t OST-be Pythonban
 description: EPUB mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

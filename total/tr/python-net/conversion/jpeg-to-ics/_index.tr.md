@@ -1,7 +1,7 @@
 ---
 title: Python'da JPEG'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında JPEG'yi ICS'e kaydedin
-url: /tr/python-net/conversion/jpeg-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

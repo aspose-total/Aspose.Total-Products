@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 在 Android 中將 PPS 轉換為 ODS
 description: 在不使用 Microsoft Excel 或 PowerPoint 的情況下，通過 Java 在 Android 中將 PPS 轉換為 ODS
-url: /zh-hant/android-java/conversion/pps-to-ods/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB CSV XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB CSV XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 使用 API，您還可以打開受密碼保護的文檔。如果您輸入的 PPS 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 ODS。 API 允許您通過在 LoadOptions 對像中傳遞正確的密碼來打開加密的文檔。以下代碼示例顯示瞭如何嘗試使用密碼打開加密文檔：
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLSM TSV XLT MARKDOWN XLSB CSV XLTX XLAM FODS DIF XLTM EXCEL XLSX 
 在將 PPS 文件轉換為 ODS 時，您還可以在輸出的 ODS 文件格式中添加水印。為了添加水印，創建一個新的工作簿來打開轉換後的 HTML 文件。通過其索引選擇 Worksheet，創建一個 Shape 並使用其 addTextEffect 函數，設置顏色、透明度等。之後，您可以將 HTML 文檔保存為帶水印的 ODS。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python で DOCX を PPT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCX から PPT への変換 
-url: /ja/python-net/conversion/docx-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

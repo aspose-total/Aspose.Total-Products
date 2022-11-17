@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t SVG-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t SVG-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

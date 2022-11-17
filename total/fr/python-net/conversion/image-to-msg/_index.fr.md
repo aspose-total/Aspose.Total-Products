@@ -1,7 +1,7 @@
 ---
 title: Convertir IMAGE en MSG en Python
 description: Enregistrez IMAGE au format MSG dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/image-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

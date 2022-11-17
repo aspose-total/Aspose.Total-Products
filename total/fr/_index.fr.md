@@ -1,7 +1,7 @@
 ---
 title: Solutions de format de fichier sur site, basées sur le cloud et les applications 
 weight: 9630
-url: /fr/
+
 description: Créez des applications de manipulation de documents à l'aide d'API On Premise ou Cloud, ou utilisez simplement des applications multiplateformes pour afficher, comparer, inspecter ou convertir plus de 100 formats de fichiers
 ---
 

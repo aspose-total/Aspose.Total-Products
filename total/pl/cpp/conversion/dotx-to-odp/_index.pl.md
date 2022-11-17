@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOTX na ODP za pomocą C++
 description: Eksportuj DOTX do ODP w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint
-url: /pl/cpp/conversion/dotx-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POT PPT PPTM POTX PPSX POWERPOINT PPS PPTX POTM PPSM
 {{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOTX na ODP" h2="Eksportuj DOTX do ODP w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOTX do ODP przy użyciu dwóch jego API. Załaduj dokument DOTX za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako ODP. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOTX do ODP przy użyciu dwóch jego API. Załaduj dokument DOTX za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Odp
 pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Oprócz konwersji dokumentów, API [Aspose.Words for C++](https://products.aspos
 auto options = MakeObject<LoadOptions>(u"dotxPassword");
 // load the dotxument from the local file system by filename:
 SharedPtr<Dotxument> dotx = MakeObject<Dotxument>(u"Encrypted.dotx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Odp
 pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

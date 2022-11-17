@@ -1,6 +1,6 @@
 ---
 title: A FLATOPC konvertálása PPSM-re C# .NET-en keresztül 
-url: /hu/net/conversion/flatopc-to-ppsm/ 
+
 description: Konvertálja a Word flatopc dokumentumokat PowerPoint ppsm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

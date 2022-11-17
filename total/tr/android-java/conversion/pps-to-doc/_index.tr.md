@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u DOC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u DOC'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

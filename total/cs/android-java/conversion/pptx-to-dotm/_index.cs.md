@@ -1,7 +1,7 @@
 ---
 title: Export PPTX do DOTM na Andorid přes Java
 description: Převeďte PPTX na DOTM v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/pptx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

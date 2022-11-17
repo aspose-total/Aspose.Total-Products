@@ -1,7 +1,7 @@
 ---
 title: Преобразование VCF в ODT в Python
 description: Сохраняйте VCF в ODT в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/vcf-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

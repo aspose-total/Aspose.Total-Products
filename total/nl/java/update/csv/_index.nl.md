@@ -1,7 +1,7 @@
 ---
 title: CSV-bestand bijwerken met Java
 description: Wijzig CSV-document in Java-toepassingen zonder Microsoft Excel te gebruiken. Optimaliseer code voor de snelste manier om Excel-bestanden in Java te schrijven en te bewerken.
-url: /nl/java/update/csv/
+
 family: total
 platformtag: Java
 feature: update

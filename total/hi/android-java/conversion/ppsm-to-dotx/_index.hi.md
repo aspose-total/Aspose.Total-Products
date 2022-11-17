@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर DOTX को PPSM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPSM को DOTX में बदलें
-url: /hi/android-java/conversion/ppsm-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

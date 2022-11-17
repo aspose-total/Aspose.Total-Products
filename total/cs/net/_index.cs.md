@@ -1,7 +1,7 @@
 ---
 title: C# .NET File Automation API – Aspose 
 weight: 30
-url: /cs/net/ 
+
 description: C# ASP.NET VB.NET API pro vytvoření manipulace, převod a vykreslení jakéhokoli typu dokumentů.
 ---
 

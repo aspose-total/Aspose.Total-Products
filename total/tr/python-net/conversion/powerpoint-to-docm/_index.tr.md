@@ -1,7 +1,7 @@
 ---
 title: Python'da POWERPOINT'yi DOCM'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan POWERPOINT'den DOCM'e dönüştürme 
-url: /tr/python-net/conversion/powerpoint-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

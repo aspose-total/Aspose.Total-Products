@@ -1,7 +1,7 @@
 ---
 title: Eksportuj POT do ODT na Androidzie przez Javę
 description: Konwertuj POT na ODT w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/pot-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

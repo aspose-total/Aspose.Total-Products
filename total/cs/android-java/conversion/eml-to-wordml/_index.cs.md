@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do WORDML v aplikaci Andorid
 description: Exportujte EML do WORDML bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

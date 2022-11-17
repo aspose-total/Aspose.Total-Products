@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to JPEG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i JPEG'ye aktarın
-url: /tr/android-java/conversion/email-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

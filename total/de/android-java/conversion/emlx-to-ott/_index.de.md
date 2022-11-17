@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu OTT in der Andorid App
 description: Exportieren Sie E-MAIL nach OTT, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

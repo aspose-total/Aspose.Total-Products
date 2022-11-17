@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan TSV Menggunakan .NET
 description: Memodifikasi dokumen TSV di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/tsv/
+
 family: total
 platformtag: .NET
 feature: update

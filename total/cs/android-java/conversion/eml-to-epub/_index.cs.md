@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do EPUB v aplikaci Andorid
 description: Exportujte EML do EPUB bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

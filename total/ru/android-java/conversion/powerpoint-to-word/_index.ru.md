@@ -1,7 +1,7 @@
 ---
 title: Экспорт POWERPOINT в WORD на Andorid через Java
 description: Конвертируйте POWERPOINT в WORD в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/powerpoint-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

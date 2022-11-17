@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MBOX in DOT in Python
 description: Speichern Sie MBOX in DOT in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/mbox-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

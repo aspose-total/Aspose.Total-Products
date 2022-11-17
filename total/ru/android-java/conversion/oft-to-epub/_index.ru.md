@@ -1,7 +1,7 @@
 ---
 title: Преобразование OFT в EPUB в приложении Andorid
 description: Экспорт OFT в EPUB без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/oft-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

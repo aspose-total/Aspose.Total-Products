@@ -1,7 +1,7 @@
 ---
 title: Преобразование VCF в DOC в Python
 description: Сохраняйте VCF в DOC в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/vcf-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

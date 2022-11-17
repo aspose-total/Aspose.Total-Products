@@ -1,6 +1,6 @@
 ---
 title: सी ++ के माध्यम से दस्तावेज़ रूपांतरण 
-url: /hi/cpp/conversion/
+
 description: C++ API का उपयोग करके विभिन्न दस्तावेज़ स्वरूपों जैसे Word, Excel, PowerPoint, PDF, JSON, छवियों और अधिक को कनवर्ट करें। 
 ---
 

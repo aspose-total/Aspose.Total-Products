@@ -1,7 +1,7 @@
 ---
 title: Convertir EMLX en EMLX en Python
 description: Enregistrez EMLX au format EMLX dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/gif-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

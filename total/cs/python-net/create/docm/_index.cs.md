@@ -1,7 +1,7 @@
 ---
 title: Vytvořte DOCM v Pythonu
 description: Vygenerujte soubor DOCM pomocí aplikací Python bez použití aplikace Microsoft Word. 
-url: /cs/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

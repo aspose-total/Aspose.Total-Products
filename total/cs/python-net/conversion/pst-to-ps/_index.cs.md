@@ -1,7 +1,7 @@
 ---
 title: Převést PST na PS v Pythonu
 description: Uložte PST do PS ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/pst-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

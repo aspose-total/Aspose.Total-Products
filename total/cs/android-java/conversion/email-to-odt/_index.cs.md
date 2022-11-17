@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do ODT v aplikaci Andorid
 description: Exportujte EMAIL do ODT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

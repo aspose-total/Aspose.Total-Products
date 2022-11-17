@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t PS-be Pythonban
 description: Mentse a EMAIL-t PS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

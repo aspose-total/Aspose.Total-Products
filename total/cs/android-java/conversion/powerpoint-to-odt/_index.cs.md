@@ -1,7 +1,7 @@
 ---
 title: Export POWERPOINT do ODT na Andorid přes Java
 description: Převeďte POWERPOINT na ODT v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/powerpoint-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

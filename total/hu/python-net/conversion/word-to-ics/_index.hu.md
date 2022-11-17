@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t ICS-be Pythonban
 description: WORD mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/word-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FLATOPC-t ICS-be Pythonban
 description: FLATOPC mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/flatopc-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

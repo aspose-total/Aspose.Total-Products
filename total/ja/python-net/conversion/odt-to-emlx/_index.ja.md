@@ -1,7 +1,7 @@
 ---
 title: Python で ODT を EMLX に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で ODT を EMLX に保存します。
-url: /ja/python-net/conversion/odt-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

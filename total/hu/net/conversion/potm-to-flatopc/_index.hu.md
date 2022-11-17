@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az POTM-t FLATOPC-ba C# .NET-en keresztül 
-url: /hu/net/conversion/potm-to-flatopc/ 
+
 description: Konvertálja a PowerPoint potm dokumentumokat Word flatopc fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

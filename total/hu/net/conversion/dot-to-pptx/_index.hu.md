@@ -1,6 +1,6 @@
 ---
 title: A DOT konvertálása PPTX-re C# .NET-en keresztül 
-url: /hu/net/conversion/dot-to-pptx/ 
+
 description: Konvertálja a Word dot dokumentumokat PowerPoint pptx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

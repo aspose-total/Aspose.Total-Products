@@ -1,7 +1,7 @@
 ---
 title: PPSをTEXTに変換するC++API
 description: C++アプリケーション内でPPSをTEXTにエクスポートする
-url: /ja/cpp/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

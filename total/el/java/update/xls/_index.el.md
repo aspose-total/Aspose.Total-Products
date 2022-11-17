@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLS χρησιμοποιώντας Java
 description: Τροποποιήστε το έγγραφο XLS σε εφαρμογές Java χωρίς τη χρήση του Microsoft Excel. Βελτιστοποιήστε τον κώδικα για τον ταχύτερο τρόπο εγγραφής και επεξεργασίας αρχείου excel σε java.
-url: /el/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

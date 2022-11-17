@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to EMF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i EMF'ye aktarın
-url: /tr/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

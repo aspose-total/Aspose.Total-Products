@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t DOT-nek az Andorid alkalmazásban
 description: Exportálja az EML-t DOT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

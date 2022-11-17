@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na PPT přes C# .NET 
-url: /cs/net/conversion/txt-to-ppt/ 
+
 description: Převeďte dokumenty Word txt na soubory PowerPoint ppt pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

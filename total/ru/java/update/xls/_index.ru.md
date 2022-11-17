@@ -1,7 +1,7 @@
 ---
 title: Обновите файл XLS с помощью Java
 description: Измените документ XLS в приложениях Java без использования Microsoft Excel. Оптимизируйте код для быстрого написания и редактирования файла Excel в Java.
-url: /ru/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

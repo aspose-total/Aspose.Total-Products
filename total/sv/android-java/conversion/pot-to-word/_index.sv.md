@@ -1,7 +1,7 @@
 ---
 title: Exportera POT till WORD på Andorid via Java
 description: Konvertera POT till WORD i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pot-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

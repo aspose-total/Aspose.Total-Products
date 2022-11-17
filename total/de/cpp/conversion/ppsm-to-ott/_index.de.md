@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von PPSM in OTT
 description: Exportieren Sie PPSM in OTT innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/ppsm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

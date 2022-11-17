@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t DOTM-be Pythonban
 description: Mentse a OST-t DOTM formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

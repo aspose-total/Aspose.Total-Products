@@ -1,7 +1,7 @@
 ---
 title: Konvertera ODT till MSG i Python
 description: Spara ODT till MSG i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/odt-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

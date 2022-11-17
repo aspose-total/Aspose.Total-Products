@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε PCL στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε PCL χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

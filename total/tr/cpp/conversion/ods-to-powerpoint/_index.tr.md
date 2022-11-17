@@ -1,7 +1,7 @@
 ---
 title: C++ ile ODS'yi POWERPOINT'ye dönüştürün
 description: C++ uygulamaları içinde ODS'yi POWERPOINT'ye dönüştürün
-url: /tr/cpp/conversion/ods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

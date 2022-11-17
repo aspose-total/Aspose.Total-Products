@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODT в изображения в Python
 description: Преобразование ODT в изображение TIFF BMP PNG JPEG GIF SVG в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/odt-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

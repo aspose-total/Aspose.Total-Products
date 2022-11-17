@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t MD-be Pythonban
 description: Mentse a EMAIL-t MD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t JPEG-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t JPEG-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

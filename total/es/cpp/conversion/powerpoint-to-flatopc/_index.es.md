@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir POWERPOINT a FLATOPC
 description: Exporte POWERPOINT a FLATOPC dentro de sus aplicaciones C++
-url: /es/cpp/conversion/powerpoint-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

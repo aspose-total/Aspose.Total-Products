@@ -1,7 +1,7 @@
 ---
 title: Converteer XLTM naar afbeelding met Python
 description: XLTM naar afbeelding TIFF BMP PNG JPEG GIF EMF SVG-conversie in uw Python-toepassingen zonder Microsoft Excel 
-url: /nl/python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

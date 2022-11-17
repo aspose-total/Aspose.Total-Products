@@ -1,7 +1,7 @@
 ---
 title: تحويل MSG إلى OTT في Python
 description: احفظ MSG في OTT في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/msg-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

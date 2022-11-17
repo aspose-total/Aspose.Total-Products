@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLTM Menggunakan .NET
 description: Memodifikasi dokumen XLTM di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xltm/
+
 family: total
 platformtag: .NET
 feature: update

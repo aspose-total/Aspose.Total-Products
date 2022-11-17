@@ -1,6 +1,6 @@
 ---
 title: A DOC konvertálása PPS-re C# .NET-en keresztül 
-url: /hu/net/conversion/doc-to-pps/ 
+
 description: Konvertálja a Word doc dokumentumokat PowerPoint pps fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

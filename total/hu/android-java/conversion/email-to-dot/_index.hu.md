@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t DOT-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t DOT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

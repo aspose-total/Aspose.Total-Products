@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot DOC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

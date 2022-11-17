@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot DOC-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

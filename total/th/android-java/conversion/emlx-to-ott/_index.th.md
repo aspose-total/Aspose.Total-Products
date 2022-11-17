@@ -1,7 +1,7 @@
 ---
 title: แสดงผล EMLX เป็น OTT ใน Andorid App
 description: ส่งออก EMLX เป็น OTT โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/emlx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

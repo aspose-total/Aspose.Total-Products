@@ -1,7 +1,7 @@
 ---
 title: Python'da OST'yi DOTM'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OST'yi DOTM'e kaydedin 
-url: /tr/python-net/conversion/ost-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

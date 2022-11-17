@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 EPUB 轉換為 OST
 description: 在 Python 應用程序中將 EPUB 保存為 OST，而無需使用 Microsoft Word 或 Outlook
-url: /zh-hant/python-net/conversion/epub-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

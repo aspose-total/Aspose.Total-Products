@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t SVG-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t SVG-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

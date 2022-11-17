@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى MD في تطبيق Andorid
 description: قم بتصدير EML إلى MD دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/eml-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

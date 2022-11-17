@@ -1,7 +1,7 @@
 ---
 title: API автоматизации файлов C# .NET — Aspose 
 weight: 30
-url: /ru/net/ 
+
 description: API-интерфейсы C# ASP.NET VB.NET для создания, преобразования и визуализации любых типов документов.
 ---
 

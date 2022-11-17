@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLS χρησιμοποιώντας Python
 description: Τροποποιήστε το έγγραφο XLS σε εφαρμογές Python χωρίς τη χρήση του Microsoft Excel. 
-url: /el/python-java/update/xls/
+
 family: total
 platformtag: Python
 feature: update

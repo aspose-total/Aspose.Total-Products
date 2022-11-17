@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir POTM en DOTX
 description: Exportez POTM vers DOTX dans vos applications C++
-url: /fr/cpp/conversion/potm-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

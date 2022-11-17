@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF en DOCX en Python
 description: Enregistrez VCF au format DOCX dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/vcf-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

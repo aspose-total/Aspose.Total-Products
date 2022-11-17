@@ -1,7 +1,7 @@
 ---
 title: Converter SVG para VCF em Python
 description: Salve SVG para VCF em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/svg-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

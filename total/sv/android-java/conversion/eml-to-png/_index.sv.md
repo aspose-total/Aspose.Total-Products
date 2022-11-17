@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till PNG i Andorid-appen
 description: Exportera EML till PNG utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

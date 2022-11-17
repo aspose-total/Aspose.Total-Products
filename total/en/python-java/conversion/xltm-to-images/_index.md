@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to Image using Python
 description: XLTM to image TIFF BMP PNG JPEG GIF EMF SVG conversion in your Python applications without using Microsoft Excel 
-url: /python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

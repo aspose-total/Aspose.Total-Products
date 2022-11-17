@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPTM'u WORD'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u WORD'ye dönüştürün
-url: /tr/android-java/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

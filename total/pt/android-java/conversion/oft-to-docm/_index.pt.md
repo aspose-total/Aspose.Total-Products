@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para DOCM no aplicativo Andorid
 description: Exporte OFT para DOCM sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

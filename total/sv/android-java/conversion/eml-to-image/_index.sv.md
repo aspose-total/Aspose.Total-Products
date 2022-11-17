@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till IMAGE i Andorid-appen
 description: Exportera EML till IMAGE utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XPS in EMAIL in Python
 description: Speichern Sie XPS in EMAIL in Python-Anwendungen, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/python-net/conversion/xps-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

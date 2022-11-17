@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot ODT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

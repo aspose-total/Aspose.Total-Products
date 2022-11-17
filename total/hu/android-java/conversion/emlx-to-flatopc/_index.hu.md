@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t FLATOPC-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t FLATOPC-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

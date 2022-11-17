@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t PNG-be Pythonban
 description: Mentse a OST-t PNG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

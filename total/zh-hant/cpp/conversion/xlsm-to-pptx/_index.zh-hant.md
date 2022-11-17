@@ -1,7 +1,7 @@
 ---
 title: 使用 C++ 將 XLSM 轉換為 PPTX
 description: 在 C++ 應用程序中將 XLSM 轉換為 PPTX
-url: /zh-hant/cpp/conversion/xlsm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

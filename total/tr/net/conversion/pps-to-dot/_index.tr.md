@@ -1,6 +1,6 @@
 ---
 title: PPS'yi C# .NET aracılığıyla DOT'ye dönüştürün 
-url: /tr/net/conversion/pps-to-dot/ 
+
 description: PowerPoint pps belgelerini C# ile Word dot dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

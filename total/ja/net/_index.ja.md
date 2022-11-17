@@ -1,7 +1,7 @@
 ---
 title: C＃.NETファイル自動化API-Aspose 
 weight: 30
-url: /ja/net/ 
+
 description: C＃ASP.NET VB.NET APIを使用して、あらゆるタイプのドキュメントを操作変換およびレンダリングします。
 ---
 

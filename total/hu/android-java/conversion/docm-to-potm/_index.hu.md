@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t POTM-vé Androidon Java segítségével
 description: DOCM konvertálás POTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül
-url: /hu/android-java/conversion/docm-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 A jelszóval védett DOCM-ját POTM-vé is konvertálhatja Android-alkalmazásaiban. Ha a bevitt DOCM-dokumentum jelszóval védett, nem konvertálhatja POTM formátumba jelszó nélkül. A titkosított dokumentum megnyitásához beállíthatja a megfelelő jelszót a LoadOptions objektumban, és átadhatja a dokumentum konstruktorának.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

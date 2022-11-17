@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTM naar PPTM in Python
 description: DOTM naar PPTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/dotm-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

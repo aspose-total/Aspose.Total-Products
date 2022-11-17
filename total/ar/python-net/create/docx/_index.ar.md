@@ -1,7 +1,7 @@
 ---
 title: أنشئ DOCX في Python
 description: قم بإنشاء ملف DOCX باستخدام تطبيقات Python دون استخدام Microsoft Word. 
-url: /ar/python-net/create/docx/
+
 family: total
 platformtag: Python
 feature: create

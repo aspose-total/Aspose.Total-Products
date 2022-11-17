@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para SVG no aplicativo Andorid
 description: Exporte OFT para SVG sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java를 사용하여 XLSM 파일 업데이트
 description: Microsoft Excel을 사용하지 않고 Java 응용 프로그램에서 XLSM 문서를 수정합니다. Java에서 Excel 파일을 작성하고 편집하는 가장 빠른 방법을 위해 코드를 최적화합니다.
-url: /ko/java/update/xlsm/
+
 family: total
 platformtag: Java
 feature: update

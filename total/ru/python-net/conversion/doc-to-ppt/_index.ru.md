@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOC в PPT в Python
 description: Преобразование DOC в PPT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/doc-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

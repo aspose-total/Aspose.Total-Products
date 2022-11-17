@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to ICS in Python
 description: Save ODT to ICS within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/odt-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

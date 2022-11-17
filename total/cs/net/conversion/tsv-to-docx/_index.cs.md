@@ -1,7 +1,7 @@
 ---
 title: Převeďte TSV na DOCX pomocí .NET 
 description: Převeďte TSV na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/tsv-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

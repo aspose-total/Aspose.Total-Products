@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t POWERPOINT-be Pythonban
 description: WORD-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/word-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

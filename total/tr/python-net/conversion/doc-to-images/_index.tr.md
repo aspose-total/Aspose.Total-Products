@@ -1,7 +1,7 @@
 ---
 title: Python'da DOC'yi Görüntülere Dönüştür
 description: Microsoft Word kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF SVG dönüştürme görüntüsüne DOC 
-url: /tr/python-net/conversion/doc-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

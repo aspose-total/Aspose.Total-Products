@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi WORDML'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMAIL'yi WORDML'e kaydedin 
-url: /tr/python-net/conversion/email-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

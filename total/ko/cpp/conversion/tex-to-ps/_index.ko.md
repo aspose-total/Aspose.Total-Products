@@ -1,7 +1,7 @@
 ---
 title: TEX을 PS으로 내보내기 위한 C++ API
 description: C++ 응용 프로그램 내에서 TEX을 PS으로 변환합니다.
-url: /ko/cpp/conversion/tex-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"DocOutput.doc", SaveFormat::Doc);
 System::SharedPtr<Document> wordDoc = System::MakeObject<Document>(u"DocOutput.doc");
 // save document as Ps
 wordDoc->Save(u"output.Ps");  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.tex", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -71,7 +73,8 @@ auto doc = System::MakeObject<Document>("input.doc");
 doc->Protect(ProtectionType::AllowOnlyFormFields, u"password");
 // save the protected document.
 doc->Save(u"Protected.Ps");  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

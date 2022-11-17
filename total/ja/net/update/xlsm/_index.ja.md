@@ -1,7 +1,7 @@
 ---
 title: .NET を使用して XLSM ファイルを更新する
 description: Microsoft Excel を使用せずに、C# VB.NET アプリケーションで XLSM ドキュメントを変更します。 
-url: /ja/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

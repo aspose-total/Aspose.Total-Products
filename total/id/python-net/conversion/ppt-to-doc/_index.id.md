@@ -1,7 +1,7 @@
 ---
 title: Konversi PPT ke DOC dengan Python
 description: Konversi PPT ke DOC dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/ppt-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

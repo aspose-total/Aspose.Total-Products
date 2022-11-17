@@ -1,7 +1,7 @@
 ---
 title: Renderizar EML a TIFF en la aplicación Andorid
 description: Exporte EML a TIFF sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/eml-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

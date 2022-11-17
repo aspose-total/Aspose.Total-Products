@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to DOTM'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i DOTM'ye aktarın
-url: /tr/android-java/conversion/oft-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

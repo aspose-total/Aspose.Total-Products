@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOTにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをDOTに変換する
-url: /ja/android-java/conversion/pptm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

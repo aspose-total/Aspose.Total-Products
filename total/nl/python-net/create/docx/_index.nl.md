@@ -1,7 +1,7 @@
 ---
 title: DOCX maken in Python
 description: Genereer een DOCX-bestand met Python-toepassingen zonder Microsoft Word te gebruiken. 
-url: /nl/python-net/create/docx/
+
 family: total
 platformtag: Python
 feature: create

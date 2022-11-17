@@ -1,7 +1,7 @@
 ---
 title: Python'da TIFF'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında TIFF'yi VCF'e kaydedin
-url: /tr/python-net/conversion/tiff-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

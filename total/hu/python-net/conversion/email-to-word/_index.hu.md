@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t WORD-be Pythonban
 description: Mentse a EMAIL-t WORD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

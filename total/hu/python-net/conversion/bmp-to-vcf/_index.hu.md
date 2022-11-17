@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a BMP-t VCF-be Pythonban
 description: BMP mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/bmp-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Render MSG a WORD nell'app Andorid
 description: Esporta MSG in WORD senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/msg-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

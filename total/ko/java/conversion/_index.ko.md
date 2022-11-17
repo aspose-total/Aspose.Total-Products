@@ -1,6 +1,6 @@
 ---
 title: Java를 통한 파일 형식 변환 
-url: /ko/java/conversion/
+
 description: 몇 줄의 Java 코드로 Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D 이미지, 다이어그램, 비디오 형식 및 기타 다른 형식을 변환합니다.
 ---
 

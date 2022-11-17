@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t FLATOPC-be Pythonban
 description: Mentse a VCF-t FLATOPC formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

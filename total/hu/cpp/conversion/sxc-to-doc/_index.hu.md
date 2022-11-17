@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a SXC-t DOC-ba a C++ segítségével
 description: A SXC konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/sxc-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

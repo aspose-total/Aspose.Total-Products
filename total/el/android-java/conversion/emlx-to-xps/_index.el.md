@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε XPS στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε XPS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

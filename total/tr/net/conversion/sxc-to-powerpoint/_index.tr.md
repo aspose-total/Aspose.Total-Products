@@ -1,7 +1,7 @@
 ---
 title: .NET ile SXC'yi POWERPOINT'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında SXC'yi POWERPOINT'ye dönüştürün
-url: /tr/net/conversion/sxc-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

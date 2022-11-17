@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EMF sang PST bằng Python
 description: Lưu EMF thành PST trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/emf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

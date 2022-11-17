@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do BMP v aplikaci Andorid
 description: Exportujte EMLX do BMP bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u TEXT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u TEXT'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

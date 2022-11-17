@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till IMAGE i Andorid-appen
 description: Exportera EMAIL till IMAGE utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

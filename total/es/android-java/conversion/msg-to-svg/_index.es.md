@@ -1,7 +1,7 @@
 ---
 title: Renderizar MSG a SVG en la aplicación Andorid
 description: Exporte MSG a SVG sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/msg-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

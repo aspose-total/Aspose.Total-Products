@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLSB χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLSB σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

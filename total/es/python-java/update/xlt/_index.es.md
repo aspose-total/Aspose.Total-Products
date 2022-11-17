@@ -1,7 +1,7 @@
 ---
 title: Actualizar archivo XLT usando Python
 description: Modifique el documento XLT en aplicaciones de Python sin usar Microsoft Excel. 
-url: /es/python-java/update/xlt/
+
 family: total
 platformtag: Python
 feature: update

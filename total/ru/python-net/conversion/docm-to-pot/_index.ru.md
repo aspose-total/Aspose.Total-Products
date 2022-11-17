@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCM в POT в Python
 description: Преобразование DOCM в POT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/docm-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

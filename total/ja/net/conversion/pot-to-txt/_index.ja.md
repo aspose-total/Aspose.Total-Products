@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してPOTをTXTに変換する 
-url: /ja/net/conversion/pot-to-txt/ 
+
 description: PowerPointのpotドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

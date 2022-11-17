@@ -1,7 +1,7 @@
 ---
 title: Konvertera XLSB till POWERPOINT med .NET 
 description: Konvertera XLSB till POWERPOINT på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/xlsb-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert MBOX to JPEG in Python
 description: Save MBOX to JPEG in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/mbox-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

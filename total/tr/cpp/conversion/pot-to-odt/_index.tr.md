@@ -1,7 +1,7 @@
 ---
 title: POT'u ODT'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POT'u ODT'a aktarın
-url: /tr/cpp/conversion/pot-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

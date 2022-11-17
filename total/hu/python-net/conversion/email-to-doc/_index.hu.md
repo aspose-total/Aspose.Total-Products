@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t DOC-be Pythonban
 description: Mentse a EMAIL-t DOC formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

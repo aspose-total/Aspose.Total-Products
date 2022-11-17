@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu DOC in der Andorid App
 description: Exportieren Sie E-MAIL nach DOC, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

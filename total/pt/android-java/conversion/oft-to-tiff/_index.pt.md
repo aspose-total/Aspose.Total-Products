@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para TIFF no aplicativo Andorid
 description: Exporte OFT para TIFF sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

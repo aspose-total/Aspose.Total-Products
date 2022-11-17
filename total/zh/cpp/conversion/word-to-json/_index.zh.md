@@ -1,7 +1,7 @@
 ---
 title: 在 C++ 中将 WORD 转换为 JSON 格式
 description: 在 C++ 中将 WORD 导出为 JSON，而不使用 Microsoft Excel 或 Word
-url: /zh/cpp/conversion/word-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 使用 API，您还可以打开受密码保护的文档。如果您的输入 WORD 文档受密码保护，则您无法在不使用密码的情况下将其转换为 JSON 格式。为此，请使用接受 LoadOptions 对象的特殊构造函数重载。此对象包含 Password 属性，该属性指定密码字符串。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

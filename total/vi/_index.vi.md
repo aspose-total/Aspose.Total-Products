@@ -1,7 +1,7 @@
 ---
 title: Về các giải pháp định dạng tệp tin dựa trên ứng dụng, đám mây và Premise 
 weight: 9630
-url: /vi/
+
 description: Xây dựng các ứng dụng thao tác tài liệu bằng API On Premise hoặc Cloud hoặc đơn giản là sử dụng các ứng dụng đa nền tảng để xem, so sánh, kiểm tra hoặc chuyển đổi hơn 100 định dạng tệp
 ---
 
@@ -20,7 +20,7 @@ Các API nền tảng dựa trên Java để tạo, sửa đổi, hiển thị h
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/vi/cpp/" >}}
-Tạo, tải, thao tác hoặc chuyển đổi các định dạng và hình ảnh tài liệu khác nhau trong các ứng dụng C ++ thuần túy bằng cách sử dụng thư viện C ++ gốc.
+Tạo, tải, thao tác hoặc chuyển đổi các định dạng và hình ảnh tài liệu khác nhau trong các ứng dụng C++ thuần túy bằng cách sử dụng thư viện C++ gốc.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/vi/family/" innerText="Xem tất cả các API mã cao" >}}

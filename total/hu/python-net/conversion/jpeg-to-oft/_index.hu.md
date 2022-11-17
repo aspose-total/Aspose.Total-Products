@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JPEG-t OFT-be Pythonban
 description: JPEG mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/jpeg-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

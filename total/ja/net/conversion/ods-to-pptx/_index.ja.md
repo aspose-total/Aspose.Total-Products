@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してODSをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでODSをPPTXに変換する
-url: /ja/net/conversion/ods-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

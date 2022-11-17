@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى DOT في Python
 description: MHTML و Html ثابت لتحويل DOT في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/mhtml-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

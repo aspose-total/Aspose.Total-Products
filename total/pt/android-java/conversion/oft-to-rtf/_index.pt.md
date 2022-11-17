@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para RTF no aplicativo Andorid
 description: Exporte OFT para RTF sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

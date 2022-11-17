@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t PDF-be Pythonban
 description: Mentse a OFT-t PDF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

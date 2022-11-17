@@ -1,7 +1,7 @@
 ---
 title: 使用 C++ 将 CSV 转换为 POWERPOINT
 description: 在 C++ 应用程序中将 CSV 转换为 POWERPOINT
-url: /zh/cpp/conversion/csv-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till SXC via C++
 description: Exportera PPSX till SXC i C++ utan att använda Microsoft Excel eller Powerpoint
-url: /sv/cpp/conversion/ppsx-to-sxc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 Med hjälp av API:et kan du också öppna det lösenordsskyddade dokumentet. Om ditt inmatade PPSX-dokument är lösenordsskyddat kan du inte konvertera det till SXC utan att använda lösenordet. När ditt dokument är lösenordsskyddat betyder det att det upprätthåller vissa begränsningar för presentationen. För att ta bort begränsningarna måste lösenordet anges. En lösenordsskyddad presentation anses vara en låst presentation. API:et låter dig öppna det krypterade dokumentet genom att skicka in rätt lösenord i ett LoadOptions-objekt. Följande kodexempel visar hur man öppnar ett krypterat dokument med ett lösenord.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

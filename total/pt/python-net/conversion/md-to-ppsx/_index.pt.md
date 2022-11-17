@@ -1,7 +1,7 @@
 ---
 title: Converter MD para PPSX em Python
 description: Conversão de MD para PPSX em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint 
-url: /pt/python-net/conversion/md-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

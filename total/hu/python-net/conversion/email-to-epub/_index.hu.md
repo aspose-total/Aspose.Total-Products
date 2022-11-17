@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t EPUB-be Pythonban
 description: Mentse a EMAIL-t EPUB formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

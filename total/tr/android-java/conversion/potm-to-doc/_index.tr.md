@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u DOC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u DOC'ye dönüştürün
-url: /tr/android-java/conversion/potm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

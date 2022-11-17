@@ -1,7 +1,7 @@
 ---
 title: JSON Formatını C++ ile ODP'ye Dönüştür
 description: Microsoft PowerPoint kullanmadan JSON'u C++'da ODP'ye ayrıştırın
-url: /tr/cpp/conversion/json-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 JSON'u ODP'ye ayrıştırırken, JSON'u [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıfıyla yükleyerek satır ve sütunların boyutunu da ayarlayabilirsiniz. Çalışma sayfasındaki tüm satırlar için aynı satır yüksekliğini ayarlamanız gerekiyorsa, bunu [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f) kullanarak yapabilirsiniz. ) [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) koleksiyonunun yöntemi. Benzer şekilde, çalışma sayfasındaki tüm sütunlar için aynı sütun genişliğini ayarlamak için ICells koleksiyonunun [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) yöntemini kullanın.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ JSON'u ODP'ye ayrıştırırken, JSON'u [IWorkbook](https://reference.aspose.com
 API'yi kullanarak JSON'u filigranlı ODP'ye de dönüştürebilirsiniz. ODP belgenize filigran eklemek için önce JSON'u PPTX'e ayrıştırıp ona bir filigran ekleyebilirsiniz. Filigran eklemek için yeni oluşturulan PPTX dosyasını [Sunum](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) sınıfını kullanarak yükleyin, ilk slaydı alın, AutoShape of Rectangle tipi, Rectangle'a TextFrame ekleyin, metin çerçevesi için Paragraph nesnesi oluşturun, paragraf için Portion nesnesi oluşturun, set_Text() kullanarak filigran ekleyin ve belgeyi ODP'ye kaydedebilir.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

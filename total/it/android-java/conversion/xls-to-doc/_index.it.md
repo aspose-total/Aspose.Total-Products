@@ -1,7 +1,7 @@
 ---
 title: Esporta XLS in DOC in Android
 description: API Android per convertire XLS in DOC senza utilizzare Microsoft Word
-url: /it/android-java/conversion/xls-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Document document = new Document("pdfOutput.pdf");
 // save document in DOC format
 document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.xls");
 DocumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocumentProperties();
 // remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

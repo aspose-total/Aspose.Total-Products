@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do PDF v aplikaci Andorid
 description: Exportujte EMAIL do PDF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da PCL'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PCL'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/pcl-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

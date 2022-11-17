@@ -1,7 +1,7 @@
 ---
 title: Converti PPS in JSON in Android tramite Java
 description: Converti PPS in JSON in Android tramite Java senza utilizzare Microsoft Excel o PowerPoint
-url: /it/android-java/conversion/pps-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 Utilizzando l'API, puoi anche aprire il documento protetto da password. Se il documento PPS di input è protetto da password, non è possibile convertirlo in JSON senza utilizzare la password. L'API consente di aprire il documento crittografato passando la password corretta in un oggetto LoadOptions. L'esempio di codice seguente mostra come provare ad aprire un documento crittografato con una password:
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Utilizzando l'API, puoi anche aprire il documento protetto da password. Se il do
 Durante la conversione del file PPS in JSON, puoi anche aggiungere una filigrana al formato del file JSON di output. Per aggiungere una filigrana, crea una nuova cartella di lavoro per aprire il file HTML convertito. Seleziona Foglio di lavoro tramite il suo indice, crea una forma e usa la sua funzione addTextEffect, imposta colori, trasparenza e altro. Successivamente puoi salvare il tuo documento HTML come JSON con Watermark.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

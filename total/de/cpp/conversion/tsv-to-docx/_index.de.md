@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie TSV in DOCX mit C++
 description: Konvertieren Sie TSV in DOCX innerhalb von C++-Anwendungen
-url: /de/cpp/conversion/tsv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

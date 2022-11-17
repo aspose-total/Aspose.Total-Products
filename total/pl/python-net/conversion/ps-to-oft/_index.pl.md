@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PS na OFT w Pythonie
 description: Zapisuj PS do OFT w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/ps-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

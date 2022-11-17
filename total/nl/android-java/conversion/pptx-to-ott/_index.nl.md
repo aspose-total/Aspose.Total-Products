@@ -1,7 +1,7 @@
 ---
 title: Exporteer PPTX naar OTT op Andorid via Java
 description: Converteer PPTX naar OTT in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/pptx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

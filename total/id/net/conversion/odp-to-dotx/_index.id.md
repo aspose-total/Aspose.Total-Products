@@ -1,6 +1,6 @@
 ---
 title: Konversi ODP ke DOTX melalui C# .NET 
-url: /id/net/conversion/odp-to-dotx/ 
+
 description: Konversikan dokumen PowerPoint odp ke file dokumen Word dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

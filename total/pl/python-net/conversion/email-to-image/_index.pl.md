@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EMAIL na IMAGE w Pythonie
 description: Zapisz EMAIL w formacie IMAGE w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/email-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

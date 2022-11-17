@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOTMにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをDOTMにエクスポートする
-url: /ja/android-java/conversion/oft-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

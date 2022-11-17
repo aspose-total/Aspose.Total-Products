@@ -1,7 +1,7 @@
 ---
 title: Render OFT ke EPUB di Aplikasi Andorid
 description: Ekspor OFT ke EPUB tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/oft-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

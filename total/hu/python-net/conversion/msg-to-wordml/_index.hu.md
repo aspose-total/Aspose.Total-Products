@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MSG-t WORDML-be Pythonban
 description: Mentse a MSG-t WORDML formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/msg-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést XPS na VCF v Pythonu
 description: Ukládejte XPS do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/xps-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t PPSX-be Pythonban
 description: WORDML-ből PPSX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/wordml-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

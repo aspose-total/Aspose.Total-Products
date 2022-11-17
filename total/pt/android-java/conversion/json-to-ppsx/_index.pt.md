@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para PPSX no Android via Java
 description: Analise JSON para PPSX em aplicativos Android sem usar o Microsoft PowerPoint
-url: /pt/android-java/conversion/json-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 Além disso, a API permite analisar JSON para PPSX com opções de layout especificadas. Para especificar as opções de layout, você pode usar a classe [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayouttoptions). Ele permite que você processe uma matriz como uma tabela, ignore nulos, ignore o título da matriz, ignore o título do objeto, converta string em número ou data, defina data e formato de número e defina estilo de título. Todas essas opções permitem que você apresente seus dados conforme suas necessidades. O trecho de código a seguir mostra como definir as opções de layout.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Além disso, a API permite analisar JSON para PPSX com opções de layout especi
 Usando a API, você também pode converter JSON em PPSX com marca d'água. Para adicionar uma marca d'água ao seu documento PPSX, você pode primeiro analisar JSON para PPTX e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PPTX recém-criado usando a classe [Apresentação](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), percorra todos os slides, adicione texto usando addTextFrame, defina todas as opções relevantes, como cor, fillType e muito mais, e salve o documento no PPSX.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

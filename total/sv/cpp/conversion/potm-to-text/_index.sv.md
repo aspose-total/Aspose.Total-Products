@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera POTM till TEXT
 description: Exportera POTM till TEXT i dina C++-applikationer
-url: /sv/cpp/conversion/potm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

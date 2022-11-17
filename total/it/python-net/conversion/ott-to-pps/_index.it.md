@@ -1,7 +1,7 @@
 ---
 title: Converti OTT in PPS in Python
 description: Conversione da OTT a PPS nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/ott-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

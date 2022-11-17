@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to Images in Python
 description: PDF to image TIFF BMP PNG JPEG GIF EMF SVG conversion in your Python applications without using Microsoft Word 
-url: /python-net/conversion/pdf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést DOTM na POTM v Pythonu
 description: Převod DOTM na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/dotm-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

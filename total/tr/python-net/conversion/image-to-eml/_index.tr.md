@@ -1,7 +1,7 @@
 ---
 title: Python'da IMAGE'yi EML'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında IMAGE'yi EML'e kaydedin
-url: /tr/python-net/conversion/image-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

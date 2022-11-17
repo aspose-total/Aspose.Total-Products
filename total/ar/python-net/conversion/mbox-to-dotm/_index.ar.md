@@ -1,7 +1,7 @@
 ---
 title: تحويل MBOX إلى DOTM في Python
 description: احفظ MBOX في DOTM في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/mbox-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

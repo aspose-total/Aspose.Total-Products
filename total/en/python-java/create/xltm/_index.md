@@ -1,7 +1,7 @@
 ---
 title: Create XLTM using Python
 description: Generate Microsoft Excel XLTM documents using Python applications without using Microsoft Office. 
-url: /python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

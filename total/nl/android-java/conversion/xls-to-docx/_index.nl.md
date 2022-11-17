@@ -1,7 +1,7 @@
 ---
 title: XLS exporteren naar DOCX in Android
 description: Android API om XLS naar DOCX te converteren zonder Microsoft Word te gebruiken
-url: /nl/android-java/conversion/xls-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

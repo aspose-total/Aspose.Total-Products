@@ -1,7 +1,7 @@
 ---
 title: Zaktualizuj plik XLSB za pomocą Javy
 description: Modyfikuj dokument XLSB w aplikacjach Java bez użycia programu Microsoft Excel. Zoptymalizuj kod dla najszybszego sposobu pisania i edycji pliku Excel w java.
-url: /pl/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

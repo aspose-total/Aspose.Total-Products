@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPTX'u ODT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTX'u ODT'ye dönüştürün
-url: /tr/android-java/conversion/pptx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

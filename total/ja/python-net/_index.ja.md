@@ -1,6 +1,6 @@
 ---
 title: .NETファイル形式処理APIを介したPython-Aspose 
-url: /ja/python-net/
+
 url_ignore: /python-net/ 
 description: Pythonアプリケーション内からのMicrosoftWord文書、PowerPointプレゼンテーション、およびOutlook電子メール形式用のPythonAPI。
 ---

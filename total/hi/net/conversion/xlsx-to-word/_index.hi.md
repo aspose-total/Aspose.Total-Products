@@ -1,7 +1,7 @@
 ---
 title: .NET के साथ XLSX को WORD में बदलें 
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLSX को WORD में बदलें
-url: /hi/net/conversion/xlsx-to-word/
+
 family: total
 platformtag: net
 feature: conversion

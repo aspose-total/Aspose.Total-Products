@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのRTFにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをRTFに変換する
-url: /ja/android-java/conversion/ppsm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

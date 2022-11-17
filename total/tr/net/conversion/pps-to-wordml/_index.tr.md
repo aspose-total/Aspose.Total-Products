@@ -1,6 +1,6 @@
 ---
 title: PPS'yi C# .NET aracılığıyla WORDML'ye dönüştürün 
-url: /tr/net/conversion/pps-to-wordml/ 
+
 description: PowerPoint pps belgelerini C# ile Word wordml dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

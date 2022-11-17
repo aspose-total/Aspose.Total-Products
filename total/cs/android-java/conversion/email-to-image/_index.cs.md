@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do IMAGE v aplikaci Andorid
 description: Exportujte EMAIL do IMAGE bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แอปรูปแบบไฟล์ SharePoint - แปลงเอกสารในแอปพลิเคชัน SharePoint 
 weight: 20
-url: /th/sharepoint/ 
+
 description: แอปรูปแบบไฟล์ SharePoint เพื่อแปลงและรวม Word Excel PDF PowerPoint รูปแบบเอกสารอีเมลและรูปภาพภายใน Microsoft SharePoint
 ---
 

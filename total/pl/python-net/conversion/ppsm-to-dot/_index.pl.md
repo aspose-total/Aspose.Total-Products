@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSM na DOT w Pythonie
 description: Konwersja PPSM do DOT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/ppsm-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

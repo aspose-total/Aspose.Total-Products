@@ -1,7 +1,7 @@
 ---
 title: Converteer PST naar DOTX in Python
 description: Bewaar PST naar DOTX in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/pst-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

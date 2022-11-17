@@ -1,7 +1,7 @@
 ---
 title: C++ API untuk Mengonversi PPS ke DOCX
 description: Ekspor PPS ke DOCX dalam aplikasi C++ Anda
-url: /id/cpp/conversion/pps-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

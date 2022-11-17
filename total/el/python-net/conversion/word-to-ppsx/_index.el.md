@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORD σε PPSX στην Python
 description: Μετατροπή WORD σε PPSX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/word-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

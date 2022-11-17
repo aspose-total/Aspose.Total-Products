@@ -1,7 +1,7 @@
 ---
 title: Converteer MSG naar OTT in Python
 description: Bewaar MSG naar OTT in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/msg-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

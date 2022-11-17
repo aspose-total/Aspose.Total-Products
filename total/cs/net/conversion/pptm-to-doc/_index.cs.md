@@ -1,6 +1,6 @@
 ---
 title: Převést PPTM na DOC přes C# .NET 
-url: /cs/net/conversion/pptm-to-doc/ 
+
 description: Převádějte dokumenty pptm aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Converti OST in SVG in Python
 description: Salva OST in SVG nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ost-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

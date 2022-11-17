@@ -1,7 +1,7 @@
 ---
 title: C++でXLSMをPPTXに変換する
 description: C++アプリケーション内でXLSMをPPTXに変換する
-url: /ja/cpp/conversion/xlsm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

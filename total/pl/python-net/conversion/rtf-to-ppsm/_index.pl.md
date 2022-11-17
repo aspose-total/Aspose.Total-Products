@@ -1,7 +1,7 @@
 ---
 title: Konwertuj RTF na PPSM w Pythonie
 description: Konwersja RTF do PPSM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/rtf-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

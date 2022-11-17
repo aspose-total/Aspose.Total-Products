@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε PS στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε PS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

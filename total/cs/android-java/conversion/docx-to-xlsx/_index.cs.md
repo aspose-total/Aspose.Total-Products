@@ -1,7 +1,7 @@
 ---
 title: Android API pro převod DOCX na XLSX
 description: Převeďte DOCX na XLSX v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/android-java/conversion/docx-to-xlsx/
+
 family: total
 platformtag: cpp
 feature: conversion

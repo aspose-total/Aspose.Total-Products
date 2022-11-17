@@ -1,7 +1,7 @@
 ---
 title: 一般的なファイル形式のJavaAPI-Aspose 
 weight: 60
-url: /ja/java/ 
+
 description: Java開発者がWordExcelPDF PowerPointVisioOneNote電子メールプロジェクト画像3DGISからファイルを操作するためのAPIのコレクション。
 ---
 

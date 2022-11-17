@@ -1,7 +1,7 @@
 ---
 title: Render EML ke IMAGE di Aplikasi Andorid
 description: Ekspor EML ke IMAGE tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

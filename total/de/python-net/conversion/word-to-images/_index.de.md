@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie WORD in Bilder in Python
 description: Konvertierung von WORD in Bild TIFF BMP PNG JPEG GIF SVG in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word 
-url: /de/python-net/conversion/word-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

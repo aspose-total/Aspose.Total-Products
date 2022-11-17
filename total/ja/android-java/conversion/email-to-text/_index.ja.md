@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをTEXTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをTEXTにエクスポートする
-url: /ja/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till OTT i Andorid-appen
 description: Exportera EML till OTT utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

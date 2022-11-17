@@ -1,6 +1,6 @@
 ---
 title: Knihovny automatizace souborů Python - Aspose
-url: /cs/python-java/
+
 url_ignore: /python-java/ 
 description: Knihovny Pythonu pro analýzu tabulek Excel, generování a skenování čárových kódů a také zpracování diagramů Visio
 ---

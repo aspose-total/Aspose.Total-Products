@@ -1,6 +1,6 @@
 ---
 title: POTX'yi C# .NET aracılığıyla DOT'ye dönüştürün 
-url: /tr/net/conversion/potx-to-dot/ 
+
 description: PowerPoint potx belgelerini C# ile Word dot dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t WORD-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t WORD-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

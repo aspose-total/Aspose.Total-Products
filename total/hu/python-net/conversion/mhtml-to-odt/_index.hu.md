@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az MHTML-t ODT-be Pythonban
 description: Az MHTML és a Html ODT formátumú átalakítása a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/mhtml-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

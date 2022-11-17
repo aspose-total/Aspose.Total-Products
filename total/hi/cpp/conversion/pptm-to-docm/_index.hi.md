@@ -1,7 +1,7 @@
 ---
 title: पीओटी को डीओसी में बदलने के लिए सी++ एपीआई
 description: अपने सी ++ अनुप्रयोगों के भीतर डीओसी को पीओटी निर्यात करें
-url: /hi/cpp/conversion/pptm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

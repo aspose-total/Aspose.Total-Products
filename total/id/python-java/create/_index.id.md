@@ -1,6 +1,6 @@
 ---
 title: Buat dan Perbarui File Microsoft Excel menggunakan Python 
-url: /id/python-java/create/
+
 description: Buat laporan lembar kerja Microsoft Excel tanpa menginstal Microsoft Office 
 ---
 

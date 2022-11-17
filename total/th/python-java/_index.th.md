@@ -1,6 +1,6 @@
 ---
 title: Python File Automation Libraries - Aspose
-url: /th/python-java/
+
 url_ignore: /python-java/ 
 description: ไลบรารี Python สำหรับการแยกวิเคราะห์สเปรดชีต Excel การสร้างและการสแกนบาร์โค้ด ตลอดจนการประมวลผลไดอะแกรม Visio
 ---

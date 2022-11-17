@@ -1,7 +1,7 @@
 ---
 title: Renderize EMAIL para DOTX no aplicativo Andorid
 description: Exporte EMAIL para DOTX sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/email-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

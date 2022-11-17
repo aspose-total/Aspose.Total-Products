@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till BMP i Andorid-appen
 description: Exportera EML till BMP utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj TEXT na EML w Pythonie
 description: Zapisuj TEXT do EML w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/text-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

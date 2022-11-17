@@ -1,7 +1,7 @@
 ---
 title: Python で XLSB を作成する
 description: Microsoft Office を使用せずに、Python アプリケーションを使用して XLSB ファイルを生成します。 
-url: /ja/python-java/create/xlsb/
+
 family: total
 platformtag: Python
 feature: create

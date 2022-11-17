@@ -1,7 +1,7 @@
 ---
 title: SharePoint-filformatappar - Konvertera dokument i SharePoint-applikationer 
 weight: 20
-url: /sv/sharepoint/ 
+
 description: SharePoint-filformatappar för att konvertera och kombinera Word Excel PDF PowerPoint-e-post- och bildbehandlingsdokumentformat inom Microsoft SharePoint
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Conversion de documents via C++ 
-url: /fr/cpp/conversion/
+
 description: Convertissez divers formats de documents tels que Word, Excel, PowerPoint, PDF, JSON, Images et plus encore à l'aide de l'API C++. 
 ---
 

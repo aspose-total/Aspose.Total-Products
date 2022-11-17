@@ -1,6 +1,6 @@
 ---
 title: A RTF konvertálása PPSM-re C# .NET-en keresztül 
-url: /hu/net/conversion/rtf-to-ppsm/ 
+
 description: Konvertálja a Word rtf dokumentumokat PowerPoint ppsm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

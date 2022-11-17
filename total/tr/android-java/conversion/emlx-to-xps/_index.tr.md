@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMLX to XPS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMLX'i XPS'ye aktarın
-url: /tr/android-java/conversion/emlx-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

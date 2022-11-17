@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMLX a WORD en la aplicación Andorid
 description: Exporte EMLX a WORD sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/emlx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

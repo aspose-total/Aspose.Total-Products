@@ -1,7 +1,7 @@
 ---
 title: Python'da DOT'yi MHTML'ye Dönüştür
 description: Python uygulamalarınızda Microsoft Word kullanmadan DOT'den mhtml Web arşiv formatına ve HtmlFixed dosya dönüştürme 
-url: /tr/python-net/conversion/dot-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

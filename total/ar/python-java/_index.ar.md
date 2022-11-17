@@ -1,6 +1,6 @@
 ---
 title: مكتبات أتمتة ملفات Python - Aspose
-url: /ar/python-java/
+
 url_ignore: /python-java/ 
 description: مكتبات Python لجداول بيانات Excel وتحليلها وإنشاء الباركود والمسح الضوئي بالإضافة إلى معالجة الرسم التخطيطي لـ Visio
 ---

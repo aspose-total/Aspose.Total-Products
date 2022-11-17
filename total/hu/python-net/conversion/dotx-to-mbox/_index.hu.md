@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t MBOX-be Pythonban
 description: DOTX mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotx-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

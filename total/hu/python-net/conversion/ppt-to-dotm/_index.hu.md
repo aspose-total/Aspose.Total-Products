@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPT-t DOTM-be Pythonban
 description: PPT-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/ppt-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

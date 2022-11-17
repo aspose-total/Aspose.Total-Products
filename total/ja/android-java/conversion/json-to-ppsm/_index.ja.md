@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでJSON形式をPPSMに変換する
 description: MicrosoftPowerPointを使用せずにAndroidアプリケーションでJSONをPPSMに解析する
-url: /ja/android-java/conversion/json-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ AndroidアプリケーションでJSON形式をPPSMに2段階のプロセスで�
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ AndroidアプリケーションでJSON形式をPPSMに2段階のプロセスで�
 さらに、APIを使用すると、指定したレイアウトオプションを使用してJSONをPPSMに解析できます。レイアウトオプションを指定するには、[JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions)クラスを使用できます。これにより、配列をテーブルとして処理し、nullを無視し、配列のタイトルを無視し、オブジェクトのタイトルを無視し、文字列を数値または日付に変換し、日付と数値の形式を設定し、タイトルスタイルを設定できます。これらのオプションはすべて、必要に応じてデータを表示できます。次のコードスニペットは、レイアウトオプションを設定する方法を示しています。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ AndroidアプリケーションでJSON形式をPPSMに2段階のプロセスで�
 APIを使用して、JSONを透かし付きのPPSMに変換することもできます。 PPSMドキュメントに透かしを追加するには、最初にJSONをPPTXに解析して、透かしを追加します。透かしを追加するには、[プレゼンテーション](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)クラスを使用して、新しく作成したPPTXファイルを読み込み、すべてのスライドをループして、テキストを追加します。 addTextFrameを使用して、color、fillTypeなどの関連するすべてのオプションを設定し、ドキュメントをPPSMに保存できます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

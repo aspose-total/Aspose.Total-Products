@@ -1,6 +1,6 @@
 ---
 title: Fájl létrehozása Python segítségével 
-url: /hu/python-net/create/
+
 description: Szöveges és Microsoft Word dokumentumokat hozhat létre a Microsoft Office telepítése nélkül 
 ---
 

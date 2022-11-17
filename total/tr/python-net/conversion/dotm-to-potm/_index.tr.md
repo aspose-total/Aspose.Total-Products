@@ -1,7 +1,7 @@
 ---
 title: Python'da DOTM'yi POTM'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOTM'den POTM'e dönüştürme 
-url: /tr/python-net/conversion/dotm-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

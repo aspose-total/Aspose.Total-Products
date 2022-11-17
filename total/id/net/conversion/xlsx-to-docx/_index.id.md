@@ -1,7 +1,7 @@
 ---
 title: Konversi XLSX ke DOCX dengan .NET 
 description: Konversi XLSX ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin
-url: /id/net/conversion/xlsx-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

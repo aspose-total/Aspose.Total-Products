@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOT na POTM za pomocą C++
 description: Eksportuj DOT do POTM w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint
-url: /pl/cpp/conversion/dot-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX PPS POWERPOINT PPT PPSX ODP POT PPTX PPTM PPSM
 {{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOT na POTM" h2="Eksportuj DOT do POTM w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOT do POTM przy użyciu dwóch jego API. Załaduj dokument DOT za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako POTM. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOT do POTM przy użyciu dwóch jego API. Załaduj dokument DOT za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako POTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Potm
 pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Oprócz konwersji dokumentów, API [Aspose.Words for C++](https://products.aspos
 auto options = MakeObject<LoadOptions>(u"dotPassword");
 // load the dotument from the local file system by filename:
 SharedPtr<Dotument> dot = MakeObject<Dotument>(u"Encrypted.dot", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Potm
 pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

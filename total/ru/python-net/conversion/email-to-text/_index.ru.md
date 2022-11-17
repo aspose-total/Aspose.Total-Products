@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в TEXT в Python
 description: Сохраняйте EMAIL в TEXT в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/email-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t MD-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t MD-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

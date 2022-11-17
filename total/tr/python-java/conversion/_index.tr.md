@@ -1,6 +1,6 @@
 ---
 title: Python aracılığıyla Microsoft Excel elektronik tablolarının ve Visio Formatlarının dönüştürülmesi 
-url: /tr/python-java/conversion/
+
 description: Excel Dosyalarını Dönüştür XLS XLSX XLSM XLSB XLTX XLTM CSV ve daha fazlasının yanı sıra Visio Formatları VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM vb. Python kodunun sadece birkaç satırı.
 ---
 

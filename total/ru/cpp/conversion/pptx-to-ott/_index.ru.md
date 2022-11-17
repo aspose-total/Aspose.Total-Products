@@ -1,7 +1,7 @@
 ---
 title: C++ API для преобразования PPTX в OTT
 description: Экспорт PPTX в OTT в ваших приложениях C++
-url: /ru/cpp/conversion/pptx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのOTTにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをOTTに変換する
-url: /ja/android-java/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

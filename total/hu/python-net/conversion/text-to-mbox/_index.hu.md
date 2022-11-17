@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEXT-t MBOX-be Pythonban
 description: TEXT mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/text-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

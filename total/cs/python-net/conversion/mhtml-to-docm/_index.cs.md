@@ -1,7 +1,7 @@
 ---
 title: Převeďte MHTML na DOCM v Pythonu
 description: Převod MHTML a HtmlFixed na DOCM ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/mhtml-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

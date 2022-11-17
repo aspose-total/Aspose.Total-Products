@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t SVG-be Pythonban
 description: Mentse a MBOX-t SVG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

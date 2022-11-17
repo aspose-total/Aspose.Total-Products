@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XPS na OST w Pythonie
 description: Zapisuj XPS do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/xps-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

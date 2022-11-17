@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TXT-t POTX-be Pythonban
 description: TXT-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/txt-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

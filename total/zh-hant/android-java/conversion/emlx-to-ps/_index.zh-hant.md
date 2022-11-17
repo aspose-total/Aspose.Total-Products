@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中將 EMLX 渲染為 PS
 description: 在您的 Andorid 應用程序中不使用 Microsoft Word 或 Outlook 將 EMLX 導出為 PS
-url: /zh-hant/android-java/conversion/emlx-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

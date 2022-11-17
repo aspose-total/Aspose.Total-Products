@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी को जीआईएफ में बदलें
 description: Microsoft Outlook या Word का उपयोग किए बिना अपने Python अनुप्रयोगों में MBOX को DOTM में सहेजें 
-url: /hi/python-net/conversion/mbox-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

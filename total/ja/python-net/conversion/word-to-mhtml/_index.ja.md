@@ -1,7 +1,7 @@
 ---
 title: Python で WORD を MHTML に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで WORD から mhtml Web アーカイブ形式および HtmlFixed ファイルに変換 
-url: /ja/python-net/conversion/word-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

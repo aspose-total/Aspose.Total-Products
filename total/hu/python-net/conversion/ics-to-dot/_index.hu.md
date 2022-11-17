@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t DOT-be Pythonban
 description: Mentse a ICS-t DOT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ics-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

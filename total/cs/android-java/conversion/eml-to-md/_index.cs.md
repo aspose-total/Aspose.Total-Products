@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do MD v aplikaci Andorid
 description: Exportujte EML do MD bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

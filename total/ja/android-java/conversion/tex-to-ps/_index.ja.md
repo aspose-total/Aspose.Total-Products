@@ -1,7 +1,7 @@
 ---
 title: TEXをPSにレンダリングするAndroidAPI
 description: JavaAPIを介してAndroid経由でTEXをPSに変換する
-url: /ja/android-java/conversion/tex-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.PS
 outputDocument.save("output.ps", SaveFormat.PS);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -61,7 +62,8 @@ System.out.println("Keywords: " + docInfo.getKeywords());
 System.out.println("Modify Date: " + docInfo.getModDate());
 System.out.println("Subject: " + docInfo.getSubject());
 System.out.println("Title: " + docInfo.getTitle());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -86,7 +88,8 @@ option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
 option.setPosition(EndnotePosition.END_OF_SECTION);
 // save the document to disk.
 doc.save("output.ps", SaveFormat.PS);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

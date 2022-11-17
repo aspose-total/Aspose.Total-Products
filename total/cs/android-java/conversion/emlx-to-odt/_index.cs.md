@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do ODT v aplikaci Andorid
 description: Exportujte EMLX do ODT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

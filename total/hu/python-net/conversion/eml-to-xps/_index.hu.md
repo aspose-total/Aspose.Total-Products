@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t XPS-be Pythonban
 description: Mentse a EML-t XPS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

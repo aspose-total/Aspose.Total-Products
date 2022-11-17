@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren Sie die CSV-Datei mit Java
 description: Ändern Sie CSV-Dokumente in Java-Anwendungen, ohne Microsoft Excel zu verwenden. Optimieren Sie den Code für den schnellsten Weg, Excel-Dateien in Java zu schreiben und zu bearbeiten.
-url: /de/java/update/csv/
+
 family: total
 platformtag: Java
 feature: update

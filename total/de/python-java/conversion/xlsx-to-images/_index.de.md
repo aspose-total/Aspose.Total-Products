@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie XLSX mit Python in Image
 description: XLSX zu Bild TIFF BMP PNG JPEG GIF EMF SVG-Konvertierung in Ihren Python-Anwendungen ohne Verwendung von Microsoft Excel 
-url: /de/python-java/conversion/xlsx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

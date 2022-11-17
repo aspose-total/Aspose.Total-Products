@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTM-t OFT-be Pythonban
 description: DOTM mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotm-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

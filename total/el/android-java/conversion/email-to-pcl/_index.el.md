@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε PCL στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε PCL χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

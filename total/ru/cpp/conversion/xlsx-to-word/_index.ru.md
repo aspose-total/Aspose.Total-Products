@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSX в WORD с помощью C++
 description: Преобразование XLSX в WORD в приложениях C++
-url: /ru/cpp/conversion/xlsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

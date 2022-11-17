@@ -1,7 +1,7 @@
 ---
 title: Převést TXT na POTM v Pythonu
 description: Převod TXT na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/txt-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

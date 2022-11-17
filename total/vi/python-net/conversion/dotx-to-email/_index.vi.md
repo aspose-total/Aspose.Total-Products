@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOTX sang EMAIL bằng Python
 description: Lưu DOTX thành EMAIL trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/dotx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

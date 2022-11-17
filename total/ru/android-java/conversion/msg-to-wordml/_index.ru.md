@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в WORDML в приложении Andorid
 description: Экспорт MSG в WORDML без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

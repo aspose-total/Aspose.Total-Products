@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLSB bằng Java
 description: Sửa đổi tài liệu XLSB trong các ứng dụng Java mà không cần sử dụng Microsoft Excel. Tối ưu hóa mã để viết và chỉnh sửa tệp excel trong java nhanh nhất.
-url: /vi/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

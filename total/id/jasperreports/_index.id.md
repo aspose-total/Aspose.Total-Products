@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - Hasilkan Laporan dalam Format Dokumen Bisnis
 weight: 80
-url: /id/jasperreports/ 
+
 description: JasperReports mengekspor suite untuk mengekspor laporan ke format Word Excel PDF dan PowerPoint. Tambahkan Barcode ke laporan yang Diekspor
 ---
 

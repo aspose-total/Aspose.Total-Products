@@ -1,7 +1,7 @@
 ---
 title: Converter PCL para EML em Python
 description: Salve PCL para EML em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/pcl-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

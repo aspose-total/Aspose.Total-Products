@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLSB pomocí Javy
 description: Upravte dokument XLSB v aplikacích Java bez použití aplikace Microsoft Excel. Optimalizujte kód pro nejrychlejší způsob zápisu a úpravy excelového souboru v Javě.
-url: /cs/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

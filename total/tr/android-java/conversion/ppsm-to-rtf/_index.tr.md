@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPSM'u RTF'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSM'u RTF'ye dönüştürün
-url: /tr/android-java/conversion/ppsm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

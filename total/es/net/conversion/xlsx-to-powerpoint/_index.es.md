@@ -1,7 +1,7 @@
 ---
 title: Convierta XLSX a POWERPOINT con .NET 
 description: Convierta XLSX a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin
-url: /es/net/conversion/xlsx-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

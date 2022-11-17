@@ -1,7 +1,7 @@
 ---
 title: تحويل OTT إلى PPTM في Android عبر Java
 description: OTT لتحويل PPTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
-url: /ar/android-java/conversion/ott-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPS ODP PPTX PPSX POTM POT POWERPOINT PPT PPSM POTX CSV DIF FODS O
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPS ODP PPTX PPSX POTM POT POWERPOINT PPT PPSM POTX CSV DIF FODS O
 يمكنك أيضًا تحويل OTT المحمي بكلمة مرور إلى PPTM داخل تطبيقات Android. إذا كان مستند OTT الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى تنسيق PPTM بدون استخدام كلمة المرور. لفتح مستند مشفر ، يمكنك تعيين كلمة المرور الصحيحة في كائن LoadOptions وتمريرها إلى مُنشئ المستند.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

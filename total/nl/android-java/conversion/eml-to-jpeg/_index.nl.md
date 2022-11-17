@@ -1,7 +1,7 @@
 ---
 title: Render EML naar JPEG in de Andorid-app
 description: Exporteer EML naar JPEG zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/eml-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

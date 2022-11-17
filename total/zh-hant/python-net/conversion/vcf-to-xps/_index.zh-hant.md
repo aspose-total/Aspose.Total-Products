@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 VCF 轉換為 XPS
 description: 在 Python 應用程序中將 VCF 保存為 XPS，而無需使用 Microsoft Outlook 或 Word 
-url: /zh-hant/python-net/conversion/vcf-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi CSV ke WORD dengan C++
 description: Konversi CSV ke WORD dalam aplikasi C++
-url: /id/cpp/conversion/csv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

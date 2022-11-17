@@ -1,7 +1,7 @@
 ---
 title: Convertir le format DOTM au format JSON en C++
 description: Exporter DOTM vers JSON en C++ sans utiliser Microsoft Excel ou Word
-url: /fr/cpp/conversion/dotm-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 À l'aide de l'API, vous pouvez également ouvrir le dotmument protégé par mot de passe. Si votre dotmument DOTM d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format JSON sans utiliser le mot de passe. Pour ce faire, utilisez une surcharge de constructeur spéciale, qui accepte un objet LoadOptions. Cet objet contient la propriété Password, qui spécifie la chaîne de mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

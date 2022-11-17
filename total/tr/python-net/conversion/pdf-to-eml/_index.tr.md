@@ -1,7 +1,7 @@
 ---
 title: Python'da PDF'yi EML'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PDF'yi EML'e kaydedin
-url: /tr/python-net/conversion/pdf-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

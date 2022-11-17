@@ -1,7 +1,7 @@
 ---
 title: Преобразование FODS в DOCX с помощью C++
 description: Преобразование FODS в DOCX в приложениях C++
-url: /ru/cpp/conversion/fods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

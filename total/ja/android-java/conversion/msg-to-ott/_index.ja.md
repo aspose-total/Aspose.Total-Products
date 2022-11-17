@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをOTTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをOTTにエクスポートする
-url: /ja/android-java/conversion/msg-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti BMP in OFT in Python
 description: Salva BMP in OFT all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/bmp-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Frissítse a XLT fájlt Python használatával
 description: Módosítsa a XLT-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/xlt/
+
 family: total
 platformtag: Python
 feature: update

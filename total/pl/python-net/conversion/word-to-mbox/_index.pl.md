@@ -1,7 +1,7 @@
 ---
 title: Konwertuj WORD na MBOX w Pythonie
 description: Zapisuj WORD do MBOX w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/word-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

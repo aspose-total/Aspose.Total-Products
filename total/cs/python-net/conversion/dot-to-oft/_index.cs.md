@@ -1,7 +1,7 @@
 ---
 title: Převést DOT na OFT v Pythonu
 description: Ukládejte DOT do OFT v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dot-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

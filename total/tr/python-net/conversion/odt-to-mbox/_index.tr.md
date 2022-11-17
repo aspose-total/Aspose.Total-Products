@@ -1,7 +1,7 @@
 ---
 title: Python'da ODT'yi MBOX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında ODT'yi MBOX'e kaydedin
-url: /tr/python-net/conversion/odt-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

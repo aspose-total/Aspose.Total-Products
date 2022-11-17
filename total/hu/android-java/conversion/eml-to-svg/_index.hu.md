@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t SVG-nek az Andorid alkalmazásban
 description: Exportálja az EML-t SVG-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

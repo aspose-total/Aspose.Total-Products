@@ -1,7 +1,7 @@
 ---
 title: Convert ICS to WORDML in Python
 description: Save ICS to WORDML in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/ics-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

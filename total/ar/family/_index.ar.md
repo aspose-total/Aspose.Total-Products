@@ -1,12 +1,12 @@
 ---
 title: واجهات برمجة تطبيقات أتمتة تنسيق الملفات لأنظمة أساسية متعددة - Aspose 
 weight: 10
-url: /ar/family/
-description: Microsoft Excel Word PowerPoint البريد الإلكتروني PDF Visio Project Barcode OCR Imaging OneNote 3D و CAD Manipulation APIs لـ .NET و Java و Android و C ++. مكونات لـ SharePoint ، ملحقات لخدمات التقارير والمصدرين لـ JasperReports.
+
+description: Microsoft Excel Word PowerPoint البريد الإلكتروني PDF Visio Project Barcode OCR Imaging OneNote 3D و CAD Manipulation APIs لـ .NET و Java و Android و C++. مكونات لـ SharePoint ، ملحقات لخدمات التقارير والمصدرين لـ JasperReports.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من واجهات برمجة تطبيقات معالجة تنسيق الملف" h2="تعامل مع Word و Excel و PDF و PowerPoint و Outlook وأكثر من 100 تنسيق ملف آخر باستخدام واجهات برمجة التطبيقات الأصلية الخاصة بنا لـ .NET و Java و Android و C ++ والأنظمة الأساسية الأخرى." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من واجهات برمجة تطبيقات معالجة تنسيق الملف" h2="تعامل مع Word و Excel و PDF و PowerPoint و Outlook وأكثر من 100 تنسيق ملف آخر باستخدام واجهات برمجة التطبيقات الأصلية الخاصة بنا لـ .NET و Java و Android و C++ والأنظمة الأساسية الأخرى." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose. يشمل إجمالي عائلة المنتج" >}}
@@ -20,7 +20,7 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/ar/cpp" >}}
-يمكنك إنشاء مستندات Word وجداول بيانات Excel وعروض PowerPoint التقديمية ورسائل البريد الإلكتروني وملفات PDF أو معالجتها أو تحويلها أو عرضها في تطبيقات C ++.
+يمكنك إنشاء مستندات Word وجداول بيانات Excel وعروض PowerPoint التقديمية ورسائل البريد الإلكتروني وملفات PDF أو معالجتها أو تحويلها أو عرضها في تطبيقات C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/ar/android-java" >}}

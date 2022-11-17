@@ -1,7 +1,7 @@
 ---
 title: Konvertera MBOX till BMP i Python
 description: Spara MBOX till BMP i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/mbox-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

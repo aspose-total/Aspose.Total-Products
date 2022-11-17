@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPTX-t DOCM-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pptx-to-docm/ 
+
 description: Konvertálja a PowerPoint pptx dokumentumokat Word docm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

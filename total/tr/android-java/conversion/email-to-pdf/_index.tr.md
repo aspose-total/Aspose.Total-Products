@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to PDF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i PDF'ye aktarın
-url: /tr/android-java/conversion/email-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

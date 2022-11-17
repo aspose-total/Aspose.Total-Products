@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t DOTX-be Pythonban
 description: Mentse a VCF-t DOTX formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

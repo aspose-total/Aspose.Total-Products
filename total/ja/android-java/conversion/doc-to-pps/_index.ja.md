@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでDOCをPPSに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCからPPSに変換
-url: /ja/android-java/conversion/doc-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ DOCからPPSファイルへの変換では、[Maven](https://repository.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ DOCからPPSファイルへの変換では、[Maven](https://repository.aspose.c
 Androidアプリケーション内でパスワードで保護されたDOCをPPSに変換することもできます。入力DOCドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPS形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをDocumentコンストラクターに渡すことができます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

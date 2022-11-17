@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na VCF v Pythonu
 description: Ukládejte PDF do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/pdf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

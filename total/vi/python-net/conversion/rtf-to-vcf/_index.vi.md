@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi RTF sang VCF bằng Python
 description: Lưu RTF thành VCF trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/rtf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

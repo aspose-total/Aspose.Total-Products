@@ -1,6 +1,6 @@
 ---
 title: Converteer ODP naar DOT via C# .NET 
-url: /nl/net/conversion/odp-to-dot/ 
+
 description: Converteer PowerPoint odp-documenten naar Word-documentbestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 

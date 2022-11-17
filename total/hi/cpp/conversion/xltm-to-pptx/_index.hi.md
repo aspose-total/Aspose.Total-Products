@@ -1,7 +1,7 @@
 ---
 title: C++ के साथ XLTM को PPTX में बदलें
 description: C++ अनुप्रयोगों के भीतर XLTM को PPTX में बदलें
-url: /hi/cpp/conversion/xltm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

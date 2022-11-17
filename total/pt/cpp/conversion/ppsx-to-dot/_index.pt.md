@@ -1,7 +1,7 @@
 ---
 title: API C++ para converter PPSX em DOT
 description: Exporte PPSX para DOT em seus aplicativos C++
-url: /pt/cpp/conversion/ppsx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

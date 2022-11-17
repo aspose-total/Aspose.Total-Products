@@ -1,7 +1,7 @@
 ---
 title: تحويل EML إلى PDF في Python
 description: احفظ EML في PDF في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/eml-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

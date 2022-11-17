@@ -1,7 +1,7 @@
 ---
 title: Convertir PST a EMF en Python
 description: Guarde PST en EMF en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/pst-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

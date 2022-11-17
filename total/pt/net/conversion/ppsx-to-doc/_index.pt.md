@@ -1,6 +1,6 @@
 ---
 title: Converter PPSX para DOC via C# .NET 
-url: /pt/net/conversion/ppsx-to-doc/ 
+
 description: Converta documentos ppsx do PowerPoint em arquivos doc do Word com C#. Converta vários arquivos no ASP.NET ou em outros aplicativos .NET.
 ---
 

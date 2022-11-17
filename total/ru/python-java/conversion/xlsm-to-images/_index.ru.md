@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSM в изображение с помощью Python
 description: Преобразование XLSM в изображение TIFF BMP PNG JPEG GIF EMF SVG в ваших приложениях Python без использования Microsoft Excel 
-url: /ru/python-java/conversion/xlsm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

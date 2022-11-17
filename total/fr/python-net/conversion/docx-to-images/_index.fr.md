@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCX en images en Python
 description: Conversion DOCX en image TIFF BMP PNG JPEG GIF SVG dans vos applications Python sans utiliser Microsoft Word 
-url: /fr/python-net/conversion/docx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

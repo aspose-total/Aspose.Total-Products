@@ -1,7 +1,7 @@
 ---
 title: Render EML ke PS di Aplikasi Andorid
 description: Ekspor EML ke PS tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/eml-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

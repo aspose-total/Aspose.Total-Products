@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 將 PPS 導出到 Andorid 上的 RTF
 description: 在移動應用程序中將 PPS 轉換為 RTF，無需安裝任何軟件
-url: /zh-hant/android-java/conversion/pps-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

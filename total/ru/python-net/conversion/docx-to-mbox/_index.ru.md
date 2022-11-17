@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в MBOX в Python
 description: Сохраняйте DOCX в MBOX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/docx-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

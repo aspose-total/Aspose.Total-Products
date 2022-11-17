@@ -1,6 +1,6 @@
 ---
 title: Python 文件自动化库 - Aspose
-url: /zh/python-java/
+
 url_ignore: /python-java/ 
 description: 用于 Excel 电子表格解析、条码生成和扫描以及 Visio 图表处理的 Python 库
 ---

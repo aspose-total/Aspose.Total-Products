@@ -1,7 +1,7 @@
 ---
 title: C++ API om PPTM naar DOTM te converteren
 description: Exporteer PPTM naar DOTM binnen uw C++-toepassingen
-url: /nl/cpp/conversion/pptm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

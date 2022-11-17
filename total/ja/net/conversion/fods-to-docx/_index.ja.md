@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してFODSをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでFODSをDOCXに変換する
-url: /ja/net/conversion/fods-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

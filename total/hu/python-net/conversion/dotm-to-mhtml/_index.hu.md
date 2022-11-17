@@ -1,7 +1,7 @@
 ---
 title: DOTM konvertálása MHTML-re Pythonban
 description: DOTM-ből mhtml webarchívum-formátumba és HTML-fix fájlkonverzió a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/dotm-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOTM sang PST bằng Python
 description: Lưu DOTM thành PST trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/dotm-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

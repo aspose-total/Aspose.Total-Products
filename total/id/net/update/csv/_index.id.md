@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan CSV Menggunakan .NET
 description: Memodifikasi dokumen CSV di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/csv/
+
 family: total
 platformtag: .NET
 feature: update

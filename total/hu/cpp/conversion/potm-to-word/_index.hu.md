@@ -1,7 +1,7 @@
 ---
 title: C++ API a POTM WORD formátumba konvertálásához
 description: Exportálja a POTM-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/potm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

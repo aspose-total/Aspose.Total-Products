@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to GIF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i GIF'ye aktarın
-url: /tr/android-java/conversion/email-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da MHTML'yi Görüntülere Dönüştür
 description: Python uygulamalarınızda Microsoft Word kullanmadan IMAGES, PNG, BMP, JPEG, TIFF görüntü dönüştürmeye sabitlenmiş MHTML, HTML ve Html 
-url: /tr/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

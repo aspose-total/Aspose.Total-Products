@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLS-t POWERPOINT-ba a C++ segítségével
 description: A XLS konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xls-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

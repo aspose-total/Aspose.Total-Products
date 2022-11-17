@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в PST в Python
 description: Сохраняйте EPUB в PST в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/epub-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

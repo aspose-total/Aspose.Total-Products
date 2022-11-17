@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをEMFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをEMFにエクスポートする
-url: /ja/android-java/conversion/emlx-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

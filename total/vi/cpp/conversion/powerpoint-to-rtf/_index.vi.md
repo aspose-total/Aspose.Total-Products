@@ -1,7 +1,7 @@
 ---
 title: API C++ để chuyển đổi POWERPOINT sang RTF
 description: Xuất POWERPOINT sang RTF trong các ứng dụng C++ của bạn
-url: /vi/cpp/conversion/powerpoint-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

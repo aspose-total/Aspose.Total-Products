@@ -1,6 +1,6 @@
 ---
 title: การแปลงสเปรดชีต Microsoft Excel และรูปแบบ Visio ผ่าน Python 
-url: /th/python-java/conversion/
+
 description: แปลงไฟล์ Excel XLS XLSX XLSM XLSB XLTX XLTM CSV และอื่น ๆ เช่นเดียวกับรูปแบบ Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VSTM ฯลฯ เพียงไม่กี่บรรทัดของรหัส Python
 ---
 

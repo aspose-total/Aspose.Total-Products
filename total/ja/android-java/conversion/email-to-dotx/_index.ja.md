@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOTXにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをDOTXにエクスポートする
-url: /ja/android-java/conversion/email-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t OFT-be Pythonban
 description: PNG mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

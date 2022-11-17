@@ -1,7 +1,7 @@
 ---
 title: Converti TIFF in MBOX in Python
 description: Salva TIFF in MBOX all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/tiff-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

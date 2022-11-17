@@ -1,7 +1,7 @@
 ---
 title: Convert OST to RTF in Python
 description: Save OST to RTF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/ost-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

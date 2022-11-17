@@ -1,7 +1,7 @@
 ---
 title: Converteer PPSM naar XLSX in Android via Java
 description: Converteer PPSM naar XLSX in Android via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/android-java/conversion/ppsm-to-xlsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw PPSM-invoerdocument met een wachtwoord is beveiligd, kunt u het niet naar XLSX converteren zonder het wachtwoord te gebruiken. Met de API kunt u het versleutelde document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u kunt proberen een versleuteld document met een wachtwoord te openen:
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Met behulp van de API kunt u ook het met een wachtwoord beveiligde document open
 Tijdens het converteren van een PPSM-bestand naar XLSX, kunt u ook een watermerk toevoegen aan uw uitvoer-XLSX-bestandsformaat. Om een watermerk toe te voegen, maakt u een nieuwe werkmap om het geconverteerde HTML-bestand te openen. Selecteer werkblad via de index, maak een vorm en gebruik de functie addTextEffect, stel kleuren, transparantie en meer in. Daarna kunt u uw HTML-document opslaan als XLSX met Watermark.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

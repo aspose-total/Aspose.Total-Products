@@ -1,7 +1,7 @@
 ---
 title: Converteer TEXT naar EMAIL in Python
 description: Bewaar TEXT naar EMAIL binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/text-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

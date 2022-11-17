@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCMにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをDOCMに変換する
-url: /ja/android-java/conversion/pptm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

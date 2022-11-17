@@ -1,7 +1,7 @@
 ---
 title: Convert ICS to ICS in Python
 description: Save ICS to ICS within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/gif-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOCX till ODS i C++
 description: C++ API för att konvertera DOCX till ODS utan att använda Microsoft Word eller Microsoft Excel
-url: /sv/cpp/conversion/docx-to-ods/
+
 family: total
 platformtag: cpp
 feature: conversion

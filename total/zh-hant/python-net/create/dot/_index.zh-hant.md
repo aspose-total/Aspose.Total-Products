@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中創建 DOT
 description: 使用 Python 應用程序生成 DOT 文件，而不使用 Microsoft Word。 
-url: /zh-hant/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

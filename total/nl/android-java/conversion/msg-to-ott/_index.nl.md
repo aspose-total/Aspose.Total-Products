@@ -1,7 +1,7 @@
 ---
 title: Render MSG naar OTT in de Andorid-app
 description: Exporteer MSG naar OTT zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/msg-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

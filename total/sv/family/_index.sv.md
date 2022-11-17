@@ -1,7 +1,7 @@
 ---
 title: Filformatautomations-API:er för flera plattformar - Aspose 
 weight: 10
-url: /sv/family/
+
 description: Microsoft Excel Word PowerPoint E-post PDF Visio Project Streckkod OCR Imaging OneNote 3D och CAD Manipulation API:er för .NET, Java, Android, C++. Komponenter för SharePoint, tillägg för rapporteringstjänster och exportörer för JasperReports.
 ---
 

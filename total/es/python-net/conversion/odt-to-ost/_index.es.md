@@ -1,7 +1,7 @@
 ---
 title: Convertir ODT a OST en Python
 description: Guarde ODT en OST dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/odt-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

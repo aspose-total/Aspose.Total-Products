@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t EMAIL-be Pythonban
 description: TIFF mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

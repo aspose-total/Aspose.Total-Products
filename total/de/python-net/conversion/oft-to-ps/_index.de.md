@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie OFT in PS in Python
 description: Speichern Sie OFT in PS in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/oft-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till FLATOPC i Andorid-appen
 description: Exportera OFT till FLATOPC utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

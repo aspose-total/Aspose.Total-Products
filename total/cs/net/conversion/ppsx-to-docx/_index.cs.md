@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na DOCX přes C# .NET 
-url: /cs/net/conversion/ppsx-to-docx/ 
+
 description: Převádějte dokumenty ppsx aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

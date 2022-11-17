@@ -1,6 +1,6 @@
 ---
 title: A TXT konvertálása PPSM-re C# .NET-en keresztül 
-url: /hu/net/conversion/txt-to-ppsm/ 
+
 description: Konvertálja a Word txt dokumentumokat PowerPoint ppsm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

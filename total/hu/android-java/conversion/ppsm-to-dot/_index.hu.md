@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot DOT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot DOT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

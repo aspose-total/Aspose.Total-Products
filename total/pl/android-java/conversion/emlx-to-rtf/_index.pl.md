@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMLX do RTF w aplikacji Andorid
 description: Eksportuj EMLX do RTF bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/emlx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で TEXT を EMAIL に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で TEXT を EMAIL に保存します。
-url: /ja/python-net/conversion/text-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

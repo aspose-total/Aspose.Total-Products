@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t GIF-be Pythonban
 description: Mentse a EMAIL-t GIF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

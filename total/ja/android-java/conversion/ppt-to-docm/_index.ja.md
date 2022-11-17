@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCMにPPTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOCMに変換する
-url: /ja/android-java/conversion/ppt-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

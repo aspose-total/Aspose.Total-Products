@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t TIFF-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t TIFF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

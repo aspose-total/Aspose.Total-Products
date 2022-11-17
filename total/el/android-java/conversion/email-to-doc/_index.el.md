@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε DOC στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε DOC χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

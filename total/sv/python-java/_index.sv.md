@@ -1,6 +1,6 @@
 ---
 title: Python File Automation Libraries - Aspose
-url: /sv/python-java/
+
 url_ignore: /python-java/ 
 description: Python-bibliotek för Excel-kalkylbladsanalys, streckkodsgenerering och -skanning samt Visio-diagrambehandling
 ---

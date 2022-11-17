@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLTM-t POWERPOINT-ba a C++ segítségével
 description: A XLTM konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xltm-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

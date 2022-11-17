@@ -1,7 +1,7 @@
 ---
 title: Python で DOT を MBOX に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で DOT を MBOX に保存します。
-url: /ja/python-net/conversion/dot-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

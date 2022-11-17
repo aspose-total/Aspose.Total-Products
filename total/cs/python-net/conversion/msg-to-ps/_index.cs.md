@@ -1,7 +1,7 @@
 ---
 title: Převést MSG na PS v Pythonu
 description: Uložte MSG do PS ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/msg-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

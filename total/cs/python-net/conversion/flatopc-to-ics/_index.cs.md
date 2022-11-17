@@ -1,7 +1,7 @@
 ---
 title: Převést FLATOPC na ICS v Pythonu
 description: Ukládejte FLATOPC do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/flatopc-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

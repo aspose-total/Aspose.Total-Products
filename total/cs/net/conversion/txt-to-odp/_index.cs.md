@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na ODP přes C# .NET 
-url: /cs/net/conversion/txt-to-odp/ 
+
 description: Převeďte dokumenty Word txt na soubory PowerPoint odp pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

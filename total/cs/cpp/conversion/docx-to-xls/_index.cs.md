@@ -1,7 +1,7 @@
 ---
 title: Převést DOCX na XLS v C++
 description: C++ API pro převod DOCX do XLS bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/cpp/conversion/docx-to-xls/
+
 family: total
 platformtag: cpp
 feature: conversion

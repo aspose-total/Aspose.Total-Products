@@ -1,7 +1,7 @@
 ---
 title: Rendre EML en XPS dans l'application Andorid
 description: Exportez EML vers XPS sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/eml-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++でDOCXをEXCELに変換する
 description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCXをEXCELに変換するC++API
-url: /ja/cpp/conversion/docx-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion

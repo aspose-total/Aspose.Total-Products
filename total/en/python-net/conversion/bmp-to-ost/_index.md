@@ -1,7 +1,7 @@
 ---
 title: Convert BMP to OST in Python
 description: Save BMP to OST within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/bmp-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

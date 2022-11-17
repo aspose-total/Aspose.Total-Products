@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCX إلى تنسيق JSON في C++
 description: قم بتصدير DOCX إلى JSON في C++ دون استخدام Microsoft Excel أو Word
-url: /ar/cpp/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

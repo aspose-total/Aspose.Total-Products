@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してSXCをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでSXCをPPTXに変換する
-url: /ja/net/conversion/sxc-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

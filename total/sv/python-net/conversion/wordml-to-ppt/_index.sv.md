@@ -1,7 +1,7 @@
 ---
 title: Konvertera WORDML till PPT i Python
 description: WORDML till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/wordml-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

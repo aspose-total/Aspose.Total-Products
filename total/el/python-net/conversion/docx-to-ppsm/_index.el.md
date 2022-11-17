@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCX σε PPSM στην Python
 description: Μετατροπή DOCX σε PPSM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/docx-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

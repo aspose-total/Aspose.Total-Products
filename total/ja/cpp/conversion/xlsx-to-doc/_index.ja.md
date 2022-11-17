@@ -1,7 +1,7 @@
 ---
 title: C++でXLSXをDOCに変換する
 description: C++アプリケーション内でXLSXをDOCに変換する
-url: /ja/cpp/conversion/xlsx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

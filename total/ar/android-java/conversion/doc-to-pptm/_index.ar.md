@@ -1,7 +1,7 @@
 ---
 title: تحويل DOC إلى PPTM في Android عبر Java
 description: DOC لتحويل PPTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
-url: /ar/android-java/conversion/doc-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPT ODP POTX PPTX POWERPOINT PPSX POT POTM PPSM PPS
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPT ODP POTX PPTX POWERPOINT PPSX POT POTM PPSM PPS
 يمكنك أيضًا تحويل DOC المحمي بكلمة مرور إلى PPTM داخل تطبيقات Android. إذا كان مستند DOC الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى تنسيق PPTM بدون استخدام كلمة المرور. لفتح مستند مشفر ، يمكنك تعيين كلمة المرور الصحيحة في كائن LoadOptions وتمريرها إلى مُنشئ المستند.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

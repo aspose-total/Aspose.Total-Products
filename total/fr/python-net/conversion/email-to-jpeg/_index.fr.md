@@ -1,7 +1,7 @@
 ---
 title: Convertir EMAIL en JPEG en Python
 description: Enregistrez EMAIL au format JPEG dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/email-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t PPTX-be Pythonban
 description: WORD-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/word-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

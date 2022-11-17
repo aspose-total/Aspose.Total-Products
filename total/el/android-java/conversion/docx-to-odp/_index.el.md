@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCX σε ODP στο Android μέσω Java
 description: Μετατροπή DOCX σε ODP στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
-url: /el/android-java/conversion/docx-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az MHTML-t DOT-be Pythonban
 description: Az MHTML és a Html DOT formátumú átalakítása a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/mhtml-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

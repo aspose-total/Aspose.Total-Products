@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPDFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをPDFにエクスポートする
-url: /ja/android-java/conversion/msg-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

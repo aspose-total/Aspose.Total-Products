@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do MD v aplikaci Andorid
 description: Exportujte EMAIL do MD bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLT σε Python
 description: Δημιουργήστε αρχείο XLT χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/xlt/
+
 family: total
 platformtag: Python
 feature: create

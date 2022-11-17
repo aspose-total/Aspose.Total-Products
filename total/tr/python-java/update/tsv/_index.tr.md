@@ -1,7 +1,7 @@
 ---
 title: Python Kullanarak TSV Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan Python uygulamalarında TSV belgesini değiştirin. 
-url: /tr/python-java/update/tsv/
+
 family: total
 platformtag: Python
 feature: update

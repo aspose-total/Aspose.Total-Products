@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FODS-t POWERPOINT-ba a C++ segítségével
 description: A FODS konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

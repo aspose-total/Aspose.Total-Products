@@ -1,7 +1,7 @@
 ---
 title: Render EMLX ke PS di Aplikasi Andorid
 description: Ekspor EMLX ke PS tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/emlx-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

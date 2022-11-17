@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to FLATOPC'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i FLATOPC'ye aktarın
-url: /tr/android-java/conversion/email-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

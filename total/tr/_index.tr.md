@@ -1,7 +1,7 @@
 ---
 title: Şirket İçi, Bulut ve Uygulama Tabanlı Dosya Formatı Çözümleri 
 weight: 9630
-url: /tr/
+
 description: Şirket İçi veya Bulut API'lerini kullanarak belge işleme uygulamaları oluşturun veya 100'den fazla dosya biçimini görüntülemek, karşılaştırmak, incelemek veya dönüştürmek için platformlar arası uygulamaları kullanın
 ---
 

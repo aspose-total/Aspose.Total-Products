@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή CSV σε DOC στο Android
 description: Android API για μετατροπή CSV σε DOC χωρίς χρήση του Microsoft Word
-url: /el/android-java/conversion/csv-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Document document = new Document("pdfOutput.pdf");
 // save document in DOC format
 document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.csv");
 DocumentPropertyCollection customProperties = workbook.getWorksheets().getCustomDocumentProperties();
 // remove a custom document property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

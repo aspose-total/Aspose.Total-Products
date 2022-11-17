@@ -1,7 +1,7 @@
 ---
 title: Exportar POT a DOC en Andorid a través de Java
 description: Convierta POT a DOC en aplicaciones móviles sin instalar ningún software
-url: /es/android-java/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

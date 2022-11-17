@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t POTX-be Pythonban
 description: DOC-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/doc-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

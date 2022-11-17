@@ -1,7 +1,7 @@
 ---
 title: Převést WORD na OST v Pythonu
 description: Ukládejte WORD do OST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/word-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

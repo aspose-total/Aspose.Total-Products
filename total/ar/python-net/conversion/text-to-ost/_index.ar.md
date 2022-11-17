@@ -1,7 +1,7 @@
 ---
 title: تحويل TEXT إلى OST في Python
 description: احفظ TEXT في OST داخل تطبيقات Python دون استخدام Microsoft Word أو Outlook
-url: /ar/python-net/conversion/text-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

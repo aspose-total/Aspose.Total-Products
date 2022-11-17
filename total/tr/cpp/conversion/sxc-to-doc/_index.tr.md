@@ -1,7 +1,7 @@
 ---
 title: C++ ile SXC'yi DOC'ye dönüştürün
 description: C++ uygulamaları içinde SXC'yi DOC'ye dönüştürün
-url: /tr/cpp/conversion/sxc-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

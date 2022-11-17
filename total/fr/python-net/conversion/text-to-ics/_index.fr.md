@@ -1,7 +1,7 @@
 ---
 title: Convertir TEXT en ICS en Python
 description: Enregistrez TEXT au format ICS dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/text-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

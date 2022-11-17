@@ -1,7 +1,7 @@
 ---
 title: Converteer JSON-indeling naar PPS in Android via Java
 description: JSON ontleden naar PPS in Android-applicaties zonder Microsoft PowerPoint te gebruiken
-url: /nl/android-java/conversion/json-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 Bovendien kunt u met de API JSON naar PPS ontleden met gespecificeerde lay-outopties. Om de lay-outopties te specificeren, kunt u de klasse [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions) gebruiken. Hiermee kunt u een array als een tabel verwerken, nulls negeren, de arraytitel negeren, de objecttitel negeren, een tekenreeks converteren naar een getal of datum, de datum- en getalnotatie instellen en de titelstijl instellen. Met al deze opties kunt u uw gegevens presenteren volgens uw behoeften. Het volgende codefragment laat zien hoe u de lay-outopties instelt.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Bovendien kunt u met de API JSON naar PPS ontleden met gespecificeerde lay-outop
 Met behulp van de API kunt u JSON ook converteren naar PPS met watermerk. Om een watermerk aan uw PPS-document toe te voegen, kunt u eerst JSON ontleden naar PPTX en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PPTX-bestand met behulp van de klasse [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), loopt u door alle dia's, voegt u tekst toe gebruik addTextFrame, stel alle relevante opties in, zoals kleur, fillType en meer, en kan het document opslaan in PPS.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

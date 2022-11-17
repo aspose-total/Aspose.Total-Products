@@ -1,7 +1,7 @@
 ---
 title: C++ API a POTM TEXT formátumba konvertálásához
 description: Exportálja a POTM-ot TEXT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/potm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

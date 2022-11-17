@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XPS-t OST-be Pythonban
 description: XPS mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/xps-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

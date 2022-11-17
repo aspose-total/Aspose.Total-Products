@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中將 EMAIL 渲染為 DOCX
 description: 在您的 Andorid 應用程序中不使用 Microsoft Word 或 Outlook 將 EMAIL 導出為 DOCX
-url: /zh-hant/android-java/conversion/email-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

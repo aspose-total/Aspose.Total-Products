@@ -1,7 +1,7 @@
 ---
 title: واجهات برمجة تطبيقات جافا لتنسيقات الملفات الشائعة - Aspose 
 weight: 60
-url: /ar/java/ 
+
 description: مجموعة من واجهات برمجة التطبيقات لمطوري Java للتعامل مع الملفات من Word Excel PDF PowerPoint Visio OneNote Email Project الصور 3D GIS.
 ---
 

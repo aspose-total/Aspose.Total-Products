@@ -1,7 +1,7 @@
 ---
 title: API C++ per convertire PPSX in WORD
 description: Esporta PPSX in WORD all'interno delle tue applicazioni C++
-url: /it/cpp/conversion/ppsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

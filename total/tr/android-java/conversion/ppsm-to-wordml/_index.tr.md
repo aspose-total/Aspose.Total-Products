@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPSM'u WORDML'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSM'u WORDML'ye dönüştürün
-url: /tr/android-java/conversion/ppsm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

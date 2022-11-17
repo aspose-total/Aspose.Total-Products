@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPTX'u FLATOPC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTX'u FLATOPC'ye dönüştürün
-url: /tr/android-java/conversion/pptx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

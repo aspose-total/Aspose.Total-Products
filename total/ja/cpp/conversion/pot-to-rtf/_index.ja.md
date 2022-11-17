@@ -1,7 +1,7 @@
 ---
 title: POTをRTFに変換するC++API
 description: C++アプリケーション内でPOTをRTFにエクスポートする
-url: /ja/cpp/conversion/pot-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

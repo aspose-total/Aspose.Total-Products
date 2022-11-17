@@ -1,6 +1,6 @@
 ---
 title: Konvertera TXT till PPSM via C# .NET 
-url: /sv/net/conversion/txt-to-ppsm/ 
+
 description: Konvertera Word txt-dokument till PowerPoint ppsm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

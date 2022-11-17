@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PPSX σε DOT στην Python
 description: Μετατροπή PPSX σε DOT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/ppsx-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

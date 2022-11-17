@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie OTT in PPTX in Python
 description: Konvertierung von OTT in PPTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/ott-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

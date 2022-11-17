@@ -1,7 +1,7 @@
 ---
 title: แปลง SXC เป็น POWERPOINT ด้วย C++
 description: แปลง SXC เป็น POWERPOINT ภายในแอปพลิเคชัน C++
-url: /th/cpp/conversion/sxc-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

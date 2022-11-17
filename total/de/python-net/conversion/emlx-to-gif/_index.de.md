@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EMLX in GIF in Python
 description: Speichern Sie EMLX in GIF in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/emlx-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to POTM in Python
 description: WORDML to POTM conversion in your Python applications without using Microsoft Word or PowerPoint 
-url: /python-net/conversion/wordml-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

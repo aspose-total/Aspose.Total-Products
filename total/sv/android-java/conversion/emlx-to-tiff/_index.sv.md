@@ -1,7 +1,7 @@
 ---
 title: Skicka EMLX till TIFF i Andorid-appen
 description: Exportera EMLX till TIFF utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/emlx-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

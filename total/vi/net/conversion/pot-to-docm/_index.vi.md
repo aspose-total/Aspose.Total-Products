@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POT sang DOCM qua C# .NET 
-url: /vi/net/conversion/pot-to-docm/ 
+
 description: Chuyển đổi tài liệu pot PowerPoint sang tệp Word docm bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

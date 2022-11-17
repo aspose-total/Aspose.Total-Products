@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az WORDML-et képekké Pythonban
 description: WORDML kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/wordml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

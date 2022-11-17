@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t OFT-be Pythonban
 description: OTT mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ott-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

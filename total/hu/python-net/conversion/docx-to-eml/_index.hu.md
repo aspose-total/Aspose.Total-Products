@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t EML-be Pythonban
 description: DOCX mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docx-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

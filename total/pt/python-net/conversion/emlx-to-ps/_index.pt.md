@@ -1,7 +1,7 @@
 ---
 title: Converter EMLX para PS em Python
 description: Salve EMLX para PS em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/emlx-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

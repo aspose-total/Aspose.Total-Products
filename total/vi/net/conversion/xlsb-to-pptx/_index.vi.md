@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLSB sang PPTX với .NET 
 description: Chuyển đổi XLSB sang PPTX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/xlsb-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCX naar PPSM via C++
 description: Exporteer DOCX naar PPSM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/cpp/conversion/docx-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTM POWERPOINT PPT PPS PPTX POTX PPSX POT PPTM ODP
 {{< blocks/products/pf/feature-page-header h1="C++ API om DOCX naar PPSM te converteren" h2="Exporteer DOCX naar PPSM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOCX-naar-PPSM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOCX met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPSM. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOCX-naar-PPSM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOCX met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

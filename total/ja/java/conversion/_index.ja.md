@@ -1,6 +1,6 @@
 ---
 title: Javaによるファイル形式の変換 
-url: /ja/java/conversion/
+
 description: Microsoft Office Word、Excel、PowerPoint、Outlook、PDF、HTML、3D画像、図、ビデオ形式、およびその他のさまざまな形式を、わずか数行のJavaコードで変換します。
 ---
 

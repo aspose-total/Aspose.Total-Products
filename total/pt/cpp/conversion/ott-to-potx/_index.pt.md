@@ -1,7 +1,7 @@
 ---
 title: Converter OTT para POTX via C++
 description: Exporte OTT para POTX em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint
-url: /pt/cpp/conversion/ott-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPS POWERPOINT PPTM ODP PPTX POT PPT POTM PPSX PPSM
 {{< blocks/products/pf/feature-page-header h1="API C++ para converter OTT em POTX" h2="Exporte OTT para POTX em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de OTT para POTX usando duas de suas APIs. Carregue seu OTT usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como POTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de OTT para POTX usando duas de suas APIs. Carregue seu OTT usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como POTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Potx
 pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Além da conversão de ottumentos, a API [Aspose.Words for C++](https://products
 auto options = MakeObject<LoadOptions>(u"ottPassword");
 // load the ottument from the local file system by filename:
 SharedPtr<Ottument> ott = MakeObject<Ottument>(u"Encrypted.ott", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Potx
 pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

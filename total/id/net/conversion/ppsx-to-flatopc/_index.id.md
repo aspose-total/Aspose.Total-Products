@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSX ke FLATOPC melalui C# .NET 
-url: /id/net/conversion/ppsx-to-flatopc/ 
+
 description: Konversikan dokumen PowerPoint ppsx ke file dokumen Word dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

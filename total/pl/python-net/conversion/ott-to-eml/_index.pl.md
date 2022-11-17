@@ -1,7 +1,7 @@
 ---
 title: Konwertuj OTT na EML w Pythonie
 description: Zapisuj OTT do EML w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/ott-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPT-t OTT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppt-to-ott/ 
+
 description: Konvertálja a PowerPoint ppt dokumentumokat Word ott fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

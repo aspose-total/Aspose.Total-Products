@@ -1,7 +1,7 @@
 ---
 title: C++でFODSをPPTXに変換する
 description: C++アプリケーション内でFODSをPPTXに変換する
-url: /ja/cpp/conversion/fods-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

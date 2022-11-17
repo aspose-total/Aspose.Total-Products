@@ -1,7 +1,7 @@
 ---
 title: Převeďte MHTML na WORDML v Pythonu
 description: Převod MHTML a HtmlFixed na WORDML ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/mhtml-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

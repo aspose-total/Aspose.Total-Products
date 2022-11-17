@@ -1,7 +1,7 @@
 ---
 title: Mobil Uygulamalar için Android Dosya Biçimi İşleme API'leri - Aspose 
 weight: 50
-url: /tr/android-java/ 
+
 description: Word Excel PDF PowerPoint ve E-postalar için Android Dosya Biçimi API'leri. Mobil uygulamalarda programlı olarak düzenleme oluşturma ve belge biçimlerini dönüştürme
 ---
 

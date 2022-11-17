@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie E-MAIL über C++ nach PCL
 description: C++-API zum Konvertieren von E-MAIL in PCL, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/cpp/conversion/msg-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ msg->Save(u"HtmlOutput.html", SaveOptions::get_DefaultHtml());
 System::SharedPtr<Document> doc = System::MakeObject<Document>(u"HtmlOutput.html");
 // call save method while passing Pcl as save format
 doc->Save(u"convertedFile.Pcl");
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -60,7 +61,8 @@ System::Console::WriteLine(System::String(L"From:") + msg->get_SenderMsgAddress(
 System::Console::WriteLine(System::String(L"Body") + msg->get_Body());
 // get recipients information
 System::Console::WriteLine(System::String(L"Recipient: ") + msg->get_Recipients());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -75,7 +77,8 @@ auto doc = System::MakeObject<Document>();
 doc->Protect(ProtectionType::ReadOnly, u"password");
 // save the document.
 doc->Save(u"DocumentProtection.PasswordProtection.Pcl");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

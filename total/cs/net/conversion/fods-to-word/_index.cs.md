@@ -1,7 +1,7 @@
 ---
 title: Převeďte FODS na WORD pomocí .NET 
 description: Převeďte FODS na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/fods-to-word/
+
 family: total
 platformtag: net
 feature: conversion

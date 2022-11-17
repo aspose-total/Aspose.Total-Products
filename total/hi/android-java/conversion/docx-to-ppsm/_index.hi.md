@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से एंड्रॉइड में डीओसी को ओडीपी में कनवर्ट करें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने Android फ़ोन में DOCX से PPSM रूपांतरण
-url: /hi/android-java/conversion/docx-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion

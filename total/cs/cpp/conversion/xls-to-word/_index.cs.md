@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLS na WORD pomocí C++
 description: Převeďte XLS na WORD v aplikacích C++
-url: /cs/cpp/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

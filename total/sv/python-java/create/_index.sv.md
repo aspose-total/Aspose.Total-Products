@@ -1,6 +1,6 @@
 ---
 title: Skapa och uppdatera Microsoft Excel-filer med Python 
-url: /sv/python-java/create/
+
 description: Skapa Microsoft Excel-kalkylbladsrapporter utan att installera Microsoft Office 
 ---
 

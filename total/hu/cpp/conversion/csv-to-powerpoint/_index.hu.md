@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a CSV-t POWERPOINT-ba a C++ segítségével
 description: A CSV konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/csv-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir WORDML en ICS en Python
 description: Enregistrez WORDML au format ICS dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/wordml-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

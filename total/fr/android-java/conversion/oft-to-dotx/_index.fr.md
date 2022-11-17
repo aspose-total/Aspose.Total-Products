@@ -1,7 +1,7 @@
 ---
 title: Rendre OFT en DOTX dans l'application Andorid
 description: Exportez OFT vers DOTX sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/oft-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

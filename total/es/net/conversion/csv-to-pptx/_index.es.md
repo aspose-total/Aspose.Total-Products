@@ -1,7 +1,7 @@
 ---
 title: Convierta CSV a PPTX con .NET 
 description: Convierta CSV a PPTX en plataformas .NET Framework, .NET Core, Mono o Xamarin
-url: /es/net/conversion/csv-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

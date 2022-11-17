@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPSにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをPSにエクスポートする
-url: /ja/android-java/conversion/oft-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

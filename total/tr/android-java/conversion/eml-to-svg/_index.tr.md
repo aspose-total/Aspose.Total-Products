@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to SVG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i SVG'ye aktarın
-url: /tr/android-java/conversion/eml-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

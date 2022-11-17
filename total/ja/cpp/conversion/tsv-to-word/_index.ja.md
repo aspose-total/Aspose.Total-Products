@@ -1,7 +1,7 @@
 ---
 title: C++でTSVをWORDに変換する
 description: C++アプリケーション内でTSVをWORDに変換する
-url: /ja/cpp/conversion/tsv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Ekspor EXCEL ke DOCX di Android
 description: Android API untuk Mengonversi EXCEL ke DOCX tanpa menggunakan Microsoft Word
-url: /id/android-java/conversion/excel-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

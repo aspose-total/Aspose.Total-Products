@@ -1,7 +1,7 @@
 ---
 title: Konvertera JSON till bild med Python
 description: JSON till bild TIFF BMP PNG JPEG GIF EMF SVG-konvertering i dina Python-applikationer utan att använda Microsoft Excel 
-url: /sv/python-java/conversion/json-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: A TSV konvertálása WORD formátumba .NET segítségével 
 description: A TSV konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/tsv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

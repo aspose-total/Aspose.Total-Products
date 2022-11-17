@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to DOTX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i DOTX'ye aktarın
-url: /tr/android-java/conversion/email-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az ODP-t ODT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/odp-to-odt/ 
+
 description: Konvertálja a PowerPoint odp dokumentumokat Word odt fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

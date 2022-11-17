@@ -1,6 +1,6 @@
 ---
 title: A OTT konvertálása PPTX-re C# .NET-en keresztül 
-url: /hu/net/conversion/ott-to-pptx/ 
+
 description: Konvertálja a Word ott dokumentumokat PowerPoint pptx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

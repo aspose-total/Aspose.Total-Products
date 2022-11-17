@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी बनाएं
 description: Microsoft Office का उपयोग किए बिना Python अनुप्रयोगों का उपयोग करके ODS फ़ाइल बनाएँ। 
-url: /hi/python-java/create/ods/
+
 family: total
 platformtag: Python
 feature: create

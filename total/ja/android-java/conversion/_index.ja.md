@@ -1,6 +1,6 @@
 ---
 title: Android API によるドキュメント変換 
-url: /ja/android-java/conversion/
+
 description: Android 変換 API を使用して、Word、Excel、PowerPoint、HTML、PDF、および画像形式を変換します。 Android は Office docx、xlsx、pptx を PDF に変換します。 
 ---
 

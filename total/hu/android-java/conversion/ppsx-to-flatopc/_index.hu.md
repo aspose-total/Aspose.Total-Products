@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSX-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSX-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Buat XLTM dengan Python
 description: Hasilkan file XLTM menggunakan aplikasi Python tanpa menggunakan Microsoft Office. 
-url: /id/python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

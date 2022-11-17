@@ -1,6 +1,6 @@
 ---
 title: Convertir PPT en OTT via C# .NET 
-url: /fr/net/conversion/ppt-to-ott/ 
+
 description: Convertissez des documents PowerPoint ppt en fichiers ott Word avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
 ---
 

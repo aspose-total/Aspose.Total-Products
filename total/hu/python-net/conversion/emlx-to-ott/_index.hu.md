@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t OTT-be Pythonban
 description: Mentse a EMLX-t OTT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

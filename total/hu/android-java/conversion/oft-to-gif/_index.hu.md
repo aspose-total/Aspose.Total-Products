@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t GIF-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t GIF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convertir WORDML en PPSX via C# .NET 
-url: /fr/net/conversion/wordml-to-ppsx/ 
+
 description: Convertissez des documents Word en fichiers PowerPoint ppsx avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε PS στην εφαρμογή Andorid
 description: Εξαγωγή EML σε PS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

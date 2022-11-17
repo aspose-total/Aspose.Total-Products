@@ -1,7 +1,7 @@
 ---
 title: Rendre EML en WORD dans l'application Andorid
 description: Exportez EML vers WORD sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/eml-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - สร้างรายงานในรูปแบบเอกสารทางธุรกิจ
 weight: 80
-url: /th/jasperreports/ 
+
 description: JasperReports ส่งออกชุดเพื่อส่งออกรายงานไปยังรูปแบบ Word Excel PDF และ PowerPoint เพิ่มบาร์โค้ดไปยังรายงานที่ส่งออก
 ---
 

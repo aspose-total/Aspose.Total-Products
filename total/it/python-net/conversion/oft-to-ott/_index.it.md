@@ -1,7 +1,7 @@
 ---
 title: Converti OFT in OTT in Python
 description: Salva OFT in OTT nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/oft-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Interfejsy API automatyzacji formatu plików dla wielu platform — Aspose 
 weight: 10
-url: /pl/family/
+
 description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OCR Imaging OneNote 3D i interfejsy API manipulacji CAD dla .NET, Java, Android, C++. Komponenty dla SharePoint, Rozszerzenia dla Reporting Services i Exporters dla JasperReports.
 ---
 

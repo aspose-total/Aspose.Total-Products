@@ -1,7 +1,7 @@
 ---
 title: تحويل ODP إلى WORD في Python
 description: تحويل ODP إلى WORD في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/odp-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

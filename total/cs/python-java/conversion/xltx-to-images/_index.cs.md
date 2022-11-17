@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLTX na obrázek pomocí Pythonu
 description: Převod XLTX na obrázek TIFF BMP PNG JPEG GIF EMF SVG ve vašich aplikacích Python bez použití aplikace Microsoft Excel 
-url: /cs/python-java/conversion/xltx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na ODP přes C# .NET 
-url: /cs/net/conversion/dotm-to-odp/ 
+
 description: Převeďte dokumenty Word dotm na soubory PowerPoint odp pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

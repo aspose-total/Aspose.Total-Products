@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POT na DOCX w Pythonie
 description: Konwersja POT do DOCX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/pot-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

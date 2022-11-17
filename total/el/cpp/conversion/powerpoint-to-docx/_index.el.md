@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή POWERPOINT σε DOCX
 description: Εξαγωγή POWERPOINT σε DOCX στις εφαρμογές σας C++
-url: /el/cpp/conversion/powerpoint-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

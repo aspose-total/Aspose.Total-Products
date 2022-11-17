@@ -1,6 +1,6 @@
 ---
 title: Python을 사용하여 Microsoft Excel 파일 생성 및 업데이트 
-url: /ko/python-java/create/
+
 description: Microsoft Office를 설치하지 않고 Microsoft Excel 워크시트 보고서 만들기 
 ---
 

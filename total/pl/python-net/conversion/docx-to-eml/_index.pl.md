@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na EML w Pythonie
 description: Zapisuj DOCX do EML w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/docx-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi DOCM'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMAIL'yi DOCM'e kaydedin 
-url: /tr/python-net/conversion/email-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

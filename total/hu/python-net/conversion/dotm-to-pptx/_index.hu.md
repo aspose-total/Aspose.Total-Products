@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTM-t PPTX-be Pythonban
 description: DOTM-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/dotm-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

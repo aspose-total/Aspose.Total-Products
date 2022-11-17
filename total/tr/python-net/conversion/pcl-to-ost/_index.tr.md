@@ -1,7 +1,7 @@
 ---
 title: Python'da PCL'yi OST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PCL'yi OST'e kaydedin
-url: /tr/python-net/conversion/pcl-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

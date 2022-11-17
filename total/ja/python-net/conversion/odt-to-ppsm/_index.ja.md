@@ -1,7 +1,7 @@
 ---
 title: Python で ODT を PPSM に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで ODT から PPSM への変換 
-url: /ja/python-net/conversion/odt-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

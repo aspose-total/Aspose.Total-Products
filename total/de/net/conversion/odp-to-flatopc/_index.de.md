@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie ODP in FLATOPC über C# .NET 
-url: /de/net/conversion/odp-to-flatopc/ 
+
 description: Konvertieren Sie PowerPoint-ODP-Dokumente mit C# in Word-Flatopc-Dateien. Konvertieren Sie mehrere Dateien innerhalb von ASP.NET oder anderen .NET-Anwendungen.
 ---
 

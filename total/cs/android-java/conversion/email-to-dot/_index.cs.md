@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do DOT v aplikaci Andorid
 description: Exportujte EMAIL do DOT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

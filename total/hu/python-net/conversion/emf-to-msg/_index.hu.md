@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMF-t MSG-be Pythonban
 description: EMF mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/emf-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

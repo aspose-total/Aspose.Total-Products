@@ -1,7 +1,7 @@
 ---
 title: تحويل DOC إلى PPS عبر C++
 description: قم بتصدير DOC إلى PPS في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint
-url: /ar/cpp/conversion/doc-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTM POTX POWERPOINT ODP PPSM PPSX POT PPT PPTX PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOC إلى PPS" h2="تصدير DOC إلى PPS داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل DOC إلى PPS أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند DOC باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ PPS. 
+يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل DOC إلى PPS أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند DOC باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);
 auto options = MakeObject<LoadOptions>(u"docPassword");
 // load the document from the local file system by filename:
 SharedPtr<Document> doc = MakeObject<Document>(u"Encrypted.doc", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

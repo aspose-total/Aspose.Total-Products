@@ -1,7 +1,7 @@
 ---
 title: .NET के साथ EXCEL को WORD में बदलें 
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर EXCEL को WORD में बदलें
-url: /hi/net/conversion/excel-to-word/
+
 family: total
 platformtag: net
 feature: conversion

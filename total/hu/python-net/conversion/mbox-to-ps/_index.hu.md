@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t PS-be Pythonban
 description: Mentse a MBOX-t PS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

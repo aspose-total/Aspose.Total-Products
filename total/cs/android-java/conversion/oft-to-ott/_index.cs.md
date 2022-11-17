@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do OTT v aplikaci Andorid
 description: Exportujte OFT do OTT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

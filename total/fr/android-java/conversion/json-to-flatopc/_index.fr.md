@@ -1,7 +1,7 @@
 ---
 title: Convertir le format JSON en FLATOPC sous Android via Java
 description: Analyser JSON en FLATOPC en Java sans utiliser Microsoft Word
-url: /fr/android-java/conversion/json-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-doc.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 De plus, l'API vous permet de définir des options de mise en page pour votre format JSON lors de l'analyse de JSON vers FLATOPC à l'aide de [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Il vous permet de traiter Array comme une table, d'ignorer les valeurs nulles, d'ignorer le titre du tableau, d'ignorer le titre de l'objet, de convertir une chaîne en nombre ou en date, de définir le format de la date et du nombre et de définir le style du titre. Toutes ces options vous permettent de présenter vos données selon vos besoins. L'extrait de code suivant vous montre comment définir les options de mise en page.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ De plus, l'API vous permet de définir des options de mise en page pour votre fo
 À l'aide de l'API, vous pouvez également convertir JSON en FLATOPC avec filigrane. Afin d'ajouter un filigrane à votre document FLATOPC, vous pouvez d'abord analyser le fichier JSON en PDF et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PDF nouvellement créé à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur FLATOPC.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Konversi ODT ke ICS dengan Python
 description: Simpan ODT ke ICS dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/odt-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

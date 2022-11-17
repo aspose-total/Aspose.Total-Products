@@ -1,7 +1,7 @@
 ---
 title: C++ API untuk Mengonversi POTX ke DOTX
 description: Ekspor POTX ke DOTX dalam aplikasi C++ Anda
-url: /id/cpp/conversion/potx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

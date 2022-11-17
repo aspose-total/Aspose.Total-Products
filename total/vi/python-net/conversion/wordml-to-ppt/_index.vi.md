@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORDML sang PPT bằng Python
 description: Chuyển đổi WORDML sang PPT trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint 
-url: /vi/python-net/conversion/wordml-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

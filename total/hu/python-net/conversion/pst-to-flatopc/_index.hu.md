@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t FLATOPC-be Pythonban
 description: Mentse a PST-t FLATOPC formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C++ para converter PPSM em TEXT
 description: Exporte PPSM para TEXT em seus aplicativos C++
-url: /pt/cpp/conversion/ppsm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

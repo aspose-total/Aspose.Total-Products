@@ -1,6 +1,6 @@
 ---
 title: Convierta RTF a PPTM a través de C# .NET 
-url: /es/net/conversion/rtf-to-pptm/ 
+
 description: Convierta documentos de Word rtf en archivos pptm de PowerPoint con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
 ---
 

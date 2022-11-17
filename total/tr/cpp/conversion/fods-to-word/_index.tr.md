@@ -1,7 +1,7 @@
 ---
 title: C++ ile FODS'yi WORD'ye dönüştürün
 description: C++ uygulamaları içinde FODS'yi WORD'ye dönüştürün
-url: /tr/cpp/conversion/fods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

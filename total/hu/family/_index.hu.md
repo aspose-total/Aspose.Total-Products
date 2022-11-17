@@ -1,7 +1,7 @@
 ---
 title: Fájlformátum-automatizálási API-k több platformhoz – Aspose 
 weight: 10
-url: /hu/family/
+
 description: Microsoft Excel Word PowerPoint e-mail PDF Visio Project Vonalkód OCR képalkotás OneNote 3D és CAD manipulációs API-k .NET, Java, Android, C++ rendszerekhez. A SharePoint összetevői, a jelentéskészítési szolgáltatások bővítményei és a JasperReports exportőrei.
 ---
 

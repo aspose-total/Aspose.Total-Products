@@ -1,7 +1,7 @@
 ---
 title: Konversi SXC ke POWERPOINT dengan C++
 description: Konversi SXC ke POWERPOINT dalam aplikasi C++
-url: /id/cpp/conversion/sxc-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

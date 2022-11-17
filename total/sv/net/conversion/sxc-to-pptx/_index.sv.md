@@ -1,7 +1,7 @@
 ---
 title: Konvertera SXC till PPTX med .NET 
 description: Konvertera SXC till PPTX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/sxc-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

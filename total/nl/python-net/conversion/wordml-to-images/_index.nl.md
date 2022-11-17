@@ -1,7 +1,7 @@
 ---
 title: Converteer WORDML naar afbeeldingen in Python
 description: WORDML naar afbeelding TIFF BMP PNG JPEG GIF SVG-conversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/wordml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

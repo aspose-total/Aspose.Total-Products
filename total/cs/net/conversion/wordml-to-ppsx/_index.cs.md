@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPSX přes C# .NET 
-url: /cs/net/conversion/wordml-to-ppsx/ 
+
 description: Převeďte dokumenty Word wordml na soubory PowerPoint ppsx pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

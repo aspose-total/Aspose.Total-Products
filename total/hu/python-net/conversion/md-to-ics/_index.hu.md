@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t ICS-be Pythonban
 description: MD mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

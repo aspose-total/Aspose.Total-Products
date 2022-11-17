@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEXT в ICS в Python
 description: Сохраняйте TEXT в ICS в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/text-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

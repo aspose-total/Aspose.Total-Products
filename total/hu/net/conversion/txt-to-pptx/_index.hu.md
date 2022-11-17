@@ -1,6 +1,6 @@
 ---
 title: A TXT konvertálása PPTX-re C# .NET-en keresztül 
-url: /hu/net/conversion/txt-to-pptx/ 
+
 description: Konvertálja a Word txt dokumentumokat PowerPoint pptx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

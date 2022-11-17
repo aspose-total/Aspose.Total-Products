@@ -1,7 +1,7 @@
 ---
 title: Crea DOT in Python
 description: Genera file DOT utilizzando applicazioni Python senza utilizzare Microsoft Word. 
-url: /it/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

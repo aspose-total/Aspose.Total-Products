@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

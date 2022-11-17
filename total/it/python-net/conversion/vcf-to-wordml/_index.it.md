@@ -1,7 +1,7 @@
 ---
 title: Converti VCF in WORDML in Python
 description: Salva VCF in WORDML nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/vcf-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

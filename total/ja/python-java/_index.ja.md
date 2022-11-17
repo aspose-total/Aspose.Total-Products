@@ -1,6 +1,6 @@
 ---
 title: Pythonファイル自動化ライブラリ-Aspose
-url: /ja/python-java/
+
 url_ignore: /python-java/ 
 description: Excelスプレッドシートの解析、バーコードの生成とスキャン、およびVisioダイアグラム処理用のPythonライブラリ
 ---

@@ -1,7 +1,7 @@
 ---
 title: CSV-bestand bijwerken met Python
 description: Wijzig CSV-document in Python-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/python-java/update/csv/
+
 family: total
 platformtag: Python
 feature: update

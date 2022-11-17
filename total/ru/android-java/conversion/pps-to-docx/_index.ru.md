@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPS в DOCX на Andorid через Java
 description: Конвертируйте PPS в DOCX в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/pps-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

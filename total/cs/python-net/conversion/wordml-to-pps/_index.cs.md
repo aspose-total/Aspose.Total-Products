@@ -1,7 +1,7 @@
 ---
 title: Převést WORDML na PPS v Pythonu
 description: Převod WORDML na PPS ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/wordml-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

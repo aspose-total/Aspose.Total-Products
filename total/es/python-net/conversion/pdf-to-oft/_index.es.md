@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF a OFT en Python
 description: Guarde PDF en OFT dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/pdf-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

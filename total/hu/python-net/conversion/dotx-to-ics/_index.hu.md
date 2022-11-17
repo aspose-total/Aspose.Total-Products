@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t ICS-be Pythonban
 description: DOTX mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotx-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

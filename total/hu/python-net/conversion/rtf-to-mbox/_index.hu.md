@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t MBOX-be Pythonban
 description: RTF mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/rtf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

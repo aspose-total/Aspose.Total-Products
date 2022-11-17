@@ -1,7 +1,7 @@
 ---
 title: Converteer MD naar POTM in Python
 description: MD naar POTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/md-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

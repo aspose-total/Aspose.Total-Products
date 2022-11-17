@@ -1,7 +1,7 @@
 ---
 title: Converteer PST naar DOC in Python
 description: Bewaar PST naar DOC in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/pst-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

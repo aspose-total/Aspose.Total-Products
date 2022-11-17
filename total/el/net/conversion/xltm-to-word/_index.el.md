@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLTM σε WORD με .NET 
 description: Μετατροπή XLTM σε WORD σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/xltm-to-word/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PPTX'u DOTX'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPTX'u DOTX'a aktarın
-url: /tr/cpp/conversion/pptx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

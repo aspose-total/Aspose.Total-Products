@@ -1,7 +1,7 @@
 ---
 title: Konversi PNG ke VCF dengan Python
 description: Simpan PNG ke VCF dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/png-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

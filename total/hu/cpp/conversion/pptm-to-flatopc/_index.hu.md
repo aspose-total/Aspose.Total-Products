@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPTM FLATOPC formátumba konvertálásához
 description: Exportálja a PPTM-ot FLATOPC-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pptm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

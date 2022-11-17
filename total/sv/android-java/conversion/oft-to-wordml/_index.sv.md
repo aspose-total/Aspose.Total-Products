@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till WORDML i Andorid-appen
 description: Exportera OFT till WORDML utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODT-t MSG-be Pythonban
 description: ODT mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/odt-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj IMAGE na OST w Pythonie
 description: Zapisuj IMAGE do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/image-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

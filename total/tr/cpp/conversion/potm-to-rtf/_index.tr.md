@@ -1,7 +1,7 @@
 ---
 title: POTM'u RTF'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POTM'u RTF'a aktarın
-url: /tr/cpp/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

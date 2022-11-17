@@ -1,7 +1,7 @@
 ---
 title: Mettre à jour le fichier XLS à l'aide de Python
 description: Modifiez le document XLS dans les applications Python sans utiliser Microsoft Excel. 
-url: /fr/python-java/update/xls/
+
 family: total
 platformtag: Python
 feature: update

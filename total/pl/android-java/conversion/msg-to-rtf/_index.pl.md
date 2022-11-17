@@ -1,7 +1,7 @@
 ---
 title: Renderuj MSG do RTF w aplikacji Andorid
 description: Eksportuj MSG do RTF bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/msg-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POTX'u RTF'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTX'u RTF'ye dönüştürün
-url: /tr/android-java/conversion/potx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

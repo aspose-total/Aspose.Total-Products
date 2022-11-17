@@ -1,7 +1,7 @@
 ---
 title: 여러 플랫폼을 위한 파일 형식 자동화 API - Aspose 
 weight: 10
-url: /ko/family/
+
 description: Microsoft Excel Word PowerPoint 이메일 PDF Visio 프로젝트 바코드 OCR 이미징 .NET, Java, Android, C++용 OneNote 3D 및 CAD 조작 API. SharePoint용 구성 요소, 보고 서비스용 확장 및 JasperReports용 내보내기.
 ---
 

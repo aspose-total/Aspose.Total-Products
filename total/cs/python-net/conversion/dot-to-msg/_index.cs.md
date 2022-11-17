@@ -1,7 +1,7 @@
 ---
 title: Převést DOT na MSG v Pythonu
 description: Ukládejte DOT do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dot-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

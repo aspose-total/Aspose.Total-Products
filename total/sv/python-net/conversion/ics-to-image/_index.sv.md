@@ -1,7 +1,7 @@
 ---
 title: Konvertera ICS till IMAGE i Python
 description: Spara ICS till IMAGE i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/ics-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

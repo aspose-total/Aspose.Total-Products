@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji PPSM na ODT
 description: Eksportuj PPSM do ODT w swoich aplikacjach C++
-url: /pl/cpp/conversion/ppsm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti MBOX in IMAGE in Python
 description: Salva MBOX in IMAGE nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/mbox-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

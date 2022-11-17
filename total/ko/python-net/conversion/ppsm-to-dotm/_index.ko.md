@@ -1,7 +1,7 @@
 ---
 title: Python에서 PPSM를 DOTM로 변환
 description: Microsoft Word 또는 PowerPoint를 사용하지 않고 Python 응용 프로그램에서 PPSM에서 DOTM로 변환 
-url: /ko/python-net/conversion/ppsm-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

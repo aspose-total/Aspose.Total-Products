@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPT в DOTX на Andorid через Java
 description: Конвертируйте PPT в DOTX в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/ppt-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

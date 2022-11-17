@@ -1,7 +1,7 @@
 ---
 title: Exporter PPSX vers WORDML sur Andorid via Java
 description: Convertissez PPSX en WORDML dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/ppsx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

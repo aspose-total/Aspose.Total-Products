@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε Εικόνες στην Python
 description: Μετατροπή εικόνων MHTML, HTML και Html σε IMAGES, PNG, BMP, JPEG, TIFF στις εφαρμογές σας Python χωρίς τη χρήση του Microsoft Word 
-url: /el/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

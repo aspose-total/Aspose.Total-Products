@@ -1,7 +1,7 @@
 ---
 title: Converteer PPSX naar JSON-formaat via C++
 description: Exporteer PPSX naar JSON-formaat in C++ zonder Microsoft Excel of Powerpoint te gebruiken
-url: /nl/cpp/conversion/ppsx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-powerpoint-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw invoer-PPSX-document is beveiligd met een wachtwoord, kunt u het niet converteren naar JSON-indeling zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u een versleuteld document opent met een wachtwoord.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "de80a9825cf476cbe778a950c461facc" "convert-protected-powerpoint-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

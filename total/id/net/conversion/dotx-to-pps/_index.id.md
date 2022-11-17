@@ -1,6 +1,6 @@
 ---
 title: Konversi DOTX ke PPS melalui C# .NET 
-url: /id/net/conversion/dotx-to-pps/ 
+
 description: Konversikan dokumen dokumen Word ke file pps PowerPoint dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

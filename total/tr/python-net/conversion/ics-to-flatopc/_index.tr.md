@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi FLATOPC'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi FLATOPC'e kaydedin 
-url: /tr/python-net/conversion/ics-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

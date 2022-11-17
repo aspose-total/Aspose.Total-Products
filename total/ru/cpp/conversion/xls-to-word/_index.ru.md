@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLS в WORD с помощью C++
 description: Преобразование XLS в WORD в приложениях C++
-url: /ru/cpp/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में PNG को EMAIL रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EMAIL को PNG में निर्यात करें
-url: /hi/android-java/conversion/email-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

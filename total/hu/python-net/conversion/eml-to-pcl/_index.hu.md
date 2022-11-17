@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t PCL-be Pythonban
 description: Mentse a EML-t PCL formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

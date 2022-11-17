@@ -1,7 +1,7 @@
 ---
 title: C++ API для преобразования PPTX в WORDML
 description: Экспорт PPTX в WORDML в ваших приложениях C++
-url: /ru/cpp/conversion/pptx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

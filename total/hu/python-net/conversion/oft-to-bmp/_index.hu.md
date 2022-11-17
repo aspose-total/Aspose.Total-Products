@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t BMP-be Pythonban
 description: Mentse a OFT-t BMP formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

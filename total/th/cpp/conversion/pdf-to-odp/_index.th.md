@@ -1,7 +1,7 @@
 ---
 title: C++ API เพื่อแปลง PDF เป็น ODP
 description: แปลง PDF เป็น ODP ผ่าน C++ โดยไม่ต้องใช้ Microsoft Word หรือ Adobe Acrobat Reader
-url: /th/cpp/conversion/pdf-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"PptxOutput.pptx", SaveFormat::Pptx);
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"PptxOutput.pptx");
 // save the presentation as Odp format
 prs->Save(u"output.odp", Aspose::Slides::Export::SaveFormat::Odp);  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.pdf", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -79,7 +81,8 @@ auto image = pres->get_Images()->AddImage(imageData);
 slide->get_Shapes()->AddPictureFrame(ShapeType::Rectangle, 10.0f, 10.0f, 100.0f, 100.0f, image);
 // save updated file
 pres->Save(u"updated.odp", SaveFormat::Odp);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

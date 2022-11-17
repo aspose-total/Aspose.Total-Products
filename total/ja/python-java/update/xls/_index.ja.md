@@ -1,7 +1,7 @@
 ---
 title: Python を使用して XLS ファイルを更新する
 description: Microsoft Excel を使用せずに、Python アプリケーションで XLS ドキュメントを変更します。 
-url: /ja/python-java/update/xls/
+
 family: total
 platformtag: Python
 feature: update

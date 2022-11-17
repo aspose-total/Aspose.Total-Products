@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi XPS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi XPS'e kaydedin 
-url: /tr/python-net/conversion/ics-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

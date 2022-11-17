@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t EPUB-nek az Andorid alkalmazásban
 description: Exportálja az EML-t EPUB-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

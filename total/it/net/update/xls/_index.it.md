@@ -1,7 +1,7 @@
 ---
 title: Aggiorna il file XLS utilizzando .NET
 description: Modifica i documenti XLS nelle applicazioni C# VB.NET senza utilizzare Microsoft Excel. 
-url: /it/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

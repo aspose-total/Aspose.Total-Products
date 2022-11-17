@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをODTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをODTにエクスポートする
-url: /ja/android-java/conversion/emlx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

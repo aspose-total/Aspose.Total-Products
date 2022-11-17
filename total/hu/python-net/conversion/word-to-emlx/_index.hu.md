@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t EMLX-be Pythonban
 description: WORD mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/word-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

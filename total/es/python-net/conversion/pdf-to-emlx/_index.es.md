@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF a EMLX en Python
 description: Guarde PDF en EMLX dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/pdf-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

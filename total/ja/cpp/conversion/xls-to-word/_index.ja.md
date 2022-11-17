@@ -1,7 +1,7 @@
 ---
 title: C++でXLSをWORDに変換する
 description: C++アプリケーション内でXLSをWORDに変換する
-url: /ja/cpp/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

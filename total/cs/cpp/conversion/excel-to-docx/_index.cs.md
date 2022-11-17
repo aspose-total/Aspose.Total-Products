@@ -1,7 +1,7 @@
 ---
 title: Převeďte EXCEL na DOCX pomocí C++
 description: Převeďte EXCEL na DOCX v aplikacích C++
-url: /cs/cpp/conversion/excel-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

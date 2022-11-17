@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى BMP في تطبيق Andorid
 description: قم بتصدير EMLX إلى BMP دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/emlx-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

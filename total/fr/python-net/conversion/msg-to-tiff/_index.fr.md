@@ -1,7 +1,7 @@
 ---
 title: Convertir MSG en TIFF en Python
 description: Enregistrez MSG au format TIFF dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/msg-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

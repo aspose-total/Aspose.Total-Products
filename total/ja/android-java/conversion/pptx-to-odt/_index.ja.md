@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのODTにPPTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTXをODTに変換する
-url: /ja/android-java/conversion/pptx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

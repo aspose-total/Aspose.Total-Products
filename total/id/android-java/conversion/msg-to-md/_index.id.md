@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke MD di Aplikasi Andorid
 description: Ekspor MSG ke MD tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

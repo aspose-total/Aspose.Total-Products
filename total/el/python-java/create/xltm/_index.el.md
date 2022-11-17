@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLTM σε Python
 description: Δημιουργήστε αρχείο XLTM χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

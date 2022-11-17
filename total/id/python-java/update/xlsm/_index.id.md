@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSM Menggunakan Python
 description: Memodifikasi dokumen XLSM dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xlsm/
+
 family: total
 platformtag: Python
 feature: update

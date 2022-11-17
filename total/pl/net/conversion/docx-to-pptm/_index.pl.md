@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCX na PPTM przez C# .NET 
-url: /pl/net/conversion/docx-to-pptm/ 
+
 description: Konwertuj dokumenty Word docx na pliki pptm programu PowerPoint za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

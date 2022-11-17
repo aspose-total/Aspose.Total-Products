@@ -1,7 +1,7 @@
 ---
 title: API C++ per convertire PPTX in ODT
 description: Esporta PPTX in ODT all'interno delle tue applicazioni C++
-url: /it/cpp/conversion/pptx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

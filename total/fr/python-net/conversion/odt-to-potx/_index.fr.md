@@ -1,7 +1,7 @@
 ---
 title: Convertir ODT en POTX en Python
 description: Conversion ODT en POTX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/odt-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

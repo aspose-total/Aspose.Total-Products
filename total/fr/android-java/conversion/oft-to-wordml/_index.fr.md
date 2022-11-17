@@ -1,7 +1,7 @@
 ---
 title: Rendre OFT en WORDML dans l'application Andorid
 description: Exportez OFT vers WORDML sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/oft-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

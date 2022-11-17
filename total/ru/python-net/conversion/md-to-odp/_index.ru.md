@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в ODP в Python
 description: Преобразование MD в ODP в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/md-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

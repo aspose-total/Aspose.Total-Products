@@ -1,7 +1,7 @@
 ---
 title: Konversi DOC ke PPSX dengan Python
 description: Konversi DOC ke PPSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/doc-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

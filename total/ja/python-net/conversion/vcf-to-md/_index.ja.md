@@ -1,7 +1,7 @@
 ---
 title: Python で VCF を MD に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで VCF を MD に保存します。 
-url: /ja/python-net/conversion/vcf-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

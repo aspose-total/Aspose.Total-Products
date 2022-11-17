@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLSM χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLSM σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

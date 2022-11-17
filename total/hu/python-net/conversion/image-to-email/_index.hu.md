@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a IMAGE-t EMAIL-be Pythonban
 description: IMAGE mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/image-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

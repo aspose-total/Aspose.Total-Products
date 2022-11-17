@@ -1,7 +1,7 @@
 ---
 title: .NET ile CSV'yi WORD'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında CSV'yi WORD'ye dönüştürün
-url: /tr/net/conversion/csv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

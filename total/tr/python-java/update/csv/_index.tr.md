@@ -1,7 +1,7 @@
 ---
 title: Python Kullanarak CSV Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan Python uygulamalarında CSV belgesini değiştirin. 
-url: /tr/python-java/update/csv/
+
 family: total
 platformtag: Python
 feature: update

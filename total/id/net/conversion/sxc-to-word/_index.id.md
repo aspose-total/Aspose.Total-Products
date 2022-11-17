@@ -1,7 +1,7 @@
 ---
 title: Konversi SXC ke WORD dengan .NET 
 description: Konversi SXC ke WORD di .NET Framework, .NET Core, Mono atau Platform Xamarin
-url: /id/net/conversion/sxc-to-word/
+
 family: total
 platformtag: net
 feature: conversion

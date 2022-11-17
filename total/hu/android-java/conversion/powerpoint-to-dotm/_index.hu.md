@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot DOTM-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot DOTM-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

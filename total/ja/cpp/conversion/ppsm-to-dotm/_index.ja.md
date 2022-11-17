@@ -1,7 +1,7 @@
 ---
 title: PPSMをDOTMに変換するC++API
 description: C++アプリケーション内でPPSMをDOTMにエクスポートする
-url: /ja/cpp/conversion/ppsm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

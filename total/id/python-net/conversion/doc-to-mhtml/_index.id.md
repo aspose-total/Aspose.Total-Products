@@ -1,7 +1,7 @@
 ---
 title: Konversi DOC ke MHTML dengan Python
 description: DOC ke format arsip Web mhtml dan konversi file HtmlFixed dalam aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/doc-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Renderizar EML a TEXT en la aplicación Andorid
 description: Exporte EML a TEXT sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/eml-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

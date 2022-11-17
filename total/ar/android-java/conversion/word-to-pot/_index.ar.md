@@ -1,7 +1,7 @@
 ---
 title: تحويل WORD إلى POT في Android عبر Java
 description: WORD لتحويل POT في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
-url: /ar/android-java/conversion/word-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPSM PPTX PPSX POTM POTX PPT ODP PPS PPTM POWERPOINT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPSM PPTX PPSX POTM POTX PPT ODP PPS PPTM POWERPOINT
 يمكنك أيضًا تحويل WORD المحمي بكلمة مرور إلى POT داخل تطبيقات Android. إذا كان مستند WORD الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى تنسيق POT بدون استخدام كلمة المرور. لفتح مستند مشفر ، يمكنك تعيين كلمة المرور الصحيحة في كائن LoadOptions وتمريرها إلى مُنشئ المستند.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

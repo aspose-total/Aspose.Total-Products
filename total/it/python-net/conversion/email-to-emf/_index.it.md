@@ -1,7 +1,7 @@
 ---
 title: Converti EMAIL in EMF in Python
 description: Salva EMAIL in EMF nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/email-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

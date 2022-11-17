@@ -1,7 +1,7 @@
 ---
 title: Uppdatera CSV-fil med .NET
 description: Ändra CSV-dokument i C# VB.NET-applikationer utan att använda Microsoft Excel. 
-url: /sv/net/update/csv/
+
 family: total
 platformtag: .NET
 feature: update

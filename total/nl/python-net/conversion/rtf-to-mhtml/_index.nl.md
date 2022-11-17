@@ -1,7 +1,7 @@
 ---
 title: Converteer RTF naar MHTML in Python
 description: RTF naar mhtml Webarchiefformaat en HtmlFixed bestandsconversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/rtf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

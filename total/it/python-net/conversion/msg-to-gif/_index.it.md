@@ -1,7 +1,7 @@
 ---
 title: Converti MSG in GIF in Python
 description: Salva MSG in GIF nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/msg-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

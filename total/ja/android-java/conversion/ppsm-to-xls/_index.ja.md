@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでPPSMをXLSに変換する
 description: Microsoft ExcelまたはPowerPointを使用せずに、Javaを介してAndroidでPPSMをXLSに変換する
-url: /ja/android-java/conversion/ppsm-to-xls/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ PPSMをXLSに変換するには、[Maven](https://repository.aspose.com/webapp/#
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ PPSMをXLSに変換するには、[Maven](https://repository.aspose.com/webapp/#
 APIを使用して、パスワードで保護されたドキュメントを開くこともできます。入力PPSMドキュメントがパスワードで保護されている場合、パスワードを使用せずにXLSに変換することはできません。 APIを使用すると、LoadOptionsオブジェクトに正しいパスワードを渡すことで、暗号化されたドキュメントを開くことができます。次のコード例は、パスワードを使用して暗号化されたドキュメントを開こうとする方法を示しています。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ APIを使用して、パスワードで保護されたドキュメントを開�
 PPSMファイルをXLSに変換するときに、出力XLSファイル形式に透かしを追加することもできます。透かしを追加するには、新しいワークブックを作成して、変換されたHTMLファイルを開きます。インデックスからワークシートを選択し、シェイプを作成してaddTextEffect関数を使用し、色や透明度などを設定します。その後、透かしを使用してHTMLドキュメントをXLSとして保存できます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

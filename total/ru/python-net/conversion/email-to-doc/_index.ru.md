@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в DOC в Python
 description: Сохраняйте EMAIL в DOC в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/email-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

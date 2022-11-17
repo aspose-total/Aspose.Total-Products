@@ -1,7 +1,7 @@
 ---
 title: Exportar PPSM a DOC en Andorid a través de Java
 description: Convierta PPSM a DOC en aplicaciones móviles sin instalar ningún software
-url: /es/android-java/conversion/ppsm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

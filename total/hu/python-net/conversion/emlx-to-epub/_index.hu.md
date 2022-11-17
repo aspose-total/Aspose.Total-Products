@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t EPUB-be Pythonban
 description: Mentse a EMLX-t EPUB formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

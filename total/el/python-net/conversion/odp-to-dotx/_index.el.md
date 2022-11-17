@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή ODP σε DOTX στην Python
 description: Μετατροπή ODP σε DOTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/odp-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

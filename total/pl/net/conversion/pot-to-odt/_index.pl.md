@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na ODT przez C# .NET 
-url: /pl/net/conversion/pot-to-odt/ 
+
 description: Konwertuj dokumenty pot programu PowerPoint na pliki odt programu Word za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

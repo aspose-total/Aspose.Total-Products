@@ -1,6 +1,6 @@
 ---
 title: C# .NET . के माध्यम से DOC को PPT में बदलें 
-url: /hi/net/conversion/doc-to-ppt/ 
+
 description: Word दस्तावेज़ दस्तावेज़ों को C# के साथ PowerPoint ppt फ़ाइलों में कनवर्ट करें। ASP.NET या अन्य .NET अनुप्रयोगों में एकाधिक फ़ाइलों को कनवर्ट करें।
 ---
 

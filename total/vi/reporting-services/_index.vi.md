@@ -1,7 +1,7 @@
 ---
 title: Dịch vụ báo cáo SQL Server Phần mở rộng kết xuất cho các định dạng tệp 
 weight: 40
-url: /vi/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering Phần mở rộng cho các định dạng tệp để xuất báo cáo RDL sang các định dạng Word Excel PDF PowerPoint. Thêm mã vạch vào các báo cáo đã xuất
 ---
 

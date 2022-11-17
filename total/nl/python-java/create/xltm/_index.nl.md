@@ -1,7 +1,7 @@
 ---
 title: XLTM maken in Python
 description: Genereer een XLTM-bestand met Python-toepassingen zonder Microsoft Office te gebruiken. 
-url: /nl/python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

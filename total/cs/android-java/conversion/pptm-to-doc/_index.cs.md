@@ -1,7 +1,7 @@
 ---
 title: Export PPTM do DOC na Andorid přes Java
 description: Převeďte PPTM na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/pptm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

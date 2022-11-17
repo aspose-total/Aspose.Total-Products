@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF en TEXT en Python
 description: Enregistrez VCF au format TEXT dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/vcf-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLS Menggunakan .NET
 description: Memodifikasi dokumen XLS di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

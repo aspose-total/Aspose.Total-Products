@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOCM sang PPTM qua C# .NET 
-url: /vi/net/conversion/docm-to-pptm/ 
+
 description: Chuyển đổi tài liệu Word docm sang tệp pptm PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε PNG στην εφαρμογή Andorid
 description: Εξαγωγή EML σε PNG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

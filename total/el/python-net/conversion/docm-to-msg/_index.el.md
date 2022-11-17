@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCM σε MSG στην Python
 description: Αποθηκεύστε το DOCM σε MSG εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/docm-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

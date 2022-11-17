@@ -1,7 +1,7 @@
 ---
 title: .NET का उपयोग करके बीएमपी फ़ाइल अपडेट करें
 description: Microsoft Excel का उपयोग किए बिना C# VB.NET अनुप्रयोगों में TSV दस्तावेज़ों को संशोधित करें। 
-url: /hi/net/update/tsv/
+
 family: total
 platformtag: .NET
 feature: update

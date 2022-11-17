@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTM в POTM в Android через Java
 description: Преобразование DOTM в POTM на ваших телефонах Android без использования Microsoft Word of PowerPoint
-url: /ru/android-java/conversion/dotm-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POTX PPS POWERPOINT PPSM PPTM ODP POT PPTX PPT PPSX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotm-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POTX PPS POWERPOINT PPSM PPTM ODP POT PPTX PPT PPSX
 Вы также можете преобразовать защищенный паролем DOTM в POTM в своих приложениях для Android. Если ваш входной документ DOTM защищен паролем, вы не можете преобразовать его в формат POTM без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

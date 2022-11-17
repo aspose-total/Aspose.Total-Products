@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOCX in TSV in C++
 description: C++-API zum Konvertieren von DOCX in TSV, ohne Microsoft Word oder Microsoft Excel zu verwenden
-url: /de/cpp/conversion/docx-to-tsv/
+
 family: total
 platformtag: cpp
 feature: conversion

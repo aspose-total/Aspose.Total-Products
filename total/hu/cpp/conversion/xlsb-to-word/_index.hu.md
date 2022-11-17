@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSB-t WORD-ba a C++ segítségével
 description: A XLSB konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsb-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

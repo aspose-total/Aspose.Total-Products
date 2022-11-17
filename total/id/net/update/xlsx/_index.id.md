@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSX Menggunakan .NET
 description: Memodifikasi dokumen XLSX di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xlsx/
+
 family: total
 platformtag: .NET
 feature: update

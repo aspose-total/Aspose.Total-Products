@@ -1,7 +1,7 @@
 ---
 title: Konvertera POTX till WORD i Python
 description: POTX till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/potx-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

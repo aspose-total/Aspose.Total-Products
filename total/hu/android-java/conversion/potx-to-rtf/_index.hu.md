@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

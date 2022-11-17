@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi C++ ile JSON formatına dönüştürün
 description: Microsoft Excel veya Word kullanmadan DOCX'yi C++'da JSON'a aktarın
-url: /tr/cpp/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

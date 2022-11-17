@@ -1,7 +1,7 @@
 ---
 title: Převést TEXT na EMLX v Pythonu
 description: Ukládejte TEXT do EMLX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/text-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

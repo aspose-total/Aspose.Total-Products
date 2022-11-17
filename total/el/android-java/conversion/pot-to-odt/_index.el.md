@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή POT σε ODT στο Andorid μέσω Java
 description: Μετατρέψτε το POT σε ODT σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/pot-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

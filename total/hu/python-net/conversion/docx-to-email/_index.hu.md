@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t EMAIL-be Pythonban
 description: DOCX mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

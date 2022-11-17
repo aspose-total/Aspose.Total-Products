@@ -1,7 +1,7 @@
 ---
 title: Export PPSM do DOCM na Andorid přes Java
 description: Převeďte PPSM na DOCM v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/ppsm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

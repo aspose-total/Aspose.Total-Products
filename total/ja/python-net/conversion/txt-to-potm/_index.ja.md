@@ -1,7 +1,7 @@
 ---
 title: Python で TXT を POTM に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで TXT から POTM への変換 
-url: /ja/python-net/conversion/txt-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

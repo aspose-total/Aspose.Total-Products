@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中将 MSG 渲染为 OTT
 description: 在您的 Andorid 应用程序中不使用 Microsoft Word 或 Outlook 将 MSG 导出为 OTT
-url: /zh/android-java/conversion/msg-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

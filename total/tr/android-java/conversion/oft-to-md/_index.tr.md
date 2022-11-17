@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to MD'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i MD'ye aktarın
-url: /tr/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da ODT'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında ODT'yi ICS'e kaydedin
-url: /tr/python-net/conversion/odt-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python を使用して CSV を画像に変換する
 description: CSV からイメージ TIFF BMP PNG JPEG GIF EMF SVG への Python アプリケーションでの変換 (Microsoft Excel を使用しない) 
-url: /ja/python-java/conversion/csv-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

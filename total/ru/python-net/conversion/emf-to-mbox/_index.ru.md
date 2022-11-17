@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMF в MBOX в Python
 description: Сохраняйте EMF в MBOX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/emf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

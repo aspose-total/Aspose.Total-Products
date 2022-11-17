@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie DOC in Python
 description: Generieren Sie DOC-Dateien mit Python-Anwendungen, ohne Microsoft Word zu verwenden. 
-url: /de/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

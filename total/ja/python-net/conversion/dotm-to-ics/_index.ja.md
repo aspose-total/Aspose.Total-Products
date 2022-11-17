@@ -1,7 +1,7 @@
 ---
 title: Python で DOTM を ICS に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で DOTM を ICS に保存します。
-url: /ja/python-net/conversion/dotm-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

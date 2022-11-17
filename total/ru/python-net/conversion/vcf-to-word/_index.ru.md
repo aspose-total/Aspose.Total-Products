@@ -1,7 +1,7 @@
 ---
 title: Преобразование VCF в WORD в Python
 description: Сохраняйте VCF в WORD в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/vcf-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

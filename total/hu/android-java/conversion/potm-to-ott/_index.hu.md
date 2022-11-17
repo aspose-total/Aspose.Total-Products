@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTM-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a POTM-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

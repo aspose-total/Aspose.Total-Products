@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPS-t DOT-be Pythonban
 description: PPS-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/pps-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

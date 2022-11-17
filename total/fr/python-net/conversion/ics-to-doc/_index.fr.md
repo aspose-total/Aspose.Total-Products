@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS en DOC en Python
 description: Enregistrez ICS au format DOC dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ics-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

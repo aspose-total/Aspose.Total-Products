@@ -1,7 +1,7 @@
 ---
 title: Převést MD na PPS v Pythonu
 description: Převod MD na PPS ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/md-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

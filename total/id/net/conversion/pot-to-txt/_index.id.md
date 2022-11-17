@@ -1,6 +1,6 @@
 ---
 title: Konversi POT ke TXT melalui C# .NET 
-url: /id/net/conversion/pot-to-txt/ 
+
 description: Konversikan dokumen PowerPoint pot ke file dokumen Word dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

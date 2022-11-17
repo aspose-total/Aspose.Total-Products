@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPT в WORDML на Andorid через Java
 description: Конвертируйте PPT в WORDML в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/ppt-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

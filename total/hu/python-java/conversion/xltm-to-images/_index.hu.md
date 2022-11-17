@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLTM-et képpé Python segítségével
 description: XLTM kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

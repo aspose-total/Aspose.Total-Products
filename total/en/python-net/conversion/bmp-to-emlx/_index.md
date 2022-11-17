@@ -1,7 +1,7 @@
 ---
 title: Convert BMP to EMLX in Python
 description: Save BMP to EMLX within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/bmp-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

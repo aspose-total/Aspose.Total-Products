@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCM naar MHTML in Python
 description: DOCM naar mhtml Webarchiefformaat en HtmlFixed bestandsconversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/docm-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

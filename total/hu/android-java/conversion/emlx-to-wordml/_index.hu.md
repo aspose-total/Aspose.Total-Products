@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t WORDML-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t WORDML-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Δημιουργία αρχείου χρησιμοποιώντας Python 
-url: /el/python-net/create/
+
 description: Δημιουργήστε κείμενο και έγγραφα Microsoft Word χωρίς να εγκαταστήσετε το Microsoft Office 
 ---
 

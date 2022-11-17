@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل POT إلى OTT
 description: قم بتصدير POT إلى OTT داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/pot-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

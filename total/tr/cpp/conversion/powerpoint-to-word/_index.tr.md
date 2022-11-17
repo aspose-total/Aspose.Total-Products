@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u WORD'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POWERPOINT'u WORD'a aktarın
-url: /tr/cpp/conversion/powerpoint-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

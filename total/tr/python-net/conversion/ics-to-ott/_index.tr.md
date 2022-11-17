@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi OTT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi OTT'e kaydedin 
-url: /tr/python-net/conversion/ics-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

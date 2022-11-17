@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t EMF-be Pythonban
 description: Mentse a ICS-t EMF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ics-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

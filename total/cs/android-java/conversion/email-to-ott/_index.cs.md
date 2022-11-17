@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do OTT v aplikaci Andorid
 description: Exportujte EMAIL do OTT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

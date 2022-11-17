@@ -1,7 +1,7 @@
 ---
 title: Python'da TIFF'yi OST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında TIFF'yi OST'e kaydedin
-url: /tr/python-net/conversion/tiff-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى PDF في تطبيق Andorid
 description: قم بتصدير MSG إلى PDF دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/msg-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

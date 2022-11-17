@@ -1,7 +1,7 @@
 ---
 title: Konwertuj format JSON na POWERPOINT w Androidzie przez Java
 description: Przetwarzaj JSON do POWERPOINT w aplikacjach na Androida bez użycia programu Microsoft PowerPoint
-url: /pl/android-java/conversion/json-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 Ponadto API umożliwia parsowanie JSON do POWERPOINT z określonymi opcjami układu. Aby określić opcje układu, możesz użyć klasy [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions). Pozwala przetwarzać tablicę jako tabelę, ignorować wartości null, ignorować tytuł tablicy, ignorować tytuł obiektu, konwertować ciąg na liczbę lub datę, ustawić format daty i liczby oraz ustawić styl tytułu. Wszystkie te opcje umożliwiają prezentację danych zgodnie z własnymi potrzebami. Poniższy fragment kodu pokazuje, jak ustawić opcje układu.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ponadto API umożliwia parsowanie JSON do POWERPOINT z określonymi opcjami ukł
 Korzystając z API, możesz również przekonwertować JSON na POWERPOINT ze znakiem wodnym. Aby dodać znak wodny do dokumentu POWERPOINT, możesz najpierw przeanalizować JSON do PPTX i dodać do niego znak wodny. Aby dodać znak wodny, wczytaj nowo utworzony plik PPTX za pomocą klasy [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), przejdź przez wszystkie slajdy, dodaj tekst używając addTextFrame, ustaw wszystkie powerpointowiednie opcje, takie jak kolor, fillType i inne, i zapisz dokument w POWERPOINT.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

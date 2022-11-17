@@ -1,7 +1,7 @@
 ---
 title: DOC maken in Python
 description: Genereer een DOC-bestand met Python-toepassingen zonder Microsoft Word te gebruiken. 
-url: /nl/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

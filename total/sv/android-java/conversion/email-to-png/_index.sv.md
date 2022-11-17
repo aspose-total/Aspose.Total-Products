@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till PNG i Andorid-appen
 description: Exportera EMAIL till PNG utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى DOCX في تطبيق Andorid
 description: قم بتصدير MSG إلى DOCX دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/msg-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

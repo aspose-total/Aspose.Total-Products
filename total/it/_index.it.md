@@ -1,7 +1,7 @@
 ---
 title: Soluzioni di formato file on-premise, basate su cloud e app 
 weight: 9630
-url: /it/
+
 description: Crea applicazioni di manipolazione dei documenti utilizzando le API On Premise o Cloud, oppure usa semplicemente app multipiattaforma per visualizzare, confrontare, ispezionare o convertire oltre 100 formati di file
 ---
 

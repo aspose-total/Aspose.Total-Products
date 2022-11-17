@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してCSVをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでCSVをPPTXに変換する
-url: /ja/net/conversion/csv-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

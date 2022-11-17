@@ -1,7 +1,7 @@
 ---
 title: Convertir MHTML en RTF en Python
 description: Conversion MHTML et HtmlFixed en RTF dans vos applications Python sans utiliser Microsoft Word 
-url: /fr/python-net/conversion/mhtml-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

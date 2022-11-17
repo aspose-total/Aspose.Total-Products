@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してEXCELをDOCに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをDOCに変換する
-url: /ja/net/conversion/excel-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

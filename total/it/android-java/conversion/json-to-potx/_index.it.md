@@ -1,7 +1,7 @@
 ---
 title: Converti il formato JSON in POTX in Android tramite Java
 description: Analizza JSON in POTX nelle applicazioni Android senza utilizzare Microsoft PowerPoint
-url: /it/android-java/conversion/json-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 Inoltre, l'API consente di analizzare JSON in POTX con opzioni di layout specificate. Per specificare le opzioni di layout, puoi utilizzare la classe [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayotoptions). Ti consente di elaborare un array come una tabella, ignorare i valori null, ignorare il titolo dell'array, ignorare il titolo dell'oggetto, convertire la stringa in numero o data, impostare il formato della data e del numero e impostare lo stile del titolo. Tutte queste opzioni ti consentono di presentare i tuoi dati secondo le tue esigenze. Il frammento di codice seguente mostra come impostare le opzioni di layout.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Inoltre, l'API consente di analizzare JSON in POTX con opzioni di layout specifi
 Utilizzando l'API, puoi anche convertire JSON in POTX con filigrana. Per aggiungere una filigrana al documento POTX, puoi prima analizzare JSON in PPTX e aggiungervi una filigrana. Per aggiungere una filigrana, carica il file PPTX appena creato utilizzando la classe [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation), scorre tutte le diapositive, aggiungi testo usando addTextFrame, imposta tutte le opzioni rilevanti come colore, fillType e altro e puoi salvare il documento su POTX.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

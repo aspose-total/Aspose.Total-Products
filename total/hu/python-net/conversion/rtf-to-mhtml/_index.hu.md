@@ -1,7 +1,7 @@
 ---
 title: RTF konvertálása MHTML-re Pythonban
 description: RTF-ből mhtml webarchívum-formátumba és HTML-fix fájlkonverzió a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/rtf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

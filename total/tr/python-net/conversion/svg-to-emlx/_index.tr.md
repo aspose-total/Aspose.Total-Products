@@ -1,7 +1,7 @@
 ---
 title: Python'da SVG'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında SVG'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/svg-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

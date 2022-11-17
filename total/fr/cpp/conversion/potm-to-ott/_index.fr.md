@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir POTM en OTT
 description: Exportez POTM vers OTT dans vos applications C++
-url: /fr/cpp/conversion/potm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

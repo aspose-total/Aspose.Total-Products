@@ -1,7 +1,7 @@
 ---
 title: Python'da DOT'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOT'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/dot-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: อัปเดตไฟล์ XLT โดยใช้ Java
 description: แก้ไขเอกสาร XLT ในแอปพลิเคชัน Java โดยไม่ต้องใช้ Microsoft Excel เพิ่มประสิทธิภาพโค้ดสำหรับวิธีที่เร็วที่สุดในการเขียนและแก้ไขไฟล์ excel ใน java
-url: /th/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

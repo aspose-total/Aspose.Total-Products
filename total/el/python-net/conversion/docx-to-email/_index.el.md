@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCX σε EMAIL στην Python
 description: Αποθηκεύστε το DOCX σε EMAIL εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/docx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

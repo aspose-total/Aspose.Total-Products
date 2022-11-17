@@ -1,7 +1,7 @@
 ---
 title: POTXをDOTXに変換するC++API
 description: C++アプリケーション内でPOTXをDOTXにエクスポートする
-url: /ja/cpp/conversion/potx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

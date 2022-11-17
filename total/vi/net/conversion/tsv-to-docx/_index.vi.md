@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi TSV sang DOCX với .NET 
 description: Chuyển đổi TSV sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/tsv-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

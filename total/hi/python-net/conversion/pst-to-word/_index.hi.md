@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी को जीआईएफ में बदलें
 description: Microsoft Outlook या Word का उपयोग किए बिना अपने Python अनुप्रयोगों में PST को WORD में सहेजें 
-url: /hi/python-net/conversion/pst-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

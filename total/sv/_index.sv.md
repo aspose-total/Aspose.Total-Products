@@ -1,7 +1,7 @@
 ---
 title: Lokala, moln- och appbaserade filformatlösningar 
 weight: 9630
-url: /sv/
+
 description: Bygg dokumentmanipuleringsapplikationer med On Premise eller Cloud API, eller använd helt enkelt plattformsoberoende appar för att visa, jämföra, inspektera eller konvertera 100+ filformat
 ---
 

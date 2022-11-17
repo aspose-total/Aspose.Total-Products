@@ -1,6 +1,6 @@
 ---
 title: Criar arquivo usando Python 
-url: /pt/python-net/create/
+
 description: Crie texto e documentos do Microsoft Word sem instalar o Microsoft Office 
 ---
 

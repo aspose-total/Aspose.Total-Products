@@ -1,7 +1,7 @@
 ---
 title: Export PPT do DOCM na Andorid přes Java
 description: Převeďte PPT na DOCM v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/ppt-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

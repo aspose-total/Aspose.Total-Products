@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie OST in JPEG in Python
 description: Speichern Sie OST in JPEG in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/ost-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

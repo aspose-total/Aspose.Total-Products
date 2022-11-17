@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी को जीआईएफ में बदलें
 description: माइक्रोसॉफ्ट वर्ड या आउटलुक का उपयोग किए बिना पायथन अनुप्रयोगों के भीतर बीएमपी को जीआईएफ में सहेजें
-url: /hi/python-net/conversion/bmp-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

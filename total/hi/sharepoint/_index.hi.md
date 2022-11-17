@@ -1,7 +1,7 @@
 ---
 title: SharePoint फ़ाइल स्वरूप ऐप्स - SharePoint अनुप्रयोगों में दस्तावेज़ों को कनवर्ट करें 
 weight: 20
-url: /hi/sharepoint/ 
+
 description: Microsoft SharePoint में Word Excel PDF PowerPoint ईमेल और इमेजिंग दस्तावेज़ स्वरूपों को कनवर्ट और संयोजित करने के लिए SharePoint फ़ाइल स्वरूप ऐप्स
 ---
 

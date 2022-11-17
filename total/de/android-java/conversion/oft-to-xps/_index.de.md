@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu XPS in der Andorid App
 description: Exportieren Sie E-MAIL nach XPS, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/oft-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

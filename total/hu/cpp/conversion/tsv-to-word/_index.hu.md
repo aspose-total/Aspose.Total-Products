@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TSV-t WORD-ba a C++ segítségével
 description: A TSV konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/tsv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

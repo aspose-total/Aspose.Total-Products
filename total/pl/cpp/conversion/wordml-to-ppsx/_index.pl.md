@@ -1,7 +1,7 @@
 ---
 title: Konwertuj WORDML na PPSX za pomocą C++
 description: Eksportuj WORDML do PPSX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint
-url: /pl/cpp/conversion/wordml-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSM POTX PPTM POWERPOINT ODP PPT PPS PPTX POT POTM
 {{< blocks/products/pf/feature-page-header h1="C++ API do konwersji WORDML na PPSX" h2="Eksportuj WORDML do PPSX w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję WORDML do PPSX przy użyciu dwóch jego API. Załaduj dokument WORDML za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję WORDML do PPSX przy użyciu dwóch jego API. Załaduj dokument WORDML za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Oprócz konwersji dokumentów, API [Aspose.Words for C++](https://products.aspos
 auto options = MakeObject<LoadOptions>(u"wordmlPassword");
 // load the wordmlument from the local file system by filename:
 SharedPtr<Wordmlument> wordml = MakeObject<Wordmlument>(u"Encrypted.wordml", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

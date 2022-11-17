@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε EPUB στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε EPUB χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++を介してDOCXをPPTXに変換する
 description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOCXをPPTXにエクスポートする
-url: /ja/cpp/conversion/docx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX PPTM POT PPSX PPS PPT PPSM POTM POWERPOINT ODP
 {{< blocks/products/pf/feature-page-header h1="DOCXをPPTXに変換するC++API" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOCXをPPTXにエクスポートします。またはPowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらDOCXからPPTXへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してDOCXを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、PPTXとして保存します。 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらDOCXからPPTXへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してDOCXを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、PPTXとして保存します。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

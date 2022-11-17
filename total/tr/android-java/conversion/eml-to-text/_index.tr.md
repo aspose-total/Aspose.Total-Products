@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to TEXT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i TEXT'ye aktarın
-url: /tr/android-java/conversion/eml-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

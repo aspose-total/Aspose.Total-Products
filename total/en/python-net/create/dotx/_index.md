@@ -1,7 +1,7 @@
 ---
 title: Create DOTX in Python
 description: Generate Microsoft Word DOTX document using Python applications without using Microsoft Word. 
-url: /python-net/create/dotx/
+
 family: total
 platformtag: Python
 feature: create

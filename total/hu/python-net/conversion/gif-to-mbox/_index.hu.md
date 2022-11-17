@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t MBOX-be Pythonban
 description: MBOX mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/gif-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

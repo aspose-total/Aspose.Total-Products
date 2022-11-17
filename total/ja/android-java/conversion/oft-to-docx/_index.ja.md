@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOCXにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをDOCXにエクスポートする
-url: /ja/android-java/conversion/oft-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

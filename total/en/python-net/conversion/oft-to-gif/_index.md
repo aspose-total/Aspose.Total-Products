@@ -1,7 +1,7 @@
 ---
 title: Convert OFT to GIF in Python
 description: Save OFT to GIF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/oft-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

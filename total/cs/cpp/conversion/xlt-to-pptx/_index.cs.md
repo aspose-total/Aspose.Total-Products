@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLT na PPTX pomocí C++
 description: Převeďte XLT na PPTX v aplikacích C++
-url: /cs/cpp/conversion/xlt-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

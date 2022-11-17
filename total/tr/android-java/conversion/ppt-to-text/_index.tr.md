@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u TEXT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u TEXT'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

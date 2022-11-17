@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPSX nach FLATOPC auf Andorid über Java
 description: Konvertieren Sie PPSX in FLATOPC in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/ppsx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

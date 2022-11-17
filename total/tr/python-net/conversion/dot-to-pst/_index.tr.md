@@ -1,7 +1,7 @@
 ---
 title: Python'da DOT'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOT'yi PST'e kaydedin
-url: /tr/python-net/conversion/dot-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

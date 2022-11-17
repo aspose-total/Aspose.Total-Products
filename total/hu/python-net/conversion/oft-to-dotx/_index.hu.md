@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t DOTX-be Pythonban
 description: Mentse a OFT-t DOTX formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: डीओसीएम को सीजीएम प्रस्तुत करने के लिए एंड्रॉइड एपीआई
 description: जावा एपीआई के माध्यम से एंड्रॉइड के माध्यम से सीजीएम को डीओसीएम में बदलना
-url: /hi/android-java/conversion/mhtml-to-markdown/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.MARKDOWN
 outputDocument.save("output.markdown", SaveFormat.MARKDOWN);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -61,7 +62,8 @@ System.out.println("Keywords: " + docInfo.getKeywords());
 System.out.println("Modify Date: " + docInfo.getModDate());
 System.out.println("Subject: " + docInfo.getSubject());
 System.out.println("Title: " + docInfo.getTitle());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -86,7 +88,8 @@ option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
 option.setPosition(EndnotePosition.END_OF_SECTION);
 // save the document to disk.
 doc.save("output.markdown", SaveFormat.MARKDOWN);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

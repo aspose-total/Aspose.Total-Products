@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u TEXT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u TEXT'ye dönüştürün
-url: /tr/android-java/conversion/potm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

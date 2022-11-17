@@ -1,7 +1,7 @@
 ---
 title: Render EML ke XPS di Aplikasi Andorid
 description: Ekspor EML ke XPS tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/eml-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία DOT σε Python
 description: Δημιουργήστε αρχείο DOT χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Word. 
-url: /el/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

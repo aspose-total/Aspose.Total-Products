@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή OFT σε ODT στην Python
 description: Αποθηκεύστε το OFT σε ODT στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/oft-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

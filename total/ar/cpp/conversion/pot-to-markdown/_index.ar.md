@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى MARKDOWN عبر C++
 description: قم بتصدير POT إلى MARKDOWN في C++ بدون استخدام Microsoft Excel أو Powerpoint
-url: /ar/cpp/conversion/pot-to-markdown/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML CSV EXCEL XLAM 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML CSV EXCEL XLAM 
 باستخدام API ، يمكنك أيضًا فتح المستند المحمي بكلمة مرور. إذا كان مستند POT الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى MARKDOWN دون استخدام كلمة المرور. عندما يكون المستند محميًا بكلمة مرور ، فهذا يعني أنه يفرض قيودًا معينة على العرض التقديمي. لإزالة القيود ، يجب إدخال كلمة المرور. يعتبر العرض التقديمي المحمي بكلمة مرور عرضًا تقديميًا مقفلًا. تسمح لك واجهة برمجة التطبيقات بفتح المستند المشفر عن طريق تمرير كلمة المرور الصحيحة في كائن LoadOptions. يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند مشفر بكلمة مرور.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

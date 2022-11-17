@@ -1,7 +1,7 @@
 ---
 title: Converti EMF in ICS in Python
 description: Salva EMF in ICS all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/emf-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

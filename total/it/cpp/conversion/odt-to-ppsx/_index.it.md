@@ -1,7 +1,7 @@
 ---
 title: Converti ODT in PPSX tramite C++
 description: Esporta ODT in PPSX nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint
-url: /it/cpp/conversion/odt-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPTX PPTM PPT ODP POT PPS POTX PPSM POTM POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="API C++ per convertire ODT in PPSX" h2="Esporta ODT in PPSX all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) è costituito da potenti API di automazione dei file che consentono di automatizzare la conversione da ODT a PPSX utilizzando due delle sue API. Carica il tuo ODT utilizzando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e convertilo in HTML, quindi carica l'HTML tramite la manipolazione di PowerPoint API C++ [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) per creare una nuova presentazione e salvarla come PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) è costituito da potenti API di automazione dei file che consentono di automatizzare la conversione da ODT a PPSX utilizzando due delle sue API. Carica il tuo ODT utilizzando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e convertilo in HTML, quindi carica l'HTML tramite la manipolazione di PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per creare una nuova presentazione e salvarla come PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Oltre alla conversione dei odtumenti, l'API [Aspose.Words for C++](https://produ
 auto options = MakeObject<LoadOptions>(u"odtPassword");
 // load the odtument from the local file system by filename:
 SharedPtr<Odtument> odt = MakeObject<Odtument>(u"Encrypted.odt", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

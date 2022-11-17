@@ -1,7 +1,7 @@
 ---
 title: Konversi EMAIL ke TEXT dengan Python
 description: Simpan EMAIL ke TEXT di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/email-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da JPEG'yi OST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında JPEG'yi OST'e kaydedin
-url: /tr/python-net/conversion/jpeg-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

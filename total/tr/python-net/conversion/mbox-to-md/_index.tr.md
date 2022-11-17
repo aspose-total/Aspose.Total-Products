@@ -1,7 +1,7 @@
 ---
 title: Python'da MBOX'yi MD'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda MBOX'yi MD'e kaydedin 
-url: /tr/python-net/conversion/mbox-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPS в DOT на Andorid через Java
 description: Конвертируйте PPS в DOT в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/pps-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

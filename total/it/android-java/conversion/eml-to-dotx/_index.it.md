@@ -1,7 +1,7 @@
 ---
 title: Render EML a DOTX nell'app Andorid
 description: Esporta EML in DOTX senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/eml-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

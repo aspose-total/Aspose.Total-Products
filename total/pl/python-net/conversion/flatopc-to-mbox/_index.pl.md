@@ -1,7 +1,7 @@
 ---
 title: Konwertuj FLATOPC na MBOX w Pythonie
 description: Zapisuj FLATOPC do MBOX w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/flatopc-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

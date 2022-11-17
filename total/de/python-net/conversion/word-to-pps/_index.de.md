@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie WORD in PPS in Python
 description: Konvertierung von WORD in PPS in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/word-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

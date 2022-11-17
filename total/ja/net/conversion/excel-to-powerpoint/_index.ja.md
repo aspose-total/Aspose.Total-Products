@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してEXCELをPOWERPOINTに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをPOWERPOINTに変換する
-url: /ja/net/conversion/excel-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

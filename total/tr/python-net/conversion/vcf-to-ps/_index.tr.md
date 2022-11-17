@@ -1,7 +1,7 @@
 ---
 title: Python'da VCF'yi PS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda VCF'yi PS'e kaydedin 
-url: /tr/python-net/conversion/vcf-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

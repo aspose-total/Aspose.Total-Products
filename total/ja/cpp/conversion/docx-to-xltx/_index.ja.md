@@ -1,7 +1,7 @@
 ---
 title: C++でDOCXをXLTXに変換する
 description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCXをXLTXに変換するC++API
-url: /ja/cpp/conversion/docx-to-xltx/
+
 family: total
 platformtag: cpp
 feature: conversion

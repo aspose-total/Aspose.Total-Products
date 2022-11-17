@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLT σε WORD με C++
 description: Μετατροπή XLT σε WORD εντός εφαρμογών C++
-url: /el/cpp/conversion/xlt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลง XPS เป็น MBOX ใน Python
 description: บันทึก XPS เป็น MBOX ภายในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Outlook
-url: /th/python-net/conversion/xps-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

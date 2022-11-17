@@ -1,7 +1,7 @@
 ---
 title: Python で MHTML を DOTM に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで MHTML および HtmlFix から DOTM に変換 
-url: /ja/python-net/conversion/mhtml-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

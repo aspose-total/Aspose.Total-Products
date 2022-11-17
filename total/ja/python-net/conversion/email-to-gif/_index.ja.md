@@ -1,7 +1,7 @@
 ---
 title: Python で EMAIL を GIF に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMAIL を GIF に保存します。 
-url: /ja/python-net/conversion/email-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

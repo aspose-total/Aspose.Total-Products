@@ -1,7 +1,7 @@
 ---
 title: MD'yi SWF'ye Dönüştürmek için C++ API
 description: Microsoft Word veya Adobe Acrobat Reader kullanmadan MD'yi C++ aracılığıyla SWF'ye dönüştürün
-url: /tr/cpp/conversion/md-to-swf/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"PptxOutput.pptx", SaveFormat::Pptx);
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"PptxOutput.pptx");
 // save the presentation as Swf format
 prs->Save(u"output.swf", Aspose::Slides::Export::SaveFormat::Swf);  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.md", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -79,7 +81,8 @@ auto image = pres->get_Images()->AddImage(imageData);
 slide->get_Shapes()->AddPictureFrame(ShapeType::Rectangle, 10.0f, 10.0f, 100.0f, 100.0f, image);
 // save updated file
 pres->Save(u"updated.swf", SaveFormat::Swf);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

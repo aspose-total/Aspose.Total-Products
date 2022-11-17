@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMAIL a RTF en la aplicación Andorid
 description: Exporte EMAIL a RTF sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/email-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

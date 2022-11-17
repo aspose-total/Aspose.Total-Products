@@ -1,6 +1,6 @@
 ---
 title: 通過 Python 進行文檔轉換 
-url: /zh-hant/python-net/conversion/
+
 description: 只需幾行 Python 代碼即可將 Microsoft Word 格式 DOC、DOCX 轉換為 PDF、圖像等以及演示幻燈片、電子郵件消息和 3D 圖像。
 ---
 

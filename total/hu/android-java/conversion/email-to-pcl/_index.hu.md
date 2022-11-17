@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t PCL-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t PCL-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Skicka EMLX till DOC i Andorid-appen
 description: Exportera EMLX till DOC utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/emlx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

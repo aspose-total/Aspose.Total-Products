@@ -1,6 +1,6 @@
 ---
 title: تحويل FLATOPC إلى ODP عبر C# .NET 
-url: /ar/net/conversion/flatopc-to-odp/ 
+
 description: تحويل مستندات Word flatopc إلى ملفات PowerPoint odp باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konversi PDF ke MSG dengan Python
 description: Simpan PDF ke MSG dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/pdf-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

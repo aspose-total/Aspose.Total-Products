@@ -1,7 +1,7 @@
 ---
 title: XLT-bestand bijwerken met .NET
 description: Wijzig XLT-documenten in C# VB.NET-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

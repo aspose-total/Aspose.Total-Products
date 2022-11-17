@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL naar DOT in de Andorid-app
 description: Exporteer EMAIL naar DOT zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/email-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

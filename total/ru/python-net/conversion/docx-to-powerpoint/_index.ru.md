@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в POWERPOINT в Python
 description: Преобразование DOCX в POWERPOINT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/docx-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

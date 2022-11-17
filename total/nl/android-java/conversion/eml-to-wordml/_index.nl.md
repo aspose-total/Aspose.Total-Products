@@ -1,7 +1,7 @@
 ---
 title: Render EML naar WORDML in de Andorid-app
 description: Exporteer EML naar WORDML zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/eml-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

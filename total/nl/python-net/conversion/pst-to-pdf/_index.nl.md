@@ -1,7 +1,7 @@
 ---
 title: Converteer PST naar PDF in Python
 description: Bewaar PST naar PDF in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/pst-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

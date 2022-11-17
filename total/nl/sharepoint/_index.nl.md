@@ -1,7 +1,7 @@
 ---
 title: SharePoint-bestandsindeling-apps - documenten converteren in SharePoint-applicaties 
 weight: 20
-url: /nl/sharepoint/ 
+
 description: SharePoint-bestandsindeling-apps om Word Excel PDF PowerPoint-e-mail- en beelddocumentindelingen te converteren en te combineren in Microsoft SharePoint
 ---
 

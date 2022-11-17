@@ -1,7 +1,7 @@
 ---
 title: Konversi TEXT ke MBOX dengan Python
 description: Simpan TEXT ke MBOX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/text-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

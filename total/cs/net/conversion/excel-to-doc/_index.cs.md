@@ -1,7 +1,7 @@
 ---
 title: Převeďte EXCEL na DOC pomocí .NET 
 description: Převeďte EXCEL na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/excel-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

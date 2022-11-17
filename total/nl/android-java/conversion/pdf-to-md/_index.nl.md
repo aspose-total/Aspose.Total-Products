@@ -1,7 +1,7 @@
 ---
 title: Converteer PDF naar MD in Android via Java
 description: Render PDF naar MD in Android via Java API zonder Microsoft Excel of Adobe Reader te gebruiken
-url: /nl/android-java/conversion/pdf-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) geeft u toegang tot de XMP-metadata van een PDF-bestand. Om de metadata te krijgen, maakt u een [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)-object en opent u het invoer-PDF-bestand en gebruikt u de [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) om de metadata op te halen.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ondersteunt de bescherming van uw MD-bestand, afhankelijk van uw behoeften. Om uw document te beschermen, kunt u de [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) methode van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-md.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-md.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

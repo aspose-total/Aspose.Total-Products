@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中通过 Java 将 DOCM 转换为 POTX
 description: 在您的 Android 手机中将 DOCM 转换为 POTX，而无需使用 Microsoft Word 的 PowerPoint
-url: /zh/android-java/conversion/docm-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPSX PPTX PPSM ODP POTM PPT PPS PPTM POWERPOINT POT CSV DIF FODS O
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPSX PPTX PPSM ODP POTM PPT PPS PPTM POWERPOINT POT CSV DIF FODS O
 您还可以在 Android 应用程序中将受密码保护的 DOCM 转换为 POTX。如果您输入的 DOCM 文档受密码保护，则您无法在不使用密码的情况下将其转换为 POTX 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Document 构造函数。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

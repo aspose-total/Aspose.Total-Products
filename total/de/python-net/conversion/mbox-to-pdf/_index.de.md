@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MBOX in PDF in Python
 description: Speichern Sie MBOX in PDF in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/mbox-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

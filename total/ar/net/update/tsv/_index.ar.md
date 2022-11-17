@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف TSV باستخدام .NET
 description: تعديل مستندات TSV في تطبيقات C # VB.NET بدون استخدام Microsoft Excel. 
-url: /ar/net/update/tsv/
+
 family: total
 platformtag: .NET
 feature: update

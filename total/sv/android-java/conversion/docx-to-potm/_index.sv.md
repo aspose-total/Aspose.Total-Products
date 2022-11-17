@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOCX till POTM i Android via Java
 description: DOCX till POTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint
-url: /sv/android-java/conversion/docx-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion

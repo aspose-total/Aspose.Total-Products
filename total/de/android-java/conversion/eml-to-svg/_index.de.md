@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu SVG in der Andorid App
 description: Exportieren Sie E-MAIL nach SVG, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/eml-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

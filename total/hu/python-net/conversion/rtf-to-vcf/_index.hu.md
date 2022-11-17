@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t VCF-be Pythonban
 description: RTF mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/rtf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

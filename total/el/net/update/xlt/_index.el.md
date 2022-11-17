@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLT χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLT σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

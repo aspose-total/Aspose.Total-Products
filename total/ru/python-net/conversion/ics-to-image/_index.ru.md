@@ -1,7 +1,7 @@
 ---
 title: Преобразование ICS в IMAGE в Python
 description: Сохраняйте ICS в IMAGE в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/ics-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPSM nach WORDML auf Andorid über Java
 description: Konvertieren Sie PPSM in WORDML in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/ppsm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

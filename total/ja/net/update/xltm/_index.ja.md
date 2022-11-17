@@ -1,7 +1,7 @@
 ---
 title: .NET を使用して XLTM ファイルを更新する
 description: Microsoft Excel を使用せずに、C# VB.NET アプリケーションで XLTM ドキュメントを変更します。 
-url: /ja/net/update/xltm/
+
 family: total
 platformtag: .NET
 feature: update

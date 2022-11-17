@@ -1,7 +1,7 @@
 ---
 title: C++ API a POT WORD formátumba konvertálásához
 description: Exportálja a POT-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pot-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

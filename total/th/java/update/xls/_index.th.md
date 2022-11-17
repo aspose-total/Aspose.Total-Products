@@ -1,7 +1,7 @@
 ---
 title: อัปเดตไฟล์ XLS โดยใช้ Java
 description: แก้ไขเอกสาร XLS ในแอปพลิเคชัน Java โดยไม่ต้องใช้ Microsoft Excel เพิ่มประสิทธิภาพโค้ดสำหรับวิธีที่เร็วที่สุดในการเขียนและแก้ไขไฟล์ excel ใน java
-url: /th/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

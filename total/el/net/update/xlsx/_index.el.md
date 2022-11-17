@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLSX χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLSX σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xlsx/
+
 family: total
 platformtag: .NET
 feature: update

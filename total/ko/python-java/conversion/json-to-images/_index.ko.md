@@ -1,7 +1,7 @@
 ---
 title: Python을 사용하여 JSON을 이미지로 변환
 description: Microsoft Excel을 사용하지 않고 Python 응용 프로그램에서 이미지 TIFF BMP PNG JPEG GIF EMF SVG 변환 JSON 
-url: /ko/python-java/conversion/json-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

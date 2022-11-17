@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi OFT sang RTF bằng Python
 description: Lưu OFT thành RTF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
-url: /vi/python-net/conversion/oft-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

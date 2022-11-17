@@ -1,7 +1,7 @@
 ---
 title: XLS fájl frissítése .NET használatával
 description: XLS dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

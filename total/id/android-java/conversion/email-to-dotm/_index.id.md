@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL ke DOTM di Aplikasi Andorid
 description: Ekspor EMAIL ke DOTM tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

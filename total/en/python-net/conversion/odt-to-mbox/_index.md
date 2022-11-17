@@ -1,7 +1,7 @@
 ---
 title: Convert ODT to MBOX in Python
 description: Save ODT to MBOX within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/odt-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

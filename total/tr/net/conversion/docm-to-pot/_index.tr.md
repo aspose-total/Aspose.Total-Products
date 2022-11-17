@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi C# .NET aracılığıyla POT'ye dönüştürün 
-url: /tr/net/conversion/docm-to-pot/ 
+
 description: C# ile Word docm belgelerini PowerPoint pot dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

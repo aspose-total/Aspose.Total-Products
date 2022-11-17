@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t EMAIL-be Pythonban
 description: DOT mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dot-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

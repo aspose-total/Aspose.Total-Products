@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t TIFF-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t TIFF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

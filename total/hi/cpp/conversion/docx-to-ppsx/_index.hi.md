@@ -1,7 +1,7 @@
 ---
 title: DOCX को C++ के माध्यम से PPSX में बदलें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में DOCX को PPSX में निर्यात करें
-url: /hi/cpp/conversion/docx-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion

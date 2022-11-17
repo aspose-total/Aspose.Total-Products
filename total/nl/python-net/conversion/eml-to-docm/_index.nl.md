@@ -1,7 +1,7 @@
 ---
 title: Converteer EML naar DOCM in Python
 description: Bewaar EML naar DOCM in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/eml-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

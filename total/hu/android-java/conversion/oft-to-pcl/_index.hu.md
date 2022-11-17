@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t PCL-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t PCL-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

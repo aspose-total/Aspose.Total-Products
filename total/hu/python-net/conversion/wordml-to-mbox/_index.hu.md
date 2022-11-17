@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t MBOX-be Pythonban
 description: WORDML mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

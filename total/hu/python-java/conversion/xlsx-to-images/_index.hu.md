@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSX-et képpé Python segítségével
 description: XLSX kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/xlsx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

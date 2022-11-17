@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do PCL v aplikaci Andorid
 description: Exportujte EMLX do PCL bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: TSV fájl frissítése .NET használatával
 description: TSV dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/tsv/
+
 family: total
 platformtag: .NET
 feature: update

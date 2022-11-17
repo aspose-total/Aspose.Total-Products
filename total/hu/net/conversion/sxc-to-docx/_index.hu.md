@@ -1,7 +1,7 @@
 ---
 title: A SXC konvertálása DOCX formátumba .NET segítségével 
 description: A SXC konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/sxc-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

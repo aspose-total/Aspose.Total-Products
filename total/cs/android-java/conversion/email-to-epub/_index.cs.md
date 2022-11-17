@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do EPUB v aplikaci Andorid
 description: Exportujte EMAIL do EPUB bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C# .NET-API's voor bestandsautomatisering - Aspose 
 weight: 30
-url: /nl/net/ 
+
 description: C# ASP.NET VB.NET API's om elk type document te manipuleren en te converteren.
 ---
 

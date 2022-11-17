@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

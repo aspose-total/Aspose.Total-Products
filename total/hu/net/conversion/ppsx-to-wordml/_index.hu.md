@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPSX-t WORDML-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppsx-to-wordml/ 
+
 description: Konvertálja a PowerPoint ppsx dokumentumokat Word wordml fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

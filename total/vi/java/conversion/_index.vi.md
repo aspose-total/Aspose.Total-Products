@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi định dạng tệp qua Java 
-url: /vi/java/conversion/
+
 description: Chuyển đổi Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, Hình ảnh 3D, Sơ đồ, Định dạng Video và các định dạng khác chỉ với vài dòng mã Java.
 ---
 

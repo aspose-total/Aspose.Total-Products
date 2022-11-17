@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをXPSにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをXPSにエクスポートする
-url: /ja/android-java/conversion/eml-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

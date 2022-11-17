@@ -1,7 +1,7 @@
 ---
 title: Python'da PDF'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PDF'yi PST'e kaydedin
-url: /tr/python-net/conversion/pdf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

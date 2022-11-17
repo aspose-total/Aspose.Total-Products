@@ -1,7 +1,7 @@
 ---
 title: Export PPTM do ODT na Andorid přes Java
 description: Převeďte PPTM na ODT v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/pptm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

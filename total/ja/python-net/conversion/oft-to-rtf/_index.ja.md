@@ -1,7 +1,7 @@
 ---
 title: Python で OFT を RTF に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OFT を RTF に保存します。 
-url: /ja/python-net/conversion/oft-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

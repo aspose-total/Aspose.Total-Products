@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t TIFF-be Pythonban
 description: Mentse a PST-t TIFF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

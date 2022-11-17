@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie XLS in Python
 description: Generieren Sie XLS-Dateien mit Python-Anwendungen, ohne Microsoft Office zu verwenden. 
-url: /de/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

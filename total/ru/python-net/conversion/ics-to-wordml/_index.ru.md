@@ -1,7 +1,7 @@
 ---
 title: Преобразование ICS в WORDML в Python
 description: Сохраняйте ICS в WORDML в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/ics-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

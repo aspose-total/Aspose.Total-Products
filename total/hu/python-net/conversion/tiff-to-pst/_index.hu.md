@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t PST-be Pythonban
 description: TIFF mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

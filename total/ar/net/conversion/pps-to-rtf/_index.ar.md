@@ -1,6 +1,6 @@
 ---
 title: تحويل PPS إلى RTF عبر C# .NET 
-url: /ar/net/conversion/pps-to-rtf/ 
+
 description: تحويل مستندات PowerPoint pps إلى ملفات مستندات Word باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

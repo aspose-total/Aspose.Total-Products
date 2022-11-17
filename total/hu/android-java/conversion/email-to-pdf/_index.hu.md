@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t PDF-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t PDF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

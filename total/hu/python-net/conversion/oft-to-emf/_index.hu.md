@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t EMF-be Pythonban
 description: Mentse a OFT-t EMF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

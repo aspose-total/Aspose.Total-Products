@@ -1,7 +1,7 @@
 ---
 title: Python'da PST'yi PS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda PST'yi PS'e kaydedin 
-url: /tr/python-net/conversion/pst-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLT Menggunakan Python
 description: Memodifikasi dokumen XLT dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xlt/
+
 family: total
 platformtag: Python
 feature: update

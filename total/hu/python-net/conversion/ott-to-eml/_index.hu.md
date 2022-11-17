@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t EML-be Pythonban
 description: OTT mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ott-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

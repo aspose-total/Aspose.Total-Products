@@ -1,7 +1,7 @@
 ---
 title: PPTをTEXTに変換するC++API
 description: C++アプリケーション内でPPTをTEXTにエクスポートする
-url: /ja/cpp/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

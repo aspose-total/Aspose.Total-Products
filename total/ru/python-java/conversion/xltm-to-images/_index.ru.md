@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTM в изображение с помощью Python
 description: Преобразование XLTM в изображение TIFF BMP PNG JPEG GIF EMF SVG в ваших приложениях Python без использования Microsoft Excel 
-url: /ru/python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

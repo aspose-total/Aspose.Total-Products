@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLT na WORD pomocí .NET 
 description: Převeďte XLT na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/xlt-to-word/
+
 family: total
 platformtag: net
 feature: conversion

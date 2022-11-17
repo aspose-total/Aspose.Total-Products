@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOT sang POTX trong Android qua Java
 description: Chuyển đổi DOT sang POTX trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint
-url: /vi/android-java/conversion/dot-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 Bạn cũng có thể chuyển đổi DOT được bảo vệ bằng mật khẩu sang POTX trong các ứng dụng Android của mình. Nếu tài liệu DOT đầu vào của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó sang định dạng POTX mà không sử dụng mật khẩu. Để mở một tài liệu được mã hóa, bạn có thể đặt mật khẩu chính xác trong đối tượng LoadOptions và chuyển nó đến phương thức khởi tạo Tài liệu.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

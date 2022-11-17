@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをBMPにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをBMPにエクスポートする
-url: /ja/android-java/conversion/emlx-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

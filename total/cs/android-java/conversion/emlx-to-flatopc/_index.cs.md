@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do FLATOPC v aplikaci Andorid
 description: Exportujte EMLX do FLATOPC bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

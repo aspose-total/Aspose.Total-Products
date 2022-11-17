@@ -1,7 +1,7 @@
 ---
 title: XLT létrehozása Pythonban
 description: XLT-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xlt/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,6 +1,6 @@
 ---
 title: Python 通过 .NET 文件格式处理 API - Aspose 
-url: /zh/python-net/
+
 url_ignore: /python-net/ 
 description: Python 应用程序中用于 Microsoft Word 文档、PowerPoint 演示文稿和 Outlook 电子邮件格式的 Python API。
 ---

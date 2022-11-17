@@ -1,7 +1,7 @@
 ---
 title: Konvertera JSON-format till DOT via C++
 description: C++ API t0 Parse JSON till DOT utan att använda Microsoft Word
-url: /sv/cpp/conversion/json-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 När du analyserar JSON till DOT kan du också ställa in storleken på rader och kolumner genom att ladda JSON med klassen [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Om du behöver ställa in samma radhöjd för alla rader i kalkylbladet kan du göra det genom att använda [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467 ) metoden för samlingen [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). På samma sätt, för att ställa in samma kolumnbredd för alla kolumner i kalkylbladet, använd ICells-samlingens [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b5) metod.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ Med hjälp av API:t kan du också analysera JSON till DOT med vattenstämpel. F�
 anrop SetText-metoden och skicka vattenstämpeltext och objekt för TextWatermarkOptions. När du har lagt till vattenstämpeln kan du spara dokumentet i DOT.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

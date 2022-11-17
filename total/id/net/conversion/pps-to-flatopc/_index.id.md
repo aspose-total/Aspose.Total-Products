@@ -1,6 +1,6 @@
 ---
 title: Konversi PPS ke FLATOPC melalui C# .NET 
-url: /id/net/conversion/pps-to-flatopc/ 
+
 description: Konversikan dokumen PowerPoint pps ke file dokumen Word dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

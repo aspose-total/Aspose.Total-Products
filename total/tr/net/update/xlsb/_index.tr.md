@@ -1,7 +1,7 @@
 ---
 title: .NET Kullanarak XLSB Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan C# VB.NET uygulamalarında XLSB belgelerini değiştirin. 
-url: /tr/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

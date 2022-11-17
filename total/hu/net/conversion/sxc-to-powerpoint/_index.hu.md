@@ -1,7 +1,7 @@
 ---
 title: A SXC konvertálása POWERPOINT formátumba .NET segítségével 
 description: A SXC konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/sxc-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

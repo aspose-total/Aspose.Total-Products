@@ -1,7 +1,7 @@
 ---
 title: Convertir XLS en POWERPOINT avec C++
 description: Convertir XLS en POWERPOINT dans les applications C++
-url: /fr/cpp/conversion/xls-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

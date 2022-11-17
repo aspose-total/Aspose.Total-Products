@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε WORDML στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε WORDML χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

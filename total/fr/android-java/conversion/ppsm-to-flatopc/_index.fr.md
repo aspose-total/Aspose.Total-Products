@@ -1,7 +1,7 @@
 ---
 title: Exporter PPSM vers FLATOPC sur Andorid via Java
 description: Convertissez PPSM en FLATOPC dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/ppsm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

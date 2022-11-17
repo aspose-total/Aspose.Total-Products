@@ -1,7 +1,7 @@
 ---
 title: Convert PPT to DOT in Python
 description: PPT to DOT conversion in your Python applications without using Microsoft Word or PowerPoint 
-url: /python-net/conversion/ppt-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportar PPS para FLATOPC no Andorid via Java
 description: Converta PPS para FLATOPC em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/pps-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

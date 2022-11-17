@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von EPUB in POTM
 description: Konvertieren Sie EPUB über C++ in POTM, ohne Microsoft Word oder Adobe Acrobat Reader zu verwenden
-url: /de/cpp/conversion/epub-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ doc->Save(u"PptxOutput.pptx", SaveFormat::Pptx);
 SharedPtr<Presentation> prs = MakeObject<Presentation>(u"PptxOutput.pptx");
 // save the presentation as Potm format
 prs->Save(u"output.potm", Aspose::Slides::Export::SaveFormat::Potm);  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ auto doc = MakeObject<Document>(L"input.epub", L"owner");
 doc->ChangePasswords(L"owner", L"newuser", L"newuser");
 // save the document
 doc->Save(L"output.Doc");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -79,7 +81,8 @@ auto image = pres->get_Images()->AddImage(imageData);
 slide->get_Shapes()->AddPictureFrame(ShapeType::Rectangle, 10.0f, 10.0f, 100.0f, 100.0f, image);
 // save updated file
 pres->Save(u"updated.potm", SaveFormat::Potm);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

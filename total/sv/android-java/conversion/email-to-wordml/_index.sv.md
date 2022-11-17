@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till WORDML i Andorid-appen
 description: Exportera EMAIL till WORDML utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da PPT'yi WORD'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPT'den WORD'e dönüştürme 
-url: /tr/python-net/conversion/ppt-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

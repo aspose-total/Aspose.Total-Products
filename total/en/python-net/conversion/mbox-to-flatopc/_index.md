@@ -1,7 +1,7 @@
 ---
 title: Convert MBOX to FLATOPC in Python
 description: Save MBOX to FLATOPC in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/mbox-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

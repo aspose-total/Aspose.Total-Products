@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na PPSM přes C# .NET 
-url: /cs/net/conversion/dot-to-ppsm/ 
+
 description: Převeďte dokumenty Word dot na soubory PowerPoint ppsm pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

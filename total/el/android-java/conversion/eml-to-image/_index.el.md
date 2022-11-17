@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε IMAGE στην εφαρμογή Andorid
 description: Εξαγωγή EML σε IMAGE χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

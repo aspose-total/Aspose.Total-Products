@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOT sang MSG bằng Python
 description: Lưu DOT thành MSG trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/dot-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

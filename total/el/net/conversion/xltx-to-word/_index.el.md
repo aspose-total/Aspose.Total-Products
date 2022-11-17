@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLTX σε WORD με .NET 
 description: Μετατροπή XLTX σε WORD σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/xltx-to-word/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendre MSG en PNG dans l'application Andorid
 description: Exportez MSG vers PNG sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/msg-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

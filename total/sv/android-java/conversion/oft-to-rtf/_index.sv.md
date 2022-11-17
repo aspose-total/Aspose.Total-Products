@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till RTF i Andorid-appen
 description: Exportera OFT till RTF utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

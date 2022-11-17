@@ -1,7 +1,7 @@
 ---
 title: Konvertera EML till PNG i Python
 description: Spara EML till PNG i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/eml-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

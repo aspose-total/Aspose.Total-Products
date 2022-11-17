@@ -1,6 +1,6 @@
 ---
 title: 通过 Python 转换 Microsoft Excel 电子表格和 Visio 格式 
-url: /zh/python-java/conversion/
+
 description: 转换 Excel 文件 XLS XLSX XLSM XLSB XLTX XLTM CSV 等以及 Visio 格式 VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM 等只需几行 Python 代码。
 ---
 

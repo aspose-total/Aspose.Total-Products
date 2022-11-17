@@ -1,7 +1,7 @@
 ---
 title: ส่งออก EMLX เป็น ODT ผ่าน C++
 description: C++ API เพื่อแปลง EMLX เป็น ODT โดยไม่ต้องใช้ Microsoft Word หรือ Outlook
-url: /th/cpp/conversion/emlx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ msg->Save(u"HtmlOutput.html", SaveOptions::get_DefaultHtml());
 System::SharedPtr<Document> doc = System::MakeObject<Document>(u"HtmlOutput.html");
 // call save method while passing Odt as save format
 doc->Save(u"convertedFile.Odt");
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -60,7 +61,8 @@ System::Console::WriteLine(System::String(L"From:") + msg->get_SenderEmlxAddress
 System::Console::WriteLine(System::String(L"Body") + msg->get_Body());
 // get recipients information
 System::Console::WriteLine(System::String(L"Recipient: ") + msg->get_Recipients());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -75,7 +77,8 @@ auto doc = System::MakeObject<Document>();
 doc->Protect(ProtectionType::ReadOnly, u"password");
 // save the document.
 doc->Save(u"DocumentProtection.PasswordProtection.Odt");
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

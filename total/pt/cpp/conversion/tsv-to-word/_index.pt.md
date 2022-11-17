@@ -1,7 +1,7 @@
 ---
 title: Converter TSV para WORD com C++
 description: Converter TSV para WORD em aplicativos C++
-url: /pt/cpp/conversion/tsv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

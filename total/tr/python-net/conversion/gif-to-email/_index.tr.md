@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında EMAIL'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/gif-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

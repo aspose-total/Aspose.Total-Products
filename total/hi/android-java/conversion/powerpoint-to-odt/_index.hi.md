@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर ODT को POWERPOINT निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में POWERPOINT को ODT में बदलें
-url: /hi/android-java/conversion/powerpoint-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

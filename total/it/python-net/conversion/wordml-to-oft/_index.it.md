@@ -1,7 +1,7 @@
 ---
 title: Converti WORDML in OFT in Python
 description: Salva WORDML in OFT all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/wordml-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してCSVをDOCに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでCSVをDOCに変換する
-url: /ja/net/conversion/csv-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

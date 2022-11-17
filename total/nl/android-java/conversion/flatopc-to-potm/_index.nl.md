@@ -1,7 +1,7 @@
 ---
 title: Converteer FLATOPC naar POTM in Android via Java
 description: FLATOPC naar POTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/android-java/conversion/flatopc-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 U kunt uw met een wachtwoord beveiligde FLATOPC ook converteren naar POTM binnen uw Android-applicaties. Als uw FLATOPC-invoerflatopcument met een wachtwoord is beveiligd, kunt u het niet converteren naar POTM-indeling zonder het wachtwoord te gebruiken. Om een versleuteld flatopcument te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de flatopcumentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

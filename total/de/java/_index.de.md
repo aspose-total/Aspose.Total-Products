@@ -1,7 +1,7 @@
 ---
 title: Java-APIs für gängige Dateiformate - Aspose 
 weight: 60
-url: /de/java/ 
+
 description: Sammlung von APIs für Java-Entwickler zum Bearbeiten von Dateien aus Word Excel PDF PowerPoint Visio OneNote E-Mail Project Bilder 3D GIS.
 ---
 

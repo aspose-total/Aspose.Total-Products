@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

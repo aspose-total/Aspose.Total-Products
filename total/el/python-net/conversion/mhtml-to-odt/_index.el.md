@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε ODT στην Python
 description: Μετατροπή MHTML και HtmlFixed σε ODT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Word 
-url: /el/python-net/conversion/mhtml-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

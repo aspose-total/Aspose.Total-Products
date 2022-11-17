@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to PS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i PS'ye aktarın
-url: /tr/android-java/conversion/email-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

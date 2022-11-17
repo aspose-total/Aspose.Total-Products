@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t SVG-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t SVG-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

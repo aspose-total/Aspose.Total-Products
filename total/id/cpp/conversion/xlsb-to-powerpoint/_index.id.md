@@ -1,7 +1,7 @@
 ---
 title: Konversi XLSB ke POWERPOINT dengan C++
 description: Konversi XLSB ke POWERPOINT dalam aplikasi C++
-url: /id/cpp/conversion/xlsb-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

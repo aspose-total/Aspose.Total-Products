@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi OTT sang OST bằng Python
 description: Lưu OTT thành OST trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/ott-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

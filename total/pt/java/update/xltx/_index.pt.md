@@ -1,7 +1,7 @@
 ---
 title: Atualizar arquivo XLTX usando Java
 description: Modifique o documento XLTX em aplicativos Java sem usar o Microsoft Excel. Otimize o código para a maneira mais rápida de escrever e editar o arquivo excel em java.
-url: /pt/java/update/xltx/
+
 family: total
 platformtag: Java
 feature: update

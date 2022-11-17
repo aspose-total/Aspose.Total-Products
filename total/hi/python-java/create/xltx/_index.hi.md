@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी बनाएं
 description: Microsoft Office का उपयोग किए बिना Python अनुप्रयोगों का उपयोग करके XLTX फ़ाइल बनाएँ। 
-url: /hi/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

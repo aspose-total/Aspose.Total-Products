@@ -1,7 +1,7 @@
 ---
 title: Converti EMAIL in BMP in Python
 description: Salva EMAIL in BMP nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/email-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

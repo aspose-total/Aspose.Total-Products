@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMLX to RTF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMLX'i RTF'ye aktarın
-url: /tr/android-java/conversion/emlx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

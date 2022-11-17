@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t EMLX-be Pythonban
 description: WORDML mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

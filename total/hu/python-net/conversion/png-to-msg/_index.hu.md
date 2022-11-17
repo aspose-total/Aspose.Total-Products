@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t MSG-be Pythonban
 description: PNG mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل PPSM إلى DOTX
 description: قم بتصدير PPSM إلى DOTX داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/ppsm-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

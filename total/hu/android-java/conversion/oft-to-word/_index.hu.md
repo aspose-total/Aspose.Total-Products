@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t WORD-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t WORD-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

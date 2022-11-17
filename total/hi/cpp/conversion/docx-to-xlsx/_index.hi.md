@@ -1,7 +1,7 @@
 ---
 title: C++ में DOCX को XLSX में बदलें
 description: सी ++ एपीआई माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना डीओसी को सीएसवी में कनवर्ट करने के लिए
-url: /hi/cpp/conversion/docx-to-xlsx/
+
 family: total
 platformtag: cpp
 feature: conversion

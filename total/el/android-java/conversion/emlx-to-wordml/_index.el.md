@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε WORDML στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε WORDML χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

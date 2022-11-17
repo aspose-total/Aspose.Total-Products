@@ -1,7 +1,7 @@
 ---
 title: DOTM'yi C++ ile PPT'ye dönüştürün
 description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOTM'yi PPT'ye aktarın
-url: /tr/cpp/conversion/dotm-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX POWERPOINT PPTX PPSX PPSM PPS POTM POT ODP PPTM
 {{< blocks/products/pf/feature-page-header h1="DOTM'yi PPT'ye Dönüştürmek için C++ API" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde DOTM'yi PPT'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken DOTM'den PPT'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOTM'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPT olarak kaydedin. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken DOTM'den PPT'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOTM'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPT olarak kaydedin. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Belge dönüştürmenin yanı sıra, [Aspose.Words for C++](https://products.asp
 auto options = MakeObject<LoadOptions>(u"dotmPassword");
 // load the dotmument from the local file system by filename:
 SharedPtr<Dotmument> dotm = MakeObject<Dotmument>(u"Encrypted.dotm", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

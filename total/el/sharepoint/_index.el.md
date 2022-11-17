@@ -1,7 +1,7 @@
 ---
 title: Εφαρμογές μορφής αρχείου SharePoint - Μετατροπή εγγράφων σε εφαρμογές SharePoint 
 weight: 20
-url: /el/sharepoint/ 
+
 description: Εφαρμογές μορφής αρχείου SharePoint για μετατροπή και συνδυασμό των μορφών εγγράφων του Word Excel PDF PowerPoint email και απεικόνισης στο Microsoft SharePoint
 ---
 

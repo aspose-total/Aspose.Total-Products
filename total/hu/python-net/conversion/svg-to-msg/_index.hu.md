@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a SVG-t MSG-be Pythonban
 description: SVG mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/svg-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

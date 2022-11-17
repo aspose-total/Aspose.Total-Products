@@ -15,7 +15,7 @@ otherformats: XLS FODS EXCEL XLSB DIF SXC XLSM XLT TSV XLAM XLSX ODS XLTX XLTM
 Chuyển đổi DOTX sang XLAM qua [Aspose.Total for Java](https://products.aspose.com/total/java/) là một quy trình đơn giản gồm hai bước. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), bạn có thể xuất DOTX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C ++ để chuyển đổi DOTX sang XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOTX sang XLAM" %}}
 1. Mở tệp DOTX bằng lớp [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Chuyển đổi DOTX sang HTML bằng cách sử dụng [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) phương pháp
 3. Tải tài liệu HTML bằng cách sử dụng lớp [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

@@ -1,7 +1,7 @@
 ---
 title: Convertir WORD en PPT en Python
 description: Conversion WORD en PPT dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/word-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

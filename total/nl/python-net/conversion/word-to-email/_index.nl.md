@@ -1,7 +1,7 @@
 ---
 title: Converteer WORD naar EMAIL in Python
 description: Bewaar WORD naar EMAIL binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/word-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

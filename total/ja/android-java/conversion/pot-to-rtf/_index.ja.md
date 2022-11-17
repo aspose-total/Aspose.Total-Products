@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのRTFにPOTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTをRTFに変換する
-url: /ja/android-java/conversion/pot-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

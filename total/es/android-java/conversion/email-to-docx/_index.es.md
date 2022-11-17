@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMAIL a DOCX en la aplicación Andorid
 description: Exporte EMAIL a DOCX sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/email-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

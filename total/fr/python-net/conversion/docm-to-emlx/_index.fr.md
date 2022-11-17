@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCM en EMLX en Python
 description: Enregistrez DOCM au format EMLX dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/docm-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

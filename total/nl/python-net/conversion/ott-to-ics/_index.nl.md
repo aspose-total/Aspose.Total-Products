@@ -1,7 +1,7 @@
 ---
 title: Converteer OTT naar ICS in Python
 description: Bewaar OTT naar ICS binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/ott-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

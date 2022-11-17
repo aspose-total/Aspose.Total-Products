@@ -1,7 +1,7 @@
 ---
 title: पायथन का उपयोग करके XLS को छवि में बदलें
 description: माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना आपके पायथन अनुप्रयोगों में टीआईएफएफ बीएमपी पीएनजी जेपीईजी जीआईएफ ईएमएफ एसवीजी रूपांतरण छवि के लिए बीएमपी 1 
-url: /hi/python-java/conversion/xls-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

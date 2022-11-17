@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل PPS إلى DOCM
 description: قم بتصدير PPS إلى DOCM داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/pps-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

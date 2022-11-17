@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t IMAGE-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t IMAGE-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 將 POT 導出到 Andorid 上的 ODT
 description: 在移動應用程序中將 POT 轉換為 ODT，無需安裝任何軟件
-url: /zh-hant/android-java/conversion/pot-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

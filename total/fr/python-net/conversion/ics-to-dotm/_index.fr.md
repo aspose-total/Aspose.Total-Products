@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS en DOTM en Python
 description: Enregistrez ICS au format DOTM dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ics-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

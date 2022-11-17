@@ -1,7 +1,7 @@
 ---
 title: Android fájlformátum-feldolgozási API-k mobilalkalmazásokhoz – Aspose 
 weight: 50
-url: /hu/android-java/ 
+
 description: Android fájlformátum API-k Word Excel PDF PowerPointhoz és e-mailekhez. Programozottan hozhat létre szerkesztési renderelést és konvertálhat dokumentumformátumokat mobilalkalmazásokon belül
 ---
 

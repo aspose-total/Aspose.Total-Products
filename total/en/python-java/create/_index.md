@@ -1,6 +1,6 @@
 ---
 title: Create and Update Microsoft Excel Files using Python 
-url: /python-java/create/
+
 description: Create Microsoft Excel worksheet reports without installing Microsoft Office 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: API di elaborazione del formato file Android per app mobili - Aspose 
 weight: 50
-url: /it/android-java/ 
+
 description: API di formato file Android per Word Excel PDF PowerPoint ed e-mail. Crea in modo programmatico il rendering delle modifiche e converti i formati dei documenti all'interno delle app mobili
 ---
 

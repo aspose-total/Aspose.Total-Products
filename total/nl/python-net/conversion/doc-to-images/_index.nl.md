@@ -1,7 +1,7 @@
 ---
 title: Converteer DOC naar afbeeldingen in Python
 description: DOC naar afbeelding TIFF BMP PNG JPEG GIF SVG-conversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/doc-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

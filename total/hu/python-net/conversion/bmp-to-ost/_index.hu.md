@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a BMP-t OST-be Pythonban
 description: BMP mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/bmp-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

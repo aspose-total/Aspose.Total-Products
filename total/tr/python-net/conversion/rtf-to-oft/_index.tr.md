@@ -1,7 +1,7 @@
 ---
 title: Python'da RTF'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında RTF'yi OFT'e kaydedin
-url: /tr/python-net/conversion/rtf-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

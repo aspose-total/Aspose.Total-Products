@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t XLAM-vé C++-ban
 description: C++ API a DOCX konvertálásához XLAM-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-xlam/
+
 family: total
 platformtag: cpp
 feature: conversion

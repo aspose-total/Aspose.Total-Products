@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke ODT di Aplikasi Andorid
 description: Ekspor MSG ke ODT tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

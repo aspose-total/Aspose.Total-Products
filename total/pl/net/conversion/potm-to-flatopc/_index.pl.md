@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na FLATOPC przez C# .NET 
-url: /pl/net/conversion/potm-to-flatopc/ 
+
 description: Konwertuj dokumenty potm programu PowerPoint na pliki flatopc programu Word za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

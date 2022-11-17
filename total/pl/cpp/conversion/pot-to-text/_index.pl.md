@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji POT na TEXT
 description: Eksportuj POT do TEXT w swoich aplikacjach C++
-url: /pl/cpp/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

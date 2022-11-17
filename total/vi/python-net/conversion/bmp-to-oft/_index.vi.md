@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi BMP sang OFT bằng Python
 description: Lưu BMP thành OFT trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/bmp-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

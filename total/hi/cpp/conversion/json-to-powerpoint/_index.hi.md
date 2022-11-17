@@ -1,7 +1,7 @@
 ---
 title: जेएसओएन प्रारूप को सी ++ के माध्यम से ओडीपी में कनवर्ट करें
 description: Microsoft PowerPoint का उपयोग किए बिना JSON को POWERPOINT में C++ में पार्स करें
-url: /hi/cpp/conversion/json-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: OTP PPSM PPT POTM PPTM PPS POT ODP PPSX POTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: OTP PPSM PPT POTM PPTM PPS POT ODP PPSX POTX
 JSON को POWERPOINT में पार्स करते समय, आप JSON को [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) वर्ग के साथ लोड करके पंक्तियों और स्तंभों का आकार भी सेट कर सकते हैं। यदि आपको वर्कशीट में सभी पंक्तियों के लिए समान पंक्ति ऊंचाई सेट करने की आवश्यकता है, तो आप इसे [सेटस्टैंडर्डहाइट](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a1e3f1467f) का उपयोग करके कर सकते हैं। ) [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) संग्रह की विधि। इसी तरह, वर्कशीट में सभी कॉलम के लिए समान कॉलम चौड़ाई सेट करने के लिए, ICells संग्रह की [सेटस्टैंडर्डविड्थ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) विधि का उपयोग करें।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ JSON को POWERPOINT में पार्स करते समय, आप 
 एपीआई का उपयोग करके, आप JSON को वॉटरमार्क के साथ POWERPOINT में भी बदल सकते हैं। अपने POWERPOINT दस्तावेज़ में वॉटरमार्क जोड़ने के लिए, आप पहले JSON को PPTX में पार्स कर सकते हैं और उसमें वॉटरमार्क जोड़ सकते हैं। वॉटरमार्क जोड़ने के लिए, [प्रस्तुति](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) वर्ग का उपयोग करके नई बनाई गई PPTX फ़ाइल लोड करें, पहली स्लाइड प्राप्त करें, एक जोड़ें आयत प्रकार का ऑटोशेप, आयत में टेक्स्टफ़्रेम जोड़ें, टेक्स्ट फ़्रेम के लिए पैराग्राफ़ ऑब्जेक्ट बनाएँ, पैराग्राफ़ के लिए भाग ऑब्जेक्ट बनाएँ, set_Text() का उपयोग करके वॉटरमार्क जोड़ें और, दस्तावेज़ को POWERPOINT में सहेज सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

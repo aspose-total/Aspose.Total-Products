@@ -1,7 +1,7 @@
 ---
 title: C++ API pro převod POTM na DOT
 description: Exportujte POTM do DOT v rámci vašich aplikací C++
-url: /cs/cpp/conversion/potm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: AndroidのPOWERPOINTにODSをエクスポートする
 description: MicrosoftWordを使用せずにODSをPOWERPOINTに変換するAndroidAPI
-url: /ja/android-java/conversion/ods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
 // save powerpointument in PPTX format
 powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.ods");
 PowerpointumentPropertyCollection customProperties = workbook.getWorksheets().getCustomPowerpointumentProperties();
 // remove a custom powerpointument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

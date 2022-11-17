@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to Image using Python
 description: XLTX to image TIFF BMP PNG JPEG GIF EMF SVG conversion in your Python applications without using Microsoft Excel 
-url: /python-java/conversion/xltx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

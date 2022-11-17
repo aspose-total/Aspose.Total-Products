@@ -1,7 +1,7 @@
 ---
 title: Crea XLT in Python
 description: Genera file XLT utilizzando applicazioni Python senza utilizzare Microsoft Office. 
-url: /it/python-java/create/xlt/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Μετατρέψτε τη μορφή JSON σε EPUB μέσω C++
 description: C++ API t0 Ανάλυση JSON σε EPUB χωρίς χρήση του Microsoft Word
-url: /el/cpp/conversion/json-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DOTX DOCM WORDML OTT WORD MOBI PCL DOT ODT FLATOPC CHM DOC PS RTF
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DOTX DOCM WORDML OTT WORD MOBI PCL DOT ODT FLATOPC CHM DOC PS RTF
 Κατά την ανάλυση του JSON σε EPUB, μπορείτε επίσης να ορίσετε το μέγεθος των σειρών και των στηλών φορτώνοντας το JSON με την κλάση [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Εάν χρειάζεται να ορίσετε το ίδιο ύψος σειράς για όλες τις σειρές στο φύλλο εργασίας, μπορείτε να το κάνετε χρησιμοποιώντας το [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b3f1461e ) μέθοδο της συλλογής [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Ομοίως, για να ορίσετε το ίδιο πλάτος στήλης για όλες τις στήλες στο φύλλο εργασίας, χρησιμοποιήστε τη μέθοδο [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e64b8502) της συλλογής ICElls.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ otherformats: DOTX DOCM WORDML OTT WORD MOBI PCL DOT ODT FLATOPC CHM DOC PS RTF
 καλέστε τη μέθοδο SetText και περάστε κείμενο υδατογραφήματος και αντικείμενο του TextWatermarkOptions. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο EPUB.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

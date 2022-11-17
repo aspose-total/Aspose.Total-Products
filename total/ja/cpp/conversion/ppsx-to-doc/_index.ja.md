@@ -1,7 +1,7 @@
 ---
 title: PPSXをDOCに変換するC++API
 description: C++アプリケーション内でPPSXをDOCにエクスポートする
-url: /ja/cpp/conversion/ppsx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

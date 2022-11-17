@@ -1,7 +1,7 @@
 ---
 title: Python'da OST'yi OTT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OST'yi OTT'e kaydedin 
-url: /tr/python-net/conversion/ost-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

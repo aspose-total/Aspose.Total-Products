@@ -1,7 +1,7 @@
 ---
 title: Convertir OST a PDF en Python
 description: Guarde OST en PDF en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/ost-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite — создание отчетов в форматах бизнес-документов
 weight: 80
-url: /ru/jasperreports/ 
+
 description: Пакет JasperReports export позволяет экспортировать отчеты в форматы Word Excel PDF и PowerPoint. Добавить штрих-коды в экспортированные отчеты
 ---
 

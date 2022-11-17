@@ -1,7 +1,7 @@
 ---
 title: Konwertuj ODP na DOTM w Pythonie
 description: Konwersja ODP do DOTM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/odp-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XLTM-bestand bijwerken met Java
 description: Wijzig XLTM-document in Java-toepassingen zonder Microsoft Excel te gebruiken. Optimaliseer code voor de snelste manier om Excel-bestanden in Java te schrijven en te bewerken.
-url: /nl/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

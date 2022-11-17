@@ -1,7 +1,7 @@
 ---
 title: Convert ICS to PDF in Python
 description: Save ICS to PDF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/ics-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

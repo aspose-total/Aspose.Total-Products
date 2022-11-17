@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS RTF formátumba konvertálásához
 description: Exportálja a PPS-ot RTF-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

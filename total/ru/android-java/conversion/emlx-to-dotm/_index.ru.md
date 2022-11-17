@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в DOTM в приложении Andorid
 description: Экспорт EMLX в DOTM без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

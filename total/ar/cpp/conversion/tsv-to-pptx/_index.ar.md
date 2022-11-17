@@ -1,7 +1,7 @@
 ---
 title: تحويل TSV إلى PPTX باستخدام C++
 description: تحويل TSV إلى PPTX داخل تطبيقات C++
-url: /ar/cpp/conversion/tsv-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

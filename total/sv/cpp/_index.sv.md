@@ -1,7 +1,7 @@
 ---
 title: C++ File Format Processing APIs - Aspose 
 weight: 70
-url: /sv/cpp/ 
+
 description: C++ bibliotek läs skriva render och konvertera flera dokumentformat.
 ---
 

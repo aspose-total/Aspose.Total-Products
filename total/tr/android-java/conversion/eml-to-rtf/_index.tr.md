@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to RTF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i RTF'ye aktarın
-url: /tr/android-java/conversion/eml-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

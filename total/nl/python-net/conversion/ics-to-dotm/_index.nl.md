@@ -1,7 +1,7 @@
 ---
 title: Converteer ICS naar DOTM in Python
 description: Bewaar ICS naar DOTM in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/ics-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

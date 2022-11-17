@@ -1,7 +1,7 @@
 ---
 title: تحويل PDF إلى MHTML في Python
 description: PDF إلى تنسيق أرشيف الويب mhtml وتحويل الملفات الثابتة في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/pdf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

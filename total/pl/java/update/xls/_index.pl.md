@@ -1,7 +1,7 @@
 ---
 title: Zaktualizuj plik XLS za pomocą Javy
 description: Modyfikuj dokument XLS w aplikacjach Java bez użycia programu Microsoft Excel. Zoptymalizuj kod dla najszybszego sposobu pisania i edycji pliku Excel w java.
-url: /pl/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: POWERPOINTをWORDMLに変換するC++API
 description: C++アプリケーション内でPOWERPOINTをWORDMLにエクスポートする
-url: /ja/cpp/conversion/powerpoint-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

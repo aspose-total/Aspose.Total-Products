@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FLATOPC-t OST-be Pythonban
 description: FLATOPC mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/flatopc-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

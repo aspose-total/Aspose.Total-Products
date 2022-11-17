@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para FLATOPC no aplicativo Andorid
 description: Exporte OFT para FLATOPC sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをDOCに変換する
-url: /ja/android-java/conversion/pptm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

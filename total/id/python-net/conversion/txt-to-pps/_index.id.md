@@ -1,7 +1,7 @@
 ---
 title: Konversi TXT ke PPS dengan Python
 description: Konversi TXT ke PPS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/txt-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

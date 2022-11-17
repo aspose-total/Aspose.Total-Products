@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az POTM-t DOC-ba C# .NET-en keresztül 
-url: /hu/net/conversion/potm-to-doc/ 
+
 description: Konvertálja a PowerPoint potm dokumentumokat Word doc fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj FLATOPC na POT przez C# .NET 
-url: /pl/net/conversion/flatopc-to-pot/ 
+
 description: Konwertuj dokumenty Word flatopc na pliki pot programu PowerPoint za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

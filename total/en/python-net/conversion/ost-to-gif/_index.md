@@ -1,7 +1,7 @@
 ---
 title: Convert OST to GIF in Python
 description: Save OST to GIF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/ost-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir PS en MSG en Python
 description: Enregistrez PS au format MSG dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/ps-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Solusi Format File Berbasis Lokal, Cloud & Aplikasi 
 weight: 9630
-url: /id/
+
 description: Buat aplikasi manipulasi dokumen menggunakan On Premise atau Cloud API, atau cukup gunakan aplikasi lintas platform untuk melihat, membandingkan, memeriksa, atau mengonversi 100+ format file
 ---
 

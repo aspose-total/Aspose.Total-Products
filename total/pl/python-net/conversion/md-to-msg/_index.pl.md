@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na MSG w Pythonie
 description: Zapisuj MD do MSG w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/md-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

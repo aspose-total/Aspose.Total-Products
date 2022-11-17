@@ -1,7 +1,7 @@
 ---
 title: Converteer EMAIL naar WORDML in Python
 description: Bewaar EMAIL naar WORDML in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/email-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

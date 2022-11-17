@@ -1,7 +1,7 @@
 ---
 title: Python で MD を PPT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで MD から PPT への変換 
-url: /ja/python-net/conversion/md-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

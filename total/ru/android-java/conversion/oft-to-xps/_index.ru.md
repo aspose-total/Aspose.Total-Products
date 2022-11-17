@@ -1,7 +1,7 @@
 ---
 title: Преобразование OFT в XPS в приложении Andorid
 description: Экспорт OFT в XPS без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/oft-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

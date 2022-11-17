@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Android에서 DOCX를 PPS로 변환
 description: PowerPoint의 Microsoft Word를 사용하지 않고 Android 휴대폰에서 DOCX에서 PPS로 변환
-url: /ko/android-java/conversion/docx-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++でXLSをPPTXに変換する
 description: C++アプリケーション内でXLSをPPTXに変換する
-url: /ja/cpp/conversion/xls-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

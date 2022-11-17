@@ -1,7 +1,7 @@
 ---
 title: Convertir XLSX en DOC avec .NET 
 description: Convertir XLSX en DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/xlsx-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

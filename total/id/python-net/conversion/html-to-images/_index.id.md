@@ -1,7 +1,7 @@
 ---
 title: Konversi HTML ke Gambar dengan Python
 description: Konversi HTML ke gambar TIFF BMP PNG JPEG GIF SVG dalam aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da EML'yi PS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EML'yi PS'e kaydedin 
-url: /tr/python-net/conversion/eml-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

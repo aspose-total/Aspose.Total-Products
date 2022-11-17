@@ -1,6 +1,6 @@
 ---
 title: Converter POT para TXT via C# .NET 
-url: /pt/net/conversion/pot-to-txt/ 
+
 description: Converta documentos pot do PowerPoint em arquivos txt do Word com C#. Converta vários arquivos no ASP.NET ou em outros aplicativos .NET.
 ---
 

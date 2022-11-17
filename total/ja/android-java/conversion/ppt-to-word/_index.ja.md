@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDにPPTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTをWORDに変換する
-url: /ja/android-java/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

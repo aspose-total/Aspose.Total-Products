@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPT σε DOCX
 description: Εξαγωγή PPT σε DOCX στις εφαρμογές σας C++
-url: /el/cpp/conversion/ppt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az HTML-et képekké Pythonban
 description: HTML kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

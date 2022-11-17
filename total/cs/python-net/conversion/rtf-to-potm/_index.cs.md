@@ -1,7 +1,7 @@
 ---
 title: Převést RTF na POTM v Pythonu
 description: Převod RTF na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/rtf-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

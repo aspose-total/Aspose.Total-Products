@@ -1,7 +1,7 @@
 ---
 title: Converter ODT para PPTX em Python
 description: Conversão de ODT para PPTX em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint 
-url: /pt/python-net/conversion/odt-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

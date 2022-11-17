@@ -1,7 +1,7 @@
 ---
 title: Konwertuj CSV na WORD za pomocą .NET 
 description: Konwertuj CSV na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin
-url: /pl/net/conversion/csv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

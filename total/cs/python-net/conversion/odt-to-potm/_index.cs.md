@@ -1,7 +1,7 @@
 ---
 title: Převést ODT na POTM v Pythonu
 description: Převod ODT na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/odt-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

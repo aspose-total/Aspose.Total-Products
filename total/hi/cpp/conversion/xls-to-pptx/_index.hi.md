@@ -1,7 +1,7 @@
 ---
 title: C++ के साथ XLS को PPTX में बदलें
 description: C++ अनुप्रयोगों के भीतर XLS को PPTX में बदलें
-url: /hi/cpp/conversion/xls-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

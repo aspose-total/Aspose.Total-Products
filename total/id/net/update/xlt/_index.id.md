@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLT Menggunakan .NET
 description: Memodifikasi dokumen XLT di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

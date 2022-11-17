@@ -1,7 +1,7 @@
 ---
 title: Python'da SVG'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında SVG'yi OFT'e kaydedin
-url: /tr/python-net/conversion/svg-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

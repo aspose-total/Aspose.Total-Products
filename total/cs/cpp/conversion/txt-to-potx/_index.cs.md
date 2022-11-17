@@ -1,7 +1,7 @@
 ---
 title: Převést TXT na POTX přes C++
 description: Exportujte TXT do POTX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint
-url: /cs/cpp/conversion/txt-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPTM ODP POWERPOINT PPTX PPS PPSM PPT PPSX POTM POT
 {{< blocks/products/pf/feature-page-header h1="C++ API pro převod TXT na POTX" h2="Exportujte TXT do POTX v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod TXT na POTX při použití dvou z těchto rozhraní API. Načtěte svůj TXT pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako POTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod TXT na POTX při použití dvou z těchto rozhraní API. Načtěte svůj TXT pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako POTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Potx
 pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Kromě převodu dokumentů umožňuje [Aspose.Words for C++](https://products.as
 auto options = MakeObject<LoadOptions>(u"txtPassword");
 // load the txtument from the local file system by filename:
 SharedPtr<Txtument> txt = MakeObject<Txtument>(u"Encrypted.txt", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Potx
 pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

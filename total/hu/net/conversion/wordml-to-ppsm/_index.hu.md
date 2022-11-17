@@ -1,6 +1,6 @@
 ---
 title: A WORDML konvertálása PPSM-re C# .NET-en keresztül 
-url: /hu/net/conversion/wordml-to-ppsm/ 
+
 description: Konvertálja a Word wordml dokumentumokat PowerPoint ppsm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

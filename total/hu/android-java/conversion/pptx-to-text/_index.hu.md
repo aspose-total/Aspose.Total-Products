@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTX-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTX-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

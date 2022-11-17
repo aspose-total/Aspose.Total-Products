@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε OTT στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε OTT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

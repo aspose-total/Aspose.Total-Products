@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az OTT-et képekké Pythonban
 description: OTT kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/ott-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

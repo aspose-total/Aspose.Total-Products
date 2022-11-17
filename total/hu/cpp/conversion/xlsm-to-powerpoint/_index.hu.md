@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSM-t POWERPOINT-ba a C++ segítségével
 description: A XLSM konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsm-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

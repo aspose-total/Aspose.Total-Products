@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

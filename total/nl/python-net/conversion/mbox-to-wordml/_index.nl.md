@@ -1,7 +1,7 @@
 ---
 title: Converteer MBOX naar WORDML in Python
 description: Bewaar MBOX naar WORDML in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/mbox-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

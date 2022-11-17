@@ -1,7 +1,7 @@
 ---
 title: 用於移動應用的 Android 文件格式處理 API - Aspose 
 weight: 50
-url: /zh-hant/android-java/ 
+
 description: 適用於 Word Excel PDF PowerPoint 和電子郵件的 Android 文件格式 API。以編程方式在移動應用程序中創建編輯渲染和轉換文檔格式
 ---
 

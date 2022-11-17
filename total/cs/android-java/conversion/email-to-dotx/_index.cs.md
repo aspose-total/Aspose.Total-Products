@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do DOTX v aplikaci Andorid
 description: Exportujte EMAIL do DOTX bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

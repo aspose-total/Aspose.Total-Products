@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t DOTM-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t DOTM-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Renderizar OFT a JPEG en la aplicación Andorid
 description: Exporte OFT a JPEG sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/oft-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

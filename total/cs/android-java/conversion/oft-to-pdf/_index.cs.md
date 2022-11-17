@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do PDF v aplikaci Andorid
 description: Exportujte OFT do PDF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

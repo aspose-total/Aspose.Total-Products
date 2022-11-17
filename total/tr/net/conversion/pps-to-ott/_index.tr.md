@@ -1,6 +1,6 @@
 ---
 title: PPS'yi C# .NET aracılığıyla OTT'ye dönüştürün 
-url: /tr/net/conversion/pps-to-ott/ 
+
 description: PowerPoint pps belgelerini C# ile Word ott dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

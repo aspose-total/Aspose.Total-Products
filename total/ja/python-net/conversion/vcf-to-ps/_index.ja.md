@@ -1,7 +1,7 @@
 ---
 title: Python で VCF を PS に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで VCF を PS に保存します。 
-url: /ja/python-net/conversion/vcf-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

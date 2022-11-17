@@ -1,7 +1,7 @@
 ---
 title: Esporta PPSM in DOTM su Andorid tramite Java
 description: Converti PPSM in DOTM nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/ppsm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

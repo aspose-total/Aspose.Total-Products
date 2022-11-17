@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TSV-t POWERPOINT-ba a C++ segítségével
 description: A TSV konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/tsv-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

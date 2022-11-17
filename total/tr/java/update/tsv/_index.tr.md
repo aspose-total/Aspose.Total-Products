@@ -1,7 +1,7 @@
 ---
 title: Java Kullanarak TSV Dosyasını Güncelleyin
 description: TSV belgesini Java uygulamalarında Microsoft Excel kullanmadan değiştirin. Java'da excel dosyasını yazmanın ve düzenlemenin en hızlı yolu için kodu optimize edin.
-url: /tr/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

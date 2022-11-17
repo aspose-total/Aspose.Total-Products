@@ -1,7 +1,7 @@
 ---
 title: Python で WORD を EMAIL に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で WORD を EMAIL に保存します。
-url: /ja/python-net/conversion/word-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

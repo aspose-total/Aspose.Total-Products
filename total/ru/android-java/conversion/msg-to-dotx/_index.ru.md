@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в DOTX в приложении Andorid
 description: Экспорт MSG в DOTX без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

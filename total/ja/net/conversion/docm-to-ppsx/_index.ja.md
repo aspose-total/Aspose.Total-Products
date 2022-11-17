@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してDOCMをPPSXに変換する 
-url: /ja/net/conversion/docm-to-ppsx/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointppsxファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a IMAGE-t OFT-be Pythonban
 description: IMAGE mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/image-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

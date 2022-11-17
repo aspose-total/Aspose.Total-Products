@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till PDF i Andorid-appen
 description: Exportera OFT till PDF utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

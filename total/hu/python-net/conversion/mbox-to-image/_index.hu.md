@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t IMAGE-be Pythonban
 description: Mentse a MBOX-t IMAGE formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

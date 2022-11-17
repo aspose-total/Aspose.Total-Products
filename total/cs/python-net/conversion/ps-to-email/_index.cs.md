@@ -1,7 +1,7 @@
 ---
 title: Převést PS na EMAIL v Pythonu
 description: Ukládejte PS do EMAIL v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/ps-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

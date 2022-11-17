@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMF-t PST-be Pythonban
 description: EMF mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/emf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

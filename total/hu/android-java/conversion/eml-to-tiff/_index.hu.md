@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t TIFF-nek az Andorid alkalmazásban
 description: Exportálja az EML-t TIFF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

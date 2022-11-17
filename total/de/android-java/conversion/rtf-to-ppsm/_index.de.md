@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie RTF in PPSM in Android über Java
 description: RTF-zu-PPSM-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint
-url: /de/android-java/conversion/rtf-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 Sie können Ihr passwortgeschütztes RTF auch in Ihren Android-Anwendungen in PPSM konvertieren. Wenn Ihr eingegebenes RTF-Dokument kennwortgeschützt ist, können Sie es ohne Verwendung des Kennworts nicht in das PPSM-Format konvertieren. Um ein verschlüsseltes Dokument zu öffnen, können Sie das richtige Passwort im LoadOptions-Objekt setzen und es an den Rtfument-Konstruktor übergeben.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

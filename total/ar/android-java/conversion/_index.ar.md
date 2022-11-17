@@ -1,6 +1,6 @@
 ---
 title: تحويل المستندات عبر Android API 
-url: /ar/android-java/conversion/
+
 description: تحويل تنسيقات Word و Excel و PowerPoint و HTML و PDF والصورة باستخدام واجهة برمجة تطبيقات تحويل Android. يقوم Android بتحويل Office docx و xlsx و pptx إلى PDF. 
 ---
 

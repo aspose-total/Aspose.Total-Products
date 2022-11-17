@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t PST-be Pythonban
 description: DOCM mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docm-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

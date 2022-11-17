@@ -1,7 +1,7 @@
 ---
 title: تحويل OFT إلى IMAGE في Python
 description: احفظ OFT في IMAGE في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/oft-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

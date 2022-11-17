@@ -1,7 +1,7 @@
 ---
 title: Python で EMAIL を DOCX に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMAIL を DOCX に保存します。 
-url: /ja/python-net/conversion/email-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPTM WORD formátumba konvertálásához
 description: Exportálja a PPTM-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل WORDML إلى PPSX في Python
 description: تحويل WORDML إلى PPSX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/wordml-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

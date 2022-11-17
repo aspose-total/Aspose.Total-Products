@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 MHTML 转换为图像
 description: 在 Python 应用程序中将 MHTML、HTML 和 HtmlFixed 转换为 GIF、PNG、BMP、JPEG、TIFF 图像
-url: /zh/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

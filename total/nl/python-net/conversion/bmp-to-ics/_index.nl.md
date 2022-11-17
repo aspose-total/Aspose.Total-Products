@@ -1,7 +1,7 @@
 ---
 title: Converteer BMP naar ICS in Python
 description: Bewaar BMP naar ICS binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/bmp-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

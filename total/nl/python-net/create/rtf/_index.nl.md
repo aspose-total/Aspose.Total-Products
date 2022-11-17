@@ -1,7 +1,7 @@
 ---
 title: RTF maken in Python
 description: Genereer een RTF-bestand met Python-toepassingen zonder Microsoft Word te gebruiken. 
-url: /nl/python-net/create/rtf/
+
 family: total
 platformtag: Python
 feature: create

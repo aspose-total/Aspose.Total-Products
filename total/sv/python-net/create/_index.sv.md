@@ -1,6 +1,6 @@
 ---
 title: Skapa fil med Python 
-url: /sv/python-net/create/
+
 description: Skapa text- och Microsoft Word-dokument utan att installera Microsoft Office 
 ---
 

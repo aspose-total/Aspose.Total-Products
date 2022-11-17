@@ -1,7 +1,7 @@
 ---
 title: C++ API для преобразования PPSX в FLATOPC
 description: Экспорт PPSX в FLATOPC в ваших приложениях C++
-url: /ru/cpp/conversion/ppsx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

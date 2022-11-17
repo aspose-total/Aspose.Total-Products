@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή μορφής αρχείου μέσω Java 
-url: /el/java/conversion/
+
 description: Μετατρέψτε το Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, τρισδιάστατες εικόνες, διαγράμματα, μορφές βίντεο και διάφορες άλλες μορφές με λίγες μόνο γραμμές κώδικα Java.
 ---
 

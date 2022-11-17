@@ -1,6 +1,6 @@
 ---
 title: PPT'yi C# .NET aracılığıyla DOTM'ye dönüştürün 
-url: /tr/net/conversion/ppt-to-dotm/ 
+
 description: PowerPoint ppt belgelerini C# ile Word dotm dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

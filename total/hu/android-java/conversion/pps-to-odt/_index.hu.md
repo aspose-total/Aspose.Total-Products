@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot ODT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

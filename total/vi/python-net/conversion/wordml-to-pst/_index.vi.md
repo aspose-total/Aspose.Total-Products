@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORDML sang PST bằng Python
 description: Lưu WORDML thành PST trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/wordml-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

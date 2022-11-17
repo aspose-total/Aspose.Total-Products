@@ -1,7 +1,7 @@
 ---
 title: Renderize EMLX para BMP no aplicativo Andorid
 description: Exporte EMLX para BMP sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/emlx-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na EML v Pythonu
 description: Ukládejte PDF do EML v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/pdf-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

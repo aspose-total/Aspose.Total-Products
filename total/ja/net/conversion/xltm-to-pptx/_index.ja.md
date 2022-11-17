@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTMをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをPPTXに変換する
-url: /ja/net/conversion/xltm-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

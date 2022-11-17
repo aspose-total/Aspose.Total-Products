@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot ODT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

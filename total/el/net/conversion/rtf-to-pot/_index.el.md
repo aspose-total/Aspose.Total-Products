@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή RTF σε POT μέσω C# .NET 
-url: /el/net/conversion/rtf-to-pot/ 
+
 description: Μετατρέψτε έγγραφα Word rtf σε αρχεία pot PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

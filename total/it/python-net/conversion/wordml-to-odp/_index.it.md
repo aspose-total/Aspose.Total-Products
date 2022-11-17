@@ -1,7 +1,7 @@
 ---
 title: Converti WORDML in ODP in Python
 description: Conversione da WORDML a ODP nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/wordml-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

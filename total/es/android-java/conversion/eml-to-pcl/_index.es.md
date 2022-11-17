@@ -1,7 +1,7 @@
 ---
 title: Renderizar EML a PCL en la aplicación Andorid
 description: Exporte EML a PCL sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/eml-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do ODT v aplikaci Andorid
 description: Exportujte OFT do ODT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

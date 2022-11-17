@@ -1,7 +1,7 @@
 ---
 title: Konversi EXCEL ke Gambar menggunakan Python
 description: Konversi EXCEL ke gambar TIFF BMP PNG JPEG GIF EMF SVG dalam aplikasi Python Anda tanpa menggunakan Microsoft Excel 
-url: /id/python-java/conversion/excel-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

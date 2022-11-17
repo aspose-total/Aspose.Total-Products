@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή POT σε DOC στο Andorid μέσω Java
 description: Μετατρέψτε το POT σε DOC σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

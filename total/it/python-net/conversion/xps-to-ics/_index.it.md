@@ -1,7 +1,7 @@
 ---
 title: Converti XPS in ICS in Python
 description: Salva XPS in ICS all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/xps-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

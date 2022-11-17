@@ -1,7 +1,7 @@
 ---
 title: C++でODSをPPTXに変換する
 description: C++アプリケーション内でODSをPPTXに変換する
-url: /ja/cpp/conversion/ods-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir PPTX en RTF en Python
 description: Conversion PPTX en RTF dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/pptx-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

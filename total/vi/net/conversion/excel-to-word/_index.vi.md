@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EXCEL sang WORD với .NET 
 description: Chuyển đổi EXCEL sang WORD trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/excel-to-word/
+
 family: total
 platformtag: net
 feature: conversion

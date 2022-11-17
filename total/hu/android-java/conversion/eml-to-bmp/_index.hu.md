@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t BMP-nek az Andorid alkalmazásban
 description: Exportálja az EML-t BMP-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

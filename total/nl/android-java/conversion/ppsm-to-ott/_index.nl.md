@@ -1,7 +1,7 @@
 ---
 title: Exporteer PPSM naar OTT op Andorid via Java
 description: Converteer PPSM naar OTT in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/ppsm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

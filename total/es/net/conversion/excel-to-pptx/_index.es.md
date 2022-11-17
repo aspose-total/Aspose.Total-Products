@@ -1,7 +1,7 @@
 ---
 title: Convierta EXCEL a PPTX con .NET 
 description: Convierta EXCEL a PPTX en plataformas .NET Framework, .NET Core, Mono o Xamarin
-url: /es/net/conversion/excel-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

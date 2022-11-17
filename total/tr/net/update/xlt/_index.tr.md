@@ -1,7 +1,7 @@
 ---
 title: .NET Kullanarak XLT Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan C# VB.NET uygulamalarında XLT belgelerini değiştirin. 
-url: /tr/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

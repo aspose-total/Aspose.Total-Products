@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCX naar ODP via C++
 description: Exporteer DOCX naar ODP in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/cpp/conversion/docx-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX PPSM POTM POT PPTX PPS PPSX POWERPOINT PPT PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API om DOCX naar ODP te converteren" h2="Exporteer DOCX naar ODP binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOCX-naar-ODP-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOCX met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als ODP. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOCX-naar-ODP-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOCX met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als ODP. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na POTX přes C# .NET 
-url: /cs/net/conversion/wordml-to-potx/ 
+
 description: Převeďte dokumenty Word wordml na soubory PowerPoint potx pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

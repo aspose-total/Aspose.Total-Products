@@ -1,7 +1,7 @@
 ---
 title: Konvertera XLS till WORD med C++
 description: Konvertera XLS till WORD inom C++-applikationer
-url: /sv/cpp/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

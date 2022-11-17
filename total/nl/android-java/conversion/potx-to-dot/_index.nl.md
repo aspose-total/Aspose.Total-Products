@@ -1,7 +1,7 @@
 ---
 title: Exporteer POTX naar DOT op Andorid via Java
 description: Converteer POTX naar DOT in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/potx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف TSV باستخدام جافا
 description: تعديل مستند TSV في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

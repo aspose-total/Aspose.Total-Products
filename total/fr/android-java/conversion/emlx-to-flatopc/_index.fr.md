@@ -1,7 +1,7 @@
 ---
 title: Rendre EMLX en FLATOPC dans l'application Andorid
 description: Exportez EMLX vers FLATOPC sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/emlx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

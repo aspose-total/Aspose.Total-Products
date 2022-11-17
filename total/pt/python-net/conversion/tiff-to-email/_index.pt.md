@@ -1,7 +1,7 @@
 ---
 title: Converter TIFF para EMAIL em Python
 description: Salve TIFF para EMAIL em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/tiff-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

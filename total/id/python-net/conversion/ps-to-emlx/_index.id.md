@@ -1,7 +1,7 @@
 ---
 title: Konversi PS ke EMLX dengan Python
 description: Simpan PS ke EMLX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/ps-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

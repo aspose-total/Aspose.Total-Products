@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF en PDF en Python
 description: Enregistrez VCF au format PDF dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/vcf-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

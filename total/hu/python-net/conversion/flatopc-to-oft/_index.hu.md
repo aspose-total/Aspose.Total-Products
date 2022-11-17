@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FLATOPC-t OFT-be Pythonban
 description: FLATOPC mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/flatopc-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

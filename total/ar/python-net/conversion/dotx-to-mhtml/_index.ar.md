@@ -1,7 +1,7 @@
 ---
 title: تحويل DOTX إلى MHTML في Python
 description: DOTX إلى تنسيق أرشيف الويب mhtml وتحويل الملفات الثابتة في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/dotx-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

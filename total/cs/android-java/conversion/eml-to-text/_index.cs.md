@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do TEXT v aplikaci Andorid
 description: Exportujte EML do TEXT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

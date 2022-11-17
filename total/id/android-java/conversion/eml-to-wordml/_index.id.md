@@ -1,7 +1,7 @@
 ---
 title: Render EML ke WORDML di Aplikasi Andorid
 description: Ekspor EML ke WORDML tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/eml-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

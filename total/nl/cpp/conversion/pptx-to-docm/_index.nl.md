@@ -1,7 +1,7 @@
 ---
 title: C++ API om PPTX naar DOCM te converteren
 description: Exporteer PPTX naar DOCM binnen uw C++-toepassingen
-url: /nl/cpp/conversion/pptx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

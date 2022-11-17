@@ -1,7 +1,7 @@
 ---
 title: Python'da PS'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PS'yi OFT'e kaydedin
-url: /tr/python-net/conversion/ps-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

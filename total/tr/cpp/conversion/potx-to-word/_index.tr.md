@@ -1,7 +1,7 @@
 ---
 title: POTX'u WORD'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POTX'u WORD'a aktarın
-url: /tr/cpp/conversion/potx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

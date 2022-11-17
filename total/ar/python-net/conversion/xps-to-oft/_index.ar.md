@@ -1,7 +1,7 @@
 ---
 title: تحويل XPS إلى OFT في Python
 description: احفظ XPS في OFT داخل تطبيقات Python دون استخدام Microsoft Word أو Outlook
-url: /ar/python-net/conversion/xps-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer SVG naar OFT in Python
 description: Bewaar SVG naar OFT binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/svg-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

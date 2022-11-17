@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOTXにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをDOTXにエクスポートする
-url: /ja/android-java/conversion/eml-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

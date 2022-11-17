@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to OTT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i OTT'ye aktarın
-url: /tr/android-java/conversion/oft-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

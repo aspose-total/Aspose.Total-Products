@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren Sie die XLTX-Datei mit .NET
 description: Ändern Sie XLTX-Dokumente in C#-VB.NET-Anwendungen, ohne Microsoft Excel zu verwenden. 
-url: /de/net/update/xltx/
+
 family: total
 platformtag: .NET
 feature: update

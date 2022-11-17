@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to GIF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i GIF'ye aktarın
-url: /tr/android-java/conversion/eml-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

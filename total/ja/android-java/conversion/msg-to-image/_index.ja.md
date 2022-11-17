@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをIMAGEにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをIMAGEにエクスポートする
-url: /ja/android-java/conversion/msg-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

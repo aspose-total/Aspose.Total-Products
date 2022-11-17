@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPS σε DOTM
 description: Εξαγωγή PPS σε DOTM στις εφαρμογές σας C++
-url: /el/cpp/conversion/pps-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

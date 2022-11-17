@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή εγγράφων μέσω API Android 
-url: /el/android-java/conversion/
+
 description: Μετατρέψτε μορφές Word, Excel, PowerPoint, HTML, PDF και εικόνας χρησιμοποιώντας το API μετατροπής Android. Android μετατροπή Office docx, xlsx, pptx σε PDF. 
 ---
 

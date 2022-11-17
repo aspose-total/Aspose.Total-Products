@@ -1,7 +1,7 @@
 ---
 title: Python で EML を BMP に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EML を BMP に保存します。 
-url: /ja/python-net/conversion/eml-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

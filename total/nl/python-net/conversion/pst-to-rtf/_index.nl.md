@@ -1,7 +1,7 @@
 ---
 title: Converteer PST naar RTF in Python
 description: Bewaar PST naar RTF in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/pst-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

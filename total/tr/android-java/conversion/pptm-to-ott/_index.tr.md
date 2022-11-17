@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPTM'u OTT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u OTT'ye dönüştürün
-url: /tr/android-java/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

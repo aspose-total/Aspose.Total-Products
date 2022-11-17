@@ -1,7 +1,7 @@
 ---
 title: C++ API เพื่อแปลง POTM เป็น WORD
 description: ส่งออก POTM เป็น WORD ภายในแอปพลิเคชัน C++ ของคุณ
-url: /th/cpp/conversion/potm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

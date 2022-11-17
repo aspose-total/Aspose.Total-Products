@@ -1,7 +1,7 @@
 ---
 title: Helyszíni, felhő- és alkalmazásalapú fájlformátum-megoldások 
 weight: 9630
-url: /hu/
+
 description: Készítsen dokumentumkezelő alkalmazásokat On Premise vagy Cloud API-k segítségével, vagy egyszerűen használjon többplatformos alkalmazásokat több mint 100 fájlformátum megtekintéséhez, összehasonlításához, ellenőrzéséhez vagy konvertálásához
 ---
 

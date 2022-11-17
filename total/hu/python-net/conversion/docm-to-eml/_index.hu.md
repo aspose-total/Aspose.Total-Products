@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t EML-be Pythonban
 description: DOCM mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docm-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

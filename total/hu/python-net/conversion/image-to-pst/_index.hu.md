@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a IMAGE-t PST-be Pythonban
 description: IMAGE mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/image-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

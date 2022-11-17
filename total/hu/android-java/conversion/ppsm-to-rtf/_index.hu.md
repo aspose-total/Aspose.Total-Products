@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

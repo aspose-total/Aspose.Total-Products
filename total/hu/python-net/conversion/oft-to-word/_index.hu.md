@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t WORD-be Pythonban
 description: Mentse a OFT-t WORD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

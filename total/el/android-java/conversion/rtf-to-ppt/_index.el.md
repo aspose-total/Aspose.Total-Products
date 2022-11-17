@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή RTF σε PPT στο Android μέσω Java
 description: Μετατροπή RTF σε PPT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
-url: /el/android-java/conversion/rtf-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPS ODP PPSX POT POWERPOINT PPTM PPTX POTM POTX PPSM CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPS ODP PPSX POT POWERPOINT PPTM PPTX POTM POTX PPSM CSV DIF FODS 
 Μπορείτε επίσης να μετατρέψετε το RTF που προστατεύεται με κωδικό πρόσβασης σε PPT στις εφαρμογές σας Android. Εάν το έγγραφο RTF εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε μορφή PPT χωρίς να χρησιμοποιήσετε τον κωδικό πρόσβασης. Για να ανοίξετε ένα κρυπτογραφημένο έγγραφο, μπορείτε να ορίσετε τον σωστό κωδικό πρόσβασης στο αντικείμενο LoadOptions και να τον μεταβιβάσετε στον κατασκευαστή του εγγράφου.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

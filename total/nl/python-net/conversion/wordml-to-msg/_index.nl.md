@@ -1,7 +1,7 @@
 ---
 title: Converteer WORDML naar MSG in Python
 description: Bewaar WORDML naar MSG binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/wordml-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

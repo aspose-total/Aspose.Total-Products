@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTM till OTT via C# .NET 
-url: /sv/net/conversion/potm-to-ott/ 
+
 description: Konvertera PowerPoint potm-dokument till Word-ott-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

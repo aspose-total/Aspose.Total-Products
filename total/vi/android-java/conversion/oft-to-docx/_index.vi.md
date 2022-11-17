@@ -1,7 +1,7 @@
 ---
 title: Kết xuất OFT thành DOCX trong ứng dụng Andorid
 description: Xuất OFT sang DOCX mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/oft-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

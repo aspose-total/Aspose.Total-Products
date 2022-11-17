@@ -1,7 +1,7 @@
 ---
 title: 파일 형식에 대한 SQL Server Reporting Services 렌더링 확장 
 weight: 40
-url: /ko/reporting-services/ 
+
 description: RDL 보고서를 Word Excel PDF PowerPoint 형식으로 내보내는 파일 형식용 SQL Server Reporting Services Rendering Extensions. 내보낸 보고서에 바코드 추가
 ---
 

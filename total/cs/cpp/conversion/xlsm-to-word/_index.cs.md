@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSM na WORD pomocí C++
 description: Převeďte XLSM na WORD v aplikacích C++
-url: /cs/cpp/conversion/xlsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

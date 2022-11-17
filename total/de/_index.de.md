@@ -1,7 +1,7 @@
 ---
 title: Lokale, Cloud- und App-basierte Dateiformatlösungen 
 weight: 9630
-url: /de/
+
 description: Erstellen Sie Anwendungen zur Dokumentenbearbeitung mit On-Premise- oder Cloud-APIs oder verwenden Sie einfach plattformübergreifende Apps, um mehr als 100 Dateiformate anzuzeigen, zu vergleichen, zu prüfen oder zu konvertieren
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Converter PPSM para DOTX em Python
 description: Conversão de PPSM para DOTX em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint 
-url: /pt/python-net/conversion/ppsm-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t TEXT-be Pythonban
 description: Mentse a OST-t TEXT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 파이썬에서 DOTM 만들기
 description: Microsoft Word를 사용하지 않고 Python 응용 프로그램을 사용하여 DOTM 파일을 생성합니다. 
-url: /ko/python-net/create/dotm/
+
 family: total
 platformtag: Python
 feature: create

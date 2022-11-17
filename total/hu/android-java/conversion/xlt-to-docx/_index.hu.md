@@ -1,7 +1,7 @@
 ---
 title: XLT exportálása DOCX formátumba Androidon
 description: Android API a XLT konvertálásához DOCX formátumba Microsoft Word használata nélkül
-url: /hu/android-java/conversion/xlt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

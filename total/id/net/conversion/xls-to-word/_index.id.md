@@ -1,7 +1,7 @@
 ---
 title: Konversi XLS ke WORD dengan .NET 
 description: Konversi XLS ke WORD di .NET Framework, .NET Core, Mono atau Platform Xamarin
-url: /id/net/conversion/xls-to-word/
+
 family: total
 platformtag: net
 feature: conversion

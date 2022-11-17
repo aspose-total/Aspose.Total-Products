@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOCX in DIF in C++
 description: C++-API zum Konvertieren von DOCX in DIF, ohne Microsoft Word oder Microsoft Excel zu verwenden
-url: /de/cpp/conversion/docx-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion

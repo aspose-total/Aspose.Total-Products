@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t OFT-be Pythonban
 description: EPUB mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

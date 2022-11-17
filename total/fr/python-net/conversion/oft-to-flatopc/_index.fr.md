@@ -1,7 +1,7 @@
 ---
 title: Convertir OFT en FLATOPC en Python
 description: Enregistrez OFT au format FLATOPC dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/oft-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

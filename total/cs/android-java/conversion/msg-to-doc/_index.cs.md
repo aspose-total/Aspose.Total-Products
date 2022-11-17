@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do DOC v aplikaci Andorid
 description: Exportujte MSG do DOC bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

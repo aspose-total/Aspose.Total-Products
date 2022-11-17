@@ -1,7 +1,7 @@
 ---
 title: API αυτοματισμού μορφής αρχείου για πολλαπλές πλατφόρμες - Aspose 
 weight: 10
-url: /el/family/
+
 description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D και CAD Manipulation API για .NET, Java, Android, C++. Στοιχεία για το SharePoint, επεκτάσεις για υπηρεσίες αναφοράς και εξαγωγείς για το JasperReports.
 ---
 

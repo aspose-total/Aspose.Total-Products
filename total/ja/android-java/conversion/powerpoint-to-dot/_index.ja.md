@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOTにPOWERPOINTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOWERPOINTをDOTに変換する
-url: /ja/android-java/conversion/powerpoint-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

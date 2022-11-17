@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t MBOX-be Pythonban
 description: DOT mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dot-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

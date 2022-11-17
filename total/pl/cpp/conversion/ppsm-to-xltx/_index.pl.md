@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PPSM na XLTX za pomocą C++
 description: Eksportuj PPSM do XLTX w C++ bez użycia Microsoft Excel lub Powerpoint
-url: /pl/cpp/conversion/ppsm-to-xltx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze st
 Korzystając z interfejsu API, możesz również otworzyć dokument chroniony hasłem. Jeśli wejściowy dokument PPSM jest chroniony hasłem, nie można go przekonwertować na XLTX bez użycia hasła. Gdy dokument jest chroniony hasłem, oznacza to, że wymusza pewne ograniczenia prezentacji. Aby usunąć ograniczenia, należy wprowadzić hasło. Prezentacja chroniona hasłem jest uważana za prezentację zablokowaną. API umożliwia otwarcie zaszyfrowanego dokumentu poprzez podanie prawidłowego hasła w obiekcie LoadOptions. Poniższy przykład kodu pokazuje, jak otworzyć zaszyfrowany dokument za pomocą hasła.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

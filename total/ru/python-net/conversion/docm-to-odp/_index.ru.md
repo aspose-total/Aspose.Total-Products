@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCM в ODP в Python
 description: Преобразование DOCM в ODP в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/docm-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

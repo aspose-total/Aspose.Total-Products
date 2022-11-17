@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke DOTX dengan Python
 description: Konversi MHTML dan Html Memperbaiki ke DOTX di aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/mhtml-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

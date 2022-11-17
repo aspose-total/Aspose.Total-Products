@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t GIF-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t GIF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

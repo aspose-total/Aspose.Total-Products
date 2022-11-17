@@ -1,6 +1,6 @@
 ---
 title: Converter PPTX para WORDML via C# .NET 
-url: /pt/net/conversion/pptx-to-wordml/ 
+
 description: Converta documentos pptx do PowerPoint em arquivos wordml do Word com C#. Converta vários arquivos no ASP.NET ou em outros aplicativos .NET.
 ---
 

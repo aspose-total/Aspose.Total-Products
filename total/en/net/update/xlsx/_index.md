@@ -1,7 +1,7 @@
 ---
 title: Update XLSX File using .NET
 description: Modify XLSX documents in C# VB.NET applications without using Microsoft Excel. 
-url: /net/update/xlsx/
+
 family: total
 platformtag: .NET
 feature: update

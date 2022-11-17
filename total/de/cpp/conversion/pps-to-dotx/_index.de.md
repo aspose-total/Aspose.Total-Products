@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von PPS in DOTX
 description: Exportieren Sie PPS in DOTX innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/pps-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PST in DOTM in Python
 description: Speichern Sie PST in DOTM in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/pst-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot WORDML-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot WORDML-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

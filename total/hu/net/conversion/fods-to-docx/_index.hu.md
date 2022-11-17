@@ -1,7 +1,7 @@
 ---
 title: A FODS konvertálása DOCX formátumba .NET segítségével 
 description: A FODS konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/fods-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

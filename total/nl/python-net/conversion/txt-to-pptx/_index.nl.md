@@ -1,7 +1,7 @@
 ---
 title: Converteer TXT naar PPTX in Python
 description: TXT naar PPTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/txt-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

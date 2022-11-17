@@ -1,6 +1,6 @@
 ---
 title: قم بإنشاء ملف باستخدام Python 
-url: /ar/python-net/create/
+
 description: أنشئ نصًا ومستندات Microsoft Word بدون تثبيت Microsoft Office 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEXT-t OFT-be Pythonban
 description: TEXT mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/text-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

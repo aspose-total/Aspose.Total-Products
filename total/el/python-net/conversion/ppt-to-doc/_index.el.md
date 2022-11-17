@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PPT σε DOC στην Python
 description: Μετατροπή PPT σε DOC στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/ppt-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

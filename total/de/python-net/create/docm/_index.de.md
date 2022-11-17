@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie DOCM in Python
 description: Generieren Sie DOCM-Dateien mit Python-Anwendungen, ohne Microsoft Word zu verwenden. 
-url: /de/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

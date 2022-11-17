@@ -1,6 +1,6 @@
 ---
 title: Konverze dokumentů přes Python 
-url: /cs/python-net/conversion/
+
 description: Převeďte formáty Microsoft Word DOC, DOCX do PDF, obrázky a další, stejně jako prezentační snímky, e-mailové zprávy a 3D obrázky, jen několik řádků kódu Python.
 ---
 

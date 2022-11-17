@@ -1,7 +1,7 @@
 ---
 title: Renderize EMAIL para IMAGE no aplicativo Andorid
 description: Exporte EMAIL para IMAGE sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/email-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

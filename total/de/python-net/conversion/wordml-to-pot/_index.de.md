@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie WORDML in POT in Python
 description: Konvertierung von WORDML in POT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/wordml-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर OTT को POTX निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में POTX को OTT में बदलें
-url: /hi/android-java/conversion/potx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

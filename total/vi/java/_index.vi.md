@@ -1,7 +1,7 @@
 ---
 title: API Java cho các định dạng tệp phổ biến - Aspose 
 weight: 60
-url: /vi/java/ 
+
 description: Bộ sưu tập các API dành cho nhà phát triển Java để thao tác với các tệp từ Word Excel PDF PowerPoint Visio OneNote Email Project Hình ảnh 3D GIS.
 ---
 

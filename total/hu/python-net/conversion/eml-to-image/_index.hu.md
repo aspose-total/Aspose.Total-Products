@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t IMAGE-be Pythonban
 description: Mentse a EML-t IMAGE formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

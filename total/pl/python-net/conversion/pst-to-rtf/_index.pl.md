@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PST na RTF w Pythonie
 description: Zapisz PST w formacie RTF w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/pst-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

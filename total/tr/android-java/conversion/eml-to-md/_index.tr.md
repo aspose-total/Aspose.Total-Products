@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to MD'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i MD'ye aktarın
-url: /tr/android-java/conversion/eml-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

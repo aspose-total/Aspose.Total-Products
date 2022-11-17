@@ -1,7 +1,7 @@
 ---
 title: Python で XLS を作成する
 description: Microsoft Office を使用せずに、Python アプリケーションを使用して XLS ファイルを生成します。 
-url: /ja/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

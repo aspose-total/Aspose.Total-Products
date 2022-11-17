@@ -1,7 +1,7 @@
 ---
 title: Converter FODS para PPTX com C++
 description: Converter FODS para PPTX em aplicativos C++
-url: /pt/cpp/conversion/fods-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

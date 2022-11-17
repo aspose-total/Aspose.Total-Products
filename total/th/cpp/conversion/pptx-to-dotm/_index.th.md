@@ -1,7 +1,7 @@
 ---
 title: C++ API เพื่อแปลง PPTX เป็น DOTM
 description: ส่งออก PPTX เป็น DOTM ภายในแอปพลิเคชัน C++ ของคุณ
-url: /th/cpp/conversion/pptx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

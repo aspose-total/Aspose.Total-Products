@@ -1,7 +1,7 @@
 ---
 title: Exportar POT a FLATOPC en Andorid a través de Java
 description: Convierta POT a FLATOPC en aplicaciones móviles sin instalar ningún software
-url: /es/android-java/conversion/pot-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

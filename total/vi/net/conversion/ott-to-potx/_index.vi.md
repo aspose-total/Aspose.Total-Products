@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi OTT sang POTX qua C# .NET 
-url: /vi/net/conversion/ott-to-potx/ 
+
 description: Chuyển đổi tài liệu Word ott sang tệp potx PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

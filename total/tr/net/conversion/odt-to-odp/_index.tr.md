@@ -1,6 +1,6 @@
 ---
 title: ODT'yi C# .NET aracılığıyla ODP'ye dönüştürün 
-url: /tr/net/conversion/odt-to-odp/ 
+
 description: C# ile Word odt belgelerini PowerPoint odp dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

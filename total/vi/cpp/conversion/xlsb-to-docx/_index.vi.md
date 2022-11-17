@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLSB sang DOCX bằng C++
 description: Chuyển đổi XLSB sang DOCX trong các ứng dụng C++
-url: /vi/cpp/conversion/xlsb-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

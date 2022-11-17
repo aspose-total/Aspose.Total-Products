@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLTX σε Python
 description: Δημιουργήστε αρχείο XLTX χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

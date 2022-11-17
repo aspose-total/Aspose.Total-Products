@@ -1,6 +1,6 @@
 ---
 title: POT'yi C# .NET aracılığıyla DOC'ye dönüştürün 
-url: /tr/net/conversion/pot-to-doc/ 
+
 description: PowerPoint pot belgelerini C# ile Word doc dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

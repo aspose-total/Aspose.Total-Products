@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t EML-be Pythonban
 description: EPUB mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

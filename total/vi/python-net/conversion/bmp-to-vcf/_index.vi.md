@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi BMP sang VCF bằng Python
 description: Lưu BMP thành VCF trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/bmp-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

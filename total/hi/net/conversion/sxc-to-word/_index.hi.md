@@ -1,7 +1,7 @@
 ---
 title: .NET के साथ SXC को WORD में बदलें 
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर SXC को WORD में बदलें
-url: /hi/net/conversion/sxc-to-word/
+
 family: total
 platformtag: net
 feature: conversion

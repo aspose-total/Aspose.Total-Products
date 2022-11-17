@@ -1,6 +1,6 @@
 ---
 title: A OTT konvertálása PPS-re C# .NET-en keresztül 
-url: /hu/net/conversion/ott-to-pps/ 
+
 description: Konvertálja a Word ott dokumentumokat PowerPoint pps fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのODTにPPSをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSをODTに変換する
-url: /ja/android-java/conversion/pps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

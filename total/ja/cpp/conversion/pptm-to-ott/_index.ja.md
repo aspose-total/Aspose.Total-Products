@@ -1,7 +1,7 @@
 ---
 title: PPTMをOTTに変換するC++API
 description: C++アプリケーション内でPPTMをOTTにエクスポートする
-url: /ja/cpp/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをODTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをODTにエクスポートする
-url: /ja/android-java/conversion/oft-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

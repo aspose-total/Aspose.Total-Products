@@ -1,7 +1,7 @@
 ---
 title: تحويل EML إلى TIFF في Python
 description: احفظ EML في TIFF في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/eml-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

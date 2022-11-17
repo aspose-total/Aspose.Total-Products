@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot DOTX-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot DOTX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

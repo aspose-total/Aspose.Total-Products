@@ -1,7 +1,7 @@
 ---
 title: Converti OST in TIFF in Python
 description: Salva OST in TIFF nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ost-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

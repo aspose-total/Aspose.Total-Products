@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLS باستخدام جافا
 description: تعديل مستند XLS في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

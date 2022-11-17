@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCX σε POT μέσω C++
 description: Εξαγωγή DOCX σε POT στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint
-url: /el/cpp/conversion/docx-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSM POWERPOINT POTM POTX PPTX ODP PPS PPT PPSX PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOCX σε POT" h2="Εξαγωγή DOCX σε POT εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής DOCX σε POT ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το DOCX σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως POT. 
+Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής DOCX σε POT ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το DOCX σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Converteer WORD naar POWERPOINT in Python
 description: WORD naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/word-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

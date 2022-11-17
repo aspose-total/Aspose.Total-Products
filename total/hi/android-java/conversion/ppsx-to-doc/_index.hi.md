@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर DOC को PPSX निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPSX को DOC में बदलें
-url: /hi/android-java/conversion/ppsx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

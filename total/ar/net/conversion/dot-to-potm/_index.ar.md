@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى POTM عبر C# .NET 
-url: /ar/net/conversion/dot-to-potm/ 
+
 description: تحويل مستندات Word dot إلى ملفات PowerPoint potm باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

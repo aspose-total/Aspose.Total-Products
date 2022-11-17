@@ -1,7 +1,7 @@
 ---
 title: แปลง XLTX เป็น PPTX ด้วย C++
 description: แปลง XLTX เป็น PPTX ภายในแอปพลิเคชัน C++
-url: /th/cpp/conversion/xltx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

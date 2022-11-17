@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのFLATOPCにPOTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTMをFLATOPCに変換する
-url: /ja/android-java/conversion/potm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

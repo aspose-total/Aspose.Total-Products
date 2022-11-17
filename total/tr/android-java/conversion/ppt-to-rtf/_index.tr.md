@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u RTF'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u RTF'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Aggiorna il file CSV usando Python
 description: Modifica il documento CSV nelle applicazioni Python senza utilizzare Microsoft Excel. 
-url: /it/python-java/update/csv/
+
 family: total
 platformtag: Python
 feature: update

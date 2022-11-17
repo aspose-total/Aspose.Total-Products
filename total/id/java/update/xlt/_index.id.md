@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLT Menggunakan Java
 description: Memodifikasi dokumen XLT di aplikasi Java tanpa menggunakan Microsoft Excel. Optimalkan kode untuk cara tercepat menulis dan mengedit file excel di java.
-url: /id/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Converteer TXT naar PPSX in Python
 description: TXT naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/txt-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

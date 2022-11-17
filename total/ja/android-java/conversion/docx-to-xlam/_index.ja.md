@@ -1,7 +1,7 @@
 ---
 title: DOCXをXLAMに変換するAndroidAPI
 description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでDOCXをXLAMに変換する
-url: /ja/android-java/conversion/docx-to-xlam/
+
 family: total
 platformtag: cpp
 feature: conversion

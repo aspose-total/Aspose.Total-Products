@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t ODP-be Pythonban
 description: WORD-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/word-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

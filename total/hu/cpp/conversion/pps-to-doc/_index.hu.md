@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS DOC formátumba konvertálásához
 description: Exportálja a PPS-ot DOC-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

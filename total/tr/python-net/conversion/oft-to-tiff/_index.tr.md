@@ -1,7 +1,7 @@
 ---
 title: Python'da OFT'yi TIFF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OFT'yi TIFF'e kaydedin 
-url: /tr/python-net/conversion/oft-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

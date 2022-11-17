@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to TIFF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i TIFF'ye aktarın
-url: /tr/android-java/conversion/email-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

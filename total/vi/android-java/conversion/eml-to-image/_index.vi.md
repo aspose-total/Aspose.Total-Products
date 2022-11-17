@@ -1,7 +1,7 @@
 ---
 title: Kết xuất EML thành IMAGE trong ứng dụng Andorid
 description: Xuất EML sang IMAGE mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

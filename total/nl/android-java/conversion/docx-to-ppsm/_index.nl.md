@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCX naar PPSM in Android via Java
 description: DOCX naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/android-java/conversion/docx-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion

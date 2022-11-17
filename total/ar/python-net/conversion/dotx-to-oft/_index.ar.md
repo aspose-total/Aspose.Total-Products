@@ -1,7 +1,7 @@
 ---
 title: تحويل DOTX إلى OFT في Python
 description: احفظ DOTX في OFT داخل تطبيقات Python دون استخدام Microsoft Word أو Outlook
-url: /ar/python-net/conversion/dotx-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMLX do MD w aplikacji Andorid
 description: Eksportuj EMLX do MD bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/emlx-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

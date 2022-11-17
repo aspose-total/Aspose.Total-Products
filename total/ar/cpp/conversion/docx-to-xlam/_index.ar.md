@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCX إلى XLAM في C++
 description: C++ API لتحويل DOCX إلى XLAM دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/cpp/conversion/docx-to-xlam/
+
 family: total
 platformtag: cpp
 feature: conversion

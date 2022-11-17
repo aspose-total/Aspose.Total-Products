@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi MBOX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi MBOX'e kaydedin
-url: /tr/python-net/conversion/png-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

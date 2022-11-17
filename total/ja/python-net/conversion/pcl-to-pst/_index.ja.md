@@ -1,7 +1,7 @@
 ---
 title: Python で PCL を PST に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で PCL を PST に保存します。
-url: /ja/python-net/conversion/pcl-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t EMLX-be Pythonban
 description: TIFF mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

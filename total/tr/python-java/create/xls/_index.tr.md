@@ -1,7 +1,7 @@
 ---
 title: Python'da XLS oluşturun
 description: Microsoft Office kullanmadan Python uygulamalarını kullanarak XLS dosyası oluşturun. 
-url: /tr/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

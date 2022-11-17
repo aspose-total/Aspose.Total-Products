@@ -1,7 +1,7 @@
 ---
 title: Převeďte DOC do formátu JSON v C++
 description: Export DOC do JSON v C++ bez použití Microsoft Excel nebo Word
-url: /cs/cpp/conversion/doc-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 Pomocí rozhraní API můžete také otevřít dokument chráněný heslem. Pokud je váš vstupní dokument DOC chráněn heslem, nemůžete jej převést do formátu JSON bez použití hesla. K tomu použijte speciální přetížení konstruktoru, který přijímá objekt LoadOptions. Tento objekt obsahuje vlastnost Password, která určuje řetězec hesla.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

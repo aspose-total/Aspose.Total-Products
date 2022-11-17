@@ -1,7 +1,7 @@
 ---
 title: XLS-bestand bijwerken met Python
 description: Wijzig XLS-document in Python-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/python-java/update/xls/
+
 family: total
 platformtag: Python
 feature: update

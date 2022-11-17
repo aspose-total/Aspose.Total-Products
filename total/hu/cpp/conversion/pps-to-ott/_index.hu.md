@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS OTT formátumba konvertálásához
 description: Exportálja a PPS-ot OTT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

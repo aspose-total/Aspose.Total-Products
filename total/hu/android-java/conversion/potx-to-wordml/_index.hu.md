@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot WORDML-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot WORDML-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中創建 XLSM
 description: 在不使用 Microsoft Office 的情況下使用 Python 應用程序生成 XLSM 文件。 
-url: /zh-hant/python-java/create/xlsm/
+
 family: total
 platformtag: Python
 feature: create

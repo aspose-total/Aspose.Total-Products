@@ -1,7 +1,7 @@
 ---
 title: Converteer EMAIL naar PCL in Python
 description: Bewaar EMAIL naar PCL in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/email-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Android에서 DOCX를 JSON 형식으로 변환
 description: Microsoft Word 또는 Excel을 사용하지 않고 Java를 통해 Android에서 DOCX를 JSON 형식으로 구문 분석
-url: /ko/android-java/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

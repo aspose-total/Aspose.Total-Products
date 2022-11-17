@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPSM nach RTF auf Andorid über Java
 description: Konvertieren Sie PPSM in RTF in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/ppsm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

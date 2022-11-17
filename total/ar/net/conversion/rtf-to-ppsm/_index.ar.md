@@ -1,6 +1,6 @@
 ---
 title: تحويل RTF إلى PPSM عبر C# .NET 
-url: /ar/net/conversion/rtf-to-ppsm/ 
+
 description: تحويل مستندات Word rtf إلى ملفات PowerPoint ppsm باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

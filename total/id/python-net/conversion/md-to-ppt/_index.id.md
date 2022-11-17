@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke PPT dengan Python
 description: Konversi MD ke PPT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/md-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

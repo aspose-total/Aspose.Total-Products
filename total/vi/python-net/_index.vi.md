@@ -1,6 +1,6 @@
 ---
 title: Python thông qua API xử lý định dạng tệp .NET - Aspose 
-url: /vi/python-net/
+
 url_ignore: /python-net/ 
 description: API Python cho tài liệu Microsoft Word, bản trình bày PowerPoint và định dạng email Outlook từ bên trong các ứng dụng Python.
 ---

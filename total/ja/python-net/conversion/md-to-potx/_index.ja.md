@@ -1,7 +1,7 @@
 ---
 title: Python で MD を POTX に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで MD から POTX への変換 
-url: /ja/python-net/conversion/md-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

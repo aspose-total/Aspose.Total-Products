@@ -1,7 +1,7 @@
 ---
 title: Eksportuj POWERPOINT do RTF na Androidzie przez Javę
 description: Konwertuj POWERPOINT na RTF w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/powerpoint-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

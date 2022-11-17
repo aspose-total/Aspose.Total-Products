@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή OTT σε EMLX στην Python
 description: Αποθηκεύστε το OTT σε EMLX εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/ott-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

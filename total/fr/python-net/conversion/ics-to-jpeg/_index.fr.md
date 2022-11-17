@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS en JPEG en Python
 description: Enregistrez ICS au format JPEG dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ics-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

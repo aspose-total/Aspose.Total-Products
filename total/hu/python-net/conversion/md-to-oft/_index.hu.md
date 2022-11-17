@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t OFT-be Pythonban
 description: MD mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

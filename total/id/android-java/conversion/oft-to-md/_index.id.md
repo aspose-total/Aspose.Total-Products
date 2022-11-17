@@ -1,7 +1,7 @@
 ---
 title: Render OFT ke MD di Aplikasi Andorid
 description: Ekspor OFT ke MD tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

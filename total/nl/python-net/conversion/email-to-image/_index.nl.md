@@ -1,7 +1,7 @@
 ---
 title: Converteer EMAIL naar IMAGE in Python
 description: Bewaar EMAIL naar IMAGE in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/email-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

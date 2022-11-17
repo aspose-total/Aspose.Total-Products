@@ -1,7 +1,7 @@
 ---
 title: Converti WORD in PPS in Android tramite Java
 description: Conversione da WORD a PPS nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint
-url: /it/android-java/conversion/word-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspos
 Puoi anche convertire il tuo WORD protetto da password in PPS all'interno delle tue applicazioni Android. Se il wordumento WORD di input è protetto da password, non è possibile convertirlo in formato PPS senza utilizzare la password. Per aprire un wordumento crittografato, è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del wordumento.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

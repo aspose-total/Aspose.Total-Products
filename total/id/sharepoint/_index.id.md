@@ -1,7 +1,7 @@
 ---
 title: Aplikasi Format File SharePoint - Konversi Dokumen di Aplikasi SharePoint 
 weight: 20
-url: /id/sharepoint/ 
+
 description: Aplikasi Format File SharePoint untuk mengonversi dan menggabungkan format dokumen Word Excel PDF PowerPoint Email dan Pencitraan dalam Microsoft SharePoint
 ---
 

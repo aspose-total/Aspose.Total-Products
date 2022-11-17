@@ -1,7 +1,7 @@
 ---
 title: 本地、基於雲和應用程序的文件格式解決方案 
 weight: 9630
-url: /zh-hant/
+
 description: 使用 On Premise 或 Cloud API 構建文檔操作應用程序，或者簡單地使用跨平台應用程序來查看、比較、檢查或轉換 100 多種文件格式
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: MHTML konvertálása képekké Pythonban
 description: MHTML, HTML és Html IMAGES, PNG, BMP, JPEG, TIFF képkonverzió rögzítése a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

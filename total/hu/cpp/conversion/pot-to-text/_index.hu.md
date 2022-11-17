@@ -1,7 +1,7 @@
 ---
 title: C++ API a POT TEXT formátumba konvertálásához
 description: Exportálja a POT-ot TEXT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti MD in EML in Python
 description: Salva MD in EML all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/md-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

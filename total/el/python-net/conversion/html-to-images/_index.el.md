@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή HTML σε εικόνες στην Python
 description: Μετατροπή HTML σε εικόνα TIFF BMP PNG JPEG GIF SVG στις εφαρμογές σας Python χωρίς τη χρήση του Microsoft Word 
-url: /el/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

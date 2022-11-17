@@ -1,7 +1,7 @@
 ---
 title: Konvertera ODT till bilder i Python
 description: ODT till bild TIFF BMP PNG JPEG GIF SVG-konvertering i dina Python-applikationer utan att använda Microsoft Word 
-url: /sv/python-net/conversion/odt-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi OST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi OST'e kaydedin
-url: /tr/python-net/conversion/png-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

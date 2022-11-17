@@ -1,7 +1,7 @@
 ---
 title: पायथन में एमएचटीएमएल को जीआईएफ में बदलें
 description: एमएचटीएमएल और एचटीएमएल माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना आपके पायथन अनुप्रयोगों में जीआईएफ रूपांतरण के लिए फिक्स्ड 
-url: /hi/python-net/conversion/mhtml-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t OST-be Pythonban
 description: TIFF mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

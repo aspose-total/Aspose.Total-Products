@@ -1,7 +1,7 @@
 ---
 title: Python'da OST'yi PS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OST'yi PS'e kaydedin 
-url: /tr/python-net/conversion/ost-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

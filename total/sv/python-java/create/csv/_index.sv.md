@@ -1,7 +1,7 @@
 ---
 title: Skapa CSV i Python
 description: Generera CSV-fil med Python-applikationer utan att använda Microsoft Office. 
-url: /sv/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

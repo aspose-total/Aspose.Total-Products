@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをMDにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをMDにエクスポートする
-url: /ja/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

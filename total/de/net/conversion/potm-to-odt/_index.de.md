@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POTM in ODT über C# .NET 
-url: /de/net/conversion/potm-to-odt/ 
+
 description: Konvertieren Sie PowerPoint-POTM-Dokumente mit C# in Word-Odt-Dateien. Konvertieren Sie mehrere Dateien innerhalb von ASP.NET oder anderen .NET-Anwendungen.
 ---
 

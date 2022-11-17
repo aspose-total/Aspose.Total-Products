@@ -1,7 +1,7 @@
 ---
 title: Python で VCF を EPUB に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで VCF を EPUB に保存します。 
-url: /ja/python-net/conversion/vcf-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

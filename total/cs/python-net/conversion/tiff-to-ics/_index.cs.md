@@ -1,7 +1,7 @@
 ---
 title: Převést TIFF na ICS v Pythonu
 description: Ukládejte TIFF do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/tiff-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

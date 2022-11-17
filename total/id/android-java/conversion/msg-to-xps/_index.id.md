@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke XPS di Aplikasi Andorid
 description: Ekspor MSG ke XPS tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

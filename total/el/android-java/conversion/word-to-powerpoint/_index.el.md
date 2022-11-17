@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORD σε POWERPOINT στο Android μέσω Java
 description: Μετατροπή WORD σε POWERPOINT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
-url: /el/android-java/conversion/word-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POT POTX PPTM PPTX PPT POTM ODP PPS PPSX PPSM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POT POTX PPTM PPTX PPT POTM ODP PPS PPSX PPSM
 Μπορείτε επίσης να μετατρέψετε το WORD που προστατεύεται με κωδικό πρόσβασης σε POWERPOINT στις εφαρμογές σας Android. Εάν το έγγραφο WORD εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε μορφή POWERPOINT χωρίς να χρησιμοποιήσετε τον κωδικό πρόσβασης. Για να ανοίξετε ένα κρυπτογραφημένο έγγραφο, μπορείτε να ορίσετε τον σωστό κωδικό πρόσβασης στο αντικείμενο LoadOptions και να τον μεταβιβάσετε στον κατασκευαστή του εγγράφου.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

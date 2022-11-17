@@ -1,7 +1,7 @@
 ---
 title: تحويل OTT إلى PPT في Python
 description: تحويل OTT إلى PPT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/ott-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

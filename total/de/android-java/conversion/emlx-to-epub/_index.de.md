@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu EPUB in der Andorid App
 description: Exportieren Sie E-MAIL nach EPUB, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

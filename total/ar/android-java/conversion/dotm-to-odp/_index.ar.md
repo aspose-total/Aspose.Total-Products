@@ -1,7 +1,7 @@
 ---
 title: تحويل DOTM إلى ODP في Android عبر Java
 description: DOTM لتحويل ODP في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
-url: /ar/android-java/conversion/dotm-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POTM POT PPTX PPSM PPS PPT PPTM PPSX POWERPOINT POTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotm-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POTM POT PPTX PPSM PPS PPT PPTM PPSX POWERPOINT POTX
 يمكنك أيضًا تحويل DOTM المحمي بكلمة مرور إلى ODP داخل تطبيقات Android. إذا كان مستند DOTM الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى تنسيق ODP بدون استخدام كلمة المرور. لفتح مستند مشفر ، يمكنك تعيين كلمة المرور الصحيحة في كائن LoadOptions وتمريرها إلى مُنشئ المستند.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Exportera PPSX till DOT på Andorid via Java
 description: Konvertera PPSX till DOT i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/ppsx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

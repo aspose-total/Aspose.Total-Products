@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MSG-t MSG-be Pythonban
 description: MSG mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/gif-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

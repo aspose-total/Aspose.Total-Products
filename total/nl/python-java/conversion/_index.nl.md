@@ -1,6 +1,6 @@
 ---
 title: Conversie van Microsoft Excel-spreadsheets en Visio-indelingen via Python 
-url: /nl/python-java/conversion/
+
 description: Converteer Excel-bestanden XLS XLSX XLSM XLSB XLTX XLTM CSV en meer, evenals Visio-indelingen VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM enz. Slechts enkele regels Python-code.
 ---
 

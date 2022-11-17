@@ -1,7 +1,7 @@
 ---
 title: Buat DOCM dengan Python
 description: Hasilkan file DOCM menggunakan aplikasi Python tanpa menggunakan Microsoft Word. 
-url: /id/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

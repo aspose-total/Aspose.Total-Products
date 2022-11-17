@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi MBOX sang RTF bằng Python
 description: Lưu MBOX thành RTF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
-url: /vi/python-net/conversion/mbox-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

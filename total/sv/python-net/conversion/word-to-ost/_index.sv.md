@@ -1,7 +1,7 @@
 ---
 title: Konvertera WORD till OST i Python
 description: Spara WORD till OST i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/word-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

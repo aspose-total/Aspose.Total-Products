@@ -1,7 +1,7 @@
 ---
 title: Çoklu Platformlar için Dosya Formatı Otomasyonu API'leri - Aspose 
 weight: 10
-url: /tr/family/
+
 description: Microsoft Excel Word PowerPoint E-posta PDF Visio Projesi Barkod OCR Görüntüleme .NET, Java, Android, C++ için OneNote 3D ve CAD Manipülasyon API'leri. SharePoint için Bileşenler, Raporlama Hizmetleri için Uzantılar ve JasperReports için İhracatçılar.
 ---
 

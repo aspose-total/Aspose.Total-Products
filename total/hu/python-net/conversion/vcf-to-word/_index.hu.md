@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t WORD-be Pythonban
 description: Mentse a VCF-t WORD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

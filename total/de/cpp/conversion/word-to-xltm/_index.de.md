@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie WORD in XLTM in C++
 description: C++-API zum Konvertieren von WORD in XLTM, ohne Microsoft Word oder Microsoft Excel zu verwenden
-url: /de/cpp/conversion/word-to-xltm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) ermöglicht Ihnen auch den Zugriff auf die Dokumenteigenschaften der WORD-Datei und ermöglicht es Ihnen, vor dem Konvertierungsprozess eine fundierte Entscheidung zu treffen. Um auf Dokumenteigenschaften zuzugreifen, können Sie [BuiltInWordumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_wordument_properties) verwenden, um integrierte Eigenschaften und [CustomWordumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_wordument_properties), um benutzerdefinierte Eigenschaften zu erhalten. Das folgende Codebeispiel zeigt, wie alle integrierten und benutzerdefinierten Eigenschaften in einem Dokument aufgelistet werden.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordument-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-wordument-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 Nach der Konvertierung von WORD in XLTM können Sie mit [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Ihr Dokument zum Streamen speichern. Um Dateien in einem Stream zu speichern, erstellen Sie ein MemoryStream- oder FileStream-Objekt und speichern Sie die Datei in diesem Stream-Objekt, indem Sie [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aufrufen. Objekts Methode [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349). Geben Sie das gewünschte Dateiformat mit der Aufzählung [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) beim Aufruf der [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) Methode.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

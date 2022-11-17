@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLS χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLS σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Převést PNG na EML v Pythonu
 description: Ukládejte PNG do EML v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/png-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

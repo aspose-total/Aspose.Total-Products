@@ -1,7 +1,7 @@
 ---
 title: แปลง RTF เป็น POT ใน Android ผ่าน Java
 description: การแปลง RTF เป็น POT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint
-url: /th/android-java/conversion/rtf-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POWERPOINT PPS POTM PPSX PPT PPTX PPTM PPSM ODP POTX CSV DIF FODS 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POWERPOINT PPS POTM PPSX PPT PPTX PPTM PPSM ODP POTX CSV DIF FODS 
 คุณยังสามารถแปลง RTF ที่ป้องกันด้วยรหัสผ่านเป็น POT ภายในแอปพลิเคชัน Android ของคุณ หากเอกสาร RTF ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ POT ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

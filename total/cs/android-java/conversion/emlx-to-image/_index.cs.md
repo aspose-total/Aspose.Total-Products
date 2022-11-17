@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do IMAGE v aplikaci Andorid
 description: Exportujte EMLX do IMAGE bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

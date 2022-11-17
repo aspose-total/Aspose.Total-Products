@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή POTX σε DOCM
 description: Εξαγωγή POTX σε DOCM στις εφαρμογές σας C++
-url: /el/cpp/conversion/potx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

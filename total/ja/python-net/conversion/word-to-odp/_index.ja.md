@@ -1,7 +1,7 @@
 ---
 title: Python で WORD を ODP に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORD から ODP への変換 
-url: /ja/python-net/conversion/word-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ JSON เป็น PPT ผ่าน C++
 description: แยก JSON เป็น PPT ใน C++ โดยไม่ต้องใช้ Microsoft PowerPoint
-url: /th/cpp/conversion/json-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: OTP PPSM PPSX POTM PPTM POT ODP PPS POWERPOINT POTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: OTP PPSM PPSX POTM PPTM POT ODP PPS POWERPOINT POTX
 ขณะแยกวิเคราะห์ JSON เป็น PPT คุณยังกำหนดขนาดของแถวและคอลัมน์ได้ด้วยการโหลด JSON ด้วยคลาส [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) หากคุณต้องการตั้งค่าความสูงของแถวเท่ากันสำหรับทุกแถวในเวิร์กชีต คุณสามารถทำได้โดยใช้[SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) วิธีการของคอลเล็กชัน [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) ในทำนองเดียวกัน หากต้องการตั้งค่าความกว้างคอลัมน์เท่ากันสำหรับทุกคอลัมน์ในเวิร์กชีต ให้ใช้เมธอด [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) ของคอลเล็กชัน ICElls
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: OTP PPSM PPSX POTM PPTM POT ODP PPS POWERPOINT POTX
 เมื่อใช้ API คุณยังสามารถแปลง JSON เป็น PPT ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร PPT ของคุณ ขั้นแรกให้แยก JSON เป็น PPTX และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ PPTX ที่สร้างขึ้นใหม่โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) รับสไลด์แรก เพิ่ม รูปร่างอัตโนมัติของประเภทสี่เหลี่ยมผืนผ้า, เพิ่ม TextFrame ให้กับสี่เหลี่ยมผืนผ้า, สร้างวัตถุย่อหน้าสำหรับกรอบข้อความ, สร้างวัตถุส่วนสำหรับย่อหน้า, เพิ่มลายน้ำโดยใช้ set_Text() และสามารถบันทึกเอกสารไปยัง PPT
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

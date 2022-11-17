@@ -1,7 +1,7 @@
 ---
 title: Převést DOCM na PPSX v Pythonu
 description: Převod DOCM na PPSX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/docm-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

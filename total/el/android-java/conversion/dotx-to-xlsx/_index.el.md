@@ -1,7 +1,7 @@
 ---
 title: Android API για μετατροπή DOTX σε XLSX
 description: Μετατροπή DOTX σε XLSX στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
-url: /el/android-java/conversion/dotx-to-xlsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLAM XLS TSV XLT XLTM EXCEL CSV ODS SXC XLSM XLSB DIF FODS XLTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLAM XLS TSV XLT XLTM EXCEL CSV ODS SXC XLSM XLSB DIF FODS XLTX
 Πριν μετατρέψετε το DOTX σε XLSX, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο DOTX μέσω του [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να καθορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://reference.aspose.com/words/java) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-dotxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-dotxument.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLAM XLS TSV XLT XLTM EXCEL CSV ODS SXC XLSM XLSB DIF FODS XLTX
 Μετά τη μετατροπή του DOTX σε XLSX, το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) σάς δίνει τη δυνατότητα να αποθηκεύσετε το έγγραφό σας σε ροή. Εάν χρειάζεται να αποθηκεύσετε αρχεία σε μια ροή, τότε θα πρέπει να δημιουργήσετε ένα αντικείμενο FileOutputStream και, στη συνέχεια, [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) το αρχείο σε αυτό το αντικείμενο Stream καλώντας τη μέθοδο αποθήκευσης του [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) αντικείμενο.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

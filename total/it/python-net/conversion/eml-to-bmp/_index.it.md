@@ -1,7 +1,7 @@
 ---
 title: Converti EML in BMP in Python
 description: Salva EML in BMP nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/eml-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

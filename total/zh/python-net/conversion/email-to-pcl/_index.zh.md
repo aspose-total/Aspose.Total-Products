@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 EMAIL 转换为 PCL
 description: 在 Python 应用程序中将 EMAIL 保存为 PCL，而无需使用 Microsoft Outlook 或 Word 
-url: /zh/python-net/conversion/email-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

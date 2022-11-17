@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t VCF-be Pythonban
 description: EPUB mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

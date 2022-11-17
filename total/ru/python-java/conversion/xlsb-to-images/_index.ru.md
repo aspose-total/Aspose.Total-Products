@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSB в изображение с помощью Python
 description: Преобразование XLSB в изображение TIFF BMP PNG JPEG GIF EMF SVG в ваших приложениях Python без использования Microsoft Excel 
-url: /ru/python-java/conversion/xlsb-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

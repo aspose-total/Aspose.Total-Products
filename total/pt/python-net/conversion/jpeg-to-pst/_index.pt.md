@@ -1,7 +1,7 @@
 ---
 title: Converter JPEG para PST em Python
 description: Salve JPEG para PST em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/jpeg-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

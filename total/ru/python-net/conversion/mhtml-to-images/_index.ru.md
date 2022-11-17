@@ -1,7 +1,7 @@
 ---
 title: Преобразование MHTML в изображения в Python
 description: Преобразование изображений MHTML, HTML и HtmlFixed в IMAGES, PNG, BMP, JPEG, TIFF в ваших приложениях Python без использования любое программное обеспечение 
-url: /ru/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

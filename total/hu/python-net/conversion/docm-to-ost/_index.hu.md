@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t OST-be Pythonban
 description: DOCM mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docm-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

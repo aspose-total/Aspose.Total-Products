@@ -1,7 +1,7 @@
 ---
 title: Convertir WORDML en POWERPOINT en Python
 description: Conversion WORDML en POWERPOINT dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/wordml-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

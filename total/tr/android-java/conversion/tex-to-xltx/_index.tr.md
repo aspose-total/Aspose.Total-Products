@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Android'de TEX'yi XLTX'ye dönüştürün
 description: Microsoft Excel veya Adobe Reader kullanmadan Java API aracılığıyla Android'de TEX'yi XLTX'ye dönüştürün
-url: /tr/android-java/conversion/tex-to-xltx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 [Java üzerinden Android için Aspose.PDF](https://products.aspose.com/pdf/android-java/) bir TEX dosyasının XMP meta verilerine erişmenizi sağlar. Meta verileri almak için bir [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) nesnesi oluşturun ve giriş TEX dosyasını açın ve [getMetadata()] öğesini kullanın. meta verileri almak için (https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) özelliği.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) a
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), ihtiyaçlarınıza bağlı olarak XLTX dosyanızın korunmasını destekler. Belgenizi korumak için [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) yöntemini kullanabilirsiniz [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfı.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xltx.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xltx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

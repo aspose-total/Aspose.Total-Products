@@ -1,7 +1,7 @@
 ---
 title: ODS létrehozása Pythonban
 description: ODS-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/ods/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Converter OST para PCL em Python
 description: Salve OST para PCL em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/ost-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

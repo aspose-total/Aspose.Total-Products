@@ -1,7 +1,7 @@
 ---
 title: Konversi EPUB ke EML dengan Python
 description: Simpan EPUB ke EML dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/epub-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

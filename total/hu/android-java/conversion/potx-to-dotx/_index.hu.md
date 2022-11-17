@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot DOTX-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot DOTX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

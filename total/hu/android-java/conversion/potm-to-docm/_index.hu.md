@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTM-ot DOCM-ba Andoridon Java-n keresztül
 description: Konvertálja a POTM-ot DOCM-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

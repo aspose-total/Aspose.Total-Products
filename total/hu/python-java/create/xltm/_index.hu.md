@@ -1,7 +1,7 @@
 ---
 title: XLTM létrehozása Pythonban
 description: XLTM-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

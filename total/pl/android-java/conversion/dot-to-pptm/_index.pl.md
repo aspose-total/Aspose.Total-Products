@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOT na PPTM w Androidzie przez Java
 description: Konwersja DOT do PPTM w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint
-url: /pl/android-java/conversion/dot-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 Możesz także przekonwertować chroniony hasłem DOT na PPTM w swoich aplikacjach na Androida. Jeśli wejściowy dokument DOT jest chroniony hasłem, nie można go przekonwertować do formatu PPTM bez użycia hasła. Aby otworzyć zaszyfrowany dokument, możesz ustawić poprawne hasło w obiekcie LoadOptions i przekazać je do konstruktora Dotument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

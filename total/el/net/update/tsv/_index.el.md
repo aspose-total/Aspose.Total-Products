@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο TSV χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα TSV σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/tsv/
+
 family: total
 platformtag: .NET
 feature: update

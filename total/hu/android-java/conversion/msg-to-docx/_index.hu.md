@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t DOCX-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t DOCX-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: A ODT konvertálása POT-re C# .NET-en keresztül 
-url: /hu/net/conversion/odt-to-pot/ 
+
 description: Konvertálja a Word odt dokumentumokat PowerPoint pot fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t DOT-be Pythonban
 description: Mentse a EMLX-t DOT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

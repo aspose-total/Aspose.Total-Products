@@ -1,6 +1,6 @@
 ---
 title: 通過 C# .NET 將 PPT 轉換為 DOC 
-url: /zh-hant/net/conversion/ppt-to-doc/ 
+
 description: 使用 C# 將 PowerPoint ppt 文檔轉換為 Word doc 文件。在 ASP.NET 或其他 .NET 應用程序中轉換多個文件。
 ---
 

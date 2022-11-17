@@ -1,7 +1,7 @@
 ---
 title: Convertir MBOX en RTF en Python
 description: Enregistrez MBOX au format RTF dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/mbox-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

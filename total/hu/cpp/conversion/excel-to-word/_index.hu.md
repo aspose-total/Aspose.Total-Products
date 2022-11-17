@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EXCEL-t WORD-ba a C++ segítségével
 description: A EXCEL konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/excel-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportera PPS till WORD på Andorid via Java
 description: Konvertera PPS till WORD i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pps-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

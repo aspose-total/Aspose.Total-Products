@@ -1,7 +1,7 @@
 ---
 title: XLT fájl frissítése Java használatával
 description: Módosítsa a XLT-dokumentumot Java alkalmazásokban Microsoft Excel használata nélkül. Optimalizálja a kódot az Excel-fájlok leggyorsabb írásához és szerkesztéséhez Java-ban.
-url: /hu/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

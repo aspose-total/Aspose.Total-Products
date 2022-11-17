@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to SVG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i SVG'ye aktarın
-url: /tr/android-java/conversion/msg-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

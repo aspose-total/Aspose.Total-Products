@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to MHTML in Python
 description: PDF to mhtml Web archive format and HtmlFixed file conversion in your Python applications without using Microsoft Word 
-url: /python-net/conversion/pdf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

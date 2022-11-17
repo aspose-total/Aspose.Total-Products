@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t MSG-be Pythonban
 description: WORD mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/word-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android में XLTM को PPTX में निर्यात करें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना सीएसवी को डीओसी में कनवर्ट करने के लिए एंड्रॉइड एपीआई
-url: /hi/android-java/conversion/xltm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Pptxument pptxument = new Pptxument("pdfOutput.pdf");
 // save pptxument in PPTX format
 pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.xltm");
 PptxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomPptxumentProperties();
 // remove a custom pptxument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

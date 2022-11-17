@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в PPT в Python
 description: Преобразование MD в PPT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/md-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

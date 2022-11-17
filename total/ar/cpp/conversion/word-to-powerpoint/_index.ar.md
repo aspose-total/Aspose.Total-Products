@@ -1,7 +1,7 @@
 ---
 title: تحويل WORD إلى POWERPOINT عبر C++
 description: قم بتصدير WORD إلى POWERPOINT في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint
-url: /ar/cpp/conversion/word-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPTX ODP PPTM PPT PPSM POT POTM PPS PPSX POTX
 {{< blocks/products/pf/feature-page-header h1="C++ API لتحويل WORD إلى POWERPOINT" h2="تصدير WORD إلى POWERPOINT داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل WORD إلى POWERPOINT أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند WORD باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ POWERPOINT. 
+يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل WORD إلى POWERPOINT أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند WORD باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ POWERPOINT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pptx
 pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
 auto options = MakeObject<LoadOptions>(u"wordPassword");
 // load the wordument from the local file system by filename:
 SharedPtr<Wordument> word = MakeObject<Wordument>(u"Encrypted.wordx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pptx
 pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t PPSM-be Pythonban
 description: DOC-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/doc-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

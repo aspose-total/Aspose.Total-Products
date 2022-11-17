@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS FLATOPC formátumba konvertálásához
 description: Exportálja a PPS-ot FLATOPC-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

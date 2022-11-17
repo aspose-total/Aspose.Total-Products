@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie OTT in POWERPOINT in Python
 description: Konvertierung von OTT in POWERPOINT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/ott-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

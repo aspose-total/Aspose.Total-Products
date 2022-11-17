@@ -1,7 +1,7 @@
 ---
 title: Převést RTF na MSG v Pythonu
 description: Ukládejte RTF do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/rtf-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

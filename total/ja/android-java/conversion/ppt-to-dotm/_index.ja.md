@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOTMにPPTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOTMに変換する
-url: /ja/android-java/conversion/ppt-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 使用 C++ 將 TSV 轉換為 WORD
 description: 在 C++ 應用程序中將 TSV 轉換為 WORD
-url: /zh-hant/cpp/conversion/tsv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

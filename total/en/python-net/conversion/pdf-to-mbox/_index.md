@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to MBOX in Python
 description: Save PDF to MBOX within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/pdf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

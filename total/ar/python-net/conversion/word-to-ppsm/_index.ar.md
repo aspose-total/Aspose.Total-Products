@@ -1,7 +1,7 @@
 ---
 title: تحويل WORD إلى PPSM في Python
 description: تحويل WORD إلى PPSM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/word-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

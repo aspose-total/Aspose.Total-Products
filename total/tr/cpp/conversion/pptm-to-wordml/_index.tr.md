@@ -1,7 +1,7 @@
 ---
 title: PPTM'u WORDML'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPTM'u WORDML'a aktarın
-url: /tr/cpp/conversion/pptm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

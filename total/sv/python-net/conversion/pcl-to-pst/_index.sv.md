@@ -1,7 +1,7 @@
 ---
 title: Konvertera PCL till PST i Python
 description: Spara PCL till PST i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/pcl-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してCSVをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでCSVをWORDに変換する
-url: /ja/net/conversion/csv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PPTをRTFに変換するC++API
 description: C++アプリケーション内でPPTをRTFにエクスポートする
-url: /ja/cpp/conversion/ppt-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

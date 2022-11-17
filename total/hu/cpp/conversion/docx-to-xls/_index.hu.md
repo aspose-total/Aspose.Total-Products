@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t XLS-vé C++-ban
 description: C++ API a DOCX konvertálásához XLS-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-xls/
+
 family: total
 platformtag: cpp
 feature: conversion

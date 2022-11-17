@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS DOTM formátumba konvertálásához
 description: Exportálja a PPS-ot DOTM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

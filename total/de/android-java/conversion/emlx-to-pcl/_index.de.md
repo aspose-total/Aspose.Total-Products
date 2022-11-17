@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu PCL in der Andorid App
 description: Exportieren Sie E-MAIL nach PCL, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

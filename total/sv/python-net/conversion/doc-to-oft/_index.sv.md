@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOC till OFT i Python
 description: Spara DOC till OFT i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/doc-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

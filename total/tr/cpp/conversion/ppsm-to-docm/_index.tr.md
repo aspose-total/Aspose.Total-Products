@@ -1,7 +1,7 @@
 ---
 title: PPSM'u DOCM'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPSM'u DOCM'a aktarın
-url: /tr/cpp/conversion/ppsm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

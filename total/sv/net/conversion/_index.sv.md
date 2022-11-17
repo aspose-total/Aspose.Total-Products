@@ -1,6 +1,6 @@
 ---
 title: Filformatskonvertering via C# 
-url: /sv/net/conversion/
+
 description: Konvertera Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D-bilder, diagram, videoformat och många andra populära filer med bara några rader C#-kod.
 ---
 

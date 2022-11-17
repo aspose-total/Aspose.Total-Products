@@ -1,7 +1,7 @@
 ---
 title: Frissítse a CSV fájlt Python használatával
 description: Módosítsa a CSV-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/csv/
+
 family: total
 platformtag: Python
 feature: update

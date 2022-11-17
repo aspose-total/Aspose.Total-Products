@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Android에서 OTT를 POTM로 변환
 description: PowerPoint의 Microsoft Word를 사용하지 않고 Android 휴대폰에서 OTT에서 POTM로 변환
-url: /ko/android-java/conversion/ott-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ OTT에서 POTM로 파일 변환을 위해 [Maven](https://repository.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ OTT에서 POTM로 파일 변환을 위해 [Maven](https://repository.aspose.com/
 Android 애플리케이션 내에서 비밀번호로 보호된 OTT를 POTM로 변환할 수도 있습니다. 입력한 OTT 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 POTM 형식으로 변환할 수 없습니다. 암호화된 문서를 열려면 LoadOptions 개체에 올바른 암호를 설정하고 이를 Ottument 생성자에 전달할 수 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

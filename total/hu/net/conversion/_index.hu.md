@@ -1,6 +1,6 @@
 ---
 title: Fájlformátum konvertálása C# segítségével 
-url: /hu/net/conversion/
+
 description: Konvertálja a Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D képeket, diagramokat, videoformátumokat és sok más népszerű fájlt néhány sornyi C# kóddal.
 ---
 

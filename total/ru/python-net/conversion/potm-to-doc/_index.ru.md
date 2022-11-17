@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTM в DOC в Python
 description: Преобразование POTM в DOC в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/potm-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

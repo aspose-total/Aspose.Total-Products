@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε EPUB στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε EPUB χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

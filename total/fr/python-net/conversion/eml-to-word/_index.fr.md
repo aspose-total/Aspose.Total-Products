@@ -1,7 +1,7 @@
 ---
 title: Convertir EML en WORD en Python
 description: Enregistrez EML au format WORD dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/eml-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

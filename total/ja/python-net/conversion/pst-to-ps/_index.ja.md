@@ -1,7 +1,7 @@
 ---
 title: Python で PST を PS に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで PST を PS に保存します。 
-url: /ja/python-net/conversion/pst-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

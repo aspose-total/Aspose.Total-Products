@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर TEXT को POTM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में POTM को TEXT में बदलें
-url: /hi/android-java/conversion/potm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

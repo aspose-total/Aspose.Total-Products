@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORDML σε VCF στην Python
 description: Αποθηκεύστε το WORDML σε VCF εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/wordml-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

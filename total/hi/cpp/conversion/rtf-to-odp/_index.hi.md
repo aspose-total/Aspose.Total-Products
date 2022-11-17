@@ -1,7 +1,7 @@
 ---
 title: RTF को C++ के माध्यम से ODP में बदलें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में RTF को ODP में निर्यात करें
-url: /hi/cpp/conversion/rtf-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Odp
 pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);
 auto options = MakeObject<LoadOptions>(u"rtfPassword");
 // load the rtfument from the local file system by filename:
 SharedPtr<Rtfument> rtf = MakeObject<Rtfument>(u"Encrypted.rtf", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Odp
 pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie OFT in TEXT in Python
 description: Speichern Sie OFT in TEXT in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/oft-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

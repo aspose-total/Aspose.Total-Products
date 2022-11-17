@@ -1,7 +1,7 @@
 ---
 title: C++ API untuk Mengonversi PPSX ke DOCM
 description: Ekspor PPSX ke DOCM dalam aplikasi C++ Anda
-url: /id/cpp/conversion/ppsx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

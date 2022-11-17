@@ -1,7 +1,7 @@
 ---
 title: Python'da VCF'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında VCF'yi VCF'e kaydedin
-url: /tr/python-net/conversion/gif-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

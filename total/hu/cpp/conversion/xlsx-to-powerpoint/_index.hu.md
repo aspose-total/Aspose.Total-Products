@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSX-t POWERPOINT-ba a C++ segítségével
 description: A XLSX konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

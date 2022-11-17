@@ -1,7 +1,7 @@
 ---
 title: Converteer CSV naar afbeelding met Python
 description: CSV naar afbeelding TIFF BMP PNG JPEG GIF EMF SVG-conversie in uw Python-toepassingen zonder Microsoft Excel 
-url: /nl/python-java/conversion/csv-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

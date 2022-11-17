@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してOTTをPPSに変換する 
-url: /ja/net/conversion/ott-to-pps/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointppsファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

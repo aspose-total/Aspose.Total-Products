@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをWORDMLにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをWORDMLにエクスポートする
-url: /ja/android-java/conversion/emlx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

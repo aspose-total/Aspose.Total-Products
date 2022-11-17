@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLS na POWERPOINT pomocí .NET 
 description: Převeďte XLS na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/xls-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

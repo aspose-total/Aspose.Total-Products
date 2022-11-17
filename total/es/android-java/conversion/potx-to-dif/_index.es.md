@@ -1,7 +1,7 @@
 ---
 title: Convierta POTX a DIF en Android a través de Java
 description: Convierta POTX a DIF en Android a través de Java sin usar Microsoft Excel o PowerPoint
-url: /es/android-java/conversion/potx-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 Usando la API, también puede abrir el documento protegido por contraseña. Si su documento POTX de entrada está protegido con contraseña, no puede convertirlo a DIF sin usar la contraseña. La API le permite abrir el documento cifrado pasando la contraseña correcta en un objeto LoadOptions. El siguiente ejemplo de código muestra cómo intentar abrir un documento cifrado con una contraseña:
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Usando la API, también puede abrir el documento protegido por contraseña. Si s
 Al convertir un archivo POTX a DIF, también puede agregar una marca de agua a su formato de archivo DIF de salida. Para agregar una marca de agua, cree un nuevo libro de trabajo para abrir el archivo HTML convertido. Seleccione Hoja de trabajo a través de su índice, cree una Forma y use su función addTextEffect, establezca colores, transparencia y más. Después de eso, puede guardar su documento HTML como DIF con marca de agua.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

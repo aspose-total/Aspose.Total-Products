@@ -1,7 +1,7 @@
 ---
 title: Python で POTX を DOTX に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで POTX から DOTX への変換 
-url: /ja/python-net/conversion/potx-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

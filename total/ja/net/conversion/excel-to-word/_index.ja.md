@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してEXCELをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをWORDに変換する
-url: /ja/net/conversion/excel-to-word/
+
 family: total
 platformtag: net
 feature: conversion

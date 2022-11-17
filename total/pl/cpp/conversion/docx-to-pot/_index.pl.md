@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na POT za pomocą C++
 description: Eksportuj DOCX do POT w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint
-url: /pl/cpp/conversion/docx-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSM POWERPOINT POTM POTX PPTX ODP PPS PPT PPSX PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOCX na POT" h2="Eksportuj DOCX do POT w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOCX do POT przy użyciu dwóch jego API. Załaduj dokument DOCX za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako POT. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOCX do POT przy użyciu dwóch jego API. Załaduj dokument DOCX za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako POT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

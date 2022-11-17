@@ -1,7 +1,7 @@
 ---
 title: Převést ODT na POTM v Androidu přes Java
 description: Převod ODT na POTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint
-url: /cs/android-java/conversion/odt-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 V aplikacích pro Android můžete také převést svůj heslem chráněný ODT na POTM. Pokud je váš vstupní dokument ODT chráněn heslem, nemůžete jej převést do formátu POTM bez použití hesla. Chcete-li otevřít zašifrovaný dokument, můžete nastavit správné heslo v objektu LoadOptions a předat jej konstruktoru dokumentu.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

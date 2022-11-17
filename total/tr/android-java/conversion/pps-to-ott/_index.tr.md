@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u OTT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u OTT'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

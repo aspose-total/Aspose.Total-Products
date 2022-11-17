@@ -1,7 +1,7 @@
 ---
 title: जावा का उपयोग करके बीएमपी फ़ाइल अपडेट करें
 description: Microsoft Excel का उपयोग किए बिना Java अनुप्रयोगों में XLSB दस्तावेज़ को संशोधित करें। जावा में एक्सेल फ़ाइल को लिखने और संपादित करने के सबसे तेज़ तरीके के लिए कोड ऑप्टिमाइज़ करें।
-url: /hi/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

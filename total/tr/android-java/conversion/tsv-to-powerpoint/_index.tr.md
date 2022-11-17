@@ -1,7 +1,7 @@
 ---
 title: Android'de TSV'yi POWERPOINT'a aktarın
 description: Microsoft Word kullanmadan TSV'yi POWERPOINT'ye dönüştürmek için Android API
-url: /tr/android-java/conversion/tsv-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
 // save powerpointument in PPTX format
 powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.tsv");
 PowerpointumentPropertyCollection customProperties = workbook.getWorksheets().getCustomPowerpointumentProperties();
 // remove a custom powerpointument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

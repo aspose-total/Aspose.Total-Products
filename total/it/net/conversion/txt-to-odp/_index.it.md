@@ -1,6 +1,6 @@
 ---
 title: Converti TXT in ODP tramite C# .NET 
-url: /it/net/conversion/txt-to-odp/ 
+
 description: Converti documenti Word in file odp PowerPoint con C#. Converti più file all'interno di ASP.NET o altre applicazioni .NET.
 ---
 

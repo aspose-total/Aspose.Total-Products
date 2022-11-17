@@ -1,7 +1,7 @@
 ---
 title: Convert VCF to TEXT in Python
 description: Save VCF to TEXT in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/vcf-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

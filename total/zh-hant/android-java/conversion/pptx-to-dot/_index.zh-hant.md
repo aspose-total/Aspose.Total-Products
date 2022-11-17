@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 將 PPTX 導出到 Andorid 上的 DOT
 description: 在移動應用程序中將 PPTX 轉換為 DOT，無需安裝任何軟件
-url: /zh-hant/android-java/conversion/pptx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

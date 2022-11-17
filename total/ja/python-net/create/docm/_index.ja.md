@@ -1,7 +1,7 @@
 ---
 title: Python で DOCM を作成する
 description: Microsoft Word を使用せずに、Python アプリケーションを使用して DOCM ファイルを生成します。 
-url: /ja/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

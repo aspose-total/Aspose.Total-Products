@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в OFT в Python
 description: Сохраняйте WORD в OFT в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/word-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

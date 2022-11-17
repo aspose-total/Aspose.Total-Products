@@ -1,6 +1,6 @@
 ---
 title: Преобразование документов через C++ 
-url: /ru/cpp/conversion/
+
 description: Преобразование различных форматов документов, таких как Word, Excel, PowerPoint, PDF, JSON, изображения и другие, с помощью C++ API. 
 ---
 

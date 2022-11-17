@@ -1,7 +1,7 @@
 ---
 title: Převést BMP na PST v Pythonu
 description: Ukládejte BMP do PST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/bmp-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

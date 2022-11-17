@@ -1,7 +1,7 @@
 ---
 title: Converter DOCM para PPSM no Android via Java
 description: Conversão de DOCM para PPSM em seus telefones Android sem usar o Microsoft Word do PowerPoint
-url: /pt/android-java/conversion/docm-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 Você também pode converter seu DOCM protegido por senha para PPSM em seus aplicativos Android. Se o docmumento DOCM de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPSM sem usar a senha. Para abrir um docmumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Document.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

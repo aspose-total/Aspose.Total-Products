@@ -1,7 +1,7 @@
 ---
 title: DOCX को CSV में बदलने के लिए Android API
 description: माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना जावा के माध्यम से एंड्रॉइड में डीओसी को सीएसवी में कनवर्ट करें
-url: /hi/android-java/conversion/docx-to-csv/
+
 family: total
 platformtag: cpp
 feature: conversion

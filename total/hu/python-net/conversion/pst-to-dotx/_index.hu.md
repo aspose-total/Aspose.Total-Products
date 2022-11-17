@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t DOTX-be Pythonban
 description: Mentse a PST-t DOTX formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

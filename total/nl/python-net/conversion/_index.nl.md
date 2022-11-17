@@ -1,6 +1,6 @@
 ---
 title: Documentconversie via Python 
-url: /nl/python-net/conversion/
+
 description: Converteer Microsoft Word-indelingen DOC, DOCX naar PDF, afbeeldingen en meer, evenals presentatiedia's, e-mailberichten en 3D-afbeeldingen, slechts enkele regels Python-code.
 ---
 

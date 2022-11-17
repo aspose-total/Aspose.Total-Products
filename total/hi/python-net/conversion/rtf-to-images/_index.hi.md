@@ -1,7 +1,7 @@
 ---
 title: RTF को Python में इमेज में बदलें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना आपके पायथन अनुप्रयोगों में टीआईएफएफ बीएमपी पीएनजी जेपीईजी जीआईएफ एसवीजी रूपांतरण छवि के लिए ईएमएफ 
-url: /hi/python-net/conversion/rtf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

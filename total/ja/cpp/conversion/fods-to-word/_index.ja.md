@@ -1,7 +1,7 @@
 ---
 title: C++でFODSをWORDに変換する
 description: C++アプリケーション内でFODSをWORDに変換する
-url: /ja/cpp/conversion/fods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

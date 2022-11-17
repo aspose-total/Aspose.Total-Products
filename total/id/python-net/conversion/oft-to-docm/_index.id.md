@@ -1,7 +1,7 @@
 ---
 title: Konversi OFT ke DOCM dengan Python
 description: Simpan OFT ke DOCM di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/oft-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

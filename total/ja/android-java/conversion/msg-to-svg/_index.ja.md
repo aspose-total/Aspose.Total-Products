@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをSVGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをSVGにエクスポートする
-url: /ja/android-java/conversion/msg-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

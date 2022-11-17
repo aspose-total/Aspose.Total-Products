@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをRTFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをRTFにエクスポートする
-url: /ja/android-java/conversion/email-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTM till DOCM via C# .NET 
-url: /sv/net/conversion/potm-to-docm/ 
+
 description: Konvertera PowerPoint potm-dokument till Word-docm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

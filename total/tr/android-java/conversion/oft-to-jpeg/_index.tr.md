@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to JPEG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i JPEG'ye aktarın
-url: /tr/android-java/conversion/oft-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

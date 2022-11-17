@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをJPEGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをJPEGにエクスポートする
-url: /ja/android-java/conversion/eml-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

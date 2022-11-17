@@ -1,7 +1,7 @@
 ---
 title: Converti OST in XPS in Python
 description: Salva OST in XPS nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ost-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

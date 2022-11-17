@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのOTTにPOTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTをOTTに変換する
-url: /ja/android-java/conversion/pot-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést EPUB na MSG v Pythonu
 description: Ukládejte EPUB do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/epub-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

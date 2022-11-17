@@ -1,7 +1,7 @@
 ---
 title: C++ के साथ EXCEL को DOC में बदलें
 description: C++ अनुप्रयोगों के भीतर EXCEL को DOC में बदलें
-url: /hi/cpp/conversion/excel-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: पायथन का उपयोग करके फ़ाइल बनाएं 
-url: /hi/python-net/create/
+
 description: Microsoft Office स्थापित किए बिना टेक्स्ट और Microsoft Word दस्तावेज़ बनाएँ 
 ---
 

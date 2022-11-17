@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera PPTX till DOT
 description: Exportera PPTX till DOT i dina C++-applikationer
-url: /sv/cpp/conversion/pptx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

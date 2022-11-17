@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOT σε POTX στο Android μέσω Java
 description: Μετατροπή DOT σε POTX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
-url: /el/android-java/conversion/dot-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POTM PPT PPSX PPTM ODP POT POWERPOINT PPS PPSM PPTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dot-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POTM PPT PPSX PPTM ODP POT POWERPOINT PPS PPSM PPTX
 Μπορείτε επίσης να μετατρέψετε το DOT που προστατεύεται με κωδικό πρόσβασης σε POTX στις εφαρμογές σας Android. Εάν το έγγραφο DOT εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε μορφή POTX χωρίς να χρησιμοποιήσετε τον κωδικό πρόσβασης. Για να ανοίξετε ένα κρυπτογραφημένο έγγραφο, μπορείτε να ορίσετε τον σωστό κωδικό πρόσβασης στο αντικείμενο LoadOptions και να τον μεταβιβάσετε στον κατασκευαστή του εγγράφου.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dot-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie POTX nach DOC auf Andorid über Java
 description: Konvertieren Sie POTX in DOC in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/potx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

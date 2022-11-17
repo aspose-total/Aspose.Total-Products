@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till DOT via C# .NET 
-url: /sv/net/conversion/pptx-to-dot/ 
+
 description: Konvertera PowerPoint pptx-dokument till Word-dot-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

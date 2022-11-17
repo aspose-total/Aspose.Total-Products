@@ -1,7 +1,7 @@
 ---
 title: Python'da OST'yi DOC'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OST'yi DOC'e kaydedin 
-url: /tr/python-net/conversion/ost-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

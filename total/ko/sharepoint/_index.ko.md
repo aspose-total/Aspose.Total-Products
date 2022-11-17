@@ -1,7 +1,7 @@
 ---
 title: SharePoint 파일 형식 앱 - SharePoint 응용 프로그램에서 문서 변환 
 weight: 20
-url: /ko/sharepoint/ 
+
 description: Microsoft SharePoint 내에서 Word Excel PDF PowerPoint 이메일 및 이미징 문서 형식을 변환하고 결합하는 SharePoint 파일 형식 앱
 ---
 

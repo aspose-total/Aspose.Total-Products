@@ -1,7 +1,7 @@
 ---
 title: API tự động hóa tệp C# .NET - Aspose 
 weight: 30
-url: /vi/net/ 
+
 description: C# ASP.NET VB.NET APIs để tạo thao tác chuyển đổi và hiển thị bất kỳ loại tài liệu nào.
 ---
 

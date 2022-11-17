@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Andorid의 RTF로 POTM 내보내기
 description: 소프트웨어를 설치하지 않고 모바일 앱에서 POTM을 RTF로 변환
-url: /ko/android-java/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

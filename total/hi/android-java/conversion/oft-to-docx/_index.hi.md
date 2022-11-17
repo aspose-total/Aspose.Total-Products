@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में DOCX को OFT रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना OFT को DOCX में निर्यात करें
-url: /hi/android-java/conversion/oft-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

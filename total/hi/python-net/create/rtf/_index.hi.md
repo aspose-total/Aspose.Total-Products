@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी बनाएं
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना पायथन एप्लिकेशन का उपयोग करके बीएमपी फाइल जेनरेट करें। 
-url: /hi/python-net/create/rtf/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Renderize MSG para XPS no aplicativo Andorid
 description: Exporte MSG para XPS sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/msg-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

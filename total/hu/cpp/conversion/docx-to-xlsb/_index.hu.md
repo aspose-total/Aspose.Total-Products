@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t XLSB-vé C++-ban
 description: C++ API a DOCX konvertálásához XLSB-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-xlsb/
+
 family: total
 platformtag: cpp
 feature: conversion

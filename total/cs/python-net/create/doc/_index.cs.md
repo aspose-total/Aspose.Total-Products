@@ -1,7 +1,7 @@
 ---
 title: Vytvořte DOC v Pythonu
 description: Vygenerujte soubor DOC pomocí aplikací Python bez použití aplikace Microsoft Word. 
-url: /cs/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

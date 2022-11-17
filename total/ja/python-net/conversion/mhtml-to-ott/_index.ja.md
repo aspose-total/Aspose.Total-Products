@@ -1,7 +1,7 @@
 ---
 title: Python で MHTML を OTT に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで MHTML および HtmlFix から OTT に変換 
-url: /ja/python-net/conversion/mhtml-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: تحويل تنسيق الملف عبر C# 
-url: /ar/net/conversion/
+
 description: قم بتحويل ملفات Microsoft Word و Excel و PowerPoint و Outlook و PDF و HTML والصور ثلاثية الأبعاد والمخططات وتنسيقات الفيديو والعديد من الملفات الشائعة الأخرى باستخدام سطور قليلة فقط من كود C#.
 ---
 

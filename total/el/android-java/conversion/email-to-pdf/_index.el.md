@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε PDF στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε PDF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

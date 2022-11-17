@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do IMAGE v aplikaci Andorid
 description: Exportujte MSG do IMAGE bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

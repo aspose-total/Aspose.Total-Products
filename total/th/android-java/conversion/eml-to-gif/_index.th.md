@@ -1,7 +1,7 @@
 ---
 title: แสดงผล EML เป็น GIF ใน Andorid App
 description: ส่งออก EML เป็น GIF โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/eml-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

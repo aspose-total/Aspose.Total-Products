@@ -1,7 +1,7 @@
 ---
 title: 适用于多个平台的文件格式自动化 API - Aspose 
 weight: 10
-url: /zh/family/
+
 description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码 OCR 成像 OneNote 3D 和 CAD 操作 API，适用于 .NET、Java、Android、C++。 SharePoint 的组件、Reporting Services 的扩展和 JasperReports 的导出器。
 ---
 

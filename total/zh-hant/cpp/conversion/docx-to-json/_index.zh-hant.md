@@ -1,7 +1,7 @@
 ---
 title: 在 C++ 中將 DOCX 轉換為 JSON 格式
 description: 在 C++ 中將 DOCX 導出為 JSON，而不使用 Microsoft Excel 或 Word
-url: /zh-hant/cpp/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

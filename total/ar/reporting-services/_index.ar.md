@@ -1,7 +1,7 @@
 ---
 title: SQL Server Reporting Services Rendering Extensions لتنسيقات الملفات 
 weight: 40
-url: /ar/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering Extensions لتنسيقات الملفات لتصدير تقارير RDL إلى تنسيقات Word Excel PDF PowerPoint. إضافة الباركود إلى التقارير المصدرة
 ---
 

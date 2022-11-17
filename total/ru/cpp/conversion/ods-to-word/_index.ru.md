@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODS в WORD с помощью C++
 description: Преобразование ODS в WORD в приложениях C++
-url: /ru/cpp/conversion/ods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी को जीआईएफ में बदलें
 description: Microsoft Outlook या Word का उपयोग किए बिना अपने Python अनुप्रयोगों में ICS को TEXT में सहेजें 
-url: /hi/python-net/conversion/ics-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

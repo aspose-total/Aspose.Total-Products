@@ -1,7 +1,7 @@
 ---
 title: Converteer PPS naar RTF in Python
 description: PPS naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/pps-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

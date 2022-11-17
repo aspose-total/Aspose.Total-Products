@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中創建 XLTX
 description: 在不使用 Microsoft Office 的情況下使用 Python 應用程序生成 XLTX 文件。 
-url: /zh-hant/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

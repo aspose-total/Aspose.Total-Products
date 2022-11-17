@@ -1,6 +1,6 @@
 ---
 title: .NET फ़ाइल स्वरूप प्रसंस्करण API के माध्यम से पायथन - Aspose 
-url: /hi/python-net/
+
 url_ignore: /python-net/ 
 description: Microsoft Word दस्तावेज़ों, PowerPoint प्रस्तुतियों और Outlook ईमेल स्वरूपों के लिए Python APIs Python अनुप्रयोगों के भीतर से।
 ---

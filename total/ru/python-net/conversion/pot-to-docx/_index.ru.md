@@ -1,7 +1,7 @@
 ---
 title: Преобразование POT в DOCX в Python
 description: Преобразование POT в DOCX в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/pot-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

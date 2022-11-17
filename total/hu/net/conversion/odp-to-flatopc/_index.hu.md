@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az ODP-t FLATOPC-ba C# .NET-en keresztül 
-url: /hu/net/conversion/odp-to-flatopc/ 
+
 description: Konvertálja a PowerPoint odp dokumentumokat Word flatopc fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

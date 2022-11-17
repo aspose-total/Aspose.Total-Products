@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLSBをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLSBをWORDに変換する
-url: /ja/net/conversion/xlsb-to-word/
+
 family: total
 platformtag: net
 feature: conversion

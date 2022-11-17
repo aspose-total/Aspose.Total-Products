@@ -1,7 +1,7 @@
 ---
 title: Convert EML to EMF in Python
 description: Save EML to EMF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/eml-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

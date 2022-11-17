@@ -1,6 +1,6 @@
 ---
 title: Konversi DOT ke POTX melalui C# .NET 
-url: /id/net/conversion/dot-to-potx/ 
+
 description: Konversikan dokumen dokumen Word ke file potx PowerPoint dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

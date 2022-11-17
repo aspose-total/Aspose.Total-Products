@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPTM DOTM formátumba konvertálásához
 description: Exportálja a PPTM-ot DOTM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pptm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

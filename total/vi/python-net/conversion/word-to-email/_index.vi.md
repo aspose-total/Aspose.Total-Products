@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORD sang EMAIL bằng Python
 description: Lưu WORD thành EMAIL trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/word-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

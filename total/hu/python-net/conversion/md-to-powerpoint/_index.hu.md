@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t POWERPOINT-be Pythonban
 description: MD-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/md-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

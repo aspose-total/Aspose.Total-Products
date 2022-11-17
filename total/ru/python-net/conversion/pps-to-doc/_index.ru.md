@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPS в DOC в Python
 description: Преобразование PPS в DOC в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/pps-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

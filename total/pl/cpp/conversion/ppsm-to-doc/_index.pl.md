@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji PPSM na DOC
 description: Eksportuj PPSM do DOC w swoich aplikacjach C++
-url: /pl/cpp/conversion/ppsm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

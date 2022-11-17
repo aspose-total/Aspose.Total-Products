@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOC σε POTM στην Python
 description: Μετατροπή DOC σε POTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/doc-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

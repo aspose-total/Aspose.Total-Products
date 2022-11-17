@@ -1,7 +1,7 @@
 ---
 title: C++ 文件格式处理 API - Aspose 
 weight: 70
-url: /zh/cpp/ 
+
 description: C++ 库读写渲染和转换多种文档格式。
 ---
 

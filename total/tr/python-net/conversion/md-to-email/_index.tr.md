@@ -1,7 +1,7 @@
 ---
 title: Python'da MD'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında MD'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/md-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

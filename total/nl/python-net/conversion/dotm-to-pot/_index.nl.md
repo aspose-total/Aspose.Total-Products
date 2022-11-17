@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTM naar POT in Python
 description: DOTM naar POT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/dotm-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

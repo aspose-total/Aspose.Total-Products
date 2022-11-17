@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中創建 DOC
 description: 使用 Python 應用程序生成 DOC 文件，而不使用 Microsoft Word。 
-url: /zh-hant/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

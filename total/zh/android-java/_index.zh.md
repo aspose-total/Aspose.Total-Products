@@ -1,7 +1,7 @@
 ---
 title: 用于移动应用的 Android 文件格式处理 API - Aspose 
 weight: 50
-url: /zh/android-java/ 
+
 description: 适用于 Word Excel PDF PowerPoint 和电子邮件的 Android 文件格式 API。以编程方式在移动应用程序中创建编辑渲染和转换文档格式
 ---
 

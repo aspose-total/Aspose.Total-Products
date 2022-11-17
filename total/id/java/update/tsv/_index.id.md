@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan TSV Menggunakan Java
 description: Memodifikasi dokumen TSV di aplikasi Java tanpa menggunakan Microsoft Excel. Optimalkan kode untuk cara tercepat menulis dan mengedit file excel di java.
-url: /id/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

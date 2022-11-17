@@ -1,7 +1,7 @@
 ---
 title: Converti ODS in PPTX con C++
 description: Converti ODS in PPTX all'interno di applicazioni C++
-url: /it/cpp/conversion/ods-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti POWERPOINT in DOTX in Python
 description: Conversione da POWERPOINT a DOTX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/powerpoint-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

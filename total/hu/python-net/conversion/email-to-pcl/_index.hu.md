@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t PCL-be Pythonban
 description: Mentse a EMAIL-t PCL formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti TEXT in PST in Python
 description: Salva TEXT in PST all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/text-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

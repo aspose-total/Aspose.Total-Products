@@ -1,7 +1,7 @@
 ---
 title: A ODS konvertálása DOCX formátumba .NET segítségével 
 description: A ODS konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/ods-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

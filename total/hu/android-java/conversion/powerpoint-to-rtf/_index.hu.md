@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

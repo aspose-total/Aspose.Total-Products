@@ -1,7 +1,7 @@
 ---
 title: تصدير PPTX إلى TEXT على Andorid عبر Java
 description: قم بتحويل PPTX إلى TEXT في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/pptx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

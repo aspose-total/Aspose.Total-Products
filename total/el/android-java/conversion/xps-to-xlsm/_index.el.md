@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XPS σε XLSM στο Android μέσω Java
 description: Αποδώστε το XPS σε XLSM στο Android μέσω Java API χωρίς χρήση Microsoft Excel ή Adobe Reader
-url: /el/android-java/conversion/xps-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLAM ODS TSV MD CSV XLT DIF XLSB EXCEL SXC XLTM TXT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLAM ODS TSV MD CSV XLT DIF XLSB EXCEL SXC XLTM TXT
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) σας επιτρέπει να έχετε πρόσβαση στα μεταδεδομένα XMP ενός αρχείου XPS. Για να λάβετε τα μεταδεδομένα, δημιουργήστε ένα αντικείμενο [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) και ανοίξτε το αρχείο εισόδου XPS και χρησιμοποιήστε το [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) ιδιότητα για να λάβετε τα μεταδεδομένα.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLAM ODS TSV MD CSV XLT DIF XLSB EXCEL SXC XLTM TXT
 Το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) υποστηρίζει την προστασία του αρχείου XLSM ανάλογα με τις ανάγκες σας. Για να προστατεύσετε το έγγραφό σας, μπορείτε να χρησιμοποιήσετε τη μέθοδο [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) του [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) τάξη.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

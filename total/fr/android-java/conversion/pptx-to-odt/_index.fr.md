@@ -1,7 +1,7 @@
 ---
 title: Exporter PPTX vers ODT sur Andorid via Java
 description: Convertissez PPTX en ODT dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/pptx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

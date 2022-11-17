@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t DOCM-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t DOCM-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

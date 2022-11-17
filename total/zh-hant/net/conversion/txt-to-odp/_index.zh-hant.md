@@ -1,6 +1,6 @@
 ---
 title: 通過 C# .NET 將 TXT 轉換為 ODP 
-url: /zh-hant/net/conversion/txt-to-odp/ 
+
 description: 使用 C# 將 Word txt 文檔轉換為 PowerPoint odp 文件。在 ASP.NET 或其他 .NET 應用程序中轉換多個文件。
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t XPS-be Pythonban
 description: Mentse a PST-t XPS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

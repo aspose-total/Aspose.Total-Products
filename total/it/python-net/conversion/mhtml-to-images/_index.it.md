@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in immagini in Python
 description: Conversione di immagini MHTML, HTML e HtmlFixed in IMAGES, PNG, BMP, JPEG, TIFF nelle tue applicazioni Python senza utilizzare Microsoft Word 
-url: /it/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

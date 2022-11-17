@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi MSG'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi MSG'e kaydedin
-url: /tr/python-net/conversion/png-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Android API لتحويل DOCX إلى ODS
 description: قم بتحويل DOCX إلى ODS في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/android-java/conversion/docx-to-ods/
+
 family: total
 platformtag: cpp
 feature: conversion

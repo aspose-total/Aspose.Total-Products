@@ -1,7 +1,7 @@
 ---
 title: C++ API om PPSX naar DOCX te converteren
 description: Exporteer PPSX naar DOCX binnen uw C++-toepassingen
-url: /nl/cpp/conversion/ppsx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

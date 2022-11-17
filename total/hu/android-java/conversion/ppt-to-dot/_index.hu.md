@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot DOT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot DOT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter MSG para SVG em Python
 description: Salve MSG para SVG em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/msg-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

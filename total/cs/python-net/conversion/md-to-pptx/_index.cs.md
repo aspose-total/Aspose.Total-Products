@@ -1,7 +1,7 @@
 ---
 title: Převést MD na PPTX v Pythonu
 description: Převod MD na PPTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/md-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

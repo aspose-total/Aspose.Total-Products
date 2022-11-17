@@ -1,7 +1,7 @@
 ---
 title: Konversi MBOX ke PNG dengan Python
 description: Simpan MBOX ke PNG di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/mbox-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

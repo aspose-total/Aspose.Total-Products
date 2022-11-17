@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してTSVをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでTSVをDOCXに変換する
-url: /ja/net/conversion/tsv-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

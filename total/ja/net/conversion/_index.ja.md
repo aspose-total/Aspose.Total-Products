@@ -1,6 +1,6 @@
 ---
 title: C＃によるファイル形式の変換 
-url: /ja/net/conversion/
+
 description: Microsoft Word、Excel、PowerPoint、Outlook、PDF、HTML、3D画像、図、ビデオ形式、およびその他の多くの一般的なファイルを、わずか数行のC＃コードで変換します。
 ---
 

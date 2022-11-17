@@ -1,7 +1,7 @@
 ---
 title: Konversi DOT ke PPS dengan Python
 description: Konversi DOT ke PPS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/dot-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

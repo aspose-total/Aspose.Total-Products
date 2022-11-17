@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

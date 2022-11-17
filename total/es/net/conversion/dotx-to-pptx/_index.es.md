@@ -1,6 +1,6 @@
 ---
 title: Convierta DOTX a PPTX a través de C# .NET 
-url: /es/net/conversion/dotx-to-pptx/ 
+
 description: Convierta documentos de Word dotx en archivos pptx de PowerPoint con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
 ---
 

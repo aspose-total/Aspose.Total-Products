@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε DOCX στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε DOCX χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование RTF в PPSX в Python
 description: Преобразование RTF в PPSX в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/rtf-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

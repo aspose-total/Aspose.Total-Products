@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してODSをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでODSをDOCXに変換する
-url: /ja/net/conversion/ods-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

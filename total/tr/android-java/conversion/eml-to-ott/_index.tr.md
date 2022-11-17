@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to OTT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i OTT'ye aktarın
-url: /tr/android-java/conversion/eml-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

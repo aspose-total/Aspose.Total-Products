@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 OTT 轉換為 ODP
 description: 在 Python 應用程序中將 OTT 轉換為 ODP，而無需使用 Microsoft Word 或 PowerPoint 
-url: /zh-hant/python-net/conversion/ott-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor TSV pomocí Javy
 description: Upravte dokument TSV v aplikacích Java bez použití aplikace Microsoft Excel. Optimalizujte kód pro nejrychlejší způsob zápisu a úpravy excelového souboru v Javě.
-url: /cs/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

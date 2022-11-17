@@ -1,7 +1,7 @@
 ---
 title: Converteer OFT naar OFT in Python
 description: Bewaar OFT naar OFT binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/gif-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

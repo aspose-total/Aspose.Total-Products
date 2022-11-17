@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t ODT-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t ODT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

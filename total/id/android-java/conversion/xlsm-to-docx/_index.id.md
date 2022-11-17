@@ -1,7 +1,7 @@
 ---
 title: Ekspor XLSM ke DOCX di Android
 description: Android API untuk Mengonversi XLSM ke DOCX tanpa menggunakan Microsoft Word
-url: /id/android-java/conversion/xlsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

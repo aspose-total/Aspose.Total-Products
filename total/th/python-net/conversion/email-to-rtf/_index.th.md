@@ -1,7 +1,7 @@
 ---
 title: แปลง EMAIL เป็น RTF ใน Python
 description: บันทึก EMAIL เป็น RTF ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Outlook หรือ Word 
-url: /th/python-net/conversion/email-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

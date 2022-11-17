@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t PNG-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t PNG-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

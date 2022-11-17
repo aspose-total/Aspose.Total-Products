@@ -1,7 +1,7 @@
 ---
 title: Konversi DOCM ke EMAIL dengan Python
 description: Simpan DOCM ke EMAIL dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/docm-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

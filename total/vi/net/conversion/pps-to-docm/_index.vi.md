@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPS sang DOCM qua C# .NET 
-url: /vi/net/conversion/pps-to-docm/ 
+
 description: Chuyển đổi tài liệu pps PowerPoint sang tệp Word docm bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

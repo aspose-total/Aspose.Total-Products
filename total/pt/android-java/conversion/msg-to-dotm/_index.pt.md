@@ -1,7 +1,7 @@
 ---
 title: Renderize MSG para DOTM no aplicativo Andorid
 description: Exporte MSG para DOTM sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/msg-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

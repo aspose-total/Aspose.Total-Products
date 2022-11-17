@@ -1,6 +1,6 @@
 ---
 title: Библиотеки автоматизации файлов Python — Aspose
-url: /ru/python-java/
+
 url_ignore: /python-java/ 
 description: Библиотеки Python для анализа электронных таблиц Excel, генерации и сканирования штрих-кодов, а также обработки диаграмм Visio.
 ---

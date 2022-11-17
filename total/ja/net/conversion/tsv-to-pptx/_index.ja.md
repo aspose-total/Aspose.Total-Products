@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してTSVをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでTSVをPPTXに変換する
-url: /ja/net/conversion/tsv-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

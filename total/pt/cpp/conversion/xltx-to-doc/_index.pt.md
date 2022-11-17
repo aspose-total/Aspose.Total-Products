@@ -1,7 +1,7 @@
 ---
 title: Converter XLTX para DOC com C++
 description: Converter XLTX para DOC em aplicativos C++
-url: /pt/cpp/conversion/xltx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε DOTX στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε DOTX χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

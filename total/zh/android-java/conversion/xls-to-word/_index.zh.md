@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中将 XLS 导出为 WORD
 description: 无需使用 Microsoft Word 即可将 XLS 转换为 WORD 的 Android API
-url: /zh/android-java/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Wordument wordument = new Wordument("pdfOutput.pdf");
 // save wordument in WORD format
 wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.xls");
 WordumentPropertyCollection customProperties = workbook.getWorksheets().getCustomWordumentProperties();
 // remove a custom wordument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

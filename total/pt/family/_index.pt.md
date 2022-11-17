@@ -1,7 +1,7 @@
 ---
 title: APIs de automação de formato de arquivo para várias plataformas - Aspose 
 weight: 10
-url: /pt/family/
+
 description: Microsoft Excel Word PowerPoint Email PDF Projeto Visio Código de barras OCR Imaging OneNote 3D e APIs de manipulação CAD para .NET, Java, Android, C++. Componentes para SharePoint, Extensões para Reporting Services e Exportadores para JasperReports.
 ---
 

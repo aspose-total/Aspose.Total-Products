@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTM in DOCM in Python
 description: Konvertierung von PPTM in DOCM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/pptm-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

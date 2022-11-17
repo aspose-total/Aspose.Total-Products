@@ -1,7 +1,7 @@
 ---
 title: Преобразование MBOX в TEXT в Python
 description: Сохраняйте MBOX в TEXT в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/mbox-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

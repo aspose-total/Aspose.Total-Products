@@ -1,7 +1,7 @@
 ---
 title: Update TSV File using Java
 description: Modify TSV document in Java applications without using Microsoft Excel. Optimize code for fastest way to write and edit excel file in java.
-url: /java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

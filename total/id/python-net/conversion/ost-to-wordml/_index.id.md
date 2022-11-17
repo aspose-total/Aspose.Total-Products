@@ -1,7 +1,7 @@
 ---
 title: Konversi OST ke WORDML dengan Python
 description: Simpan OST ke WORDML di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/ost-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование POTX в DOT в Python
 description: Преобразование POTX в DOT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/potx-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

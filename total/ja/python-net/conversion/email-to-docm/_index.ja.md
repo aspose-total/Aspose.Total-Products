@@ -1,7 +1,7 @@
 ---
 title: Python で EMAIL を DOCM に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMAIL を DOCM に保存します。 
-url: /ja/python-net/conversion/email-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

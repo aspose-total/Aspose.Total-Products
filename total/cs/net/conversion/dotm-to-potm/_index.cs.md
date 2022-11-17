@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na POTM přes C# .NET 
-url: /cs/net/conversion/dotm-to-potm/ 
+
 description: Převeďte dokumenty Word dotm na soubory PowerPoint potm pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

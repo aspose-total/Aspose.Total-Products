@@ -1,7 +1,7 @@
 ---
 title: Rendre EML en DOT dans l'application Andorid
 description: Exportez EML vers DOT sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/eml-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

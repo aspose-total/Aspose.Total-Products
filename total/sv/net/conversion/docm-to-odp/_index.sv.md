@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCM till ODP via C# .NET 
-url: /sv/net/conversion/docm-to-odp/ 
+
 description: Konvertera Word docm-dokument till PowerPoint odp-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

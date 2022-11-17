@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSB-t POWERPOINT-ba a C++ segítségével
 description: A XLSB konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsb-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में JPEG को EML रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EML को JPEG में निर्यात करें
-url: /hi/android-java/conversion/eml-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

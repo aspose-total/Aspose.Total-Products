@@ -1,7 +1,7 @@
 ---
 title: Преобразование MBOX в EPUB в Python
 description: Сохраняйте MBOX в EPUB в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/mbox-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

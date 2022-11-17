@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EML na JPEG w Pythonie
 description: Zapisz EML w formacie JPEG w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/eml-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

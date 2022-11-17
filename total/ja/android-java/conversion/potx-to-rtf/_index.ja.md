@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのRTFにPOTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTXをRTFに変換する
-url: /ja/android-java/conversion/potx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLSX σε Python
 description: Δημιουργήστε αρχείο XLSX χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/xlsx/
+
 family: total
 platformtag: Python
 feature: create

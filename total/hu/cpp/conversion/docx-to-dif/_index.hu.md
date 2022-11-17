@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t DIF-vé C++-ban
 description: C++ API a DOCX konvertálásához DIF-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion

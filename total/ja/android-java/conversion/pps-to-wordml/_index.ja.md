@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDMLにPPSをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSをWORDMLに変換する
-url: /ja/android-java/conversion/pps-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t ICS-be Pythonban
 description: TIFF mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

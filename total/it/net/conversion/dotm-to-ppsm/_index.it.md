@@ -1,6 +1,6 @@
 ---
 title: Converti DOTM in PPSM tramite C# .NET 
-url: /it/net/conversion/dotm-to-ppsm/ 
+
 description: Converti documenti Word in file ppsm PowerPoint con C#. Converti più file all'interno di ASP.NET o altre applicazioni .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: .NET ile XLSM'yi WORD'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM'yi WORD'ye dönüştürün
-url: /tr/net/conversion/xlsm-to-word/
+
 family: total
 platformtag: net
 feature: conversion

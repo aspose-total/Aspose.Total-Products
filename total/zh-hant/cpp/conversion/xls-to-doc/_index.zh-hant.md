@@ -1,7 +1,7 @@
 ---
 title: 使用 C++ 將 XLS 轉換為 DOC
 description: 在 C++ 應用程序中將 XLS 轉換為 DOC
-url: /zh-hant/cpp/conversion/xls-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

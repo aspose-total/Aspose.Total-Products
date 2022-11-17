@@ -1,7 +1,7 @@
 ---
 title: تحويل POTX إلى RTF في Python
 description: تحويل POTX إلى RTF في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/potx-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แสดงผล EMLX เป็น IMAGE ใน Andorid App
 description: ส่งออก EMLX เป็น IMAGE โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

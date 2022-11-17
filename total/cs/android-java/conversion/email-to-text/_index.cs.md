@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do TEXT v aplikaci Andorid
 description: Exportujte EMAIL do TEXT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Создание и обновление файлов Microsoft Excel с помощью Python 
-url: /ru/python-java/create/
+
 description: Создавайте отчеты на листах Microsoft Excel без установки Microsoft Office 
 ---
 

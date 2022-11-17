@@ -1,7 +1,7 @@
 ---
 title: Převeďte FODS na WORD pomocí C++
 description: Převeďte FODS na WORD v aplikacích C++
-url: /cs/cpp/conversion/fods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

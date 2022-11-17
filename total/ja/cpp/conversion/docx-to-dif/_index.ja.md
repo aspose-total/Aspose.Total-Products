@@ -1,7 +1,7 @@
 ---
 title: C++でDOCXをDIFに変換する
 description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCXをDIFに変換するC++API
-url: /ja/cpp/conversion/docx-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion

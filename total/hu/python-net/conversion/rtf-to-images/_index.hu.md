@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az RTF-et képekké Pythonban
 description: RTF kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/rtf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

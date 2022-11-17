@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do WORD v aplikaci Andorid
 description: Exportujte EMAIL do WORD bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

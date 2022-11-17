@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na POTX přes C# .NET 
-url: /cs/net/conversion/flatopc-to-potx/ 
+
 description: Převeďte dokumenty Word flatopc na soubory PowerPoint potx pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

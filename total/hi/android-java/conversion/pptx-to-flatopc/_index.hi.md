@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर FLATOPC को PPTX निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPTX को FLATOPC में बदलें
-url: /hi/android-java/conversion/pptx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

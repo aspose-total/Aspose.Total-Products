@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi tài liệu qua Python 
-url: /vi/python-net/conversion/
+
 description: Chuyển đổi các định dạng Microsoft Word DOC, DOCX sang PDF, Hình ảnh và hơn thế nữa cũng như các Trang trình bày, Tin nhắn Email và Hình ảnh 3D chỉ với vài dòng mã Python.
 ---
 

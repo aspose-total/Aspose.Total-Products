@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t PDF-be Pythonban
 description: Mentse a EMLX-t PDF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

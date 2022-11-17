@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi OST sang ODT bằng Python
 description: Lưu OST thành ODT trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
-url: /vi/python-net/conversion/ost-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

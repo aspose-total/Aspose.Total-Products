@@ -1,7 +1,7 @@
 ---
 title: Převést DOCX na PPS v Pythonu
 description: Převod DOCX na PPS ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/docx-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

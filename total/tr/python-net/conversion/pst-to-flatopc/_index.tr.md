@@ -1,7 +1,7 @@
 ---
 title: Python'da PST'yi FLATOPC'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda PST'yi FLATOPC'e kaydedin 
-url: /tr/python-net/conversion/pst-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

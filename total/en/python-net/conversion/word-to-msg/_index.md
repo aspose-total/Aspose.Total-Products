@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to MSG in Python
 description: Save WORD to MSG within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/word-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

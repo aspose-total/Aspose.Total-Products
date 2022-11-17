@@ -1,7 +1,7 @@
 ---
 title: Convertir OFT en WORDML en Python
 description: Enregistrez OFT au format WORDML dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/oft-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

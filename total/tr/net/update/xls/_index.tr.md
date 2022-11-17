@@ -1,7 +1,7 @@
 ---
 title: .NET Kullanarak XLS Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan C# VB.NET uygulamalarında XLS belgelerini değiştirin. 
-url: /tr/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

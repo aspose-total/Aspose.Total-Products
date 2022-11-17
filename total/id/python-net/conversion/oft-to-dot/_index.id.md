@@ -1,7 +1,7 @@
 ---
 title: Konversi OFT ke DOT dengan Python
 description: Simpan OFT ke DOT di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/oft-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: 使用 Python 创建文件 
-url: /zh/python-net/create/
+
 description: 无需安装 Microsoft Office 即可创建文本和 Microsoft Word 文档 
 ---
 

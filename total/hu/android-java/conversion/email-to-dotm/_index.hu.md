@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t DOTM-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t DOTM-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

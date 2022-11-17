@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t EMF-be Pythonban
 description: Mentse a OST-t EMF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

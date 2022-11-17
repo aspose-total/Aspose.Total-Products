@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till PPTM via C# .NET 
-url: /sv/net/conversion/ott-to-pptm/ 
+
 description: Konvertera Word ott-dokument till PowerPoint pptm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

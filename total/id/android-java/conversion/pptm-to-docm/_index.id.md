@@ -1,7 +1,7 @@
 ---
 title: Ekspor PPTM ke DOCM di Andorid melalui Java
 description: Konversi PPTM ke DOCM di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/pptm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

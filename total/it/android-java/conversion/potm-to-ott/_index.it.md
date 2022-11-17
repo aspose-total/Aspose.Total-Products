@@ -1,7 +1,7 @@
 ---
 title: Esporta POTM in OTT su Andorid tramite Java
 description: Converti POTM in OTT nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/potm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Frissítse a XLSX fájlt Python használatával
 description: Módosítsa a XLSX-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

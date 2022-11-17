@@ -1,7 +1,7 @@
 ---
 title: Render EML a SVG nell'app Andorid
 description: Esporta EML in SVG senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/eml-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

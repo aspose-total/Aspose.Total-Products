@@ -1,7 +1,7 @@
 ---
 title: Android에서 CSV를 WORD로 내보내기
 description: Microsoft Word를 사용하지 않고 CSV를 WORD로 변환하는 Android API
-url: /ko/android-java/conversion/csv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Wordument wordument = new Wordument("pdfOutput.pdf");
 // save wordument in WORD format
 wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.csv");
 WordumentPropertyCollection customProperties = workbook.getWorksheets().getCustomWordumentProperties();
 // remove a custom wordument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

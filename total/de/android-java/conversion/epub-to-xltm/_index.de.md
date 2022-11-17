@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EPUB in XLTM in Android über Java
 description: Rendern Sie EPUB in XLTM in Android über die Java-API, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/android-java/conversion/epub-to-xltm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) ermöglicht Ihnen den Zugriff auf die XMP-Metadaten einer EPUB-Datei. Um die Metadaten zu erhalten, erstellen Sie ein [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) Objekt und öffnen Sie die Eingabe-EPUB-Datei und verwenden Sie [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--), um die Metadaten abzurufen.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.c
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) unterstützt den Schutz Ihrer XLTM-Datei je nach Bedarf. Um Ihr Dokument zu schützen, können Sie die Methode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) von [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) Klasse.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xltm.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xltm.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

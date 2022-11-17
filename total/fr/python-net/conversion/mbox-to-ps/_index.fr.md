@@ -1,7 +1,7 @@
 ---
 title: Convertir MBOX en PS en Python
 description: Enregistrez MBOX au format PS dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/mbox-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

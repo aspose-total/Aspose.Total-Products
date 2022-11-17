@@ -1,6 +1,6 @@
 ---
 title: Konwersja arkuszy kalkulacyjnych Microsoft Excel i formatów Visio za pomocą Pythona 
-url: /pl/python-java/conversion/
+
 description: Konwertuj pliki Excela XLS XLSX XLSM XLSB XLTX XLTM CSV i więcej, a także formaty Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM itp. tylko kilka linijek kodu Pythona.
 ---
 

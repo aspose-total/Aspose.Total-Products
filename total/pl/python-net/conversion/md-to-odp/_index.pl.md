@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na ODP w Pythonie
 description: Konwersja MD do ODP w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/md-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

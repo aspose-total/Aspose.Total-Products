@@ -1,7 +1,7 @@
 ---
 title: Python で POTM を DOCM に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで POTM から DOCM への変換 
-url: /ja/python-net/conversion/potm-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

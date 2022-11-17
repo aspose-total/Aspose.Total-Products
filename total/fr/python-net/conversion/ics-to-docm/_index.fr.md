@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS en DOCM en Python
 description: Enregistrez ICS au format DOCM dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ics-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

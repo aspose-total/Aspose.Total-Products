@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLTM sang WORD bằng C++
 description: Chuyển đổi XLTM sang WORD trong các ứng dụng C++
-url: /vi/cpp/conversion/xltm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

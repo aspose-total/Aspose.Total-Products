@@ -1,7 +1,7 @@
 ---
 title: تحويل EMLX إلى WORD في Python
 description: احفظ EMLX في WORD في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/emlx-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

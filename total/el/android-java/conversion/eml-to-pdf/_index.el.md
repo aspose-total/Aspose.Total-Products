@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε PDF στην εφαρμογή Andorid
 description: Εξαγωγή EML σε PDF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

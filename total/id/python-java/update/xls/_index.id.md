@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLS Menggunakan Python
 description: Memodifikasi dokumen XLS dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xls/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Exportar PPTM para RTF no Andorid via Java
 description: Converta PPTM para RTF em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/pptm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

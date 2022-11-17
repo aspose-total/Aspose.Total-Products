@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi PNG'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMAIL'yi PNG'e kaydedin 
-url: /tr/python-net/conversion/email-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

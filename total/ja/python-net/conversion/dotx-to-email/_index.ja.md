@@ -1,7 +1,7 @@
 ---
 title: Python で DOTX を EMAIL に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で DOTX を EMAIL に保存します。
-url: /ja/python-net/conversion/dotx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

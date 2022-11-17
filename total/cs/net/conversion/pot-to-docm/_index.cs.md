@@ -1,6 +1,6 @@
 ---
 title: Převést POT na DOCM přes C# .NET 
-url: /cs/net/conversion/pot-to-docm/ 
+
 description: Převádějte dokumenty pot aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

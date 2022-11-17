@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi PS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi PS'e kaydedin 
-url: /tr/python-net/conversion/ics-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

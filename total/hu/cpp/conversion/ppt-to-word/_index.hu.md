@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT WORD formátumba konvertálásához
 description: Exportálja a PPT-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

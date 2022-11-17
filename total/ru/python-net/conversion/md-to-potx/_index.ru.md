@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в POTX в Python
 description: Преобразование MD в POTX в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/md-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

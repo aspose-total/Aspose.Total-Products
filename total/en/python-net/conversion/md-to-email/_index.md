@@ -1,7 +1,7 @@
 ---
 title: Convert MD to EMAIL in Python
 description: Save MD to EMAIL within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/md-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

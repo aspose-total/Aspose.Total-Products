@@ -1,7 +1,7 @@
 ---
 title: C# .NET API أتمتة الملفات - Aspose 
 weight: 30
-url: /ar/net/ 
+
 description: C# ASP.NET VB.NET APIs لإنشاء ومعالجة التحويل وتقديم أي نوع من المستندات.
 ---
 

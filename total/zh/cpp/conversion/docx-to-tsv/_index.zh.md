@@ -1,7 +1,7 @@
 ---
 title: 在 C++ 中将 DOCX 转换为 TSV
 description: 无需使用 Microsoft Word 或 Microsoft Excel 即可将 DOCX 转换为 TSV 的 C++ API
-url: /zh/cpp/conversion/docx-to-tsv/
+
 family: total
 platformtag: cpp
 feature: conversion

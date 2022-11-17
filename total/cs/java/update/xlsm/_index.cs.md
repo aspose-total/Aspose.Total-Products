@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLSM pomocí Javy
 description: Upravte dokument XLSM v aplikacích Java bez použití aplikace Microsoft Excel. Optimalizujte kód pro nejrychlejší způsob zápisu a úpravy excelového souboru v Javě.
-url: /cs/java/update/xlsm/
+
 family: total
 platformtag: Java
 feature: update

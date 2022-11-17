@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε EPUB στην εφαρμογή Andorid
 description: Εξαγωγή EML σε EPUB χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

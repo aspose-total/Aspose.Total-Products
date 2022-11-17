@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t PPS-be Pythonban
 description: DOC-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/doc-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

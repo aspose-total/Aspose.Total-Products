@@ -1,7 +1,7 @@
 ---
 title: Převést OST na DOC v Pythonu
 description: Uložte OST do DOC ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/ost-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

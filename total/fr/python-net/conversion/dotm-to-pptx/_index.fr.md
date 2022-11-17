@@ -1,7 +1,7 @@
 ---
 title: Convertir DOTM en PPTX en Python
 description: Conversion DOTM en PPTX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/dotm-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

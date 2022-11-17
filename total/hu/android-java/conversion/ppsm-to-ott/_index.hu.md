@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してODPをFLATOPCに変換する 
-url: /ja/net/conversion/odp-to-flatopc/ 
+
 description: PowerPointのodpドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

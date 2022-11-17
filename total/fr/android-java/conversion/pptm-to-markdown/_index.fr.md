@@ -1,7 +1,7 @@
 ---
 title: Convertir PPTM en MARKDOWN dans Android via Java
 description: Convertissez PPTM en MARKDOWN dans Android via Java sans utiliser Microsoft Excel ou PowerPoint
-url: /fr/android-java/conversion/pptm-to-markdown/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 À l'aide de l'API, vous pouvez également ouvrir le document protégé par mot de passe. Si votre document PPTM d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir en MARKDOWN sans utiliser le mot de passe. L'API vous permet d'ouvrir le document chiffré en passant le mot de passe correct dans un objet LoadOptions. L'exemple de code suivant montre comment essayer d'ouvrir un document chiffré avec un mot de passe :
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 Lors de la conversion du fichier PPTM en MARKDOWN, vous pouvez également ajouter un filigrane au format de votre fichier MARKDOWN de sortie. Pour ajouter un filigrane, créez un nouveau classeur pour ouvrir le fichier HTML converti. Sélectionnez Feuille de calcul via son index, créez une forme et utilisez sa fonction addTextEffect, définissez les couleurs, la transparence, etc. Après cela, vous pouvez enregistrer votre document HTML au format MARKDOWN avec filigrane.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

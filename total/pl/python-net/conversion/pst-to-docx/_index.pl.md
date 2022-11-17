@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PST na DOCX w Pythonie
 description: Zapisz PST w formacie DOCX w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/pst-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

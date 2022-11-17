@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLTM na WORD pomocí .NET 
 description: Převeďte XLTM na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/xltm-to-word/
+
 family: total
 platformtag: net
 feature: conversion

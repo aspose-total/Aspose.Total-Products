@@ -1,6 +1,6 @@
 ---
 title: Convertir DOC en ODP via C# .NET 
-url: /fr/net/conversion/doc-to-odp/ 
+
 description: Convertissez des documents Word en fichiers PowerPoint odp avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
 ---
 

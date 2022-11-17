@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLTM χρησιμοποιώντας Java
 description: Τροποποιήστε το έγγραφο XLTM σε εφαρμογές Java χωρίς τη χρήση του Microsoft Excel. Βελτιστοποιήστε τον κώδικα για τον ταχύτερο τρόπο εγγραφής και επεξεργασίας αρχείου excel σε java.
-url: /el/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

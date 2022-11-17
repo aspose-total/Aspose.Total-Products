@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをXPSにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをXPSにエクスポートする
-url: /ja/android-java/conversion/oft-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

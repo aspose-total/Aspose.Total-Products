@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в PS в приложении Andorid
 description: Экспорт EMLX в PS без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

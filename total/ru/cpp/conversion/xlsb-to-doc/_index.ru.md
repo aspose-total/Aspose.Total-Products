@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSB в DOC с помощью C++
 description: Преобразование XLSB в DOC в приложениях C++
-url: /ru/cpp/conversion/xlsb-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

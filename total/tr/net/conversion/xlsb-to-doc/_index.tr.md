@@ -1,7 +1,7 @@
 ---
 title: .NET ile XLSB'yi DOC'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB'yi DOC'ye dönüştürün
-url: /tr/net/conversion/xlsb-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

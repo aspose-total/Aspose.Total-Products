@@ -1,7 +1,7 @@
 ---
 title: Konvertera PDF till PST i Python
 description: Spara PDF till PST i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/pdf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

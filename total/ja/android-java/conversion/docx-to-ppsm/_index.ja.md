@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでDOCXをPPSMに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCXからPPSMに変換
-url: /ja/android-java/conversion/docx-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion

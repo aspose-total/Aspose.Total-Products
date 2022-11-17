@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLS σε Python
 description: Δημιουργήστε αρχείο XLS χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

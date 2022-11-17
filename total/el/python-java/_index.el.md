@@ -1,6 +1,6 @@
 ---
 title: Python File Automation Libraries - Aspose
-url: /el/python-java/
+
 url_ignore: /python-java/ 
 description: Βιβλιοθήκες Python για ανάλυση υπολογιστικών φύλλων Excel, δημιουργία και σάρωση γραμμωτού κώδικα καθώς και επεξεργασία διαγραμμάτων Visio
 ---

@@ -1,6 +1,6 @@
 ---
 title: Créer et mettre à jour des fichiers Microsoft Excel à l'aide de Python 
-url: /fr/python-java/create/
+
 description: Créer des rapports de feuille de calcul Microsoft Excel sans installer Microsoft Office 
 ---
 

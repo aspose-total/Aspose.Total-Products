@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EMF sang OST bằng Python
 description: Lưu EMF thành OST trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/emf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer DOC naar PPSX in Android via Java
 description: DOC naar PPSX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/android-java/conversion/doc-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 U kunt uw met een wachtwoord beveiligde DOC ook converteren naar PPSX binnen uw Android-applicaties. Als uw DOC-invoerdocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSX-indeling zonder het wachtwoord te gebruiken. Om een versleuteld document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de documentconstructor.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-doc-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

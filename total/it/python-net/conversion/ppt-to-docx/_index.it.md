@@ -1,7 +1,7 @@
 ---
 title: Converti PPT in DOCX in Python
 description: Conversione da PPT a DOCX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/ppt-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

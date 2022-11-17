@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot DOCX-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot DOCX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

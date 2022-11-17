@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPTM-t OTT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pptm-to-ott/ 
+
 description: Konvertálja a PowerPoint pptm dokumentumokat Word ott fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

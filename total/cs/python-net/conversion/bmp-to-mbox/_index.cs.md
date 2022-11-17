@@ -1,7 +1,7 @@
 ---
 title: Převést BMP na MBOX v Pythonu
 description: Ukládejte BMP do MBOX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/bmp-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

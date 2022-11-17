@@ -1,7 +1,7 @@
 ---
 title: Exportera PPS till DOTX på Andorid via Java
 description: Konvertera PPS till DOTX i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pps-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή POTM σε DOCM στο Andorid μέσω Java
 description: Μετατρέψτε το POTM σε DOCM σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/potm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

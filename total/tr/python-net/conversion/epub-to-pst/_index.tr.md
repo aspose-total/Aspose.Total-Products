@@ -1,7 +1,7 @@
 ---
 title: Python'da EPUB'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında EPUB'yi PST'e kaydedin
-url: /tr/python-net/conversion/epub-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

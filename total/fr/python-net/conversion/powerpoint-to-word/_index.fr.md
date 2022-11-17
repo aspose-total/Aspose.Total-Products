@@ -1,7 +1,7 @@
 ---
 title: Convertir POWERPOINT en WORD en Python
 description: Conversion POWERPOINT en WORD dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/powerpoint-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

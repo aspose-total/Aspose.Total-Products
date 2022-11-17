@@ -1,7 +1,7 @@
 ---
 title: API C++ para converter POT em FLATOPC
 description: Exporte POT para FLATOPC em seus aplicativos C++
-url: /pt/cpp/conversion/pot-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

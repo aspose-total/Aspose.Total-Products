@@ -1,7 +1,7 @@
 ---
 title: POT'u DOC'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POT'u DOC'a aktarın
-url: /tr/cpp/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

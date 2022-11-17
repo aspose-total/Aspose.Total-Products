@@ -1,6 +1,6 @@
 ---
 title: Konverze formátu souboru přes Java 
-url: /cs/java/conversion/
+
 description: Převádějte aplikace Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D obrázky, diagramy, video formáty a různé další formáty pomocí několika řádků kódu Java.
 ---
 

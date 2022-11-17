@@ -1,7 +1,7 @@
 ---
 title: แปลง FODS เป็น POWERPOINT ด้วย .NET 
 description: แปลง FODS เป็น POWERPOINT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
-url: /th/net/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

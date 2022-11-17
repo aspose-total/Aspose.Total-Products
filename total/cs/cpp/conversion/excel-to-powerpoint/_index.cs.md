@@ -1,7 +1,7 @@
 ---
 title: Převeďte EXCEL na POWERPOINT pomocí C++
 description: Převeďte EXCEL na POWERPOINT v aplikacích C++
-url: /cs/cpp/conversion/excel-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

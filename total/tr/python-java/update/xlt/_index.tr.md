@@ -1,7 +1,7 @@
 ---
 title: Python Kullanarak XLT Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan Python uygulamalarında XLT belgesini değiştirin. 
-url: /tr/python-java/update/xlt/
+
 family: total
 platformtag: Python
 feature: update

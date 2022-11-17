@@ -1,6 +1,6 @@
 ---
 title: แปลง PPT เป็น ODT ผ่าน C# .NET 
-url: /th/net/conversion/ppt-to-odt/ 
+
 description: แปลงเอกสาร PowerPoint ppt เป็นไฟล์เอกสาร Word ด้วย C# แปลงไฟล์หลายไฟล์ภายใน ASP.NET หรือแอปพลิเคชัน .NET อื่นๆ
 ---
 

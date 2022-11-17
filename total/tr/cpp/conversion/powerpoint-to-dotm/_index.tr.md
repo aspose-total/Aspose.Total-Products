@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u DOTM'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POWERPOINT'u DOTM'a aktarın
-url: /tr/cpp/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

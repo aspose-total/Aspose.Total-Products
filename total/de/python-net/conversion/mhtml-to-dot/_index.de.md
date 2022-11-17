@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MHTML in DOT in Python
 description: Konvertierung von MHTML und HtmlFixed in DOT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word 
-url: /de/python-net/conversion/mhtml-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

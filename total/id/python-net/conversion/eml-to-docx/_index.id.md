@@ -1,7 +1,7 @@
 ---
 title: Konversi EML ke DOCX dengan Python
 description: Simpan EML ke DOCX di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/eml-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON-et képpé Python segítségével
 description: JSON kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/json-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

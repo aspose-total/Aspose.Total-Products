@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPSX σε RTF
 description: Εξαγωγή PPSX σε RTF στις εφαρμογές σας C++
-url: /el/cpp/conversion/ppsx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

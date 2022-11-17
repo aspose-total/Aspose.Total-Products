@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi C++ ile PPTX'ye dönüştürün
 description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOCX'yi PPTX'ye aktarın
-url: /tr/cpp/conversion/docx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX PPTM POT PPSX PPS PPT PPSM POTM POWERPOINT ODP
 {{< blocks/products/pf/feature-page-header h1="DOCX'yi PPTX'ye Dönüştürmek için C++ API" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde DOCX'yi PPTX'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken DOCX'den PPTX'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOCX'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPTX olarak kaydedin. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken DOCX'den PPTX'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOCX'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPTX olarak kaydedin. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

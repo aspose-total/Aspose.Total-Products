@@ -1,7 +1,7 @@
 ---
 title: Exportera POTX till ODT på Andorid via Java
 description: Konvertera POTX till ODT i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/potx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

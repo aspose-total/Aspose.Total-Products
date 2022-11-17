@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPDFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをPDFにエクスポートする
-url: /ja/android-java/conversion/eml-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

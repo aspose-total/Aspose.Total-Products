@@ -1,7 +1,7 @@
 ---
 title: DOC को C++ के माध्यम से PPT में बदलें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में DOC को PPT में निर्यात करें
-url: /hi/cpp/conversion/doc-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
 auto options = MakeObject<LoadOptions>(u"docPassword");
 // load the document from the local file system by filename:
 SharedPtr<Document> doc = MakeObject<Document>(u"Encrypted.doc", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

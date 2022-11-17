@@ -1,7 +1,7 @@
 ---
 title: Python'da OFT'yi OTT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OFT'yi OTT'e kaydedin 
-url: /tr/python-net/conversion/oft-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

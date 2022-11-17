@@ -1,7 +1,7 @@
 ---
 title: API xử lý định dạng tệp Android cho ứng dụng di động - Aspose 
 weight: 50
-url: /vi/android-java/ 
+
 description: API định dạng tệp Android cho Word Excel PDF PowerPoint và Email. Lập trình tạo kết xuất chỉnh sửa và chuyển đổi định dạng tài liệu trong các ứng dụng dành cho thiết bị di động
 ---
 

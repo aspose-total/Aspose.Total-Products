@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPT-t DOCX-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppt-to-docx/ 
+
 description: Konvertálja a PowerPoint ppt dokumentumokat Word docx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

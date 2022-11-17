@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POT'u OTT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POT'u OTT'ye dönüştürün
-url: /tr/android-java/conversion/pot-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

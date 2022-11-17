@@ -1,7 +1,7 @@
 ---
 title: Python'da BMP'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında BMP'yi VCF'e kaydedin
-url: /tr/python-net/conversion/bmp-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

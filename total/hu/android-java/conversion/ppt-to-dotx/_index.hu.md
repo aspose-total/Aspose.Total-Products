@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot DOTX-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot DOTX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendre EMLX en PDF dans l'application Andorid
 description: Exportez EMLX vers PDF sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/emlx-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

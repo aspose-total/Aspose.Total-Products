@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POTX-ot XLTX-vé Androidon Java segítségével
 description: Konvertálja a POTX-ot XLTX-vé Androidon Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
-url: /hu/android-java/conversion/potx-to-xltx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt POTX-dokumentum jelszóval védett, nem konvertálhatja XLTX-vé a jelszó használata nélkül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban. A következő kódpélda bemutatja, hogyan lehet megpróbálni jelszóval megnyitni egy titkosított dokumentumot:
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a b
 A POTX fájl XLTX formátumba konvertálásakor vízjelet is hozzáadhat a kimeneti XLTX fájlformátumhoz. Vízjel hozzáadásához hozzon létre egy új munkafüzetet a konvertált HTML-fájl megnyitásához. Válassza ki a Munkalapotx az indexén keresztül, hozzon létre egy alakzatot, és használja az addTextEffect funkciót, állítsa be a színeket, az átlátszóságot és így tovább. Ezt követően elmentheti a HTML-dokumentumot XLTX-ként vízjellel.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

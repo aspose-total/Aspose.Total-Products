@@ -1,7 +1,7 @@
 ---
 title: Converti il formato JSON in PCL tramite C++
 description: API C++ t0 Analizza JSON in PCL senza utilizzare Microsoft Word
-url: /it/cpp/conversion/json-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 Durante l'analisi da JSON a PCL, puoi anche impostare la dimensione di righe e colonne caricando JSON con la classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Se è necessario impostare la stessa altezza di riga per tutte le righe del foglio di lavoro, è possibile farlo utilizzando [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) metodo della raccolta [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Allo stesso modo, per impostare la stessa larghezza di colonna per tutte le colonne del foglio di lavoro, utilizzare il metodo [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) della raccolta ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ Utilizzando l'API, puoi anche analizzare JSON in PCL con filigrana. Per aggiunge
 chiama il metodo SetText e passa il testo e l'oggetto della filigrana di TextWatermarkOptions. Dopo aver aggiunto la filigrana, è possibile salvare il documento in PCL.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

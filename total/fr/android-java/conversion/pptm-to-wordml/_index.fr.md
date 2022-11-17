@@ -1,7 +1,7 @@
 ---
 title: Exporter PPTM vers WORDML sur Andorid via Java
 description: Convertissez PPTM en WORDML dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/pptm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

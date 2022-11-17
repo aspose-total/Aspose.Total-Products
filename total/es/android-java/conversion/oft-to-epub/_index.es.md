@@ -1,7 +1,7 @@
 ---
 title: Renderizar OFT a EPUB en la aplicación Andorid
 description: Exporte OFT a EPUB sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/oft-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

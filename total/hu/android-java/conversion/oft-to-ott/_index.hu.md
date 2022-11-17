@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t OTT-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t OTT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

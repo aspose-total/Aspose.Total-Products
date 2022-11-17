@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOTX na POWERPOINT w Androidzie przez Java
 description: Konwersja DOTX do POWERPOINT w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint
-url: /pl/android-java/conversion/dotx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 Możesz także przekonwertować chroniony hasłem DOTX na POWERPOINT w swoich aplikacjach na Androida. Jeśli wejściowy dokument DOTX jest chroniony hasłem, nie można go przekonwertować do formatu POWERPOINT bez użycia hasła. Aby otworzyć zaszyfrowany dokument, możesz ustawić poprawne hasło w obiekcie LoadOptions i przekazać je do konstruktora Dotxument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

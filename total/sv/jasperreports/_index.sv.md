@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - Generera rapporter i affärsdokumentformat
 weight: 80
-url: /sv/jasperreports/ 
+
 description: JasperReports exporterar svit för att exportera rapporter till Word Excel PDF- och PowerPoint-format. Lägg till streckkoder i exporterade rapporter
 ---
 

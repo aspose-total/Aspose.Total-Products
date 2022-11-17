@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi FLATOPC sang VCF bằng Python
 description: Lưu FLATOPC thành VCF trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/flatopc-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

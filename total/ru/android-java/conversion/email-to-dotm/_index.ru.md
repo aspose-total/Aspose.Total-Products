@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в DOTM в приложении Andorid
 description: Экспорт EMAIL в DOTM без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi ODT ke EML dengan Python
 description: Simpan ODT ke EML dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/odt-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

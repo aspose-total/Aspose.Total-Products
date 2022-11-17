@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでTXTをPOTMに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでTXTからPOTMに変換
-url: /ja/android-java/conversion/txt-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ TXTからPOTMファイルへの変換では、[Maven](https://repository.aspose.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ TXTからPOTMファイルへの変換では、[Maven](https://repository.aspose.
 Androidアプリケーション内でパスワードで保護されたTXTをPOTMに変換することもできます。入力TXTドキュメントがパスワードで保護されている場合、パスワードを使用せずにPOTM形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをTxtumentコンストラクターに渡すことができます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PPSM'u OTT'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPSM'u OTT'a aktarın
-url: /tr/cpp/conversion/ppsm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir DOT en PPS via C++
 description: Exportez DOT vers PPS dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint
-url: /fr/cpp/conversion/dot-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSM POTX PPTM POWERPOINT PPT ODP POT PPTX PPSX POTM
 {{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOT en PPS" h2="Exportez DOT vers PPS dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOT en PPS tout en utilisant deux de ses API. Chargez votre DOT en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPS. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOT en PPS tout en utilisant deux de ses API. Chargez votre DOT en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Outre la conversion de dotuments, l'API [Aspose.Words for C++](https://products.
 auto options = MakeObject<LoadOptions>(u"dotPassword");
 // load the dotument from the local file system by filename:
 SharedPtr<Dotument> dot = MakeObject<Dotument>(u"Encrypted.dot", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

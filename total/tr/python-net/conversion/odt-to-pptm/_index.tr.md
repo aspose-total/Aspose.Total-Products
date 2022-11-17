@@ -1,7 +1,7 @@
 ---
 title: Python'da ODT'yi PPTM'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan ODT'den PPTM'e dönüştürme 
-url: /tr/python-net/conversion/odt-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

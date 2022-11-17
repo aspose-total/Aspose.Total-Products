@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMLX do DOCM w aplikacji Andorid
 description: Eksportuj EMLX do DOCM bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/emlx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

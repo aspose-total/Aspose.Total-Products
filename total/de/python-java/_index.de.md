@@ -1,6 +1,6 @@
 ---
 title: Python-Dateiautomatisierungsbibliotheken - Aspose
-url: /de/python-java/
+
 url_ignore: /python-java/ 
 description: Python-Bibliotheken für das Parsen von Excel-Tabellen, das Generieren und Scannen von Barcodes sowie die Verarbeitung von Visio-Diagrammen
 ---

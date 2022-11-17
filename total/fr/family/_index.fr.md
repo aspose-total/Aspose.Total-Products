@@ -1,7 +1,7 @@
 ---
 title: API d'automatisation du format de fichier pour plusieurs plates-formes - Aspose 
 weight: 10
-url: /fr/family/
+
 description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OCR Imaging OneNote API de manipulation 3D et CAO pour .NET, Java, Android, C++. Composants pour SharePoint, extensions pour Reporting Services et exportateurs pour JasperReports.
 ---
 

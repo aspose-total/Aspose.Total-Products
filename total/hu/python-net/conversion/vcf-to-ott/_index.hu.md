@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t OTT-be Pythonban
 description: Mentse a VCF-t OTT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

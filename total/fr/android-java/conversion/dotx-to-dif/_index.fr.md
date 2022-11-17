@@ -1,7 +1,7 @@
 ---
 title: API Android pour convertir DOTX en DIF
 description: Convertir DOTX en DIF dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel
-url: /fr/android-java/conversion/dotx-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "convert-word-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 Avant de convertir DOTX en DIF, vous pouvez supprimer les informations inutilisées du dotxument DOTX via [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Parfois, vous devrez peut-être supprimer des informations inutilisées ou en double pour réduire la taille du dotxument de sortie et le temps de traitement. La classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) vous permet de spécifier des options pour le nettoyage des dotxuments. Pour supprimer les styles en double ou uniquement les styles ou listes inutilisés du dotxument, vous pouvez utiliser la méthode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#cleanup()). Vous pouvez utiliser les [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) et [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) pour détecter et supprimer les styles marqués comme « inutilisés ».
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-dotxument.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "remove-unused-information-from-word-dotxument.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Avant de convertir DOTX en DIF, vous pouvez supprimer les informations inutilis�
 Après avoir converti DOTX en DIF, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) vous permet d'enregistrer votre dotxument pour le diffuser. Si vous devez enregistrer des fichiers dans un flux, vous devez créer un objet FileOutputStream, puis [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) le fichier à cet objet Stream en appelant la méthode d'enregistrement de [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) objet.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+{{< gist "aspose-com-gists" "519819eaf54003f5ba524be783483c1e" "save-excel-to-stream.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

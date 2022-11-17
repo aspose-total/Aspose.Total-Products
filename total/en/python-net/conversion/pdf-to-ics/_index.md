@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to ICS in Python
 description: Save PDF to ICS within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/pdf-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

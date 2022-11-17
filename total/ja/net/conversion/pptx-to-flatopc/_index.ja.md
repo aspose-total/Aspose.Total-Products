@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してPPTXをFLATOPCに変換する 
-url: /ja/net/conversion/pptx-to-flatopc/ 
+
 description: PowerPointのpptxドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

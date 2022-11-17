@@ -1,7 +1,7 @@
 ---
 title: Converti EMLX in PDF in Python
 description: Salva EMLX in PDF nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/emlx-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

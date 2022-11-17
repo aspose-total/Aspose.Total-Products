@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPS в DOCM в Python
 description: Преобразование PPS в DOCM в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/pps-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

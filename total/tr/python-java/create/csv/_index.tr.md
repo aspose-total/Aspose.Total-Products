@@ -1,7 +1,7 @@
 ---
 title: Python'da CSV oluşturun
 description: Microsoft Office kullanmadan Python uygulamalarını kullanarak CSV dosyası oluşturun. 
-url: /tr/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

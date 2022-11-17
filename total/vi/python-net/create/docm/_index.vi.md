@@ -1,7 +1,7 @@
 ---
 title: Tạo DOCM bằng Python
 description: Tạo tệp DOCM bằng các ứng dụng Python mà không cần sử dụng Microsoft Word. 
-url: /vi/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

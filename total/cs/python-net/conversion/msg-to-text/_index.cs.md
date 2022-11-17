@@ -1,7 +1,7 @@
 ---
 title: Převést MSG na TEXT v Pythonu
 description: Uložte MSG do TEXT ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/msg-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

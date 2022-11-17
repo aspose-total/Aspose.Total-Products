@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPCLにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをPCLにエクスポートする
-url: /ja/android-java/conversion/msg-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

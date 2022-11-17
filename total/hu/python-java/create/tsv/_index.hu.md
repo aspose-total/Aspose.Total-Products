@@ -1,7 +1,7 @@
 ---
 title: TSV létrehozása Pythonban
 description: TSV-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

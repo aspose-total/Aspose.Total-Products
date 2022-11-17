@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 DOT 轉換為 POWERPOINT
 description: 在 Python 應用程序中將 DOT 轉換為 POWERPOINT，而無需使用 Microsoft Word 或 PowerPoint 
-url: /zh-hant/python-net/conversion/dot-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

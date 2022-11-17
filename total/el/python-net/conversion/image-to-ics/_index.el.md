@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή IMAGE σε ICS στην Python
 description: Αποθηκεύστε το IMAGE σε ICS εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/image-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

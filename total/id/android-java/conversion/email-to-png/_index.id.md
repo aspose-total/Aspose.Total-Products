@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL ke PNG di Aplikasi Andorid
 description: Ekspor EMAIL ke PNG tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/email-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

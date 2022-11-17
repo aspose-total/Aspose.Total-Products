@@ -1,7 +1,7 @@
 ---
 title: Convert IMAGE to PST in Python
 description: Save IMAGE to PST within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/image-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

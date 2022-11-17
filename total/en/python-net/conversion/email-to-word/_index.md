@@ -1,7 +1,7 @@
 ---
 title: Convert EMAIL to WORD in Python
 description: Save EMAIL to WORD in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/email-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

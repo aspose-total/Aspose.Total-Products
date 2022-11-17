@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot ODT-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

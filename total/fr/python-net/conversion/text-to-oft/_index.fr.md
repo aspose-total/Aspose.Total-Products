@@ -1,7 +1,7 @@
 ---
 title: Convertir TEXT en OFT en Python
 description: Enregistrez TEXT au format OFT dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/text-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

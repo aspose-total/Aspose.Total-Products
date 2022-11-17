@@ -1,7 +1,7 @@
 ---
 title: Python で MD を POWERPOINT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで MD から POWERPOINT への変換 
-url: /ja/python-net/conversion/md-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

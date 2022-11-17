@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t JPEG-be Pythonban
 description: Mentse a OST-t JPEG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

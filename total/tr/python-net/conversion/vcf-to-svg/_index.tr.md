@@ -1,7 +1,7 @@
 ---
 title: Python'da VCF'yi SVG'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda VCF'yi SVG'e kaydedin 
-url: /tr/python-net/conversion/vcf-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

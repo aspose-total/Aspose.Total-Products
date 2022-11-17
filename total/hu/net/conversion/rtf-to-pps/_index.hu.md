@@ -1,6 +1,6 @@
 ---
 title: A RTF konvertálása PPS-re C# .NET-en keresztül 
-url: /hu/net/conversion/rtf-to-pps/ 
+
 description: Konvertálja a Word rtf dokumentumokat PowerPoint pps fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

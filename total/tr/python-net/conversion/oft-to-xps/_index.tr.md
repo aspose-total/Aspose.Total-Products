@@ -1,7 +1,7 @@
 ---
 title: Python'da OFT'yi XPS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OFT'yi XPS'e kaydedin 
-url: /tr/python-net/conversion/oft-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

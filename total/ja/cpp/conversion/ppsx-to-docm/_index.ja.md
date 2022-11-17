@@ -1,7 +1,7 @@
 ---
 title: PPSXをDOCMに変換するC++API
 description: C++アプリケーション内でPPSXをDOCMにエクスポートする
-url: /ja/cpp/conversion/ppsx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

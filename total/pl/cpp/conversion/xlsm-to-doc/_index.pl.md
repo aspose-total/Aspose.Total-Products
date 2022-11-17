@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XLSM na DOC za pomocą C++
 description: Konwertuj XLSM na DOC w aplikacjach C++
-url: /pl/cpp/conversion/xlsm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

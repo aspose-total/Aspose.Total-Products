@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTM-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a POTM-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOCXにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをDOCXにエクスポートする
-url: /ja/android-java/conversion/emlx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

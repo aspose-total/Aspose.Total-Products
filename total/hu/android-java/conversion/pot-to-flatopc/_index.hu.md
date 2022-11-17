@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

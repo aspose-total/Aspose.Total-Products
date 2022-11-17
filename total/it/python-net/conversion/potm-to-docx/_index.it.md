@@ -1,7 +1,7 @@
 ---
 title: Converti POTM in DOCX in Python
 description: Conversione da POTM a DOCX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/potm-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

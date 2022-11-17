@@ -1,7 +1,7 @@
 ---
 title: Python で EMLX を PNG に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMLX を PNG に保存します。 
-url: /ja/python-net/conversion/emlx-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

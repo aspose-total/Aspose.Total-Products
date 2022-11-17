@@ -1,7 +1,7 @@
 ---
 title: C++でXLSMをDOCXに変換する
 description: C++アプリケーション内でXLSMをDOCXに変換する
-url: /ja/cpp/conversion/xlsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

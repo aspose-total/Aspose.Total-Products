@@ -1,7 +1,7 @@
 ---
 title: Converteer PPT naar DOCX in Python
 description: PPT naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/ppt-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

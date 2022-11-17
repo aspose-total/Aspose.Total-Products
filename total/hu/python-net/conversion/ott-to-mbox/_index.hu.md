@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t MBOX-be Pythonban
 description: OTT mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ott-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi BMP ke EMLX dengan Python
 description: Simpan BMP ke EMLX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/bmp-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में PCL को EMLX रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EMLX को PCL में निर्यात करें
-url: /hi/android-java/conversion/emlx-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

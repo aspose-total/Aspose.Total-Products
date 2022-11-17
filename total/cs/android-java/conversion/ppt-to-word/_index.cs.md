@@ -1,7 +1,7 @@
 ---
 title: Export PPT do WORD na Andorid přes Java
 description: Převeďte PPT na WORD v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

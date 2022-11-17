@@ -1,6 +1,6 @@
 ---
 title: Converter POTX para DOTM via C# .NET 
-url: /pt/net/conversion/potx-to-dotm/ 
+
 description: Converta documentos potx do PowerPoint em arquivos dotm do Word com C#. Converta vários arquivos no ASP.NET ou em outros aplicativos .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Converteer WORDML naar PPTM in Python
 description: WORDML naar PPTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/wordml-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi MHTML sang TXT trong Android qua Java
 description: Kết xuất MHTML sang TXT trong Android thông qua API Java mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
-url: /vi/android-java/conversion/mhtml-to-txt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) cho phép bạn truy cập siêu dữ liệu XMP của tệp MHTML. Để lấy siêu dữ liệu, hãy tạo đối tượng [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) và mở tệp MHTML đầu vào và sử dụng [getMetadata ()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) thuộc tính để lấy siêu dữ liệu.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://downloads.asp
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) hỗ trợ bảo vệ tệp TXT của bạn tùy theo nhu cầu của bạn. Để bảo vệ tài liệu của mình, bạn có thể sử dụng phương pháp [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook (java.lang.String)) của [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) lớp.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-txt.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-txt.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

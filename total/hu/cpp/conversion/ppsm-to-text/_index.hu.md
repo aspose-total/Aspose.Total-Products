@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSM TEXT formátumba konvertálásához
 description: Exportálja a PPSM-ot TEXT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

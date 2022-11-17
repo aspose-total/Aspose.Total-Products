@@ -1,7 +1,7 @@
 ---
 title: Konvertera MSG till DOCX i Python
 description: Spara MSG till DOCX i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/msg-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

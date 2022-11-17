@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى RTF في تطبيق Andorid
 description: قم بتصدير EML إلى RTF دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/eml-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

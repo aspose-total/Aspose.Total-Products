@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLT-t POWERPOINT-ba a C++ segítségével
 description: A XLT konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlt-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

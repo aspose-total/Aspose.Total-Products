@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t DOCX-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t DOCX-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

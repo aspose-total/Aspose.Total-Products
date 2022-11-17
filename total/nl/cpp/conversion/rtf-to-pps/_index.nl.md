@@ -1,7 +1,7 @@
 ---
 title: Converteer RTF naar PPS via C++
 description: Exporteer RTF naar PPS in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/cpp/conversion/rtf-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPT PPSM POTM POTX ODP PPSX POT POWERPOINT PPTM PPTX
 {{< blocks/products/pf/feature-page-header h1="C++ API om RTF naar PPS te converteren" h2="Exporteer RTF naar PPS binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de RTF-naar-PPS-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw RTF met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPS. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de RTF-naar-PPS-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw RTF met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Afgezien van rtfumentconversie, biedt de [Aspose.Words for C++](https://products
 auto options = MakeObject<LoadOptions>(u"rtfPassword");
 // load the rtfument from the local file system by filename:
 SharedPtr<Rtfument> rtf = MakeObject<Rtfument>(u"Encrypted.rtf", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

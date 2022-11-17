@@ -1,7 +1,7 @@
 ---
 title: Converteer OFT naar DOC in Python
 description: Bewaar OFT naar DOC in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/oft-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

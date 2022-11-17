@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLTX χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLTX σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xltx/
+
 family: total
 platformtag: .NET
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Rendre EMLX en PNG dans l'application Andorid
 description: Exportez EMLX vers PNG sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

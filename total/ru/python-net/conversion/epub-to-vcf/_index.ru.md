@@ -1,7 +1,7 @@
 ---
 title: Преобразование EPUB в VCF в Python
 description: Сохраняйте EPUB в VCF в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/epub-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

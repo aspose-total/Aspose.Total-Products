@@ -1,7 +1,7 @@
 ---
 title: Convertir XLSM a POWERPOINT con C++
 description: Convierta XLSM a POWERPOINT dentro de aplicaciones C++
-url: /es/cpp/conversion/xlsm-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

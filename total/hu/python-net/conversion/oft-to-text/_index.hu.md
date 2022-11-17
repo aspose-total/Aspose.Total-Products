@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t TEXT-be Pythonban
 description: Mentse a OFT-t TEXT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

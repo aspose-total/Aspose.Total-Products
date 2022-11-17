@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na POT přes C# .NET 
-url: /cs/net/conversion/txt-to-pot/ 
+
 description: Převeďte dokumenty Word txt na soubory PowerPoint pot pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

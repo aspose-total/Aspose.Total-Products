@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to DOTM'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i DOTM'ye aktarın
-url: /tr/android-java/conversion/msg-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

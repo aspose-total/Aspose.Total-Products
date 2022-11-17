@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t PPT-be Pythonban
 description: DOT-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/dot-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

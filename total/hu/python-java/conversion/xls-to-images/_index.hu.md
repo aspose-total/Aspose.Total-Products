@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLS-et képpé Python segítségével
 description: XLS kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/xls-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

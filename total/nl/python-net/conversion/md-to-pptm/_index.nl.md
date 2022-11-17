@@ -1,7 +1,7 @@
 ---
 title: Converteer MD naar PPTM in Python
 description: MD naar PPTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/md-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

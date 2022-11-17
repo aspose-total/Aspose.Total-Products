@@ -1,7 +1,7 @@
 ---
 title: Преобразование OFT в IMAGE в приложении Andorid
 description: Экспорт OFT в IMAGE без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/oft-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

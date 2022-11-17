@@ -1,7 +1,7 @@
 ---
 title: Python'da RTF'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında RTF'yi PST'e kaydedin
-url: /tr/python-net/conversion/rtf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XLTM fájl frissítése Java használatával
 description: Módosítsa a XLTM-dokumentumot Java alkalmazásokban Microsoft Excel használata nélkül. Optimalizálja a kódot az Excel-fájlok leggyorsabb írásához és szerkesztéséhez Java-ban.
-url: /hu/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

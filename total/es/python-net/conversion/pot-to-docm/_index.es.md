@@ -1,7 +1,7 @@
 ---
 title: Convertir POT a DOCM en Python
 description: Conversión de POT a DOCM en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint 
-url: /es/python-net/conversion/pot-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

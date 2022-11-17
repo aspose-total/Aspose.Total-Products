@@ -1,7 +1,7 @@
 ---
 title: Konvertera TSV till DOCX med .NET 
 description: Konvertera TSV till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/tsv-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

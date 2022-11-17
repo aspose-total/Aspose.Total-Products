@@ -1,7 +1,7 @@
 ---
 title: Konversi PS ke MBOX dengan Python
 description: Simpan PS ke MBOX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/ps-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

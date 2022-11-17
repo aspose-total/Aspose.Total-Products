@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t RTF-be Pythonban
 description: Mentse a EMLX-t RTF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

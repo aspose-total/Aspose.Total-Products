@@ -1,7 +1,7 @@
 ---
 title: XLTX létrehozása Pythonban
 description: XLTX-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

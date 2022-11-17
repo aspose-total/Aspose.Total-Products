@@ -1,7 +1,7 @@
 ---
 title: Convertir WORD en PPSX dans Android via Java
 description: Conversion WORD en PPSX dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint
-url: /fr/android-java/conversion/word-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 Vous pouvez également convertir votre WORD protégé par mot de passe en PPSX dans vos applications Android. Si votre wordument WORD d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPSX sans utiliser le mot de passe. Pour ouvrir un wordument crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Wordument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

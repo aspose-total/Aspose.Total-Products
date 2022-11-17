@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to EMF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i EMF'ye aktarın
-url: /tr/android-java/conversion/eml-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

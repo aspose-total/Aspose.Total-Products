@@ -1,7 +1,7 @@
 ---
 title: Renderuj OFT do OTT w aplikacji Andorid
 description: Eksportuj OFT do OTT bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/oft-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

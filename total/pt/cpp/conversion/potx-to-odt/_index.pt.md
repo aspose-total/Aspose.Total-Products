@@ -1,7 +1,7 @@
 ---
 title: API C++ para converter POTX em ODT
 description: Exporte POTX para ODT em seus aplicativos C++
-url: /pt/cpp/conversion/potx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

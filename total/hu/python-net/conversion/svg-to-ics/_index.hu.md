@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a SVG-t ICS-be Pythonban
 description: SVG mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/svg-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

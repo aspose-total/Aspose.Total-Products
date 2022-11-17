@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t SVG-be Pythonban
 description: Mentse a OST-t SVG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

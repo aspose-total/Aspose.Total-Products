@@ -1,7 +1,7 @@
 ---
 title: SQL Server Reporting Services rendering-extensies voor bestandsindelingen 
 weight: 40
-url: /nl/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering Extensions voor bestandsindelingen om RDL-rapporten te exporteren naar Word Excel PDF PowerPoint-indelingen. Voeg barcodes toe aan geëxporteerde rapporten
 ---
 

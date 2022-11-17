@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na ODP přes C# .NET 
-url: /cs/net/conversion/flatopc-to-odp/ 
+
 description: Převeďte dokumenty Word flatopc na soubory PowerPoint odp pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

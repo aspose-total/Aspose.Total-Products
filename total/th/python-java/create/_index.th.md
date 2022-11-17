@@ -1,6 +1,6 @@
 ---
 title: สร้างและอัปเดตไฟล์ Microsoft Excel โดยใช้ Python 
-url: /th/python-java/create/
+
 description: สร้างรายงานเวิร์กชีต Microsoft Excel โดยไม่ต้องติดตั้ง Microsoft Office 
 ---
 

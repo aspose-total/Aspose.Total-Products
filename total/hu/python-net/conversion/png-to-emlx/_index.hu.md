@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t EMLX-be Pythonban
 description: PNG mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

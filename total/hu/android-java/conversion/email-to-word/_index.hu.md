@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t WORD-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t WORD-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

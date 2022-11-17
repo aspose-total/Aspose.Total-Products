@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 在 Android 中將 OTP 轉換為 JSON 格式
 description: 在不使用 Microsoft Word 或 Excel 的情況下，通過 Java 在 Android 中將 OTP 解析為 JSON 格式
-url: /zh-hant/android-java/conversion/otp-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 使用 API，您還可以打開受密碼保護的文檔。如果您的輸入 OTP 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 JSON 格式。 API 允許您通過在 LoadOptions 對像中傳遞正確的密碼來打開加密的文檔。以下代碼示例顯示如何使用密碼打開加密文檔。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 在將 OTP 轉換為 JSON 時，您還可以將範圍設置為輸出 JSON 格式。為了設置範圍，您可以使用 Workbook 類打開轉換後的 HTML，使用 Cells.createRange 方法創建要導出的數據范圍，使用 Range 和 ExportRangeToJsonOptions 的引用調用 JsonUtility.exportRangeToJson 方法並將字符串 JSON 數據寫入文件通過BufferedWriter.write 方法。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

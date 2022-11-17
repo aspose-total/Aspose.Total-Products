@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JPEG-t VCF-be Pythonban
 description: JPEG mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/jpeg-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

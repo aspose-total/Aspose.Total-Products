@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EMF na MBOX w Pythonie
 description: Zapisuj EMF do MBOX w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/emf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

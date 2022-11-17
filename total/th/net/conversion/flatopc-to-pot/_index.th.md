@@ -1,6 +1,6 @@
 ---
 title: แปลง FLATOPC เป็น POT ผ่าน C# .NET 
-url: /th/net/conversion/flatopc-to-pot/ 
+
 description: แปลงเอกสาร Word flatopc เป็นไฟล์ PowerPoint pot ด้วย C# แปลงไฟล์หลายไฟล์ภายใน ASP.NET หรือแอปพลิเคชัน .NET อื่นๆ
 ---
 

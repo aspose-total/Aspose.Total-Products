@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してFODSをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでFODSをWORDに変換する
-url: /ja/net/conversion/fods-to-word/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter PST para SVG em Python
 description: Salve PST para SVG em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/pst-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

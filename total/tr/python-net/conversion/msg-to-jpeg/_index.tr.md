@@ -1,7 +1,7 @@
 ---
 title: Python'da MSG'yi JPEG'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda MSG'yi JPEG'e kaydedin 
-url: /tr/python-net/conversion/msg-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

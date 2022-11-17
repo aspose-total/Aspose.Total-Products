@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをWORDにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをWORDにエクスポートする
-url: /ja/android-java/conversion/emlx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

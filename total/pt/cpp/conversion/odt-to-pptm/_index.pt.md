@@ -1,7 +1,7 @@
 ---
 title: Converter ODT para PPTM via C++
 description: Exporte ODT para PPTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint
-url: /pt/cpp/conversion/odt-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: ODP POTM PPT POT POWERPOINT PPTX PPSX PPSM PPS POTX
 {{< blocks/products/pf/feature-page-header h1="API C++ para converter ODT em PPTM" h2="Exporte ODT para PPTM em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de ODT para PPTM usando duas de suas APIs. Carregue seu ODT usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como PPTM. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de ODT para PPTM usando duas de suas APIs. Carregue seu ODT usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pptm
 pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Além da conversão de odtumentos, a API [Aspose.Words for C++](https://products
 auto options = MakeObject<LoadOptions>(u"odtPassword");
 // load the odtument from the local file system by filename:
 SharedPtr<Odtument> odt = MakeObject<Odtument>(u"Encrypted.odt", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pptm
 pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

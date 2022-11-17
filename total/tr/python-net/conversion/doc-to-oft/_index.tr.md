@@ -1,7 +1,7 @@
 ---
 title: Python'da DOC'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOC'yi OFT'e kaydedin
-url: /tr/python-net/conversion/doc-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

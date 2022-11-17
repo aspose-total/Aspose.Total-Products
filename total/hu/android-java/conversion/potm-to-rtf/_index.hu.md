@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTM-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a POTM-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

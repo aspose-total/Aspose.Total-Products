@@ -1,7 +1,7 @@
 ---
 title: Interfejsy API przetwarzania formatu plików C++ — Aspose 
 weight: 70
-url: /pl/cpp/ 
+
 description: Biblioteki C++ odczytują, zapisują, renderują i konwertują wiele formatów dokumentów.
 ---
 
@@ -31,7 +31,7 @@ Aspose.Cells for C++ umożliwia programistom pracę z formatami plików Excel w 
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
-Aspose.Email dla C ++ to biblioteka MIME i poczty e-mail dla C ++ oferująca manipulację plikami e-mail i archiwum wiadomości e-mail z poziomu aplikacji C ++. Email C++ API jest w stanie tworzyć, manipulować i konwertować najpopularniejsze formaty wiadomości, takie jak MSG, EML, EMLX i MHTML, a także może tworzyć, sprawdzać i wyodrębniać wiadomości z archiwów PST i OST.
+Aspose.Email dla C++ to biblioteka MIME i poczty e-mail dla C++ oferująca manipulację plikami e-mail i archiwum wiadomości e-mail z poziomu aplikacji C++. Email C++ API jest w stanie tworzyć, manipulować i konwertować najpopularniejsze formaty wiadomości, takie jak MSG, EML, EMLX i MHTML, a także może tworzyć, sprawdzać i wyodrębniać wiadomości z archiwów PST i OST.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
@@ -39,7 +39,7 @@ Jest to unikalny interfejs API do zarządzania prezentacjami i slajdami PowerPoi
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
-Biblioteka kodów kreskowych C++ oferuje szybkie algorytmy generowania i rozpoznawania kodów kreskowych 1D, 2D i pocztowych, aby programiści mogli dodawać funkcje kodów kreskowych do własnych aplikacji C++. Biblioteka kodów kreskowych dla C ++ umożliwia również programistom eksportowanie etykiet z kodami kreskowymi do formatów obrazów rastrowych, a także odczytywanie obróconych kodów kreskowych z obrazów.
+Biblioteka kodów kreskowych C++ oferuje szybkie algorytmy generowania i rozpoznawania kodów kreskowych 1D, 2D i pocztowych, aby programiści mogli dodawać funkcje kodów kreskowych do własnych aplikacji C++. Biblioteka kodów kreskowych dla C++ umożliwia również programistom eksportowanie etykiet z kodami kreskowymi do formatów obrazów rastrowych, a także odczytywanie obróconych kodów kreskowych z obrazów.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}

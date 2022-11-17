@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してPPSをDOTMに変換する 
-url: /ja/net/conversion/pps-to-dotm/ 
+
 description: PowerPointのppsドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Преобразование FLATOPC в MSG в Python
 description: Сохраняйте FLATOPC в MSG в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/flatopc-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

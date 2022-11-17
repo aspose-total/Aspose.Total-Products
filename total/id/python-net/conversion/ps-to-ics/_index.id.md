@@ -1,7 +1,7 @@
 ---
 title: Konversi PS ke ICS dengan Python
 description: Simpan PS ke ICS dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/ps-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

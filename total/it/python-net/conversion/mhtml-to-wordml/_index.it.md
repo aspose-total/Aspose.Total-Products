@@ -1,7 +1,7 @@
 ---
 title: Converti MHTML in WORDML in Python
 description: Conversione MHTML e HtmlFixed in WORDML nelle tue applicazioni Python senza utilizzare Microsoft Word 
-url: /it/python-net/conversion/mhtml-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

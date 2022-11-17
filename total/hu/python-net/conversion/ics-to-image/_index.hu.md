@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t IMAGE-be Pythonban
 description: Mentse a ICS-t IMAGE formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ics-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

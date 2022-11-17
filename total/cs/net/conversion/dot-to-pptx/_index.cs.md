@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na PPTX přes C# .NET 
-url: /cs/net/conversion/dot-to-pptx/ 
+
 description: Převeďte dokumenty Word dot na soubory PowerPoint pptx pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

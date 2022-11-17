@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to BMP'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i BMP'ye aktarın
-url: /tr/android-java/conversion/oft-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

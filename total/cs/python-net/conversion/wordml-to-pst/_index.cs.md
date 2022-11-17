@@ -1,7 +1,7 @@
 ---
 title: Převést WORDML na PST v Pythonu
 description: Ukládejte WORDML do PST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/wordml-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

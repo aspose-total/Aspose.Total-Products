@@ -1,7 +1,7 @@
 ---
 title: تصدير PPS إلى RTF على Andorid عبر Java
 description: قم بتحويل PPS إلى RTF في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/pps-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

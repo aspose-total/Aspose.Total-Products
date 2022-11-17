@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t ICS-be Pythonban
 description: ICS mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/gif-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

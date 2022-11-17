@@ -1,7 +1,7 @@
 ---
 title: Python で DOT を作成する
 description: Microsoft Word を使用せずに、Python アプリケーションを使用して DOT ファイルを生成します。 
-url: /ja/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

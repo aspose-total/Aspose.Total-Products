@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをMDにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをMDにエクスポートする
-url: /ja/android-java/conversion/msg-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

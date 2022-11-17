@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в EXCEL на C++
 description: C++ API для преобразования DOCX в EXCEL без использования Microsoft Word или Microsoft Excel
-url: /ru/cpp/conversion/docx-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion

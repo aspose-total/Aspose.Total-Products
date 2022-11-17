@@ -1,7 +1,7 @@
 ---
 title: 使用 Python 更新 TSV 文件
 description: 在 Python 應用程序中修改 TSV 文檔而不使用 Microsoft Excel。 
-url: /zh-hant/python-java/update/tsv/
+
 family: total
 platformtag: Python
 feature: update

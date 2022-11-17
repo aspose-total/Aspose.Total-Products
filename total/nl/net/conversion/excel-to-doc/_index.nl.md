@@ -1,7 +1,7 @@
 ---
 title: Converteer EXCEL naar DOC met .NET 
 description: Converteer EXCEL naar DOC op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms
-url: /nl/net/conversion/excel-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

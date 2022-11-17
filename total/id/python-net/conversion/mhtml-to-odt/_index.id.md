@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke ODT dengan Python
 description: Konversi MHTML dan Html Memperbaiki ke ODT di aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/mhtml-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

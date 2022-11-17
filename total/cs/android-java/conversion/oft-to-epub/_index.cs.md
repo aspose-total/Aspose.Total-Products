@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do EPUB v aplikaci Andorid
 description: Exportujte OFT do EPUB bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

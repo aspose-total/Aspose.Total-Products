@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में PNG को EMLX रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EMLX को PNG में निर्यात करें
-url: /hi/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Xuất ODS sang WORD trong Android
 description: API Android để chuyển đổi ODS sang WORD mà không cần sử dụng Microsoft Word
-url: /vi/android-java/conversion/ods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Wordument wordument = new Wordument("pdfOutput.pdf");
 // save wordument in WORD format
 wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.ods");
 WordumentPropertyCollection customProperties = workbook.getWorksheets().getCustomWordumentProperties();
 // remove a custom wordument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

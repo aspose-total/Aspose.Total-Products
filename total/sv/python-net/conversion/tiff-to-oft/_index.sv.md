@@ -1,7 +1,7 @@
 ---
 title: Konvertera TIFF till OFT i Python
 description: Spara TIFF till OFT i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/tiff-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

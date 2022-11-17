@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLS na PPTX pomocí .NET 
 description: Převeďte XLS na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/xls-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

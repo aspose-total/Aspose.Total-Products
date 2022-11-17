@@ -1,6 +1,6 @@
 ---
 title: Python .NET fájlformátum-feldolgozási API-kon keresztül – Aspose 
-url: /hu/python-net/
+
 url_ignore: /python-net/ 
 description: Python API-k Microsoft Word dokumentumokhoz, PowerPoint prezentációkhoz és Outlook e-mail formátumokhoz a Python alkalmazásokból.
 ---

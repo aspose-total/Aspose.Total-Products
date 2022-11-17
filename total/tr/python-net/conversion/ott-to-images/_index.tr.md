@@ -1,7 +1,7 @@
 ---
 title: Python'da OTT'yi Görüntülere Dönüştür
 description: Microsoft Word kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF SVG dönüştürme görüntüsüne OTT 
-url: /tr/python-net/conversion/ott-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

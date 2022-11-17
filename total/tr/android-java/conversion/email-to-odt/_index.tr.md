@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to ODT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i ODT'ye aktarın
-url: /tr/android-java/conversion/email-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

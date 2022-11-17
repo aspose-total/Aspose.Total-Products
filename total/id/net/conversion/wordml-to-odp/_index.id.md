@@ -1,6 +1,6 @@
 ---
 title: Konversi WORDML ke ODP melalui C# .NET 
-url: /id/net/conversion/wordml-to-odp/ 
+
 description: Konversikan dokumen dokumen Word ke file odp PowerPoint dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

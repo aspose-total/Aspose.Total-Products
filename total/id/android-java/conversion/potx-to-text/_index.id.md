@@ -1,7 +1,7 @@
 ---
 title: Ekspor POTX ke TEXT di Andorid melalui Java
 description: Konversi POTX ke TEXT di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/potx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

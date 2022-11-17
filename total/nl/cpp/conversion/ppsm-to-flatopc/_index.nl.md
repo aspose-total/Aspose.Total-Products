@@ -1,7 +1,7 @@
 ---
 title: C++ API om PPSM naar FLATOPC te converteren
 description: Exporteer PPSM naar FLATOPC binnen uw C++-toepassingen
-url: /nl/cpp/conversion/ppsm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

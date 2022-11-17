@@ -1,6 +1,6 @@
 ---
 title: 通過 C# .NET 將 WORDML 轉換為 PPT 
-url: /zh-hant/net/conversion/wordml-to-ppt/ 
+
 description: 使用 C# 將 Word wordml 文檔轉換為 PowerPoint ppt 文件。在 ASP.NET 或其他 .NET 應用程序中轉換多個文件。
 ---
 

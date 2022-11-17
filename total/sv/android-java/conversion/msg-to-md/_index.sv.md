@@ -1,7 +1,7 @@
 ---
 title: Skicka MSG till MD i Andorid-appen
 description: Exportera MSG till MD utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/msg-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

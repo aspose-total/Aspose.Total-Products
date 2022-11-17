@@ -1,7 +1,7 @@
 ---
 title: Converter DOC para XLSB em C++
 description: API C++ para converter DOC para XLSB sem usar o Microsoft Word ou o Microsoft Excel
-url: /pt/cpp/conversion/doc-to-xlsb/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) também permite acessar as propriedades do documento do arquivo DOC e permite que você tome uma decisão informada antes do processo de conversão. Para acessar as propriedades do documento, você pode usar [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) para obter propriedades internas e [CustomDocumentProperties](https:// reference.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) para obter propriedades personalizadas. O exemplo de código a seguir mostra como enumerar todas as propriedades internas e personalizadas em um documento.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 Depois de converter DOC para XLSB, o [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) permite que você salve seu documento para transmitir. Para salvar arquivos em um fluxo, crie um objeto MemoryStream ou FileStream e salve o arquivo nesse objeto de fluxo chamando o [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) método [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) do objeto. Especifique o formato de arquivo desejado usando a enumeração [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) ao chamar o [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349).
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "save-excel-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Converti XLSB in Immagine usando Python
 description: Conversione da XLSB a TIFF immagine BMP PNG JPEG GIF EMF SVG nelle applicazioni Python senza utilizzare Microsoft Excel 
-url: /it/python-java/conversion/xlsb-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

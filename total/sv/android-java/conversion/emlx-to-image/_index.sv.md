@@ -1,7 +1,7 @@
 ---
 title: Skicka EMLX till IMAGE i Andorid-appen
 description: Exportera EMLX till IMAGE utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

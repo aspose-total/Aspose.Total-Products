@@ -1,7 +1,7 @@
 ---
 title: Converteer TSV naar afbeelding met Python
 description: TSV naar afbeelding TIFF BMP PNG JPEG GIF EMF SVG-conversie in uw Python-toepassingen zonder Microsoft Excel 
-url: /nl/python-java/conversion/tsv-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

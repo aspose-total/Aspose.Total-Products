@@ -1,7 +1,7 @@
 ---
 title: Python'da XLSB oluşturun
 description: Microsoft Office kullanmadan Python uygulamalarını kullanarak XLSB dosyası oluşturun. 
-url: /tr/python-java/create/xlsb/
+
 family: total
 platformtag: Python
 feature: create

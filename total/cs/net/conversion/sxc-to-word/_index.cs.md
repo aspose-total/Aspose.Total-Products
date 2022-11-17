@@ -1,7 +1,7 @@
 ---
 title: Převeďte SXC na WORD pomocí .NET 
 description: Převeďte SXC na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/sxc-to-word/
+
 family: total
 platformtag: net
 feature: conversion

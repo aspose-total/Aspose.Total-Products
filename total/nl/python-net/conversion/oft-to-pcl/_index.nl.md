@@ -1,7 +1,7 @@
 ---
 title: Converteer OFT naar PCL in Python
 description: Bewaar OFT naar PCL in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/oft-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

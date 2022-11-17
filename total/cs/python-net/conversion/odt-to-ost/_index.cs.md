@@ -1,7 +1,7 @@
 ---
 title: Převést ODT na OST v Pythonu
 description: Ukládejte ODT do OST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/odt-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MBOX σε MD στην Python
 description: Αποθηκεύστε το MBOX σε MD στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/mbox-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

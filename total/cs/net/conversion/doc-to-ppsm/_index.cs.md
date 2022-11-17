@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na PPSM přes C# .NET 
-url: /cs/net/conversion/doc-to-ppsm/ 
+
 description: Převeďte dokumenty Word doc na soubory PowerPoint ppsm pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

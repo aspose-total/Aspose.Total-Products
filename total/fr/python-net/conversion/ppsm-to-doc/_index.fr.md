@@ -1,7 +1,7 @@
 ---
 title: Convertir PPSM en DOC en Python
 description: Conversion PPSM en DOC dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/ppsm-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

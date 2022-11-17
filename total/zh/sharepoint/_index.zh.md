@@ -1,7 +1,7 @@
 ---
 title: SharePoint 文件格式应用程序 - 在 SharePoint 应用程序中转换文档 
 weight: 20
-url: /zh/sharepoint/ 
+
 description: SharePoint 文件格式应用程序，用于在 Microsoft SharePoint 中转换和组合 Word Excel PDF PowerPoint 电子邮件和图像文档格式
 ---
 

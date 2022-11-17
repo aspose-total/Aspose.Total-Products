@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPSX sang TXT qua C# .NET 
-url: /vi/net/conversion/ppsx-to-txt/ 
+
 description: Chuyển đổi tài liệu ppsx PowerPoint sang tệp Word txt bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

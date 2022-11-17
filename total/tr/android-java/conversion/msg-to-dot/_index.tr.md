@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to DOT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i DOT'ye aktarın
-url: /tr/android-java/conversion/msg-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

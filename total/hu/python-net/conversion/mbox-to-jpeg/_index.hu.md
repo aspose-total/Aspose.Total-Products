@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t JPEG-be Pythonban
 description: Mentse a MBOX-t JPEG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

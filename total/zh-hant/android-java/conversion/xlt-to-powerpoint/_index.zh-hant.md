@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中將 XLT 導出為 POWERPOINT
 description: 無需使用 Microsoft Word 即可將 XLT 轉換為 POWERPOINT 的 Android API
-url: /zh-hant/android-java/conversion/xlt-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Powerpointument powerpointument = new Powerpointument("pdfOutput.pdf");
 // save powerpointument in PPTX format
 powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.xlt");
 PowerpointumentPropertyCollection customProperties = workbook.getWorksheets().getCustomPowerpointumentProperties();
 // remove a custom powerpointument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

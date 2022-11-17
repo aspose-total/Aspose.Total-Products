@@ -1,7 +1,7 @@
 ---
 title: Ekstensi Rendering Layanan Pelaporan SQL Server untuk Format File 
 weight: 40
-url: /id/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering Extensions untuk format file untuk mengekspor laporan RDL ke format Word Excel PDF PowerPoint. Tambahkan kode batang ke laporan yang diekspor
 ---
 

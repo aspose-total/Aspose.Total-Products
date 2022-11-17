@@ -1,7 +1,7 @@
 ---
 title: Convertir EMF en OST en Python
 description: Enregistrez EMF au format OST dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/emf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

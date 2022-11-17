@@ -1,7 +1,7 @@
 ---
 title: Python で MHTML を画像に変換する
 description: MHTML、HTML、および HtmlIMAGES、PNG、BMP、JPEG、TIFF に固定 Microsoft Word を使用せずに Python アプリケーションで画像変換 
-url: /ja/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

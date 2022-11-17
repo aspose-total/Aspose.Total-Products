@@ -1,6 +1,6 @@
 ---
 title: Python によるドキュメント変換 
-url: /ja/python-net/conversion/
+
 description: Microsoft Word 形式の DOC、DOCX を PDF、画像などに変換したり、プレゼンテーション スライド、電子メール メッセージ、3D 画像を数行の Python コードで変換したりできます。
 ---
 

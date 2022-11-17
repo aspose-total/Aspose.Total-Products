@@ -1,7 +1,7 @@
 ---
 title: Python で WORD を PPTX に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORD から PPTX への変換 
-url: /ja/python-net/conversion/word-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte EXCEL na PPTX pomocí .NET 
 description: Převeďte EXCEL na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/excel-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

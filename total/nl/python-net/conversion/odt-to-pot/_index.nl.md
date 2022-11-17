@@ -1,7 +1,7 @@
 ---
 title: Converteer ODT naar POT in Python
 description: ODT naar POT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/odt-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

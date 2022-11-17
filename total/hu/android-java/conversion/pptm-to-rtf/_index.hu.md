@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で IMAGE を EML に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で IMAGE を EML に保存します。
-url: /ja/python-net/conversion/image-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDにPOTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTをWORDに変換する
-url: /ja/android-java/conversion/pot-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

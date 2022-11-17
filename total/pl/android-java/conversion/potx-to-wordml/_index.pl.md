@@ -1,7 +1,7 @@
 ---
 title: Eksportuj POTX do WORDML na Androidzie przez Javę
 description: Konwertuj POTX na WORDML w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/potx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

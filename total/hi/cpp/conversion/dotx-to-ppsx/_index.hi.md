@@ -1,7 +1,7 @@
 ---
 title: DOTX को C++ के माध्यम से PPSX में बदलें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में DOTX को PPSX में निर्यात करें
-url: /hi/cpp/conversion/dotx-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
 auto options = MakeObject<LoadOptions>(u"dotxPassword");
 // load the dotxument from the local file system by filename:
 SharedPtr<Dotxument> dotx = MakeObject<Dotxument>(u"Encrypted.dotx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

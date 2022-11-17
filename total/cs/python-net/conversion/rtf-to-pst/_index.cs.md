@@ -1,7 +1,7 @@
 ---
 title: Převést RTF na PST v Pythonu
 description: Ukládejte RTF do PST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/rtf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

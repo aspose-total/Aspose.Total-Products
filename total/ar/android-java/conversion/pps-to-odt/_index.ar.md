@@ -1,7 +1,7 @@
 ---
 title: تصدير PPS إلى ODT على Andorid عبر Java
 description: قم بتحويل PPS إلى ODT في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/pps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

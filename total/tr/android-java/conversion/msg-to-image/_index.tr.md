@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to IMAGE'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i IMAGE'ye aktarın
-url: /tr/android-java/conversion/msg-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

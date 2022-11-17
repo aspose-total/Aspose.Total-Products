@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLSM باستخدام Python
 description: تعديل مستند XLSM في تطبيقات Python دون استخدام Microsoft Excel. 
-url: /ar/python-java/update/xlsm/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Exportar POTM para DOT no Andorid via Java
 description: Converta POTM para DOT em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/potm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

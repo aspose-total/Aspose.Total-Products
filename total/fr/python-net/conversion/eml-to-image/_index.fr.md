@@ -1,7 +1,7 @@
 ---
 title: Convertir EML en IMAGE en Python
 description: Enregistrez EML au format IMAGE dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/eml-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

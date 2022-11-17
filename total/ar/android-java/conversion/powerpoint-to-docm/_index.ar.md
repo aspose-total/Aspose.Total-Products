@@ -1,7 +1,7 @@
 ---
 title: تصدير POWERPOINT إلى DOCM على Andorid عبر Java
 description: قم بتحويل POWERPOINT إلى DOCM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/powerpoint-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

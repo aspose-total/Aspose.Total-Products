@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT DOC formátumba konvertálásához
 description: Exportálja a PPT-ot DOC-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

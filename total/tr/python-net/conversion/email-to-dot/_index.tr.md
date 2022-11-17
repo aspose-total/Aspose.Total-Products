@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi DOT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMAIL'yi DOT'e kaydedin 
-url: /tr/python-net/conversion/email-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

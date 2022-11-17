@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir PPSX a ODT
 description: Exporte PPSX a ODT dentro de sus aplicaciones C++
-url: /es/cpp/conversion/ppsx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

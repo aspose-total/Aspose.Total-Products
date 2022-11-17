@@ -1,7 +1,7 @@
 ---
 title: تحويل تنسيق JSON إلى PPSM عبر C++
 description: تحليل JSON إلى PPSM في C++ بدون استخدام Microsoft PowerPoint
-url: /ar/cpp/conversion/json-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: POT PPS PPTM OTP POTX PPT PPSX POWERPOINT POTM ODP
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: POT PPS PPTM OTP POTX PPT PPSX POWERPOINT POTM ODP
 أثناء تحليل JSON إلى PPSM ، يمكنك أيضًا تعيين حجم الصفوف والأعمدة عن طريق تحميل JSON مع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). إذا كنت بحاجة إلى تعيين ارتفاع الصف نفسه لجميع الصفوف في ورقة العمل ، فيمكنك القيام بذلك باستخدام [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) طريقة مجموعة [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). وبالمثل ، لتعيين نفس عرض العمود لجميع الأعمدة في ورقة العمل ، استخدم أسلوب مجموعة ICells [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7).
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: POT PPS PPTM OTP POTX PPT PPSX POWERPOINT POTM ODP
 باستخدام API ، يمكنك أيضًا تحويل JSON إلى PPSM بعلامة مائية. لإضافة علامة مائية إلى مستند PPSM الخاص بك ، يمكنك أولاً تحليل JSON إلى PPTX وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف PPTX الذي تم إنشاؤه حديثًا باستخدام فئة [العرض التقديمي](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) ، احصل على الشريحة الأولى ، أضف شكل تلقائي لنوع المستطيل ، أضف TextFrame إلى المستطيل ، أنشئ كائن فقرة لإطار نصي ، أنشئ كائن Portion للفقرة ، أضف علامة مائية باستخدام set_Text () ، ويمكن حفظ المستند إلى PPSM.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na ODP přes C# .NET 
-url: /cs/net/conversion/doc-to-odp/ 
+
 description: Převeďte dokumenty Word doc na soubory PowerPoint odp pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

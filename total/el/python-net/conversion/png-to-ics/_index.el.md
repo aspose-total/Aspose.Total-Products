@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PNG σε ICS στην Python
 description: Αποθηκεύστε το PNG σε ICS εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/png-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLS-t PPTX-ba a C++ segítségével
 description: A XLS konvertálása PPTX formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xls-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

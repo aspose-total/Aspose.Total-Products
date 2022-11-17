@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t XPS-nek az Andorid alkalmazásban
 description: Exportálja az EML-t XPS-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

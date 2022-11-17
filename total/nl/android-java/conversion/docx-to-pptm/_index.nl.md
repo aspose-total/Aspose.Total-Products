@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCX naar PPTM in Android via Java
 description: DOCX naar PPTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
-url: /nl/android-java/conversion/docx-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion

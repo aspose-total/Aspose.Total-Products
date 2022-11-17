@@ -1,6 +1,6 @@
 ---
 title: C++ によるドキュメント変換 
-url: /ja/cpp/conversion/
+
 description: C++ API を使用して、Word、Excel、PowerPoint、PDF、JSON、画像などのさまざまなドキュメント形式を変換します。 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t DOT-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t DOT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

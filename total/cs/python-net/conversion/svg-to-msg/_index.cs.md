@@ -1,7 +1,7 @@
 ---
 title: Převést SVG na MSG v Pythonu
 description: Ukládejte SVG do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/svg-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t PST-be Pythonban
 description: DOC mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/doc-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

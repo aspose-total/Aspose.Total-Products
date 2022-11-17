@@ -1,7 +1,7 @@
 ---
 title: XLSB fájl frissítése .NET használatával
 description: XLSB dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

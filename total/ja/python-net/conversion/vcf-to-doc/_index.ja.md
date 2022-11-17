@@ -1,7 +1,7 @@
 ---
 title: Python で VCF を DOC に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで VCF を DOC に保存します。 
-url: /ja/python-net/conversion/vcf-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

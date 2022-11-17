@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο TSV χρησιμοποιώντας Java
 description: Τροποποιήστε το έγγραφο TSV σε εφαρμογές Java χωρίς τη χρήση του Microsoft Excel. Βελτιστοποιήστε τον κώδικα για τον ταχύτερο τρόπο εγγραφής και επεξεργασίας αρχείου excel σε java.
-url: /el/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

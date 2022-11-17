@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a SVG-t EMAIL-be Pythonban
 description: SVG mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/svg-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

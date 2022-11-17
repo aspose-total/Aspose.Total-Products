@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε FLATOPC στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε FLATOPC χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

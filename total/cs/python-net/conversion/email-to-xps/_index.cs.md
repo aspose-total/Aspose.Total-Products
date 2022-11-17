@@ -1,7 +1,7 @@
 ---
 title: Převést EMAIL na XPS v Pythonu
 description: Uložte EMAIL do XPS ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/email-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

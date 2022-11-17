@@ -1,7 +1,7 @@
 ---
 title: Konvertera TXT till POT i Python
 description: TXT till POT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/txt-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

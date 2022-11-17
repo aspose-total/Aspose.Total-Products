@@ -1,6 +1,6 @@
 ---
 title: Biblioteki automatyzacji plików w języku Python — Aspose
-url: /pl/python-java/
+
 url_ignore: /python-java/ 
 description: Biblioteki Pythona do analizowania arkuszy kalkulacyjnych Excel, generowania i skanowania kodów kreskowych oraz przetwarzania diagramów Visio
 ---

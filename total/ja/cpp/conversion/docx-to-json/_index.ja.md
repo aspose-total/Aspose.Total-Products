@@ -1,7 +1,7 @@
 ---
 title: DOCXをC++でJSON形式に変換する
 description: MicrosoftExcelまたはWordを使用せずにC++でDOCXをJSONにエクスポートする
-url: /ja/cpp/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

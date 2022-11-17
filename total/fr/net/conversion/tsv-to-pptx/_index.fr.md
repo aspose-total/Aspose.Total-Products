@@ -1,7 +1,7 @@
 ---
 title: Convertir TSV en PPTX avec .NET 
 description: Convertir TSV en PPTX sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/tsv-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

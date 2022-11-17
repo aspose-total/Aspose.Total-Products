@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMF-t EML-be Pythonban
 description: EMF mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/emf-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

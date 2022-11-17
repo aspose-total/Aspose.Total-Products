@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to XPS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i XPS'ye aktarın
-url: /tr/android-java/conversion/oft-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

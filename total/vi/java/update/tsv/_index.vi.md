@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp TSV bằng Java
 description: Sửa đổi tài liệu TSV trong các ứng dụng Java mà không cần sử dụng Microsoft Excel. Tối ưu hóa mã để viết và chỉnh sửa tệp excel trong java nhanh nhất.
-url: /vi/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

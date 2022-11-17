@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLSX pomocí Pythonu
 description: Upravte dokument XLSX v aplikacích Python bez použití aplikace Microsoft Excel. 
-url: /cs/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

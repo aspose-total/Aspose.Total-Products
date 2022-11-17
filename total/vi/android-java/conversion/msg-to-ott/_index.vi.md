@@ -1,7 +1,7 @@
 ---
 title: Kết xuất MSG thành OTT trong ứng dụng Andorid
 description: Xuất MSG sang OTT mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/msg-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

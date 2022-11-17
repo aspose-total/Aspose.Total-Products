@@ -1,6 +1,6 @@
 ---
 title: Tạo và cập nhật tệp Microsoft Excel bằng Python 
-url: /vi/python-java/create/
+
 description: Tạo báo cáo trang tính Microsoft Excel mà không cần cài đặt Microsoft Office 
 ---
 

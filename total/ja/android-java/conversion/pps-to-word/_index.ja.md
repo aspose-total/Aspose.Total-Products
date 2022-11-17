@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDにPPSをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSをWORDに変換する
-url: /ja/android-java/conversion/pps-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

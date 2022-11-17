@@ -1,7 +1,7 @@
 ---
 title: Convert EMF to OST in Python
 description: Save EMF to OST within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/emf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

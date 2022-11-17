@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTM в PPSX в Python
 description: Преобразование DOTM в PPSX в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/dotm-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

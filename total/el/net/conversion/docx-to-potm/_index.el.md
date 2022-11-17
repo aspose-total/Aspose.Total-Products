@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCX σε POTM μέσω C# .NET 
-url: /el/net/conversion/docx-to-potm/ 
+
 description: Μετατρέψτε έγγραφα Word docx σε αρχεία potm PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

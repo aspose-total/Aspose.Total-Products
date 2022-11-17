@@ -1,7 +1,7 @@
 ---
 title: Python で MSG を PCL に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで MSG を PCL に保存します。 
-url: /ja/python-net/conversion/msg-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

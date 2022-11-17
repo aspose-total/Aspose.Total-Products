@@ -1,7 +1,7 @@
 ---
 title: Renderizar OFT a DOTM en la aplicación Andorid
 description: Exporte OFT a DOTM sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/oft-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

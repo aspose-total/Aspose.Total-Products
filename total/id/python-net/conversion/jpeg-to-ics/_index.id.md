@@ -1,7 +1,7 @@
 ---
 title: Konversi JPEG ke ICS dengan Python
 description: Simpan JPEG ke ICS dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/jpeg-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

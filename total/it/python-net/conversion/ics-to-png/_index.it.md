@@ -1,7 +1,7 @@
 ---
 title: Converti ICS in PNG in Python
 description: Salva ICS in PNG nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ics-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

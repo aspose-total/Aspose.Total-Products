@@ -1,7 +1,7 @@
 ---
 title: C++ API om PPTM naar TEXT te converteren
 description: Exporteer PPTM naar TEXT binnen uw C++-toepassingen
-url: /nl/cpp/conversion/pptm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

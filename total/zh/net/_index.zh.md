@@ -1,7 +1,7 @@
 ---
 title: C# .NET 文件自动化 API - Aspose 
 weight: 30
-url: /zh/net/ 
+
 description: C# ASP.NET VB.NET APIs 创建操纵转换和呈现任何类型的文档。
 ---
 

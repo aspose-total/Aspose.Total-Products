@@ -1,7 +1,7 @@
 ---
 title: Konversi MHTML ke DOCM dengan Python
 description: Konversi MHTML dan Html Memperbaiki ke DOCM di aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/mhtml-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

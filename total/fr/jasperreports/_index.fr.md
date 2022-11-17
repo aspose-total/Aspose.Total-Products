@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - Générer des rapports dans des formats de documents commerciaux
 weight: 80
-url: /fr/jasperreports/ 
+
 description: JasperReports exporte la suite pour exporter des rapports aux formats Word Excel PDF et PowerPoint. Ajouter des codes-barres aux rapports exportés
 ---
 

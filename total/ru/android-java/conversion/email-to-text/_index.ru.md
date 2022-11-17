@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в TEXT в приложении Andorid
 description: Экспорт EMAIL в TEXT без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

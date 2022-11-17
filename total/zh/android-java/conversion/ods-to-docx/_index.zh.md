@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中将 ODS 导出为 DOCX
 description: 无需使用 Microsoft Word 即可将 ODS 转换为 DOCX 的 Android API
-url: /zh/android-java/conversion/ods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

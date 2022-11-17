@@ -1,7 +1,7 @@
 ---
 title: XLSX létrehozása Pythonban
 description: XLSX-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xlsx/
+
 family: total
 platformtag: Python
 feature: create

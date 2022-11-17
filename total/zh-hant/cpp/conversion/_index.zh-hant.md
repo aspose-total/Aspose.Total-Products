@@ -1,6 +1,6 @@
 ---
 title: 通過 C++ 進行文檔轉換 
-url: /zh-hant/cpp/conversion/
+
 description: 使用 C++ API 轉換各種文檔格式，例如 Word、Excel、PowerPoint、PDF、JSON、圖像等。 
 ---
 

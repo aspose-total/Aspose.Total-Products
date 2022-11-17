@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite – Jelentések létrehozása üzleti dokumentum formátumokban
 weight: 80
-url: /hu/jasperreports/ 
+
 description: A JasperReports a jelentéseket Word Excel PDF és PowerPoint formátumokba exportálja. Vonalkódok hozzáadása az exportált jelentésekhez
 ---
 

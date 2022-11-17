@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 TEXT 轉換為 OFT
 description: 在 Python 應用程序中將 TEXT 保存為 OFT，而無需使用 Microsoft Word 或 Outlook
-url: /zh-hant/python-net/conversion/text-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

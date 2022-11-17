@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke EMF di Aplikasi Andorid
 description: Ekspor MSG ke EMF tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

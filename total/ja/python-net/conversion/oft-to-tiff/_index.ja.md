@@ -1,7 +1,7 @@
 ---
 title: Python で OFT を TIFF に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OFT を TIFF に保存します。 
-url: /ja/python-net/conversion/oft-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

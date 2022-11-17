@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a CSV-t DOCX-ba a C++ segítségével
 description: A CSV konvertálása DOCX formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/csv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

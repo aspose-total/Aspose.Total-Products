@@ -1,6 +1,6 @@
 ---
 title: Pustaka Otomatisasi Berkas Python - Aspose
-url: /id/python-java/
+
 url_ignore: /python-java/ 
 description: Pustaka Python untuk penguraian spreadsheet Excel, pembuatan dan pemindaian kode batang, serta pemrosesan diagram Visio
 ---

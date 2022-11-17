@@ -1,7 +1,7 @@
 ---
 title: Převeďte ODS na DOC pomocí .NET 
 description: Převeďte ODS na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/ods-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

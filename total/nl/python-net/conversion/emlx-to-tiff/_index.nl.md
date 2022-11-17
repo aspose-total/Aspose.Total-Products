@@ -1,7 +1,7 @@
 ---
 title: Converteer EMLX naar TIFF in Python
 description: Bewaar EMLX naar TIFF in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/emlx-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

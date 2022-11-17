@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t DOTX-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t DOTX-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

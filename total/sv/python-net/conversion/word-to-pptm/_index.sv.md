@@ -1,7 +1,7 @@
 ---
 title: Konvertera WORD till PPTM i Python
 description: WORD till PPTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/word-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

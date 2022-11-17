@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t PS-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t PS-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

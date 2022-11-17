@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi định dạng tệp qua C# 
-url: /vi/net/conversion/
+
 description: Chuyển đổi Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, Hình ảnh 3D, Sơ đồ, Định dạng Video và nhiều tệp phổ biến khác chỉ với vài dòng mã C#.
 ---
 

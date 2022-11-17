@@ -1,7 +1,7 @@
 ---
 title: XLS-bestand bijwerken met Java
 description: Wijzig XLS-document in Java-toepassingen zonder Microsoft Excel te gebruiken. Optimaliseer code voor de snelste manier om Excel-bestanden in Java te schrijven en te bewerken.
-url: /nl/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

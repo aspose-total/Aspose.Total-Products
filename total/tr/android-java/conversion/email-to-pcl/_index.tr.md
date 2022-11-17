@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to PCL'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i PCL'ye aktarın
-url: /tr/android-java/conversion/email-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

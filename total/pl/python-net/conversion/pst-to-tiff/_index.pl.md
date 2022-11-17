@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PST na TIFF w Pythonie
 description: Zapisz PST w formacie TIFF w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/pst-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

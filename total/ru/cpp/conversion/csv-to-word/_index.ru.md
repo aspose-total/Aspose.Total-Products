@@ -1,7 +1,7 @@
 ---
 title: Преобразование CSV в WORD с помощью C++
 description: Преобразование CSV в WORD в приложениях C++
-url: /ru/cpp/conversion/csv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

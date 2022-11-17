@@ -1,7 +1,7 @@
 ---
 title: Konvertera PST till OTT i Python
 description: Spara PST till OTT i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/pst-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

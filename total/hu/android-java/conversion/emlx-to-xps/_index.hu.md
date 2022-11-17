@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t XPS-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t XPS-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

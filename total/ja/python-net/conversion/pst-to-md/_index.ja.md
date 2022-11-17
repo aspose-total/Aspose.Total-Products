@@ -1,7 +1,7 @@
 ---
 title: Python で PST を MD に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで PST を MD に保存します。 
-url: /ja/python-net/conversion/pst-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

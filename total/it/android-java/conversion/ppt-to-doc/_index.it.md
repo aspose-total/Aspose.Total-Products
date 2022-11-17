@@ -1,7 +1,7 @@
 ---
 title: Esporta PPT in DOC su Andorid tramite Java
 description: Converti PPT in DOC nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/ppt-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

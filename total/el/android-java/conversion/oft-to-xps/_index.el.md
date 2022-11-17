@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε XPS στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε XPS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

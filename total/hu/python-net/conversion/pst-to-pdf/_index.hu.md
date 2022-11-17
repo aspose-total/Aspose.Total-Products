@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t PDF-be Pythonban
 description: Mentse a PST-t PDF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

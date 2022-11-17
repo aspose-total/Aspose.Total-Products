@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t FLATOPC-nek az Andorid alkalmazásban
 description: Exportálja az EML-t FLATOPC-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で OST を FLATOPC に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OST を FLATOPC に保存します。 
-url: /ja/python-net/conversion/ost-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

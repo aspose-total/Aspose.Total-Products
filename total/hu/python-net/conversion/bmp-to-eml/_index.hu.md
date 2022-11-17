@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a BMP-t EML-be Pythonban
 description: BMP mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/bmp-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

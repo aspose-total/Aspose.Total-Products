@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中通過 Java 將 OTT 轉換為 PPTM
 description: 在您的 Android 手機中將 OTT 轉換為 PPTM，而無需使用 Microsoft Word 的 PowerPoint
-url: /zh-hant/android-java/conversion/ott-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPS ODP PPTX PPSX POTM POT POWERPOINT PPT PPSM POTX CSV DIF FODS O
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPS ODP PPTX PPSX POTM POT POWERPOINT PPT PPSM POTX CSV DIF FODS O
 您還可以在 Android 應用程序中將受密碼保護的 OTT 轉換為 PPTM。如果您輸入的 OTT 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 PPTM 格式。為了打開加密文檔，您可以在 LoadOptions 對像中設置正確的密碼並將其傳遞給 Ottument 構造函數。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-ott-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

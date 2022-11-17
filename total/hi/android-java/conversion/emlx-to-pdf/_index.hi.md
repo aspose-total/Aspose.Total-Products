@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में PDF को EMLX रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EMLX को PDF में निर्यात करें
-url: /hi/android-java/conversion/emlx-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

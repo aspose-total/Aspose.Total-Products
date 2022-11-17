@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORDML в POTX в Python
 description: Преобразование WORDML в POTX в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/wordml-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

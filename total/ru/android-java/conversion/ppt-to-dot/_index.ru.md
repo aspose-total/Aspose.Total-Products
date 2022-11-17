@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPT в DOT на Andorid через Java
 description: Конвертируйте PPT в DOT в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/ppt-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

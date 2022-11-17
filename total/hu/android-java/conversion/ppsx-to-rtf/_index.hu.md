@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSX-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSX-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

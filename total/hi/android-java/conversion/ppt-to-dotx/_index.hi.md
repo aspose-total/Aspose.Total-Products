@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर DOTX को PPT निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPT को DOTX में बदलें
-url: /hi/android-java/conversion/ppt-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

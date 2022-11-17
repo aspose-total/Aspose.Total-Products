@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t XPS-be Pythonban
 description: Mentse a EMAIL-t XPS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

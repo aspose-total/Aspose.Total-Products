@@ -1,7 +1,7 @@
 ---
 title: Exportera POTM till WORDML på Andorid via Java
 description: Konvertera POTM till WORDML i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/potm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

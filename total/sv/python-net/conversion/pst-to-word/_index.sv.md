@@ -1,7 +1,7 @@
 ---
 title: Konvertera PST till WORD i Python
 description: Spara PST till WORD i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/pst-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

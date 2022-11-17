@@ -1,7 +1,7 @@
 ---
 title: Renderizar OFT a DOT en la aplicación Andorid
 description: Exporte OFT a DOT sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/oft-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

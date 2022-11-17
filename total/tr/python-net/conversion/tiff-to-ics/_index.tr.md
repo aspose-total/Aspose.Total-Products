@@ -1,7 +1,7 @@
 ---
 title: Python'da TIFF'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında TIFF'yi ICS'e kaydedin
-url: /tr/python-net/conversion/tiff-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

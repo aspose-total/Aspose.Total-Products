@@ -1,7 +1,7 @@
 ---
 title: Převést POWERPOINT na DOC v Pythonu
 description: Převod POWERPOINT na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/powerpoint-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer SVG naar EMAIL in Python
 description: Bewaar SVG naar EMAIL binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/svg-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

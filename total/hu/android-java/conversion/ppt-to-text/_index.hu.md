@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

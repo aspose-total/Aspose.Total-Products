@@ -1,7 +1,7 @@
 ---
 title: Převeďte DOT na MHTML v Pythonu
 description: Formát webového archivu DOT na mhtml a převod souborů HtmlFixed ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/dot-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

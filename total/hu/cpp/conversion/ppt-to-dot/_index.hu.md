@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT DOT formátumba konvertálásához
 description: Exportálja a PPT-ot DOT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

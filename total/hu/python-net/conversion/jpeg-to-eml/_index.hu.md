@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JPEG-t EML-be Pythonban
 description: JPEG mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/jpeg-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

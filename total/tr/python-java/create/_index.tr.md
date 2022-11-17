@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak Microsoft Excel Dosyaları Oluşturun ve Güncelleyin 
-url: /tr/python-java/create/
+
 description: Microsoft Office'i yüklemeden Microsoft Excel çalışma sayfası raporları oluşturun 
 ---
 

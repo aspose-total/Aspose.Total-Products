@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t JPEG-be Pythonban
 description: Mentse a EMAIL-t JPEG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-jpeg/
+
 family: total
 platformtag: Python
 feature: conversion

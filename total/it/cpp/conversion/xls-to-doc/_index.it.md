@@ -1,7 +1,7 @@
 ---
 title: Converti XLS in DOC con C++
 description: Converti XLS in DOC all'interno di applicazioni C++
-url: /it/cpp/conversion/xls-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

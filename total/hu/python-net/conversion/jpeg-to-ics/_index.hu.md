@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JPEG-t ICS-be Pythonban
 description: JPEG mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/jpeg-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

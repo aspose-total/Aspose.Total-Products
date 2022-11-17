@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi ODT sang ODP qua C# .NET 
-url: /vi/net/conversion/odt-to-odp/ 
+
 description: Chuyển đổi tài liệu Word odt sang tệp odp PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

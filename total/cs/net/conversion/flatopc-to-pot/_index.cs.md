@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na POT přes C# .NET 
-url: /cs/net/conversion/flatopc-to-pot/ 
+
 description: Převeďte dokumenty Word flatopc na soubory PowerPoint pot pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

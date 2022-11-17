@@ -1,7 +1,7 @@
 ---
 title: Converti OTT in PPSM in Python
 description: Conversione da OTT a PPSM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/ott-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل MHTML إلى صور في Python
 description: MHTML و HTML و Html تم إصلاحه بتحويل صور IMAGES و PNG و BMP و JPEG و TIFF في تطبيقات Python دون استخدام أي برنامج
-url: /ar/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

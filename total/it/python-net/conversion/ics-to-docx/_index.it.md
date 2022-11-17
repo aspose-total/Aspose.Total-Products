@@ -1,7 +1,7 @@
 ---
 title: Converti ICS in DOCX in Python
 description: Salva ICS in DOCX nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ics-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converti POWERPOINT in DOTM in Python
 description: Conversione da POWERPOINT a DOTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

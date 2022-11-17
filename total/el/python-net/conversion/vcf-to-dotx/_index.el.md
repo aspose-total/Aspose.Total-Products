@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή VCF σε DOTX στην Python
 description: Αποθηκεύστε το VCF σε DOTX στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/vcf-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

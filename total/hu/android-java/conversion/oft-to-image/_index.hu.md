@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t IMAGE-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t IMAGE-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

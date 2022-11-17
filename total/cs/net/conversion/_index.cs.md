@@ -1,6 +1,6 @@
 ---
 title: Konverze formátu souboru přes C# 
-url: /cs/net/conversion/
+
 description: Převádějte aplikace Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D obrázky, diagramy, video formáty a mnoho dalších oblíbených souborů pomocí několika řádků kódu C#.
 ---
 

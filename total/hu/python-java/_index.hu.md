@@ -1,6 +1,6 @@
 ---
 title: Python File Automation Libraries – Aspose
-url: /hu/python-java/
+
 url_ignore: /python-java/ 
 description: Python könyvtárak Excel-táblázatok elemzéséhez, vonalkód generálásához és szkenneléséhez, valamint Visio diagramok feldolgozásához
 ---

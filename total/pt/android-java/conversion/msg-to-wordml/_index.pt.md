@@ -1,7 +1,7 @@
 ---
 title: Renderize MSG para WORDML no aplicativo Andorid
 description: Exporte MSG para WORDML sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/msg-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

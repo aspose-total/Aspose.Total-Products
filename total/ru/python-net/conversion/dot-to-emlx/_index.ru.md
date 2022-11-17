@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в EMLX в Python
 description: Сохраняйте DOT в EMLX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/dot-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

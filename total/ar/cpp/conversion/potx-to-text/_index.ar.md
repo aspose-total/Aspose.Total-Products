@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل POTX إلى TEXT
 description: قم بتصدير POTX إلى TEXT داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/potx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

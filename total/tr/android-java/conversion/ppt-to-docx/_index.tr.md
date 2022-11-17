@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u DOCX'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u DOCX'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FLATOPC-t MSG-be Pythonban
 description: FLATOPC mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/flatopc-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

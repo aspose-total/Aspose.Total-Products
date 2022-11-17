@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t DOC-be Pythonban
 description: Mentse a EMLX-t DOC formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

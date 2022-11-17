@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή ICS σε DOCM στην Python
 description: Αποθηκεύστε το ICS σε DOCM στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/ics-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

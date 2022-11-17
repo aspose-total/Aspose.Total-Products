@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中將 XLT 導出為 DOCX
 description: 無需使用 Microsoft Word 即可將 XLT 轉換為 DOCX 的 Android API
-url: /zh-hant/android-java/conversion/xlt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

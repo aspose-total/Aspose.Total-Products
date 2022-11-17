@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to JPEG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i JPEG'ye aktarın
-url: /tr/android-java/conversion/msg-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

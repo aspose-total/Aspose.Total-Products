@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCX إلى PPS عبر C# .NET 
-url: /ar/net/conversion/docx-to-pps/ 
+
 description: تحويل مستندات Word docx إلى ملفات PowerPoint pps باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

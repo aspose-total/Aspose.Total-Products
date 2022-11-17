@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till PCL i Andorid-appen
 description: Exportera EMAIL till PCL utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

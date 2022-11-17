@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをMDにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをMDにエクスポートする
-url: /ja/android-java/conversion/emlx-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

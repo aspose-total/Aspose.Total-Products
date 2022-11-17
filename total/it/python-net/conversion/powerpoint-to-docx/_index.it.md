@@ -1,7 +1,7 @@
 ---
 title: Converti POWERPOINT in DOCX in Python
 description: Conversione da POWERPOINT a DOCX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/powerpoint-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

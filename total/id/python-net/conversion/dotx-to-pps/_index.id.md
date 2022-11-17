@@ -1,7 +1,7 @@
 ---
 title: Konversi DOTX ke PPS dengan Python
 description: Konversi DOTX ke PPS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/dotx-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

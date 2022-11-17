@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTMをPOWERPOINTに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをPOWERPOINTに変換する
-url: /ja/net/conversion/xltm-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

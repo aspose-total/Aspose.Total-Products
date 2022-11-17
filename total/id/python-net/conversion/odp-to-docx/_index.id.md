@@ -1,7 +1,7 @@
 ---
 title: Konversi ODP ke DOCX dengan Python
 description: Konversi ODP ke DOCX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/odp-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

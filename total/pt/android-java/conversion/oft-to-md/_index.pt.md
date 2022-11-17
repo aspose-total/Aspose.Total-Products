@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para MD no aplicativo Andorid
 description: Exporte OFT para MD sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

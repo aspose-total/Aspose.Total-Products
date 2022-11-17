@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t PPTM-be Pythonban
 description: DOC-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/doc-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

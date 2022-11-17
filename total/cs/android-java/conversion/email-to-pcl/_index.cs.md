@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do PCL v aplikaci Andorid
 description: Exportujte EMAIL do PCL bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

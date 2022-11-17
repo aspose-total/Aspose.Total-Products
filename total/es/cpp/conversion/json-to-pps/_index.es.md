@@ -1,7 +1,7 @@
 ---
 title: Convierta el formato JSON a PPS a través de C++
 description: Analizar JSON a PPS en C++ sin usar Microsoft PowerPoint
-url: /es/cpp/conversion/json-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 Mientras analiza JSON a PPS, también puede establecer el tamaño de filas y columnas cargando JSON con la clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Si necesita establecer el mismo alto de fila para todas las filas de la hoja de cálculo, puede hacerlo mediante [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) método de la colección [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). De manera similar, para establecer el mismo ancho de columna para todas las columnas de la hoja de cálculo, utilice el método [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) de la colección ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Mientras analiza JSON a PPS, también puede establecer el tamaño de filas y col
 Usando la API, también puede convertir JSON a PPS con marca de agua. Para agregar una marca de agua a su documento PPS, primero puede analizar JSON a PPTX y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PPTX recién creado usando la clase [Presentación](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation), obtenga la primera diapositiva, agregue una AutoForma de tipo Rectángulo, agregue Marco de texto al Rectángulo, cree el objeto Párrafo para un marco de texto, cree un objeto Porción para el párrafo, agregue una marca de agua usando set_Text() y puede guardar el documento en PPS.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

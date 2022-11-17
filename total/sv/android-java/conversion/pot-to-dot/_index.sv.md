@@ -1,7 +1,7 @@
 ---
 title: Exportera POT till DOT på Andorid via Java
 description: Konvertera POT till DOT i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pot-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

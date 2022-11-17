@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PST sang PDF bằng Python
 description: Lưu PST thành PDF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
-url: /vi/python-net/conversion/pst-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

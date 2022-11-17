@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till PPS via C# .NET 
-url: /sv/net/conversion/rtf-to-pps/ 
+
 description: Konvertera Word rtf-dokument till PowerPoint pps-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

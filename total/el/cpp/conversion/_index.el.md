@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή εγγράφου μέσω C++ 
-url: /el/cpp/conversion/
+
 description: Μετατρέψτε διάφορες μορφές εγγράφων όπως Word, Excel, PowerPoint, PDF, JSON, Images και άλλα χρησιμοποιώντας C++ API. 
 ---
 

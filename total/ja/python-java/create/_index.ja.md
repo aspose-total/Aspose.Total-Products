@@ -1,6 +1,6 @@
 ---
 title: Python を使用して Microsoft Excel ファイルを作成および更新する 
-url: /ja/python-java/create/
+
 description: Microsoft Office をインストールせずに Microsoft Excel ワークシート レポートを作成する 
 ---
 

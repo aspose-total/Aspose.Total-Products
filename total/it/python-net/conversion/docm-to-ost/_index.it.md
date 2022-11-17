@@ -1,7 +1,7 @@
 ---
 title: Converti DOCM in OST in Python
 description: Salva DOCM in OST all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/docm-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

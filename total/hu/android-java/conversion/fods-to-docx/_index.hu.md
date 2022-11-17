@@ -1,7 +1,7 @@
 ---
 title: FODS exportálása DOCX formátumba Androidon
 description: Android API a FODS konvertálásához DOCX formátumba Microsoft Word használata nélkül
-url: /hu/android-java/conversion/fods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

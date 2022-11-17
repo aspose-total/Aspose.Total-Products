@@ -1,7 +1,7 @@
 ---
 title: Rozwiązania w zakresie formatów plików na miejscu, w chmurze i aplikacji 
 weight: 9630
-url: /pl/
+
 description: Twórz aplikacje do manipulacji dokumentami za pomocą interfejsów API On Premise lub Cloud lub po prostu używaj aplikacji wieloplatformowych do przeglądania, porównywania, sprawdzania lub konwertowania ponad 100 formatów plików
 ---
 

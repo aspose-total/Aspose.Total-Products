@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PCL-t MBOX-be Pythonban
 description: PCL mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pcl-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

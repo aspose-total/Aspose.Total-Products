@@ -1,7 +1,7 @@
 ---
 title: Converter VCF para EPUB em Python
 description: Salve VCF para EPUB em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/vcf-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

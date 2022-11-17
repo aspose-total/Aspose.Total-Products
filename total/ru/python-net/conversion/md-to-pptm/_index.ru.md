@@ -1,7 +1,7 @@
 ---
 title: Преобразование MD в PPTM в Python
 description: Преобразование MD в PPTM в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/md-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

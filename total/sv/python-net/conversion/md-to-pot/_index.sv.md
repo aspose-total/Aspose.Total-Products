@@ -1,7 +1,7 @@
 ---
 title: Konvertera MD till POT i Python
 description: MD till POT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/md-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

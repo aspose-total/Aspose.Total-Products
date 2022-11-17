@@ -1,7 +1,7 @@
 ---
 title: Convertir EMAIL en DOTM en Python
 description: Enregistrez EMAIL au format DOTM dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/email-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

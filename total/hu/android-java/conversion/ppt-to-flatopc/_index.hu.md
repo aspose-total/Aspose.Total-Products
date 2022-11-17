@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

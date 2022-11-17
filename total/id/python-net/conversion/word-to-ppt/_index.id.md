@@ -1,7 +1,7 @@
 ---
 title: Konversi WORD ke PPT dengan Python
 description: Konversi WORD ke PPT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/word-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

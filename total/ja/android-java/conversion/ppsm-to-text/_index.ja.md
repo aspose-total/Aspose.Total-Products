@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのTEXTにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをTEXTに変換する
-url: /ja/android-java/conversion/ppsm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

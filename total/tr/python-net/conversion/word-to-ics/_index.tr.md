@@ -1,7 +1,7 @@
 ---
 title: Python'da WORD'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORD'yi ICS'e kaydedin
-url: /tr/python-net/conversion/word-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

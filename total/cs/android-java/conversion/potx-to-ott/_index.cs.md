@@ -1,7 +1,7 @@
 ---
 title: Export POTX do OTT na Andorid přes Java
 description: Převeďte POTX na OTT v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/potx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

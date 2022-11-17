@@ -1,6 +1,6 @@
 ---
 title: Konwersja dokumentów za pomocą Pythona 
-url: /pl/python-net/conversion/
+
 description: Konwertuj formaty Microsoft Word DOC, DOCX na PDF, obrazy i inne, a także slajdy prezentacji, wiadomości e-mail i obrazy 3D tylko kilka linijek kodu Python.
 ---
 

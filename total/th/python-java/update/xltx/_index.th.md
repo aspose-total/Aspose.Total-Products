@@ -1,7 +1,7 @@
 ---
 title: อัปเดตไฟล์ XLTX โดยใช้ Python
 description: แก้ไขเอกสาร XLTX ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Excel 
-url: /th/python-java/update/xltx/
+
 family: total
 platformtag: Python
 feature: update

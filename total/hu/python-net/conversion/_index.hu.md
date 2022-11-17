@@ -1,6 +1,6 @@
 ---
 title: Dokumentumkonverzió Python segítségével 
-url: /hu/python-net/conversion/
+
 description: Konvertálja a Microsoft Word formátumokat DOC, DOCX PDF-vé, képeket és sok mást, valamint prezentációs diákat, e-mail üzeneteket és 3D képeket csak néhány sor Python kóddal.
 ---
 

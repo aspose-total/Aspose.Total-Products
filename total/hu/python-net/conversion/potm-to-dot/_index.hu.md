@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POTM-t DOT-be Pythonban
 description: POTM-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/potm-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

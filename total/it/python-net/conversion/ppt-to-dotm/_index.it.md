@@ -1,7 +1,7 @@
 ---
 title: Converti PPT in DOTM in Python
 description: Conversione da PPT a DOTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/ppt-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

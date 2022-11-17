@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в OFT в Python
 description: Сохраняйте DOT в OFT в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/dot-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

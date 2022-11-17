@@ -1,7 +1,7 @@
 ---
 title: Tạo CSV bằng Python
 description: Tạo tệp CSV bằng các ứng dụng Python mà không cần sử dụng Microsoft Office. 
-url: /vi/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

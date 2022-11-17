@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのFLATOPCにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをFLATOPCに変換する
-url: /ja/android-java/conversion/pptm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

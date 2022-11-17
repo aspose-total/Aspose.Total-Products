@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSM-et képpé Python segítségével
 description: XLSM kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/xlsm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

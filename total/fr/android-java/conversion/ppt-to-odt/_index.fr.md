@@ -1,7 +1,7 @@
 ---
 title: Exporter PPT vers ODT sur Andorid via Java
 description: Convertissez PPT en ODT dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/ppt-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

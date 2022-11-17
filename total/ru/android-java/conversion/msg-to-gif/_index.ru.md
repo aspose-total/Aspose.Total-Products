@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в GIF в приложении Andorid
 description: Экспорт MSG в GIF без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

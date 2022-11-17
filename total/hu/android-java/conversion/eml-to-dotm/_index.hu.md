@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t DOTM-nek az Andorid alkalmazásban
 description: Exportálja az EML-t DOTM-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLSB bằng .NET
 description: Sửa đổi tài liệu XLSB trong ứng dụng C # VB.NET mà không cần sử dụng Microsoft Excel. 
-url: /vi/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Python で DOT を OST に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で DOT を OST に保存します。
-url: /ja/python-net/conversion/dot-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

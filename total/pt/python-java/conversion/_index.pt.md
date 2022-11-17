@@ -1,6 +1,6 @@
 ---
 title: Conversão de planilhas do Microsoft Excel e formatos do Visio via Python 
-url: /pt/python-java/conversion/
+
 description: Converta arquivos do Excel XLS XLSX XLSM XLSB XLTX XLTM CSV e muito mais, bem como formatos do Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM etc, apenas algumas linhas de código Python.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: एकाधिक प्लेटफ़ॉर्म के लिए फ़ाइल स्वरूप स्वचालन API - Aspose 
 weight: 10
-url: /hi/family/
+
 description: Microsoft Excel Word PowerPoint ईमेल PDF Visio Project बारकोड OCR इमेजिंग OneNote 3D और .NET, Java, Android, C++ के लिए CAD मैनिपुलेशन API। SharePoint के लिए घटक, रिपोर्टिंग सेवाओं के लिए एक्सटेंशन और JasperReports के लिए निर्यातक।
 ---
 

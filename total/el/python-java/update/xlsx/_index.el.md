@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLSX χρησιμοποιώντας Python
 description: Τροποποιήστε το έγγραφο XLSX σε εφαρμογές Python χωρίς τη χρήση του Microsoft Excel. 
-url: /el/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: PPTXをRTFに変換するC++API
 description: C++アプリケーション内でPPTXをRTFにエクスポートする
-url: /ja/cpp/conversion/pptx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

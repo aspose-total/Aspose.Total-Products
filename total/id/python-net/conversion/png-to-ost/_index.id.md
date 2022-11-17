@@ -1,7 +1,7 @@
 ---
 title: Konversi PNG ke OST dengan Python
 description: Simpan PNG ke OST dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/png-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

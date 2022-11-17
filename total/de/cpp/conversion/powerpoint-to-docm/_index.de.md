@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von POWERPOINT in DOCM
 description: Exportieren Sie POWERPOINT in DOCM innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/powerpoint-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

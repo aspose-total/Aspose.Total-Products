@@ -1,7 +1,7 @@
 ---
 title: Převést JPEG na MSG v Pythonu
 description: Ukládejte JPEG do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/jpeg-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

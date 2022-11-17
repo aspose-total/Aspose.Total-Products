@@ -1,6 +1,6 @@
 ---
 title: Konversi Dokumen melalui Python 
-url: /id/python-net/conversion/
+
 description: Konversi Format Microsoft Word DOC, DOCX ke PDF, Gambar, dan lainnya serta Slide Presentasi, Pesan Email, dan Gambar 3D hanya beberapa baris kode Python.
 ---
 

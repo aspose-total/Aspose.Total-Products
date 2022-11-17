@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS a WORD en Python
 description: Guarde ICS en WORD en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/ics-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

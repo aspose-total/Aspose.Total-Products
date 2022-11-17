@@ -1,7 +1,7 @@
 ---
 title: Converter EMLX para PCL em Python
 description: Salve EMLX para PCL em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/emlx-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

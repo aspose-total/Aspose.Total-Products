@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot DOTM-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot DOTM-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

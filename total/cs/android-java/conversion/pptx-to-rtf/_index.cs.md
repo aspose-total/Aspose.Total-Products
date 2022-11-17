@@ -1,7 +1,7 @@
 ---
 title: Export PPTX do RTF na Andorid přes Java
 description: Převeďte PPTX na RTF v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/pptx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

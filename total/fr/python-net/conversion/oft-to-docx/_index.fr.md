@@ -1,7 +1,7 @@
 ---
 title: Convertir OFT en DOCX en Python
 description: Enregistrez OFT au format DOCX dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/oft-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

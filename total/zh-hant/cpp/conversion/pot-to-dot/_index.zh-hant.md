@@ -1,7 +1,7 @@
 ---
 title: 將 POT 轉換為 DOT 的 C++ API
 description: 在 C++ 應用程序中將 POT 導出為 DOT
-url: /zh-hant/cpp/conversion/pot-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

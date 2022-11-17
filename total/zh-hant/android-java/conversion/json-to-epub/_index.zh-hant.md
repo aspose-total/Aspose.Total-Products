@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 在 Android 中將 JSON 格式轉換為 EPUB
 description: 在不使用 Microsoft Word 的情況下在 Java 中將 JSON 解析為 EPUB
-url: /zh-hant/android-java/conversion/json-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: FLATOPC PCL CHM DOCM RTF OTT DOC MOBI WORDML ODT DOT WORD DOTX PS
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-doc.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: FLATOPC PCL CHM DOCM RTF OTT DOC MOBI WORDML ODT DOT WORD DOTX PS
 此外，API 允許您在使用 [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions) 將 JSON 解析為 EPUB 時為 JSON 格式設置佈局選項。它允許您將 Array 處理為表格、忽略空值、忽略數組標題、忽略對象標題、將字符串轉換為數字或日期、設置日期和數字格式以及設置標題樣式。所有這些選項都允許您根據需要呈現數據。以下代碼片段向您展示瞭如何設置佈局選項。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "set-layout-and-parse-json-to-doc.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: FLATOPC PCL CHM DOCM RTF OTT DOC MOBI WORDML ODT DOT WORD DOTX PS
 使用 API，您還可以將 JSON 轉換為帶水印的 EPUB。為了在您的 EPUB 文檔中添加水印，您可以首先將 JSON 文件解析為 PDF 並為其添加水印。為了添加水印，使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類加載新創建的 PDF 文件，創建 TextWatermarkOptions 的實例並設置它的屬性，調用 Watermark.setText 方法並傳遞水印文本和 TextWatermarkOptions 的對象。添加水印後，您可以將文檔保存到 EPUB。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+{{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-word-with-watermark.cs" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPNGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをPNGにエクスポートする
-url: /ja/android-java/conversion/eml-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

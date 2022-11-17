@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 DOCX 转换为 EMLX
 description: 在 Python 应用程序中将 DOCX 保存为 EMLX，而无需使用 Microsoft Word 或 Outlook
-url: /zh/python-net/conversion/docx-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で PDF を MBOX に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で PDF を MBOX に保存します。
-url: /ja/python-net/conversion/pdf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

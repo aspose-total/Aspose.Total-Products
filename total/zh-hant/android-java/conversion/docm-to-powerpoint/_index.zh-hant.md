@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中通過 Java 將 DOCM 轉換為 POWERPOINT
 description: 在您的 Android 手機中將 DOCM 轉換為 POWERPOINT，而無需使用 Microsoft Word 的 PowerPoint
-url: /zh-hant/android-java/conversion/docm-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POTX PPS PPTM PPSM ODP PPSX POTM PPTX POT PPT CSV DIF FODS ODS SXC
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POTX PPS PPTM PPSM ODP PPSX POTM PPTX POT PPT CSV DIF FODS ODS SXC
 您還可以在 Android 應用程序中將受密碼保護的 DOCM 轉換為 POWERPOINT。如果您輸入的 DOCM 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 POWERPOINT 格式。為了打開加密文檔，您可以在 LoadOptions 對像中設置正確的密碼並將其傳遞給 Document 構造函數。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

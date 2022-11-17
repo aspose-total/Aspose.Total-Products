@@ -1,7 +1,7 @@
 ---
 title: Преобразование OTT в PPS через C++
 description: Экспортируйте OTT в PPS в свои приложения C++ без использования Microsoft Word of PowerPoint.
-url: /ru/cpp/conversion/ott-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX POT PPTM PPSX PPTX PPSM PPT ODP POTM POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="C++ API для преобразования OTT в PPS" h2="Экспортируйте OTT в PPS в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование OTT в PPS при использовании двух API-интерфейсов. Загрузите свой OTT с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPS. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование OTT в PPS при использовании двух API-интерфейсов. Загрузите свой OTT с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);
 auto options = MakeObject<LoadOptions>(u"ottPassword");
 // load the ottument from the local file system by filename:
 SharedPtr<Ottument> ott = MakeObject<Ottument>(u"Encrypted.ott", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pps
 pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

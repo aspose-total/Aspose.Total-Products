@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir PPT en FLATOPC
 description: Exportez PPT vers FLATOPC dans vos applications C++
-url: /fr/cpp/conversion/ppt-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

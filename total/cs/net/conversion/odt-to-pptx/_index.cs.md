@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na PPTX přes C# .NET 
-url: /cs/net/conversion/odt-to-pptx/ 
+
 description: Převeďte dokumenty Word odt na soubory PowerPoint pptx pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

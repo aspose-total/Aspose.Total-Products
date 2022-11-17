@@ -1,7 +1,7 @@
 ---
 title: تصدير PPSM إلى DOT على Andorid عبر Java
 description: قم بتحويل PPSM إلى DOT في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/ppsm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

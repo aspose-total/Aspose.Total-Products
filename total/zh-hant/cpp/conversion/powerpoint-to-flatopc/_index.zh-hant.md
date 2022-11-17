@@ -1,7 +1,7 @@
 ---
 title: 將 POWERPOINT 轉換為 FLATOPC 的 C++ API
 description: 在 C++ 應用程序中將 POWERPOINT 導出為 FLATOPC
-url: /zh-hant/cpp/conversion/powerpoint-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

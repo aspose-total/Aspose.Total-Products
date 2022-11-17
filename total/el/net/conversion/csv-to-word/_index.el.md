@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή CSV σε WORD με .NET 
 description: Μετατροπή CSV σε WORD σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/csv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

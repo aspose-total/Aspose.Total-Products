@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t OST-be Pythonban
 description: WORDML mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t RTF-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t RTF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMLX do EMF w aplikacji Andorid
 description: Eksportuj EMLX do EMF bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/emlx-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

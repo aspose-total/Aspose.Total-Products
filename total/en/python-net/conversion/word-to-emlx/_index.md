@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to EMLX in Python
 description: Save WORD to EMLX within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/word-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

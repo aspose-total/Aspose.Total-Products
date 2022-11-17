@@ -1,7 +1,7 @@
 ---
 title: PPSXをWORDMLに変換するC++API
 description: C++アプリケーション内でPPSXをWORDMLにエクスポートする
-url: /ja/cpp/conversion/ppsx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

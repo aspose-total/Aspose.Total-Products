@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLTM pomocí Javy
 description: Upravte dokument XLTM v aplikacích Java bez použití aplikace Microsoft Excel. Optimalizujte kód pro nejrychlejší způsob zápisu a úpravy excelového souboru v Javě.
-url: /cs/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

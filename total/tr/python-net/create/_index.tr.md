@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak Dosya Oluştur 
-url: /tr/python-net/create/
+
 description: Microsoft Office'i yüklemeden metin ve Microsoft Word belgeleri oluşturun 
 ---
 

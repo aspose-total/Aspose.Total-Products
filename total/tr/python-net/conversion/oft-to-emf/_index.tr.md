@@ -1,7 +1,7 @@
 ---
 title: Python'da OFT'yi EMF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OFT'yi EMF'e kaydedin 
-url: /tr/python-net/conversion/oft-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

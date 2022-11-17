@@ -1,7 +1,7 @@
 ---
 title: Tạo XLTM bằng Python
 description: Tạo tệp XLTM bằng các ứng dụng Python mà không cần sử dụng Microsoft Office. 
-url: /vi/python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी को जीआईएफ में बदलें
 description: माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना आपके पायथन अनुप्रयोगों में बीएमपी से जीआईएफ रूपांतरण 
-url: /hi/python-net/conversion/ppt-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

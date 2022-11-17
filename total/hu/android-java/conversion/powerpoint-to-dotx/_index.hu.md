@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot DOTX-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot DOTX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

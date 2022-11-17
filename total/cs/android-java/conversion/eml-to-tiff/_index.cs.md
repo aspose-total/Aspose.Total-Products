@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do TIFF v aplikaci Andorid
 description: Exportujte EML do TIFF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

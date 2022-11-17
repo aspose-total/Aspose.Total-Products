@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera PPT till DOTX
 description: Exportera PPT till DOTX i dina C++-applikationer
-url: /sv/cpp/conversion/ppt-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

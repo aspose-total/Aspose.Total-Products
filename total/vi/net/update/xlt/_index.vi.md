@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLT bằng .NET
 description: Sửa đổi tài liệu XLT trong ứng dụng C # VB.NET mà không cần sử dụng Microsoft Excel. 
-url: /vi/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

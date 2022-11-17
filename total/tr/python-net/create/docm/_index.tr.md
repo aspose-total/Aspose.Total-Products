@@ -1,7 +1,7 @@
 ---
 title: Python'da DOCM oluşturun
 description: Microsoft Word kullanmadan Python uygulamalarını kullanarak DOCM dosyası oluşturun. 
-url: /tr/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t VCF-be Pythonban
 description: DOCX mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docx-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

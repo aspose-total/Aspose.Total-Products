@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POT'u DOC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POT'u DOC'ye dönüştürün
-url: /tr/android-java/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

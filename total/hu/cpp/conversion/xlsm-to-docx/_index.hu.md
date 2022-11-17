@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSM-t DOCX-ba a C++ segítségével
 description: A XLSM konvertálása DOCX formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

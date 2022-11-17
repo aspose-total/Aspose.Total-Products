@@ -1,7 +1,7 @@
 ---
 title: Преобразование TXT в PPT в Python
 description: Преобразование TXT в PPT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/txt-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir MBOX a PCL en Python
 description: Guarde MBOX en PCL en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/mbox-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

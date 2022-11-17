@@ -1,7 +1,7 @@
 ---
 title: C++ API a POTM RTF formátumba konvertálásához
 description: Exportálja a POTM-ot RTF-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

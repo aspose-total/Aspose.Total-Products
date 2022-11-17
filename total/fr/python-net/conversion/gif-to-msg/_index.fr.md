@@ -1,7 +1,7 @@
 ---
 title: Convertir MSG en MSG en Python
 description: Enregistrez MSG au format MSG dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/gif-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie das JSON-Format über C++ in DOT
 description: C++ API t0 Parsen von JSON in DOT ohne Verwendung von Microsoft Word
-url: /de/cpp/conversion/json-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 Beim Analysieren von JSON in DOT können Sie auch die Größe von Zeilen und Spalten festlegen, indem Sie JSON mit der Klasse [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) laden. Wenn Sie dieselbe Zeilenhöhe für alle Zeilen im Arbeitsblatt festlegen müssen, können Sie dies tun, indem Sie [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f )-Methode der Sammlung [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Um dieselbe Spaltenbreite für alle Spalten im Arbeitsblatt festzulegen, verwenden Sie die Methode [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) der ICells-Sammlung.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ Mit der API können Sie auch JSON zu DOT mit Wasserzeichen parsen. Um Ihrem DOT-
 Rufen Sie die SetText-Methode auf und übergeben Sie den Wasserzeichentext und das Objekt von TextWatermarkOptions. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument in DOT speichern.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

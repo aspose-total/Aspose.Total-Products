@@ -1,7 +1,7 @@
 ---
 title: .NET を使用して XLS ファイルを更新する
 description: Microsoft Excel を使用せずに、C# VB.NET アプリケーションで XLS ドキュメントを変更します。 
-url: /ja/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

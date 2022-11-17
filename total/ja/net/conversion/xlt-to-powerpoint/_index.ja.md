@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTをPOWERPOINTに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTをPOWERPOINTに変換する
-url: /ja/net/conversion/xlt-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

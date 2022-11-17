@@ -1,6 +1,6 @@
 ---
 title: แปลง TXT เป็น PPTM ผ่าน C# .NET 
-url: /th/net/conversion/txt-to-pptm/ 
+
 description: แปลงเอกสาร Word txt เป็นไฟล์ PowerPoint pptm ด้วย C# แปลงไฟล์หลายไฟล์ภายใน ASP.NET หรือแอปพลิเคชัน .NET อื่นๆ
 ---
 

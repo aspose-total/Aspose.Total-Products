@@ -1,7 +1,7 @@
 ---
 title: แปลง MSG เป็น DOTM ใน Python
 description: บันทึก MSG เป็น DOTM ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Outlook หรือ Word 
-url: /th/python-net/conversion/msg-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

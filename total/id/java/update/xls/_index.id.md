@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLS Menggunakan Java
 description: Memodifikasi dokumen XLS di aplikasi Java tanpa menggunakan Microsoft Excel. Optimalkan kode untuk cara tercepat menulis dan mengedit file excel di java.
-url: /id/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

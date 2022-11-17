@@ -1,6 +1,6 @@
 ---
 title: Conversion de feuilles de calcul Microsoft Excel et de formats Visio via Python 
-url: /fr/python-java/conversion/
+
 description: Convertir des fichiers Excel XLS XLSX XLSM XLSB XLTX XLTM CSV et plus ainsi que les formats Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM etc juste quelques lignes de code Python.
 ---
 

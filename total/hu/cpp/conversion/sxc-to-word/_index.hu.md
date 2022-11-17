@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a SXC-t WORD-ba a C++ segítségével
 description: A SXC konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/sxc-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

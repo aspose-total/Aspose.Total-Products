@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してWORDMLをPOTに変換する 
-url: /ja/net/conversion/wordml-to-pot/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointpotファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

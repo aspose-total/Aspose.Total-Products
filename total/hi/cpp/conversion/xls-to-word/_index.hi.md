@@ -1,7 +1,7 @@
 ---
 title: C++ के साथ XLS को WORD में बदलें
 description: C++ अनुप्रयोगों के भीतर XLS को WORD में बदलें
-url: /hi/cpp/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

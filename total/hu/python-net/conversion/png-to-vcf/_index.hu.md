@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t VCF-be Pythonban
 description: PNG mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

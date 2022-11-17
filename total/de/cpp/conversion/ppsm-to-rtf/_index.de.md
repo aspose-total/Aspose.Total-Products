@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von PPSM in RTF
 description: Exportieren Sie PPSM in RTF innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/ppsm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

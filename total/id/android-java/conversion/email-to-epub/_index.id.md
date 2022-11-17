@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL ke EPUB di Aplikasi Andorid
 description: Ekspor EMAIL ke EPUB tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/email-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

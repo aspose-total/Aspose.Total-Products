@@ -1,7 +1,7 @@
 ---
 title: Render MSG naar JPEG in de Andorid-app
 description: Exporteer MSG naar JPEG zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/msg-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

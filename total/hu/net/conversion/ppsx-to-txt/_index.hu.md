@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPSX-t TXT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppsx-to-txt/ 
+
 description: Konvertálja a PowerPoint ppsx dokumentumokat Word txt fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

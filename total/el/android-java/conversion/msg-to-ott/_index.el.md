@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε OTT στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε OTT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

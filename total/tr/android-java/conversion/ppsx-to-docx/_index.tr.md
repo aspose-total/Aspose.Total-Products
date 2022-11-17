@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPSX'u DOCX'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSX'u DOCX'ye dönüştürün
-url: /tr/android-java/conversion/ppsx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

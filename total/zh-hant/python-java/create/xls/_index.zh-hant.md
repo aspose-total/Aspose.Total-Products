@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中創建 XLS
 description: 在不使用 Microsoft Office 的情況下使用 Python 應用程序生成 XLS 文件。 
-url: /zh-hant/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

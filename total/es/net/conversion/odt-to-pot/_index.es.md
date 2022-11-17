@@ -1,6 +1,6 @@
 ---
 title: Convierta ODT a POT a través de C# .NET 
-url: /es/net/conversion/odt-to-pot/ 
+
 description: Convierta documentos de Word odt en archivos pot de PowerPoint con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
 ---
 

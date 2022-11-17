@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 PPTM 导出到 Andorid 上的 WORDML
 description: 在移动应用程序中将 PPTM 转换为 WORDML，无需安装任何软件
-url: /zh/android-java/conversion/pptm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

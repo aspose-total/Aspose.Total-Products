@@ -1,6 +1,6 @@
 ---
 title: 通过 Android API 进行文档转换 
-url: /zh/android-java/conversion/
+
 description: 使用 Android 转换 API 转换 Word、Excel、PowerPoint、HTML、PDF 和图像格式。 Android 将 Office docx、xlsx、pptx 转换为 PDF。 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS TEXT formátumba konvertálásához
 description: Exportálja a PPS-ot TEXT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

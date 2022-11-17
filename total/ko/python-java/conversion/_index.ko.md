@@ -1,6 +1,6 @@
 ---
 title: Python을 통한 Microsoft Excel 스프레드시트 및 Visio 형식 변환 
-url: /ko/python-java/conversion/
+
 description: Excel 파일 변환 XLS XLSX XLSM XLSB XLTX XLTM CSV 및 Visio 형식 VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM 등 몇 줄의 Python 코드.
 ---
 

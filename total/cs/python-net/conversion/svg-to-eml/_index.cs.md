@@ -1,7 +1,7 @@
 ---
 title: Převést SVG na EML v Pythonu
 description: Ukládejte SVG do EML v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/svg-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

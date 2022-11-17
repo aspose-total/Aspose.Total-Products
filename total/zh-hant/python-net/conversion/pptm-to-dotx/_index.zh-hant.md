@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 PPTM 轉換為 DOTX
 description: 在 Python 應用程序中將 PPTM 轉換為 DOTX，而無需使用 Microsoft Word 或 PowerPoint 
-url: /zh-hant/python-net/conversion/pptm-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

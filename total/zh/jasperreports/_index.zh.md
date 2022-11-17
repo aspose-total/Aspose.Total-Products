@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - 生成业务文档格式的报告
 weight: 80
-url: /zh/jasperreports/ 
+
 description: JasperReports 导出套件可将报告导出为 Word Excel PDF 和 PowerPoint 格式。将条形码添加到导出的报告
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EXCEL-t DOC-ba a C++ segítségével
 description: A EXCEL konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/excel-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

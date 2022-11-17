@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLTX Menggunakan Java
 description: Memodifikasi dokumen XLTX di aplikasi Java tanpa menggunakan Microsoft Excel. Optimalkan kode untuk cara tercepat menulis dan mengedit file excel di java.
-url: /id/java/update/xltx/
+
 family: total
 platformtag: Java
 feature: update

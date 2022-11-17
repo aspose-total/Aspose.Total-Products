@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε ODT στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε ODT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir RTF en OST en Python
 description: Enregistrez RTF au format OST dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/rtf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

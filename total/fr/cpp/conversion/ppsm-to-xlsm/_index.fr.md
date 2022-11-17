@@ -1,7 +1,7 @@
 ---
 title: Convertir PPSM en XLSM via C++
 description: Exporter PPSM vers XLSM en C++ sans utiliser Microsoft Excel ou Powerpoint
-url: /fr/cpp/conversion/ppsm-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 À l'aide de l'API, vous pouvez également ouvrir le document protégé par mot de passe. Si votre document PPSM d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir en XLSM sans utiliser le mot de passe. Lorsque votre document est protégé par un mot de passe, cela signifie qu'il applique certaines restrictions sur la présentation. Pour supprimer les restrictions, le mot de passe doit être saisi. Une présentation protégée par un mot de passe est considérée comme une présentation verrouillée. L'API vous permet d'ouvrir le document chiffré en passant le mot de passe correct dans un objet LoadOptions. L'exemple de code suivant montre comment ouvrir un document chiffré avec un mot de passe.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

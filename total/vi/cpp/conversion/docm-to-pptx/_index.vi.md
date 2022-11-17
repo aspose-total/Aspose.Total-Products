@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOCM sang PPTX qua C++
 description: Xuất DOCM sang PPTX trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint
-url: /vi/cpp/conversion/docm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSM ODP POTX POWERPOINT POT PPS PPTM PPSX PPT POTM
 {{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCM sang PPTX" h2="Xuất DOCM sang PPTX trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCM sang PPTX trong khi sử dụng hai trong số các API của nó. Tải DOCM của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng PPTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCM sang PPTX trong khi sử dụng hai trong số các API của nó. Tải DOCM của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pptx
 pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Ngoài tính năng chuyển đổi tài liệu, API [Aspose. AdWords for C++](ht
 auto options = MakeObject<LoadOptions>(u"docmPassword");
 // load the docmument from the local file system by filename:
 SharedPtr<Document> docm = MakeObject<Document>(u"Encrypted.docm", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pptx
 pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

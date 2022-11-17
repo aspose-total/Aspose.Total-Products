@@ -1,6 +1,6 @@
 ---
 title: TXT'yi C# .NET aracılığıyla PPT'ye dönüştürün 
-url: /tr/net/conversion/txt-to-ppt/ 
+
 description: C# ile Word txt belgelerini PowerPoint ppt dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

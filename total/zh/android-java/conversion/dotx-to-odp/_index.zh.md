@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中通过 Java 将 DOTX 转换为 ODP
 description: 在您的 Android 手机中将 DOTX 转换为 ODP，而无需使用 Microsoft Word 的 PowerPoint
-url: /zh/android-java/conversion/dotx-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPSX POTX PPS POTM PPTM PPSM PPT POWERPOINT PPTX POT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotx-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPSX POTX PPS POTM PPTM PPSM PPT POWERPOINT PPTX POT
 您还可以在 Android 应用程序中将受密码保护的 DOTX 转换为 ODP。如果您输入的 DOTX 文档受密码保护，则您无法在不使用密码的情况下将其转换为 ODP 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Dotxument 构造函数。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotx-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

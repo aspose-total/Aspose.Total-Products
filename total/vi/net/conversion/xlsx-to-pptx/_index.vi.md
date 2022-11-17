@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLSX sang PPTX với .NET 
 description: Chuyển đổi XLSX sang PPTX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/xlsx-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

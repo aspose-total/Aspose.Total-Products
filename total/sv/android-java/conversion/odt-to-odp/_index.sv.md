@@ -1,7 +1,7 @@
 ---
 title: Konvertera ODT till ODP i Android via Java
 description: ODT till ODP-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint
-url: /sv/android-java/conversion/odt-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 Du kan också konvertera din lösenordsskyddade ODT till ODP i dina Android-applikationer. Om ditt inmatade ODT-dokument är lösenordsskyddat kan du inte konvertera det till ODP-format utan att använda lösenordet. För att öppna ett krypterat dokument kan du ställa in rätt lösenord i LoadOptions-objektet och skicka det till dokumentkonstruktorn.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-odt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

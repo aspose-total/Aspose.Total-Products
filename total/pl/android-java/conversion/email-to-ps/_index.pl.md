@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMAIL do PS w aplikacji Andorid
 description: Eksportuj EMAIL do PS bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/email-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: PPSXをFLATOPCに変換するC++API
 description: C++アプリケーション内でPPSXをFLATOPCにエクスポートする
-url: /ja/cpp/conversion/ppsx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

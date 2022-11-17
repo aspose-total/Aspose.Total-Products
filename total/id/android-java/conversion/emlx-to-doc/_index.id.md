@@ -1,7 +1,7 @@
 ---
 title: Render EMLX ke DOC di Aplikasi Andorid
 description: Ekspor EMLX ke DOC tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/emlx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

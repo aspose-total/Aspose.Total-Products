@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t RTF-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t RTF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

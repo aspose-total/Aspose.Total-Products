@@ -1,6 +1,6 @@
 ---
 title: Conversie van bestandsindelingen via Java 
-url: /nl/java/conversion/
+
 description: Converteer Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D-afbeeldingen, diagrammen, videoformaten en verschillende andere formaten met slechts enkele regels Java-code.
 ---
 

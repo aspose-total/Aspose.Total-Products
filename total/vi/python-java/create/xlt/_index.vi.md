@@ -1,7 +1,7 @@
 ---
 title: Tạo XLT bằng Python
 description: Tạo tệp XLT bằng các ứng dụng Python mà không cần sử dụng Microsoft Office. 
-url: /vi/python-java/create/xlt/
+
 family: total
 platformtag: Python
 feature: create

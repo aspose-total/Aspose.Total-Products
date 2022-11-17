@@ -1,7 +1,7 @@
 ---
 title: Konwertuj FODS na WORD za pomocą C++
 description: Konwertuj FODS na WORD w aplikacjach C++
-url: /pl/cpp/conversion/fods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでFLATOPCをODPに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでFLATOPCからODPに変換
-url: /ja/android-java/conversion/flatopc-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ FLATOPCからODPファイルへの変換では、[Maven](https://repository.aspo
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ FLATOPCからODPファイルへの変換では、[Maven](https://repository.aspo
 Androidアプリケーション内でパスワードで保護されたFLATOPCをODPに変換することもできます。入力FLATOPCドキュメントがパスワードで保護されている場合、パスワードを使用せずにODP形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをFlatopcumentコンストラクターに渡すことができます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-flatopc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

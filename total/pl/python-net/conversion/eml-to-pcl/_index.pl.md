@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EML na PCL w Pythonie
 description: Zapisz EML w formacie PCL w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/eml-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: AndroidのDOCXにXLTをエクスポートする
 description: MicrosoftWordを使用せずにXLTをDOCXに変換するAndroidAPI
-url: /ja/android-java/conversion/xlt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

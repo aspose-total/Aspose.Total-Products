@@ -1,7 +1,7 @@
 ---
 title: Converter VCF para DOCM em Python
 description: Salve VCF para DOCM em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/vcf-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

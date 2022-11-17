@@ -1,7 +1,7 @@
 ---
 title: Převést JPEG na EMAIL v Pythonu
 description: Ukládejte JPEG do EMAIL v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/jpeg-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

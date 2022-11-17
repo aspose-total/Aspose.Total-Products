@@ -1,7 +1,7 @@
 ---
 title: API C++ để chuyển đổi PPTM sang ODT
 description: Xuất PPTM sang ODT trong các ứng dụng C++ của bạn
-url: /vi/cpp/conversion/pptm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

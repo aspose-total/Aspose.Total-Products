@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中將 OFT 渲染為 IMAGE
 description: 在您的 Andorid 應用程序中不使用 Microsoft Word 或 Outlook 將 OFT 導出為 IMAGE
-url: /zh-hant/android-java/conversion/oft-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

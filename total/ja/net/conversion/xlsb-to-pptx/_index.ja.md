@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLSBをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLSBをPPTXに変換する
-url: /ja/net/conversion/xlsb-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

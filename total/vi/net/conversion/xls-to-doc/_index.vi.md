@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLS sang DOC với .NET 
 description: Chuyển đổi XLS sang DOC trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/xls-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

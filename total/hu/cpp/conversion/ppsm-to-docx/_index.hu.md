@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSM DOCX formátumba konvertálásához
 description: Exportálja a PPSM-ot DOCX-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

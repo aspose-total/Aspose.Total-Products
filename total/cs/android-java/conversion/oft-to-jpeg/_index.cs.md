@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do JPEG v aplikaci Andorid
 description: Exportujte OFT do JPEG bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

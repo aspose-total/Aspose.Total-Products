@@ -1,7 +1,7 @@
 ---
 title: تحويل ODT إلى MHTML في Python
 description: ODT إلى تنسيق أرشيف الويب mhtml وتحويل الملفات الثابتة في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/odt-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

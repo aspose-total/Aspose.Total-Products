@@ -1,7 +1,7 @@
 ---
 title: Převést TIFF na MSG v Pythonu
 description: Ukládejte TIFF do MSG v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/tiff-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

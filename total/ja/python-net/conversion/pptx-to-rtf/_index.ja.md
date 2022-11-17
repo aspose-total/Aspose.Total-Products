@@ -1,7 +1,7 @@
 ---
 title: Python で PPTX を RTF に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPTX から RTF への変換 
-url: /ja/python-net/conversion/pptx-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

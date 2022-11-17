@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t PDF-be Pythonban
 description: Mentse a MBOX-t PDF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

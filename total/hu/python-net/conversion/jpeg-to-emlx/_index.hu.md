@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JPEG-t EMLX-be Pythonban
 description: JPEG mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/jpeg-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

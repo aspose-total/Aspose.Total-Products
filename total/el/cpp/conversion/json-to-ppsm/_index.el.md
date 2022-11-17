@@ -1,7 +1,7 @@
 ---
 title: Μετατρέψτε τη μορφή JSON σε PPSM μέσω C++
 description: Ανάλυση JSON σε PPSM σε C++ χωρίς χρήση του Microsoft PowerPoint
-url: /el/cpp/conversion/json-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: POT PPS PPTM OTP POTX PPT PPSX POWERPOINT POTM ODP
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: POT PPS PPTM OTP POTX PPT PPSX POWERPOINT POTM ODP
 Κατά την ανάλυση του JSON σε PPSM, μπορείτε επίσης να ορίσετε το μέγεθος των σειρών και των στηλών φορτώνοντας το JSON με την κλάση [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Εάν χρειάζεται να ορίσετε το ίδιο ύψος σειράς για όλες τις σειρές στο φύλλο εργασίας, μπορείτε να το κάνετε χρησιμοποιώντας το [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b3f1461e ) μέθοδο της συλλογής [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Ομοίως, για να ορίσετε το ίδιο πλάτος στήλης για όλες τις στήλες στο φύλλο εργασίας, χρησιμοποιήστε τη μέθοδο [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e64b8502) της συλλογής ICElls.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: POT PPS PPTM OTP POTX PPT PPSX POWERPOINT POTM ODP
 Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε JSON σε PPSM με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας PPSM, μπορείτε πρώτα να αναλύσετε το JSON σε PPTX και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο PPTX χρησιμοποιώντας την κλάση [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation), λάβετε την πρώτη διαφάνεια, Προσθέστε μια AutoShape τύπου Rectangle, προσθέστε TextFrame στο Rectangle, δημιουργήστε το αντικείμενο Paragraph για ένα πλαίσιο κειμένου, δημιουργήστε αντικείμενο τμήμα για την παράγραφο, προσθέστε υδατογράφημα χρησιμοποιώντας set_Text() και μπορείτε να αποθηκεύσετε το έγγραφο στο PPSM.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

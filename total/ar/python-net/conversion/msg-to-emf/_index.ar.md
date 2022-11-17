@@ -1,7 +1,7 @@
 ---
 title: تحويل MSG إلى EMF في Python
 description: احفظ MSG في EMF في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/msg-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

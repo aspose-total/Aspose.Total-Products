@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EML σε WORD στην Python
 description: Αποθηκεύστε το EML σε WORD στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/eml-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

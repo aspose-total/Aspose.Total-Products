@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в OTT в приложении Andorid
 description: Экспорт MSG в OTT без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

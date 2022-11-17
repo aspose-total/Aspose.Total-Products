@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JPEG-t PST-be Pythonban
 description: JPEG mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/jpeg-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

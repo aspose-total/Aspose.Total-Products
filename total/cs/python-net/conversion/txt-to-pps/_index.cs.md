@@ -1,7 +1,7 @@
 ---
 title: Převést TXT na PPS v Pythonu
 description: Převod TXT na PPS ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/txt-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

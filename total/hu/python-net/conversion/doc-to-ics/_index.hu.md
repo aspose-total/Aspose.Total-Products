@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t ICS-be Pythonban
 description: DOC mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/doc-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

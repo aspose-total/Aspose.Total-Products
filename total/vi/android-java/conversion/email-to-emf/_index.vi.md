@@ -1,7 +1,7 @@
 ---
 title: Kết xuất EMAIL thành EMF trong ứng dụng Andorid
 description: Xuất EMAIL sang EMF mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

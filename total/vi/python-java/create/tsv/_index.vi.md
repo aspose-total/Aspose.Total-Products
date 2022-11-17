@@ -1,7 +1,7 @@
 ---
 title: Tạo TSV bằng Python
 description: Tạo tệp TSV bằng các ứng dụng Python mà không cần sử dụng Microsoft Office. 
-url: /vi/python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

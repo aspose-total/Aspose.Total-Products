@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t TEXT-be Pythonban
 description: Mentse a EMAIL-t TEXT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

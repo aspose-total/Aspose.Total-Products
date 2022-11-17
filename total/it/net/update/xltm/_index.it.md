@@ -1,7 +1,7 @@
 ---
 title: Aggiorna il file XLTM utilizzando .NET
 description: Modifica i documenti XLTM nelle applicazioni C# VB.NET senza utilizzare Microsoft Excel. 
-url: /it/net/update/xltm/
+
 family: total
 platformtag: .NET
 feature: update

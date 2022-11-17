@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t MD-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t MD-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

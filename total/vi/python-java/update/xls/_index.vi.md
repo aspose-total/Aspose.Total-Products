@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLS bằng Python
 description: Sửa đổi tài liệu XLS trong các ứng dụng Python mà không cần sử dụng Microsoft Excel. 
-url: /vi/python-java/update/xls/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t MBOX-be Pythonban
 description: TIFF mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

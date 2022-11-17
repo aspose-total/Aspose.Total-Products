@@ -1,7 +1,7 @@
 ---
 title: Renderize EMAIL para DOC no aplicativo Andorid
 description: Exporte EMAIL para DOC sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/email-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

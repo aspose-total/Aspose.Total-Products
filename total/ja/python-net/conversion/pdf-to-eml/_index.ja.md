@@ -1,7 +1,7 @@
 ---
 title: Python で PDF を EML に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で PDF を EML に保存します。
-url: /ja/python-net/conversion/pdf-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

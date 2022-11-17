@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをWORDMLにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをWORDMLにエクスポートする
-url: /ja/android-java/conversion/msg-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

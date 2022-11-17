@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POWERPOINT'u FLATOPC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POWERPOINT'u FLATOPC'ye dönüştürün
-url: /tr/android-java/conversion/powerpoint-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

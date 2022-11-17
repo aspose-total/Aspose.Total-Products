@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε SVG στην εφαρμογή Andorid
 description: Εξαγωγή EML σε SVG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

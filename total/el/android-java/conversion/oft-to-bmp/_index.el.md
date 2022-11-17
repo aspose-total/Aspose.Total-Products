@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε BMP στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε BMP χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t PS-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t PS-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

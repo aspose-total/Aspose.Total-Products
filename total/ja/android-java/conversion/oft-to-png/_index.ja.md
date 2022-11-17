@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPNGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをPNGにエクスポートする
-url: /ja/android-java/conversion/oft-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API a POTM DOTM formátumba konvertálásához
 description: Exportálja a POTM-ot DOTM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/potm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Xuất PPT sang WORD trên Andorid qua Java
 description: Chuyển đổi PPT sang WORD trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào
-url: /vi/android-java/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

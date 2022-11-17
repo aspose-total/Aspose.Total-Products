@@ -1,7 +1,7 @@
 ---
 title: Převést EPUB na EMAIL v Pythonu
 description: Ukládejte EPUB do EMAIL v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/epub-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

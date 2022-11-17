@@ -1,7 +1,7 @@
 ---
 title: Konversi OST ke DOCX dengan Python
 description: Simpan OST ke DOCX di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/ost-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSB Menggunakan .NET
 description: Memodifikasi dokumen XLSB di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

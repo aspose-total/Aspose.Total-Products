@@ -1,7 +1,7 @@
 ---
 title: Skicka MSG till FLATOPC i Andorid-appen
 description: Exportera MSG till FLATOPC utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/msg-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

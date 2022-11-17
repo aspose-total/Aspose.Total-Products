@@ -1,7 +1,7 @@
 ---
 title: Python'da DOCX'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOCX'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/docx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

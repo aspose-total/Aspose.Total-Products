@@ -1,7 +1,7 @@
 ---
 title: Python'da MSG'yi PCL'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda MSG'yi PCL'e kaydedin 
-url: /tr/python-net/conversion/msg-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

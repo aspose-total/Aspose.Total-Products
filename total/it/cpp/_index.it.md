@@ -1,7 +1,7 @@
 ---
 title: API di elaborazione del formato file C++ - Aspose 
 weight: 70
-url: /it/cpp/ 
+
 description: Le librerie C++ lettura, scrittura, rendering e conversione di più formati di documenti.
 ---
 

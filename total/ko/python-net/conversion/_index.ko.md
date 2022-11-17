@@ -1,6 +1,6 @@
 ---
 title: Python을 통한 문서 변환 
-url: /ko/python-net/conversion/
+
 description: Microsoft Word 형식 DOC, DOCX를 PDF, 이미지 등으로 변환하고 프레젠테이션 슬라이드, 이메일 메시지 및 3D 이미지를 Python 코드 몇 줄로 변환합니다.
 ---
 

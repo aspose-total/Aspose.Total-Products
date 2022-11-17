@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TXT-t ODP-be Pythonban
 description: TXT-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/txt-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

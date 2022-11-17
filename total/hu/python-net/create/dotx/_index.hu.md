@@ -1,7 +1,7 @@
 ---
 title: DOTX létrehozása Pythonban
 description: DOTX-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/dotx/
+
 family: total
 platformtag: Python
 feature: create

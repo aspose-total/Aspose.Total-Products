@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTXをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTXをDOCXに変換する
-url: /ja/net/conversion/xltx-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

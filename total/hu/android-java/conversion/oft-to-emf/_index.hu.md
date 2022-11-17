@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t EMF-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t EMF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer ODS naar WORD met C++
 description: Converteer ODS naar WORD binnen C++-toepassingen
-url: /nl/cpp/conversion/ods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

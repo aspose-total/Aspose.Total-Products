@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do GIF v aplikaci Andorid
 description: Exportujte OFT do GIF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

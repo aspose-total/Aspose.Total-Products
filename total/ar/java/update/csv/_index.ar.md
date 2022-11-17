@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف CSV باستخدام جافا
 description: تعديل مستند CSV في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/csv/
+
 family: total
 platformtag: Java
 feature: update

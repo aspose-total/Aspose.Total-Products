@@ -1,7 +1,7 @@
 ---
 title: Převést DOTX na POT v Pythonu
 description: Převod DOTX na POT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/dotx-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

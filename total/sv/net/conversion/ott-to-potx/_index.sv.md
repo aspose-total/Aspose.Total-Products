@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till POTX via C# .NET 
-url: /sv/net/conversion/ott-to-potx/ 
+
 description: Konvertera Word ott-dokument till PowerPoint potx-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

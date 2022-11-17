@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPSX-t OTT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppsx-to-ott/ 
+
 description: Konvertálja a PowerPoint ppsx dokumentumokat Word ott fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

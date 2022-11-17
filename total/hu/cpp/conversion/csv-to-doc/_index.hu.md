@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a CSV-t DOC-ba a C++ segítségével
 description: A CSV konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/csv-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

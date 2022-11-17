@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t PDF-be Pythonban
 description: Mentse a OST-t PDF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

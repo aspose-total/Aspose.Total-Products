@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLS в изображение с помощью Python
 description: Преобразование XLS в изображение TIFF BMP PNG JPEG GIF EMF SVG в ваших приложениях Python без использования Microsoft Excel 
-url: /ru/python-java/conversion/xls-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में DOTM को MSG रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना MSG को DOTM में निर्यात करें
-url: /hi/android-java/conversion/msg-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

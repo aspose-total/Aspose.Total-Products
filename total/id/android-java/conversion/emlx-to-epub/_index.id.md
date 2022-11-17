@@ -1,7 +1,7 @@
 ---
 title: Render EMLX ke EPUB di Aplikasi Andorid
 description: Ekspor EMLX ke EPUB tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/emlx-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

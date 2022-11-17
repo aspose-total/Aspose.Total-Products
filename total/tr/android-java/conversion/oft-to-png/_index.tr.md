@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to PNG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i PNG'ye aktarın
-url: /tr/android-java/conversion/oft-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

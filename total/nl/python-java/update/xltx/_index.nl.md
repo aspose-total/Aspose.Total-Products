@@ -1,7 +1,7 @@
 ---
 title: XLTX-bestand bijwerken met Python
 description: Wijzig XLTX-document in Python-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/python-java/update/xltx/
+
 family: total
 platformtag: Python
 feature: update

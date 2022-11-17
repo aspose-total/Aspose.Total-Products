@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPDFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをPDFにエクスポートする
-url: /ja/android-java/conversion/oft-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

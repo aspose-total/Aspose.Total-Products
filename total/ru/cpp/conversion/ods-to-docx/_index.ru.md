@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODS в DOCX с помощью C++
 description: Преобразование ODS в DOCX в приложениях C++
-url: /ru/cpp/conversion/ods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

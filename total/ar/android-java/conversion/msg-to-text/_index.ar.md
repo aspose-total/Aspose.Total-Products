@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى TEXT في تطبيق Andorid
 description: قم بتصدير MSG إلى TEXT دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/msg-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

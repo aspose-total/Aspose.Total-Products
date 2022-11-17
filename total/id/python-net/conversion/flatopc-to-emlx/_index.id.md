@@ -1,7 +1,7 @@
 ---
 title: Konversi FLATOPC ke EMLX dengan Python
 description: Simpan FLATOPC ke EMLX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/flatopc-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

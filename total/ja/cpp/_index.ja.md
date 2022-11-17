@@ -1,69 +1,69 @@
 ---
 title: C++ファイル形式処理API-Aspose 
 weight: 70
-url: /ja/cpp/ 
-description: C ++ライブラリは、読み取り、書き込み、レンダリング、および複数のドキュメント形式の変換を行います。
+
+description: C++ライブラリは、読み取り、書き込み、レンダリング、および複数のドキュメント形式の変換を行います。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Officeファイル形式、PDF、バーコード用のC ++ API" h2="Microsoft Project、Excel、Word、PowerPoint、Outlook、PDF形式を操作するためのネイティブC++アプリケーションを開発します。バーコードジェネレーターとリーダーも含まれています！" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Officeファイル形式、PDF、バーコード用のC++ API" h2="Microsoft Project、Excel、Word、PowerPoint、Outlook、PDF形式を操作するためのネイティブC++アプリケーションを開発します。バーコードジェネレーターとリーダーも含まれています！" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for C ++は、OfficeやAdobe Automationを必要とせずに、Microsoft OfficeおよびPDFから一般的な形式を作成、操作、および変換するために特別に設計されたC++ファイル形式自動化ライブラリの完全なパッケージです。 C ++ APIパッケージには、バーコードの生成と認識プロセスをカスタマイズするための高度な機能を備えた画像からバーコードラベルを生成および認識するための専用ライブラリも含まれています。
+Aspose.Total for C++は、OfficeやAdobe Automationを必要とせずに、Microsoft OfficeおよびPDFから一般的な形式を作成、操作、および変換するために特別に設計されたC++ファイル形式自動化ライブラリの完全なパッケージです。 C++ APIパッケージには、バーコードの生成と認識プロセスをカスタマイズするための高度な機能を備えた画像からバーコードラベルを生成および認識するための専用ライブラリも含まれています。
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total for C ++には、次のC++ライブラリが含まれています。" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for C++には、次のC++ライブラリが含まれています。" >}}
 
 {{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 プログラマーがC++アプリケーション内から直接さまざまなドキュメント解析タスクを実行するためのC++クラスライブラリ。 DOC、DOT、DOCX、DOCM、DOTX、DOTM、RTF、FlatOPC、TXT、ODT、およびその他の一般的なワードプロセッシングファイル形式を依存関係なく作成、変換、操作できます。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
-C++アプリケーションがAdobeAcrobatを使用せずにPDFファイルを作成、操作、およびレンダリングできるようにするC++PDFライブラリ。 Aspose.PDF for C ++は、フォームの作成と管理、添付ファイル、注釈、ブックマーク、透かしの操作、およびPNG、JPEG、BMP画像へのページのレンダリングをサポートしています。
+C++アプリケーションがAdobeAcrobatを使用せずにPDFファイルを作成、操作、およびレンダリングできるようにするC++PDFライブラリ。 Aspose.PDF for C++は、フォームの作成と管理、添付ファイル、注釈、ブックマーク、透かしの操作、およびPNG、JPEG、BMP画像へのページのレンダリングをサポートしています。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
-Aspose.Cells for C ++を使用すると、開発者は、Microsoft Excelをインストールしなくても、独自のC++アプリケーション内でExcelファイル形式を操作できます。 Excel C ++ APIは、XLSX、XLS、XLSM、XLSB、CSV、タブ区切りを含むすべての主要なMicrosoft Excelファイル形式をサポートし、すべてのスプレッドシート形式をPDF、XPS、HTML、および画像にエクスポートできます。
+Aspose.Cells for C++を使用すると、開発者は、Microsoft Excelをインストールしなくても、独自のC++アプリケーション内でExcelファイル形式を操作できます。 Excel C++ APIは、XLSX、XLS、XLSM、XLSB、CSV、タブ区切りを含むすべての主要なMicrosoft Excelファイル形式をサポートし、すべてのスプレッドシート形式をPDF、XPS、HTML、および画像にエクスポートできます。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
-Aspose.Email for C ++は、C ++用のMIMEおよび電子メールライブラリであり、C++アプリケーション内からの電子メールファイルおよび電子メールメッセージアーカイブ操作を提供します。 Email C ++ APIは、MSG、EML、EMLX、MHTMLなどの最も一般的なメッセージ形式を作成、操作、変換することができ、PSTおよびOSTアーカイブからメッセージを作成、検査、抽出することができます。
+Aspose.Email for C++は、C++用のMIMEおよび電子メールライブラリであり、C++アプリケーション内からの電子メールファイルおよび電子メールメッセージアーカイブ操作を提供します。 Email C++ APIは、MSG、EML、EMLX、MHTMLなどの最も一般的なメッセージ形式を作成、操作、変換することができ、PSTおよびOSTアーカイブからメッセージを作成、検査、抽出することができます。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
-これは、C ++アプリケーションがPPT、POT、PPTX、PPS、PPSX、POTX、およびOPD形式のプレゼンテーションとスライドを読み取り、書き込み、編集できるようにする、独自のPowerPointプレゼンテーションとスライドの管理および解析APIです。開発者は、Microsoft PowerPointを必要とせずに、プレゼンテーションを作成、変更、変換、およびレンダリングできます。
+これは、C++アプリケーションがPPT、POT、PPTX、PPS、PPSX、POTX、およびOPD形式のプレゼンテーションとスライドを読み取り、書き込み、編集できるようにする、独自のPowerPointプレゼンテーションとスライドの管理および解析APIです。開発者は、Microsoft PowerPointを必要とせずに、プレゼンテーションを作成、変更、変換、およびレンダリングできます。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
-バーコードC++ライブラリは、開発者が独自のC ++アプリケーションにバーコード機能を追加するために、1D、2D、および郵便バーコードの高速生成および認識アルゴリズムを提供します。 C ++用のバーコードライブラリを使用すると、開発者はバーコードラベルをラスター画像形式にエクスポートしたり、画像から回転したバーコードを読み取ったりすることもできます。
+バーコードC++ライブラリは、開発者が独自のC++アプリケーションにバーコード機能を追加するために、1D、2D、および郵便バーコードの高速生成および認識アルゴリズムを提供します。 C++用のバーコードライブラリを使用すると、開発者はバーコードラベルをラスター画像形式にエクスポートしたり、画像から回転したバーコードを読み取ったりすることもできます。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
-Aspose.Tasks for C ++は、MicrosoftProjectファイルの処理および解析ライブラリです。複数の形式を作成、読み取り、操作したり、プロジェクトをさまざまな出力形式にレンダリングしたりできます。さらに、メインおよびデフォルトのプロジェクト設定、拡張属性、タスクの制約を管理し、プロジェクトの平日、カレンダー、およびカレンダーの例外を定義します。
+Aspose.Tasks for C++は、MicrosoftProjectファイルの処理および解析ライブラリです。複数の形式を作成、読み取り、操作したり、プロジェクトをさまざまな出力形式にレンダリングしたりできます。さらに、メインおよびデフォルトのプロジェクト設定、拡張属性、タスクの制約を管理し、プロジェクトの平日、カレンダー、およびカレンダーの例外を定義します。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
-Aspose.OCR for C ++は、さまざまなフォントやスタイルの画像からテキストを抽出するためのネイティブOCRライブラリです。開発者は、OCRソフトウェアを最初から開発するための時間と労力を節約できます。 APIは、BMP、JPG、PNGなどの複数の画像形式をサポートしています。
+Aspose.OCR for C++は、さまざまなフォントやスタイルの画像からテキストを抽出するためのネイティブOCRライブラリです。開発者は、OCRソフトウェアを最初から開発するための時間と労力を節約できます。 APIは、BMP、JPG、PNGなどの複数の画像形式をサポートしています。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
-Aspose.Page for C ++は、スタンドアロンで信頼性の高いPostscriptおよびXPSファイルの処理および解析ライブラリです。 XPS、PS、およびEPS形式を作成、ロード、および操作できます。さらに、APIは、PSおよびEPSファイルをPDFおよびEMF、BMP、GIF、PNG、JPEG、TIFFなどのラスター画像形式に変換します。
+Aspose.Page for C++は、スタンドアロンで信頼性の高いPostscriptおよびXPSファイルの処理および解析ライブラリです。 XPS、PS、およびEPS形式を作成、ロード、および操作できます。さらに、APIは、PSおよびEPSファイルをPDFおよびEMF、BMP、GIF、PNG、JPEG、TIFFなどのラスター画像形式に変換します。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
-Aspose.PUB for C ++は、スタンドアロンで信頼性の高いMicrosoftPublisherファイル処理および解析ライブラリです。開発者は、.pub形式を簡単に読み取って解析できます。さらに、PUBからPDFへの変換はそのコア機能の1つです。
+Aspose.PUB for C++は、スタンドアロンで信頼性の高いMicrosoftPublisherファイル処理および解析ライブラリです。開発者は、.pub形式を簡単に読み取って解析できます。さらに、PUBからPDFへの変換はそのコア機能の1つです。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
-Aspose.Font for C ++は、TrueType、CFF、OpenType、Type1などのさまざまなフォント形式で動作するフォント統合および管理APIです。ストリームだけでなく、ファイルからフォントを簡単にロード、描画、保存できます。
+Aspose.Font for C++は、TrueType、CFF、OpenType、Type1などのさまざまなフォント形式で動作するフォント統合および管理APIです。ストリームだけでなく、ファイルからフォントを簡単にロード、描画、保存できます。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
-Aspose.TeX for C ++は、texファイルを操作するためのtex統合および管理APIです。結果を画像またはPDFとして簡単にロード、タイプセット、保存できます。
+Aspose.TeX for C++は、texファイルを操作するためのtex統合および管理APIです。結果を画像またはPDFとして簡単にロード、タイプセット、保存できます。
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

@@ -1,7 +1,7 @@
 ---
 title: Převeďte ODS na POWERPOINT pomocí .NET 
 description: Převeďte ODS na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/ods-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

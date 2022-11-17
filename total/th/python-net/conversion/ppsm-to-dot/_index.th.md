@@ -1,7 +1,7 @@
 ---
 title: แปลง PPSM เป็น DOT ใน Python
 description: การแปลง PPSM เป็น DOT ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint 
-url: /th/python-net/conversion/ppsm-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter EXCEL para POWERPOINT com .NET 
 description: Converter EXCEL para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin
-url: /pt/net/conversion/excel-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

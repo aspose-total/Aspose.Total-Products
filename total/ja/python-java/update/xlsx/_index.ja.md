@@ -1,7 +1,7 @@
 ---
 title: Python を使用して XLSX ファイルを更新する
 description: Microsoft Excel を使用せずに、Python アプリケーションで XLSX ドキュメントを変更します。 
-url: /ja/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

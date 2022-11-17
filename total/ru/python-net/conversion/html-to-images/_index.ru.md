@@ -1,7 +1,7 @@
 ---
 title: Преобразование HTML в изображения в Python
 description: Преобразование HTML в изображение TIFF BMP PNG JPEG GIF SVG в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

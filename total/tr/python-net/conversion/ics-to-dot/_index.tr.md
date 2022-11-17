@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi DOT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi DOT'e kaydedin 
-url: /tr/python-net/conversion/ics-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

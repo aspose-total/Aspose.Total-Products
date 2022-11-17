@@ -1,7 +1,7 @@
 ---
 title: تحويل PCL إلى EMAIL في Python
 description: احفظ PCL في EMAIL داخل تطبيقات Python دون استخدام Microsoft Word أو Outlook
-url: /ar/python-net/conversion/pcl-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

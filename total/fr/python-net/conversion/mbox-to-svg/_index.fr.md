@@ -1,7 +1,7 @@
 ---
 title: Convertir MBOX en SVG en Python
 description: Enregistrez MBOX au format SVG dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/mbox-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

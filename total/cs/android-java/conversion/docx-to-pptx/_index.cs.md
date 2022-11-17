@@ -1,7 +1,7 @@
 ---
 title: Převést DOCX na PPTX v Androidu přes Java
 description: Převod DOCX na PPTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint
-url: /cs/android-java/conversion/docx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

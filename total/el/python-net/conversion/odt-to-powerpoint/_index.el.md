@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή ODT σε POWERPOINT στην Python
 description: Μετατροπή ODT σε POWERPOINT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/odt-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

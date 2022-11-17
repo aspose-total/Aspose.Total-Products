@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi tài liệu qua Android API 
-url: /vi/android-java/conversion/
+
 description: Chuyển đổi các định dạng Word, Excel, PowerPoint, HTML, PDF và Hình ảnh bằng cách sử dụng API chuyển đổi Android. Android chuyển đổi Office docx, xlsx, pptx sang PDF. 
 ---
 

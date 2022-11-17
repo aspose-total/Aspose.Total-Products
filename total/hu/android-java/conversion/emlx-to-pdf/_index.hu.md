@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t PDF-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t PDF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

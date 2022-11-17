@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 PST 轉換為 PST
 description: 在 Python 應用程序中將 PST 保存為 PST，而無需使用 Microsoft Word 或 Outlook
-url: /zh-hant/python-net/conversion/gif-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

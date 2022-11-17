@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POT-t WORD-be Pythonban
 description: POT-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/pot-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

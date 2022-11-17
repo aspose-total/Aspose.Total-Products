@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to MD'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i MD'ye aktarın
-url: /tr/android-java/conversion/email-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

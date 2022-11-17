@@ -1,7 +1,7 @@
 ---
 title: Python'da PDF'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PDF'yi ICS'e kaydedin
-url: /tr/python-net/conversion/pdf-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da RTF'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında RTF'yi VCF'e kaydedin
-url: /tr/python-net/conversion/rtf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में PS को MSG रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना MSG को PS में निर्यात करें
-url: /hi/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

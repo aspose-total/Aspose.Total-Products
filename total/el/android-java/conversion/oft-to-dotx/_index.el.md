@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε DOTX στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε DOTX χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPS-t RTF-be Pythonban
 description: PPS-ből RTF-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/pps-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

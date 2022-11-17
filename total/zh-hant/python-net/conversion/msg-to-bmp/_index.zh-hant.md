@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 MSG 轉換為 BMP
 description: 在 Python 應用程序中將 MSG 保存為 BMP，而無需使用 Microsoft Outlook 或 Word 
-url: /zh-hant/python-net/conversion/msg-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

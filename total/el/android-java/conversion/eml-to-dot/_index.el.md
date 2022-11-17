@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε DOT στην εφαρμογή Andorid
 description: Εξαγωγή EML σε DOT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera MSG till RTF i Python
 description: Spara MSG till RTF i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/msg-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

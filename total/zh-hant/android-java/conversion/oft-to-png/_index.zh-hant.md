@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中將 OFT 渲染為 PNG
 description: 在您的 Andorid 應用程序中不使用 Microsoft Word 或 Outlook 將 OFT 導出為 PNG
-url: /zh-hant/android-java/conversion/oft-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: XLSB-bestand bijwerken met Python
 description: Wijzig XLSB-document in Python-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/python-java/update/xlsb/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: सी # .NET फ़ाइल ऑटोमेशन एपीआई - Aspose 
 weight: 30
-url: /hi/net/ 
+
 description: C# ASP.NET VB.NET APIs मैनिपुलेट कन्वर्ट बनाने और किसी भी प्रकार के दस्तावेज़ों को प्रस्तुत करने के लिए।
 ---
 

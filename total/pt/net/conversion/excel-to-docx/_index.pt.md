@@ -1,7 +1,7 @@
 ---
 title: Converter EXCEL para DOCX com .NET 
 description: Converter EXCEL para DOCX em plataformas .NET Framework, .NET Core, Mono ou Xamarin
-url: /pt/net/conversion/excel-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

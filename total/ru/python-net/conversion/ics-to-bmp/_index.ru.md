@@ -1,7 +1,7 @@
 ---
 title: Преобразование ICS в BMP в Python
 description: Сохраняйте ICS в BMP в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/ics-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

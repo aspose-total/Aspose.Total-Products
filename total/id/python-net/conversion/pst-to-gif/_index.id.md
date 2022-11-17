@@ -1,7 +1,7 @@
 ---
 title: Konversi PST ke GIF dengan Python
 description: Simpan PST ke GIF di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/pst-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da DOTM'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOTM'yi PST'e kaydedin
-url: /tr/python-net/conversion/dotm-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

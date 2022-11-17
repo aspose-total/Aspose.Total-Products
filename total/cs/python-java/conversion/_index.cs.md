@@ -1,6 +1,6 @@
 ---
 title: Konverze tabulek Microsoft Excel a formátů Visio přes Python 
-url: /cs/python-java/conversion/
+
 description: Převeďte soubory aplikace Excel XLS XLSX XLSM XLSB XLTX XLTM CSV a další, stejně jako formáty Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM atd., jen několik řádků kódu Python.
 ---
 

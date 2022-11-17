@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTX в PPT в Python
 description: Преобразование DOTX в PPT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/dotx-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

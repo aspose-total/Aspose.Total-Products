@@ -1,7 +1,7 @@
 ---
 title: Konversi XLTX ke DOC dengan .NET 
 description: Konversi XLTX ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin
-url: /id/net/conversion/xltx-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir SXC en PPTX avec C++
 description: Convertir SXC en PPTX dans les applications C++
-url: /fr/cpp/conversion/sxc-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

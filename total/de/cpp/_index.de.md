@@ -1,7 +1,7 @@
 ---
 title: APIs zur Verarbeitung von C++-Dateiformaten – Aspose 
 weight: 70
-url: /de/cpp/ 
+
 description: C++-Bibliotheken lesen, schreiben, rendern und konvertieren mehrere Dokumentformate.
 ---
 

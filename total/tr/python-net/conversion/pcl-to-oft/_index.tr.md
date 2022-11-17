@@ -1,7 +1,7 @@
 ---
 title: Python'da PCL'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PCL'yi OFT'e kaydedin
-url: /tr/python-net/conversion/pcl-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

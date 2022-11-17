@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t OFT-be Pythonban
 description: OFT mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/gif-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

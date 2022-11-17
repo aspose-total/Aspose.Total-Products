@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PST na FLATOPC w Pythonie
 description: Zapisz PST w formacie FLATOPC w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/pst-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

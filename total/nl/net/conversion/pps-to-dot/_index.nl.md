@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar DOT via C# .NET 
-url: /nl/net/conversion/pps-to-dot/ 
+
 description: Converteer PowerPoint pps-documenten naar Word-documentbestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 

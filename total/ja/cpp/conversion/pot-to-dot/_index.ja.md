@@ -1,7 +1,7 @@
 ---
 title: POTをDOTに変換するC++API
 description: C++アプリケーション内でPOTをDOTにエクスポートする
-url: /ja/cpp/conversion/pot-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

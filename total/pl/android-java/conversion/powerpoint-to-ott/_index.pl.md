@@ -1,7 +1,7 @@
 ---
 title: Eksportuj POWERPOINT do OTT na Androidzie przez Javę
 description: Konwertuj POWERPOINT na OTT w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/powerpoint-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

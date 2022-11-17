@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az DOTX-et képekké Pythonban
 description: DOTX kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/dotx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

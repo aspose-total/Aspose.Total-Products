@@ -1,7 +1,7 @@
 ---
 title: 將 PPT 轉換為 DOTX 的 C++ API
 description: 在 C++ 應用程序中將 PPT 導出為 DOTX
-url: /zh-hant/cpp/conversion/ppt-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

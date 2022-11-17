@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをRTFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをRTFにエクスポートする
-url: /ja/android-java/conversion/oft-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da EML'yi TIFF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EML'yi TIFF'e kaydedin 
-url: /tr/python-net/conversion/eml-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

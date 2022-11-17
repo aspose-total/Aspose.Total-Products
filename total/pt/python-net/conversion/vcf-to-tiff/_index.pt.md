@@ -1,7 +1,7 @@
 ---
 title: Converter VCF para TIFF em Python
 description: Salve VCF para TIFF em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/vcf-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

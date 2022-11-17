@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t VCF-be Pythonban
 description: DOT mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dot-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

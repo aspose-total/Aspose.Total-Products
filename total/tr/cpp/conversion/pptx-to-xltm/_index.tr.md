@@ -1,7 +1,7 @@
 ---
 title: PPTX'u C++ ile XLTM'ye dönüştürün
 description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C++'da XLTM'ye aktarın
-url: /tr/cpp/conversion/pptx-to-xltm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PPTX belgeniz parola korumalıysa, parolayı kullanmadan XLTM'ye dönüştüremezsiniz. Belgeniz parola korumalı olduğunda, sunum üzerinde belirli kısıtlamalar uyguladığı anlamına gelir. Kısıtlamaları kaldırmak için şifre girilmelidir. Parola korumalı bir sunu, kilitli bir sunu olarak kabul edilir. API, bir LoadOptions nesnesinde doğru parolayı ileterek şifrelenmiş belgeyi açmanıza olanak tanır. Aşağıdaki kod örneği, şifreli bir belgenin parola ile nasıl açılacağını gösterir.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

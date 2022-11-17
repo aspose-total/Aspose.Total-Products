@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do FLATOPC v aplikaci Andorid
 description: Exportujte OFT do FLATOPC bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

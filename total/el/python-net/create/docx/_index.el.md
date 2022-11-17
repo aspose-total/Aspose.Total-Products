@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία DOCX σε Python
 description: Δημιουργήστε αρχείο DOCX χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Word. 
-url: /el/python-net/create/docx/
+
 family: total
 platformtag: Python
 feature: create

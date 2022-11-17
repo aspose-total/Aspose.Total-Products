@@ -1,7 +1,7 @@
 ---
 title: Konwertuj IMAGE na PST w Pythonie
 description: Zapisuj IMAGE do PST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/image-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

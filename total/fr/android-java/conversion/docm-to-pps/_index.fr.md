@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCM en PPS dans Android via Java
 description: Conversion DOCM en PPS dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint
-url: /fr/android-java/conversion/docm-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://d
 Vous pouvez également convertir votre DOCM protégé par mot de passe en PPS dans vos applications Android. Si votre docmument DOCM d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format PPS sans utiliser le mot de passe. Pour ouvrir un docmument crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Document.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

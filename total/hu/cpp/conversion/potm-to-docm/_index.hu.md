@@ -1,7 +1,7 @@
 ---
 title: C++ API a POTM DOCM formátumba konvertálásához
 description: Exportálja a POTM-ot DOCM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/potm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

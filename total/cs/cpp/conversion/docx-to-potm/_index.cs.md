@@ -1,7 +1,7 @@
 ---
 title: Převést DOCX na POTM přes C++
 description: Exportujte DOCX do POTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint
-url: /cs/cpp/conversion/docx-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPTX PPT PPS PPSM POWERPOINT PPSX POTX PPTM POT ODP
 {{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOCX na POTM" h2="Exportujte DOCX do POTM v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCX na POTM při použití dvou z těchto rozhraní API. Načtěte svůj DOCX pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako POTM. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCX na POTM při použití dvou z těchto rozhraní API. Načtěte svůj DOCX pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako POTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

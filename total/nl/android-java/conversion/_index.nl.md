@@ -1,6 +1,6 @@
 ---
 title: Documentconversie via Android API 
-url: /nl/android-java/conversion/
+
 description: Converteer Word-, Excel-, PowerPoint-, HTML-, PDF- en Afbeeldingsformaten met behulp van de Android-conversie-API. Android converteert Office docx, xlsx, pptx naar PDF. 
 ---
 

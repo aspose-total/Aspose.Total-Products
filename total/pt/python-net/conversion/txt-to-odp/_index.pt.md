@@ -1,7 +1,7 @@
 ---
 title: Converter TXT para ODP em Python
 description: Conversão de TXT para ODP em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint 
-url: /pt/python-net/conversion/txt-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

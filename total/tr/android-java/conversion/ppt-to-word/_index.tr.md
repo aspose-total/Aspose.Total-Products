@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u WORD'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u WORD'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

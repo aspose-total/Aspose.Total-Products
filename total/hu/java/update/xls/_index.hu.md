@@ -1,7 +1,7 @@
 ---
 title: XLS fájl frissítése Java használatával
 description: Módosítsa a XLS-dokumentumot Java alkalmazásokban Microsoft Excel használata nélkül. Optimalizálja a kódot az Excel-fájlok leggyorsabb írásához és szerkesztéséhez Java-ban.
-url: /hu/java/update/xls/
+
 family: total
 platformtag: Java
 feature: update

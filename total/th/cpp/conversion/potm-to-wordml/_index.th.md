@@ -1,7 +1,7 @@
 ---
 title: C++ API เพื่อแปลง POTM เป็น WORDML
 description: ส่งออก POTM เป็น WORDML ภายในแอปพลิเคชัน C++ ของคุณ
-url: /th/cpp/conversion/potm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

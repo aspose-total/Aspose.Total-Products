@@ -1,6 +1,6 @@
 ---
 title: Python का उपयोग करके Microsoft Excel फ़ाइलें बनाएं और अपडेट करें 
-url: /hi/python-java/create/
+
 description: Microsoft Office स्थापित किए बिना Microsoft Excel कार्यपत्रक रिपोर्ट बनाएँ 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PS σε VCF στην Python
 description: Αποθηκεύστε το PS σε VCF εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/ps-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

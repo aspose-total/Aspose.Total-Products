@@ -1,7 +1,7 @@
 ---
 title: Python で ICS を PDF に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで ICS を PDF に保存します。 
-url: /ja/python-net/conversion/ics-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

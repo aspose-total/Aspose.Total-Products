@@ -1,6 +1,6 @@
 ---
 title: 通过 C# 进行文件格式转换 
-url: /zh/net/conversion/
+
 description: 只需几行 C# 代码即可转换 Microsoft Word、Excel、PowerPoint、Outlook、PDF、HTML、3D 图像、图表、视频格式和许多其他流行文件。
 ---
 

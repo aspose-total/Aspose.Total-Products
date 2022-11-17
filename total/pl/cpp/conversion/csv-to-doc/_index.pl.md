@@ -1,7 +1,7 @@
 ---
 title: Konwertuj CSV na DOC za pomocą C++
 description: Konwertuj CSV na DOC w aplikacjach C++
-url: /pl/cpp/conversion/csv-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

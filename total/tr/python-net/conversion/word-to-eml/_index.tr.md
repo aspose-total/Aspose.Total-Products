@@ -1,7 +1,7 @@
 ---
 title: Python'da WORD'yi EML'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORD'yi EML'e kaydedin
-url: /tr/python-net/conversion/word-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

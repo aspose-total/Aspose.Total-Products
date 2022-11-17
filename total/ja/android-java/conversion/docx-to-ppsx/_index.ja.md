@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでDOCXをPPSXに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCXからPPSXに変換
-url: /ja/android-java/conversion/docx-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion

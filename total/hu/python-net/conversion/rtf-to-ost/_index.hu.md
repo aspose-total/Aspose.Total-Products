@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t OST-be Pythonban
 description: RTF mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/rtf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

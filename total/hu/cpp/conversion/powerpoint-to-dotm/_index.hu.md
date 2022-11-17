@@ -1,7 +1,7 @@
 ---
 title: C++ API a POWERPOINT DOTM formátumba konvertálásához
 description: Exportálja a POWERPOINT-ot DOTM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

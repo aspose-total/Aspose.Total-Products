@@ -1,7 +1,7 @@
 ---
 title: Převést TXT na PPSM v Pythonu
 description: Převod TXT na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/txt-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TXT-t PPT-be Pythonban
 description: TXT-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/txt-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

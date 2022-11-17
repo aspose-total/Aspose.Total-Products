@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをWORDに変換する
-url: /ja/android-java/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

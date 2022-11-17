@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PCL-t MSG-be Pythonban
 description: PCL mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pcl-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

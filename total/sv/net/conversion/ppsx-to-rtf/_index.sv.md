@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSX till RTF via C# .NET 
-url: /sv/net/conversion/ppsx-to-rtf/ 
+
 description: Konvertera PowerPoint ppsx-dokument till Word-rtf-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

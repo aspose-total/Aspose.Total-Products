@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Android에서 POWERPOINT을 TSV로 변환
 description: Microsoft Excel 또는 PowerPoint를 사용하지 않고 Java를 통해 Android에서 POWERPOINT를 TSV로 변환
-url: /ko/android-java/conversion/powerpoint-to-tsv/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ POWERPOINT을 TSV로 변환하려면 [Maven](https://repository.aspose.com/webap
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ POWERPOINT을 TSV로 변환하려면 [Maven](https://repository.aspose.com/webap
 API를 사용하여 암호로 보호된 문서를 열 수도 있습니다. 입력한 POWERPOINT 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 TSV로 변환할 수 없습니다. API를 사용하면 LoadOptions 개체에 올바른 암호를 전달하여 암호화된 문서를 열 수 있습니다. 다음 코드 예제에서는 암호로 암호화된 문서를 여는 방법을 보여줍니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ API를 사용하여 암호로 보호된 문서를 열 수도 있습니다. 입�
 POWERPOINT 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마크를 추가할 수도 있습니다. 워터마크를 추가하려면 새 통합 문서를 만들어 변환된 HTML 파일을 엽니다. 인덱스를 통해 워크시트를 선택하고 모양을 만들고 addTextEffect 기능을 사용하고 색상, 투명도 등을 설정합니다. 그런 다음 Watermark를 사용하여 HTML 문서를 TSV로 저장할 수 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

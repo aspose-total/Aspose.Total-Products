@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do PDF v aplikaci Andorid
 description: Exportujte MSG do PDF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

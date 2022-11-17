@@ -1,6 +1,6 @@
 ---
 title: Bestand maken met Python 
-url: /nl/python-net/create/
+
 description: Maak tekst- en Microsoft Word-documenten zonder Microsoft Office te installeren 
 ---
 

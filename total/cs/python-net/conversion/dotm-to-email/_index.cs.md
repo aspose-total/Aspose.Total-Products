@@ -1,7 +1,7 @@
 ---
 title: Převést DOTM na EMAIL v Pythonu
 description: Ukládejte DOTM do EMAIL v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dotm-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

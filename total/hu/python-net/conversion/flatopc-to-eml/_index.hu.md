@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FLATOPC-t EML-be Pythonban
 description: FLATOPC mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/flatopc-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

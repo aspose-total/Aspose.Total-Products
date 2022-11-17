@@ -1,6 +1,6 @@
 ---
 title: PPTM'yi C# .NET aracılığıyla TXT'ye dönüştürün 
-url: /tr/net/conversion/pptm-to-txt/ 
+
 description: PowerPoint pptm belgelerini C# ile Word txt dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

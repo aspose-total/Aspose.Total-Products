@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t DOC-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t DOC-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

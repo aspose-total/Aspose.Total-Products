@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPT na DOT przez C# .NET 
-url: /pl/net/conversion/ppt-to-dot/ 
+
 description: Konwertuj dokumenty ppt programu PowerPoint na pliki dot programu Word za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

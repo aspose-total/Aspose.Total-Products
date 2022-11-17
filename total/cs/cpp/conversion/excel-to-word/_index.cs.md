@@ -1,7 +1,7 @@
 ---
 title: Převeďte EXCEL na WORD pomocí C++
 description: Převeďte EXCEL na WORD v aplikacích C++
-url: /cs/cpp/conversion/excel-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

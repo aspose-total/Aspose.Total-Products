@@ -1,7 +1,7 @@
 ---
 title: Eksportuj POWERPOINT do DOTM na Androidzie przez Javę
 description: Konwertuj POWERPOINT na DOTM w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/powerpoint-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

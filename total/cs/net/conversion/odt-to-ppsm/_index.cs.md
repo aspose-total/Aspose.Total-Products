@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na PPSM přes C# .NET 
-url: /cs/net/conversion/odt-to-ppsm/ 
+
 description: Převeďte dokumenty Word odt na soubory PowerPoint ppsm pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

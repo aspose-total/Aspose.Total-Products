@@ -1,7 +1,7 @@
 ---
 title: Convierta SXC a DOC con .NET 
 description: Convierta SXC a DOC en plataformas .NET Framework, .NET Core, Mono o Xamarin
-url: /es/net/conversion/sxc-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

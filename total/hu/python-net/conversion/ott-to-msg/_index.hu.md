@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t MSG-be Pythonban
 description: OTT mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ott-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

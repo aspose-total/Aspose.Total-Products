@@ -1,7 +1,7 @@
 ---
 title: Konvertera XLTM till DOCX med .NET 
 description: Konvertera XLTM till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/xltm-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

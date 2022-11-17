@@ -1,7 +1,7 @@
 ---
 title: Exportera PPSX till TEXT på Andorid via Java
 description: Konvertera PPSX till TEXT i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/ppsx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

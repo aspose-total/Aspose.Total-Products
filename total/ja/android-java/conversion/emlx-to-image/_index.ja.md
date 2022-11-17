@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをIMAGEにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをIMAGEにエクスポートする
-url: /ja/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

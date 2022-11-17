@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOC sang MSG bằng Python
 description: Lưu DOC thành MSG trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/doc-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: A DOCX konvertálása POTX-re C++ segítségével
 description: Exportáljon DOCX-t POTX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül
-url: /hu/cpp/conversion/docx-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPTX PPSX POTM ODP PPS PPSM PPT POT POWERPOINT PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API a DOCX konvertálásához POTX-vé" h2="DOCX exportálása POTX-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a DOCX- POTX-konverzió automatizálását, miközben két API-t használ. Töltse be a DOCX-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és POTX-ként mentéséhez. 
+Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a DOCX- POTX-konverzió automatizálását, miközben két API-t használ. Töltse be a DOCX-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és POTX-ként mentéséhez. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

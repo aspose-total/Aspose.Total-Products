@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTX-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a POTX-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

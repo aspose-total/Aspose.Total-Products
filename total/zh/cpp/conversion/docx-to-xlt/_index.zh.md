@@ -1,7 +1,7 @@
 ---
 title: 在 C++ 中将 DOCX 转换为 XLT
 description: 无需使用 Microsoft Word 或 Microsoft Excel 即可将 DOCX 转换为 XLT 的 C++ API
-url: /zh/cpp/conversion/docx-to-xlt/
+
 family: total
 platformtag: cpp
 feature: conversion

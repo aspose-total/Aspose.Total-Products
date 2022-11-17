@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в XPS в приложении Andorid
 description: Экспорт EMLX в XPS без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

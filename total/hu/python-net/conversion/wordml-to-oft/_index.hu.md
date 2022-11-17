@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t OFT-be Pythonban
 description: WORDML mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

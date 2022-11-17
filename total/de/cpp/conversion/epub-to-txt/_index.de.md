@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von EPUB in TXT
 description: Konvertieren Sie EPUB in TXT über die C++-API, ohne Microsoft Excel oder Adobe Reader zu verwenden
-url: /de/cpp/conversion/epub-to-txt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLAM CSV XLSB MD TSV XLSM EXCEL XLTM FODS XLT SXC XLTX
 {{< blocks/products/pf/feature-page-header h1="Rendern Sie EPUB in TXT in C++-Anwendungen" h2="Konvertieren Sie EPUB in TXT in nativen C++-Anwendungen, ohne Microsoft<sup>&reg;</sup> Excel oder Adobe<sup>&reg;</sup> Acrobat Reader zu benötigen" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Das Konvertieren von EPUB in TXT in C++ über [Aspose.Total for C++](https://products.aspose.com/total/cpp/) Dateiformat-Automatisierungsbibliotheken ist ein einfacher zweistufiger Prozess. Im ersten Schritt können Sie EPUB mit [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) nach XLSX exportieren, danach mit [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) Spreadsheet Programming API können Sie XLSX in TXT konvertieren. 
+Das Konvertieren von EPUB in TXT in C++ über [Aspose.Total for C++](https://products.aspose.com/total/cpp/) Dateiformat-Automatisierungsbibliotheken ist ein einfacher zweistufiger Prozess. Im ersten Schritt können Sie EPUB mit [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) nach XLSX exportieren, danach mit [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API können Sie XLSX in TXT konvertieren. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -32,7 +32,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) ermöglicht es Ihnen auch, Informationen zu Ihrem EPUB-Dokument zu erhalten und vor dem Konvertierungsprozess fundierte Entscheidungen zu treffen. Um dateispezifische Informationen einer EPUB-Datei zu erhalten, müssen Sie zuerst die Methode [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) aufrufen [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) Klasse. Nachdem das DocumentInfo-Objekt abgerufen wurde, können Sie die Werte der einzelnen Eigenschaften abrufen. Darüber hinaus können Sie die Eigenschaften auch festlegen, indem Sie die entsprechenden Methoden der DocumentInfo-Klasse verwenden.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
 [Aspose.Cells for C++](https://products.aspose.com/cells/net/) ermöglicht das Speichern des TXT-Dateiformats zum Streamen. Um Dateien in einem Stream zu speichern, erstellen Sie ein MemoryStream- oder FileStream-Objekt und speichern Sie die Datei in diesem Stream-Objekt, indem Sie [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aufrufen. Objekts Methode [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349). Geben Sie das gewünschte Dateiformat mit der Enumeration [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) an, wenn Sie die Save-Methode aufrufen.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-txt-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-txt-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

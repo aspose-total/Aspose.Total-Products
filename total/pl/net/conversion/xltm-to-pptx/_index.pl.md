@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XLTM na PPTX za pomocą .NET 
 description: Konwertuj XLTM na PPTX na platformach .NET Framework, .NET Core, Mono lub Xamarin
-url: /pl/net/conversion/xltm-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

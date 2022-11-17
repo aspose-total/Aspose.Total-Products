@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POTM-t DOCM-be Pythonban
 description: POTM-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/potm-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

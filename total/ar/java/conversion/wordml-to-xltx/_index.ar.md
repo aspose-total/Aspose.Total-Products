@@ -15,7 +15,7 @@ otherformats: XLAM XLSB XLTM XLTX ODS EXCEL XLSM TSV DIF XLSX FODS SXC XLS XLT
 تحويل WORDML إلى XLTX عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) هي عملية بسيطة من خطوتين. باستخدام واجهة برمجة تطبيقات معالجة المستندات والتحويل الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تصدير WORDML إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C ++ API لتحويل WORDML إلى XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل WORDML إلى XLTX" %}}
 1. افتح ملف WORDML باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. تحويل WORDML إلى HTML باستخدام [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

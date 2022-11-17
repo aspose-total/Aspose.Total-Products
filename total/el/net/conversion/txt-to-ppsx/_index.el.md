@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή TXT σε PPSX μέσω C# .NET 
-url: /el/net/conversion/txt-to-ppsx/ 
+
 description: Μετατρέψτε έγγραφα Word txt σε αρχεία ppsx PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

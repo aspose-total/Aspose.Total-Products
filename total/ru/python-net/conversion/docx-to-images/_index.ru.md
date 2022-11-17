@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в изображения в Python
 description: Преобразование DOCX в изображение TIFF BMP PNG JPEG GIF SVG в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/docx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

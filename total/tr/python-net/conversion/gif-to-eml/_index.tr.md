@@ -1,7 +1,7 @@
 ---
 title: Python'da EML'yi EML'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında EML'yi EML'e kaydedin
-url: /tr/python-net/conversion/gif-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

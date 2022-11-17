@@ -1,7 +1,7 @@
 ---
 title: Převést TEXT na PST v Pythonu
 description: Ukládejte TEXT do PST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/text-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

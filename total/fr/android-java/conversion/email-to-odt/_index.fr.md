@@ -1,7 +1,7 @@
 ---
 title: Rendre EMAIL en ODT dans l'application Andorid
 description: Exportez EMAIL vers ODT sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/email-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

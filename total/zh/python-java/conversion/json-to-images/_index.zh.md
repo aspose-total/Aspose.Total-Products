@@ -1,7 +1,7 @@
 ---
 title: 使用 Python 将 JSON 转换为图像
 description: JSON 到图像 TIFF BMP PNG JPEG GIF EMF SVG 在 Python 应用程序中的转换，无需使用 Microsoft Excel 
-url: /zh/python-java/conversion/json-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

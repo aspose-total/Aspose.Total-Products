@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLS-t DOCX-ba a C++ segítségével
 description: A XLS konvertálása DOCX formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xls-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で DOC を PPT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOC から PPT への変換 
-url: /ja/python-net/conversion/doc-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

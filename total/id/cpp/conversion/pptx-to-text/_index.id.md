@@ -1,7 +1,7 @@
 ---
 title: C++ API untuk Mengonversi PPTX ke TEXT
 description: Ekspor PPTX ke TEXT dalam aplikasi C++ Anda
-url: /id/cpp/conversion/pptx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

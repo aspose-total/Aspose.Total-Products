@@ -1,7 +1,7 @@
 ---
 title: Convertir XLS en WORD avec .NET 
 description: Convertir XLS en WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/xls-to-word/
+
 family: total
 platformtag: net
 feature: conversion

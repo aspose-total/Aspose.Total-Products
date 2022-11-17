@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/png-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

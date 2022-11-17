@@ -1,7 +1,7 @@
 ---
 title: Python'da DOCM'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOCM'yi ICS'e kaydedin
-url: /tr/python-net/conversion/docm-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

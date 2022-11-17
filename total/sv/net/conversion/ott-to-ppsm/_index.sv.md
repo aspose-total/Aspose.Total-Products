@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till PPSM via C# .NET 
-url: /sv/net/conversion/ott-to-ppsm/ 
+
 description: Konvertera Word ott-dokument till PowerPoint ppsm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

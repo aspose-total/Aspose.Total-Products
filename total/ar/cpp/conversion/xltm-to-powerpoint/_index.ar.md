@@ -1,7 +1,7 @@
 ---
 title: تحويل XLTM إلى POWERPOINT باستخدام C++
 description: تحويل XLTM إلى POWERPOINT داخل تطبيقات C++
-url: /ar/cpp/conversion/xltm-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

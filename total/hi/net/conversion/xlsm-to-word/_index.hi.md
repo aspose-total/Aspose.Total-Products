@@ -1,7 +1,7 @@
 ---
 title: .NET के साथ XLSM को WORD में बदलें 
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLSM को WORD में बदलें
-url: /hi/net/conversion/xlsm-to-word/
+
 family: total
 platformtag: net
 feature: conversion

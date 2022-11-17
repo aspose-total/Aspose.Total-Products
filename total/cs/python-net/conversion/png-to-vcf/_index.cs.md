@@ -1,7 +1,7 @@
 ---
 title: Převést PNG na VCF v Pythonu
 description: Ukládejte PNG do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/png-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

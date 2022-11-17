@@ -1,7 +1,7 @@
 ---
 title: Python で PPSX を DOC に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPSX から DOC への変換 
-url: /ja/python-net/conversion/ppsx-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

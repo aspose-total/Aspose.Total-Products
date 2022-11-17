@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOCにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをDOCにエクスポートする
-url: /ja/android-java/conversion/email-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

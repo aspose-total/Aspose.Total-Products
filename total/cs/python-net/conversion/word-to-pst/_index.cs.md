@@ -1,7 +1,7 @@
 ---
 title: Převést WORD na PST v Pythonu
 description: Ukládejte WORD do PST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/word-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

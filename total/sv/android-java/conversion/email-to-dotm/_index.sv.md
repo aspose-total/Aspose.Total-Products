@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till DOTM i Andorid-appen
 description: Exportera EMAIL till DOTM utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

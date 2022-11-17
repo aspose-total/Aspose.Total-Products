@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t PS-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t PS-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

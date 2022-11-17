@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのFLATOPCにPOTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTをFLATOPCに変換する
-url: /ja/android-java/conversion/pot-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

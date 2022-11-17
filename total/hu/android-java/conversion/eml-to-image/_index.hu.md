@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t IMAGE-nek az Andorid alkalmazásban
 description: Exportálja az EML-t IMAGE-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOC létrehozása Pythonban
 description: DOC-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

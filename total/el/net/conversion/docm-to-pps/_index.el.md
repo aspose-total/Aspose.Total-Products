@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCM σε PPS μέσω C# .NET 
-url: /el/net/conversion/docm-to-pps/ 
+
 description: Μετατρέψτε έγγραφα Word docm σε αρχεία pps PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: C++でDOCXをTSVに変換する
 description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCXをTSVに変換するC++API
-url: /ja/cpp/conversion/docx-to-tsv/
+
 family: total
 platformtag: cpp
 feature: conversion

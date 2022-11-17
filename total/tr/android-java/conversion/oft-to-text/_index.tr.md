@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to TEXT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i TEXT'ye aktarın
-url: /tr/android-java/conversion/oft-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t POT-be Pythonban
 description: DOTX-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/dotx-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

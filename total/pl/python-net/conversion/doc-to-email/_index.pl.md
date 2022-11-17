@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOC na EMAIL w Pythonie
 description: Zapisuj DOC do EMAIL w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/doc-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

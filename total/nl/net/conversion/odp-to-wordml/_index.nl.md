@@ -1,6 +1,6 @@
 ---
 title: Converteer ODP naar WORDML via C# .NET 
-url: /nl/net/conversion/odp-to-wordml/ 
+
 description: Converteer PowerPoint odp-documenten naar Word-documentbestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 

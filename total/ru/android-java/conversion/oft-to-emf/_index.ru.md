@@ -1,7 +1,7 @@
 ---
 title: Преобразование OFT в EMF в приложении Andorid
 description: Экспорт OFT в EMF без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/oft-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل FODS إلى DOC باستخدام C++
 description: تحويل FODS إلى DOC داخل تطبيقات C++
-url: /ar/cpp/conversion/fods-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

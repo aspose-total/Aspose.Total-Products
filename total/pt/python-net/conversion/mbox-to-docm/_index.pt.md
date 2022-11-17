@@ -1,7 +1,7 @@
 ---
 title: Converter MBOX para DOCM em Python
 description: Salve MBOX para DOCM em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/mbox-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

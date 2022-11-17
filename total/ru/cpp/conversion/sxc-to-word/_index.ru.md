@@ -1,7 +1,7 @@
 ---
 title: Преобразование SXC в WORD с помощью C++
 description: Преобразование SXC в WORD в приложениях C++
-url: /ru/cpp/conversion/sxc-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

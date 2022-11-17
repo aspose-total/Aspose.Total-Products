@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na POTM přes C# .NET 
-url: /cs/net/conversion/wordml-to-potm/ 
+
 description: Převeďte dokumenty Word wordml na soubory PowerPoint potm pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

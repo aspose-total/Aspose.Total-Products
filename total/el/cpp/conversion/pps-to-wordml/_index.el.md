@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPS σε WORDML
 description: Εξαγωγή PPS σε WORDML στις εφαρμογές σας C++
-url: /el/cpp/conversion/pps-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

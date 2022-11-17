@@ -1,7 +1,7 @@
 ---
 title: Преобразование PST в PST в Python
 description: Сохраняйте PST в PST в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/gif-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

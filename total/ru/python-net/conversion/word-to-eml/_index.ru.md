@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в EML в Python
 description: Сохраняйте WORD в EML в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/word-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してOTTをPOTに変換する 
-url: /ja/net/conversion/ott-to-pot/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointpotファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

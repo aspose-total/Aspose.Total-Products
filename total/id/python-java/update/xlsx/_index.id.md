@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSX Menggunakan Python
 description: Memodifikasi dokumen XLSX dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

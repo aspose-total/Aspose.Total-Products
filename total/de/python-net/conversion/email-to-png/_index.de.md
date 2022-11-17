@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EMAIL in PNG in Python
 description: Speichern Sie EMAIL in PNG in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/email-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

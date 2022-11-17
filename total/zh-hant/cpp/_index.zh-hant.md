@@ -1,7 +1,7 @@
 ---
 title: C++ 文件格式處理 API - Aspose 
 weight: 70
-url: /zh-hant/cpp/ 
+
 description: C++ 庫讀寫渲染和轉換多種文檔格式。
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Konversi Format File melalui C# 
-url: /id/net/conversion/
+
 description: Konversi Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, Gambar 3D, Diagram, Format Video, dan banyak file populer lainnya hanya dengan beberapa baris kode C#.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでDOCXをPPTMに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCXからPPTMに変換
-url: /ja/android-java/conversion/docx-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion

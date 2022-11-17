@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till DOT i Andorid-appen
 description: Exportera OFT till DOT utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

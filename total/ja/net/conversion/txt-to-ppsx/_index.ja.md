@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してTXTをPPSXに変換する 
-url: /ja/net/conversion/txt-to-ppsx/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointppsxファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

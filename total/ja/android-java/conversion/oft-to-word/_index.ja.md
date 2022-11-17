@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをWORDにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをWORDにエクスポートする
-url: /ja/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Dokumentum konvertálás C++-on keresztül 
-url: /hu/cpp/conversion/
+
 description: Különféle dokumentumformátumok konvertálása, például Word, Excel, PowerPoint, PDF, JSON, Képek és egyebek a C++ API segítségével. 
 ---
 

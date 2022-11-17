@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t PS-be Pythonban
 description: Mentse a PST-t PS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

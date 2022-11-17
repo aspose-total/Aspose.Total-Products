@@ -1,7 +1,7 @@
 ---
 title: Ekspor POWERPOINT ke WORDML di Andorid melalui Java
 description: Konversi POWERPOINT ke WORDML di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/powerpoint-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

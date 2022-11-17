@@ -1,7 +1,7 @@
 ---
 title: Renderizar MSG a MD en la aplicación Andorid
 description: Exporte MSG a MD sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/msg-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

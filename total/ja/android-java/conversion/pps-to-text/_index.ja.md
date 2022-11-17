@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのTEXTにPPSをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSをTEXTに変換する
-url: /ja/android-java/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

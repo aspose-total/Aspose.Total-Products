@@ -1,7 +1,7 @@
 ---
 title: Converter WORDML para PPTM no Android via Java
 description: Conversão de WORDML para PPTM em seus telefones Android sem usar o Microsoft Word do PowerPoint
-url: /pt/android-java/conversion/wordml-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloa
 Você também pode converter seu WORDML protegido por senha para PPTM em seus aplicativos Android. Se o wordmlumento WORDML de entrada estiver protegido por senha, você não poderá convertê-lo para o formato PPTM sem usar a senha. Para abrir um wordmlumento criptografado, você pode definir a senha correta no objeto LoadOptions e passá-la para o construtor Wordmlument.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-wordml-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

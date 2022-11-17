@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOC sang EMLX bằng Python
 description: Lưu DOC thành EMLX trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/doc-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

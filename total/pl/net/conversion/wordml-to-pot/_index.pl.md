@@ -1,6 +1,6 @@
 ---
 title: Konwertuj WORDML na POT przez C# .NET 
-url: /pl/net/conversion/wordml-to-pot/ 
+
 description: Konwertuj dokumenty Word wordml na pliki pot programu PowerPoint za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

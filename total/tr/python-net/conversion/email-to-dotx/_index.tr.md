@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi DOTX'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMAIL'yi DOTX'e kaydedin 
-url: /tr/python-net/conversion/email-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

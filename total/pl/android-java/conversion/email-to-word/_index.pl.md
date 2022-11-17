@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMAIL do WORD w aplikacji Andorid
 description: Eksportuj EMAIL do WORD bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/email-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

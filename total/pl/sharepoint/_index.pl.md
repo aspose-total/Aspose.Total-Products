@@ -1,7 +1,7 @@
 ---
 title: Aplikacje formatu plików SharePoint — konwertuj dokumenty w aplikacjach SharePoint 
 weight: 20
-url: /pl/sharepoint/ 
+
 description: Aplikacje formatu plików SharePoint do konwersji i łączenia formatów dokumentów Word Excel PDF PowerPoint E-mail i dokumentów graficznych w programie Microsoft SharePoint
 ---
 

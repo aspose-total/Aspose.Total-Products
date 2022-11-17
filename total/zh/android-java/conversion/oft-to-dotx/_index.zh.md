@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中将 OFT 渲染为 DOTX
 description: 在您的 Andorid 应用程序中不使用 Microsoft Word 或 Outlook 将 OFT 导出为 DOTX
-url: /zh/android-java/conversion/oft-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

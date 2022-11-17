@@ -1,7 +1,7 @@
 ---
 title: Python'da FLATOPC'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında FLATOPC'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/flatopc-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

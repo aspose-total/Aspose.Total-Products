@@ -1,7 +1,7 @@
 ---
 title: Převést PNG na EMLX v Pythonu
 description: Ukládejte PNG do EMLX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/png-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

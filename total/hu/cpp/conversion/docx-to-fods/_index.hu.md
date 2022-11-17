@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t FODS-vé C++-ban
 description: C++ API a DOCX konvertálásához FODS-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-fods/
+
 family: total
 platformtag: cpp
 feature: conversion

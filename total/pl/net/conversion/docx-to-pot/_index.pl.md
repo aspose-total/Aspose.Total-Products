@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCX na POT przez C# .NET 
-url: /pl/net/conversion/docx-to-pot/ 
+
 description: Konwertuj dokumenty Word docx na pliki pot programu PowerPoint za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLTX χρησιμοποιώντας Java
 description: Τροποποιήστε το έγγραφο XLTX σε εφαρμογές Java χωρίς τη χρήση του Microsoft Excel. Βελτιστοποιήστε τον κώδικα για τον ταχύτερο τρόπο εγγραφής και επεξεργασίας αρχείου excel σε java.
-url: /el/java/update/xltx/
+
 family: total
 platformtag: Java
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PS-t OST-be Pythonban
 description: PS mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ps-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

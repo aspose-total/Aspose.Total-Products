@@ -1,6 +1,6 @@
 ---
 title: تحويل جداول بيانات Microsoft Excel وتنسيقات Visio عبر Python 
-url: /ar/python-java/conversion/
+
 description: قم بتحويل ملفات Excel XLS XLSX XLSM XLSB XLTX XLTM CSV والمزيد بالإضافة إلى تنسيقات Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM إلخ فقط سطور قليلة من كود Python.
 ---
 

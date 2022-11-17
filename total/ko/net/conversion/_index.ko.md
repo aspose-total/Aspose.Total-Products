@@ -1,6 +1,6 @@
 ---
 title: C#을 통한 파일 형식 변환 
-url: /ko/net/conversion/
+
 description: 단 몇 줄의 C# 코드로 Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D 이미지, 다이어그램, 비디오 형식 및 기타 널리 사용되는 파일을 변환합니다.
 ---
 

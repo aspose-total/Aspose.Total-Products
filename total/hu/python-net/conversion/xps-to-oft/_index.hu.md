@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XPS-t OFT-be Pythonban
 description: XPS mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/xps-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

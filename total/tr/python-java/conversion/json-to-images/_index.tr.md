@@ -1,7 +1,7 @@
 ---
 title: Python kullanarak JSON'i Görüntüye dönüştürün
 description: Microsoft Excel kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF EMF SVG dönüştürme görüntüsüne JSON 
-url: /tr/python-java/conversion/json-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

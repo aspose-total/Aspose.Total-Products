@@ -1,7 +1,7 @@
 ---
 title: แปลง DOCX เป็น OFT ใน Python
 description: บันทึก DOCX เป็น OFT ภายในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Outlook
-url: /th/python-net/conversion/docx-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

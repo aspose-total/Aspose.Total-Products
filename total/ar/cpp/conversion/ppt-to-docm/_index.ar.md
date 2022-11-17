@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل PPT إلى DOCM
 description: قم بتصدير PPT إلى DOCM داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/ppt-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF a VCF en Python
 description: Guarde PDF en VCF dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/pdf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

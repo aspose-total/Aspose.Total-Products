@@ -1,7 +1,7 @@
 ---
 title: C++ API a POT DOCM formátumba konvertálásához
 description: Exportálja a POT-ot DOCM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pot-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

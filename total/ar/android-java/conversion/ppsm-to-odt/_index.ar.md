@@ -1,7 +1,7 @@
 ---
 title: تصدير PPSM إلى ODT على Andorid عبر Java
 description: قم بتحويل PPSM إلى ODT في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/ppsm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to FLATOPC'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i FLATOPC'ye aktarın
-url: /tr/android-java/conversion/oft-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

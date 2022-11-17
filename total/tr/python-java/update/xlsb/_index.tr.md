@@ -1,7 +1,7 @@
 ---
 title: Python Kullanarak XLSB Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan Python uygulamalarında XLSB belgesini değiştirin. 
-url: /tr/python-java/update/xlsb/
+
 family: total
 platformtag: Python
 feature: update

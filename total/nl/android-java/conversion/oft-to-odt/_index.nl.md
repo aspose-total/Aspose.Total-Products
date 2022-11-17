@@ -1,7 +1,7 @@
 ---
 title: Render OFT naar ODT in de Andorid-app
 description: Exporteer OFT naar ODT zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/oft-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

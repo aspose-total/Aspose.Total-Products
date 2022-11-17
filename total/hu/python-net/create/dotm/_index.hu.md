@@ -1,7 +1,7 @@
 ---
 title: DOTM létrehozása Pythonban
 description: DOTM-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/dotm/
+
 family: total
 platformtag: Python
 feature: create

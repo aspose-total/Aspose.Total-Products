@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t EMF-be Pythonban
 description: Mentse a EMLX-t EMF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

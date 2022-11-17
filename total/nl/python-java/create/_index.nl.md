@@ -1,6 +1,6 @@
 ---
 title: Microsoft Excel-bestanden maken en bijwerken met Python 
-url: /nl/python-java/create/
+
 description: Maak Microsoft Excel-werkbladrapporten zonder Microsoft Office te installeren 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot WORDML-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot WORDML-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

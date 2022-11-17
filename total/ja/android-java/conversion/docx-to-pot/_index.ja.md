@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでDOCXをPOTに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCXからPOTに変換
-url: /ja/android-java/conversion/docx-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion

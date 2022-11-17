@@ -1,6 +1,6 @@
 ---
 title: 通過 C# .NET 將 DOT 轉換為 POTX 
-url: /zh-hant/net/conversion/dot-to-potx/ 
+
 description: 使用 C# 將 Word dot 文檔轉換為 PowerPoint potx 文件。在 ASP.NET 或其他 .NET 應用程序中轉換多個文件。
 ---
 

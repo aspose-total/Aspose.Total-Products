@@ -1,7 +1,7 @@
 ---
 title: Exporter PPTM vers FLATOPC sur Andorid via Java
 description: Convertissez PPTM en FLATOPC dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/pptm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で DOC を作成する
 description: Microsoft Word を使用せずに、Python アプリケーションを使用して DOC ファイルを生成します。 
-url: /ja/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

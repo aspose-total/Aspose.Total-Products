@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία DOTX σε Python
 description: Δημιουργήστε αρχείο DOTX χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Word. 
-url: /el/python-net/create/dotx/
+
 family: total
 platformtag: Python
 feature: create

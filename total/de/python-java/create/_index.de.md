@@ -1,6 +1,6 @@
 ---
 title: Erstellen und aktualisieren Sie Microsoft Excel-Dateien mit Python 
-url: /de/python-java/create/
+
 description: Erstellen Sie Microsoft Excel-Arbeitsblattberichte, ohne Microsoft Office zu installieren 
 ---
 

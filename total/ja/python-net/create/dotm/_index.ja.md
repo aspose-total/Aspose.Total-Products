@@ -1,7 +1,7 @@
 ---
 title: Python で DOTM を作成する
 description: Microsoft Word を使用せずに、Python アプリケーションを使用して DOTM ファイルを生成します。 
-url: /ja/python-net/create/dotm/
+
 family: total
 platformtag: Python
 feature: create

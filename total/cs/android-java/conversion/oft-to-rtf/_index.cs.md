@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do RTF v aplikaci Andorid
 description: Exportujte OFT do RTF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

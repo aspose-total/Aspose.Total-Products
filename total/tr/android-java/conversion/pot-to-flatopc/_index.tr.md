@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POT'u FLATOPC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POT'u FLATOPC'ye dönüştürün
-url: /tr/android-java/conversion/pot-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLTM na obrázek pomocí Pythonu
 description: Převod XLTM na obrázek TIFF BMP PNG JPEG GIF EMF SVG ve vašich aplikacích Python bez použití aplikace Microsoft Excel 
-url: /cs/python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

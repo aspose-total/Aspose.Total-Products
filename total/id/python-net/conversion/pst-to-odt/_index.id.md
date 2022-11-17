@@ -1,7 +1,7 @@
 ---
 title: Konversi PST ke ODT dengan Python
 description: Simpan PST ke ODT di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/pst-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

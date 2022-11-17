@@ -1,6 +1,6 @@
 ---
 title: A DOTM konvertálása PPS-re C# .NET-en keresztül 
-url: /hu/net/conversion/dotm-to-pps/ 
+
 description: Konvertálja a Word dotm dokumentumokat PowerPoint pps fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

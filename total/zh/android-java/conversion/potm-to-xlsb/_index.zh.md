@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 在 Android 中将 POTM 转换为 XLSB
 description: 在不使用 Microsoft Excel 或 PowerPoint 的情况下，通过 Java 在 Android 中将 POTM 转换为 XLSB
-url: /zh/android-java/conversion/potm-to-xlsb/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML CSV TSV SXC XLS ODS XLTM XLTX EXCEL X
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML CSV TSV SXC XLS ODS XLTM XLTX EXCEL X
 使用 API，您还可以打开受密码保护的文档。如果您输入的 POTM 文档受密码保护，则您无法在不使用密码的情况下将其转换为 XLSB。 API 允许您通过在 LoadOptions 对象中传递正确的密码来打开加密的文档。以下代码示例显示了如何尝试使用密码打开加密文档：
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-protected-powerpoint-to-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML CSV TSV SXC XLS ODS XLTM XLTX EXCEL X
 在将 POTM 文件转换为 XLSB 时，您还可以在输出的 XLSB 文件格式中添加水印。为了添加水印，创建一个新的工作簿来打开转换后的 HTML 文件。通过其索引选择 Worksheet，创建一个 Shape 并使用其 addTextEffect 函数，设置颜色、透明度等。之后，您可以将 HTML 文档保存为带水印的 XLSB。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

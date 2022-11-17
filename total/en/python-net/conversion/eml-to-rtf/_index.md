@@ -1,7 +1,7 @@
 ---
 title: Convert EML to RTF in Python
 description: Save EML to RTF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/eml-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

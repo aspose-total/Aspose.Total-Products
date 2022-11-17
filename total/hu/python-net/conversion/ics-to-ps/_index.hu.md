@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t PS-be Pythonban
 description: Mentse a ICS-t PS formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ics-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

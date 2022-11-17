@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do TEXT v aplikaci Andorid
 description: Exportujte OFT do TEXT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

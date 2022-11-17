@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie VCF in RTF in Python
 description: Speichern Sie VCF in RTF in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/vcf-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

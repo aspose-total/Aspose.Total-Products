@@ -1,7 +1,7 @@
 ---
 title: API C++ để chuyển đổi POT sang TEXT
 description: Xuất POT sang TEXT trong các ứng dụng C++ của bạn
-url: /vi/cpp/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

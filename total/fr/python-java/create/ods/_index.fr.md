@@ -1,7 +1,7 @@
 ---
 title: Créer ODS en Python
 description: Générez un fichier ODS à l'aide d'applications Python sans utiliser Microsoft Office. 
-url: /fr/python-java/create/ods/
+
 family: total
 platformtag: Python
 feature: create

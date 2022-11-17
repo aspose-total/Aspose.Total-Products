@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TXT-t PPS-be Pythonban
 description: TXT-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/txt-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

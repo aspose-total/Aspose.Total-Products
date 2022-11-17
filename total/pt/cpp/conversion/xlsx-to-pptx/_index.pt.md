@@ -1,7 +1,7 @@
 ---
 title: Converter XLSX para PPTX com C++
 description: Converter XLSX para PPTX em aplicativos C++
-url: /pt/cpp/conversion/xlsx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

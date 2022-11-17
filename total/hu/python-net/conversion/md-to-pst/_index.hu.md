@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t PST-be Pythonban
 description: MD mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

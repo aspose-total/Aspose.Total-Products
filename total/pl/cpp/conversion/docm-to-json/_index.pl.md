@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCM na format JSON w C++
 description: Eksportuj DOCM do JSON w C++ bez użycia Microsoft Excel lub Word
-url: /pl/cpp/conversion/docm-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze st
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze st
 Korzystając z interfejsu API, możesz również otworzyć dokument chroniony hasłem. Jeśli wejściowy dokument DOCM jest chroniony hasłem, nie można go przekonwertować na format JSON bez użycia hasła. Aby to zrobić, użyj specjalnego przeciążenia konstruktora, które akceptuje obiekt LoadOptions. Ten obiekt zawiera właściwość Password, która określa ciąg hasła.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

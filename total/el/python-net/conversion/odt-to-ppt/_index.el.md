@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή ODT σε PPT στην Python
 description: Μετατροπή ODT σε PPT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/odt-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

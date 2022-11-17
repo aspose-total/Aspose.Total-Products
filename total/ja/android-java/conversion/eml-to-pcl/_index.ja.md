@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPCLにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをPCLにエクスポートする
-url: /ja/android-java/conversion/eml-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

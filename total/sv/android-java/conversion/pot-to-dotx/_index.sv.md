@@ -1,7 +1,7 @@
 ---
 title: Exportera POT till DOTX på Andorid via Java
 description: Konvertera POT till DOTX i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pot-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

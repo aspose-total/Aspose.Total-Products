@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLSXをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLSXをPPTXに変換する
-url: /ja/net/conversion/xlsx-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

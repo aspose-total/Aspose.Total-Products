@@ -1,7 +1,7 @@
 ---
 title: Converteer PST naar PS in Python
 description: Bewaar PST naar PS in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/pst-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

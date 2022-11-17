@@ -1,7 +1,7 @@
 ---
 title: Converti EMLX in DOC in Python
 description: Salva EMLX in DOC nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/emlx-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

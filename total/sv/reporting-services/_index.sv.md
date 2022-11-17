@@ -1,7 +1,7 @@
 ---
 title: SQL Server Reporting Services Rendering av tillägg för filformat 
 weight: 40
-url: /sv/reporting-services/ 
+
 description: SQL Server Reporting Services Renderingstillägg för filformat för att exportera RDL-rapporter till Word Excel PDF PowerPoint-format. Lägg till streckkoder till exporterade rapporter
 ---
 

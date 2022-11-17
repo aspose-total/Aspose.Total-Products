@@ -1,7 +1,7 @@
 ---
 title: ؛ SharePoint File Format Apps - تحويل المستندات في تطبيقات SharePoint 
 weight: 20
-url: /ar/sharepoint/ 
+
 description: تطبيقات تنسيق ملفات SharePoint لتحويل ودمج تنسيقات مستندات البريد الإلكتروني والتصوير لبرنامج Word Excel PDF PowerPoint في Microsoft SharePoint
 ---
 

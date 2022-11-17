@@ -1,7 +1,7 @@
 ---
 title: लोकप्रिय फ़ाइल स्वरूपों के लिए जावा एपीआई - Aspose 
 weight: 60
-url: /hi/java/ 
+
 description: Word Excel PDF PowerPoint Visio OneNote ईमेल प्रोजेक्ट छवियाँ 3D GIS से फ़ाइलों में हेरफेर करने के लिए जावा डेवलपर्स के लिए API का संग्रह।
 ---
 

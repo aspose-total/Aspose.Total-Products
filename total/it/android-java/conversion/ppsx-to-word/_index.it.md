@@ -1,7 +1,7 @@
 ---
 title: Esporta PPSX in WORD su Andorid tramite Java
 description: Converti PPSX in WORD nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/ppsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

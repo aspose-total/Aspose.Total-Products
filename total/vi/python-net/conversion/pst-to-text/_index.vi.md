@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PST sang TEXT bằng Python
 description: Lưu PST thành TEXT trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
-url: /vi/python-net/conversion/pst-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

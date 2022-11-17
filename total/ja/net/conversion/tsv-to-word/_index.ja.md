@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してTSVをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでTSVをWORDに変換する
-url: /ja/net/conversion/tsv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

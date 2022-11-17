@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOTMにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをDOTMにエクスポートする
-url: /ja/android-java/conversion/eml-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

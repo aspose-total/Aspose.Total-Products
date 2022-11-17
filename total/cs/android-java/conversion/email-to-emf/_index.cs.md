@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do EMF v aplikaci Andorid
 description: Exportujte EMAIL do EMF bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

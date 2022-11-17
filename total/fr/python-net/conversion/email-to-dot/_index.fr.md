@@ -1,7 +1,7 @@
 ---
 title: Convertir EMAIL en DOT en Python
 description: Enregistrez EMAIL au format DOT dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/email-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PS-t ICS-be Pythonban
 description: PS mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ps-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

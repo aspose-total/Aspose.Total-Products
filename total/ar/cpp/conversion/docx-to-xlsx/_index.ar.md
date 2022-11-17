@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCX إلى XLSX في C++
 description: C++ API لتحويل DOCX إلى XLSX دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/cpp/conversion/docx-to-xlsx/
+
 family: total
 platformtag: cpp
 feature: conversion

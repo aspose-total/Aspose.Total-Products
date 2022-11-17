@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでRTFをODPに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでRTFからODPに変換
-url: /ja/android-java/conversion/rtf-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ RTFからODPファイルへの変換では、[Maven](https://repository.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ RTFからODPファイルへの変換では、[Maven](https://repository.aspose.c
 Androidアプリケーション内でパスワードで保護されたRTFをODPに変換することもできます。入力RTFドキュメントがパスワードで保護されている場合、パスワードを使用せずにODP形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをRtfumentコンストラクターに渡すことができます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-rtf-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

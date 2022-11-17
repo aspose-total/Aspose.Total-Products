@@ -1,7 +1,7 @@
 ---
 title: Převést EML na DOCM v Pythonu
 description: Uložte EML do DOCM ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/eml-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

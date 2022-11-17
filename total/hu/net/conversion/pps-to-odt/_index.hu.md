@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPS-t ODT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pps-to-odt/ 
+
 description: Konvertálja a PowerPoint pps dokumentumokat Word odt fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

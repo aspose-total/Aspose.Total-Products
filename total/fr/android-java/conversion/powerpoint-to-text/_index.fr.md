@@ -1,7 +1,7 @@
 ---
 title: Exporter POWERPOINT vers TEXT sur Andorid via Java
 description: Convertissez POWERPOINT en TEXT dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/powerpoint-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

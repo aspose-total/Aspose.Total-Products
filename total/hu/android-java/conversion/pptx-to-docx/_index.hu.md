@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTX-ot DOCX-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTX-ot DOCX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

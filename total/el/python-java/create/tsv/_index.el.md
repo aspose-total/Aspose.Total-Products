@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία TSV σε Python
 description: Δημιουργήστε αρχείο TSV χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

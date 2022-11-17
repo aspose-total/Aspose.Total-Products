@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSM Menggunakan .NET
 description: Memodifikasi dokumen XLSM di aplikasi C# VB.NET tanpa menggunakan Microsoft Excel. 
-url: /id/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

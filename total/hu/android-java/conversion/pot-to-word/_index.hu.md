@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

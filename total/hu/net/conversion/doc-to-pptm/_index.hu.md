@@ -1,6 +1,6 @@
 ---
 title: A DOC konvertálása PPTM-re C# .NET-en keresztül 
-url: /hu/net/conversion/doc-to-pptm/ 
+
 description: Konvertálja a Word doc dokumentumokat PowerPoint pptm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

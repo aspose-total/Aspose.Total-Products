@@ -1,7 +1,7 @@
 ---
 title: SharePoint Dosya Biçimi Uygulamaları - SharePoint Uygulamalarında Belgeleri Dönüştür 
 weight: 20
-url: /tr/sharepoint/ 
+
 description: Microsoft SharePoint içinde Word Excel PDF PowerPoint E-posta ve Görüntüleme belge biçimlerini dönüştürmek ve birleştirmek için SharePoint Dosya Biçimi Uygulamaları
 ---
 

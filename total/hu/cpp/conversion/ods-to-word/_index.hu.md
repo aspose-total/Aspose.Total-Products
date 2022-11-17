@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODS-t WORD-ba a C++ segítségével
 description: A ODS konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/ods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

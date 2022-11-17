@@ -1,7 +1,7 @@
 ---
 title: Python'da JPEG'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında JPEG'yi PST'e kaydedin
-url: /tr/python-net/conversion/jpeg-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

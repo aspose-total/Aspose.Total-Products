@@ -1,7 +1,7 @@
 ---
 title: تحويل ICS إلى MD في Python
 description: احفظ ICS في MD في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/ics-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

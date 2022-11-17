@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL a WORDML nell'app Andorid
 description: Esporta EMAIL in WORDML senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/email-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

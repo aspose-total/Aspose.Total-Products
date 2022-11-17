@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t PCL-be Pythonban
 description: Mentse a PST-t PCL formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

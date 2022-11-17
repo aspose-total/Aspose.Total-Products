@@ -1,7 +1,7 @@
 ---
 title: Uppdatera XLSM-fil med Python
 description: Ändra XLSM-dokument i Python-applikationer utan att använda Microsoft Excel. 
-url: /sv/python-java/update/xlsm/
+
 family: total
 platformtag: Python
 feature: update

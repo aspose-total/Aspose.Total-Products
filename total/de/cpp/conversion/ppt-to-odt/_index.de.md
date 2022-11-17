@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von PPT in ODT
 description: Exportieren Sie PPT in ODT innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/ppt-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

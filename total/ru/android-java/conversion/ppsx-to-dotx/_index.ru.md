@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPSX в DOTX на Andorid через Java
 description: Конвертируйте PPSX в DOTX в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/ppsx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

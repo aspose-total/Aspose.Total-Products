@@ -1,7 +1,7 @@
 ---
 title: تحويل OST إلى PS في Python
 description: احفظ OST في PS في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/ost-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

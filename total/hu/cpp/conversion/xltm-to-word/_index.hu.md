@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLTM-t WORD-ba a C++ segítségével
 description: A XLTM konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xltm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

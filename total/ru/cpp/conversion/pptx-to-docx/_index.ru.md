@@ -1,7 +1,7 @@
 ---
 title: C++ API для преобразования PPTX в DOCX
 description: Экспорт PPTX в DOCX в ваших приложениях C++
-url: /ru/cpp/conversion/pptx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

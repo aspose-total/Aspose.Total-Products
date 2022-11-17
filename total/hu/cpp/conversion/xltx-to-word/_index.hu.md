@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLTX-t WORD-ba a C++ segítségével
 description: A XLTX konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xltx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

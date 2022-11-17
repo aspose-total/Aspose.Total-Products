@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSX-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSX-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

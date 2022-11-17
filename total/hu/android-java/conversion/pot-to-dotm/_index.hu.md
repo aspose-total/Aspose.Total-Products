@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot DOTM-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot DOTM-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

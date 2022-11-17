@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PS-t EML-be Pythonban
 description: PS mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ps-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

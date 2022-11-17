@@ -1,7 +1,7 @@
 ---
 title: Преобразование ICS в PNG в Python
 description: Сохраняйте ICS в PNG в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/ics-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

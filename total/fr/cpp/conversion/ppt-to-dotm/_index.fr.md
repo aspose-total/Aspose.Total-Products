@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir PPT en DOTM
 description: Exportez PPT vers DOTM dans vos applications C++
-url: /fr/cpp/conversion/ppt-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Python-bibliotheken voor bestandsautomatisering - Aspose
-url: /nl/python-java/
+
 url_ignore: /python-java/ 
 description: Python-bibliotheken voor het ontleden van Excel-spreadsheets, het genereren en scannen van streepjescodes en het verwerken van Visio-diagrammen
 ---

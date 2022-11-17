@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PDF na TXT w Androidzie przez Javę
 description: Renderuj PDF do TXT w Androidzie za pomocą Java API bez użycia Microsoft Excel lub Adobe Reader
-url: /pl/android-java/conversion/pdf-to-txt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 [Aspose.PDF na Androida przez Javę](https://products.aspose.com/pdf/android-java/) umożliwia dostęp do metadanych XMP pliku PDF. Aby uzyskać metadane, utwórz obiekt [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) i otwórz wejściowy plik PDF i użyj [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) w celu pobrania metadanych.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com
 [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/) obsługuje ochronę Twojego pliku TXT w zależności od Twoich potrzeb. Aby chronić swój dokument, możesz użyć metody [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-txt.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-txt.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

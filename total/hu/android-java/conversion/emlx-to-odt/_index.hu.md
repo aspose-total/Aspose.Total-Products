@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t ODT-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t ODT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

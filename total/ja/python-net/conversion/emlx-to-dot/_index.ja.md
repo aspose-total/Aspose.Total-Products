@@ -1,7 +1,7 @@
 ---
 title: Python で EMLX を DOT に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMLX を DOT に保存します。 
-url: /ja/python-net/conversion/emlx-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

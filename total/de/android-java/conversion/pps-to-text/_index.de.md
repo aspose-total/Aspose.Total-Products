@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPS nach TEXT auf Andorid über Java
 description: Konvertieren Sie PPS in TEXT in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

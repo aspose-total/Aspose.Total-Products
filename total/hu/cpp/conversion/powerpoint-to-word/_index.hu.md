@@ -1,7 +1,7 @@
 ---
 title: C++ API a POWERPOINT WORD formátumba konvertálásához
 description: Exportálja a POWERPOINT-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/powerpoint-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

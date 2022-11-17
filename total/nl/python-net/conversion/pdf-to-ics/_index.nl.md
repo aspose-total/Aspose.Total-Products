@@ -1,7 +1,7 @@
 ---
 title: Converteer PDF naar ICS in Python
 description: Bewaar PDF naar ICS binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/pdf-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

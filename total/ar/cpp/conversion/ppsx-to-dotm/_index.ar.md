@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل PPSX إلى DOTM
 description: قم بتصدير PPSX إلى DOTM داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/ppsx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

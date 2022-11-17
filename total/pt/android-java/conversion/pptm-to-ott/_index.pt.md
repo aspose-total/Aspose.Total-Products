@@ -1,7 +1,7 @@
 ---
 title: Exportar PPTM para OTT no Andorid via Java
 description: Converta PPTM para OTT em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

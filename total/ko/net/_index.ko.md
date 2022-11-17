@@ -1,7 +1,7 @@
 ---
 title: C# .NET 파일 자동화 API - Aspose 
 weight: 30
-url: /ko/net/ 
+
 description: C# ASP.NET VB.NET API를 사용하여 모든 유형의 문서를 변환하고 렌더링할 수 있습니다.
 ---
 

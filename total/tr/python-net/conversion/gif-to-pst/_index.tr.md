@@ -1,7 +1,7 @@
 ---
 title: Python'da PST'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PST'yi PST'e kaydedin
-url: /tr/python-net/conversion/gif-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

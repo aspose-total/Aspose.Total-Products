@@ -1,7 +1,7 @@
 ---
 title: تحويل POT إلى RTF في Python
 description: تحويل POT إلى RTF في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/pot-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

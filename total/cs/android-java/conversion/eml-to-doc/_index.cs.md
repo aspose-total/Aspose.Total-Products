@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do DOC v aplikaci Andorid
 description: Exportujte EML do DOC bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

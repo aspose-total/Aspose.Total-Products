@@ -1,7 +1,7 @@
 ---
 title: Konvertera CSV till DOCX med .NET 
 description: Konvertera CSV till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/csv-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

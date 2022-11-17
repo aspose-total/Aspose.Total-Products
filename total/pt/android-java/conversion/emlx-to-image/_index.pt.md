@@ -1,7 +1,7 @@
 ---
 title: Renderize EMLX para IMAGE no aplicativo Andorid
 description: Exporte EMLX para IMAGE sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

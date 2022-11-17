@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t GIF-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t GIF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

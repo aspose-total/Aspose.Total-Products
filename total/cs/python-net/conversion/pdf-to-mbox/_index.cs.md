@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na MBOX v Pythonu
 description: Ukládejte PDF do MBOX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/pdf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

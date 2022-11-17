@@ -1,7 +1,7 @@
 ---
 title: Converti MBOX in WORDML in Python
 description: Salva MBOX in WORDML nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/mbox-to-wordml/
+
 family: total
 platformtag: Python
 feature: conversion

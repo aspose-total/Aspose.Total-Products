@@ -1,7 +1,7 @@
 ---
 title: Converter o formato JSON para OTP via C++
 description: Analise JSON para OTP em C++ sem usar o Microsoft PowerPoint
-url: /pt/cpp/conversion/json-to-otp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 Ao analisar JSON para OTP, você também pode definir o tamanho de linhas e colunas carregando JSON com a classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Se você precisar definir a mesma altura de linha para todas as linhas na planilha, poderá fazê-lo usando o [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) da coleção [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Da mesma forma, para definir a mesma largura de coluna para todas as colunas na planilha, use o método [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) da coleção ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ao analisar JSON para OTP, você também pode definir o tamanho de linhas e colu
 Usando a API, você também pode converter JSON em OTP com marca d'água. Para adicionar uma marca d'água ao seu documento OTP, você pode primeiro analisar JSON para PPTX e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PPTX recém-criado usando a classe [Apresentação](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation), obtenha o primeiro slide, adicione um AutoForma do tipo Retângulo, adicione TextFrame ao Retângulo, crie o objeto Paragraph para um quadro de texto, crie o objeto Portion para o parágrafo, adicione marca d'água usando set_Text() e pode salvar o documento em OTP.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

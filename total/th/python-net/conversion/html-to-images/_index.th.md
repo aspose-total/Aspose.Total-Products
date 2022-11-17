@@ -1,7 +1,7 @@
 ---
 title: แปลง HTML เป็นรูปภาพใน Python
 description: การแปลง HTML เป็นรูปภาพ TIFF BMP PNG JPEG GIF SVG ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word 
-url: /th/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

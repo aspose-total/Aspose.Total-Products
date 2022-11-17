@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOC in Bilder in Python
 description: Konvertierung von DOC in Bild TIFF BMP PNG JPEG GIF SVG in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word 
-url: /de/python-net/conversion/doc-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

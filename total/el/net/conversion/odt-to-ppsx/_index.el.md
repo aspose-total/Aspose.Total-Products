@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή ODT σε PPSX μέσω C# .NET 
-url: /el/net/conversion/odt-to-ppsx/ 
+
 description: Μετατρέψτε έγγραφα Word odt σε αρχεία ppsx PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

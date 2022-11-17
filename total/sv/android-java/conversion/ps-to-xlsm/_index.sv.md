@@ -1,7 +1,7 @@
 ---
 title: Konvertera PS till XLSM i Android via Java
 description: Rendera PS till XLSM i Android via Java API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/android-java/conversion/ps-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) låter dig komma åt en PS-fils XMP-metadata. För att få metadata, skapa ett [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)-objekt och öppna PS-inmatningsfilen och använd [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) för att hämta metadata.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) stöder skydd av din XLSM-fil beroende på dina behov. För att skydda ditt dokument kan du använda metoden [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) enligt [Arbetsbok](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klass.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

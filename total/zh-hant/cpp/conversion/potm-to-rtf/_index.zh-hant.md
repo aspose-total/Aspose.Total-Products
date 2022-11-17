@@ -1,7 +1,7 @@
 ---
 title: 將 POTM 轉換為 RTF 的 C++ API
 description: 在 C++ 應用程序中將 POTM 導出為 RTF
-url: /zh-hant/cpp/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

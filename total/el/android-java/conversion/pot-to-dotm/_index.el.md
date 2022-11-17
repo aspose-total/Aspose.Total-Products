@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή POT σε DOTM στο Andorid μέσω Java
 description: Μετατρέψτε το POT σε DOTM σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/pot-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t EMAIL-be Pythonban
 description: WORDML mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

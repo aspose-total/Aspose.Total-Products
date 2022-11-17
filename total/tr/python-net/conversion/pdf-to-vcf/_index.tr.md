@@ -1,7 +1,7 @@
 ---
 title: Python'da PDF'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PDF'yi VCF'e kaydedin
-url: /tr/python-net/conversion/pdf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

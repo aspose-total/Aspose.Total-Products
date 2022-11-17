@@ -1,6 +1,6 @@
 ---
 title: Microsoft Excel स्प्रेडशीट और Visio स्वरूपों का पायथन के माध्यम से रूपांतरण 
-url: /hi/python-java/conversion/
+
 description: एक्सेल फाइल्स XLS XLSX XLSM XLSB XLTX XLTM CSV और अधिक के साथ-साथ Visio फॉर्मेट VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM आदि को पायथन कोड की कुछ पंक्तियों में कनवर्ट करें।
 ---
 

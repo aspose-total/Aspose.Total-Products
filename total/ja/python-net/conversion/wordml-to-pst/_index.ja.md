@@ -1,7 +1,7 @@
 ---
 title: Python で WORDML を PST に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で WORDML を PST に保存します。
-url: /ja/python-net/conversion/wordml-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEXT-t EML-be Pythonban
 description: TEXT mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/text-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

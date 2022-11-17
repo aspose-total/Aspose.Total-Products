@@ -1,6 +1,6 @@
 ---
 title: 通過 Android API 進行文檔轉換 
-url: /zh-hant/android-java/conversion/
+
 description: 使用 Android 轉換 API 轉換 Word、Excel、PowerPoint、HTML、PDF 和圖像格式。 Android 將 Office docx、xlsx、pptx 轉換為 PDF。 
 ---
 

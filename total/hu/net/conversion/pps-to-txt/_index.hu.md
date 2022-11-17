@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPS-t TXT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pps-to-txt/ 
+
 description: Konvertálja a PowerPoint pps dokumentumokat Word txt fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Esporta POWERPOINT in DOCX su Andorid tramite Java
 description: Converti POWERPOINT in DOCX nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/powerpoint-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

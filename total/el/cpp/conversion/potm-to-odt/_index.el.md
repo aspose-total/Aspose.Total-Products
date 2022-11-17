@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή POTM σε ODT
 description: Εξαγωγή POTM σε ODT στις εφαρμογές σας C++
-url: /el/cpp/conversion/potm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

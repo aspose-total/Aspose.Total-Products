@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή μορφής αρχείου μέσω C# 
-url: /el/net/conversion/
+
 description: Μετατρέψτε τα Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, τρισδιάστατες εικόνες, διαγράμματα, μορφές βίντεο και πολλά άλλα δημοφιλή αρχεία με λίγες μόνο γραμμές κώδικα C#.
 ---
 

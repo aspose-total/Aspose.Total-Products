@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XLTX na WORD za pomocą .NET 
 description: Konwertuj XLTX na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin
-url: /pl/net/conversion/xltx-to-word/
+
 family: total
 platformtag: net
 feature: conversion

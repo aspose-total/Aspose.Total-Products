@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi IMAGE sang VCF bằng Python
 description: Lưu IMAGE thành VCF trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/image-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

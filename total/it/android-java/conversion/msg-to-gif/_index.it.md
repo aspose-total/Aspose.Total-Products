@@ -1,7 +1,7 @@
 ---
 title: Render MSG a GIF nell'app Andorid
 description: Esporta MSG in GIF senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/msg-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t MSG-be Pythonban
 description: MD mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

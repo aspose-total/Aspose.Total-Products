@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t EMLX-be Pythonban
 description: MD mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

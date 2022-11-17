@@ -1,7 +1,7 @@
 ---
 title: Converti PDF in OST in Python
 description: Salva PDF in OST all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/pdf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

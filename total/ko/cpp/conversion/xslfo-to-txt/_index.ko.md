@@ -1,7 +1,7 @@
 ---
 title: XSLFO을 TXT로 변환하는 C++ API
 description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 C++ API를 통해 XSLFO을 TXT로 변환
-url: /ko/cpp/conversion/xslfo-to-txt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: ODS XLT SXC XLAM XLTX DIF TSV FODS XLSB CSV MD EXCEL
 {{< blocks/products/pf/feature-page-header h1="C++ 응용 프로그램에서 XSLFO을 TXT로 렌더링" h2="Microsoft<sup>&reg;</sup> Excel 또는 Adobe<sup>&reg;</sup> Acrobat Reader 없이 기본 C++ 응용 프로그램에서 XSLFO을 TXT로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) 파일 형식 자동화 라이브러리를 통해 C++에서 XSLFO을 TXT로 변환하는 것은 간단한 2단계 프로세스입니다. 첫 번째 단계에서는 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/)를 사용하여 XSLFO을 XLSX로 내보낼 수 있으며, 그 후 [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) 스프레드시트 프로그래밍 API, XLSX를 TXT로 변환할 수 있습니다. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) 파일 형식 자동화 라이브러리를 통해 C++에서 XSLFO을 TXT로 변환하는 것은 간단한 2단계 프로세스입니다. 첫 번째 단계에서는 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/)를 사용하여 XSLFO을 XLSX로 내보낼 수 있으며, 그 후 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) 스프레드시트 프로그래밍 API, XLSX를 TXT로 변환할 수 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -32,7 +32,8 @@ otherformats: ODS XLT SXC XLAM XLTX DIF TSV FODS XLSB CSV MD EXCEL
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: ODS XLT SXC XLAM XLTX DIF TSV FODS XLSB CSV MD EXCEL
 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/)를 사용하면 XSLFO 문서에 대한 정보를 얻을 수 있으며 변환 프로세스 전에 정보에 입각한 결정을 내릴 수 있습니다. XSLFO 파일의 파일별 정보를 얻으려면 먼저 [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) 메서드를 호출해야 합니다. [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) 클래스입니다. DocumentInfo 개체가 검색되면 개별 속성의 값을 가져올 수 있습니다. 또한 DocumentInfo 클래스의 각 메소드를 사용하여 속성을 설정할 수도 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: ODS XLT SXC XLAM XLTX DIF TSV FODS XLSB CSV MD EXCEL
 [Aspose.Cells for C++](https://products.aspose.com/cells/net/)를 사용하면 TXT 파일 형식을 스트리밍에 저장할 수 있습니다. 스트림에 파일을 저장하려면 MemoryStream 또는 FileStream 객체를 만들고 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)을 호출하여 해당 스트림 객체에 파일을 저장합니다. 개체의 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 메서드입니다. Save 메서드를 호출할 때 [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) 열거를 사용하여 원하는 파일 형식을 지정합니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-txt-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-txt-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

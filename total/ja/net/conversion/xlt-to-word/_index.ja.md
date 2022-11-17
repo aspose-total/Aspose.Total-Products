@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTをWORDに変換する
-url: /ja/net/conversion/xlt-to-word/
+
 family: total
 platformtag: net
 feature: conversion

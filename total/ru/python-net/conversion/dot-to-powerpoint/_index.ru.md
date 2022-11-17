@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в POWERPOINT в Python
 description: Преобразование DOT в POWERPOINT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/dot-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

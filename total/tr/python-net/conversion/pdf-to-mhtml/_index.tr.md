@@ -1,7 +1,7 @@
 ---
 title: Python'da PDF'yi MHTML'ye Dönüştür
 description: Python uygulamalarınızda Microsoft Word kullanmadan PDF'den mhtml Web arşiv formatına ve HtmlFixed dosya dönüştürme 
-url: /tr/python-net/conversion/pdf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

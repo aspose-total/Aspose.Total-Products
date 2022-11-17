@@ -1,7 +1,7 @@
 ---
 title: Convertir EML a ODT en Python
 description: Guarde EML en ODT en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/eml-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

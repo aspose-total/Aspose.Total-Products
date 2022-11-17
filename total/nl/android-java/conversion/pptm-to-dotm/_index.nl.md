@@ -1,7 +1,7 @@
 ---
 title: Exporteer PPTM naar DOTM op Andorid via Java
 description: Converteer PPTM naar DOTM in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/pptm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

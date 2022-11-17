@@ -1,6 +1,6 @@
 ---
 title: Convierta POTM a TXT a través de C# .NET 
-url: /es/net/conversion/potm-to-txt/ 
+
 description: Convierta documentos potm de PowerPoint en archivos txt de Word con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
 ---
 

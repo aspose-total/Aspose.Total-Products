@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t DOT-be Pythonban
 description: Mentse a PST-t DOT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

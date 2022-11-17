@@ -1,7 +1,7 @@
 ---
 title: Skicka MSG till PS i Andorid-appen
 description: Exportera MSG till PS utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

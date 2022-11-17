@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε JPEG στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε JPEG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t EMLX-be Pythonban
 description: DOTX mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotx-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в PPSM в Python
 description: Преобразование WORD в PPSM в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/word-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

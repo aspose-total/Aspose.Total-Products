@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POT'u TEXT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POT'u TEXT'ye dönüştürün
-url: /tr/android-java/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

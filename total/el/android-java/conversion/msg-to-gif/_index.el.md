@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε GIF στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε GIF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

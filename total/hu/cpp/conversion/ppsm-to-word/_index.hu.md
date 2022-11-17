@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSM WORD formátumba konvertálásához
 description: Exportálja a PPSM-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

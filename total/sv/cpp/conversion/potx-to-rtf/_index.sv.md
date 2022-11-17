@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera POTX till RTF
 description: Exportera POTX till RTF i dina C++-applikationer
-url: /sv/cpp/conversion/potx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

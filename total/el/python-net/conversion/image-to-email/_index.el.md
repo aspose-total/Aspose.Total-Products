@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή IMAGE σε EMAIL στην Python
 description: Αποθηκεύστε το IMAGE σε EMAIL εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/image-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

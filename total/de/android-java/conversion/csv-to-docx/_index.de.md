@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie CSV in DOCX in Android
 description: Android-API zum Konvertieren von CSV in DOCX ohne Verwendung von Microsoft Word
-url: /de/android-java/conversion/csv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

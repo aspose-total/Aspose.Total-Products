@@ -1,7 +1,7 @@
 ---
 title: API C++ para converter POT em DOTX
 description: Exporte POT para DOTX em seus aplicativos C++
-url: /pt/cpp/conversion/pot-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

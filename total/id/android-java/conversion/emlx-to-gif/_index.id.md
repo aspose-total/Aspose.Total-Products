@@ -1,7 +1,7 @@
 ---
 title: Render EMLX ke GIF di Aplikasi Andorid
 description: Ekspor EMLX ke GIF tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/emlx-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot DOCX-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot DOCX-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

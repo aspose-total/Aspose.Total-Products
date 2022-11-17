@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή TXT σε PPTM στην Python
 description: Μετατροπή TXT σε PPTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/txt-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

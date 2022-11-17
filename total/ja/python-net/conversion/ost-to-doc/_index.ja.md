@@ -1,7 +1,7 @@
 ---
 title: Python で OST を DOC に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OST を DOC に保存します。 
-url: /ja/python-net/conversion/ost-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

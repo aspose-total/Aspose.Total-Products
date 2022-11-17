@@ -1,7 +1,7 @@
 ---
 title: C++でSXCをPPTXに変換する
 description: C++アプリケーション内でSXCをPPTXに変換する
-url: /ja/cpp/conversion/sxc-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

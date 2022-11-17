@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t GIF-be Pythonban
 description: Mentse a PST-t GIF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

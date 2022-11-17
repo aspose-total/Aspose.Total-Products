@@ -1,7 +1,7 @@
 ---
 title: Renderizar MSG a TEXT en la aplicación Andorid
 description: Exporte MSG a TEXT sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/msg-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

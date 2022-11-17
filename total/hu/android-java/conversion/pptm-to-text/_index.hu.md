@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

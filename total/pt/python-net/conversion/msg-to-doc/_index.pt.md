@@ -1,7 +1,7 @@
 ---
 title: Converter MSG para DOC em Python
 description: Salve MSG para DOC em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/msg-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na PPS přes C# .NET 
-url: /cs/net/conversion/odt-to-pps/ 
+
 description: Převeďte dokumenty Word odt na soubory PowerPoint pps pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

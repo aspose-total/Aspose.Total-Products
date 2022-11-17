@@ -1,7 +1,7 @@
 ---
 title: Converteer POTM naar WORD in Python
 description: POTM naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/potm-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

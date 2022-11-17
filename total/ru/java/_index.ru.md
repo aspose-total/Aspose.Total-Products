@@ -1,7 +1,7 @@
 ---
 title: API Java для популярных форматов файлов — Aspose 
 weight: 60
-url: /ru/java/ 
+
 description: Коллекция API-интерфейсов для Java-разработчиков для управления файлами из Word Excel PDF PowerPoint Visio OneNote Email Project Картинки 3D GIS.
 ---
 

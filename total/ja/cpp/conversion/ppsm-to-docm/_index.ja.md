@@ -1,7 +1,7 @@
 ---
 title: PPSMをDOCMに変換するC++API
 description: C++アプリケーション内でPPSMをDOCMにエクスポートする
-url: /ja/cpp/conversion/ppsm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

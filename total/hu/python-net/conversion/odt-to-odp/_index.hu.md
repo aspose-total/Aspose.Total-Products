@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODT-t ODP-be Pythonban
 description: ODT-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/odt-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer EML naar DOT in Python
 description: Bewaar EML naar DOT in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/eml-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

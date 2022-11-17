@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 PPTX 轉換為 DOC
 description: 在 Python 應用程序中將 PPTX 轉換為 DOC，而無需使用 Microsoft Word 或 PowerPoint 
-url: /zh-hant/python-net/conversion/pptx-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

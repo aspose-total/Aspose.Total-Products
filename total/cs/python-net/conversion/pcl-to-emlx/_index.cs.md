@@ -1,7 +1,7 @@
 ---
 title: Převést PCL na EMLX v Pythonu
 description: Ukládejte PCL do EMLX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/pcl-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

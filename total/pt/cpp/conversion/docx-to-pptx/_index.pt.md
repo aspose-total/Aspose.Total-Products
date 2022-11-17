@@ -1,7 +1,7 @@
 ---
 title: Converter DOCX para PPTX via C++
 description: Exporte DOCX para PPTX em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint
-url: /pt/cpp/conversion/docx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POTX PPTM POT PPSX PPS PPT PPSM POTM POWERPOINT ODP
 {{< blocks/products/pf/feature-page-header h1="API C++ para converter DOCX em PPTX" h2="Exporte DOCX para PPTX em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de DOCX para PPTX usando duas de suas APIs. Carregue seu DOCX usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como PPTX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de DOCX para PPTX usando duas de suas APIs. Carregue seu DOCX usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

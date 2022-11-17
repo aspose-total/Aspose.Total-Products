@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでWORDをPPTに変換する
 description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDからPPTに変換
-url: /ja/android-java/conversion/word-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ WORDからPPTファイルへの変換では、[Maven](https://repository.aspose.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ WORDからPPTファイルへの変換では、[Maven](https://repository.aspose.
 Androidアプリケーション内でパスワードで保護されたWORDをPPTに変換することもできます。入力WORDドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPT形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをWordumentコンストラクターに渡すことができます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

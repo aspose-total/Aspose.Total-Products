@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर FLATOPC को PPSM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPSM को FLATOPC में बदलें
-url: /hi/android-java/conversion/ppsm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

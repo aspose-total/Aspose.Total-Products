@@ -1,7 +1,7 @@
 ---
 title: モバイルアプリ用のAndroidファイル形式処理API-Aspose 
 weight: 50
-url: /ja/android-java/ 
+
 description: Word ExcelPDFPowerPointおよび電子メール用のAndroidファイル形式API。プログラムで編集レンダリングを作成し、モバイルアプリ内でドキュメント形式を変換します
 ---
 

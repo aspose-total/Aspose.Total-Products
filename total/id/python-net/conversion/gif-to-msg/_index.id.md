@@ -1,7 +1,7 @@
 ---
 title: Konversi MSG ke MSG dengan Python
 description: Simpan MSG ke MSG dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/gif-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

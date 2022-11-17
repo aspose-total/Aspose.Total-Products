@@ -1,7 +1,7 @@
 ---
 title: Converteer WORD naar afbeeldingen in Python
 description: WORD naar afbeelding TIFF BMP PNG JPEG GIF SVG-conversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/word-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

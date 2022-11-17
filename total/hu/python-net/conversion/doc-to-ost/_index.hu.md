@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t OST-be Pythonban
 description: DOC mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/doc-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

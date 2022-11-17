@@ -1,7 +1,7 @@
 ---
 title: Преобразование FLATOPC в EMAIL в Python
 description: Сохраняйте FLATOPC в EMAIL в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/flatopc-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

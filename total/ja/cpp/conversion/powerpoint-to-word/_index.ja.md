@@ -1,7 +1,7 @@
 ---
 title: POWERPOINTをWORDに変換するC++API
 description: C++アプリケーション内でPOWERPOINTをWORDにエクスポートする
-url: /ja/cpp/conversion/powerpoint-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

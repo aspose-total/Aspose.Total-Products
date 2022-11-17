@@ -1,7 +1,7 @@
 ---
 title: Konversi RTF ke EMLX dengan Python
 description: Simpan RTF ke EMLX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/rtf-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で TXT を PPTX に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで TXT から PPTX への変換 
-url: /ja/python-net/conversion/txt-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

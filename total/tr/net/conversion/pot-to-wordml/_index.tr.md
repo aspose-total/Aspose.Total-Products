@@ -1,6 +1,6 @@
 ---
 title: POT'yi C# .NET aracılığıyla WORDML'ye dönüştürün 
-url: /tr/net/conversion/pot-to-wordml/ 
+
 description: PowerPoint pot belgelerini C# ile Word wordml dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

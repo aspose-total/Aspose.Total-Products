@@ -1,6 +1,6 @@
 ---
 title: Konverze dokumentů přes C++ 
-url: /cs/cpp/conversion/
+
 description: Převádějte různé formáty dokumentů, jako je Word, Excel, PowerPoint, PDF, JSON, obrázky a další, pomocí C++ API. 
 ---
 

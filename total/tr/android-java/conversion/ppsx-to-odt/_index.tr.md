@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPSX'u ODT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSX'u ODT'ye dönüştürün
-url: /tr/android-java/conversion/ppsx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

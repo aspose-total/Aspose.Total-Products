@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή POTX σε OTT
 description: Εξαγωγή POTX σε OTT στις εφαρμογές σας C++
-url: /el/cpp/conversion/potx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

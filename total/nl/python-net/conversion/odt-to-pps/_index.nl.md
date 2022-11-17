@@ -1,7 +1,7 @@
 ---
 title: Converteer ODT naar PPS in Python
 description: ODT naar PPS-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/odt-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

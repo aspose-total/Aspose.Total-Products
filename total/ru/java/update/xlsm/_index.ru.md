@@ -1,7 +1,7 @@
 ---
 title: Обновите файл XLSM с помощью Java
 description: Измените документ XLSM в приложениях Java без использования Microsoft Excel. Оптимизируйте код для быстрого написания и редактирования файла Excel в Java.
-url: /ru/java/update/xlsm/
+
 family: total
 platformtag: Java
 feature: update

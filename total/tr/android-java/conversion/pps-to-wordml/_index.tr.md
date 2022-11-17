@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u WORDML'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u WORDML'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

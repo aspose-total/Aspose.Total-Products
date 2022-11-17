@@ -1,7 +1,7 @@
 ---
 title: Render EML naar PNG in de Andorid-app
 description: Exporteer EML naar PNG zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/eml-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

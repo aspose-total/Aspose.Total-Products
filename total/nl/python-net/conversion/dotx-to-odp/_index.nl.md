@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTX naar ODP in Python
 description: DOTX naar ODP-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/dotx-to-odp/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORD sang MSG bằng Python
 description: Lưu WORD thành MSG trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/word-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

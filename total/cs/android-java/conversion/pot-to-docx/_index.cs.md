@@ -1,7 +1,7 @@
 ---
 title: Export POT do DOCX na Andorid přes Java
 description: Převeďte POT na DOCX v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/pot-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

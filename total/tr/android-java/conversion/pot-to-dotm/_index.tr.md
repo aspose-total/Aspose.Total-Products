@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POT'u DOTM'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POT'u DOTM'ye dönüştürün
-url: /tr/android-java/conversion/pot-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

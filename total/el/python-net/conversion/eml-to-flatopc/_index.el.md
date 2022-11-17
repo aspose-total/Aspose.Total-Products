@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EML σε FLATOPC στην Python
 description: Αποθηκεύστε το EML σε FLATOPC στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/eml-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

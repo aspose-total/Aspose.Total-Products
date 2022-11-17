@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir PPTX en RTF
 description: Exportez PPTX vers RTF dans vos applications C++
-url: /fr/cpp/conversion/pptx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

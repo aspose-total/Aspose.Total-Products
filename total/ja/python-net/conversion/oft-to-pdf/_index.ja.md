@@ -1,7 +1,7 @@
 ---
 title: Python で OFT を PDF に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OFT を PDF に保存します。 
-url: /ja/python-net/conversion/oft-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: DOCM konvertálása MHTML-re Pythonban
 description: DOCM-ből mhtml webarchívum-formátumba és HTML-fix fájlkonverzió a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/docm-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

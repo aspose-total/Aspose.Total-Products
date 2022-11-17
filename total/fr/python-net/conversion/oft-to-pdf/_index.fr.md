@@ -1,7 +1,7 @@
 ---
 title: Convertir OFT en PDF en Python
 description: Enregistrez OFT au format PDF dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/oft-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

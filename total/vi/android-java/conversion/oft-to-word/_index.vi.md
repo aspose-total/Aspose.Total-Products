@@ -1,7 +1,7 @@
 ---
 title: Kết xuất OFT thành WORD trong ứng dụng Andorid
 description: Xuất OFT sang WORD mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

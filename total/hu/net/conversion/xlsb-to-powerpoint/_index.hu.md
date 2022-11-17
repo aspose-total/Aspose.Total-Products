@@ -1,7 +1,7 @@
 ---
 title: A XLSB konvertálása POWERPOINT formátumba .NET segítségével 
 description: A XLSB konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlsb-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: ส่งออก POTM เป็น ODT บน Andorid ผ่าน Java
 description: แปลง POTM เป็น ODT ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ
-url: /th/android-java/conversion/potm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

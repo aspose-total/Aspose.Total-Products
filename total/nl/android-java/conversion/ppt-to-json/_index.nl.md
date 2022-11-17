@@ -1,7 +1,7 @@
 ---
 title: Converteer PPT naar JSON in Android via Java
 description: Converteer PPT naar JSON in Android via Java zonder Microsoft Excel of PowerPoint te gebruiken
-url: /nl/android-java/conversion/ppt-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw PPT-invoerdocument met een wachtwoord is beveiligd, kunt u het niet naar JSON converteren zonder het wachtwoord te gebruiken. Met de API kunt u het versleutelde document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u kunt proberen een versleuteld document met een wachtwoord te openen:
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Met behulp van de API kunt u ook het met een wachtwoord beveiligde document open
 Tijdens het converteren van een PPT-bestand naar JSON, kunt u ook een watermerk toevoegen aan uw uitvoer-JSON-bestandsformaat. Om een watermerk toe te voegen, maakt u een nieuwe werkmap om het geconverteerde HTML-bestand te openen. Selecteer werkblad via de index, maak een vorm en gebruik de functie addTextEffect, stel kleuren, transparantie en meer in. Daarna kunt u uw HTML-document opslaan als JSON met Watermark.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

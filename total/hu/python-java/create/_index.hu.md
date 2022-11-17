@@ -1,6 +1,6 @@
 ---
 title: Microsoft Excel-fájlok létrehozása és frissítése Python használatával 
-url: /hu/python-java/create/
+
 description: Hozzon létre Microsoft Excel munkalapjelentéseket a Microsoft Office telepítése nélkül 
 ---
 

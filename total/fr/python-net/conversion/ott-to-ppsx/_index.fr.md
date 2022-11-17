@@ -1,7 +1,7 @@
 ---
 title: Convertir OTT en PPSX en Python
 description: Conversion OTT en PPSX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/ott-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

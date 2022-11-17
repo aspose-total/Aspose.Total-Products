@@ -1,7 +1,7 @@
 ---
 title: Converti EMAIL in DOTX in Python
 description: Salva EMAIL in DOTX nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/email-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

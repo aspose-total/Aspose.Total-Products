@@ -1,7 +1,7 @@
 ---
 title: Převést EPUB na ICS v Pythonu
 description: Ukládejte EPUB do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/epub-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

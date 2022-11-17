@@ -1,7 +1,7 @@
 ---
 title: Конвертировать POTM в SXC через C++
 description: Экспорт POTM в SXC на C++ без использования Microsoft Excel или Powerpoint
-url: /ru/cpp/conversion/potm-to-sxc/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: TSV FODS XLSM ODS CSV XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: TSV FODS XLSM ODS CSV XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 С помощью API вы также можете открыть защищенный паролем документ. Если ваш входной документ POTM защищен паролем, вы не сможете преобразовать его в SXC без использования пароля. Когда ваш документ защищен паролем, это означает, что он налагает определенные ограничения на представление. Для снятия ограничений необходимо ввести пароль. Презентация, защищенная паролем, считается заблокированной презентацией. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions. В следующем примере кода показано, как открыть зашифрованный документ с помощью пароля.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

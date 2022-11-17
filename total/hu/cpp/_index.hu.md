@@ -1,7 +1,7 @@
 ---
 title: C++ fájlformátum-feldolgozási API-k – Aspose 
 weight: 70
-url: /hu/cpp/ 
+
 description: A C++ könyvtárak írási renderelést írnak le, és több dokumentumformátumot konvertálnak.
 ---
 

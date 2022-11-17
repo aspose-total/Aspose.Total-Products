@@ -1,7 +1,7 @@
 ---
 title: Konversi POWERPOINT ke DOC dengan Python
 description: Konversi POWERPOINT ke DOC dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
-url: /id/python-net/conversion/powerpoint-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

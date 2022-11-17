@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL a PCL nell'app Andorid
 description: Esporta EMAIL in PCL senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/email-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

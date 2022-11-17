@@ -1,7 +1,7 @@
 ---
 title: XLT fájl frissítése .NET használatával
 description: XLT dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

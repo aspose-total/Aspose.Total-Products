@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してPPTをDOCXに変換する 
-url: /ja/net/conversion/ppt-to-docx/ 
+
 description: PowerPointのpptドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

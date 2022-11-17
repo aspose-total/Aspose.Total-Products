@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t PPT-vé Androidon Java segítségével
 description: DOCX konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül
-url: /hu/android-java/conversion/docx-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion

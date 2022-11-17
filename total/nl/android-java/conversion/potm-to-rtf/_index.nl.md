@@ -1,7 +1,7 @@
 ---
 title: Exporteer POTM naar RTF op Andorid via Java
 description: Converteer POTM naar RTF in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

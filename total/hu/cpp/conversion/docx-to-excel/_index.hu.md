@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t EXCEL-vé C++-ban
 description: C++ API a DOCX konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion

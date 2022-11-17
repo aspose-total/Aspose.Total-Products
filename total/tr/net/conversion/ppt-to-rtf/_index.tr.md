@@ -1,6 +1,6 @@
 ---
 title: PPT'yi C# .NET aracılığıyla RTF'ye dönüştürün 
-url: /tr/net/conversion/ppt-to-rtf/ 
+
 description: PowerPoint ppt belgelerini C# ile Word rtf dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

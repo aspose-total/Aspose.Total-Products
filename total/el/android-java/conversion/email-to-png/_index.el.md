@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε PNG στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε PNG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

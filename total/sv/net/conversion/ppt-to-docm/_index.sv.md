@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPT till DOCM via C# .NET 
-url: /sv/net/conversion/ppt-to-docm/ 
+
 description: Konvertera PowerPoint ppt-dokument till Word-docm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

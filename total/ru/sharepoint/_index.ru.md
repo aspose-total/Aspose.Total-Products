@@ -1,7 +1,7 @@
 ---
 title: Приложения формата файлов SharePoint — преобразование документов в приложениях SharePoint 
 weight: 20
-url: /ru/sharepoint/ 
+
 description: Приложения формата файлов SharePoint для преобразования и объединения форматов документов Word Excel PDF PowerPoint Email и Imaging в Microsoft SharePoint
 ---
 

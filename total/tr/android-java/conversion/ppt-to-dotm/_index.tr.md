@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u DOTM'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u DOTM'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

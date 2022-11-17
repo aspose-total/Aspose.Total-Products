@@ -1,7 +1,7 @@
 ---
 title: Konversi XLT ke Gambar menggunakan Python
 description: Konversi XLT ke gambar TIFF BMP PNG JPEG GIF EMF SVG dalam aplikasi Python Anda tanpa menggunakan Microsoft Excel 
-url: /id/python-java/conversion/xlt-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

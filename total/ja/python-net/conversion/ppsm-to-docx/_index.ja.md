@@ -1,7 +1,7 @@
 ---
 title: Python で PPSM を DOCX に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPSM から DOCX への変換 
-url: /ja/python-net/conversion/ppsm-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

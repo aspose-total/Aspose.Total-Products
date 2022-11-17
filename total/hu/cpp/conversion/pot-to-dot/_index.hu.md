@@ -1,7 +1,7 @@
 ---
 title: C++ API a POT DOT formátumba konvertálásához
 description: Exportálja a POT-ot DOT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pot-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

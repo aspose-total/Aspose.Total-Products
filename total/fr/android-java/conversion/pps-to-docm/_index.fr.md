@@ -1,7 +1,7 @@
 ---
 title: Exporter PPS vers DOCM sur Andorid via Java
 description: Convertissez PPS en DOCM dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/pps-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

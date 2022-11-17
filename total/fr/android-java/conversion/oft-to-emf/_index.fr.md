@@ -1,7 +1,7 @@
 ---
 title: Rendre OFT en EMF dans l'application Andorid
 description: Exportez OFT vers EMF sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/oft-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Twórz i aktualizuj pliki Microsoft Excel za pomocą Pythona 
-url: /pl/python-java/create/
+
 description: Twórz raporty arkuszy Microsoft Excel bez instalowania pakietu Microsoft Office 
 ---
 

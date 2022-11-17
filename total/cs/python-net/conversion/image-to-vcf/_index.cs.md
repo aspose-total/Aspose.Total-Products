@@ -1,7 +1,7 @@
 ---
 title: Převést IMAGE na VCF v Pythonu
 description: Ukládejte IMAGE do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/image-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

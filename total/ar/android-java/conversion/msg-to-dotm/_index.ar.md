@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى DOTM في تطبيق Andorid
 description: قم بتصدير MSG إلى DOTM دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/msg-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

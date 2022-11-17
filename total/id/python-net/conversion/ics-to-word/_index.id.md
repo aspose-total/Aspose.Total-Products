@@ -1,7 +1,7 @@
 ---
 title: Konversi ICS ke WORD dengan Python
 description: Simpan ICS ke WORD di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/ics-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

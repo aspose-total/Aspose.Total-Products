@@ -1,7 +1,7 @@
 ---
 title: A XLS konvertálása DOCX formátumba .NET segítségével 
 description: A XLS konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xls-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

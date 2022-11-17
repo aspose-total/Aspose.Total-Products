@@ -1,7 +1,7 @@
 ---
 title: Convertir OST en PCL en Python
 description: Enregistrez OST au format PCL dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ost-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

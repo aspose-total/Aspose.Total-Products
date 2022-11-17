@@ -1,7 +1,7 @@
 ---
 title: .NET ile XLS'yi POWERPOINT'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'yi POWERPOINT'ye dönüştürün
-url: /tr/net/conversion/xls-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

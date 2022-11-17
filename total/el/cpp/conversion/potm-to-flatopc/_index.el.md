@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή POTM σε FLATOPC
 description: Εξαγωγή POTM σε FLATOPC στις εφαρμογές σας C++
-url: /el/cpp/conversion/potm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

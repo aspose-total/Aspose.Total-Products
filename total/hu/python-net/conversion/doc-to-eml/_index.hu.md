@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOC-t EML-be Pythonban
 description: DOC mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/doc-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

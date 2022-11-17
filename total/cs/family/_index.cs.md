@@ -1,7 +1,7 @@
 ---
 title: Rozhraní API pro automatizaci formátu souborů pro více platforem - Aspose 
 weight: 10
-url: /cs/family/
+
 description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OCR Imaging OneNote 3D a CAD Manipulation API pro .NET, Java, Android, C++. Komponenty pro SharePoint, rozšíření pro Reporting Services a exportéry pro JasperReports.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Tạo XLSB bằng Python
 description: Tạo tệp XLSB bằng các ứng dụng Python mà không cần sử dụng Microsoft Office. 
-url: /vi/python-java/create/xlsb/
+
 family: total
 platformtag: Python
 feature: create

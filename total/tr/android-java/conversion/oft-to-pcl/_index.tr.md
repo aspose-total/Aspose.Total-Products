@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to PCL'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i PCL'ye aktarın
-url: /tr/android-java/conversion/oft-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

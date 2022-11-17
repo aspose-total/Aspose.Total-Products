@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOT in EMAIL in Python
 description: Speichern Sie DOT in EMAIL in Python-Anwendungen, ohne Microsoft Word oder Outlook zu verwenden
-url: /de/python-net/conversion/dot-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

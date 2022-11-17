@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOTにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをDOTにエクスポートする
-url: /ja/android-java/conversion/emlx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

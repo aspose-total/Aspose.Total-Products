@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t ICS-be Pythonban
 description: OTT mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ott-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

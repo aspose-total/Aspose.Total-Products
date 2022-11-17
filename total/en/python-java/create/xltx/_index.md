@@ -1,7 +1,7 @@
 ---
 title: Create XLTX using Python
 description: Generate Microsoft Excel XLTX documents using Python applications without using Microsoft Office. 
-url: /python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

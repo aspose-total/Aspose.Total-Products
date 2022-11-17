@@ -1,7 +1,7 @@
 ---
 title: Преобразование EML в DOCX в Python
 description: Сохраняйте EML в DOCX в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/eml-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t PST-be Pythonban
 description: RTF mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/rtf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

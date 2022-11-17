@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLTM باستخدام جافا
 description: تعديل مستند XLTM في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

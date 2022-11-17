@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az ODP-t DOCX-ba C# .NET-en keresztül 
-url: /hu/net/conversion/odp-to-docx/ 
+
 description: Konvertálja a PowerPoint odp dokumentumokat Word docx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

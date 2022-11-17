@@ -1,7 +1,7 @@
 ---
 title: API C++ để chuyển đổi POTX sang DOTM
 description: Xuất POTX sang DOTM trong các ứng dụng C++ của bạn
-url: /vi/cpp/conversion/potx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

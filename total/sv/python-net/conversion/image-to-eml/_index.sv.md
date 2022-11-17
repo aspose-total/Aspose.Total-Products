@@ -1,7 +1,7 @@
 ---
 title: Konvertera IMAGE till EML i Python
 description: Spara IMAGE till EML i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/image-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertera PST till DOT i Python
 description: Spara PST till DOT i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/pst-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

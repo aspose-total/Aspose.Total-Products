@@ -1,7 +1,7 @@
 ---
 title: Exportar PPSM para DOTX no Andorid via Java
 description: Converta PPSM para DOTX em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/ppsm-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

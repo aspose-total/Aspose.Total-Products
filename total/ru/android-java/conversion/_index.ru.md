@@ -1,6 +1,6 @@
 ---
 title: Преобразование документов через Android API 
-url: /ru/android-java/conversion/
+
 description: Преобразование форматов Word, Excel, PowerPoint, HTML, PDF и изображений с помощью API преобразования Android. Android конвертирует Office docx, xlsx, pptx в PDF. 
 ---
 

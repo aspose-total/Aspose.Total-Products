@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do ODT v aplikaci Andorid
 description: Exportujte EML do ODT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

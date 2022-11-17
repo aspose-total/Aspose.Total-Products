@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi bảng tính Microsoft Excel và Định dạng Visio qua Python 
-url: /vi/python-java/conversion/
+
 description: Chuyển đổi tệp Excel XLS XLSX XLSM XLSB XLTX XLTM CSV và hơn thế nữa cũng như các định dạng Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM, v.v. chỉ vài dòng mã Python.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSX WORD formátumba konvertálásához
 description: Exportálja a PPSX-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API om POTX naar DOT te converteren
 description: Exporteer POTX naar DOT binnen uw C++-toepassingen
-url: /nl/cpp/conversion/potx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

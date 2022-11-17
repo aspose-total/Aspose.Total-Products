@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOC till PPT i Python
 description: DOC till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/doc-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

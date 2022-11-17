@@ -1,7 +1,7 @@
 ---
 title: Python で WORDML を PPT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORDML から PPT への変換 
-url: /ja/python-net/conversion/wordml-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

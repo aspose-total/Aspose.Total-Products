@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLT na DOC pomocí C++
 description: Převeďte XLT na DOC v aplikacích C++
-url: /cs/cpp/conversion/xlt-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie ICS in TEXT in Python
 description: Speichern Sie ICS in TEXT in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/ics-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést EPUB na VCF v Pythonu
 description: Ukládejte EPUB do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/epub-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API C++ per convertire PPTX in FLATOPC
 description: Esporta PPTX in FLATOPC all'interno delle tue applicazioni C++
-url: /it/cpp/conversion/pptx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

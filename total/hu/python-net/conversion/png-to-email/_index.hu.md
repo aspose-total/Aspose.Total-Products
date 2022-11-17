@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t EMAIL-be Pythonban
 description: PNG mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converter OFT para FLATOPC em Python
 description: Salve OFT para FLATOPC em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/oft-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

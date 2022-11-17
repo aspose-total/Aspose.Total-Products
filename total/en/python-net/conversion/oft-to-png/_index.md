@@ -1,7 +1,7 @@
 ---
 title: Convert OFT to PNG in Python
 description: Save OFT to PNG in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/oft-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

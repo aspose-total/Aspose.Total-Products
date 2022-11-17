@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOTM till PPTM via C# .NET 
-url: /sv/net/conversion/dotm-to-pptm/ 
+
 description: Konvertera Word dotm-dokument till PowerPoint pptm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

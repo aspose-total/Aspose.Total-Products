@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t MSG-be Pythonban
 description: DOCX mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docx-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

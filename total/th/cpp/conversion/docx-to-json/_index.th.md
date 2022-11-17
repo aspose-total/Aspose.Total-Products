@@ -1,7 +1,7 @@
 ---
 title: แปลงรูปแบบ DOCX เป็นรูปแบบ JSON ใน C++
 description: ส่งออก DOCX เป็น JSON ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Word
-url: /th/cpp/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

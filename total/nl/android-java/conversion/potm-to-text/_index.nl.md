@@ -1,7 +1,7 @@
 ---
 title: Exporteer POTM naar TEXT op Andorid via Java
 description: Converteer POTM naar TEXT in mobiele apps zonder software te installeren
-url: /nl/android-java/conversion/potm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

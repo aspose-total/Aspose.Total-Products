@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TXT-t POWERPOINT-be Pythonban
 description: TXT-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/txt-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

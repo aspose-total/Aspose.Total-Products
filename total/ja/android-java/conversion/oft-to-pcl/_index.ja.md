@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPCLにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをPCLにエクスポートする
-url: /ja/android-java/conversion/oft-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

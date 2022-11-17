@@ -1,7 +1,7 @@
 ---
 title: Convert DOTM to OFT in Python
 description: Save DOTM to OFT within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/dotm-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

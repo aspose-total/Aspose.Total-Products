@@ -1,7 +1,7 @@
 ---
 title: Převést DOTX na obrázky v Pythonu
 description: Převod DOTX na obrázek TIFF BMP PNG JPEG GIF SVG ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/dotx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPT nach DOCX auf Andorid über Java
 description: Konvertieren Sie PPT in DOCX in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/ppt-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

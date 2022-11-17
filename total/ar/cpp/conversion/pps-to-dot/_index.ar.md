@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل PPS إلى DOT
 description: قم بتصدير PPS إلى DOT داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/pps-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で WORD を PPSM に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORD から PPSM への変換 
-url: /ja/python-net/conversion/word-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

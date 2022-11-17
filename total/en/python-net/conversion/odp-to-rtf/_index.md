@@ -1,7 +1,7 @@
 ---
 title: Convert ODP to RTF in Python
 description: ODP to RTF conversion in your Python applications without using Microsoft Word or PowerPoint 
-url: /python-net/conversion/odp-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

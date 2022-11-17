@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε DOTM στην εφαρμογή Andorid
 description: Εξαγωγή EML σε DOTM χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

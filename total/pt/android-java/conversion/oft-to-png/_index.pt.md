@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para PNG no aplicativo Andorid
 description: Exporte OFT para PNG sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل XLSX إلى POWERPOINT باستخدام C++
 description: تحويل XLSX إلى POWERPOINT داخل تطبيقات C++
-url: /ar/cpp/conversion/xlsx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

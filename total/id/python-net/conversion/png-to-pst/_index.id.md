@@ -1,7 +1,7 @@
 ---
 title: Konversi PNG ke PST dengan Python
 description: Simpan PNG ke PST dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/png-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

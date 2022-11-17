@@ -1,7 +1,7 @@
 ---
 title: WORDをC++でJSON形式に変換する
 description: MicrosoftExcelまたはWordを使用せずにC++でWORDをJSONにエクスポートする
-url: /ja/cpp/conversion/word-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 APIを使用して、パスワードで保護されたドキュメントを開くこともできます。入力WORDドキュメントがパスワードで保護されている場合、パスワードを使用せずにJSON形式に変換することはできません。これを行うには、LoadOptionsオブジェクトを受け入れる特別なコンストラクターオーバーロードを使用します。このオブジェクトには、パスワード文字列を指定するPasswordプロパティが含まれています。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

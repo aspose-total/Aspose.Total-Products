@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε FLATOPC στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε FLATOPC χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

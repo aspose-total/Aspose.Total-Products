@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTX в POTM в Python
 description: Преобразование DOTX в POTM в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/dotx-to-potm/
+
 family: total
 platformtag: Python
 feature: conversion

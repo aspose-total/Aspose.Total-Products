@@ -1,6 +1,6 @@
 ---
 title: تحويل FLATOPC إلى PPSM عبر C# .NET 
-url: /ar/net/conversion/flatopc-to-ppsm/ 
+
 description: تحويل مستندات Word flatopc إلى ملفات PowerPoint ppsm باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

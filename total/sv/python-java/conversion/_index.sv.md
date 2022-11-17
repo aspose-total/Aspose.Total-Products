@@ -1,6 +1,6 @@
 ---
 title: Konvertering av Microsoft Excel-kalkylblad och Visio-format via Python 
-url: /sv/python-java/conversion/
+
 description: Konvertera Excel-filer XLS XLSX XLSM XLSB XLTX XLTM CSV och mer samt Visio-format VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM etc bara några rader Python-kod.
 ---
 

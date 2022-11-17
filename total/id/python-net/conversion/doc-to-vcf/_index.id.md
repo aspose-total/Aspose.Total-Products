@@ -1,7 +1,7 @@
 ---
 title: Konversi DOC ke VCF dengan Python
 description: Simpan DOC ke VCF dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/doc-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

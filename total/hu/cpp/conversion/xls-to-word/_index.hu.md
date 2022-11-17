@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLS-t WORD-ba a C++ segítségével
 description: A XLS konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xls-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

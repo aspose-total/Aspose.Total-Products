@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в IMAGE в приложении Andorid
 description: Экспорт MSG в IMAGE без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

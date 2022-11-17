@@ -1,7 +1,7 @@
 ---
 title: PPTMをTEXTに変換するC++API
 description: C++アプリケーション内でPPTMをTEXTにエクスポートする
-url: /ja/cpp/conversion/pptm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

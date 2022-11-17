@@ -1,7 +1,7 @@
 ---
 title: Aggiorna il file XLSX utilizzando Java
 description: Modifica il documento XLSX nelle applicazioni Java senza utilizzare Microsoft Excel. Ottimizza il codice per il modo più veloce per scrivere e modificare file excel in java.
-url: /it/java/update/xlsx/
+
 family: total
 platformtag: Java
 feature: update

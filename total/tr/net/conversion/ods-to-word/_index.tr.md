@@ -1,7 +1,7 @@
 ---
 title: .NET ile ODS'yi WORD'ye dönüştürün 
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS'yi WORD'ye dönüştürün
-url: /tr/net/conversion/ods-to-word/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POT-ot DOC-ba Andoridon Java-n keresztül
 description: Konvertálja a POT-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

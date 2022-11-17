@@ -1,7 +1,7 @@
 ---
 title: Převést HTML na obrázky v Pythonu
 description: Převod HTML na obrázek TIFF BMP PNG JPEG GIF SVG ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/html-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で RTF を作成する
 description: Microsoft Word を使用せずに、Python アプリケーションを使用して RTF ファイルを生成します。 
-url: /ja/python-net/create/rtf/
+
 family: total
 platformtag: Python
 feature: create

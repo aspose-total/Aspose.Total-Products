@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t EMF-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t EMF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

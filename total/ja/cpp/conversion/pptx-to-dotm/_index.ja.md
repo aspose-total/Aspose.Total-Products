@@ -1,7 +1,7 @@
 ---
 title: PPTXをDOTMに変換するC++API
 description: C++アプリケーション内でPPTXをDOTMにエクスポートする
-url: /ja/cpp/conversion/pptx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

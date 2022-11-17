@@ -1,7 +1,7 @@
 ---
 title: Python'da WORD'yi MSG'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORD'yi MSG'e kaydedin
-url: /tr/python-net/conversion/word-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

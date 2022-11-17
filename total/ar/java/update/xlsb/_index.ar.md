@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLSB باستخدام جافا
 description: تعديل مستند XLSB في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

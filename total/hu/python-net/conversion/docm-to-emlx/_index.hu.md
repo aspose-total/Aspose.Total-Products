@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t EMLX-be Pythonban
 description: DOCM mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docm-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést DOC na PPTM v Pythonu
 description: Převod DOC na PPTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/doc-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

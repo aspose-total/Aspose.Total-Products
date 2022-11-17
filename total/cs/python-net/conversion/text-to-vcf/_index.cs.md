@@ -1,7 +1,7 @@
 ---
 title: Převést TEXT na VCF v Pythonu
 description: Ukládejte TEXT do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/text-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

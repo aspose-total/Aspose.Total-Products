@@ -1,7 +1,7 @@
 ---
 title: Python'da MD'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında MD'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/md-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

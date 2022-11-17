@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren Sie die XLSM-Datei mit .NET
 description: Ändern Sie XLSM-Dokumente in C#-VB.NET-Anwendungen, ohne Microsoft Excel zu verwenden. 
-url: /de/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

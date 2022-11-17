@@ -1,7 +1,7 @@
 ---
 title: Converti DOC in OST in Python
 description: Salva DOC in OST all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/doc-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

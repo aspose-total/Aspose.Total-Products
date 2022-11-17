@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε PS στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε PS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

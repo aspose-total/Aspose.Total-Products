@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをFLATOPCにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをFLATOPCにエクスポートする
-url: /ja/android-java/conversion/email-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

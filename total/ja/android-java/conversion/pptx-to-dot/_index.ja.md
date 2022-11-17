@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOTにPPTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTXをDOTに変換する
-url: /ja/android-java/conversion/pptx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

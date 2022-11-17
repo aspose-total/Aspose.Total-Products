@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to MSG in Python
 description: Save JPEG to MSG within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/jpeg-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

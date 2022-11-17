@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL a XPS nell'app Andorid
 description: Esporta EMAIL in XPS senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/email-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

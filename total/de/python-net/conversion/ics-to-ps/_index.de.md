@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie ICS in PS in Python
 description: Speichern Sie ICS in PS in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/ics-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till WORD i Andorid-appen
 description: Exportera EML till WORD utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

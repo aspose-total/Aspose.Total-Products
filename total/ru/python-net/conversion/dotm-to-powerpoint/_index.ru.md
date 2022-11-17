@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOTM в POWERPOINT в Python
 description: Преобразование DOTM в POWERPOINT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/dotm-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

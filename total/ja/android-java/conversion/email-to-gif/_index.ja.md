@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをGIFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをGIFにエクスポートする
-url: /ja/android-java/conversion/email-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

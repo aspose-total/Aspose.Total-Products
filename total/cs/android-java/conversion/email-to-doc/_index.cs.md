@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do DOC v aplikaci Andorid
 description: Exportujte EMAIL do DOC bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

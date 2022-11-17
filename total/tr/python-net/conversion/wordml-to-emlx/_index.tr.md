@@ -1,7 +1,7 @@
 ---
 title: Python'da WORDML'yi EMLX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORDML'yi EMLX'e kaydedin
-url: /tr/python-net/conversion/wordml-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

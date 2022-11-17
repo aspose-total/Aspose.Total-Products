@@ -1,7 +1,7 @@
 ---
 title: Преобразование BMP в MSG в Python
 description: Сохраняйте BMP в MSG в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/bmp-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

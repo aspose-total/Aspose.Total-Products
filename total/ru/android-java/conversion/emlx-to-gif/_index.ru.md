@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в GIF в приложении Andorid
 description: Экспорт EMLX в GIF без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε TIFF στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε TIFF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

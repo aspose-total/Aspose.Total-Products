@@ -1,6 +1,6 @@
 ---
 title: Android API를 통한 문서 변환 
-url: /ko/android-java/conversion/
+
 description: Android 변환 API를 사용하여 Word, Excel, PowerPoint, HTML, PDF 및 이미지 형식을 변환합니다. Android는 Office docx, xlsx, pptx를 PDF로 변환합니다. 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python で OFT を ODT に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OFT を ODT に保存します。 
-url: /ja/python-net/conversion/oft-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

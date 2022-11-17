@@ -1,7 +1,7 @@
 ---
 title: Konversi PPT ke MARKDOWN melalui C++
 description: Ekspor PPT ke MARKDOWN dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint
-url: /id/cpp/conversion/ppt-to-markdown/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 Menggunakan API, Anda juga dapat membuka dokumen yang dilindungi kata sandi. Jika dokumen PPT masukan Anda dilindungi kata sandi, Anda tidak dapat mengonversinya ke MARKDOWN tanpa menggunakan kata sandi. Ketika dokumen Anda dilindungi kata sandi, itu berarti memberlakukan pembatasan tertentu pada presentasi. Untuk menghapus batasan, kata sandi harus dimasukkan. Presentasi yang dilindungi kata sandi dianggap sebagai presentasi yang terkunci. API memungkinkan Anda untuk membuka dokumen terenkripsi dengan meneruskan kata sandi yang benar di objek LoadOptions. Contoh kode berikut menunjukkan cara membuka dokumen terenkripsi dengan kata sandi.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu IMAGE in der Andorid App
 description: Exportieren Sie E-MAIL nach IMAGE, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

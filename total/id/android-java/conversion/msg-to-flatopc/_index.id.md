@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke FLATOPC di Aplikasi Andorid
 description: Ekspor MSG ke FLATOPC tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

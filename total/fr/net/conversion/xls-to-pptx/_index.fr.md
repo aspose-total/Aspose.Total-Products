@@ -1,7 +1,7 @@
 ---
 title: Convertir XLS en PPTX avec .NET 
 description: Convertir XLS en PPTX sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/xls-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t EMAIL-be Pythonban
 description: DOTX mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na RTF przez C# .NET 
-url: /pl/net/conversion/potm-to-rtf/ 
+
 description: Konwertuj dokumenty potm programu PowerPoint na pliki rtf programu Word za pomocą C#. Konwertuj wiele plików w ASP.NET lub innych aplikacjach .NET.
 ---
 

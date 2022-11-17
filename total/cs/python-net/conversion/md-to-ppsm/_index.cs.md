@@ -1,7 +1,7 @@
 ---
 title: Převést MD na PPSM v Pythonu
 description: Převod MD na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/md-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

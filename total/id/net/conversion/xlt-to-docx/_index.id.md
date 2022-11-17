@@ -1,7 +1,7 @@
 ---
 title: Konversi XLT ke DOCX dengan .NET 
 description: Konversi XLT ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin
-url: /id/net/conversion/xlt-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

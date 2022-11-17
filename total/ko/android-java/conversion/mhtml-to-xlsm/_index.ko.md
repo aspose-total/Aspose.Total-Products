@@ -1,7 +1,7 @@
 ---
 title: Java를 통해 Android에서 MHTML을 XLSM로 변환
 description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 Java API를 통해 Android에서 MHTML을 XLSM로 렌더링
-url: /ko/android-java/conversion/mhtml-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLT EXCEL MD TXT CSV TSV XLTM FODS ODS SXC XLSB DIF
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLT EXCEL MD TXT CSV TSV XLTM FODS ODS SXC XLSB DIF
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)를 사용하면 MHTML 파일의 XMP 메타데이터에 액세스할 수 있습니다. 메타데이터를 얻기 위해서는 [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 객체를 생성하고 입력된 MHTML 파일을 열어 [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) 속성을 사용하여 메타데이터를 가져옵니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: XLT EXCEL MD TXT CSV TSV XLTM FODS ODS SXC XLSB DIF
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)는 필요에 따라 XLSM 파일 보호를 지원합니다. 문서를 보호하기 위해 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlsm.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

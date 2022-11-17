@@ -1,7 +1,7 @@
 ---
 title: Export POTM do WORD na Andorid přes Java
 description: Převeďte POTM na WORD v mobilních aplikacích bez instalace jakéhokoli softwaru
-url: /cs/android-java/conversion/potm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

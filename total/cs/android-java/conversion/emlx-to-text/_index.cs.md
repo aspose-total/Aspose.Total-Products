@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do TEXT v aplikaci Andorid
 description: Exportujte EMLX do TEXT bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

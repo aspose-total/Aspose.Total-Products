@@ -1,7 +1,7 @@
 ---
 title: C++を介してWORDをPPTに変換する
 description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでWORDをPPTにエクスポートする
-url: /ja/cpp/conversion/word-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POT PPTX PPTM POTX PPSX PPS POWERPOINT PPSM POTM ODP
 {{< blocks/products/pf/feature-page-header h1="WORDをPPTに変換するC++API" h2="Microsoft Wordを使用せずに、C++アプリケーション内でWORDをPPTにエクスポートします。またはPowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらWORDからPPTへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してWORDを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、PPTとして保存します。 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらWORDからPPTへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してWORDを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、PPTとして保存します。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
 auto options = MakeObject<LoadOptions>(u"wordPassword");
 // load the wordument from the local file system by filename:
 SharedPtr<Wordument> word = MakeObject<Wordument>(u"Encrypted.wordx", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppt
 pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

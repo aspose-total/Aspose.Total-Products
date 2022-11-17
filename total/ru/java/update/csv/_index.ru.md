@@ -1,7 +1,7 @@
 ---
 title: Обновите файл CSV с помощью Java
 description: Измените документ CSV в приложениях Java без использования Microsoft Excel. Оптимизируйте код для быстрого написания и редактирования файла Excel в Java.
-url: /ru/java/update/csv/
+
 family: total
 platformtag: Java
 feature: update

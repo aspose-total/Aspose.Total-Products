@@ -1,7 +1,7 @@
 ---
 title: Android API pro převod DOCX na EXCEL
 description: Převeďte DOCX na EXCEL v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
-url: /cs/android-java/conversion/docx-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で DOC を ICS に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で DOC を ICS に保存します。
-url: /ja/python-net/conversion/doc-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

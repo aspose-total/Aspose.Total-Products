@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS ODT formátumba konvertálásához
 description: Exportálja a PPS-ot ODT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

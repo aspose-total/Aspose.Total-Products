@@ -1,7 +1,7 @@
 ---
 title: Convertir PDF a EMAIL en Python
 description: Guarde PDF en EMAIL dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/pdf-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

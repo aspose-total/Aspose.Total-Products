@@ -1,7 +1,7 @@
 ---
 title: POWERPOINT'u DOT'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda POWERPOINT'u DOT'a aktarın
-url: /tr/cpp/conversion/powerpoint-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

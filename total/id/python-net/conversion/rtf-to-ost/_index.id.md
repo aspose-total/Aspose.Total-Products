@@ -1,7 +1,7 @@
 ---
 title: Konversi RTF ke OST dengan Python
 description: Simpan RTF ke OST dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/rtf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

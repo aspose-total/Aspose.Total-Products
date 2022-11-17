@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t XLT-vé C++-ban
 description: C++ API a DOCX konvertálásához XLT-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-xlt/
+
 family: total
 platformtag: cpp
 feature: conversion

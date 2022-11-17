@@ -1,6 +1,6 @@
 ---
 title: Konversi DOTM ke PPSX melalui C# .NET 
-url: /id/net/conversion/dotm-to-ppsx/ 
+
 description: Konversikan dokumen dokumen Word ke file ppsx PowerPoint dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

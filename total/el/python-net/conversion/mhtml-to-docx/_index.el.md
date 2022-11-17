@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MHTML σε DOCX στην Python
 description: Μετατροπή MHTML και HtmlFixed σε DOCX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Word 
-url: /el/python-net/conversion/mhtml-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

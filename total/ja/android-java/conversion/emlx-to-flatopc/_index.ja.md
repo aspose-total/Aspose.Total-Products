@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをFLATOPCにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをFLATOPCにエクスポートする
-url: /ja/android-java/conversion/emlx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

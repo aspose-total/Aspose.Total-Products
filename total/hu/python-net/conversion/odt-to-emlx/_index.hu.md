@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ODT-t EMLX-be Pythonban
 description: ODT mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/odt-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

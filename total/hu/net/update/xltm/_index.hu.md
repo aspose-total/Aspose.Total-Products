@@ -1,7 +1,7 @@
 ---
 title: XLTM fájl frissítése .NET használatával
 description: XLTM dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/xltm/
+
 family: total
 platformtag: .NET
 feature: update

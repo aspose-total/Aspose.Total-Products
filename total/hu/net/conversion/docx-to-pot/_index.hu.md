@@ -1,6 +1,6 @@
 ---
 title: A DOCX konvertálása POT-re C# .NET-en keresztül 
-url: /hu/net/conversion/docx-to-pot/ 
+
 description: Konvertálja a Word docx dokumentumokat PowerPoint pot fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

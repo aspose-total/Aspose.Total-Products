@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTM naar FLATOPC via C# .NET 
-url: /nl/net/conversion/pptm-to-flatopc/ 
+
 description: Converteer PowerPoint pptm-documenten naar Word-documentbestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 

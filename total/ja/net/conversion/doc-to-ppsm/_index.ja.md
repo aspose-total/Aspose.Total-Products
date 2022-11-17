@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してDOCをPPSMに変換する 
-url: /ja/net/conversion/doc-to-ppsm/ 
+
 description: C＃を使用してWordドキュメントドキュメントをPowerPointppsmファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

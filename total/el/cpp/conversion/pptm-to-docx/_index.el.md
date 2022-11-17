@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPTM σε DOCX
 description: Εξαγωγή PPTM σε DOCX στις εφαρμογές σας C++
-url: /el/cpp/conversion/pptm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

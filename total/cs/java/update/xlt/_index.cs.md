@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLT pomocí Javy
 description: Upravte dokument XLT v aplikacích Java bez použití aplikace Microsoft Excel. Optimalizujte kód pro nejrychlejší způsob zápisu a úpravy excelového souboru v Javě.
-url: /cs/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

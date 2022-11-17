@@ -1,7 +1,7 @@
 ---
 title: Kết xuất EML thành DOCM trong ứng dụng Andorid
 description: Xuất EML sang DOCM mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/eml-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

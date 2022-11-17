@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EML σε DOTM στην Python
 description: Αποθηκεύστε το EML σε DOTM στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/eml-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

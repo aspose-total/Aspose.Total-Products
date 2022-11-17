@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EML sang EML bằng Python
 description: Lưu EML thành EML trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/gif-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

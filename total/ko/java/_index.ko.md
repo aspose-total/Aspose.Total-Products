@@ -1,7 +1,7 @@
 ---
 title: 인기 있는 파일 형식을 위한 Java API - Aspose 
 weight: 60
-url: /ko/java/ 
+
 description: Word Excel PDF PowerPoint Visio OneNote 이메일 프로젝트 이미지 3D GIS에서 파일을 조작하기 위한 Java 개발자용 API 모음.
 ---
 

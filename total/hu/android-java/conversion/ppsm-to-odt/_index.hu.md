@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot ODT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

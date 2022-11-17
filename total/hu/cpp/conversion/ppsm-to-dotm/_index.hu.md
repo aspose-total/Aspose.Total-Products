@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSM DOTM formátumba konvertálásához
 description: Exportálja a PPSM-ot DOTM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

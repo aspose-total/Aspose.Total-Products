@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSB в WORD с помощью C++
 description: Преобразование XLSB в WORD в приложениях C++
-url: /ru/cpp/conversion/xlsb-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 DOTM 转换为 MBOX
 description: 在 Python 应用程序中将 DOTM 保存为 MBOX，而无需使用 Microsoft Word 或 Outlook
-url: /zh/python-net/conversion/dotm-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

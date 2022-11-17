@@ -1,7 +1,7 @@
 ---
 title: XLSM-bestand bijwerken met .NET
 description: Wijzig XLSM-documenten in C# VB.NET-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

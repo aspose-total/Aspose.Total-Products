@@ -1,7 +1,7 @@
 ---
 title: Python で DOTX を MHTML に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで DOTX から mhtml Web アーカイブ形式および HtmlFixed ファイルに変換 
-url: /ja/python-net/conversion/dotx-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

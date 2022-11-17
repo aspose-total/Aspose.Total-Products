@@ -1,7 +1,7 @@
 ---
 title: Преобразование TSV в POWERPOINT с помощью C++
 description: Преобразование TSV в POWERPOINT в приложениях C++
-url: /ru/cpp/conversion/tsv-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

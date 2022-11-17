@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a IMAGE-t EMLX-be Pythonban
 description: IMAGE mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/image-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

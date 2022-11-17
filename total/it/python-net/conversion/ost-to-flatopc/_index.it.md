@@ -1,7 +1,7 @@
 ---
 title: Converti OST in FLATOPC in Python
 description: Salva OST in FLATOPC nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ost-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Dosya Biçimleri için SQL Server Raporlama Hizmetleri İşleme Uzantıları 
 weight: 40
-url: /tr/reporting-services/ 
+
 description: SQL Server Raporlama Hizmetleri RDL raporlarını Word Excel PDF PowerPoint biçimlerine aktarmak için dosya biçimleri için İşleme Uzantıları. Dışa aktarılan raporlara barkod ekleyin
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Converteer EMAIL naar MD in Python
 description: Bewaar EMAIL naar MD in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/email-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

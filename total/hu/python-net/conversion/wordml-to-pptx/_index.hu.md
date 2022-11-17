@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t PPTX-be Pythonban
 description: WORDML-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/wordml-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

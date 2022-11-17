@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do XPS v aplikaci Andorid
 description: Exportujte OFT do XPS bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

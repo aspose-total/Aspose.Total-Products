@@ -1,7 +1,7 @@
 ---
 title: Converti DOCX in CSV in C++
 description: API C++ per convertire DOCX in CSV senza utilizzare Microsoft Word o Microsoft Excel
-url: /it/cpp/conversion/docx-to-csv/
+
 family: total
 platformtag: cpp
 feature: conversion

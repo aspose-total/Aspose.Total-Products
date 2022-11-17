@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir TSV en POWERPOINT avec .NET 
 description: Convertir TSV en POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/tsv-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

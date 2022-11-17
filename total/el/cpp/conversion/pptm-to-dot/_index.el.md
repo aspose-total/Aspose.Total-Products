@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPTM σε DOT
 description: Εξαγωγή PPTM σε DOT στις εφαρμογές σας C++
-url: /el/cpp/conversion/pptm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

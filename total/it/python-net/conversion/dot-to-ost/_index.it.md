@@ -1,7 +1,7 @@
 ---
 title: Converti DOT in OST in Python
 description: Salva DOT in OST all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/dot-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

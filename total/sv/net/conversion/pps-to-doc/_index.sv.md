@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPS till DOC via C# .NET 
-url: /sv/net/conversion/pps-to-doc/ 
+
 description: Konvertera PowerPoint pps-dokument till Word-doc-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

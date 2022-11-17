@@ -1,7 +1,7 @@
 ---
 title: Konversi EMAIL ke PDF dengan Python
 description: Simpan EMAIL ke PDF di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/email-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

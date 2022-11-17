@@ -1,7 +1,7 @@
 ---
 title: Převést FLATOPC na OST v Pythonu
 description: Ukládejte FLATOPC do OST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/flatopc-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

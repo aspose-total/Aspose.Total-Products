@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOC σε MHTML στην Python
 description: Μορφή αρχείου Ιστού DOC σε mhtml και μετατροπή αρχείων HtmlFixed στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Word 
-url: /el/python-net/conversion/doc-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

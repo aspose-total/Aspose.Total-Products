@@ -1,7 +1,7 @@
 ---
 title: Converteer EML naar XPS in Python
 description: Bewaar EML naar XPS in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/eml-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

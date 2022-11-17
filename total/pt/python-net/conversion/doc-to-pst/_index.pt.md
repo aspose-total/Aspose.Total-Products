@@ -1,7 +1,7 @@
 ---
 title: Converter DOC para PST em Python
 description: Salve DOC para PST em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/doc-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

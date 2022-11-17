@@ -1,7 +1,7 @@
 ---
 title: PPT'u WORD'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPT'u WORD'a aktarın
-url: /tr/cpp/conversion/ppt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

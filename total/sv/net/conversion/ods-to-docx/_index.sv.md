@@ -1,7 +1,7 @@
 ---
 title: Konvertera ODS till DOCX med .NET 
 description: Konvertera ODS till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/ods-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

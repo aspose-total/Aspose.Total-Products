@@ -1,7 +1,7 @@
 ---
 title: Buat DOT dengan Python
 description: Hasilkan file DOT menggunakan aplikasi Python tanpa menggunakan Microsoft Word. 
-url: /id/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

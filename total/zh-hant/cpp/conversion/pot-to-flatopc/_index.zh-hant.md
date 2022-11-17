@@ -1,7 +1,7 @@
 ---
 title: 將 POT 轉換為 FLATOPC 的 C++ API
 description: 在 C++ 應用程序中將 POT 導出為 FLATOPC
-url: /zh-hant/cpp/conversion/pot-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

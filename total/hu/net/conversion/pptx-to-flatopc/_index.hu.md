@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPTX-t FLATOPC-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pptx-to-flatopc/ 
+
 description: Konvertálja a PowerPoint pptx dokumentumokat Word flatopc fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

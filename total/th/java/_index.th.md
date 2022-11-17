@@ -1,7 +1,7 @@
 ---
 title: Java APIs สำหรับรูปแบบไฟล์ยอดนิยม - Aspose 
 weight: 60
-url: /th/java/ 
+
 description: คอลเล็กชันของ API สำหรับนักพัฒนา Java เพื่อจัดการไฟล์จาก Word Excel PDF PowerPoint Visio OneNote Email Project รูปภาพ 3D GIS
 ---
 

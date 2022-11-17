@@ -1,7 +1,7 @@
 ---
 title: Python'da OST'yi GIF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OST'yi GIF'e kaydedin 
-url: /tr/python-net/conversion/ost-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Vytvářejte a aktualizujte soubory Microsoft Excel pomocí Pythonu 
-url: /cs/python-java/create/
+
 description: Vytvářejte sestavy listu aplikace Microsoft Excel bez instalace sady Microsoft Office 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Преобразование PS в DIF в Android через Java
 description: Рендеринг PS в DIF на Android через Java API без использования Microsoft Excel или Adobe Reader
-url: /ru/android-java/conversion/ps-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: CSV FODS EXCEL XLTX XLSB XLTM TXT XLAM XLSM XLT TSV ODS
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: CSV FODS EXCEL XLTX XLSB XLTM TXT XLAM XLSM XLT TSV ODS
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) позволяет получить доступ к метаданным XMP файла PS. Чтобы получить метаданные, создайте объект [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document), откройте входной файл PS и используйте [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--), чтобы получить метаданные.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: CSV FODS EXCEL XLTX XLSB XLTM TXT XLAM XLSM XLT TSV ODS
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) поддерживает защиту файла DIF в зависимости от ваших потребностей. Чтобы защитить свой документ, вы можете использовать метод [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-dif.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-dif.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

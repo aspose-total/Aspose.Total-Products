@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan TSV Menggunakan Python
 description: Memodifikasi dokumen TSV dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/tsv/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,6 +1,6 @@
 ---
 title: قم بإنشاء وتحديث ملفات Microsoft Excel باستخدام Python 
-url: /ar/python-java/create/
+
 description: قم بإنشاء تقارير ورقة عمل Microsoft Excel دون تثبيت Microsoft Office 
 ---
 

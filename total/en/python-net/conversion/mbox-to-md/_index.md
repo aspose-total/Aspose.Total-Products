@@ -1,7 +1,7 @@
 ---
 title: Convert MBOX to MD in Python
 description: Save MBOX to MD in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/mbox-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

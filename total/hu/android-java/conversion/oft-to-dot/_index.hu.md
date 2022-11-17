@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t DOT-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t DOT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

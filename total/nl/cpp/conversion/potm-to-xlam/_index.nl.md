@@ -1,7 +1,7 @@
 ---
 title: Converteer POTM naar XLAM via C++
 description: Exporteer POTM naar XLAM in C++ zonder Microsoft Excel of Powerpoint te gebruiken
-url: /nl/cpp/conversion/potm-to-xlam/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand down
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw POTM-invoerdocument met een wachtwoord is beveiligd, kunt u het niet naar XLAM converteren zonder het wachtwoord te gebruiken. Wanneer uw document met een wachtwoord is beveiligd, betekent dit dat het bepaalde beperkingen oplegt aan de presentatie. Om de beperkingen op te heffen, moet het wachtwoord worden ingevoerd. Een met een wachtwoord beveiligde presentatie wordt beschouwd als een vergrendelde presentatie. Met de API kunt u het gecodeerde document openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u een versleuteld document opent met een wachtwoord.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

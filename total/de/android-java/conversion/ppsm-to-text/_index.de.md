@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPSM nach TEXT auf Andorid über Java
 description: Konvertieren Sie PPSM in TEXT in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/ppsm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

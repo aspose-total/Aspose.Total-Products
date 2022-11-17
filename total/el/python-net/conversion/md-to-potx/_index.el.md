@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MD σε POTX στην Python
 description: Μετατροπή MD σε POTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/md-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

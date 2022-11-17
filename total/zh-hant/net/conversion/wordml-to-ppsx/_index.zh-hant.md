@@ -1,6 +1,6 @@
 ---
 title: 通過 C# .NET 將 WORDML 轉換為 PPSX 
-url: /zh-hant/net/conversion/wordml-to-ppsx/ 
+
 description: 使用 C# 將 Word wordml 文檔轉換為 PowerPoint ppsx 文件。在 ASP.NET 或其他 .NET 應用程序中轉換多個文件。
 ---
 

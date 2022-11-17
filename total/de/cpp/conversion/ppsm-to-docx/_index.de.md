@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von PPSM in DOCX
 description: Exportieren Sie PPSM in DOCX innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/ppsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

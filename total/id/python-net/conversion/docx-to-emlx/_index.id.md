@@ -1,7 +1,7 @@
 ---
 title: Konversi DOCX ke EMLX dengan Python
 description: Simpan DOCX ke EMLX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/docx-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

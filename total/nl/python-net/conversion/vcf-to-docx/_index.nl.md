@@ -1,7 +1,7 @@
 ---
 title: Converteer VCF naar DOCX in Python
 description: Bewaar VCF naar DOCX in uw Python-toepassingen zonder Microsoft Outlook of Word te gebruiken 
-url: /nl/python-net/conversion/vcf-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

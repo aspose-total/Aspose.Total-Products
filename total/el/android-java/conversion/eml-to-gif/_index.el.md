@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε GIF στην εφαρμογή Andorid
 description: Εξαγωγή EML σε GIF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

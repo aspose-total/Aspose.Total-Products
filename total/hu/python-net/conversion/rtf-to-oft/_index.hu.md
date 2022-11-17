@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t OFT-be Pythonban
 description: RTF mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/rtf-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

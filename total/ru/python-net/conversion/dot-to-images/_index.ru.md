@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в изображения в Python
 description: Преобразование DOT в изображение TIFF BMP PNG JPEG GIF SVG в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/dot-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

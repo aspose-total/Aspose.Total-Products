@@ -1,7 +1,7 @@
 ---
 title: Python で RTF を ICS に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で RTF を ICS に保存します。
-url: /ja/python-net/conversion/rtf-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera XPS till XLT
 description: Konvertera XPS till XLT via C++ API utan att använda Microsoft Excel eller Adobe Reader
-url: /sv/cpp/conversion/xps-to-xlt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: XLTM SXC MD TXT CSV XLSM XLAM ODS XLSB TSV XLTX FODS
 {{< blocks/products/pf/feature-page-header h1="Rendera XPS till XLT i C++-applikationer" h2="Konvertera XPS till XLT i inbyggda C++-program utan att kräva Microsoft<sup>&reg;</sup> Excel eller Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Att konvertera XPS till XLT i C++ via [Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek är en enkel process i två steg. I det första steget kan du exportera XPS till XLSX genom att använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), därefter genom att använda [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, du kan konvertera XLSX till XLT. 
+Att konvertera XPS till XLT i C++ via [Aspose.Total for C++](https://products.aspose.com/total/cpp/) filformatsautomatiseringsbibliotek är en enkel process i två steg. I det första steget kan du exportera XPS till XLSX genom att använda [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), därefter genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, du kan konvertera XLSX till XLT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -32,7 +32,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) låter dig också få information om ditt XPS-dokument och låter dig fatta välgrundade beslut innan din konverteringsprocess. För att få filspecifik information om en XPS-fil måste du först anropa metoden [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) för [Dokument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) klass. När DocumentInfo-objektet är hämtat kan du få värdena för de enskilda egenskaperna. Dessutom kan du också ställa in egenskaperna genom att använda respektive metoder i klassen DocumentInfo.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 [Aspose.Cells for C++](https://products.aspose.com/cells/net/) gör det möjligt att spara XLT-filformat för att streama. För att spara filer till en ström, skapa ett MemoryStream- eller FileStream-objekt och spara filen till det strömobjektet genom att anropa [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) objektets [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod. Ange önskat filformat med uppräkningen [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) när du anropar Spara-metoden.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xlt-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xlt-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

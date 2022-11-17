@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EMLX σε TEXT στην Python
 description: Αποθηκεύστε το EMLX σε TEXT στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/emlx-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

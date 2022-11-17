@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOC till ICS i Python
 description: Spara DOC till ICS i Python-applikationer utan att använda Microsoft Word eller Outlook
-url: /sv/python-net/conversion/doc-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi DOCM ke MHTML dengan Python
 description: DOCM ke format arsip Web mhtml dan konversi file HtmlFixed dalam aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/docm-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLSをPOWERPOINTに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLSをPOWERPOINTに変換する
-url: /ja/net/conversion/xls-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to TIFF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i TIFF'ye aktarın
-url: /tr/android-java/conversion/oft-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

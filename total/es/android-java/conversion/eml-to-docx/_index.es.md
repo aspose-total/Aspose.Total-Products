@@ -1,7 +1,7 @@
 ---
 title: Renderizar EML a DOCX en la aplicación Andorid
 description: Exporte EML a DOCX sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/eml-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

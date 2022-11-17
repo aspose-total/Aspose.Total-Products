@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS WORD formátumba konvertálásához
 description: Exportálja a PPS-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

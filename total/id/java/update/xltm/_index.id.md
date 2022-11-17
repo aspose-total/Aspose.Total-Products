@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLTM Menggunakan Java
 description: Memodifikasi dokumen XLTM di aplikasi Java tanpa menggunakan Microsoft Excel. Optimalkan kode untuk cara tercepat menulis dan mengedit file excel di java.
-url: /id/java/update/xltm/
+
 family: total
 platformtag: Java
 feature: update

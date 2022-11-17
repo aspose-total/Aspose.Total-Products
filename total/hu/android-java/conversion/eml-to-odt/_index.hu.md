@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t ODT-nek az Andorid alkalmazásban
 description: Exportálja az EML-t ODT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t PS-nek az Andorid alkalmazásban
 description: Exportálja az EML-t PS-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

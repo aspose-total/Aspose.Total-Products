@@ -1,7 +1,7 @@
 ---
 title: แสดงผล EMLX เป็น WORDML ใน Andorid App
 description: ส่งออก EMLX เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/emlx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

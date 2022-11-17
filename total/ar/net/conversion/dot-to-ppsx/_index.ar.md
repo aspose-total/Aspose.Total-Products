@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى PPSX عبر C# .NET 
-url: /ar/net/conversion/dot-to-ppsx/ 
+
 description: تحويل مستندات Word dot إلى ملفات PowerPoint ppsx باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

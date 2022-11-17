@@ -1,7 +1,7 @@
 ---
 title: Konversi WORD ke POTM di Android melalui Java
 description: Konversi WORD ke POTM di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint
-url: /id/android-java/conversion/word-to-potm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 Anda juga dapat mengonversi WORD yang dilindungi kata sandi ke POTM dalam aplikasi Android Anda. Jika dokumen WORD input Anda dilindungi kata sandi, Anda tidak dapat mengonversinya ke format POTM tanpa menggunakan kata sandi. Untuk membuka dokumen terenkripsi, Anda dapat mengatur kata sandi yang benar di objek LoadOptions dan meneruskannya ke konstruktor Dokumen.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

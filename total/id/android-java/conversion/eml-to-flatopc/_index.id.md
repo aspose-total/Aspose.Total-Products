@@ -1,7 +1,7 @@
 ---
 title: Render EML ke FLATOPC di Aplikasi Andorid
 description: Ekspor EML ke FLATOPC tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/eml-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

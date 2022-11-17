@@ -1,7 +1,7 @@
 ---
 title: Converteer EMF naar OST in Python
 description: Bewaar EMF naar OST binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/emf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Convierta POTX a TXT a través de C# .NET 
-url: /es/net/conversion/potx-to-txt/ 
+
 description: Convierta documentos potx de PowerPoint en archivos txt de Word con C#. Convierta múltiples archivos dentro de ASP.NET u otras aplicaciones .NET.
 ---
 

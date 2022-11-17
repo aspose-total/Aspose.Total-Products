@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEXT-t MSG-be Pythonban
 description: TEXT mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/text-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

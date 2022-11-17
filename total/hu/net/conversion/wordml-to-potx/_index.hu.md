@@ -1,6 +1,6 @@
 ---
 title: A WORDML konvertálása POTX-re C# .NET-en keresztül 
-url: /hu/net/conversion/wordml-to-potx/ 
+
 description: Konvertálja a Word wordml dokumentumokat PowerPoint potx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

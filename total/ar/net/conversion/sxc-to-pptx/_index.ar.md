@@ -1,7 +1,7 @@
 ---
 title: تحويل SXC إلى PPTX باستخدام .NET 
 description: قم بتحويل ملف SXC إلى PPTX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin
-url: /ar/net/conversion/sxc-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

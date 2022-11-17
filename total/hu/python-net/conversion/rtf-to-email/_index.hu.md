@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t EMAIL-be Pythonban
 description: RTF mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/rtf-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

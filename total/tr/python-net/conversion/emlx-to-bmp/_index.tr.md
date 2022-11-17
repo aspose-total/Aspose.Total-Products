@@ -1,7 +1,7 @@
 ---
 title: Python'da EMLX'yi BMP'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMLX'yi BMP'e kaydedin 
-url: /tr/python-net/conversion/emlx-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε IMAGE στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε IMAGE χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

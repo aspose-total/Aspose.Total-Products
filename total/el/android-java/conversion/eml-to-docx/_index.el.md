@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε DOCX στην εφαρμογή Andorid
 description: Εξαγωγή EML σε DOCX χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Converteer POTX naar FLATOPC via C# .NET 
-url: /nl/net/conversion/potx-to-flatopc/ 
+
 description: Converteer PowerPoint potx-documenten naar Word-documentbestanden met C#. Converteer meerdere bestanden binnen ASP.NET of andere .NET-toepassingen.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Exporter FODS vers PPTX dans Android
 description: API Android pour convertir FODS en PPTX sans utiliser Microsoft Word
-url: /fr/android-java/conversion/fods-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Pptxument pptxument = new Pptxument("pdfOutput.pdf");
 // save pptxument in PPTX format
 pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.fods");
 PptxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomPptxumentProperties();
 // remove a custom pptxument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

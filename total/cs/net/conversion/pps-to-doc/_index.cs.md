@@ -1,6 +1,6 @@
 ---
 title: Převést PPS na DOC přes C# .NET 
-url: /cs/net/conversion/pps-to-doc/ 
+
 description: Převádějte dokumenty pps aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのODTにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをODTに変換する
-url: /ja/android-java/conversion/pptm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

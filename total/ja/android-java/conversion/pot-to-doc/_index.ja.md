@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCにPOTをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTをDOCに変換する
-url: /ja/android-java/conversion/pot-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

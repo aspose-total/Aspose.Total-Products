@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t EMF-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t EMF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

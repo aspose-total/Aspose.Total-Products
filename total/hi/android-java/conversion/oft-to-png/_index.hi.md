@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में PNG को OFT रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना OFT को PNG में निर्यात करें
-url: /hi/android-java/conversion/oft-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

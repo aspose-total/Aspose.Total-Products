@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to WORD'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i WORD'ye aktarın
-url: /tr/android-java/conversion/email-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

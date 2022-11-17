@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLTM Menggunakan Python
 description: Memodifikasi dokumen XLTM dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xltm/
+
 family: total
 platformtag: Python
 feature: update

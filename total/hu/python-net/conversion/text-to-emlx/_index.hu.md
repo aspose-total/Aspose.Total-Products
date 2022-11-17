@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEXT-t EMLX-be Pythonban
 description: TEXT mentése EMLX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/text-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

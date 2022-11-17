@@ -1,7 +1,7 @@
 ---
 title: C++ API untuk Mengonversi PPSX ke DOTX
 description: Ekspor PPSX ke DOTX dalam aplikasi C++ Anda
-url: /id/cpp/conversion/ppsx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

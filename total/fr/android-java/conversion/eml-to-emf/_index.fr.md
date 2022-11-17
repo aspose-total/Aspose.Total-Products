@@ -1,7 +1,7 @@
 ---
 title: Rendre EML en EMF dans l'application Andorid
 description: Exportez EML vers EMF sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/eml-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

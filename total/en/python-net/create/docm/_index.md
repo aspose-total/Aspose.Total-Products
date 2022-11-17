@@ -1,7 +1,7 @@
 ---
 title: Create DOCM in Python
 description: Generate Microsoft Word DOCM document using Python applications without using Microsoft Word. 
-url: /python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

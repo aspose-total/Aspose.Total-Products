@@ -1,7 +1,7 @@
 ---
 title: PPT'u TEXT'a Dönüştürmek için C++ API
 description: C++ uygulamalarınızda PPT'u TEXT'a aktarın
-url: /tr/cpp/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

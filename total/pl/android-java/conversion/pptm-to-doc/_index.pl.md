@@ -1,7 +1,7 @@
 ---
 title: Eksportuj PPTM do DOC na Androidzie przez Javę
 description: Konwertuj PPTM na DOC w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/pptm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

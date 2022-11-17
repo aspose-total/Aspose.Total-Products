@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してFODSをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでFODSをPPTXに変換する
-url: /ja/net/conversion/fods-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

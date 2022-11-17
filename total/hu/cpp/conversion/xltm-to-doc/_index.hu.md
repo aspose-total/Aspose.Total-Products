@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLTM-t DOC-ba a C++ segítségével
 description: A XLTM konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xltm-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

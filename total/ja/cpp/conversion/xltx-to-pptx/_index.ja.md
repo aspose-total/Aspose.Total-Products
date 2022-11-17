@@ -1,7 +1,7 @@
 ---
 title: C++でXLTXをPPTXに変換する
 description: C++アプリケーション内でXLTXをPPTXに変換する
-url: /ja/cpp/conversion/xltx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

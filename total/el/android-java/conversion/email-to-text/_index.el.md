@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε TEXT στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε TEXT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Uppdatera XLSB-fil med Java
 description: Ändra XLSB-dokument i Java-applikationer utan att använda Microsoft Excel. Optimera kod för snabbaste sättet att skriva och redigera excel-fil i java.
-url: /sv/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

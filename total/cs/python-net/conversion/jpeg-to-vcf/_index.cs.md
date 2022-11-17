@@ -1,7 +1,7 @@
 ---
 title: Převést JPEG na VCF v Pythonu
 description: Ukládejte JPEG do VCF v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/jpeg-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

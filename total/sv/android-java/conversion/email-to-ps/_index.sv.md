@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till PS i Andorid-appen
 description: Exportera EMAIL till PS utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

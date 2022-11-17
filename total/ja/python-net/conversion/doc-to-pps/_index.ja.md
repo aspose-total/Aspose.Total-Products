@@ -1,7 +1,7 @@
 ---
 title: Python で DOC を PPS に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOC から PPS への変換 
-url: /ja/python-net/conversion/doc-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

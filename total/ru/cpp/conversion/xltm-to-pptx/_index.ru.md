@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTM в PPTX с помощью C++
 description: Преобразование XLTM в PPTX в приложениях C++
-url: /ru/cpp/conversion/xltm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

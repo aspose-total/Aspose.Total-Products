@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMLX to WORD'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMLX'i WORD'ye aktarın
-url: /tr/android-java/conversion/emlx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

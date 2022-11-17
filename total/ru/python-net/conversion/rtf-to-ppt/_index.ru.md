@@ -1,7 +1,7 @@
 ---
 title: Преобразование RTF в PPT в Python
 description: Преобразование RTF в PPT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/rtf-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

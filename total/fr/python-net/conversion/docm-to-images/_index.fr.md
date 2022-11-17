@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCM en images en Python
 description: Conversion DOCM en image TIFF BMP PNG JPEG GIF SVG dans vos applications Python sans utiliser Microsoft Word 
-url: /fr/python-net/conversion/docm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

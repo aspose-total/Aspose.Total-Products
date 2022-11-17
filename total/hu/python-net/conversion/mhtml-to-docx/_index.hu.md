@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az MHTML-t DOCX-be Pythonban
 description: Az MHTML és a Html DOCX formátumú átalakítása a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/mhtml-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie MSG in EPUB in Python
 description: Speichern Sie MSG in EPUB in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/msg-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

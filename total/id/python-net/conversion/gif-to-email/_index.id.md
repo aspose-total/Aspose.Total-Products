@@ -1,7 +1,7 @@
 ---
 title: Konversi EMAIL ke EMAIL dengan Python
 description: Simpan EMAIL ke EMAIL dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/gif-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

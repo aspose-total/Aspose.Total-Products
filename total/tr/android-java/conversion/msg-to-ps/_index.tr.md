@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to PS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i PS'ye aktarın
-url: /tr/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

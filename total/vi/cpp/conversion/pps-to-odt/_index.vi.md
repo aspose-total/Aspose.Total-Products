@@ -1,7 +1,7 @@
 ---
 title: API C++ để chuyển đổi PPS sang ODT
 description: Xuất PPS sang ODT trong các ứng dụng C++ của bạn
-url: /vi/cpp/conversion/pps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование PPT в DOT в Python
 description: Преобразование PPT в DOT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/ppt-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - 비즈니스 문서 형식으로 보고서 생성
 weight: 80
-url: /ko/jasperreports/ 
+
 description: JasperReports는 보고서를 Word Excel PDF 및 PowerPoint 형식으로 내보내는 제품군을 내보냅니다. 내보낸 보고서에 바코드 추가
 ---
 

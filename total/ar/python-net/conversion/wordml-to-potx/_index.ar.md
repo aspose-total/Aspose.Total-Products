@@ -1,7 +1,7 @@
 ---
 title: تحويل WORDML إلى POTX في Python
 description: تحويل WORDML إلى POTX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/wordml-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

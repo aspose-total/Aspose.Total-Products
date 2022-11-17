@@ -1,7 +1,7 @@
 ---
 title: Convertir EMAIL en SVG en Python
 description: Enregistrez EMAIL au format SVG dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/email-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

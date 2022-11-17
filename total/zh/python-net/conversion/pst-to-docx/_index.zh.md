@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 PST 转换为 DOCX
 description: 在 Python 应用程序中将 PST 保存为 DOCX，而无需使用 Microsoft Outlook 或 Word 
-url: /zh/python-net/conversion/pst-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

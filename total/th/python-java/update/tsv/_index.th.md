@@ -1,7 +1,7 @@
 ---
 title: อัปเดตไฟล์ TSV โดยใช้ Python
 description: แก้ไขเอกสาร TSV ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Excel 
-url: /th/python-java/update/tsv/
+
 family: total
 platformtag: Python
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir PPS a RTF
 description: Exporte PPS a RTF dentro de sus aplicaciones C++
-url: /es/cpp/conversion/pps-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

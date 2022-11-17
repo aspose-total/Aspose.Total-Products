@@ -1,7 +1,7 @@
 ---
 title: Exportar PPTM para DOCX no Andorid via Java
 description: Converta PPTM para DOCX em aplicativos móveis sem instalar nenhum software
-url: /pt/android-java/conversion/pptm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

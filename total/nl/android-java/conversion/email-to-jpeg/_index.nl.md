@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL naar JPEG in de Andorid-app
 description: Exporteer EMAIL naar JPEG zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/email-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

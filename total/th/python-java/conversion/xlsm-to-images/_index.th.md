@@ -1,7 +1,7 @@
 ---
 title: แปลง XLSM เป็นรูปภาพโดยใช้ Python
 description: XLSM เป็นรูปภาพ TIFF BMP PNG JPEG GIF EMF การแปลง SVG ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Excel 
-url: /th/python-java/conversion/xlsm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

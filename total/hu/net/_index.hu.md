@@ -1,7 +1,7 @@
 ---
 title: C# .NET fájlautomatizálási API-k – Aspose 
 weight: 30
-url: /hu/net/ 
+
 description: C# ASP.NET VB.NET API-k bármilyen típusú dokumentum manipulált konvertálásához és megjelenítéséhez.
 ---
 

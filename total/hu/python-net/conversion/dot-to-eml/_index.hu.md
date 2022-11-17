@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t EML-be Pythonban
 description: DOT mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dot-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

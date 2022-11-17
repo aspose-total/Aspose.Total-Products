@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 在 Android 中將 JSON 格式轉換為 PPS
 description: 在不使用 Microsoft PowerPoint 的情況下在 Android 應用程序中將 JSON 解析為 PPS
-url: /zh-hant/android-java/conversion/json-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: ODP PPSM POWERPOINT POT OTP POTX PPTM PPT PPSX POTM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: ODP PPSM POWERPOINT POT OTP POTX PPTM PPT PPSX POTM
 此外，該 API 允許您使用指定的佈局選項將 JSON 解析為 PPS。為了指定佈局選項，您可以使用 [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayoutoptions) 類。它允許您將數組作為表格處理、忽略空值、忽略數組標題、忽略對象標題、將字符串轉換為數字或日期、設置日期和數字格式以及設置標題樣式。所有這些選項都允許您根據需要呈現數據。以下代碼片段向您展示瞭如何設置佈局選項。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: ODP PPSM POWERPOINT POT OTP POTX PPTM PPT PPSX POTM
 使用 API，您還可以將 JSON 轉換為帶水印的 PPS。為了給你的 PPS 文檔添加水印，你可以先將 JSON 解析為 PPTX 並為其添加水印。為了添加水印，使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類加載新創建的 PPTX 文件，遍歷所有幻燈片，添加文本使用 addTextFrame，設置所有相關選項，如顏色、填充類型等，並可以將文檔保存到 PPS。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

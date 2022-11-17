@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى PS في تطبيق Andorid
 description: قم بتصدير MSG إلى PS دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

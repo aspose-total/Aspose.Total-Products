@@ -1,6 +1,6 @@
 ---
 title: Tạo tệp bằng Python 
-url: /vi/python-net/create/
+
 description: Tạo văn bản và tài liệu Microsoft Word mà không cần cài đặt Microsoft Office 
 ---
 

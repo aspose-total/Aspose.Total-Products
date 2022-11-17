@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOC sang PPSM qua C# .NET 
-url: /vi/net/conversion/doc-to-ppsm/ 
+
 description: Chuyển đổi tài liệu Word doc sang tệp ppsm PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

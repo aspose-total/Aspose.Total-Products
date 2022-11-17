@@ -1,7 +1,7 @@
 ---
 title: Converti POTX in DOT in Python
 description: Conversione da POTX a DOT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/potx-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

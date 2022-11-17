@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t OFT-be Pythonban
 description: DOT mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dot-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

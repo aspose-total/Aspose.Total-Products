@@ -1,7 +1,7 @@
 ---
 title: Convert PowerPoint to RTF in Python
 description: PowerPoint to RTF conversion in your Python applications without using Microsoft Word or PowerPoint 
-url: /python-net/conversion/powerpoint-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

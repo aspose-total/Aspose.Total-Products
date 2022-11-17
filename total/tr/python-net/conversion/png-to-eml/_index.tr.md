@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi EML'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi EML'e kaydedin
-url: /tr/python-net/conversion/png-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

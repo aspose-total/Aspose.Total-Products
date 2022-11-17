@@ -1,7 +1,7 @@
 ---
 title: Python'da JPEG'yi MBOX'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında JPEG'yi MBOX'e kaydedin
-url: /tr/python-net/conversion/jpeg-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

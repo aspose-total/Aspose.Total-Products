@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT FLATOPC formátumba konvertálásához
 description: Exportálja a PPT-ot FLATOPC-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

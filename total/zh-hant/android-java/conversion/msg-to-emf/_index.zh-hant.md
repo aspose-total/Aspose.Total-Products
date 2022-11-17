@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中將 MSG 渲染為 EMF
 description: 在您的 Andorid 應用程序中不使用 Microsoft Word 或 Outlook 將 MSG 導出為 EMF
-url: /zh-hant/android-java/conversion/msg-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

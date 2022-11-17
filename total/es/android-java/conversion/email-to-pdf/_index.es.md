@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMAIL a PDF en la aplicación Andorid
 description: Exporte EMAIL a PDF sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/email-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

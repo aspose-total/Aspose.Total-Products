@@ -1,7 +1,7 @@
 ---
 title: แสดงผล MSG เป็น DOCM ใน Andorid App
 description: ส่งออก MSG เป็น DOCM โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/msg-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

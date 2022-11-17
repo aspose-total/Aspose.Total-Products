@@ -1,7 +1,7 @@
 ---
 title: Konwertuj TXT na POWERPOINT w Pythonie
 description: Konwersja TXT do POWERPOINT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/txt-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

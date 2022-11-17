@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a SVG-t OFT-be Pythonban
 description: SVG mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/svg-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

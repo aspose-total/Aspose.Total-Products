@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie DOTM über C++ in PPTX
 description: Exportieren Sie DOTM in PPTX in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden
-url: /de/cpp/conversion/dotm-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPS PPT POTM POWERPOINT ODP PPSX POTX POT PPSM PPTM
 {{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOTM in PPTX" h2="Exportieren Sie DOTM in PPTX innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) besteht aus leistungsstarken Dateiautomatisierungs-APIs, die es ermöglichen, die DOTM-zu-PPTX-Konvertierung zu automatisieren, während zwei seiner APIs verwendet werden. Laden Sie Ihr DOTM mit [Aspose.Words for C++](https://products.aspose.com/words/cpp/) und konvertieren Sie es in HTML, laden Sie dann das HTML über die PowerPoint-Manipulation C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), um eine neue Präsentation zu erstellen und als PPTX zu speichern. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) besteht aus leistungsstarken Dateiautomatisierungs-APIs, die es ermöglichen, die DOTM-zu-PPTX-Konvertierung zu automatisieren, während zwei seiner APIs verwendet werden. Laden Sie Ihr DOTM mit [Aspose.Words for C++](https://products.aspose.com/words/cpp/) und konvertieren Sie es in HTML, laden Sie dann das HTML über die PowerPoint-Manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), um eine neue Präsentation zu erstellen und als PPTX zu speichern. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Pptx
 pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ Abgesehen von der Dokumentenkonvertierung ermöglicht die [Aspose.Words for C++]
 auto options = MakeObject<LoadOptions>(u"dotmPassword");
 // load the dotmument from the local file system by filename:
 SharedPtr<Dotmument> dotm = MakeObject<Dotmument>(u"Encrypted.dotm", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Pptx
 pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

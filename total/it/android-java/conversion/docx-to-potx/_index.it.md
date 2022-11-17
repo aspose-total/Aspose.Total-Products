@@ -1,7 +1,7 @@
 ---
 title: Converti DOCX in POTX in Android tramite Java
 description: Conversione da DOCX a POTX nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint
-url: /it/android-java/conversion/docx-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konversi POTX ke RTF melalui C# .NET 
-url: /id/net/conversion/potx-to-rtf/ 
+
 description: Konversikan dokumen PowerPoint potx ke file dokumen Word dengan C#. Konversi banyak file dalam ASP.NET atau aplikasi .NET lainnya.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Render MSG a TIFF nell'app Andorid
 description: Esporta MSG in TIFF senza utilizzare Microsoft Word o Outlook nelle tue applicazioni Andorid
-url: /it/android-java/conversion/msg-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование EML в IMAGE в Python
 description: Сохраняйте EML в IMAGE в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/eml-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

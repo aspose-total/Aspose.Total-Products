@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в POWERPOINT в Python
 description: Преобразование WORD в POWERPOINT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/word-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

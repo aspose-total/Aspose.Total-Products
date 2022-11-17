@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t RTF-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t RTF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

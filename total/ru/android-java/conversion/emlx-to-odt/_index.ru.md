@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в ODT в приложении Andorid
 description: Экспорт EMLX в ODT без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

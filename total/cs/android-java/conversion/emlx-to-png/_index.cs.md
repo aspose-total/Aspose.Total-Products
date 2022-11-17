@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMLX do PNG v aplikaci Andorid
 description: Exportujte EMLX do PNG bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

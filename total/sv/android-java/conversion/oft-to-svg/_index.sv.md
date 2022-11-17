@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till SVG i Andorid-appen
 description: Exportera OFT till SVG utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

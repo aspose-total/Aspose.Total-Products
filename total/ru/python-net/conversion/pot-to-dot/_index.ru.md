@@ -1,7 +1,7 @@
 ---
 title: Преобразование POT в DOT в Python
 description: Преобразование POT в DOT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/pot-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t EML-be Pythonban
 description: PNG mentése EML formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

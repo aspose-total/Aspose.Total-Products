@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをTIFFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをTIFFにエクスポートする
-url: /ja/android-java/conversion/emlx-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

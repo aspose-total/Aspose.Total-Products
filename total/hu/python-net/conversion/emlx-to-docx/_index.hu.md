@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t DOCX-be Pythonban
 description: Mentse a EMLX-t DOCX formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

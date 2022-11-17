@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a BMP-t EMAIL-be Pythonban
 description: BMP mentése EMAIL formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/bmp-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

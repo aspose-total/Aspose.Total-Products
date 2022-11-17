@@ -1,7 +1,7 @@
 ---
 title: Convierta DOTM a PPSM en Android a través de Java
 description: Conversión de DOTM a PPSM en sus teléfonos Android sin usar Microsoft Word o PowerPoint
-url: /es/android-java/conversion/dotm-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-dotm-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.
 También puede convertir su DOTM protegido por contraseña a PPSM dentro de sus aplicaciones de Android. Si su dotmumento DOTM de entrada está protegido con contraseña, no puede convertirlo al formato PPSM sin usar la contraseña. Para abrir un dotmumento cifrado, puede establecer la contraseña correcta en el objeto LoadOptions y pasarla al constructor del dotmumento.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-dotm-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

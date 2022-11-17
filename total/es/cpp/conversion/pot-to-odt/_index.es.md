@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir POT a ODT
 description: Exporte POT a ODT dentro de sus aplicaciones C++
-url: /es/cpp/conversion/pot-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

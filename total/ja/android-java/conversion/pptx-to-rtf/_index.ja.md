@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのRTFにPPTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTXをRTFに変換する
-url: /ja/android-java/conversion/pptx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

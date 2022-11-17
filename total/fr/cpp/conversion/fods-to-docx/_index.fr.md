@@ -1,7 +1,7 @@
 ---
 title: Convertir FODS en DOCX avec C++
 description: Convertir FODS en DOCX dans les applications C++
-url: /fr/cpp/conversion/fods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

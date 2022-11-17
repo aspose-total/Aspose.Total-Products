@@ -1,7 +1,7 @@
 ---
 title: API C++ per convertire PPT in DOT
 description: Esporta PPT in DOT all'interno delle tue applicazioni C++
-url: /it/cpp/conversion/ppt-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

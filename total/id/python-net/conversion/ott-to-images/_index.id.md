@@ -1,7 +1,7 @@
 ---
 title: Konversi OTT ke Gambar dengan Python
 description: Konversi OTT ke gambar TIFF BMP PNG JPEG GIF SVG dalam aplikasi Python Anda tanpa menggunakan Microsoft Word 
-url: /id/python-net/conversion/ott-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

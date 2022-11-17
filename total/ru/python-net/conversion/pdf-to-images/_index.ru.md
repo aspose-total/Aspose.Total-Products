@@ -1,7 +1,7 @@
 ---
 title: Преобразование PDF в изображения в Python
 description: Преобразование PDF в изображение TIFF BMP PNG JPEG GIF SVG в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/pdf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

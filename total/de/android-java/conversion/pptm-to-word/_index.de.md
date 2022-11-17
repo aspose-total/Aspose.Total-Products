@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie PPTM nach WORD auf Andorid über Java
 description: Konvertieren Sie PPTM in WORD in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převeďte PDF na MHTML v Pythonu
 description: Formát webového archivu PDF na mhtml a převod souborů HtmlFixed ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/pdf-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

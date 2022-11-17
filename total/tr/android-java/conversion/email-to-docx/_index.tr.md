@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to DOCX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i DOCX'ye aktarın
-url: /tr/android-java/conversion/email-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

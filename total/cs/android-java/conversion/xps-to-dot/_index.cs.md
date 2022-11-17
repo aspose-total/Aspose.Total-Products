@@ -1,7 +1,7 @@
 ---
 title: Android API pro vykreslení XPS do DOT
 description: Transformujte XPS na DOT přes Android přes Java API
-url: /cs/android-java/conversion/xps-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.DOT
 outputDocument.save("output.dot", SaveFormat.DOT);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -61,7 +62,8 @@ System.out.println("Keywords: " + docInfo.getKeywords());
 System.out.println("Modify Date: " + docInfo.getModDate());
 System.out.println("Subject: " + docInfo.getSubject());
 System.out.println("Title: " + docInfo.getTitle());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -86,7 +88,8 @@ option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
 option.setPosition(EndnotePosition.END_OF_SECTION);
 // save the document to disk.
 doc.save("output.dot", SaveFormat.DOT);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

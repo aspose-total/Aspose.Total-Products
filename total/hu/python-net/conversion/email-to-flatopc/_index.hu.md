@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t FLATOPC-be Pythonban
 description: Mentse a EMAIL-t FLATOPC formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

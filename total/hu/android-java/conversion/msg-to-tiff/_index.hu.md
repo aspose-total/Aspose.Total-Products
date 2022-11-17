@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t TIFF-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t TIFF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

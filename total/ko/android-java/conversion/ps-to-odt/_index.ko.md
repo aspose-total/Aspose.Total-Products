@@ -1,7 +1,7 @@
 ---
 title: PS을 ODT으로 렌더링하는 Android API
 description: Java API를 통해 Android를 통해 PS을 ODT으로 변환
-url: /ko/android-java/conversion/ps-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 Document outputDocument = new com.aspose.words.Document("DocOutput.doc");
 // call save method while passing SaveFormat.ODT
 outputDocument.save("output.odt", SaveFormat.ODT);   
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -61,7 +62,8 @@ System.out.println("Keywords: " + docInfo.getKeywords());
 System.out.println("Modify Date: " + docInfo.getModDate());
 System.out.println("Subject: " + docInfo.getSubject());
 System.out.println("Title: " + docInfo.getTitle());
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -86,7 +88,8 @@ option.setRestartRule(FootnoteNumberingRule.RESTART_PAGE);
 option.setPosition(EndnotePosition.END_OF_SECTION);
 // save the document to disk.
 doc.save("output.odt", SaveFormat.ODT);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

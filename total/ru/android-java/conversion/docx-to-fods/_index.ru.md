@@ -1,7 +1,7 @@
 ---
 title: Android API для преобразования DOCX в FODS
 description: Преобразование DOCX в FODS в Android через Java без использования Microsoft Word или Microsoft Excel
-url: /ru/android-java/conversion/docx-to-fods/
+
 family: total
 platformtag: cpp
 feature: conversion

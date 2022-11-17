@@ -1,7 +1,7 @@
 ---
 title: Konwertuj TEXT na OST w Pythonie
 description: Zapisuj TEXT do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/text-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で PPT を WORD に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPT から WORD への変換 
-url: /ja/python-net/conversion/ppt-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

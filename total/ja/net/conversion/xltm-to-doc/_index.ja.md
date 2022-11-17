@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTMをDOCに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをDOCに変換する
-url: /ja/net/conversion/xltm-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

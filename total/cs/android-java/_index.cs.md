@@ -1,7 +1,7 @@
 ---
 title: Rozhraní API pro zpracování formátu souborů Android pro mobilní aplikace – Aspose 
 weight: 50
-url: /cs/android-java/ 
+
 description: Android File Format API pro Word Excel PDF PowerPoint a e-maily. Programově vytvářejte vykreslování úprav a převádějte formáty dokumentů v mobilních aplikacích
 ---
 

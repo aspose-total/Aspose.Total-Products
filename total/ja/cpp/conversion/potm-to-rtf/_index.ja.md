@@ -1,7 +1,7 @@
 ---
 title: POTMをRTFに変換するC++API
 description: C++アプリケーション内でPOTMをRTFにエクスポートする
-url: /ja/cpp/conversion/potm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

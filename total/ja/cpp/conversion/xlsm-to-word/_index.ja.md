@@ -1,7 +1,7 @@
 ---
 title: C++でXLSMをWORDに変換する
 description: C++アプリケーション内でXLSMをWORDに変換する
-url: /ja/cpp/conversion/xlsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

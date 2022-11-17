@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a BMP-t MBOX-be Pythonban
 description: BMP mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/bmp-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

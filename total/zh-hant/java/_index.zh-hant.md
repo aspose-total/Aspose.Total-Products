@@ -1,7 +1,7 @@
 ---
 title: 流行文件格式的 Java API - Aspose 
 weight: 60
-url: /zh-hant/java/ 
+
 description: Java 開發人員的 API 集合，用於處理 Word Excel PDF PowerPoint Visio OneNote 電子郵件項目圖像 3D GIS 中的文件。
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Python kullanarak XLTM'i Görüntüye dönüştürün
 description: Microsoft Excel kullanmadan Python uygulamalarınızda TIFF BMP PNG JPEG GIF EMF SVG dönüştürme görüntüsüne XLTM 
-url: /tr/python-java/conversion/xltm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

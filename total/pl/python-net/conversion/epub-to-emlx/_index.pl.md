@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EPUB na EMLX w Pythonie
 description: Zapisuj EPUB do EMLX w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/epub-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

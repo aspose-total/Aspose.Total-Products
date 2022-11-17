@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPSにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをPSにエクスポートする
-url: /ja/android-java/conversion/email-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

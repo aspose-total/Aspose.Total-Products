@@ -1,7 +1,7 @@
 ---
 title: PPTXをDOTに変換するC++API
 description: C++アプリケーション内でPPTXをDOTにエクスポートする
-url: /ja/cpp/conversion/pptx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

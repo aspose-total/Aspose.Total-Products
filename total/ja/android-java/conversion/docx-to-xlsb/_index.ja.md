@@ -1,7 +1,7 @@
 ---
 title: DOCXをXLSBに変換するAndroidAPI
 description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでDOCXをXLSBに変換する
-url: /ja/android-java/conversion/docx-to-xlsb/
+
 family: total
 platformtag: cpp
 feature: conversion

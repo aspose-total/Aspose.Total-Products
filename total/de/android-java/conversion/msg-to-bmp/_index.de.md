@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu BMP in der Andorid App
 description: Exportieren Sie E-MAIL nach BMP, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/msg-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

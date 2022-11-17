@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε OTT στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε OTT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

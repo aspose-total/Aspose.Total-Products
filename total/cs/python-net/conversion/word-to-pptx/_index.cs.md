@@ -1,7 +1,7 @@
 ---
 title: Převést WORD na PPTX v Pythonu
 description: Převod WORD na PPTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
-url: /cs/python-net/conversion/word-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

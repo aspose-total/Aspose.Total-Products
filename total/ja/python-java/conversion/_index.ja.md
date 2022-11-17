@@ -1,6 +1,6 @@
 ---
 title: Python による Microsoft Excel スプレッドシートと Visio 形式の変換 
-url: /ja/python-java/conversion/
+
 description: Excel ファイル XLS XLSX XLSM XLSB XLTX XLTM CSV など、および Visio 形式 VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM などを数行の Python コードで変換します。
 ---
 

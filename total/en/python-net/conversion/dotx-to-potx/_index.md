@@ -1,7 +1,7 @@
 ---
 title: Convert DOTX to POTX in Python
 description: DOTX to POTX conversion in your Python applications without using Microsoft Word or PowerPoint 
-url: /python-net/conversion/dotx-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi XPS ke PST dengan Python
 description: Simpan XPS ke PST dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/xps-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

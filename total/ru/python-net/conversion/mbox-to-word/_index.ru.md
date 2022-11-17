@@ -1,7 +1,7 @@
 ---
 title: Преобразование MBOX в WORD в Python
 description: Сохраняйте MBOX в WORD в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/mbox-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

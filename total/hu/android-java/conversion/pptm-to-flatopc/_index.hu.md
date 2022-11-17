@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

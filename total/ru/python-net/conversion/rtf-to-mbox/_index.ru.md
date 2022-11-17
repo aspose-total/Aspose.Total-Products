@@ -1,7 +1,7 @@
 ---
 title: Преобразование RTF в MBOX в Python
 description: Сохраняйте RTF в MBOX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/rtf-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

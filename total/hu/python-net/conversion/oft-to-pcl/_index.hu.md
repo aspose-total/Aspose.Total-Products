@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t PCL-be Pythonban
 description: Mentse a OFT-t PCL formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

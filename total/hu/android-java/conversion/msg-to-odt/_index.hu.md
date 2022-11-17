@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az MSG-t ODT-nek az Andorid alkalmazásban
 description: Exportálja az MSG-t ODT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/msg-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

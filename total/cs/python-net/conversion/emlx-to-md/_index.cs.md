@@ -1,7 +1,7 @@
 ---
 title: Převést EMLX na MD v Pythonu
 description: Uložte EMLX do MD ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/emlx-to-md/
+
 family: total
 platformtag: Python
 feature: conversion

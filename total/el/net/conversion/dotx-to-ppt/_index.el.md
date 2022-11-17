@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTX σε PPT μέσω C# .NET 
-url: /el/net/conversion/dotx-to-ppt/ 
+
 description: Μετατρέψτε έγγραφα Word dotx σε αρχεία ppt PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

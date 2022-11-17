@@ -1,7 +1,7 @@
 ---
 title: Aplikace formátu souborů SharePoint – Převádějte dokumenty v aplikacích SharePoint 
 weight: 20
-url: /cs/sharepoint/ 
+
 description: Aplikace pro formát souborů SharePoint pro převod a kombinaci formátů dokumentů Word Excel PDF PowerPoint Email a Imaging v rámci Microsoft SharePoint
 ---
 

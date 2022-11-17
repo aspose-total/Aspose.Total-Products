@@ -1,7 +1,7 @@
 ---
 title: PPTXをTEXTに変換するC++API
 description: C++アプリケーション内でPPTXをTEXTにエクスポートする
-url: /ja/cpp/conversion/pptx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

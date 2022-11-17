@@ -1,7 +1,7 @@
 ---
 title: Convertir EMF a VCF en Python
 description: Guarde EMF en VCF dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/emf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PDF-t ICS-be Pythonban
 description: PDF mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pdf-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

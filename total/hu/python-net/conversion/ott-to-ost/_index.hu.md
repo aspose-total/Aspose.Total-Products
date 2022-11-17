@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OTT-t OST-be Pythonban
 description: OTT mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ott-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

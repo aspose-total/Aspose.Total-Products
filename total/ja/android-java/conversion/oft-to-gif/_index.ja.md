@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをGIFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをGIFにエクスポートする
-url: /ja/android-java/conversion/oft-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

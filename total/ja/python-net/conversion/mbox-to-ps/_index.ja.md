@@ -1,7 +1,7 @@
 ---
 title: Python で MBOX を PS に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで MBOX を PS に保存します。 
-url: /ja/python-net/conversion/mbox-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

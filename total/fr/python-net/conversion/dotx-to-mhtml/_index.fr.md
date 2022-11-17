@@ -1,7 +1,7 @@
 ---
 title: Convertir DOTX en MHTML en Python
 description: Format d'archive Web DOTX vers mhtml et conversion de fichiers HtmlFixed dans vos applications Python sans utiliser Microsoft Word 
-url: /fr/python-net/conversion/dotx-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

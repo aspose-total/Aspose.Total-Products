@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOC в изображения в Python
 description: Преобразование DOC в изображение TIFF BMP PNG JPEG GIF SVG в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/doc-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

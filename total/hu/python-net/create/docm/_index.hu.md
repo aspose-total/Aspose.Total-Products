@@ -1,7 +1,7 @@
 ---
 title: DOCM létrehozása Pythonban
 description: DOCM-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

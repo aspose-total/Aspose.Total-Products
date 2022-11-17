@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u WORD'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u WORD'ye dönüştürün
-url: /tr/android-java/conversion/potm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

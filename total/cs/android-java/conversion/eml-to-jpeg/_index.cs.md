@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do JPEG v aplikaci Andorid
 description: Exportujte EML do JPEG bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da MHTML'yi DOCX'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word kullanmadan MHTML ve HtmlFixed'den DOCX'e dönüştürme 
-url: /tr/python-net/conversion/mhtml-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

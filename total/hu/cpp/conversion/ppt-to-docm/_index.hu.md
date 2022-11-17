@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT DOCM formátumba konvertálásához
 description: Exportálja a PPT-ot DOCM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

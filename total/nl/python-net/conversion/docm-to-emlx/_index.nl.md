@@ -1,7 +1,7 @@
 ---
 title: Converteer DOCM naar EMLX in Python
 description: Bewaar DOCM naar EMLX binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/docm-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

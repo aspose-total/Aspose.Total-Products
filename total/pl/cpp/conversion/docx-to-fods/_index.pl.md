@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na FODS w C++
 description: C++ API do konwersji DOCX na FODS bez używania Microsoft Word lub Microsoft Excel
-url: /pl/cpp/conversion/docx-to-fods/
+
 family: total
 platformtag: cpp
 feature: conversion

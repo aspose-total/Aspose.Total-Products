@@ -1,7 +1,7 @@
 ---
 title: Renderize OFT para PDF no aplicativo Andorid
 description: Exporte OFT para PDF sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/oft-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

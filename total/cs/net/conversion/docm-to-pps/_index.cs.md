@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na PPS přes C# .NET 
-url: /cs/net/conversion/docm-to-pps/ 
+
 description: Převeďte dokumenty Word docm na soubory PowerPoint pps pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

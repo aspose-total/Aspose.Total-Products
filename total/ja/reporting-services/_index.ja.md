@@ -1,7 +1,7 @@
 ---
 title: SQL ServerReportingServicesのファイル形式の拡張機能のレンダリング 
 weight: 40
-url: /ja/reporting-services/ 
+
 description: RDLレポートをWordExcelPDFPowerPoint形式にエクスポートするためのファイル形式のSQLServerReportingServicesレンダリング拡張機能。エクスポートされたレポートにバーコードを追加する
 ---
 

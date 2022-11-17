@@ -1,7 +1,7 @@
 ---
 title: 通過 C++ 將 DOCX 轉換為 ODP
 description: 在您的 C++ 應用程序中將 DOCX 導出為 ODP，而無需使用 Microsoft Word of PowerPoint
-url: /zh-hant/cpp/conversion/docx-to-odp/
+
 family: total
 platformtag: cpp
 feature: conversion

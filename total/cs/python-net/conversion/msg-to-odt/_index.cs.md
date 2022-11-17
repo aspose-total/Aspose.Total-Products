@@ -1,7 +1,7 @@
 ---
 title: Převést MSG na ODT v Pythonu
 description: Uložte MSG do ODT ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/msg-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

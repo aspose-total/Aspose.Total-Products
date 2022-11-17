@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSX-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSX-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

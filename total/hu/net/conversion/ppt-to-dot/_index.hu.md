@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPT-t DOT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppt-to-dot/ 
+
 description: Konvertálja a PowerPoint ppt dokumentumokat Word dot fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

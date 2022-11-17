@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTX naar EMAIL in Python
 description: Bewaar DOTX naar EMAIL binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/dotx-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

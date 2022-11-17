@@ -1,7 +1,7 @@
 ---
 title: A TSV konvertálása DOC formátumba .NET segítségével 
 description: A TSV konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/tsv-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

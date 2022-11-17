@@ -1,7 +1,7 @@
 ---
 title: Converti XLS in DOCX con .NET 
 description: Converti XLS in DOCX su piattaforme .NET Framework, .NET Core, Mono o Xamarin
-url: /it/net/conversion/xls-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

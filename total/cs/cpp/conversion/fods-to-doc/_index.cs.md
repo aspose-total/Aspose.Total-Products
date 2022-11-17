@@ -1,7 +1,7 @@
 ---
 title: Převeďte FODS na DOC pomocí C++
 description: Převeďte FODS na DOC v aplikacích C++
-url: /cs/cpp/conversion/fods-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

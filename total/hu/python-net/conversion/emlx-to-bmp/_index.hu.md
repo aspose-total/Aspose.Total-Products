@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t BMP-be Pythonban
 description: Mentse a EMLX-t BMP formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

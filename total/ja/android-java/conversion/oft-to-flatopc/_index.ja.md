@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをFLATOPCにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをFLATOPCにエクスポートする
-url: /ja/android-java/conversion/oft-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

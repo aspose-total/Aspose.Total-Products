@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPS-ot RTF-ba Andoridon Java-n keresztül
 description: Konvertálja a PPS-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pps-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

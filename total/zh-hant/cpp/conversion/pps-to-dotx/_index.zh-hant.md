@@ -1,7 +1,7 @@
 ---
 title: 將 PPS 轉換為 DOTX 的 C++ API
 description: 在 C++ 應用程序中將 PPS 導出為 DOTX
-url: /zh-hant/cpp/conversion/pps-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

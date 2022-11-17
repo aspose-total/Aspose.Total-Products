@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi C++'da TSV'ye dönüştürün
 description: Microsoft Word veya Microsoft Excel kullanmadan DOCX'yi TSV'ye dönüştürmek için C++ API
-url: /tr/cpp/conversion/docx-to-tsv/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exporter POTM vers DOCX sur Andorid via Java
 description: Convertissez POTM en DOCX dans les applications mobiles sans installer de logiciel
-url: /fr/android-java/conversion/potm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

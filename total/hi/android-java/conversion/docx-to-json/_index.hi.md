@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से एंड्रॉइड में डीओसी को जेएसओएन प्रारूप में कनवर्ट करें
 description: माइक्रोसॉफ्ट वर्ड या एक्सेल का उपयोग किए बिना जावा के माध्यम से एंड्रॉइड में जेएसओएन प्रारूप में पार्स डीओसी
-url: /hi/android-java/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

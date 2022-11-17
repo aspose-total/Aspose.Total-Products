@@ -1,7 +1,7 @@
 ---
 title: Frissítse a TSV fájlt Python használatával
 description: Módosítsa a TSV-dokumentumot Python-alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/python-java/update/tsv/
+
 family: total
 platformtag: Python
 feature: update

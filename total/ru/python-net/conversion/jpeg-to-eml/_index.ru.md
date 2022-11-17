@@ -1,7 +1,7 @@
 ---
 title: Преобразование JPEG в EML в Python
 description: Сохраняйте JPEG в EML в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/jpeg-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

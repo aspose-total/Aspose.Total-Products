@@ -1,7 +1,7 @@
 ---
 title: Konvertera XLTX till POWERPOINT med C++
 description: Konvertera XLTX till POWERPOINT inom C++-applikationer
-url: /sv/cpp/conversion/xltx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

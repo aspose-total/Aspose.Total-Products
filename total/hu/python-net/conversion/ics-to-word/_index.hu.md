@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a ICS-t WORD-be Pythonban
 description: Mentse a ICS-t WORD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ics-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

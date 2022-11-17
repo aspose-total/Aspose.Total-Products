@@ -1,7 +1,7 @@
 ---
 title: แปลง DOTM เป็น EMAIL ใน Python
 description: บันทึก DOTM เป็น EMAIL ภายในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Outlook
-url: /th/python-net/conversion/dotm-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

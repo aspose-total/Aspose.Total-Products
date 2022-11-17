@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a IMAGE-t OST-be Pythonban
 description: IMAGE mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/image-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

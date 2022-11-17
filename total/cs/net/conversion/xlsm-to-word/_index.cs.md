@@ -1,7 +1,7 @@
 ---
 title: Převeďte XLSM na WORD pomocí .NET 
 description: Převeďte XLSM na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/xlsm-to-word/
+
 family: total
 platformtag: net
 feature: conversion

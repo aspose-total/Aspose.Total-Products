@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDMLにPPTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTXをWORDMLに変換する
-url: /ja/android-java/conversion/pptx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir WORD a POT en Python
 description: Conversión de WORD a POT en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint 
-url: /es/python-net/conversion/word-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

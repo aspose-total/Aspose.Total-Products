@@ -1,7 +1,7 @@
 ---
 title: Converti TEXT in MSG in Python
 description: Salva TEXT in MSG all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/text-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportera PPTX till WORDML på Andorid via Java
 description: Konvertera PPTX till WORDML i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pptx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

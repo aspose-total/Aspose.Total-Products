@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji PPSM na DOT
 description: Eksportuj PPSM do DOT w swoich aplikacjach C++
-url: /pl/cpp/conversion/ppsm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

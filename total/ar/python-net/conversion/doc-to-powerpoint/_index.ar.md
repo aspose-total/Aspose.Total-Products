@@ -1,7 +1,7 @@
 ---
 title: تحويل DOC إلى POWERPOINT في Python
 description: تحويل DOC إلى POWERPOINT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/doc-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

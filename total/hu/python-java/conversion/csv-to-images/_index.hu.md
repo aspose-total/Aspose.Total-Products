@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a CSV-et képpé Python segítségével
 description: CSV kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/csv-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

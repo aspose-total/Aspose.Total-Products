@@ -1,7 +1,7 @@
 ---
 title: XLSB létrehozása Pythonban
 description: XLSB-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xlsb/
+
 family: total
 platformtag: Python
 feature: create

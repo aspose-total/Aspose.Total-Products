@@ -1,6 +1,6 @@
 ---
 title: Microsoft Excel táblázatok és Visio formátumok konvertálása Python segítségével 
-url: /hu/python-java/conversion/
+
 description: Konvertálja az Excel fájlokat XLS XLSX XLSM XLSB XLTX XLTM CSV és még sok más, valamint Visio formátumok VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM stb. csak néhány sor Python kódot.
 ---
 

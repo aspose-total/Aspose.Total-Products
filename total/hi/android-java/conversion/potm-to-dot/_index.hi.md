@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर DOT को POTM निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में POTM को DOT में बदलें
-url: /hi/android-java/conversion/potm-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

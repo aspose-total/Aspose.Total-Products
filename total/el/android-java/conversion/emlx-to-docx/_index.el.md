@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε DOCX στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε DOCX χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

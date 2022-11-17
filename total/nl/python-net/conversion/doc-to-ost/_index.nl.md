@@ -1,7 +1,7 @@
 ---
 title: Converteer DOC naar OST in Python
 description: Bewaar DOC naar OST binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/doc-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,12 +1,12 @@
 ---
 title: API tự động hóa định dạng tệp cho nhiều nền tảng - Aspose 
 weight: 10
-url: /vi/family/
-description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D and CAD Manipulation APIs cho .NET, Java, Android, C ++. Thành phần cho SharePoint, Phần mở rộng cho Dịch vụ Báo cáo và Trình xuất cho JasperReports.
+
+description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR Imaging OneNote 3D and CAD Manipulation APIs cho .NET, Java, Android, C++. Thành phần cho SharePoint, Phần mở rộng cho Dịch vụ Báo cáo và Trình xuất cho JasperReports.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Tập hợp đầy đủ các API thao tác định dạng tệp" h2="Thao tác Word, Excel, PDF, PowerPoint, Outlook và hơn 100 định dạng tệp khác bằng cách sử dụng API gốc của chúng tôi cho .NET, Java, Android, C ++ và các Nền tảng khác." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tập hợp đầy đủ các API thao tác định dạng tệp" h2="Thao tác Word, Excel, PDF, PowerPoint, Outlook và hơn 100 định dạng tệp khác bằng cách sử dụng API gốc của chúng tôi cho .NET, Java, Android, C++ và các Nền tảng khác." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Dòng sản phẩm Aspose.Total bao gồm" >}}
@@ -20,7 +20,7 @@ Các API Java gốc cho máy tính để bàn, web hoặc bất kỳ loại ứn
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/vi/cpp" >}}
-Tạo, thao tác, chuyển đổi hoặc kết xuất tài liệu Word, bảng tính Excel, bản trình bày PowerPoint, email và tệp PDF trong các ứng dụng C ++.
+Tạo, thao tác, chuyển đổi hoặc kết xuất tài liệu Word, bảng tính Excel, bản trình bày PowerPoint, email và tệp PDF trong các ứng dụng C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/vi/android-java" >}}

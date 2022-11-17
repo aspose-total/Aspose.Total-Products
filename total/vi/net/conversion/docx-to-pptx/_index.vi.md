@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOCX sang PPTX qua C# .NET 
-url: /vi/net/conversion/docx-to-pptx/ 
+
 description: Chuyển đổi tài liệu Word docx sang tệp pptx PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

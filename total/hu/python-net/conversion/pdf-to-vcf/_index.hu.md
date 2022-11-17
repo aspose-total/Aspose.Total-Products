@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PDF-t VCF-be Pythonban
 description: PDF mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pdf-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

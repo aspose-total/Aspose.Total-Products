@@ -1,7 +1,7 @@
 ---
 title: Render EML ke TEXT di Aplikasi Andorid
 description: Ekspor EML ke TEXT tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/eml-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

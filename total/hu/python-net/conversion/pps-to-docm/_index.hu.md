@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPS-t DOCM-be Pythonban
 description: PPS-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/pps-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

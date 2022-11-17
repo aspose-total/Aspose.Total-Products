@@ -1,7 +1,7 @@
 ---
 title: .NET を使用して CSV ファイルを更新する
 description: Microsoft Excel を使用せずに、C# VB.NET アプリケーションで CSV ドキュメントを変更します。 
-url: /ja/net/update/csv/
+
 family: total
 platformtag: .NET
 feature: update

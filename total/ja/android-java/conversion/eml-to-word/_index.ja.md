@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをWORDにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをWORDにエクスポートする
-url: /ja/android-java/conversion/eml-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

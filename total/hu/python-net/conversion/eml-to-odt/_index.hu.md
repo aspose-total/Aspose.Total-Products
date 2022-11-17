@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t ODT-be Pythonban
 description: Mentse a EML-t ODT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

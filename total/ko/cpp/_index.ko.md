@@ -1,7 +1,7 @@
 ---
 title: C++ 파일 형식 처리 API - Aspose 
 weight: 70
-url: /ko/cpp/ 
+
 description: C++ 라이브러리는 읽기 쓰기 렌더링을 읽고 여러 문서 형식을 변환합니다.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XPS-t VCF-be Pythonban
 description: XPS mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/xps-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

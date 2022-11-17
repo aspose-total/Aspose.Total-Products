@@ -1,7 +1,7 @@
 ---
 title: सीजीएम को सीएसवी में बदलने के लिए सी++ एपीआई
 description: माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना सीजीएम को सी ++ एपीआई के माध्यम से सीएसवी में कनवर्ट करें
-url: /hi/cpp/conversion/mhtml-to-xlt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: MD XLSB XLAM ODS CSV SXC FODS EXCEL DIF XLTM TSV XLSM
 {{< blocks/products/pf/feature-page-header h1="C++ अनुप्रयोगों में XLT को MHTML प्रदान करें" h2="Microsoft<sup>&reg;</sup> Excel या Adobe<sup>&reg;</sup> Acrobat Reader की आवश्यकता के बिना MHTML को मूल C++ अनुप्रयोगों में XLT में बदलें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी के जरिए सीजीएम को सी++ में सीएसवी में बदलना एक आसान दो चरणों वाली प्रक्रिया है। पहले चरण में, आप [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) का उपयोग करके XLSX को MHTML निर्यात कर सकते हैं, उसके बाद, [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) स्प्रेडशीट प्रोग्रामिंग एपीआई, आप XLSX को XLT में बदल सकते हैं। 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी के जरिए सीजीएम को सी++ में सीएसवी में बदलना एक आसान दो चरणों वाली प्रक्रिया है। पहले चरण में, आप [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) का उपयोग करके XLSX को MHTML निर्यात कर सकते हैं, उसके बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) स्प्रेडशीट प्रोग्रामिंग एपीआई, आप XLSX को XLT में बदल सकते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -32,7 +32,8 @@ otherformats: MD XLSB XLAM ODS CSV SXC FODS EXCEL DIF XLTM TSV XLSM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: MD XLSB XLAM ODS CSV SXC FODS EXCEL DIF XLTM TSV XLSM
 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) भी आपको अपने MHTML दस्तावेज़ के बारे में जानकारी प्राप्त करने की अनुमति देता है और आपको अपनी रूपांतरण प्रक्रिया से पहले सूचित निर्णय लेने देता है। MHTML फ़ाइल की फ़ाइल विशिष्ट जानकारी प्राप्त करने के लिए, आपको सबसे पहले [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) विधि को कॉल करना होगा। [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) वर्ग। एक बार DocumentInfo ऑब्जेक्ट पुनर्प्राप्त हो जाने के बाद, आप अलग-अलग गुणों के मान प्राप्त कर सकते हैं। इसके अलावा, आप DocumentInfo वर्ग के संबंधित तरीकों का उपयोग करके भी गुण सेट कर सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: MD XLSB XLAM ODS CSV SXC FODS EXCEL DIF XLTM TSV XLSM
 [Aspose.Cells for C++](https://products.aspose.com/cells/net/) स्ट्रीम करने के लिए XLT फ़ाइल स्वरूप को सहेजने की अनुमति देता है। फ़ाइलों को स्ट्रीम में सहेजने के लिए, एक मेमोरीस्ट्रीम या फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं और [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) पर कॉल करके फ़ाइल को उस स्ट्रीम ऑब्जेक्ट में सहेजें। ऑब्जेक्ट की [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) विधि। सेव विधि को कॉल करते समय [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) एन्यूमरेशन का उपयोग करके वांछित फ़ाइल स्वरूप निर्दिष्ट करें।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xlt-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xlt-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

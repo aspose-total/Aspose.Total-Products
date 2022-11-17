@@ -1,7 +1,7 @@
 ---
 title: 在 Android 中將 ODS 導出為 PPTX
 description: 無需使用 Microsoft Word 即可將 ODS 轉換為 PPTX 的 Android API
-url: /zh-hant/android-java/conversion/ods-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -40,7 +40,8 @@ book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 Pptxument pptxument = new Pptxument("pdfOutput.pdf");
 // save pptxument in PPTX format
 pptxument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);    
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -56,7 +57,8 @@ Workbook book = new Workbook("input.ods");
 PptxumentPropertyCollection customProperties = workbook.getWorksheets().getCustomPptxumentProperties();
 // remove a custom pptxument property
 customProperties.remove("Publisher"); 
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

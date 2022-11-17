@@ -1,7 +1,7 @@
 ---
 title: Konvertera PPSX till DOCX i Python
 description: PPSX till DOCX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
-url: /sv/python-net/conversion/ppsx-to-docx/
+
 family: total
 platformtag: Python
 feature: conversion

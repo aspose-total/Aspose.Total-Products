@@ -1,7 +1,7 @@
 ---
 title: Python で RTF を画像に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで RTF から画像 TIFF BMP PNG JPEG GIF SVG への変換 
-url: /ja/python-net/conversion/rtf-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

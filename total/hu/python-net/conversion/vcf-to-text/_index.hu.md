@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t TEXT-be Pythonban
 description: Mentse a VCF-t TEXT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

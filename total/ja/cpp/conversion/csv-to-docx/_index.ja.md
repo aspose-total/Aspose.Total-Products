@@ -1,7 +1,7 @@
 ---
 title: C++でCSVをDOCXに変換する
 description: C++アプリケーション内でCSVをDOCXに変換する
-url: /ja/cpp/conversion/csv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

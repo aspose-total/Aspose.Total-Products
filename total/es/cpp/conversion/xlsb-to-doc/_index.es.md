@@ -1,7 +1,7 @@
 ---
 title: Convertir XLSB a DOC con C++
 description: Convierta XLSB a DOC dentro de aplicaciones C++
-url: /es/cpp/conversion/xlsb-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

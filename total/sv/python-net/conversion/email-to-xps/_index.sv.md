@@ -1,7 +1,7 @@
 ---
 title: Konvertera EMAIL till XPS i Python
 description: Spara EMAIL till XPS i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/email-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

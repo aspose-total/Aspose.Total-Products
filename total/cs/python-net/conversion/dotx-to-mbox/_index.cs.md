@@ -1,7 +1,7 @@
 ---
 title: Převést DOTX na MBOX v Pythonu
 description: Ukládejte DOTX do MBOX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dotx-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

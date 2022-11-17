@@ -1,7 +1,7 @@
 ---
 title: Convert EMLX to EMF in Python
 description: Save EMLX to EMF in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/emlx-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

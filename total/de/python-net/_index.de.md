@@ -1,6 +1,6 @@
 ---
 title: Python über APIs zur Verarbeitung von .NET-Dateiformaten – Aspose 
-url: /de/python-net/
+
 url_ignore: /python-net/ 
 description: Python-APIs für Microsoft Word-Dokumente, PowerPoint-Präsentationen und Outlook-E-Mail-Formate aus Python-Anwendungen heraus.
 ---

@@ -1,7 +1,7 @@
 ---
 title: Python'da OFT'yi IMAGE'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda OFT'yi IMAGE'e kaydedin 
-url: /tr/python-net/conversion/oft-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

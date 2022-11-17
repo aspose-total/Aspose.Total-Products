@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTM-t PST-be Pythonban
 description: DOTM mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotm-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

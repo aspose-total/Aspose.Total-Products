@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS DOT formátumba konvertálásához
 description: Exportálja a PPS-ot DOT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

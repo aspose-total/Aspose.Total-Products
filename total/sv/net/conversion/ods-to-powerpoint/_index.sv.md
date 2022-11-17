@@ -1,7 +1,7 @@
 ---
 title: Konvertera ODS till POWERPOINT med .NET 
 description: Konvertera ODS till POWERPOINT på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/ods-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

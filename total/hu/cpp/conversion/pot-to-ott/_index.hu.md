@@ -1,7 +1,7 @@
 ---
 title: C++ API a POT OTT formátumba konvertálásához
 description: Exportálja a POT-ot OTT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pot-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

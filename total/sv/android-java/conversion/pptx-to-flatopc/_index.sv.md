@@ -1,7 +1,7 @@
 ---
 title: Exportera PPTX till FLATOPC på Andorid via Java
 description: Konvertera PPTX till FLATOPC i mobilappar utan att installera någon programvara
-url: /sv/android-java/conversion/pptx-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

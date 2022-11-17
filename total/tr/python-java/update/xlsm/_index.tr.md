@@ -1,7 +1,7 @@
 ---
 title: Python Kullanarak XLSM Dosyasını Güncelleyin
 description: Microsoft Excel kullanmadan Python uygulamalarında XLSM belgesini değiştirin. 
-url: /tr/python-java/update/xlsm/
+
 family: total
 platformtag: Python
 feature: update

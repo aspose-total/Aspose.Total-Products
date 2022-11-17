@@ -1,7 +1,7 @@
 ---
 title: XLSB-bestand bijwerken met Java
 description: Wijzig XLSB-document in Java-toepassingen zonder Microsoft Excel te gebruiken. Optimaliseer code voor de snelste manier om Excel-bestanden in Java te schrijven en te bewerken.
-url: /nl/java/update/xlsb/
+
 family: total
 platformtag: Java
 feature: update

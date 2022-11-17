@@ -1,7 +1,7 @@
 ---
 title: Convertir EMAIL en ODT en Python
 description: Enregistrez EMAIL au format ODT dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/email-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

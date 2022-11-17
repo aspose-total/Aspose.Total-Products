@@ -1,7 +1,7 @@
 ---
 title: Render OFT naar IMAGE in de Andorid-app
 description: Exporteer OFT naar IMAGE zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/oft-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

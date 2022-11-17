@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS en FLATOPC en Python
 description: Enregistrez ICS au format FLATOPC dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ics-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

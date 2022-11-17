@@ -1,7 +1,7 @@
 ---
 title: AndroidのDOCXにTSVをエクスポートする
 description: MicrosoftWordを使用せずにTSVをDOCXに変換するAndroidAPI
-url: /ja/android-java/conversion/tsv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTM-ot OTT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTM-ot OTT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptm-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

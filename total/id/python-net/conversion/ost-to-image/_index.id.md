@@ -1,7 +1,7 @@
 ---
 title: Konversi OST ke IMAGE dengan Python
 description: Simpan OST ke IMAGE di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/ost-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOT sang POT qua C# .NET 
-url: /vi/net/conversion/dot-to-pot/ 
+
 description: Chuyển đổi tài liệu Word dot sang tệp pot PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

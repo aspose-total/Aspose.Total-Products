@@ -1,7 +1,7 @@
 ---
 title: C++ API a POTX WORD formátumba konvertálásához
 description: Exportálja a POTX-ot WORD-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/potx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

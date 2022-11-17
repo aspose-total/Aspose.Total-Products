@@ -1,7 +1,7 @@
 ---
 title: Convertir OFT en SVG en Python
 description: Enregistrez OFT au format SVG dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/oft-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Esporta PPT in TEXT su Andorid tramite Java
 description: Converti PPT in TEXT nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

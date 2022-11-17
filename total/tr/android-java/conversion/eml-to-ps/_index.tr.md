@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to PS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i PS'ye aktarın
-url: /tr/android-java/conversion/eml-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

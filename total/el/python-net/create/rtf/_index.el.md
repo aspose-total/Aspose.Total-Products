@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία RTF σε Python
 description: Δημιουργήστε αρχείο RTF χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Word. 
-url: /el/python-net/create/rtf/
+
 family: total
 platformtag: Python
 feature: create

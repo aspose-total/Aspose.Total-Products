@@ -1,7 +1,7 @@
 ---
 title: Python'da EPUB'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında EPUB'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/epub-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

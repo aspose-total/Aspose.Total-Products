@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t SVG-be Pythonban
 description: Mentse a EML-t SVG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

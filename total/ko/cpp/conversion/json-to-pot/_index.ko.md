@@ -1,7 +1,7 @@
 ---
 title: C++를 통해 JSON 형식을 POT로 변환
 description: Microsoft PowerPoint를 사용하지 않고 C++에서 JSON을 POT로 구문 분석
-url: /ko/cpp/conversion/json-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: OTP ODP PPSX PPT POTM PPS PPTM POTX PPSM POWERPOINT
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: OTP ODP PPSX PPT POTM PPS PPTM POTX PPSM POWERPOINT
 JSON을 POT로 파싱하는 동안 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 클래스로 JSON을 로드하여 행과 열의 크기를 설정할 수도 있습니다. 워크시트의 모든 행에 대해 동일한 행 높이를 설정해야 하는 경우 [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f)를 사용하여 설정할 수 있습니다. ) [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) 컬렉션의 메서드입니다. 마찬가지로 워크시트의 모든 열에 동일한 열 너비를 설정하려면 ICells 컬렉션의 [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) 메서드를 사용합니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ JSON을 POT로 파싱하는 동안 [IWorkbook](https://reference.aspose.com/cell
 API를 사용하여 워터마크가 있는 JSON을 POT로 변환할 수도 있습니다. POT 문서에 워터마크를 추가하려면 먼저 JSON을 PPTX로 구문 분석하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 클래스를 사용하여 새로 생성된 PPTX 파일을 로드하고 첫 번째 슬라이드를 가져오고 추가 Rectangle 형태의 AutoShape는 Rectangle에 TextFrame을 추가하고, 텍스트 프레임을 위한 Paragraph 객체를 생성하고, 단락을 위한 Portion 객체를 생성하고, set_Text()를 이용하여 워터마크를 추가하고, POT에 문서를 저장할 수 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

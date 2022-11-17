@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى FLATOPC في تطبيق Andorid
 description: قم بتصدير EMAIL إلى FLATOPC دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/email-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

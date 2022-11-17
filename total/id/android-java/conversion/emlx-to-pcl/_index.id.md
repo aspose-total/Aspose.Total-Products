@@ -1,7 +1,7 @@
 ---
 title: Render EMLX ke PCL di Aplikasi Andorid
 description: Ekspor EMLX ke PCL tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/emlx-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API لتحويل PPS إلى TEXT
 description: قم بتصدير PPS إلى TEXT داخل تطبيقات C++ الخاصة بك
-url: /ar/cpp/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

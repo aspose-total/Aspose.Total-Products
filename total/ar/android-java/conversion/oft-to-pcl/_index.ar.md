@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى PCL في تطبيق Andorid
 description: قم بتصدير OFT إلى PCL دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/oft-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

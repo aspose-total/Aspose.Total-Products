@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в EMAIL в Python
 description: Сохраняйте EMAIL в EMAIL в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/gif-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

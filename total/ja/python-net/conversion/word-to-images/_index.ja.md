@@ -1,7 +1,7 @@
 ---
 title: Python で WORD を画像に変換する
 description: Microsoft Word を使用せずに Python アプリケーションで WORD から画像 TIFF BMP PNG JPEG GIF SVG への変換 
-url: /ja/python-net/conversion/word-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a VCF-t SVG-be Pythonban
 description: Mentse a VCF-t SVG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/vcf-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

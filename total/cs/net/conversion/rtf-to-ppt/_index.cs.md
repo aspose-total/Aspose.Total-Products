@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na PPT přes C# .NET 
-url: /cs/net/conversion/rtf-to-ppt/ 
+
 description: Převeďte dokumenty Word rtf na soubory PowerPoint ppt pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

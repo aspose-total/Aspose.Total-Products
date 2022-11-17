@@ -1,7 +1,7 @@
 ---
 title: API's voor verwerking van C++-bestandsindelingen - Aspose 
 weight: 70
-url: /nl/cpp/ 
+
 description: C++-bibliotheken lezen, schrijven, renderen en converteren van meerdere documentformaten.
 ---
 

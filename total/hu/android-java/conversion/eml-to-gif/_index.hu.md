@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t GIF-nek az Andorid alkalmazásban
 description: Exportálja az EML-t GIF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

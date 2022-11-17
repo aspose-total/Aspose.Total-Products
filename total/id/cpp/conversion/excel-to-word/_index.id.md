@@ -1,7 +1,7 @@
 ---
 title: Konversi EXCEL ke WORD dengan C++
 description: Konversi EXCEL ke WORD dalam aplikasi C++
-url: /id/cpp/conversion/excel-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

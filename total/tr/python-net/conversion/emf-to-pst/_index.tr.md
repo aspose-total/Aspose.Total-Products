@@ -1,7 +1,7 @@
 ---
 title: Python'da EMF'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında EMF'yi PST'e kaydedin
-url: /tr/python-net/conversion/emf-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование IMAGE в EMLX в Python
 description: Сохраняйте IMAGE в EMLX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/image-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

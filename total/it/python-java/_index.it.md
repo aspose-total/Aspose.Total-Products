@@ -1,6 +1,6 @@
 ---
 title: Librerie di automazione file Python - Aspose
-url: /it/python-java/
+
 url_ignore: /python-java/ 
 description: Librerie Python per l'analisi di fogli di calcolo Excel, la generazione e la scansione di codici a barre, nonché l'elaborazione dei diagrammi di Visio
 ---

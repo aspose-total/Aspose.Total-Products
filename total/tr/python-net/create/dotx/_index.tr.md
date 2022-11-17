@@ -1,7 +1,7 @@
 ---
 title: Python'da DOTX oluşturun
 description: Microsoft Word kullanmadan Python uygulamalarını kullanarak DOTX dosyası oluşturun. 
-url: /tr/python-net/create/dotx/
+
 family: total
 platformtag: Python
 feature: create

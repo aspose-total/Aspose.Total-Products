@@ -1,7 +1,7 @@
 ---
 title: Renderizar MSG a PS en la aplicación Andorid
 description: Exporte MSG a PS sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование FODS в POWERPOINT с помощью C++
 description: Преобразование FODS в POWERPOINT в приложениях C++
-url: /ru/cpp/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

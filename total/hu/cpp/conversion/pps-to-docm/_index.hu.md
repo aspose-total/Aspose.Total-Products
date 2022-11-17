@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPS DOCM formátumba konvertálásához
 description: Exportálja a PPS-ot DOCM-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/pps-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

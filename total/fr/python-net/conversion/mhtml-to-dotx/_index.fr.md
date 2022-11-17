@@ -1,7 +1,7 @@
 ---
 title: Convertir MHTML en DOTX en Python
 description: Conversion MHTML et HtmlFixed en DOTX dans vos applications Python sans utiliser Microsoft Word 
-url: /fr/python-net/conversion/mhtml-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTX-ot WORD-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTX-ot WORD-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

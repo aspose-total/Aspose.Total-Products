@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLSXをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLSXをDOCXに変換する
-url: /ja/net/conversion/xlsx-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

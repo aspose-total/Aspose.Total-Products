@@ -1,7 +1,7 @@
 ---
 title: Convertir ICS en OTT en Python
 description: Enregistrez ICS au format OTT dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/ics-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

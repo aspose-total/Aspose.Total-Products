@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в WORD в приложении Andorid
 description: Экспорт MSG в WORD без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

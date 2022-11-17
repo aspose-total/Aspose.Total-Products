@@ -1,6 +1,6 @@
 ---
 title: Python via .NET-verwerkings-API's voor bestandsindelingen - Aspose 
-url: /nl/python-net/
+
 url_ignore: /python-net/ 
 description: Python-API's voor Microsoft Word-documenten, PowerPoint-presentaties en Outlook-e-mailindelingen vanuit Python-toepassingen.
 ---

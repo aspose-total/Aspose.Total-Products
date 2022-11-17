@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSM-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSM-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

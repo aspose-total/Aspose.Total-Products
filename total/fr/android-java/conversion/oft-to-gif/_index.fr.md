@@ -1,7 +1,7 @@
 ---
 title: Rendre OFT en GIF dans l'application Andorid
 description: Exportez OFT vers GIF sans utiliser Microsoft Word ou Outlook dans vos applications Andorid
-url: /fr/android-java/conversion/oft-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

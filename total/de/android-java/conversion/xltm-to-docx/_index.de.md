@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie XLTM in DOCX in Android
 description: Android-API zum Konvertieren von XLTM in DOCX ohne Verwendung von Microsoft Word
-url: /de/android-java/conversion/xltm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

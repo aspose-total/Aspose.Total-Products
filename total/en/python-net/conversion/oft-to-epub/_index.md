@@ -1,7 +1,7 @@
 ---
 title: Convert OFT to EPUB in Python
 description: Save OFT to EPUB in your Python applications without using Microsoft Outlook or Word 
-url: /python-net/conversion/oft-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

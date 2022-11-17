@@ -1,7 +1,7 @@
 ---
 title: Python'da WORD'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORD'yi PST'e kaydedin
-url: /tr/python-net/conversion/word-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

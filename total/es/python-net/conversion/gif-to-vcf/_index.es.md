@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF a VCF en Python
 description: Guarde VCF en VCF dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/gif-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

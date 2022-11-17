@@ -1,7 +1,7 @@
 ---
 title: Převést DOCX na PPSM v Androidu přes Java
 description: Převod DOCX na PPSM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint
-url: /cs/android-java/conversion/docx-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion

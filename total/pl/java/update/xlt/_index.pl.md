@@ -1,7 +1,7 @@
 ---
 title: Zaktualizuj plik XLT za pomocą Javy
 description: Modyfikuj dokument XLT w aplikacjach Java bez użycia programu Microsoft Excel. Zoptymalizuj kod dla najszybszego sposobu pisania i edycji pliku Excel w java.
-url: /pl/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

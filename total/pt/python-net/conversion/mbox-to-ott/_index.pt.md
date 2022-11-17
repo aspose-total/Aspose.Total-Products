@@ -1,7 +1,7 @@
 ---
 title: Converter MBOX para OTT em Python
 description: Salve MBOX para OTT em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/mbox-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

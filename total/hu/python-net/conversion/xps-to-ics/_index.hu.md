@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XPS-t ICS-be Pythonban
 description: XPS mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/xps-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

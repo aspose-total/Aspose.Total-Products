@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi FODS sang DOCX với .NET 
 description: Chuyển đổi FODS sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/fods-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Převést DOTM na ICS v Pythonu
 description: Ukládejte DOTM do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dotm-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

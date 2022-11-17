@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε IMAGE στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε IMAGE χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

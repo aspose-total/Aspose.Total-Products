@@ -1,7 +1,7 @@
 ---
 title: Convertir ODS en DOC avec .NET 
 description: Convertir ODS en DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/ods-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

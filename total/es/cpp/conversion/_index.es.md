@@ -1,6 +1,6 @@
 ---
 title: Conversión de documentos a través de C++ 
-url: /es/cpp/conversion/
+
 description: Convierta varios formatos de documentos como Word, Excel, PowerPoint, PDF, JSON, imágenes y más utilizando la API de C++. 
 ---
 
@@ -8,7 +8,7 @@ description: Convierta varios formatos de documentos como Word, Excel, PowerPoin
 {{< blocks/products/pf/feature-page-header h1="Conversión de documentos usando C++" h2="Convierta Microsoft<sup>&reg;</sup> Office Word, Excel, PowerPoint, PDF, imágenes y varios otros formatos utilizando la biblioteca C++." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Biblioteca Total C++](https://products.aspose.com/total/cpp/) resuelve el problema de la conversión de documentos y los desarrolladores pueden automatizar la solución de gestión y manipulación de documentos fácilmente mediante la integración de API dentro de nuevas aplicaciones desarrolladas o en aplicaciones existentes. Los programadores de C ++ pueden agregar funcionalidades como crear, editar o convertir documentos de varios formatos dentro de su solución sin depender de ningún software. Pocos casos genéricos como txt a PDF, SVG a PNG, XLSX a CSV, JSON a CSV, Word a PDF, HTML a PDF, se pueden convertir fácilmente. Además, se enumeran a continuación algunos casos que trata la API y se proporcionan pocos enlaces para los casos de conversión relevantes. 
+[Biblioteca Total C++](https://products.aspose.com/total/cpp/) resuelve el problema de la conversión de documentos y los desarrolladores pueden automatizar la solución de gestión y manipulación de documentos fácilmente mediante la integración de API dentro de nuevas aplicaciones desarrolladas o en aplicaciones existentes. Los programadores de C++ pueden agregar funcionalidades como crear, editar o convertir documentos de varios formatos dentro de su solución sin depender de ningún software. Pocos casos genéricos como txt a PDF, SVG a PNG, XLSX a CSV, JSON a CSV, Word a PDF, HTML a PDF, se pueden convertir fácilmente. Además, se enumeran a continuación algunos casos que trata la API y se proporcionan pocos enlaces para los casos de conversión relevantes. 
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

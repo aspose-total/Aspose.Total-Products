@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POWERPOINT-ot DOT-ba Andoridon Java-n keresztül
 description: Konvertálja a POWERPOINT-ot DOT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/powerpoint-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

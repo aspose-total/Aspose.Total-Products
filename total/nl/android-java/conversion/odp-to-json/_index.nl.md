@@ -1,7 +1,7 @@
 ---
 title: Converteer ODP naar JSON-formaat in Android via Java
 description: Parseer ODP naar JSON-formaat in Android via Java zonder Microsoft Word of Excel te gebruiken
-url: /nl/android-java/conversion/odp-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde odpument openen. Als uw ODP-invoerodpument met een wachtwoord is beveiligd, kunt u het niet converteren naar JSON-indeling zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde odpument openen door het juiste wachtwoord in een LoadOptions-object door te geven. Het volgende codevoorbeeld laat zien hoe u een versleuteld odpument opent met een wachtwoord.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-protected-powerpoint-to-json.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Met behulp van de API kunt u ook het met een wachtwoord beveiligde odpument open
 Terwijl u ODP naar JSON converteert, kunt u het bereik ook instellen op uw JSON-uitvoerformaat. Om het bereik in te stellen, kunt u de geconverteerde HTML openen met behulp van de Workbook-klasse, een gegevensbereik maken dat moet worden geëxporteerd met behulp van de Cells.createRange-methode, de JsonUtility.exportRangeToJson-methode aanroepen met verwijzingen naar Range & ExportRangeToJsonOptions en string-JSON-gegevens naar het bestand schrijven via BufferedWriter.write-methode.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+{{< gist "aspose-com-gists" "de2e3326ba6b04e5bcfea349e873be2b" "convert-powerpoint-to-json-range.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

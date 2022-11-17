@@ -1,7 +1,7 @@
 ---
 title: Renderize EML para PDF no aplicativo Andorid
 description: Exporte EML para PDF sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/eml-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

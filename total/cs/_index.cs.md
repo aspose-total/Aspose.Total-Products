@@ -1,7 +1,7 @@
 ---
 title: On-Premise, Cloud & App Based File Format Solutions 
 weight: 9630
-url: /cs/
+
 description: Vytvářejte aplikace pro manipulaci s dokumenty pomocí rozhraní On Premise nebo Cloud API nebo jednoduše použijte aplikace pro různé platformy k zobrazení, porovnání, kontrole nebo převodu více než 100 formátů souborů.
 ---
 

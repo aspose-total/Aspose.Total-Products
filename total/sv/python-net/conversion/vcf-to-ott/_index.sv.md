@@ -1,7 +1,7 @@
 ---
 title: Konvertera VCF till OTT i Python
 description: Spara VCF till OTT i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/vcf-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

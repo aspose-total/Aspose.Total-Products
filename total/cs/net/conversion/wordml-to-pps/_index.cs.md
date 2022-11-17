@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPS přes C# .NET 
-url: /cs/net/conversion/wordml-to-pps/ 
+
 description: Převeďte dokumenty Word wordml na soubory PowerPoint pps pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

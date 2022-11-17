@@ -1,7 +1,7 @@
 ---
 title: Konversi TEXT ke VCF dengan Python
 description: Simpan TEXT ke VCF dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/text-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

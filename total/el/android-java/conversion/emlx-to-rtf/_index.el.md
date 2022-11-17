@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε RTF στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε RTF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi TEXT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi TEXT'e kaydedin 
-url: /tr/python-net/conversion/ics-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

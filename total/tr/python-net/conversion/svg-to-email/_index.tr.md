@@ -1,7 +1,7 @@
 ---
 title: Python'da SVG'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında SVG'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/svg-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

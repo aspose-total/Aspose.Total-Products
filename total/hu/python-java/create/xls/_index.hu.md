@@ -1,7 +1,7 @@
 ---
 title: XLS létrehozása Pythonban
 description: XLS-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

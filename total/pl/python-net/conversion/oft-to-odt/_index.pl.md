@@ -1,7 +1,7 @@
 ---
 title: Konwertuj OFT na ODT w Pythonie
 description: Zapisz OFT w formacie ODT w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/oft-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

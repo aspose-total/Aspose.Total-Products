@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a FODS-t WORD-ba a C++ segítségével
 description: A FODS konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/fods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

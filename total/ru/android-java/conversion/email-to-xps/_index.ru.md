@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в XPS в приложении Andorid
 description: Экспорт EMAIL в XPS без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

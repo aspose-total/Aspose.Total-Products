@@ -1,7 +1,7 @@
 ---
 title: 通过 C++ 将 POT 转换为 MHTML
 description: 在 C++ 中将 POT 导出为 MHTML，而不使用 Microsoft Excel 或 Powerpoint
-url: /zh/cpp/conversion/pot-to-mhtml/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM OD
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM OD
 使用 API，您还可以打开受密码保护的文档。如果您输入的 POT 文档受密码保护，则您无法在不使用密码的情况下将其转换为 MHTML。当您的文档受密码保护时，这意味着它对演示文稿实施了某些限制。要取消限制，必须输入密码。受密码保护的演示文稿被视为锁定演示文稿。 API 允许您通过在 LoadOptions 对象中传递正确的密码来打开加密的文档。以下代码示例显示如何使用密码打开加密文档。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az ODT-et képekké Pythonban
 description: ODT kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/odt-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

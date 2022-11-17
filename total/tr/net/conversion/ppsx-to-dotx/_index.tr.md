@@ -1,6 +1,6 @@
 ---
 title: PPSX'yi C# .NET aracılığıyla DOTX'ye dönüştürün 
-url: /tr/net/conversion/ppsx-to-dotx/ 
+
 description: PowerPoint ppsx belgelerini C# ile Word dotx dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

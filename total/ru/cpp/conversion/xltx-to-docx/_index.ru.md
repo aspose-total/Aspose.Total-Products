@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTX в DOCX с помощью C++
 description: Преобразование XLTX в DOCX в приложениях C++
-url: /ru/cpp/conversion/xltx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

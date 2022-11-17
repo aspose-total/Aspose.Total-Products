@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORDML σε EML στην Python
 description: Αποθηκεύστε το WORDML σε EML εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/wordml-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

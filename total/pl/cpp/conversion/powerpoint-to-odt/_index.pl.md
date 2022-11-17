@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji POWERPOINT na ODT
 description: Eksportuj POWERPOINT do ODT w swoich aplikacjach C++
-url: /pl/cpp/conversion/powerpoint-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

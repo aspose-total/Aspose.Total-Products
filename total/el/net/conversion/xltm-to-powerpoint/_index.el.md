@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLTM σε POWERPOINT με .NET 
 description: Μετατροπή XLTM σε POWERPOINT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/xltm-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تصدير POTX إلى DOTM على Andorid عبر Java
 description: قم بتحويل POTX إلى DOTM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/potx-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

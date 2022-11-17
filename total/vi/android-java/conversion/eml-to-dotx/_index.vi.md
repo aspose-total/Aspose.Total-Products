@@ -1,7 +1,7 @@
 ---
 title: Kết xuất EML thành DOTX trong ứng dụng Andorid
 description: Xuất EML sang DOTX mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/eml-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

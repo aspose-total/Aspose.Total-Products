@@ -1,7 +1,7 @@
 ---
 title: Aktualizujte soubor XLSX pomocí .NET
 description: Upravte dokumenty XLSX v aplikacích C# VB.NET bez použití aplikace Microsoft Excel. 
-url: /cs/net/update/xlsx/
+
 family: total
 platformtag: .NET
 feature: update

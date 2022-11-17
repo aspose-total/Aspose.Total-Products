@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCX إلى تنسيق JSON في Android عبر Java
 description: تحليل DOCX إلى تنسيق JSON في Android عبر Java دون استخدام Microsoft Word أو Excel
-url: /ar/android-java/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

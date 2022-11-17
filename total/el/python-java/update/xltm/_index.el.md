@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLTM χρησιμοποιώντας Python
 description: Τροποποιήστε το έγγραφο XLTM σε εφαρμογές Python χωρίς τη χρήση του Microsoft Excel. 
-url: /el/python-java/update/xltm/
+
 family: total
 platformtag: Python
 feature: update

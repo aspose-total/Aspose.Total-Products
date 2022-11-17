@@ -1,7 +1,7 @@
 ---
 title: Python で XLTX を作成する
 description: Microsoft Office を使用せずに、Python アプリケーションを使用して XLTX ファイルを生成します。 
-url: /ja/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

@@ -1,7 +1,7 @@
 ---
 title: Esporta XLSB in DOCX in Android
 description: API Android per convertire XLSB in DOCX senza utilizzare Microsoft Word
-url: /it/android-java/conversion/xlsb-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

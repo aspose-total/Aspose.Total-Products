@@ -1,7 +1,7 @@
 ---
 title: Python'da DOCM'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOCM'yi OFT'e kaydedin
-url: /tr/python-net/conversion/docm-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

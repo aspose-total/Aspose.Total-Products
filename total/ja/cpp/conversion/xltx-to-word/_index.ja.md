@@ -1,7 +1,7 @@
 ---
 title: C++でXLTXをWORDに変換する
 description: C++アプリケーション内でXLTXをWORDに変換する
-url: /ja/cpp/conversion/xltx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

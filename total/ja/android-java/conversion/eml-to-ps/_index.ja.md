@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをPSにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLをPSにエクスポートする
-url: /ja/android-java/conversion/eml-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

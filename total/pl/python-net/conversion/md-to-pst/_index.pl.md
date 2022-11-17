@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na PST w Pythonie
 description: Zapisuj MD do PST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/md-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

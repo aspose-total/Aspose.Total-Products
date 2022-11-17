@@ -1,7 +1,7 @@
 ---
 title: Tạo XLS bằng Python
 description: Tạo tệp XLS bằng các ứng dụng Python mà không cần sử dụng Microsoft Office. 
-url: /vi/python-java/create/xls/
+
 family: total
 platformtag: Python
 feature: create

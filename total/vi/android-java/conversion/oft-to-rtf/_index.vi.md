@@ -1,7 +1,7 @@
 ---
 title: Kết xuất OFT thành RTF trong ứng dụng Andorid
 description: Xuất OFT sang RTF mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/oft-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

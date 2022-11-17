@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSB-et képpé Python segítségével
 description: XLSB kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/xlsb-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

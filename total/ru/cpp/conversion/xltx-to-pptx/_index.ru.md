@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLTX в PPTX с помощью C++
 description: Преобразование XLTX в PPTX в приложениях C++
-url: /ru/cpp/conversion/xltx-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

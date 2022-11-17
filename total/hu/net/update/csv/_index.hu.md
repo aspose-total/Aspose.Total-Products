@@ -1,7 +1,7 @@
 ---
 title: CSV fájl frissítése .NET használatával
 description: CSV dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/csv/
+
 family: total
 platformtag: .NET
 feature: update

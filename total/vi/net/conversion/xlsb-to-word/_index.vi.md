@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLSB sang WORD với .NET 
 description: Chuyển đổi XLSB sang WORD trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
-url: /vi/net/conversion/xlsb-to-word/
+
 family: total
 platformtag: net
 feature: conversion

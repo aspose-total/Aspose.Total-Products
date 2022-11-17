@@ -1,7 +1,7 @@
 ---
 title: Converter DOTM para PPS em Python
 description: Conversão de DOTM para PPS em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint 
-url: /pt/python-net/conversion/dotm-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

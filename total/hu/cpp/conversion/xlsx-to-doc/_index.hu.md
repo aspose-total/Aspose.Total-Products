@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSX-t DOC-ba a C++ segítségével
 description: A XLSX konvertálása DOC formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

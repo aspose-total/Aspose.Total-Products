@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PS-t OFT-be Pythonban
 description: PS mentése OFT formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ps-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

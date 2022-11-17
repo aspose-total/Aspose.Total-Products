@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в SXC на C++
 description: C++ API для преобразования DOCX в SXC без использования Microsoft Word или Microsoft Excel
-url: /ru/cpp/conversion/docx-to-sxc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to DOT'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i DOT'ye aktarın
-url: /tr/android-java/conversion/eml-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

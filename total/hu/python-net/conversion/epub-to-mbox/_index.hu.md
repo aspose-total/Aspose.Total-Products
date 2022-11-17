@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EPUB-t MBOX-be Pythonban
 description: EPUB mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/epub-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

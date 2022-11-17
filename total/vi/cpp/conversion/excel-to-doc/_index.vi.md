@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EXCEL sang DOC bằng C++
 description: Chuyển đổi EXCEL sang DOC trong các ứng dụng C++
-url: /vi/cpp/conversion/excel-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

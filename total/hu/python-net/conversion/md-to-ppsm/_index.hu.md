@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t PPSM-be Pythonban
 description: MD-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/md-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से Andorid पर RTF को PPTX निर्यात करें
 description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में PPTX को RTF में बदलें
-url: /hi/android-java/conversion/pptx-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

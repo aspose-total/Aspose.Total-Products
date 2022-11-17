@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPT-t TXT-ba C# .NET-en keresztül 
-url: /hu/net/conversion/ppt-to-txt/ 
+
 description: Konvertálja a PowerPoint ppt dokumentumokat Word txt fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

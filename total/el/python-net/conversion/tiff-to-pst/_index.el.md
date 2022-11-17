@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή TIFF σε PST στην Python
 description: Αποθηκεύστε το TIFF σε PST εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/tiff-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

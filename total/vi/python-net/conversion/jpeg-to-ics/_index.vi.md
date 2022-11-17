@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi JPEG sang ICS bằng Python
 description: Lưu JPEG thành ICS trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/jpeg-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

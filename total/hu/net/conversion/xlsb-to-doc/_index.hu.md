@@ -1,7 +1,7 @@
 ---
 title: A XLSB konvertálása DOC formátumba .NET segítségével 
 description: A XLSB konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlsb-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja az PPS-t DOCM-ba C# .NET-en keresztül 
-url: /hu/net/conversion/pps-to-docm/ 
+
 description: Konvertálja a PowerPoint pps dokumentumokat Word docm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

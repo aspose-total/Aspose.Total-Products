@@ -1,7 +1,7 @@
 ---
 title: Python'da PNG'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PNG'yi VCF'e kaydedin
-url: /tr/python-net/conversion/png-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

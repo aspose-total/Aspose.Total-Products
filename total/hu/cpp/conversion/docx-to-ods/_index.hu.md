@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t ODS-vé C++-ban
 description: C++ API a DOCX konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-ods/
+
 family: total
 platformtag: cpp
 feature: conversion

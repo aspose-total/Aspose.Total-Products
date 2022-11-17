@@ -1,7 +1,7 @@
 ---
 title: PPTMをRTFに変換するC++API
 description: C++アプリケーション内でPPTMをRTFにエクスポートする
-url: /ja/cpp/conversion/pptm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

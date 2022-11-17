@@ -1,7 +1,7 @@
 ---
 title: Convertir PPTM a DOC en Python
 description: Conversión de PPTM a DOC en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint 
-url: /es/python-net/conversion/pptm-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

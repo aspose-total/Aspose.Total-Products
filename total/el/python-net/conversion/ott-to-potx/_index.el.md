@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή OTT σε POTX στην Python
 description: Μετατροπή OTT σε POTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/ott-to-potx/
+
 family: total
 platformtag: Python
 feature: conversion

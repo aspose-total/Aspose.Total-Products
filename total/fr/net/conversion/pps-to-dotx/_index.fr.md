@@ -1,6 +1,6 @@
 ---
 title: Convertir PPS en DOTX via C# .NET 
-url: /fr/net/conversion/pps-to-dotx/ 
+
 description: Convertissez des documents PowerPoint pps en fichiers dotx Word avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
 ---
 

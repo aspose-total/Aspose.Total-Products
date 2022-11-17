@@ -1,7 +1,7 @@
 ---
 title: एमएचटीएमएल को पायथन में छवियों में कनवर्ट करें
 description: एमएचटीएमएल, एचटीएमएल और एचटीएमएल माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना आपके पायथन अनुप्रयोगों में जीआईएफ, पीएनजी, बीएमपी, जेपीईजी, टीआईएफएफ छवि रूपांतरण के लिए तय 
-url: /hi/python-net/conversion/mhtml-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

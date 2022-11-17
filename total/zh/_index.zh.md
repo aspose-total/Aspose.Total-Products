@@ -1,7 +1,7 @@
 ---
 title: 本地、基于云和应用程序的文件格式解决方案 
 weight: 9630
-url: /zh/
+
 description: 使用 On Premise 或 Cloud API 构建文档操作应用程序，或者简单地使用跨平台应用程序来查看、比较、检查或转换 100 多种文件格式
 ---
 

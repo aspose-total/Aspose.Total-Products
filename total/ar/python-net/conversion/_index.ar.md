@@ -1,6 +1,6 @@
 ---
 title: تحويل المستند عبر Python 
-url: /ar/python-net/conversion/
+
 description: قم بتحويل تنسيقات Microsoft Word DOC و DOCX إلى PDF والصور والمزيد بالإضافة إلى شرائح العرض التقديمي ورسائل البريد الإلكتروني والصور ثلاثية الأبعاد فقط بضعة أسطر من كود Python.
 ---
 

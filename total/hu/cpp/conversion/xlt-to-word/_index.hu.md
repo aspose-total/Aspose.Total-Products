@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLT-t WORD-ba a C++ segítségével
 description: A XLT konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlt-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

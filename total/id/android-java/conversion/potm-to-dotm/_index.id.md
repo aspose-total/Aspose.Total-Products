@@ -1,7 +1,7 @@
 ---
 title: Ekspor POTM ke DOTM di Andorid melalui Java
 description: Konversi POTM ke DOTM di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/potm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

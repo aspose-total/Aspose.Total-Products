@@ -1,7 +1,7 @@
 ---
 title: XLSM exportálása DOCX formátumba Androidon
 description: Android API a XLSM konvertálásához DOCX formátumba Microsoft Word használata nélkül
-url: /hu/android-java/conversion/xlsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

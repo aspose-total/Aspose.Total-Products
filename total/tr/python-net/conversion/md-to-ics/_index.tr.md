@@ -1,7 +1,7 @@
 ---
 title: Python'da MD'yi ICS'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında MD'yi ICS'e kaydedin
-url: /tr/python-net/conversion/md-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

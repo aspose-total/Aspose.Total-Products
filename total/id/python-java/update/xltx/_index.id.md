@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLTX Menggunakan Python
 description: Memodifikasi dokumen XLTX dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/xltx/
+
 family: total
 platformtag: Python
 feature: update

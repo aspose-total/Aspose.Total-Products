@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή PPT σε OTT στο Andorid μέσω Java
 description: Μετατρέψτε το PPT σε OTT σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/ppt-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMLX σε PNG στην εφαρμογή Andorid
 description: Εξαγωγή EMLX σε PNG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi EMF sang OFT bằng Python
 description: Lưu EMF thành OFT trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/emf-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++でXLSXをWORDに変換する
 description: C++アプリケーション内でXLSXをWORDに変換する
-url: /ja/cpp/conversion/xlsx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

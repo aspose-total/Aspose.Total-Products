@@ -1,7 +1,7 @@
 ---
 title: Renderizar MSG a PDF en la aplicación Andorid
 description: Exporte MSG a PDF sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/msg-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

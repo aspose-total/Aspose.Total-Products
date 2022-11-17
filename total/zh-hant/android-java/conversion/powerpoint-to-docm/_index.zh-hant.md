@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 將 POWERPOINT 導出到 Andorid 上的 DOCM
 description: 在移動應用程序中將 POWERPOINT 轉換為 DOCM，無需安裝任何軟件
-url: /zh-hant/android-java/conversion/powerpoint-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

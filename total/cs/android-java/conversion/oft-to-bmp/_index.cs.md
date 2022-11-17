@@ -1,7 +1,7 @@
 ---
 title: Vykreslete OFT do BMP v aplikaci Andorid
 description: Exportujte OFT do BMP bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/oft-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PNG-t ICS-be Pythonban
 description: PNG mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/png-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

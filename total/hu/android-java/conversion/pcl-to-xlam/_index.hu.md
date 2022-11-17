@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PCL-et XLAM-vé Androidon Java segítségével
 description: Rendelje meg a PCL-et XLAM formátumban Androidon a Java API-n keresztül Microsoft Excel vagy Adobe Reader használata nélkül
-url: /hu/android-java/conversion/pcl-to-xlam/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads
 Az [Aspose.PDF for Android Java viadal](https://products.aspose.com/pdf/android-java/) lehetővé teszi a PCL-fájlok XMP-metaadatainak elérését. A metaadatok beszerzéséhez hozzon létre egy [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) objektumot, nyissa meg a bemeneti PCL-fájlt, és használja a [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) tulajdonságot a metaadatok lekéréséhez.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Az [Aspose.PDF for Android Java viadal](https://products.aspose.com/pdf/android-
 Az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) támogatja a XLAM-fájl védelmét az Ön igényeitől függően. A dokumentum védelme érdekében használhatja a [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) módszert a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlam.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-xlam.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

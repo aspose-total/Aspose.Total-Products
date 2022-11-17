@@ -1,7 +1,7 @@
 ---
 title: C++ ile FODS'yi POWERPOINT'ye dönüştürün
 description: C++ uygulamaları içinde FODS'yi POWERPOINT'ye dönüştürün
-url: /tr/cpp/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

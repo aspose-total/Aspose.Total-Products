@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOTXにPPTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTXをDOTXに変換する
-url: /ja/android-java/conversion/pptx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

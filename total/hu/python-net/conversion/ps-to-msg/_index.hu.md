@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PS-t MSG-be Pythonban
 description: PS mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/ps-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

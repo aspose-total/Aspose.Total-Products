@@ -1,7 +1,7 @@
 ---
 title: Eksportuj PPSX do DOC na Androidzie przez Javę
 description: Konwertuj PPSX na DOC w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/ppsx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

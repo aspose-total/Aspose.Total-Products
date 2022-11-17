@@ -1,7 +1,7 @@
 ---
 title: Converti MD in VCF in Python
 description: Salva MD in VCF all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/md-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

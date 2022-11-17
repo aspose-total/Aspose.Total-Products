@@ -1,6 +1,6 @@
 ---
 title: Python 파일 자동화 라이브러리 - Aspose
-url: /ko/python-java/
+
 url_ignore: /python-java/ 
 description: Excel 스프레드시트 구문 분석, 바코드 생성 및 스캔, Visio 다이어그램 처리를 위한 Python 라이브러리
 ---

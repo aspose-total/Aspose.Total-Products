@@ -1,7 +1,7 @@
 ---
 title: Convertir VCF en XPS en Python
 description: Enregistrez VCF au format XPS dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/vcf-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

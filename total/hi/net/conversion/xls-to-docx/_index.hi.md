@@ -1,7 +1,7 @@
 ---
 title: .NET के साथ XLS को DOCX में बदलें 
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLS को DOCX में बदलें
-url: /hi/net/conversion/xls-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

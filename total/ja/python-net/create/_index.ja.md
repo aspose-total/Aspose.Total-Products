@@ -1,6 +1,6 @@
 ---
 title: Python を使用してファイルを作成する 
-url: /ja/python-net/create/
+
 description: Microsoft Office をインストールせずにテキストおよび Microsoft Word ドキュメントを作成する 
 ---
 

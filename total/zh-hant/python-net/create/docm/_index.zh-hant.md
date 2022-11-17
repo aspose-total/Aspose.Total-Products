@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中創建 DOCM
 description: 使用 Python 應用程序生成 DOCM 文件，而不使用 Microsoft Word。 
-url: /zh-hant/python-net/create/docm/
+
 family: total
 platformtag: Python
 feature: create

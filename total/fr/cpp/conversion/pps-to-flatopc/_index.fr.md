@@ -1,7 +1,7 @@
 ---
 title: API C++ pour convertir PPS en FLATOPC
 description: Exportez PPS vers FLATOPC dans vos applications C++
-url: /fr/cpp/conversion/pps-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

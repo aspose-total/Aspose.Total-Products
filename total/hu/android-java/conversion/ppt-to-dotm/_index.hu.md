@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPT-ot DOTM-ba Andoridon Java-n keresztül
 description: Konvertálja a PPT-ot DOTM-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppt-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

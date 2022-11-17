@@ -1,7 +1,7 @@
 ---
 title: TSV exportálása DOCX formátumba Androidon
 description: Android API a TSV konvertálásához DOCX formátumba Microsoft Word használata nélkül
-url: /hu/android-java/conversion/tsv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

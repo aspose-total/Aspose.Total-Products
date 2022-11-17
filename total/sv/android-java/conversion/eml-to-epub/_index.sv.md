@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till EPUB i Andorid-appen
 description: Exportera EML till EPUB utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

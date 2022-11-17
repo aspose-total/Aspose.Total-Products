@@ -1,7 +1,7 @@
 ---
 title: XLTM-bestand bijwerken met Python
 description: Wijzig XLTM-document in Python-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/python-java/update/xltm/
+
 family: total
 platformtag: Python
 feature: update

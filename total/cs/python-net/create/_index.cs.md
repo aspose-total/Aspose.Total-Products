@@ -1,6 +1,6 @@
 ---
 title: Vytvořte soubor pomocí Pythonu 
-url: /cs/python-net/create/
+
 description: Vytvářejte textové dokumenty a dokumenty Microsoft Word bez instalace sady Microsoft Office 
 ---
 

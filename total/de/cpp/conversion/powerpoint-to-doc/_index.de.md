@@ -1,7 +1,7 @@
 ---
 title: C++-API zum Konvertieren von POWERPOINT in DOC
 description: Exportieren Sie POWERPOINT in DOC innerhalb Ihrer C++-Anwendungen
-url: /de/cpp/conversion/powerpoint-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

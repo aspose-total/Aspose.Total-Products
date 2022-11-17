@@ -1,7 +1,7 @@
 ---
 title: POTMをTEXTに変換するC++API
 description: C++アプリケーション内でPOTMをTEXTにエクスポートする
-url: /ja/cpp/conversion/potm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία CSV σε Python
 description: Δημιουργήστε αρχείο CSV χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

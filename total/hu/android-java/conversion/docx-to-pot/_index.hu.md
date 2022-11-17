@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t POT-vé Androidon Java segítségével
 description: DOCX konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül
-url: /hu/android-java/conversion/docx-to-pot/
+
 family: total
 platformtag: cpp
 feature: conversion

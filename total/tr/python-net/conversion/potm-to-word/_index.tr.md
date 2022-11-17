@@ -1,7 +1,7 @@
 ---
 title: Python'da POTM'yi WORD'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan POTM'den WORD'e dönüştürme 
-url: /tr/python-net/conversion/potm-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

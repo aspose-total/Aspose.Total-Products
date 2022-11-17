@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az OFT-t PDF-nek az Andorid alkalmazásban
 description: Exportálja az OFT-t PDF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/oft-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

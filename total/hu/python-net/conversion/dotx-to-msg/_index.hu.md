@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t MSG-be Pythonban
 description: DOTX mentése MSG formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotx-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

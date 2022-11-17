@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в PS в приложении Andorid
 description: Экспорт MSG в PS без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

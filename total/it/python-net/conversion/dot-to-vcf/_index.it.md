@@ -1,7 +1,7 @@
 ---
 title: Converti DOT in VCF in Python
 description: Salva DOT in VCF all'interno delle applicazioni Python senza utilizzare Microsoft Word o Outlook
-url: /it/python-net/conversion/dot-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

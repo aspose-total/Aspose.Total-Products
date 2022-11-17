@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中将 EMAIL 渲染为 TEXT
 description: 在您的 Andorid 应用程序中不使用 Microsoft Word 或 Outlook 将 EMAIL 导出为 TEXT
-url: /zh/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Vytvořte XLSB v Pythonu
 description: Vygenerujte soubor XLSB pomocí aplikací Python bez použití sady Microsoft Office. 
-url: /cs/python-java/create/xlsb/
+
 family: total
 platformtag: Python
 feature: create

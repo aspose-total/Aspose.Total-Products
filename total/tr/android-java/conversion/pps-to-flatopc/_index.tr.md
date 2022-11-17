@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPS'u FLATOPC'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPS'u FLATOPC'ye dönüştürün
-url: /tr/android-java/conversion/pps-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

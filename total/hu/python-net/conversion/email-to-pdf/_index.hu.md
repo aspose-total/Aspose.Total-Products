@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMAIL-t PDF-be Pythonban
 description: Mentse a EMAIL-t PDF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/email-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

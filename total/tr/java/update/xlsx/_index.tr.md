@@ -1,7 +1,7 @@
 ---
 title: Java Kullanarak XLSX Dosyasını Güncelleyin
 description: XLSX belgesini Java uygulamalarında Microsoft Excel kullanmadan değiştirin. Java'da excel dosyasını yazmanın ve düzenlemenin en hızlı yolu için kodu optimize edin.
-url: /tr/java/update/xlsx/
+
 family: total
 platformtag: Java
 feature: update

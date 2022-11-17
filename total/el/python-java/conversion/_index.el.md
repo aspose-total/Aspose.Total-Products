@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή υπολογιστικών φύλλων Microsoft Excel και μορφών Visio μέσω Python 
-url: /el/python-java/conversion/
+
 description: Μετατρέψτε αρχεία Excel XLS XLSX XLSM XLSB XLTX XLTM CSV και άλλα, καθώς και Μορφές Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM κ.λπ. λίγες μόνο γραμμές κώδικα Python.
 ---
 

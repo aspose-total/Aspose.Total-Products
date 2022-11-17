@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t TIFF-be Pythonban
 description: Mentse a EML-t TIFF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

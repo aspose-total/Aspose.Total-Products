@@ -1,7 +1,7 @@
 ---
 title: オンプレミス、クラウド、アプリベースのファイル形式ソリューション 
 weight: 9630
-url: /ja/
+
 description: オンプレミスまたはクラウドAPIを使用してドキュメント操作アプリケーションを構築するか、クロスプラットフォームアプリを使用して、100以上のファイル形式を表示、比較、検査、または変換します
 ---
 
@@ -20,7 +20,7 @@ description: オンプレミスまたはクラウドAPIを使用してドキュ�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ja/cpp/" >}}
-ネイティブC++ライブラリを使用して、純粋なC ++アプリケーション内でさまざまなドキュメント形式と画像を作成、ロード、操作、または変換します。
+ネイティブC++ライブラリを使用して、純粋なC++アプリケーション内でさまざまなドキュメント形式と画像を作成、ロード、操作、または変換します。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/total/ja/family/" innerText="すべてのハイコードAPIを表示" >}}

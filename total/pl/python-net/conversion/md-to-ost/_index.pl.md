@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MD na OST w Pythonie
 description: Zapisuj MD do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/md-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

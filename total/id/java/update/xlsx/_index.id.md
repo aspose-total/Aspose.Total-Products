@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan XLSX Menggunakan Java
 description: Memodifikasi dokumen XLSX di aplikasi Java tanpa menggunakan Microsoft Excel. Optimalkan kode untuk cara tercepat menulis dan mengedit file excel di java.
-url: /id/java/update/xlsx/
+
 family: total
 platformtag: Java
 feature: update

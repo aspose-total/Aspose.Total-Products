@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to EMLX in Python
 description: Save JPEG to EMLX within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/jpeg-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

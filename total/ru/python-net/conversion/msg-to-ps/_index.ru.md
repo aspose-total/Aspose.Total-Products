@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в PS в Python
 description: Сохраняйте MSG в PS в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/msg-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

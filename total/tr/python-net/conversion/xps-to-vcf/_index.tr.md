@@ -1,7 +1,7 @@
 ---
 title: Python'da XPS'yi VCF'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında XPS'yi VCF'e kaydedin
-url: /tr/python-net/conversion/xps-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

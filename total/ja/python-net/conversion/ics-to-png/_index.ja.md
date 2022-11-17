@@ -1,7 +1,7 @@
 ---
 title: Python で ICS を PNG に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで ICS を PNG に保存します。 
-url: /ja/python-net/conversion/ics-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

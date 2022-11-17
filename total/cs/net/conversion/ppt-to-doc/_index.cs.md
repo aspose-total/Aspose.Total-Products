@@ -1,6 +1,6 @@
 ---
 title: Převést PPT na DOC přes C# .NET 
-url: /cs/net/conversion/ppt-to-doc/ 
+
 description: Převádějte dokumenty ppt aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t MBOX-be Pythonban
 description: MD mentése MBOX formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/md-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Cập nhật tệp XLS bằng .NET
 description: Sửa đổi tài liệu XLS trong ứng dụng C # VB.NET mà không cần sử dụng Microsoft Excel. 
-url: /vi/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

@@ -1,7 +1,7 @@
 ---
 title: Converteer DOTM naar afbeeldingen in Python
 description: DOTM naar afbeelding TIFF BMP PNG JPEG GIF SVG-conversie in uw Python-toepassingen zonder Microsoft Word te gebruiken 
-url: /nl/python-net/conversion/dotm-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

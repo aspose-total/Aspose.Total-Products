@@ -1,7 +1,7 @@
 ---
 title: पायथन का उपयोग करके बीएमपी फ़ाइल अपडेट करें
 description: Microsoft Excel का उपयोग किए बिना Python अनुप्रयोगों में XLT दस्तावेज़ को संशोधित करें। 
-url: /hi/python-java/update/xlt/
+
 family: total
 platformtag: Python
 feature: update

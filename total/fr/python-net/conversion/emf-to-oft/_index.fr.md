@@ -1,7 +1,7 @@
 ---
 title: Convertir EMF en OFT en Python
 description: Enregistrez EMF au format OFT dans les applications Python sans utiliser Microsoft Word ou Outlook
-url: /fr/python-net/conversion/emf-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

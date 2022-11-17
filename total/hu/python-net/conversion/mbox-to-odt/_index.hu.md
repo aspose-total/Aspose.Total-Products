@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t ODT-be Pythonban
 description: Mentse a MBOX-t ODT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

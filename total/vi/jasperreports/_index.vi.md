@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - Tạo báo cáo trong định dạng tài liệu kinh doanh
 weight: 80
-url: /vi/jasperreports/ 
+
 description: Bộ xuất JasperReports để xuất báo cáo sang định dạng PDF và PowerPoint trong Word Excel. Thêm mã vạch vào báo cáo đã xuất
 ---
 

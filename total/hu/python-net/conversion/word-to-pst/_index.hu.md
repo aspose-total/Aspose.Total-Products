@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORD-t PST-be Pythonban
 description: WORD mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/word-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: PPSM'yi C# .NET aracılığıyla RTF'ye dönüştürün 
-url: /tr/net/conversion/ppsm-to-rtf/ 
+
 description: PowerPoint ppsm belgelerini C# ile Word rtf dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

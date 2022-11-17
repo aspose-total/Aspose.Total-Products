@@ -1,7 +1,7 @@
 ---
 title: Преобразование ODT в PPTM в Python
 description: Преобразование ODT в PPTM в ваших приложениях Python без использования Microsoft Word или PowerPoint 
-url: /ru/python-net/conversion/odt-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

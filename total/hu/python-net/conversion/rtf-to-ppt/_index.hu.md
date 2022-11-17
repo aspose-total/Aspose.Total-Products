@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a RTF-t PPT-be Pythonban
 description: RTF-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/rtf-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

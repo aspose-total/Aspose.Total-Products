@@ -1,7 +1,7 @@
 ---
 title: Převést ICS na DOC v Pythonu
 description: Uložte ICS do DOC ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/ics-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: A DOCX konvertálása PPT-re C++ segítségével
 description: Exportáljon DOCX-t PPT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül
-url: /hu/cpp/conversion/docx-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: PPSX PPSM PPTX PPTM POTM POT PPS POTX POWERPOINT ODP
 {{< blocks/products/pf/feature-page-header h1="C++ API a DOCX konvertálásához PPT-vé" h2="DOCX exportálása PPT-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a DOCX- PPT-konverzió automatizálását, miközben két API-t használ. Töltse be a DOCX-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és PPT-ként mentéséhez. 
+Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a DOCX- PPT-konverzió automatizálását, miközben két API-t használ. Töltse be a DOCX-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és PPT-ként mentéséhez. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

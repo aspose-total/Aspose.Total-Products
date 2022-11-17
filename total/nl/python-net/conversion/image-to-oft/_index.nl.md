@@ -1,7 +1,7 @@
 ---
 title: Converteer IMAGE naar OFT in Python
 description: Bewaar IMAGE naar OFT binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/image-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

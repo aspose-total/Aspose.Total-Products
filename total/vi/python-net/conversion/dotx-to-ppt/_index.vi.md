@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOTX sang PPT bằng Python
 description: Chuyển đổi DOTX sang PPT trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint 
-url: /vi/python-net/conversion/dotx-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

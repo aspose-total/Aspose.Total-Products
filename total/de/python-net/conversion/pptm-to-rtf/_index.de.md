@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPTM in RTF in Python
 description: Konvertierung von PPTM in RTF in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/pptm-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

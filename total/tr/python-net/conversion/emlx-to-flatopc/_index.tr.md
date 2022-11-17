@@ -1,7 +1,7 @@
 ---
 title: Python'da EMLX'yi FLATOPC'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMLX'yi FLATOPC'e kaydedin 
-url: /tr/python-net/conversion/emlx-to-flatopc/
+
 family: total
 platformtag: Python
 feature: conversion

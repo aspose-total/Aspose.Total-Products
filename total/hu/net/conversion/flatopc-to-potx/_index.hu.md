@@ -1,6 +1,6 @@
 ---
 title: A FLATOPC konvertálása POTX-re C# .NET-en keresztül 
-url: /hu/net/conversion/flatopc-to-potx/ 
+
 description: Konvertálja a Word flatopc dokumentumokat PowerPoint potx fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

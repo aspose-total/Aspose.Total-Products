@@ -1,7 +1,7 @@
 ---
 title: ؛ JasperReports Exporters Suite - إنشاء تقارير في تنسيقات مستندات الأعمال
 weight: 80
-url: /ar/jasperreports/ 
+
 description: تقوم JasperReports بتصدير مجموعة لتصدير التقارير إلى تنسيقات Word Excel PDF و PowerPoint. أضف الباركود إلى التقارير المصدرة
 ---
 

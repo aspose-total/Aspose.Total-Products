@@ -1,7 +1,7 @@
 ---
 title: A DOCX konvertálása JSON formátumba C++ nyelven
 description: Exportálja a DOCX-t JSON-ba C++-ban Microsoft Excel vagy Word használata nélkül
-url: /hu/cpp/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

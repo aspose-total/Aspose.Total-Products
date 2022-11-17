@@ -1,6 +1,6 @@
 ---
 title: PPTX'yi C# .NET aracılığıyla ODT'ye dönüştürün 
-url: /tr/net/conversion/pptx-to-odt/ 
+
 description: PowerPoint pptx belgelerini C# ile Word odt dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

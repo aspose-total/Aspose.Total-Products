@@ -1,7 +1,7 @@
 ---
 title: Rendern Sie E-MAIL zu PNG in der Andorid App
 description: Exportieren Sie E-MAIL nach PNG, ohne Microsoft Word oder Outlook in Ihren Android-Anwendungen zu verwenden
-url: /de/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

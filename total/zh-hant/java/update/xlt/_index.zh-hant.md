@@ -1,7 +1,7 @@
 ---
 title: 使用 Java 更新 XLT 文件
 description: 在不使用 Microsoft Excel 的情況下修改 Java 應用程序中的 XLT 文檔。 優化代碼以最快的方式在 java 中編寫和編輯 excel 文件。
-url: /zh-hant/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

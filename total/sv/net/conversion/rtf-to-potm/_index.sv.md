@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till POTM via C# .NET 
-url: /sv/net/conversion/rtf-to-potm/ 
+
 description: Konvertera Word rtf-dokument till PowerPoint potm-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

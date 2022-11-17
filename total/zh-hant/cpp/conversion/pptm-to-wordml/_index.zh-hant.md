@@ -1,7 +1,7 @@
 ---
 title: 將 PPTM 轉換為 WORDML 的 C++ API
 description: 在 C++ 應用程序中將 PPTM 導出為 WORDML
-url: /zh-hant/cpp/conversion/pptm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

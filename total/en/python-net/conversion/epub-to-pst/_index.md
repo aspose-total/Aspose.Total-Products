@@ -1,7 +1,7 @@
 ---
 title: Convert EPUB to PST in Python
 description: Save EPUB to PST within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/epub-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

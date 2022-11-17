@@ -1,7 +1,7 @@
 ---
 title: Převést ICS na PCL v Pythonu
 description: Uložte ICS do PCL ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/ics-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

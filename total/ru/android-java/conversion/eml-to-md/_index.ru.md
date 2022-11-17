@@ -1,7 +1,7 @@
 ---
 title: Преобразование EML в MD в приложении Andorid
 description: Экспорт EML в MD без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/eml-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

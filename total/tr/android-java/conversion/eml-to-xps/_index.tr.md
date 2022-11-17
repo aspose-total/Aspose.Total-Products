@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to XPS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i XPS'ye aktarın
-url: /tr/android-java/conversion/eml-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

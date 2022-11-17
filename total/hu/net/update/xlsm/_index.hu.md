@@ -1,7 +1,7 @@
 ---
 title: XLSM fájl frissítése .NET használatával
 description: XLSM dokumentumok módosítása C# VB.NET alkalmazásokban Microsoft Excel használata nélkül. 
-url: /hu/net/update/xlsm/
+
 family: total
 platformtag: .NET
 feature: update

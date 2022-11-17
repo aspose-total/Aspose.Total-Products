@@ -1,7 +1,7 @@
 ---
 title: Renderuj OFT do PS w aplikacji Andorid
 description: Eksportuj OFT do PS bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/oft-to-ps/
+
 family: total
 platformtag: cpp
 feature: conversion

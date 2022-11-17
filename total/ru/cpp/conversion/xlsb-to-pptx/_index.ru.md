@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLSB в PPTX с помощью C++
 description: Преобразование XLSB в PPTX в приложениях C++
-url: /ru/cpp/conversion/xlsb-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

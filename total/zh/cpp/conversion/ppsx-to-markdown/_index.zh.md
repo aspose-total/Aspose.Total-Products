@@ -1,7 +1,7 @@
 ---
 title: 通过 C++ 将 PPSX 转换为 MARKDOWN
 description: 在 C++ 中将 PPSX 导出为 MARKDOWN，而不使用 Microsoft Excel 或 Powerpoint
-url: /zh/cpp/conversion/ppsx-to-markdown/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM CSV TSV DIF 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM CSV TSV DIF 
 使用 API，您还可以打开受密码保护的文档。如果您输入的 PPSX 文档受密码保护，则您无法在不使用密码的情况下将其转换为 MARKDOWN。当您的文档受密码保护时，这意味着它对演示文稿实施了某些限制。要取消限制，必须输入密码。受密码保护的演示文稿被视为锁定演示文稿。 API 允许您通过在 LoadOptions 对象中传递正确的密码来打开加密的文档。以下代码示例显示如何使用密码打开加密文档。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

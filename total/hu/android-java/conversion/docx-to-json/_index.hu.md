@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t JSON formátumba Androidon Java segítségével
 description: Elemezze a DOCX-t JSON formátumba Androidon Java segítségével Microsoft Word vagy Excel használata nélkül
-url: /hu/android-java/conversion/docx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion

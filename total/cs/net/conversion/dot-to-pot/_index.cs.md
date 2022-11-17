@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na POT přes C# .NET 
-url: /cs/net/conversion/dot-to-pot/ 
+
 description: Převeďte dokumenty Word dot na soubory PowerPoint pot pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

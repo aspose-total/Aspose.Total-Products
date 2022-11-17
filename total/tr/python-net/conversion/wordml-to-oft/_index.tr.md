@@ -1,7 +1,7 @@
 ---
 title: Python'da WORDML'yi OFT'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORDML'yi OFT'e kaydedin
-url: /tr/python-net/conversion/wordml-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do WORDML v aplikaci Andorid
 description: Exportujte MSG do WORDML bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

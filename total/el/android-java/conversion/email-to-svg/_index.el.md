@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε SVG στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε SVG χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

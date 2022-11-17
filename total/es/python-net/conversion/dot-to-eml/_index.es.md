@@ -1,7 +1,7 @@
 ---
 title: Convertir DOT a EML en Python
 description: Guarde DOT en EML dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/dot-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

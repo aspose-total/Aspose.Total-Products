@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi XLSM sang DOCX bằng C++
 description: Chuyển đổi XLSM sang DOCX trong các ứng dụng C++
-url: /vi/cpp/conversion/xlsm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

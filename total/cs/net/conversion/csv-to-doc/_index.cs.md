@@ -1,7 +1,7 @@
 ---
 title: Převeďte CSV na DOC pomocí .NET 
 description: Převeďte CSV na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/csv-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

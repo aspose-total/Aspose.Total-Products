@@ -1,7 +1,7 @@
 ---
 title: Преобразование TEXT в VCF в Python
 description: Сохраняйте TEXT в VCF в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/text-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

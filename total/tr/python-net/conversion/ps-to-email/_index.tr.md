@@ -1,7 +1,7 @@
 ---
 title: Python'da PS'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PS'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/ps-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

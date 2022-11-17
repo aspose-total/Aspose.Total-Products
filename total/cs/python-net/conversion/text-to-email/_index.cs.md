@@ -1,7 +1,7 @@
 ---
 title: Převést TEXT na EMAIL v Pythonu
 description: Ukládejte TEXT do EMAIL v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/text-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

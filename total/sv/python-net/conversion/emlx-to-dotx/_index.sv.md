@@ -1,7 +1,7 @@
 ---
 title: Konvertera EMLX till DOTX i Python
 description: Spara EMLX till DOTX i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/emlx-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

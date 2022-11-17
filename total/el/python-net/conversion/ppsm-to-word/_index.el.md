@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή PPSM σε WORD στην Python
 description: Μετατροπή PPSM σε WORD στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/ppsm-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

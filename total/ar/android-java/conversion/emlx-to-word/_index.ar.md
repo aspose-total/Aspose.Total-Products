@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى WORD في تطبيق Andorid
 description: قم بتصدير EMLX إلى WORD دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/emlx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

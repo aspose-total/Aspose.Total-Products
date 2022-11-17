@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в PPTX в Android через Java
 description: Преобразование WORD в PPTX на ваших телефонах Android без использования Microsoft Word of PowerPoint
-url: /ru/android-java/conversion/word-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: POT PPS PPT PPSM POTM ODP PPSX PPTM POWERPOINT POTX
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-word-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: POT PPS PPT PPSM POTM ODP PPSX PPTM POWERPOINT POTX
 Вы также можете преобразовать защищенный паролем WORD в PPTX в своих приложениях для Android. Если ваш входной документ WORD защищен паролем, вы не можете преобразовать его в формат PPTX без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-protected-word-to-pptx.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

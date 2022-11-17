@@ -1,7 +1,7 @@
 ---
 title: A CSV konvertálása DOCX formátumba .NET segítségével 
 description: A CSV konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/csv-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

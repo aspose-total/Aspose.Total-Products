@@ -1,7 +1,7 @@
 ---
 title: Python'da PDF'yi EMAIL'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında PDF'yi EMAIL'e kaydedin
-url: /tr/python-net/conversion/pdf-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

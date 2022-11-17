@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в PS в Python
 description: Сохраняйте EMAIL в PS в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/email-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

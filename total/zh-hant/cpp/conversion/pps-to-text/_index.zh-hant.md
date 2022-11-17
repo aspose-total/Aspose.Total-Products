@@ -1,7 +1,7 @@
 ---
 title: 將 PPS 轉換為 TEXT 的 C++ API
 description: 在 C++ 應用程序中將 PPS 導出為 TEXT
-url: /zh-hant/cpp/conversion/pps-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

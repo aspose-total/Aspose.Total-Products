@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EMAIL in OTT in Python
 description: Speichern Sie EMAIL in OTT in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/email-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

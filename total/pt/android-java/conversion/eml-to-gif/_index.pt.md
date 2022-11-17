@@ -1,7 +1,7 @@
 ---
 title: Renderize EML para GIF no aplicativo Andorid
 description: Exporte EML para GIF sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/eml-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

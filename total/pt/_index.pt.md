@@ -1,7 +1,7 @@
 ---
 title: Soluções de formato de arquivo baseadas no local, na nuvem e em aplicativos 
 weight: 9630
-url: /pt/
+
 description: Crie aplicativos de manipulação de documentos usando APIs On Premise ou Cloud, ou simplesmente use aplicativos multiplataforma para visualizar, comparar, inspecionar ou converter mais de 100 formatos de arquivo
 ---
 

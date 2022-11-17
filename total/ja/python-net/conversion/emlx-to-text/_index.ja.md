@@ -1,7 +1,7 @@
 ---
 title: Python で EMLX を TEXT に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMLX を TEXT に保存します。 
-url: /ja/python-net/conversion/emlx-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

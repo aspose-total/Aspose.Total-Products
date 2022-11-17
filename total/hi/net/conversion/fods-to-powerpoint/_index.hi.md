@@ -1,7 +1,7 @@
 ---
 title: .NET के साथ FODS को POWERPOINT में बदलें 
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर FODS को POWERPOINT में बदलें
-url: /hi/net/conversion/fods-to-powerpoint/
+
 family: total
 platformtag: net
 feature: conversion

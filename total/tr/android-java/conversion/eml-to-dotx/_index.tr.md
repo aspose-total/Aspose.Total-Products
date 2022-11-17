@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to DOTX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i DOTX'ye aktarın
-url: /tr/android-java/conversion/eml-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

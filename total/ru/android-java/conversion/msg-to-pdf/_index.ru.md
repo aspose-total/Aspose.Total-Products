@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в PDF в приложении Andorid
 description: Экспорт MSG в PDF без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

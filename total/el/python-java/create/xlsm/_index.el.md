@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLSM σε Python
 description: Δημιουργήστε αρχείο XLSM χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Office. 
-url: /el/python-java/create/xlsm/
+
 family: total
 platformtag: Python
 feature: create

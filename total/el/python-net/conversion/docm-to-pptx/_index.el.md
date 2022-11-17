@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCM σε PPTX στην Python
 description: Μετατροπή DOCM σε PPTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/docm-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

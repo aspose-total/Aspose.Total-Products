@@ -1,7 +1,7 @@
 ---
 title: Renderizar EMLX a DOT en la aplicación Andorid
 description: Exporte EMLX a DOT sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/emlx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

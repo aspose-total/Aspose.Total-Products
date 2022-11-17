@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a JSON formátumot POTX-re az Androidon Java segítségével
 description: Elemezze a JSON-t POTX-re az Android alkalmazásokban Microsoft PowerPoint használata nélkül
-url: /hu/android-java/conversion/json-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://down
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://down
 Ezenkívül az API lehetővé teszi a JSON POTX-re történő elemzését meghatározott elrendezési beállításokkal. Az elrendezési beállítások megadásához használhatja a [JsonLayoutOptions](https://reference.aspose.com/cells/java/com.aspose.cells/jsonlayotoptions) osztályt. Lehetővé teszi egy tömb táblázatként történő feldolgozását, a nullák figyelmen kívül hagyását, a tömb címének figyelmen kívül hagyását, az objektum címének figyelmen kívül hagyását, a karakterlánc számmá vagy dátummá alakítását, a dátum és a számformátum beállítását, valamint a címstílus beállítását. Mindezek a lehetőségek lehetővé teszik, hogy adatait az igényeinek megfelelően jelenítse meg. A következő kódrészlet bemutatja, hogyan állíthatja be az elrendezési beállításokat.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "set-layout-and-parse-json-to-powerpoint.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Ezenkívül az API lehetővé teszi a JSON POTX-re történő elemzését meghat
 Az API használatával a JSON-t vízjellel POTX-vé is konvertálhatja. Ha vízjelet szeretne hozzáadni az POTX-dokumentumhoz, először elemezheti a JSON-t PPTX-be, és vízjelet adhat hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott PPTX fájlt a [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) osztály segítségével, görgessen végig az összes dián, és adjon hozzá szöveget az addTextFrame segítségével állítsa be az összes releváns beállítást, például a színt, a fillType-ot és egyebeket, és mentheti a dokumentumot az POTX-be.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "parse-json-to-powerpoint-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,6 +1,6 @@
 ---
 title: การแปลงรูปแบบไฟล์ผ่าน C# 
-url: /th/net/conversion/
+
 description: แปลง Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, รูปภาพ 3 มิติ, ไดอะแกรม, รูปแบบวิดีโอ และไฟล์ยอดนิยมอื่น ๆ อีกมากมายด้วยโค้ด C# เพียงไม่กี่บรรทัด
 ---
 

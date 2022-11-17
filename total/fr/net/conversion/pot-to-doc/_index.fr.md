@@ -1,6 +1,6 @@
 ---
 title: Convertir POT en DOC via C# .NET 
-url: /fr/net/conversion/pot-to-doc/ 
+
 description: Convertissez des documents PowerPoint pot en fichiers doc Word avec C#. Convertissez plusieurs fichiers dans ASP.NET ou d'autres applications .NET.
 ---
 

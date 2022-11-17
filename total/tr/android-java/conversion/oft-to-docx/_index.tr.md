@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında OFT to DOCX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan OFT'i DOCX'ye aktarın
-url: /tr/android-java/conversion/oft-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

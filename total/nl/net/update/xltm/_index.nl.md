@@ -1,7 +1,7 @@
 ---
 title: XLTM-bestand bijwerken met .NET
 description: Wijzig XLTM-documenten in C# VB.NET-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/net/update/xltm/
+
 family: total
 platformtag: .NET
 feature: update

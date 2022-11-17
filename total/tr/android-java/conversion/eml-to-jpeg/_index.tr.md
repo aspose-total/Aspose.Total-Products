@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to JPEG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i JPEG'ye aktarın
-url: /tr/android-java/conversion/eml-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

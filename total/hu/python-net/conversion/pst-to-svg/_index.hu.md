@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PST-t SVG-be Pythonban
 description: Mentse a PST-t SVG formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/pst-to-svg/
+
 family: total
 platformtag: Python
 feature: conversion

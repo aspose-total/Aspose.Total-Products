@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EPUB na OST w Pythonie
 description: Zapisuj EPUB do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/epub-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

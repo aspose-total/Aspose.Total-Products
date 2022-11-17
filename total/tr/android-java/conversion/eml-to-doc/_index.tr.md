@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to DOC'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i DOC'ye aktarın
-url: /tr/android-java/conversion/eml-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

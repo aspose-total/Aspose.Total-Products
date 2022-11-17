@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EML do FLATOPC v aplikaci Andorid
 description: Exportujte EML do FLATOPC bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/eml-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

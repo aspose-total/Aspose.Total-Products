@@ -1,7 +1,7 @@
 ---
 title: Converteer ODT naar PST in Python
 description: Bewaar ODT naar PST binnen Python-toepassingen zonder Microsoft Word of Outlook te gebruiken
-url: /nl/python-net/conversion/odt-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

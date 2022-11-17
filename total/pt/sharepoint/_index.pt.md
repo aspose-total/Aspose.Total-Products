@@ -1,7 +1,7 @@
 ---
 title: Aplicativos de formato de arquivo do SharePoint - Converter documentos em aplicativos do SharePoint 
 weight: 20
-url: /pt/sharepoint/ 
+
 description: Aplicativos de formato de arquivo do SharePoint para converter e combinar formatos de documento Word Excel PDF PowerPoint Email e imagem no Microsoft SharePoint
 ---
 

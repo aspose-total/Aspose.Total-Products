@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى OTT في تطبيق Andorid
 description: قم بتصدير EMAIL إلى OTT دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/email-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

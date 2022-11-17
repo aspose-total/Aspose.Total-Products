@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してEXCELをPPTXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをPPTXに変換する
-url: /ja/net/conversion/excel-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

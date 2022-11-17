@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi VCF sang WORD bằng Python
 description: Lưu VCF thành WORD trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Outlook hoặc Word 
-url: /vi/python-net/conversion/vcf-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحويل PS إلى EML في Python
 description: احفظ PS في EML داخل تطبيقات Python دون استخدام Microsoft Word أو Outlook
-url: /ar/python-net/conversion/ps-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: A XLSX konvertálása PPTX formátumba .NET segítségével 
 description: A XLSX konvertálása PPTX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
-url: /hu/net/conversion/xlsx-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

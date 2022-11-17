@@ -1,6 +1,6 @@
 ---
 title: A FLATOPC konvertálása PPS-re C# .NET-en keresztül 
-url: /hu/net/conversion/flatopc-to-pps/ 
+
 description: Konvertálja a Word flatopc dokumentumokat PowerPoint pps fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

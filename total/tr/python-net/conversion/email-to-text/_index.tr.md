@@ -1,7 +1,7 @@
 ---
 title: Python'da EMAIL'yi TEXT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda EMAIL'yi TEXT'e kaydedin 
-url: /tr/python-net/conversion/email-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

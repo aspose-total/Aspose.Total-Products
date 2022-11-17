@@ -1,7 +1,7 @@
 ---
 title: Konversi BMP ke MSG dengan Python
 description: Simpan BMP ke MSG dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/bmp-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

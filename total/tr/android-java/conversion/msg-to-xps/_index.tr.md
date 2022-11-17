@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to XPS'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i XPS'ye aktarın
-url: /tr/android-java/conversion/msg-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

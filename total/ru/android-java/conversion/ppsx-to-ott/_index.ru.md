@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPSX в OTT на Andorid через Java
 description: Конвертируйте PPSX в OTT в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/ppsx-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

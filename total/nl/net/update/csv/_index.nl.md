@@ -1,7 +1,7 @@
 ---
 title: CSV-bestand bijwerken met .NET
 description: Wijzig CSV-documenten in C# VB.NET-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/net/update/csv/
+
 family: total
 platformtag: .NET
 feature: update

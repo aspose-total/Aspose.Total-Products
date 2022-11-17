@@ -1,7 +1,7 @@
 ---
 title: تحويل DOT إلى صور في Python
 description: DOT لصورة تحويل TIFF BMP PNG JPEG GIF SVG في تطبيقات Python دون استخدام Microsoft Word 
-url: /ar/python-net/conversion/dot-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

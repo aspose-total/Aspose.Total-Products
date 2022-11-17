@@ -1,7 +1,7 @@
 ---
 title: Расширения рендеринга служб отчетов SQL Server для форматов файлов 
 weight: 40
-url: /ru/reporting-services/ 
+
 description: Расширения рендеринга служб SQL Server Reporting Services для форматов файлов для экспорта отчетов RDL в форматы Word Excel PDF PowerPoint. Добавление штрих-кодов в экспортируемые отчеты
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PCL-t ICS-be Pythonban
 description: PCL mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/pcl-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

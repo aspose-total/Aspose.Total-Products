@@ -1,7 +1,7 @@
 ---
 title: Konwertuj DOCX na PPSX w Androidzie przez Java
 description: Konwersja DOCX do PPSX w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint
-url: /pl/android-java/conversion/docx-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion

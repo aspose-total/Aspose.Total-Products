@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do WORD v aplikaci Andorid
 description: Exportujte MSG do WORD bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

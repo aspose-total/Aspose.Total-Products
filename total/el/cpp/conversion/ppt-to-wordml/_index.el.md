@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPT σε WORDML
 description: Εξαγωγή PPT σε WORDML στις εφαρμογές σας C++
-url: /el/cpp/conversion/ppt-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

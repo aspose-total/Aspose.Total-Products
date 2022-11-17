@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをEMFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMAILをEMFにエクスポートする
-url: /ja/android-java/conversion/email-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

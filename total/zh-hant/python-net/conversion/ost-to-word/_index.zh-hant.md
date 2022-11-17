@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 OST 轉換為 WORD
 description: 在 Python 應用程序中將 OST 保存為 WORD，而無需使用 Microsoft Outlook 或 Word 
-url: /zh-hant/python-net/conversion/ost-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

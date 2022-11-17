@@ -1,7 +1,7 @@
 ---
 title: Python'da PST'yi XPS'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda PST'yi XPS'e kaydedin 
-url: /tr/python-net/conversion/pst-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

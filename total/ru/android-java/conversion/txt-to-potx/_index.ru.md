@@ -1,7 +1,7 @@
 ---
 title: Преобразование TXT в POTX в Android через Java
 description: Преобразование TXT в POTX на ваших телефонах Android без использования Microsoft Word of PowerPoint
-url: /ru/android-java/conversion/txt-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -33,7 +33,8 @@ otherformats: PPTM PPTX PPT POTM POWERPOINT ODP POT PPS PPSM PPSX CSV DIF FODS O
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -42,7 +43,8 @@ otherformats: PPTM PPTX PPT POTM POWERPOINT ODP POT PPS PPSM PPSX CSV DIF FODS O
 Вы также можете преобразовать защищенный паролем TXT в POTX в своих приложениях для Android. Если ваш входной документ TXT защищен паролем, вы не можете преобразовать его в формат POTX без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx-with-watermark.java" >}}
+{{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-txt-to-pptx-with-watermark.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Převést XPS na MBOX v Pythonu
 description: Ukládejte XPS do MBOX v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/xps-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

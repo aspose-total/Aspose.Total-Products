@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをBMPにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをBMPにエクスポートする
-url: /ja/android-java/conversion/msg-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

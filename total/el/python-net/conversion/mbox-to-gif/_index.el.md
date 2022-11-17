@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή MBOX σε GIF στην Python
 description: Αποθηκεύστε το MBOX σε GIF στις εφαρμογές Python σας χωρίς να χρησιμοποιήσετε το Microsoft Outlook ή το Word 
-url: /el/python-net/conversion/mbox-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

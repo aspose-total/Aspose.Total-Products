@@ -1,7 +1,7 @@
 ---
 title: Converti PST in XPS in Python
 description: Salva PST in XPS nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/pst-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API pro převod PPSM na WORDML
 description: Exportujte PPSM do WORDML v rámci vašich aplikací C++
-url: /cs/cpp/conversion/ppsm-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

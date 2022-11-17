@@ -1,7 +1,7 @@
 ---
 title: Преобразование MHTML в ODT в Python
 description: Преобразование MHTML и HtmlFixed в ODT в ваших приложениях Python без использования Microsoft Word 
-url: /ru/python-net/conversion/mhtml-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

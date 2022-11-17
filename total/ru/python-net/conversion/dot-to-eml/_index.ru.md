@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в EML в Python
 description: Сохраняйте DOT в EML в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/dot-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t OST-be Pythonban
 description: DOTX mentése OST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/dotx-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

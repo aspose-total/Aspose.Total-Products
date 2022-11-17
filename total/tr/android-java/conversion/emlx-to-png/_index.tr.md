@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMLX to PNG'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMLX'i PNG'ye aktarın
-url: /tr/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

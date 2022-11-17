@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTMをDOCXに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをDOCXに変換する
-url: /ja/net/conversion/xltm-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

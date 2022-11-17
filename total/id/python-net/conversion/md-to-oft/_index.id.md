@@ -1,7 +1,7 @@
 ---
 title: Konversi MD ke OFT dengan Python
 description: Simpan MD ke OFT dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/md-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

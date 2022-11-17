@@ -1,7 +1,7 @@
 ---
 title: Convertir DOTX en PPSX en Python
 description: Conversion DOTX en PPSX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/dotx-to-ppsx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi EMAIL ke PS dengan Python
 description: Simpan EMAIL ke PS di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/email-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

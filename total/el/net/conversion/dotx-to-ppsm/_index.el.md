@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTX σε PPSM μέσω C# .NET 
-url: /el/net/conversion/dotx-to-ppsm/ 
+
 description: Μετατρέψτε έγγραφα Word dotx σε αρχεία ppsm PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

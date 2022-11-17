@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCM-t ICS-be Pythonban
 description: DOCM mentése ICS formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docm-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

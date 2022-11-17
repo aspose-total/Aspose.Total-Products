@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOT в ICS в Python
 description: Сохраняйте DOT в ICS в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/dot-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

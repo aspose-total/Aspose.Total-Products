@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji PPT na OTT
 description: Eksportuj PPT do OTT w swoich aplikacjach C++
-url: /pl/cpp/conversion/ppt-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

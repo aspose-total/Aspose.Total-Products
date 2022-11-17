@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MD-t PPT-be Pythonban
 description: MD-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/md-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

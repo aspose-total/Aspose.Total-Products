@@ -1,7 +1,7 @@
 ---
 title: Converti OST in EPUB in Python
 description: Salva OST in EPUB nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/ost-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

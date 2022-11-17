@@ -1,7 +1,7 @@
 ---
 title: POTMをDOTMに変換するC++API
 description: C++アプリケーション内でPOTMをDOTMにエクスポートする
-url: /ja/cpp/conversion/potm-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

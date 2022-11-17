@@ -1,7 +1,7 @@
 ---
 title: Zaktualizuj plik TSV za pomocą Javy
 description: Modyfikuj dokument TSV w aplikacjach Java bez użycia programu Microsoft Excel. Zoptymalizuj kod dla najszybszego sposobu pisania i edycji pliku Excel w java.
-url: /pl/java/update/tsv/
+
 family: total
 platformtag: Java
 feature: update

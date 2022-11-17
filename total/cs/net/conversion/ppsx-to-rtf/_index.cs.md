@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na RTF přes C# .NET 
-url: /cs/net/conversion/ppsx-to-rtf/ 
+
 description: Převádějte dokumenty ppsx aplikace PowerPoint na soubory dokumentů Word pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

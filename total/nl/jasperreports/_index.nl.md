@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - Genereer rapporten in zakelijke documentformaten
 weight: 80
-url: /nl/jasperreports/ 
+
 description: JasperReports exporteert suite om rapporten te exporteren naar Word Excel PDF- en PowerPoint-formaten. Streepjescodes toevoegen aan geëxporteerde rapporten
 ---
 

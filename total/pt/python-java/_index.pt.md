@@ -1,6 +1,6 @@
 ---
 title: Bibliotecas de automação de arquivos Python - Aspose
-url: /pt/python-java/
+
 url_ignore: /python-java/ 
 description: Bibliotecas Python para análise de planilhas do Excel, geração e digitalização de código de barras, bem como processamento de diagramas do Visio
 ---

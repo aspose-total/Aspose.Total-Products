@@ -1,7 +1,7 @@
 ---
 title: Convert WORDML to OST in Python
 description: Save WORDML to OST within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/wordml-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

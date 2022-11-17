@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t TIFF-be Pythonban
 description: Mentse a OFT-t TIFF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

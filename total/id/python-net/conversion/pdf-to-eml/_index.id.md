@@ -1,7 +1,7 @@
 ---
 title: Konversi PDF ke EML dengan Python
 description: Simpan PDF ke EML dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/pdf-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

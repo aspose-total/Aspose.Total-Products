@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε RTF στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε RTF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

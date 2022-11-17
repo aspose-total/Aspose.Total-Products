@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t EMF-nek az Andorid alkalmazásban
 description: Exportálja az EML-t EMF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-emf/
+
 family: total
 platformtag: cpp
 feature: conversion

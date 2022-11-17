@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε DOC στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε DOC χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

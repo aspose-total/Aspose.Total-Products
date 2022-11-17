@@ -1,7 +1,7 @@
 ---
 title: สร้าง XLTX ใน Python
 description: สร้างไฟล์ XLTX โดยใช้แอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office 
-url: /th/python-java/create/xltx/
+
 family: total
 platformtag: Python
 feature: create

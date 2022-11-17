@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в PPS через C++
 description: Экспортируйте DOCX в PPS в свои приложения C++ без использования Microsoft Word of PowerPoint.
-url: /ru/cpp/conversion/docx-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POWERPOINT POT POTX PPT PPSX ODP PPTX POTM PPSM PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOCX в PPS" h2="Экспортируйте DOCX в PPS в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCX в PPS при использовании двух API-интерфейсов. Загрузите свой DOCX с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPS. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCX в PPS при использовании двух API-интерфейсов. Загрузите свой DOCX с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

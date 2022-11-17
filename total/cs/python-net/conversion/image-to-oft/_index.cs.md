@@ -1,7 +1,7 @@
 ---
 title: Převést IMAGE na OFT v Pythonu
 description: Ukládejte IMAGE do OFT v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/image-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

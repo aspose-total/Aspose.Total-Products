@@ -1,7 +1,7 @@
 ---
 title: Renderizar OFT a PCL en la aplicación Andorid
 description: Exporte OFT a PCL sin usar Microsoft Word o Outlook en sus aplicaciones Andorid
-url: /es/android-java/conversion/oft-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

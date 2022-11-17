@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi WORD sang POWERPOINT bằng Python
 description: Chuyển đổi WORD sang POWERPOINT trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint 
-url: /vi/python-net/conversion/word-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

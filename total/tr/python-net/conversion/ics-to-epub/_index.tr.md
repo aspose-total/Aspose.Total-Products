@@ -1,7 +1,7 @@
 ---
 title: Python'da ICS'yi EPUB'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda ICS'yi EPUB'e kaydedin 
-url: /tr/python-net/conversion/ics-to-epub/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLSM باستخدام جافا
 description: تعديل مستند XLSM في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/xlsm/
+
 family: total
 platformtag: Java
 feature: update

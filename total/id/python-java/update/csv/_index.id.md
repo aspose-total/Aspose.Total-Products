@@ -1,7 +1,7 @@
 ---
 title: Perbarui Mengajukan CSV Menggunakan Python
 description: Memodifikasi dokumen CSV dalam aplikasi Python tanpa menggunakan Microsoft Excel. 
-url: /id/python-java/update/csv/
+
 family: total
 platformtag: Python
 feature: update

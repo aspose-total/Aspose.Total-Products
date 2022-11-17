@@ -1,7 +1,7 @@
 ---
 title: App in formato file di SharePoint converti documenti in applicazioni di SharePoint 
 weight: 20
-url: /it/sharepoint/ 
+
 description: App di formato file SharePoint per convertire e combinare formati di documenti Word Excel PDF PowerPoint e-mail e imaging all'interno di Microsoft SharePoint
 ---
 

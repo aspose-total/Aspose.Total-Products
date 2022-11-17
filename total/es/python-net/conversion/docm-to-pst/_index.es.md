@@ -1,7 +1,7 @@
 ---
 title: Convertir DOCM a PST en Python
 description: Guarde DOCM en PST dentro de las aplicaciones de Python sin usar Microsoft Word o Outlook
-url: /es/python-net/conversion/docm-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

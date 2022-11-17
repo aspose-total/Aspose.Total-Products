@@ -1,7 +1,7 @@
 ---
 title: C++ API a POWERPOINT FLATOPC formátumba konvertálásához
 description: Exportálja a POWERPOINT-ot FLATOPC-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/powerpoint-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

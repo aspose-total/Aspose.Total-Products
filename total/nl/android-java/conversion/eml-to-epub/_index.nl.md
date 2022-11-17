@@ -1,7 +1,7 @@
 ---
 title: Render EML naar EPUB in de Andorid-app
 description: Exporteer EML naar EPUB zonder Microsoft Word of Outlook te gebruiken in je Andorid-applicaties
-url: /nl/android-java/conversion/eml-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

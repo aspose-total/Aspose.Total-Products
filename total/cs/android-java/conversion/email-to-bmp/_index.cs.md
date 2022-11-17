@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do BMP v aplikaci Andorid
 description: Exportujte EMAIL do BMP bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

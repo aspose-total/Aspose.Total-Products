@@ -1,7 +1,7 @@
 ---
 title: Vykreslete MSG do DOTM v aplikaci Andorid
 description: Exportujte MSG do DOTM bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/msg-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

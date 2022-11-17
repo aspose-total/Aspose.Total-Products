@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMLX to DOTX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMLX'i DOTX'ye aktarın
-url: /tr/android-java/conversion/emlx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konversi DOCX ke PPS melalui C++
 description: Ekspor DOCX ke PPS di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
-url: /id/cpp/conversion/docx-to-pps/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POWERPOINT POT POTX PPT PPSX ODP PPTX POTM PPSM PPTM
 {{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOCX ke PPS" h2="Ekspor DOCX ke PPS dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi DOCX ke PPS saat menggunakan dua API-nya. Muat DOCX Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai PPS. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi DOCX ke PPS saat menggunakan dua API-nya. Muat DOCX Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai PPS. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

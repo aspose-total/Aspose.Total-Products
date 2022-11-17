@@ -1,7 +1,7 @@
 ---
 title: Automatiserings-API's voor bestandsindelingen voor meerdere platforms - Aspose 
 weight: 10
-url: /nl/family/
+
 description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OCR Imaging OneNote 3D- en CAD-manipulatie-API's voor .NET, Java, Android, C++. Componenten voor SharePoint, Extensies voor Reporting Services en Exporters voor JasperReports.
 ---
 

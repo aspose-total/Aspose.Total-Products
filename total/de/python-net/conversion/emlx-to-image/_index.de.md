@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie EMLX in IMAGE in Python
 description: Speichern Sie EMLX in IMAGE in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/emlx-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

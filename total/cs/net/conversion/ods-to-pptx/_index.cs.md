@@ -1,7 +1,7 @@
 ---
 title: Převeďte ODS na PPTX pomocí .NET 
 description: Převeďte ODS na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
-url: /cs/net/conversion/ods-to-pptx/
+
 family: total
 platformtag: net
 feature: conversion

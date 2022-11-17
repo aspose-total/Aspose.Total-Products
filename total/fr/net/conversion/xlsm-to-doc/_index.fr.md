@@ -1,7 +1,7 @@
 ---
 title: Convertir XLSM en DOC avec .NET 
 description: Convertir XLSM en DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
-url: /fr/net/conversion/xlsm-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

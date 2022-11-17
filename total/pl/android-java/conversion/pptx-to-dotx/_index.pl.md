@@ -1,7 +1,7 @@
 ---
 title: Eksportuj PPTX do DOTX na Androidzie przez Javę
 description: Konwertuj PPTX na DOTX w aplikacjach mobilnych bez instalowania żadnego oprogramowania
-url: /pl/android-java/conversion/pptx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TEXT-t PST-be Pythonban
 description: TEXT mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/text-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

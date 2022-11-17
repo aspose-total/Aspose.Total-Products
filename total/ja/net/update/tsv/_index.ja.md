@@ -1,7 +1,7 @@
 ---
 title: .NET を使用して TSV ファイルを更新する
 description: Microsoft Excel を使用せずに、C# VB.NET アプリケーションで TSV ドキュメントを変更します。 
-url: /ja/net/update/tsv/
+
 family: total
 platformtag: .NET
 feature: update

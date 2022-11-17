@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPSX-ot TEXT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPSX-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/ppsx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

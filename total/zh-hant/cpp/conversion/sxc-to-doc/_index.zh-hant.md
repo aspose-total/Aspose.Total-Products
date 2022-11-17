@@ -1,7 +1,7 @@
 ---
 title: 使用 C++ 將 SXC 轉換為 DOC
 description: 在 C++ 應用程序中將 SXC 轉換為 DOC
-url: /zh-hant/cpp/conversion/sxc-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

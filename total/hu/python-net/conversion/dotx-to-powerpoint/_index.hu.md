@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOTX-t POWERPOINT-be Pythonban
 description: DOTX-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/dotx-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

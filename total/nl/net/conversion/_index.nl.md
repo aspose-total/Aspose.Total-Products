@@ -1,6 +1,6 @@
 ---
 title: Conversie van bestandsindelingen via C# 
-url: /nl/net/conversion/
+
 description: Converteer Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D-afbeeldingen, diagrammen, videoformaten en vele andere populaire bestanden met slechts enkele regels C#-code.
 ---
 

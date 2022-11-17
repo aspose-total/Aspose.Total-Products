@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a PPSM-t WORD-be Pythonban
 description: PPSM-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/ppsm-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

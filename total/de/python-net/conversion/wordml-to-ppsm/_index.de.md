@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie WORDML in PPSM in Python
 description: Konvertierung von WORDML in PPSM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/wordml-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

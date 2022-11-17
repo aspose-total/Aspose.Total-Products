@@ -1,6 +1,6 @@
 ---
 title: Python ile Belge Dönüştürme 
-url: /tr/python-net/conversion/
+
 description: Microsoft Word Formatları DOC, DOCX'i PDF'ye, Görüntüler ve daha fazlasının yanı sıra Sunum Slaytları, E-posta Mesajları ve 3D Görüntüleri yalnızca birkaç satır Python koduna dönüştürün.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: แปลง ODS เป็น DOCX ด้วย C++
 description: แปลง ODS เป็น DOCX ภายในแอปพลิเคชัน C++
-url: /th/cpp/conversion/ods-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 用於文件格式的 SQL Server Reporting Services 呈現擴展 
 weight: 40
-url: /zh-hant/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering Extensions 用於文件格式，用於將 RDL 報告導出為 Word Excel PDF PowerPoint 格式。將條形碼添加到導出的報告
 ---
 

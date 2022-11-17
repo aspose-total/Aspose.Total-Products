@@ -1,7 +1,7 @@
 ---
 title: Convertir DOT en PPTX en Python
 description: Conversion DOT en PPTX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
-url: /fr/python-net/conversion/dot-to-pptx/
+
 family: total
 platformtag: Python
 feature: conversion

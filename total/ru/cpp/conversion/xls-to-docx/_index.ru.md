@@ -1,7 +1,7 @@
 ---
 title: Преобразование XLS в DOCX с помощью C++
 description: Преобразование XLS в DOCX в приложениях C++
-url: /ru/cpp/conversion/xls-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie ODP in DOTX über C# .NET 
-url: /de/net/conversion/odp-to-dotx/ 
+
 description: Konvertieren Sie PowerPoint-ODP-Dokumente mit C# in Word-Dotx-Dateien. Konvertieren Sie mehrere Dateien innerhalb von ASP.NET oder anderen .NET-Anwendungen.
 ---
 

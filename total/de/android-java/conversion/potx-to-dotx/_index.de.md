@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie POTX nach DOTX auf Andorid über Java
 description: Konvertieren Sie POTX in DOTX in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/potx-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

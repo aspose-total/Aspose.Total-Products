@@ -1,6 +1,6 @@
 ---
 title: C++ ile Belge Dönüştürme 
-url: /tr/cpp/conversion/
+
 description: C++ API kullanarak Word, Excel, PowerPoint, PDF, JSON, Görüntüler ve daha fazlası gibi çeşitli belge biçimlerini dönüştürün. 
 ---
 

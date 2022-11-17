@@ -1,7 +1,7 @@
 ---
 title: Konwertuj OST na OST w Pythonie
 description: Zapisuj OST do OST w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/gif-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

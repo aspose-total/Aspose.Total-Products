@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή OTT σε PPTM στην Python
 description: Μετατροπή OTT σε PPTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/ott-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

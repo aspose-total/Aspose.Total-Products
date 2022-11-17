@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε PDF στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε PDF χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

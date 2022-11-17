@@ -1,7 +1,7 @@
 ---
 title: Konwertuj XPS na MSG w Pythonie
 description: Zapisuj XPS do MSG w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/xps-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

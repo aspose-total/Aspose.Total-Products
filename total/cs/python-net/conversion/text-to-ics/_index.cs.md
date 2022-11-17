@@ -1,7 +1,7 @@
 ---
 title: Převést TEXT na ICS v Pythonu
 description: Ukládejte TEXT do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/text-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

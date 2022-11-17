@@ -1,7 +1,7 @@
 ---
 title: Renderize EMAIL para GIF no aplicativo Andorid
 description: Exporte EMAIL para GIF sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/email-to-gif/
+
 family: total
 platformtag: cpp
 feature: conversion

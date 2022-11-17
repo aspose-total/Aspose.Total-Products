@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCMにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをDOCMに変換する
-url: /ja/android-java/conversion/ppsm-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

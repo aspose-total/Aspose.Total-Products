@@ -1,7 +1,7 @@
 ---
 title: Konvertera DOTX till JSON-format i C++
 description: Exportera DOTX till JSON i C++ utan att använda Microsoft Excel eller Word
-url: /sv/cpp/conversion/dotx-to-json/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-word-to-json.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 Med hjälp av API:t kan du också öppna det lösenordsskyddade dokumentet. Om ditt inmatade DOTX-dokument är lösenordsskyddat kan du inte konvertera det till JSON-format utan att använda lösenordet. För att göra detta, använd en speciell konstruktoröverbelastning, som accepterar ett LoadOptions-objekt. Detta objekt innehåller egenskapen Password, som anger lösenordssträngen.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+{{< gist "aspose-com-gists" "4f603d2b56d75433007748b6ccb6640b" "convert-protected-word-to-json.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

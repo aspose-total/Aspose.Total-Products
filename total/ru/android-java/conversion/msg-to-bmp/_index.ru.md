@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в BMP в приложении Andorid
 description: Экспорт MSG в BMP без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

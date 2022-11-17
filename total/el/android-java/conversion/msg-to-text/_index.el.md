@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε TEXT στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε TEXT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

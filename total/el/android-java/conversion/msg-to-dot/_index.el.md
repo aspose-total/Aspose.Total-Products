@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε DOT στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε DOT χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

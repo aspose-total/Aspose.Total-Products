@@ -1,7 +1,7 @@
 ---
 title: API C++ để chuyển đổi PPT sang RTF
 description: Xuất PPT sang RTF trong các ứng dụng C++ của bạn
-url: /vi/cpp/conversion/ppt-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

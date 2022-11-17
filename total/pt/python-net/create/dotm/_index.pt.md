@@ -1,7 +1,7 @@
 ---
 title: Criar DOTM em Python
 description: Gere o arquivo DOTM usando aplicativos Python sem usar o Microsoft Word. 
-url: /pt/python-net/create/dotm/
+
 family: total
 platformtag: Python
 feature: create

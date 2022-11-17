@@ -1,7 +1,7 @@
 ---
 title: Kết xuất EMLX thành TEXT trong ứng dụng Andorid
 description: Xuất EMLX sang TEXT mà không cần sử dụng Microsoft Word hoặc Outlook trong các ứng dụng Andorid của bạn
-url: /vi/android-java/conversion/emlx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

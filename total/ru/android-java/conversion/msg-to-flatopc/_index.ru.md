@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в FLATOPC в приложении Andorid
 description: Экспорт MSG в FLATOPC без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

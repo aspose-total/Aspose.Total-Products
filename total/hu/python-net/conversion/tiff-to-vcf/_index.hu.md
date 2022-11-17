@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TIFF-t VCF-be Pythonban
 description: TIFF mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/tiff-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

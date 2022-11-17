@@ -1,7 +1,7 @@
 ---
 title: Xuất PPTX sang DOC trên Andorid qua Java
 description: Chuyển đổi PPTX sang DOC trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào
-url: /vi/android-java/conversion/pptx-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

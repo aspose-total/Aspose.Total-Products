@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのODTにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをODTに変換する
-url: /ja/android-java/conversion/ppsm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EMLX-t PCL-be Pythonban
 description: Mentse a EMLX-t PCL formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/emlx-to-pcl/
+
 family: total
 platformtag: Python
 feature: conversion

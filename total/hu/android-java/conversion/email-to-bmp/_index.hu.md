@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t BMP-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t BMP-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

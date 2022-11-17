@@ -1,7 +1,7 @@
 ---
 title: Python で XLSX を作成する
 description: Microsoft Office を使用せずに、Python アプリケーションを使用して XLSX ファイルを生成します。 
-url: /ja/python-java/create/xlsx/
+
 family: total
 platformtag: Python
 feature: create

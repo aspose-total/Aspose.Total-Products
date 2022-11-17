@@ -1,7 +1,7 @@
 ---
 title: Konwertuj POWERPOINT na DOCM w Pythonie
 description: Konwersja POWERPOINT do DOCM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
-url: /pl/python-net/conversion/powerpoint-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

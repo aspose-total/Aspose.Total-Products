@@ -1,7 +1,7 @@
 ---
 title: تحويل DOCX إلى XLSM في C++
 description: C++ API لتحويل DOCX إلى XLSM دون استخدام Microsoft Word أو Microsoft Excel
-url: /ar/cpp/conversion/docx-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion

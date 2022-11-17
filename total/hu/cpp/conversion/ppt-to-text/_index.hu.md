@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPT TEXT formátumba konvertálásához
 description: Exportálja a PPT-ot TEXT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのTEXTにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをTEXTに変換する
-url: /ja/android-java/conversion/pptm-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε WORD στην εφαρμογή Andorid
 description: Εξαγωγή EML σε WORD χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

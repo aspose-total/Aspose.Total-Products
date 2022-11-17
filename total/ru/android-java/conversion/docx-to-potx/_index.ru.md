@@ -1,7 +1,7 @@
 ---
 title: Преобразование DOCX в POTX в Android через Java
 description: Преобразование DOCX в POTX на ваших телефонах Android без использования Microsoft Word of PowerPoint
-url: /ru/android-java/conversion/docx-to-potx/
+
 family: total
 platformtag: cpp
 feature: conversion

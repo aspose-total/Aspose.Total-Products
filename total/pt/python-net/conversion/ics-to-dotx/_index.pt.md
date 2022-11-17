@@ -1,7 +1,7 @@
 ---
 title: Converter ICS para DOTX em Python
 description: Salve ICS para DOTX em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/ics-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

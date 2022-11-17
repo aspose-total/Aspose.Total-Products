@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u ODT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u ODT'ye dönüştürün
-url: /tr/android-java/conversion/ppt-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: पायथन में बीएमपी को एमएचटीएमएल में कनवर्ट करें
 description: माइक्रोसॉफ्ट वर्ड का उपयोग किए बिना आपके पायथन अनुप्रयोगों में बीएमपी से एमएचटीएमएल वेब संग्रह प्रारूप और एचटीएमएलफिक्स फ़ाइल रूपांतरण 
-url: /hi/python-net/conversion/wordml-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

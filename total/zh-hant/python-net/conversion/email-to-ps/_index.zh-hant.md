@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 EMAIL 轉換為 PS
 description: 在 Python 應用程序中將 EMAIL 保存為 PS，而無需使用 Microsoft Outlook 或 Word 
-url: /zh-hant/python-net/conversion/email-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

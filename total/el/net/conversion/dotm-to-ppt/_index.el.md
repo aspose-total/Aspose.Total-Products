@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTM σε PPT μέσω C# .NET 
-url: /el/net/conversion/dotm-to-ppt/ 
+
 description: Μετατρέψτε έγγραφα Word dotm σε αρχεία ppt PowerPoint με C#. Μετατροπή πολλαπλών αρχείων εντός του ASP.NET ή άλλων εφαρμογών .NET.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint fájlformátumú alkalmazások – Dokumentumok konvertálása a SharePoint alkalmazásokban 
 weight: 20
-url: /hu/sharepoint/ 
+
 description: SharePoint fájlformátum-alkalmazások Word Excel PDF PowerPoint e-mail és képalkotás dokumentumformátumok konvertálásához és kombinálásához a Microsoft SharePointban
 ---
 

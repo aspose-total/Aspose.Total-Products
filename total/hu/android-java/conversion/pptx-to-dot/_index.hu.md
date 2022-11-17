@@ -1,7 +1,7 @@
 ---
 title: Exportálja a PPTX-ot DOT-ba Andoridon Java-n keresztül
 description: Konvertálja a PPTX-ot DOT-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/pptx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convierta FODS a WORD con .NET 
 description: Convierta FODS a WORD en plataformas .NET Framework, .NET Core, Mono o Xamarin
-url: /es/net/conversion/fods-to-word/
+
 family: total
 platformtag: net
 feature: conversion

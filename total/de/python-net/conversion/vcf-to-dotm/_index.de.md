@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie VCF in DOTM in Python
 description: Speichern Sie VCF in DOTM in Ihren Python-Anwendungen, ohne Microsoft Outlook oder Word zu verwenden 
-url: /de/python-net/conversion/vcf-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

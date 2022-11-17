@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie POT nach DOCM auf Andorid über Java
 description: Konvertieren Sie POT in DOCM in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/pot-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

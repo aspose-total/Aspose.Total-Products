@@ -1,7 +1,7 @@
 ---
 title: Soluciones de formato de archivo en las instalaciones, en la nube y basadas en aplicaciones 
 weight: 9630
-url: /es/
+
 description: Cree aplicaciones de manipulación de documentos utilizando API locales o en la nube, o simplemente use aplicaciones multiplataforma para ver, comparar, inspeccionar o convertir más de 100 formatos de archivo
 ---
 

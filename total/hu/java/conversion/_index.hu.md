@@ -1,6 +1,6 @@
 ---
 title: Fájlformátum konvertálás Java-n keresztül 
-url: /hu/java/conversion/
+
 description: Konvertálja a Microsoft Office Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D képeket, diagramokat, videoformátumokat és különféle egyéb formátumokat mindössze néhány soros Java kóddal.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Utwórz DOT w Pythonie
 description: Generuj plik DOT za pomocą aplikacji w języku Python bez korzystania z programu Microsoft Word. 
-url: /pl/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

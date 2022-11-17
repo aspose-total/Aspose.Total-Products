@@ -1,7 +1,7 @@
 ---
 title: Render MSG ke TEXT di Aplikasi Andorid
 description: Ekspor MSG ke TEXT tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/msg-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

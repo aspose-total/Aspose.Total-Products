@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSX TEXT formátumba konvertálásához
 description: Exportálja a PPSX-ot TEXT-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

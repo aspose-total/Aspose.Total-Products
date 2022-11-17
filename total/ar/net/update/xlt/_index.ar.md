@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLT باستخدام .NET
 description: تعديل مستندات XLT في تطبيقات C # VB.NET بدون استخدام Microsoft Excel. 
-url: /ar/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

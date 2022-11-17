@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie OTT in ODP über C# .NET 
-url: /de/net/conversion/ott-to-odp/ 
+
 description: Konvertieren Sie Word-Dokumente mit C# in PowerPoint-ODP-Dateien. Konvertieren Sie mehrere Dateien innerhalb von ASP.NET oder anderen .NET-Anwendungen.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi DOTX sang hình ảnh bằng Python
 description: Chuyển đổi DOTX sang hình ảnh TIFF BMP PNG JPEG GIF SVG trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word 
-url: /vi/python-net/conversion/dotx-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

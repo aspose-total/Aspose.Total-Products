@@ -1,7 +1,7 @@
 ---
 title: C# .NET 文件自動化 API - Aspose 
 weight: 30
-url: /zh-hant/net/ 
+
 description: C# ASP.NET VB.NET APIs 創建操作轉換和呈現任何類型的文檔。
 ---
 

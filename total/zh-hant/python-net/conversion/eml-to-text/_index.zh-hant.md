@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中將 EML 轉換為 TEXT
 description: 在 Python 應用程序中將 EML 保存為 TEXT，而無需使用 Microsoft Outlook 或 Word 
-url: /zh-hant/python-net/conversion/eml-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

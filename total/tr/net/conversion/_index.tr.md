@@ -1,6 +1,6 @@
 ---
 title: C# ile Dosya Formatı Dönüştürme 
-url: /tr/net/conversion/
+
 description: Microsoft Word, Excel, PowerPoint, Outlook, PDF, HTML, 3D Görüntüler, Diyagramlar, Video Formatları ve diğer birçok popüler dosyayı yalnızca birkaç satır C# koduyla dönüştürün.
 ---
 

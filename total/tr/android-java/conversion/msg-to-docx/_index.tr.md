@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to DOCX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i DOCX'ye aktarın
-url: /tr/android-java/conversion/msg-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

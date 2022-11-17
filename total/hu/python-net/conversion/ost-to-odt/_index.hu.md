@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OST-t ODT-be Pythonban
 description: Mentse a OST-t ODT formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/ost-to-odt/
+
 family: total
 platformtag: Python
 feature: conversion

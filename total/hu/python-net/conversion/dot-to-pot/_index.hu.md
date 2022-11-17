@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOT-t POT-be Pythonban
 description: DOT-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/dot-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

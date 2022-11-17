@@ -1,7 +1,7 @@
 ---
 title: 通过 C++ 将 JSON 格式转换为 PPTM
 description: 在不使用 Microsoft PowerPoint 的情况下，在 C++ 中将 JSON 解析为 PPTM
-url: /zh/cpp/conversion/json-to-pptm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: PPS PPSM ODP POWERPOINT POT POTX POTM PPT PPSX OTP
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: PPS PPSM ODP POWERPOINT POT POTX POTM PPT PPSX OTP
 在将 JSON 解析为 PPTM 时，您还可以通过使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类加载 JSON 来设置行和列的大小。如果您需要为工作表中的所有行设置相同的行高，您可以使用 [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) 集合的方法。同样，要为工作表中的所有列设置相同的列宽，请使用 ICells 集合的 [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) 方法。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: PPS PPSM ODP POWERPOINT POT POTX POTM PPT PPSX OTP
 使用 API，您还可以将 JSON 转换为带水印的 PPTM。为了给你的PPTM文档添加水印，你可以先将JSON解析为PPTX并添加水印。为了添加水印，使用 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 类加载新创建的 PPTX 文件，获取第一张幻灯片，添加Rectangle 类型的 AutoShape，将 TextFrame 添加到 Rectangle，为文本框架创建 Paragraph 对象，为段落创建 Portion 对象，使用 set_Text() 添加水印，可以将文档保存到 PPTM。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

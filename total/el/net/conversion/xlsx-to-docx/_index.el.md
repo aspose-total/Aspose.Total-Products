@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή XLSX σε DOCX με .NET 
 description: Μετατροπή XLSX σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/xlsx-to-docx/
+
 family: total
 platformtag: net
 feature: conversion

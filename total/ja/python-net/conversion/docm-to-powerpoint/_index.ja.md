@@ -1,7 +1,7 @@
 ---
 title: Python で DOCM を POWERPOINT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCM から POWERPOINT への変換 
-url: /ja/python-net/conversion/docm-to-powerpoint/
+
 family: total
 platformtag: Python
 feature: conversion

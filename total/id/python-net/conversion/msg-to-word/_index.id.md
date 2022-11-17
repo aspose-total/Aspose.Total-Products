@@ -1,7 +1,7 @@
 ---
 title: Konversi MSG ke WORD dengan Python
 description: Simpan MSG ke WORD di aplikasi Python Anda tanpa menggunakan Microsoft Outlook atau Word 
-url: /id/python-net/conversion/msg-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

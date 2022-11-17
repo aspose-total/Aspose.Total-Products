@@ -1,7 +1,7 @@
 ---
 title: Převeďte MHTML na OTT v Pythonu
 description: Převod MHTML a HtmlFixed na OTT ve vašich aplikacích Python bez použití aplikace Microsoft Word 
-url: /cs/python-net/conversion/mhtml-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

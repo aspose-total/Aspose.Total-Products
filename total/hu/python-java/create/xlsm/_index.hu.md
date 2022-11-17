@@ -1,7 +1,7 @@
 ---
 title: XLSM létrehozása Pythonban
 description: XLSM-fájl létrehozása Python-alkalmazásokkal Microsoft Office használata nélkül. 
-url: /hu/python-java/create/xlsm/
+
 family: total
 platformtag: Python
 feature: create

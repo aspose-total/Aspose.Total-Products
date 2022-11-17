@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir POTX a WORDML
 description: Exporte POTX a WORDML dentro de sus aplicaciones C++
-url: /es/cpp/conversion/potx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

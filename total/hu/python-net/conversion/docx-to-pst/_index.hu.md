@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t PST-be Pythonban
 description: DOCX mentése PST formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/docx-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

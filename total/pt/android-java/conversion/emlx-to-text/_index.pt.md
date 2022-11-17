@@ -1,7 +1,7 @@
 ---
 title: Renderize EMLX para TEXT no aplicativo Andorid
 description: Exporte EMLX para TEXT sem usar o Microsoft Word ou Outlook em seus aplicativos Andorid
-url: /pt/android-java/conversion/emlx-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

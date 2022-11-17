@@ -1,7 +1,7 @@
 ---
 title: Exportálja a POTM-ot FLATOPC-ba Andoridon Java-n keresztül
 description: Konvertálja a POTM-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül
-url: /hu/android-java/conversion/potm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: API Android để chuyển đổi DOCX sang XLS
 description: Chuyển đổi DOCX sang XLS trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
-url: /vi/android-java/conversion/docx-to-xls/
+
 family: total
 platformtag: cpp
 feature: conversion

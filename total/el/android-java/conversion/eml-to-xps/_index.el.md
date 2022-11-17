@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε XPS στην εφαρμογή Andorid
 description: Εξαγωγή EML σε XPS χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία DOTM σε Python
 description: Δημιουργήστε αρχείο DOTM χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Word. 
-url: /el/python-net/create/dotm/
+
 family: total
 platformtag: Python
 feature: create

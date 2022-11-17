@@ -1,7 +1,7 @@
 ---
 title: Convertir MSG en BMP en Python
 description: Enregistrez MSG au format BMP dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/msg-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

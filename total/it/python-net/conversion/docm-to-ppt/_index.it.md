@@ -1,7 +1,7 @@
 ---
 title: Converti DOCM in PPT in Python
 description: Conversione da DOCM a PPT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/docm-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

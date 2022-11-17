@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EML σε BMP στην εφαρμογή Andorid
 description: Εξαγωγή EML σε BMP χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/eml-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

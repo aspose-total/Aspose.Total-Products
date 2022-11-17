@@ -1,7 +1,7 @@
 ---
 title: Преобразование EML в PCL в приложении Andorid
 description: Экспорт EML в PCL без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/eml-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Convertir EMLX en RTF en Python
 description: Enregistrez EMLX au format RTF dans vos applications Python sans utiliser Microsoft Outlook ou Word 
-url: /fr/python-net/conversion/emlx-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

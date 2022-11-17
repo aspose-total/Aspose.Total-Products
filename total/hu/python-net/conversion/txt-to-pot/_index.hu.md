@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a TXT-t POT-be Pythonban
 description: TXT-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/txt-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

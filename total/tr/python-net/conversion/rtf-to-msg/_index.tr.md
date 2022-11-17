@@ -1,7 +1,7 @@
 ---
 title: Python'da RTF'yi MSG'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında RTF'yi MSG'e kaydedin
-url: /tr/python-net/conversion/rtf-to-msg/
+
 family: total
 platformtag: Python
 feature: conversion

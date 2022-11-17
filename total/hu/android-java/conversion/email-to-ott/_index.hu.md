@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t OTT-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t OTT-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Converteer POWERPOINT naar DOT in Python
 description: POWERPOINT naar DOT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/powerpoint-to-dot/
+
 family: total
 platformtag: Python
 feature: conversion

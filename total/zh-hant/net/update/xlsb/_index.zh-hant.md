@@ -1,7 +1,7 @@
 ---
 title: 使用 .NET 更新 XLSB 文件
 description: 在不使用 Microsoft Excel 的情況下修改 C# VB.NET 應用程序中的 XLSB 文檔。 
-url: /zh-hant/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

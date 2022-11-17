@@ -1,7 +1,7 @@
 ---
 title: 通过 C++ 将 DOC 转换为 PPSX
 description: 在您的 C++ 应用程序中将 DOC 导出为 PPSX，而无需使用 Microsoft Word of PowerPoint
-url: /zh/cpp/conversion/doc-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
 auto options = MakeObject<LoadOptions>(u"docPassword");
 // load the document from the local file system by filename:
 SharedPtr<Document> doc = MakeObject<Document>(u"Encrypted.doc", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsx
 pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをTIFFにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをTIFFにエクスポートする
-url: /ja/android-java/conversion/oft-to-tiff/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをJPEGにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにOFTをJPEGにエクスポートする
-url: /ja/android-java/conversion/oft-to-jpeg/
+
 family: total
 platformtag: cpp
 feature: conversion

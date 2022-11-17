@@ -1,7 +1,7 @@
 ---
 title: Renderuj EMAIL do SVG w aplikacji Andorid
 description: Eksportuj EMAIL do SVG bez używania Microsoft Word lub Outlook w swoich aplikacjach Andorid
-url: /pl/android-java/conversion/email-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

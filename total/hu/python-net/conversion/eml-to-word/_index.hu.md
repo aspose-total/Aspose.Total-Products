@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a EML-t WORD-be Pythonban
 description: Mentse a EML-t WORD formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/eml-to-word/
+
 family: total
 platformtag: Python
 feature: conversion

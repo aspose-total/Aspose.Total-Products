@@ -1,7 +1,7 @@
 ---
 title: Mettre à jour le fichier XLSX à l'aide de Python
 description: Modifiez le document XLSX dans les applications Python sans utiliser Microsoft Excel. 
-url: /fr/python-java/update/xlsx/
+
 family: total
 platformtag: Python
 feature: update

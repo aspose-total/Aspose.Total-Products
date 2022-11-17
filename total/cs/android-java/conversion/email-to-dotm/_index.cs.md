@@ -1,7 +1,7 @@
 ---
 title: Vykreslete EMAIL do DOTM v aplikaci Andorid
 description: Exportujte EMAIL do DOTM bez použití Microsoft Word nebo Outlook ve vašich aplikacích Andorid
-url: /cs/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

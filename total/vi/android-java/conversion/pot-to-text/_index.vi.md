@@ -1,7 +1,7 @@
 ---
 title: Xuất POT sang TEXT trên Andorid qua Java
 description: Chuyển đổi POT sang TEXT trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào
-url: /vi/android-java/conversion/pot-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

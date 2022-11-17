@@ -1,7 +1,7 @@
 ---
 title: Konwertuj MBOX na BMP w Pythonie
 description: Zapisz MBOX w formacie BMP w aplikacjach Pythona bez korzystania z Microsoft Outlook lub Word 
-url: /pl/python-net/conversion/mbox-to-bmp/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLT-et képpé Python segítségével
 description: XLT kép TIFF BMP PNG JPEG GIF EMF SVG konverzió a Python-alkalmazásokban Microsoft Excel használata nélkül 
-url: /hu/python-java/conversion/xlt-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında MSG to DOTX'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan MSG'i DOTX'ye aktarın
-url: /tr/android-java/conversion/msg-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

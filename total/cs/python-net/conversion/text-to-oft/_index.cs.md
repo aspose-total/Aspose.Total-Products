@@ -1,7 +1,7 @@
 ---
 title: Převést TEXT na OFT v Pythonu
 description: Ukládejte TEXT do OFT v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/text-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konwertuj WORDML na EMAIL w Pythonie
 description: Zapisuj WORDML do EMAIL w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/wordml-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

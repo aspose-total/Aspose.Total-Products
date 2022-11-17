@@ -1,7 +1,7 @@
 ---
 title: Converter DOC para EML em Python
 description: Salve DOC para EML em aplicativos Python sem usar o Microsoft Word ou Outlook
-url: /pt/python-net/conversion/doc-to-eml/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: On-premises, cloud- en app-gebaseerde bestandsformaatoplossingen 
 weight: 9630
-url: /nl/
+
 description: Bouw toepassingen voor documentmanipulatie met On Premise of Cloud API's, of gebruik eenvoudig platformonafhankelijke apps om meer dan 100 bestandsindelingen te bekijken, vergelijken, inspecteren of converteren
 ---
 

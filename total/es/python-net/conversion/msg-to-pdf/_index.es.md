@@ -1,7 +1,7 @@
 ---
 title: Convertir MSG a PDF en Python
 description: Guarde MSG en PDF en sus aplicaciones de Python sin usar Microsoft Outlook o Word 
-url: /es/python-net/conversion/msg-to-pdf/
+
 family: total
 platformtag: Python
 feature: conversion

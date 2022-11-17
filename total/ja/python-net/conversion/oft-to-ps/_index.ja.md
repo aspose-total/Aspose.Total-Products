@@ -1,7 +1,7 @@
 ---
 title: Python で OFT を PS に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで OFT を PS に保存します。 
-url: /ja/python-net/conversion/oft-to-ps/
+
 family: total
 platformtag: Python
 feature: conversion

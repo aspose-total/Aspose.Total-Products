@@ -1,7 +1,7 @@
 ---
 title: Ενημερώστε το αρχείο XLTM χρησιμοποιώντας .NET
 description: Τροποποιήστε έγγραφα XLTM σε εφαρμογές C# VB.NET χωρίς τη χρήση του Microsoft Excel. 
-url: /el/net/update/xltm/
+
 family: total
 platformtag: .NET
 feature: update

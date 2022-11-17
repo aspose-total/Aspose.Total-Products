@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till WORD i Andorid-appen
 description: Exportera EMAIL till WORD utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

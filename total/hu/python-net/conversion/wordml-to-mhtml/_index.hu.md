@@ -1,7 +1,7 @@
 ---
 title: WORDML konvertálása MHTML-re Pythonban
 description: WORDML-ből mhtml webarchívum-formátumba és HTML-fix fájlkonverzió a Python-alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/wordml-to-mhtml/
+
 family: total
 platformtag: Python
 feature: conversion

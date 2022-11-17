@@ -1,7 +1,7 @@
 ---
 title: SQL Server Reporting Services-Renderingerweiterungen für Dateiformate 
 weight: 40
-url: /de/reporting-services/ 
+
 description: SQL Server Reporting Services Rendering Extensions für Dateiformate zum Exportieren von RDL-Berichten in Word Excel PDF PowerPoint-Formate. Barcodes zu exportierten Berichten hinzufügen
 ---
 

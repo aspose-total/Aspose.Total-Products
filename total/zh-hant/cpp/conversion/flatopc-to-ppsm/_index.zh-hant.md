@@ -1,7 +1,7 @@
 ---
 title: 通過 C++ 將 FLATOPC 轉換為 PPSM
 description: 在您的 C++ 應用程序中將 FLATOPC 導出為 PPSM，而無需使用 Microsoft Word of PowerPoint
-url: /zh-hant/cpp/conversion/flatopc-to-ppsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -61,7 +61,8 @@ SharedPtr<System::IO::StreamReader>  tr = MakeObject<System::IO::StreamReader>(H
 ParaCollection->AddFromHtml(tr->ReadToEnd());
 // save presentation as Ppsm
 pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);                  
-```
+```
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -75,7 +76,8 @@ pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);
 auto options = MakeObject<LoadOptions>(u"flatopcPassword");
 // load the flatopcument from the local file system by filename:
 SharedPtr<Flatopcument> flatopc = MakeObject<Flatopcument>(u"Encrypted.flatopc", options);
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -100,7 +102,8 @@ author->get_Comments()->AddComment(u"Hello John, this is a slide comment", pres-
 SharedPtr<ISlide> slide = pres->get_Slides()->idx_get(0);
 // save presentation as Ppsm
 pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);  
-```
+```
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Interfejsy API automatyzacji plików C# .NET — Aspose 
 weight: 30
-url: /pl/net/ 
+
 description: C# ASP.NET VB.NET API do tworzenia manipulować konwertować i renderować dowolny typ dokumentów.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Converter VCF para IMAGE em Python
 description: Salve VCF para IMAGE em seus aplicativos Python sem usar o Microsoft Outlook ou Word 
-url: /pt/python-net/conversion/vcf-to-image/
+
 family: total
 platformtag: Python
 feature: conversion

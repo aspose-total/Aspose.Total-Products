@@ -1,7 +1,7 @@
 ---
 title: Konversi IMAGE ke EMLX dengan Python
 description: Simpan IMAGE ke EMLX dalam aplikasi Python tanpa menggunakan Microsoft Word atau Outlook
-url: /id/python-net/conversion/image-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Exportieren Sie POWERPOINT nach FLATOPC auf Andorid über Java
 description: Konvertieren Sie POWERPOINT in FLATOPC in mobilen Apps, ohne Software zu installieren
-url: /de/android-java/conversion/powerpoint-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

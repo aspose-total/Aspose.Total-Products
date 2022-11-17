@@ -1,7 +1,7 @@
 ---
 title: แปลง WORD เป็น PST ใน Python
 description: บันทึก WORD เป็น PST ภายในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Outlook
-url: /th/python-net/conversion/word-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCMにPOTXをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPOTXをDOCMに変換する
-url: /ja/android-java/conversion/potx-to-docm/
+
 family: total
 platformtag: cpp
 feature: conversion

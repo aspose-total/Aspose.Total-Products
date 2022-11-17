@@ -1,7 +1,7 @@
 ---
 title: DOCX'yi DIF'ye Dönüştürmek için Android API
 description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOCX'yi DIF'ye dönüştürün
-url: /tr/android-java/conversion/docx-to-dif/
+
 family: total
 platformtag: cpp
 feature: conversion

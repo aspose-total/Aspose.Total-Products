@@ -1,7 +1,7 @@
 ---
 title: 通過 Java 在 Android 中將 MHTML 轉換為 MD
 description: 在不使用 Microsoft Excel 或 Adobe Reader 的情況下，通過 Java API 在 Android 中將 MHTML 渲染為 MD
-url: /zh-hant/android-java/conversion/mhtml-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: EXCEL XLTM ODS CSV DIF XLT FODS TXT XLTX XLSM XLSB SXC
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: EXCEL XLTM ODS CSV DIF XLT FODS TXT XLTX XLSM XLSB SXC
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) 允許您訪問 MHTML 文件的 XMP 元數據。為了獲取元數據，創建一個 [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 對象並打開輸入 MHTML 文件並使用 [getMetadata()](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) 屬性來獲取元數據。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: EXCEL XLTM ODS CSV DIF XLT FODS TXT XLTX XLSM XLSB SXC
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 支持根據您的需要保護您的 MD 文件。為了保護您的文檔，您可以使用 [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) 方法https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)類。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-md.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-md.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

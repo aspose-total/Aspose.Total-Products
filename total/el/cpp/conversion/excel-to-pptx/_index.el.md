@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή EXCEL σε PPTX με C++
 description: Μετατροπή EXCEL σε PPTX εντός εφαρμογών C++
-url: /el/cpp/conversion/excel-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

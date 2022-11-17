@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji POT na DOT
 description: Eksportuj POT do DOT w swoich aplikacjach C++
-url: /pl/cpp/conversion/pot-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++でCSVをPPTXに変換する
 description: C++アプリケーション内でCSVをPPTXに変換する
-url: /ja/cpp/conversion/csv-to-pptx/
+
 family: total
 platformtag: cpp
 feature: conversion

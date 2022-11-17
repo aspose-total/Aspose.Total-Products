@@ -1,6 +1,6 @@
 ---
 title: Konvertera POT till DOCX via C# .NET 
-url: /sv/net/conversion/pot-to-docx/ 
+
 description: Konvertera PowerPoint pot-dokument till Word-docx-filer med C#. Konvertera flera filer inom ASP.NET eller andra .NET-program.
 ---
 

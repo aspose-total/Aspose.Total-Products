@@ -1,7 +1,7 @@
 ---
 title: تصدير TSV إلى DOCX في Android
 description: Android API لتحويل TSV إلى DOCX دون استخدام Microsoft Word
-url: /ar/android-java/conversion/tsv-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Преобразование OTT в MBOX в Python
 description: Сохраняйте OTT в MBOX в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/ott-to-mbox/
+
 family: total
 platformtag: Python
 feature: conversion

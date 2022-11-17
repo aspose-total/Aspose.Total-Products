@@ -1,7 +1,7 @@
 ---
 title: Převést DOCX na PPSX přes C++
 description: Exportujte DOCX do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint
-url: /cs/cpp/conversion/docx-to-ppsx/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: POT PPT POTX PPTX PPS PPSM POWERPOINT PPTM POTM ODP
 {{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOCX na PPSX" h2="Exportujte DOCX do PPSX v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCX na PPSX při použití dvou z těchto rozhraní API. Načtěte svůj DOCX pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++]( https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako PPSX. 
+[Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCX na PPSX při použití dvou z těchto rozhraní API. Načtěte svůj DOCX pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako PPSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

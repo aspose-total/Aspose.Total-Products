@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMLX to PDF'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMLX'i PDF'ye aktarın
-url: /tr/android-java/conversion/emlx-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

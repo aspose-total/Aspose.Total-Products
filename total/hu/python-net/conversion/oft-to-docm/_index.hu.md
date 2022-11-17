@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a OFT-t DOCM-be Pythonban
 description: Mentse a OFT-t DOCM formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/oft-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

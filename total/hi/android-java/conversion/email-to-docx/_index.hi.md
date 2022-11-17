@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में DOCX को EMAIL रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना EMAIL को DOCX में निर्यात करें
-url: /hi/android-java/conversion/email-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

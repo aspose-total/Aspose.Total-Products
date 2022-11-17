@@ -1,6 +1,6 @@
 ---
 title: تحويل FLATOPC إلى PPS عبر C# .NET 
-url: /ar/net/conversion/flatopc-to-pps/ 
+
 description: تحويل مستندات Word flatopc إلى ملفات PowerPoint pps باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

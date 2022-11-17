@@ -1,7 +1,7 @@
 ---
 title: Create TSV Using Python
 description: Generate Microsoft Excel TSV documents using Python applications without using Microsoft Office. 
-url: /python-java/create/tsv/
+
 family: total
 platformtag: Python
 feature: create

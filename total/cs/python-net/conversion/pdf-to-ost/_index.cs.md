@@ -1,7 +1,7 @@
 ---
 title: Převést PDF na OST v Pythonu
 description: Ukládejte PDF do OST v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/pdf-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

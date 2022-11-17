@@ -1,7 +1,7 @@
 ---
 title: Python で FLATOPC を EMLX に変換する
 description: Microsoft Word や Outlook を使用せずに、Python アプリケーション内で FLATOPC を EMLX に保存します。
-url: /ja/python-net/conversion/flatopc-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

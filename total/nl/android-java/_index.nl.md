@@ -1,7 +1,7 @@
 ---
 title: API's voor verwerking van Android-bestandsindelingen voor mobiele apps - Aspose 
 weight: 50
-url: /nl/android-java/ 
+
 description: Android-bestandsindeling-API's voor Word Excel PDF PowerPoint en e-mails. Maak programmatisch bewerkingsweergave en converteer documentindelingen in mobiele apps
 ---
 

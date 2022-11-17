@@ -1,7 +1,7 @@
 ---
 title: Python'da MSG'yi TEXT'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda MSG'yi TEXT'e kaydedin 
-url: /tr/python-net/conversion/msg-to-text/
+
 family: total
 platformtag: Python
 feature: conversion

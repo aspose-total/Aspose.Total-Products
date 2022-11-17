@@ -1,7 +1,7 @@
 ---
 title: C++ API om PPT naar TEXT te converteren
 description: Exporteer PPT naar TEXT binnen uw C++-toepassingen
-url: /nl/cpp/conversion/ppt-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

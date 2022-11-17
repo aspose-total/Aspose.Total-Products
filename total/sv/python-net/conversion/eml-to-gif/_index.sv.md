@@ -1,7 +1,7 @@
 ---
 title: Konvertera EML till GIF i Python
 description: Spara EML till GIF i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/eml-to-gif/
+
 family: total
 platformtag: Python
 feature: conversion

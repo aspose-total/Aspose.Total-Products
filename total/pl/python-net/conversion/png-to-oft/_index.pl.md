@@ -1,7 +1,7 @@
 ---
 title: Konwertuj PNG na OFT w Pythonie
 description: Zapisuj PNG do OFT w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/png-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

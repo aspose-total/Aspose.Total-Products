@@ -1,6 +1,6 @@
 ---
 title: แปลง RTF เป็น POT ผ่าน C# .NET 
-url: /th/net/conversion/rtf-to-pot/ 
+
 description: แปลงเอกสาร Word rtf เป็นไฟล์ PowerPoint pot ด้วย C# แปลงไฟล์หลายไฟล์ภายใน ASP.NET หรือแอปพลิเคชัน .NET อื่นๆ
 ---
 

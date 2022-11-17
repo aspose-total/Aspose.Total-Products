@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi FLATOPC sang PPTM qua C# .NET 
-url: /vi/net/conversion/flatopc-to-pptm/ 
+
 description: Chuyển đổi tài liệu Word flatopc sang tệp pptm PowerPoint bằng C#. Chuyển đổi nhiều tệp trong ASP.NET hoặc các ứng dụng .NET khác.
 ---
 

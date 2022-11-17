@@ -1,7 +1,7 @@
 ---
 title: Python'da MHTML'yi OTT'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word kullanmadan MHTML ve HtmlFixed'den OTT'e dönüştürme 
-url: /tr/python-net/conversion/mhtml-to-ott/
+
 family: total
 platformtag: Python
 feature: conversion

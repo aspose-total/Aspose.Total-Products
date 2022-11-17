@@ -1,7 +1,7 @@
 ---
 title: Převést EPUB na OFT v Pythonu
 description: Ukládejte EPUB do OFT v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/epub-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

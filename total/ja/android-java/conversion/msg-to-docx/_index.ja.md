@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをDOCXにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにMSGをDOCXにエクスポートする
-url: /ja/android-java/conversion/msg-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

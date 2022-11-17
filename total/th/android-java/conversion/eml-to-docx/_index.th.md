@@ -1,7 +1,7 @@
 ---
 title: แสดงผล EML เป็น DOCX ใน Andorid App
 description: ส่งออก EML เป็น DOCX โดยไม่ต้องใช้ Microsoft Word หรือ Outlook ในแอปพลิเคชัน Andorid ของคุณ
-url: /th/android-java/conversion/eml-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

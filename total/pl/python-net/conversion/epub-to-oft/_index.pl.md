@@ -1,7 +1,7 @@
 ---
 title: Konwertuj EPUB na OFT w Pythonie
 description: Zapisuj EPUB do OFT w aplikacjach Pythona bez używania Microsoft Word lub Outlook
-url: /pl/python-net/conversion/epub-to-oft/
+
 family: total
 platformtag: Python
 feature: conversion

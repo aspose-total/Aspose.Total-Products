@@ -1,7 +1,7 @@
 ---
 title: Javaを介してAndroidでXMLをFODSに変換する
 description: MicrosoftExcelまたはAdobeReaderを使用せずに、JavaAPIを介してAndroidでXMLをFODSにレンダリングする
-url: /ja/android-java/conversion/xml-to-fods/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: ODS XLTM CSV TXT XLSM XLSB EXCEL XLT MD XLAM TSV SXC
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: ODS XLTM CSV TXT XLSM XLSB EXCEL XLT MD XLAM TSV SXC
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用すると、XMLファイルのXMPメタデータにアクセスできます。メタデータを取得するには、[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)オブジェクトを作成し、入力XMLファイルを開いて[getMetadata（)]を使用します。 （https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--)メタデータを取得するためのプロパティ。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: ODS XLTM CSV TXT XLSM XLSB EXCEL XLT MD XLAM TSV SXC
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)は、ニーズに応じてFODSファイルの保護をサポートします。ドキュメントを保護するには、[Workbook](の[protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String))メソッドを使用できます。 https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラス。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-fods.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-fods.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

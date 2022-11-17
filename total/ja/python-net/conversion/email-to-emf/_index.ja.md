@@ -1,7 +1,7 @@
 ---
 title: Python で EMAIL を EMF に変換する
 description: Microsoft Outlook や Word を使用せずに、Python アプリケーションで EMAIL を EMF に保存します。 
-url: /ja/python-net/conversion/email-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

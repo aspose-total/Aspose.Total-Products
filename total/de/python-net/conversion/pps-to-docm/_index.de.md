@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie PPS in DOCM in Python
 description: Konvertierung von PPS in DOCM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/pps-to-docm/
+
 family: total
 platformtag: Python
 feature: conversion

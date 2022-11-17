@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till MD i Andorid-appen
 description: Exportera OFT till MD utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till TEXT i Andorid-appen
 description: Exportera EMAIL till TEXT utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

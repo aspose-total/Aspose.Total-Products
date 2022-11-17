@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中将 OFT 渲染为 SVG
 description: 在您的 Andorid 应用程序中不使用 Microsoft Word 或 Outlook 将 OFT 导出为 SVG
-url: /zh/android-java/conversion/oft-to-svg/
+
 family: total
 platformtag: cpp
 feature: conversion

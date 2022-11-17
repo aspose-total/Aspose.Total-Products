@@ -1,7 +1,7 @@
 ---
 title: Converti TSV in WORD con .NET 
 description: Converti TSV in WORD su piattaforme .NET Framework, .NET Core, Mono o Xamarin
-url: /it/net/conversion/tsv-to-word/
+
 family: total
 platformtag: net
 feature: conversion

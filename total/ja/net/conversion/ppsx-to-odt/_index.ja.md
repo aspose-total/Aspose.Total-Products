@@ -1,6 +1,6 @@
 ---
 title: C＃.NETを介してPPSXをODTに変換する 
-url: /ja/net/conversion/ppsx-to-odt/ 
+
 description: PowerPointのppsxドキュメントをC＃を使用してWordのドキュメントファイルに変換します。 ASP.NETまたは他の.NETアプリケーション内で複数のファイルを変換します。
 ---
 

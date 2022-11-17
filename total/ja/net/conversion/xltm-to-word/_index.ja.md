@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTMをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをWORDに変換する
-url: /ja/net/conversion/xltm-to-word/
+
 family: total
 platformtag: net
 feature: conversion

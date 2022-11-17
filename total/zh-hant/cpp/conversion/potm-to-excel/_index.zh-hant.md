@@ -1,7 +1,7 @@
 ---
 title: 通過 C++ 將 POTM 轉換為 EXCEL
 description: 在 C++ 中將 POTM 導出為 EXCEL，而不使用 Microsoft Excel 或 Powerpoint
-url: /zh-hant/cpp/conversion/potm-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-powerpoint-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
 使用 API，您還可以打開受密碼保護的文檔。如果您輸入的 POTM 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 EXCEL。當您的文檔受密碼保護時，這意味著它對演示文稿實施了某些限制。要取消限制，必須輸入密碼。受密碼保護的演示文稿被視為鎖定演示文稿。 API 允許您通過在 LoadOptions 對像中傳遞正確的密碼來打開加密的文檔。以下代碼示例顯示如何使用密碼打開加密文檔。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+{{< gist "aspose-com-gists" "217670779ea75b8d0bc3ff82b38605c6" "convert-protected-powerpoint-to-excel.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

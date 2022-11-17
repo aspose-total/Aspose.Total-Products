@@ -1,7 +1,7 @@
 ---
 title: Skicka OFT till WORD i Andorid-appen
 description: Exportera OFT till WORD utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

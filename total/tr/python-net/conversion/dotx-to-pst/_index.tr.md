@@ -1,7 +1,7 @@
 ---
 title: Python'da DOTX'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında DOTX'yi PST'e kaydedin
-url: /tr/python-net/conversion/dotx-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

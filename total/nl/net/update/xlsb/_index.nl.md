@@ -1,7 +1,7 @@
 ---
 title: XLSB-bestand bijwerken met .NET
 description: Wijzig XLSB-documenten in C# VB.NET-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/net/update/xlsb/
+
 family: total
 platformtag: .NET
 feature: update

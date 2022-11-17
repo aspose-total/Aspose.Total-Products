@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EML-t PDF-nek az Andorid alkalmazásban
 description: Exportálja az EML-t PDF-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/eml-to-pdf/
+
 family: total
 platformtag: cpp
 feature: conversion

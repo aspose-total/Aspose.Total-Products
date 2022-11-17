@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EMAIL to DOTM'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EMAIL'i DOTM'ye aktarın
-url: /tr/android-java/conversion/email-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

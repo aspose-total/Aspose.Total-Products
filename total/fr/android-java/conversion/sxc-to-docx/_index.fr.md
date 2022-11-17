@@ -1,7 +1,7 @@
 ---
 title: Exporter SXC vers DOCX dans Android
 description: API Android pour convertir SXC en DOCX sans utiliser Microsoft Word
-url: /fr/android-java/conversion/sxc-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

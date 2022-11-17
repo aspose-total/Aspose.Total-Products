@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή DOCX σε POWERPOINT στο Android μέσω Java
 description: Μετατροπή DOCX σε POWERPOINT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
-url: /el/android-java/conversion/docx-to-powerpoint/
+
 family: total
 platformtag: cpp
 feature: conversion

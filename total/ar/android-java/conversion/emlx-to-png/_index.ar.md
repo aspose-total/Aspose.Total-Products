@@ -1,7 +1,7 @@
 ---
 title: تقديم البريد الإلكتروني إلى PNG في تطبيق Andorid
 description: قم بتصدير EMLX إلى PNG دون استخدام Microsoft Word أو Outlook في تطبيقات Andorid الخاصة بك
-url: /ar/android-java/conversion/emlx-to-png/
+
 family: total
 platformtag: cpp
 feature: conversion

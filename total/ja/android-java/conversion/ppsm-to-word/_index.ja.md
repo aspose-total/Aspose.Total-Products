@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのWORDにPPSMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPSMをWORDに変換する
-url: /ja/android-java/conversion/ppsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

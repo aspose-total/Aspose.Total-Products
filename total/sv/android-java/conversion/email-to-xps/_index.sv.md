@@ -1,7 +1,7 @@
 ---
 title: Skicka EMAIL till XPS i Andorid-appen
 description: Exportera EMAIL till XPS utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/email-to-xps/
+
 family: total
 platformtag: cpp
 feature: conversion

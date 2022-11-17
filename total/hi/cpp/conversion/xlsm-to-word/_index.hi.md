@@ -1,7 +1,7 @@
 ---
 title: C++ के साथ XLSM को WORD में बदलें
 description: C++ अनुप्रयोगों के भीतर XLSM को WORD में बदलें
-url: /hi/cpp/conversion/xlsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

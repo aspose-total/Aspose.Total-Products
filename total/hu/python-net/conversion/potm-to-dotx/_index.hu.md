@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a POTM-t DOTX-be Pythonban
 description: POTM-ből DOTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
-url: /hu/python-net/conversion/potm-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

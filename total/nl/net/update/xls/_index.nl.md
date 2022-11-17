@@ -1,7 +1,7 @@
 ---
 title: XLS-bestand bijwerken met .NET
 description: Wijzig XLS-documenten in C# VB.NET-toepassingen zonder Microsoft Excel te gebruiken. 
-url: /nl/net/update/xls/
+
 family: total
 platformtag: .NET
 feature: update

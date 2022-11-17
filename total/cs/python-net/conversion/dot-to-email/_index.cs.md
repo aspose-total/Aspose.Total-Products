@@ -1,7 +1,7 @@
 ---
 title: Převést DOT na EMAIL v Pythonu
 description: Ukládejte DOT do EMAIL v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/dot-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python で XLTM を作成する
 description: Microsoft Office を使用せずに、Python アプリケーションを使用して XLTM ファイルを生成します。 
-url: /ja/python-java/create/xltm/
+
 family: total
 platformtag: Python
 feature: create

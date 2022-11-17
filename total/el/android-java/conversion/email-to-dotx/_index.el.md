@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε DOTX στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε DOTX χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

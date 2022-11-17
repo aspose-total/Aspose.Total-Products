@@ -1,7 +1,7 @@
 ---
 title: जावा के माध्यम से एंड्रॉइड में सीजीएम को सीएसवी में कनवर्ट करें
 description: माइक्रोसॉफ्ट एक्सेल या एडोब रीडर का उपयोग किए बिना जावा एपीआई के माध्यम से एंड्रॉइड में सीएसवी को सीजीएम प्रस्तुत करें
-url: /hi/android-java/conversion/xps-to-excel/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: DIF XLT TSV ODS TXT SXC XLTX XLSM CSV FODS XLAM XLSB
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "convert-pdf-to-excel.java" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: DIF XLT TSV ODS TXT SXC XLTX XLSM CSV FODS XLAM XLSB
 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) आपको XPS फ़ाइल के XMP मेटाडेटा तक पहुंचने की अनुमति देता है। मेटाडेटा प्राप्त करने के लिए, एक [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) ऑब्जेक्ट बनाएं और इनपुट XPS फ़ाइल खोलें और [getMetadata()] का उपयोग करें (https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#getMetadata--) संपत्ति मेटाडेटा प्राप्त करने के लिए।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "get-pdf-xmp-metadata.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ otherformats: DIF XLT TSV ODS TXT SXC XLTX XLSM CSV FODS XLAM XLSB
 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) आपकी ज़रूरतों के आधार पर आपकी EXCEL फ़ाइल की सुरक्षा का समर्थन करता है। अपने दस्तावेज़ की सुरक्षा के लिए आप [workbook] की [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) विधि का उपयोग कर सकते हैं। https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) वर्ग।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-excel.java" >}}
+{{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-excel.java" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: AndoridアプリでメールをEPUBにレンダリングする
 description: AndoridアプリケーションでMicrosoftWordまたはOutlookを使用せずにEMLXをEPUBにエクスポートする
-url: /ja/android-java/conversion/emlx-to-epub/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: C++ API a PPSX DOCX formátumba konvertálásához
 description: Exportálja a PPSX-ot DOCX-ba a C++ alkalmazásaiban
-url: /hu/cpp/conversion/ppsx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

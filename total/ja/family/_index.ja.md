@@ -1,12 +1,12 @@
 ---
 title: 複数のプラットフォーム用のファイル形式自動化API-Aspose 
 weight: 10
-url: /ja/family/
-description: Microsoft ExcelWordPowerPoint電子メールPDFVisioプロジェクトバーコードOCRImagingOneNote 3DおよびCAD操作API（.NET、Java、Android、C ++用）。 SharePointのコンポーネント、Reporting Servicesの拡張機能、JasperReportsのエクスポーター。
+
+description: Microsoft ExcelWordPowerPoint電子メールPDFVisioプロジェクトバーコードOCRImagingOneNote 3DおよびCAD操作API（.NET、Java、Android、C++用）。 SharePointのコンポーネント、Reporting Servicesの拡張機能、JasperReportsのエクスポーター。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ファイル形式操作APIの完全なセット" h2=".NET、Java、Android、C ++、およびその他のプラットフォーム用のネイティブAPIを使用して、Word、Excel、PDF、PowerPoint、Outlook、および100を超えるその他のファイル形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ファイル形式操作APIの完全なセット" h2=".NET、Java、Android、C++、およびその他のプラットフォーム用のネイティブAPIを使用して、Word、Excel、PDF、PowerPoint、Outlook、および100を超えるその他のファイル形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TotalProductFamilyに含まれるもの" >}}
@@ -20,7 +20,7 @@ Windowsフォーム、ASP.NET、WPF、WCF、または.NETFramework2.0以降に�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/ja/cpp" >}}
-C ++アプリケーションで、Word文書、Excelスプレッドシート、PowerPointプレゼンテーション、電子メールメッセージ、PDFファイルを作成、操作、変換、またはレンダリングします。
+C++アプリケーションで、Word文書、Excelスプレッドシート、PowerPointプレゼンテーション、電子メールメッセージ、PDFファイルを作成、操作、変換、またはレンダリングします。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/ja/android-java" >}}

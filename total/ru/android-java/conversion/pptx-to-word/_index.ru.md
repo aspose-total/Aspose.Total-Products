@@ -1,7 +1,7 @@
 ---
 title: Экспорт PPTX в WORD на Andorid через Java
 description: Конвертируйте PPTX в WORD в мобильных приложениях без установки какого-либо программного обеспечения
-url: /ru/android-java/conversion/pptx-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: .NET Dosya Biçimi İşleme API'leri aracılığıyla Python - Aspose 
-url: /tr/python-net/
+
 url_ignore: /python-net/ 
 description: Python uygulamalarının içinden Microsoft Word belgeleri, PowerPoint sunumları ve Outlook e-posta biçimleri için Python API'leri.
 ---

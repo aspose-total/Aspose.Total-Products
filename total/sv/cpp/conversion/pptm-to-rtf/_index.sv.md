@@ -1,7 +1,7 @@
 ---
 title: C++ API för att konvertera PPTM till RTF
 description: Exportera PPTM till RTF i dina C++-applikationer
-url: /sv/cpp/conversion/pptm-to-rtf/
+
 family: total
 platformtag: cpp
 feature: conversion

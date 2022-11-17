@@ -1,7 +1,7 @@
 ---
 title: تحويل MSG إلى XPS في Python
 description: احفظ MSG في XPS في تطبيقات Python دون استخدام Microsoft Outlook أو Word 
-url: /ar/python-net/conversion/msg-to-xps/
+
 family: total
 platformtag: Python
 feature: conversion

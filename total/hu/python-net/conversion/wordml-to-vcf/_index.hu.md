@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a WORDML-t VCF-be Pythonban
 description: WORDML mentése VCF formátumba Python alkalmazásokban Microsoft Word vagy Outlook használata nélkül
-url: /hu/python-net/conversion/wordml-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

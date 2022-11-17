@@ -1,7 +1,7 @@
 ---
 title: Converti ODT in PPTM in Python
 description: Conversione da ODT a PPTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
-url: /it/python-net/conversion/odt-to-pptm/
+
 family: total
 platformtag: Python
 feature: conversion

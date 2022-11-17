@@ -1,7 +1,7 @@
 ---
 title: Konvertálja az WORD-et képekké Pythonban
 description: WORD kép TIFF BMP PNG JPEG GIF SVG konverzió a Python alkalmazásokban Microsoft Word használata nélkül 
-url: /hu/python-net/conversion/word-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

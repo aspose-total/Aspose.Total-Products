@@ -1,7 +1,7 @@
 ---
 title: Převést OTT na ICS v Pythonu
 description: Ukládejte OTT do ICS v aplikacích Python bez použití Microsoft Word nebo Outlook
-url: /cs/python-net/conversion/ott-to-ics/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中创建 CSV
 description: 在不使用 Microsoft Office 的情况下使用 Python 应用程序生成 CSV 文件。 
-url: /zh/python-java/create/csv/
+
 family: total
 platformtag: Python
 feature: create

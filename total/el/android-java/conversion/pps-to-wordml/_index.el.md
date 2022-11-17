@@ -1,7 +1,7 @@
 ---
 title: Εξαγωγή PPS σε WORDML στο Andorid μέσω Java
 description: Μετατρέψτε το PPS σε WORDML σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
-url: /el/android-java/conversion/pps-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

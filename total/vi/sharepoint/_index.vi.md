@@ -1,7 +1,7 @@
 ---
 title: Ứng dụng định dạng tệp SharePoint - Chuyển đổi tài liệu trong ứng dụng SharePoint 
 weight: 20
-url: /vi/sharepoint/ 
+
 description: Định dạng tệp SharePoint Ứng dụng để chuyển đổi và kết hợp các định dạng tài liệu Word Excel PDF PowerPoint Email và hình ảnh trong Microsoft SharePoint
 ---
 

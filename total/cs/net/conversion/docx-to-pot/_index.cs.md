@@ -1,6 +1,6 @@
 ---
 title: Převést DOCX na POT přes C# .NET 
-url: /cs/net/conversion/docx-to-pot/ 
+
 description: Převeďte dokumenty Word docx na soubory PowerPoint pot pomocí C#. Převeďte více souborů v rámci ASP.NET nebo jiných aplikací .NET.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Dokumentumkonverzió Android API-n keresztül 
-url: /hu/android-java/conversion/
+
 description: Konvertálja a Word, Excel, PowerPoint, HTML, PDF és képformátumokat az Android konverziós API segítségével. Az Android az Office docx, xlsx, pptx fájlokat PDF formátumba konvertálja. 
 ---
 

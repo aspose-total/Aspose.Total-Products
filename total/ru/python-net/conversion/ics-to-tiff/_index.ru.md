@@ -1,7 +1,7 @@
 ---
 title: Преобразование ICS в TIFF в Python
 description: Сохраняйте ICS в TIFF в своих приложениях Python без использования Microsoft Outlook или Word. 
-url: /ru/python-net/conversion/ics-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

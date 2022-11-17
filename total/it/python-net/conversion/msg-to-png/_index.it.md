@@ -1,7 +1,7 @@
 ---
 title: Converti MSG in PNG in Python
 description: Salva MSG in PNG nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/msg-to-png/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a DOCX-t SXC-vé C++-ban
 description: C++ API a DOCX konvertálásához SXC-vé Microsoft Word vagy Microsoft Excel használata nélkül
-url: /hu/cpp/conversion/docx-to-sxc/
+
 family: total
 platformtag: cpp
 feature: conversion

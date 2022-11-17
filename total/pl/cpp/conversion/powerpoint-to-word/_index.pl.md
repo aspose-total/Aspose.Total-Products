@@ -1,7 +1,7 @@
 ---
 title: C++ API do konwersji POWERPOINT na WORD
 description: Eksportuj POWERPOINT do WORD w swoich aplikacjach C++
-url: /pl/cpp/conversion/powerpoint-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

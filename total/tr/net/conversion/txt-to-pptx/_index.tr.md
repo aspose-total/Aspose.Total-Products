@@ -1,6 +1,6 @@
 ---
 title: TXT'yi C# .NET aracılığıyla PPTX'ye dönüştürün 
-url: /tr/net/conversion/txt-to-pptx/ 
+
 description: C# ile Word txt belgelerini PowerPoint pptx dosyalarına dönüştürün. ASP.NET veya diğer .NET uygulamaları içinde birden çok dosyayı dönüştürün.
 ---
 

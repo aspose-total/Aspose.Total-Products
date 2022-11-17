@@ -1,7 +1,7 @@
 ---
 title: C++ के साथ ODS को WORD में बदलें
 description: C++ अनुप्रयोगों के भीतर ODS को WORD में बदलें
-url: /hi/cpp/conversion/ods-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تصدير PPS إلى DOTM على Andorid عبر Java
 description: قم بتحويل PPS إلى DOTM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
-url: /ar/android-java/conversion/pps-to-dotm/
+
 family: total
 platformtag: cpp
 feature: conversion

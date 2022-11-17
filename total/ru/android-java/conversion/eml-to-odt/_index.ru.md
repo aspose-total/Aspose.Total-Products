@@ -1,7 +1,7 @@
 ---
 title: Преобразование EML в ODT в приложении Andorid
 description: Экспорт EML в ODT без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/eml-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

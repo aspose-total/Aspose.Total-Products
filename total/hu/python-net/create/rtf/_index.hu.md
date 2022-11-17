@@ -1,7 +1,7 @@
 ---
 title: RTF létrehozása Pythonban
 description: RTF-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/rtf/
+
 family: total
 platformtag: Python
 feature: create

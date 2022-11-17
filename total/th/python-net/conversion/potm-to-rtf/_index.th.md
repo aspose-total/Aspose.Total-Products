@@ -1,7 +1,7 @@
 ---
 title: แปลง POTM เป็น RTF ใน Python
 description: การแปลง POTM เป็น RTF ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint 
-url: /th/python-net/conversion/potm-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

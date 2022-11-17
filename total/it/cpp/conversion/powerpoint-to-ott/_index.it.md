@@ -1,7 +1,7 @@
 ---
 title: API C++ per convertire POWERPOINT in OTT
 description: Esporta POWERPOINT in OTT all'interno delle tue applicazioni C++
-url: /it/cpp/conversion/powerpoint-to-ott/
+
 family: total
 platformtag: cpp
 feature: conversion

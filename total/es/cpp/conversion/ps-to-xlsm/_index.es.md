@@ -1,7 +1,7 @@
 ---
 title: API de C++ para convertir PS a XLSM
 description: Convierta PS a XLSM a través de la API de C++ sin usar Microsoft Excel o Adobe Reader
-url: /es/cpp/conversion/ps-to-xlsm/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -13,7 +13,7 @@ otherformats: FODS XLT MD EXCEL DIF CSV ODS TXT XLSB XLTX XLTM XLAM
 {{< blocks/products/pf/feature-page-header h1="Renderizar PS a XLSM en aplicaciones C++" h2="Convierta PS a XLSM en aplicaciones C++ nativas sin necesidad de Microsoft<sup>&reg;</sup> Excel o Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Convertir PS a XLSM en C++ a través de las bibliotecas de automatización de formato de archivo [Aspose.Total for C++](https://products.aspose.com/total/cpp/) es un proceso simple de dos pasos. En el primer paso, puede exportar PS a XLSX usando [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), luego, usando [Aspose.Cells for C++]( https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir XLSX a XLSM. 
+Convertir PS a XLSM en C++ a través de las bibliotecas de automatización de formato de archivo [Aspose.Total for C++](https://products.aspose.com/total/cpp/) es un proceso simple de dos pasos. En el primer paso, puede exportar PS a XLSX usando [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), luego, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir XLSX a XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -32,7 +32,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "convert-pdf-to-excel.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) también le permite obtener información sobre su documento PS y le permite tomar decisiones informadas antes de su proceso de conversión. Para obtener información específica de un archivo PS, primero debe llamar al método [get_Info()](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#ae7a6ba620499ffa0dbaa5c813ee96c4a) de [Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document) clase. Una vez que se recupera el objeto DocumentInfo, puede obtener los valores de las propiedades individuales. Además, también puede establecer las propiedades utilizando los métodos respectivos de la clase DocumentInfo.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "get-pdf-information.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 [Aspose.Cells for C++](https://products.aspose.com/cells/net/) permite guardar el formato de archivo XLSM para transmitir. Para guardar archivos en una secuencia, cree un objeto MemoryStream o FileStream y guarde el archivo en ese objeto de secuencia llamando al [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) del objeto. Especifique el formato de archivo deseado mediante la enumeración [SaveFormat](https://reference.aspose.com/cells/cpp/namespace/aspose.cells#a11cae527e4e68f1adcac8f47ea64481a) al llamar al método Save.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xlsm-to-stream.cpp" >}}
+{{< gist "aspose-com-gists" "9acc2aa5d80558015276a9ba295cd309" "save-xlsm-to-stream.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u ODT'a aktarın
 description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u ODT'ye dönüştürün
-url: /tr/android-java/conversion/potm-to-odt/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: แปลง TSV เป็นรูปภาพโดยใช้ Python
 description: TSV เป็นรูปภาพ TIFF BMP PNG JPEG GIF EMF การแปลง SVG ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Excel 
-url: /th/python-java/conversion/tsv-to-images/
+
 family: total
 platformtag: Python
 feature: conversion

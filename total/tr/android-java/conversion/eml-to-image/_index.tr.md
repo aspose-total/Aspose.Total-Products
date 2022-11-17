@@ -1,7 +1,7 @@
 ---
 title: Andorid Uygulamasında EML to IMAGE'ye dönüştürün
 description: Andorid uygulamalarınızda Microsoft Word veya Outlook kullanmadan EML'i IMAGE'ye aktarın
-url: /tr/android-java/conversion/eml-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

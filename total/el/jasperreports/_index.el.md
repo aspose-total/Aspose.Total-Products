@@ -1,7 +1,7 @@
 ---
 title: JasperReports Exporters Suite - Δημιουργία αναφορών σε μορφές επιχειρηματικών εγγράφων
 weight: 80
-url: /el/jasperreports/ 
+
 description: Το JasperReports εξάγει τη σουίτα σε εξαγωγές αναφορών σε μορφές Word Excel PDF και PowerPoint. Προσθέστε γραμμωτούς κώδικες στις αναφορές που έχουν εξαχθεί
 ---
 

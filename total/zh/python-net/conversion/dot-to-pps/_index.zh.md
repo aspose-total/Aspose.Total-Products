@@ -1,7 +1,7 @@
 ---
 title: 在 Python 中将 DOT 转换为 PPS
 description: 在 Python 应用程序中将 DOT 转换为 PPS，而无需使用 Microsoft Word 或 PowerPoint 
-url: /zh/python-net/conversion/dot-to-pps/
+
 family: total
 platformtag: Python
 feature: conversion

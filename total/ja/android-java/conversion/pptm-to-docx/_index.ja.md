@@ -1,7 +1,7 @@
 ---
 title: Java経由でAndoridのDOCXにPPTMをエクスポートする
 description: ソフトウェアをインストールせずにモバイルアプリでPPTMをDOCXに変換する
-url: /ja/android-java/conversion/pptm-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

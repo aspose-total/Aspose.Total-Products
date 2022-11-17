@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMLX в WORDML в приложении Andorid
 description: Экспорт EMLX в WORDML без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/emlx-to-wordml/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Python'da PST'yi TIFF'e Dönüştür
 description: Microsoft Outlook veya Word kullanmadan Python uygulamalarınızda PST'yi TIFF'e kaydedin 
-url: /tr/python-net/conversion/pst-to-tiff/
+
 family: total
 platformtag: Python
 feature: conversion

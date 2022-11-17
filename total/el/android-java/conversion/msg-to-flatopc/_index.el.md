@@ -1,7 +1,7 @@
 ---
 title: Απόδοση MSG σε FLATOPC στην εφαρμογή Andorid
 description: Εξαγωγή MSG σε FLATOPC χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/msg-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

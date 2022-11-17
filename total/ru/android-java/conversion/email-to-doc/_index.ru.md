@@ -1,7 +1,7 @@
 ---
 title: Преобразование EMAIL в DOC в приложении Andorid
 description: Экспорт EMAIL в DOC без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/email-to-doc/
+
 family: total
 platformtag: cpp
 feature: conversion

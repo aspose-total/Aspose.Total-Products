@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a CSV-t WORD-ba a C++ segítségével
 description: A CSV konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/csv-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

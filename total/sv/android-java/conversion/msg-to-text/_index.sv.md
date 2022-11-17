@@ -1,7 +1,7 @@
 ---
 title: Skicka MSG till TEXT i Andorid-appen
 description: Exportera MSG till TEXT utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/msg-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

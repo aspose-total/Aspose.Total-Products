@@ -1,7 +1,7 @@
 ---
 title: DOCX को C++ के माध्यम से PPT में बदलें
 description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में DOCX को PPT में निर्यात करें
-url: /hi/cpp/conversion/docx-to-ppt/
+
 family: total
 platformtag: cpp
 feature: conversion

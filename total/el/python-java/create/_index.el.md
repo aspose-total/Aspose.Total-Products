@@ -1,6 +1,6 @@
 ---
 title: Δημιουργήστε και ενημερώστε αρχεία Microsoft Excel χρησιμοποιώντας Python 
-url: /el/python-java/create/
+
 description: Δημιουργήστε αναφορές φύλλου εργασίας του Microsoft Excel χωρίς να εγκαταστήσετε το Microsoft Office 
 ---
 

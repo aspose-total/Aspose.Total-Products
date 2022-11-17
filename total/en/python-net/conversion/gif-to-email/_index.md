@@ -1,7 +1,7 @@
 ---
 title: Convert EMAIL to EMAIL in Python
 description: Save EMAIL to EMAIL within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/gif-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

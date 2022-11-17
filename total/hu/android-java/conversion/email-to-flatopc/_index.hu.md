@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMAIL-t FLATOPC-nek az Andorid alkalmazásban
 description: Exportálja az EMAIL-t FLATOPC-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/email-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

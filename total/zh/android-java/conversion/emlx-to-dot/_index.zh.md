@@ -1,7 +1,7 @@
 ---
 title: 在 Andorid App 中将 EMLX 渲染为 DOT
 description: 在您的 Andorid 应用程序中不使用 Microsoft Word 或 Outlook 将 EMLX 导出为 DOT
-url: /zh/android-java/conversion/emlx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

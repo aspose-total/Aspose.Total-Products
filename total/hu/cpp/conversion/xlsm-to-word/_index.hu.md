@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a XLSM-t WORD-ba a C++ segítségével
 description: A XLSM konvertálása WORD formátumba a C++ alkalmazásokon belül
-url: /hu/cpp/conversion/xlsm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

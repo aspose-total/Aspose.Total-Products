@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLSXをWORDに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLSXをWORDに変換する
-url: /ja/net/conversion/xlsx-to-word/
+
 family: total
 platformtag: net
 feature: conversion

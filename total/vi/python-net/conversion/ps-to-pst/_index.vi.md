@@ -1,7 +1,7 @@
 ---
 title: Chuyển đổi PS sang PST bằng Python
 description: Lưu PS thành PST trong các ứng dụng Python mà không cần sử dụng Microsoft Word hoặc Outlook
-url: /vi/python-net/conversion/ps-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

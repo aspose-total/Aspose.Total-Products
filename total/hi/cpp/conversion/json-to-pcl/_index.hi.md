@@ -1,7 +1,7 @@
 ---
 title: जेएसओएन प्रारूप को सी ++ के माध्यम से सीएचएम में कनवर्ट करें
 description: C++ API t0 Microsoft Word का उपयोग किए बिना JSON को PCL में पार्स करें
-url: /hi/cpp/conversion/json-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ otherformats: ODT RTF DOT DOC EPUB PS OTT WORDML WORD DOTX DOCM MOBI FLATOPC CHM
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ otherformats: ODT RTF DOT DOC EPUB PS OTT WORDML WORD DOTX DOCM MOBI FLATOPC CHM
 JSON को PCL में पार्स करते समय, आप JSON को [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) क्लास के साथ लोड करके पंक्तियों और स्तंभों का आकार भी सेट कर सकते हैं। यदि आपको वर्कशीट में सभी पंक्तियों के लिए समान पंक्ति ऊंचाई सेट करने की आवश्यकता है, तो आप इसे [सेटस्टैंडर्डहाइट](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a1e3f1467f) का उपयोग करके कर सकते हैं। ) [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell) संग्रह की विधि। इसी तरह, वर्कशीट में सभी कॉलम के लिए समान कॉलम चौड़ाई सेट करने के लिए, ICells संग्रह की [सेटस्टैंडर्डविड्थ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) विधि का उपयोग करें।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ JSON को PCL में पार्स करते समय, आप JSON �
 SetText विधि को कॉल करें और वॉटरमार्क टेक्स्ट और TextWatermarkOptions का ऑब्जेक्ट पास करें। वॉटरमार्क जोड़ने के बाद, आप दस्तावेज़ को सीएचएम में सहेज सकते हैं।
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

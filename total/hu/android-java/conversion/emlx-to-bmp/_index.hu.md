@@ -1,7 +1,7 @@
 ---
 title: Rendelje meg az EMLX-t BMP-nek az Andorid alkalmazásban
 description: Exportálja az EMLX-t BMP-be Microsoft Word vagy Outlook használata nélkül az Andorid-alkalmazásokban
-url: /hu/android-java/conversion/emlx-to-bmp/
+
 family: total
 platformtag: cpp
 feature: conversion

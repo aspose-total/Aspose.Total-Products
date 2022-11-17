@@ -1,7 +1,7 @@
 ---
 title: .NET を使用して XLT ファイルを更新する
 description: Microsoft Excel を使用せずに、C# VB.NET アプリケーションで XLT ドキュメントを変更します。 
-url: /ja/net/update/xlt/
+
 family: total
 platformtag: .NET
 feature: update

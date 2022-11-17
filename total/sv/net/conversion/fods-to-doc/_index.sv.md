@@ -1,7 +1,7 @@
 ---
 title: Konvertera FODS till DOC med .NET 
 description: Konvertera FODS till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
-url: /sv/net/conversion/fods-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

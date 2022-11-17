@@ -1,7 +1,7 @@
 ---
 title: Render OFT ke DOTX di Aplikasi Andorid
 description: Ekspor OFT ke DOTX tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/oft-to-dotx/
+
 family: total
 platformtag: cpp
 feature: conversion

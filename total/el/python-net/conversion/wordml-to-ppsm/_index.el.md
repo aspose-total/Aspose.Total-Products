@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORDML σε PPSM στην Python
 description: Μετατροπή WORDML σε PPSM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
-url: /el/python-net/conversion/wordml-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

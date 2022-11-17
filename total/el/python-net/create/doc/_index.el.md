@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία DOC σε Python
 description: Δημιουργήστε αρχείο DOC χρησιμοποιώντας εφαρμογές Python χωρίς τη χρήση του Microsoft Word. 
-url: /el/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

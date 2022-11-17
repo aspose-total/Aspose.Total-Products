@@ -1,7 +1,7 @@
 ---
 title: تحويل PPT إلى RTF في Python
 description: تحويل PPT إلى RTF في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
-url: /ar/python-net/conversion/ppt-to-rtf/
+
 family: total
 platformtag: Python
 feature: conversion

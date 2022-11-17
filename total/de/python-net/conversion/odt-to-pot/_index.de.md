@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie ODT in POT in Python
 description: Konvertierung von ODT in POT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/odt-to-pot/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,6 +1,6 @@
 ---
 title: تحويل WORDML إلى PPT عبر C# .NET 
-url: /ar/net/conversion/wordml-to-ppt/ 
+
 description: تحويل مستندات Word wordml إلى ملفات PowerPoint ppt باستخدام C#. تحويل ملفات متعددة داخل ASP.NET أو تطبيقات .NET الأخرى.
 ---
 

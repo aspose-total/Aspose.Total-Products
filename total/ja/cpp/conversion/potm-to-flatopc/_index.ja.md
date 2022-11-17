@@ -1,7 +1,7 @@
 ---
 title: POTMをFLATOPCに変換するC++API
 description: C++アプリケーション内でPOTMをFLATOPCにエクスポートする
-url: /ja/cpp/conversion/potm-to-flatopc/
+
 family: total
 platformtag: cpp
 feature: conversion

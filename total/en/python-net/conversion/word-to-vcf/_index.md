@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to VCF in Python
 description: Save WORD to VCF within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/word-to-vcf/
+
 family: total
 platformtag: Python
 feature: conversion

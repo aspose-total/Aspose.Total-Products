@@ -1,7 +1,7 @@
 ---
 title: Esporta PPTX in DOT su Andorid tramite Java
 description: Converti PPTX in DOT nelle app mobili senza installare alcun software
-url: /it/android-java/conversion/pptx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

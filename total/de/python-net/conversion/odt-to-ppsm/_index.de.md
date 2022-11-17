@@ -1,7 +1,7 @@
 ---
 title: Konvertieren Sie ODT in PPSM in Python
 description: Konvertierung von ODT in PPSM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
-url: /de/python-net/conversion/odt-to-ppsm/
+
 family: total
 platformtag: Python
 feature: conversion

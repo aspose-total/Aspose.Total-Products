@@ -1,7 +1,7 @@
 ---
 title: DOT létrehozása Pythonban
 description: DOT-fájl létrehozása Python-alkalmazásokkal Microsoft Word használata nélkül. 
-url: /hu/python-net/create/dot/
+
 family: total
 platformtag: Python
 feature: create

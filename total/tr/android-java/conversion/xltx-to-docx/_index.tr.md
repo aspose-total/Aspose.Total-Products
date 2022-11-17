@@ -1,7 +1,7 @@
 ---
 title: Android'de XLTX'yi DOCX'a aktarın
 description: Microsoft Word kullanmadan XLTX'yi DOCX'ye dönüştürmek için Android API
-url: /tr/android-java/conversion/xltx-to-docx/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Render EMAIL ke IMAGE di Aplikasi Andorid
 description: Ekspor EMAIL ke IMAGE tanpa menggunakan Microsoft Word atau Outlook di aplikasi Android Anda
-url: /id/android-java/conversion/email-to-image/
+
 family: total
 platformtag: cpp
 feature: conversion

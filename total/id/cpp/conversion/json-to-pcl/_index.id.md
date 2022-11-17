@@ -1,7 +1,7 @@
 ---
 title: Konversi Format JSON ke PCL melalui C++
 description: C++ API t0 Parsing JSON ke PCL tanpa menggunakan Microsoft Word
-url: /id/cpp/conversion/json-to-pcl/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-doc.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](h
 Saat menguraikan JSON ke PCL, Anda juga dapat mengatur ukuran baris dan kolom dengan memuat JSON dengan kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook). Jika Anda perlu mengatur tinggi baris yang sama untuk semua baris di lembar kerja, Anda dapat melakukannya dengan menggunakan [SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467f ) metode koleksi [ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell). Demikian pula, untuk menyetel lebar kolom yang sama untuk semua kolom di lembar kerja, gunakan metode [SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7) dari koleksi ICells.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "set-layout-and-parse-json-to-word.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -50,7 +52,8 @@ Menggunakan API, Anda juga dapat mengurai JSON ke PCL dengan tanda air. Untuk me
 panggil metode SetText dan berikan teks watermark & objek TextWatermarkOptions. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke PCL.
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "62d90d1935ee72ea0be4071f38e82ece" "parse-json-to-word-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

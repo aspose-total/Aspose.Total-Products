@@ -1,7 +1,7 @@
 ---
 title: Konvertálja a MBOX-t EMF-be Pythonban
 description: Mentse a MBOX-t EMF formátumba Python-alkalmazásaiban Microsoft Outlook vagy Word használata nélkül 
-url: /hu/python-net/conversion/mbox-to-emf/
+
 family: total
 platformtag: Python
 feature: conversion

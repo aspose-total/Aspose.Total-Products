@@ -1,7 +1,7 @@
 ---
 title: Απόδοση EMAIL σε MD στην εφαρμογή Andorid
 description: Εξαγωγή EMAIL σε MD χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/email-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

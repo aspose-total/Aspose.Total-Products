@@ -1,7 +1,7 @@
 ---
 title: Python'da WORDML'yi PST'e Dönüştür
 description: Microsoft Word veya Outlook kullanmadan Python uygulamalarında WORDML'yi PST'e kaydedin
-url: /tr/python-net/conversion/wordml-to-pst/
+
 family: total
 platformtag: Python
 feature: conversion

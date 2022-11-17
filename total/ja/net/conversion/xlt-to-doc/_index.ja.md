@@ -1,7 +1,7 @@
 ---
 title: .NETを使用してXLTをDOCに変換する 
 description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTをDOCに変換する
-url: /ja/net/conversion/xlt-to-doc/
+
 family: total
 platformtag: net
 feature: conversion

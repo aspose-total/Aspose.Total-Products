@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή WORD σε EMLX στην Python
 description: Αποθηκεύστε το WORD σε EMLX εντός εφαρμογών Python χωρίς να χρησιμοποιήσετε το Microsoft Word ή το Outlook
-url: /el/python-net/conversion/word-to-emlx/
+
 family: total
 platformtag: Python
 feature: conversion

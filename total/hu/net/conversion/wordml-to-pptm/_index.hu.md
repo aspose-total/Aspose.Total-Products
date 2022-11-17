@@ -1,6 +1,6 @@
 ---
 title: A WORDML konvertálása PPTM-re C# .NET-en keresztül 
-url: /hu/net/conversion/wordml-to-pptm/ 
+
 description: Konvertálja a Word wordml dokumentumokat PowerPoint pptm fájlokká C# segítségével. Több fájl konvertálása az ASP.NET-en vagy más .NET-alkalmazásokon belül.
 ---
 

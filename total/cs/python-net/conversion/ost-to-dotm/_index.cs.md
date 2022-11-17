@@ -1,7 +1,7 @@
 ---
 title: Převést OST na DOTM v Pythonu
 description: Uložte OST do DOTM ve svých aplikacích Python bez použití Microsoft Outlook nebo Word 
-url: /cs/python-net/conversion/ost-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

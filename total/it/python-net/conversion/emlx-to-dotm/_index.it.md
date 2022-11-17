@@ -1,7 +1,7 @@
 ---
 title: Converti EMLX in DOTM in Python
 description: Salva EMLX in DOTM nelle tue applicazioni Python senza utilizzare Microsoft Outlook o Word 
-url: /it/python-net/conversion/emlx-to-dotm/
+
 family: total
 platformtag: Python
 feature: conversion

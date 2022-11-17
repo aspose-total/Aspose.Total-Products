@@ -1,7 +1,7 @@
 ---
 title: C++ API για Μετατροπή PPTM σε WORD
 description: Εξαγωγή PPTM σε WORD στις εφαρμογές σας C++
-url: /el/cpp/conversion/pptm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

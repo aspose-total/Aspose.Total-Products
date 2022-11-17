@@ -1,7 +1,7 @@
 ---
 title: Convert WORD to OST in Python
 description: Save WORD to OST within Python applications without using Microsoft Word or Outlook
-url: /python-net/conversion/word-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

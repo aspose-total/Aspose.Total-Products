@@ -1,7 +1,7 @@
 ---
 title: Skicka EML till TEXT i Andorid-appen
 description: Exportera EML till TEXT utan att använda Microsoft Word eller Outlook i dina Andorid-program
-url: /sv/android-java/conversion/eml-to-text/
+
 family: total
 platformtag: cpp
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: Tạo DOC bằng Python
 description: Tạo tệp DOC bằng các ứng dụng Python mà không cần sử dụng Microsoft Word. 
-url: /vi/python-net/create/doc/
+
 family: total
 platformtag: Python
 feature: create

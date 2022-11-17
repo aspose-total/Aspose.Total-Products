@@ -1,7 +1,7 @@
 ---
 title: Преобразование PCL в OST в Python
 description: Сохраняйте PCL в OST в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/pcl-to-ost/
+
 family: total
 platformtag: Python
 feature: conversion

@@ -1,7 +1,7 @@
 ---
 title: تحديث ملف XLT باستخدام جافا
 description: تعديل مستند XLT في تطبيقات Java دون استخدام Microsoft Excel. تحسين التعليمات البرمجية لأسرع طريقة لكتابة وتحرير ملف excel في جافا.
-url: /ar/java/update/xlt/
+
 family: total
 platformtag: Java
 feature: update

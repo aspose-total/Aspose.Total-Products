@@ -1,7 +1,7 @@
 ---
 title: Преобразование MSG в MD в приложении Andorid
 description: Экспорт MSG в MD без использования Microsoft Word или Outlook в ваших приложениях Andorid.
-url: /ru/android-java/conversion/msg-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

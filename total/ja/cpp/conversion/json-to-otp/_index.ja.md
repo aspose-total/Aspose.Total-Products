@@ -1,7 +1,7 @@
 ---
 title: C++を介してJSON形式をOTPに変換する
 description: MicrosoftPowerPointを使用せずにC++でJSONをOTPに解析する
-url: /ja/cpp/conversion/json-to-otp/
+
 family: total
 platformtag: cpp
 feature: conversion
@@ -32,7 +32,8 @@ VisualStudioのパッケージマネージャーコンソールから```Install-
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}
-
+
+
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -41,7 +42,8 @@ VisualStudioのパッケージマネージャーコンソールから```Install-
 JSONをOTPに解析するときに、[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスを使用してJSONをロードすることにより、行と列のサイズを設定することもできます。ワークシートのすべての行に同じ行の高さを設定する必要がある場合は、[SetStandardHeight](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a0b79a3163e2b601aa1b6a6a1e3f1467fを使用して設定できます。 )[ICells](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell)コレクションのメソッド。同様に、ワークシートのすべての列に同じ列幅を設定するには、ICellsコレクションの[SetStandardWidth](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_cell#a48f5dbccc3bf4bb9e6e882094b500bd7)メソッドを使用します。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "set-layout-and-parse-json-to-powerpoint.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
@@ -49,7 +51,8 @@ JSONをOTPに解析するときに、[IWorkbook](https://reference.aspose.com/ce
 APIを使用して、JSONを透かし付きのOTPに変換することもできます。 OTPドキュメントに透かしを追加するには、最初にJSONをPPTXに解析して、透かしを追加します。透かしを追加するには、[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスを使用して、新しく作成したPPTXファイルを読み込み、最初のスライドを取得して、 RectangleタイプのAutoShape、RectangleへのTextFrameの追加、テキストフレームのParagraphオブジェクトの作成、paragraphのPortionオブジェクトの作成、set_Text（)を使用した透かしの追加、およびドキュメントをOTPに保存できます。
 {{% blocks/products/pf/feature-page-code %}}
 
-{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+{{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "parse-json-to-powerpoint-with-watermark.cpp" >}}
+
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Andorid ऐप में WORD को OFT रेंडर करें
 description: आप Andorid अनुप्रयोगों में Microsoft Word या Outlook का उपयोग किए बिना OFT को WORD में निर्यात करें
-url: /hi/android-java/conversion/oft-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion

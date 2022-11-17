@@ -1,7 +1,7 @@
 ---
 title: Converteer ODP naar DOC in Python
 description: ODP naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
-url: /nl/python-net/conversion/odp-to-doc/
+
 family: total
 platformtag: Python
 feature: conversion

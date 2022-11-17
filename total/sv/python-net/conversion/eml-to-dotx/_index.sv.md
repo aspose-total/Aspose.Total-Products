@@ -1,7 +1,7 @@
 ---
 title: Konvertera EML till DOTX i Python
 description: Spara EML till DOTX i dina Python-applikationer utan att använda Microsoft Outlook eller Word 
-url: /sv/python-net/conversion/eml-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

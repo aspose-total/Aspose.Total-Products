@@ -1,7 +1,7 @@
 ---
 title: Απόδοση OFT σε MD στην εφαρμογή Andorid
 description: Εξαγωγή OFT σε MD χωρίς χρήση του Microsoft Word ή του Outlook σε εφαρμογές Andorid
-url: /el/android-java/conversion/oft-to-md/
+
 family: total
 platformtag: cpp
 feature: conversion

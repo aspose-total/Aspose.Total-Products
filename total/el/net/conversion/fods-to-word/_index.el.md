@@ -1,7 +1,7 @@
 ---
 title: Μετατροπή FODS σε WORD με .NET 
 description: Μετατροπή FODS σε WORD σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
-url: /el/net/conversion/fods-to-word/
+
 family: total
 platformtag: net
 feature: conversion

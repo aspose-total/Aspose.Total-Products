@@ -1,7 +1,7 @@
 ---
 title: Python'da PPTX'yi DOTX'e Dönüştür
 description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPTX'den DOTX'e dönüştürme 
-url: /tr/python-net/conversion/pptx-to-dotx/
+
 family: total
 platformtag: Python
 feature: conversion

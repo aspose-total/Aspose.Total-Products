@@ -1,7 +1,7 @@
 ---
 title: Преобразование WORD в EMAIL в Python
 description: Сохраняйте WORD в EMAIL в приложениях Python без использования Microsoft Word или Outlook.
-url: /ru/python-net/conversion/word-to-email/
+
 family: total
 platformtag: Python
 feature: conversion

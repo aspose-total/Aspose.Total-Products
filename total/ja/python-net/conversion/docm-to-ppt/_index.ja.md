@@ -1,7 +1,7 @@
 ---
 title: Python で DOCM を PPT に変換する
 description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCM から PPT への変換 
-url: /ja/python-net/conversion/docm-to-ppt/
+
 family: total
 platformtag: Python
 feature: conversion

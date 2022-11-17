@@ -1,7 +1,7 @@
 ---
 title: 將 POTX 轉換為 DOT 的 C++ API
 description: 在 C++ 應用程序中將 POTX 導出為 DOT
-url: /zh-hant/cpp/conversion/potx-to-dot/
+
 family: total
 platformtag: cpp
 feature: conversion

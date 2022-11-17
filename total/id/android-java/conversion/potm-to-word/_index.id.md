@@ -1,7 +1,7 @@
 ---
 title: Ekspor POTM ke WORD di Andorid melalui Java
 description: Konversi POTM ke WORD di aplikasi seluler tanpa menginstal perangkat lunak apa pun
-url: /id/android-java/conversion/potm-to-word/
+
 family: total
 platformtag: cpp
 feature: conversion
