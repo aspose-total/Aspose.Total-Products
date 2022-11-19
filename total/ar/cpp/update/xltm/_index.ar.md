@@ -1,0 +1,59 @@
+---
+title: تحديث ملف XLTM باستخدام C ++
+description: تعديل مستند XLTM في تطبيقات C ++ بدون استخدام Microsoft Excel.
+family: total
+platformtag: C++
+feature: update
+informat: XLTM
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="تحديث ملف XLTM عبر C ++" h2="قم بتعديل جداول بيانات XLTM عبر التطبيقات المستندة إلى C ++ بدون تثبيت Microsoft Office <sup>&reg;</sup>." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+للمبرمج الذي يحاول تحديث ملفات XLTM داخل تطبيق C ++, يمكن أن تساعد [Aspose.Total for C++](https://products.aspose.com/total/cpp/) API في أتمتة عملية التحديث. إنها حزمة كاملة من مكتبات C ++ مختلفة تتعامل مع تنسيقات متعددة بما في ذلك مستندات Microsoft Excel. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API الذي يعد جزءًا من حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/) يجعل عملية التعديل هذه سهلة. عملية تحديث مستند XLTM بسيطة عن طريق الوصول أولاً إلى الورقة ثم تحديث قيمة الخلية في Excel باستخدام C ++.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحديث ملف XLTM في C ++" %}}
+
+- قم بتحميل ملف XLTM باستخدام [CreateIWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory#a93f7282b976d2a001d44198dedaceee8)
+- الوصول إلى [Worksheet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet) ذي الصلة باستخدام GetIWorksheets()->GetObjectByIndex(0) والخلية ذات الصلة باستخدام GetICells()->GetObjectByIndex
+- أدخل البيانات الجديدة في الخلية التي تم الوصول إليها باستخدام طريقة PutValue
+- احفظ الملف كملف .xltm باستخدام أسلوب الحفظ بتمرير الملف بالمسار كمعامل
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="متطلبات التعديل" %}}
+
+- لتعديل XLTM ، باتباع [متطلبات النظام](https://docs.aspose.com/cells/cpp/system-requirements/) لأنظمة Windows و Linux 
+- قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total.Cpp```
+- أو عبر وحدة تحكم مدير الحزم في Visual Studio مع `` Install-Package Aspose.Total.Cpp ''
+- بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو DLLs في ملف ZIP من [التحميلات](https://downloads.aspose.com/cells/cpp)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="كود - تحديث ملف XLTM في C ++" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "42342f602044f852ec65704204e5d54a" "update-excel-documents.cpp" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-supported-section title="خيارات التعديل الأخرى" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xls/" name="تحديث XLS ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xlsx/" name="تحديث XLSX ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/csv/" name="تحديث CSV ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xlsb/" name="تحديث XLSB ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xlsm/" name="تعديل XLSM ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xlt/" name="تحديث XLT ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xltx/" name="تحديث XLTX ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/xltm/" name="تحديث XLTM ملف" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/cpp/update/tsv/" name="تحديث TSV ملف" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}

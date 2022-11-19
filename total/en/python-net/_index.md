@@ -2,18 +2,18 @@
 title: Python via .NET File Format Processing APIs - Aspose 
 weight: 50
 url_ignore: /python-net/ 
-description: Python APIs for Microsoft Word documents, PowerPoint presentations and Outlook email formats from within Python applications.
+description: Python APIs for Microsoft Word documents, Excel spreadsheets, PowerPoint presentations and Outlook email formats from within Python applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Automate Microsoft Word, PowerPoint, Outlook and 3D Files" h2="Create, edit or convert documents, presentations, emails 3D & CAD files using Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Python APIs to Automate Microsoft Word, PowerPoint, Outlook and 3D Files" h2="Create, edit or convert documents, spreadsheets, presentations, emails 3D & CAD files using Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Document Automation libraries for Python that helps in creating apps with the ability to create, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG, 3D and other formats from within Python apps.
+Document Automation libraries for Python that helps in creating apps with the ability to create, edit or convert DOC, DOCX, XLSX, XLS, CSV, PPT, PPTX, EML, MSG, 3D and other formats from within Python apps.
 {{< /blocks/products/pf/total/overview >}}
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET includes" >}}
