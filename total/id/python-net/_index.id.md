@@ -16,17 +16,21 @@ description: API Python untuk dokumen Microsoft Word, presentasi PowerPoint, dan
 Pustaka Otomasi Dokumen untuk Python yang membantu dalam membuat aplikasi dengan kemampuan untuk membuat, mengedit, atau mengonversi DOC, DOCX, PPT, PPTX, EML, MSG, 3D, dan format lain dari dalam aplikasi Python.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total untuk Python melalui .NET termasuk" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET termasuk" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Pustaka Python mandiri untuk format Pemrosesan Kata dari Microsoft Word & OpenOffice. Memungkinkan untuk membuat laporan menggunakan MailMerge, menghasilkan dan mengedit dokumen, merender atau mengekspor file termasuk DOC, DOCX dan ODT ke gambar, PDF, HTML, dan beberapa format lainnya.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API untuk proses otomatisasi spreadsheet seperti pembuatan, manipulasi, dan konversi. Selain itu, itu membuat lembar kerja ke XPS, PDF, HTML, Teks Biasa dan gambar. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Pustaka Email Python yang membantu dalam pembuatan, manipulasi, atau konversi pesan email & arsip email. Juga menyediakan fitur manajemen email seperti pengeditan pesan dan manipulasi lampiran. Pengembang dapat menggunakannya untuk mengirim atau menerima email melalui POP3, IMAP & SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Pustaka Python untuk format presentasi PowerPoint & OpenOffice yang dapat membantu membuat, membaca, menulis, memodifikasi, menggabungkan, mengkloning, melindungi & mengonversi file PPT, PPTX dan ODP menjadi gambar, tata letak tetap & format web.
 {{< /blocks/products/pf/total/product-item >}}
 

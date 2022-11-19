@@ -16,17 +16,21 @@ description: API Python pour les documents Microsoft Word, les présentations Po
 Bibliothèques d'automatisation de documents pour Python qui aident à créer des applications avec la possibilité de créer, modifier ou convertir des formats DOC, DOCX, PPT, PPTX, EML, MSG, 3D et autres à partir des applications Python.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total pour Python via .NET inclut" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET inclut" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Bibliothèque Python autonome pour les formats de traitement de texte de Microsoft Word et OpenOffice. Permet de créer des rapports à l'aide de MailMerge, de générer et de modifier des documents, de rendre ou d'exporter des fichiers, y compris DOC, DOCX et ODT vers des images, PDF, HTML et plusieurs autres formats.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+API Python Excel pour les processus d'automatisation des feuilles de calcul tels que la création, la manipulation et la conversion. De plus, il rend les feuilles de calcul en XPS, PDF, HTML, texte brut et images.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Une bibliothèque Email Python qui aide à la création, la manipulation ou la conversion de messages électroniques et d'archives de courrier électronique. Fournit également des fonctionnalités de gestion des e-mails telles que l'édition des messages et la manipulation des pièces jointes. Les développeurs peuvent l'utiliser pour envoyer ou recevoir des e-mails via POP3, IMAP et SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Bibliothèque Python pour les formats de présentation PowerPoint et OpenOffice pouvant aider à créer, lire, écrire, modifier, fusionner, cloner, protéger et convertir des fichiers PPT, PPTX et ODP en images, à mise en page fixe et en formats Web.
 {{< /blocks/products/pf/total/product-item >}}
 

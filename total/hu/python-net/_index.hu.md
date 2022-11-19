@@ -16,17 +16,21 @@ description: Python API-k Microsoft Word dokumentumokhoz, PowerPoint prezentáci
 Dokumentumautomatizálási könyvtárak Pythonhoz, amelyek segítenek olyan alkalmazások létrehozásában, amelyek képesek DOC, DOCX, PPT, PPTX, EML, MSG, 3D és más formátumok létrehozására, szerkesztésére vagy konvertálására a Python alkalmazásokon belül.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Az Aspose.Total for Python .NET-en keresztül tartalmazza" >}}
+{{< blocks/products/pf/total/products description="Az Aspose.Total for Python via .NET-en keresztül tartalmazza" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Önálló Python-könyvtár a Microsoft Word és az OpenOffice szövegszerkesztő formátumaihoz. Lehetővé teszi jelentések készítését a MailMerge segítségével, dokumentumok generálását és szerkesztését, fájlok megjelenítését vagy exportálását, beleértve a DOC, DOCX és ODT fájlokat képek, PDF, HTML és számos más formátumba.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API táblázatkezelő automatizálási folyamatokhoz, például létrehozáshoz, manipulációhoz és átalakításhoz. Ezenkívül a munkalapokat XPS-, PDF-, HTML-, egyszerű szöveg- és képek formátumban jeleníti meg. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 E-mail Python könyvtár, amely segít az e-mail üzenetek és e-mail archívumok létrehozásában, kezelésében vagy konvertálásában. Ezenkívül e-mail-kezelési funkciókat is kínál, például üzenetszerkesztést és mellékletkezelést. A fejlesztők használhatják e-mailek küldésére és fogadására POP3, IMAP és SMTP protokollon keresztül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Python-könyvtár PowerPoint és OpenOffice prezentációs formátumokhoz, amelyek segíthetnek létrehozni, olvasni, írni, módosítani, egyesíteni, klónozni, védeni és konvertálni PPT-, PPTX- és ODP-fájlokat képekké, rögzített elrendezésű és webes formátumokká.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -22,6 +22,10 @@ Document Automation libraries for Python that helps in creating apps with the ab
 Standalone Python library for Word Processing formats from Microsoft Word & OpenOffice. Allows to create reports using MailMerge, generate and edit documents, render or export files including DOC, DOCX and ODT to images, PDF, HTML and several other formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/cells/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API for spreadsheet automation processes such as creation, manipulation and conversion. Moreover, It renders worksheets to XPS, PDF, HTML, Plain Text and images. 
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 An Email Python library that helps in creation, manipulation or conversion of email messages & email archives. Also provides email management features such as message editing and attachment manipulation. Developers can use it to send or receive emails through POP3, IMAP & SMTP.
 {{< /blocks/products/pf/total/product-item >}}

@@ -16,17 +16,21 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 पायथन के लिए दस्तावेज़ स्वचालन पुस्तकालय जो पायथन ऐप के भीतर से DOC, DOCX, PPT, PPTX, EML, MSG, 3D और अन्य प्रारूपों को बनाने, संपादित करने या बदलने की क्षमता वाले ऐप बनाने में मदद करता है।
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total for Python by .NET शामिल है" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET शामिल है" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 माइक्रोसॉफ्ट वर्ड और ओपनऑफिस से वर्ड प्रोसेसिंग फॉर्मेट के लिए स्टैंडअलोन पायथन लाइब्रेरी। MailMerge का उपयोग करके रिपोर्ट बनाने, दस्तावेज़ बनाने और संपादित करने, DOC, DOCX और ODT सहित फ़ाइलों को छवियों, PDF, HTML और कई अन्य स्वरूपों में रेंडर या निर्यात करने की अनुमति देता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+निर्माण, हेरफेर और रूपांतरण जैसी स्प्रेडशीट स्वचालन प्रक्रियाओं के लिए पायथन एक्सेल एपीआई। इसके अलावा, यह वर्कशीट को XPS, PDF, HTML, प्लेन टेक्स्ट और इमेज के लिए रेंडर करता है। 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 एक ईमेल पायथन पुस्तकालय जो ईमेल संदेशों और ईमेल अभिलेखागार के निर्माण, हेरफेर या रूपांतरण में मदद करता है। संदेश संपादन और अनुलग्नक हेरफेर जैसी ईमेल प्रबंधन सुविधाएँ भी प्रदान करता है। डेवलपर्स इसका उपयोग POP3, IMAP और SMTP के माध्यम से ईमेल भेजने या प्राप्त करने के लिए कर सकते हैं।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 पावरपॉइंट और ओपनऑफिस प्रेजेंटेशन फॉर्मेट के लिए पायथन लाइब्रेरी जो पीपीटी, पीपीटीएक्स और ओडीपी फाइलों को इमेज, फिक्स्ड-लेआउट और वेब फॉर्मेट में बनाने, पढ़ने, लिखने, संशोधित करने, मर्ज करने, क्लोन करने, संरक्षित करने और बदलने में मदद कर सकती है।
 {{< /blocks/products/pf/total/product-item >}}
 

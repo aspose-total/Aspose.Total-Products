@@ -18,15 +18,20 @@ Pythonアプリ内からDOC、DOCX、PPT、PPTX、EML、MSG、3D、およびそ�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via .NETには、" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 MicrosoftWordおよびOpenOfficeのワードプロセッシング形式用のスタンドアロンPythonライブラリ。 MailMergeを使用してレポートを作成したり、ドキュメントを生成および編集したり、DOC、DOCX、ODTなどのファイルを画像、PDF、HTML、およびその他のいくつかの形式にレンダリングまたはエクスポートしたりできます。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+作成、操作、変換などのスプレッドシート自動化プロセス用の Python Excel API。さらに、ワークシートを XPS、PDF、HTML、プレーン テキスト、および画像にレンダリングします。 
+{{< /blocks/products/pf/total/product-item >}}
+
+
+{{< blocks/products/pf/total/product-item href="/email/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 電子メールメッセージと電子メールアーカイブの作成、操作、または変換を支援する電子メールPythonライブラリ。メッセージ編集や添付ファイル操作などの電子メール管理機能も提供します。開発者はこれを使用して、POP3、IMAP、およびSMTPを介して電子メールを送受信できます。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 PPT、PPTX、およびODPファイルを画像、固定レイアウト、およびWeb形式に作成、読み取り、書き込み、変更、マージ、クローン作成、保護、および変換するのに役立つPowerPointおよびOpenOfficeプレゼンテーション形式用のPythonライブラリ。
 {{< /blocks/products/pf/total/product-item >}}
 

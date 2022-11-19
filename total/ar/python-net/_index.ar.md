@@ -16,17 +16,21 @@ description: واجهات برمجة تطبيقات Python لمستندات Micr
 مكتبات أتمتة المستندات لـ Python التي تساعد في إنشاء تطبيقات مع القدرة على إنشاء أو تحرير أو تحويل DOC و DOCX و PPT و PPTX و EML و MSG و 3D وغيرها من التنسيقات من داخل تطبيقات Python.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="يتضمن Aspose.Total for Python عبر .NET" >}}
+{{< blocks/products/pf/total/products description="يتضمن Aspose.Total for Python via .NET" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 مكتبة Python المستقلة لتنسيقات معالجة الكلمات من Microsoft Word و OpenOffice. يسمح بإنشاء تقارير باستخدام MailMerge ، وإنشاء المستندات وتحريرها ، وتقديم أو تصدير الملفات بما في ذلك DOC و DOCX و ODT إلى الصور و PDF و HTML والعديد من التنسيقات الأخرى.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API لعمليات أتمتة جداول البيانات مثل الإنشاء والمعالجة والتحويل. علاوة على ذلك ، فإنه يعرض أوراق العمل إلى XPS و PDF و HTML والنص العادي والصور.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 مكتبة بريد إلكتروني بيثون تساعد في إنشاء رسائل البريد الإلكتروني ومحفوظات البريد الإلكتروني أو معالجتها أو تحويلها. يوفر أيضًا ميزات إدارة البريد الإلكتروني مثل تحرير الرسائل ومعالجة المرفقات. يمكن للمطورين استخدامه لإرسال أو استقبال رسائل البريد الإلكتروني من خلال POP3 و IMAP و SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 مكتبة Python لتنسيقات عروض PowerPoint و OpenOffice التي يمكن أن تساعد في إنشاء وقراءة وكتابة وتعديل ودمج واستنساخ وحماية وتحويل ملفات PPT و PPTX و ODP إلى صور وتنسيقات ذات تنسيق ثابت وتنسيقات ويب.
 {{< /blocks/products/pf/total/product-item >}}
 

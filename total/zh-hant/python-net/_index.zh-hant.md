@@ -18,15 +18,19 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET 包括" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 用於 Microsoft Word 和 OpenOffice 的文字處理格式的獨立 Python 庫。允許使用 MailMerge 創建報告，生成和編輯文檔，將包括 DOC、DOCX 和 ODT 在內的文件呈現或導出為圖像、PDF、HTML 和其他幾種格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+用於電子表格自動化過程的 Python Excel API，例如創建、操作和轉換。此外，它將工作表呈現為 XPS、PDF、HTML、純文本和圖像。 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 一個電子郵件 Python 庫，有助於創建、操作或轉換電子郵件和電子郵件檔案。還提供電子郵件管理功能，例如消息編輯和附件操作。開發人員可以使用它通過 POP3、IMAP 和 SMTP 發送或接收電子郵件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 用於 PowerPoint 和 OpenOffice 演示格式的 Python 庫，可以幫助創建、讀取、寫入、修改、合併、克隆、保護和轉換 PPT、PPTX 和 ODP 文件為圖像、固定佈局和 Web 格式。
 {{< /blocks/products/pf/total/product-item >}}
 

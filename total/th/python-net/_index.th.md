@@ -18,15 +18,19 @@ description: Python APIs สำหรับเอกสาร Microsoft Word, �
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ Python ผ่าน .NET รวมถึง" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 ไลบรารี Python แบบสแตนด์อโลนสำหรับรูปแบบการประมวลผลคำจาก Microsoft Word & OpenOffice อนุญาตให้สร้างรายงานโดยใช้ MailMerge สร้างและแก้ไขเอกสาร แสดงผลหรือส่งออกไฟล์รวมถึง DOC, DOCX และ ODT เป็นรูปภาพ, PDF, HTML และรูปแบบอื่น ๆ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API สำหรับกระบวนการทำงานอัตโนมัติของสเปรดชีต เช่น การสร้าง การจัดการ และการแปลง นอกจากนี้ยังแสดงแผ่นงานเป็น XPS, PDF, HTML, ข้อความธรรมดาและรูปภาพ 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 ไลบรารี Email Python ที่ช่วยในการสร้าง จัดการ หรือแปลงข้อความอีเมลและที่เก็บอีเมล ยังมีคุณสมบัติการจัดการอีเมล เช่น การแก้ไขข้อความและการจัดการไฟล์แนบ นักพัฒนาสามารถใช้เพื่อส่งหรือรับอีเมลผ่าน POP3, IMAP & SMTP
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 ไลบรารี Python สำหรับรูปแบบการนำเสนอ PowerPoint และ OpenOffice ที่ช่วยสร้าง อ่าน เขียน แก้ไข ผสาน โคลน ป้องกันและแปลงไฟล์ PPT, PPTX และ ODP เป็นรูปภาพ รูปแบบคงที่ และรูปแบบเว็บ
 {{< /blocks/products/pf/total/product-item >}}
 

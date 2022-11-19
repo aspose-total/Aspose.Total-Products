@@ -16,17 +16,21 @@ description: Rozhraní API Pythonu pro dokumenty Microsoft Word, prezentace Powe
 Knihovny Document Automation pro Python, které pomáhají při vytváření aplikací s možností vytvářet, upravovat nebo převádět DOC, DOCX, PPT, PPTX, EML, MSG, 3D a další formáty z aplikací Python.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total pro Python přes .NET zahrnuje" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET zahrnuje" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Samostatná knihovna Python pro formáty textového zpracování z Microsoft Word a OpenOffice. Umožňuje vytvářet sestavy pomocí MailMerge, generovat a upravovat dokumenty, vykreslovat nebo exportovat soubory včetně DOC, DOCX a ODT do obrázků, PDF, HTML a několika dalších formátů.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API pro procesy automatizace tabulek, jako je vytváření, manipulace a konverze. Kromě toho vykresluje pracovní listy do XPS, PDF, HTML, prostého textu a obrázků.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Knihovna Email Python, která pomáhá při vytváření, manipulaci nebo konverzi e-mailových zpráv a e-mailových archivů. Poskytuje také funkce pro správu e-mailů, jako je úprava zpráv a manipulace s přílohami. Vývojáři jej mohou používat k odesílání a přijímání e-mailů prostřednictvím POP3, IMAP a SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Knihovna Python pro prezentační formáty PowerPoint a OpenOffice, která může pomoci vytvářet, číst, zapisovat, upravovat, slučovat, klonovat, chránit a převádět soubory PPT, PPTX a ODP na obrázky, pevné rozvržení a webové formáty.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -16,17 +16,21 @@ description: Python-API's voor Microsoft Word-documenten, PowerPoint-presentatie
 Documentautomatiseringsbibliotheken voor Python die helpen bij het maken van apps met de mogelijkheid om DOC, DOCX, PPT, PPTX, EML, MSG, 3D en andere formaten te maken, bewerken of converteren vanuit Python-apps.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total voor Python via .NET omvat" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET omvat" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Standalone Python-bibliotheek voor tekstverwerkingsformaten van Microsoft Word & OpenOffice. Maakt het mogelijk om rapporten te maken met behulp van MailMerge, documenten te genereren en te bewerken, bestanden te renderen of te exporteren, waaronder DOC, DOCX en ODT naar afbeeldingen, PDF, HTML en verschillende andere formaten.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API voor automatiseringsprocessen van spreadsheets, zoals creatie, manipulatie en conversie. Bovendien geeft het werkbladen weer naar XPS, PDF, HTML, platte tekst en afbeeldingen. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Een e-mailpython-bibliotheek die helpt bij het maken, manipuleren of converteren van e-mailberichten en e-mailarchieven. Biedt ook functies voor e-mailbeheer, zoals het bewerken van berichten en het manipuleren van bijlagen. Ontwikkelaars kunnen het gebruiken om e-mails te verzenden of ontvangen via POP3, IMAP en SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Python-bibliotheek voor PowerPoint- en OpenOffice-presentatieformaten die kunnen helpen bij het maken, lezen, schrijven, wijzigen, samenvoegen, klonen, beschermen en converteren van PPT-, PPTX- en ODP-bestanden naar afbeeldingen, vaste lay-out en webformaten.
 {{< /blocks/products/pf/total/product-item >}}
 

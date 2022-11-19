@@ -16,17 +16,21 @@ description: Python API για έγγραφα του Microsoft Word, παρου�
 Βιβλιοθήκες αυτοματισμού εγγράφων για Python που βοηθούν στη δημιουργία εφαρμογών με τη δυνατότητα δημιουργίας, επεξεργασίας ή μετατροπής DOC, DOCX, PPT, PPTX, EML, MSG, 3D και άλλων μορφών μέσα από εφαρμογές Python.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Το Aspose.Total για Python μέσω .NET περιλαμβάνει" >}}
+{{< blocks/products/pf/total/products description="Το Aspose.Total for Python via .NET περιλαμβάνει" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Αυτόνομη βιβλιοθήκη Python για μορφές επεξεργασίας κειμένου από το Microsoft Word και το OpenOffice. Επιτρέπει τη δημιουργία αναφορών χρησιμοποιώντας το MailMerge, τη δημιουργία και την επεξεργασία εγγράφων, την απόδοση ή την εξαγωγή αρχείων συμπεριλαμβανομένων των DOC, DOCX και ODT σε εικόνες, PDF, HTML και πολλές άλλες μορφές.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API για διαδικασίες αυτοματισμού υπολογιστικών φύλλων όπως η δημιουργία, ο χειρισμός και η μετατροπή. Επιπλέον, αποδίδει φύλλα εργασίας σε XPS, PDF, HTML, Απλό κείμενο και εικόνες. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Μια βιβλιοθήκη Email Python που βοηθά στη δημιουργία, χειρισμό ή μετατροπή μηνυμάτων email και αρχείων email. Παρέχει επίσης δυνατότητες διαχείρισης email, όπως επεξεργασία μηνυμάτων και χειραγώγηση συνημμένων. Οι προγραμματιστές μπορούν να το χρησιμοποιήσουν για να στέλνουν ή να λαμβάνουν email μέσω POP3, IMAP & SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Βιβλιοθήκη Python για μορφές παρουσίασης PowerPoint & OpenOffice που μπορούν να βοηθήσουν στη δημιουργία, ανάγνωση, εγγραφή, τροποποίηση, συγχώνευση, κλωνοποίηση, προστασία και μετατροπή αρχείων PPT, PPTX και ODP σε εικόνες, σταθερής διάταξης και μορφές web.
 {{< /blocks/products/pf/total/product-item >}}
 

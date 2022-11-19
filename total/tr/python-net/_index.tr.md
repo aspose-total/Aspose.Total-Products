@@ -16,17 +16,21 @@ description: Python uygulamalarının içinden Microsoft Word belgeleri, PowerPo
 Python uygulamaları içinden DOC, DOCX, PPT, PPTX, EML, MSG, 3D ve diğer biçimleri oluşturma, düzenleme veya dönüştürme becerisine sahip uygulamalar oluşturmaya yardımcı olan Python için Belge Otomasyonu kitaplıkları.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description=".NET üzerinden Python için Aspose.Total şunları içerir:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET şunları içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Microsoft Word ve OpenOffice'den Kelime İşleme biçimleri için bağımsız Python kitaplığı. MailMerge kullanarak raporlar oluşturmaya, belgeler oluşturmaya ve düzenlemeye, DOC, DOCX ve ODT dahil olmak üzere dosyaları işlemeye veya dışa aktarmaya, resimlere, PDF, HTML ve diğer birçok formata izin verir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Oluşturma, değiştirme ve dönüştürme gibi elektronik tablo otomasyon süreçleri için Python Excel API. Ayrıca, çalışma sayfalarını XPS, PDF, HTML, Düz Metin ve resimlere dönüştürür. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 E-posta mesajlarının ve e-posta arşivlerinin oluşturulmasına, değiştirilmesine veya dönüştürülmesine yardımcı olan bir E-posta Python kitaplığı. Ayrıca mesaj düzenleme ve ek işleme gibi e-posta yönetimi özellikleri sağlar. Geliştiriciler bunu POP3, IMAP ve SMTP aracılığıyla e-posta göndermek veya almak için kullanabilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 PPT, PPTX ve ODP dosyalarını oluşturmaya, okumaya, yazmaya, değiştirmeye, birleştirmeye, klonlamaya, korumaya ve resimlere, sabit düzene ve web biçimlerine dönüştürmeye yardımcı olabilecek PowerPoint ve OpenOffice sunum biçimleri için Python kitaplığı.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -16,17 +16,21 @@ description: API Python cho tài liệu Microsoft Word, bản trình bày PowerP
 Các thư viện Tự động hóa Tài liệu cho Python giúp tạo ứng dụng với khả năng tạo, chỉnh sửa hoặc chuyển đổi DOC, DOCX, PPT, PPTX, EML, MSG, 3D và các định dạng khác từ bên trong ứng dụng Python.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total cho Python qua .NET bao gồm" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET bao gồm" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Thư viện Python độc lập cho các định dạng Xử lý Văn bản từ Microsoft Word & OpenOffice. Cho phép tạo báo cáo bằng MailMerge, tạo và chỉnh sửa tài liệu, kết xuất hoặc xuất các tệp bao gồm DOC, DOCX và ODT sang hình ảnh, PDF, HTML và một số định dạng khác.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+API Python Excel cho các quy trình tự động hóa bảng tính như tạo, thao tác và chuyển đổi. Hơn nữa, Nó kết xuất các trang tính thành XPS, PDF, HTML, Văn bản thuần túy và hình ảnh. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Thư viện Email Python giúp tạo, thao tác hoặc chuyển đổi thư email và lưu trữ email. Đồng thời cung cấp các tính năng quản lý email như chỉnh sửa tin nhắn và thao tác đính kèm. Các nhà phát triển có thể sử dụng nó để gửi hoặc nhận email thông qua POP3, IMAP & SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Thư viện Python dành cho các định dạng trình bày PowerPoint & OpenOffice có thể giúp tạo, đọc, viết, sửa đổi, hợp nhất, sao chép, bảo vệ và chuyển đổi các tệp PPT, PPTX và ODP sang hình ảnh, bố cục cố định & định dạng web.
 {{< /blocks/products/pf/total/product-item >}}
 

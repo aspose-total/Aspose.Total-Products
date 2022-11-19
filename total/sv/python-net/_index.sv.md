@@ -16,17 +16,21 @@ description: Python API:er för Microsoft Word-dokument, PowerPoint-presentation
 Dokumentautomatiseringsbibliotek för Python som hjälper till att skapa appar med möjligheten att skapa, redigera eller konvertera DOC, DOCX, PPT, PPTX, EML, MSG, 3D och andra format från Python-appar.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total för Python via .NET inkluderar" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET inkluderar" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/sv/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Fristående Python-bibliotek för ordbehandlingsformat från Microsoft Word och OpenOffice. Tillåter att skapa rapporter med MailMerge, generera och redigera dokument, rendera eller exportera filer inklusive DOC, DOCX och ODT till bilder, PDF, HTML och flera andra format.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/sv/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+Python Excel API för kalkylbladsautomatiseringsprocesser såsom skapande, manipulation och konvertering. Dessutom renderar den kalkylblad till XPS, PDF, HTML, vanlig text och bilder. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/sv/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 Ett Email Python-bibliotek som hjälper till att skapa, manipulera eller konvertera e-postmeddelanden och e-postarkiv. Ger även e-posthanteringsfunktioner som meddelanderedigering och manipulering av bilagor. Utvecklare kan använda den för att skicka eller ta emot e-post via POP3, IMAP och SMTP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/sv/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 Python-bibliotek för PowerPoint- och OpenOffice-presentationsformat som kan hjälpa till att skapa, läsa, skriva, ändra, slå samman, klona, skydda och konvertera PPT-, PPTX- och ODP-filer till bilder, fast layout och webbformat.
 {{< /blocks/products/pf/total/product-item >}}
 

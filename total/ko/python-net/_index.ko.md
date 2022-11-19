@@ -16,17 +16,21 @@ description: Python 애플리케이션 내에서 Microsoft Word 문서, PowerPoi
 Python 앱 내에서 DOC, DOCX, PPT, PPTX, EML, MSG, 3D 및 기타 형식을 생성, 편집 또는 변환할 수 있는 기능으로 앱을 만드는 데 도움이 되는 Python용 문서 자동화 라이브러리.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description=".NET을 통한 Python용 Aspose.Total은 다음을 포함합니다." >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET 다음을 포함합니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
 Microsoft Word 및 OpenOffice의 워드 프로세싱 형식을 위한 독립 실행형 Python 라이브러리. MailMerge를 사용하여 보고서 작성, 문서 생성 및 편집, DOC, DOCX 및 ODT를 포함한 파일을 이미지, PDF, HTML 및 기타 여러 형식으로 렌더링하거나 내보낼 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+생성, 조작 및 변환과 같은 스프레드시트 자동화 프로세스를 위한 Python Excel API. 또한 워크시트를 XPS, PDF, HTML, 일반 텍스트 및 이미지로 렌더링합니다. 
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/email/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 이메일 메시지 및 이메일 아카이브의 생성, 조작 또는 변환을 돕는 이메일 Python 라이브러리. 또한 메시지 편집 및 첨부 파일 조작과 같은 이메일 관리 기능을 제공합니다. 개발자는 이를 사용하여 POP3, IMAP 및 SMTP를 통해 이메일을 보내거나 받을 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
 PPT, PPTX 및 ODP 파일을 이미지, 고정 레이아웃 및 웹 형식으로 생성, 읽기, 쓰기, 수정, 병합, 복제, 보호 및 변환하는 데 도움이 되는 PowerPoint 및 OpenOffice 프레젠테이션 형식용 Python 라이브러리입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
