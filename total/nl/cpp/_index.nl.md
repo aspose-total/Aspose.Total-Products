@@ -13,57 +13,57 @@ description: C++-bibliotheken lezen, schrijven, renderen en converteren van meer
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total voor C++ is een compleet pakket van C++ File Format Automation-bibliotheken die speciaal zijn ontworpen om populaire formaten van Microsoft Office en PDF te maken, manipuleren en converteren zonder dat Office of Adobe Automation nodig is. Het C++ API-pakket bevat ook een gespecialiseerde bibliotheek voor het genereren en herkennen van barcodelabels van afbeeldingen met geavanceerde functies om het proces voor het genereren en herkennen van barcodes aan te passen.
+Aspose.Total for C++ is een compleet pakket van C++ File Format Automation-bibliotheken die speciaal zijn ontworpen om populaire formaten van Microsoft Office en PDF te maken, manipuleren en converteren zonder dat Office of Adobe Automation nodig is. Het C++ API-pakket bevat ook een gespecialiseerde bibliotheek voor het genereren en herkennen van barcodelabels van afbeeldingen met geavanceerde functies om het proces voor het genereren en herkennen van barcodes aan te passen.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total voor C++ bevat de volgende C++-bibliotheken:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for C++ bevat de volgende C++-bibliotheken:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 Een C++ klassenbibliotheek voor de programmeurs om een breed scala aan documentparseertaken rechtstreeks vanuit C++-toepassingen uit te voeren. Het maakt het mogelijk om DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT en verschillende andere populaire tekstverwerkingsbestandsformaten te creëren, converteren en manipuleren zonder enige afhankelijkheden.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
-Een C++ PDF-bibliotheek waarmee de C++-toepassingen PDF-bestanden kunnen maken, manipuleren en renderen zonder Adobe Acrobat te gebruiken. Aspose.PDF voor C++ ondersteunt het maken en beheren van formulieren, het manipuleren van bijlagen, annotaties, bladwijzers, watermerken en het weergeven van pagina's naar PNG-, JPEG- en BMP-afbeeldingen.
+{{< blocks/products/pf/total/product-item href="/pdf/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+Een C++ PDF-bibliotheek waarmee de C++-toepassingen PDF-bestanden kunnen maken, manipuleren en renderen zonder Adobe Acrobat te gebruiken. Aspose.PDF for C++ ondersteunt het maken en beheren van formulieren, het manipuleren van bijlagen, annotaties, bladwijzers, watermerken en het weergeven van pagina's naar PNG-, JPEG- en BMP-afbeeldingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
-Met Aspose.Cells voor C++ kunnen ontwikkelaars werken met Excel-bestandsindelingen binnen hun eigen C++-toepassingen zonder dat Microsoft Excel hoeft te worden geïnstalleerd. Excel C++ API ondersteunt alle belangrijke Microsoft Excel-bestandsindelingen, waaronder XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited en kan alle spreadsheetindelingen exporteren naar PDF, XPS, HTML en afbeeldingen.
+{{< blocks/products/pf/total/product-item href="/cells/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+Met Aspose.Cells for C++ kunnen ontwikkelaars werken met Excel-bestandsindelingen binnen hun eigen C++-toepassingen zonder dat Microsoft Excel hoeft te worden geïnstalleerd. Excel C++ API ondersteunt alle belangrijke Microsoft Excel-bestandsindelingen, waaronder XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited en kan alle spreadsheetindelingen exporteren naar PDF, XPS, HTML en afbeeldingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
-Aspose.Email voor C++ is een MIME- en e-mailbibliotheek voor C++ die manipulatie van e-mailbestanden en e-mailberichten biedt vanuit C++-toepassingen. De Email C++ API is in staat om de meest populaire berichtformaten zoals MSG, EML, EMLX & MHTML te creëren, manipuleren en converteren, en kan berichten maken, inspecteren en extraheren uit PST- en OST-archieven.
+{{< blocks/products/pf/total/product-item href="/email/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+Aspose.Email for C++ is een MIME- en e-mailbibliotheek voor C++ die manipulatie van e-mailbestanden en e-mailberichten biedt vanuit C++-toepassingen. De Email C++ API is in staat om de meest populaire berichtformaten zoals MSG, EML, EMLX & MHTML te creëren, manipuleren en converteren, en kan berichten maken, inspecteren en extraheren uit PST- en OST-archieven.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Het is een unieke PowerPoint-presentatie en diabeheer- en parsing-API waarmee C++-toepassingen presentaties en dia's kunnen lezen, schrijven en bewerken in PPT-, POT-, PPTX-, PPS-, PPSX-, POTX- en OPD-formaten. Ontwikkelaars kunnen presentaties maken, wijzigen, converteren en weergeven zonder Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 Barcode C++-bibliotheek biedt snelle generatie- en herkenningsalgoritmen voor 1D-, 2D- en postbarcodes zodat de ontwikkelaars streepjescodefuncties kunnen toevoegen aan hun eigen C++-toepassingen. Barcodebibliotheek voor C++ stelt de ontwikkelaars ook in staat om barcodelabels te exporteren naar rasterafbeeldingsformaten en om geroteerde barcodes van afbeeldingen te lezen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
-Aspose.Tasks voor C++ is een bibliotheek voor het verwerken en parseren van Microsoft Project-bestanden. Het maakt het mogelijk om meerdere formaten aan te maken, te lezen en te manipuleren en om het project naar verschillende outputformaten te renderen. Beheer bovendien de hoofd- en standaardprojectinstellingen, uitgebreide attributen, beperkingen op taken en definieer weekdagen voor het project, kalenders en kalenderuitzonderingen.
+{{< blocks/products/pf/total/product-item href="/tasks/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+Aspose.Tasks for C++ is een bibliotheek voor het verwerken en parseren van Microsoft Project-bestanden. Het maakt het mogelijk om meerdere formaten aan te maken, te lezen en te manipuleren en om het project naar verschillende outputformaten te renderen. Beheer bovendien de hoofd- en standaardprojectinstellingen, uitgebreide attributen, beperkingen op taken en definieer weekdagen voor het project, kalenders en kalenderuitzonderingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
-Aspose.OCR voor C++ is een native OCR-bibliotheek voor het extraheren van tekst uit afbeeldingen met verschillende lettertypen en stijlen. Ontwikkelaars kunnen de tijd en moeite besparen die gemoeid zijn met het helemaal opnieuw ontwikkelen van OCR-software. API ondersteunt meerdere afbeeldingsformaten, waaronder BMP, JPG en PNG.
+{{< blocks/products/pf/total/product-item href="/ocr/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+Aspose.OCR for C++ is een native OCR-bibliotheek voor het extraheren van tekst uit afbeeldingen met verschillende lettertypen en stijlen. Ontwikkelaars kunnen de tijd en moeite besparen die gemoeid zijn met het helemaal opnieuw ontwikkelen van OCR-software. API ondersteunt meerdere afbeeldingsformaten, waaronder BMP, JPG en PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
-Aspose.Page voor C++ is een zelfstandige en betrouwbare bibliotheek voor het verwerken en parseren van Postscript- en XPS-bestanden. Hiermee kunt u XPS-, PS- en EPS-formaten maken, laden en manipuleren. Bovendien biedt API de conversie van PS- en EPS-bestanden naar PDF- en rasterafbeeldingsformaten, waaronder EMF, BMP, GIF, PNG, JPEG en TIFF.
+{{< blocks/products/pf/total/product-item href="/page/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+Aspose.Page for C++ is een zelfstandige en betrouwbare bibliotheek voor het verwerken en parseren van Postscript- en XPS-bestanden. Hiermee kunt u XPS-, PS- en EPS-formaten maken, laden en manipuleren. Bovendien biedt API de conversie van PS- en EPS-bestanden naar PDF- en rasterafbeeldingsformaten, waaronder EMF, BMP, GIF, PNG, JPEG en TIFF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
-Aspose.PUB voor C++ is een zelfstandige en betrouwbare bibliotheek voor het verwerken en parseren van Microsoft Publisher-bestanden. Ontwikkelaars kunnen gemakkelijk .pub-formaten lezen en ontleden. Bovendien is PUB naar PDF-conversie een van de kernfuncties.
+{{< blocks/products/pf/total/product-item href="/pub/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+Aspose.PUB for C++ is een zelfstandige en betrouwbare bibliotheek voor het verwerken en parseren van Microsoft Publisher-bestanden. Ontwikkelaars kunnen gemakkelijk .pub-formaten lezen en ontleden. Bovendien is PUB naar PDF-conversie een van de kernfuncties.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
-Aspose.Font voor C++ is een fontintegratie- en beheer-API om te werken met verschillende fontformaten zoals TrueType, CFF, OpenType en Type1. Men kan eenvoudig lettertypen uit bestanden laden, tekenen en opslaan en streamen.
+{{< blocks/products/pf/total/product-item href="/font/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+Aspose.Font for C++ is een fontintegratie- en beheer-API om te werken met verschillende fontformaten zoals TrueType, CFF, OpenType en Type1. Men kan eenvoudig lettertypen uit bestanden laden, tekenen en opslaan en streamen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
-Aspose.TeX voor C++ is een tex-integratie- en beheer-API om met tex-bestanden te werken. Men kan het resultaat eenvoudig laden, zetten en opslaan als afbeelding of pdf.
+{{< blocks/products/pf/total/product-item href="/tex/nl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+Aspose.TeX for C++ is een tex-integratie- en beheer-API om met tex-bestanden te werken. Men kan het resultaat eenvoudig laden, zetten en opslaan als afbeelding of pdf.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

@@ -18,51 +18,51 @@ Az Aspose.Total for C++ a C++ fájlformátum-automatizálási könyvtárak telje
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for C++ a következő C++ könyvtárakat tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 C++ osztálykönyvtár a programozók számára, hogy a dokumentumelemzési feladatok széles skáláját hajtsák végre közvetlenül a C++ alkalmazásokból. Lehetővé teszi a DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT és számos más népszerű szövegszerkesztő fájlformátum létrehozását, konvertálását és manipulálását függőségek nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 Egy C++ PDF könyvtár, amely lehetővé teszi a C++ alkalmazások számára PDF fájlok létrehozását, kezelését és renderelését Adobe Acrobat használata nélkül. Az Aspose.PDF for C++ támogatja az űrlapok létrehozását és kezelését, a mellékletek, megjegyzések, könyvjelzők, vízjelek kezelését, valamint az oldalak PNG, JPEG és BMP képek formátumban történő megjelenítését.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Az Aspose.Cells for C++ lehetővé teszi a fejlesztők számára, hogy Excel-fájlformátumokkal dolgozzanak saját C++-alkalmazásaikon belül, anélkül, hogy a Microsoft Excelt telepíteni kellene. Az Excel C++ API támogatja az összes fő Microsoft Excel fájlformátumot, beleértve az XLSX, XLS, XLSM, XLSB, CSV és tabulátorral tagolt fájlokat, és minden táblázatformátumot exportál PDF, XPS, HTML és képek formátumba.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Az Aspose.Email for C++ egy MIME és e-mail könyvtár C++-hoz, amely e-mail fájlokat és e-mail üzenetarchívumot kínál a C++ alkalmazásokon belül. Az Email C++ API képes a legnépszerűbb üzenetformátumok létrehozására, manipulálására és konvertálására, például MSG, EML, EMLX és MHTML, valamint üzenetek létrehozására, ellenőrzésére és kibontására a PST és OST archívumokból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Ez egy egyedülálló PowerPoint prezentáció- és diakezelő és -elemző API, amely lehetővé teszi a C++ alkalmazások számára PPT, POT, PPTX, PPS, PPSX, POTX és OPD formátumú prezentációk és diák olvasását, írását és szerkesztését. A fejlesztők prezentációkat hozhatnak létre, módosíthatnak, konvertálhatnak és renderelhetnek Microsoft PowerPoint nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 A Vonalkód C++ könyvtár nagy sebességű generálási és felismerési algoritmusokat kínál 1D, 2D és postai vonalkódokhoz a fejlesztők számára, hogy vonalkód-szolgáltatásokat adhassanak saját C++ alkalmazásaikhoz. A C++ vonalkódkönyvtára lehetővé teszi a fejlesztők számára a vonalkódcímkék raszteres képformátumokba történő exportálását, valamint az elforgatott vonalkódok olvasását a képekről.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Az Aspose.Tasks for C++ egy Microsoft Project fájlfeldolgozó és -elemző könyvtár. Lehetővé teszi több formátum létrehozását, olvasását és kezelését, valamint a projekt különféle kimeneti formátumokba való renderelését. Ezenkívül kezelheti a fő és az alapértelmezett projektbeállításokat, a kiterjesztett attribútumokat, a feladatokra vonatkozó kényszereket, valamint meghatározhatja a projekt hétköznapjait, naptárakat és naptárkivételeket.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Az Aspose.OCR for C++ egy natív OCR-könyvtár, amellyel szöveget vonhat ki különböző betűtípusú és stílusú képekből. A fejlesztők időt és erőfeszítést takaríthatnak meg az OCR-szoftver fejlesztésével a semmiből. Az API többféle képformátumot támogat, beleértve a BMP-t, JPG-t és PNG-t.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Az Aspose.Page for C++ egy önálló és megbízható Postscript és XPS fájlfeldolgozó és -elemző könyvtár. Lehetővé teszi XPS, PS és EPS formátumok létrehozását, betöltését és kezelését. Ezenkívül az API lehetővé teszi a PS és EPS fájlok konvertálását PDF és raszteres képformátumokká, beleértve az EMF, BMP, GIF, PNG, JPEG és TIFF formátumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Az Aspose.PUB for C++ egy önálló és megbízható Microsoft Publisher fájlfeldolgozó és -elemző könyvtár. A fejlesztők könnyen olvashatják és elemezhetik a .pub formátumokat. Ezenkívül a PUB-ból PDF-be konvertálás az egyik fő funkciója.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Az Aspose.Font for C++ egy betűtípus-integrációs és -kezelési API, amely különféle betűtípusokkal, például TrueType, CFF, OpenType és Type1 használható. Könnyen betölthető, rajzolható és menthető betűtípusok fájlokból, valamint adatfolyamból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Az Aspose.TeX for C++ egy tex integrációs és felügyeleti API, amely tex fájlokkal dolgozik. Az eredmény könnyen betölthető, beírható és menthető képként vagy pdf-ként.
 {{< /blocks/products/pf/total/product-item >}}
 

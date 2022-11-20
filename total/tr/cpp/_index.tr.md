@@ -18,51 +18,51 @@ Aspose.Total for C++, Office veya Adobe Otomasyonu gerektirmeden Microsoft Offic
 
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ aşağıdaki C++ kitaplıklarını içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 Programcıların çok çeşitli belge ayrıştırma görevlerini doğrudan C++ uygulamaları içinden gerçekleştirmeleri için bir C++ sınıf kitaplığı. Herhangi bir bağımlılık olmaksızın DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT ve diğer birçok popüler kelime işlem dosya formatını yaratmaya, dönüştürmeye ve işlemeye izin verir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 C++ uygulamalarının Adobe Acrobat kullanmadan PDF dosyaları oluşturmasını, değiştirmesini ve işlemesini sağlayan bir C++ PDF kitaplığı. Aspose.PDF for C++, formların oluşturulmasını ve yönetimini, eklerin manipülasyonunu, açıklamaları, yer imlerini, filigranları ve ayrıca sayfaların PNG, JPEG ve BMP görüntülerine dönüştürülmesini destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++, geliştiricilerin Microsoft Excel'in yüklenmesine gerek kalmadan kendi C++ uygulamalarında Excel dosya formatlarıyla çalışmasına olanak tanır. Excel C++ API, XLSX, XLS, XLSM, XLSB, CSV ve Tab Delimited dahil olmak üzere tüm ana Microsoft Excel dosya biçimlerini destekler ve tüm elektronik tablo biçimlerini PDF, XPS, HTML ve resimlere aktarabilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Aspose.Email for C++, C++ uygulamaları içinden e-posta dosyası ve e-posta mesajı arşivi düzenlemesi sunan, C++ için bir MIME ve e-posta kitaplığıdır. Email C++ API, MSG, EML, EMLX ve MHTML gibi en popüler mesaj formatlarını yaratma, değiştirme ve dönüştürme yeteneğine sahiptir ve PST ve OST arşivlerinden mesajlar oluşturabilir, inceleyebilir ve çıkarabilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 C++ uygulamalarının PPT, POT, PPTX, PPS, PPSX, POTX ve OPD formatlarındaki sunumları ve slaytları okumasını, yazmasını ve düzenlemesini sağlayan benzersiz bir PowerPoint sunumu ve slayt yönetimi ve ayrıştırma API'sidir. Geliştiriciler, Microsoft PowerPoint'e ihtiyaç duymadan sunumlar oluşturabilir, değiştirebilir, dönüştürebilir ve oluşturabilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 Barkod C++ kitaplığı, geliştiricilerin kendi C++ uygulamalarına barkod özellikleri eklemeleri için 1B, 2B ve posta barkodları için yüksek hızlı oluşturma ve tanıma algoritmaları sunar. C++ için barkod kitaplığı ayrıca geliştiricilerin barkod etiketlerini taramalı görüntü formatlarına vermelerine ve görüntülerden döndürülmüş barkodları okumalarına olanak tanır.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Aspose.Tasks for C++, Microsoft Project dosyalarını işleme ve ayrıştırma kitaplığıdır. Projeyi çeşitli çıktı biçimlerine dönüştürmenin yanı sıra birden çok biçimi oluşturmaya, okumaya ve işlemeye izin verir. Ayrıca, ana ve varsayılan proje ayarlarını, genişletilmiş öznitelikleri, görev kısıtlamalarını yönetin ve proje, takvimler ve takvim istisnaları için hafta içi günleri tanımlayın.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++, farklı yazı tiplerine ve stillere sahip görüntülerden metin çıkarmak için yerel bir OCR kitaplığıdır. Geliştiriciler, sıfırdan bir OCR yazılımı geliştirmek için gereken zamandan ve emekten tasarruf edebilir. API, BMP, JPG ve PNG dahil olmak üzere çoklu görüntü formatlarını destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++, bağımsız ve güvenilir bir Postscript ve XPS dosyaları işleme ve ayrıştırma kitaplığıdır. XPS, PS ve EPS formatlarını oluşturmaya, yüklemeye ve işlemeye izin verir. Ayrıca API, PS ve EPS dosyalarının EMF, BMP, GIF, PNG, JPEG ve TIFF dahil olmak üzere PDF ve raster görüntü formatlarına dönüştürülmesini sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Aspose.PUB for C++, bağımsız ve güvenilir bir Microsoft Publisher dosya işleme ve ayrıştırma kitaplığıdır. Geliştiriciler, .pub biçimlerini kolayca okuyabilir ve ayrıştırabilir. Ayrıca, PUB'dan PDF'ye dönüştürme, temel özelliklerinden biridir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++; TrueType, CFF, OpenType ve Type1 gibi farklı font formatlarıyla çalışmak için bir font entegrasyonu ve yönetim API'sidir. Akışın yanı sıra dosyalardan yazı tiplerini kolayca yükleyebilir, çizebilir ve kaydedebilirsiniz.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Aspose.TeX for C++, tex dosyalarıyla çalışmak için bir tex entegrasyon ve yönetim API'sidir. Sonuçları resim veya pdf olarak kolayca yükleyebilir, dizebilir ve kaydedebilirsiniz.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -18,51 +18,51 @@ Aspose.Total for C++ 是一个完整的 C++ 文件格式自动化库包，专门
 
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ 包括以下 C++ 库：" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 一个 C++ 类库，供程序员直接从 C++ 应用程序中执行各种文档解析任务。它允许创建、转换和操作 DOC、DOT、DOCX、DOCM、DOTX、DOTM、RTF、FlatOPC、TXT、ODT 和其他几种流行的文字处理文件格式，而无需任何依赖。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 一个 C++ PDF 库，使 C++ 应用程序能够在不使用 Adobe Acrobat 的情况下创建、操作和渲染 PDF 文件。 Aspose.PDF for C++ 支持创建和管理表单、处理附件、注释、书签、水印以及将页面呈现为 PNG、JPEG 和 BMP 图像。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++ 允许开发人员在他们自己的 C++ 应用程序中使用 Excel 文件格式，而无需安装 Microsoft Excel。 Excel C++ API 支持所有主要的 Microsoft Excel 文件格式，包括 XLSX、XLS、XLSM、XLSB、CSV 和制表符分隔，并且可以将所有电子表格格式导出为 PDF、XPS、HTML 和图像。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Aspose.Email for C++ 是一个用于 C++ 的 MIME 和电子邮件库，可在 C++ 应用程序中提供电子邮件文件和电子邮件消息存档操作。电子邮件 C++ API 能够创建、操作和转换最流行的消息格式，例如 MSG、EML、EMLX 和 MHTML，并且可以从 PST 和 OST 档案中创建、检查和提取消息。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 它是一个独特的 PowerPoint 演示文稿和幻灯片管理和解析 API，使 C++ 应用程序能够读取、编写和编辑 PPT、POT、PPTX、PPS、PPSX、POTX 和 OPD 格式的演示文稿和幻灯片。开发人员无需 Microsoft PowerPoint 即可创建、修改、转换和呈现演示文稿。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 条码 C++ 库为一维、二维和邮政条码提供高速生成和识别算法，供开发人员将条码功能添加到他们自己的 C++ 应用程序中。 C++ 的条码库还使开发人员能够将条码标签导出为光栅图像格式以及从图像中读取旋转条码。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Aspose.Tasks for C++ 是 Microsoft Project 文件处理和解析库。它允许创建、读取和操作多种格式以及将项目呈现为各种输出格式。此外，管理主要和默认项目设置、扩展属性、任务约束以及定义项目的工作日、日历和日历例外。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++ 是一个本地 OCR 库，用于从具有不同字体和样式的图像中提取文本。开发人员可以节省从头开始开发 OCR 软件所涉及的时间和精力。 API 支持多种图像格式，包括 BMP、JPG 和 PNG。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++ 是一个独立且可靠的 Postscript 和 XPS 文件处理和解析库。它允许创建、加载和操作 XPS、PS 和 EPS 格式。此外，API 提供将 PS 和 EPS 文件转换为 PDF 和光栅图像格式的功能，包括 EMF、BMP、GIF、PNG、JPEG 和 TIFF。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Aspose.PUB for C++ 是一个独立且可靠的 Microsoft Publisher 文件处理和解析库。开发人员可以轻松读取和解析 .pub 格式。此外，PUB 到 PDF 的转换是其核心功能之一。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++ 是一个字体集成和管理 API，用于处理不同的字体格式，例如 TrueType、CFF、OpenType 和 Type1。可以轻松地从文件和流中加载、绘制和保存字体。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/zh/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Aspose.TeX for C++ 是一个 tex 集成和管理 API，用于处理 tex 文件。可以轻松加载、排版并将结果保存为图像或 pdf。
 {{< /blocks/products/pf/total/product-item >}}
 

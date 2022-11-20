@@ -13,57 +13,57 @@ description: Les bibliothèques C++ lisent, écrivent, rendent et convertissent 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total pour C++ est un ensemble complet de bibliothèques d'automatisation des formats de fichiers C++ spécialement conçues pour créer, manipuler et convertir des formats populaires à partir de Microsoft Office et PDF sans nécessiter Office ou Adobe Automation. Le package API C++ comprend également une bibliothèque spécialisée pour générer et reconnaître les étiquettes de codes-barres à partir d'images avec des fonctionnalités avancées pour personnaliser le processus de génération et de reconnaissance des codes-barres.
+Aspose.Total for C++ est un ensemble complet de bibliothèques d'automatisation des formats de fichiers C++ spécialement conçues pour créer, manipuler et convertir des formats populaires à partir de Microsoft Office et PDF sans nécessiter Office ou Adobe Automation. Le package API C++ comprend également une bibliothèque spécialisée pour générer et reconnaître les étiquettes de codes-barres à partir d'images avec des fonctionnalités avancées pour personnaliser le processus de génération et de reconnaissance des codes-barres.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total pour C++ inclut les bibliothèques C++ suivantes :" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for C++ inclut les bibliothèques C++ suivantes :" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 Une bibliothèque de classes C++ permettant aux programmeurs d'effectuer un large éventail de tâches d'analyse de documents directement à partir d'applications C++. Il permet de créer, convertir et manipuler DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT et plusieurs autres formats de fichiers de traitement de texte populaires sans aucune dépendance.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
-Une bibliothèque PDF C++ qui permet aux applications C++ de créer, manipuler et rendre des fichiers PDF sans utiliser Adobe Acrobat. Aspose.PDF pour C++ prend en charge la création et la gestion des formulaires, la manipulation des pièces jointes, les annotations, les signets, les filigranes ainsi que le rendu des pages en images PNG, JPEG et BMP.
+{{< blocks/products/pf/total/product-item href="/pdf/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+Une bibliothèque PDF C++ qui permet aux applications C++ de créer, manipuler et rendre des fichiers PDF sans utiliser Adobe Acrobat. Aspose.PDF for C++ prend en charge la création et la gestion des formulaires, la manipulation des pièces jointes, les annotations, les signets, les filigranes ainsi que le rendu des pages en images PNG, JPEG et BMP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
-Aspose.Cells pour C++ permet aux développeurs de travailler avec des formats de fichiers Excel dans leurs propres applications C++ sans nécessiter l'installation de Microsoft Excel. L'API Excel C++ prend en charge tous les principaux formats de fichiers Microsoft Excel, notamment XLSX, XLS, XLSM, XLSB, CSV et délimité par des tabulations, et peut exporter tous les formats de feuille de calcul au format PDF, XPS, HTML et images.
+{{< blocks/products/pf/total/product-item href="/cells/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+Aspose.Cells for C++ permet aux développeurs de travailler avec des formats de fichiers Excel dans leurs propres applications C++ sans nécessiter l'installation de Microsoft Excel. L'API Excel C++ prend en charge tous les principaux formats de fichiers Microsoft Excel, notamment XLSX, XLS, XLSM, XLSB, CSV et délimité par des tabulations, et peut exporter tous les formats de feuille de calcul au format PDF, XPS, HTML et images.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
-Aspose.Email pour C++ est une bibliothèque MIME et de messagerie pour C++ offrant la manipulation de fichiers de courrier électronique et d'archives de messages électroniques à partir d'applications C++. L'API Email C++ est capable de créer, manipuler et convertir les formats de message les plus populaires tels que MSG, EML, EMLX et MHTML, et peut créer, inspecter et extraire des messages à partir d'archives PST et OST.
+{{< blocks/products/pf/total/product-item href="/email/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+Aspose.Email for C++ est une bibliothèque MIME et de messagerie pour C++ offrant la manipulation de fichiers de courrier électronique et d'archives de messages électroniques à partir d'applications C++. L'API Email C++ est capable de créer, manipuler et convertir les formats de message les plus populaires tels que MSG, EML, EMLX et MHTML, et peut créer, inspecter et extraire des messages à partir d'archives PST et OST.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Il s'agit d'une API unique de gestion et d'analyse de présentations et de diapositives PowerPoint qui permet aux applications C++ de lire, d'écrire et de modifier des présentations et des diapositives aux formats PPT, POT, PPTX, PPS, PPSX, POTX et OPD. Les développeurs peuvent créer, modifier, convertir et rendre des présentations sans avoir besoin de Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 La bibliothèque Barcode C++ offre des algorithmes de génération et de reconnaissance à grande vitesse pour les codes-barres 1D, 2D et postaux permettant aux développeurs d'ajouter des fonctionnalités de code-barres à leurs propres applications C++. La bibliothèque de codes-barres pour C++ permet également aux développeurs d'exporter des étiquettes de codes-barres vers des formats d'image raster ainsi que de lire des codes-barres pivotés à partir d'images.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
-Aspose.Tasks pour C++ est une bibliothèque de traitement et d'analyse de fichiers Microsoft Project. Il permet de créer, lire et manipuler plusieurs formats ainsi que de rendre le projet dans divers formats de sortie. En outre, gérez les paramètres de projet principaux et par défaut, les attributs étendus, les contraintes sur les tâches ainsi que la définition des jours de la semaine pour le projet, les calendriers et les exceptions de calendrier.
+{{< blocks/products/pf/total/product-item href="/tasks/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+Aspose.Tasks for C++ est une bibliothèque de traitement et d'analyse de fichiers Microsoft Project. Il permet de créer, lire et manipuler plusieurs formats ainsi que de rendre le projet dans divers formats de sortie. En outre, gérez les paramètres de projet principaux et par défaut, les attributs étendus, les contraintes sur les tâches ainsi que la définition des jours de la semaine pour le projet, les calendriers et les exceptions de calendrier.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
-Aspose.OCR pour C++ est une bibliothèque OCR native pour extraire du texte à partir d'images ayant des polices et des styles différents. Les développeurs peuvent économiser le temps et les efforts nécessaires au développement d'un logiciel OCR à partir de zéro. L'API prend en charge plusieurs formats d'image, notamment BMP, JPG et PNG.
+{{< blocks/products/pf/total/product-item href="/ocr/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+Aspose.OCR for C++ est une bibliothèque OCR native pour extraire du texte à partir d'images ayant des polices et des styles différents. Les développeurs peuvent économiser le temps et les efforts nécessaires au développement d'un logiciel OCR à partir de zéro. L'API prend en charge plusieurs formats d'image, notamment BMP, JPG et PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
-Aspose.Page pour C++ est une bibliothèque de traitement et d'analyse de fichiers Postscript et XPS autonome et fiable. Il permet de créer, charger et manipuler les formats XPS, PS et EPS. De plus, l'API permet la conversion de fichiers PS et EPS en formats PDF et image raster, notamment EMF, BMP, GIF, PNG, JPEG et TIFF.
+{{< blocks/products/pf/total/product-item href="/page/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+Aspose.Page for C++ est une bibliothèque de traitement et d'analyse de fichiers Postscript et XPS autonome et fiable. Il permet de créer, charger et manipuler les formats XPS, PS et EPS. De plus, l'API permet la conversion de fichiers PS et EPS en formats PDF et image raster, notamment EMF, BMP, GIF, PNG, JPEG et TIFF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
-Aspose.PUB pour C++ est une bibliothèque de traitement et d'analyse de fichiers Microsoft Publisher autonome et fiable. Les développeurs peuvent facilement lire et analyser les formats .pub. De plus, la conversion PUB en PDF est l'une de ses principales fonctionnalités.
+{{< blocks/products/pf/total/product-item href="/pub/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+Aspose.PUB for C++ est une bibliothèque de traitement et d'analyse de fichiers Microsoft Publisher autonome et fiable. Les développeurs peuvent facilement lire et analyser les formats .pub. De plus, la conversion PUB en PDF est l'une de ses principales fonctionnalités.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
-Aspose.Font pour C++ est une API d'intégration et de gestion de polices permettant de travailler avec différents formats de polices tels que TrueType, CFF, OpenType et Type1. On peut facilement charger, dessiner et enregistrer des polices à partir de fichiers ainsi que de flux.
+{{< blocks/products/pf/total/product-item href="/font/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+Aspose.Font for C++ est une API d'intégration et de gestion de polices permettant de travailler avec différents formats de polices tels que TrueType, CFF, OpenType et Type1. On peut facilement charger, dessiner et enregistrer des polices à partir de fichiers ainsi que de flux.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
-Aspose.TeX pour C++ est une API d'intégration et de gestion de tex pour travailler avec des fichiers tex. On peut facilement charger, composer et enregistrer le résultat sous forme d'image ou de pdf.
+{{< blocks/products/pf/total/product-item href="/tex/fr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+Aspose.TeX for C++ est une API d'intégration et de gestion de tex pour travailler avec des fichiers tex. On peut facilement charger, composer et enregistrer le résultat sous forme d'image ou de pdf.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

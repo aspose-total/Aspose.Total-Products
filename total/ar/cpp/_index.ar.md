@@ -17,51 +17,51 @@ Aspose.Total for C++ عبارة عن حزمة كاملة من مكتبات أت�
 
 {{< blocks/products/pf/total/products description="Aspose.Total لـ C++ يشمل مكتبات C++ التالية:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 مكتبة فئة C++ للمبرمجين لأداء مجموعة واسعة من مهام تحليل المستندات مباشرة من داخل تطبيقات C++. يسمح بإنشاء وتحويل ومعالجة DOC و DOT و DOCX و DOCM و DOTX و DOTM و RTF و FlatOPC و TXT و ODT والعديد من تنسيقات ملفات معالجة النصوص الشائعة الأخرى دون أي تبعيات.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 مكتبة C++ PDF تتيح لتطبيقات C++ إنشاء ملفات PDF ومعالجتها وعرضها دون استخدام Adobe Acrobat. Aspose.PDF for C++ يدعم إنشاء وإدارة النماذج ومعالجة المرفقات والتعليقات التوضيحية والإشارات المرجعية والعلامات المائية بالإضافة إلى عرض الصفحات على صور PNG و JPEG و BMP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++ يسمح للمطورين بالعمل مع تنسيقات ملفات Excel ضمن تطبيقات C++ الخاصة بهم دون الحاجة إلى تثبيت Microsoft Excel. يدعم Excel C++ API جميع تنسيقات ملفات Microsoft Excel الرئيسية بما في ذلك XLSX و XLS و XLSM و XLSB و CSV و Tab Delimited ويمكنه تصدير جميع تنسيقات جداول البيانات إلى PDF و XPS و HTML والصور.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Aspose.Email لـ C++ عبارة عن مكتبة MIME والبريد الإلكتروني لـ C++ تقدم معالجة ملفات البريد الإلكتروني وأرشيف رسائل البريد الإلكتروني من داخل تطبيقات C++. واجهة برمجة تطبيقات البريد الإلكتروني C++ قادرة على إنشاء معظم تنسيقات الرسائل الشائعة ومعالجتها وتحويلها مثل MSG و EML و EMLX و MHTML ، ويمكنها إنشاء وفحص واستخراج الرسائل من أرشيفات PST و OST.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 إنه عرض تقديمي فريد من نوعه في PowerPoint وإدارة الشرائح والتحليل API الذي يمكّن تطبيقات C++ من قراءة وكتابة وتحرير العروض التقديمية والشرائح بتنسيقات PPT و POT و PPTX و PPS و PPSX و POTX و OPD. يمكن للمطورين إنشاء العروض التقديمية وتعديلها وتحويلها وتقديمها دون الحاجة إلى برنامج Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 توفر مكتبة Barcode C++ خوارزميات إنشاء وتعرف عالية السرعة للرموز الشريطية 1D و 2D والبريدية للمطورين لإضافة ميزات الباركود إلى تطبيقات C++ الخاصة بهم. تتيح مكتبة الباركود لـ C++ أيضًا للمطورين تصدير ملصقات الباركود إلى تنسيقات الصور النقطية بالإضافة إلى قراءة الرموز الشريطية التي تم تدويرها من الصور.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Aspose.Tasks for C++ هي مكتبة معالجة وتحليل ملفات Microsoft Project. يسمح لك بإنشاء وقراءة ومعالجة تنسيقات متعددة بالإضافة إلى تحويل المشروع إلى تنسيقات إخراج مختلفة. علاوة على ذلك ، يمكنك إدارة إعدادات المشروع الرئيسية والافتراضية والسمات الممتدة والقيود المفروضة على المهام وكذلك تحديد أيام الأسبوع للمشروع والتقويمات واستثناءات التقويم.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++ هي مكتبة OCR أصلية لاستخراج النص من الصور ذات الخطوط والأنماط المختلفة. يمكن للمطورين توفير الوقت والجهد المبذولين في تطوير برنامج OCR من البداية. تدعم واجهة برمجة التطبيقات تنسيقات صور متعددة بما في ذلك BMP و JPG و PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++ هي مكتبة مستقلة وموثوقة لمعالجة ملفات بوستسكريبت و XPS وتحليلها. يسمح بإنشاء وتحميل ومعالجة تنسيقات XPS و PS و EPS. علاوة على ذلك ، توفر API تحويل ملفات PS و EPS إلى تنسيقات PDF وصورة نقطية بما في ذلك EMF و BMP و GIF و PNG و JPEG و TIFF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Aspose.PUB for C++ هي مكتبة مستقلة وموثوقة لمعالجة ملفات Microsoft Publisher وتحليلها. يمكن للمطورين قراءة تنسيقات .pub وتحليلها بسهولة. علاوة على ذلك ، يعد تحويل PUB إلى PDF أحد ميزاته الأساسية.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++ هو واجهة برمجة تطبيقات لإدارة وتكامل الخطوط للعمل مع تنسيقات خطوط مختلفة مثل TrueType و CFF و OpenType و Type1. يمكن للمرء بسهولة تحميل ورسم وحفظ الخطوط من الملفات وكذلك الدفق.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Aspose.TeX for C++ هي واجهة برمجة تطبيقات لإدارة وتكامل tex للعمل مع ملفات tex. يمكن للمرء بسهولة تحميل النتيجة وتنضيدها وحفظها كصورة أو ملف pdf.
 {{< /blocks/products/pf/total/product-item >}}
 

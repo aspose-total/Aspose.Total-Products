@@ -16,54 +16,54 @@ description: Knihovny C++ čtou, vykreslují a převádějí různé formáty do
 Aspose.Total for C++ je kompletní balíček knihoven pro automatizaci formátů souborů C++ speciálně navržených pro vytváření, manipulaci a konverzi oblíbených formátů z Microsoft Office a PDF bez nutnosti Office nebo Adobe Automation. Balíček C++ API také obsahuje specializovanou knihovnu pro generování a rozpoznávání štítků s čárovými kódy z obrázků s pokročilými funkcemi pro přizpůsobení procesu generování a rozpoznávání čárových kódů.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total pro C++ zahrnuje následující knihovny C++:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for C++ zahrnuje následující knihovny C++:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 Knihovna tříd C++ pro programátory k provádění široké škály úloh analýzy dokumentů přímo z aplikací C++. Umožňuje vytvářet, převádět a manipulovat DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT a několik dalších oblíbených formátů souborů pro zpracování textu bez jakýchkoli závislostí.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 Knihovna C++ PDF, která umožňuje aplikacím C++ vytvářet, manipulovat a vykreslovat soubory PDF bez použití Adobe Acrobat. Aspose.PDF pro C++ podporuje vytváření a správu formulářů, manipulaci s přílohami, anotacemi, záložkami, vodoznaky a také vykreslování stránek do obrázků PNG, JPEG a BMP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++ umožňuje vývojářům pracovat s formáty souborů Excel v rámci jejich vlastních aplikací C++ bez nutnosti instalace Microsoft Excel. Excel C++ API podporuje všechny hlavní formáty souborů Microsoft Excel včetně XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited a umí exportovat všechny tabulkové formáty do PDF, XPS, HTML a obrázků.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
-Aspose.Email pro C++ je MIME a e-mailová knihovna pro C++, která nabízí manipulaci se soubory a archivy e-mailových zpráv z aplikací C++. Email C++ API je schopno vytvářet, manipulovat a převádět nejoblíbenější formáty zpráv, jako jsou MSG, EML, EMLX a MHTML, a může vytvářet, kontrolovat a extrahovat zprávy z archivů PST a OST.
+{{< blocks/products/pf/total/product-item href="/email/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+Aspose.Email for C++ je MIME a e-mailová knihovna pro C++, která nabízí manipulaci se soubory a archivy e-mailových zpráv z aplikací C++. Email C++ API je schopno vytvářet, manipulovat a převádět nejoblíbenější formáty zpráv, jako jsou MSG, EML, EMLX a MHTML, a může vytvářet, kontrolovat a extrahovat zprávy z archivů PST a OST.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Jedná se o unikátní rozhraní PowerPoint pro správu a analýzu snímků v PowerPointu, které umožňuje aplikacím C++ číst, psát a upravovat prezentace a snímky ve formátech PPT, POT, PPTX, PPS, PPSX, POTX a OPD. Vývojáři mohou vytvářet, upravovat, převádět a vykreslovat prezentace bez potřeby aplikace Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
-Knihovna čárových kódů C++ nabízí vysokorychlostní algoritmy generování a rozpoznávání pro 1D, 2D a poštovní čárové kódy pro vývojáře, aby mohli přidat funkce čárových kódů do svých vlastních aplikací C++. Knihovna čárových kódů pro C++ také umožňuje vývojářům exportovat štítky s čárovými kódy do formátů rastrových obrázků a také číst otočené čárové kódy z obrázků.
+{{< blocks/products/pf/total/product-item href="/barcode/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+Knihovna čárových kódů C++ nabízí vysokorychlostní algoritmy generování a rozpoznávání pro 1D, 2D a poštovní čárové kódy pro vývojáře, aby mohli přidat funkce čárových kódů do svých vlastních aplikací C++. Knihovna čárových kódů for C++také umožňuje vývojářům exportovat štítky s čárovými kódy do formátů rastrových obrázků a také číst otočené čárové kódy z obrázků.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
-Aspose.Tasks pro C++ je knihovna pro zpracování a analýzu souborů aplikace Microsoft Project. Umožňuje vytvářet, číst a manipulovat s více formáty a také převádět projekt do různých výstupních formátů. Dále můžete spravovat hlavní a výchozí nastavení projektu, rozšířené atributy, omezení úkolů a také definovat pracovní dny pro projekt, kalendáře a výjimky kalendáře.
+{{< blocks/products/pf/total/product-item href="/tasks/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+Aspose.Tasks for C++ je knihovna pro zpracování a analýzu souborů aplikace Microsoft Project. Umožňuje vytvářet, číst a manipulovat s více formáty a také převádět projekt do různých výstupních formátů. Dále můžete spravovat hlavní a výchozí nastavení projektu, rozšířené atributy, omezení úkolů a také definovat pracovní dny pro projekt, kalendáře a výjimky kalendáře.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++ je nativní knihovna OCR pro extrahování textu z obrázků s různými fonty a styly. Vývojáři mohou ušetřit čas a úsilí při vývoji softwaru OCR od začátku. API podporuje více obrazových formátů včetně BMP, JPG a PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++ je samostatná a spolehlivá knihovna pro zpracování a analýzu souborů Postscript a XPS. Umožňuje vytvářet, načítat a manipulovat s formáty XPS, PS a EPS. Kromě toho API poskytuje převod souborů PS a EPS do PDF a rastrových obrazových formátů včetně EMF, BMP, GIF, PNG, JPEG a TIFF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
-Aspose.PUB pro C++ je samostatná a spolehlivá knihovna pro zpracování a analýzu souborů aplikace Microsoft Publisher. Vývojáři mohou snadno číst a analyzovat formáty .pub. Kromě toho je jednou z jeho hlavních funkcí převod PUB do PDF.
+{{< blocks/products/pf/total/product-item href="/pub/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+Aspose.PUB for C++ je samostatná a spolehlivá knihovna pro zpracování a analýzu souborů aplikace Microsoft Publisher. Vývojáři mohou snadno číst a analyzovat formáty .pub. Kromě toho je jednou z jeho hlavních funkcí převod PUB do PDF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++ je rozhraní API pro integraci a správu písem pro práci s různými formáty písem, jako jsou TrueType, CFF, OpenType a Type1. Lze snadno načítat, kreslit a ukládat písma ze souborů i streamovat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
-Aspose.TeX pro C++ je tex integrační a manažerské API pro práci s tex soubory. Jeden může snadno načíst, vysázet a uložit výsledek jako obrázek nebo pdf.
+{{< blocks/products/pf/total/product-item href="/tex/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+Aspose.TeX for C++ je tex integrační a manažerské API pro práci s tex soubory. Jeden může snadno načíst, vysázet a uložit výsledek jako obrázek nebo pdf.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
