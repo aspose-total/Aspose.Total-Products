@@ -11,12 +11,12 @@ informat: XLT
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Voor een programmeur die XLT-bestanden binnen de C++-toepassing probeert bij te werken, [Aspose.Total for C++](https://products.aspose.com/total/cpp/) API kan helpen om het updateproces te automatiseren. Het is een volledig pakket van verschillende C++-bibliotheken die meerdere formaten aankunnen, waaronder Microsoft Excel-documenten. De [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API die deel uitmaakt van het [Aspose.Total for C++](https://products.aspose.com/total/cpp/)-pakket maakt dit wijzigingsproces eenvoudig. Het bijwerken van het XLT-document is eenvoudig door eerst het blad te openen en vervolgens de celwaarde in Excel bij te werken met C ++.
+Voor een programmeur die XLT-bestanden binnen de C++-toepassing probeert bij te werken, [Aspose.Total for C++](https://products.aspose.com/total/cpp/) API kan helpen om het updateproces te automatiseren. Het is een volledig pakket van verschillende C++-bibliotheken die meerdere formaten aankunnen, waaronder Microsoft Excel-documenten. De [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API die deel uitmaakt van het [Aspose.Total for C++](https://products.aspose.com/total/cpp/)-pakket maakt dit wijzigingsproces eenvoudig. Het bijwerken van het XLT-document is eenvoudig door eerst het blad te openen en vervolgens de celwaarde in Excel bij te werken met C++.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Hoe XLT-bestand in C ++ te updaten" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hoe XLT-bestand in C++ te updaten" %}}
 
 - Laad het XLT-bestand met behulp van [CreateIWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory#a93f7282b976d2a001d44198dedaceee8)
 - Toegang tot relevante [Worksheet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet) met behulp van GetIWorksheets()->GetObjectByIndex(0) en relevante cel met behulp van GetICells()->GetObjectByIndex

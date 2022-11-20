@@ -11,7 +11,7 @@ informat: XLSB
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Para un programador que intenta actualizar archivos XLSB dentro de la aplicación C++, La API [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede ayudar a automatizar el proceso de actualización. Es un paquete completo de diferentes bibliotecas de C ++ que manejan múltiples formatos, incluidos documentos de Microsoft Excel. La API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) que forma parte del paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/) facilita este proceso de modificación. El proceso de actualización del documento XLSB es simple al acceder primero a la hoja y luego actualizar el valor de la celda en Excel usando C++.
+Para un programador que intenta actualizar archivos XLSB dentro de la aplicación C++, La API [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede ayudar a automatizar el proceso de actualización. Es un paquete completo de diferentes bibliotecas de C++ que manejan múltiples formatos, incluidos documentos de Microsoft Excel. La API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) que forma parte del paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/) facilita este proceso de modificación. El proceso de actualización del documento XLSB es simple al acceder primero a la hoja y luego actualizar el valor de la celda en Excel usando C++.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

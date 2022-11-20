@@ -1,22 +1,22 @@
 ---
-title: تحديث ملف XLSB باستخدام C ++
-description: تعديل مستند XLSB في تطبيقات C ++ بدون استخدام Microsoft Excel.
+title: تحديث ملف XLSB باستخدام C++
+description: تعديل مستند XLSB في تطبيقات C++ بدون استخدام Microsoft Excel.
 family: total
 platformtag: C++
 feature: update
 informat: XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحديث ملف XLSB عبر C ++" h2="قم بتعديل جداول بيانات XLSB عبر التطبيقات المستندة إلى C ++ بدون تثبيت Microsoft Office <sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="تحديث ملف XLSB عبر C++" h2="قم بتعديل جداول بيانات XLSB عبر التطبيقات المستندة إلى C++ بدون تثبيت Microsoft Office <sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-للمبرمج الذي يحاول تحديث ملفات XLSB داخل تطبيق C ++, يمكن أن تساعد [Aspose.Total for C++](https://products.aspose.com/total/cpp/) API في أتمتة عملية التحديث. إنها حزمة كاملة من مكتبات C ++ مختلفة تتعامل مع تنسيقات متعددة بما في ذلك مستندات Microsoft Excel. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API الذي يعد جزءًا من حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/) يجعل عملية التعديل هذه سهلة. عملية تحديث مستند XLSB بسيطة عن طريق الوصول أولاً إلى الورقة ثم تحديث قيمة الخلية في Excel باستخدام C ++.
+للمبرمج الذي يحاول تحديث ملفات XLSB داخل تطبيق C++, يمكن أن تساعد [Aspose.Total for C++](https://products.aspose.com/total/cpp/) API في أتمتة عملية التحديث. إنها حزمة كاملة من مكتبات C++ مختلفة تتعامل مع تنسيقات متعددة بما في ذلك مستندات Microsoft Excel. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API الذي يعد جزءًا من حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/) يجعل عملية التعديل هذه سهلة. عملية تحديث مستند XLSB بسيطة عن طريق الوصول أولاً إلى الورقة ثم تحديث قيمة الخلية في Excel باستخدام C++.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحديث ملف XLSB في C ++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحديث ملف XLSB في C++" %}}
 
 - قم بتحميل ملف XLSB باستخدام [CreateIWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory#a93f7282b976d2a001d44198dedaceee8)
 - الوصول إلى [Worksheet](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet) ذي الصلة باستخدام GetIWorksheets()->GetObjectByIndex(0) والخلية ذات الصلة باستخدام GetICells()->GetObjectByIndex
@@ -34,7 +34,7 @@ informat: XLSB
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="كود - تحديث ملف XLSB في C ++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="كود - تحديث ملف XLSB في C++" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "42342f602044f852ec65704204e5d54a" "update-excel-documents.cpp" >}}
 
