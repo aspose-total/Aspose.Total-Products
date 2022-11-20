@@ -18,27 +18,27 @@ Aspose.Total for Android via Java 是 Aspose 提供的每个 Android API 的编�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Android via Java 包括以下文档格式 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/zh/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Aspose.Words for Android via Java 是一种高级 Word 文档处理 API，使您能够在 Android 应用程序中轻松生成、修改、转换和呈现 Microsoft Word 文档。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/zh/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Aspose.PDF for Android via Java 是一个 PDF 生成和操作 API，使您的 Android 应用程序无需使用任何其他第三方应用程序即可编写、读取和编辑 PDF 文件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Aspose.Cells for Android via Java 是一个 Microsoft Excel 电子表格 API，允许您开发 Android 应用程序以读取、写入和操作 Excel 电子表格，而无需依赖 Microsoft Excel。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/zh/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Aspose.Email for Android via Java 是一个 Microsoft Outlook 消息操作 API，您可以使用它开发用于管理和操作电子邮件消息的 Android 应用程序，而不会迷失在 Microsoft Outlook 文件格式实现的复杂性中。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Aspose.Slides for Android via Java 是一个特定的 PowerPoint 管理和解析 API，它使基于 Android 的应用程序能够在不使用 Microsoft PowerPoint 的情况下编写、读取和操作 PowerPoint 演示文稿。它为创建 MSO 图表、SmartArt 形状和 ActiveX 控件提供内置支持。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode for Android via Java 是一组条码 API，用于从任何角度的图像生成和识别一维和二维条码。
 {{< /blocks/products/pf/total/product-item >}}
 

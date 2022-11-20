@@ -18,27 +18,27 @@ Aspose.Total for Android, Aspose tarafından sunulan tüm Android API'lerinin bi
 
 {{< blocks/products/pf/total/products description="Java aracılığıyla Android için Aspose.Total aşağıdaki belge formatı API'lerini içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Java üzerinden Android için Aspose.Words, Android uygulamalarınızda kolayca Microsoft Word belgeleri oluşturmanıza, değiştirmenize, dönüştürmenize ve oluşturmanıza olanak tanıyan gelişmiş bir Word Belgeleri işleme API'sidir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Java üzerinden Android için Aspose.PDF, Android uygulamalarınızın başka herhangi bir üçüncü taraf uygulaması kullanmadan PDF dosyalarını yazmasına, okumasına ve düzenlemesine olanak tanıyan bir PDF oluşturma ve işleme API'sidir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Java üzerinden Android için Aspose.Cells, Microsoft Excel'e bağlı kalmadan Excel elektronik tablosunu okumak, yazmak ve işlemek için Android uygulamaları geliştirmenize olanak tanıyan bir Microsoft Excel elektronik tablo API'sidir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Java üzerinden Aspose.Email for Android, Microsoft Outlook dosya formatı uygulamasının karmaşıklığı içinde kaybolmadan e-posta mesajlarını yönetmek ve manipüle etmek için Android uygulamaları geliştirebileceğiniz bir Microsoft Outlook mesaj işleme API'sidir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Java üzerinden Android için Aspose.Slides, Android tabanlı uygulamaların Microsoft PowerPoint kullanmadan PowerPoint sunumlarını yazmasını, okumasını ve değiştirmesini sağlayan özel bir PowerPoint yönetim ve ayrıştırma API'sidir. MSO Grafikleri, SmartArt şekilleri ve ActiveX denetimleri oluşturmak için yerleşik destek sunar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode for Android, herhangi bir açıda görüntülerden 1D ve 2D barkodlar oluşturmak ve tanımak için Java aracılığıyla bir dizi barkod API'sidir.
 {{< /blocks/products/pf/total/product-item >}}
 

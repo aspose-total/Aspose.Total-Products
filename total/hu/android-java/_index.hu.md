@@ -13,32 +13,32 @@ description: Android fájlformátum API-k Word Excel PDF PowerPointhoz és e-mai
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Az Aspose.Total for Android a Java-n keresztül az Aspose által kínált összes Android API összeállítása. A fejlesztők létrehozhatnak, manipulálhatnak, renderelhetnek és konvertálhatnak különböző dokumentumformátumokat az Android-alkalmazásokon belül.
+Az Aspose.Total for Android via Java keresztül az Aspose által kínált összes Android API összeállítása. A fejlesztők létrehozhatnak, manipulálhatnak, renderelhetnek és konvertálhatnak különböző dokumentumformátumokat az Android-alkalmazásokon belül.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Az Aspose.Total for Android a Java-n keresztül a következő dokumentumformátumú API-kat tartalmazza:" >}}
+{{< blocks/products/pf/total/products description="Az Aspose.Total for Android via Java keresztül a következő dokumentumformátumú API-kat tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
-Az Aspose.Words for Android a Java-n keresztül egy fejlett Word-dokumentum-feldolgozó API, amely lehetővé teszi a Microsoft Word dokumentumok egyszerű létrehozását, módosítását, konvertálását és renderelését Android-alkalmazásaiban.
+{{< blocks/products/pf/total/product-item href="/words/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+Az Aspose.Words for Android via Java keresztül egy fejlett Word-dokumentum-feldolgozó API, amely lehetővé teszi a Microsoft Word dokumentumok egyszerű létrehozását, módosítását, konvertálását és renderelését Android-alkalmazásaiban.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
-Az Aspose.PDF for Android a Java-n keresztül egy PDF-generáló és -manipuláló API, amely lehetővé teszi Android-alkalmazásai számára PDF-fájlok írását, olvasását és szerkesztését harmadik féltől származó alkalmazások használata nélkül.
+{{< blocks/products/pf/total/product-item href="/pdf/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+Az Aspose.PDF for Android via Java keresztül egy PDF-generáló és -manipuláló API, amely lehetővé teszi Android-alkalmazásai számára PDF-fájlok írását, olvasását és szerkesztését harmadik féltől származó alkalmazások használata nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Az Aspose.Cells for Android via Java egy Microsoft Excel táblázatkezelő API, amely lehetővé teszi Android alkalmazások fejlesztését Excel-táblázatok olvasásához, írásához és kezeléséhez anélkül, hogy a Microsoft Exceltől függne.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Az Aspose.Email for Android via Java egy Microsoft Outlook üzenetkezelési API, amelynek segítségével Android-alkalmazásokat fejleszthet az e-mail üzenetek kezelésére és manipulálására anélkül, hogy elveszne a Microsoft Outlook fájlformátum megvalósításának bonyolultságában.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
-Az Aspose.Slides for Android a Java-n keresztül egy speciális PowerPoint felügyeleti és elemzési API, amely lehetővé teszi az Android alapú alkalmazások számára, hogy Microsoft PowerPoint használata nélkül írják, olvassák és kezeljék a PowerPoint bemutatókat. Beépített támogatást kínál MSO-diagramok, SmartArt-alakzatok és ActiveX-vezérlők létrehozásához.
+{{< blocks/products/pf/total/product-item href="/slides/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+Az Aspose.Slides for Android via Java keresztül egy speciális PowerPoint felügyeleti és elemzési API, amely lehetővé teszi az Android alapú alkalmazások számára, hogy Microsoft PowerPoint használata nélkül írják, olvassák és kezeljék a PowerPoint bemutatókat. Beépített támogatást kínál MSO-diagramok, SmartArt-alakzatok és ActiveX-vezérlők létrehozásához.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Az Aspose.BarCode for Android via Java vonalkód API-k készlete 1D és 2D vonalkódok generálására és felismerésére a képekből bármilyen szögből.
 {{< /blocks/products/pf/total/product-item >}}
 

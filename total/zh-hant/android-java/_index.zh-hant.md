@@ -18,27 +18,27 @@ Aspose.Total for Android via Java 是 Aspose 提供的每個 Android API 的編�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Android via Java 包括以下文檔格式 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Aspose.Words for Android via Java 是一種高級 Word 文檔處理 API，使您能夠在 Android 應用程序中輕鬆生成、修改、轉換和呈現 Microsoft Word 文檔。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Aspose.PDF for Android via Java 是一個 PDF 生成和操作 API，使您的 Android 應用程序無需使用任何其他第三方應用程序即可編寫、讀取和編輯 PDF 文件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Aspose.Cells for Android via Java 是一個 Microsoft Excel 電子表格 API，允許您開發 Android 應用程序以讀取、寫入和操作 Excel 電子表格，而無需依賴 Microsoft Excel。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Aspose.Email for Android via Java 是一個 Microsoft Outlook 消息操作 API，您可以使用它開髮用於管理和操作電子郵件消息的 Android 應用程序，而不會迷失在 Microsoft Outlook 文件格式實現的複雜性中。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Aspose.Slides for Android via Java 是一個特定的 PowerPoint 管理和解析 API，它使基於 Android 的應用程序能夠在不使用 Microsoft PowerPoint 的情況下編寫、讀取和操作 PowerPoint 演示文稿。 它為創建 MSO 圖表、SmartArt 形狀和 ActiveX 控件提供內置支持。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh-hant/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode for Android via Java 是一組條碼 API，用於從任何角度的圖像生成和識別一維和二維條碼。
 {{< /blocks/products/pf/total/product-item >}}
 

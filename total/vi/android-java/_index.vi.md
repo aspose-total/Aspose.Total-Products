@@ -13,33 +13,33 @@ description: API định dạng tệp Android cho Word Excel PDF PowerPoint và 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total cho Android thông qua Java là tập hợp mọi API Android do Aspose cung cấp. Các nhà phát triển có thể tạo, thao tác, kết xuất và chuyển đổi giữa các định dạng tài liệu khác nhau trong các ứng dụng Android.
+Aspose.Total for Android via Java là tập hợp mọi API Android do Aspose cung cấp. Các nhà phát triển có thể tạo, thao tác, kết xuất và chuyển đổi giữa các định dạng tài liệu khác nhau trong các ứng dụng Android.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total cho Android qua Java bao gồm các API định dạng tài liệu sau:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Android via Java bao gồm các API định dạng tài liệu sau:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
-Aspose. AdWords dành cho Android qua Java là một API xử lý Tài liệu Word nâng cao cho phép bạn dễ dàng tạo, sửa đổi, chuyển đổi và hiển thị tài liệu Microsoft Word trong các ứng dụng Android của mình.
+{{< blocks/products/pf/total/product-item href="/words/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+Aspose. AdWords dành for Android via Java là một API xử lý Tài liệu Word nâng cao cho phép bạn dễ dàng tạo, sửa đổi, chuyển đổi và hiển thị tài liệu Microsoft Word trong các ứng dụng Android của mình.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
-Aspose.PDF cho Android qua Java là một API thao tác và tạo PDF cho phép các ứng dụng Android của bạn viết, đọc và chỉnh sửa các tệp PDF mà không cần sử dụng bất kỳ ứng dụng bên thứ ba nào khác.
+{{< blocks/products/pf/total/product-item href="/pdf/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+Aspose.PDF for Android via Java là một API thao tác và tạo PDF cho phép các ứng dụng Android của bạn viết, đọc và chỉnh sửa các tệp PDF mà không cần sử dụng bất kỳ ứng dụng bên thứ ba nào khác.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
-Aspose.Cells cho Android qua Java là một API bảng tính Microsoft Excel cho phép bạn phát triển các ứng dụng Android để đọc, viết và thao tác trên bảng tính Excel mà không phụ thuộc vào Microsoft Excel.
+{{< blocks/products/pf/total/product-item href="/cells/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+Aspose.Cells for Android via Java là một API bảng tính Microsoft Excel cho phép bạn phát triển các ứng dụng Android để đọc, viết và thao tác trên bảng tính Excel mà không phụ thuộc vào Microsoft Excel.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
-Aspose.Email cho Android qua Java là một API thao tác thư của Microsoft Outlook, sử dụng API này, bạn có thể phát triển các ứng dụng Android để quản lý và xử lý thư email mà không bị lạc vào sự phức tạp của việc triển khai định dạng tệp Microsoft Outlook.
+{{< blocks/products/pf/total/product-item href="/email/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+Aspose.Email for Android via Java là một API thao tác thư của Microsoft Outlook, sử dụng API này, bạn có thể phát triển các ứng dụng Android để quản lý và xử lý thư email mà không bị lạc vào sự phức tạp của việc triển khai định dạng tệp Microsoft Outlook.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
-Aspose.Slides cho Android qua Java là một API phân tích và quản lý PowerPoint cụ thể cho phép các ứng dụng dựa trên Android viết, đọc và thao tác các bản trình bày PowerPoint mà không cần sử dụng Microsoft PowerPoint. Nó cung cấp hỗ trợ tích hợp để tạo Biểu đồ MSO, hình dạng SmartArt và điều khiển ActiveX.
+{{< blocks/products/pf/total/product-item href="/slides/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+Aspose.Slides for Android via Java là một API phân tích và quản lý PowerPoint cụ thể cho phép các ứng dụng dựa trên Android viết, đọc và thao tác các bản trình bày PowerPoint mà không cần sử dụng Microsoft PowerPoint. Nó cung cấp hỗ trợ tích hợp để tạo Biểu đồ MSO, hình dạng SmartArt và điều khiển ActiveX.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
-Aspose.BarCode cho Android qua Java là một bộ API mã vạch để tạo và nhận dạng mã vạch 1D & 2D từ hình ảnh ở mọi góc độ.
+{{< blocks/products/pf/total/product-item href="/barcode/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+Aspose.BarCode for Android via Java là một bộ API mã vạch để tạo và nhận dạng mã vạch 1D & 2D từ hình ảnh ở mọi góc độ.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
@@ -109,10 +109,10 @@ Aspose.BarCode cho Android qua Java là một bộ API mã vạch để tạo v�
   Xử lý nhiều định dạng tệp
  </h2>
  <p>
-  Với Aspose.Total cho Android thông qua Java, bạn có thể phát triển một hệ thống xử lý tài liệu đa năng có khả năng xử lý nhiều định dạng. Người ta có thể dễ dàng tạo, đọc, sửa đổi và chuyển đổi giữa các định dạng.
+  Với Aspose.Total for Android via Java, bạn có thể phát triển một hệ thống xử lý tài liệu đa năng có khả năng xử lý nhiều định dạng. Người ta có thể dễ dàng tạo, đọc, sửa đổi và chuyển đổi giữa các định dạng.
  </p>
  <p>
-  Aspose.Total cho Android qua Java hiện hỗ trợ các loại tệp sau.
+  Aspose.Total for Android via Java hiện hỗ trợ các loại tệp sau.
  </p>
  <ul class="unstyled">
   <li>
@@ -169,7 +169,7 @@ Aspose.Total là một bộ phần mềm mạnh mẽ để xử lý gần như t
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/total/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao nên dùng Aspose.Total cho Android qua Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao nên dùng Aspose.Total for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}} 
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}

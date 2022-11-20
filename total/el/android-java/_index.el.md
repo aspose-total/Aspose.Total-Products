@@ -13,33 +13,33 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Το Aspose.Total για Android μέσω Java είναι μια συλλογή κάθε API Android που προσφέρεται από την Aspose. Οι προγραμματιστές μπορούν να δημιουργούν, να χειρίζονται, να αποδίδουν και να μετατρέπουν μεταξύ διαφορετικών μορφών εγγράφων εντός εφαρμογών Android.
+Το Aspose.Total for Android via Java είναι μια συλλογή κάθε API Android που προσφέρεται από την Aspose. Οι προγραμματιστές μπορούν να δημιουργούν, να χειρίζονται, να αποδίδουν και να μετατρέπουν μεταξύ διαφορετικών μορφών εγγράφων εντός εφαρμογών Android.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Το Aspose.Total για Android μέσω Java περιλαμβάνει τα ακόλουθα API μορφής εγγράφου:" >}}
+{{< blocks/products/pf/total/products description="Το Aspose.Total for Android via Java περιλαμβάνει τα ακόλουθα API μορφής εγγράφου:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
-Το Aspose.Words για Android μέσω Java είναι ένα προηγμένο API επεξεργασίας εγγράφων του Word που σας δίνει τη δυνατότητα να δημιουργείτε, να τροποποιείτε, να μετατρέπετε και να αποδίδετε έγγραφα Microsoft Word εύκολα στις εφαρμογές σας Android.
+{{< blocks/products/pf/total/product-item href="/words/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+Το Aspose.Words for Android via Java είναι ένα προηγμένο API επεξεργασίας εγγράφων του Word που σας δίνει τη δυνατότητα να δημιουργείτε, να τροποποιείτε, να μετατρέπετε και να αποδίδετε έγγραφα Microsoft Word εύκολα στις εφαρμογές σας Android.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
-Το Aspose.PDF για Android μέσω Java είναι ένα API δημιουργίας και χειρισμού PDF που επιτρέπει στις εφαρμογές σας Android να γράφουν, να διαβάζουν και να επεξεργάζονται αρχεία PDF χωρίς τη χρήση άλλης εφαρμογής τρίτων.
+{{< blocks/products/pf/total/product-item href="/pdf/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+Το Aspose.PDF for Android via Java είναι ένα API δημιουργίας και χειρισμού PDF που επιτρέπει στις εφαρμογές σας Android να γράφουν, να διαβάζουν και να επεξεργάζονται αρχεία PDF χωρίς τη χρήση άλλης εφαρμογής τρίτων.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
-Το Aspose.Cells για Android μέσω Java είναι ένα API υπολογιστικού φύλλου του Microsoft Excel που σας επιτρέπει να αναπτύξετε εφαρμογές Android για ανάγνωση, γραφή και χειρισμό υπολογιστικών φύλλων Excel χωρίς να εξαρτάστε από το Microsoft Excel.
+{{< blocks/products/pf/total/product-item href="/cells/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+Το Aspose.Cells for Android via Java είναι ένα API υπολογιστικού φύλλου του Microsoft Excel που σας επιτρέπει να αναπτύξετε εφαρμογές Android για ανάγνωση, γραφή και χειρισμό υπολογιστικών φύλλων Excel χωρίς να εξαρτάστε από το Microsoft Excel.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
-Το Aspose.Email για Android μέσω Java είναι ένα API χειρισμού μηνυμάτων του Microsoft Outlook, χρησιμοποιώντας το οποίο μπορείτε να αναπτύξετε εφαρμογές Android για διαχείριση και χειρισμό μηνυμάτων email χωρίς να χαθείτε στην πολυπλοκότητα της εφαρμογής μορφής αρχείου του Microsoft Outlook.
+{{< blocks/products/pf/total/product-item href="/email/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+Το Aspose.Email for Android via Java είναι ένα API χειρισμού μηνυμάτων του Microsoft Outlook, χρησιμοποιώντας το οποίο μπορείτε να αναπτύξετε εφαρμογές Android για διαχείριση και χειρισμό μηνυμάτων email χωρίς να χαθείτε στην πολυπλοκότητα της εφαρμογής μορφής αρχείου του Microsoft Outlook.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
-Το Aspose.Slides για Android μέσω Java είναι ένα συγκεκριμένο API διαχείρισης και ανάλυσης PowerPoint που επιτρέπει σε εφαρμογές που βασίζονται στο Android να γράφουν, να διαβάζουν και να χειρίζονται παρουσιάσεις PowerPoint χωρίς τη χρήση του Microsoft PowerPoint. Προσφέρει ενσωματωμένη υποστήριξη για τη δημιουργία γραφημάτων MSO, σχημάτων SmartArt και στοιχείων ελέγχου ActiveX.
+{{< blocks/products/pf/total/product-item href="/slides/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+Το Aspose.Slides for Android via Java είναι ένα συγκεκριμένο API διαχείρισης και ανάλυσης PowerPoint που επιτρέπει σε εφαρμογές που βασίζονται στο Android να γράφουν, να διαβάζουν και να χειρίζονται παρουσιάσεις PowerPoint χωρίς τη χρήση του Microsoft PowerPoint. Προσφέρει ενσωματωμένη υποστήριξη για τη δημιουργία γραφημάτων MSO, σχημάτων SmartArt και στοιχείων ελέγχου ActiveX.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
-Το Aspose.BarCode για Android μέσω Java είναι ένα σύνολο API γραμμωτού κώδικα για τη δημιουργία και την αναγνώριση γραμμωτών κωδίκων 1D και 2D από εικόνες σε οποιαδήποτε γωνία.
+{{< blocks/products/pf/total/product-item href="/barcode/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+Το Aspose.BarCode for Android via Java είναι ένα σύνολο API γραμμωτού κώδικα για τη δημιουργία και την αναγνώριση γραμμωτών κωδίκων 1D και 2D από εικόνες σε οποιαδήποτε γωνία.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

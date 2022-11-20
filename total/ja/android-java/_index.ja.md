@@ -18,27 +18,27 @@ Aspose.Total for Android via Javaは、Asposeが提供するすべてのAndroidA
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Android via Javaには、次のドキュメント形式のAPIが含まれています。" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/ja/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Aspose.Words for Android via Javaは、Androidアプリケーション内でMicrosoft Wordドキュメントを簡単に生成、変更、変換、およびレンダリングできるようにする高度なWordドキュメント処理APIです。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ja/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Aspose.PDF for Android via Javaは、Androidアプリケーションが他のサードパーティアプリケーションを使用せずにPDFファイルの書き込み、読み取り、編集を行えるようにするPDF生成および操作APIです。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ja/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Aspose.Cells for Android via Javaは、MicrosoftExcelに依存せずにExcelスプレッドシートの読み取り、書き込み、操作を行うためのAndroidアプリケーションを開発できるMicrosoftExcelスプレッドシートAPIです。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/ja/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Aspose.Email for Android via Javaは、Microsoft Outlookメッセージ操作APIであり、Microsoft Outlookファイル形式の実装の複雑さに迷うことなく、電子メールメッセージを管理および操作するためのAndroidアプリケーションを開発できます。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/ja/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Aspose.Slides for Android via Javaは、AndroidベースのアプリケーションがMicrosoft PowerPointを使用せずにPowerPointプレゼンテーションを作成、読み取り、操作できるようにする特定のPowerPoint管理および解析APIです。 MSOチャート、SmartArt図形、およびActiveXコントロールを作成するための組み込みサポートを提供します。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ja/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode for Android via Javaは、任意の角度の画像から1Dおよび2Dバーコードを生成および認識するためのバーコードAPIのセットです。
 {{< /blocks/products/pf/total/product-item >}}
 
