@@ -18,19 +18,19 @@ Aspose.Total for JasperReports, geliştiricilerin raporları Microsoft Word, Exc
 
 {{< blocks/products/pf/total/products description="Aspose.Total for JasperReports aşağıdaki ihracatçıları içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words for JasperReports, raporları JasperReports ve JasperServer'dan Microsoft Word belgesine (DOC), Office Open XML'e (OOXML, DOCX), Zengin Metin Formatına (RTF), OpenDocument Metnine (ODT), Web'e aktarmak için piyasadaki tek çözümdür. sayfa (HTML) ve düz metin (TXT) biçimleri.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/tr/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF for JasperReports, raporları JasperReports ve JasperServer'dan Taşınabilir Belge Formatına (PDF) ve ISO standartlaştırılmış versiyonuna aktarmak için özel olarak tasarlanmış ve geliştirilmiştir; PDF/A. Çizelgeler, tablolar ve resimler gibi rapor özelliklerinin çoğu, en yüksek hassasiyetle PDF'ye dönüştürülür.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells for JasperReports, raporların JasperReports ve JasperServer'dan XLS, XLSX ve SpreadsheetML dahil olmak üzere Microsoft Excel Elektronik Tablo formatlarına aktarılmasına olanak tanır. Ayrıca PDF, ODS, CSV ve Sekmeyle ayrılmış gibi diğer popüler biçimleri de destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides for JasperReports, raporları JasperReports'tan Microsoft PowerPoint 97 – 2003 (PPT ve PPS) ve Microsoft PowerPoint 2007-2013 (PPTX ve PPSX) sunum biçimlerine Java uygulamaları içinden aktarması gereken geliştiriciler için tasarlanmıştır.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -38,7 +38,7 @@ Aspose.Slides for JasperReports, raporları JasperReports'tan Microsoft PowerPoi
 Aspose.Imaging for JasperReports, JasperReport'ları birden çok görüntü formatına aktarmak için esnek bir çözüm sunar. Çok sayfalı raporlar veya toplu dışa aktarma kolayca oluşturulabilir. Toplu modda. her rapor sayfası ayrı bir belge olarak kaydedilecektir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode for JasperReports, işletmenizin kullanışlılığını artırmak için benzersiz ve sağlam bir çözüm sunar. Geliştiricilerin JasperReports'ta yüksek kaliteli barkod etiketleri oluşturmasına ve görüntülemesine olanak tanır.
 {{< /blocks/products/pf/total/product-item >}}
 

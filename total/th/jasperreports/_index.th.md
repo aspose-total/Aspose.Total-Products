@@ -18,19 +18,19 @@ Aspose.Total สำหรับ JasperReports เป็นชุดที่ม�
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ JasperReports รวมถึงผู้ส่งออกต่อไปนี้:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words สำหรับ JasperReports เป็นโซลูชันเดียวในตลาดในการส่งออกรายงานจาก JasperReports และ JasperServer ไปยังเอกสาร Microsoft Word (DOC), Office Open XML (OOXML, DOCX), Rich Text Format (RTF), OpenDocument Text (ODT), เว็บ รูปแบบหน้า (HTML) และข้อความธรรมดา (TXT)
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF สำหรับ JasperReports ได้รับการออกแบบและพัฒนาเป็นพิเศษเพื่อส่งออกรายงานจาก JasperReports และ JasperServer ไปยัง รูปแบบเอกสารพกพา (PDF) และเวอร์ชันมาตรฐาน ISO PDF/ก. ฟีเจอร์รายงานส่วนใหญ่ เช่น แผนภูมิ ตาราง และรูปภาพจะถูกแปลงเป็น PDF ด้วยระดับความแม่นยำสูงสุด
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells สำหรับ JasperReports อนุญาตให้ส่งออกรายงานจาก JasperReports และ JasperServer ไปยังรูปแบบ Microsoft Excel Spreadsheet รวมถึง XLS, XLSX และ SpreadsheetML นอกจากนี้ยังรองรับรูปแบบยอดนิยมอื่นๆ เช่น PDF, ODS, CSV และ Tab-delimited
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides สำหรับ JasperReports ออกแบบมาสำหรับนักพัฒนาที่ต้องการส่งออกรายงานจาก JasperReports ไปยัง Microsoft PowerPoint 97 – 2003 (PPT และ PPS) และรูปแบบการนำเสนอ Microsoft PowerPoint 2007-2013 (PPTX และ PPSX) จากภายในแอปพลิเคชัน Java
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -38,7 +38,7 @@ Aspose.Slides สำหรับ JasperReports ออกแบบมาสำห
 Aspose.Imaging สำหรับ JasperReports มอบโซลูชันที่ยืดหยุ่นในการส่งออก JasperReports ไปยังรูปแบบรูปภาพที่หลากหลาย หนึ่งสามารถสร้างรายงานหลายหน้าหรือส่งออกเป็นชุดได้อย่างง่ายดาย ในโหมดแบทช์ แต่ละหน้ารายงานจะถูกบันทึกเป็นเอกสารแยกต่างหาก
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode สำหรับ JasperReports นำเสนอโซลูชันที่ไม่ซ้ำใครและมีประสิทธิภาพเพื่อเพิ่มประสิทธิภาพให้กับธุรกิจของคุณ ช่วยให้นักพัฒนาสามารถสร้างและแสดงฉลากบาร์โค้ดคุณภาพสูงบน JasperReports
 {{< /blocks/products/pf/total/product-item >}}
 
