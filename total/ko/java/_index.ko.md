@@ -18,23 +18,23 @@ Aspose.Total for Java는 Java 개발자를 위한 파일 형식 자동화 라이
 
 {{< blocks/products/pf/total/products description="Aspose.Words for Java를 사용하면 개발자가 Java 응용 프로그램 내에서 직접 광범위한 문서 처리 작업을 수행할 수 있습니다. DOC, OOXML, RTF, HTML 및 OpenDocument를 포함하여 가장 널리 사용되는 워드 프로세싱 형식을 지원합니다. Aspose.Words를 사용하면 Microsoft Word를 사용하지 않고도 문서를 생성, 수정 및 변환할 수 있습니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
+{{< blocks/products/pf/total/product-item href="/words/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Java를 사용하면 개발자가 Java 응용 프로그램 내에서 직접 광범위한 문서 처리 작업을 수행할 수 있습니다. DOC, OOXML, RTF, HTML 및 OpenDocument를 포함하여 가장 널리 사용되는 워드 프로세싱 형식을 지원합니다. Aspose.Words를 사용하면 Microsoft Word를 사용하지 않고도 문서를 생성, 수정 및 변환할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
 Aspose.PDF for Java는 Adobe Acrobat을 사용하지 않고도 Java 응용 프로그램이 PDF 문서를 읽고, 쓰고, 조작할 수 있도록 하는 PDF 문서 생성 API입니다. PDF 압축 옵션, 테이블 생성 및 조작, 사용자 정의 글꼴 처리 및 확장된 보안 제어를 포함한 많은 기능을 제공하는 독립 실행형 API입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
 Aspose.Cells for Java는 Excel 파일 생성, 변환 및 조작을 제공합니다. API를 사용하면 Java 응용 프로그램에서 Microsoft Excel을 사용하지 않고도 Excel 스프레드시트를 만들고 관리할 수 있습니다. Aspose.Cells for Java는 기본 데이터 내보내기 기능 이상을 제공하는 믿을 수 없을 정도로 기능이 풍부한 API입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
+{{< blocks/products/pf/total/product-item href="/email/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
 Aspose.Email for Java는 Microsoft Outlook 없이 다양한 형식의 이메일 메시지 파일을 읽고 쓸 수 있는 Java API 세트입니다. Outlook MSG, EML, EMLX, OFT 파일을 읽고 조작하는 클래스를 제공합니다. 첨부 파일, 수신자 추가, 제목, 본문 및 기타 MSG 파일 속성을 업데이트합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
 Aspose.Slides for Java는 Java 기반 응용 프로그램이 PowerPoint 파일을 읽고, 쓰고, 업데이트할 수 있도록 하는 고유한 프레젠테이션 처리 API입니다. 개발자는 Microsoft PowerPoint를 설치하지 않고도 프레젠테이션을 생성, 조작, 복사, 변환, 렌더링 및 인쇄할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,31 +42,31 @@ Aspose.Slides for Java는 Java 기반 응용 프로그램이 PowerPoint 파일�
 Aspose.Imaging for Java는 개발자가 Java 애플리케이션에서 이미지를 편집, 생성, 그리기 또는 렌더링할 수 있도록 하는 이미징 API입니다. 이것은 가장 널리 사용되는 이미징 엔진으로 만드는 가장 요구되는 기능뿐만 아니라 기존의 이미지 처리 작업의 광범위한 스펙트럼을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
 Aspose.BarCode for Java API는 Java 애플리케이션 내에서 바코드 생성 및 인식 프로세스 추가를 제공합니다. Java SE, Java EE 및 Java ME 플랫폼과 다양한 선형, 2D 및 우편 바코드 유형을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
 Aspose.Diagram for Java는 개발자가 기존 다이어그램을 로드하고, 처음부터 다이어그램을 생성하고, 지원되는 파일 형식으로 다이어그램을 저장하거나, Microsoft Visio를 사용하지 않고 Java 애플리케이션 내에서 Microsoft Visio 드로잉을 조작할 수 있도록 하는 비그래픽 및 구조화된 API입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
+{{< blocks/products/pf/total/product-item href="/tasks/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
 Aspose.Tasks for Java는 Java 응용 프로그램 개발자가 Microsoft Project를 사용하지 않고도 응용 프로그램에서 Microsoft Project 문서 조작 기능을 제공할 수 있도록 하는 프로젝트 관리 API입니다. 이 강력한 API를 통해 개발자는 프로젝트 계획, 정의 및 추적과 같은 프로젝트 관리의 다양한 단계를 제어할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
+{{< blocks/products/pf/total/product-item href="/ocr/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
 Aspose.OCR for Java는 프로그래머가 OCR 기술을 Java 애플리케이션에 빠르고 쉽게 추가할 수 있도록 하는 광학 문자 인식 Java API입니다. API는 여러 이미지 형식의 문자를 인식하기 위한 클래스 집합을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
+{{< blocks/products/pf/total/product-item href="/note/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
 Aspose.Note for Java API를 사용하면 Java 기반 소프트웨어가 서버에 설치하지 않고도 프로그래밍 방식으로 Microsoft OneNote를 처리할 수 있습니다. Microsoft OneNote 개체 모델의 순수한 대안이며 OneNote 문서 관리에 더 나은 성능과 사용 편의성을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
+{{< blocks/products/pf/total/product-item href="/cad/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
 Java용 Aspose.CAD는 AutoCAD DXF 및 DWG 도면 파일을 PDF 및 래스터 이미지로 변환하는 기능을 제공합니다. 기본 API이므로 AutoCAD 또는 소프트웨어가 필요하지 않습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
+{{< blocks/products/pf/total/product-item href="/3d/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
 Aspose.3D for Java API는 3D 형식을 생성, 편집, 조작 및 저장하도록 제작되었습니다. Java 응용 프로그램이 컴퓨터에 소프트웨어 패키지를 설치하지 않고도 3D 문서에 연결할 수 있도록 하고 개발자가 디자인 시각화를 위한 게임 세계 및 장면을 모델링하고 생성하는 데 도움을 줍니다.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -74,27 +74,27 @@ Aspose.3D for Java API는 3D 형식을 생성, 편집, 조작 및 저장하도�
 Aspose.HTML for Java는 Java 애플리케이션 내에서 (X)HTML 문서를 생성, 로드, 편집 또는 변환할 수 있는 고급 HTML 조작 API입니다. API는 또한 PDF, XPS 및 다양한 래스터 이미지 형식을 위한 고화질 렌더링 엔진을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
+{{< blocks/products/pf/total/product-item href="/page/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
 Aspose.Page for Java는 PostScript 및 XPS 문서 구문 분석 및 처리 API입니다. 개발자는 PS 및 EPS 파일을 PDF 및 래스터 이미지 형식으로 쉽게 변환할 수 있습니다. API를 통해 개발자는 종속성 없이 XPS 파일을 생성, 구문 분석 및 저장할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
+{{< blocks/products/pf/total/product-item href="/psd/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
 Java용 Aspose.PSD는 Photoshop 형식 조작을 위한 전제 API입니다. 개발자는 PSD 및 PSB 형식을 쉽게 생성, 로드, 변환 및 수정할 수 있습니다. API는 Adobe Photoshop을 설치하지 않고도 워터마크 추가, 압축, 회전, 크기 조정 등과 같은 다양한 작업을 수행할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
+{{< blocks/products/pf/total/product-item href="/omr/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
 Aspose.OMR for Java는 OMR 디지털 시트 이미지와 BMP, JPG, TIF, TIFF, GIF와 같은 다양한 이미지 형식의 광학 마크를 인식하는 API입니다. API는 설문조사, 설문지, MCQ 등과 같은 문서 형식에서 사람이 표시한 데이터를 캡처합니다. 인식 기반은 스캔된 이미지에서 인식할 요소의 그래픽 매핑이 있는 템플릿 마크업입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
+{{< blocks/products/pf/total/product-item href="/pub/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
 Aspose.PUB for Java는 Microsoft Publisher 파일을 읽고 PDF로 변환할 수 있는 API입니다. 또한 API를 사용하면 Microsoft Publisher의 종속성 없이 기본 파일 형식 구조의 세부 사항으로 이동할 필요 없이 .pub 형식으로 작업할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
+{{< blocks/products/pf/total/product-item href="/font/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
 Aspose.Font for Java는 여러 글꼴 형식을 지원하는 글꼴 로드 및 그리기 API입니다. 디스크 또는 스트림에서 글꼴 로드, 글리프 및 메트릭 정보 읽기, 라틴 기호 감지, 글꼴 글리프 등을 사용하여 텍스트 렌더링과 같은 글꼴 파일 작업을 쉽게 수행할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
+{{< blocks/products/pf/total/product-item href="/tex/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
 Aspose.TeX for Java는 TeX 파일 조판 API입니다. TeX 파일을 쉽게 조판하여 XPS, PDF, PNG, JPEG, TIFF 및 BMP와 같은 다양한 형식의 문서를 가져올 수 있습니다. 또한 사용자 정의 TeX 형식 생성 기능이 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 

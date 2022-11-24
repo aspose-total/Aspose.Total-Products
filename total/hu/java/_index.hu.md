@@ -18,23 +18,23 @@ Az Aspose.Total for Java fájlformátum-automatizálási könyvtárak gyűjtemé
 
 {{< blocks/products/pf/total/products description="Az Aspose.Words for Java lehetővé teszi a fejlesztők számára, hogy dokumentumfeldolgozási feladatok széles skáláját hajtsák végre közvetlenül a Java alkalmazásokon belül. Támogatja a legnépszerűbb szövegszerkesztő formátumokat, beleértve a DOC, OOXML, RTF, HTML és OpenDocument formátumokat. Az Aspose.Words segítségével Microsoft Word használata nélkül hozhat létre, módosíthat és konvertálhat dokumentumokat." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
+{{< blocks/products/pf/total/product-item href="/words/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Az Aspose.Words for Java lehetővé teszi a fejlesztők számára, hogy dokumentumfeldolgozási feladatok széles skáláját hajtsák végre közvetlenül a Java alkalmazásokon belül. Támogatja a legnépszerűbb szövegszerkesztő formátumokat, beleértve a DOC, OOXML, RTF, HTML és OpenDocument formátumokat. Az Aspose.Words segítségével Microsoft Word használata nélkül hozhat létre, módosíthat és konvertálhat dokumentumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
 Az Aspose.PDF for Java egy PDF-dokumentum-létrehozó API, amely lehetővé teszi Java-alkalmazásai számára, hogy az Adobe Acrobat használata nélkül olvassanak, írjanak és kezeljenek PDF-dokumentumokat. Ez egy önálló API, amely számos funkciót kínál, beleértve a PDF-tömörítési lehetőségeket, a táblázatok létrehozását és kezelését, az egyéni betűkészlet-kezelést és a kiterjesztett biztonsági ellenőrzéseket.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
 Az Aspose.Cells for Java Excel fájlok generálását, konvertálását és manipulálását kínálja. Az API lehetővé teszi a Java alkalmazások számára, hogy Microsoft Excel használata nélkül készítsenek és kezeljenek Excel-táblázatokat. Az Aspose.Cells for Java egy hihetetlenül gazdag API, amely sokkal többet kínál, mint egyszerű adatexportálási funkciókat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
+{{< blocks/products/pf/total/product-item href="/email/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
 Az Aspose.Email for Java Java API-k készlete különféle formátumú e-mail üzenetek olvasásához és írásához Microsoft Outlook nélkül. Osztályokat biztosít az Outlook MSG, EML, EMLX, OFT fájlok olvasásához és kezeléséhez – mellékletek, címzettek hozzáadása, tárgy, törzs és egyéb MSG-fájlok tulajdonságainak frissítése.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
 Az Aspose.Slides for Java egy egyedülálló prezentációfeldolgozó API, amely lehetővé teszi a Java-alapú alkalmazások számára PowerPoint fájlok olvasását, írását és frissítését. A fejlesztők a Microsoft PowerPoint telepítése nélkül hozhatnak létre, kezelhetnek, másolhatnak, konvertálhatnak, renderelhetnek és nyomtathatnak prezentációkat.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,31 +42,31 @@ Az Aspose.Slides for Java egy egyedülálló prezentációfeldolgozó API, amely
 Az Aspose.Imaging for Java egy képalkotó API, amellyel a fejlesztők szerkeszthetnek, létrehozhatnak, rajzolhatnak vagy renderelhetnek képeket Java-alkalmazásaikban. A hagyományos képfeldolgozási műveletek széles spektrumát kínálja, valamint a legkeresettebb funkciókat, amelyek a legszélesebb körben használt képalkotó motorrá teszik.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
 Az Aspose.BarCode for Java API lehetőséget kínál vonalkód-generáló és -felismerési folyamatok hozzáadására a Java-alkalmazásokon belül. Támogatja a Java SE, Java EE és Java ME platformokat, valamint számos lineáris, 2D és postai vonalkód típust.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
 Az Aspose.Diagram for Java egy nem grafikus és jól strukturált API, amely lehetővé teszi a fejlesztők számára, hogy meglévő diagramokat töltsenek be, diagramokat készítsenek a semmiből, diagramot menthetnek bármilyen támogatott fájlformátumba, vagy manipulálhatnak Microsoft Visio rajzokat a Java alkalmazásokon belül a Microsoft Visio használata nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
+{{< blocks/products/pf/total/product-item href="/tasks/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
 Az Aspose.Tasks for Java egy projektmenedzsment API, amely lehetővé teszi a Java-alkalmazások fejlesztői számára, hogy Microsoft Project dokumentumkezelési lehetőséget biztosítsanak alkalmazásaikban – mindezt a Microsoft Project használata nélkül. Ezzel a hatékony API-val a fejlesztők vezérelhetik a projektmenedzsment különböző szakaszait, például a projekttervezést, -definíciót és -követést.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
+{{< blocks/products/pf/total/product-item href="/ocr/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
 Az Aspose.OCR for Java egy optikai karakterfelismerő Java API, amely lehetővé teszi a programozók számára, hogy OCR technológiát gyorsan és egyszerűen hozzáadjanak Java alkalmazásokhoz. Az API osztályokat kínál több képformátumból származó karakterek felismeréséhez.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
+{{< blocks/products/pf/total/product-item href="/note/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
 Az Aspose.Note for Java API lehetővé teszi, hogy a Java-alapú szoftverek programozottan kezeljék a Microsoft OneNote-ot anélkül, hogy azt a kiszolgálóra telepítenék. Ez egy tiszta alternatíva a Microsoft OneNote objektummodell számára, és jobb teljesítményt és egyszerűbb használatot biztosít a OneNote-dokumentumok kezeléséhez.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
+{{< blocks/products/pf/total/product-item href="/cad/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
 Az Aspose.CAD for Java az AutoCAD DXF és DWG rajzfájlok PDF- és raszterképekké alakítását kínálja. Natív API-ként nem igényel AutoCAD-et vagy bármilyen szoftvert.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
+{{< blocks/products/pf/total/product-item href="/3d/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
 Az Aspose.3D for Java API 3D formátumok létrehozására, szerkesztésére, manipulálására és mentésére készült. Lehetővé teszi a Java-alkalmazások számára, hogy kapcsolódjanak 3D-s dokumentumokhoz anélkül, hogy bármilyen szoftvercsomagot telepítenének a számítógépre, és segít a fejlesztőknek a modellezésben, valamint játékvilágok és jelenetek létrehozásában a tervezési vizualizációhoz.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -74,27 +74,27 @@ Az Aspose.3D for Java API 3D formátumok létrehozására, szerkesztésére, man
 Az Aspose.HTML for Java egy fejlett HTML-manipulációs API, amely lehetővé teszi (X)HTML dokumentumok létrehozását, betöltését, szerkesztését vagy konvertálását a Java alkalmazásokon belül. Az API emellett nagy pontosságú renderelő motort is biztosít PDF, XPS és számos raszteres képformátum számára.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
+{{< blocks/products/pf/total/product-item href="/page/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
 Az Aspose.Page for Java egy PostScript és XPS dokumentumelemző és -feldolgozó API. A fejlesztők könnyedén konvertálhatják a PS és EPS fájlokat PDF és raszteres képformátumokká. Az API azt is lehetővé teszi a fejlesztők számára, hogy függőségek nélkül hozzanak létre, elemezzenek és mentsenek XPS-fájlokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
+{{< blocks/products/pf/total/product-item href="/psd/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
 Az Aspose.PSD for Java egy előfeltételezett API a Photoshop formátumok kezeléséhez. A fejlesztők egyszerűen hozhatnak létre, tölthetnek be, konvertálhatnak és módosíthatnak PSD és PSB formátumokat. Az API különféle műveleteket hajthat végre, például vízjelek hozzáadása, tömörítés, forgatás, méretezés és még sok más anélkül, hogy telepíteni kellene az Adobe Photoshopot.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
+{{< blocks/products/pf/total/product-item href="/omr/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
 Az Aspose.OMR for Java egy API, amely felismeri az optikai jeleket OMR digitalizált lapképekről, valamint különböző képformátumokról, például BMP, JPG, TIF, TIFF, GIF. Az API rögzíti az ember által megjelölt adatokat olyan dokumentum-űrlapokból, mint a felmérések, kérdőívek, MCQ-k stb. A felismerés alapja a sablonjelölés, amely a beolvasott képekből felismerendő elemek grafikus leképezését tartalmazza.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
+{{< blocks/products/pf/total/product-item href="/pub/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
 Az Aspose.PUB for Java egy olyan API, amely lehetővé teszi a Microsoft Publisher fájlok olvasását és PDF formátumba konvertálását. Ezenkívül az API lehetővé teszi a .pub formátummal való munkát anélkül, hogy bele kellene menni az alapul szolgáló fájlformátum-struktúra részleteibe, anélkül, hogy a Microsoft Publishertől függene.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
+{{< blocks/products/pf/total/product-item href="/font/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
 Az Aspose.Font for Java egy fontbetöltő és rajzoló API, amely többféle betűtípust is támogat. Könnyedén hajthat végre betűtípusfájl-műveleteket, például betűtípusokat tölthet be lemezről vagy adatfolyamról, beolvassa a karakterjeleket és a metrikák adatait, valamint felismeri a latin szimbólumokat, szöveget renderel betűjelekkel és így tovább.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
+{{< blocks/products/pf/total/product-item href="/tex/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
 Az Aspose.TeX for Java egy TeX fájlszedési API. Könnyedén szedheti a TeX fájlokat, hogy különféle formátumú dokumentumokat kapjon, például XPS, PDF, PNG, JPEG, TIFF és BMP. Egyedi TeX formátumok létrehozását is tartalmazza.
 {{< /blocks/products/pf/total/product-item >}}
 
