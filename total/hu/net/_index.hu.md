@@ -18,23 +18,23 @@ Az Aspose.Total for .NET az Aspose által kínált .NET fájlformátum-automatiz
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for .NET a következő fájlformátumú API-kat tartalmazza a .NET-hez:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 Ez egy fejlett .NET API több fájlelemzési feladat elvégzésére közvetlenül a .NET, iOS, macOS és Android alkalmazásokon belül. Az Aspose.Words for .NET lehetővé teszi a fejlesztők számára a dokumentumok módosítását, generálását, renderelését, konvertálását és nyomtatását a Microsoft Word használata nélkül. Támogatja a DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB és még sok más fájlt.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 Az Aspose.PDF for .NET egy PDF fájlfeldolgozó és -elemző API. Lehetővé teszi a .NET-alkalmazások számára PDF-fájlok olvasását, kezelését és írását Adobe Acrobat-függőségek nélkül. Ezen túlmenően az API olyan funkciókat is biztosít, mint a PDF-dokumentumok konvertálása többféle formátumba, valamint a PDF-fájlok átalakítása hagyományos raszteres és vektoros képekké.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Az Excel API lehetővé teszi a fejlesztők számára, hogy táblázatkezelő fájlformátumokkal dolgozzanak .NET, iOS és Android alkalmazásokban Microsoft Excel nélkül. Az Aspose.Cells for .NET támogatja az összes főbb Microsoft Excel formátumot, beleértve az XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, tabulátorral tagolt és SpreadsheetML formátumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 Az Aspose.Email for .NET .NET API-k gyűjteménye, amelyek segítségével e-maileket hozhat létre, kezelhet, küldhet és fogadhat az ASP.NET webalkalmazásokon, webszolgáltatásokon vagy Windows alkalmazásokon belül. Az Email API rendkívül egyszerűvé teszi az Outlook ICS-, PST-, OST-, EML-, MSG- és MHT-fájlokkal, valamint a Thunderbird tároló-MBOX-fájljaival való munkát.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 Az Aspose.Slides for .NET egy önálló PowerPoint-feldolgozási API, amellyel prezentációkat és diákat olvashat, írhat és kezelhet. A fejlesztők létrehozhatnak, módosíthatnak, másolhatnak, konvertálhatnak, renderelhetnek és nyomtathatnak prezentációs fájlformátumokat, beleértve a PPT, PPS, POT, PresentationML (OOXML, PPTX) és OpenDocument prezentációkat (ODP).
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,31 +42,31 @@ Az Aspose.Slides for .NET egy önálló PowerPoint-feldolgozási API, amellyel p
 Az Aspose.Imaging for .NET egy képalkotó API, amellyel képeket hozhat létre, szerkeszthet, rajzolhat vagy konvertálhat .NET-alkalmazásokon belül. A fejlesztők a létrehozott vagy szerkesztett képeket számos formátumba menthetik, beleértve a TIFF, GIF, BMP, JPEG, PNG és sok más formátumot, anélkül, hogy képszerkesztőt kellene telepíteni.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 Az Aspose.BarCode for .NET API lehetővé teszi a fejlesztők számára, hogy gyorsan és egyszerűen hozzáadjanak vonalkód-generáló és -felismerési funkciókat Microsoft .NET-alkalmazásaikhoz. Támogatja a WinForms, ASP.NET és .NET Compact Framework rendszereket.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 Az Aspose.Diagram for .NET egy funkciókban gazdag Visio API. A fejlesztők könnyen kezelhetik a diagramokat, és konvertálhatják a Visio csempéket PDF és képfájl formátumokká. Az Aspose.Diagram a Visio szolgáltatások által biztosított fejlett funkciókat is kihasználja a Visio-dokumentumok szerveren történő manipulálására.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 Az Aspose.Tasks for .NET egy hatékony .NET projektmenedzsment API, amely lehetővé teszi a .NET alkalmazások számára a Microsoft Project dokumentumok MPP és XML formátumú olvasását, valamint a projektdokumentumok XML formátumú írását a Microsoft Project használata nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 Az Aspose.OCR for .NET egy karakterfelismerő API, amely lehetővé teszi a fejlesztők számára OCR funkciók hozzáadását .NET-alkalmazásaikhoz. Egyszerű osztálykészletet biztosít a leggyakrabban használt képformátumok karaktereinek felismeréséhez.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 Az Aspose.Note for .NET API lehetővé teszi az alkalmazások számára, hogy programozottan kommunikáljanak a Microsoft OneNote fájlokkal. Támogatja az olyan funkciókat, mint a Microsoft OneNote-fájlok tartalmának betöltése, konvertálása, létrehozása és kezelése anélkül, hogy további könyvtárak vagy harmadik féltől származó szoftverek kellenek.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 Az Aspose.CAD for .NET lehetővé teszi a fejlesztők számára, hogy az AutoCAD DWG és DXF fájlokat PDF, JPG, PNG, BMP, TIFF és GIF képformátumokká alakítsák. Ez egy natív API, és nem szükséges AutoCAD vagy más szoftver telepítése.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 Az Aspose.3D for .NET egy funkciókban gazdag 3D API a .NET fejlesztők számára, hogy 3D dokumentumformátumokhoz kapcsolódjanak anélkül, hogy további 3D modellező és megjelenítő szoftverre lenne szükség. Támogatja a leggyakrabban használt 3D fájlformátumokat, ahol a fejlesztők könnyen létrehozhatják, olvashatják, konvertálhatják, módosíthatják és szabályozhatják a 3D fájlokat.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -78,23 +78,23 @@ Az Aspose.HTML for .NET lehetővé teszi a fejlesztők számára, hogy HTML-olda
 Az Aspose.GIS for .NET felhatalmazza a .NET-alkalmazásokat a vektoralapú térinformatikai formátumokból származó földrajzi információk elérésére és manipulálására. Olyan GIS adatformátumok olvasását, írását és konvertálását kínálja, mint az ESRI Shapefile és GeoJSON.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 Az Aspose.ZIP for .NET API lehetővé teszi a fejlesztők számára, hogy dokumentumokat és archívumokat zip formátumba tömörítsenek, valamint kicsomagolják a zip fájlokat a megfelelő archívumba és fájlba.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 Az Aspose.Page for .NET lehetőséget biztosít meglévő és új XPS-dokumentumok létrehozására, szerkesztésére és mentésére. Lehetővé teszi a PS, EPS és XPS fájlok PDF és képformátumokká konvertálását is.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 Az Aspose.PSD for .NET API lehetővé teszi a fejlesztők számára a Photoshop PSD- és PSB-fájlok betöltését vagy létrehozását, valamint lehetőséget biztosít a rétegek manipulálására, a deflált PSD-fájlok észlelésére és a Photoshop-fájlok raszteres képformátumokká konvertálására.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 Az Aspose.OMR for .NET egy olyan API, amely lehetővé teszi az ember által megjelölt adatok rögzítését dokumentum-űrlapokból, például felmérésekből, kérdőívekből, feleletválasztós vizsgadolgozatokból és egyéb tesztekből. Így nagy pontossággal képes felismerni a beolvasott képeket, sőt fényképeket is. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 Az Aspose.PUB for .NET egy olyan API, amely lehetővé teszi a Microsoft Publisher fájlok olvasását és más formátumokba való konvertálását. Ezenkívül az API lehetővé teszi a PUB-dokumentumformátumokkal való munkát anélkül, hogy bele kellene menni az alapul szolgáló fájlformátum-struktúra részleteibe, anélkül, hogy a Microsoft Publishertől függene.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -102,19 +102,19 @@ Az Aspose.PUB for .NET egy olyan API, amely lehetővé teszi a Microsoft Publish
 Az Aspose.SVG for .NET egy SVG fájlformátum feldolgozó és elemző API. Az SVG-csomópontok és -tulajdonságok feletti teljes irányítás birtokában a fejlesztők egyszerűen módosíthatják a dokumentumfát, eltávolíthatják és beilleszthetik a csomópontokat, módosíthatják a csomópont tulajdonságait és alkalmazhatnak szűrőket. Ezenkívül az API konvertálhatja az SVG fájlokat PDF-be és híres képformátumokká.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Az Aspose.Finance for .NET egy pénzügyekkel kapcsolatos formátumfeldolgozási API. Létrehozza, beolvassa és validálja az XBRL és iXBRL formátumokat, amelyeket az üzleti folyamatok kezelésében, a pénzügyi elemzési és jelentéskészítési megoldásokban használnak.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 Az Aspose.Drawing for .NET egy grafikus API, amely megegyezik a GDI+-szal. Könnyen integrálható 2D vektorgrafikus rajzokhoz, mint például vonalak, görbék és ábrák, valamint muti stílusú szöveg raszteres képekre. Az API támogatja az általánosan használt képformátumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 Az Aspose.Font for .NET egy betűkészlet-kezelő és -feldolgozó API. Könnyedén hajthat végre betűtípusfájl-műveleteket, például betűtípusokat tölthet be lemezről vagy adatfolyamról, beolvassa a karakterjeleket és a metrikák adatait, valamint felismeri a latin szimbólumokat, szöveget renderel betűjelekkel és így tovább.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 Az Aspose.TeX for .NET egy TeX fájlszedési API. Könnyedén szedheti a TeX fájlokat, hogy különféle formátumú dokumentumokat kapjon, például XPS, PDF, PNG, JPEG, TIFF és BMP. Egyedi TeX formátumok létrehozását is tartalmazza.
 {{< /blocks/products/pf/total/product-item >}}
 

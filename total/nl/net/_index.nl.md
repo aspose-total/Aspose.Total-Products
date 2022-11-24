@@ -18,23 +18,23 @@ Aspose.Total voor .NET is het meest complete pakket van alle .NET File Format Au
 
 {{< blocks/products/pf/total/products description="Aspose.Total voor .NET bevat de volgende API's voor bestandsindelingen voor .NET:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 Het is een geavanceerde .NET API om meerdere bestandsparseertaken rechtstreeks in uw .NET-, iOS-, macOS- en Android-applicaties uit te voeren. Aspose.Words voor .NET biedt de ontwikkelaars de mogelijkheid om documenten aan te passen, te genereren, weer te geven, te converteren en af te drukken zonder Microsoft Word te gebruiken. Het ondersteunt DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB en nog veel meer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 Aspose.PDF voor .NET is een API voor het verwerken en parseren van PDF-bestanden. Het stelt .NET-toepassingen in staat om PDF-bestanden te lezen, manipuleren en schrijven zonder enige Adobe Acrobat-afhankelijkheden. Bovendien biedt API functies zoals het converteren van PDF-documenten naar meerdere formaten en het transformeren van PDF-bestanden naar conventionele raster- en vectorafbeeldingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Met Excel API kunnen ontwikkelaars werken met spreadsheetbestandsindelingen in .NET-, iOS- en Android-applicaties zonder dat Microsoft Excel nodig is. Aspose.Cells voor .NET ondersteunt alle belangrijke Microsoft Excel-indelingen, waaronder XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, Tab Delimited & SpreadsheetML.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 Aspose.Email voor .NET is een verzameling .NET API's voor het maken, manipuleren, verzenden en ontvangen van e-mails vanuit ASP.NET-webapplicaties, webservices of Windows-applicaties. De Email API maakt het super eenvoudig om te werken met Outlook ICS, PST, OST, EML, MSG en MHT-bestanden, evenals de opslag MBOX-bestanden van Thunderbird.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 Aspose.Slides voor .NET is een zelfstandige PowerPoint-verwerkings-API om presentaties en dia's te lezen, schrijven en manipuleren. Ontwikkelaars kunnen presentatiebestandsindelingen genereren, wijzigen, kopiëren, converteren, renderen en afdrukken, waaronder PPT, PPS, POT, PresentationML (OOXML, PPTX) en OpenDocument-presentaties (ODP).
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,31 +42,31 @@ Aspose.Slides voor .NET is een zelfstandige PowerPoint-verwerkings-API om presen
 Aspose.Imaging voor .NET is een beeldverwerkings-API voor het maken, bewerken, tekenen of converteren van afbeeldingen binnen .NET-toepassingen. Ontwikkelaars kunnen de gemaakte of bewerkte afbeeldingen opslaan in verschillende formaten, waaronder TIFF, GIF, BMP, JPEG, PNG en meer, zonder dat een afbeeldingseditor hoeft te worden geïnstalleerd.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 Met Aspose.BarCode voor .NET API kunnen ontwikkelaars snel en eenvoudig functionaliteit voor het genereren en herkennen van streepjescodes toevoegen aan hun Microsoft .NET-applicaties. Het ondersteunt WinForms, ASP.NET en .NET Compact Framework.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 Aspose.Diagram voor .NET is een functierijke Visio API. Ontwikkelaars kunnen eenvoudig diagrammen manipuleren en Visio-tegels converteren naar PDF- en afbeeldingsbestandsindelingen. Aspose.Diagram maakt ook gebruik van geavanceerde functionaliteit van Visio-services om Visio-documenten op de server te manipuleren.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 Aspose.Tasks voor .NET is een krachtige .NET-projectbeheer-API waarmee .NET-toepassingen Microsoft Project-documenten in MPP- en XML-indeling kunnen lezen en projectdocumenten in XML-indeling kunnen schrijven zonder Microsoft Project te gebruiken.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 Aspose.OCR voor .NET is een tekenherkennings-API waarmee ontwikkelaars OCR-functionaliteit kunnen toevoegen aan hun .NET-toepassingen. Het biedt een eenvoudige reeks klassen om tekens uit de meest gebruikte afbeeldingsindelingen te herkennen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 Met Aspose.Note voor .NET API kunnen applicaties programmatisch communiceren met Microsoft OneNote-bestanden. Het ondersteunt functies zoals het laden, converteren, maken en manipuleren van de inhoud van Microsoft OneNote-bestanden zonder dat er extra bibliotheken of software van derden nodig zijn.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 Met Aspose.CAD voor .NET kunnen ontwikkelaars AutoCAD DWG- en DXF-bestanden converteren naar PDF-, JPG-, PNG-, BMP-, TIFF- en GIF-beeldformaten. Het is een native API en er hoeft geen AutoCAD of andere software te worden geïnstalleerd.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 Aspose.3D voor .NET is een feature-rijke 3D-API voor .NET-ontwikkelaars om verbinding te maken met 3D-documentformaten zonder dat er extra 3D-modellerings- en renderingsoftware nodig is. Het ondersteunt de meest gebruikte 3D-bestandsindelingen waar ontwikkelaars eenvoudig 3D-bestanden kunnen maken, lezen, converteren, wijzigen en beheren.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -78,23 +78,23 @@ Met Aspose.HTML voor .NET kunnen ontwikkelaars HTML-pagina's maken, bewerken en 
 Aspose.GIS voor .NET stelt de .NET-toepassingen in staat om toegang te krijgen tot geografische informatie en deze te manipuleren vanuit op vectoren gebaseerde geospatiale gegevensformaten. Het biedt aan om GIS-gegevensformaten zoals ESRI Shapefile & GeoJSON te lezen, schrijven en converteren.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 Aspose.ZIP voor .NET API stelt de ontwikkelaars in staat om documenten en archieven naar zip-formaat te comprimeren en zip-bestanden te decomprimeren naar respectievelijke archieven en bestanden.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 Aspose.Page voor .NET biedt de mogelijkheid om zowel bestaande als nieuwe XPS-documenten te maken, te bewerken en op te slaan. Het maakt het ook mogelijk om PS-, EPS- en XPS-bestanden naar PDF en afbeeldingsformaten te converteren.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 Aspose.PSD voor .NET API stelt de ontwikkelaars in staat om Photoshop PSD- en PSB-bestanden te laden of te maken en biedt de mogelijkheid om lagen te manipuleren, leeggelopen PSD-bestanden te detecteren en Photoshop-bestanden om te zetten in rasterafbeeldingsformaten.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 Aspose.OMR voor .NET is een API waarmee door mensen gemarkeerde gegevens kunnen worden vastgelegd uit documentformulieren zoals enquêtes, vragenlijsten, meerkeuzevragen voor examens en andere tests. Het kan dus gescande afbeeldingen en zelfs foto's met hoge nauwkeurigheid herkennen. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 Aspose.PUB voor .NET is een API waarmee u Microsoft Publisher-bestanden kunt lezen en converteren naar andere formaten. Bovendien maakt API het mogelijk om met PUB-documentformaten te werken zonder in te hoeven gaan op de details van de onderliggende bestandsformaatstructuur zonder enige afhankelijkheden van Microsoft Publisher.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -102,19 +102,19 @@ Aspose.PUB voor .NET is een API waarmee u Microsoft Publisher-bestanden kunt lez
 Aspose.SVG voor .NET is een API voor het verwerken en parseren van SVG-bestandsindelingen. Met volledige controle over SVG-knooppunten en eigenschappen, kunnen ontwikkelaars eenvoudig de documentstructuur wijzigen, knooppunten verwijderen en invoegen, de knooppunteigenschappen wijzigen en filters toepassen. Bovendien kan API SVG-bestanden converteren naar PDF en bekende afbeeldingsformaten.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Aspose.Finance voor .NET is een financiële API voor formaatverwerking. Het creëert, leest en valideert XBRL- en iXBRL-formaten die worden gebruikt bij het beheer van bedrijfsprocessen, financiële analyse en rapportageoplossingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 Aspose.Drawing voor .NET is een grafische API die identiek is aan GDI+. Het kan eenvoudig worden geïntegreerd voor 2D-vectorafbeeldingen, zoals lijnen, curven en figuren, evenals tekst in verschillende stijlen op rasterafbeeldingen. API ondersteunt veelgebruikte afbeeldingsindelingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 Aspose.Font voor .NET is een API voor lettertypebeheer en -verwerking. Het kan gemakkelijk lettertype-bestandsbewerkingen uitvoeren, zoals het laden van lettertypen van schijf of stream, glyphs en metrische informatie lezen, evenals Latijnse symbolen detecteren, tekst weergeven met behulp van lettertype-glyphs en meer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/nl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 Aspose.TeX voor .NET is een API voor het zetten van TeX-bestanden. Het kan gemakkelijk TeX-bestanden typen om documenten in verschillende formaten te krijgen, zoals XPS, PDF, PNG, JPEG, TIFF en BMP. Het beschikt ook over het maken van aangepaste TeX-formaten.
 {{< /blocks/products/pf/total/product-item >}}
 

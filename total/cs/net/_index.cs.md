@@ -18,23 +18,23 @@ Aspose.Total for .NET je nejúplnější balíček ze všech rozhraní API pro a
 
 {{< blocks/products/pf/total/products description="Aspose.Total pro .NET obsahuje následující rozhraní API formátu souborů pro .NET:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 Jedná se o pokročilé rozhraní .NET API pro provádění více úloh analýzy souborů přímo ve vašich aplikacích .NET, iOS, macOS a Android. Aspose.Words for .NET nabízí vývojářům upravovat, generovat, vykreslovat, převádět a tisknout dokumenty bez použití aplikace Microsoft Word. Podporuje DOC, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB a mnoho dalších.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 Aspose.PDF for .NET je rozhraní API pro zpracování a analýzu souborů PDF. Umožňuje aplikacím .NET číst, manipulovat a zapisovat soubory PDF bez jakýchkoli závislostí na Adobe Acrobatu. Kromě toho API poskytuje funkce, jako je převod dokumentů PDF do různých formátů a také transformace souborů PDF na běžné rastrové a vektorové obrázky.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Excel API umožňuje vývojářům pracovat s tabulkovými formáty souborů v aplikacích .NET, iOS a Android bez nutnosti aplikace Microsoft Excel. Aspose.Cells for .NET podporuje všechny hlavní formáty Microsoft Excel včetně XLS, XLSM, XLSX, XLTM/XLTX, HTML, CSV, ODS, Tab Delimited & SpreadsheetML.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 Aspose.Email for .NET je sbírka rozhraní .NET API pro vytváření, manipulaci, odesílání a přijímání e-mailů z webových aplikací ASP.NET, webových služeb nebo aplikací Windows. E-mailové API usnadňuje práci se soubory Outlook ICS, PST, OST, EML, MSG a MHT a také se soubory MBOX úložiště Thunderbirdu.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 Aspose.Slides for .NET je samostatné rozhraní API pro zpracování aplikace PowerPoint pro čtení, psaní a manipulaci s prezentacemi a snímky. Vývojáři mohou generovat, upravovat, kopírovat, konvertovat, vykreslovat a tisknout formáty prezentačních souborů včetně PPT, PPS, POT, PresentationML (OOXML, PPTX) a prezentací OpenDocument (ODP).
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,31 +42,31 @@ Aspose.Slides for .NET je samostatné rozhraní API pro zpracování aplikace Po
 Aspose.Imaging for .NET je zobrazovací API pro vytváření, úpravu, kreslení nebo převod obrázků v aplikacích .NET. Vývojáři mohou ukládat vytvořené nebo upravené obrázky do různých formátů včetně TIFF, GIF, BMP, JPEG, PNG a dalších, aniž by bylo nutné instalovat editor obrázků.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 Aspose.BarCode for .NET API umožňuje vývojářům rychle a snadno přidat generování a rozpoznávání čárových kódů do jejich aplikací Microsoft .NET. Podporuje WinForms, ASP.NET a .NET Compact Framework.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 Aspose.Diagram for .NET je rozhraní API aplikace Visio bohaté na funkce. Vývojáři mohou snadno manipulovat s diagramy a převádět dlaždice Visio do formátu PDF a obrazových souborů. Aspose.Diagram také využívá pokročilé funkce poskytované službami Visio pro manipulaci s dokumenty Visio na serveru.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 Aspose.Tasks for .NET je výkonné rozhraní API pro správu projektů .NET umožňující aplikacím .NET číst dokumenty Microsoft Project ve formátech MPP a XML spolu s psaním projektových dokumentů ve formátu XML bez použití aplikace Microsoft Project.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 Aspose.OCR for .NET je rozhraní API pro rozpoznávání znaků, které umožňuje vývojářům přidávat funkce OCR do jejich aplikací .NET. Poskytuje jednoduchou sadu tříd pro rozpoznání znaků z nejběžněji používaných obrazových formátů.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 Aspose.Note for .NET API umožňuje aplikacím interagovat se soubory Microsoft OneNote programově. Podporuje funkce, jako je načítání, převod, vytváření a manipulace s obsahem souborů Microsoft OneNote, aniž by byly vyžadovány další knihovny nebo software třetích stran.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 Aspose.CAD for .NET umožňuje vývojářům převádět soubory AutoCAD DWG a DXF do obrazových formátů PDF, JPG, PNG, BMP, TIFF a GIF. Jedná se o nativní API a nevyžaduje instalaci AutoCADu ani jiného softwaru.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 Aspose.3D for .NET je 3D API s bohatými funkcemi pro vývojáře .NET pro připojení k formátům 3D dokumentů bez nutnosti dalšího softwaru pro 3D modelování a vykreslování. Podporuje většinu běžně používaných formátů 3D souborů, kde mohou vývojáři snadno vytvářet, číst, převádět, upravovat a ovládat podstatu 3D souborů.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -78,23 +78,23 @@ Aspose.HTML for .NET umožňuje vývojářům vytvářet, upravovat a vykreslova
 Aspose.GIS for .NET umožňuje aplikacím .NET přistupovat a manipulovat s geografickými informacemi z vektorových formátů geoprostorových dat. Nabízí čtení, zápis a konverzi datových formátů GIS, jako je ESRI Shapefile & GeoJSON.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 Aspose.ZIP for .NET API umožňuje vývojářům komprimovat dokumenty a archivy do formátu zip a také dekomprimovat soubory zip do příslušných archivů a souborů.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 Aspose.Page for .NET poskytuje možnost vytvářet, upravovat a ukládat stávající i nové dokumenty XPS. Umožňuje také převod souborů PS, EPS a XPS do PDF a obrazových formátů.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 Aspose.PSD for .NET API umožňuje vývojářům načítat nebo vytvářet soubory Photoshop PSD a PSB a také poskytuje možnost manipulovat s vrstvami, detekovat deflované soubory PSD a převádět soubory Photoshopu do formátů rastrových obrázků.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 Aspose.OMR for .NET je API, které umožňuje zachycovat data označená člověkem z formulářů dokumentů, jako jsou průzkumy, dotazníky, zkušební papíry s výběrem z více možností a další testy. Dokáže tedy s vysokou přesností rozpoznat naskenované obrázky a dokonce i fotografie. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 Aspose.PUB for .NET je API umožňující číst soubory Microsoft Publisher a převádět do jiných formátů. Kromě toho rozhraní API umožňuje pracovat s formáty dokumentů PUB, aniž by bylo nutné zacházet do podrobností o struktuře základního formátu souborů bez jakékoli závislosti na aplikaci Microsoft Publisher.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -102,19 +102,19 @@ Aspose.PUB for .NET je API umožňující číst soubory Microsoft Publisher a p
 Aspose.SVG for .NET je rozhraní API pro zpracování a analýzu formátu souborů SVG. Díky plné kontrole nad uzly a vlastnostmi SVG mohou vývojáři snadno upravovat strom dokumentu, odstraňovat a vkládat uzly, měnit vlastnosti uzlů a používat filtry. Kromě toho může API převádět soubory SVG do PDF a slavných obrazových formátů.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Aspose.Finance for .NET je rozhraní API pro zpracování formátů souvisejících s financemi. Vytváří, čte a ověřuje formáty XBRL a iXBRL, které se používají při řízení obchodních procesů, finanční analýzy a řešení výkaznictví.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 Aspose.Drawing for .NET je grafické API identické s GDI+. Lze jej snadno integrovat do 2D vektorových grafických výkresů, jako jsou čáry, křivky a obrázky, stejně jako text ve stylu muti do rastrových obrázků. API podporuje běžně používané obrazové formáty.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 Aspose.Font for .NET je rozhraní API pro správu a zpracování písem. Může snadno provádět operace se soubory písem, jako je načítání písem z disku nebo streamu, čtení glyfů a informací o metrikách, stejně jako zjišťování latinských symbolů, vykreslování textu pomocí glyfů písem a další.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 Aspose.TeX for .NET je API pro sázení souborů TeX. Může snadno vysázet soubory TeX a získat dokumenty v různých formátech, jako je XPS, PDF, PNG, JPEG, TIFF a BMP. Obsahuje také vlastní tvorbu TeXových formátů.
 {{< /blocks/products/pf/total/product-item >}}
 

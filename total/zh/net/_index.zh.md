@@ -18,23 +18,23 @@ Aspose.Total for .NET 是 Aspose 提供的所有 .NET 文件格式自动化 API 
 
 {{< blocks/products/pf/total/products description="Aspose.Total for .NET 包括以下 .NET 文件格式 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-net.svg" productName="Aspose.Words for .NET">}}
 它是一种高级 .NET API，可直接在您的 .NET、iOS、macOS 和 Android 应用程序中执行多个文件解析任务。 Aspose.Words for .NET 让开发人员无需使用 Microsoft Word 即可修改、生成、渲染、转换和打印文档。它支持 DOC、OOXML、RTF、HTML、OpenDocument、PDF、XPS、EPUB 等等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-net.svg" productName="Aspose.PDF for .NET">}}
 Aspose.PDF for .NET 是一个 PDF 文件处理和解析 API。它使 .NET 应用程序无需任何 Adobe Acrobat 依赖项即可读取、操作和编写 PDF 文件。此外，API 提供了诸如将 PDF 文档转换为多种格式以及将 PDF 文件转换为传统的光栅和矢量图像等功能。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productName="Aspose.Cells for .NET">}}
 Excel API 允许开发人员在 .NET、iOS 和 Android 应用程序中使用电子表格文件格式，而无需 Microsoft Excel。 Aspose.Cells for .NET 支持所有主要的 Microsoft Excel 格式，包括 XLS、XLSM、XLSX、XLTM/XLTX、HTML、CSV、ODS、制表符分隔和电子表格ML。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-net.svg" productName="Aspose.Email for .NET">}}
 Aspose.Email for .NET 是 .NET API 的集合，用于在 ASP.NET Web 应用程序、Web 服务或 Windows 应用程序中创建、操作、发送和接收电子邮件。电子邮件 API 使处理 Outlook ICS、PST、OST、EML、MSG 和 MHT 文件以及 Thunderbird 的存储 MBOX 文件变得超级容易。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-net.svg" productName="Aspose.Slides for .NET">}}
 Aspose.Slides for .NET 是一个独立的 PowerPoint 处理 API，用于读取、编写和操作演示文稿和幻灯片。开发人员可以生成、修改、复制、转换、渲染和打印演示文件格式，包括 PPT、PPS、POT、PresentationML（OOXML、PPTX）和 OpenDocument 演示文稿（ODP）。
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,31 +42,31 @@ Aspose.Slides for .NET 是一个独立的 PowerPoint 处理 API，用于读取�
 Aspose.Imaging for .NET 是一个成像 API，用于在 .NET 应用程序中创建、编辑、绘制或转换图像。开发人员可以将创建或编辑的图像保存为多种格式，包括 TIFF、GIF、BMP、JPEG、PNG 等，而无需安装图像编辑器。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-net.svg" productName="Aspose.BarCode for .NET">}}
 Aspose.BarCode for .NET API 允许开发人员快速轻松地将条码生成和识别功能添加到他们的 Microsoft .NET 应用程序中。它支持 WinForms、ASP.NET 和 .NET Compact Framework。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productName="Aspose.Diagram for .NET">}}
 Aspose.Diagram for .NET 是一个功能丰富的 Visio API。开发人员可以轻松地操作图表并将 Visio 磁贴转换为 PDF 和图像文件格式。 Aspose.Diagram 还利用 Visio 服务提供的高级功能在服务器上操作 Visio 文档。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-net.svg" productName="Aspose.Tasks for .NET">}}
 Aspose.Tasks for .NET 是一个功能强大的 .NET 项目管理 API，使 .NET 应用程序能够读取 MPP 和 XML 格式的 Microsoft Project 文档，以及编写 XML 格式的项目文档，而无需使用 Microsoft Project。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/ocr/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-net.svg" productName="Aspose.OCR for .NET">}}
 Aspose.OCR for .NET 是一个字符识别 API，允许开发人员将 OCR 功能添加到他们的 .NET 应用程序中。它提供了一组简单的类来识别最常用图像格式中的字符。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
+{{< blocks/products/pf/total/product-item href="/note/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-net.svg" productName="Aspose.Note for .NET">}}
 Aspose.Note for .NET API 使应用程序能够以编程方式与 Microsoft OneNote 文件进行交互。它支持加载、转换、创建和操作 Microsoft OneNote 文件内容等功能，无需任何额外的库或第三方软件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/cad/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productName="Aspose.CAD for .NET">}}
 Aspose.CAD for .NET 允许开发人员将 AutoCAD DWG 和 DXF 文件转换为 PDF、JPG、PNG、BMP、TIFF 和 GIF 图像格式。它是一个原生 API，不需要安装 AutoCAD 或任何其他软件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" productName="Aspose.3D for .NET">}}
 Aspose.3D for .NET 是一个功能丰富的 3D API，供 .NET 开发人员连接 3D 文档格式，而无需任何额外的 3D 建模和渲染软件。它支持最常用的 3D 文件格式，开发人员可以轻松地创建、读取、转换、修改和控制 3D 文件的内容。
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -78,23 +78,23 @@ Aspose.HTML for .NET 允许开发人员在您的 .NET 应用程序中创建、�
 Aspose.GIS for .NET 使 .NET 应用程序能够访问和操作来自基于矢量的地理空间数据格式的地理信息。它提供读取、写入和转换 ESRI Shapefile 和 GeoJSON 等 GIS 数据格式的功能。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/zip/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
+{{< blocks/products/pf/total/product-item href="/zip/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/zip/aspose_zip-for-net.svg" productName="Aspose.ZIP for .NET">}}
 Aspose.ZIP for .NET API 使开发人员能够将文档和存档压缩为 zip 格式，以及将 zip 文件解压缩为相应的存档和文件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
+{{< blocks/products/pf/total/product-item href="/page/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-net.svg" productName="Aspose.Page for .NET">}}
 Aspose.Page for .NET 提供了创建、编辑和保存现有以及新的 XPS 文档的能力。它还允许将 PS、EPS 和 XPS 文件转换为 PDF 和图像格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
+{{< blocks/products/pf/total/product-item href="/psd/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-net.svg" productName="Aspose.PSD for .NET">}}
 Aspose.PSD for .NET API 使开发人员能够加载或创建 Photoshop PSD 和 PSB 文件，并提供操作图层、检测缩小的 PSD 文件并将 Photoshop 文件转换为光栅图像格式的能力。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
+{{< blocks/products/pf/total/product-item href="/omr/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-net.svg" productName="Aspose.OMR for .NET">}}
 Aspose.OMR for .NET 是一个 API，允许从调查、问卷、多项选择试卷和其他测试等文档形式中捕获人工标记的数据。因此它可以高精度地识别扫描的图像甚至照片。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
+{{< blocks/products/pf/total/product-item href="/pub/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-net.svg" productName="Aspose.PUB for .NET">}}
 Aspose.PUB for .NET 是一个允许读取 Microsoft Publisher 文件并转换为其他格式的 API。此外，API 允许使用 PUB 文档格式，而无需深入了解底层文件格式结构的细节，而无需依赖 Microsoft Publisher。
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -102,19 +102,19 @@ Aspose.PUB for .NET 是一个允许读取 Microsoft Publisher 文件并转换为
 Aspose.SVG for .NET 是一个 SVG 文件格式处理和解析 API。完全控制 SVG 节点和属性，开发人员可以轻松地修改文档树、删除和插入节点、更改节点属性和应用过滤器。此外，API 可以将 SVG 文件转换为 PDF 和著名的图像格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productName="Aspose.Finance for .NET">}}
 Aspose.Finance for .NET 是一个与金融相关的格式处理 API。它创建、读取和验证用于管理业务流程、财务分析和报告解决方案的 XBRL 和 iXBRL 格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/drawing/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
+{{< blocks/products/pf/total/product-item href="/drawing/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productName="Aspose.Drawing for .NET">}}
 Aspose.Drawing for .NET 是一个与 GDI+ 相同的图形 API。它可以很容易地集成到 2D 矢量图形绘图，如线条、曲线和图形，以及多样式文本到光栅图像上。 API 支持常用的图像格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
+{{< blocks/products/pf/total/product-item href="/font/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-net.svg" productName="Aspose.Font for .NET">}}
 Aspose.Font for .NET 是一个字体管理和处理 API。它可以轻松执行字体文件操作，例如从光盘或流中加载字体、读取字形和度量信息以及检测拉丁符号、使用字体字形渲染文本等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
+{{< blocks/products/pf/total/product-item href="/tex/zh/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productName="Aspose.TeX for .NET">}}
 Aspose.TeX for .NET 是一个 TeX 文件排版 API。它可以轻松排版 TeX 文件以获取各种格式的文档，例如 XPS、PDF、PNG、JPEG、TIFF 和 BMP。它还具有创建自定义 TeX 格式的功能。
 {{< /blocks/products/pf/total/product-item >}}
 
