@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services adalah rangkaian Rendering Extensions untuk 
 
 {{< blocks/products/pf/total/products description="Aspose.Total untuk Layanan Pelaporan mencakup ekstensi rendering berikut:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/id/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words untuk Layanan Pelaporan mendukung ekspor laporan RDL dan RDLC sebagai dokumen OOXML, DOC, RTF, dan WordprocessingML dari dalam Layanan Pelaporan Microsoft SQL Server serta di Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/id/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF untuk Layanan Pelaporan adalah solusi tangguh yang menyediakan kemampuan untuk menghasilkan laporan PDF dari Layanan Pelaporan Microsoft SQL Server. Sebagian besar fitur laporan RDL didukung yang memungkinkan pengembang menghasilkan laporan PDF dengan kualitas terbaik.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/id/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Aspose.Cells untuk Layanan Pelaporan memungkinkan Anda mengirimkan laporan Excel asli dari dalam Layanan Pelaporan Microsoft SQL Server serta dalam versi Microsoft Report Viewer yang paling populer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/id/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides untuk Layanan Pelaporan adalah satu-satunya solusi di pasar untuk menghasilkan laporan dalam format Microsoft PowerPoint dari Layanan Pelaporan Microsoft SQL Server. Fitur laporan RDL seperti tabel, matriks, bagan, dan gambar dapat dikonversi dengan kualitas tinggi ke presentasi atau tayangan slide.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/id/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode untuk Layanan Pelaporan adalah solusi paling komprehensif untuk merender gambar kode batang dalam Layanan Pelaporan Microsoft SQL Server.
 {{< /blocks/products/pf/total/product-item >}}
 

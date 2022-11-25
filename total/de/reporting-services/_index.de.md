@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services ist eine Suite von Rendering-Erweiterungen f
 
 {{< blocks/products/pf/total/products description="Aspose.Total für Reporting Services enthält die folgenden Rendering-Erweiterungen:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/de/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words for Reporting Services unterstützt den Export von RDL- und RDLC-Berichten als OOXML-, DOC-, RTF- und WordprocessingML-Dokumente aus Microsoft SQL Server Reporting Services sowie aus Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/de/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF for Reporting Services ist eine robuste Lösung, die die Möglichkeit bietet, PDF-Berichte aus Microsoft SQL Server Reporting Services zu erstellen. Die meisten RDL-Berichtsfunktionen werden unterstützt, sodass die Entwickler PDF-Berichte in höchster Qualität erstellen können.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/de/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Mit Aspose.Cells for Reporting Services können Sie native Excel-Berichte aus Microsoft SQL Server Reporting Services sowie in den gängigsten Versionen von Microsoft Report Viewer bereitstellen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/de/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services ist die einzige Lösung auf dem Markt zum Generieren von Berichten in Microsoft PowerPoint-Formaten aus Microsoft SQL Server Reporting Services. RDL-Berichtsfunktionen wie Tabellen, Matrizen, Diagramme und Bilder können mit hoher Qualität in Präsentationen oder Diashows umgewandelt werden.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/de/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode for Reporting Services ist die umfassendste Lösung zum Rendern von Barcodebildern in Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 

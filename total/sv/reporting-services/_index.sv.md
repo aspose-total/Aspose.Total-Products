@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services är en svit av renderingstillägg för Micro
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Reporting Services inkluderar följande renderingstillägg:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/sv/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words for Reporting Services stöder export av RDL- och RDLC-rapporter som OOXML-, DOC-, RTF- och WordprocessingML-dokument inifrån Microsoft SQL Server Reporting Services såväl som i Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sv/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF for Reporting Services är en robust lösning som ger möjlighet att producera PDF-rapporter från Microsoft SQL Server Reporting Services. De flesta av RDL-rapportfunktionerna stöds så att utvecklarna kan generera PDF-rapporter av högsta kvalitet.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/sv/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Aspose.Cells for Reporting Services låter dig leverera inbyggda Excel-rapporter från Microsoft SQL Server Reporting Services såväl som i de flesta populära versionerna av Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/sv/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services är den enda lösningen på marknaden för att generera rapporter i Microsoft PowerPoint-format från Microsoft SQL Server Reporting Services. RDL-rapportfunktioner som tabeller, matriser, diagram och bilder kan konverteras med hög kvalitet till presentationer eller bildspel.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sv/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode for Reporting Services är den mest omfattande lösningen för att rendera streckkodsbilder inom Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 

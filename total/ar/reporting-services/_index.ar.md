@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services عبارة عن مجموعة من ملحقا
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Reporting Services يشمل امتدادات العرض التالية:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 تدعم Aspose.Words for Reporting Services تصدير تقارير RDL و RDLC كمستندات OOXML و DOC و RTF و WordprocessingML من داخل Microsoft SQL Server Reporting Services وكذلك في Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF for Reporting Services هو حل قوي يوفر القدرة على إنتاج تقارير PDF من Microsoft SQL Server Reporting Services. يتم دعم معظم ميزات تقرير RDL مما يسمح للمطورين بإنشاء تقارير PDF بأعلى جودة.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Aspose.Cells for Reporting Services يسمح لك بتقديم تقارير Excel أصلية من داخل Microsoft SQL Server Reporting Services وكذلك في الإصدارات الأكثر شيوعًا من Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services هو الحل الوحيد في السوق لإنشاء تقارير بتنسيقات Microsoft PowerPoint من Microsoft SQL Server Reporting Services. يمكن تحويل ميزات تقرير RDL مثل الجداول والمصفوفات والمخططات والصور بجودة عالية إلى العروض التقديمية أو عروض الشرائح.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode for Reporting Services هو الحل الأكثر شمولاً لعرض صور الباركود ضمن Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 

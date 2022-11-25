@@ -18,23 +18,23 @@ description: RDL 보고서를 Word Excel PDF PowerPoint 형식으로 내보내�
 
 {{< blocks/products/pf/total/products description="Reporting Services용 Aspose.Total에는 다음과 같은 렌더링 확장 프로그램이 포함되어 있습니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words for Reporting Services는 Microsoft SQL Server Reporting Services 및 Microsoft Report Viewer에서 OOXML, DOC, RTF 및 WordprocessingML 문서로 RDL 및 RDLC 보고서 내보내기를 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 보고 서비스용 Aspose.PDF는 Microsoft SQL Server 보고 서비스에서 PDF 보고서를 생성할 수 있는 기능을 제공하는 강력한 솔루션입니다. 개발자가 최고 품질의 PDF 보고서를 생성할 수 있도록 대부분의 RDL 보고서 기능이 지원됩니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 보고 서비스용 Aspose.Cells를 사용하면 Microsoft SQL Server 보고 서비스 내에서뿐만 아니라 가장 널리 사용되는 Microsoft 보고서 뷰어 버전에서 기본 Excel 보고서를 전달할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services는 Microsoft SQL Server Reporting Services에서 Microsoft PowerPoint 형식으로 보고서를 생성할 수 있는 유일한 솔루션입니다. 표, 행렬, 차트 및 이미지와 같은 RDL 보고서 기능을 고품질로 프레젠테이션이나 슬라이드 쇼로 변환할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 보고 서비스용 Aspose.BarCode는 Microsoft SQL Server 보고 서비스 내에서 바코드 이미지를 렌더링하기 위한 가장 포괄적인 솔루션입니다.
 {{< /blocks/products/pf/total/product-item >}}
 

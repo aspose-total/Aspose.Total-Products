@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services, geliştiricilerin RDL raporlarını Word, E
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Reporting Services aşağıdaki işleme uzantılarını içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words for Reporting Services, RDL ve RDLC raporlarının OOXML, DOC, RTF ve WordprocessingML belgeleri olarak Microsoft SQL Server Raporlama Servisleri ve Microsoft Rapor Görüntüleyici'den dışa aktarılmasını destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/tr/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF for Reporting Services, Microsoft SQL Server Raporlama Servislerinden PDF raporları üretme yeteneği sağlayan sağlam bir çözümdür. RDL rapor özelliklerinin çoğu desteklenir ve geliştiricilerin en yüksek kalitede PDF raporları oluşturmasına olanak tanır.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Aspose.Cells for Reporting Services, Microsoft SQL Server Raporlama Hizmetlerinin yanı sıra Microsoft Report Viewer'ın en popüler sürümlerinden yerel Excel raporları sunmanıza olanak tanır.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services, Microsoft SQL Server Raporlama Servislerinden Microsoft PowerPoint formatlarında raporlar oluşturmak için piyasadaki tek çözümdür. Tablolar, matrisler, çizelgeler ve resimler gibi RDL rapor özellikleri, yüksek kalitede sunumlara veya slayt gösterilerine dönüştürülebilir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode for Reporting Services, Microsoft SQL Server Reporting Services içinde barkod görüntülerini işlemek için en kapsamlı çözümdür.
 {{< /blocks/products/pf/total/product-item >}}
 

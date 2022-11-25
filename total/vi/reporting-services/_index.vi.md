@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services là một bộ Tiện ích mở rộng Kết
 
 {{< blocks/products/pf/total/products description="Aspose.Total cho Dịch vụ Báo cáo bao gồm các tiện ích mở rộng kết xuất sau:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/vi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose. AdWords for Reporting Services hỗ trợ xuất báo cáo RDL và RDLC dưới dạng tài liệu OOXML, DOC, RTF và WordprocessingML từ trong Microsoft SQL Server Reporting Services cũng như trong Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/vi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF cho Dịch vụ Báo cáo là một giải pháp mạnh mẽ cung cấp khả năng tạo báo cáo PDF từ Dịch vụ Báo cáo Máy chủ SQL của Microsoft. Hầu hết các tính năng báo cáo RDL được hỗ trợ cho phép các nhà phát triển tạo các báo cáo PDF chất lượng cao nhất.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/vi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Aspose.Cells cho Dịch vụ Báo cáo cho phép bạn cung cấp các báo cáo Excel gốc từ bên trong Dịch vụ Báo cáo Máy chủ SQL của Microsoft cũng như trong hầu hết các phiên bản phổ biến của Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/vi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services là giải pháp duy nhất trên thị trường để tạo báo cáo ở định dạng Microsoft PowerPoint từ Microsoft SQL Server Reporting Services. Các tính năng báo cáo RDL như bảng, ma trận, biểu đồ và hình ảnh có thể được chuyển đổi với chất lượng cao thành bản trình bày hoặc trình chiếu.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/vi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode for Reporting Services là giải pháp toàn diện nhất để hiển thị hình ảnh mã vạch trong Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 

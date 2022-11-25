@@ -18,23 +18,23 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total for Reporting Services περιλαμβάνει τις ακόλουθες επεκτάσεις απόδοσης:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Το Aspose.Words for Reporting Services υποστηρίζει την εξαγωγή αναφορών RDL και RDLC ως εγγράφων OOXML, DOC, RTF και WordprocessingML από τις υπηρεσίες αναφοράς του Microsoft SQL Server καθώς και από το Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Το Aspose.PDF για Υπηρεσίες Αναφοράς είναι μια ισχυρή λύση που παρέχει τη δυνατότητα παραγωγής αναφορών PDF από τις Υπηρεσίες αναφοράς του Microsoft SQL Server. Οι περισσότερες από τις δυνατότητες αναφοράς RDL υποστηρίζονται επιτρέποντας στους προγραμματιστές να δημιουργούν τις υψηλότερης ποιότητας αναφορές PDF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Το Aspose.Cells for Reporting Services σάς επιτρέπει να παρέχετε εγγενείς αναφορές του Excel από τις υπηρεσίες αναφοράς του Microsoft SQL Server καθώς και από τις πιο δημοφιλείς εκδόσεις του προγράμματος προβολής αναφορών της Microsoft.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Το Aspose.Slides for Reporting Services είναι η μόνη λύση στην αγορά για τη δημιουργία αναφορών σε μορφές Microsoft PowerPoint από τις υπηρεσίες αναφοράς του Microsoft SQL Server. Οι δυνατότητες αναφοράς RDL, όπως πίνακες, πίνακες, γραφήματα και εικόνες μπορούν να μετατραπούν με υψηλή ποιότητα σε παρουσιάσεις ή παρουσιάσεις.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Το Aspose.BarCode for Reporting Services είναι η πιο ολοκληρωμένη λύση για την απόδοση εικόνων γραμμικού κώδικα στις υπηρεσίες αναφοράς του Microsoft SQL Server.
 {{< /blocks/products/pf/total/product-item >}}
 

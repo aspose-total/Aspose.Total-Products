@@ -18,23 +18,23 @@ Aspose.Total for Reporting Services is een suite van Rendering Extensions voor M
 
 {{< blocks/products/pf/total/products description="Aspose.Total voor Reporting Services bevat de volgende weergave-extensies:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/nl/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words for Reporting Services ondersteunt het exporteren van RDL- en RDLC-rapporten als OOXML-, DOC-, RTF- en WordprocessingML-documenten vanuit Microsoft SQL Server Reporting Services en Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/nl/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Aspose.PDF voor Reporting Services is een robuuste oplossing die de mogelijkheid biedt om PDF-rapporten te produceren vanuit Microsoft SQL Server Reporting Services. De meeste RDL-rapportfuncties worden ondersteund, zodat de ontwikkelaars PDF-rapporten van de hoogste kwaliteit kunnen genereren.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/nl/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Met Aspose.Cells voor Reporting Services kunt u native Excel-rapporten leveren vanuit Microsoft SQL Server Reporting Services en in de meeste populaire versies van Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/nl/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides voor Reporting Services is de enige oplossing op de markt voor het genereren van rapporten in Microsoft PowerPoint-indeling vanuit Microsoft SQL Server Reporting Services. RDL-rapportfuncties zoals tabellen, matrices, grafieken en afbeeldingen kunnen met hoge kwaliteit worden geconverteerd naar presentaties of diavoorstellingen.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/nl/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode voor Reporting Services is de meest uitgebreide oplossing voor het weergeven van barcodeafbeeldingen binnen Microsoft SQL Server Reporting Services.
 {{< /blocks/products/pf/total/product-item >}}
 
