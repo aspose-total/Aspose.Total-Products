@@ -18,15 +18,15 @@ Aspose.Total for Python aracılığıyla Java, Python geliştiricilerinin Python
 
 {{< blocks/products/pf/total/products description="Java aracılığıyla Aspose.Total for Python aşağıdaki yüksek kodlu API'leri içerir:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Elektronik tabloların oluşturulması, işlenmesi ve dönüştürülmesi gibi süreçleri otomatikleştirmek için bir Excel Python kitaplığı. Ayrıca çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin ve resimlere dönüştürebilir. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python-java köprüsünü kullanarak Python uygulamalarının içinden herhangi bir açıda görüntülerden 1D ve 2D barkodlar oluşturmak ve tanımak için Python Barkod kütüphanesi. Geliştiriciler, kendi Python Uygulamalarına kolayca barkod oluşturma ve tanıma işlevi ekleyebilir. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/tr/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Microsoft Visio veya başka bir yazılıma ihtiyaç duymadan Microsoft Visio VSDX, VDX, VSX, VTX ve diğer biçimleri oluşturmaya, okumaya, yazmaya ve dışa aktarmaya yardımcı olan Python Diyagramı kitaplığı.
 {{< /blocks/products/pf/total/product-item >}}
 

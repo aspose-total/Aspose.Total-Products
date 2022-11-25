@@ -18,15 +18,15 @@ Aspose.Total для Python через Java — это полный набор д
 
 {{< blocks/products/pf/total/products description="Aspose.Total для Python через Java включает следующие высококодовые API:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ru/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Библиотека Excel Python для автоматизации таких процессов, как создание, обработка и преобразование электронных таблиц. Он также может отображать рабочие листы в XPS, PDF, MHTML, HTML, обычный текст и изображения. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ru/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Библиотека штрих-кодов Python для создания и распознавания 1D- и 2D-штрих-кодов из изображений под любым углом из приложений Python с использованием моста python-java. Разработчики могут легко добавлять функции генерации и распознавания штрих-кодов в свои собственные приложения Python. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ru/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Библиотека диаграмм Python, которая помогает создавать, читать, писать и экспортировать Microsoft Visio VSDX, VDX, VSX, VTX и другие форматы без использования Microsoft Visio или любого другого программного обеспечения.
 {{< /blocks/products/pf/total/product-item >}}
 

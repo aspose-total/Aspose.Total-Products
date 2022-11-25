@@ -18,15 +18,15 @@ Aspose.Total for Python via Java 是一個完整的套件，供 Python 開發人
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via Java 包括以下高代碼 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh-hant/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 一個 Excel Python 庫，用於自動化電子表格的生成、操作和轉換等過程。它還可以將工作表呈現為 XPS、PDF、MHTML、HTML、純文本和圖像。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh-hant/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python Barcode 庫，通過使用 python-java 橋從 Python 應用程序中以任何角度從圖像中生成和識別一維和二維條碼。開發人員可以輕鬆地將條碼生成和識別功能添加到他們自己的 Python 應用程序中。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/zh-hant/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Python 圖表庫，可幫助創建、讀取、寫入和導出 Microsoft Visio VSDX、VDX、VSX、VTX 和其他格式，而無需 Microsoft Visio 或任何其他軟件。
 {{< /blocks/products/pf/total/product-item >}}
 

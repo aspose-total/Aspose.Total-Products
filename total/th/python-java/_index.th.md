@@ -18,15 +18,15 @@ Aspose.Total สำหรับ Python ผ่าน Java เป็นชุด�
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ Python ผ่าน Java มี API โค้ดสูงดังต่อไปนี้:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 ไลบรารี Excel Python เพื่อทำให้กระบวนการต่างๆ เป็นแบบอัตโนมัติ เช่น การสร้าง การจัดการ และการแปลงสเปรดชีต นอกจากนี้ยังสามารถแสดงเวิร์กชีตเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดาและรูปภาพ 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/th/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 ไลบรารีบาร์โค้ด Python เพื่อสร้างและจดจำบาร์โค้ด 1D และ 2D จากรูปภาพในทุกมุมจากภายในแอปพลิเคชัน Python โดยใช้บริดจ์ python-java นักพัฒนาสามารถเพิ่มฟังก์ชันการสร้างและจดจำบาร์โค้ดให้กับแอพ Python ของตนเองได้อย่างง่ายดาย 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/th/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 ไลบรารี Python Diagram ที่ช่วยในการสร้าง อ่าน เขียนและส่งออก Microsoft Visio VSDX, VDX, VSX, VTX และรูปแบบอื่นๆ โดยไม่ต้องใช้ Microsoft Visio หรือซอฟต์แวร์อื่นใด
 {{< /blocks/products/pf/total/product-item >}}
 

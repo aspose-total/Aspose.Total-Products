@@ -18,15 +18,15 @@ Aspose.Total for Python عبر Java هو مجموعة كاملة لمطوري Py
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python عبر Java يتضمن واجهات برمجة التطبيقات التالية ذات الأكواد العالية:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 مكتبة Excel Python لأتمتة العمليات مثل إنشاء جداول البيانات ومعالجتها وتحويلها. يمكنه أيضًا تقديم أوراق العمل إلى XPS و PDF و MHTML و HTML والنص العادي والصور. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 مكتبة Python Barcode لإنشاء والتعرف على الرموز الشريطية 1D و 2D من الصور بأي زاوية من داخل تطبيقات Python باستخدام جسر python-java. يمكن للمطورين بسهولة إضافة وظيفة إنشاء الرمز الشريطي والتعرف عليه إلى تطبيقات Python الخاصة بهم. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ar/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 مكتبة Python Diagram التي تساعد في إنشاء وقراءة وكتابة وتصدير Microsoft Visio VSDX و VDX و VSX و VTX وتنسيقات أخرى دون الحاجة إلى Microsoft Visio أو أي برنامج آخر.
 {{< /blocks/products/pf/total/product-item >}}
 

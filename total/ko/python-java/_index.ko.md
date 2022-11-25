@@ -18,15 +18,15 @@ Aspose.Total for Python via Java는 Python 개발자가 Python 애플리케이�
 
 {{< blocks/products/pf/total/products description="Java를 통한 Python용 Aspose.Total에는 다음과 같은 고급 코드 API가 포함되어 있습니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ko/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 스프레드시트의 생성, 조작 및 변환과 같은 프로세스를 자동화하는 Excel Python 라이브러리입니다. 또한 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트 및 이미지로 렌더링할 수 있습니다. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ko/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 python-java 브리지를 사용하여 Python 응용 프로그램 내에서 모든 각도의 이미지에서 1D 및 2D 바코드를 생성하고 인식하는 Python 바코드 라이브러리. 개발자는 바코드 생성 및 인식 기능을 자신의 Python 앱에 쉽게 추가할 수 있습니다. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ko/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Microsoft Visio 또는 기타 소프트웨어 없이 Microsoft Visio VSDX, VDX, VSX, VTX 및 기타 형식을 만들고, 읽고, 쓰고, 내보내는 데 도움이 되는 Python 다이어그램 라이브러리.
 {{< /blocks/products/pf/total/product-item >}}
 

@@ -18,15 +18,15 @@ Az Aspose.Total for Python via Java egy teljes programcsomag Python-fejlesztők 
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for Python a Java-n keresztül a következő nagy kódú API-kat tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Egy Excel Python-könyvtár olyan folyamatok automatizálására, mint a táblázatok generálása, manipulálása és konvertálása. A munkalapokat XPS-re, PDF-re, MHTML-re, HTML-re, egyszerű szövegre és képekre is képes renderelni. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python vonalkódkönyvtár 1D és 2D vonalkódok generálására és felismerésére a képekből bármilyen szögben a Python alkalmazásokon belül a python-java bridge használatával. A fejlesztők könnyedén hozzáadhatnak vonalkód-generáló és -felismerési funkciókat saját Python-alkalmazásaikhoz. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Python Diagram könyvtár, amely segít létrehozni, olvasni, írni és exportálni a Microsoft Visio VSDX, VDX, VSX, VTX és más formátumokat anélkül, hogy Microsoft Visio vagy bármilyen más szoftver kellene.
 {{< /blocks/products/pf/total/product-item >}}
 

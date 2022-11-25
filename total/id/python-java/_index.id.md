@@ -18,15 +18,15 @@ Aspose.Total for Python via Java adalah rangkaian lengkap untuk pengembang Pytho
 
 {{< blocks/products/pf/total/products description="Aspose.Total untuk Python melalui Java menyertakan API kode tinggi berikut:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/id/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Pustaka Excel Python untuk mengotomatiskan proses seperti pembuatan, manipulasi & konversi spreadsheet. Itu juga dapat membuat lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa dan gambar. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/id/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Pustaka Python Barcode untuk menghasilkan dan mengenali barcode 1D & 2D dari gambar di setiap sudut dari dalam aplikasi Python dengan menggunakan jembatan python-java. Pengembang dapat dengan mudah menambahkan pembuatan kode batang dan fungsi pengenalan ke Aplikasi Python mereka sendiri. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/id/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Pustaka Diagram Python yang membantu dalam membuat, membaca, menulis, dan mengekspor Microsoft Visio VSDX, VDX, VSX, VTX, dan format lainnya tanpa memerlukan Microsoft Visio atau perangkat lunak lainnya.
 {{< /blocks/products/pf/total/product-item >}}
 

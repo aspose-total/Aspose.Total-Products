@@ -18,15 +18,15 @@ Aspose.Total for Python via Javaは、Python開発者が、Pythonアプリケー
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via Javaには、次のハイコードAPIが含まれています。" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ja/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 スプレッドシートの生成、操作、変換などのプロセスを自動化するExcelPythonライブラリ。また、ワークシートをXPS、PDF、MHTML、HTML、プレーンテキストおよび画像にレンダリングすることもできます。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ja/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 python-javaブリッジを使用して、Pythonアプリケーション内から任意の角度で画像から1Dおよび2Dバーコードを生成および認識するPythonバーコードライブラリ。開発者は、バーコードの生成および認識機能を独自のPythonアプリに簡単に追加できます。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ja/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Microsoft Visioやその他のソフトウェアを必要とせずに、Microsoft Visio VSDX、VDX、VSX、VTX、およびその他の形式の作成、読み取り、書き込み、およびエクスポートを支援するPythonダイアグラムライブラリ。
 {{< /blocks/products/pf/total/product-item >}}
 

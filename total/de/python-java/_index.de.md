@@ -18,15 +18,15 @@ Aspose.Total für Python über Java ist eine vollständige Suite für Python-Ent
 
 {{< blocks/products/pf/total/products description="Aspose.Total für Python über Java enthält die folgenden High-Code-APIs:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/de/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Eine Excel-Python-Bibliothek zur Automatisierung von Prozessen wie Generierung, Bearbeitung und Konvertierung von Tabellenkalkulationen. Es kann auch Arbeitsblätter in XPS, PDF, MHTML, HTML, Nur-Text und Bilder rendern. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/de/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python-Barcode-Bibliothek zum Generieren und Erkennen von 1D- und 2D-Barcodes aus Bildern aus beliebigen Winkeln innerhalb von Python-Anwendungen mithilfe von Python-Java Bridge. Entwickler können ihren eigenen Python-Apps ganz einfach Barcode-Generierungs- und Erkennungsfunktionen hinzufügen. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/de/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Python-Diagrammbibliothek, die beim Erstellen, Lesen, Schreiben und Exportieren von Microsoft Visio VSDX, VDX, VSX, VTX und anderen Formaten hilft, ohne Microsoft Visio oder andere Software zu benötigen.
 {{< /blocks/products/pf/total/product-item >}}
 

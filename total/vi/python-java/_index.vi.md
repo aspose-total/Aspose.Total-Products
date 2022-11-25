@@ -18,15 +18,15 @@ Aspose.Total cho Python qua Java là một bộ hoàn chỉnh dành cho các nh�
 
 {{< blocks/products/pf/total/products description="Aspose.Total cho Python qua Java bao gồm các API mã cao sau:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/vi/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Thư viện Excel Python để tự động hóa các quy trình như tạo, thao tác và chuyển đổi bảng tính. Nó cũng có thể kết xuất trang tính sang XPS, PDF, MHTML, HTML, Văn bản thuần túy và hình ảnh. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/vi/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Thư viện mã vạch Python để tạo và nhận dạng mã vạch 1D & 2D từ hình ảnh ở mọi góc độ từ bên trong các ứng dụng Python bằng cách sử dụng cầu nối python-java. Các nhà phát triển có thể dễ dàng thêm chức năng tạo và nhận dạng mã vạch vào Ứng dụng Python của riêng họ. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/vi/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Thư viện Python Diagram giúp tạo, đọc, viết và xuất Microsoft Visio VSDX, VDX, VSX, VTX và các định dạng khác mà không cần Microsoft Visio hoặc bất kỳ phần mềm nào khác.
 {{< /blocks/products/pf/total/product-item >}}
 

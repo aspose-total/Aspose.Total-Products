@@ -18,15 +18,15 @@ Aspose.Total for Python via Java 是一个完整的套件，供 Python 开发人
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via Java 包括以下高代码 API：" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 一个 Excel Python 库，用于自动化电子表格的生成、操作和转换等过程。它还可以将工作表呈现为 XPS、PDF、MHTML、HTML、纯文本和图像。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python Barcode 库，通过使用 python-java 桥从 Python 应用程序中以任何角度从图像中生成和识别一维和二维条码。开发人员可以轻松地将条码生成和识别功能添加到他们自己的 Python 应用程序中。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/zh/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Python 图表库，可帮助创建、读取、写入和导出 Microsoft Visio VSDX、VDX、VSX、VTX 和其他格式，而无需 Microsoft Visio 或任何其他软件。
 {{< /blocks/products/pf/total/product-item >}}
 

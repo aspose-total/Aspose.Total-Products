@@ -18,15 +18,15 @@ Aspose.Total pro Python prostřednictvím Javy je kompletní sada pro vývojář
 
 {{< blocks/products/pf/total/products description="Aspose.Total pro Python prostřednictvím Javy obsahuje následující rozhraní API s vysokým kódem:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/cs/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Knihovna Excel Python pro automatizaci procesů, jako je generování, manipulace a konverze tabulek. Dokáže také vykreslovat pracovní listy do formátu XPS, PDF, MHTML, HTML, prostý text a obrázky. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/cs/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Knihovna čárových kódů Python pro generování a rozpoznávání 1D a 2D čárových kódů z obrázků v libovolném úhlu z aplikací Python pomocí python-java bridge. Vývojáři mohou snadno přidat funkci generování a rozpoznávání čárových kódů do svých vlastních aplikací Python. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/cs/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Knihovna diagramů Pythonu, která pomáhá při vytváření, čtení, psaní a exportu formátů Microsoft Visio VSDX, VDX, VSX, VTX a dalších bez nutnosti aplikace Microsoft Visio nebo jiného softwaru.
 {{< /blocks/products/pf/total/product-item >}}
 
