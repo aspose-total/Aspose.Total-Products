@@ -18,23 +18,23 @@ Aspose.Total for SharePoint 是 Aspose 提供的每个已编译 SharePoint 应�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint 可帮助您的组织在 Windows SharePoint Services (WSS) 或 Microsoft Office SharePoint Server (MOSS) 技术上拥有公司文档存储库，将 SharePoint 中保存的文档转换为用户需要的各种文档格式。" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/zh/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint 可帮助您的组织在 Windows SharePoint Services (WSS) 或 Microsoft Office SharePoint Server (MOSS) 技术上拥有公司文档存储库，将 SharePoint 中保存的文档转换为用户需要的各种文档格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/zh/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF for SharePoint 让您能够将列表项和 wiki 页面转换为可移植文档格式 (PDF)。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint 是一个灵活的电子表格操作解决方案，允许开发人员在 Microsoft SharePoint 中转换 Microsoft Excel 文档，并支持多种文档格式，而不是原生支持的格式。它还允许您将 SharePoint 中保存的文件转换为用户需要的格式，从而帮助您传播公司知识。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/zh/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint 提供多种功能，包括消息文件格式转换、电子邮件附件提取、与邮件服务器的电子邮件同步以及从 Microsoft SharePoint 文档库传输到 FTP 服务器的文件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint 允许开发人员在 SharePoint 应用程序中读取和转换 PowerPoint 文件（PPT、POT、PPS、PPTX、POT 和 PPSX 格式），而无需使用 Microsoft PowerPoint。它面向需要将各种 PowerPoint 文件格式转换为 PDF、TIFF 或 XPS 格式而又不失保真度的 SharePoint 开发人员。它支持与 WSS 3.0、MOSS 2007 和 MOSS 2010 一起使用。
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,7 +42,7 @@ Aspose.Slides for SharePoint 允许开发人员在 SharePoint 应用程序中读
 Aspose.Imaging for SharePoint 为 SharePoint 解决方案增加了图像处理能力。它支持在 Microsoft SharePoint Server 2010 和 Microsoft SharePoint Foundation 2010 中在不同的图像文件格式和图像编辑之间进行转换。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePoint 提供了一个独特而强大的应用程序，通过使用此条形码系统来增强您的 SharePoint 列表。 Barcode SharePoint 应用程序支持 40 多种最流行的条码符号，包括线性、邮政和二维条码。
 {{< /blocks/products/pf/total/product-item >}}
 

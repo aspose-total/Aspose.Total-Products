@@ -18,23 +18,23 @@ Aspose.Total for SharePoint هو مزيج من كل تطبيق SharePoint متر
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint يساعد مؤسستك التي لديها مستودع مستندات شركة على Windows SharePoint Services (WSS) أو تقنيات Microsoft Office SharePoint Server (MOSS) لتحويل المستندات الموجودة في SharePoint إلى مجموعة متنوعة من تنسيقات المستندات التي يحتاجها المستخدمون لديك." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 يساعد Aspose.Words for SharePoint مؤسستك التي لديها مستودع مستندات شركة على Windows SharePoint Services (WSS) أو تقنيات Microsoft Office SharePoint Server (MOSS) لتحويل المستند المحتفظ به داخل SharePoint إلى مجموعة متنوعة من تنسيقات المستندات التي يحتاجها المستخدمون لديك.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 يمنحك Aspose.PDF for SharePoint القدرة على تحويل عناصر القائمة وصفحات wiki إلى تنسيق مستند محمول (PDF).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint هو حل مرن لمعالجة جداول البيانات يسمح للمطورين بتحويل مستندات Microsoft Excel ضمن Microsoft SharePoint ودعم تنسيقات مستندات متعددة تتجاوز التنسيقات الأصلية المدعومة. كما يساعدك أيضًا على توزيع معرفة الشركة من خلال السماح لك بتحويل الملفات الموجودة في SharePoint إلى التنسيقات التي يحتاجها المستخدمون لديك.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email لـ SharePoint يوفر العديد من الميزات بما في ذلك تحويل تنسيق ملف الرسائل واستخراج مرفقات البريد الإلكتروني ومزامنة البريد الإلكتروني مع خوادم البريد ونقل الملفات إلى خادم FTP مباشرة من مكتبة مستندات Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint يسمح للمطورين بقراءة وتحويل ملفات PowerPoint (تنسيق PPT و POT و PPS و PPTX و POT و PPSX) في تطبيق SharePoint دون استخدام Microsoft PowerPoint. إنه موجه لمطوري SharePoint الذين يحتاجون إلى تحويل تنسيقات ملفات PowerPoint المتنوعة إلى تنسيقات PDF أو TIFF أو XPS دون فقدان الدقة. وهو مدعوم للعمل مع WSS 3.0 و MOSS 2007 و MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,7 +42,7 @@ Aspose.Slides for SharePoint يسمح للمطورين بقراءة وتحويل
 Aspose.Imaging لـ SharePoint يضيف القدرة على معالجة الصور إلى حلول SharePoint. وهو يدعم التحويل بين تنسيقات ملفات الصور المختلفة وتحرير الصور من داخل Microsoft SharePoint Server 2010 و Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 يوفر Aspose.BarCode for SharePoint تطبيقًا فريدًا وقويًا لتحسين قوائم SharePoint باستخدام نظام الترميز الشريطي هذا. يدعم تطبيق Barcode SharePoint أكثر من 40 من رموز الرموز الشريطية الأكثر شيوعًا بما في ذلك الرموز الشريطية الخطية والبريدية والثنائية الأبعاد.
 {{< /blocks/products/pf/total/product-item >}}
 

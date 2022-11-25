@@ -18,23 +18,23 @@ Aspose.Total for SharePoint, Aspose tarafından sunulan her derlenmiş SharePoin
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint, SharePoint içinde tutulan belgeleri kullanıcılarınızın ihtiyaç duyduğu çeşitli belge biçimlerine dönüştürmek için Windows SharePoint Services (WSS) veya Microsoft Office SharePoint Server (MOSS) teknolojilerinde kurumsal bir belge deposuna sahip olmanıza yardımcı olur." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint, SharePoint içinde tutulan belgeleri kullanıcılarınızın ihtiyaç duyduğu çeşitli belge biçimlerine dönüştürmek için Windows SharePoint Services (WSS) veya Microsoft Office SharePoint Server'ın (MOSS) teknolojilerinde kurumsal bir belge deposuna sahip olmanıza yardımcı olur.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF for SharePoint, liste öğelerini ve wiki sayfalarını Taşınabilir Belge Formatına (PDF) dönüştürme yeteneği sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint, geliştiricilerin Microsoft Excel belgelerini Microsoft SharePoint içinde dönüştürmesine ve yerel desteklenen biçimlerin ötesinde birden çok belge biçimini desteklemesine olanak tanıyan esnek bir elektronik tablo işleme çözümüdür. Ayrıca, SharePoint içinde tutulan dosyaları kullanıcılarınızın ihtiyaç duyduğu biçimlere dönüştürmenize izin vererek kurumsal bilgileri dağıtmanıza da yardımcı olur.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint, doğrudan Microsoft SharePoint belge kitaplığından mesaj dosyası formatı dönüştürme, e-posta eki çıkarma, posta sunucularıyla e-posta senkronizasyonu ve FTP sunucusuna dosya aktarımı gibi çok sayıda özellik sunar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint, geliştiricilerin PowerPoint dosyalarını (PPT, POT, PPS, PPTX, POT ve PPSX formatı) Microsoft PowerPoint kullanmadan bir SharePoint uygulamasında okumasına ve dönüştürmesine olanak tanır. Çeşitli PowerPoint dosya biçimlerini aslına uygunluğunu kaybetmeden PDF, TIFF veya XPS biçimlerine dönüştürmesi gereken SharePoint geliştiricilerine yöneliktir. WSS 3.0, MOSS 2007 ve MOSS 2010 ile çalışması desteklenmektedir.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,7 +42,7 @@ Aspose.Slides for SharePoint, geliştiricilerin PowerPoint dosyalarını (PPT, P
 Aspose.Imaging for SharePoint, SharePoint çözümlerine görüntü işleme yeteneği ekler. Farklı görüntü dosyası biçimleri arasında dönüştürmeyi ve Microsoft SharePoint Server 2010 ve Microsoft SharePoint Foundation 2010 içinden görüntü düzenlemeyi destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePoint, bu barkod sistemini kullanarak SharePoint listelerinizi geliştirmek için benzersiz ve sağlam bir uygulama sunar. Barkod SharePoint uygulaması, Linear, Postal ve 2D barkodlar dahil olmak üzere en popüler 40'tan fazla barkod sembolojisini destekler.
 {{< /blocks/products/pf/total/product-item >}}
 

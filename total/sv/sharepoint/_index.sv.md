@@ -18,23 +18,23 @@ Aspose.Total för SharePoint är en kombination av varje kompilerad SharePoint-a
 
 {{< blocks/products/pf/total/products description="Aspose.Total för SharePoint hjälper din organisation att ha en företagsdokumentförvaring på Windows SharePoint Services (WSS) eller Microsoft Office SharePoint Servers (MOSS) teknologier för att konvertera dokument som finns i SharePoint till en mängd olika dokumentformat som dina användare behöver dem i." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words för SharePoint hjälper din organisation att ha en företagsdokumentförvaring på Windows SharePoint Services (WSS) eller Microsoft Office SharePoint Servers (MOSS) teknologier för att konvertera dokument som finns i SharePoint till en mängd olika dokumentformat som dina användare behöver dem i.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF för SharePoint ger dig möjligheten att konvertera listobjekt och wikisidor till Portable Document Format (PDF).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells för SharePoint är en flexibel lösning för hantering av kalkylblad som gör det möjligt för utvecklare att konvertera Microsoft Excel-dokument inom Microsoft SharePoint och stödja flera dokumentformat utöver de ursprungliga formaten som stöds. Det hjälper dig också att distribuera företagskunskap genom att låta dig konvertera filer som finns i SharePoint till de format som dina användare behöver dem i.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email för SharePoint tillhandahåller en mängd funktioner, inklusive konvertering av meddelandefilformat, extrahering av e-postbilagor, e-postsynkronisering med e-postservrar och filöverföring till FTP-servern, direkt från Microsoft SharePoint-dokumentbiblioteket.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides för SharePoint låter utvecklare läsa och konvertera PowerPoint-filer (PPT, POT, PPS, PPTX, POT och PPSX-format) i en SharePoint-applikation utan att använda Microsoft PowerPoint. Det riktar sig till SharePoint-utvecklare som behöver konvertera olika PowerPoint-filformat till PDF-, TIFF- eller XPS-format utan att förlora troheten. Det stöds för att fungera med WSS 3.0, MOSS 2007 och MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -42,7 +42,7 @@ Aspose.Slides för SharePoint låter utvecklare läsa och konvertera PowerPoint-
 Aspose.Imaging för SharePoint lägger till bildbehandlingskapacitet till SharePoint-lösningar. Den stöder konvertering mellan olika bildfilformat och bildredigering från Microsoft SharePoint Server 2010 och Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode för SharePoint tillhandahåller en unik och robust app för att förbättra din SharePoints listor genom att använda detta streckkodssystem. Barcode SharePoint-appen stöder mer än 40 av de mest populära streckkodssymbologierna inklusive linjära, post- och 2D streckkoder.
 {{< /blocks/products/pf/total/product-item >}}
 
