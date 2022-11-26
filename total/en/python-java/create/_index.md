@@ -29,6 +29,8 @@ description: Create Microsoft Excel worksheet reports without installing Microso
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create">}}
+
 {{% blocks/products/pf/feature-page-section  h2="How to Update Microsoft Excel Files using Python" %}}
 
 Process of creating and updating the Excel file is almost same except the only difference. The difference is, during creation process, Empty Workbook object is created while during the update process, there is need of existing Excel file. So pass the existing file as parameter to Workbook class. Rest the procedure is same
