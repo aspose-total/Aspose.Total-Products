@@ -29,13 +29,4 @@ Die [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="So aktualisieren Sie Microsoft Excel-Dateien mit Python" %}}
-
-Der Prozess zum Erstellen und Aktualisieren der Excel-Datei ist bis auf den einzigen Unterschied fast gleich. Der Unterschied besteht darin, dass während des Erstellungsprozesses ein leeres Arbeitsmappenobjekt erstellt wird, während während des Aktualisierungsprozesses eine vorhandene Excel-Datei benötigt wird. Übergeben Sie also die vorhandene Datei als Parameter an die Workbook-Klasse. Rest das Verfahren ist das gleiche
-
-{{% blocks/products/pf/feature-page-code h3="Code 3 – Microsoft Excel-Dokumente aktualisieren" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Schaffen">}}

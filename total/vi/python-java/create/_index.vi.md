@@ -29,13 +29,4 @@ description: Tạo báo cáo trang tính Microsoft Excel mà không cần cài �
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cách cập nhật tệp Microsoft Excel bằng Python" %}}
-
-Quy trình tạo và cập nhật tệp Excel gần như giống nhau, ngoại trừ sự khác biệt duy nhất. Sự khác biệt là, trong quá trình tạo, đối tượng Empty Workbook được tạo ra trong khi trong quá trình cập nhật, cần có tệp Excel hiện có. Vì vậy, hãy chuyển tệp hiện có làm tham số cho lớp Workbook. Còn lại quy trình vẫn như cũ
-
-{{% blocks/products/pf/feature-page-code h3="Mã 3 - Cập nhật Tài liệu Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Tạo ra">}}

@@ -29,13 +29,4 @@ description: Cree informes de hojas de cálculo de Microsoft Excel sin instalar 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cómo actualizar archivos de Microsoft Excel usando Python" %}}
-
-El proceso de creación y actualización del archivo de Excel es casi el mismo, excepto por la única diferencia. La diferencia es que, durante el proceso de creación, se crea el objeto Libro de trabajo vacío, mientras que durante el proceso de actualización, se necesita un archivo de Excel existente. Así que pase el archivo existente como parámetro a la clase Workbook. Resto el procedimiento es el mismo
-
-{{% blocks/products/pf/feature-page-code h3="Código 3 - Actualizar documentos de Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Crear">}}

@@ -29,13 +29,4 @@ description: Δημιουργήστε αναφορές φύλλου εργασί
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Πώς να ενημερώσετε τα αρχεία Microsoft Excel χρησιμοποιώντας Python" %}}
-
-Η διαδικασία δημιουργίας και ενημέρωσης του αρχείου Excel είναι σχεδόν ίδια εκτός από τη μόνη διαφορά. Η διαφορά είναι ότι κατά τη διαδικασία δημιουργίας δημιουργείται αντικείμενο Κενό Βιβλίο Εργασίας, ενώ κατά τη διαδικασία ενημέρωσης απαιτείται υπάρχον αρχείο Excel. Περάστε λοιπόν το υπάρχον αρχείο ως παράμετρο στην κλάση Βιβλίο εργασίας. Υπόλοιπο η διαδικασία είναι η ίδια
-
-{{% blocks/products/pf/feature-page-code h3="Κωδικός 3 - Ενημέρωση εγγράφων Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Δημιουργώ">}}

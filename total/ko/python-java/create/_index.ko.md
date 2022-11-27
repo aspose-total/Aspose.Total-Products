@@ -29,13 +29,4 @@ description: Microsoft Office를 설치하지 않고 Microsoft Excel 워크시�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Python을 사용하여 Microsoft Excel 파일을 업데이트하는 방법" %}}
-
-Excel 파일을 생성하고 업데이트하는 과정은 유일한 차이점을 제외하고는 거의 동일합니다. 차이점은 생성 과정에서 Empty Workbook 개체가 생성되고 업데이트 과정에서 기존 Excel 파일이 필요하다는 것입니다. 따라서 기존 파일을 Workbook 클래스에 매개변수로 전달합니다. 나머지 절차는 동일합니다
-
-{{% blocks/products/pf/feature-page-code h3="코드 3 - Microsoft Excel 문서 업데이트" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="만들다">}}

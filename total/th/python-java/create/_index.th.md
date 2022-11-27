@@ -29,13 +29,4 @@ description: สร้างรายงานเวิร์กชีต Micros
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="วิธีอัปเดตไฟล์ Microsoft Excel โดยใช้ Python" %}}
-
-ขั้นตอนการสร้างและอัปเดตไฟล์ Excel เกือบจะเหมือนกัน ยกเว้นข้อแตกต่างเพียงอย่างเดียว ความแตกต่างคือ ระหว่างกระบวนการสร้าง วัตถุสมุดงานว่างเปล่าจะถูกสร้างขึ้นในขณะที่อยู่ระหว่างกระบวนการอัปเดต จำเป็นต้องมีไฟล์ Excel ที่มีอยู่ ดังนั้นส่งไฟล์ที่มีอยู่เป็นพารามิเตอร์ไปยังคลาสสมุดงาน ส่วนที่เหลือขั้นตอนเหมือนกัน
-
-{{% blocks/products/pf/feature-page-code h3="รหัส 3 - อัปเดตเอกสาร Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create" >}}

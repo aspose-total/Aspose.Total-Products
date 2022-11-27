@@ -29,13 +29,4 @@ API ASSOSE.CELLS udostępnia klasę Workbook, która obsługuje tworzenie plikó
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Jak zaktualizować pliki Microsoft Excel za pomocą Pythona?" %}}
-
-Proces tworzenia i aktualizacji pliku Excel jest prawie taki sam, z wyjątkiem jedynej różnicy. Różnica polega na tym, że podczas procesu tworzenia tworzony jest obiekt Pusty skoroszyt, podczas gdy podczas procesu aktualizacji potrzebny jest istniejący plik Excel. Więc przekaż istniejący plik jako parametr do klasy Workbook. Reszta procedura jest taka sama
-
-{{% blocks/products/pf/feature-page-code h3="Kod 3 — Zaktualizuj dokumenty programu Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Tworzyć">}}

@@ -29,13 +29,4 @@ description: Microsoft Office स्थापित किए बिना Micro
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="पायथन का उपयोग करके माइक्रोसॉफ्ट एक्सेल फाइलों को कैसे अपडेट करें" %}}
-
-केवल अंतर को छोड़कर एक्सेल फाइल बनाने और अपडेट करने की प्रक्रिया लगभग समान है। अंतर यह है कि निर्माण प्रक्रिया के दौरान, खाली कार्यपुस्तिका वस्तु बनाई जाती है जबकि अद्यतन प्रक्रिया के दौरान मौजूदा एक्सेल फ़ाइल की आवश्यकता होती है। तो मौजूदा फ़ाइल को वर्कबुक क्लास में पैरामीटर के रूप में पास करें। बाकी प्रक्रिया समान है
-
-{{% blocks/products/pf/feature-page-code h3="कोड 3 - Microsoft Excel दस्तावेज़ अपडेट करें" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create">}}

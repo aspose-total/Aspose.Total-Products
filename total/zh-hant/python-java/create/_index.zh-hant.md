@@ -29,13 +29,4 @@ description: 無需安裝 Microsoft Office 即可創建 Microsoft Excel 工作�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="如何使用 Python 更新 Microsoft Excel 文件" %}}
-
-除了唯一的區別之外，創建和更新 Excel 文件的過程幾乎相同。 不同的是，在創建過程中會創建 Empty Workbook 對象，而在更新過程中，需要現有的 Excel 文件。 因此，將現有文件作為參數傳遞給 Workbook 類。 休息程序是一樣的
-
-{{% blocks/products/pf/feature-page-code h3="代碼 3 - 更新 Microsoft Excel 文檔" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="創造">}}

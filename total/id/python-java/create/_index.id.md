@@ -29,13 +29,4 @@ description: Buat laporan lembar kerja Microsoft Excel tanpa menginstal Microsof
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cara Memperbarui File Microsoft Excel menggunakan Python" %}}
-
-Proses membuat dan memperbarui file Excel hampir sama kecuali satu-satunya perbedaan. Bedanya, pada saat proses pembuatan objek Empty Workbook dibuat sedangkan pada proses update membutuhkan file Excel yang sudah ada. Jadi, berikan file yang ada sebagai parameter ke kelas Workbook. Istirahat prosedurnya sama
-
-{{% blocks/products/pf/feature-page-code h3="Kode 3 - Perbarui Dokumen Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Membuat">}}

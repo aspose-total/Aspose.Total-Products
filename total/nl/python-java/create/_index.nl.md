@@ -29,13 +29,4 @@ description: Maak Microsoft Excel-werkbladrapporten zonder Microsoft Office te i
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Microsoft Excel-bestanden bijwerken met Python" %}}
-
-Het proces van het maken en bijwerken van het Excel-bestand is bijna hetzelfde, behalve het enige verschil. Het verschil is dat tijdens het aanmaakproces een leeg werkmap-object wordt gemaakt, terwijl er tijdens het updateproces een bestaand Excel-bestand nodig is. Geef het bestaande bestand dus als parameter door aan de Workbook-klasse. Rust de procedure is hetzelfde
-
-{{% blocks/products/pf/feature-page-code h3="Code 3 - Update Microsoft Excel-documenten" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Creëren">}}

@@ -29,13 +29,4 @@ API [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Как обновить файлы Microsoft Excel с помощью Python" %}}
-
-Процесс создания и обновления файла Excel почти такой же, за исключением единственной разницы. Разница в том, что в процессе создания создается объект «Пустая рабочая книга», а в процессе обновления требуется существующий файл Excel. Поэтому передайте существующий файл в качестве параметра классу Workbook. В остальном процедура такая же
-
-{{% blocks/products/pf/feature-page-code h3="Код 3 — Обновление документов Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Создавать">}}

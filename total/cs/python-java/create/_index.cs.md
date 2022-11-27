@@ -29,13 +29,4 @@ description: Vytvářejte sestavy listu aplikace Microsoft Excel bez instalace s
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Jak aktualizovat soubory Microsoft Excel pomocí Pythonu" %}}
-
-Proces vytváření a aktualizace souboru Excel je téměř stejný, až na jediný rozdíl. Rozdíl je v tom, že během procesu vytváření je vytvořen objekt Empty Workbook, zatímco během procesu aktualizace je potřeba existující soubor Excel. Předejte tedy existující soubor jako parametr třídě Workbook. Zbytek postup je stejný
-
-{{% blocks/products/pf/feature-page-code h3="Kód 3 – Aktualizace dokumentů Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Vytvořit">}}

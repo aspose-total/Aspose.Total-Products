@@ -29,13 +29,4 @@ L'API [Aspose.Cells for Python via Java](https://products.aspose.com/cells/pytho
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Come aggiornare i file di Microsoft Excel usando Python" %}}
-
-Il processo di creazione e aggiornamento del file Excel è quasi lo stesso tranne l'unica differenza. La differenza è che, durante il processo di creazione, viene creato l'oggetto cartella di lavoro vuota mentre durante il processo di aggiornamento è necessario un file Excel esistente. Quindi passa il file esistente come parametro alla classe Workbook. Riposa la procedura è la stessa
-
-{{% blocks/products/pf/feature-page-code h3="Codice 3 - Aggiorna documenti Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Creare">}}

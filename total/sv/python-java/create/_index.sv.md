@@ -29,13 +29,4 @@ description: Skapa Microsoft Excel-kalkylbladsrapporter utan att installera Micr
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Hur man uppdaterar Microsoft Excel-filer med Python" %}}
-
-Processen att skapa och uppdatera Excel-filen är nästan densamma förutom den enda skillnaden. Skillnaden är att under skapandeprocessen skapas Empty Workbook-objekt medan det under uppdateringsprocessen behövs en befintlig Excel-fil. Så skicka den befintliga filen som parameter till Workbook-klassen. Vila proceduren är densamma
-
-{{% blocks/products/pf/feature-page-code h3="Kod 3 - Uppdatera Microsoft Excel-dokument" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Skapa">}}

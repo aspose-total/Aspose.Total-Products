@@ -29,13 +29,4 @@ description: قم بإنشاء تقارير ورقة عمل Microsoft Excel دو
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="كيفية تحديث ملفات Microsoft Excel باستخدام Python" %}}
-
-عملية إنشاء وتحديث ملف Excel هي نفسها تقريبًا باستثناء الاختلاف الوحيد. الفرق هو ، أثناء عملية الإنشاء ، يتم إنشاء كائن مصنف فارغ أثناء عملية التحديث ، هناك حاجة إلى ملف Excel موجود. لذا قم بتمرير الملف الموجود كمعامل إلى فئة المصنف. بقية الإجراء هو نفسه
-
-{{% blocks/products/pf/feature-page-code h3="الرمز 3 - تحديث مستندات Microsoft Excel" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="إنشاء">}}

@@ -29,13 +29,4 @@ Az [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-j
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Microsoft Excel fájlok frissítése Python használatával" %}}
-
-Az Excel-fájl létrehozásának és frissítésének folyamata az egyetlen különbség kivételével szinte azonos. A különbség az, hogy a létrehozási folyamat során az üres munkafüzet objektum jön létre, míg a frissítési folyamat során meglévő Excel fájlra van szükség. Tehát adja át a meglévő fájlt paraméterként a Workbook osztálynak. Pihenjen az eljárás ugyanaz
-
-{{% blocks/products/pf/feature-page-code h3="3. kód – Frissítse a Microsoft Excel dokumentumokat" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Teremt">}}

@@ -1,11 +1,11 @@
 ---
-title: Create and Update Microsoft Excel Files using Python 
+title: Create Microsoft Excel Files using Python 
 
 description: Create Microsoft Excel worksheet reports without installing Microsoft Office 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create Excel Reports using Python" h2="Create and Update Microsoft Excel SpreadSheets XLS, XLSX documents within Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
+{{< blocks/products/pf/feature-page-header h1="Create Excel Reports using Python" h2="Create new Microsoft Excel SpreadSheets XLS, XLSX documents within Python Applications without installing Microsoft Office<sup>&reg;</sup>." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java/) is a Python API for creating, reading and writing documents within Microsoft Excel formats including XLS and XLSX. This API is part of [Aspose.Total for Python via Java](https://products.aspose.com/total/python-java/) package. Moreover, Develpors can easily write code for inserting data, images, charts, pivot tables within worksheets and many other functionalities. Python API also supports features such as set various [Formulas](https://docs.aspose.com/cells/python-java/supported-formula-functions/), convert text to columns, smart marker and dynamic formula options. Below are the few example codes to create and modify spreadsheets.
@@ -31,13 +31,3 @@ description: Create Microsoft Excel worksheet reports without installing Microso
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create">}}
 
-{{% blocks/products/pf/feature-page-section  h2="How to Update Microsoft Excel Files using Python" %}}
-
-Process of creating and updating the Excel file is almost same except the only difference. The difference is, during creation process, Empty Workbook object is created while during the update process, there is need of existing Excel file. So pass the existing file as parameter to Workbook class. Rest the procedure is same
-
-{{% blocks/products/pf/feature-page-code h3="Code 3 - Update Microsoft Excel Documents" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}

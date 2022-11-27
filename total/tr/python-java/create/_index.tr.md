@@ -29,13 +29,4 @@ description: Microsoft Office'i yüklemeden Microsoft Excel çalışma sayfası 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Python Kullanarak Microsoft Excel Dosyaları Nasıl Güncellenir" %}}
-
-Excel dosyasını oluşturma ve güncelleme işlemi, tek fark dışında hemen hemen aynıdır. Aradaki fark, oluşturma işlemi sırasında Boş Çalışma Kitabı nesnesi oluşturulurken, güncelleme işlemi sırasında mevcut Excel dosyasına ihtiyaç duyulur. Bu yüzden mevcut dosyayı Workbook sınıfına parametre olarak iletin. Dinlenme prosedürü aynı
-
-{{% blocks/products/pf/feature-page-code h3="Kod 3 - Microsoft Excel Belgelerini Güncelleyin" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Oluşturmak">}}

@@ -29,13 +29,4 @@ description: Microsoft Office をインストールせずに Microsoft Excel ワ
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Python を使用して Microsoft Excel ファイルを更新する方法" %}}
-
-Excel ファイルの作成と更新のプロセスは、唯一の違いを除いてほぼ同じです。 違いは、作成プロセス中に空の Workbook オブジェクトが作成され、更新プロセス中に既存の Excel ファイルが必要になることです。 したがって、既存のファイルをパラメーターとして Workbook クラスに渡します。 残りの手順は同じです
-
-{{% blocks/products/pf/feature-page-code h3="コード 3 - Microsoft Excel ドキュメントの更新" %}}
-
-{{< gist "aspose-com-gists" "f16dc7586917c051564eaebbb159c63f" "update-excel-file.py" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="作成">}}
