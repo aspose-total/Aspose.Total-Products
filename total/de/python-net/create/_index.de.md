@@ -35,3 +35,5 @@ Die Total Python Word API verfügt über mehrere Funktionen, darunter das Erstel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Schaffen">}}

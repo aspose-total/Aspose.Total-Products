@@ -35,3 +35,5 @@ Total Python Word API には、Microsoft Word ファイルの作成、ドキュ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="作成">}}

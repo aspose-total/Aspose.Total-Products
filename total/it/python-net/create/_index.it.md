@@ -35,3 +35,5 @@ Total Python Word API ha molteplici funzionalità tra cui la creazione di file M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Creare">}}

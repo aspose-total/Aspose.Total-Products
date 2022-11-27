@@ -35,3 +35,5 @@ Total Python Word API có nhiều tính năng bao gồm tạo tệp Microsoft Wo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Tạo ra">}}

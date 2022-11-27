@@ -35,3 +35,5 @@ Total Python Word API tiene múltiples funciones, incluida la creación de archi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Crear">}}

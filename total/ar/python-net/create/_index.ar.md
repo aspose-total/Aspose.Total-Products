@@ -35,3 +35,5 @@ description: أنشئ نصًا ومستندات Microsoft Word بدون تثبي
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="إنشاء">}}

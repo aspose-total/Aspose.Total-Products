@@ -35,3 +35,5 @@ Total Python Word API har flera funktioner inklusive skapande av Microsoft Word-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Skapa">}}

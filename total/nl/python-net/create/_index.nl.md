@@ -35,3 +35,5 @@ Total Python Word API heeft meerdere functies, waaronder het maken van Microsoft
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Creëren">}}
