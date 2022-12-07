@@ -24,7 +24,7 @@ otherformats: POTM SWF PPSX PPSM PPT PPTM POWERPOINT PPS POT POTX XAML OTP
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتشمل [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) و [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) في ملف pom.xml الخاص بك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

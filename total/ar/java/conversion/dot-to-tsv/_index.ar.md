@@ -24,7 +24,7 @@ otherformats: XLTX XLS XLAM EXCEL TSV XLT XLSB ODS XLTM SXC XLSX XLSM FODS DIF
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتشمل [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) و [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) في ملف pom.xml الخاص بك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

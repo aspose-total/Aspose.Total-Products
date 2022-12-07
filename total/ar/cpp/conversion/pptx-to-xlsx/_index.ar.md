@@ -27,7 +27,7 @@ otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MH
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 قم بالتثبيت عبر Package Manager Console في Visual Studio باستخدام `` Install-Package Aspose.Total.Cpp '' `.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/cpp).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التنزيلات](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

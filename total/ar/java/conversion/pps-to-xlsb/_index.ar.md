@@ -24,7 +24,7 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC X
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل PPS إلى XLSB ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

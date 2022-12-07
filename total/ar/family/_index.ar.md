@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من واجهات برمجة تطبيقات معالجة تنسيق الملف" h2="تعامل مع Word و Excel و PDF و PowerPoint و Outlook وأكثر من 100 تنسيق ملف آخر باستخدام واجهات برمجة التطبيقات الأصلية الخاصة بنا لـ .NET و Java و Android و C++ والأنظمة الأساسية الأخرى." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من واجهات برمجة تطبيقات معالجة تنسيق الملف" h2="تعامل مع Word و Excel و PDF و PowerPoint و Outlook وأكثر من 100 تنسيق ملف آخر باستخدام واجهات برمجة التطبيقات الأصلية الخاصة بنا لـ .NET و Java و Android و C++ والأنظمة الأساسية الأخرى." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose. يشمل إجمالي عائلة المنتج" >}}
@@ -63,6 +63,6 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

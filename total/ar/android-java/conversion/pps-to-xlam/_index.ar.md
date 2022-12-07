@@ -27,7 +27,7 @@ otherformats: XLSX XLT MARKDOWN FODS XLSM XLSB MHTML XLTM TSV XLTX DIF XLS SXC C
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل PPS إلى XLAM ، يمكنك بسهولة استخدام Aspose.Total for Android via Java مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وقم بتثبيت المكتبات في تطبيقك.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/androidjava).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

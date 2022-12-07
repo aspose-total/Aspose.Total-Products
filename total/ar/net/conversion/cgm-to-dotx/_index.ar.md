@@ -27,7 +27,7 @@ otherformats: ODT RTF MHTML MARKDOWN DOTX PS WORDML DOTM XAMLFLOW OTT FLATOPC PC
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 قم بالتثبيت من سطر الأوامر كـ ``nuget install Aspose.Total`` أو عبر Package Manager Console في Visual Studio مع ``Install-Package Aspose.Total``.
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://downloads.aspose.com/total/net).
+بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [Downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

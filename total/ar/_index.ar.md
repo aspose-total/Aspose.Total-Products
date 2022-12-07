@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIs لتطوير تطبيقات معالجة جداول ال
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

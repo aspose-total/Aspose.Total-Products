@@ -32,7 +32,7 @@ outformat: Image
 
 - لتحويل XLTX إلى صور (JPG و PNG و GIF و BMP و TIFF) ، قم بمراجعة واجهات برمجة التطبيقات داخل المشروع مباشرةً من PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - أو استخدم أمر النقطة التالي '' تثبيت نقطة aspose.cells``` 
-- علاوة على ذلك ، قم بتنزيل حزمة API من قسم [التحميلات](https://downloads.aspose.com/cells/python-java) 
+- علاوة على ذلك ، قم بتنزيل حزمة API من قسم [التحميلات](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

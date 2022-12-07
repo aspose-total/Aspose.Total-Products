@@ -24,7 +24,7 @@ otherformats: WORD ODT WORDML DOTX DOT DOTM OTT RTF DOTX DOTM TEXT FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 لتحويل ملف PPS إلى DOT ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/total/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
