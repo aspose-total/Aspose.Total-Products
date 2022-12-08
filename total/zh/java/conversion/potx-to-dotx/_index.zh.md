@@ -24,7 +24,7 @@ otherformats: FLATOPC TEXT ODT DOTXM DOT WORDML RTF OTT DOTX DOTXX DOTM WORD
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 对于 POTX 到 DOTX 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose 轻松使用 Aspose.Total for Java /aspose-total) 基于项目并在 pom.xml 中包含库。
 
-或者，您可以从 [下载](https://downloads.aspose.com/total/java) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

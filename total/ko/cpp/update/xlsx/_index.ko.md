@@ -30,7 +30,7 @@ C++ 응용 프로그램 내에서 XLSX 파일을 업데이트하려는 프로그
 - XLSX 수정의 경우 Windows 및 Linux 시스템용 [시스템 요구 사항](https://docs.aspose.com/cells/cpp/system-requirements/)에 따라 
 - 명령줄에서 ```nuget install Aspose.Total.Cpp```로 설치
 - 또는 ```Install-Package Aspose.Total.Cpp```를 사용하여 Visual Studio의 패키지 관리자 콘솔을 통해
-- 또는 [다운로드](https://downloads.aspose.com/cells/cpp)에서 ZIP 파일로 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+- 또는 [다운로드](https://releases.aspose.com/cells/cpp)에서 ZIP 파일로 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

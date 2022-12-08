@@ -159,7 +159,7 @@ Thư viện Python Diagram giúp tạo, đọc, viết và xuất Microsoft Visi
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Trong quá trình thực hiện, chúng tôi có thể cảm nhận được rằng chúng tôi chỉ chạm vào một phần nhỏ những gì Aspose.Total có thể làm được. Tính dễ sử dụng của API mang lại cho các nhà phát triển sự hài lòng khi “hoàn thành công việc” với mã đơn giản và rõ ràng của nó, đồng thời tính mạnh mẽ của sản phẩm cuối khiến khách hàng của chúng tôi hài lòng.
 {{< /blocks/products/pf/testimonials-quote >}}

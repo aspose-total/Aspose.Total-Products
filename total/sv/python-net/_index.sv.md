@@ -173,7 +173,7 @@ Ett Python 3D API som kan skapa, redigera eller konvertera Discreet3DS, Wavefron
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Total API:er." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Vad folk säger" subTitle="Ta inte bara vårt ord för det. Se vad användare har att säga om Aspose.Total API:er." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Technologia, Brasilien" >}}
 Under vår implementering kunde vi känna att vi bara rörde en bråkdel av vad Aspose.Total kan. API:s användarvänlighet ger utvecklarna tillfredsställelse för att "få jobbet gjort" med sin enkla och rena kod, och slutproduktens robusthet gör våra kunder nöjda.
 {{< /blocks/products/pf/testimonials-quote >}}

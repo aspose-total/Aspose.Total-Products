@@ -31,7 +31,7 @@ informat: XLTM
 - Để sửa đổi XLTM, Microsoft Windows hoặc hệ điều hành tương thích với Nền tảng .NET, .NET Core, Mono hoặc Xamarin
 - Môi trường phát triển như Microsoft Visual Studio 
 - Cài đặt từ dòng lệnh với tên gọi `` nuget install Aspose.Cells '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Cells ''
-- Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc tất cả DLL trong tệp ZIP từ [Tải xuống](https://downloads.aspose.com/cells/net)
+- Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc tất cả DLL trong tệp ZIP từ [Tải xuống](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

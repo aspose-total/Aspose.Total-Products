@@ -25,7 +25,7 @@ Ofta måste utvecklare konvertera RTF-fil till POWERPOINT programmatiskt. Genom 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 För konvertering av RTF till POWERPOINT-fil kan du enkelt använda Aspose.Total för Java direkt från en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/java).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

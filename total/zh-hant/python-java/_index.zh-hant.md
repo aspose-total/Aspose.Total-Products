@@ -159,7 +159,7 @@ Python 圖表庫，可幫助創建、讀取、寫入和導出 Microsoft Visio VS
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="伊戈爾·克拉夫 | W3K 技術，巴西" >}}
 在我們的實施過程中，我們可以感覺到我們只觸及了 Aspose.Total 能力的一小部分。 API 的易用性讓開發人員對“完成工作”感到滿意，其代碼簡潔乾淨，最終產品的穩健性讓我們的客戶滿意。
 {{< /blocks/products/pf/testimonials-quote >}}

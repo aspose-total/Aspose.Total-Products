@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API를 사용하여 모든 유형의 문서를 �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 파일 형식 조작 API" h2="소프트웨어 종속성 없이 .NET 응용 프로그램 내에서 Word, Excel, PDF, PowerPoint, Outlook 및 100개 이상의 기타 파일 형식을 조작합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET 파일 형식 조작 API" h2="소프트웨어 종속성 없이 .NET 응용 프로그램 내에서 Word, Excel, PDF, PowerPoint, Outlook 및 100개 이상의 기타 파일 형식을 조작합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 .NET용 Aspose.Total은 Aspose에서 제공하는 모든 .NET 파일 형식 자동화 API의 가장 완벽한 패키지입니다. 개발자는 .NET, C#, ASP.NET 및 VB.NET 응용 프로그램 내에서 가장 널리 사용되는 파일 형식을 생성, 편집, 렌더링, 인쇄 및 변환할 수 있습니다.
@@ -260,7 +260,7 @@ Aspose.Finance for .NET은 금융 관련 포맷 처리 API입니다. 비즈니�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Total API에 대한 사용자의 평가를 확인하십시오." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="스테판 스튜더 | Nowhow Solutions AG, 스위스" >}}
 잘 문서화된 사용 설명서와 Aspose.Total 구성 요소의 견고성은 DOCO에 대한 직접적인 통합으로 이어졌습니다. 이를 통해 예상보다 개발 시간을 단축할 수 있었습니다.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ Aspose.Finance for .NET은 금융 관련 포맷 처리 API입니다. 비즈니�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼에 대한 개별 솔루션을 제공합니다." >}}
 

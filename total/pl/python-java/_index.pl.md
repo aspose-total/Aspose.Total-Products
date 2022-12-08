@@ -159,7 +159,7 @@ Biblioteka Python Diagram, która pomaga w tworzeniu, czytaniu, pisaniu i ekspor
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API Aspose.Total." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazylia" >}}
 Podczas naszej implementacji mogliśmy wyczuć, że dotknęliśmy zaledwie ułamka tego, do czego zdolny jest Aspose.Total. Łatwość użycia API daje programistom satysfakcję z „wykonania pracy” dzięki prostemu i czystemu kodowi, a solidność produktu końcowego sprawia, że nasi klienci są zadowoleni.
 {{< /blocks/products/pf/testimonials-quote >}}

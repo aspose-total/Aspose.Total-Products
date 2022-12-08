@@ -30,7 +30,7 @@ informat: XLTX
 - สำหรับการแก้ไข XLTX ให้ทำตาม [ความต้องการของระบบ](https://docs.aspose.com/cells/cpp/system-requirements/) สำหรับระบบ Windows และ Linux 
 - ติดตั้งจากบรรทัดคำสั่งเป็น ``` nuget install Aspose.Total.Cpp```
 - หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Total.Cpp```
-- หรืออีกทางหนึ่ง รับตัวติดตั้ง MSI หรือ DLL แบบออฟไลน์ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/cells/cpp)
+- หรืออีกทางหนึ่ง รับตัวติดตั้ง MSI หรือ DLL แบบออฟไลน์ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

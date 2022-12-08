@@ -27,7 +27,7 @@ otherformats: MHTML MARKDOWN PS FLATOPC WORDML ODT PCL OTT XAMLFLOW RTF DOTX DOT
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Instale a partir da linha de comando como ```nuget install Aspose.Total``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Total```.
 
-Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/total/net).
+Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

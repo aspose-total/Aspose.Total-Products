@@ -31,7 +31,7 @@ För en utvecklare, vem försöker uppdatera CSV-filer via .NET-applikationen? [
 - För CSV-modifiering, Microsoft Windows eller ett kompatibelt operativsystem med .NET, .NET Core, Mono eller Xamarin-plattformar
 - Utvecklingsmiljö som Microsoft Visual Studio 
 - Installera från kommandoraden som ```nuget install Aspose.Cells``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Cells```
-- Alternativt kan du hämta offline-MSI-installationsprogrammet eller alla DLL-filer i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/cells/net)
+- Alternativt kan du hämta offline-MSI-installationsprogrammet eller alla DLL-filer i en ZIP-fil från [Nedladdningar](https://releases.aspose.comcells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

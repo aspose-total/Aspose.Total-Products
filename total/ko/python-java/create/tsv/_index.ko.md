@@ -30,7 +30,7 @@ informat: TSV
 
 - TSV 생성의 경우 PyPI([Aspose.Cells](https://pypi.org/project/aspose-cells/))에서 직접 프로젝트 내 API 참조
 - 또는 다음 pip 명령 ```pip install aspose.cells``를 사용하십시오.` 
-- 또한 [downloads](https://downloads.aspose.com/cells/python-java) 섹션에서 API 패키지를 다운로드하십시오. 
+- 또한 [downloads](https://releases.aspose.com/cells/python-java) 섹션에서 API 패키지를 다운로드하십시오. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

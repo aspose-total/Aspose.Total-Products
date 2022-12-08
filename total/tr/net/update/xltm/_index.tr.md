@@ -31,7 +31,7 @@ informat: XLTM
 - XLTM değişikliği, Microsoft Windows veya .NET, .NET Core, Mono veya Xamarin Platformları ile uyumlu bir işletim sistemi için
 - Microsoft Visual Studio gibi geliştirme ortamı 
 - Komut satırından ```nuget install Aspose.Cells``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.Cells`` ile kurun
-- Alternatif olarak, çevrimdışı MSI yükleyicisini veya tüm DLL'leri [İndirilenler](https://downloads.aspose.com/cells/net)'ten bir ZIP dosyasında alın
+- Alternatif olarak, çevrimdışı MSI yükleyicisini veya tüm DLL'leri [İndirilenler](https://releases.aspose.com/cells/net)'ten bir ZIP dosyasında alın
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -32,7 +32,7 @@ Dla programisty Pythona, który próbuje dodać XLTM do PNG, BMP, TIFF, JPEG i G
 
 - W przypadku konwersji XLTM na obrazy (JPG, PNG, GIF, BMP, TIFF) odwołaj się do interfejsów API w projekcie bezpośrednio z PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Lub użyj następującego polecenia pip ```pip install aspose.cells``` 
-- Ponadto pobierz pakiet API z sekcji [Pliki do pobrania](https://downloads.aspose.com/cells/python-java) 
+- Ponadto pobierz pakiet API z sekcji [Pliki do pobrania](https://releases.aspose.comcells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

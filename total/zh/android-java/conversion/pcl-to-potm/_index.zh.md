@@ -27,7 +27,7 @@ otherformats: SWF PPSX PPTM OTP PPT POT PPS ODP PPSM POWERPOINT POTX XAML
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)通过 Java 轻松使用 Aspose.Total for Android 和通过 Java 安装 [Aspose.PDF for Android](https://docs.aspose.com/pdf/androidjava/installation/) 和 [Aspose.Slides for Android 通过 Java](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) 在您的应用程序中。
 
-或者，您可以从 [下载](https://downloads.aspose.com/total/androidjava) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/total/androidjava) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

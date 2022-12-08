@@ -30,7 +30,7 @@ informat: XLT
 
 - 對於 XLT 修改，直接從 PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) 引用項目內的 API
 - 或者使用下面的 pip 命令```pip install aspose.cells``` 
-- 此外，從 [下載](https://downloads.aspose.com/cells/python-java) 部分下載 API 包
+- 此外，從 [下載](https://releases.aspose.com/cells/python-java) 部分下載 API 包
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

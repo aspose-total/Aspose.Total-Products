@@ -24,7 +24,7 @@ otherformats: RTF OTT DOTMX WORDML DOTMM DOTM DOT ODT WORD DOTX FLATOPC TEXT
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Do konwersji plików POWERPOINT do DOTM można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
 
-Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/java).
+Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

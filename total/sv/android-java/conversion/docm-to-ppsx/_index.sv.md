@@ -28,7 +28,7 @@ otherformats: ODP PPT PPTX POWERPOINT POTX PPS PPTM POT PPSM POTM CSV DIF FODS O
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 För konvertering av DOCM till PPSX-fil kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

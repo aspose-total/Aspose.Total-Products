@@ -174,7 +174,7 @@ Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PL
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia、ブラジル" >}}
 実装中に、Aspose.Totalの機能のほんの一部にしか触れていないことを感じることができました。 APIの使いやすさにより、開発者はシンプルでクリーンなコードで「作業を完了する」ことに満足でき、最終製品の堅牢性はお客様を満足させます。
 {{< /blocks/products/pf/testimonials-quote >}}

@@ -31,7 +31,7 @@ informat: XLS
 - XLS の変更には、Microsoft Windows または .NET、.NET Core、Mono、または Xamarin プラットフォームと互換性のある OS
 - Microsoft Visual Studio のような開発環境 
 - コマンド ラインから ```nuget install Aspose.Cells``` としてインストールするか、Visual Studio のパッケージ マネージャー コンソール経由で ```Install-Package Aspose.Cells``` を使用してインストールします。
-- または、[ダウンロード](https://downloads.aspose.com/cells/net) からオフライン MSI インストーラーまたはすべての DLL を ZIP ファイルで取得します。
+- または、[ダウンロード](https://releases.aspose.com/cells/net) からオフライン MSI インストーラーまたはすべての DLL を ZIP ファイルで取得します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

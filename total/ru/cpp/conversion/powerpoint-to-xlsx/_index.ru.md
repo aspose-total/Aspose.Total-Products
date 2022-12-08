@@ -27,7 +27,7 @@ otherformats: XLSB ODS CSV XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC XL
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Установите через консоль диспетчера пакетов Visual Studio с помощью Install-Package Aspose.Total.Cpp.
 
-Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/total/cpp).
+Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://releases.aspose.comtotal/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

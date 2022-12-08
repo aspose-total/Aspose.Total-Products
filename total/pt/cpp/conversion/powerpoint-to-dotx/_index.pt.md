@@ -27,7 +27,7 @@ otherformats: FLATOPC DOC DOCM OTT DOTM ODT WORDML WORD RTF TEXT DOT DOCX
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Instale a partir da linha de comando como ```nuget install Aspose.Total.Cpp``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Total.Cpp```.
 
-Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/total/cpp).
+Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

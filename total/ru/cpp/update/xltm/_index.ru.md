@@ -30,7 +30,7 @@ informat: XLTM
 - Для модификации XLTM следуйте [Системные Требования](https://docs.aspose.com/cells/cpp/system-requirements/) для систем Windows и Linux. 
 - Установите из командной строки как ```nuget install Aspose.Total.Cpp```
 - Или через консоль диспетчера пакетов Visual Studio с ```Install-Package Aspose.Total.Cpp```
-- Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [Загрузки](https://downloads.aspose.com/cells/cpp).
+- Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [Загрузки](https://releases.aspose.comcells/cpp).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -27,7 +27,7 @@ otherformats: WORDML MD OTT FLATOPC PNG DOTX GIF PCL EPUB PDF XPS DOT TEXT DOC D
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
 從命令行安裝為 ```nuget install Aspose.Total.Cpp``` 或通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Total.Cpp``。
 
-或者，從 [下載](https://downloads.aspose.com/total/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+或者，從 [下載](https://releases.aspose.com/total/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

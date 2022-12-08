@@ -30,7 +30,7 @@ Dla programisty, który próbuje tworzyć pliki XLS za pomocą aplikacji Python?
 
 - W przypadku generowania XLS odwołaj się do interfejsów API w projekcie bezpośrednio z PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Lub użyj następującego polecenia pip ```pip install aspose.cells``` 
-- Ponadto pobierz pakiet API z sekcji [downloads](https://downloads.aspose.com/cells/python-java) 
+- Ponadto pobierz pakiet API z sekcji [downloads](https://releases.aspose.comcells/python-java) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

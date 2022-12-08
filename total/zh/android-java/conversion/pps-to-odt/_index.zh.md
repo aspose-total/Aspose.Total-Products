@@ -28,7 +28,7 @@ otherformats: DOTX DOTM TEXT RTF WORDML FLATOPC DOCM DOC WORD OTT DOCX DOT
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)通过 Java 轻松使用 Aspose.Total for Android 和通过 Java 安装 [Aspose.Slides for Android](https://odts.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) 和 [Aspose.Words for Andorid 通过 Java](https://odts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository)在你的应用程序。
 
-或者，您可以从 [下载](https://downloads.aspose.com/total/androidjava) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/total/androidjava) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

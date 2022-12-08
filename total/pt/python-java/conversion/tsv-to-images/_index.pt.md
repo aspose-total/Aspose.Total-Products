@@ -32,7 +32,7 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 - Para conversão de TSV para Imagens (JPG, PNG, GIF, BMP, TIFF), APIs de referência dentro do projeto diretamente do PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Ou use o seguinte comando pip ```pip install aspose.cells``` 
-- Além disso, baixe o pacote de API da seção [Transferências](https://downloads.aspose.com/cells/python-java) 
+- Além disso, baixe o pacote de API da seção [Transferências](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

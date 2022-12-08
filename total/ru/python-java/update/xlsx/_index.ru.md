@@ -30,7 +30,7 @@ informat: XLSX
 
 - Для модификации XLSX ссылайтесь на API в проекте непосредственно из PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)).
 - Или используйте следующую команду pip ```pip install aspose.cells``` 
-- Кроме того, загрузите пакет API из раздела [Загрузки](https://downloads.aspose.com/cells/python-java).
+- Кроме того, загрузите пакет API из раздела [Загрузки](https://releases.aspose.comcells/python-java).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

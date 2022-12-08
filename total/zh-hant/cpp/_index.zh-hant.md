@@ -6,11 +6,11 @@ description: C++ 庫讀寫渲染和轉換多種文檔格式。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用於 Microsoft Office 文件格式、PDF 和條形碼的 C++ API" h2="開發原生 C++ 應用程序來處理 Microsoft Project、Excel、Word、PowerPoint、Outlook 和 PDF 格式。還包括條碼生成器和閱讀器！" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="用於 Microsoft Office 文件格式、PDF 和條形碼的 C++ API" h2="開發原生 C++ 應用程序來處理 Microsoft Project、Excel、Word、PowerPoint、Outlook 和 PDF 格式。還包括條碼生成器和閱讀器！" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ 是一個完整的 C++ 文件格式自動化庫包，專門用於創建、操作和轉換來自 Microsoft Office 和 PDF 的流行格式，而無需 Office 或 Adobe 自動化。 C++ API 包還包括一個專門的庫，用於從具有高級功能的圖像生成和識別條形碼標籤，以自定義條形碼生成和識別過程。
@@ -184,7 +184,7 @@ Aspose.TeX for C++ 是一個 tex 集成和管理 API，用於處理 tex 文件�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="斯特凡·斯圖德 | Nowhow Solutions AG，瑞士" >}}
 詳細記錄的說明手冊和 Aspose.Total 組件的穩健性導致直接集成到 DOCO。 這幫助我們比預期縮短了開發時間。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -221,7 +221,7 @@ Aspose.TeX for C++ 是一個 tex 集成和管理 API，用於處理 tex 文件�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 

@@ -30,7 +30,7 @@ informat: ODS
 
 - 对于 ODS 生成，直接从 PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) 引用项目中的 API
 - 或者使用以下 pip 命令```pip install aspose.cells`` 
-- 此外，从 [downloads](https://downloads.aspose.com/cells/python-java) 部分下载 API 包 
+- 此外，从 [downloads](https://releases.aspose.com/cells/python-java) 部分下载 API 包 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

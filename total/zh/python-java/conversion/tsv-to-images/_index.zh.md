@@ -32,7 +32,7 @@ outformat: Image
 
 - 对于 TSV 到图像（JPG、PNG、GIF、BMP、TIFF）的转换，请直接从 PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) 引用项目内的 API
 - 或者使用下面的 pip 命令```pip install aspose.cells``` 
-- 此外，从 [下载](https://downloads.aspose.com/cells/python-java) 部分下载 API 包 
+- 此外，从 [下载](https://releases.aspose.com/cells/python-java) 部分下载 API 包 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

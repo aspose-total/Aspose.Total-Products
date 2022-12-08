@@ -6,11 +6,11 @@ description: API-интерфейсы C# ASP.NET VB.NET для создания,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API-интерфейсы управления форматами файлов .NET" h2="Управляйте Word, Excel, PDF, PowerPoint, Outlook и более чем 100 другими форматами файлов из приложений .NET без каких-либо программных зависимостей." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API-интерфейсы управления форматами файлов .NET" h2="Управляйте Word, Excel, PDF, PowerPoint, Outlook и более чем 100 другими форматами файлов из приложений .NET без каких-либо программных зависимостей." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.comtotal/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.comtotal/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total для .NET — это наиболее полный пакет из всех API автоматизации форматов файлов .NET, предлагаемых Aspose. Он позволяет разработчикам создавать, редактировать, визуализировать, печатать и преобразовывать между наиболее популярными форматами файлов в любых приложениях .NET, C#, ASP.NET и VB.NET.
@@ -260,7 +260,7 @@ Aspose.TeX для .NET — это API для набора файлов TeX. Он
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об API Aspose.Total." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Стефан Штудер | Nowhow Solutions AG, Швейцария" >}}
 Хорошо документированное руководство по эксплуатации и надежность компонентов Aspose.Total привели к простой интеграции в DOCO. Это помогло нам сократить время разработки больше, чем предполагалось.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ Aspose.TeX для .NET — это API для набора файлов TeX. Он
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.comtotal/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total предлагает индивидуальные решения для других платформ." >}}
 

@@ -31,7 +31,7 @@ informat: XLTX
 - 對於 XLTX 修改，Microsoft Windows 或具有 .NET、.NET Core、Mono 或 Xamarin 平台的兼容操作系統
 - Microsoft Visual Studio 等開發環境 
 - 從命令行安裝為 ```nuget install Aspose.Cells``` 或通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Cells```
-- 或者，從 [下載](https://downloads.aspose.com/cells/net) 獲取離線 MSI 安裝程序或 ZIP 文件中的所有 DLL
+- 或者，從 [下載](https://releases.aspose.com/cells/net) 獲取離線 MSI 安裝程序或 ZIP 文件中的所有 DLL
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API'leri oluşturmak için her tür belgeyi dön�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Dosya Biçimi Manipülasyonu API'leri" h2="Herhangi bir yazılım bağımlılığı olmadan Word, Excel, PDF, PowerPoint, Outlook ve 100'den fazla diğer dosya biçimini .NET uygulamaları içinden işleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Dosya Biçimi Manipülasyonu API'leri" h2="Herhangi bir yazılım bağımlılığı olmadan Word, Excel, PDF, PowerPoint, Outlook ve 100'den fazla diğer dosya biçimini .NET uygulamaları içinden işleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for .NET, Aspose tarafından sunulan tüm .NET File Format Automation API'lerinin en eksiksiz paketidir. Geliştiricilere, herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında en popüler dosya biçimleri arasında oluşturma, düzenleme, işleme, yazdırma ve dönüştürme yetkisi verir.
@@ -260,7 +260,7 @@ Aspose.TeX for .NET, bir TeX dosya dizgi API'sidir. XPS, PDF, PNG, JPEG, TIFF ve
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, İsviçre" >}}
 İyi belgelenmiş talimat kılavuzu ve Aspose.Total bileşenlerinin sağlamlığı, DOCO'ya doğrudan entegrasyona yol açtı. Bu, geliştirme süresini beklenenden daha fazla kısaltmamıza yardımcı oldu.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ Uygulama basitti, gerçekten mimarimize odaklanıyoruz ve Aspose tam olarak uyuy
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total, diğer platformlar için bireysel çözümler sunar." >}}
 

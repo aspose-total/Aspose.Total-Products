@@ -6,11 +6,11 @@ description: API định dạng tệp Android cho Word Excel PDF PowerPoint và 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android để thao tác định dạng tệp trong ứng dụng dành cho thiết bị di động" h2="Thao tác Word, Excel, PowerPoint, PDF, Outlook và nhiều định dạng tài liệu khác trong ứng dụng dành cho thiết bị di động mà không cần cài đặt bất kỳ phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android để thao tác định dạng tệp trong ứng dụng dành cho thiết bị di động" h2="Thao tác Word, Excel, PowerPoint, PDF, Outlook và nhiều định dạng tài liệu khác trong ứng dụng dành cho thiết bị di động mà không cần cài đặt bất kỳ phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Android via Java là tập hợp mọi API Android do Aspose cung cấp. Các nhà phát triển có thể tạo, thao tác, kết xuất và chuyển đổi giữa các định dạng tài liệu khác nhau trong các ứng dụng Android.
@@ -139,7 +139,7 @@ Aspose.BarCode for Android via Java là một bộ API mã vạch để tạo v�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Trong quá trình thực hiện, chúng tôi có thể cảm nhận được rằng chúng tôi chỉ chạm vào một phần nhỏ những gì Aspose.Total có thể làm được. Tính dễ sử dụng của API mang lại cho các nhà phát triển sự hài lòng khi “hoàn thành công việc” với mã đơn giản và rõ ràng của nó, đồng thời tính mạnh mẽ của sản phẩm cuối khiến khách hàng của chúng tôi hài lòng.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -176,7 +176,7 @@ Aspose.Total là một bộ phần mềm mạnh mẽ để xử lý gần như t
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 

@@ -30,7 +30,7 @@ informat: XLSX
 
 - สำหรับการแก้ไข XLSX อ้างอิง API ภายในโปรเจ็กต์โดยตรงจาก PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - หรือใช้คำสั่ง pip ต่อไปนี้ ```pip install aspose.cells``` 
-- นอกจากนี้ ดาวน์โหลดแพ็คเกจ API จากส่วน [ดาวน์โหลด](https://downloads.aspose.com/cells/python-java)
+- นอกจากนี้ ดาวน์โหลดแพ็คเกจ API จากส่วน [ดาวน์โหลด](https://releases.aspose.com/cells/python-java)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

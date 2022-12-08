@@ -31,7 +31,7 @@ informat: XLTM
 - Для модификации XLTM Microsoft Windows или совместимая ОС с платформами .NET, .NET Core, Mono или Xamarin.
 - Среда разработки, такая как Microsoft Visual Studio 
 - Установите из командной строки как ```nuget install Aspose.Cells``` или через консоль диспетчера пакетов Visual Studio с ```Install-Package Aspose.Cells```
-- В качестве альтернативы можно получить автономный установщик MSI или все библиотеки DLL в ZIP-файле из [Загрузки](https://downloads.aspose.com/cells/net).
+- В качестве альтернативы можно получить автономный установщик MSI или все библиотеки DLL в ZIP-файле из [Загрузки](https://releases.aspose.comcells/net).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

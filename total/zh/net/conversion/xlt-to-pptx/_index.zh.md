@@ -26,7 +26,7 @@ otherformats: DOCX WORD DOC POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 从命令行安装为 ```nuget install Aspose.Total``` 或通过 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Total```。
 
-或者，从 [下载](https://downloads.aspose.com/total/net) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。(https://downloads.aspose.com/total/net).
+或者，从 [下载](https://releases.aspose.com/total/net) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。(https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="用于 XLT 到 PPTX 转换的 .NET C# 代码" gistPath="" %}}

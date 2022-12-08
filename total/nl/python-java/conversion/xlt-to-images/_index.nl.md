@@ -32,7 +32,7 @@ Voor een Python-ontwikkelaar die een XLT naar PNG-, BMP-, TIFF-, JPEG- en GIF-af
 
 - Voor conversie van XLT naar afbeeldingen (JPG, PNG, GIF, BMP, TIFF), verwijs API's binnen het project rechtstreeks vanuit PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Of gebruik het volgende pip-commando ```pip install aspose.cells``` 
-- Download bovendien het API-pakket uit de [Downloads](https://downloads.aspose.com/cells/python-java)-sectie 
+- Download bovendien het API-pakket uit de [Downloads](https://releases.aspose.com/cells/python-java)-sectie 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

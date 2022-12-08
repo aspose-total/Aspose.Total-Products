@@ -31,7 +31,7 @@ informat: XLSM
 - XLSM 수정의 경우 Microsoft Windows 또는 .NET, .NET Core, Mono 또는 Xamarin 플랫폼과 호환되는 OS
 - Microsoft Visual Studio와 같은 개발 환경 
 - 명령줄에서 ```nuget install Aspose.Cells```로 설치하거나 ```Install-Package Aspose.Cells```를 사용하여 Visual Studio의 패키지 관리자 콘솔을 통해 설치합니다.
-- 또는 오프라인 MSI 설치 프로그램 또는 [다운로드](https://downloads.aspose.com/cells/net)에서 ZIP 파일의 모든 DLL을 가져옵니다.
+- 또는 오프라인 MSI 설치 프로그램 또는 [다운로드](https://releases.aspose.com/cells/net)에서 ZIP 파일의 모든 DLL을 가져옵니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

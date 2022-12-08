@@ -6,11 +6,11 @@ description: C＃ASP.NET VB.NET APIを使用して、あらゆるタイプのド
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NETファイル形式操作API" h2="ソフトウェアに依存することなく、.NETアプリケーション内からWord、Excel、PDF、PowerPoint、Outlook、および100を超えるその他のファイル形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NETファイル形式操作API" h2="ソフトウェアに依存することなく、.NETアプリケーション内からWord、Excel、PDF、PowerPoint、Outlook、および100を超えるその他のファイル形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for .NETは、Asposeが提供するすべての.NETファイル形式自動化APIの中で最も完全なパッケージです。これにより、開発者は、.NET、C＃、ASP.NET、およびVB.NETアプリケーション内で最も一般的なファイル形式を作成、編集、レンダリング、印刷、および変換できます。
@@ -260,7 +260,7 @@ Aspose.TeX for .NETは、TeXファイルの植字APIです。 TeXファイルを
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ステファン・ステューダー| Nowhow Solutions AG、スイス" >}}
 十分に文書化された取扱説明書とAspose.Totalコンポーネントの堅牢性により、DOCOへの直接的な統合が実現しました。これにより、予想以上に開発時間を短縮することができました。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ Aspose.TeX for .NETは、TeXファイルの植字APIです。 TeXファイルを
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Totalは、他のプラットフォーム向けに個別のソリューションを提供します。" >}}
 

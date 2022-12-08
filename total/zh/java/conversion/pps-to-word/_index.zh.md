@@ -24,7 +24,7 @@ otherformats: DOTM TEXT WORDX OTT WORDML FLATOPC WORD DOT DOTX WORDM ODT RTF
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 对于 PPS 到 WORD 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose 轻松使用 Aspose.Total for Java /aspose-total) 基于项目并在 pom.xml 中包含库。
 
-或者，您可以从 [下载](https://downloads.aspose.com/total/java) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

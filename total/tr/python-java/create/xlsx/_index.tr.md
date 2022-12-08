@@ -30,7 +30,7 @@ Python uygulaması aracılığıyla XLSX dosyaları oluşturmaya çalışan bir 
 
 - XLSX üretimi için, proje içindeki API'lere doğrudan PyPI'den ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) başvurun
 - Veya aşağıdaki pip komutunu kullanın ```pip install aspose.cells``` 
-- Ayrıca [downloads](https://downloads.aspose.com/cells/python-java) bölümünden API paketini indirin 
+- Ayrıca [downloads](https://releases.aspose.com/cells/python-java) bölümünden API paketini indirin 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

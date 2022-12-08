@@ -30,7 +30,7 @@ informat: XLSB
 
 - XLSB 수정의 경우 PyPI([Aspose.Cells](https://pypi.org/project/aspose-cells/))에서 직접 프로젝트 내 API 참조
 - 또는 다음 pip 명령을 사용하십시오. ```pip install aspose.cells``` 
-- 또한 [다운로드](https://downloads.aspose.com/cells/python-java) 섹션에서 API 패키지를 다운로드합니다.
+- 또한 [다운로드](https://releases.aspose.com/cells/python-java) 섹션에서 API 패키지를 다운로드합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
