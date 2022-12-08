@@ -31,7 +31,7 @@ informat: XLT
 - Για τροποποίηση XLT, Microsoft Windows ή συμβατό λειτουργικό σύστημα με πλατφόρμες .NET, .NET Core, Mono ή Xamarin
 - Περιβάλλον ανάπτυξης όπως το Microsoft Visual Studio 
 - Εγκατάσταση από τη γραμμή εντολών ως ```nuget install Aspose.Cells``` ή μέσω της κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.Cells``
-- Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή όλα τα DLL σε ένα αρχείο ZIP από το [Λήψεις](https://downloads.aspose.com/cells/net)
+- Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή όλα τα DLL σε ένα αρχείο ZIP από το [Λήψεις](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

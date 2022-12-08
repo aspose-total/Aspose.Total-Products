@@ -159,7 +159,7 @@ description: Βιβλιοθήκες Python για ανάλυση υπολογι�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Βραζιλία" >}}
 Κατά την υλοποίησή μας, μπορούσαμε να αντιληφθούμε ότι αγγίξαμε μόνο ένα κλάσμα από αυτό που μπορεί να κάνει το Aspose.Total. Η ευκολία χρήσης του API δίνει στους προγραμματιστές ικανοποίηση για την «ολοκλήρωση της δουλειάς» με τον απλό και καθαρό κώδικα του και η στιβαρότητα του τελικού προϊόντος κάνει τους πελάτες μας χαρούμενους.
 {{< /blocks/products/pf/testimonials-quote >}}

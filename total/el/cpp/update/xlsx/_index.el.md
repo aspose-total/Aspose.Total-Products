@@ -30,7 +30,7 @@ informat: XLSX
 - Για τροποποίηση XLSX, ακολουθώντας το [Απαιτήσεις συστήματος](https://docs.aspose.com/cells/cpp/system-requirements/) για συστήματα Windows και Linux 
 - Εγκατάσταση από τη γραμμή εντολών ως ``` nuget install Aspose.Total.Cpp```
 - Ή μέσω της κονσόλας Package Manager του Visual Studio με ```Install-Package Aspose.Total.Cpp```
-- Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [Λήψεις](https://downloads.aspose.com/cells/cpp)
+- Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [Λήψεις](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

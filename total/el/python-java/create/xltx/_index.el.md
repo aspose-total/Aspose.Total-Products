@@ -30,7 +30,7 @@ informat: XLTX
 
 - Για τη δημιουργία XLTX, αναφορά στα API εντός του έργου απευθείας από το PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Ή χρησιμοποιήστε την ακόλουθη εντολή pip ```pip install aspose.cells``` 
-- Επιπλέον, κατεβάστε το πακέτο API από την ενότητα [downloads](https://downloads.aspose.com/cells/python-java) 
+- Επιπλέον, κατεβάστε το πακέτο API από την ενότητα [downloads](https://releases.aspose.com/cells/python-java) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

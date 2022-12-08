@@ -32,7 +32,7 @@ outformat: Image
 
 - Για μετατροπή CSV σε Εικόνες (JPG, PNG, GIF, BMP, TIFF), αναφέρετε τα API εντός του έργου απευθείας από το PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Ή χρησιμοποιήστε την ακόλουθη εντολή pip ```pip install aspose.cells``` 
-- Επιπλέον, κατεβάστε το πακέτο API από την ενότητα [Λήψεις](https://downloads.aspose.com/cells/python-java) 
+- Επιπλέον, κατεβάστε το πακέτο API από την ενότητα [Λήψεις](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

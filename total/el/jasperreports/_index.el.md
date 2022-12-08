@@ -6,11 +6,11 @@ description: Το JasperReports εξάγει τη σουίτα σε εξαγωγ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Το JasperReports επεκτάσεις για την παράδοση αναφορών σε μορφές του Office" h2="Εξάγετε εύκολα JasperReports σε μορφές Word, Excel, PDF, PowerPoint και Image ενώ προσθέτετε γραμμωτούς κώδικες στα εξαγόμενα έγγραφα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Το JasperReports επεκτάσεις για την παράδοση αναφορών σε μορφές του Office" h2="Εξάγετε εύκολα JasperReports σε μορφές Word, Excel, PDF, PowerPoint και Image ενώ προσθέτετε γραμμωτούς κώδικες στα εξαγόμενα έγγραφα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total for JasperReports είναι μια πλούσια σε δυνατότητες σουίτα εξαγωγέων JasperReports που επιτρέπει στους προγραμματιστές να εξάγουν αναφορές σε μορφές Microsoft Word, Excel, PowerPoint και PDF. Ένας από τους εξαγωγείς στην οικογένεια Aspose.Total for JasperReports παρέχει επίσης τη δυνατότητα προσθήκης γραμμωτών κωδίκων στα εξαγόμενα αρχεία.
@@ -219,7 +219,7 @@ description: Το JasperReports εξάγει τη σουίτα σε εξαγωγ
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 
