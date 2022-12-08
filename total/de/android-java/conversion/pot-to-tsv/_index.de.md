@@ -27,7 +27,7 @@ Sie können die POT-Datei in Ihren Android-Anwendungen in einem zweistufigen Pro
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Um POT in TSV zu konvertieren, können Sie Aspose.Total für Android einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und installieren Sie Bibliotheken in Ihrer App.
 
-Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
+Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.comtotal/androidjava) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

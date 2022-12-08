@@ -27,7 +27,7 @@ Funkci převodu XSLFO na OTP můžete integrovat do aplikací pro Android pomoc�
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) a [Aspose.Slides pro Android přes Javu](https://docs.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) ve vašich aplikacích.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

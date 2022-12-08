@@ -30,7 +30,7 @@ Für einen Programmierer, der versucht, XLTM-Dateien in einer C++-Anwendung zu a
 - Für XLTM-Modifikation nach [System Anforderungen](https://docs.aspose.com/cells/cpp/system-requirements/) für Windows- und Linux-Systeme 
 - Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total.Cpp```
 - Oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total.Cpp```
-- Holen Sie sich alternativ das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [Downloads](https://downloads.aspose.com/cells/cpp)
+- Holen Sie sich alternativ das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [Downloads](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -31,7 +31,7 @@ Pro vývojáře, který se snaží aktualizovat soubory XLT prostřednictvím ap
 - Pro úpravy XLT, Microsoft Windows nebo kompatibilní OS s platformami .NET, .NET Core, Mono nebo Xamarin
 - Vývojové prostředí jako Microsoft Visual Studio 
 - Instalujte z příkazového řádku jako ```nuget install Aspose.Cells``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Cells```
-- Případně získejte offline instalační program MSI nebo všechny DLL v souboru ZIP z [Stahování](https://downloads.aspose.com/cells/net)
+- Případně získejte offline instalační program MSI nebo všechny DLL v souboru ZIP z [Stahování](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -28,7 +28,7 @@ Zadaný dokument můžete převést ve dvou krocích. K vykreslení PPTX do HTML
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Android můžete snadno používat přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.Slides pro Android přes Javu](https://dotms.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) a [Aspose.Words pro Andorid přes Javu](https://dotms.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) ve vašem aplikací.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

@@ -24,7 +24,7 @@ otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro převod souborů PPSM na ODT můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

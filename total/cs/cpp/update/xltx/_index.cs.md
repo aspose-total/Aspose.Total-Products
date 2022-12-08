@@ -30,7 +30,7 @@ Pro programátora, který se snaží aktualizovat soubory XLTX v aplikaci C++, [
 - Pro úpravu XLTX následuje [Požadavky na systém](https://docs.aspose.com/cells/cpp/system-requirements/) pro systémy Windows a Linux 
 - Nainstalujte z příkazového řádku jako ```nuget install Aspose.Total.Cpp```
 - Nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total.Cpp```
-- Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [Stahování](https://downloads.aspose.com/cells/cpp)
+- Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [Stahování](https://releases.aspose.comcells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

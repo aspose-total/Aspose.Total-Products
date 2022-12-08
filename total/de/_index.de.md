@@ -65,7 +65,7 @@ Konvertieren Sie über 100 Formate kostenlos online in andere Dokumente.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Words zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Words zu sagen haben." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

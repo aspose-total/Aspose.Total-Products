@@ -24,7 +24,7 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Für die PPS-zu-RTF-Dateikonvertierung können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
 
-Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/java) herunterladen.
+Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.comtotal/java) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

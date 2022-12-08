@@ -27,7 +27,7 @@ Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Nainstalujte pomocí konzoly Package Manager Console sady Visual Studio pomocí ```Install-Package Aspose.Total.Cpp```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/cpp).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.comtotal/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -30,7 +30,7 @@ Pro vývojáře, který se snaží vytvářet soubory CSV prostřednictvím apli
 
 - Pro generování CSV odkazujte na API v rámci projektu přímo z PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Nebo použijte následující příkaz pip ```pip install aspose.cells``` 
-- Navíc si stáhněte balíček API ze sekce [downloads](https://downloads.aspose.com/cells/python-java) 
+- Navíc si stáhněte balíček API ze sekce [downloads](https://releases.aspose.com/cells/python-java) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

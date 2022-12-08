@@ -27,7 +27,7 @@ Soubor POT můžete snadno převést na SXC ve svých aplikacích pro Android ve
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Chcete-li převést POT do SXC, můžete snadno použít Aspose.Total pro Android prostřednictvím Javy přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalujte si knihovny do své aplikace.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

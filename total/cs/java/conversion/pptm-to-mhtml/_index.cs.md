@@ -24,7 +24,7 @@ Soubor PPTM můžete převést na MHTML prostřednictvím [Aspose.Total for Java
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Chcete-li převést PPTM na MHTML, můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 
