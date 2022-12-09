@@ -30,7 +30,7 @@ Untuk seorang pengembang, siapa yang mencoba membuat file XLSX melalui aplikasi 
 
 - Untuk pembuatan XLSX, referensi API dalam proyek langsung dari PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Atau gunakan perintah pip berikut ```pip install aspose.cells``` 
-- Selain itu, Unduh paket API dari bagian [downloads](https://downloads.aspose.com/cells/python-java) 
+- Selain itu, Unduh paket API dari bagian [downloads](https://releases.aspose.com/cells/python-java) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -30,7 +30,7 @@ Egy fejlesztő számára ki próbálja meg frissíteni a XLSM fájlokat Python a
 
 - A XLSM módosításához hivatkozzon a projekten belüli API-kra közvetlenül a PyPI-ből ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Vagy használja a következő pip parancsot: ```pip install aspose.cells``` 
-- Ezenkívül töltse le az API-csomagot a [Letöltések](https://downloads.aspose.com/cells/python-java) szakaszból
+- Ezenkívül töltse le az API-csomagot a [Letöltések](https://releases.aspose.com/cells/python-java) szakaszból
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

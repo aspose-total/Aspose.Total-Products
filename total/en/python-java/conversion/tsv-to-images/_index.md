@@ -32,7 +32,7 @@ For a Python developer, who is trying to add a TSV to PNG, BMP, TIFF, JPEG and G
 
 - For TSV to Images (JPG, PNG, GIF, BMP, TIFF) conversion, reference APIs within the project directly from PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Or use the following pip command ```pip install aspose.cells``` 
-- Moreover, Download the API package from the [downloads](https://downloads.aspose.com/cells/python-java) section 
+- Moreover, Download the API package from the [downloads](https://releases.aspose.com/cells/python-java) section 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

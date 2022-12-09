@@ -24,7 +24,7 @@ La conversione di ODT in FODS tramite [Aspose.Total for Java](https://products.a
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Puoi facilmente utilizzare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includono [Aspose.Words per Java](https://docs.aspose.com/words/java/installation/) e [Aspose.Cells per Java](https://docs.aspose.com/cells/java/installation/) nel tuo pom.xml.
 
-In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/java).
+In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

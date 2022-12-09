@@ -27,7 +27,7 @@ otherformats: RTF FLATOPC WORDML TEXT DOCM OTT DOT DOTM DOC ODT DOCX WORD
 {{% blocks/products/pf/agp/feature-section-col title="PPTX File Conversion in Java" %}}
 For PPTX to DOTX file conversion, you can easily use Aspose.Total for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) based project and include libraries in your pom.xml.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/java).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word.java" >}}

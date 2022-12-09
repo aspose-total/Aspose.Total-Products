@@ -27,7 +27,7 @@ You can convert PCL to DOT by using two simple steps. First you need to render P
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Manipulation APIs" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) based project and include [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) and [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) in your pom.xml.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/java).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

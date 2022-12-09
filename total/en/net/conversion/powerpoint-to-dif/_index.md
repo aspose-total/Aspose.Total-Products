@@ -27,7 +27,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 {{% blocks/products/pf/agp/feature-section-col title="POWERPOINT File Conversion in C#" %}}
 For POWERPOINT file to DIF Conversion in C#, please install the API from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/total/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "c67832c79481518ab87f3f0b311cb1cd" "convert-powerpoint-to-excel.cs" >}}

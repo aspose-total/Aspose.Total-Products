@@ -30,7 +30,7 @@ For a programmer, who is trying to update XLT files within C++ application, [Asp
 - For XLT modification, following [system requirements](https://docs.aspose.com/cells/cpp/system-requirements/) for Windows and Linux systems 
 - Install from command line as ```nuget install Aspose.Total.Cpp```
 - Or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total.Cpp```
-- Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/cells/cpp)
+- Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

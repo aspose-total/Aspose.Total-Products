@@ -30,7 +30,7 @@ Per un programmatore, che sta tentando di aggiornare i file XLTM all'interno del
 - Per la modifica XLTM, seguendo [requisiti di sistema](https://docs.aspose.com/cells/cpp/system-requirements/) per sistemi Windows e Linux 
 - Installa dalla riga di comando come ```nuget install Aspose.Total.Cpp```
 - Oppure tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.Total.Cpp```
-- In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [Download](https://downloads.aspose.com/cells/cpp)
+- In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [Download](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

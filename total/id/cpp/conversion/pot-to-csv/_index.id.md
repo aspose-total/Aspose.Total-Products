@@ -27,7 +27,7 @@ Dengan menggunakan [Aspose.Total for C++](https://products.aspose.com/total/cpp/
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Instal melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Total.Cpp```.
 
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://downloads.aspose.com/total/cpp).
+Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

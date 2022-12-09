@@ -30,7 +30,7 @@ Per uno sviluppatore, chi sta cercando di aggiornare i file XLSM tramite l'appli
 
 - Per la modifica XLSM, fare riferimento alle API all'interno del progetto direttamente da PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Oppure usa il seguente comando pip ```pip install aspose.cells``` 
-- Inoltre, Scarica il pacchetto API dalla sezione [Download](https://downloads.aspose.com/cells/python-java)
+- Inoltre, Scarica il pacchetto API dalla sezione [Download](https://releases.aspose.com/cells/python-java)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

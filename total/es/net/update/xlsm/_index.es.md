@@ -31,7 +31,7 @@ Para un desarrollador, ¿quién intenta actualizar archivos XLSM a través de la
 - Para la modificación de XLSM, Microsoft Windows o un sistema operativo compatible con las plataformas .NET, .NET Core, Mono o Xamarin
 - Entorno de desarrollo como Microsoft Visual Studio 
 - Instale desde la línea de comandos como ```nuget install Aspose.Cells``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Cells```
-- Alternativamente, obtenga el instalador MSI fuera de línea o todas las DLL en un archivo ZIP de [Descargas](https://downloads.aspose.com/cells/net)
+- Alternativamente, obtenga el instalador MSI fuera de línea o todas las DLL en un archivo ZIP de [Descargas](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

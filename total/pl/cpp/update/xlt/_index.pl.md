@@ -30,7 +30,7 @@ Dla programisty, który próbuje zaktualizować pliki XLT w aplikacji C++, [Aspo
 - Do modyfikacji XLT, zgodnie z [wymagania systemowe](https://docs.aspose.com/cells/cpp/system-requirements/) dla systemów Windows i Linux 
 - Zainstaluj z wiersza poleceń jako ```nuget install Aspose.Total.Cpp```
 - Lub przez konsolę Menedżera pakietów programu Visual Studio z ```Install-Package Aspose.Total.Cpp```
-- Ewentualnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://downloads.aspose.com/cells/cpp)
+- Ewentualnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

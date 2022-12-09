@@ -30,7 +30,7 @@ Untuk seorang programmer, yang mencoba memperbarui file XLSM dalam aplikasi C++,
 - Untuk modifikasi XLSM, berikut [Persyaratan sistem](https://docs.aspose.com/cells/cpp/system-requirements/) untuk sistem Windows dan Linux 
 - Instal dari baris perintah sebagai ```nuget install Aspose.Total.Cpp```
 - Atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Total.Cpp```
-- Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [Download](https://downloads.aspose.com/cells/cpp)
+- Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [Download](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

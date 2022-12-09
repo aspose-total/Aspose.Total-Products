@@ -30,7 +30,7 @@ Voor een programmeur die TSV-bestanden binnen de C++-toepassing probeert bij te 
 - Voor TSV-modificatie, volgens [systeem vereisten](https://docs.aspose.com/cells/cpp/system-requirements/) voor Windows- en Linux-systemen 
 - Installeer vanaf de opdrachtregel als ```nuget install Aspose.Total.Cpp```
 - Of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Total.Cpp```
-- U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand van [Downloaden](https://downloads.aspose.com/cells/cpp) downloaden
+- U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand van [Downloaden](https://releases.aspose.com/cells/cpp) downloaden
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

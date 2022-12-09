@@ -30,7 +30,7 @@ Pour un développeur, qui essaie de créer des fichiers XLTM via une application
 
 - Pour la génération de XLTM, référencez les API dans le projet directement depuis PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Ou utilisez la commande pip suivante ```pip install aspose.cells``` 
-- De plus, téléchargez le package API à partir de la section [downloads](https://downloads.aspose.com/cells/python-java) 
+- De plus, téléchargez le package API à partir de la section [downloads](https://releases.aspose.com/cells/python-java) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

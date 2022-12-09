@@ -24,7 +24,7 @@ otherformats: WORDML DOCX OTT ODT FLATOPC DOTM DOTX DOT DOCM RTF TEXT WORD
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A POTM-ból DOC-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

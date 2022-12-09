@@ -6,7 +6,7 @@ description: Microsoft ExcelWordPowerPoint電子メールPDFVisioプロジェク
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ファイル形式操作APIの完全なセット" h2=".NET、Java、Android、C++、およびその他のプラットフォーム用のネイティブAPIを使用して、Word、Excel、PDF、PowerPoint、Outlook、および100を超えるその他のファイル形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ファイル形式操作APIの完全なセット" h2=".NET、Java、Android、C++、およびその他のプラットフォーム用のネイティブAPIを使用して、Word、Excel、PDF、PowerPoint、Outlook、および100を超えるその他のファイル形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TotalProductFamilyに含まれるもの" >}}
@@ -63,6 +63,6 @@ JasperReportsまたはJasperServerからWord、Excel、PowerPointおよびその
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

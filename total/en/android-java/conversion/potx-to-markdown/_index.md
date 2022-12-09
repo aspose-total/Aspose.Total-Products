@@ -27,7 +27,7 @@ You can easily convert POTX file to MARKDOWN in your Android applications in a t
 {{% blocks/products/pf/agp/feature-section-col title="POTX File Conversion in Android" %}}
 In order to convert POTX to MARKDOWN, you can easily use Aspose.Total for Android via Java directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) and install libraries in your app.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/androidjava).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "4b527b3966d48e40c1b50136eebdbb6e" "convert-powerpoint-to-excel.java" >}}

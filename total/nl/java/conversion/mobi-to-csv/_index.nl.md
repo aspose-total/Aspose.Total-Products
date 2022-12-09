@@ -24,7 +24,7 @@ Het converteren van MOBI naar CSV via [Aspose.Total for Java](https://products.a
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en omvatten [Aspose.Words voor Java](https://docs.aspose.com/words/java/installation/) en [Aspose.Cells voor Java](https://docs.aspose.com/cells/java/installation/) in uw po.xml.
 
-U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/java).
+U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

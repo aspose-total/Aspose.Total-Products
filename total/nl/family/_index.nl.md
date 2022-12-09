@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OC
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Complete set API's voor manipulatie van bestandsindelingen" h2="Bewerk Word, Excel, PDF, PowerPoint, Outlook en meer dan 100 andere bestandsindelingen met behulp van onze native API's voor .NET, Java, Android, C++ en andere platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Complete set API's voor manipulatie van bestandsindelingen" h2="Bewerk Word, Excel, PDF, PowerPoint, Outlook en meer dan 100 andere bestandsindelingen met behulp van onze native API's voor .NET, Java, Android, C++ en andere platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Totale productfamilie omvat" >}}
@@ -63,6 +63,6 @@ Exporteer rapporten naar Word, Excel, PowerPoint en andere formaten vanuit Jaspe
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

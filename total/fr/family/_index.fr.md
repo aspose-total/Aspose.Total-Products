@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OC
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Ensemble complet d'API de manipulation de format de fichier" h2="Manipulez Word, Excel, PDF, PowerPoint, Outlook et plus de 100 autres formats de fichiers à l'aide de nos API natives pour .NET, Java, Android, C++ et d'autres plateformes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Ensemble complet d'API de manipulation de format de fichier" h2="Manipulez Word, Excel, PDF, PowerPoint, Outlook et plus de 100 autres formats de fichiers à l'aide de nos API natives pour .NET, Java, Android, C++ et d'autres plateformes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="La famille de produits Aspose.Total comprend" >}}
@@ -63,6 +63,6 @@ Exportez des rapports vers Word, Excel, PowerPoint et d'autres formats depuis Ja
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

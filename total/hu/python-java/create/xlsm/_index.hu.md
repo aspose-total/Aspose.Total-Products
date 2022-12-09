@@ -30,7 +30,7 @@ Egy fejlesztő számára ki próbál XLSM fájlokat létrehozni Python alkalmaz�
 
 - A XLSM generálásához referencia API-k a projekten belül közvetlenül a PyPI-ből ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Vagy használja a következő pip parancsot: ```pip install aspose.cells``` 
-- Ezenkívül töltse le az API-csomagot a [downloads](https://downloads.aspose.com/cells/python-java) szakaszból 
+- Ezenkívül töltse le az API-csomagot a [downloads](https://releases.aspose.com/cells/python-java) szakaszból 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

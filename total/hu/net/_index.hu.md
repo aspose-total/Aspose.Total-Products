@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API-k bármilyen típusú dokumentum manipulált 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET fájlformátum-manipulációs API-k" h2="Manipuláljon Word, Excel, PDF, PowerPoint, Outlook és több mint 100 egyéb fájlformátumot a .NET-alkalmazásokból, szoftverfüggőség nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET fájlformátum-manipulációs API-k" h2="Manipuláljon Word, Excel, PDF, PowerPoint, Outlook és több mint 100 egyéb fájlformátumot a .NET-alkalmazásokból, szoftverfüggőség nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for .NET az Aspose által kínált .NET fájlformátum-automatizálási API-k legteljesebb csomagja. Lehetővé teszi a fejlesztők számára, hogy bármilyen .NET, C#, ASP.NET és VB.NET alkalmazáson belül hozzanak létre, szerkesszenek, rendereljenek, kinyomtassanak és konvertáljanak a legnépszerűbb fájlformátumok között.
@@ -260,7 +260,7 @@ Az Aspose.TeX for .NET egy TeX fájlszedési API. Könnyedén szedheti a TeX fá
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Svájc" >}}
 A jól dokumentált használati útmutató és az Aspose.Total komponensek robusztussága a DOCO-ba való egyszerű integrációhoz vezetett. Ez segített nekünk a vártnál jobban csökkenteni a fejlesztési időt.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ A megvalósítás egyszerű volt, valóban az architektúránkra koncentrálunk,
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 

@@ -6,11 +6,11 @@ description: A C++ könyvtárak írási renderelést írnak le, és több dokume
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API-k Microsoft Office fájlformátumokhoz, PDF-hez és vonalkódokhoz" h2="Natív C++ alkalmazások fejlesztése a Microsoft Project, Excel, Word, PowerPoint, Outlook és PDF formátumok kezeléséhez. Vonalkód generátor és olvasó is!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API-k Microsoft Office fájlformátumokhoz, PDF-hez és vonalkódokhoz" h2="Natív C++ alkalmazások fejlesztése a Microsoft Project, Excel, Word, PowerPoint, Outlook és PDF formátumok kezeléséhez. Vonalkód generátor és olvasó is!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for C++ a C++ fájlformátum-automatizálási könyvtárak teljes csomagja, amelyet kifejezetten népszerű formátumok létrehozására, manipulálására és konvertálására terveztek Microsoft Office-ból és PDF-ből Office vagy Adobe Automation nélkül. A C++ API csomag egy speciális könyvtárat is tartalmaz, amely vonalkódcímkéket generál és felismer a képekről, fejlett funkciókkal a vonalkód generálási és felismerési folyamat testreszabásához.
@@ -184,7 +184,7 @@ Az Aspose.TeX for C++ egy tex integrációs és felügyeleti API, amely tex fáj
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Svájc" >}}
 A jól dokumentált használati útmutató és az Aspose.Total komponensek robusztussága a DOCO-ba való egyszerű integrációhoz vezetett. Ez segített nekünk a vártnál jobban csökkenteni a fejlesztési időt.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -221,7 +221,7 @@ A megvalósítás egyszerű volt, valóban az architektúránkra koncentrálunk,
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 

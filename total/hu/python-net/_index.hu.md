@@ -173,7 +173,7 @@ Egy Python 3D API, amely bármilyen függőség nélkül képes Discreet3DS, Wav
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók az Aspose.Total API-król." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazília" >}}
 Megvalósításunk során érezhettük, hogy csak a töredékét érintettük meg annak, amire az Aspose.Total képes. Az API könnyű használhatósága megelégedéssel tölti el a fejlesztőket az egyszerű és tiszta kóddal végzett „munkavégzésért”, a végtermék robusztussága pedig elégedetté teszi ügyfeleinket.
 {{< /blocks/products/pf/testimonials-quote >}}

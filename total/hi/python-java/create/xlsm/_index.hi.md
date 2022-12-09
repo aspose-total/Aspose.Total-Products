@@ -30,7 +30,7 @@ informat: XLSM
 
 - बीएमपी पीढ़ी के लिए, परियोजना के भीतर एपीआई को सीधे पीईपीआई (जीआईएफ 1) से संदर्भित करें
 - या निम्न पाइप कमांड का उपयोग करें ```पाइप स्थापित aspose.cells``` 
-- इसके अलावा, [downloads](https://downloads.aspose.com/cells/python-java) अनुभाग से API पैकेज डाउनलोड करें 
+- इसके अलावा, [downloads](https://releases.aspose.com/cells/python-java) अनुभाग से API पैकेज डाउनलोड करें 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

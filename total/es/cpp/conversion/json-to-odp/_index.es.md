@@ -27,7 +27,7 @@ Puede convertir JSON a ODP dentro de cualquier aplicación C++ en dos simples pa
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Instale a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total.Cpp```.
 
-Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/total/cpp).
+Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

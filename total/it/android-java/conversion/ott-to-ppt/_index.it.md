@@ -28,7 +28,7 @@ Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conve
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Per la conversione di file da OTT a PPT, puoi facilmente utilizzare Aspose.Total for Android via Java direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e installa le librerie nella tua app.
 
-In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/androidjava).
+In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -24,7 +24,7 @@ otherformats: ODT RTF WORD FLATOPC OTT WORDMLX DOT WORDMLM DOTX TEXT WORDML DOTM
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor POWERPOINT-naar-WORDML-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
 
-U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/java).
+U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

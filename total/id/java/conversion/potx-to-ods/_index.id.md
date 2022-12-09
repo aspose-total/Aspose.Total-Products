@@ -24,7 +24,7 @@ Anda dapat mengonversi file POTX ke ODS melalui [Aspose.Total for Java](https://
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Untuk mengonversi POTX ke ODS, Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ proyek berbasis aspose/aspose-total) dan sertakan perpustakaan di pom.xml Anda.
 
-Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/java).
+Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

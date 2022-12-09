@@ -31,7 +31,7 @@ informat: TSV
 - TSV संशोधन के लिए, Microsoft Windows या .NET, .NET Core, Mono या Xamarin प्लेटफ़ॉर्म के साथ संगत OS
 - माइक्रोसॉफ्ट विजुअल स्टूडियो जैसे विकास का माहौल 
 - कमांड लाइन से ```nuget install Aspose.Cells`` के रूप में या `````Install-Package Aspose.Cells`` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
-- वैकल्पिक रूप से, ऑफ़लाइन MSI इंस्टॉलर या सभी DLL को [डाउनलोड](https://downloads.aspose.com/cells/net) से ज़िप फ़ाइल में प्राप्त करें
+- वैकल्पिक रूप से, ऑफ़लाइन MSI इंस्टॉलर या सभी DLL को [डाउनलोड](https://releases.aspose.com/cells/net) से ज़िप फ़ाइल में प्राप्त करें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

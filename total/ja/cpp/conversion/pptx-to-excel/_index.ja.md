@@ -27,7 +27,7 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MH
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 ```Install-PackageAspose.Total.Cpp```を使用してVisualStudioのパッケージマネージャーコンソールからインストールします。
 
-または、[ダウンロード](https://downloads.aspose.com/total/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://releases.aspose.com/total/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -27,7 +27,7 @@ otherformats: DOTX DOTM OTT WORDML XAMLFLOW PCL FLATOPC PS ODT DOT RTF MARKDOWN
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Installeer vanaf de opdrachtregel als ```nuget install Aspose.Total``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Total```.
 
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/total/net).
+U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

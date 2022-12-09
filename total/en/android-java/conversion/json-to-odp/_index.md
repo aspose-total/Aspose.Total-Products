@@ -27,7 +27,7 @@ You can convert JSON format to ODP in your Android applications in a two-step pr
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Android via Java APIs" %}}
 You can easily use Aspose.Total for Android via Java directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) and install libraries in your app.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/androidjava).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "d08aadfe6b1e1405bd50bc955df6183d" "convert-json-to-powerpoint.java" >}}

@@ -26,7 +26,7 @@ otherformats: POWERPOINT DOCX DOC PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Instale desde la línea de comandos como ```nuget install Aspose.Total``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total```.
 
-Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://downloads.aspose.com/total/net).
+Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archivo ZIP desde [descargas](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Código .NET C# para conversión de XLTM a WORD" gistPath="" %}}
