@@ -30,7 +30,7 @@ informat: XLTM
 - Để sửa đổi XLTM, hãy làm theo [yêu cầu hệ thống](https://docs.aspose.com/cells/cpp/system-requirements/) cho các hệ thống Windows và Linux 
 - Cài đặt từ dòng lệnh dưới dạng ```nuget install Aspose.Total.Cpp```
 - Hoặc qua Package Manager Console của Visual Studio với ```Install-Package Aspose.Total.Cpp```
-- Ngoài ra, hãy tải trình cài đặt MSI ngoại tuyến hoặc tệp DLL trong tệp ZIP từ [Tải xuống](https://downloads.aspose.com/cells/cpp)
+- Ngoài ra, hãy tải trình cài đặt MSI ngoại tuyến hoặc tệp DLL trong tệp ZIP từ [Tải xuống](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

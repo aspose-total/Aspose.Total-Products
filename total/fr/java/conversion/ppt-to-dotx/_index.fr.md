@@ -24,7 +24,7 @@ otherformats: DOTXX WORDML DOTXM FLATOPC DOTX DOT DOTM OTT TEXT ODT RTF WORD
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
 Pour la conversion de fichiers PPT en DOTX, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.
 
-Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/total/java).
+Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

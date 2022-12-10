@@ -6,11 +6,11 @@ description: JasperReports exports suite to exports reports to Word Excel PDF an
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extensions to Deliver Reports in Office Formats" h2="Easily export JasperReports to Word, Excel, PDF, PowerPoint and Image formats while adding barcodes to the exported documents." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extensions to Deliver Reports in Office Formats" h2="Easily export JasperReports to Word, Excel, PDF, PowerPoint and Image formats while adding barcodes to the exported documents." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for JasperReports is a feature-rich suite of JasperReports Exporters allowing developers to export reports in Microsoft Word, Excel, PowerPoint and PDF formats. One of the exporters in Aspose.Total for JasperReports family also provides the ability to add barcodes to the exported files.
@@ -219,7 +219,7 @@ Aspose.CAD for JasperReports provides a unique and robust solution to export Jas
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
 

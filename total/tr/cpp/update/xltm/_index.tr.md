@@ -30,7 +30,7 @@ C++ uygulamasında XLTM dosyalarını güncellemeye çalışan bir programcı i�
 - XLTM modifikasyonu için, Windows ve Linux sistemleri için [sistem gereksinimleri](https://docs.aspose.com/cells/cpp/system-requirements/)'yı takiben 
 - Komut satırından ```nuget install Aspose.Total.Cpp`` olarak kurun
 - Veya ``Install-Package Aspose.Total.Cpp`` ile Visual Studio'nun Paket Yönetici Konsolu aracılığıyla
-- Alternatif olarak, [İndirilenler](https://downloads.aspose.com/cells/cpp)'den bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri edinin
+- Alternatif olarak, [İndirilenler](https://releases.aspose.com/cells/cpp)'den bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri edinin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -30,7 +30,7 @@ informat: TSV
 
 - Для создания TSV ссылайтесь на API в проекте непосредственно из PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)).
 - Или используйте следующую команду pip ```pip install aspose.cells``` 
-- Кроме того, загрузите пакет API из раздела [downloads](https://downloads.aspose.com/cells/python-java). 
+- Кроме того, загрузите пакет API из раздела [downloads](https://releases.aspose.comcells/python-java). 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

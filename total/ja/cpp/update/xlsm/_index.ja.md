@@ -30,7 +30,7 @@ C++ アプリケーション内で XLSM ファイルを更新しようとして�
 - XLSM の変更については、Windows および Linux システムの [システム要求](https://docs.aspose.com/cells/cpp/system-requirements/) に従ってください。 
 - コマンド ラインから ```nuget install Aspose.Total.Cpp``` としてインストールします。
 - または、```Install-Package Aspose.Total.Cpp``` を使用して Visual Studio のパッケージ マネージャー コンソール経由で
-- または、[ダウンロード](https://downloads.aspose.com/cells/cpp) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで取得します。
+- または、[ダウンロード](https://releases.aspose.com/cells/cpp) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで取得します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

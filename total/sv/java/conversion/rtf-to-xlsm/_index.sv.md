@@ -24,7 +24,7 @@ Att konvertera RTF till XLSM via [Aspose.Total for Java](https://products.aspose
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera [Aspose.Words for Java](https://rtfs.aspose.com/words/java/installation/) och [Aspose.Cells for Java](https://rtfs.aspose.com/cells/java/installation/) i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/java).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

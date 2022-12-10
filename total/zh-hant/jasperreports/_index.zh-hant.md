@@ -6,11 +6,11 @@ description: JasperReports 導出套件可將報告導出為 Word Excel PDF 和 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="JasperReports 擴展以提供 Office 格式的報告" h2="輕鬆將 JasperReports 導出為 Word、Excel、PDF、PowerPoint 和圖像格式，同時為導出的文檔添加條形碼。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="JasperReports 擴展以提供 Office 格式的報告" h2="輕鬆將 JasperReports 導出為 Word、Excel、PDF、PowerPoint 和圖像格式，同時為導出的文檔添加條形碼。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for JasperReports 是功能豐富的 JasperReports 導出器套件，允許開發人員以 Microsoft Word、Excel、PowerPoint 和 PDF 格式導出報告。 Aspose.Total for JasperReports 系列中的導出器之一還提供了將條形碼添加到導出文件的功能。
@@ -219,7 +219,7 @@ Aspose.CAD for JasperReports 提供了一個獨特而強大的解決方案，可
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 

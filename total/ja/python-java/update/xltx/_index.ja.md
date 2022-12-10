@@ -30,7 +30,7 @@ Python アプリケーションを介して XLTX ファイルを更新しよう�
 
 - XLTX の変更については、プロジェクト内の API を PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) から直接参照します。
 - または、次の pip コマンド ```pip install aspose.cells``` を使用します。 
-- さらに、[ダウンロード](https://downloads.aspose.com/cells/python-java) セクションから API パッケージをダウンロードします。
+- さらに、[ダウンロード](https://releases.aspose.com/cells/python-java) セクションから API パッケージをダウンロードします。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

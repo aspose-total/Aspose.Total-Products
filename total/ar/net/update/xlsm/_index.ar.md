@@ -31,7 +31,7 @@ informat: XLSM
 - لتعديل XLSM ، Microsoft Windows أو نظام تشغيل متوافق مع .NET أو .NET Core أو Mono أو Xamarin Platforms
 - بيئة التطوير مثل Microsoft Visual Studio 
 - قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Cells '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Cells ''
-- بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو جميع مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/cells/net)
+- بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو جميع مكتبات DLL في ملف ZIP من [التحميلات](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

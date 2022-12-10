@@ -6,11 +6,11 @@ description: C++ライブラリは、読み取り、書き込み、レンダリ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Officeファイル形式、PDF、バーコード用のC++ API" h2="Microsoft Project、Excel、Word、PowerPoint、Outlook、PDF形式を操作するためのネイティブC++アプリケーションを開発します。バーコードジェネレーターとリーダーも含まれています！" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Officeファイル形式、PDF、バーコード用のC++ API" h2="Microsoft Project、Excel、Word、PowerPoint、Outlook、PDF形式を操作するためのネイティブC++アプリケーションを開発します。バーコードジェネレーターとリーダーも含まれています！" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++は、OfficeやAdobe Automationを必要とせずに、Microsoft OfficeおよびPDFから一般的な形式を作成、操作、および変換するために特別に設計されたC++ファイル形式自動化ライブラリの完全なパッケージです。 C++ APIパッケージには、バーコードの生成と認識プロセスをカスタマイズするための高度な機能を備えた画像からバーコードラベルを生成および認識するための専用ライブラリも含まれています。
@@ -184,7 +184,7 @@ Aspose.TeX for C++は、texファイルを操作するためのtex統合およ�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ステファン・ステューダー| Nowhow Solutions AG、スイス" >}}
 十分に文書化された取扱説明書とAspose.Totalコンポーネントの堅牢性により、DOCOへの直接的な統合が実現しました。これにより、予想以上に開発時間を短縮することができました。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -221,7 +221,7 @@ Aspose.TeX for C++は、texファイルを操作するためのtex統合およ�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Totalは、他のプラットフォーム向けに個別のソリューションを提供します。" >}}
 

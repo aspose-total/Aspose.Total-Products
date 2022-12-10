@@ -24,7 +24,7 @@ Mengonversi OTT ke TSV melalui [Aspose.Total for Java](https://products.aspose.c
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari proyek berbasis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dan sertakan [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) dan [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) di pom.xml Anda.
 
-Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/total/java).
+Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

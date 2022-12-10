@@ -6,11 +6,11 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android για χειρισμό μορφών αρχείων σε εφαρμογές για κινητά" h2="Χειριστείτε Word, Excel, PowerPoint, PDF, Outlook και πολλές άλλες μορφές εγγράφων σε εφαρμογές για κινητά χωρίς να εγκαταστήσετε λογισμικό." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android για χειρισμό μορφών αρχείων σε εφαρμογές για κινητά" h2="Χειριστείτε Word, Excel, PowerPoint, PDF, Outlook και πολλές άλλες μορφές εγγράφων σε εφαρμογές για κινητά χωρίς να εγκαταστήσετε λογισμικό." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total for Android via Java είναι μια συλλογή κάθε API Android που προσφέρεται από την Aspose. Οι προγραμματιστές μπορούν να δημιουργούν, να χειρίζονται, να αποδίδουν και να μετατρέπουν μεταξύ διαφορετικών μορφών εγγράφων εντός εφαρμογών Android.
@@ -139,7 +139,7 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Κατά την υλοποίησή μας, μπορούσαμε να αντιληφθούμε ότι αγγίξαμε μόνο ένα κλάσμα από αυτό που μπορεί να κάνει το Aspose.Total. Η ευκολία χρήσης του API δίνει στους προγραμματιστές ικανοποίηση για την «ολοκλήρωση της δουλειάς» με τον απλό και καθαρό κώδικα του και η στιβαρότητα του τελικού προϊόντος κάνει τους πελάτες μας χαρούμενους.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -176,7 +176,7 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 

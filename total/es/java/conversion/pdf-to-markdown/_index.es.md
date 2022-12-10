@@ -24,7 +24,7 @@ Puede convertir PDF a MARKDOWN siguiendo dos simples pasos. Primero debe procesa
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.PDF para Java](https://docs.aspose.com/pdf/java/installation/) y [Aspose.Words para Java](https://docs.aspose.com/words/java/installation/) en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

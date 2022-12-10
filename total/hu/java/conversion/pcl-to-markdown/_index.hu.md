@@ -24,7 +24,7 @@ Két egyszerű lépéssel a PCL-et MARKDOWN-má konvertálhatja. Először is le
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Az Aspose.Total for Java könnyen használható közvetlenül [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektből és tartalmazza az [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) és az [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) a pom.xml-ben.
 
-Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/java).
+Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

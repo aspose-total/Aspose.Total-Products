@@ -6,11 +6,11 @@ description: SharePoint 文件格式應用程序可在 Microsoft SharePoint 中�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用於操作文件的 SharePoint 應用程序" h2="在 Microsoft SharePoint 應用程序中輕鬆轉換和組合 Word、Excel、PowerPoint、PDF、Outlook 和許多其他格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="用於操作文件的 SharePoint 應用程序" h2="在 Microsoft SharePoint 應用程序中輕鬆轉換和組合 Word、Excel、PowerPoint、PDF、Outlook 和許多其他格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for SharePoint 是 Aspose 提供的每個已編譯 SharePoint 應用程序的組合。 它使開發人員可以輕鬆地從 Microsoft SharePoint 中轉換和合併文檔，並支持具有高保真度轉換的多種文檔格式。
@@ -130,7 +130,7 @@ Aspose.BarCode for SharePoint 提供了一個獨特而強大的應用程序，�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/total/sharepoint" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 

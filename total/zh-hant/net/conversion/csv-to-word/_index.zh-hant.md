@@ -26,7 +26,7 @@ otherformats: POWERPOINT DOC DOCX PPTX
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
 從命令行安裝為 ```nuget install Aspose.Total``` 或通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Total```。
 
-或者，從 [下載](https://downloads.aspose.com/total/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+或者，從 [下載](https://releases.aspose.com/total/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="用於 CSV 到 WORD 轉換的 .NET C# 代碼" gistPath="" %}}

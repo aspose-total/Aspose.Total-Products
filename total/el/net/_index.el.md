@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API για τη δημιουργία χειρισ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API χειρισμού μορφής αρχείου .NET" h2="Χειριστείτε τα Word, Excel, PDF, PowerPoint, Outlook και περισσότερες από 100 άλλες μορφές αρχείων μέσα από εφαρμογές .NET, χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API χειρισμού μορφής αρχείου .NET" h2="Χειριστείτε τα Word, Excel, PDF, PowerPoint, Outlook και περισσότερες από 100 άλλες μορφές αρχείων μέσα από εφαρμογές .NET, χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total για .NET είναι το πιο πλήρες πακέτο από όλα τα API Αυτοματοποίησης Μορφής Αρχείων .NET που προσφέρονται από την Aspose. Εξουσιοδοτεί τους προγραμματιστές να δημιουργούν, να επεξεργάζονται, να αποδίδουν, να εκτυπώνουν και να μετατρέπουν μεταξύ των πιο δημοφιλών μορφών αρχείων σε οποιεσδήποτε εφαρμογές .NET, C#, ASP.NET και VB.NET.
@@ -260,7 +260,7 @@ description: C# ASP.NET VB.NET API για τη δημιουργία χειρισ
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Ελβετία" >}}
 Το καλά τεκμηριωμένο εγχειρίδιο οδηγιών και η στιβαρότητα των εξαρτημάτων Aspose.Total οδήγησαν σε μια απλή ενσωμάτωση στο DOCO. Αυτό μας βοήθησε να μειώσουμε το χρόνο ανάπτυξης περισσότερο από το αναμενόμενο.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ description: C# ASP.NET VB.NET API για τη δημιουργία χειρισ
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 

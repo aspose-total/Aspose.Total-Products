@@ -27,7 +27,7 @@ otherformats: PPTX DOC POWERPOINT WORD
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du kan enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera [Aspose.PDF for Android via Java](https://docxs.aspose.com/pdf/androidjava/installation/) och [Aspose.Cells for Android via Java](https://docxs.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) i dina applikationer.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/androidjava).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -30,7 +30,7 @@ Para un desarrollador, ¿quién intenta crear archivos XLSX a través de la apli
 
 - Para la generación de XLSX, haga referencia a las API dentro del proyecto directamente desde PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - O use el siguiente comando pip ```pip install aspose.cells``` 
-- Además, descargue el paquete API de la sección [downloads](https://downloads.aspose.com/cells/python-java) 
+- Además, descargue el paquete API de la sección [downloads](https://releases.aspose.com/cells/python-java) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

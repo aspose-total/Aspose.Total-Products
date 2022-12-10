@@ -31,7 +31,7 @@ Wer versucht als Entwickler, XLS-Dateien über eine .NET-Anwendung zu aktualisie
 - Für XLS-Modifikationen Microsoft Windows oder ein kompatibles Betriebssystem mit .NET-, .NET Core-, Mono- oder Xamarin-Plattformen
 - Entwicklungsumgebung wie Microsoft Visual Studio 
 - Installieren Sie von der Befehlszeile als ```nuget install Aspose.Cells``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Cells```
-- Holen Sie sich alternativ das Offline-MSI-Installationsprogramm oder alle DLLs in einer ZIP-Datei von [Downloads](https://downloads.aspose.com/cells/net)
+- Holen Sie sich alternativ das Offline-MSI-Installationsprogramm oder alle DLLs in einer ZIP-Datei von [Downloads](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

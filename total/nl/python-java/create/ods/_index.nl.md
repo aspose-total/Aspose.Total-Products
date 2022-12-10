@@ -30,7 +30,7 @@ Voor een ontwikkelaar, die probeert ODS-bestanden te maken via de Python-toepass
 
 - Verwijs voor ODS-generatie rechtstreeks vanuit PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) naar API's binnen het project
 - Of gebruik het volgende pip-commando ```pip install aspose.cells``` 
-- Download bovendien het API-pakket uit de [downloads](https://downloads.aspose.com/cells/python-java)-sectie 
+- Download bovendien het API-pakket uit de [downloads](https://releases.aspose.com/cells/python-java)-sectie 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

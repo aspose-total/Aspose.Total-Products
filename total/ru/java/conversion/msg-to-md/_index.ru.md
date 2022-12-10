@@ -24,7 +24,7 @@ otherformats: MD RTF GIF DOTX FLATOPC PS DOCX TEXT XPS WORDML EMF DOCM PCL SVG E
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/java).
+Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

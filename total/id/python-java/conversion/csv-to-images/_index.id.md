@@ -32,7 +32,7 @@ Untuk pengembang Python, yang mencoba menambahkan fitur konversi Gambar CSV ke P
 
 - Untuk konversi CSV ke Gambar (JPG, PNG, GIF, BMP, TIFF), API referensi dalam proyek langsung dari PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Atau gunakan perintah pip berikut ```pip install aspose.cells``` 
-- Selain itu, Unduh paket API dari bagian [Unduhan](https://downloads.aspose.com/cells/python-java) 
+- Selain itu, Unduh paket API dari bagian [Unduhan](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

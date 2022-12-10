@@ -27,7 +27,7 @@ otherformats: XLT XLSM TSV TXT SXC MD XLAM EXCEL XLSB XLTX ODS DIF
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 从命令行安装为 ```nuget install Aspose.Total.Cpp``` 或通过 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Total.Cpp``。
 
-或者，从 [下载](https://downloads.aspose.com/total/cpp) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
+或者，从 [下载](https://releases.aspose.com/total/cpp) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

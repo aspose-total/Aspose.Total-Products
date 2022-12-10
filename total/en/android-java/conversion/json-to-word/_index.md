@@ -27,7 +27,7 @@ You can convert JSON to WORD in your Android applications in two-step process. F
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Android via Java APIs" %}}
 You can easily use Aspose.Total for Android via Java directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) and install libraries in your app.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/androidjava).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "35ed6fd1fd3e1863f01e476f36f05625" "parse-json-to-doc.java" >}}

@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIs เพื่อพัฒนาแอพจัดกา�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูความคิดเห็นของผู้ใช้เกี่ยวกับ Aspose.Words" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูความคิดเห็นของผู้ใช้เกี่ยวกับ Aspose.Words" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

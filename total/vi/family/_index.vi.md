@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Tập hợp đầy đủ các API thao tác định dạng tệp" h2="Thao tác Word, Excel, PDF, PowerPoint, Outlook và hơn 100 định dạng tệp khác bằng cách sử dụng API gốc của chúng tôi cho .NET, Java, Android, C++ và các Nền tảng khác." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tập hợp đầy đủ các API thao tác định dạng tệp" h2="Thao tác Word, Excel, PDF, PowerPoint, Outlook và hơn 100 định dạng tệp khác bằng cách sử dụng API gốc của chúng tôi cho .NET, Java, Android, C++ và các Nền tảng khác." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Dòng sản phẩm Aspose.Total bao gồm" >}}
@@ -63,6 +63,6 @@ Xuất báo cáo sang Word, Excel, PowerPoint và các định dạng khác từ
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

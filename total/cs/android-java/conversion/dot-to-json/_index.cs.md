@@ -27,7 +27,7 @@ Ve svých aplikacích pro Android můžete převést DOT na formát JSON prostř
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Aspose.Total pro Android můžete snadno používat prostřednictvím Javy přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat knihovny do vaší aplikace.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

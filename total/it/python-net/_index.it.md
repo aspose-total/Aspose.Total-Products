@@ -173,7 +173,7 @@ Un'API Python 3D in grado di creare, modificare o convertire formati di file Dis
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Scopri cosa hanno da dire gli utenti sulle API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Scopri cosa hanno da dire gli utenti sulle API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasile" >}}
 Durante la nostra implementazione, abbiamo potuto percepire che abbiamo toccato solo una frazione di ciò di cui è capace Aspose.Total. La facilità d'uso dell'API offre agli sviluppatori la soddisfazione di "portare a termine il lavoro" con il suo codice semplice e pulito e la robustezza del prodotto finale rende felici i nostri clienti.
 {{< /blocks/products/pf/testimonials-quote >}}

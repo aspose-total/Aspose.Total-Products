@@ -26,7 +26,7 @@ otherformats: DOCX WORD POWERPOINT PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/total/net).
+Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# kód a XLSM-ből DOC-ba való konvertáláshoz" gistPath="" %}}

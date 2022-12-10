@@ -24,7 +24,7 @@ otherformats: OTP POT PPSM POTM PPTM XAML PPSX POTX POWERPOINT PPS SWF PPT
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/)と[Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/)あなたのpom.xmlの。
 
-または、[ダウンロード](https://downloads.aspose.com/total/java)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

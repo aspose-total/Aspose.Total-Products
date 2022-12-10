@@ -6,11 +6,11 @@ description: Extensões de renderização do SQL Server Reporting Services para 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Extensões do Reporting Services para entregar relatórios em formatos Office" h2="Exporte relatórios RDL e RDLC para os formatos Word, Excel, PDF e PowerPoint e adicione códigos de barras aos documentos exportados." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Extensões do Reporting Services para entregar relatórios em formatos Office" h2="Exporte relatórios RDL e RDLC para os formatos Word, Excel, PDF e PowerPoint e adicione códigos de barras aos documentos exportados." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Reporting Services é um conjunto de extensões de renderização para Microsoft SQL Server Reporting Services, permitindo que os desenvolvedores exportem facilmente relatórios RDL para formatos de documento Word, Excel, PowerPoint e PDF. Você também pode aprimorar o fluxo de trabalho adicionando os códigos de barras aos documentos exportados.
@@ -239,7 +239,7 @@ Aspose.BarCode for Reporting Services é a solução mais abrangente para render
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="A Aspose.Total oferece soluções individuais para outras plataformas." >}}
 

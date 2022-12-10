@@ -27,7 +27,7 @@ Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Installera via Package Manager-konsolen i Visual Studio med ```Install-Package Aspose.Total.Cpp```.
 
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/total/cpp).
+Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.comtotal/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -27,7 +27,7 @@ otherformats: SXC XLAM DIF FODS XLTM ODS EXCEL TSV XLSX XLS XLSB XLT CSV XLSM
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)から直接Java経由でAspose.TotalforAndroidを簡単に使用できます。 [Aspose.Cells for Android via Java](https://wordmls.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository)および[Aspose.Words for Android via Java](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-アプリケーションのasposewords-for-android-via-java-from-maven-repository)。
 
-または、[ダウンロード](https://downloads.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

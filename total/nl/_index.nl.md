@@ -65,7 +65,7 @@ Converteer gratis 100+ formaten naar andere documenten online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Words." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

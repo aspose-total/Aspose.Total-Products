@@ -6,11 +6,11 @@ description: Java 開發人員的 API 集合，用於處理 Word Excel PDF Power
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="通過 Java API 創建、編輯和轉換文件" h2="從您自己的 Java 應用程序中處理 Word、Excel、PowerPoint、Outlook、PDF、3D、CAD 和其他文檔格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="通過 Java API 創建、編輯和轉換文件" h2="從您自己的 Java 應用程序中處理 Word、Excel、PowerPoint、Outlook、PDF、3D、CAD 和其他文檔格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Java 是面向 Java 開發人員的文件格式自動化庫的集合，使他們能夠從任何 Java J2SE、J2EE、J2ME 應用程序中創建、更新、打印、呈現和轉換多種文件格式。
@@ -254,7 +254,7 @@ Aspose.TeX for Java 是一個 TeX 文件排版 API。 它可以輕鬆排版 TeX 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="What People Are Saying" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="What People Are Saying" subTitle="不要只相信我們的話。查看用戶對 Aspose.Total API 的評價。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="伊戈爾·克拉夫 | W3K 技術，巴西" >}}
 在我們的實施過程中，我們可以感覺到我們只觸及了 Aspose.Total 能力的一小部分。 API 的易用性讓開發人員對“完成工作”感到滿意，其代碼簡潔乾淨，最終產品的穩健性讓我們的客戶滿意。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -291,7 +291,7 @@ Aspose.Total 是一個功能強大的套件，可以高速、高質量地處理�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 

@@ -6,11 +6,11 @@ description: Raccolta di API per gli sviluppatori Java per manipolare file da Wo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Crea, modifica e converti file tramite API Java" h2="Manipola Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD e altri formati di documenti dalle tue applicazioni Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Crea, modifica e converti file tramite API Java" h2="Manipola Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD e altri formati di documenti dalle tue applicazioni Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total per Java è una raccolta di librerie di File Format Automation per sviluppatori Java, che consente loro di creare, aggiornare, stampare, eseguire il rendering e convertire tra più formati di file da qualsiasi applicazione Java J2SE, J2EE, J2ME.
@@ -254,7 +254,7 @@ Aspose.TeX per Java è un'API di composizione dei file TeX. Può facilmente comp
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Scopri cosa hanno da dire gli utenti sulle API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Scopri cosa hanno da dire gli utenti sulle API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasile" >}}
 Durante la nostra implementazione, abbiamo potuto percepire che abbiamo toccato solo una frazione di ciò di cui è capace Aspose.Total. La facilità d'uso dell'API offre agli sviluppatori la soddisfazione di "portare a termine il lavoro" con il suo codice semplice e pulito e la robustezza del prodotto finale rende felici i nostri clienti.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -291,7 +291,7 @@ Aspose.Total è una potente suite per elaborare quasi tutti i tipi di documenti 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offre soluzioni individuali per altre piattaforme." >}}
 

@@ -27,7 +27,7 @@ otherformats: CHM EPUB WORD WORDML DOC FLATOPC MOBI OTT ODT PCL DOT RTF DOCM DOT
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 คุณสามารถใช้ Aspose.Total for Android via Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) และ ติดตั้งไลบรารีในแอปของคุณ
 
-หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/androidjava)
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/androidjava)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

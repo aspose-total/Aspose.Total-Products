@@ -65,7 +65,7 @@ Converti liberamente oltre 100 formati in altri documenti online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Guarda cosa hanno da dire gli utenti su Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Guarda cosa hanno da dire gli utenti su Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

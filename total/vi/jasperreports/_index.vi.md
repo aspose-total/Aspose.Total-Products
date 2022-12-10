@@ -6,11 +6,11 @@ description: Bộ xuất JasperReports để xuất báo cáo sang định dạn
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Các tiện ích mở rộng JasperReports để cung cấp báo cáo trong các định dạng Office" h2="Dễ dàng xuất JasperReports sang các định dạng Word, Excel, PDF, PowerPoint và Image trong khi thêm mã vạch vào tài liệu đã xuất." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Các tiện ích mở rộng JasperReports để cung cấp báo cáo trong các định dạng Office" h2="Dễ dàng xuất JasperReports sang các định dạng Word, Excel, PDF, PowerPoint và Image trong khi thêm mã vạch vào tài liệu đã xuất." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for JasperReports là một bộ công cụ giàu tính năng của JasperReports Exporters cho phép các nhà phát triển xuất báo cáo ở các định dạng Microsoft Word, Excel, PowerPoint và PDF. Một trong những trình xuất trong họ Aspose.Total for JasperReports cũng cung cấp khả năng thêm mã vạch vào các tệp đã xuất.
@@ -219,7 +219,7 @@ Aspose.CAD cho JasperReports cung cấp một giải pháp mạnh mẽ và độ
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/total/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 

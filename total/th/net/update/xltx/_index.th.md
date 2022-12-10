@@ -31,7 +31,7 @@ informat: XLTX
 - สำหรับการดัดแปลง XLTX, Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET, .NET Core, Mono หรือ Xamarin Platforms
 - สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio 
 - ติดตั้งจากบรรทัดคำสั่งเป็น ``` ติดตั้ง nuget Aspose.Cells``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Cells``
-- หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ทั้งหมดในไฟล์ ZIP จาก[ดาวน์โหลด](https://downloads.aspose.com/cells/net)
+- หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ทั้งหมดในไฟล์ ZIP จาก[ดาวน์โหลด](https://releases.aspose.comcells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

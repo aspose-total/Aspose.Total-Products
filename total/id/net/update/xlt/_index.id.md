@@ -31,7 +31,7 @@ Untuk pengembang, siapa yang mencoba memperbarui file XLT melalui aplikasi .NET?
 - Untuk modifikasi XLT, Microsoft Windows atau OS yang kompatibel dengan Platform .NET, .NET Core, Mono atau Xamarin
 - Lingkungan pengembangan seperti Microsoft Visual Studio 
 - Instal dari baris perintah sebagai ```nuget install Aspose.Cells``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Cells```
-- Atau, dapatkan penginstal MSI offline atau semua DLL dalam file ZIP dari [Unduhan](https://downloads.aspose.com/cells/net)
+- Atau, dapatkan penginstal MSI offline atau semua DLL dalam file ZIP dari [Unduhan](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

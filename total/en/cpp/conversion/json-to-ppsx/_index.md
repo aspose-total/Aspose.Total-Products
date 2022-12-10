@@ -27,7 +27,7 @@ You can convert JSON to PPSX within any C++ application in two simple steps. Fir
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Automation APIs" %}}
 Install via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total.Cpp```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/total/cpp).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "e6b7f7744296b6d7ad8619a0769d75be" "convert-json-to-powerpoint.cpp" >}}

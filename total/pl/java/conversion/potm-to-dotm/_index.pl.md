@@ -24,7 +24,7 @@ otherformats: WORD DOTX OTT DOTM RTF DOTMM TEXT DOTMX FLATOPC WORDML ODT DOT
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Do konwersji plików POTM do DOTM można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
 
-Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/java).
+Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

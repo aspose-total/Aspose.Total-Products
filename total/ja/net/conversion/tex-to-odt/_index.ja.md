@@ -27,7 +27,7 @@ otherformats: MARKDOWN MHTML PS DOTM WORDML FLATOPC RTF OTT ODT DOTX PCL XAMLFLO
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total```を使用してインストールします。
 
-または、[ダウンロード](https://downloads.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://releases.aspose.com/total/net)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

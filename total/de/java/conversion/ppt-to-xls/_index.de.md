@@ -24,7 +24,7 @@ Sie können die PPT-Datei über [Aspose.Total for Java](https://products.aspose.
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Um PPT in XLS zu konvertieren, können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
 
-Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/java) herunterladen.
+Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.com/total/java) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -27,7 +27,7 @@ U kunt JSON in twee eenvoudige stappen in elke C++-toepassing naar PPT converter
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Installeer via Package Manager Console van Visual Studio met ```Install-Package Aspose.Total.Cpp```.
 
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://downloads.aspose.com/total/cpp).
+U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloads](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

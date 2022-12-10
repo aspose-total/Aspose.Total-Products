@@ -28,7 +28,7 @@ Often times developers have to convert WORDML file to PPTX programmatically. By 
 {{% blocks/products/pf/agp/feature-section-col title="WORDML File Conversion in Java" %}}
 For WORDML to PPTX file conversion, you can easily use Aspose.Total for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) based project and include libraries in your pom.xml.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/java).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}

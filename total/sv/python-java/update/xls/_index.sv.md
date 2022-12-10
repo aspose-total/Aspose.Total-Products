@@ -30,7 +30,7 @@ För en utvecklare, vem försöker uppdatera XLS-filer via Python-applikationen?
 
 - För XLS-modifiering, referera API:er inom projektet direkt från PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Eller använd följande pip-kommando ```pip install aspose.cells``` 
-- Dessutom ladda ner API-paketet från [Nedladdningar](https://downloads.aspose.com/cells/python-java)-sektionen
+- Dessutom ladda ner API-paketet från [Nedladdningar](https://releases.aspose.comcells/python-java)-sektionen
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

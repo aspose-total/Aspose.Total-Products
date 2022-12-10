@@ -65,7 +65,7 @@ Orijinal kaliteyi korurken belgeleri kolayca sıkıştırın.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Words hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Words hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

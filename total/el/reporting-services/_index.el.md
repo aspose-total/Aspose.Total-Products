@@ -6,11 +6,11 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Επεκτάσεις υπηρεσιών αναφοράς για την παράδοση αναφορών σε μορφές του Office" h2="Εξαγωγή αναφορών RDL και RDLC σε μορφές Word, Excel, PDF και PowerPoint και Προσθήκη γραμμωτών κωδίκων στα εξαγόμενα έγγραφα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Επεκτάσεις υπηρεσιών αναφοράς για την παράδοση αναφορών σε μορφές του Office" h2="Εξαγωγή αναφορών RDL και RDLC σε μορφές Word, Excel, PDF και PowerPoint και Προσθήκη γραμμωτών κωδίκων στα εξαγόμενα έγγραφα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total for Reporting Services είναι μια σουίτα επεκτάσεων απόδοσης για τις υπηρεσίες αναφοράς του Microsoft SQL Server, που επιτρέπει στους προγραμματιστές να εξάγουν εύκολα αναφορές RDL σε μορφές εγγράφων Word, Excel, PowerPoint και PDF. Μπορείτε επίσης να βελτιώσετε τη ροή εργασίας προσθέτοντας τους γραμμωτούς κώδικες στα εξαγόμενα έγγραφα.
@@ -239,7 +239,7 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 

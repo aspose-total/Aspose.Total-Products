@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint Электронная почта P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Полный набор API для работы с форматами файлов" h2="Управляйте Word, Excel, PDF, PowerPoint, Outlook и более чем 100 другими форматами файлов, используя наши собственные API для .NET, Java, Android, C++ и других платформ." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Полный набор API для работы с форматами файлов" h2="Управляйте Word, Excel, PDF, PowerPoint, Outlook и более чем 100 другими форматами файлов, используя наши собственные API для .NET, Java, Android, C++ и других платформ." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.comtotal" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Семейство продуктов Aspose.Total включает" >}}
@@ -63,6 +63,6 @@ description: Microsoft Excel Word PowerPoint Электронная почта P
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.comtotal" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -27,7 +27,7 @@ otherformats: PPTX DOCX DOC WORD
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}
 Aspose.Total pro Android můžete snadno používat prostřednictvím Javy přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalovat [Aspose.PDF for Android via Java](https://powerpoints.aspose.com/pdf/androidjava/installation/) a [Aspose.Cells for Android via Java](https://powerpoints.aspose.com/cells /java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) ve vašich aplikacích.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

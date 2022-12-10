@@ -26,7 +26,7 @@ otherformats: DOCX DOC WORD PPTX
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Kód pro převod XLTX na POWERPOINT" gistPath="" %}}

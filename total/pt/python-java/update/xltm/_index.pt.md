@@ -30,7 +30,7 @@ Para um desenvolvedor, quem está tentando atualizar arquivos XLTM por meio do a
 
 - Para modificação de XLTM, faça referência a APIs dentro do projeto diretamente do PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Ou use o seguinte comando pip ```pip install aspose.cells``` 
-- Além disso, baixe o pacote de API da seção [Transferências](https://downloads.aspose.com/cells/python-java)
+- Além disso, baixe o pacote de API da seção [Transferências](https://releases.aspose.com/cells/python-java)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

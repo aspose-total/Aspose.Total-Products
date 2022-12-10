@@ -24,7 +24,7 @@ U kunt XPS naar ODT converteren met behulp van twee eenvoudige stappen. Eerst mo
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en bevatten [Aspose.PDF voor Java](https://docs.aspose.com/pdf/java/installation/) en [Aspose.Words voor Java](https://docs.aspose.com/words/java/installation/) in uw po.xml.
 
-U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/java).
+U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

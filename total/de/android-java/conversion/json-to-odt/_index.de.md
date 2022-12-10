@@ -27,7 +27,7 @@ Sie können JSON in Ihren Android-Anwendungen in zwei Schritten in ODT konvertie
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Sie können Aspose.Total für Android ganz einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und verwenden Installieren Sie Bibliotheken in Ihrer App.
 
-Alternativ können Sie eine ZIP-Datei von [downloads](https://downloads.aspose.com/total/androidjava) herunterladen.
+Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.comtotal/androidjava) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

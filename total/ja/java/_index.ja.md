@@ -6,11 +6,11 @@ description: Java開発者がWordExcelPDF PowerPointVisioOneNote電子メール�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java APIを介したファイルの作成、編集、変換" h2="独自のJavaアプリケーションから、Word、Excel、PowerPoint、Outlook、PDF、3D、CAD、およびその他のドキュメント形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java APIを介したファイルの作成、編集、変換" h2="独自のJavaアプリケーションから、Word、Excel、PowerPoint、Outlook、PDF、3D、CAD、およびその他のドキュメント形式を操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Javaは、Java開発者向けのファイル形式自動化ライブラリのコレクションであり、Java J2SE、J2EE、J2MEアプリケーション内から複数のファイル形式を作成、更新、印刷、レンダリング、および変換できるようにします。
@@ -254,7 +254,7 @@ Aspose.TeX for Javaは、TeXファイルの植字APIです。 TeXファイルを
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.TotalAPIについてユーザーが何を言っているかを確認してください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia、ブラジル" >}}
 実装中に、Aspose.Totalの機能のほんの一部にしか触れていないことを感じることができました。 APIの使いやすさにより、開発者はシンプルでクリーンなコードで「作業を完了する」ことに満足でき、最終製品の堅牢性はお客様を満足させます。
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -291,7 +291,7 @@ Aspose.Totalは、ほぼすべての種類のドキュメントを高速かつ�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Totalは、他のプラットフォーム向けに個別のソリューションを提供します。" >}}
 

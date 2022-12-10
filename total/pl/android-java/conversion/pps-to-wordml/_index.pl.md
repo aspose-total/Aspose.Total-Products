@@ -28,7 +28,7 @@ Możesz przekonwertować swój dokument w dwóch krokach. Do renderowania PPS do
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Możesz łatwo używać Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj [Aspose.Slides na Androida przez Javę](https://wordmls.aspose.com/slides/androidjava/install-aspose-slides-for-android-via-java/) i [Aspose.Words na Androida przez Javę](https://wordmls.aspose.com/words/java/install-aspose-words-for-android-via-java/#install-asposewords-for-android-via-java-from-maven-repository) w swoim Aplikacje.
 
-Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
+Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

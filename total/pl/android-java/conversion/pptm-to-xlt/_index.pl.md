@@ -27,7 +27,7 @@ Możesz łatwo przekonwertować plik PPTM na XLT w swoich aplikacjach na Android
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Aby przekonwertować PPTM do XLT, możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
 
-Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/androidjava).
+Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

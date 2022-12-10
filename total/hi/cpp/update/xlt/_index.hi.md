@@ -30,7 +30,7 @@ informat: XLT
 - XLT संशोधन के लिए, Windows और Linux सिस्टम के लिए [सिस्टम आवश्यकताएं](https://docs.aspose.com/cells/cpp/system-requirements/) का पालन करें 
 - कमांड लाइन से ```nuget install Aspose.Total.Cpp``` के रूप में स्थापित करें
 - या विज़ुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```Install-Package Aspose.Total.Cpp``` के साथ
-- वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/cells/cpp) से एक ZIP फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें
+- वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/cells/cpp) से एक ZIP फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

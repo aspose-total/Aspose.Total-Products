@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET APIs لإنشاء ومعالجة التحويل �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="NET File Format Manipulation APIs" h2="تعامل مع Word و Excel و PDF و PowerPoint و Outlook وأكثر من 100 تنسيق ملف آخر من داخل تطبيقات .NET ، دون أي تبعيات للبرامج." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="NET File Format Manipulation APIs" h2="تعامل مع Word و Excel و PDF و PowerPoint و Outlook وأكثر من 100 تنسيق ملف آخر من داخل تطبيقات .NET ، دون أي تبعيات للبرامج." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for .NET هو الحزمة الأكثر اكتمالاً لجميع واجهات برمجة تطبيقات أتمتة تنسيق الملفات .NET التي تقدمها Aspose. إنه يمكّن المطورين من إنشاء وتحرير وعرض وطباعة وتحويل بين تنسيقات الملفات الأكثر شيوعًا ضمن أي تطبيقات .NET و C# و ASP.NET و VB.NET.
@@ -262,7 +262,7 @@ Aspose.TeX for .NET هو واجهة برمجة تطبيقات لتنضيد مل�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ستيفان ستودر | Nowhow Solutions AG ، سويسرا" >}}
 دليل التعليمات الموثق جيدًا ومتانة Aspose. أدت المكونات الإجمالية إلى تكامل مباشر في DOCO. لقد ساعدنا ذلك في تقليص وقت التطوير أكثر مما كان متوقعًا.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -299,7 +299,7 @@ Aspose.TeX for .NET هو واجهة برمجة تطبيقات لتنضيد مل�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 

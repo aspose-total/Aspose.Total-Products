@@ -30,7 +30,7 @@ informat: XLSM
 - لتعديل XLSM ، باتباع [متطلبات النظام](https://docs.aspose.com/cells/cpp/system-requirements/) لأنظمة Windows و Linux 
 - قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total.Cpp```
 - أو عبر وحدة تحكم مدير الحزم في Visual Studio مع `` Install-Package Aspose.Total.Cpp ''
-- بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو DLLs في ملف ZIP من [التحميلات](https://downloads.aspose.com/cells/cpp)
+- بدلاً من ذلك ، احصل على مثبت MSI غير المتصل أو DLLs في ملف ZIP من [التحميلات](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

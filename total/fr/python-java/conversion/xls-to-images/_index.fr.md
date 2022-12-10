@@ -32,7 +32,7 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 - Pour la conversion XLS en images (JPG, PNG, GIF, BMP, TIFF), référencez les API dans le projet directement depuis PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Ou utilisez la commande pip suivante ```pip install aspose.cells``` 
-- De plus, téléchargez le package API à partir de la section [Téléchargements](https://downloads.aspose.com/cells/python-java) 
+- De plus, téléchargez le package API à partir de la section [Téléchargements](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

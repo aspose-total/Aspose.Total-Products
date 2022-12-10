@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIは、複数のMicrosoftExcel形式をサポートする�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.Wordsについてユーザーが何を言わなければならないかをご覧ください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Aspose.Wordsについてユーザーが何を言わなければならないかをご覧ください。" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

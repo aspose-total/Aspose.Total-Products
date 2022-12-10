@@ -27,7 +27,7 @@ otherformats: TSV XLSM FODS MARKDOWN CSV XLTX XLT DIF XLS EXCEL MHTML XLAM ODS X
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
 PPTX'u XLTM'ye dönüştürmek için Aspose.Total for Android'i Java aracılığıyla doğrudan [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com) kullanabilirsiniz. /aspose/aspose-total) ve uygulamanıza kitaplıkları kurun.
 
-Alternatif olarak, [downloads](https://downloads.aspose.com/total/androidjava) adresinden bir ZIP dosyası alabilirsiniz.
+Alternatif olarak, [downloads](https://releases.aspose.com/total/androidjava) adresinden bir ZIP dosyası alabilirsiniz.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

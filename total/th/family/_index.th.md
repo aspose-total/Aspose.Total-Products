@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint อีเมล PDF Visio Project B
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ชุด API การจัดการรูปแบบไฟล์ที่สมบูรณ์" h2="จัดการ Word, Excel, PDF, PowerPoint, Outlook และรูปแบบไฟล์อื่นๆ อีกกว่า 100 รูปแบบโดยใช้ API ดั้งเดิมของเราสำหรับ .NET, Java, Android, C++ และแพลตฟอร์มอื่นๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ชุด API การจัดการรูปแบบไฟล์ที่สมบูรณ์" h2="จัดการ Word, Excel, PDF, PowerPoint, Outlook และรูปแบบไฟล์อื่นๆ อีกกว่า 100 รูปแบบโดยใช้ API ดั้งเดิมของเราสำหรับ .NET, Java, Android, C++ และแพลตฟอร์มอื่นๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.comtotal" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Product Family รวม" >}}
@@ -63,6 +63,6 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.comtotal" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -30,7 +30,7 @@ Pour un programmeur qui essaie de mettre à jour des fichiers XLSX dans une appl
 - Pour la modification XLSX, suivre [Configuration requise](https://docs.aspose.com/cells/cpp/system-requirements/) pour les systèmes Windows et Linux 
 - Installer à partir de la ligne de commande en tant que ```nuget install Aspose.Total.Cpp```
 - Ou via Package Manager Console de Visual Studio avec ```Install-Package Aspose.Total.Cpp```
-- Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [Téléchargements](https://downloads.aspose.com/cells/cpp)
+- Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [Téléchargements](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

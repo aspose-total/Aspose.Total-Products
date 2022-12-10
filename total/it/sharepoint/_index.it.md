@@ -6,11 +6,11 @@ description: App di formato file SharePoint per convertire e combinare formati d
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="App di SharePoint per manipolare i file" h2="Converti e combina facilmente Word, Excel, PowerPoint, PDF, Outlook e molti altri formati all'interno delle app di Microsoft SharePoint." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="App di SharePoint per manipolare i file" h2="Converti e combina facilmente Word, Excel, PowerPoint, PDF, Outlook e molti altri formati all'interno delle app di Microsoft SharePoint." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total per SharePoint è una combinazione di ogni app di SharePoint compilata offerta da Aspose. Offre agli sviluppatori la possibilità di convertire e combinare facilmente i documenti da Microsoft SharePoint e supporta più formati di documenti con una conversione ad alta fedeltà.
@@ -130,7 +130,7 @@ Aspose.BarCode per SharePoint fornisce un'app unica e robusta per migliorare gli
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/total/sharepoint" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offre soluzioni individuali per altre piattaforme." >}}
 

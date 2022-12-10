@@ -6,11 +6,11 @@ description: SQL सर्वर रिपोर्टिंग सेवाए�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="कार्यालय स्वरूपों में रिपोर्ट वितरित करने के लिए रिपोर्टिंग सेवा एक्सटेंशन" h2="Word, Excel, PDF और PowerPoint स्वरूपों में RDL और RDLC रिपोर्ट निर्यात करें और निर्यात किए गए दस्तावेज़ों में बारकोड जोड़ें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="कार्यालय स्वरूपों में रिपोर्ट वितरित करने के लिए रिपोर्टिंग सेवा एक्सटेंशन" h2="Word, Excel, PDF और PowerPoint स्वरूपों में RDL और RDLC रिपोर्ट निर्यात करें और निर्यात किए गए दस्तावेज़ों में बारकोड जोड़ें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for रिपोर्टिंग सर्विसेज, माइक्रोसॉफ्ट एसक्यूएल सर्वर रिपोर्टिंग सर्विसेज के लिए रेंडरिंग एक्सटेंशन का एक सूट है, जिससे डेवलपर्स आसानी से वर्ड, एक्सेल, पावरपॉइंट और पीडीएफ दस्तावेज़ प्रारूपों में आरडीएल रिपोर्ट निर्यात कर सकते हैं। आप निर्यात किए गए दस्तावेज़ों में बारकोड जोड़कर कार्यप्रवाह को भी बढ़ा सकते हैं।
@@ -239,7 +239,7 @@ Aspose.BarCode रिपोर्टिंग सेवाओं के लि�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए व्यक्तिगत समाधान प्रदान करता है।" >}}
 

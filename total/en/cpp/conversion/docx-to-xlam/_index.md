@@ -27,7 +27,7 @@ otherformats: XLT XLS DIF TSV FODS ODS CSV XLSM XLTX XLSX SXC XLTM XLSB EXCEL
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Automation APIs" %}}
 Install from command line as ```nuget install Aspose.Total.Cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total.Cpp```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/total/cpp).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "convert-word-to-excel.cpp" >}}

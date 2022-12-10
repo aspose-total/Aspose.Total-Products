@@ -32,7 +32,7 @@ outformat: Image
 
 - Để chuyển đổi XLSX sang Hình ảnh (JPG, PNG, GIF, BMP, TIFF), các API tham chiếu trong dự án trực tiếp từ PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Hoặc sử dụng lệnh pip sau đây `` pip install aspose.cells '' 
-- Hơn nữa, Tải xuống gói API từ phần [Tải xuống](https://downloads.aspose.com/cells/python-java) 
+- Hơn nữa, Tải xuống gói API từ phần [Tải xuống](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

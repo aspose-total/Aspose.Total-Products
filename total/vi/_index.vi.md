@@ -65,7 +65,7 @@ Tự do chuyển đổi hơn 100 định dạng sang các tài liệu khác tr�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về Aspose. AdWords." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về Aspose. AdWords." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

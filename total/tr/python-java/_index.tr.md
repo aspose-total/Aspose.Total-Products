@@ -159,7 +159,7 @@ Microsoft Visio veya başka bir yazılıma ihtiyaç duymadan Microsoft Visio VSD
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose.Total API'leri hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="İgor Klafke | W3K Teknoloji, Brezilya" >}}
 Uygulamamız sırasında Aspose.Total'ın yapabileceklerinin sadece bir kısmına dokunduğumuzu hissettik. API'nin kullanım kolaylığı, basit ve temiz koduyla geliştiricilere "işleri bitirme" konusunda memnuniyet verir ve son ürünün sağlamlığı müşterilerimizi mutlu eder.
 {{< /blocks/products/pf/testimonials-quote >}}

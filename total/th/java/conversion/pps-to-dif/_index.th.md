@@ -24,7 +24,7 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML DIF TSV XLTM MARKDOWN 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 ในการแปลง PPS เป็น DIF คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/total/) และรวมไลบรารีใน pom.xml ของคุณ
 
-หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/java)
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

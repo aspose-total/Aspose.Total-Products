@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="完整的文件格式操作 API" h2="使用我们适用于 .NET、Java、Android、C++ 和其他平台的原生 API 处理 Word、Excel、PDF、PowerPoint、Outlook 和 100 多种其他文件格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="完整的文件格式操作 API" h2="使用我们适用于 .NET、Java、Android、C++ 和其他平台的原生 API 处理 Word、Excel、PDF、PowerPoint、Outlook 和 100 多种其他文件格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total 产品系列包括" >}}
@@ -63,6 +63,6 @@ description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

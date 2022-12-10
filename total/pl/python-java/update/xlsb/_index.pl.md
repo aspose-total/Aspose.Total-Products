@@ -30,7 +30,7 @@ Dla programisty, który próbuje aktualizować pliki XLSB za pomocą aplikacji P
 
 - W przypadku modyfikacji XLSB odwołaj się do API w projekcie bezpośrednio z PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Lub użyj następującego polecenia pip ```pip install aspose.cells``` 
-- Ponadto pobierz pakiet API z sekcji [Pliki do pobrania](https://downloads.aspose.com/cells/python-java)
+- Ponadto pobierz pakiet API z sekcji [Pliki do pobrania](https://releases.aspose.comcells/python-java)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

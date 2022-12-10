@@ -24,7 +24,7 @@ otherformats: TSV DIF XLTX MHTML SXC FODS ODS XLAM XLSM EXCEL MARKDOWN XLT XLSB 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 ในการแปลง POTM เป็น DIF คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/total/) และรวมไลบรารีใน pom.xml ของคุณ
 
-หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/total/java)
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

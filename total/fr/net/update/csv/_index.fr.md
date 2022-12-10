@@ -31,7 +31,7 @@ Pour un développeur, qui essaie de mettre à jour des fichiers CSV via une appl
 - Pour la modification CSV, Microsoft Windows ou un système d'exploitation compatible avec les plates-formes .NET, .NET Core, Mono ou Xamarin
 - Environnement de développement comme Microsoft Visual Studio 
 - Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Cells``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Cells```
-- Vous pouvez également obtenir le programme d'installation MSI hors ligne ou toutes les DLL dans un fichier ZIP à partir de [Téléchargements](https://downloads.aspose.com/cells/net)
+- Vous pouvez également obtenir le programme d'installation MSI hors ligne ou toutes les DLL dans un fichier ZIP à partir de [Téléchargements](https://releases.aspose.com/cells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

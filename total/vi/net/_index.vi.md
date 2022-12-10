@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET APIs để tạo thao tác chuyển đổi và hi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API thao tác định dạng tệp .NET" h2="Thao tác Word, Excel, PDF, PowerPoint, Outlook và hơn 100 định dạng tệp khác từ bên trong các ứng dụng .NET mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API thao tác định dạng tệp .NET" h2="Thao tác Word, Excel, PDF, PowerPoint, Outlook và hơn 100 định dạng tệp khác từ bên trong các ứng dụng .NET mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total cho .NET là gói hoàn chỉnh nhất trong số tất cả các API tự động hóa định dạng tệp .NET do Aspose cung cấp. Nó cho phép các nhà phát triển tạo, chỉnh sửa, kết xuất, in và chuyển đổi giữa các định dạng tệp phổ biến nhất trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào.
@@ -260,7 +260,7 @@ Aspose.TeX cho .NET là một API sắp chữ tệp TeX. Nó có thể dễ dàn
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Thụy Sĩ" >}}
 Hướng dẫn sử dụng được ghi chép đầy đủ và sự mạnh mẽ của các thành phần Aspose.Total đã dẫn đến việc tích hợp dễ dàng vào DOCO. Điều này đã giúp chúng tôi cắt giảm thời gian phát triển hơn dự kiến.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ Việc triển khai rất đơn giản, chúng tôi thực sự tập trung vào
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 

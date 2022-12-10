@@ -6,11 +6,11 @@ description: Sammlung von APIs für Java-Entwickler zum Bearbeiten von Dateien a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Erstellen, bearbeiten und konvertieren Sie Dateien über Java-APIs" h2="Bearbeiten Sie Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD und andere Dokumentformate aus Ihren eigenen Java-Anwendungen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Erstellen, bearbeiten und konvertieren Sie Dateien über Java-APIs" h2="Bearbeiten Sie Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD und andere Dokumentformate aus Ihren eigenen Java-Anwendungen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Java ist eine Sammlung von Bibliotheken zur Dateiformatautomatisierung für Java-Entwickler, die es ihnen ermöglicht, mehrere Dateiformate aus beliebigen Java J2SE-, J2EE- und J2ME-Anwendungen zu erstellen, zu aktualisieren, zu drucken, zu rendern und zwischen ihnen zu konvertieren.
@@ -254,7 +254,7 @@ Aspose.TeX für Java ist eine Textsatz-API für TeX-Dateien. Es kann problemlos 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total-APIs zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Aspose.Total-APIs zu sagen haben." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasilien" >}}
 Während unserer Implementierung konnten wir spüren, dass wir nur einen Bruchteil dessen erreicht haben, wozu Aspose.Total in der Lage ist. Die Benutzerfreundlichkeit der API gibt den Entwicklern Zufriedenheit für die „Erledigung der Arbeit“ mit ihrem einfachen und sauberen Code, und die Robustheit des Endprodukts macht unsere Kunden glücklich.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -291,7 +291,7 @@ Aspose.Total ist eine leistungsstarke Suite zur Verarbeitung fast aller Arten vo
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total bietet individuelle Lösungen für andere Plattformen." >}}
 

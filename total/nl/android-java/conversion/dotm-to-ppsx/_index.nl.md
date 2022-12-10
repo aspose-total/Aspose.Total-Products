@@ -28,7 +28,7 @@ Bent u een Android-ontwikkelaar en wilt u een functie voor dotmumentconversie aa
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 Voor DOTM-naar-PPSX-bestandsconversie kunt u eenvoudig Aspose.Total for Android via Java rechtstreeks vanuit [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) en installeer bibliotheken in uw app.
 
-U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/androidjava).
+U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

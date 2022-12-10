@@ -24,7 +24,7 @@ otherformats: DOT FLATOPC TEXT DOTM ODT OTT RTF WORD DOTX DOCX DOCM WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro převod souborů PPTM na DOC můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/java).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

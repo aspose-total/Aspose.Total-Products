@@ -31,7 +31,7 @@ Egy fejlesztő számára ki próbálja meg frissíteni a XLSX fájlokat .NET alk
 - XLSX módosításhoz Microsoft Windows vagy kompatibilis operációs rendszer .NET, .NET Core, Mono vagy Xamarin platformokkal
 - Fejlesztői környezet, például a Microsoft Visual Studio 
 - Telepítés parancssorból ```nuget install Aspose.Cells```ként, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Cells``` segítségével
-- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy az összes DLL-t egy ZIP-fájlban a [Letöltések](https://downloads.aspose.com/cells/net)-ről
+- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy az összes DLL-t egy ZIP-fájlban a [Letöltések](https://releases.aspose.com/cells/net)-ről
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

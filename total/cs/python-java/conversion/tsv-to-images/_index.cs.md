@@ -32,7 +32,7 @@ Pro vývojáře Pythonu, který se snaží přidat funkci konverze obrázků TSV
 
 - Pro převod TSV na obrázky (JPG, PNG, GIF, BMP, TIFF) použijte referenční API v rámci projektu přímo z PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Nebo použijte následující příkaz pip ```pip install aspose.cells``` 
-- Navíc si stáhněte balíček API ze sekce [Stahování](https://downloads.aspose.com/cells/python-java) 
+- Navíc si stáhněte balíček API ze sekce [Stahování](https://releases.aspose.com/cells/python-java) 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -27,7 +27,7 @@ otherformats: MARKDOWN SXC EXCEL XLAM FODS XLT ODS CSV TSV XLS XLTM XLSX MHTML D
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
 為了將 PPSM 轉換為 XLTX，您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)並在您的應用程序中安裝庫。
 
-或者，您可以從 [下載](https://downloads.aspose.com/total/androidjava) 獲取 ZIP 文件。
+或者，您可以從 [下載](https://releases.aspose.com/total/androidjava) 獲取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -27,7 +27,7 @@ otherformats: XLSM XLSB SXC FODS XLSX XLT XLAM TSV EXCEL XLTM XLTX XLS ODS DIF
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 명령줄에서 ```nuget install Aspose.Total```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.Total```로 설치합니다.
 
-또는 [downloads](https://downloads.aspose.com/total/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+또는 [downloads](https://releases.aspose.com/total/net)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

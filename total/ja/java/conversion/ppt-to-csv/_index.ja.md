@@ -24,7 +24,7 @@ otherformats: MARKDOWN XLSB XLAM SXC TSV XLTX XLSX FODS XLT XLTM ODS MHTML EXCEL
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 PPTをCSVに変換するには、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/)から直接Aspose.TotalforJavaを簡単に使用できます。 aspose / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード](https://downloads.aspose.com/total/java)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

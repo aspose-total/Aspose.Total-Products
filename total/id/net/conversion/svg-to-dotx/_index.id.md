@@ -27,7 +27,7 @@ otherformats: DOTM PS FLATOPC WORDML DOT MARKDOWN PCL XAMLFLOW MHTML ODT DOTX RT
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
 Instal dari baris perintah sebagai ```nuget install Aspose.Total``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Total```.
 
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://downloads.aspose.com/total/net).
+Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

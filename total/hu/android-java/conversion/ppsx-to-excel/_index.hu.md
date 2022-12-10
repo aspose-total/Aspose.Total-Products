@@ -27,7 +27,7 @@ Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A PPSX EXCEL formátumba konvertálásához egyszerűen használhatja az Aspose.Total for Android alkalmazást Java-n keresztül közvetlenül a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) webhelyről, és telepítse a könyvtárakat az alkalmazásba.
 
-Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/androidjava) webhelyről.
+Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/androidjava) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

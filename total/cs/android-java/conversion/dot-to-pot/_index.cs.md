@@ -28,7 +28,7 @@ Jste vývojář Android a chcete do své aplikace přidat funkci převodu dokume
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Pro konverzi souborů DOT na POT můžete snadno použít Aspose.Total pro Android přes Javu přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a nainstalujte si knihovny do své aplikace.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/total/androidjava).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

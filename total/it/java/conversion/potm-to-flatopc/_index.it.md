@@ -24,7 +24,7 @@ otherformats: DOT TEXT ODT FLATOPCM WORDML WORD DOTX FLATOPCX OTT DOTM FLATOPC R
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
 Per la conversione di file da POTM a FLATOPC, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includi le librerie nel tuo pom.xml.
 
-In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/total/java).
+In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

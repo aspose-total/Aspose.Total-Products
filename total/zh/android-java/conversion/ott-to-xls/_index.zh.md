@@ -27,7 +27,7 @@ otherformats: XLSX SXC XLTX EXCEL XLTM XLSB TSV XLSM XLT DIF XLAM FODS CSV ODS
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)通过 Java 轻松使用 Aspose.Total for Android 和通过 Java 安装 [Aspose.Cells for Android](https://otts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) 和 [Aspose.Words for Android via Java](https://otts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository)在您的应用程序中。
 
-或者，您可以从 [下载](https://downloads.aspose.com/total/androidjava) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/total/androidjava) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

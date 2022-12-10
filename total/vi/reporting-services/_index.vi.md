@@ -6,11 +6,11 @@ description: SQL Server Reporting Services Rendering Phần mở rộng cho các
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Tiện ích mở rộng dịch vụ báo cáo để cung cấp báo cáo trong định dạng Office" h2="Xuất báo cáo RDL và RDLC sang các định dạng Word, Excel, PDF & PowerPoint và Thêm mã vạch vào tài liệu đã xuất." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tiện ích mở rộng dịch vụ báo cáo để cung cấp báo cáo trong định dạng Office" h2="Xuất báo cáo RDL và RDLC sang các định dạng Word, Excel, PDF & PowerPoint và Thêm mã vạch vào tài liệu đã xuất." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Reporting Services là một bộ Tiện ích mở rộng Kết xuất cho Dịch vụ Báo cáo Máy chủ SQL của Microsoft, cho phép các nhà phát triển dễ dàng xuất báo cáo RDL sang các định dạng tài liệu Word, Excel, PowerPoint và PDF. Bạn cũng có thể nâng cao quy trình làm việc bằng cách thêm mã vạch vào các tài liệu đã xuất.
@@ -239,7 +239,7 @@ Aspose.BarCode for Reporting Services là giải pháp toàn diện nhất để
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/total/reporting-services" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 

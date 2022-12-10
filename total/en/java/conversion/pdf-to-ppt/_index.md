@@ -27,7 +27,7 @@ Using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can e
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Format APIs" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) based project and include [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) and [Aspose.Slides for Java](https://docs.aspose.com/slides/java/installation/) in your pom.xml.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/java).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

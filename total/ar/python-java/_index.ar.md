@@ -160,7 +160,7 @@ Aspose.Total for Python عبر Java هو مجموعة كاملة لمطوري Py
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ايغور كلافكي | W3K Tecnologia ، البرازيل" >}}
 أثناء التنفيذ ، يمكننا أن نشعر أننا لم نتطرق إلا لجزء بسيط مما يمكن لـ Aspose.Total قادر على القيام به. تمنح سهولة استخدام واجهة برمجة التطبيقات المطورين الرضا عن "إنجاز العمل" من خلال رمز بسيط ونظيف ، كما أن قوة المنتج النهائي تجعل عملائنا سعداء.
 {{< /blocks/products/pf/testimonials-quote >}}

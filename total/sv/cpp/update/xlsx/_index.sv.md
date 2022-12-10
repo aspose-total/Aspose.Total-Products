@@ -30,7 +30,7 @@ För en programmerare som försöker uppdatera XLSX-filer i C++-applikationen, [
 - För XLSX-modifiering, följ [Systemkrav](https://docs.aspose.com/cells/cpp/system-requirements/) för Windows- och Linux-system 
 - Installera från kommandoraden som ```nuget install Aspose.Total.Cpp```
 - Eller via Package Manager-konsolen i Visual Studio med ```Install-Package Aspose.Total.Cpp```
-- Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/cells/cpp)
+- Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [Nedladdningar](https://releases.aspose.comcells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

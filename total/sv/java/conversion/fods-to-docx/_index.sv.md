@@ -24,7 +24,7 @@ Att rendera FODS till DOCX är en process i två steg. Du använder först [Aspo
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du måste använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/java).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

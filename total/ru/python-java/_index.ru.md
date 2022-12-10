@@ -159,7 +159,7 @@ Aspose.Total для Python через Java — это полный набор д
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об API Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об API Aspose.Total." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Игорь Клафке | W3K Технология, Бразилия" >}}
 Во время нашей реализации мы могли почувствовать, что коснулись лишь части того, на что способен Aspose.Total. Простота использования API дает разработчикам удовлетворение от «выполнения работы» с помощью простого и чистого кода, а надежность конечного продукта радует наших клиентов.
 {{< /blocks/products/pf/testimonials-quote >}}

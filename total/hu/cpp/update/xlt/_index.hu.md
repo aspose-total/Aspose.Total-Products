@@ -30,7 +30,7 @@ Programozónak, aki C++ alkalmazáson belül próbálja frissíteni a XLT fájlo
 - A XLT módosításához kövesse a [rendszerkövetelmények](https://docs.aspose.com/cells/cpp/system-requirements/)-ot Windows és Linux rendszerekhez 
 - Telepítés parancssorból ```nuget install Aspose.Total.Cpp``` néven
 - Vagy a Visual Studio csomagkezelő konzolján keresztül az ```Install-Package Aspose.Total.Cpp``` segítségével
-- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [Letöltések](https://downloads.aspose.com/cells/cpp)-től
+- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [Letöltések](https://releases.aspose.com/cells/cpp)-től
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -65,7 +65,7 @@ PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Words에 대한 사용자의 평가를 확인하세요." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. Aspose.Words에 대한 사용자의 평가를 확인하세요." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

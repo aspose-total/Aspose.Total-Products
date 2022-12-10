@@ -6,11 +6,11 @@ description: Kumpulan API untuk pengembang Java untuk memanipulasi file dari Wor
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Buat, Edit & Konversi File melalui Java API" h2="Memanipulasi Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD, dan format dokumen lainnya dari aplikasi Java Anda sendiri." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Buat, Edit & Konversi File melalui Java API" h2="Memanipulasi Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD, dan format dokumen lainnya dari aplikasi Java Anda sendiri." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total untuk Java adalah kumpulan perpustakaan Otomasi Format File untuk pengembang Java, memberdayakan mereka untuk membuat, memperbarui, mencetak, merender, dan mengonversi antara beberapa format file dari dalam aplikasi Java J2SE, J2EE, J2ME.
@@ -254,7 +254,7 @@ Aspose.TeX untuk Java adalah API pengaturan huruf file TeX. Itu dapat dengan mud
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasil" >}}
 Selama implementasi kami, kami dapat merasakan bahwa kami hanya menyentuh sebagian kecil dari kemampuan Aspose.Total. Kemudahan penggunaan API memberikan kepuasan kepada pengembang untuk "menyelesaikan pekerjaan" dengan kode yang sederhana dan bersih, dan kekokohan produk akhir membuat pelanggan kami senang.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -291,7 +291,7 @@ Aspose.Total adalah rangkaian yang kuat untuk memproses hampir semua jenis dokum
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total menawarkan solusi individual untuk platform lain." >}}
 

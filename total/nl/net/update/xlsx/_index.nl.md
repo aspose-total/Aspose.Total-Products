@@ -31,7 +31,7 @@ Voor een ontwikkelaar, wie probeert XLSX-bestanden bij te werken via de .NET-toe
 - Voor XLSX-modificatie, Microsoft Windows of een compatibel besturingssysteem met .NET-, .NET Core-, Mono- of Xamarin-platforms
 - Ontwikkelomgeving zoals Microsoft Visual Studio 
 - Installeer vanaf de opdrachtregel als ```nuget install Aspose.Cells``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Cells```
-- U kunt ook het offline MSI-installatieprogramma of alle DLL's in een ZIP-bestand van [Downloads](https://downloads.aspose.com/cells/net) downloaden
+- U kunt ook het offline MSI-installatieprogramma of alle DLL's in een ZIP-bestand van [Downloads](https://releases.aspose.com/cells/net) downloaden
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

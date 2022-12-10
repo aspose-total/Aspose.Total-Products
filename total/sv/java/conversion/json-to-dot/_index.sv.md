@@ -24,7 +24,7 @@ Genom att använda [Aspose.Total for Java](https://products.aspose.com/total/jav
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/java).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

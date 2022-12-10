@@ -27,7 +27,7 @@ Você pode converter facilmente o arquivo POWERPOINT para EXCEL em seus aplicati
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Para converter POWERPOINT para EXCEL, você pode facilmente usar o Aspose.Total for Android via Java diretamente do [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e instale bibliotecas em seu aplicativo.
 
-Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/androidjava).
+Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

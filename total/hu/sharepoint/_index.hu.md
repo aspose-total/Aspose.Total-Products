@@ -6,11 +6,11 @@ description: SharePoint fájlformátum-alkalmazások Word Excel PDF PowerPoint e
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="SharePoint alkalmazások fájlok kezeléséhez" h2="Könnyen konvertálhat és kombinálhat Word, Excel, PowerPoint, PDF, Outlook és sok más formátumot a Microsoft SharePoint alkalmazásokban." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="SharePoint alkalmazások fájlok kezeléséhez" h2="Könnyen konvertálhat és kombinálhat Word, Excel, PowerPoint, PDF, Outlook és sok más formátumot a Microsoft SharePoint alkalmazásokban." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for SharePoint az Aspose által kínált egyes SharePoint-alkalmazások kombinációja. A fejlesztők számára lehetővé teszi a dokumentumok egyszerű konvertálását és kombinálását a Microsoft SharePointból, és támogatja a többféle dokumentumformátumot nagy pontosságú konvertálással.
@@ -130,7 +130,7 @@ Az Aspose.BarCode for SharePoint egyedülálló és robusztus alkalmazást kín�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/total/sharepoint" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 

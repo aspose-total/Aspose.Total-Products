@@ -173,7 +173,7 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Total API के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि Aspose.Total API के बारे में उपयोगकर्ताओं का क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="इगोर क्लाफके | W3K टेक्नोलोजिया, ब्राज़ील" >}}
 हमारे कार्यान्वयन के दौरान, हम महसूस कर सकते थे कि हमने Aspose के केवल एक अंश को छुआ है। कुल सक्षम है। एपीआई के उपयोग में आसानी डेवलपर्स को अपने सरल और साफ कोड के साथ "काम पूरा करने" के लिए संतुष्टि देती है, और अंतिम उत्पाद की मजबूती हमारे ग्राहकों को खुश करती है।
 {{< /blocks/products/pf/testimonials-quote >}}

@@ -30,7 +30,7 @@ För en utvecklare, vem försöker skapa XLSM-filer via Python-applikationen? [A
 
 - För XLSM-generering, referera API:er inom projektet direkt från PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - Eller använd följande pip-kommando ```pip install aspose.cells``` 
-- Dessutom ladda ner API-paketet från [downloads](https://downloads.aspose.com/cells/python-java)-sektionen 
+- Dessutom ladda ner API-paketet från [downloads](https://releases.aspose.comcells/python-java)-sektionen 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

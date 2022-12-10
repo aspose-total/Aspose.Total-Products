@@ -27,7 +27,7 @@ otherformats: SVG TIFF FLATOPC XPS GIF MD EMF RTF ODT PS WORDML DOTM DOCM BMP JP
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Installera från kommandoraden som ```nuget install Aspose.Total.Cpp``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Total.Cpp```.
 
-Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/total/cpp).
+Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.comtotal/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

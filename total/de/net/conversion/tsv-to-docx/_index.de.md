@@ -26,7 +26,7 @@ otherformats: PPTX WORD POWERPOINT DOC
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
 Installieren Sie von der Befehlszeile als ```nuget install Aspose.Total``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Total```.
 
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/total/net) herunterladen.
+Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/total/net) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C#-Code für die Konvertierung von TSV in DOCX" gistPath="" %}}

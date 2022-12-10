@@ -27,7 +27,7 @@ JSON můžete převést na OTP v jakékoli aplikaci C++ ve dvou jednoduchých kr
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}
 Nainstalujte pomocí konzoly Package Manager Console sady Visual Studio pomocí ```Install-Package Aspose.Total.Cpp```.
 
-Případně si můžete stáhnout offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/cpp).
+Případně si můžete stáhnout offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.comtotal/cpp).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

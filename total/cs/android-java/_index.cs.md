@@ -6,11 +6,11 @@ description: Android File Format API pro Word Excel PDF PowerPoint a e-maily. Pr
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Android API pro manipulaci s formáty souborů v mobilních aplikacích" h2="Manipulujte s Wordem, Excelem, PowerPointem, PDF, Outlookem a mnoha dalšími formáty dokumentů v mobilních aplikacích bez instalace jakéhokoli softwaru." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android API pro manipulaci s formáty souborů v mobilních aplikacích" h2="Manipulujte s Wordem, Excelem, PowerPointem, PDF, Outlookem a mnoha dalšími formáty dokumentů v mobilních aplikacích bez instalace jakéhokoli softwaru." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.comtotal/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.comtotal/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Android via Java je kompilací všech Android API nabízených Aspose. Vývojáři mohou vytvářet, manipulovat, vykreslovat a převádět mezi různými formáty dokumentů v rámci aplikací pro Android.
@@ -139,7 +139,7 @@ Aspose.BarCode for Android via Java je sada čárových kódů API pro generová
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Během naší implementace jsme cítili, že jsme se dotkli jen zlomku toho, čeho je Aspose.Total schopen. Snadné použití API poskytuje vývojářům uspokojení z toho, že „udělají práci“ s jeho jednoduchým a čistým kódem, a robustnost koncového produktu dělá naše zákazníky šťastnými.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -176,7 +176,7 @@ Aspose.Total je výkonná sada pro zpracování téměř všech druhů dokument�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.comtotal/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total nabízí individuální řešení pro jiné platformy." >}}
 

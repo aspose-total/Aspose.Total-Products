@@ -31,7 +31,7 @@ Dla programisty, który próbuje aktualizować pliki TSV za pomocą aplikacji .N
 - Do modyfikacji TSV, Microsoft Windows lub kompatybilny system operacyjny z platformami .NET, .NET Core, Mono lub Xamarin
 - Środowisko programistyczne, takie jak Microsoft Visual Studio 
 - Zainstaluj z wiersza poleceń jako ```nuget install Aspose.Cells``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Cells```
-- Alternatywnie, pobierz instalator MSI offline lub wszystkie biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://downloads.aspose.com/cells/net)
+- Alternatywnie, pobierz instalator MSI offline lub wszystkie biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://releases.aspose.comcells/net)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

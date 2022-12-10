@@ -28,7 +28,7 @@ otherformats: ODP POT POTM PPTM PPSM PPS POWERPOINT POTX PPSX PPTX
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 DOCXからPPTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)そしてアプリにライブラリをインストールします。
 
-または、[ダウンロード](https://downloads.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

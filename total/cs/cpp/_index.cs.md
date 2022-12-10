@@ -6,11 +6,11 @@ description: Knihovny C++ čtou, vykreslují a převádějí různé formáty do
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API pro formáty souborů Microsoft Office, PDF a čárové kódy" h2="Vyvíjejte nativní aplikace C++ pro manipulaci s formáty Microsoft Project, Excel, Word, PowerPoint, Outlook a PDF. Generátor čárových kódů a čtečka také součástí dodávky!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API pro formáty souborů Microsoft Office, PDF a čárové kódy" h2="Vyvíjejte nativní aplikace C++ pro manipulaci s formáty Microsoft Project, Excel, Word, PowerPoint, Outlook a PDF. Generátor čárových kódů a čtečka také součástí dodávky!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.comtotal/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.comtotal/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ je kompletní balíček knihoven pro automatizaci formátů souborů C++ speciálně navržených pro vytváření, manipulaci a konverzi oblíbených formátů z Microsoft Office a PDF bez nutnosti Office nebo Adobe Automation. Balíček C++ API také obsahuje specializovanou knihovnu pro generování a rozpoznávání štítků s čárovými kódy z obrázků s pokročilými funkcemi pro přizpůsobení procesu generování a rozpoznávání čárových kódů.
@@ -184,7 +184,7 @@ Aspose.TeX for C++ je tex integrační a manažerské API pro práci s tex soubo
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://releases.aspose.comcorporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Švýcarsko" >}}
 Dobře zdokumentovaný návod k použití a robustnost komponent Aspose.Total vedly k přímé integraci do DOCO. To nám pomohlo zkrátit dobu vývoje více, než se očekávalo.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -221,7 +221,7 @@ Implementace byla přímočará, opravdu se soustředíme na naši architekturu 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.comtotal/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total nabízí individuální řešení pro jiné platformy." >}}
 

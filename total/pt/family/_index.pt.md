@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint Email PDF Projeto Visio Código de 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Conjunto completo de APIs de manipulação de formato de arquivo" h2="Manipule Word, Excel, PDF, PowerPoint, Outlook e mais de 100 outros formatos de arquivo usando nossas APIs nativas para .NET, Java, Android, C++ e outras plataformas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://downloads.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Conjunto completo de APIs de manipulação de formato de arquivo" h2="Manipule Word, Excel, PDF, PowerPoint, Outlook e mais de 100 outros formatos de arquivo usando nossas APIs nativas para .NET, Java, Android, C++ e outras plataformas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="A família de produtos Aspose.Total inclui" >}}
@@ -63,6 +63,6 @@ Exporte relatórios para Word, Excel, PowerPoint e outros formatos do JasperRepo
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total" pricingInformationLink="https://purchase.aspose.com/pricing/total" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,7 @@ Aspose.Cells Cloud APIs स्प्रेडशीट मैनिपुले�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose.Words के बारे में क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose.Words के बारे में क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

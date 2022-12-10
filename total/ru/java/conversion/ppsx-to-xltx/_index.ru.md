@@ -24,7 +24,7 @@ otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EX
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Чтобы преобразовать PPSX в XLTX, вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/ проект на основе aspose/aspose-total) и включите библиотеки в ваш pom.xml.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/java).
+Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

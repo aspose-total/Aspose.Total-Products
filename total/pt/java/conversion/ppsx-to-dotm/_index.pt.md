@@ -24,7 +24,7 @@ otherformats: DOT OTT WORDML TEXT DOTX RTF WORD DOTM DOTMM DOTMX ODT FLATOPC
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
 Para conversão de arquivos PPSX para DOTM, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.
 
-Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/total/java).
+Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

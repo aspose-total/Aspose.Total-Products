@@ -6,11 +6,11 @@ description: API de formato de archivo de Android para Word Excel PDF PowerPoint
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de Android para manipular formatos de archivo en aplicaciones móviles" h2="Manipule Word, Excel, PowerPoint, PDF, Outlook y muchos otros formatos de documentos en aplicaciones móviles sin instalar ningún software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de Android para manipular formatos de archivo en aplicaciones móviles" h2="Manipule Word, Excel, PowerPoint, PDF, Outlook y muchos otros formatos de documentos en aplicaciones móviles sin instalar ningún software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Android via Java es una compilación de todas las API de Android que ofrece Aspose. Los desarrolladores pueden crear, manipular, renderizar y convertir entre diferentes formatos de documentos dentro de las aplicaciones de Android.
@@ -139,7 +139,7 @@ Aspose.BarCode for Android via Java es un conjunto de API de código de barras p
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Lo que la gente esta diciendo" subTitle="No se fíe sólo de nuestra palabra. Vea lo que los usuarios tienen que decir sobre las API de Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Lo que la gente esta diciendo" subTitle="No se fíe sólo de nuestra palabra. Vea lo que los usuarios tienen que decir sobre las API de Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
 Durante nuestra implementación, pudimos sentir que tocamos solo una fracción de lo que Aspose.Total es capaz de hacer. La facilidad de uso de la API brinda satisfacción a los desarrolladores por "realizar el trabajo" con su código simple y limpio, y la solidez del producto final hace felices a nuestros clientes.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -176,7 +176,7 @@ Aspose.Total es una poderosa suite para procesar casi todo tipo de documentos a 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/total/android-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total ofrece soluciones individuales para otras plataformas." >}}
 

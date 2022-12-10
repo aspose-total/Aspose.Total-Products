@@ -30,7 +30,7 @@ Python アプリケーションを介して ODS ファイルを作成しよう�
 
 - ODS 生成の場合、プロジェクト内の API を PyPI から直接参照 ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
 - または、次の pip コマンド ```pip install aspose.cells`` を使用します。` 
-- さらに、[downloads](https://downloads.aspose.com/cells/python-java) セクションから API パッケージをダウンロードします。 
+- さらに、[downloads](https://releases.aspose.com/cells/python-java) セクションから API パッケージをダウンロードします。 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -28,7 +28,7 @@ otherformats: POTX PPTM POTM PPTX PPS PPT ODP POWERPOINT PPSX POT
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
 A DOTM- és PPSM-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) -től , és telepítse a könyvtárakat az alkalmazásba.
 
-Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://downloads.aspose.com/total/androidjava) webhelyről.
+Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/androidjava) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

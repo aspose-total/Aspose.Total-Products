@@ -24,7 +24,7 @@ otherformats: DOCX FLATOPC TEXT DOTM MD DOTX SVG TIFF PS ODT EPUB WORDML PNG PCL
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您必须直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 的项目中使用 Aspose.Total for Java并在您的 pom.xml 中包含库。
 
-或者，您可以从 [下载](https://downloads.aspose.com/total/java) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

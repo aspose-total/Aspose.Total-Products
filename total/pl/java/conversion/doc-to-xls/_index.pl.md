@@ -24,7 +24,7 @@ Konwersja DOC do XLS za pomocą [Aspose.Total for Java](https://products.aspose.
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
 Możesz łatwo użyć Aspose.Total for Java bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) i [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) w pliku pom.xml.
 
-Możesz też pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/total/java).
+Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

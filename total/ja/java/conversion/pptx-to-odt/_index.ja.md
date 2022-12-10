@@ -24,7 +24,7 @@ otherformats: ODTX OTT TEXT ODT DOT DOTX ODTM WORD FLATOPC WORDML RTF DOTM
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 PPTXからODTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード](https://downloads.aspose.com/total/java)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -32,7 +32,7 @@ outformat: Image
 
 - छवियों (जेपीजी, पीएनजी, जीआईएफ, बीएमपी, टीआईएफएफ) रूपांतरण के लिए बीएमपी 1 के लिए, परियोजना के भीतर संदर्भ एपीआई सीधे पीईपीआई ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) से
 - या निम्न पाइप कमांड का उपयोग करें ```पाइप स्थापित aspose.cells``` 
-- इसके अलावा, [डाउनलोड](https://downloads.aspose.com/cells/python-java) अनुभाग से API पैकेज डाउनलोड करें 
+- इसके अलावा, [डाउनलोड](https://releases.aspose.com/cells/python-java) अनुभाग से API पैकेज डाउनलोड करें 
  
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

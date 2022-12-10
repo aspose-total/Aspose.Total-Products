@@ -27,7 +27,7 @@ otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM C
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
 Чтобы преобразовать POWERPOINT в XLSB, вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com). /aspose/aspose-total) и установите библиотеки в свое приложение.
 
-Кроме того, вы можете получить ZIP-файл из [загрузки](https://downloads.aspose.com/total/androidjava).
+Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

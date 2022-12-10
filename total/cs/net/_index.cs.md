@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API pro vytvoření manipulace, převod a vykresl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní API pro manipulaci s formátem souborů .NET" h2="Manipulujte s Wordem, Excelem, PDF, PowerPointem, Outlookem a více než 100 dalšími formáty souborů z aplikací .NET bez jakékoli softwarové závislosti." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní API pro manipulaci s formátem souborů .NET" h2="Manipulujte s Wordem, Excelem, PDF, PowerPointem, Outlookem a více než 100 dalšími formáty souborů z aplikací .NET bez jakékoli softwarové závislosti." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for .NET je nejúplnější balíček ze všech rozhraní API pro automatizaci formátu souborů .NET nabízených Aspose. Umožňuje vývojářům vytvářet, upravovat, vykreslovat, tisknout a převádět mezi nejoblíbenějšími formáty souborů v rámci libovolných aplikací .NET, C#, ASP.NET a VB.NET.
@@ -260,7 +260,7 @@ Aspose.TeX for .NET je API pro sázení souborů TeX. Může snadno vysázet sou
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co lidé říkají" subTitle="Neberte nás za slovo. Podívejte se, co uživatelé říkají o Aspose.Total API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Švýcarsko" >}}
 Dobře zdokumentovaný návod k použití a robustnost komponent Aspose.Total vedly k přímé integraci do DOCO. To nám pomohlo zkrátit dobu vývoje více, než se očekávalo.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ Implementace byla přímočará, opravdu se soustředíme na naši architekturu 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total nabízí individuální řešení pro jiné platformy." >}}
 

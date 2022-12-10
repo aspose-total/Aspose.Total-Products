@@ -27,7 +27,7 @@ otherformats: PDF EMF DOTM EPUB JPEG MD DOC RTF ODT PNG TEXT BMP DOTX DOT DOCM S
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 コマンドラインから```nuget install Aspose.Total.Cpp```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Total.Cpp```を使用してインストールします。
 
-または、[ダウンロード](https://downloads.aspose.com/total/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
+または、[ダウンロード](https://releases.aspose.com/total/cpp)からオフラインMSIインストーラーまたはDLLをZIPファイルで取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

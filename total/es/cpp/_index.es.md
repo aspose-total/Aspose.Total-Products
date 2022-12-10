@@ -6,11 +6,11 @@ description: Las bibliotecas de C++ leen, escriben, procesan y convierten múlti
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de C++ para formatos de archivo de Microsoft Office, PDF y código de barras" h2="Desarrolle aplicaciones C++ nativas para manipular los formatos de Microsoft Project, Excel, Word, PowerPoint, Outlook y PDF. ¡Generador y lector de códigos de barras también incluidos!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de C++ para formatos de archivo de Microsoft Office, PDF y código de barras" h2="Desarrolle aplicaciones C++ nativas para manipular los formatos de Microsoft Project, Excel, Word, PowerPoint, Outlook y PDF. ¡Generador y lector de códigos de barras también incluidos!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ es un paquete completo de bibliotecas de automatización de formato de archivo C++ diseñado específicamente para crear, manipular y convertir formatos populares de Microsoft Office y PDF sin necesidad de Office o Adobe Automation. El paquete API de C++ también incluye una biblioteca especializada para generar y reconocer etiquetas de códigos de barras a partir de imágenes con funciones avanzadas para personalizar el proceso de generación y reconocimiento de códigos de barras.
@@ -184,7 +184,7 @@ Aspose.TeX for C++ es una API de administración e integración de tex para trab
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Lo que la gente esta diciendo" subTitle="No se fíe sólo de nuestra palabra. Vea lo que los usuarios tienen que decir sobre las API de Aspose.Total." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Lo que la gente esta diciendo" subTitle="No se fíe sólo de nuestra palabra. Vea lo que los usuarios tienen que decir sobre las API de Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Suiza" >}}
 El manual de instrucciones bien documentado y la solidez de los componentes de Aspose.Total condujeron a una integración sencilla en DOCO. Esto nos ayudó a reducir el tiempo de desarrollo más de lo previsto.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -221,7 +221,7 @@ La implementación fue sencilla, realmente nos enfocamos en nuestra arquitectura
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/total/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total ofrece soluciones individuales para otras plataformas." >}}
 

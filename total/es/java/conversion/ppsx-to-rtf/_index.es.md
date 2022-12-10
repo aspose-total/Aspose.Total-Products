@@ -24,7 +24,7 @@ otherformats: DOTX RTF RTFM FLATOPC WORD ODT TEXT WORDML DOTM DOT RTFX OTT
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
 Para la conversión de archivos PPSX a RTF, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
 
-Alternativamente, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/total/java).
+Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

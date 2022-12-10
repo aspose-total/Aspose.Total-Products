@@ -27,7 +27,7 @@ otherformats: PS PCL XAMLFLOW MHTML FLATOPC WORDML ODT DOT RTF OTT DOTX DOTM
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
 Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
 
-Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/total/net).
+Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

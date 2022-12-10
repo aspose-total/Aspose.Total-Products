@@ -27,7 +27,7 @@ otherformats: CSV FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 POWERPOINTをSXCに変換するには、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com)から直接Java経由でAspose.TotalforAndroidを簡単に使用できます。 / aspose / aspose-total)そしてアプリにライブラリをインストールします。
 
-または、[ダウンロード](https://downloads.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

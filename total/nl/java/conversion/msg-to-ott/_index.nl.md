@@ -24,7 +24,7 @@ E-mailconversie is een krachtige functie die Java-ontwikkelaars kunnen integrere
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
 U moet Aspose.Total voor Java rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en neem bibliotheken op in uw po.xml.
 
-U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/total/java).
+U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 ```cs

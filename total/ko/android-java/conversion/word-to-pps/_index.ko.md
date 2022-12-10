@@ -28,7 +28,7 @@ otherformats: ODP PPT PPTM POTM POT PPSM POWERPOINT POTX PPTX PPSX
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 WORD에서 PPS로 파일 변환을 위해 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 및 앱에 라이브러리를 설치합니다.
 
-또는 [다운로드](https://downloads.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
+또는 [다운로드](https://releases.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET API's om elk type document te manipuleren en te c
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API's voor manipulatie van .NET-bestandsindelingen" h2="Bewerk Word, Excel, PDF, PowerPoint, Outlook en meer dan 100 andere bestandsindelingen vanuit .NET-applicaties, zonder enige softwareafhankelijkheid." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API's voor manipulatie van .NET-bestandsindelingen" h2="Bewerk Word, Excel, PDF, PowerPoint, Outlook en meer dan 100 andere bestandsindelingen vanuit .NET-applicaties, zonder enige softwareafhankelijkheid." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://downloads.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/net/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Total/" nugetPackageName="Aspose.Total" directDownloadLink="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total voor .NET is het meest complete pakket van alle .NET File Format Automation API's die door Aspose worden aangeboden. Het stelt ontwikkelaars in staat om te creëren, bewerken, renderen, printen en converteren tussen de meest populaire bestandsformaten binnen alle .NET, C#, ASP.NET en VB.NET applicaties.
@@ -260,7 +260,7 @@ Aspose.TeX voor .NET is een API voor het zetten van TeX-bestanden. Het kan gemak
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Total API's." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose.Total API's." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Stefan Studer | Nowhow Solutions AG, Zwitserland" >}}
 De goed gedocumenteerde handleiding en de robuustheid van de Aspose.Total componenten leidden tot een eenvoudige integratie in DOCO. Dit heeft ons geholpen om de ontwikkeltijd meer te verkorten dan verwacht.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -297,7 +297,7 @@ De implementatie was rechttoe rechtaan, we focussen ons echt op onze architectuu
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/net" pricingInformationLink="https://purchase.aspose.com/pricing/total/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total biedt individuele oplossingen voor andere platformen." >}}
 

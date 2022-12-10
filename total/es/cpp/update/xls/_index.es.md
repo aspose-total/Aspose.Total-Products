@@ -30,7 +30,7 @@ Para un programador que intenta actualizar archivos XLS dentro de la aplicación
 - Para la modificación de XLS, siguiendo [Requisitos del sistema](https://docs.aspose.com/cells/cpp/system-requirements/) para sistemas Windows y Linux 
 - Instalar desde la línea de comandos como ```nuget install Aspose.Total.Cpp```
 - O a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total.Cpp```
-- Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [Descargas](https://downloads.aspose.com/cells/cpp)
+- Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [Descargas](https://releases.aspose.com/cells/cpp)
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

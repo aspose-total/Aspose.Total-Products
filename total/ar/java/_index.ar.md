@@ -6,11 +6,11 @@ description: مجموعة من واجهات برمجة التطبيقات لمط
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="إنشاء وتحرير وتحويل الملفات عبر Java APIs" h2="تعامل مع Word و Excel و PowerPoint و Outlook و PDF و 3D و CAD وتنسيقات المستندات الأخرى من تطبيقات Java الخاصة بك." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="إنشاء وتحرير وتحويل الملفات عبر Java APIs" h2="تعامل مع Word و Excel و PowerPoint و Outlook و PDF و 3D و CAD وتنسيقات المستندات الأخرى من تطبيقات Java الخاصة بك." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Java عبارة عن مجموعة من مكتبات أتمتة تنسيق الملفات لمطوري Java ، وتمكينهم من إنشاء وتحديث وطباعة وتقديم وتحويل بين تنسيقات ملفات متعددة من داخل أي تطبيقات Java J2SE و J2EE و J2ME.
@@ -256,7 +256,7 @@ Aspose.TeX for Java هو واجهة برمجة تطبيقات لتنضيد مل�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose.Total APIs." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="ايغور كلافكي | W3K Tecnologia ، البرازيل" >}}
 أثناء التنفيذ ، يمكننا أن نشعر أننا لم نتطرق إلا لجزء بسيط مما يمكن لـ Aspose.Total قادر على القيام به. تمنح سهولة استخدام واجهة برمجة التطبيقات المطورين الرضا عن "إنجاز العمل" من خلال رمز بسيط ونظيف ، كما أن قوة المنتج النهائي تجعل عملائنا سعداء.
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -293,7 +293,7 @@ Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أن�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/total/java" pricingInformationLink="https://purchase.aspose.com/pricing/total/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 

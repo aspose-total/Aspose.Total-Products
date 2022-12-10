@@ -24,7 +24,7 @@ Du kan konvertera PCL till PS genom att använda två enkla steg. Först måste 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
 Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera [Aspose.PDF för Java](https://docs.aspose.com/pdf/java/installation/) och [Aspose.Words för Java](https://docs.aspose.com/words/java/installation/) i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/total/java).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 

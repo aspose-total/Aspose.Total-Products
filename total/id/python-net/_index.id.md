@@ -173,7 +173,7 @@ API 3D Python yang dapat membuat, mengedit, atau mengonversi format file Discree
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Total API." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
 {{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasil" >}}
 Selama implementasi kami, kami dapat merasakan bahwa kami hanya menyentuh sebagian kecil dari kemampuan Aspose.Total. Kemudahan penggunaan API memberikan kepuasan kepada pengembang untuk "menyelesaikan pekerjaan" dengan kode yang sederhana dan bersih, dan kekokohan produk akhir membuat pelanggan kami senang.
 {{< /blocks/products/pf/testimonials-quote >}}

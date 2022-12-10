@@ -30,7 +30,7 @@ informat: XLT
 - XLT修改，Windows和Linux系統遵循[系統要求](https://docs.aspose.com/cells/cpp/system-requirements/) 
 - 從命令行安裝為```nuget install Aspose.Total.Cpp```
 - 或者通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Total.Cpp```
-- 或者，從 [下載](https://downloads.aspose.com/cells/cpp) 獲取 ZIP 文件中的脫機 MSI 安裝程序或 DLL
+- 或者，從 [下載](https://releases.aspose.com/cells/cpp) 獲取 ZIP 文件中的脫機 MSI 安裝程序或 DLL
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

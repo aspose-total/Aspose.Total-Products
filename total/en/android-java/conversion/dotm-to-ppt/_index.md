@@ -28,7 +28,7 @@ Are you an Android developer looking to add a document conversion feature to you
 {{% blocks/products/pf/agp/feature-section-col title="DOTM File Conversion in Android" %}}
 For DOTM to PPT file conversion, you can easily use Aspose.Total for Android via Java directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) and install libraries in your app.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/androidjava).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "bdc7f32134dcfd5fd6163ad4092b843f" "convert-doc-to-pptx.java" >}}

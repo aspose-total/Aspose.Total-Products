@@ -65,7 +65,7 @@ Bebas mengkonversi 100+ format ke dokumen lain secara online.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Words." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.words/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang Aspose.Words." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.words/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

@@ -27,7 +27,7 @@ otherformats: DOCX DOC WORD POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Android via Java APIs" %}}
 You can easily use Aspose.Total for Android via Java directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) and install [Aspose.PDF for Android via Java](https://docs.aspose.com/pdf/androidjava/installation/) and [Aspose.Cells for Android via Java](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-java-from-maven-repository) in your applications.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/total/androidjava).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/feature-page-code %}}

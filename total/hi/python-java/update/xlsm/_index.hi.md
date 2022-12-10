@@ -30,7 +30,7 @@ informat: XLSM
 
 - बीएमपी संशोधन के लिए, परियोजना के भीतर एपीआई को सीधे पीईपीआई ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) से संदर्भित करें।
 - या निम्न पाइप कमांड का उपयोग करें ```पाइप स्थापित aspose.cells``` 
-- इसके अलावा, [डाउनलोड](https://downloads.aspose.com/cells/python-java) सेक्शन से API पैकेज डाउनलोड करें
+- इसके अलावा, [डाउनलोड](https://releases.aspose.com/cells/python-java) सेक्शन से API पैकेज डाउनलोड करें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
