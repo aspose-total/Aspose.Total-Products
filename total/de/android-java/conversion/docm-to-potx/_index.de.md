@@ -26,7 +26,7 @@ Sind Sie ein Android-Entwickler und möchten Ihrer Anwendung eine Dokumentkonver
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Für die Konvertierung von DOCM- in POTX-Dateien können Sie Aspose.Total für Android einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und installieren Sie Bibliotheken in Ihrer App.
+Für die Konvertierung von DOCM- in POTX-Dateien können Sie Aspose.Total für Android einfach über Java direkt von [Maven](https://releases.aspose.com/total/java/) und installieren Sie Bibliotheken in Ihrer App.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.comtotal/androidjava) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}

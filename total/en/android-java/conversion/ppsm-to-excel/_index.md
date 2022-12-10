@@ -25,7 +25,7 @@ You can easily convert PPSM file to EXCEL in your Android applications in a two-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PPSM File Conversion in Android" %}}
-In order to convert PPSM to EXCEL, you can easily use Aspose.Total for Android via Java directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) and install libraries in your app.
+In order to convert PPSM to EXCEL, you can easily use Aspose.Total for Android via Java directly from [Maven](https://releases.aspose.com/total/java/) and install libraries in your app.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

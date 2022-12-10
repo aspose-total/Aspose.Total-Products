@@ -22,7 +22,7 @@ otherformats: SXC XLSB ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 4. Сохраните документ в формате XLSB с помощью [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) метод
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите [Aspose.Words для Java](https://words.aspose.com/words/java/installation/) и [Aspose.Cells для Java](https://words.aspose.com/cells/java/installation/) в вашем pom.xml.
+Вы можете легко использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://releases.aspose.com/total/java/). и включите [Aspose.Words для Java](https://words.aspose.com/words/java/installation/) и [Aspose.Cells для Java](https://words.aspose.com/cells/java/installation/) в вашем pom.xml.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

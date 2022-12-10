@@ -23,7 +23,7 @@ Często programiści muszą programowo przekonwertować plik DOTX na POTX. Korzy
 6. Zapisz dokument w POTX za pomocą metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Do konwersji plików DOTX na POTX można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
+Do konwersji plików DOTX na POTX można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://releases.aspose.com/total/java/) i dołącz biblioteki do swojego pom.xml.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -25,7 +25,7 @@ You can convert PPT file to SXC via [Aspose.Total for Java](https://products.asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="PPT to SXC Conversion in Java" %}}
-In order to convert PPT to SXC, you can easily use Aspose.Total for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) based project and include libraries in your pom.xml.
+In order to convert PPT to SXC, you can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -25,7 +25,7 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-POTM을 XLT로 변환하려면 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 및 앱에 라이브러리를 설치합니다.
+POTM을 XLT로 변환하려면 [Maven](https://releases.aspose.com/total/java/) 및 앱에 라이브러리를 설치합니다.
 
 또는 [다운로드](https://releases.aspose.com/total/androidjava)에서 ZIP 파일을 얻을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

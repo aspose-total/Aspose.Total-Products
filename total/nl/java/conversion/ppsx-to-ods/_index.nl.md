@@ -22,7 +22,7 @@ U kunt het PPSX-bestand in twee stappen converteren naar ODS via [Aspose.Total f
 4. Sla het document op in ODS-indeling met [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Om PPSX naar ODS te converteren, kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
+Om PPSX naar ODS te converteren, kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://releases.aspose.com/total/java/) gebaseerd project en neem bibliotheken op in uw pom.xml.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

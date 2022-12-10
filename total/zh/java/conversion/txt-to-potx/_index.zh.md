@@ -23,7 +23,7 @@ otherformats: PPSX PPT PPTX POTX PPTM PPSM POT POWERPOINT POTM PPS CSV DIF FODS 
 6. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 POTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-对于 TXT 到 POTX 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 基于项目并在 pom.xml 中包含库。
+对于 TXT 到 POTX 文件的转换，您可以直接从 [Maven](https://releases.aspose.com/total/java/) 基于项目并在 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

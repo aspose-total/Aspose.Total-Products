@@ -23,7 +23,7 @@ otherformats: PPTX POTX POWERPOINT PPSM POT PPS PPTM PPSX POTM PPT CSV DIF FODS 
 6. บันทึกเอกสารไปยัง ODP โดยใช้วิธีการ [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-สำหรับการแปลงไฟล์ ODT เป็น ODP คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
+สำหรับการแปลงไฟล์ ODT เป็น ODP คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://releases.aspose.com/total/java/) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}

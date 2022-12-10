@@ -25,7 +25,7 @@ otherformats: MARKDOWN XLSM EXCEL XLAM XLT CSV XLTX XLS DIF XLSX MHTML SXC TSV F
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-为了将 PPTX 转换为 XLSB，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)并在您的应用程序中安装库。
+为了将 PPTX 转换为 XLSB，您可以直接从 [Maven](https://releases.aspose.com/total/java/)并在您的应用程序中安装库。
 
 或者，您可以从 [下载](https://releases.aspose.com/total/androidjava) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

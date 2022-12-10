@@ -22,7 +22,7 @@ otherformats: WORD TEXT DOT WORDML DOTX OTT DOTX DOTM FLATOPC DOTM ODT RTF
 4. Mentse a dokumentumot DOT formátumba a [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) módszerrel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A POTM-ból DOT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
+A POTM-ból DOT-fájlba konvertálásához egyszerűen használhatja az Aspose.Total for Java-t közvetlenül a [Maven]-ből (https://releases.aspose.com/total/java/) alapú projektet, és vegyen fel könyvtárakat a pom.xml fájlba.
 
 Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ Att konvertera DOTM till DIF via [Aspose.Total for Java](https://products.aspose
 4. Spara dokumentet i DIF-format med [Spara](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metod
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera [Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/) och [Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/) i din pom.xml.
+Du kan enkelt använda Aspose.Total för Java direkt från ett [Maven](https://releases.aspose.com/total/java/) baserat projekt och inkludera [Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/) och [Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/) i din pom.xml.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

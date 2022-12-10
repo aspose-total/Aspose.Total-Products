@@ -22,7 +22,7 @@ Convertir DOTM a XLT a través de [Aspose.Total for Java](https://products.aspos
 4. Guarde el dotmumento en formato XLT mediante [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20int)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya [Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/) y [Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/) en su pom.xml.
+Puede usar fácilmente Aspose.Total para Java directamente desde un proyecto basado en [Maven](https://releases.aspose.com/total/java/) e incluya [Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/) y [Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/) en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

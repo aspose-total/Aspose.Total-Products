@@ -23,7 +23,7 @@ otherformats: POTM POWERPOINT PPSX PPTM PPTX POTX PPT POT PPSM PPS CSV DIF FODS 
 6. บันทึกเอกสารไปยัง POTM โดยใช้วิธีการ [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-สำหรับการแปลงไฟล์ TXT เป็น POTM คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
+สำหรับการแปลงไฟล์ TXT เป็น POTM คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://releases.aspose.com/total/java/) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/total/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ otherformats: DOTM RTF OTT DOTX FLATOPCM WORD ODT TEXT FLATOPCX DOT FLATOPC WORD
 4. Uložte dokument ve formátu FLATOPC pomocí metody [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Pro převod souborů POTX na FLATOPC můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
+Pro převod souborů POTX na FLATOPC můžete snadno použít Aspose.Total for Java přímo z [Maven](https://releases.aspose.com/total/java/) a zahrňte knihovny do vašeho pom.xml.
 
 Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

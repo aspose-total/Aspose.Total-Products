@@ -22,7 +22,7 @@ Soubor POTM můžete převést na ODS prostřednictvím [Aspose.Total for Java](
 4. Uložte dokument do formátu ODS pomocí [SaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metoda
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Chcete-li převést POTM na ODS, můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
+Chcete-li převést POTM na ODS, můžete snadno použít Aspose.Total for Java přímo z [Maven](https://releases.aspose.com/total/java/) a zahrňte knihovny do vašeho pom.xml.
 
 Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ otherformats: WORD FLATOPCX FLATOPCM DOTM OTT RTF FLATOPC TEXT DOT ODT DOTX WORD
 4. Zapisz dokument w formacie FLATOPC za pomocą metody [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Do konwersji plików PPTX do FLATOPC można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i dołącz biblioteki do swojego pom.xml.
+Do konwersji plików PPTX do FLATOPC można łatwo użyć Aspose.Total dla Java bezpośrednio z [Maven](https://releases.aspose.com/total/java/) i dołącz biblioteki do swojego pom.xml.
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

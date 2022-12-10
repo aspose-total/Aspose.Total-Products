@@ -26,7 +26,7 @@ otherformats: POWERPOINT PPT POTM PPSX PPTM ODP PPS POT PPTX PPSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Для преобразования файлов WORD в POTX вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установите библиотеки в свое приложение.
+Для преобразования файлов WORD в POTX вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://releases.aspose.com/total/java/) и установите библиотеки в свое приложение.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 4. दस्तावेज़ को [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) का उपयोग करके XLT प्रारूप में सहेजें। SaveOptions)) विधि
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [Aspose.Words for Java](https://rtfs.aspose.com/words/java/installation/) और [Aspose.Cells for Java](https://rtfs.aspose.com/cells/java/) शामिल करें स्थापना/) अपने pom.xml में।
+आप [Maven](https://releases.aspose.com/total/java/) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [Aspose.Words for Java](https://rtfs.aspose.com/words/java/installation/) और [Aspose.Cells for Java](https://rtfs.aspose.com/cells/java/) शामिल करें स्थापना/) अपने pom.xml में।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://releases.aspose.com/total/java) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}

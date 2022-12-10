@@ -26,7 +26,7 @@ otherformats: PPS ODP PPSX POT POWERPOINT PPTM PPTX POTM POTX PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-RTFからPPTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)そしてアプリにライブラリをインストールします。
+RTFからPPTファイルへの変換では、[Maven](https://releases.aspose.com/total/java/)そしてアプリにライブラリをインストールします。
 
 または、[ダウンロード](https://releases.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

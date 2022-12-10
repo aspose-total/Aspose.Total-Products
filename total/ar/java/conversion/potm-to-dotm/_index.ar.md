@@ -22,7 +22,7 @@ otherformats: WORD DOTX OTT DOTM RTF DOTMM TEXT DOTMX FLATOPC WORDML ODT DOT
 4. احفظ المستند بتنسيق DOTM باستخدام طريقة [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل ملف POTM إلى DOTM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
+لتحويل ملف POTM إلى DOTM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://releases.aspose.com/total/java/) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

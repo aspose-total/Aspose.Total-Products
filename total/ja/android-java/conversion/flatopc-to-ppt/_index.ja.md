@@ -26,7 +26,7 @@ otherformats: PPS PPTX POWERPOINT POTM ODP PPTM PPSM POTX POT PPSX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-FLATOPCからPPTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)そしてアプリにライブラリをインストールします。
+FLATOPCからPPTファイルへの変換では、[Maven](https://releases.aspose.com/total/java/)そしてアプリにライブラリをインストールします。
 
 または、[ダウンロード](https://releases.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -23,7 +23,7 @@ Muitas vezes, os desenvolvedores precisam converter o arquivo FLATOPC para PPT p
 6. Salve o flatopcumento no PPT usando o método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Para conversão de arquivos FLATOPC para PPT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.
+Para conversão de arquivos FLATOPC para PPT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://releases.aspose.com/total/java/) e inclua bibliotecas em seu pom.xml.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -25,7 +25,7 @@ Możesz łatwo przekonwertować plik PPTM na MARKDOWN w swoich aplikacjach na An
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Aby przekonwertować PPTM do MARKDOWN, możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) i zainstaluj biblioteki w swojej aplikacji.
+Aby przekonwertować PPTM do MARKDOWN, możesz łatwo użyć Aspose.Total for Android via Java bezpośrednio z [Maven](https://releases.aspose.com/total/java/)
 
 Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/total/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

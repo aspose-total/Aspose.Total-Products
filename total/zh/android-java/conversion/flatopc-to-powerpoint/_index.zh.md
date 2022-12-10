@@ -26,7 +26,7 @@ otherformats: PPT POT PPTX POTM POTX ODP PPSX PPS PPTM PPSM CSV DIF FODS ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-对于 FLATOPC 到 POWERPOINT 文件的转换，您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)并在您的应用程序中安装库。
+对于 FLATOPC 到 POWERPOINT 文件的转换，您可以直接从 [Maven](https://releases.aspose.com/total/java/)并在您的应用程序中安装库。
 
 或者，您可以从 [下载](https://releases.aspose.com/total/androidjava) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

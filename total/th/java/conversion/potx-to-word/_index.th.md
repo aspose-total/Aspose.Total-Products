@@ -22,7 +22,7 @@ otherformats: DOTX DOTM WORDML DOT ODT WORD TEXT RTF FLATOPC OTT WORDM WORDX
 4. บันทึกเอกสารในรูปแบบ WORD โดยใช้วิธีการ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-สำหรับการแปลงไฟล์ POTX เป็น WORD คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
+สำหรับการแปลงไฟล์ POTX เป็น WORD คุณสามารถใช้ Aspose.Total สำหรับ Java ได้โดยตรงจาก [Maven](https://releases.aspose.com/total/java/) ตามโครงการและรวมไลบรารีใน pom.xml ของคุณ
 
 หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.comtotal/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}

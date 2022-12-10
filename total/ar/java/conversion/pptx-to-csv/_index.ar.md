@@ -22,7 +22,7 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 4. احفظ المستند بتنسيق CSV باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل PPTX إلى CSV ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
+لتحويل PPTX إلى CSV ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://releases.aspose.com/total/java/) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

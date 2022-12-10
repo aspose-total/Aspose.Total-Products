@@ -25,7 +25,7 @@ Sie können die PPS-Datei in Ihren Android-Anwendungen in einem zweistufigen Pro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Um PPS in MHTML zu konvertieren, können Sie Aspose.Total für Android einfach über Java direkt von [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) und installieren Sie Bibliotheken in Ihrer App.
+Um PPS in MHTML zu konvertieren, können Sie Aspose.Total für Android einfach über Java direkt von [Maven](https://releases.aspose.com/total/java/) und installieren Sie Bibliotheken in Ihrer App.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.comtotal/androidjava) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}

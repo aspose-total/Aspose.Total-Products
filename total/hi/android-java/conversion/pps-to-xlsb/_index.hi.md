@@ -25,7 +25,7 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-PPS को XLSB में बदलने के लिए, आप आसानी से [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) और अपने ऐप में लाइब्रेरी इंस्टॉल करें।
+PPS को XLSB में बदलने के लिए, आप आसानी से [Maven](https://releases.aspose.com/total/java/) और अपने ऐप में लाइब्रेरी इंस्टॉल करें।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://releases.aspose.com/total/androidjava) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}

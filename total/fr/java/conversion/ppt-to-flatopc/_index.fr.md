@@ -22,7 +22,7 @@ otherformats: RTF FLATOPCM WORDML WORD ODT TEXT FLATOPC DOTX DOTM DOT OTT FLATOP
 4. Enregistrez le flatopcument au format FLATOPC à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Pour la conversion de fichiers PPT en FLATOPC, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.
+Pour la conversion de fichiers PPT en FLATOPC, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://releases.aspose.com/total/java/)
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

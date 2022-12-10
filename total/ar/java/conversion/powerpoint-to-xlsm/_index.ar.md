@@ -22,7 +22,7 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX XLSM
 4. احفظ المستند بتنسيق XLSM باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل POWERPOINT إلى XLSM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
+لتحويل POWERPOINT إلى XLSM ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://releases.aspose.com/total/java/) قائم على المشروع وقم بتضمين مكتبات في ملفك pom.xml.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

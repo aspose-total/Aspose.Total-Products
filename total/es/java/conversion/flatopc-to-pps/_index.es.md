@@ -23,7 +23,7 @@ A menudo, los desarrolladores tienen que convertir el archivo FLATOPC a PPS medi
 6. Guarde el flatopcumento en PPS usando el método [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos FLATOPC a PPS, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+Para la conversión de archivos FLATOPC a PPS, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://releases.aspose.com/total/java/) e incluya bibliotecas en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

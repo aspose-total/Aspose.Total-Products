@@ -25,7 +25,7 @@ otherformats: XLSB CSV SXC TSV MHTML EXCEL XLTM XLS XLSX XLSM FODS XLT MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
-為了將 PPTX 轉換為 XLAM，您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)並在您的應用程序中安裝庫。
+為了將 PPTX 轉換為 XLAM，您可以直接從 [Maven](https://releases.aspose.com/total/java/)並在您的應用程序中安裝庫。
 
 或者，您可以從 [下載](https://releases.aspose.com/total/androidjava) 獲取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

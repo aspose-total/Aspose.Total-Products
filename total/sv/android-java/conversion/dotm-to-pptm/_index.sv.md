@@ -26,7 +26,7 @@ otherformats: POT ODP PPSM PPSX PPT POTM PPTX POWERPOINT POTX PPS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För konvertering av DOTM till PPTM-fil kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+För konvertering av DOTM till PPTM-fil kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://releases.aspose.com/total/java/) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

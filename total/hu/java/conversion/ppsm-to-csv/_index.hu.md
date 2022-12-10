@@ -22,7 +22,7 @@ A PPSM-fájlt CSV-vé konvertálhatja az [Aspose.Total for Java](https://product
 4. Mentse a dokumentumot CSV formátumba a [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) segítségével. SaveOptions)) módszer
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A PPSM CSV-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java alkalmazást közvetlenül a [Maven]-ből (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) alapú projekt, és vegyen fel könyvtárakat a pom.xml fájlba.
+A PPSM CSV-vé konvertálásához egyszerűen használhatja az Aspose.Total for Java alkalmazást közvetlenül a [Maven]-ből (https://releases.aspose.com/total/java/) alapú projekt, és vegyen fel könyvtárakat a pom.xml fájlba.
 
 Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

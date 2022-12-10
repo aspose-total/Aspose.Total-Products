@@ -22,7 +22,7 @@ Het converteren van DOCM naar XLS via [Aspose.Total for Java](https://products.a
 4. Sla het documentop in XLS-indeling met [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project gebruiken en omvatten [Aspose.Words voor Java](https://docms.aspose.com/words/java/installation/) en [Aspose.Cells voor Java](https://docms.aspose.com/cells/java/ installatie/) in uw po.xml.
+U kunt Aspose.Total voor Java gemakkelijk rechtstreeks vanuit een op [Maven](https://releases.aspose.com/total/java/) gebaseerd project gebruiken en omvatten [Aspose.Words voor Java](https://docms.aspose.com/words/java/installation/) en [Aspose.Cells voor Java](https://docms.aspose.com/cells/java/ installatie/) in uw po.xml.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

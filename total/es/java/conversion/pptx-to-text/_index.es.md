@@ -22,7 +22,7 @@ otherformats: TEXTM TEXT WORDML TEXTX OTT DOTX DOT ODT FLATOPC WORD RTF DOTM
 4. Guarde el textumento en formato TEXT usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos PPTX a TEXT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+Para la conversión de archivos PPTX a TEXT, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://releases.aspose.com/total/java/) e incluya bibliotecas en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

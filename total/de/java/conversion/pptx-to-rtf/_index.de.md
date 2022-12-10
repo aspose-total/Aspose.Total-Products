@@ -22,7 +22,7 @@ otherformats: DOT TEXT DOTM WORD FLATOPC RTF RTFX RTFM ODT WORDML DOTX OTT
 4. Speichern Sie das Dokument im RTF-Format mit der Methode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Für die PPTX-zu-RTF-Dateikonvertierung können Sie Aspose.Total für Java direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
+Für die PPTX-zu-RTF-Dateikonvertierung können Sie Aspose.Total für Java direkt von einem [Maven](https://releases.aspose.com/total/java/)-basiertes Projekt und fügen Sie Bibliotheken in Ihre pom.xml ein.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.com/total/java) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}

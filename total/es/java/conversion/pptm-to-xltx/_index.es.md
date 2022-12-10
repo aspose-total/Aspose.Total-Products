@@ -22,7 +22,7 @@ Puede convertir un archivo PPTM a XLTX a través de [Aspose.Total for Java](http
 4. Guarde el documento en formato XLTX usando [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. GuardarOpciones)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para convertir PPTM a XLTX, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+Para convertir PPTM a XLTX, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://releases.aspose.com/total/java/) e incluya bibliotecas en su pom.xml.
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

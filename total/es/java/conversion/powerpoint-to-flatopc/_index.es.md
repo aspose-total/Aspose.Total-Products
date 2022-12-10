@@ -22,7 +22,7 @@ otherformats: WORD WORDML OTT FLATOPCM DOTM RTF TEXT FLATOPCX DOT DOTX FLATOPC O
 4. Guarde el flatopcumento en formato FLATOPC usando el método [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para la conversión de archivos POWERPOINT a FLATOPC, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e incluya bibliotecas en su pom.xml.
+Para la conversión de archivos POWERPOINT a FLATOPC, puede usar fácilmente Aspose.Total para Java directamente desde un [Maven](https://releases.aspose.com/total/java/)
 
 Alternativamente, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

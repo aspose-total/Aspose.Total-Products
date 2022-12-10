@@ -22,7 +22,7 @@ otherformats: FLATOPC WORD DOTMM DOTMX WORDML DOTM RTF DOT ODT DOTX OTT TEXT
 4. Salvare il dotmumento in formato DOTM utilizzando il metodo [save](https://apiference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per la conversione di file da PPT a DOTM, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includi le librerie nel tuo pom.xml.
+Per la conversione di file da PPT a DOTM, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://releases.aspose.com/total/java/) e includi le librerie nel tuo pom.xml.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

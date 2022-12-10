@@ -22,7 +22,7 @@ otherformats: DOT DOTX OTT PDF MD DOTM TEXT SVG DOCX XPS JPEG DOC WORDML ODT PCL
 4. Сохраните документ в формате WORD, используя [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions).)) и установите WORD как SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total). и включите библиотеки в свой pom.xml.
+Вы должны использовать Aspose.Total для Java непосредственно из проекта на основе [Maven](https://releases.aspose.com/total/java/). и включите библиотеки в свой pom.xml.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

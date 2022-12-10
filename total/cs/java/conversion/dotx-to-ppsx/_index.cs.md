@@ -23,7 +23,7 @@ otherformats: POTM PPTX POWERPOINT PPSM PPT PPS PPTM POTX POT PPSX CSV DIF FODS 
 6. Uložte dokument do PPSX pomocí metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Pro konverzi souborů DOTX na PPSX můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
+Pro konverzi souborů DOTX na PPSX můžete snadno použít Aspose.Total for Java přímo z [Maven](https://releases.aspose.com/total/java/) a zahrňte knihovny do vašeho pom.xml.
 
 Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

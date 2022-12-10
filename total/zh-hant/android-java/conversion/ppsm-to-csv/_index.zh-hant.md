@@ -25,7 +25,7 @@ otherformats: ODS MHTML XLAM XLSB FODS XLTX XLSX XLS TSV XLSM XLT XLTM MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
-為了將 PPSM 轉換為 CSV，您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)並在您的應用程序中安裝庫。
+為了將 PPSM 轉換為 CSV，您可以直接從 [Maven](https://releases.aspose.com/total/java/)並在您的應用程序中安裝庫。
 
 或者，您可以從 [下載](https://releases.aspose.com/total/androidjava) 獲取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

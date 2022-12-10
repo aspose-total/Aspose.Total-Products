@@ -23,7 +23,7 @@ Ofta måste utvecklare konvertera RTF-fil till PPT programmatiskt. Genom att anv
 6. Spara dokumentet till PPT med metoden [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För konvertering av RTF till PPT-fil kan du enkelt använda Aspose.Total för Java direkt från en [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) baserat projekt och inkludera bibliotek i din pom.xml.
+För konvertering av RTF till PPT-fil kan du enkelt använda Aspose.Total för Java direkt från en [Maven](https://releases.aspose.com/total/java/) baserat projekt och inkludera bibliotek i din pom.xml.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

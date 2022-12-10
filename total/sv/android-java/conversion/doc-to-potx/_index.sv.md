@@ -26,7 +26,7 @@ otherformats: PPTX POWERPOINT POTM PPSM ODP PPSX PPTM POT PPS PPT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-För konvertering av DOC till POTX-fil kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) och installera bibliotek i din app.
+För konvertering av DOC till POTX-fil kan du enkelt använda Aspose.Total for Android via Java direkt från [Maven](https://releases.aspose.com/total/java/) och installera bibliotek i din app.
 
 Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

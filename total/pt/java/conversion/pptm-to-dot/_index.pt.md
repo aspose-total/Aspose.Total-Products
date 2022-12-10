@@ -22,7 +22,7 @@ otherformats: FLATOPC ODT DOTM TEXT DOTM DOTX OTT DOT WORDML DOTX WORD RTF
 4. Salve o Documento no formato DOT usando o método [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Para conversão de arquivos PPTM para DOT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.
+Para conversão de arquivos PPTM para DOT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://releases.aspose.com/total/java/) e inclua bibliotecas em seu pom.xml.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

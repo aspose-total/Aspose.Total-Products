@@ -25,7 +25,7 @@ otherformats: XLTM SXC CSV TSV XLSM XLS XLT XLAM FODS XLTX ODS EXCEL XLSB DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и установить [Aspose.Cells for Android via Java](https://otts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) и [Aspose.Words for Android via Java](https://otts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
+Вы можете легко использовать Aspose.Total for Android via Java непосредственно из [Maven](https://releases.aspose.com/total/java/) и установить [Aspose.Cells for Android via Java](https://otts.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via- java-from-maven-repository) и [Aspose.Words for Android via Java](https://otts.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-через-java-из-maven-репозитория) в ваших приложениях.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.comtotal/androidjava).
 {{% /blocks/products/pf/agp/feature-section-col %}}

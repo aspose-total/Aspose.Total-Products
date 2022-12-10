@@ -26,7 +26,7 @@ otherformats: ODP PPTM PPT POWERPOINT PPTX PPSM POT POTX POTM PPSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A DOTX- és PPS-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) -től , és telepítse a könyvtárakat az alkalmazásba.
+A DOTX- és PPS-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://releases.aspose.com/total/java/) -től , és telepítse a könyvtárakat az alkalmazásba.
 
 Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/androidjava) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}

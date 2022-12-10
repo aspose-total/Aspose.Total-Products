@@ -22,7 +22,7 @@ otherformats: RTF OTT DOTMX WORDML DOTMM DOTM DOT ODT WORD DOTX FLATOPC TEXT
 4. Simpan dokumen ke format DOTM menggunakan metode [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Untuk konversi file POWERPOINT ke DOTM, Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) berdasarkan proyek dan sertakan perpustakaan di pom.xml Anda.
+Untuk konversi file POWERPOINT ke DOTM, Anda dapat dengan mudah menggunakan Aspose.Total untuk Java langsung dari [Maven](https://releases.aspose.com/total/java/) berdasarkan proyek dan sertakan perpustakaan di pom.xml Anda.
 
 Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

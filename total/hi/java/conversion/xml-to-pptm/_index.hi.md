@@ -22,7 +22,7 @@ otherformats: POWERPOINT OTP PPTM PPS XAML POTM PPSX PPT POTX SWF PPSM POT
 4. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) विधि का उपयोग करके दस्तावेज़ को PPTM प्रारूप में सहेजें और ` PPTM` SaveFormat के रूप में
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) और [Aspose.Slides for Java](https://docs.aspose.com/slides/java/) शामिल करें स्थापना/) अपने pom.xml में।
+आप [Maven](https://releases.aspose.com/total/java/) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Total का आसानी से उपयोग कर सकते हैं और [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/) और [Aspose.Slides for Java](https://docs.aspose.com/slides/java/) शामिल करें स्थापना/) अपने pom.xml में।
 
 वैकल्पिक रूप से, आप [डाउनलोड](https://releases.aspose.com/total/java) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}

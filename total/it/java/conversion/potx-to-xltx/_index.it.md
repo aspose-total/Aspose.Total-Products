@@ -22,7 +22,7 @@ Puoi convertire il file POTX in XLTX tramite [Aspose.Total for Java](https://pro
 4. Salvare il documento in formato XLTX utilizzando [save](https://apiference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metodo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Per convertire POTX in XLTX, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includi le librerie nel tuo pom.xml.
+Per convertire POTX in XLTX, puoi facilmente utilizzare Aspose.Total per Java direttamente da un [Maven](https://releases.aspose.com/total/java/) e includi le librerie nel tuo pom.xml.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

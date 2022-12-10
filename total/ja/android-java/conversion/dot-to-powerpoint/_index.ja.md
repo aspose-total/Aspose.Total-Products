@@ -26,7 +26,7 @@ otherformats: POTM PPT PPSX PPS PPTX PPTM POTX PPSM ODP POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-DOTからPOWERPOINTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total)そしてアプリにライブラリをインストールします。
+DOTからPOWERPOINTファイルへの変換では、[Maven](https://releases.aspose.com/total/java/)そしてアプリにライブラリをインストールします。
 
 または、[ダウンロード](https://releases.aspose.com/total/androidjava)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

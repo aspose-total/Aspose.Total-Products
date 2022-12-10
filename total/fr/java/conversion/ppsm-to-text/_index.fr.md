@@ -22,7 +22,7 @@ otherformats: RTF TEXTM ODT FLATOPC DOTM TEXTX DOT TEXT OTT DOTX WORD WORDML
 4. Enregistrez le textument au format TEXT à l'aide de la méthode [save](https://reference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Pour la conversion de fichiers PPSM en TEXT, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.
+Pour la conversion de fichiers PPSM en TEXT, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://releases.aspose.com/total/java/)
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

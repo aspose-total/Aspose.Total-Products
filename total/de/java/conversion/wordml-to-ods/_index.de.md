@@ -22,7 +22,7 @@ Das Konvertieren von WORDML in ODS über [Aspose.Total for Java](https://product
 4. Speichern Sie das Dokument im ODS-Format mit [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String.%20com.aspose.cells.SaveOptions))-Methode
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Sie können Aspose.Total für Java direkt aus einem auf [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) basierenden Projekt verwenden und enthalten [Aspose.Words for Java](https://wordmls.aspose.com/words/java/installation/) und [Aspose.Cells for Java](https://wordmls.aspose.com/cells/java/installation/) in Ihrer pom.xml.
+Sie können Aspose.Total für Java direkt aus einem auf [Maven](https://releases.aspose.com/total/java/) basierenden Projekt verwenden und enthalten [Aspose.Words for Java](https://wordmls.aspose.com/words/java/installation/) und [Aspose.Cells for Java](https://wordmls.aspose.com/cells/java/installation/) in Ihrer pom.xml.
 
 Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.com/total/java) herunterladen.
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 4. [저장](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))을 사용하여 문서를 XLTM 형식으로 저장합니다. SaveOptions)) 메서드
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) 기반 프로젝트에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. [Aspose.Words for Java](https://dotxs.aspose.com/words/java/installation/) 및 [Aspose.Cells for Java](https://dotxs.aspose.com/cells/java/) 포함 설치/) pom.xml에 있습니다.
+[Maven](https://releases.aspose.com/total/java/) 기반 프로젝트에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. [Aspose.Words for Java](https://dotxs.aspose.com/words/java/installation/) 및 [Aspose.Cells for Java](https://dotxs.aspose.com/cells/java/) 포함 설치/) pom.xml에 있습니다.
 
 또는 [다운로드](https://releases.aspose.com/total/java)에서 ZIP 파일을 받을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

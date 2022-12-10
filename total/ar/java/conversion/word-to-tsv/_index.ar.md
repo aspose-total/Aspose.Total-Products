@@ -22,7 +22,7 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 4. احفظ المستند بتنسيق TSV باستخدام [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String%D8%8C%D9%AA20com.aspose.cells.%20SaveOptions)) الطريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) وتشمل [Aspose.Words for Java](https://words.aspose.com/words/java/installation/) و [Aspose.Cells for Java](https://words.aspose.com/cells/java/ التثبيت /) في ملف pom.xml الخاص بك.
+يمكنك بسهولة استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://releases.aspose.com/total/java/) وتشمل [Aspose.Words for Java](https://words.aspose.com/words/java/installation/) و [Aspose.Cells for Java](https://words.aspose.com/cells/java/ التثبيت /) في ملف pom.xml الخاص بك.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

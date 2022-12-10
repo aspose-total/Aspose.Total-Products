@@ -22,7 +22,7 @@ otherformats: TEXTX FLATOPC TEXT DOT RTF TEXTM WORDML DOTX OTT ODT DOTM WORD
 4. Salve o textumento no formato TEXT usando o método [save](https://reference.aspose.com/words/java/com.aspose.words/Textument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Para conversão de arquivos POT para TEXT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e inclua bibliotecas em seu pom.xml.
+Para conversão de arquivos POT para TEXT, você pode facilmente usar o Aspose.Total para Java diretamente de um [Maven](https://releases.aspose.com/total/java/) e inclua bibliotecas em seu pom.xml.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

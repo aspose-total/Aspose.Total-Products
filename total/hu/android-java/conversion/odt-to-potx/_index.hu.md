@@ -26,7 +26,7 @@ otherformats: PPSX PPS PPTX PPSM POTM POT PPTM POWERPOINT PPT ODP CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A ODT- és POTX-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) -től , és telepítse a könyvtárakat az alkalmazásba.
+A ODT- és POTX-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://releases.aspose.com/total/java/) -től , és telepítse a könyvtárakat az alkalmazásba.
 
 Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/androidjava) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}

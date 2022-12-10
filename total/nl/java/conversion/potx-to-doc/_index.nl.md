@@ -22,7 +22,7 @@ otherformats: DOCM DOTX ODT OTT DOCX WORDML FLATOPC DOTM TEXT DOT WORD RTF
 4. Sla het document op in DOC-indeling met de methode [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Voor POTX-naar-DOC-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
+Voor POTX-naar-DOC-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://releases.aspose.com/total/java/) gebaseerd project en neem bibliotheken op in uw pom.xml.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

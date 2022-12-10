@@ -22,7 +22,7 @@ La conversion de WORD en CSV via [Aspose.Total for Java](https://products.aspose
 4. Enregistrez le document au format CSV en utilisant [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells. Méthode SaveOptions))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et inclure [Aspose.Words for Java](https://words.aspose.com/words/java/installation/) et [Aspose.Cells for Java](https://words.aspose.com/cells/java/installation/) dans votre pom.xml.
+Vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un projet basé sur [Maven](https://releases.aspose.com/total/java/)om/words/java/installation/) et [Aspose.Cells for Java](https://words.aspose.com/cells/java/installation/) dans votre pom.xml.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ La conversione di DOCX in ODS tramite [Aspose.Total for Java](https://products.a
 4. Salvare il documento in formato ODS utilizzando [Salva](https://apiference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) metodo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di conversione" %}}
-Puoi facilmente utilizzare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) e includono [Aspose.Words per Java](https://docxs.aspose.com/words/java/installation/) e [Aspose.Cells per Java](https://docxs.aspose.com/cells/java/installation/) nel tuo pom.xml.
+Puoi facilmente utilizzare Aspose.Total per Java direttamente da un progetto basato su [Maven](https://releases.aspose.com/total/java/) e includono [Aspose.Words per Java](https://docxs.aspose.com/words/java/installation/) e [Aspose.Cells per Java](https://docxs.aspose.com/cells/java/installation/) nel tuo pom.xml.
 
 In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

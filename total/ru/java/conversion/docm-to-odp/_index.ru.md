@@ -23,7 +23,7 @@ otherformats: PPT POTM POTX PPS POT PPSM PPTX POWERPOINT PPSX PPTM CSV DIF FODS 
 6. Сохраните документ в ODP, используя метод [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Требования к конвертации" %}}
-Для преобразования файлов DOCM в ODP вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) и включите библиотеки в ваш pom.xml.
+Для преобразования файлов DOCM в ODP вы можете легко использовать Aspose.Total для Java непосредственно из [Maven](https://releases.aspose.com/total/java/) и включите библиотеки в ваш pom.xml.
 
 Кроме того, вы можете получить ZIP-файл из [загрузки](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

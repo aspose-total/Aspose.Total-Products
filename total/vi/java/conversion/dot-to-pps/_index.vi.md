@@ -23,7 +23,7 @@ Thông thường, các nhà phát triển phải chuyển đổi tệp DOT sang 
 6. Lưu tài liệu vào PPS bằng phương thức [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Để chuyển đổi tệp DOT sang PPS, bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) dựa trên dự án và bao gồm các thư viện trong pom.xml của bạn.
+Để chuyển đổi tệp DOT sang PPS, bạn có thể dễ dàng sử dụng Aspose.Total for Java trực tiếp từ [Maven](https://releases.aspose.com/total/java/) dựa trên dự án và bao gồm các thư viện trong pom.xml của bạn.
 
 Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

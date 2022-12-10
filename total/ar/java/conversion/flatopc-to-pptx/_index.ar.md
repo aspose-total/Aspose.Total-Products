@@ -23,7 +23,7 @@ otherformats: POWERPOINT POT POTM PPSX PPT PPS PPTX POTX PPSM PPTM CSV DIF FODS 
 6. احفظ المستند في PPTX باستخدام طريقة [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل ملف FLATOPC إلى PPTX ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
+لتحويل ملف FLATOPC إلى PPTX ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://releases.aspose.com/total/java/) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

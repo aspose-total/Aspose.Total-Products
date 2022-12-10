@@ -22,7 +22,7 @@ otherformats: WORD WORDML OTT FLATOPCM DOTM RTF TEXT FLATOPCX DOT DOTX FLATOPC O
 4. Sla het flatopcument op in FLATOPC-indeling met de methode [save](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument#save(java.lang.String,int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereisten" %}}
-Voor POWERPOINT-naar-FLATOPC-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) gebaseerd project en neem bibliotheken op in uw pom.xml.
+Voor POWERPOINT-naar-FLATOPC-bestandsconversie kunt u Aspose.Total voor Java eenvoudig rechtstreeks vanuit een [Maven](https://releases.aspose.com/total/java/) gebaseerd project en neem bibliotheken op in uw pom.xml.
 
 U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -22,7 +22,7 @@ otherformats: WORD DOTX ODT OTT RTF FLATOPC WORDML DOCM TEXT DOCX DOTM DOT
 4. احفظ المستند بتنسيق DOC باستخدام طريقة [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.int))
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-لتحويل ملف POT إلى DOC ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
+لتحويل ملف POT إلى DOC ، يمكنك بسهولة استخدام Aspose.Total لـ Java مباشرة من [Maven](https://releases.aspose.com/total/java/) القائم على المشروع وتضمين المكتبات في ملفك pom.xml.
 
 بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

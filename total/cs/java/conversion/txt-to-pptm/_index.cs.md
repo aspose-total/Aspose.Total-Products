@@ -23,7 +23,7 @@ otherformats: PPT POWERPOINT POT PPTM POTX PPSX POTM PPTX PPSM PPS CSV DIF FODS 
 6. Uložte dokument do PPTM pomocí metody [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Pro konverzi souborů TXT na PPTM můžete snadno použít Aspose.Total for Java přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) a zahrňte knihovny do vašeho pom.xml.
+Pro konverzi souborů TXT na PPTM můžete snadno použít Aspose.Total for Java přímo z [Maven](https://releases.aspose.com/total/java/) a zahrňte knihovny do vašeho pom.xml.
 
 Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.comtotal/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}

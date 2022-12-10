@@ -23,7 +23,7 @@ Souvent, les développeurs doivent convertir le fichier DOTM en PPTX par program
 6. Enregistrez le dotmument dans PPTX à l'aide de la méthode [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Pour la conversion de fichiers DOTM en PPTX, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-total) et incluez des bibliothèques dans votre fichier pom.xml.
+Pour la conversion de fichiers DOTM en PPTX, vous pouvez facilement utiliser Aspose.Total pour Java directement à partir d'un [Maven](https://releases.aspose.com/total/java/) et incluez des bibliothèques dans votre fichier pom.xml.
 
 Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
