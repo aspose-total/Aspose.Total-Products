@@ -16,7 +16,7 @@ description: Coleção de APIs para desenvolvedores Java manipularem arquivos do
 Aspose.Total for Java é uma coleção de bibliotecas de Automação de Formato de Arquivo para desenvolvedores Java, capacitando-os a criar, atualizar, imprimir, renderizar e converter entre vários formatos de arquivo de dentro de qualquer aplicativo Java J2SE, J2EE, J2ME.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Words for Java permite que os desenvolvedores executem uma grande variedade de tarefas de processamento de documentos diretamente dentro de aplicativos Java. Ele suporta os formatos de processamento de texto mais populares, incluindo DOC, OOXML, RTF, HTML e OpenDocument. Com Aspose.Words, você pode gerar, modificar e converter documentos sem usar o Microsoft Word." >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Java permite que os desenvolvedores executem uma ampla gama de gerenciamento, manipulação e processamento de formatos de documentos diretamente em aplicativos Java. Ele suporta os formatos mais populares, incluindo documentos do Word, planilhas do Excel, apresentações do PowerPoint, HTML, OpenDocument, Visio, PDF, CAD e vários outros formatos de arquivo. Com Aspose.Total, pode-se gerar, modificar e converter documentos sem usar nenhum software." >}}
 
 {{< blocks/products/pf/total/product-item href="/words/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Java permite que os desenvolvedores executem uma grande variedade de tarefas de processamento de documentos diretamente dentro de aplicativos Java. Ele suporta os formatos de processamento de texto mais populares, incluindo DOC, OOXML, RTF, HTML e OpenDocument. Com Aspose.Words, você pode gerar, modificar e converter documentos sem usar o Microsoft Word.
@@ -27,7 +27,7 @@ Aspose.PDF for Java é uma API de criação de documentos PDF que permite que se
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
-Aspose.Cells para Java oferece geração, conversão e manipulação de arquivos Excel. A API permite que aplicativos Java criem e gerenciem planilhas do Excel sem usar o Microsoft Excel. Aspose.Cells para Java é uma API incrivelmente rica em recursos que oferece muito mais do que apenas funções básicas de exportação de dados.
+Aspose.Cells for Java oferece geração, conversão e manipulação de arquivos Excel. A API permite que aplicativos Java criem e gerenciem planilhas do Excel sem usar o Microsoft Excel. Aspose.Cells for Java é uma API incrivelmente rica em recursos que oferece muito mais do que apenas funções básicas de exportação de dados.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/email/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
@@ -43,7 +43,7 @@ Aspose.Imaging for Java é uma API de imagem que permite aos desenvolvedores edi
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
-Aspose.BarCode para Java API oferece a adição de processos de geração e reconhecimento de código de barras em seus aplicativos Java. Ele suporta as plataformas Java SE, Java EE e Java ME e uma infinidade de tipos de códigos de barras lineares, 2D e postais.
+Aspose.BarCode for Java API oferece a adição de processos de geração e reconhecimento de código de barras em seus aplicativos Java. Ele suporta as plataformas Java SE, Java EE e Java ME e uma infinidade de tipos de códigos de barras lineares, 2D e postais.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/diagram/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
@@ -55,19 +55,19 @@ Aspose.Tasks for Java é uma API de gerenciamento de projetos que permite que de
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/ocr/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
-Aspose.OCR para Java é uma API Java de reconhecimento óptico de caracteres que permite aos programadores adicionar tecnologia OCR a aplicativos Java de maneira rápida e fácil. A API oferece um conjunto de classes para reconhecer caracteres de vários formatos de imagem.
+Aspose.OCR for Java é uma API Java de reconhecimento óptico de caracteres que permite aos programadores adicionar tecnologia OCR a aplicativos Java de maneira rápida e fácil. A API oferece um conjunto de classes para reconhecer caracteres de vários formatos de imagem.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/note/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
-A API Aspose.Note para Java permite que o software baseado em Java lide com o Microsoft OneNote programaticamente sem que ele seja instalado no servidor. É uma alternativa pura para o Microsoft OneNote Object Model e oferece melhor desempenho e facilidade de uso para gerenciar documentos do OneNote.
+A API Aspose.Note for Java permite que o software baseado em Java lide com o Microsoft OneNote programaticamente sem que ele seja instalado no servidor. É uma alternativa pura para o Microsoft OneNote Object Model e oferece melhor desempenho e facilidade de uso para gerenciar documentos do OneNote.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/cad/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
-Aspose.CAD para Java oferece converter arquivos de desenho AutoCAD DXF e DWG para PDF e imagens raster. Por ser uma API nativa, não exige que AutoCAD ou qualquer software seja necessário.
+Aspose.CAD for Java oferece converter arquivos de desenho AutoCAD DXF e DWG para PDF e imagens raster. Por ser uma API nativa, não exige que AutoCAD ou qualquer software seja necessário.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
-Aspose.3D para Java API é construído para criar, editar, manipular e salvar formatos 3D. Ele capacita os aplicativos Java a se conectarem com documentos 3D sem instalar nenhum pacote de software no computador e auxilia os desenvolvedores na modelagem e criação de mundos e cenas de jogos para visualização de design.
+Aspose.3D for Java API é construído para criar, editar, manipular e salvar formatos 3D. Ele capacita os aplicativos Java a se conectarem com documentos 3D sem instalar nenhum pacote de software no computador e auxilia os desenvolvedores na modelagem e criação de mundos e cenas de jogos para visualização de design.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/html/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
@@ -75,15 +75,15 @@ Aspose.HTML for Java é uma API avançada de manipulação de HTML que permite c
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/page/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
-Aspose.Page para Java é uma API de análise e processamento de documentos PostScript e XPS. Os desenvolvedores podem facilmente converter arquivos PS e EPS para PDF e formatos de imagem raster. A API também permite que os desenvolvedores criem, analisem e salvem arquivos XPS sem nenhuma dependência.
+Aspose.Page for Java é uma API de análise e processamento de documentos PostScript e XPS. Os desenvolvedores podem facilmente converter arquivos PS e EPS para PDF e formatos de imagem raster. A API também permite que os desenvolvedores criem, analisem e salvem arquivos XPS sem nenhuma dependência.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/psd/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
-Aspose.PSD para Java é uma API de premissa para manipulação de formatos do Photoshop. Os desenvolvedores podem facilmente criar, carregar, converter e modificar os formatos PSD e PSB. A API pode realizar diferentes operações, como adicionar marcas d'água, compactação, rotação, dimensionamento e muito mais sem a necessidade do Adobe Photoshop instalado.
+Aspose.PSD for Java é uma API de premissa para manipulação de formatos do Photoshop. Os desenvolvedores podem facilmente criar, carregar, converter e modificar os formatos PSD e PSB. A API pode realizar diferentes operações, como adicionar marcas d'água, compactação, rotação, dimensionamento e muito mais sem a necessidade do Adobe Photoshop instalado.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/omr/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
-Aspose.OMR para Java é uma API para reconhecer marcas ópticas de imagens de folhas digitalizadas OMR, bem como de diferentes formatos de imagem como BMP, JPG, TIF, TIFF, GIF. A API captura dados marcados por humanos de formulários de documentos, como pesquisas, questionários, MCQs, etc. A base do reconhecimento é a marcação de modelo com um mapeamento gráfico dos elementos a serem reconhecidos nas imagens digitalizadas.
+Aspose.OMR for Java é uma API para reconhecer marcas ópticas de imagens de folhas digitalizadas OMR, bem como de diferentes formatos de imagem como BMP, JPG, TIF, TIFF, GIF. A API captura dados marcados por humanos de formulários de documentos, como pesquisas, questionários, MCQs, etc. A base do reconhecimento é a marcação de modelo com um mapeamento gráfico dos elementos a serem reconhecidos nas imagens digitalizadas.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/pub/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
@@ -91,7 +91,7 @@ Aspose.PUB for Java é uma API que permite ler arquivos do Microsoft Publisher e
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/font/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
-Aspose.Font para Java é uma API de carregamento e desenho de fontes com suporte a vários formatos de fonte. Ele pode executar facilmente operações de arquivo de fonte, como carregar fontes de disco ou fluxo, ler glifos e informações de métricas, bem como detectar símbolos latinos, renderizar texto usando glifos de fonte e muito mais.
+Aspose.Font for Java é uma API de carregamento e desenho de fontes com suporte a vários formatos de fonte. Ele pode executar facilmente operações de arquivo de fonte, como carregar fontes de disco ou fluxo, ler glifos e informações de métricas, bem como detectar símbolos latinos, renderizar texto usando glifos de fonte e muito mais.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tex/pt/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
@@ -102,7 +102,7 @@ Aspose.TeX for Java é uma API de composição de arquivos TeX. Ele pode facilme
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
  </a>
- Recursos avançados do Aspose.Total para APIs Java
+ Recursos avançados do Aspose.Total for APIs Java
 </h2>
 <div class="col-lg-4">
  <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
@@ -193,7 +193,7 @@ Aspose.TeX for Java é uma API de composição de arquivos TeX. Ele pode facilme
   Processe uma infinidade de formatos de arquivo
  </h2>
  <p>
-  Aspose.Total para Java permite que você construa um sistema de processamento de arquivos incrivelmente versátil capaz de lidar com muitos formatos de arquivos populares. Você pode facilmente abrir, criar, modificar e até mesmo converter entre os formatos de arquivo dos seguintes tipos.
+  Aspose.Total for Java permite que você construa um sistema de processamento de arquivos incrivelmente versátil capaz de lidar com muitos formatos de arquivos populares. Você pode facilmente abrir, criar, modificar e até mesmo converter entre os formatos de arquivo dos seguintes tipos.
  </p>
  <ul class="unstyled">
   <li>
@@ -244,7 +244,7 @@ Aspose.TeX for Java é uma API de composição de arquivos TeX. Ele pode facilme
   Automação do Microsoft Office – Não Necessário
  </h2>
  <p>
-  O Aspose.Total para Java é construído usando código gerenciado que não precisa que o Microsoft Office seja instalado na máquina para trabalhar com formatos de documentos suportados. É uma alternativa perfeita de automação do Microsoft Office em termos de recursos suportados, segurança, estabilidade, escalabilidade, velocidade e preço.
+  O Aspose.Total for Java é construído usando código gerenciado que não precisa que o Microsoft Office seja instalado na máquina para trabalhar com formatos de documentos suportados. É uma alternativa perfeita de automação do Microsoft Office em termos de recursos suportados, segurança, estabilidade, escalabilidade, velocidade e preço.
  </p>
 </div>
 <!--Feature-section Start-->
@@ -284,7 +284,7 @@ Aspose.Total é uma suíte poderosa para processar quase todos os tipos de docum
 {{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/total/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Total para Java" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Total for Java" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}} 
 {{< blocks/products/pf/slr-element name="Histórias de sucesso" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}

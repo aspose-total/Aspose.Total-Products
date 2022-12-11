@@ -16,7 +16,7 @@ description: Java開発者がWordExcelPDF PowerPointVisioOneNote電子メール�
 Aspose.Total for Javaは、Java開発者向けのファイル形式自動化ライブラリのコレクションであり、Java J2SE、J2EE、J2MEアプリケーション内から複数のファイル形式を作成、更新、印刷、レンダリング、および変換できるようにします。
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Words for Javaを使用すると、開発者はJavaアプリケーション内でさまざまなドキュメント処理タスクを直接実行できます。 DOC、OOXML、RTF、HTML、OpenDocumentなどの最も一般的なワードプロセッシングフォーマットをサポートしています。 Aspose.Wordsを使用すると、Microsoft Wordを使用せずにドキュメントを生成、変更、および変換できます。" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Java を使用すると、開発者は広範囲のドキュメント フォーマットの管理、操作、および処理を Java アプリケーション内で直接実行できます。 Word ドキュメント、Excel スプレッドシート、PowerPoint プレゼンテーション、HTML、OpenDocument、Visio、PDF、CAD、およびその他のさまざまなファイル形式を含む最も一般的な形式をサポートしています。 Aspose.Total を使用すると、ソフトウェアを使用せずにドキュメントを生成、変更、および変換できます。" >}}
 
 {{< blocks/products/pf/total/product-item href="/words/ja/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Javaを使用すると、開発者はJavaアプリケーション内でさまざまなドキュメント処理タスクを直接実行できます。 DOC、OOXML、RTF、HTML、OpenDocumentなどの最も一般的なワードプロセッシングフォーマットをサポートしています。 Aspose.Wordsを使用すると、Microsoft Wordを使用せずにドキュメントを生成、変更、および変換できます。

@@ -16,7 +16,7 @@ description: Java 开发人员的 API 集合，用于处理 Word Excel PDF Power
 Aspose.Total for Java 是面向 Java 开发人员的文件格式自动化库的集合，使他们能够从任何 Java J2SE、J2EE、J2ME 应用程序中创建、更新、打印、呈现和转换多种文件格式。
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Words for Java 允许开发人员直接在 Java 应用程序中执行大量文档处理任务。它支持最流行的文字处理格式，包括 DOC、OOXML、RTF、HTML 和 OpenDocument。使用 Aspose.Words，您可以在不使用 Microsoft Word 的情况下生成、修改和转换文档。" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Java 允许开发人员直接在 Java 应用程序中执行广泛的文档格式管理、操作和处理。 它支持最流行的格式，包括 Word 文档、Excel 电子表格、PowerPoint 演示文稿、HTML、OpenDocument、Visio、PDF、CAD 和各种其他文件格式。 使用Aspose.Total，无需使用任何软件即可生成、修改和转换文档。" >}}
 
 {{< blocks/products/pf/total/product-item href="/words/zh/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Java 允许开发人员直接在 Java 应用程序中执行大量文档处理任务。它支持最流行的文字处理格式，包括 DOC、OOXML、RTF、HTML 和 OpenDocument。使用 Aspose.Words，您可以在不使用 Microsoft Word 的情况下生成、修改和转换文档。

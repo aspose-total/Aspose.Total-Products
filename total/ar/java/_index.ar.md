@@ -16,7 +16,7 @@ description: مجموعة من واجهات برمجة التطبيقات لمط
 Aspose.Total for Java عبارة عن مجموعة من مكتبات أتمتة تنسيق الملفات لمطوري Java ، وتمكينهم من إنشاء وتحديث وطباعة وتقديم وتحويل بين تنسيقات ملفات متعددة من داخل أي تطبيقات Java J2SE و J2EE و J2ME.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="يسمح Aspose.Words for Java للمطورين بأداء مجموعة كبيرة من مهام معالجة المستندات مباشرة داخل تطبيقات Java. وهو يدعم تنسيقات معالجة النصوص الأكثر شيوعًا بما في ذلك DOC و OOXML و RTF و HTML و OpenDocument. باستخدام Aspose.Words ، يمكنك إنشاء وتعديل وتحويل المستندات دون استخدام Microsoft Word." >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Java يسمح للمطورين بأداء مجموعة واسعة من إدارة تنسيق المستندات ومعالجتها ومعالجتها مباشرة داخل تطبيقات Java. وهو يدعم معظم التنسيقات الشائعة بما في ذلك مستندات Word وجداول بيانات Excel وعروض PowerPoint التقديمية و HTML و OpenDocument و Visio و PDF و CAD والعديد من تنسيقات الملفات الأخرى. باستخدام Aspose.Total ، يمكن للمرء إنشاء المستندات وتعديلها وتحويلها دون استخدام أي برنامج." >}}
 
 {{< blocks/products/pf/total/product-item href="/words/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 يسمح Aspose.Words for Java للمطورين بأداء مجموعة كبيرة من مهام معالجة المستندات مباشرة داخل تطبيقات Java. وهو يدعم تنسيقات معالجة النصوص الأكثر شيوعًا بما في ذلك DOC و OOXML و RTF و HTML و OpenDocument. باستخدام Aspose.Words ، يمكنك إنشاء وتعديل وتحويل المستندات دون استخدام Microsoft Word.

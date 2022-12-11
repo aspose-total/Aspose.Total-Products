@@ -16,7 +16,7 @@ description: Word Excel PDF PowerPoint Visio OneNote 이메일 프로젝트 이�
 Aspose.Total for Java는 Java 개발자를 위한 파일 형식 자동화 라이브러리 모음으로, 모든 Java J2SE, J2EE, J2ME 응용 프로그램 내에서 여러 파일 형식을 생성, 업데이트, 인쇄, 렌더링 및 변환할 수 있습니다.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Words for Java를 사용하면 개발자가 Java 응용 프로그램 내에서 직접 광범위한 문서 처리 작업을 수행할 수 있습니다. DOC, OOXML, RTF, HTML 및 OpenDocument를 포함하여 가장 널리 사용되는 워드 프로세싱 형식을 지원합니다. Aspose.Words를 사용하면 Microsoft Word를 사용하지 않고도 문서를 생성, 수정 및 변환할 수 있습니다." >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Java를 사용하면 개발자가 Java 애플리케이션 내에서 직접 광범위한 문서 형식 관리, 조작 및 처리를 수행할 수 있습니다. Word 문서, Excel 스프레드시트, PowerPoint 프레젠테이션, HTML, OpenDocument, Visio, PDF, CAD 및 기타 다양한 파일 형식을 포함하여 가장 널리 사용되는 형식을 지원합니다. Aspose.Total을 사용하면 소프트웨어를 사용하지 않고도 문서를 생성, 수정 및 변환할 수 있습니다." >}}
 
 {{< blocks/products/pf/total/product-item href="/words/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Java를 사용하면 개발자가 Java 응용 프로그램 내에서 직접 광범위한 문서 처리 작업을 수행할 수 있습니다. DOC, OOXML, RTF, HTML 및 OpenDocument를 포함하여 가장 널리 사용되는 워드 프로세싱 형식을 지원합니다. Aspose.Words를 사용하면 Microsoft Word를 사용하지 않고도 문서를 생성, 수정 및 변환할 수 있습니다.

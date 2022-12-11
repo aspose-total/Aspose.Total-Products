@@ -16,7 +16,7 @@ description: Kolekce rozhraní API pro vývojáře v jazyce Java pro manipulaci 
 Aspose.Total for Java je sbírka knihoven File Format Automation pro vývojáře Java, které jim umožňují vytvářet, aktualizovat, tisknout, vykreslovat a převádět mezi více formáty souborů z libovolné aplikace Java J2SE, J2EE, J2ME.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Words for Java umožňuje vývojářům provádět širokou škálu úloh zpracování dokumentů přímo v aplikacích Java. Podporuje nejpopulárnější formáty textového editoru včetně DOC, OOXML, RTF, HTML a OpenDocument. S Aspose.Words můžete generovat, upravovat a převádět dokumenty bez použití aplikace Microsoft Word." >}}
+{{< blocks/products/pf/total/products description="Aspose.Total for Java umožňuje vývojářům provádět širokou škálu správy, manipulace a zpracování formátu dokumentů přímo v aplikacích Java. Podporuje většinu populárních formátů včetně dokumentů Word, tabulek Excel, prezentací PowerPoint, HTML, OpenDocument, Visio, PDF, CAD a různých dalších formátů souborů. S Aspose.Total lze generovat, upravovat a převádět dokumenty bez použití jakéhokoli softwaru." >}}
 
 {{< blocks/products/pf/total/product-item href="/words/cs/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Java umožňuje vývojářům provádět širokou škálu úloh zpracování dokumentů přímo v aplikacích Java. Podporuje nejpopulárnější formáty textového editoru včetně DOC, OOXML, RTF, HTML a OpenDocument. S Aspose.Words můžete generovat, upravovat a převádět dokumenty bez použití aplikace Microsoft Word.
