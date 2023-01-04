@@ -34,7 +34,11 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 用於 PowerPoint 和 OpenOffice 演示格式的 Python 庫，可以幫助創建、讀取、寫入、修改、合併、克隆、保護和轉換 PPT、PPTX 和 ODP 文件為圖像、固定佈局和 Web 格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API 用於生成和識別各種 1D、2D 和郵政符號體系的條碼，以便在 Python 應用程序中進行編碼和解碼。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/zh-hant/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 一個 Python 3D API，可以創建、編輯或轉換 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Draco 文件格式，無需任何依賴。
 {{< /blocks/products/pf/total/product-item >}}
 

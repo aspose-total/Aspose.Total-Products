@@ -34,7 +34,11 @@ Een e-mailpython-bibliotheek die helpt bij het maken, manipuleren of converteren
 Python-bibliotheek voor PowerPoint- en OpenOffice-presentatieformaten die kunnen helpen bij het maken, lezen, schrijven, wijzigen, samenvoegen, klonen, beschermen en converteren van PPT-, PPTX- en ODP-bestanden naar afbeeldingen, vaste lay-out en webformaten.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API voor het genereren en herkennen van barcodes van verschillende 1D-, 2D- en postsymbolen voor zowel codering als decodering binnen Python-toepassingen.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/nl/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Een Python 3D API die Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bestandsformaten kan maken, bewerken of converteren zonder enige afhankelijkheid.
 {{< /blocks/products/pf/total/product-item >}}
 

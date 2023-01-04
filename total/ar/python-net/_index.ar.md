@@ -34,7 +34,11 @@ Python Excel API لعمليات أتمتة جداول البيانات مثل ا
 مكتبة Python لتنسيقات عروض PowerPoint و OpenOffice التي يمكن أن تساعد في إنشاء وقراءة وكتابة وتعديل ودمج واستنساخ وحماية وتحويل ملفات PPT و PPTX و ODP إلى صور وتنسيقات ذات تنسيق ثابت وتنسيقات ويب.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API لإنشاء والتعرف على الرموز الشريطية لمختلف الرموز 1D و 2 D والبريدية لكل من الترميز وكذلك فك التشفير داخل تطبيقات Python.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/ar/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 واجهة برمجة تطبيقات Python ثلاثية الأبعاد يمكنها إنشاء وتحرير تنسيقات ملفات Discreet3DS و WavefrontOBJ و FBX و STL و Universal3D و Collada و glTF و GLB و PLY و DirectX و Google Draco دون أي تبعية.
 {{< /blocks/products/pf/total/product-item >}}
 

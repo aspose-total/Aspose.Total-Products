@@ -34,7 +34,11 @@ Python Excel API สำหรับกระบวนการทำงานอ
 ไลบรารี Python สำหรับรูปแบบการนำเสนอ PowerPoint และ OpenOffice ที่ช่วยสร้าง อ่าน เขียน แก้ไข ผสาน โคลน ป้องกันและแปลงไฟล์ PPT, PPTX และ ODP เป็นรูปภาพ รูปแบบคงที่ และรูปแบบเว็บ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API เพื่อสร้างและจดจำบาร์โค้ดของสัญลักษณ์ 1D, 2D และไปรษณีย์ต่างๆ สำหรับทั้งการเข้ารหัสและการถอดรหัสภายในแอปพลิเคชัน Python
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/th/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Python 3D API ที่สามารถสร้าง แก้ไข และแปลงไฟล์ Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco รูปแบบไฟล์โดยไม่ต้องพึ่งพิงใดๆ
 {{< /blocks/products/pf/total/product-item >}}
 

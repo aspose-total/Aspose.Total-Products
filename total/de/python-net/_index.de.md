@@ -34,7 +34,11 @@ Eine E-Mail-Python-Bibliothek, die bei der Erstellung, Bearbeitung oder Konverti
 Python-Bibliothek für PowerPoint- und OpenOffice-Präsentationsformate, die beim Erstellen, Lesen, Schreiben, Ändern, Zusammenführen, Klonen, Schützen und Konvertieren von PPT-, PPTX- und ODP-Dateien in Bilder, festes Layout und Webformate helfen können.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/de/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python-Barcode-API zum Generieren und Erkennen von Barcodes verschiedener 1D-, 2D- und postalischer Symbologien sowohl für die Kodierung als auch für die Dekodierung in Python-Anwendungen.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/de/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Eine Python 3D-API, die Discreet3DS-, WavefrontOBJ-, FBX-, STL-, Universal3D-, Collada-, glTF-, GLB-, PLY-, DirectX- und Google Draco-Dateiformate ohne Abhängigkeit erstellen, bearbeiten oder konvertieren kann.
 {{< /blocks/products/pf/total/product-item >}}
 

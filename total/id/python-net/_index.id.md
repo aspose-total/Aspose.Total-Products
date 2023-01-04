@@ -34,7 +34,11 @@ Pustaka Email Python yang membantu dalam pembuatan, manipulasi, atau konversi pe
 Pustaka Python untuk format presentasi PowerPoint & OpenOffice yang dapat membantu membuat, membaca, menulis, memodifikasi, menggabungkan, mengkloning, melindungi & mengonversi file PPT, PPTX dan ODP menjadi gambar, tata letak tetap & format web.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API untuk menghasilkan dan mengenali kode batang dari berbagai simbol 1D, 2D, dan pos untuk penyandian dan penguraian kode dalam aplikasi Python.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/id/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 API 3D Python yang dapat membuat, mengedit, atau mengonversi format file Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco tanpa ketergantungan apa pun.
 {{< /blocks/products/pf/total/product-item >}}
 

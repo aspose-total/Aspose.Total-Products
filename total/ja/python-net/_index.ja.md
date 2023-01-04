@@ -35,7 +35,11 @@ MicrosoftWordおよびOpenOfficeのワードプロセッシング形式用のス
 PPT、PPTX、およびODPファイルを画像、固定レイアウト、およびWeb形式に作成、読み取り、書き込み、変更、マージ、クローン作成、保護、および変換するのに役立つPowerPointおよびOpenOfficeプレゼンテーション形式用のPythonライブラリ。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python アプリケーション内でのエンコードとデコードの両方で、さまざまな 1D、2D、および郵便記号のバーコードを生成および認識する Python Barcode API。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/ja/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Dracoファイル形式を依存せずに作成、編集、変換できるPython3DAPI。
 {{< /blocks/products/pf/total/product-item >}}
 

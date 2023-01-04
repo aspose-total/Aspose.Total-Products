@@ -34,7 +34,11 @@ E-mail Python könyvtár, amely segít az e-mail üzenetek és e-mail archívumo
 Python-könyvtár PowerPoint és OpenOffice prezentációs formátumokhoz, amelyek segíthetnek létrehozni, olvasni, írni, módosítani, egyesíteni, klónozni, védeni és konvertálni PPT-, PPTX- és ODP-fájlokat képekké, rögzített elrendezésű és webes formátumokká.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API különféle 1D, 2D és postai szimbólumok vonalkódjának generálására és felismerésére a Python alkalmazásokon belüli kódoláshoz és dekódoláshoz egyaránt.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/hu/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Egy Python 3D API, amely bármilyen függőség nélkül képes Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco fájlformátumok létrehozására, szerkesztésére és konvertálására.
 {{< /blocks/products/pf/total/product-item >}}
 

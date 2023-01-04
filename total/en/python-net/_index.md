@@ -34,6 +34,10 @@ An Email Python library that helps in creation, manipulation or conversion of em
 Python library for PowerPoint & OpenOffice presentation formats that can help create, read, write, modify, merge, clone, protect & convert PPT, PPTX and ODP files to images, fixed-layout & web formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/barcode/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API to generate and recognize barcode of various 1D, 2D and postal symbologies for both encoding as well as decoding within Python applications.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 A Python 3D API that can create, edit ot convert Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats without any dependency.
 {{< /blocks/products/pf/total/product-item >}}

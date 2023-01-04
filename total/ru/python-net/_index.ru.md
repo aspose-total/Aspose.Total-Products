@@ -34,7 +34,11 @@ Python Excel API для процессов автоматизации элект
 Библиотека Python для форматов презентаций PowerPoint и OpenOffice, которая может помочь создавать, читать, писать, изменять, объединять, клонировать, защищать и преобразовывать файлы PPT, PPTX и ODP в изображения, форматы с фиксированным макетом и веб-форматы.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ru/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API для создания и распознавания штрих-кодов различных одномерных, двухмерных и почтовых символик как для кодирования, так и для декодирования в приложениях Python.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/ru/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Python 3D API, который может создавать, редактировать или конвертировать форматы файлов Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco без какой-либо зависимости.
 {{< /blocks/products/pf/total/product-item >}}
 

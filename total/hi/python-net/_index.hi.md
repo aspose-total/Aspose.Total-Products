@@ -34,7 +34,11 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 पावरपॉइंट और ओपनऑफिस प्रेजेंटेशन फॉर्मेट के लिए पायथन लाइब्रेरी जो पीपीटी, पीपीटीएक्स और ओडीपी फाइलों को इमेज, फिक्स्ड-लेआउट और वेब फॉर्मेट में बनाने, पढ़ने, लिखने, संशोधित करने, मर्ज करने, क्लोन करने, संरक्षित करने और बदलने में मदद कर सकती है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+पायथन बारकोड एपीआई विभिन्न 1D, 2D और डाक प्रतीकों के बारकोड को उत्पन्न करने और पहचानने के लिए दोनों एन्कोडिंग के साथ-साथ पायथन अनुप्रयोगों के भीतर डिकोडिंग के लिए।
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/hi/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 एक पायथन 3डी एपीआई जो बिना किसी निर्भरता के डिस्क्रीट3डीएस, वेवफ्रंटओबीजे, एफबीएक्स, एसटीएल, यूनिवर्सल3डी, कोलाडा, जीएलटीएफ, जीएलबी, पीएलवाई, डायरेक्टएक्स, गूगल ड्रेको फ़ाइल स्वरूपों को बना, संपादित कर सकता है।
 {{< /blocks/products/pf/total/product-item >}}
 

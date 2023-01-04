@@ -34,7 +34,11 @@ E-posta mesajlarının ve e-posta arşivlerinin oluşturulmasına, değiştirilm
 PPT, PPTX ve ODP dosyalarını oluşturmaya, okumaya, yazmaya, değiştirmeye, birleştirmeye, klonlamaya, korumaya ve resimlere, sabit düzene ve web biçimlerine dönüştürmeye yardımcı olabilecek PowerPoint ve OpenOffice sunum biçimleri için Python kitaplığı.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python uygulamalarında hem kodlama hem de kod çözme için çeşitli 1B, 2B ve posta sembolojilerinin barkodunu oluşturmak ve tanımak için Python Barkod API'si.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/tr/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Herhangi bir bağımlılık olmaksızın Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco dosya formatlarını oluşturabilen, düzenleyebilen ve dönüştürebilen bir Python 3D API'si.
 {{< /blocks/products/pf/total/product-item >}}
 

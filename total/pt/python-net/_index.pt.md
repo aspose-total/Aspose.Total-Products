@@ -34,7 +34,12 @@ Uma biblioteca de Email Python que ajuda na criação, manipulação ou convers�
 Biblioteca Python para formatos de apresentação PowerPoint e OpenOffice que podem ajudar a criar, ler, escrever, modificar, mesclar, clonar, proteger e converter arquivos PPT, PPTX e ODP em imagens, layout fixo e formatos da web.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/pt/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+Python Barcode API para gerar e reconhecer códigos de barras de várias simbologias 1D, 2D e postais para codificação e decodificação em aplicativos Python.
+
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/3d/pt/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Uma API Python 3D que pode criar, editar ou converter formatos de arquivo Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco sem qualquer dependência.
 {{< /blocks/products/pf/total/product-item >}}
 
