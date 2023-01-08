@@ -54,7 +54,20 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre opzioni di conversione" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-excel/" name="POWERPOINT A Excel" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-xls/" name="POWERPOINT A XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-xlsx/" name="POWERPOINT A XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-xlsb/" name="POWERPOINT A XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-xltx/" name="POWERPOINT A XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-xltm/" name="POWERPOINT A XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-xlsm/" name="POWERPOINT A XLSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-csv/" name="POWERPOINT A CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/python-net/conversion/powerpoint-to-tsv/" name="POWERPOINT A TSV" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+
+      
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

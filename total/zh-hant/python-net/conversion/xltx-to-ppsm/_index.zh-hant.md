@@ -54,7 +54,18 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他轉換選項" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-powerpoint/" name="XLTX 到 PowerPoint" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-ppt/" name="XLTX 到 PPT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-pptx/" name="XLTX 到 PPTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-pps/" name="XLTX 到 PPS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-pot/" name="XLTX 到 POT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-ppsx/" name="XLTX 到 PPSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-pptm/" name="XLTX 到 PPTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-ppsm/" name="XLTX 到 PPSM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-potx/" name="XLTX 到 POTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/python-net/conversion/xltx-to-potm/" name="XLTX 到 POTM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
