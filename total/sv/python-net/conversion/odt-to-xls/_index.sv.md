@@ -55,7 +55,23 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra konverteringsalternativ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-excel/" name="ODT Till EXCEL" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xls/" name="ODT Till XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xlsx/" name="ODT Till XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-csv/" name="ODT Till CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-dif/" name="ODT Till DIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-fods/" name="ODT Till FODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-ods/" name="ODT Till ODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-sxc/" name="ODT Till SXC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-tsv/" name="ODT Till TSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xlam/" name="ODT Till XLAM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xlsb/" name="ODT Till XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xlt/" name="ODT Till XLT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xltm/" name="ODT Till XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xltx/" name="ODT Till XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/odt-to-xlsm/" name="ODT Till XLSM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

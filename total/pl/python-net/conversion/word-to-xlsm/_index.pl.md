@@ -55,7 +55,23 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne opcje konwersji" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-excel/" name="WORD Do EXCEL" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xls/" name="WORD Do XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xlsx/" name="WORD Do XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-csv/" name="WORD Do CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-dif/" name="WORD Do DIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-fods/" name="WORD Do FODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-ods/" name="WORD Do ODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-sxc/" name="WORD Do SXC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-tsv/" name="WORD Do TSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xlam/" name="WORD Do XLAM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xlsb/" name="WORD Do XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xlt/" name="WORD Do XLT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xltm/" name="WORD Do XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xltx/" name="WORD Do XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/python-net/conversion/word-to-xlsm/" name="WORD Do XLSM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

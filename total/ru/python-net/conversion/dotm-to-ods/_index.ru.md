@@ -55,7 +55,23 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие варианты преобразования" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-excel/" name="DOTM К EXCEL" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xls/" name="DOTM К XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xlsx/" name="DOTM К XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-csv/" name="DOTM К CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-dif/" name="DOTM К DIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-fods/" name="DOTM К FODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-ods/" name="DOTM К ODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-sxc/" name="DOTM К SXC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-tsv/" name="DOTM К TSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xlam/" name="DOTM К XLAM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xlsb/" name="DOTM К XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xlt/" name="DOTM К XLT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xltm/" name="DOTM К XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xltx/" name="DOTM К XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/python-net/conversion/dotm-to-xlsm/" name="DOTM К XLSM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

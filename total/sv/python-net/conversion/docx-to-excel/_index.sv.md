@@ -55,7 +55,23 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra konverteringsalternativ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-excel/" name="DOCX Till EXCEL" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xls/" name="DOCX Till XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xlsx/" name="DOCX Till XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-csv/" name="DOCX Till CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-dif/" name="DOCX Till DIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-fods/" name="DOCX Till FODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-ods/" name="DOCX Till ODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-sxc/" name="DOCX Till SXC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-tsv/" name="DOCX Till TSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xlam/" name="DOCX Till XLAM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xlsb/" name="DOCX Till XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xlt/" name="DOCX Till XLT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xltm/" name="DOCX Till XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xltx/" name="DOCX Till XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/conversion/docx-to-xlsm/" name="DOCX Till XLSM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

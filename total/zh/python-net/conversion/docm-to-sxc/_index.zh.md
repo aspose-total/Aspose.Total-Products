@@ -55,7 +55,23 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他转换选项" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-excel/" name="DOCM到EXCEL" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xls/" name="DOCM到XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xlsx/" name="DOCM到XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-csv/" name="DOCM到CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-dif/" name="DOCM到DIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-fods/" name="DOCM到FODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-ods/" name="DOCM到ODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-sxc/" name="DOCM到SXC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-tsv/" name="DOCM到TSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xlam/" name="DOCM到XLAM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xlsb/" name="DOCM到XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xlt/" name="DOCM到XLT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xltm/" name="DOCM到XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xltx/" name="DOCM到XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/conversion/docm-to-xlsm/" name="DOCM到XLSM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

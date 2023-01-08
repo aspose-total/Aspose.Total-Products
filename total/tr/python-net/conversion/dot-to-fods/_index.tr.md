@@ -55,7 +55,23 @@ Esas olarak iki adımdadır. DOT dosyasını HTML'ye dönüştürmek için önce
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Dönüşüm Seçenekleri" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-excel/" name="DOT İle EXCEL" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xls/" name="DOT İle XLS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xlsx/" name="DOT İle XLSX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-csv/" name="DOT İle CSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-dif/" name="DOT İle DIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-fods/" name="DOT İle FODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-ods/" name="DOT İle ODS" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-sxc/" name="DOT İle SXC" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-tsv/" name="DOT İle TSV" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xlam/" name="DOT İle XLAM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xlsb/" name="DOT İle XLSB" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xlt/" name="DOT İle XLT" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xltm/" name="DOT İle XLTM" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xltx/" name="DOT İle XLTX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/python-net/conversion/dot-to-xlsm/" name="DOT İle XLSM" description="" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
