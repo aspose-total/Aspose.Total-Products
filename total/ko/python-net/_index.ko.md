@@ -38,6 +38,10 @@ PPT, PPTX 및 ODP 파일을 이미지, 고정 레이아웃 및 웹 형식으로 
 Python 응용 프로그램 내에서 인코딩 및 디코딩을 위해 다양한 1D, 2D 및 우편 기호의 바코드를 생성하고 인식하는 Python Barcode API.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/ko/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Microsoft Project 종속성이나 다른 소프트웨어 없이 Python 애플리케이션 내에서 Microsoft Project 파일을 생성, 로드, 업데이트 및 변환합니다.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/ko/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 종속성 없이 Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco 파일 형식을 생성, 편집 및 변환할 수 있는 Python 3D API.
 {{< /blocks/products/pf/total/product-item >}}

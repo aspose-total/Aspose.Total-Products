@@ -38,6 +38,10 @@ Thư viện Python dành cho các định dạng trình bày PowerPoint & OpenOf
 API mã vạch Python để tạo và nhận dạng mã vạch của các ký hiệu 1D, 2D và bưu chính khác nhau cho cả mã hóa cũng như giải mã trong các ứng dụng Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/vi/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Tạo, tải, cập nhật và chuyển đổi các tệp Microsoft Project trong các ứng dụng Python mà không cần phụ thuộc vào Microsoft Project hoặc bất kỳ phần mềm nào khác.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/vi/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Một API Python 3D có thể tạo, chỉnh sửa hoặc chuyển đổi định dạng tệp Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco mà không cần bất kỳ sự phụ thuộc nào.
 {{< /blocks/products/pf/total/product-item >}}

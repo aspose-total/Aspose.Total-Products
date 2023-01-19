@@ -38,6 +38,10 @@ Knihovna Python pro prezentační formáty PowerPoint a OpenOffice, která můž
 Python Barcode API pro generování a rozpoznávání čárových kódů různých 1D, 2D a poštovních symbolů pro kódování i dekódování v aplikacích Pythonu.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/cs/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Vytvářejte, načtěte, aktualizujte a převádějte soubory Microsoft Project v rámci aplikací Python bez závislostí na Microsoft Project nebo jiném softwaru.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/cs/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Python 3D API, které dokáže vytvářet, upravovat nebo převádět formáty souborů Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bez jakékoli závislosti.
 {{< /blocks/products/pf/total/product-item >}}

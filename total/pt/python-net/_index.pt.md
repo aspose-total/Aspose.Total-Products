@@ -36,7 +36,10 @@ Biblioteca Python para formatos de apresentação PowerPoint e OpenOffice que po
 
 {{< blocks/products/pf/total/product-item href="/barcode/pt/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API para gerar e reconhecer códigos de barras de várias simbologias 1D, 2D e postais para codificação e decodificação em aplicativos Python.
+{{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/pt/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Crie, carregue, atualize e converta arquivos do Microsoft Project em aplicativos Python sem dependências do Microsoft Project ou qualquer outro software.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/pt/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}

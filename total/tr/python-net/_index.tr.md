@@ -38,6 +38,10 @@ PPT, PPTX ve ODP dosyalarını oluşturmaya, okumaya, yazmaya, değiştirmeye, b
 Python uygulamalarında hem kodlama hem de kod çözme için çeşitli 1B, 2B ve posta sembolojilerinin barkodunu oluşturmak ve tanımak için Python Barkod API'si.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/tr/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Microsoft Project bağımlılıkları veya başka herhangi bir yazılım olmadan Python uygulamalarında Microsoft Project dosyaları oluşturun, yükleyin, güncelleyin ve dönüştürün.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/tr/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Herhangi bir bağımlılık olmaksızın Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco dosya formatlarını oluşturabilen, düzenleyebilen ve dönüştürebilen bir Python 3D API'si.
 {{< /blocks/products/pf/total/product-item >}}

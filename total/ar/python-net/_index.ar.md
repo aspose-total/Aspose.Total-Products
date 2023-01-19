@@ -38,6 +38,10 @@ Python Excel API لعمليات أتمتة جداول البيانات مثل ا
 Python Barcode API لإنشاء والتعرف على الرموز الشريطية لمختلف الرموز 1D و 2 D والبريدية لكل من الترميز وكذلك فك التشفير داخل تطبيقات Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/ar/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+قم بإنشاء ملفات Microsoft Project وتحميلها وتحديثها وتحويلها داخل تطبيقات Python بدون تبعيات Microsoft Project أو أي برامج أخرى.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/ar/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 واجهة برمجة تطبيقات Python ثلاثية الأبعاد يمكنها إنشاء وتحرير تنسيقات ملفات Discreet3DS و WavefrontOBJ و FBX و STL و Universal3D و Collada و glTF و GLB و PLY و DirectX و Google Draco دون أي تبعية.
 {{< /blocks/products/pf/total/product-item >}}

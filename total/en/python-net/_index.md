@@ -38,6 +38,10 @@ Python library for PowerPoint & OpenOffice presentation formats that can help cr
 Python Barcode API to generate and recognize barcode of various 1D, 2D and postal symbologies for both encoding as well as decoding within Python applications.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Create, load, update and convert Microsoft Project files within Python applications without Microsoft Project dependencies or any other software.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 A Python 3D API that can create, edit ot convert Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats without any dependency.
 {{< /blocks/products/pf/total/product-item >}}

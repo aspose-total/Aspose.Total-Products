@@ -38,6 +38,10 @@ Python-könyvtár PowerPoint és OpenOffice prezentációs formátumokhoz, amely
 Python Barcode API különféle 1D, 2D és postai szimbólumok vonalkódjának generálására és felismerésére a Python alkalmazásokon belüli kódoláshoz és dekódoláshoz egyaránt.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/hu/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Hozzon létre, töltsön be, frissítsen és konvertáljon Microsoft Project fájlokat Python alkalmazásokban Microsoft Project függőségek vagy bármilyen más szoftver nélkül.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/hu/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Egy Python 3D API, amely bármilyen függőség nélkül képes Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco fájlformátumok létrehozására, szerkesztésére és konvertálására.
 {{< /blocks/products/pf/total/product-item >}}

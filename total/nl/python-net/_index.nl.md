@@ -38,6 +38,10 @@ Python-bibliotheek voor PowerPoint- en OpenOffice-presentatieformaten die kunnen
 Python Barcode API voor het genereren en herkennen van barcodes van verschillende 1D-, 2D- en postsymbolen voor zowel codering als decodering binnen Python-toepassingen.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/nl/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Maak, laad, update en converteer Microsoft Project-bestanden binnen Python-applicaties zonder Microsoft Project-afhankelijkheden of andere software.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/nl/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Een Python 3D API die Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bestandsformaten kan maken, bewerken of converteren zonder enige afhankelijkheid.
 {{< /blocks/products/pf/total/product-item >}}

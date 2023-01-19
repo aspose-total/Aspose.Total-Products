@@ -38,6 +38,10 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 Python Barcode API 用於生成和識別各種 1D、2D 和郵政符號體系的條碼，以便在 Python 應用程序中進行編碼和解碼。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/zh-hant/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+在沒有 Microsoft Project 依賴項或任何其他軟件的情況下，在 Python 應用程序中創建、加載、更新和轉換 Microsoft Project 文件。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/zh-hant/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 一個 Python 3D API，可以創建、編輯或轉換 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Draco 文件格式，無需任何依賴。
 {{< /blocks/products/pf/total/product-item >}}

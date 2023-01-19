@@ -38,6 +38,11 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 पायथन बारकोड एपीआई विभिन्न 1D, 2D और डाक प्रतीकों के बारकोड को उत्पन्न करने और पहचानने के लिए दोनों एन्कोडिंग के साथ-साथ पायथन अनुप्रयोगों के भीतर डिकोडिंग के लिए।
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/hi/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Microsoft प्रोजेक्ट निर्भरता या किसी अन्य सॉफ़्टवेयर के बिना Python अनुप्रयोगों के भीतर Microsoft प्रोजेक्ट फ़ाइलों को बनाएँ, लोड करें, अपडेट करें और परिवर्तित करें।
+{{< /blocks/products/pf/total/product-item >}}
+
+
 {{< blocks/products/pf/total/product-item href="/3d/hi/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 एक पायथन 3डी एपीआई जो बिना किसी निर्भरता के डिस्क्रीट3डीएस, वेवफ्रंटओबीजे, एफबीएक्स, एसटीएल, यूनिवर्सल3डी, कोलाडा, जीएलटीएफ, जीएलबी, पीएलवाई, डायरेक्टएक्स, गूगल ड्रेको फ़ाइल स्वरूपों को बना, संपादित कर सकता है।
 {{< /blocks/products/pf/total/product-item >}}

@@ -38,6 +38,10 @@ Pustaka Python untuk format presentasi PowerPoint & OpenOffice yang dapat memban
 Python Barcode API untuk menghasilkan dan mengenali kode batang dari berbagai simbol 1D, 2D, dan pos untuk penyandian dan penguraian kode dalam aplikasi Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/id/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Buat, muat, perbarui, dan konversi file Microsoft Project dalam aplikasi Python tanpa ketergantungan Microsoft Project atau perangkat lunak lainnya.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/id/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 API 3D Python yang dapat membuat, mengedit, atau mengonversi format file Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco tanpa ketergantungan apa pun.
 {{< /blocks/products/pf/total/product-item >}}

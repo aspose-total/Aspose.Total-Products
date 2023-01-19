@@ -38,6 +38,10 @@ Python Excel API για διαδικασίες αυτοματισμού υπολ
 Python Barcode API για τη δημιουργία και αναγνώριση γραμμωτού κώδικα διαφόρων 1D, 2D και ταχυδρομικών συμβόλων τόσο για κωδικοποίηση όσο και για αποκωδικοποίηση εντός εφαρμογών Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/el/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Δημιουργήστε, φορτώστε, ενημερώστε και μετατρέψτε αρχεία Microsoft Project εντός εφαρμογών Python χωρίς εξαρτήσεις του Microsoft Project ή οποιοδήποτε άλλο λογισμικό.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/el/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Ένα Python 3D API που μπορεί να δημιουργήσει, να επεξεργαστεί και να μετατρέψει μορφές αρχείων Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco χωρίς καμία εξάρτηση.
 {{< /blocks/products/pf/total/product-item >}}

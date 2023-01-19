@@ -39,6 +39,10 @@ PPT、PPTX、およびODPファイルを画像、固定レイアウト、およ�
 Python アプリケーション内でのエンコードとデコードの両方で、さまざまな 1D、2D、および郵便記号のバーコードを生成および認識する Python Barcode API。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/tasks/ja/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+Microsoft Project の依存関係やその他のソフトウェアを使用せずに、Python アプリケーション内で Microsoft Project ファイルを作成、読み込み、更新、および変換します。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/3d/ja/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Dracoファイル形式を依存せずに作成、編集、変換できるPython3DAPI。
 {{< /blocks/products/pf/total/product-item >}}
