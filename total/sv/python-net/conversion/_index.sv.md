@@ -45,3 +45,15 @@ Python API stöder konvertering av Microsoft PowerPoint PPT / PPTX till Word DOC
 
 
 {{< blocks/products/pf/feature-page-options pairs="powerpoint-to-word ppsx-to-doc pptx-to-docx ppt-to-docm pot-to-dotx potx-to-dotm potm-to-rtf pptm-to-word pps-to-docx odp-to-doc word-to-powerpoint doc-to-odp dot-to-pps docx-to-ppsm docm-to-pptm dotx-to-potm dotm-to-potx rtf-to-pot wordml-to-pptx odt-to-ppsx ott-to-pps txt-to-powerpoint md-to-ppsm" >}}
+
+{{% blocks/products/pf/feature-page-section  h2="E-post till Word, PDF, HTML och bildkonvertering" %}}
+För e-postfiler som konverteras till PDF, Word, Bilder och HTML, utför Email Python API [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) konverteringen. API laddar källfilen i dess objektmodell och anropar Save-metoden med relevanta parametrar. 
+
+{{% blocks/products/pf/feature-page-code h3="Python - E-postfiler till Word-konvertering" %}}
+
+{{< gist "aspose-com-gists" "1dbc5b4bf28dba34207d9bb94cbc149e" "convert-email-to-word-via-python.py" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options pairs="email-to-doc ics-to-docx mbox-to-pdf ost-to-image msg-to-tiff pst-to-jpeg oft-to-gif vcf-to-docm emlx-to-png eml-to-text" >}}

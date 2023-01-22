@@ -45,3 +45,15 @@ Python API は、Microsoft PowerPoint PPT / PPTX から Word DOC / DOCX ファ�
 
 
 {{< blocks/products/pf/feature-page-options pairs="powerpoint-to-word ppsx-to-doc pptx-to-docx ppt-to-docm pot-to-dotx potx-to-dotm potm-to-rtf pptm-to-word pps-to-docx odp-to-doc word-to-powerpoint doc-to-odp dot-to-pps docx-to-ppsm docm-to-pptm dotx-to-potm dotm-to-potx rtf-to-pot wordml-to-pptx odt-to-ppsx ott-to-pps txt-to-powerpoint md-to-ppsm" >}}
+
+{{% blocks/products/pf/feature-page-section  h2="電子メールから Word、PDF、HTML、画像への変換" %}}
+電子メール ファイルを PDF、Word、画像、および HTML に変換する場合、電子メール Python API [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) が変換を実行します。 API はソース ファイルをそのオブジェクト モデルにロードし、関連するパラメーターを指定して Save メソッドを呼び出します。 
+
+{{% blocks/products/pf/feature-page-code h3="Python - 電子メール ファイルから Word への変換" %}}
+
+{{< gist "aspose-com-gists" "1dbc5b4bf28dba34207d9bb94cbc149e" "convert-email-to-word-via-python.py" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options pairs="email-to-doc ics-to-docx mbox-to-pdf ost-to-image msg-to-tiff pst-to-jpeg oft-to-gif vcf-to-docm emlx-to-png eml-to-text" >}}

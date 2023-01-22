@@ -45,3 +45,15 @@ Python API 支持將 Microsoft PowerPoint PPT / PPTX 轉換為 Word DOC / DOCX �
 
 
 {{< blocks/products/pf/feature-page-options pairs="powerpoint-to-word ppsx-to-doc pptx-to-docx ppt-to-docm pot-to-dotx potx-to-dotm potm-to-rtf pptm-to-word pps-to-docx odp-to-doc word-to-powerpoint doc-to-odp dot-to-pps docx-to-ppsm docm-to-pptm dotx-to-potm dotm-to-potx rtf-to-pot wordml-to-pptx odt-to-ppsx ott-to-pps txt-to-powerpoint md-to-ppsm" >}}
+
+{{% blocks/products/pf/feature-page-section  h2="電子郵件到 Word、PDF、HTML 和圖像的轉換" %}}
+對於轉換為 PDF、Word、圖像和 HTML 的電子郵件文件，Email Python API [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) 執行轉換。 API 將源文件加載到其對像模型中，並使用相關參數調用 Save 方法。 
+
+{{% blocks/products/pf/feature-page-code h3="Python - 將電子郵件文件轉換為 Word" %}}
+
+{{< gist "aspose-com-gists" "1dbc5b4bf28dba34207d9bb94cbc149e" "convert-email-to-word-via-python.py" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options pairs="email-to-doc ics-to-docx mbox-to-pdf ost-to-image msg-to-tiff pst-to-jpeg oft-to-gif vcf-to-docm emlx-to-png eml-to-text" >}}

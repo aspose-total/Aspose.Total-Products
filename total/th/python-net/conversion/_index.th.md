@@ -45,3 +45,15 @@ Python API รองรับการแปลงไฟล์ Microsoft PowerPo
 
 
 {{< blocks/products/pf/feature-page-options pairs="powerpoint-to-word ppsx-to-doc pptx-to-docx ppt-to-docm pot-to-dotx potx-to-dotm potm-to-rtf pptm-to-word pps-to-docx odp-to-doc word-to-powerpoint doc-to-odp dot-to-pps docx-to-ppsm docm-to-pptm dotx-to-potm dotm-to-potx rtf-to-pot wordml-to-pptx odt-to-ppsx ott-to-pps txt-to-powerpoint md-to-ppsm" >}}
+
+{{% blocks/products/pf/feature-page-section  h2="การแปลงอีเมลเป็น Word, PDF, HTML และรูปภาพ" %}}
+สำหรับไฟล์อีเมลที่แปลงเป็น PDF, Word, รูปภาพและ HTML, Email Python API [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) จะทำการแปลง API โหลดไฟล์ต้นฉบับในรูปแบบวัตถุและเรียกใช้เมธอด Save ด้วยพารามิเตอร์ที่เกี่ยวข้อง 
+
+{{% blocks/products/pf/feature-page-code h3="Python - ส่งอีเมลไฟล์เป็นการแปลง Word" %}}
+
+{{< gist "aspose-com-gists" "1dbc5b4bf28dba34207d9bb94cbc149e" "convert-email-to-word-via-python.py" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options pairs="email-to-doc ics-to-docx mbox-to-pdf ost-to-image msg-to-tiff pst-to-jpeg oft-to-gif vcf-to-docm emlx-to-png eml-to-text" >}}
