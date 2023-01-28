@@ -18,6 +18,10 @@ Aspose.Total cho Python qua Java là một bộ hoàn chỉnh dành cho các nh�
 
 {{< blocks/products/pf/total/products description="Aspose.Total cho Python qua Java bao gồm các API mã cao sau:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/vi/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API để tạo, chỉnh sửa và thao tác các tệp PDF mà không cần bất kỳ phụ thuộc Adobe Acrobat nào. Các nhà phát triển có thể lấy và đặt thông tin siêu dữ liệu, thao tác dữ liệu văn bản và trang, chia nhỏ và hợp nhất tệp, xuất tài liệu PDF sang các định dạng khác, v.v.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/vi/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Thư viện Excel Python để tự động hóa các quy trình như tạo, thao tác và chuyển đổi bảng tính. Nó cũng có thể kết xuất trang tính sang XPS, PDF, MHTML, HTML, Văn bản thuần túy và hình ảnh. 
 {{< /blocks/products/pf/total/product-item >}}

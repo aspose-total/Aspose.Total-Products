@@ -18,6 +18,10 @@ Aspose.Total สำหรับ Python ผ่าน Java เป็นชุด�
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ Python ผ่าน Java มี API โค้ดสูงดังต่อไปนี้:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/th/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API เพื่อสร้าง แก้ไข และจัดการไฟล์ PDF โดยไม่ต้องพึ่ง Adobe Acrobat นักพัฒนาสามารถรับและตั้งค่าข้อมูลเมทาดาทา จัดการข้อมูลข้อความและหน้า แยกและรวมไฟล์ ส่งออกเอกสาร PDF เป็นรูปแบบอื่น และอื่นๆ อีกมากมาย
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/th/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 ไลบรารี Excel Python เพื่อทำให้กระบวนการต่างๆ เป็นแบบอัตโนมัติ เช่น การสร้าง การจัดการ และการแปลงสเปรดชีต นอกจากนี้ยังสามารถแสดงเวิร์กชีตเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดาและรูปภาพ 
 {{< /blocks/products/pf/total/product-item >}}

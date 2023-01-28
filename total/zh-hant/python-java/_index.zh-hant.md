@@ -18,6 +18,10 @@ Aspose.Total for Python via Java 是一個完整的套件，供 Python 開發人
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via Java 包括以下高代碼 API：" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/zh-hant/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API，無需任何 Adobe Acrobat 依賴項即可創建、編輯和操作 PDF 文件。 開發人員可以獲取和設置元數據信息、操作文本和頁面數據、拆分和合併文件、將 PDF 文檔導出為其他格式等等。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/zh-hant/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 一個 Excel Python 庫，用於自動化電子表格的生成、操作和轉換等過程。它還可以將工作表呈現為 XPS、PDF、MHTML、HTML、純文本和圖像。 
 {{< /blocks/products/pf/total/product-item >}}

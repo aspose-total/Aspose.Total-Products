@@ -18,6 +18,10 @@ Aspose.Total per Python tramite Java è una suite completa per gli sviluppatori 
 
 {{< blocks/products/pf/total/products description="Aspose.Total per Python tramite Java include le seguenti API high-code:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/it/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API per creare, modificare e manipolare file PDF senza alcuna dipendenza da Adobe Acrobat. Gli sviluppatori possono ottenere e impostare informazioni sui metadati, manipolare dati di testo e pagine, dividere e unire file, esportare documenti PDF in altri formati e molto altro.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/it/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Una libreria Excel Python per automatizzare processi come generazione, manipolazione e conversione di fogli di calcolo. Può anche eseguire il rendering di fogli di lavoro in XPS, PDF, MHTML, HTML, testo normale e immagini. 
 {{< /blocks/products/pf/total/product-item >}}

@@ -18,6 +18,10 @@ description: Βιβλιοθήκες Python για ανάλυση υπολογι�
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total για Python μέσω Java περιλαμβάνει τα ακόλουθα API υψηλού κώδικα:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/el/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API για δημιουργία, επεξεργασία και χειρισμό αρχείων PDF χωρίς εξαρτήσεις του Adobe Acrobat. Οι προγραμματιστές μπορούν να λαμβάνουν και να ορίζουν πληροφορίες μεταδεδομένων, να χειρίζονται δεδομένα κειμένου και σελίδας, να διαχωρίζουν και να συγχωνεύουν αρχεία, να εξάγουν έγγραφο PDF σε άλλες μορφές και πολλά άλλα.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/el/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Μια βιβλιοθήκη Excel Python για την αυτοματοποίηση διαδικασιών όπως η δημιουργία, ο χειρισμός και η μετατροπή υπολογιστικών φύλλων. Μπορεί επίσης να αποδίδει φύλλα εργασίας σε XPS, PDF, MHTML, HTML, Απλό κείμενο και εικόνες. 
 {{< /blocks/products/pf/total/product-item >}}

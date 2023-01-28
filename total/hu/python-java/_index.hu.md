@@ -18,6 +18,10 @@ Az Aspose.Total for Python via Java egy teljes programcsomag Python-fejlesztők 
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for Python a Java-n keresztül a következő nagy kódú API-kat tartalmazza:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/hu/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API PDF-fájlok létrehozásához, szerkesztéséhez és kezeléséhez Adobe Acrobat-függőségek nélkül. A fejlesztők beszerezhetik és beállíthatják a metaadatokat, módosíthatják a szöveget és az oldaladatokat, feloszthatnak és egyesíthetnek fájlokat, exportálhatnak PDF-dokumentumot más formátumokba és még sok mást.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Egy Excel Python-könyvtár olyan folyamatok automatizálására, mint a táblázatok generálása, manipulálása és konvertálása. A munkalapokat XPS-re, PDF-re, MHTML-re, HTML-re, egyszerű szövegre és képekre is képes renderelni. 
 {{< /blocks/products/pf/total/product-item >}}

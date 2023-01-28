@@ -18,6 +18,10 @@ Aspose.Total for Python via Javaは、Python開発者が、Pythonアプリケー
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via Javaには、次のハイコードAPIが含まれています。" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/ja/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+Adobe Acrobat に依存せずに PDF ファイルを作成、編集、操作するための PDF Python API。 開発者は、メタデータ情報の取得と設定、テキストとページ データの操作、ファイルの分割と結合、PDF ドキュメントの他の形式へのエクスポートなどを行うことができます。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/ja/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 スプレッドシートの生成、操作、変換などのプロセスを自動化するExcelPythonライブラリ。また、ワークシートをXPS、PDF、MHTML、HTML、プレーンテキストおよび画像にレンダリングすることもできます。 
 {{< /blocks/products/pf/total/product-item >}}

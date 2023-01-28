@@ -18,6 +18,10 @@ Aspose.Total for Python via Java adalah rangkaian lengkap untuk pengembang Pytho
 
 {{< blocks/products/pf/total/products description="Aspose.Total untuk Python melalui Java menyertakan API kode tinggi berikut:" >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/id/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API untuk membuat, mengedit, dan memanipulasi file PDF tanpa ketergantungan Adobe Acrobat. Pengembang dapat memperoleh dan mengatur informasi metadata, memanipulasi data teks dan halaman, membagi dan menggabungkan file, mengekspor dokumen PDF ke format lain, dan banyak lagi.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/id/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Pustaka Excel Python untuk mengotomatiskan proses seperti pembuatan, manipulasi & konversi spreadsheet. Itu juga dapat membuat lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa dan gambar. 
 {{< /blocks/products/pf/total/product-item >}}

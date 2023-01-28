@@ -18,6 +18,10 @@ Aspose.Total for Python via Java는 Python 개발자가 Python 애플리케이�
 
 {{< blocks/products/pf/total/products description="Java를 통한 Python용 Aspose.Total에는 다음과 같은 고급 코드 API가 포함되어 있습니다." >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/ko/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Python via Java">}}
+PDF Python API는 Adobe Acrobat 종속성 없이 PDF 파일을 생성, 편집 및 조작합니다. 개발자는 메타데이터 정보를 가져오고 설정하고, 텍스트 및 페이지 데이터를 조작하고, 파일을 분할 및 병합하고, PDF 문서를 다른 형식으로 내보내는 등의 작업을 수행할 수 있습니다.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/ko/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 스프레드시트의 생성, 조작 및 변환과 같은 프로세스를 자동화하는 Excel Python 라이브러리입니다. 또한 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트 및 이미지로 렌더링할 수 있습니다. 
 {{< /blocks/products/pf/total/product-item >}}
