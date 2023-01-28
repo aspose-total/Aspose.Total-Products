@@ -22,6 +22,10 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 用於 Microsoft Word 和 OpenOffice 的文字處理格式的獨立 Python 庫。允許使用 MailMerge 創建報告，生成和編輯文檔，將包括 DOC、DOCX 和 ODT 在內的文件呈現或導出為圖像、PDF、HTML 和其他幾種格式。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/zh-hant/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+用於 PDF 處理功能的 Python API，無需在 Python 應用程序中使用 Adobe Acrobat。 一些功能包括合併和拆分 PDF 文件、將 PDF 文件轉換為圖像以及添加、更新和刪除圖像、附件、書籤、註釋、超鏈接、水印等。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 用於電子表格自動化過程的 Python Excel API，例如創建、操作和轉換。此外，它將工作表呈現為 XPS、PDF、HTML、純文本和圖像。 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,21 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 Python Barcode API 用於生成和識別各種 1D、2D 和郵政符號體系的條碼，以便在 Python 應用程序中進行編碼和解碼。
 {{< /blocks/products/pf/total/product-item >}}
 
+
+{{< blocks/products/pf/total/product-item href="/diagram/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Microsoft Visio 格式操作 Python API，用於在 Python 應用程序中創建、讀取、寫入和導出 VSDX、VDX、VSX、VTX 和更多格式。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/zh-hant/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 在沒有 Microsoft Project 依賴項或任何其他軟件的情況下，在 Python 應用程序中創建、加載、更新和轉換 Microsoft Project 文件。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/zh-hant/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 一個 Python 3D API，可以創建、編輯或轉換 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Draco 文件格式，無需任何依賴。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+XBRL 和 iXBRL 格式處理 API 可直接在 Python 應用程序中輕鬆創建、讀取和驗證可擴展商業報告語言文檔。
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

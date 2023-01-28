@@ -22,6 +22,10 @@ description: Python API για έγγραφα του Microsoft Word, παρου�
 Αυτόνομη βιβλιοθήκη Python για μορφές επεξεργασίας κειμένου από το Microsoft Word και το OpenOffice. Επιτρέπει τη δημιουργία αναφορών χρησιμοποιώντας το MailMerge, τη δημιουργία και την επεξεργασία εγγράφων, την απόδοση ή την εξαγωγή αρχείων συμπεριλαμβανομένων των DOC, DOCX και ODT σε εικόνες, PDF, HTML και πολλές άλλες μορφές.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/el/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API για δυνατότητες επεξεργασίας PDF χωρίς τη χρήση του Adobe Acrobat εντός εφαρμογών Python. Λίγες από τις δυνατότητες περιλαμβάνουν συγχώνευση και διαίρεση αρχείων PDF, μετατροπή αρχείων PDF σε εικόνες καθώς και προσθήκη, ενημέρωση και διαγραφή εικόνων, συνημμένων, σελιδοδεικτών, σχολιασμών, υπερσυνδέσμων, υδατογραφημάτων και πολλά άλλα.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API για διαδικασίες αυτοματισμού υπολογιστικών φύλλων όπως η δημιουργία, ο χειρισμός και η μετατροπή. Επιπλέον, αποδίδει φύλλα εργασίας σε XPS, PDF, HTML, Απλό κείμενο και εικόνες. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Python Excel API για διαδικασίες αυτοματισμού υπολ
 Python Barcode API για τη δημιουργία και αναγνώριση γραμμωτού κώδικα διαφόρων 1D, 2D και ταχυδρομικών συμβόλων τόσο για κωδικοποίηση όσο και για αποκωδικοποίηση εντός εφαρμογών Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Το Microsoft Visio χειρίζεται το Python API για να δημιουργήσει, να διαβάσει, να γράψει και να εξάγει VSDX, VDX, VSX, VTX και άλλες μορφές εντός εφαρμογών Python.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/el/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Δημιουργήστε, φορτώστε, ενημερώστε και μετατρέψτε αρχεία Microsoft Project εντός εφαρμογών Python χωρίς εξαρτήσεις του Microsoft Project ή οποιοδήποτε άλλο λογισμικό.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/el/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Ένα Python 3D API που μπορεί να δημιουργήσει, να επεξεργαστεί και να μετατρέψει μορφές αρχείων Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco χωρίς καμία εξάρτηση.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/el/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+Μορφές XBRL και iXBRL που επεξεργάζονται το API για εύκολη δημιουργία, ανάγνωση και επικύρωση εγγράφων επεκτάσιμης γλώσσας αναφοράς επιχειρήσεων απευθείας σε εφαρμογές Python.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

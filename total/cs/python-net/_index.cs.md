@@ -22,6 +22,10 @@ Knihovny Document Automation pro Python, které pomáhají při vytváření apl
 Samostatná knihovna Python pro formáty textového zpracování z Microsoft Word a OpenOffice. Umožňuje vytvářet sestavy pomocí MailMerge, generovat a upravovat dokumenty, vykreslovat nebo exportovat soubory včetně DOC, DOCX a ODT do obrázků, PDF, HTML a několika dalších formátů.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/cs/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API pro možnosti zpracování PDF bez použití Adobe Acrobat v aplikacích Pythonu. Některé z těchto schopností zahrnují sloučení a rozdělení souborů PDF, převod souborů PDF na obrázky a také přidávání, aktualizaci a odstraňování obrázků, příloh, záložek, poznámek, hypertextových odkazů, vodoznaků a další.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API pro procesy automatizace tabulek, jako je vytváření, manipulace a konverze. Kromě toho vykresluje pracovní listy do XPS, PDF, HTML, prostého textu a obrázků.
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Knihovna Python pro prezentační formáty PowerPoint a OpenOffice, která můž
 Python Barcode API pro generování a rozpoznávání čárových kódů různých 1D, 2D a poštovních symbolů pro kódování i dekódování v aplikacích Pythonu.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Microsoft Visio pro manipulaci s formáty Python API pro vytváření, čtení, zápis a export formátů VSDX, VDX, VSX, VTX a dalších v rámci aplikací Python.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/cs/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Vytvářejte, načtěte, aktualizujte a převádějte soubory Microsoft Project v rámci aplikací Python bez závislostí na Microsoft Project nebo jiném softwaru.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/cs/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Python 3D API, které dokáže vytvářet, upravovat nebo převádět formáty souborů Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bez jakékoli závislosti.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/cs/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+Formáty XBRL a iXBRL zpracovávající API pro snadné vytváření, čtení a ověřování dokumentů eXtensible Business Reporting Language přímo v aplikacích Pythonu.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

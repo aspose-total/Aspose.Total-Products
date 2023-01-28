@@ -22,6 +22,10 @@ Pythonアプリ内からDOC、DOCX、PPT、PPTX、EML、MSG、3D、およびそ�
 MicrosoftWordおよびOpenOfficeのワードプロセッシング形式用のスタンドアロンPythonライブラリ。 MailMergeを使用してレポートを作成したり、ドキュメントを生成および編集したり、DOC、DOCX、ODTなどのファイルを画像、PDF、HTML、およびその他のいくつかの形式にレンダリングまたはエクスポートしたりできます。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/ja/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python アプリケーション内で Adobe Acrobat を使用しない PDF 処理機能用の Python API。 PDFファイルのマージと分割、PDFファイルの画像への変換、画像、添付ファイル、ブックマーク、注釈、ハイパーリンク、透かしなどの追加、更新、削除などの機能はほとんどありません.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 作成、操作、変換などのスプレッドシート自動化プロセス用の Python Excel API。さらに、ワークシートを XPS、PDF、HTML、プレーン テキスト、および画像にレンダリングします。 
 {{< /blocks/products/pf/total/product-item >}}
@@ -39,12 +43,20 @@ PPT、PPTX、およびODPファイルを画像、固定レイアウト、およ�
 Python アプリケーション内でのエンコードとデコードの両方で、さまざまな 1D、2D、および郵便記号のバーコードを生成および認識する Python Barcode API。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Microsoft Visio フォーマット操作 Python アプリケーション内で VSDX、VDX、VSX、VTX などのフォーマットを作成、読み取り、書き込み、エクスポートするための Python API。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/ja/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Microsoft Project の依存関係やその他のソフトウェアを使用せずに、Python アプリケーション内で Microsoft Project ファイルを作成、読み込み、更新、および変換します。
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/ja/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Dracoファイル形式を依存せずに作成、編集、変換できるPython3DAPI。
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/ja/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+XBRL および iXBRL フォーマット処理 API を使用して、Python アプリケーション内で直接、eXtensible Business Reporting Language ドキュメントを簡単に作成、読み取り、および検証します。
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

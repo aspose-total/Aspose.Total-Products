@@ -22,6 +22,10 @@ Bibliothèques d'automatisation de documents pour Python qui aident à créer de
 Bibliothèque Python autonome pour les formats de traitement de texte de Microsoft Word et OpenOffice. Permet de créer des rapports à l'aide de MailMerge, de générer et de modifier des documents, de rendre ou d'exporter des fichiers, y compris DOC, DOCX et ODT vers des images, PDF, HTML et plusieurs autres formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/fr/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+API Python pour les capacités de traitement PDF sans l'utilisation d'Adobe Acrobat dans les applications Python. Peu de fonctionnalités incluent la fusion et la division de fichiers PDF, la conversion de fichiers PDF en images ainsi que l'ajout, la mise à jour et la suppression d'images, de pièces jointes, de signets, d'annotations, d'hyperliens, de filigranes, etc.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 API Python Excel pour les processus d'automatisation des feuilles de calcul tels que la création, la manipulation et la conversion. De plus, il rend les feuilles de calcul en XPS, PDF, HTML, texte brut et images.
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Bibliothèque Python pour les formats de présentation PowerPoint et OpenOffice 
 API Python Barcode pour générer et reconnaître le code-barres de diverses symbologies 1D, 2D et postales pour l'encodage et le décodage dans les applications Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+API Python de manipulation des formats Microsoft Visio pour créer, lire, écrire et exporter des formats VSDX, VDX, VSX, VTX et plus encore dans les applications Python.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/fr/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Créez, chargez, mettez à jour et convertissez des fichiers Microsoft Project dans des applications Python sans dépendances Microsoft Project ou tout autre logiciel.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/fr/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Une API Python 3D qui peut créer, éditer ou convertir les formats de fichiers Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco sans aucune dépendance.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/fr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+API de traitement des formats XBRL et iXBRL pour créer, lire et valider facilement des documents eXtensible Business Reporting Language directement dans les applications Python.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

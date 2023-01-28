@@ -22,6 +22,10 @@ Python 앱 내에서 DOC, DOCX, PPT, PPTX, EML, MSG, 3D 및 기타 형식을 생
 Microsoft Word 및 OpenOffice의 워드 프로세싱 형식을 위한 독립 실행형 Python 라이브러리. MailMerge를 사용하여 보고서 작성, 문서 생성 및 편집, DOC, DOCX 및 ODT를 포함한 파일을 이미지, PDF, HTML 및 기타 여러 형식으로 렌더링하거나 내보낼 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/ko/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python 애플리케이션 내에서 Adobe Acrobat을 사용하지 않고 PDF 처리 기능을 위한 Python API. 일부 기능에는 PDF 파일 병합 및 분할, PDF 파일을 이미지로 변환, 이미지, 첨부 파일, 책갈피, 주석, 하이퍼링크, 워터마크 등을 추가, 업데이트 및 삭제하는 기능이 포함됩니다.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 생성, 조작 및 변환과 같은 스프레드시트 자동화 프로세스를 위한 Python Excel API. 또한 워크시트를 XPS, PDF, HTML, 일반 텍스트 및 이미지로 렌더링합니다. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ PPT, PPTX 및 ODP 파일을 이미지, 고정 레이아웃 및 웹 형식으로 
 Python 응용 프로그램 내에서 인코딩 및 디코딩을 위해 다양한 1D, 2D 및 우편 기호의 바코드를 생성하고 인식하는 Python Barcode API.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Microsoft Visio 형식 조작 Python API를 사용하여 Python 응용 프로그램 내에서 VSDX, VDX, VSX, VTX 및 기타 형식을 만들고 읽고 쓰고 내보냅니다.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/ko/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Microsoft Project 종속성이나 다른 소프트웨어 없이 Python 애플리케이션 내에서 Microsoft Project 파일을 생성, 로드, 업데이트 및 변환합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/ko/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 종속성 없이 Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco 파일 형식을 생성, 편집 및 변환할 수 있는 Python 3D API.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/ko/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+XBRL 및 iXBRL 형식 처리 API를 통해 Python 애플리케이션 내에서 직접 eXtensible Business Reporting Language 문서를 쉽게 만들고 읽고 유효성을 검사할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

@@ -22,6 +22,10 @@ Các thư viện Tự động hóa Tài liệu cho Python giúp tạo ứng dụ
 Thư viện Python độc lập cho các định dạng Xử lý Văn bản từ Microsoft Word & OpenOffice. Cho phép tạo báo cáo bằng MailMerge, tạo và chỉnh sửa tài liệu, kết xuất hoặc xuất các tệp bao gồm DOC, DOCX và ODT sang hình ảnh, PDF, HTML và một số định dạng khác.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/vi/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+API Python cho các khả năng xử lý PDF mà không cần sử dụng Adobe Acrobat trong các ứng dụng Python. Một số khả năng bao gồm hợp nhất và chia nhỏ tệp PDF, chuyển đổi tệp PDF thành hình ảnh cũng như thêm, cập nhật và xóa hình ảnh, tệp đính kèm, dấu trang, chú thích, siêu liên kết, hình mờ, v.v.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 API Python Excel cho các quy trình tự động hóa bảng tính như tạo, thao tác và chuyển đổi. Hơn nữa, Nó kết xuất các trang tính thành XPS, PDF, HTML, Văn bản thuần túy và hình ảnh. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Thư viện Python dành cho các định dạng trình bày PowerPoint & OpenOf
 API mã vạch Python để tạo và nhận dạng mã vạch của các ký hiệu 1D, 2D và bưu chính khác nhau cho cả mã hóa cũng như giải mã trong các ứng dụng Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Thao tác định dạng Microsoft Visio API Python để tạo, đọc, ghi và xuất các định dạng VSDX, VDX, VSX, VTX và nhiều định dạng khác trong các ứng dụng Python.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/vi/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Tạo, tải, cập nhật và chuyển đổi các tệp Microsoft Project trong các ứng dụng Python mà không cần phụ thuộc vào Microsoft Project hoặc bất kỳ phần mềm nào khác.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/vi/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Một API Python 3D có thể tạo, chỉnh sửa hoặc chuyển đổi định dạng tệp Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco mà không cần bất kỳ sự phụ thuộc nào.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/vi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+API xử lý định dạng XBRL và iXBRL để dễ dàng tạo, đọc và xác thực trực tiếp các tài liệu Ngôn ngữ báo cáo kinh doanh eXtensible trong các ứng dụng Python.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

@@ -22,6 +22,10 @@ description: Python APIs สำหรับเอกสาร Microsoft Word, �
 ไลบรารี Python แบบสแตนด์อโลนสำหรับรูปแบบการประมวลผลคำจาก Microsoft Word & OpenOffice อนุญาตให้สร้างรายงานโดยใช้ MailMerge สร้างและแก้ไขเอกสาร แสดงผลหรือส่งออกไฟล์รวมถึง DOC, DOCX และ ODT เป็นรูปภาพ, PDF, HTML และรูปแบบอื่น ๆ
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/th/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API สำหรับความสามารถในการประมวลผล PDF โดยไม่ต้องใช้ Adobe Acrobat ภายในแอปพลิเคชัน Python มีความสามารถไม่กี่อย่าง เช่น การรวมและแยกไฟล์ PDF การแปลงไฟล์ PDF เป็นรูปภาพ ตลอดจนการเพิ่ม อัปเดต และลบรูปภาพ ไฟล์แนบ บุ๊กมาร์ก คำอธิบายประกอบ ไฮเปอร์ลิงก์ ลายน้ำ และอื่น ๆ
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API สำหรับกระบวนการทำงานอัตโนมัติของสเปรดชีต เช่น การสร้าง การจัดการ และการแปลง นอกจากนี้ยังแสดงแผ่นงานเป็น XPS, PDF, HTML, ข้อความธรรมดาและรูปภาพ 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Python Excel API สำหรับกระบวนการทำงานอ
 Python Barcode API เพื่อสร้างและจดจำบาร์โค้ดของสัญลักษณ์ 1D, 2D และไปรษณีย์ต่างๆ สำหรับทั้งการเข้ารหัสและการถอดรหัสภายในแอปพลิเคชัน Python
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+รูปแบบ Microsoft Visio จัดการกับ Python API เพื่อสร้าง อ่าน เขียน และส่งออก VSDX, VDX, VSX, VTX และรูปแบบอื่นๆ ภายในแอปพลิเคชัน Python
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/th/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 สร้าง โหลด อัปเดต และแปลงไฟล์ Microsoft Project ภายในแอปพลิเคชัน Python โดยไม่ต้องพึ่งพา Microsoft Project หรือซอฟต์แวร์อื่นใด
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/th/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Python 3D API ที่สามารถสร้าง แก้ไข และแปลงไฟล์ Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco รูปแบบไฟล์โดยไม่ต้องพึ่งพิงใดๆ
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+API การประมวลผลรูปแบบ XBRL และ iXBRL เพื่อสร้าง อ่าน และตรวจสอบความถูกต้องของเอกสาร eXtensible Business Reporting Language ภายในแอปพลิเคชัน Python ได้โดยตรง
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

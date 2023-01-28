@@ -22,6 +22,10 @@ Python uygulamaları içinden DOC, DOCX, PPT, PPTX, EML, MSG, 3D ve diğer biçi
 Microsoft Word ve OpenOffice'den Kelime İşleme biçimleri için bağımsız Python kitaplığı. MailMerge kullanarak raporlar oluşturmaya, belgeler oluşturmaya ve düzenlemeye, DOC, DOCX ve ODT dahil olmak üzere dosyaları işlemeye veya dışa aktarmaya, resimlere, PDF, HTML ve diğer birçok formata izin verir.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/tr/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python uygulamalarında Adobe Acrobat kullanılmadan PDF işleme yetenekleri için Python API. Yeteneklerden birkaçı, PDF dosyalarını birleştirme ve bölme, PDF dosyalarının görüntülere dönüştürülmesi ve ayrıca görüntü, ek, yer imleri, ek açıklamalar, köprüler, filigranlar ve daha fazlasını ekleme, güncelleme ve silme gibi özellikleri içerir.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Oluşturma, değiştirme ve dönüştürme gibi elektronik tablo otomasyon süreçleri için Python Excel API. Ayrıca, çalışma sayfalarını XPS, PDF, HTML, Düz Metin ve resimlere dönüştürür. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ PPT, PPTX ve ODP dosyalarını oluşturmaya, okumaya, yazmaya, değiştirmeye, b
 Python uygulamalarında hem kodlama hem de kod çözme için çeşitli 1B, 2B ve posta sembolojilerinin barkodunu oluşturmak ve tanımak için Python Barkod API'si.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Microsoft Visio, Python uygulamalarında VSDX, VDX, VSX, VTX ve daha fazla format oluşturmak, okumak, yazmak ve dışa aktarmak için Python API'sini biçimlendirir.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/tr/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Microsoft Project bağımlılıkları veya başka herhangi bir yazılım olmadan Python uygulamalarında Microsoft Project dosyaları oluşturun, yükleyin, güncelleyin ve dönüştürün.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/tr/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Herhangi bir bağımlılık olmaksızın Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco dosya formatlarını oluşturabilen, düzenleyebilen ve dönüştürebilen bir Python 3D API'si.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/tr/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+Genişletilebilir İş Raporlama Dili belgelerini doğrudan Python uygulamaları içinde kolayca oluşturmak, okumak ve doğrulamak için XBRL ve iXBRL işleme API'sini biçimlendirir.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

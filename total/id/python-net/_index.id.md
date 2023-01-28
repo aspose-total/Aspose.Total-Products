@@ -22,6 +22,10 @@ Pustaka Otomasi Dokumen untuk Python yang membantu dalam membuat aplikasi dengan
 Pustaka Python mandiri untuk format Pemrosesan Kata dari Microsoft Word & OpenOffice. Memungkinkan untuk membuat laporan menggunakan MailMerge, menghasilkan dan mengedit dokumen, merender atau mengekspor file termasuk DOC, DOCX dan ODT ke gambar, PDF, HTML, dan beberapa format lainnya.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/id/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API untuk kemampuan pemrosesan PDF tanpa menggunakan Adobe Acrobat dalam aplikasi Python. Beberapa kemampuan termasuk seperti menggabungkan dan membagi file PDF, konversi file PDF ke gambar serta menambah, memperbarui dan menghapus gambar, lampiran, bookmark, anotasi, hyperlink, tanda air, dan lainnya.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API untuk proses otomatisasi spreadsheet seperti pembuatan, manipulasi, dan konversi. Selain itu, itu membuat lembar kerja ke XPS, PDF, HTML, Teks Biasa dan gambar. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,6 +42,10 @@ Pustaka Python untuk format presentasi PowerPoint & OpenOffice yang dapat memban
 Python Barcode API untuk menghasilkan dan mengenali kode batang dari berbagai simbol 1D, 2D, dan pos untuk penyandian dan penguraian kode dalam aplikasi Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Format Microsoft Visio memanipulasi API Python untuk membuat, membaca, menulis, dan mengekspor format VSDX, VDX, VSX, VTX, dan lainnya dalam aplikasi Python.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/id/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Buat, muat, perbarui, dan konversi file Microsoft Project dalam aplikasi Python tanpa ketergantungan Microsoft Project atau perangkat lunak lainnya.
 {{< /blocks/products/pf/total/product-item >}}
@@ -45,6 +53,11 @@ Buat, muat, perbarui, dan konversi file Microsoft Project dalam aplikasi Python 
 {{< blocks/products/pf/total/product-item href="/3d/id/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 API 3D Python yang dapat membuat, mengedit, atau mengonversi format file Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco tanpa ketergantungan apa pun.
 {{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/id/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+API pemrosesan format XBRL dan iXBRL untuk membuat, membaca, dan memvalidasi dokumen Bahasa Pelaporan Bisnis eXtensible dengan mudah dalam aplikasi Python secara langsung.
+{{< /blocks/products/pf/total/product-item >}}
+
 
 <!--<p></p>-->
 <h2 class="pr-ft">

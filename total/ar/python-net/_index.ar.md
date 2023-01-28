@@ -22,6 +22,10 @@ description: واجهات برمجة تطبيقات Python لمستندات Micr
 مكتبة Python المستقلة لتنسيقات معالجة الكلمات من Microsoft Word و OpenOffice. يسمح بإنشاء تقارير باستخدام MailMerge ، وإنشاء المستندات وتحريرها ، وتقديم أو تصدير الملفات بما في ذلك DOC و DOCX و ODT إلى الصور و PDF و HTML والعديد من التنسيقات الأخرى.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/ar/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API لقدرات معالجة PDF دون استخدام Adobe Acrobat داخل تطبيقات Python. تتضمن القليل من القدرات مثل دمج ملفات PDF وتقسيمها وتحويل ملفات PDF إلى صور بالإضافة إلى إضافة وتحديث وحذف الصور والمرفقات والإشارات المرجعية والتعليقات التوضيحية والارتباطات التشعبية والعلامات المائية والمزيد.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API لعمليات أتمتة جداول البيانات مثل الإنشاء والمعالجة والتحويل. علاوة على ذلك ، فإنه يعرض أوراق العمل إلى XPS و PDF و HTML والنص العادي والصور.
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Python Excel API لعمليات أتمتة جداول البيانات مثل ا
 Python Barcode API لإنشاء والتعرف على الرموز الشريطية لمختلف الرموز 1D و 2 D والبريدية لكل من الترميز وكذلك فك التشفير داخل تطبيقات Python.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+معالجة تنسيقات Microsoft Visio بواجهة برمجة تطبيقات Python لإنشاء وقراءة وكتابة وتصدير VSDX و VDX و VSX و VTX والمزيد من التنسيقات داخل تطبيقات Python.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/ar/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 قم بإنشاء ملفات Microsoft Project وتحميلها وتحديثها وتحويلها داخل تطبيقات Python بدون تبعيات Microsoft Project أو أي برامج أخرى.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/ar/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 واجهة برمجة تطبيقات Python ثلاثية الأبعاد يمكنها إنشاء وتحرير تنسيقات ملفات Discreet3DS و WavefrontOBJ و FBX و STL و Universal3D و Collada و glTF و GLB و PLY و DirectX و Google Draco دون أي تبعية.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/ar/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+واجهة برمجة تطبيقات معالجة تنسيقات XBRL و iXBRL لإنشاء مستندات لغة تقارير الأعمال القابلة للتمدد وقراءتها والتحقق من صحتها بسهولة داخل تطبيقات Python.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

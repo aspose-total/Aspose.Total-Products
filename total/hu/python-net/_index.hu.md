@@ -22,6 +22,10 @@ Dokumentumautomatizálási könyvtárak Pythonhoz, amelyek segítenek olyan alka
 Önálló Python-könyvtár a Microsoft Word és az OpenOffice szövegszerkesztő formátumaihoz. Lehetővé teszi jelentések készítését a MailMerge segítségével, dokumentumok generálását és szerkesztését, fájlok megjelenítését vagy exportálását, beleértve a DOC, DOCX és ODT fájlokat képek, PDF, HTML és számos más formátumba.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/hu/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API PDF-feldolgozási képességekhez Adobe Acrobat használata nélkül a Python alkalmazásokon belül. Néhány lehetőség közé tartozik például a PDF-fájlok egyesítése és felosztása, PDF-fájlok konvertálása képekké, valamint képek, mellékletek, könyvjelzők, megjegyzések, hiperhivatkozások, vízjelek és egyebek hozzáadása, frissítése és törlése.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API táblázatkezelő automatizálási folyamatokhoz, például létrehozáshoz, manipulációhoz és átalakításhoz. Ezenkívül a munkalapokat XPS-, PDF-, HTML-, egyszerű szöveg- és képek formátumban jeleníti meg. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Python-könyvtár PowerPoint és OpenOffice prezentációs formátumokhoz, amely
 Python Barcode API különféle 1D, 2D és postai szimbólumok vonalkódjának generálására és felismerésére a Python alkalmazásokon belüli kódoláshoz és dekódoláshoz egyaránt.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+A Microsoft Visio formátummanipuláló Python API VSDX, VDX, VSX, VTX és további formátumok létrehozásához, olvasásához, írásához és exportálásához Python alkalmazásokon belül.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/hu/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Hozzon létre, töltsön be, frissítsen és konvertáljon Microsoft Project fájlokat Python alkalmazásokban Microsoft Project függőségek vagy bármilyen más szoftver nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/hu/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Egy Python 3D API, amely bármilyen függőség nélkül képes Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco fájlformátumok létrehozására, szerkesztésére és konvertálására.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+Az XBRL és iXBRL formátumokat feldolgozó API az eXtensible Business Reporting Language dokumentumok egyszerű létrehozásához, olvasásához és érvényesítéséhez közvetlenül a Python alkalmazásokon belül.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

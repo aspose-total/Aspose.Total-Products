@@ -22,6 +22,10 @@ Documentautomatiseringsbibliotheken voor Python die helpen bij het maken van app
 Standalone Python-bibliotheek voor tekstverwerkingsformaten van Microsoft Word & OpenOffice. Maakt het mogelijk om rapporten te maken met behulp van MailMerge, documenten te genereren en te bewerken, bestanden te renderen of te exporteren, waaronder DOC, DOCX en ODT naar afbeeldingen, PDF, HTML en verschillende andere formaten.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/pdf/nl/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+Python API voor PDF-verwerkingsmogelijkheden zonder het gebruik van Adobe Acrobat binnen Python-toepassingen. Enkele van de mogelijkheden omvatten het samenvoegen en splitsen van PDF-bestanden, conversie van PDF-bestanden naar afbeeldingen en het toevoegen, bijwerken en verwijderen van afbeeldingen, bijlagen, bladwijzers, annotaties, hyperlinks, watermerken en meer.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/cells/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API voor automatiseringsprocessen van spreadsheets, zoals creatie, manipulatie en conversie. Bovendien geeft het werkbladen weer naar XPS, PDF, HTML, platte tekst en afbeeldingen. 
 {{< /blocks/products/pf/total/product-item >}}
@@ -38,12 +42,20 @@ Python-bibliotheek voor PowerPoint- en OpenOffice-presentatieformaten die kunnen
 Python Barcode API voor het genereren en herkennen van barcodes van verschillende 1D-, 2D- en postsymbolen voor zowel codering als decodering binnen Python-toepassingen.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/diagram/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+Microsoft Visio-formaten manipulatie Python API om VSDX, VDX, VSX, VTX en meer formaten binnen Python-applicaties te maken, lezen, schrijven en exporteren.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/tasks/nl/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
 Maak, laad, update en converteer Microsoft Project-bestanden binnen Python-applicaties zonder Microsoft Project-afhankelijkheden of andere software.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/3d/nl/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
 Een Python 3D API die Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco bestandsformaten kan maken, bewerken of converteren zonder enige afhankelijkheid.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/finance/nl/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+XBRL- en iXBRL-formaten verwerkende API om eenvoudig eXtensible Business Reporting Language-documenten rechtstreeks in Python-applicaties te maken, te lezen en te valideren.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->

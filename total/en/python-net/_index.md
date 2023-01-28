@@ -43,9 +43,7 @@ Python Barcode API to generate and recognize barcode of various 1D, 2D and posta
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/diagram/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
-
 Microsoft Visio formats manipulation Python API to create, read, write and export VSDX, VDX, VSX, VTX and more formats within Python applications.
-
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/tasks/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
