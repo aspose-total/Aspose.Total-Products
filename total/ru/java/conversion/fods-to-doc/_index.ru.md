@@ -39,6 +39,17 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0">
+
+<h3>Онлайн-конвертер FODS в DOC</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=fods" id="child-iframe" width="80%"></iframe>
+<p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/fods-to-doc/">Попробуйте наше бесплатное приложение для преобразования FODS в DOC</a></p>
+</div></div>
+</div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-supported-section title="Другие варианты преобразования" subTitle="" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/fods-to-docx/" name="FODS К DOCX" description="" >}}
