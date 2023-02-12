@@ -1,6 +1,6 @@
 ---
-title: Convertir XLTM en PPTX avec C++
-description: Convertir XLTM en PPTX dans les applications C++
+title: Convertir XLTM en PPTX avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir XLTM en PPTX dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC POWERPOINT DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en PPTX via C++" h2="Exporter Excel® XLTM vers PPTX dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en PPTX via C++ ou en ligne" h2="Exporter Excel® XLTM vers PPTX dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion XLTM en PPTX sur C++" %}}

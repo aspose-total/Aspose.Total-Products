@@ -1,6 +1,6 @@
 ---
-title: C++ के साथ XLSB को PPTX में बदलें
-description: C++ अनुप्रयोगों के भीतर XLSB को PPTX में बदलें
+title: C++ के साथ XLSB को PPTX में बदलें या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: C++ अनुप्रयोगों के भीतर XLSB को PPTX में बदलें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ के माध्यम से XLSB को PPTX में बदलें" h2="एक्सेल निर्यात करें&reg; पूर्ण-कार्यात्मक सी ++ अनुप्रयोगों के भीतर सीएसवी से डीओसी तक" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ के माध्यम से XLSB को PPTX में बदलें या ऑनलाइन" h2="एक्सेल निर्यात करें&reg; पूर्ण-कार्यात्मक सी ++ अनुप्रयोगों के भीतर सीएसवी से डीओसी तक" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी++ पर सीएसवी से डीओसी रूपांतरण" %}}

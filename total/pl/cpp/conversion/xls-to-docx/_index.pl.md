@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLS na DOCX za pomocą C++
-description: Konwertuj XLS na DOCX w aplikacjach C++
+title: Konwertuj XLS na DOCX za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Konwertuj XLS na DOCX w aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLS na DOCX za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLS do DOCX w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLS na DOCX za pomocą C++ lub online" h2="Eksportuj Excel<sup>&reg;</sup> XLS do DOCX w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLS do DOCX w C++" %}}

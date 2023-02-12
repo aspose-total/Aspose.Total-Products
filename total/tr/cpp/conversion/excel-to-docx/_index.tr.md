@@ -1,6 +1,6 @@
 ---
-title: C++ ile EXCEL'yi DOCX'ye dönüştürün
-description: C++ uygulamaları içinde EXCEL'yi DOCX'ye dönüştürün
+title: C++ ile EXCEL'yi DOCX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde EXCEL'yi DOCX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="EXCEL'yi C++ ile DOCX'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında EXCEL'den DOCX'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="EXCEL'yi C++ ile DOCX'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında EXCEL'den DOCX'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da EXCEL'den DOCX'ye Dönüştürme" %}}

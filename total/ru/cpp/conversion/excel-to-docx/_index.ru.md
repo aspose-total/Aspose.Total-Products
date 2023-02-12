@@ -1,6 +1,6 @@
 ---
-title: Преобразование EXCEL в DOCX с помощью C++
-description: Преобразование EXCEL в DOCX в приложениях C++
+title: Преобразование EXCEL в DOCX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование EXCEL в DOCX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать EXCEL в DOCX через C++" h2="Экспорт Excel<sup>&reg;</sup> EXCEL в DOCX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать EXCEL в DOCX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> EXCEL в DOCX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование EXCEL в DOCX на C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to POWERPOINT with C++ 
-description: Convert XLS to POWERPOINT within C++ applications
+title: Convert XLS to POWERPOINT with C++ or with free Online Converter
+description: Convert XLS to POWERPOINT within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/xls-to-powerpoint/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: DOC WORD DOCX PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLS to POWERPOINT via C++" h2="Export Excel&reg; XLS to POWERPOINT within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLS to POWERPOINT via C++ or online" h2="Export Excel&reg; XLS to POWERPOINT within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

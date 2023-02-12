@@ -1,6 +1,6 @@
 ---
-title: Convierta FODS a PPTX usando Java
-description: API de Java para exportar FODS a PPTX con Excel o Word
+title: Convierta FODS a PPTX usando Java o con el convertidor en línea gratuito
+description: API de Java para exportar FODS a PPTX o en línea con Excel o Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 url_ignore: /es/java/conversion/fods-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX POWERPOINT PPTXX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar FODS a PPTX" h2="API de Java local para exportar FODS a PPTX sin depender de Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar FODS a PPTX o en línea" h2="API de Java local para exportar FODS a PPTX sin depender de Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Renderizar FODS a PPTX es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el documento FODS dado a PDF, y luego usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su documento PDF a PPTX. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

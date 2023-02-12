@@ -1,6 +1,6 @@
 ---
-title: Konversi XLSX ke POWERPOINT menggunakan Java
-description: Java API untuk Mengekspor XLSX ke POWERPOINT dengan menggunakan Excel atau Word
+title: Konversi XLSX ke POWERPOINT menggunakan Java atau dengan Konverter Online gratis
+description: Java API untuk Mengekspor XLSX ke POWERPOINT atau daring dengan menggunakan Excel atau Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 url_ignore: /id/java/conversion/xlsx-to-powerpoint/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINTX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Mengekspor XLSX ke POWERPOINT" h2="On Premise Java API untuk Mengekspor XLSX ke POWERPOINT tanpa mengandalkan Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Mengekspor XLSX ke POWERPOINT atau daring" h2="On Premise Java API untuk Mengekspor XLSX ke POWERPOINT atau daring tanpa mengandalkan Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Rendering XLSX ke POWERPOINT adalah proses dua langkah. Pertama-tama Anda akan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java) API untuk mengonversi dokumen XLSX yang diberikan ke PDF, lalu dengan menggunakan [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, Anda dapat dengan mudah mengonversi dokumen PDF Anda ke POWERPOINT. Kedua API berada di bawah koleksi [Aspose.Total for Java](https://products.aspose.com/total/java/) perpustakaan otomatisasi format file.
 {{% /blocks/products/pf/feature-page-summary  %}}

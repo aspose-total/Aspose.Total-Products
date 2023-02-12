@@ -1,6 +1,6 @@
 ---
-title: C++ ile FODS'yi PPTX'ye dönüştürün
-description: C++ uygulamaları içinde FODS'yi PPTX'ye dönüştürün
+title: C++ ile FODS'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde FODS'yi PPTX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="FODS'yi C++ ile PPTX'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında FODS'den PPTX'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="FODS'yi C++ ile PPTX'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında FODS'den PPTX'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da FODS'den PPTX'ye Dönüştürme" %}}

@@ -1,6 +1,6 @@
 ---
-title: تحويل SXC إلى DOC باستخدام C++
-description: تحويل SXC إلى DOC داخل تطبيقات C++
+title: تحويل SXC إلى DOC باستخدام C++ أو مع محول مجاني على الإنترنت
+description: تحويل SXC إلى DOC داخل تطبيقات C++ أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل SXC إلى DOC عبر C++" h2="تصدير Excel <sup>&reg;</sup> ؛ SXC إلى DOC ضمن تطبيقات C++ كاملة الوظائف" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل SXC إلى DOC عبر C++ أو عبر الإنترنت" h2="تصدير Excel <sup>&reg;</sup> ؛ SXC إلى DOC ضمن تطبيقات C++ كاملة الوظائف" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="SXC إلى DOC التحويل على C++" %}}

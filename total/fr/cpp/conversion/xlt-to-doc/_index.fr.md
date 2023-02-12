@@ -1,6 +1,6 @@
 ---
-title: Convertir XLT en DOC avec C++
-description: Convertir XLT en DOC dans les applications C++
+title: Convertir XLT en DOC avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir XLT en DOC dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLT en DOC via C++" h2="Exporter Excel® XLT vers DOC dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLT en DOC via C++ ou en ligne" h2="Exporter Excel® XLT vers DOC dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion XLT en DOC sur C++" %}}

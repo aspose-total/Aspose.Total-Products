@@ -1,6 +1,6 @@
 ---
-title: Konwertuj SXC na POWERPOINT za pomocą C++
-description: Konwertuj SXC na POWERPOINT w aplikacjach C++
+title: Konwertuj SXC na POWERPOINT za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Konwertuj SXC na POWERPOINT w aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj SXC na POWERPOINT za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> SXC do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj SXC na POWERPOINT za pomocą C++ lub online" h2="Eksportuj Excel<sup>&reg;</sup> SXC do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja SXC do POWERPOINT w C++" %}}

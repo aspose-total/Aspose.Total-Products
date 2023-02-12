@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to DOCX using Java 
-description: Java API to Export XLSB to DOCX with using Excel or Word 
+title: Convert XLSB to DOCX using Java or with free Online Converter
+description: Java API to Export XLSB to DOCX or online with using Excel or Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /java/conversion/xlsb-to-docx/
 family: total
 platformtag: java
@@ -11,7 +11,7 @@ otherformats: PPTX WORD DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export XLSB to DOCX" h2="On Premise Java API to Export XLSB to DOCX without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export XLSB to DOCX or online" h2="On Premise Java API to Export XLSB to DOCX or online without relying on Microsoft Excel&reg;">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to DOCX via Java API" isGrey="true" %}}

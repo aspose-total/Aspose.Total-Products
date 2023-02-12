@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLS na DOCX pomocí C++
-description: Převeďte XLS na DOCX v aplikacích C++
+title: Převeďte XLS na DOCX pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte XLS na DOCX v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLS na DOCX přes C++" h2="Export Excel<sup>&reg;</sup> XLS do DOCX v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLS na DOCX přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> XLS do DOCX v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLS na DOCX v C++" %}}

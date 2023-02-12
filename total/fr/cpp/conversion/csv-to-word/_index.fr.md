@@ -1,6 +1,6 @@
 ---
-title: Convertir CSV en WORD avec C++
-description: Convertir CSV en WORD dans les applications C++
+title: Convertir CSV en WORD avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir CSV en WORD dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT PPTX DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir CSV en WORD via C++" h2="Exporter Excel® CSV vers WORD dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir CSV en WORD via C++ ou en ligne" h2="Exporter Excel® CSV vers WORD dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion CSV en WORD sur C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: A CSV konvertálása DOC formátumba Java segítségével
-description: Java API a CSV exportálásához DOC-ba Excel vagy Word használatával
+title: A CSV konvertálása DOC formátumba Java segítségével vagy ingyenes online konverterrel
+description: Java API a CSV exportálásához DOC-ba vagy online Excel vagy Word használatával vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 url_ignore: /hu/java/conversion/csv-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API a CSV exportálásához DOC-ba" h2="On Premise Java API a CSV exportálásához DOC-ba anélkül, hogy a Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API a CSV exportálásához DOC-ba vagy online" h2="On Premise Java API a CSV exportálásához DOC-ba vagy online anélkül, hogy a Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A CSV megjelenítése DOC-ba kétlépéses folyamat. Először az [Aspose.Cells for Java](https://products.aspose.com/cells/java) API segítségével konvertálja az adott CSV-dokumentumot PDF-be, majd az [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API segítségével könnyedén konvertálhatja PDF dokumentumát DOC formátumba. Mindkét API az [Aspose.Total for Java](https://products.aspose.com/total/java/) fájlformátumú automatizálási könyvtárak gyűjteményébe tartozik.
 {{% /blocks/products/pf/feature-page-summary  %}}

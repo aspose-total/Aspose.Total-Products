@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSX в POWERPOINT с помощью C++
-description: Преобразование XLSX в POWERPOINT в приложениях C++
+title: Преобразование XLSX в POWERPOINT с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLSX в POWERPOINT в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSX в POWERPOINT через C++" h2="Экспорт Excel<sup>&reg;</sup> XLSX в POWERPOINT в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSX в POWERPOINT через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> XLSX в POWERPOINT в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLSX в POWERPOINT на C++" %}}

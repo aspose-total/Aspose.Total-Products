@@ -1,6 +1,6 @@
 ---
-title: Konversi XLT ke DOC dengan C++
-description: Konversi XLT ke DOC dalam aplikasi C++
+title: Konversi XLT ke DOC dengan C++ atau dengan Konverter Online gratis
+description: Konversi XLT ke DOC dalam aplikasi C++ atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi XLT ke DOC melalui C++" h2="Ekspor Excel<sup>&reg;</sup> XLT ke DOC dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi XLT ke DOC melalui C++ atau daring" h2="Ekspor Excel<sup>&reg;</sup> XLT ke DOC dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi XLT ke DOC di C++" %}}

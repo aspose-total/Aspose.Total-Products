@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi XLS sang DOC bằng Java
-description: Java API để xuất XLS sang DOC bằng Excel hoặc Word
+title: Chuyển đổi XLS sang DOC bằng Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Java API để xuất XLS sang DOC bằng Excel hoặc Word hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 url_ignore: /vi/java/conversion/xls-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất XLS sang DOC" h2="Trên API Premise Java để Xuất XLS sang DOC mà không cần dựa vào Microsoft Excel & reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất XLS sang DOC hoặc trực tuyến" h2="Trên API Premise Java để Xuất XLS sang DOC mà không cần dựa vào Microsoft Excel & reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Đưa XLS sang DOC là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu XLS đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang DOC. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

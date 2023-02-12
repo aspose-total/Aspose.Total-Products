@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLT na DOCX pomocí C++
-description: Převeďte XLT na DOCX v aplikacích C++
+title: Převeďte XLT na DOCX pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte XLT na DOCX v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC PPTX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLT na DOCX přes C++" h2="Export Excel<sup>&reg;</sup> XLT do DOCX v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLT na DOCX přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> XLT do DOCX v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLT na DOCX v C++" %}}

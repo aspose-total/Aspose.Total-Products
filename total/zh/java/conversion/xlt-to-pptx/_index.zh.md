@@ -1,6 +1,6 @@
 ---
-title: 使用 Java 将 XLT 转换为 PPTX
-description: 使用 Excel 或 Word 将 XLT 导出为 PPTX 的 Java API
+title: 使用 Java 将 XLT 转换为 PPTX 或使用免费的在线转换器
+description: 使用 Excel 或 Word 将 XLT 导出为 PPTX 的 Java API 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 url_ignore: /zh/java/conversion/xlt-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTXX POWERPOINT PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="用于将 XLT 导出为 PPTX 的 Java API" h2="无需依赖 Microsoft Excel 即可将 XLT 导出为 PPTX 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="用于将 XLT 导出为 PPTX 的 Java API 或在线" h2="无需依赖 Microsoft Excel 即可将 XLT 导出为 PPTX 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 将 XLT 渲染到 PPTX 是一个两步过程。您将首先使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API 将给定的 XLT 文档转换为 PDF，然后使用 [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API，您可以轻松地将您的 PDF 文档转换为 PPTX。这两个 API 都属于 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库的集合。
 {{% /blocks/products/pf/feature-page-summary  %}}

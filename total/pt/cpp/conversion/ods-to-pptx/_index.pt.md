@@ -1,6 +1,6 @@
 ---
-title: Converter ODS para PPTX com C++
-description: Converter ODS para PPTX em aplicativos C++
+title: Converter ODS para PPTX com C++ ou com o conversor online gratuito
+description: Converter ODS para PPTX em aplicativos C++ ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT DOCX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter ODS para PPTX via C++" h2="Exportar Excel<sup>&reg;</sup> ODS para PPTX em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter ODS para PPTX via C++ ou online" h2="Exportar Excel<sup>&reg;</sup> ODS para PPTX em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de ODS para PPTX em C++" %}}

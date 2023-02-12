@@ -1,6 +1,6 @@
 ---
-title: Konwertuj EXCEL na DOCX za pomocą Java
-description: Java API do eksportu EXCEL do DOCX za pomocą programu Excel lub Word
+title: Konwertuj EXCEL na DOCX za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Java API do eksportu EXCEL do DOCX lub online za pomocą programu Excel lub Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 url_ignore: /pl/java/conversion/excel-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: POWERPOINT WORD DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu EXCEL do DOCX" h2="On Premise Java API do eksportu EXCEL do DOCX bez korzystania z Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu EXCEL do DOCX lub online" h2="On Premise Java API do eksportu EXCEL do DOCX lub online bez korzystania z Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Renderowanie EXCEL do DOCX to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument EXCEL na PDF, a następnie użyjesz [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na DOCX. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

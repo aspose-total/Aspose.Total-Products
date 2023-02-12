@@ -1,6 +1,6 @@
 ---
-title: แปลง XLS เป็น DOCX โดยใช้ Java
-description: Java API เพื่อส่งออก XLS เป็น DOCX โดยใช้ Excel หรือ Word
+title: แปลง XLS เป็น DOCX โดยใช้ Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: Java API เพื่อส่งออก XLS เป็น DOCX หรือทางออนไลน์ โดยใช้ Excel หรือ Word หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 url_ignore: /th/java/conversion/xls-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API เพื่อส่งออก XLS เป็น DOCX" h2="บน Premise Java API เพื่อส่งออก XLS ไปยัง DOCX โดยไม่ต้องพึ่ง Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API เพื่อส่งออก XLS เป็น DOCX หรือทางออนไลน์" h2="บน Premise Java API เพื่อส่งออก XLS ไปยัง DOCX โดยไม่ต้องพึ่ง Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 การแสดงผล XLS เป็น DOCX เป็นกระบวนการสองขั้นตอน ก่อนอื่น คุณจะต้องใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java) API เพื่อแปลงเอกสาร XLS ที่ระบุเป็น PDF จากนั้นใช้ [Aspose.Pdf สำหรับ Java](https://products.aspose.com/pdf/java) API คุณสามารถแปลงเอกสาร PDF เป็น DOCX ได้อย่างง่ายดาย API ทั้งสองอยู่ภายใต้คอลเล็กชันของไลบรารีอัตโนมัติรูปแบบไฟล์ [Aspose.Total for Java](https://products.aspose.com/total/java/)
 {{% /blocks/products/pf/feature-page-summary  %}}

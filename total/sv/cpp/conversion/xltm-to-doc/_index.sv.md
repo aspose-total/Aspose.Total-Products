@@ -1,6 +1,6 @@
 ---
-title: Konvertera XLTM till DOC med C++
-description: Konvertera XLTM till DOC inom C++-applikationer
+title: Konvertera XLTM till DOC med C++ eller med gratis Online Converter
+description: Konvertera XLTM till DOC inom C++-applikationer eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD POWERPOINT PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera XLTM till DOC via C++" h2="Exportera Excel<sup>&reg;</sup> XLTM till DOC inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera XLTM till DOC via C++ eller online" h2="Exportera Excel<sup>&reg;</sup> XLTM till DOC inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLTM till DOC-konvertering på C++" %}}

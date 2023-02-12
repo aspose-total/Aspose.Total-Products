@@ -1,6 +1,6 @@
 ---
-title: Convertir XLTM en POWERPOINT avec C++
-description: Convertir XLTM en POWERPOINT dans les applications C++
+title: Convertir XLTM en POWERPOINT avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir XLTM en POWERPOINT dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en POWERPOINT via C++" h2="Exporter Excel® XLTM vers POWERPOINT dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en POWERPOINT via C++ ou en ligne" h2="Exporter Excel® XLTM vers POWERPOINT dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion XLTM en POWERPOINT sur C++" %}}

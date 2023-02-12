@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLT в PPTX с помощью C++
-description: Преобразование XLT в PPTX в приложениях C++
+title: Преобразование XLT в PPTX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLT в PPTX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать XLT в PPTX через C++" h2="Экспорт Excel<sup>&reg;</sup> XLT в PPTX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать XLT в PPTX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> XLT в PPTX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLT в PPTX на C++" %}}

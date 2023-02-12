@@ -1,6 +1,6 @@
 ---
-title: Converter EXCEL para POWERPOINT com C++
-description: Converter EXCEL para POWERPOINT em aplicativos C++
+title: Converter EXCEL para POWERPOINT com C++ ou com o conversor online gratuito
+description: Converter EXCEL para POWERPOINT em aplicativos C++ ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter EXCEL para POWERPOINT via C++" h2="Exportar Excel<sup>&reg;</sup> EXCEL para POWERPOINT em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter EXCEL para POWERPOINT via C++ ou online" h2="Exportar Excel<sup>&reg;</sup> EXCEL para POWERPOINT em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de EXCEL para POWERPOINT em C++" %}}

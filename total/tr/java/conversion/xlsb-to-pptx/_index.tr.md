@@ -1,6 +1,6 @@
 ---
-title: Java kullanarak XLSB'yi PPTX'ye dönüştürün
-description: Excel veya Word kullanarak XLSB'yi PPTX'a Dışa Aktarmak için Java API
+title: Java kullanarak XLSB'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Excel veya Word kullanarak XLSB'yi PPTX'a Dışa Aktarmak için Java API veya çevrimiçi veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 url_ignore: /tr/java/conversion/xlsb-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX POWERPOINT PPTXX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XLSB'yi PPTX'a Dışa Aktarmak için Java API" h2="Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="XLSB'yi PPTX'a Dışa Aktarmak için Java API veya çevrimiçi" h2="Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 XLSB'yi PPTX'ye işlemek iki adımlı bir işlemdir. Verilen XLSB belgesini PDF'ye dönüştürmek için önce [Aspose.Cells for Java](https://products.aspose.com/cells/java) API'sini ve ardından [Aspose.Pdf for Java](https) kullanacaksınız. ://products.aspose.com/pdf/java) API ile PDF belgenizi kolayca PPTX'a dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) dosya formatı otomasyon kitaplıklarının koleksiyonuna dahildir.
 {{% /blocks/products/pf/feature-page-summary  %}}

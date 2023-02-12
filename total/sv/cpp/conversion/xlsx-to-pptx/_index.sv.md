@@ -1,6 +1,6 @@
 ---
-title: Konvertera XLSX till PPTX med C++
-description: Konvertera XLSX till PPTX inom C++-applikationer
+title: Konvertera XLSX till PPTX med C++ eller med gratis Online Converter
+description: Konvertera XLSX till PPTX inom C++-applikationer eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera XLSX till PPTX via C++" h2="Exportera Excel<sup>&reg;</sup> XLSX till PPTX inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera XLSX till PPTX via C++ eller online" h2="Exportera Excel<sup>&reg;</sup> XLSX till PPTX inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLSX till PPTX-konvertering på C++" %}}

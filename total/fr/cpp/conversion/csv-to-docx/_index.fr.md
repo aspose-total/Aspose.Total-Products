@@ -1,6 +1,6 @@
 ---
-title: Convertir CSV en DOCX avec C++
-description: Convertir CSV en DOCX dans les applications C++
+title: Convertir CSV en DOCX avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir CSV en DOCX dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: POWERPOINT DOC PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir CSV en DOCX via C++" h2="Exporter Excel® CSV vers DOCX dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir CSV en DOCX via C++ ou en ligne" h2="Exporter Excel® CSV vers DOCX dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion CSV en DOCX sur C++" %}}

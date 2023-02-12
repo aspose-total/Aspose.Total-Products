@@ -1,6 +1,6 @@
 ---
-title: Konversi TSV ke POWERPOINT dengan C++
-description: Konversi TSV ke POWERPOINT dalam aplikasi C++
+title: Konversi TSV ke POWERPOINT dengan C++ atau dengan Konverter Online gratis
+description: Konversi TSV ke POWERPOINT dalam aplikasi C++ atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi TSV ke POWERPOINT melalui C++" h2="Ekspor Excel<sup>&reg;</sup> TSV ke POWERPOINT dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi TSV ke POWERPOINT melalui C++ atau daring" h2="Ekspor Excel<sup>&reg;</sup> TSV ke POWERPOINT dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi TSV ke POWERPOINT di C++" %}}

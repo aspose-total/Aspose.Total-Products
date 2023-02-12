@@ -1,6 +1,6 @@
 ---
-title: تحويل XLT إلى DOCX باستخدام Java
-description: Java API لتصدير XLT إلى DOCX باستخدام Excel أو Word
+title: تحويل XLT إلى DOCX باستخدام Java أو مع محول مجاني على الإنترنت
+description: Java API لتصدير XLT إلى DOCX أو عبر الإنترنت باستخدام Excel أو Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 url_ignore: /ar/java/conversion/xlt-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLT إلى DOCX" h2="في Premise Java API لتصدير XLT إلى DOCX دون الاعتماد على Microsoft Excel & reg ؛" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLT إلى DOCX أو عبر الإنترنت" h2="في Premise Java API لتصدير XLT إلى DOCX أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يعتبر تحويل XLT إلى DOCX عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLT المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى DOCX. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

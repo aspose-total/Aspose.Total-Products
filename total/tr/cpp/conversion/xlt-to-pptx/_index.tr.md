@@ -1,6 +1,6 @@
 ---
-title: C++ ile XLT'yi PPTX'ye dönüştürün
-description: C++ uygulamaları içinde XLT'yi PPTX'ye dönüştürün
+title: C++ ile XLT'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde XLT'yi PPTX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLT'yi C++ ile PPTX'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında XLT'den PPTX'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="XLT'yi C++ ile PPTX'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında XLT'den PPTX'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da XLT'den PPTX'ye Dönüştürme" %}}

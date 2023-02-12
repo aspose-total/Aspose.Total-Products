@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSX в DOCX с помощью C++
-description: Преобразование XLSX в DOCX в приложениях C++
+title: Преобразование XLSX в DOCX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLSX в DOCX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSX в DOCX через C++" h2="Экспорт Excel<sup>&reg;</sup> XLSX в DOCX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSX в DOCX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> XLSX в DOCX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLSX в DOCX на C++" %}}

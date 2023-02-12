@@ -1,6 +1,6 @@
 ---
-title: Konwertuj TSV na WORD za pomocą Java
-description: Java API do eksportu TSV do WORD za pomocą programu Excel lub Word
+title: Konwertuj TSV na WORD za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Java API do eksportu TSV do WORD lub online za pomocą programu Excel lub Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 url_ignore: /pl/java/conversion/tsv-to-word/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: PPTX WORD POWERPOINT WORDX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu TSV do WORD" h2="On Premise Java API do eksportu TSV do WORD bez korzystania z Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu TSV do WORD lub online" h2="On Premise Java API do eksportu TSV do WORD lub online bez korzystania z Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Renderowanie TSV do WORD to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument TSV na PDF, a następnie użyjesz [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na WORD. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

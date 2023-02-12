@@ -1,6 +1,6 @@
 ---
-title: Convierta XLS a DOCX usando Java
-description: API de Java para exportar XLS a DOCX con Excel o Word
+title: Convierta XLS a DOCX usando Java o con el convertidor en línea gratuito
+description: API de Java para exportar XLS a DOCX o en línea con Excel o Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 url_ignore: /es/java/conversion/xls-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar XLS a DOCX" h2="API de Java local para exportar XLS a DOCX sin depender de Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar XLS a DOCX o en línea" h2="API de Java local para exportar XLS a DOCX sin depender de Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Renderizar XLS a DOCX es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el Documento XLS dado a PDF, y luego usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su Documento PDF a DOCX. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSB в DOCX с помощью Java
-description: Java API для экспорта XLSB в DOCX с использованием Excel или Word
+title: Преобразование XLSB в DOCX с помощью Java или с помощью бесплатного онлайн-конвертера
+description: Java API для экспорта XLSB в DOCX или онлайн с использованием Excel или Word или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 url_ignore: /ru/java/conversion/xlsb-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: PPTX WORD DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLSB в DOCX" h2="Локальный Java API для экспорта XLSB в DOCX, не полагаясь на Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLSB в DOCX или онлайн" h2="Локальный Java API для экспорта XLSB в DOCX или онлайн, не полагаясь на Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование XLSB в DOCX — это двухэтапный процесс. Сначала вы будете использовать API [Aspose.Cells для Java](https://products.aspose.com/cells/java) для преобразования данного документа XLSB в PDF, а затем с помощью [Aspose.Pdf для Java](https://products.aspose.com/pdf/java) API, вы можете легко конвертировать PDF-документ в DOCX. Оба API входят в набор библиотек автоматизации форматов файлов [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

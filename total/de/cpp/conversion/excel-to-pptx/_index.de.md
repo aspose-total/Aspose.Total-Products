@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie EXCEL in PPTX mit C++
-description: Konvertieren Sie EXCEL in PPTX innerhalb von C++-Anwendungen
+title: Konvertieren Sie EXCEL in PPTX mit C++ oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie EXCEL in PPTX innerhalb von C++-Anwendungen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie EXCEL über C++ in PPTX" h2="Excel exportieren&reg; EXCEL zu PPTX innerhalb voll funktionsfähiger C++-Anwendungen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie EXCEL über C++ in PPTX oder online" h2="Excel exportieren&reg; EXCEL zu PPTX innerhalb voll funktionsfähiger C++-Anwendungen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EXCEL-zu-PPTX-Konvertierung in C++" %}}

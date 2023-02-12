@@ -1,6 +1,6 @@
 ---
-title: Преобразование FODS в PPTX с помощью C++
-description: Преобразование FODS в PPTX в приложениях C++
+title: Преобразование FODS в PPTX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование FODS в PPTX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать FODS в PPTX через C++" h2="Экспорт Excel<sup>&reg;</sup> FODS в PPTX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать FODS в PPTX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> FODS в PPTX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование FODS в PPTX на C++" %}}

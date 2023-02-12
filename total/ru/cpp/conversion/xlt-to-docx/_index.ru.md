@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLT в DOCX с помощью C++
-description: Преобразование XLT в DOCX в приложениях C++
+title: Преобразование XLT в DOCX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLT в DOCX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC PPTX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать XLT в DOCX через C++" h2="Экспорт Excel<sup>&reg;</sup> XLT в DOCX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать XLT в DOCX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> XLT в DOCX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLT в DOCX на C++" %}}

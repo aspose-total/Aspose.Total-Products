@@ -1,6 +1,6 @@
 ---
-title: تحويل EXCEL إلى DOC باستخدام Java
-description: Java API لتصدير EXCEL إلى DOC باستخدام Excel أو Word
+title: تحويل EXCEL إلى DOC باستخدام Java أو مع محول مجاني على الإنترنت
+description: Java API لتصدير EXCEL إلى DOC أو عبر الإنترنت باستخدام Excel أو Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 url_ignore: /ar/java/conversion/excel-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير EXCEL إلى DOC" h2="في Premise Java API لتصدير EXCEL إلى DOC دون الاعتماد على Microsoft Excel & reg ؛" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير EXCEL إلى DOC أو عبر الإنترنت" h2="في Premise Java API لتصدير EXCEL إلى DOC أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يعتبر تحويل EXCEL إلى DOC عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند EXCEL المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى DOC. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

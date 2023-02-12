@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to POWERPOINT using Java 
-description: Java API to Export XLTX to POWERPOINT with using Excel or Word 
+title: Convert XLTX to POWERPOINT using Java or with free Online Converter
+description: Java API to Export XLTX to POWERPOINT or online with using Excel or Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /java/conversion/xltx-to-powerpoint/
 family: total
 platformtag: java
@@ -11,7 +11,7 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export XLTX to POWERPOINT" h2="On Premise Java API to Export XLTX to POWERPOINT without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export XLTX to POWERPOINT or online" h2="On Premise Java API to Export XLTX to POWERPOINT or online without relying on Microsoft Excel&reg;">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to POWERPOINT via Java API" isGrey="true" %}}

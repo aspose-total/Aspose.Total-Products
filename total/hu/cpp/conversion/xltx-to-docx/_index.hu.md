@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a XLTX-t DOCX-ba a C++ segítségével
-description: A XLTX konvertálása DOCX formátumba a C++ alkalmazásokon belül
+title: Konvertálja a XLTX-t DOCX-ba a C++ segítségével vagy ingyenes online konverterrel
+description: A XLTX konvertálása DOCX formátumba a C++ alkalmazásokon belül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A XLTX konvertálása DOCX formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> XLTX-ből DOCX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A XLTX konvertálása DOCX formátumba C++ segítségével vagy online" h2="Exportálás Excel<sup>&reg;</sup> XLTX-ből DOCX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLTX-ből DOCX-ba konvertálás C++-on" %}}

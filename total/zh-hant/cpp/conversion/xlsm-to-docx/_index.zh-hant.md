@@ -1,6 +1,6 @@
 ---
-title: 使用 C++ 將 XLSM 轉換為 DOCX
-description: 在 C++ 應用程序中將 XLSM 轉換為 DOCX
+title: 使用 C++ 將 XLSM 轉換為 DOCX 或使用免費的在線轉換器
+description: 在 C++ 應用程序中將 XLSM 轉換為 DOCX 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C++ 將 XLSM 轉換為 DOCX" h2="導出 Excel<sup>&reg;</sup>全功能 C++ 應用程序中的 XLSM 到 DOCX" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 C++ 將 XLSM 轉換為 DOCX 或在線" h2="導出 Excel<sup>&reg;</sup>全功能 C++ 應用程序中的 XLSM 到 DOCX" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 XLSM 到 DOCX 轉換" %}}

@@ -1,6 +1,6 @@
 ---
-title: تحويل XLSM إلى WORD باستخدام Java
-description: Java API لتصدير XLSM إلى WORD باستخدام Excel أو Word
+title: تحويل XLSM إلى WORD باستخدام Java أو مع محول مجاني على الإنترنت
+description: Java API لتصدير XLSM إلى WORD أو عبر الإنترنت باستخدام Excel أو Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 url_ignore: /ar/java/conversion/xlsm-to-word/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: WORD WORDX PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLSM إلى WORD" h2="في Premise Java API لتصدير XLSM إلى WORD دون الاعتماد على Microsoft Excel & reg ؛" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLSM إلى WORD أو عبر الإنترنت" h2="في Premise Java API لتصدير XLSM إلى WORD أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يعتبر تحويل XLSM إلى WORD عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLSM المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى WORD. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

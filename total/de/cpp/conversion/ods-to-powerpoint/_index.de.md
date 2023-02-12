@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie ODS in POWERPOINT mit C++
-description: Konvertieren Sie ODS in POWERPOINT innerhalb von C++-Anwendungen
+title: Konvertieren Sie ODS in POWERPOINT mit C++ oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie ODS in POWERPOINT innerhalb von C++-Anwendungen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX PPTX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODS über C++ in POWERPOINT" h2="Excel exportieren&reg; ODS zu POWERPOINT innerhalb voll funktionsfähiger C++-Anwendungen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODS über C++ in POWERPOINT oder online" h2="Excel exportieren&reg; ODS zu POWERPOINT innerhalb voll funktionsfähiger C++-Anwendungen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODS-zu-POWERPOINT-Konvertierung in C++" %}}

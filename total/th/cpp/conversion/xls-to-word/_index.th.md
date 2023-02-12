@@ -1,6 +1,6 @@
 ---
-title: แปลง XLS เป็น WORD ด้วย C++
-description: แปลง XLS เป็น WORD ภายในแอปพลิเคชัน C++
+title: แปลง XLS เป็น WORD ด้วย C++ หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง XLS เป็น WORD ภายในแอปพลิเคชัน C++ หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง XLS เป็น WORD ผ่าน C++" h2="ส่งออก Excel<sup>&reg;</sup> XLS เป็น WORD ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง XLS เป็น WORD ผ่าน C++ หรือทางออนไลน์" h2="ส่งออก Excel<sup>&reg;</sup> XLS เป็น WORD ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง XLS เป็น WORD บน C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a CSV-t POWERPOINT-ba a C++ segítségével
-description: A CSV konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül
+title: Konvertálja a CSV-t POWERPOINT-ba a C++ segítségével vagy ingyenes online konverterrel
+description: A CSV konvertálása POWERPOINT formátumba a C++ alkalmazásokon belül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD DOCX DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A CSV konvertálása POWERPOINT formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> CSV-ből POWERPOINT-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A CSV konvertálása POWERPOINT formátumba C++ segítségével vagy online" h2="Exportálás Excel<sup>&reg;</sup> CSV-ből POWERPOINT-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="CSV-ből POWERPOINT-ba konvertálás C++-on" %}}

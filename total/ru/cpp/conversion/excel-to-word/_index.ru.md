@@ -1,6 +1,6 @@
 ---
-title: Преобразование EXCEL в WORD с помощью C++
-description: Преобразование EXCEL в WORD в приложениях C++
+title: Преобразование EXCEL в WORD с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование EXCEL в WORD в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать EXCEL в WORD через C++" h2="Экспорт Excel<sup>&reg;</sup> EXCEL в WORD в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать EXCEL в WORD через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> EXCEL в WORD в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование EXCEL в WORD на C++" %}}

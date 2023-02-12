@@ -1,6 +1,6 @@
 ---
-title: Converti XLSB in DOC usando Java
-description: API Java per esportare XLSB in DOC utilizzando Excel o Word
+title: Converti XLSB in DOC usando Java o con il convertitore online gratuito
+description: API Java per esportare XLSB in DOC o in linea utilizzando Excel o Word o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 url_ignore: /it/java/conversion/xlsb-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT WORD DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLSB in DOC" h2="API Java in loco per esportare XLSB in DOC senza fare affidamento su Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java per esportare XLSB in DOC o in linea" h2="API Java in loco per esportare XLSB in DOC senza fare affidamento su Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Il rendering di XLSB in DOC è un processo in due fasi. Utilizzerai prima l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) per convertire il documento XLSB specificato in PDF, quindi utilizzerai [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, puoi convertire facilmente il tuo documento PDF in DOC. Entrambe le API rientrano nella raccolta di librerie di automazione dei formati di file [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

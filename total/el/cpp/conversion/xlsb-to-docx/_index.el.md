@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLSB σε DOCX με C++
-description: Μετατροπή XLSB σε DOCX εντός εφαρμογών C++
+title: Μετατροπή XLSB σε DOCX με C++ ή με δωρεάν Online Converter
+description: Μετατροπή XLSB σε DOCX εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: POWERPOINT DOC WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLSB σε DOCX μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> XLSB σε DOCX σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLSB σε DOCX μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> XLSB σε DOCX σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLSB σε DOCX σε C++" %}}

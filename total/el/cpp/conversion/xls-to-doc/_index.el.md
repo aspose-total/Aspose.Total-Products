@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLS σε DOC με C++
-description: Μετατροπή XLS σε DOC εντός εφαρμογών C++
+title: Μετατροπή XLS σε DOC με C++ ή με δωρεάν Online Converter
+description: Μετατροπή XLS σε DOC εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLS σε DOC μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> XLS σε DOC σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLS σε DOC μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> XLS σε DOC σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLS σε DOC σε C++" %}}

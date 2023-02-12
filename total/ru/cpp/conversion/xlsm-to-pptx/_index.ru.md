@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSM в PPTX с помощью C++
-description: Преобразование XLSM в PPTX в приложениях C++
+title: Преобразование XLSM в PPTX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLSM в PPTX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX DOC POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSM в PPTX через C++" h2="Экспорт Excel<sup>&reg;</sup> XLSM в PPTX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать XLSM в PPTX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> XLSM в PPTX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование XLSM в PPTX на C++" %}}

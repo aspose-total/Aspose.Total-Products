@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a XLT-t PPTX-ba a C++ segítségével
-description: A XLT konvertálása PPTX formátumba a C++ alkalmazásokon belül
+title: Konvertálja a XLT-t PPTX-ba a C++ segítségével vagy ingyenes online konverterrel
+description: A XLT konvertálása PPTX formátumba a C++ alkalmazásokon belül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A XLT konvertálása PPTX formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> XLT-ből PPTX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A XLT konvertálása PPTX formátumba C++ segítségével vagy online" h2="Exportálás Excel<sup>&reg;</sup> XLT-ből PPTX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLT-ből PPTX-ba konvertálás C++-on" %}}

@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a XLS-t WORD-ba a C++ segítségével
-description: A XLS konvertálása WORD formátumba a C++ alkalmazásokon belül
+title: Konvertálja a XLS-t WORD-ba a C++ segítségével vagy ingyenes online konverterrel
+description: A XLS konvertálása WORD formátumba a C++ alkalmazásokon belül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A XLS konvertálása WORD formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> XLS-ből WORD-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A XLS konvertálása WORD formátumba C++ segítségével vagy online" h2="Exportálás Excel<sup>&reg;</sup> XLS-ből WORD-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLS-ből WORD-ba konvertálás C++-on" %}}

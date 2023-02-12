@@ -1,6 +1,6 @@
 ---
-title: Konversi XLTM ke PPTX menggunakan Java
-description: Java API untuk Mengekspor XLTM ke PPTX dengan menggunakan Excel atau Word
+title: Konversi XLTM ke PPTX menggunakan Java atau dengan Konverter Online gratis
+description: Java API untuk Mengekspor XLTM ke PPTX atau daring dengan menggunakan Excel atau Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 url_ignore: /id/java/conversion/xltm-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD POWERPOINT PPTXX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Mengekspor XLTM ke PPTX" h2="On Premise Java API untuk Mengekspor XLTM ke PPTX tanpa mengandalkan Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API untuk Mengekspor XLTM ke PPTX atau daring" h2="On Premise Java API untuk Mengekspor XLTM ke PPTX atau daring tanpa mengandalkan Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Rendering XLTM ke PPTX adalah proses dua langkah. Pertama-tama Anda akan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java) API untuk mengonversi dokumen XLTM yang diberikan ke PDF, lalu dengan menggunakan [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, Anda dapat dengan mudah mengonversi dokumen PDF Anda ke PPTX. Kedua API berada di bawah koleksi [Aspose.Total for Java](https://products.aspose.com/total/java/) perpustakaan otomatisasi format file.
 {{% /blocks/products/pf/feature-page-summary  %}}

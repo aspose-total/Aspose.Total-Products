@@ -1,6 +1,6 @@
 ---
-title: Converter XLSM para DOC com C++
-description: Converter XLSM para DOC em aplicativos C++
+title: Converter XLSM para DOC com C++ ou com o conversor online gratuito
+description: Converter XLSM para DOC em aplicativos C++ ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLSM para DOC via C++" h2="Exportar Excel<sup>&reg;</sup> XLSM para DOC em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLSM para DOC via C++ ou online" h2="Exportar Excel<sup>&reg;</sup> XLSM para DOC em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de XLSM para DOC em C++" %}}

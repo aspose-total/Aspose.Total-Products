@@ -1,6 +1,6 @@
 ---
-title: Converter ODS para WORD com C++
-description: Converter ODS para WORD em aplicativos C++
+title: Converter ODS para WORD com C++ ou com o conversor online gratuito
+description: Converter ODS para WORD em aplicativos C++ ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOC DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter ODS para WORD via C++" h2="Exportar Excel<sup>&reg;</sup> ODS para WORD em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter ODS para WORD via C++ ou online" h2="Exportar Excel<sup>&reg;</sup> ODS para WORD em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de ODS para WORD em C++" %}}

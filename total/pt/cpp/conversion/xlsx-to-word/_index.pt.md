@@ -1,6 +1,6 @@
 ---
-title: Converter XLSX para WORD com C++
-description: Converter XLSX para WORD em aplicativos C++
+title: Converter XLSX para WORD com C++ ou com o conversor online gratuito
+description: Converter XLSX para WORD em aplicativos C++ ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLSX para WORD via C++" h2="Exportar Excel<sup>&reg;</sup> XLSX para WORD em aplicativos C++ totalmente funcionais" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLSX para WORD via C++ ou online" h2="Exportar Excel<sup>&reg;</sup> XLSX para WORD em aplicativos C++ totalmente funcionais" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversão de XLSX para WORD em C++" %}}

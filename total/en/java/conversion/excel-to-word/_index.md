@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to WORD using Java 
-description: Java API to Export EXCEL to WORD with using Excel or Word 
+title: Convert EXCEL to WORD using Java or with free Online Converter
+description: Java API to Export EXCEL to WORD or online with using Excel or Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /java/conversion/excel-to-word/
 family: total
 platformtag: java
@@ -11,7 +11,7 @@ otherformats: POWERPOINT PPTX DOC DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export EXCEL to WORD" h2="On Premise Java API to Export EXCEL to WORD without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export EXCEL to WORD or online" h2="On Premise Java API to Export EXCEL to WORD or online without relying on Microsoft Excel&reg;">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to WORD via Java API" isGrey="true" %}}

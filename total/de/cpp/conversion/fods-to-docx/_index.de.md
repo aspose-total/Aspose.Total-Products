@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie FODS in DOCX mit C++
-description: Konvertieren Sie FODS in DOCX innerhalb von C++-Anwendungen
+title: Konvertieren Sie FODS in DOCX mit C++ oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie FODS in DOCX innerhalb von C++-Anwendungen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORD PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie FODS über C++ in DOCX" h2="Excel exportieren&reg; FODS zu DOCX innerhalb voll funktionsfähiger C++-Anwendungen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie FODS über C++ in DOCX oder online" h2="Excel exportieren&reg; FODS zu DOCX innerhalb voll funktionsfähiger C++-Anwendungen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="FODS-zu-DOCX-Konvertierung in C++" %}}

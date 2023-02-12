@@ -1,6 +1,6 @@
 ---
-title: C++ ile TSV'yi POWERPOINT'ye dönüştürün
-description: C++ uygulamaları içinde TSV'yi POWERPOINT'ye dönüştürün
+title: C++ ile TSV'yi POWERPOINT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde TSV'yi POWERPOINT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="TSV'yi C++ ile POWERPOINT'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında TSV'den POWERPOINT'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="TSV'yi C++ ile POWERPOINT'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında TSV'den POWERPOINT'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da TSV'den POWERPOINT'ye Dönüştürme" %}}

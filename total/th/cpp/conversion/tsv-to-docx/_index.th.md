@@ -1,6 +1,6 @@
 ---
-title: แปลง TSV เป็น DOCX ด้วย C++
-description: แปลง TSV เป็น DOCX ภายในแอปพลิเคชัน C++
+title: แปลง TSV เป็น DOCX ด้วย C++ หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง TSV เป็น DOCX ภายในแอปพลิเคชัน C++ หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง TSV เป็น DOCX ผ่าน C++" h2="ส่งออก Excel<sup>&reg;</sup> TSV เป็น DOCX ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง TSV เป็น DOCX ผ่าน C++ หรือทางออนไลน์" h2="ส่งออก Excel<sup>&reg;</sup> TSV เป็น DOCX ภายในแอปพลิเคชัน C++ ที่ทำงานได้เต็มรูปแบบ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="การแปลง TSV เป็น DOCX บน C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: 使用 Java 将 XLS 转换为 DOCX
-description: 使用 Excel 或 Word 将 XLS 导出为 DOCX 的 Java API
+title: 使用 Java 将 XLS 转换为 DOCX 或使用免费的在线转换器
+description: 使用 Excel 或 Word 将 XLS 导出为 DOCX 的 Java API 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 url_ignore: /zh/java/conversion/xls-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="用于将 XLS 导出为 DOCX 的 Java API" h2="无需依赖 Microsoft Excel 即可将 XLS 导出为 DOCX 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="用于将 XLS 导出为 DOCX 的 Java API 或在线" h2="无需依赖 Microsoft Excel 即可将 XLS 导出为 DOCX 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 将 XLS 渲染到 DOCX 是一个两步过程。您将首先使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java) API 将给定的 XLS 文档转换为 PDF，然后使用 [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API，您可以轻松地将您的 PDF 文档转换为 DOCX。这两个 API 都属于 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库的集合。
 {{% /blocks/products/pf/feature-page-summary  %}}

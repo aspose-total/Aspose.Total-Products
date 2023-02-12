@@ -1,6 +1,6 @@
 ---
-title: Converteer TSV naar WORD met C++
-description: Converteer TSV naar WORD binnen C++-toepassingen
+title: Converteer TSV naar WORD met C++ of met gratis Online Converter
+description: Converteer TSV naar WORD binnen C++-toepassingen of online. Test snel de gratis CSV naar DOC online converter voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer TSV naar WORD via C++" h2="Excel exporteren&reg; TSV naar WORD binnen volledig functionele C++-toepassingen" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer TSV naar WORD via C++ of online" h2="Excel exporteren&reg; TSV naar WORD binnen volledig functionele C++-toepassingen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="TSV naar WORD-conversie op C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: Konvertera ODS till PPTX med Java
-description: Java API för att exportera ODS till PPTX med hjälp av Excel eller Word
+title: Konvertera ODS till PPTX med Java eller med gratis Online Converter
+description: Java API för att exportera ODS till PPTX eller online med hjälp av Excel eller Word eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 url_ignore: /sv/java/conversion/ods-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX POWERPOINT WORD PPTXX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API för att exportera ODS till PPTX" h2="On Premise Java API för att exportera ODS till PPTX utan att förlita sig på Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API för att exportera ODS till PPTX eller online" h2="On Premise Java API för att exportera ODS till PPTX eller online utan att förlita sig på Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Att rendera ODS till PPTX är en process i två steg. Du använder först [Aspose.Cells for Java](https://products.aspose.com/cells/java) API för att konvertera det givna ODS-dokumentet till PDF och sedan genom att använda [Aspose.Pdf för Java](https://products.aspose.com/pdf/java) API kan du enkelt konvertera ditt PDF-dokument till PPTX. Båda API:erna ingår i samlingen av [Aspose.Total for Java](https://products.aspose.com/total/java/) filformatsautomatiseringsbibliotek.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLTX in WORD mit C++
-description: Konvertieren Sie XLTX in WORD innerhalb von C++-Anwendungen
+title: Konvertieren Sie XLTX in WORD mit C++ oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie XLTX in WORD innerhalb von C++-Anwendungen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLTX über C++ in WORD" h2="Excel exportieren&reg; XLTX zu WORD innerhalb voll funktionsfähiger C++-Anwendungen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLTX über C++ in WORD oder online" h2="Excel exportieren&reg; XLTX zu WORD innerhalb voll funktionsfähiger C++-Anwendungen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLTX-zu-WORD-Konvertierung in C++" %}}

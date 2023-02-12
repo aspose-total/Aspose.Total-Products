@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a TSV-t WORD-ba a C++ segítségével
-description: A TSV konvertálása WORD formátumba a C++ alkalmazásokon belül
+title: Konvertálja a TSV-t WORD-ba a C++ segítségével vagy ingyenes online konverterrel
+description: A TSV konvertálása WORD formátumba a C++ alkalmazásokon belül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A TSV konvertálása WORD formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> TSV-ből WORD-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A TSV konvertálása WORD formátumba C++ segítségével vagy online" h2="Exportálás Excel<sup>&reg;</sup> TSV-ből WORD-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="TSV-ből WORD-ba konvertálás C++-on" %}}

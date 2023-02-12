@@ -1,6 +1,6 @@
 ---
-title: 使用 C++ 将 FODS 转换为 PPTX
-description: 在 C++ 应用程序中将 FODS 转换为 PPTX
+title: 使用 C++ 将 FODS 转换为 PPTX 或使用免费的在线转换器
+description: 在 C++ 应用程序中将 FODS 转换为 PPTX 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 FODS 转换为 PPTX" h2="导出 Excel<sup>&reg;</sup>全功能 C++ 应用程序中的 FODS 到 PPTX" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 FODS 转换为 PPTX 或在线" h2="导出 Excel<sup>&reg;</sup>全功能 C++ 应用程序中的 FODS 到 PPTX" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 FODS 到 PPTX 转换" %}}

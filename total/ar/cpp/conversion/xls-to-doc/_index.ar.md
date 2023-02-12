@@ -1,6 +1,6 @@
 ---
-title: تحويل XLS إلى DOC باستخدام C++
-description: تحويل XLS إلى DOC داخل تطبيقات C++
+title: تحويل XLS إلى DOC باستخدام C++ أو مع محول مجاني على الإنترنت
+description: تحويل XLS إلى DOC داخل تطبيقات C++ أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل XLS إلى DOC عبر C++" h2="تصدير Excel <sup>&reg;</sup> ؛ XLS إلى DOC ضمن تطبيقات C++ كاملة الوظائف" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل XLS إلى DOC عبر C++ أو عبر الإنترنت" h2="تصدير Excel <sup>&reg;</sup> ؛ XLS إلى DOC ضمن تطبيقات C++ كاملة الوظائف" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLS إلى DOC التحويل على C++" %}}

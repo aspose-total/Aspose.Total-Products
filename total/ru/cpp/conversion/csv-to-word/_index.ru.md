@@ -1,6 +1,6 @@
 ---
-title: Преобразование CSV в WORD с помощью C++
-description: Преобразование CSV в WORD в приложениях C++
+title: Преобразование CSV в WORD с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование CSV в WORD в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT PPTX DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать CSV в WORD через C++" h2="Экспорт Excel<sup>&reg;</sup> CSV в WORD в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать CSV в WORD через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> CSV в WORD в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование CSV в WORD на C++" %}}

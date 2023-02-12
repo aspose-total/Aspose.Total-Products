@@ -1,6 +1,6 @@
 ---
-title: Converti TSV in PPTX con C++
-description: Converti TSV in PPTX all'interno di applicazioni C++
+title: Converti TSV in PPTX con C++ o con il convertitore online gratuito
+description: Converti TSV in PPTX all'interno di applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD POWERPOINT DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti TSV in PPTX tramite C++" h2="Esporta Excel<sup>&reg;</sup> TSV a PPTX all'interno di applicazioni C++ completamente funzionali" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti TSV in PPTX tramite C++ o in linea" h2="Esporta Excel<sup>&reg;</sup> TSV a PPTX all'interno di applicazioni C++ completamente funzionali" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da TSV a PPTX su C++" %}}

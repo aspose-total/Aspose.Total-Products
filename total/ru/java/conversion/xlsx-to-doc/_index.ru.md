@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSX в DOC с помощью Java
-description: Java API для экспорта XLSX в DOC с использованием Excel или Word
+title: Преобразование XLSX в DOC с помощью Java или с помощью бесплатного онлайн-конвертера
+description: Java API для экспорта XLSX в DOC или онлайн с использованием Excel или Word или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 url_ignore: /ru/java/conversion/xlsx-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLSX в DOC" h2="Локальный Java API для экспорта XLSX в DOC, не полагаясь на Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLSX в DOC или онлайн" h2="Локальный Java API для экспорта XLSX в DOC или онлайн, не полагаясь на Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование XLSX в DOC — это двухэтапный процесс. Сначала вы будете использовать API [Aspose.Cells для Java](https://products.aspose.com/cells/java) для преобразования данного документа XLSX в PDF, а затем с помощью [Aspose.Pdf для Java](https://products.aspose.com/pdf/java) API, вы можете легко конвертировать PDF-документ в DOC. Оба API входят в набор библиотек автоматизации форматов файлов [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

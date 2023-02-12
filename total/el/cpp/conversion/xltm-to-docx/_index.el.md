@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLTM σε DOCX με C++
-description: Μετατροπή XLTM σε DOCX εντός εφαρμογών C++
+title: Μετατροπή XLTM σε DOCX με C++ ή με δωρεάν Online Converter
+description: Μετατροπή XLTM σε DOCX εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: POWERPOINT WORD DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLTM σε DOCX μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> XLTM σε DOCX σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLTM σε DOCX μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> XLTM σε DOCX σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLTM σε DOCX σε C++" %}}

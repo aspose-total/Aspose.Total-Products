@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to POWERPOINT using Java 
-description: Java API to Export XLS to POWERPOINT with using Excel or Word 
+title: Convert XLS to POWERPOINT using Java or with free Online Converter
+description: Java API to Export XLS to POWERPOINT or online with using Excel or Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /java/conversion/xls-to-powerpoint/
 family: total
 platformtag: java
@@ -11,7 +11,7 @@ otherformats: WORD DOC PPTX DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export XLS to POWERPOINT" h2="On Premise Java API to Export XLS to POWERPOINT without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export XLS to POWERPOINT or online" h2="On Premise Java API to Export XLS to POWERPOINT or online without relying on Microsoft Excel&reg;">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to POWERPOINT via Java API" isGrey="true" %}}

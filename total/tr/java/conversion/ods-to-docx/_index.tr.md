@@ -1,6 +1,6 @@
 ---
-title: Java kullanarak ODS'yi DOCX'ye dönüştürün
-description: Excel veya Word kullanarak ODS'yi DOCX'a Dışa Aktarmak için Java API
+title: Java kullanarak ODS'yi DOCX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Excel veya Word kullanarak ODS'yi DOCX'a Dışa Aktarmak için Java API veya çevrimiçi veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 url_ignore: /tr/java/conversion/ods-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: DOCX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="ODS'yi DOCX'a Dışa Aktarmak için Java API" h2="Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="ODS'yi DOCX'a Dışa Aktarmak için Java API veya çevrimiçi" h2="Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 ODS'yi DOCX'ye işlemek iki adımlı bir işlemdir. Verilen ODS belgesini PDF'ye dönüştürmek için önce [Aspose.Cells for Java](https://products.aspose.com/cells/java) API'sini ve ardından [Aspose.Pdf for Java](https) kullanacaksınız. ://products.aspose.com/pdf/java) API ile PDF belgenizi kolayca DOCX'a dönüştürebilirsiniz. Her iki API de [Aspose.Total for Java](https://products.aspose.com/total/java/) dosya formatı otomasyon kitaplıklarının koleksiyonuna dahildir.
 {{% /blocks/products/pf/feature-page-summary  %}}

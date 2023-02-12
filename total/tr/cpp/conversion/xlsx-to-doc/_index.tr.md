@@ -1,6 +1,6 @@
 ---
-title: C++ ile XLSX'yi DOC'ye dönüştürün
-description: C++ uygulamaları içinde XLSX'yi DOC'ye dönüştürün
+title: C++ ile XLSX'yi DOC'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde XLSX'yi DOC'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD POWERPOINT DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLSX'yi C++ ile DOC'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında XLSX'den DOC'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="XLSX'yi C++ ile DOC'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında XLSX'den DOC'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da XLSX'den DOC'ye Dönüştürme" %}}

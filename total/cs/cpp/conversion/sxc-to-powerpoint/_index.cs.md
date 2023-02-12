@@ -1,6 +1,6 @@
 ---
-title: Převeďte SXC na POWERPOINT pomocí C++
-description: Převeďte SXC na POWERPOINT v aplikacích C++
+title: Převeďte SXC na POWERPOINT pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte SXC na POWERPOINT v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX WORD PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést SXC na POWERPOINT přes C++" h2="Export Excel<sup>&reg;</sup> SXC do POWERPOINT v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést SXC na POWERPOINT přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> SXC do POWERPOINT v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod SXC na POWERPOINT v C++" %}}

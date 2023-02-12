@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLTX σε PPTX με C++
-description: Μετατροπή XLTX σε PPTX εντός εφαρμογών C++
+title: Μετατροπή XLTX σε PPTX με C++ ή με δωρεάν Online Converter
+description: Μετατροπή XLTX σε PPTX εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT DOC DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLTX σε PPTX μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> XLTX σε PPTX σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLTX σε PPTX μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> XLTX σε PPTX σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLTX σε PPTX σε C++" %}}

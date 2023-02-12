@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLSM na PPTX pomocí C++
-description: Převeďte XLSM na PPTX v aplikacích C++
+title: Převeďte XLSM na PPTX pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte XLSM na PPTX v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX DOC POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLSM na PPTX přes C++" h2="Export Excel<sup>&reg;</sup> XLSM do PPTX v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLSM na PPTX přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> XLSM do PPTX v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLSM na PPTX v C++" %}}

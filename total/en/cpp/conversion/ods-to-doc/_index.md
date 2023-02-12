@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to DOC with C++ 
-description: Convert ODS to DOC within C++ applications
+title: Convert ODS to DOC with C++ or with free Online Converter
+description: Convert ODS to DOC within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/ods-to-doc/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: POWERPOINT PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert ODS to DOC via C++" h2="Export Excel&reg; ODS to DOC within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert ODS to DOC via C++ or online" h2="Export Excel&reg; ODS to DOC within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

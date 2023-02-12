@@ -1,6 +1,6 @@
 ---
-title: Преобразование SXC в PPTX с помощью C++
-description: Преобразование SXC в PPTX в приложениях C++
+title: Преобразование SXC в PPTX с помощью C++ или с помощью бесплатного онлайн-конвертера
+description: Преобразование SXC в PPTX в приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT WORD DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать SXC в PPTX через C++" h2="Экспорт Excel<sup>&reg;</sup> SXC в PPTX в полнофункциональных приложениях C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать SXC в PPTX через C++ или онлайн" h2="Экспорт Excel<sup>&reg;</sup> SXC в PPTX в полнофункциональных приложениях C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Преобразование SXC в PPTX на C++" %}}

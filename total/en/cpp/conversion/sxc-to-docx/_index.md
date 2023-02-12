@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to DOCX with C++ 
-description: Convert SXC to DOCX within C++ applications
+title: Convert SXC to DOCX with C++ or with free Online Converter
+description: Convert SXC to DOCX within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/sxc-to-docx/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: WORD DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert SXC to DOCX via C++" h2="Export Excel&reg; SXC to DOCX within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert SXC to DOCX via C++ or online" h2="Export Excel&reg; SXC to DOCX within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

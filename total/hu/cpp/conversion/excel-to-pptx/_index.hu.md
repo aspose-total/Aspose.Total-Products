@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a EXCEL-t PPTX-ba a C++ segítségével
-description: A EXCEL konvertálása PPTX formátumba a C++ alkalmazásokon belül
+title: Konvertálja a EXCEL-t PPTX-ba a C++ segítségével vagy ingyenes online konverterrel
+description: A EXCEL konvertálása PPTX formátumba a C++ alkalmazásokon belül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A EXCEL konvertálása PPTX formátumba C++ segítségével" h2="Exportálás Excel<sup>&reg;</sup> EXCEL-ből PPTX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
+{{< blocks/products/pf/feature-page-header h1="A EXCEL konvertálása PPTX formátumba C++ segítségével vagy online" h2="Exportálás Excel<sup>&reg;</sup> EXCEL-ből PPTX-ba a teljes funkcionalitású C++ alkalmazásokon belül" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EXCEL-ből PPTX-ba konvertálás C++-on" %}}

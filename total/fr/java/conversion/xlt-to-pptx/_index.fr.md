@@ -1,6 +1,6 @@
 ---
-title: Convertir XLT en PPTX en utilisant Java
-description: API Java pour exporter XLT vers PPTX en utilisant Excel ou Word
+title: Convertir XLT en PPTX en utilisant Java ou avec le convertisseur en ligne gratuit
+description: API Java pour exporter XLT vers PPTX ou en ligne en utilisant Excel ou Word ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 url_ignore: /fr/java/conversion/xlt-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTXX POWERPOINT PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter XLT vers PPTX" h2="API Java sur site pour exporter XLT vers PPTX sans dépendre de Microsoft Excel®" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java pour exporter XLT vers PPTX ou en ligne" h2="API Java sur site pour exporter XLT vers PPTX sans dépendre de Microsoft Excel®" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Le rendu XLT en PPTX est un processus en deux étapes. Vous utiliserez d'abord l'API [Aspose.Cells for Java](https://products.aspose.com/cells/java) pour convertir le document XLT donné en PDF, puis en utilisant [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, vous pouvez facilement convertir votre document PDF en PPTX. Les deux API font partie de la collection de bibliothèques d'automatisation de format de fichier [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

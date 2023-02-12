@@ -1,6 +1,6 @@
 ---
-title: C++를 사용하여 XLSB를 DOC로 변환
-description: C++ 애플리케이션 내에서 XLSB를 DOC로 변환
+title: C++를 사용하여 XLSB를 DOC로 변환 또는 무료 온라인 변환기 사용
+description: C++ 애플리케이션 내에서 XLSB를 DOC로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++를 통해 XLSB를 DOC로 변환" h2="엑셀 내보내기&reg; 완전한 기능을 갖춘 C++ 애플리케이션 내에서 XLSB에서 DOC로" >}}
+{{< blocks/products/pf/feature-page-header h1="C++를 통해 XLSB를 DOC로 변환 또는 온라인" h2="엑셀 내보내기&reg; 완전한 기능을 갖춘 C++ 애플리케이션 내에서 XLSB에서 DOC로" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++에서 XLSB에서 DOC로 변환" %}}

@@ -1,6 +1,6 @@
 ---
-title: تحويل XLSM إلى DOCX باستخدام C++
-description: تحويل XLSM إلى DOCX داخل تطبيقات C++
+title: تحويل XLSM إلى DOCX باستخدام C++ أو مع محول مجاني على الإنترنت
+description: تحويل XLSM إلى DOCX داخل تطبيقات C++ أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل XLSM إلى DOCX عبر C++" h2="تصدير Excel <sup>&reg;</sup> ؛ XLSM إلى DOCX ضمن تطبيقات C++ كاملة الوظائف" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل XLSM إلى DOCX عبر C++ أو عبر الإنترنت" h2="تصدير Excel <sup>&reg;</sup> ؛ XLSM إلى DOCX ضمن تطبيقات C++ كاملة الوظائف" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLSM إلى DOCX التحويل على C++" %}}

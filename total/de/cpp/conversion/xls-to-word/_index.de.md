@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLS in WORD mit C++
-description: Konvertieren Sie XLS in WORD innerhalb von C++-Anwendungen
+title: Konvertieren Sie XLS in WORD mit C++ oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie XLS in WORD innerhalb von C++-Anwendungen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über C++ in WORD" h2="Excel exportieren&reg; XLS zu WORD innerhalb voll funktionsfähiger C++-Anwendungen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über C++ in WORD oder online" h2="Excel exportieren&reg; XLS zu WORD innerhalb voll funktionsfähiger C++-Anwendungen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLS-zu-WORD-Konvertierung in C++" %}}

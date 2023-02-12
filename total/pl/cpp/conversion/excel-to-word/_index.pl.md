@@ -1,6 +1,6 @@
 ---
-title: Konwertuj EXCEL na WORD za pomocą C++
-description: Konwertuj EXCEL na WORD w aplikacjach C++
+title: Konwertuj EXCEL na WORD za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Konwertuj EXCEL na WORD w aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj EXCEL na WORD za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> EXCEL do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj EXCEL na WORD za pomocą C++ lub online" h2="Eksportuj Excel<sup>&reg;</sup> EXCEL do WORD w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja EXCEL do WORD w C++" %}}

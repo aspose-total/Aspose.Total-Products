@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLTX в POWERPOINT с помощью Java
-description: Java API для экспорта XLTX в POWERPOINT с использованием Excel или Word
+title: Преобразование XLTX в POWERPOINT с помощью Java или с помощью бесплатного онлайн-конвертера
+description: Java API для экспорта XLTX в POWERPOINT или онлайн с использованием Excel или Word или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 url_ignore: /ru/java/conversion/xltx-to-powerpoint/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT PPTX WORD POWERPOINTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLTX в POWERPOINT" h2="Локальный Java API для экспорта XLTX в POWERPOINT, не полагаясь на Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API для экспорта XLTX в POWERPOINT или онлайн" h2="Локальный Java API для экспорта XLTX в POWERPOINT или онлайн, не полагаясь на Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование XLTX в POWERPOINT — это двухэтапный процесс. Сначала вы будете использовать API [Aspose.Cells для Java](https://products.aspose.com/cells/java) для преобразования данного документа XLTX в PDF, а затем с помощью [Aspose.Pdf для Java](https://products.aspose.com/pdf/java) API, вы можете легко конвертировать PDF-документ в POWERPOINT. Оба API входят в набор библиотек автоматизации форматов файлов [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Převeďte EXCEL na DOC pomocí C++
-description: Převeďte EXCEL na DOC v aplikacích C++
+title: Převeďte EXCEL na DOC pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte EXCEL na DOC v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést EXCEL na DOC přes C++" h2="Export Excel<sup>&reg;</sup> EXCEL do DOC v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést EXCEL na DOC přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> EXCEL do DOC v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod EXCEL na DOC v C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: تحويل XLSX إلى PPTX باستخدام Java
-description: Java API لتصدير XLSX إلى PPTX باستخدام Excel أو Word
+title: تحويل XLSX إلى PPTX باستخدام Java أو مع محول مجاني على الإنترنت
+description: Java API لتصدير XLSX إلى PPTX أو عبر الإنترنت باستخدام Excel أو Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 url_ignore: /ar/java/conversion/xlsx-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX POWERPOINT PPTXX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLSX إلى PPTX" h2="في Premise Java API لتصدير XLSX إلى PPTX دون الاعتماد على Microsoft Excel & reg ؛" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير XLSX إلى PPTX أو عبر الإنترنت" h2="في Premise Java API لتصدير XLSX إلى PPTX أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يعتبر تحويل XLSX إلى PPTX عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند XLSX المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى PPTX. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

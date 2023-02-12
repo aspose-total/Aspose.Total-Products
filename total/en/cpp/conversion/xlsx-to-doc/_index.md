@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to DOC with C++ 
-description: Convert XLSX to DOC within C++ applications
+title: Convert XLSX to DOC with C++ or with free Online Converter
+description: Convert XLSX to DOC within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/xlsx-to-doc/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: WORD POWERPOINT DOCX PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLSX to DOC via C++" h2="Export Excel&reg; XLSX to DOC within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLSX to DOC via C++ or online" h2="Export Excel&reg; XLSX to DOC within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

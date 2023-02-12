@@ -1,6 +1,6 @@
 ---
-title: Konversi EXCEL ke WORD dengan C++
-description: Konversi EXCEL ke WORD dalam aplikasi C++
+title: Konversi EXCEL ke WORD dengan C++ atau dengan Konverter Online gratis
+description: Konversi EXCEL ke WORD dalam aplikasi C++ atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi EXCEL ke WORD melalui C++" h2="Ekspor Excel<sup>&reg;</sup> EXCEL ke WORD dalam aplikasi C++ yang berfungsi penuh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi EXCEL ke WORD melalui C++ atau daring" h2="Ekspor Excel<sup>&reg;</sup> EXCEL ke WORD dalam aplikasi C++ yang berfungsi penuh" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konversi EXCEL ke WORD di C++" %}}

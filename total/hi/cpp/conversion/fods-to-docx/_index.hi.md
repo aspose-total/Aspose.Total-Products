@@ -1,6 +1,6 @@
 ---
-title: C++ के साथ FODS को DOCX में बदलें
-description: C++ अनुप्रयोगों के भीतर FODS को DOCX में बदलें
+title: C++ के साथ FODS को DOCX में बदलें या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: C++ अनुप्रयोगों के भीतर FODS को DOCX में बदलें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORD PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ के माध्यम से FODS को DOCX में बदलें" h2="एक्सेल निर्यात करें&reg; पूर्ण-कार्यात्मक सी ++ अनुप्रयोगों के भीतर सीएसवी से डीओसी तक" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ के माध्यम से FODS को DOCX में बदलें या ऑनलाइन" h2="एक्सेल निर्यात करें&reg; पूर्ण-कार्यात्मक सी ++ अनुप्रयोगों के भीतर सीएसवी से डीओसी तक" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="सी++ पर सीएसवी से डीओसी रूपांतरण" %}}

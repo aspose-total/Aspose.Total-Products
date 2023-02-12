@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLSX σε WORD με C++
-description: Μετατροπή XLSX σε WORD εντός εφαρμογών C++
+title: Μετατροπή XLSX σε WORD με C++ ή με δωρεάν Online Converter
+description: Μετατροπή XLSX σε WORD εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLSX σε WORD μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> XLSX σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLSX σε WORD μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> XLSX σε WORD σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή XLSX σε WORD σε C++" %}}

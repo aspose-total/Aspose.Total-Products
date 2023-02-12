@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLSB na DOCX za pomocą C++
-description: Konwertuj XLSB na DOCX w aplikacjach C++
+title: Konwertuj XLSB na DOCX za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Konwertuj XLSB na DOCX w aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: POWERPOINT DOC WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSB na DOCX za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLSB do DOCX w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSB na DOCX za pomocą C++ lub online" h2="Eksportuj Excel<sup>&reg;</sup> XLSB do DOCX w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLSB do DOCX w C++" %}}

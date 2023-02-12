@@ -1,6 +1,6 @@
 ---
-title: Convierta SXC a WORD usando Java
-description: API de Java para exportar SXC a WORD con Excel o Word
+title: Convierta SXC a WORD usando Java o con el convertidor en línea gratuito
+description: API de Java para exportar SXC a WORD o en línea con Excel o Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 url_ignore: /es/java/conversion/sxc-to-word/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: WORDX PPTX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar SXC a WORD" h2="API de Java local para exportar SXC a WORD sin depender de Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de Java para exportar SXC a WORD o en línea" h2="API de Java local para exportar SXC a WORD sin depender de Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Renderizar SXC a WORD es un proceso de dos pasos. Primero usará [Aspose.Cells for Java](https://products.aspose.com/cells/java) API para convertir el documento SXC dado a PDF, y luego usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), puede convertir fácilmente su documento PDF a WORD. Ambas API pertenecen a la colección de bibliotecas de automatización de formato de archivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

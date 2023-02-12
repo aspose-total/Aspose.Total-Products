@@ -1,6 +1,6 @@
 ---
-title: Konwertuj FODS na WORD za pomocą Java
-description: Java API do eksportu FODS do WORD za pomocą programu Excel lub Word
+title: Konwertuj FODS na WORD za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Java API do eksportu FODS do WORD lub online za pomocą programu Excel lub Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 url_ignore: /pl/java/conversion/fods-to-word/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: PPTX WORD WORDX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu FODS do WORD" h2="On Premise Java API do eksportu FODS do WORD bez korzystania z Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API do eksportu FODS do WORD lub online" h2="On Premise Java API do eksportu FODS do WORD lub online bez korzystania z Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Renderowanie FODS do WORD to proces dwuetapowy. Najpierw użyjesz interfejsu API [Aspose.Cells for Java](https://products.aspose.com/cells/java), aby przekonwertować dany dokument FODS na PDF, a następnie użyjesz [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, możesz łatwo przekonwertować dokument PDF na WORD. Oba interfejsy API należą do kolekcji bibliotek automatyzacji formatu plików [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Converteer XLSX naar DOC met C++
-description: Converteer XLSX naar DOC binnen C++-toepassingen
+title: Converteer XLSX naar DOC met C++ of met gratis Online Converter
+description: Converteer XLSX naar DOC binnen C++-toepassingen of online. Test snel de gratis CSV naar DOC online converter voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD POWERPOINT DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer XLSX naar DOC via C++" h2="Excel exporteren&reg; XLSX naar DOC binnen volledig functionele C++-toepassingen" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer XLSX naar DOC via C++ of online" h2="Excel exporteren&reg; XLSX naar DOC binnen volledig functionele C++-toepassingen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLSX naar DOC-conversie op C++" %}}

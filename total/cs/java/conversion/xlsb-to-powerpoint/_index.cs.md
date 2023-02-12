@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLSB na POWERPOINT pomocí Java
-description: Java API pro export XLSB do POWERPOINT pomocí Excelu nebo Wordu
+title: Převeďte XLSB na POWERPOINT pomocí Java nebo pomocí bezplatného online převodníku
+description: Java API pro export XLSB do POWERPOINT nebo online pomocí Excelu nebo Wordu nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 url_ignore: /cs/java/conversion/xlsb-to-powerpoint/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINTX POWERPOINT PPTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API pro export XLSB do POWERPOINT" h2="On Premise Java API pro export XLSB do POWERPOINT bez spoléhání se na Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API pro export XLSB do POWERPOINT nebo online" h2="On Premise Java API pro export XLSB do POWERPOINT nebo online bez spoléhání se na Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vykreslení XLSB do POWERPOINT je dvoufázový proces. Nejprve použijete [Aspose.Cells for Java](https://products.aspose.com/cells/java) API k převodu daného XLSB dokumentu do PDF a poté pomocí [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, můžete snadno převést dokument PDF na POWERPOINT. Obě rozhraní API spadají do kolekce knihoven automatizace formátu souborů [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Converter XLS para WORD usando Java
-description: API Java para exportar XLS para WORD usando Excel ou Word
+title: Converter XLS para WORD usando Java ou com o conversor online grátis
+description: API Java para exportar XLS para WORD ou online usando Excel ou Word ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 url_ignore: /pt/java/conversion/xls-to-word/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: POWERPOINT PPTX WORD WORDX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java para exportar XLS para WORD" h2="On Premise Java API para exportar XLS para WORD sem depender do Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java para exportar XLS para WORD ou online" h2="On Premise Java API para exportar XLS para WORD sem depender do Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A renderização de XLS para WORD é um processo de duas etapas. Você primeiro usará a API [Aspose.Cells for Java](https://products.aspose.com/cells/java) para converter o documento XLS fornecido em PDF e, em seguida, usará [Aspose.Pdf for Java](https://products.aspose.com/pdf/java), você pode facilmente converter seu documento PDF em WORD. Ambas as APIs fazem parte da coleção de bibliotecas de automação de formato de arquivo [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

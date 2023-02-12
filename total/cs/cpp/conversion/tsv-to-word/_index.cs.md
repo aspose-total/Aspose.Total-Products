@@ -1,6 +1,6 @@
 ---
-title: Převeďte TSV na WORD pomocí C++
-description: Převeďte TSV na WORD v aplikacích C++
+title: Převeďte TSV na WORD pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte TSV na WORD v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést TSV na WORD přes C++" h2="Export Excel<sup>&reg;</sup> TSV do WORD v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést TSV na WORD přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> TSV do WORD v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod TSV na WORD v C++" %}}

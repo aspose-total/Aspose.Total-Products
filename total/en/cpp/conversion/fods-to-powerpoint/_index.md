@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to POWERPOINT with C++ 
-description: Convert FODS to POWERPOINT within C++ applications
+title: Convert FODS to POWERPOINT with C++ or with free Online Converter
+description: Convert FODS to POWERPOINT within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/fods-to-powerpoint/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: DOCX PPTX WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to POWERPOINT via C++" h2="Export Excel&reg; FODS to POWERPOINT within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert FODS to POWERPOINT via C++ or online" h2="Export Excel&reg; FODS to POWERPOINT within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

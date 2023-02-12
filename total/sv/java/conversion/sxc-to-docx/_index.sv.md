@@ -1,6 +1,6 @@
 ---
-title: Konvertera SXC till DOCX med Java
-description: Java API för att exportera SXC till DOCX med hjälp av Excel eller Word
+title: Konvertera SXC till DOCX med Java eller med gratis Online Converter
+description: Java API för att exportera SXC till DOCX eller online med hjälp av Excel eller Word eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 url_ignore: /sv/java/conversion/sxc-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: PPTX WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API för att exportera SXC till DOCX" h2="On Premise Java API för att exportera SXC till DOCX utan att förlita sig på Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API för att exportera SXC till DOCX eller online" h2="On Premise Java API för att exportera SXC till DOCX eller online utan att förlita sig på Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Att rendera SXC till DOCX är en process i två steg. Du använder först [Aspose.Cells for Java](https://products.aspose.com/cells/java) API för att konvertera det givna SXC-dokumentet till PDF och sedan genom att använda [Aspose.Pdf för Java](https://products.aspose.com/pdf/java) API kan du enkelt konvertera ditt PDF-dokument till DOCX. Båda API:erna ingår i samlingen av [Aspose.Total for Java](https://products.aspose.com/total/java/) filformatsautomatiseringsbibliotek.
 {{% /blocks/products/pf/feature-page-summary  %}}

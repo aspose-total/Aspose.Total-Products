@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie SXC in POWERPOINT mit Java
-description: Java-API zum Exportieren von SXC in POWERPOINT mit Excel oder Word
+title: Konvertieren Sie SXC in POWERPOINT mit Java oder mit dem kostenlosen Online Converter
+description: Java-API zum Exportieren von SXC in POWERPOINT oder online mit Excel oder Word oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 url_ignore: /de/java/conversion/sxc-to-powerpoint/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX WORD POWERPOINT POWERPOINTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java-API zum Exportieren von SXC in POWERPOINT" h2="On-Premise-Java-API zum Exportieren von SXC in POWERPOINT, ohne auf Microsoft Excel angewiesen zu sein&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java-API zum Exportieren von SXC in POWERPOINT oder online" h2="On-Premise-Java-API zum Exportieren von SXC in POWERPOINT oder online, ohne auf Microsoft Excel angewiesen zu sein&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Das Rendern von SXC in POWERPOINT ist ein zweistufiger Prozess. Sie verwenden zuerst die API [Aspose.Cells for Java](https://products.aspose.com/cells/java), um das angegebene SXC-Dokument in PDF zu konvertieren, und verwenden dann [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API können Sie Ihr PDF-Dokument einfach in POWERPOINT konvertieren. Beide APIs gehören zur Sammlung von [Aspose.Total for Java](https://products.aspose.com/total/java/) Dateiformat-Automatisierungsbibliotheken.
 {{% /blocks/products/pf/feature-page-summary  %}}

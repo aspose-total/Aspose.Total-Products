@@ -1,6 +1,6 @@
 ---
-title: C++ ile FODS'yi POWERPOINT'ye dönüştürün
-description: C++ uygulamaları içinde FODS'yi POWERPOINT'ye dönüştürün
+title: C++ ile FODS'yi POWERPOINT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde FODS'yi POWERPOINT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX PPTX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="FODS'yi C++ ile POWERPOINT'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında FODS'den POWERPOINT'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="FODS'yi C++ ile POWERPOINT'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında FODS'den POWERPOINT'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da FODS'den POWERPOINT'ye Dönüştürme" %}}

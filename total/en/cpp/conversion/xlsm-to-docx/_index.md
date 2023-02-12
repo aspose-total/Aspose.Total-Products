@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to DOCX with C++ 
-description: Convert XLSM to DOCX within C++ applications
+title: Convert XLSM to DOCX with C++ or with free Online Converter
+description: Convert XLSM to DOCX within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/xlsm-to-docx/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT DOC WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLSM to DOCX via C++" h2="Export Excel&reg; XLSM to DOCX within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLSM to DOCX via C++ or online" h2="Export Excel&reg; XLSM to DOCX within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

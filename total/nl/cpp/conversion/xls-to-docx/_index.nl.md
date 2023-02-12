@@ -1,6 +1,6 @@
 ---
-title: Converteer XLS naar DOCX met C++
-description: Converteer XLS naar DOCX binnen C++-toepassingen
+title: Converteer XLS naar DOCX met C++ of met gratis Online Converter
+description: Converteer XLS naar DOCX binnen C++-toepassingen of online. Test snel de gratis CSV naar DOC online converter voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer XLS naar DOCX via C++" h2="Excel exporteren&reg; XLS naar DOCX binnen volledig functionele C++-toepassingen" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer XLS naar DOCX via C++ of online" h2="Excel exporteren&reg; XLS naar DOCX binnen volledig functionele C++-toepassingen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLS naar DOCX-conversie op C++" %}}

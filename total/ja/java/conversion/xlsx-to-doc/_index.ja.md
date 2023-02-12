@@ -1,6 +1,6 @@
 ---
-title: Javaを使用してXLSXをDOCに変換する
-description: ExcelまたはWordを使用してXLSXをDOCにエクスポートするJavaAPI
+title: Javaを使用してXLSXをDOCに変換する または無料のオンライン コンバーターを使用
+description: ExcelまたはWordを使用してXLSXをDOCにエクスポートするJavaAPI またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 url_ignore: /ja/java/conversion/xlsx-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XLSXをDOCにエクスポートするJavaAPI" h2="オンプレミスのJavaAPIを使用して、MicrosoftExcelに依存せずにXLSXをDOCにエクスポートします。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="XLSXをDOCにエクスポートするJavaAPI またはオンライン" h2="オンプレミスのJavaAPIを使用して、MicrosoftExcelに依存せずにXLSXをDOCにエクスポートします。" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 XLSXをDOCにレンダリングするのは2段階のプロセスです。最初に[Aspose.CellsforJava](https://products.aspose.com/cells/java)APIを使用して特定のXLSXドキュメントをPDFに変換し、次に[Aspose.Pdf for Java](https ：//products.aspose.com/pdf/java)APIを使用すると、PDFドキュメントをDOCに簡単に変換できます。どちらのAPIも、[Aspose.Total for Java](https://products.aspose.com/total/java/)ファイル形式の自動化ライブラリのコレクションに含まれています。
 {{% /blocks/products/pf/feature-page-summary  %}}

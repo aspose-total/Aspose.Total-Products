@@ -1,6 +1,6 @@
 ---
-title: Konvertera FODS till PPTX med C++
-description: Konvertera FODS till PPTX inom C++-applikationer
+title: Konvertera FODS till PPTX med C++ eller med gratis Online Converter
+description: Konvertera FODS till PPTX inom C++-applikationer eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera FODS till PPTX via C++" h2="Exportera Excel<sup>&reg;</sup> FODS till PPTX inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera FODS till PPTX via C++ eller online" h2="Exportera Excel<sup>&reg;</sup> FODS till PPTX inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="FODS till PPTX-konvertering på C++" %}}

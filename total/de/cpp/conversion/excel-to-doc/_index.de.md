@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie EXCEL in DOC mit C++
-description: Konvertieren Sie EXCEL in DOC innerhalb von C++-Anwendungen
+title: Konvertieren Sie EXCEL in DOC mit C++ oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie EXCEL in DOC innerhalb von C++-Anwendungen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie EXCEL über C++ in DOC" h2="Excel exportieren&reg; EXCEL zu DOC innerhalb voll funktionsfähiger C++-Anwendungen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie EXCEL über C++ in DOC oder online" h2="Excel exportieren&reg; EXCEL zu DOC innerhalb voll funktionsfähiger C++-Anwendungen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EXCEL-zu-DOC-Konvertierung in C++" %}}

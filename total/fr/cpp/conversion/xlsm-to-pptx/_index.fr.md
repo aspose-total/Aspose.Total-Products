@@ -1,6 +1,6 @@
 ---
-title: Convertir XLSM en PPTX avec C++
-description: Convertir XLSM en PPTX dans les applications C++
+title: Convertir XLSM en PPTX avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir XLSM en PPTX dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX DOC POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLSM en PPTX via C++" h2="Exporter Excel® XLSM vers PPTX dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLSM en PPTX via C++ ou en ligne" h2="Exporter Excel® XLSM vers PPTX dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion XLSM en PPTX sur C++" %}}

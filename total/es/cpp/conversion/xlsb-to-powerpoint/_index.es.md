@@ -1,6 +1,6 @@
 ---
-title: Convertir XLSB a POWERPOINT con C++
-description: Convierta XLSB a POWERPOINT dentro de aplicaciones C++
+title: Convertir XLSB a POWERPOINT con C++ o con el convertidor en línea gratuito
+description: Convierta XLSB a POWERPOINT dentro de aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOC WORD DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta XLSB a POWERPOINT a través de C++" h2="Exportar Excel<sup>&reg;</sup> XLSB a POWERPOINT dentro de aplicaciones C++ completamente funcionales" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta XLSB a POWERPOINT a través de C++ o en línea" h2="Exportar Excel<sup>&reg;</sup> XLSB a POWERPOINT dentro de aplicaciones C++ completamente funcionales" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de XLSB a POWERPOINT en C++" %}}

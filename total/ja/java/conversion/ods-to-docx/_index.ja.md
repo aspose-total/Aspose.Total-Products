@@ -1,6 +1,6 @@
 ---
-title: Javaを使用してODSをDOCXに変換する
-description: ExcelまたはWordを使用してODSをDOCXにエクスポートするJavaAPI
+title: Javaを使用してODSをDOCXに変換する または無料のオンライン コンバーターを使用
+description: ExcelまたはWordを使用してODSをDOCXにエクスポートするJavaAPI またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 url_ignore: /ja/java/conversion/ods-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: DOCX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="ODSをDOCXにエクスポートするJavaAPI" h2="オンプレミスのJavaAPIを使用して、MicrosoftExcelに依存せずにODSをDOCXにエクスポートします。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="ODSをDOCXにエクスポートするJavaAPI またはオンライン" h2="オンプレミスのJavaAPIを使用して、MicrosoftExcelに依存せずにODSをDOCXにエクスポートします。" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 ODSをDOCXにレンダリングするのは2段階のプロセスです。最初に[Aspose.CellsforJava](https://products.aspose.com/cells/java)APIを使用して特定のODSドキュメントをPDFに変換し、次に[Aspose.Pdf for Java](https ：//products.aspose.com/pdf/java)APIを使用すると、PDFドキュメントをDOCXに簡単に変換できます。どちらのAPIも、[Aspose.Total for Java](https://products.aspose.com/total/java/)ファイル形式の自動化ライブラリのコレクションに含まれています。
 {{% /blocks/products/pf/feature-page-summary  %}}

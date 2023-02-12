@@ -1,6 +1,6 @@
 ---
-title: C++でXLTXをWORDに変換する
-description: C++アプリケーション内でXLTXをWORDに変換する
+title: C++でXLTXをWORDに変換する または無料のオンライン コンバーターを使用
+description: C++アプリケーション内でXLTXをWORDに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++経由でXLTXをWORDに変換する" h2="Excelをエクスポート＆reg;フル機能のC++アプリケーション内でのXLTXからWORDへ" >}}
+{{< blocks/products/pf/feature-page-header h1="C++経由でXLTXをWORDに変換する またはオンライン" h2="Excelをエクスポート＆reg;フル機能のC++アプリケーション内でのXLTXからWORDへ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++でのXLTXからWORDへの変換" %}}

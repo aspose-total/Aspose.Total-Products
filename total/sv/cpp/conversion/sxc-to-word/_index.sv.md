@@ -1,6 +1,6 @@
 ---
-title: Konvertera SXC till WORD med C++
-description: Konvertera SXC till WORD inom C++-applikationer
+title: Konvertera SXC till WORD med C++ eller med gratis Online Converter
+description: Konvertera SXC till WORD inom C++-applikationer eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOC POWERPOINT PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera SXC till WORD via C++" h2="Exportera Excel<sup>&reg;</sup> SXC till WORD inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera SXC till WORD via C++ eller online" h2="Exportera Excel<sup>&reg;</sup> SXC till WORD inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="SXC till WORD-konvertering på C++" %}}

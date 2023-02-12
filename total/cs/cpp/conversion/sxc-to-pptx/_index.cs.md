@@ -1,6 +1,6 @@
 ---
-title: Převeďte SXC na PPTX pomocí C++
-description: Převeďte SXC na PPTX v aplikacích C++
+title: Převeďte SXC na PPTX pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte SXC na PPTX v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT WORD DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést SXC na PPTX přes C++" h2="Export Excel<sup>&reg;</sup> SXC do PPTX v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést SXC na PPTX přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> SXC do PPTX v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod SXC na PPTX v C++" %}}

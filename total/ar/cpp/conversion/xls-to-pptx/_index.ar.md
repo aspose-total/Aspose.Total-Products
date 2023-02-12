@@ -1,6 +1,6 @@
 ---
-title: تحويل XLS إلى PPTX باستخدام C++
-description: تحويل XLS إلى PPTX داخل تطبيقات C++
+title: تحويل XLS إلى PPTX باستخدام C++ أو مع محول مجاني على الإنترنت
+description: تحويل XLS إلى PPTX داخل تطبيقات C++ أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX DOC POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل XLS إلى PPTX عبر C++" h2="تصدير Excel <sup>&reg;</sup> ؛ XLS إلى PPTX ضمن تطبيقات C++ كاملة الوظائف" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل XLS إلى PPTX عبر C++ أو عبر الإنترنت" h2="تصدير Excel <sup>&reg;</sup> ؛ XLS إلى PPTX ضمن تطبيقات C++ كاملة الوظائف" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLS إلى PPTX التحويل على C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: Javaを使用してXLTをDOCXに変換する
-description: ExcelまたはWordを使用してXLTをDOCXにエクスポートするJavaAPI
+title: Javaを使用してXLTをDOCXに変換する または無料のオンライン コンバーターを使用
+description: ExcelまたはWordを使用してXLTをDOCXにエクスポートするJavaAPI またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 url_ignore: /ja/java/conversion/xlt-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XLTをDOCXにエクスポートするJavaAPI" h2="オンプレミスのJavaAPIを使用して、MicrosoftExcelに依存せずにXLTをDOCXにエクスポートします。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="XLTをDOCXにエクスポートするJavaAPI またはオンライン" h2="オンプレミスのJavaAPIを使用して、MicrosoftExcelに依存せずにXLTをDOCXにエクスポートします。" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 XLTをDOCXにレンダリングするのは2段階のプロセスです。最初に[Aspose.CellsforJava](https://products.aspose.com/cells/java)APIを使用して特定のXLTドキュメントをPDFに変換し、次に[Aspose.Pdf for Java](https ：//products.aspose.com/pdf/java)APIを使用すると、PDFドキュメントをDOCXに簡単に変換できます。どちらのAPIも、[Aspose.Total for Java](https://products.aspose.com/total/java/)ファイル形式の自動化ライブラリのコレクションに含まれています。
 {{% /blocks/products/pf/feature-page-summary  %}}

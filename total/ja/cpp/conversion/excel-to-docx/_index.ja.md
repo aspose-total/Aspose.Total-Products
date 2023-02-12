@@ -1,6 +1,6 @@
 ---
-title: C++でEXCELをDOCXに変換する
-description: C++アプリケーション内でEXCELをDOCXに変換する
+title: C++でEXCELをDOCXに変換する または無料のオンライン コンバーターを使用
+description: C++アプリケーション内でEXCELをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++経由でEXCELをDOCXに変換する" h2="Excelをエクスポート＆reg;フル機能のC++アプリケーション内でのEXCELからDOCXへ" >}}
+{{< blocks/products/pf/feature-page-header h1="C++経由でEXCELをDOCXに変換する またはオンライン" h2="Excelをエクスポート＆reg;フル機能のC++アプリケーション内でのEXCELからDOCXへ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++でのEXCELからDOCXへの変換" %}}

@@ -1,6 +1,6 @@
 ---
-title: Převeďte FODS na POWERPOINT pomocí C++
-description: Převeďte FODS na POWERPOINT v aplikacích C++
+title: Převeďte FODS na POWERPOINT pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte FODS na POWERPOINT v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX PPTX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést FODS na POWERPOINT přes C++" h2="Export Excel<sup>&reg;</sup> FODS do POWERPOINT v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést FODS na POWERPOINT přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> FODS do POWERPOINT v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod FODS na POWERPOINT v C++" %}}

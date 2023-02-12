@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie TSV in PPTX mit Java
-description: Java-API zum Exportieren von TSV in PPTX mit Excel oder Word
+title: Konvertieren Sie TSV in PPTX mit Java oder mit dem kostenlosen Online Converter
+description: Java-API zum Exportieren von TSV in PPTX oder online mit Excel oder Word oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 url_ignore: /de/java/conversion/tsv-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX WORD POWERPOINT PPTXX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java-API zum Exportieren von TSV in PPTX" h2="On-Premise-Java-API zum Exportieren von TSV in PPTX, ohne auf Microsoft Excel angewiesen zu sein&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java-API zum Exportieren von TSV in PPTX oder online" h2="On-Premise-Java-API zum Exportieren von TSV in PPTX oder online, ohne auf Microsoft Excel angewiesen zu sein&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Das Rendern von TSV in PPTX ist ein zweistufiger Prozess. Sie verwenden zuerst die API [Aspose.Cells for Java](https://products.aspose.com/cells/java), um das angegebene TSV-Dokument in PDF zu konvertieren, und verwenden dann [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API können Sie Ihr PDF-Dokument einfach in PPTX konvertieren. Beide APIs gehören zur Sammlung von [Aspose.Total for Java](https://products.aspose.com/total/java/) Dateiformat-Automatisierungsbibliotheken.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή EXCEL σε POWERPOINT με C++
-description: Μετατροπή EXCEL σε POWERPOINT εντός εφαρμογών C++
+title: Μετατροπή EXCEL σε POWERPOINT με C++ ή με δωρεάν Online Converter
+description: Μετατροπή EXCEL σε POWERPOINT εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή EXCEL σε POWERPOINT μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> EXCEL σε POWERPOINT σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή EXCEL σε POWERPOINT μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> EXCEL σε POWERPOINT σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή EXCEL σε POWERPOINT σε C++" %}}

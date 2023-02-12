@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLTX na DOC pomocí C++
-description: Převeďte XLTX na DOC v aplikacích C++
+title: Převeďte XLTX na DOC pomocí C++ nebo pomocí bezplatného online převodníku
+description: Převeďte XLTX na DOC v aplikacích C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést XLTX na DOC přes C++" h2="Export Excel<sup>&reg;</sup> XLTX do DOC v rámci plně funkčních aplikací C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést XLTX na DOC přes C++ nebo online" h2="Export Excel<sup>&reg;</sup> XLTX do DOC v rámci plně funkčních aplikací C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Převod XLTX na DOC v C++" %}}

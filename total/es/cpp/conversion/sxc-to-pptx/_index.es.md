@@ -1,6 +1,6 @@
 ---
-title: Convertir SXC a PPTX con C++
-description: Convierta SXC a PPTX dentro de aplicaciones C++
+title: Convertir SXC a PPTX con C++ o con el convertidor en línea gratuito
+description: Convierta SXC a PPTX dentro de aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT WORD DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta SXC a PPTX a través de C++" h2="Exportar Excel<sup>&reg;</sup> SXC a PPTX dentro de aplicaciones C++ completamente funcionales" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta SXC a PPTX a través de C++ o en línea" h2="Exportar Excel<sup>&reg;</sup> SXC a PPTX dentro de aplicaciones C++ completamente funcionales" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversión de SXC a PPTX en C++" %}}

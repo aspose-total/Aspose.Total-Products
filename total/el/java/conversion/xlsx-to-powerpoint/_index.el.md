@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLSX σε POWERPOINT χρησιμοποιώντας Java
-description: Java API για εξαγωγή XLSX σε POWERPOINT με χρήση Excel ή Word
+title: Μετατροπή XLSX σε POWERPOINT χρησιμοποιώντας Java ή με δωρεάν Online Converter
+description: Java API για εξαγωγή XLSX σε POWERPOINT ή διαδικτυακά με χρήση Excel ή Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 url_ignore: /el/java/conversion/xlsx-to-powerpoint/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINTX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API για εξαγωγή XLSX σε POWERPOINT" h2="On Premise Java API για εξαγωγή XLSX σε POWERPOINT χωρίς να βασίζεστε στο Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API για εξαγωγή XLSX σε POWERPOINT ή διαδικτυακά" h2="On Premise Java API για εξαγωγή XLSX σε POWERPOINT ή διαδικτυακά χωρίς να βασίζεστε στο Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Η απόδοση του XLSX σε POWERPOINT είναι μια διαδικασία δύο βημάτων. Θα χρησιμοποιήσετε πρώτα το [Aspose.Cells for Java](https://products.aspose.com/cells/java) API για να μετατρέψετε το δεδομένο έγγραφο XLSX σε PDF και, στη συνέχεια, χρησιμοποιώντας το [Aspose.Pdf για Java](https://products.aspose.com/pdf/java) API, μπορείτε εύκολα να μετατρέψετε το έγγραφο PDF σας σε POWERPOINT. Και τα δύο API ανήκουν στη συλλογή των βιβλιοθηκών αυτοματισμού μορφών αρχείων [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

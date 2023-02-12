@@ -1,6 +1,6 @@
 ---
-title: Converteer FODS naar POWERPOINT met Java
-description: Java API om FODS naar POWERPOINT te exporteren met Excel of Word
+title: Converteer FODS naar POWERPOINT met Java of met gratis Online Converter
+description: Java API om FODS naar POWERPOINT te exporteren of online met Excel of Word of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 url_ignore: /nl/java/conversion/fods-to-powerpoint/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT WORD PPTX POWERPOINTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API om FODS naar POWERPOINT te exporteren" h2="On Premise Java API om FODS naar POWERPOINT te exporteren zonder afhankelijk te zijn van Microsoft Excel&reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API om FODS naar POWERPOINT te exporteren of online" h2="On Premise Java API om FODS naar POWERPOINT te exporteren of online zonder afhankelijk te zijn van Microsoft Excel&reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Het renderen van FODS naar POWERPOINT is een proces in twee stappen. U gebruikt eerst de API [Aspose.Cells for Java](https://products.aspose.com/cells/java) om het gegeven FODS-document naar PDF te converteren en vervolgens [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, kunt u uw PDF-document eenvoudig converteren naar POWERPOINT. Beide API's vallen onder de verzameling van [Aspose.Total for Java](https://products.aspose.com/total/java/) automatiseringsbibliotheken voor bestandsindelingen.
 {{% /blocks/products/pf/feature-page-summary  %}}

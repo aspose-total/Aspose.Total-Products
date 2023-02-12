@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή FODS σε DOC με C++
-description: Μετατροπή FODS σε DOC εντός εφαρμογών C++
+title: Μετατροπή FODS σε DOC με C++ ή με δωρεάν Online Converter
+description: Μετατροπή FODS σε DOC εντός εφαρμογών C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή FODS σε DOC μέσω C++" h2="Εξαγωγή Excel<sup>&reg;</sup> FODS σε DOC σε πλήρως λειτουργικές εφαρμογές C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή FODS σε DOC μέσω C++ ή διαδικτυακά" h2="Εξαγωγή Excel<sup>&reg;</sup> FODS σε DOC σε πλήρως λειτουργικές εφαρμογές C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Μετατροπή FODS σε DOC σε C++" %}}

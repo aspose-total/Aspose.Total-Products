@@ -1,6 +1,6 @@
 ---
-title: C++ ile XLS'yi WORD'ye dönüştürün
-description: C++ uygulamaları içinde XLS'yi WORD'ye dönüştürün
+title: C++ ile XLS'yi WORD'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamaları içinde XLS'yi WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLS'yi C++ ile WORD'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında XLS'den WORD'ye" >}}
+{{< blocks/products/pf/feature-page-header h1="XLS'yi C++ ile WORD'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; Tam işlevli C++ uygulamalarında XLS'den WORD'ye" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++'da XLS'den WORD'ye Dönüştürme" %}}

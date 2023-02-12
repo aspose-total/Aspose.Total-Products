@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi EXCEL sang WORD bằng Java
-description: Java API để xuất EXCEL sang WORD bằng Excel hoặc Word
+title: Chuyển đổi EXCEL sang WORD bằng Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Java API để xuất EXCEL sang WORD bằng Excel hoặc Word hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 url_ignore: /vi/java/conversion/excel-to-word/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: POWERPOINT PPTX WORD WORDX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất EXCEL sang WORD" h2="Trên API Premise Java để Xuất EXCEL sang WORD mà không cần dựa vào Microsoft Excel & reg;" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API Java để xuất EXCEL sang WORD hoặc trực tuyến" h2="Trên API Premise Java để Xuất EXCEL sang WORD mà không cần dựa vào Microsoft Excel & reg;" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Đưa EXCEL sang WORD là một quá trình gồm hai bước. Trước tiên, bạn sẽ sử dụng API [Aspose.Cells for Java](https://products.aspose.com/cells/java) để chuyển đổi tài liệu EXCEL đã cho sang PDF, sau đó bằng cách sử dụng [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API, bạn có thể dễ dàng chuyển đổi tài liệu PDF của mình sang WORD. Cả hai API đều nằm trong bộ sưu tập các thư viện tự động hóa định dạng tệp [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

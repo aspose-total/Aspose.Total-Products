@@ -1,6 +1,6 @@
 ---
-title: Converti XLSB in WORD con C++
-description: Converti XLSB in WORD all'interno di applicazioni C++
+title: Converti XLSB in WORD con C++ o con il convertitore online gratuito
+description: Converti XLSB in WORD all'interno di applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX DOC POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti XLSB in WORD tramite C++" h2="Esporta Excel<sup>&reg;</sup> XLSB a WORD all'interno di applicazioni C++ completamente funzionali" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti XLSB in WORD tramite C++ o in linea" h2="Esporta Excel<sup>&reg;</sup> XLSB a WORD all'interno di applicazioni C++ completamente funzionali" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversione da XLSB a WORD su C++" %}}

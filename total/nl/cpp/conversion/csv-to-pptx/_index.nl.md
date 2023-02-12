@@ -1,6 +1,6 @@
 ---
-title: Converteer CSV naar PPTX met C++
-description: Converteer CSV naar PPTX binnen C++-toepassingen
+title: Converteer CSV naar PPTX met C++ of met gratis Online Converter
+description: Converteer CSV naar PPTX binnen C++-toepassingen of online. Test snel de gratis CSV naar DOC online converter voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD DOCX DOC POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer CSV naar PPTX via C++" h2="Excel exporteren&reg; CSV naar PPTX binnen volledig functionele C++-toepassingen" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer CSV naar PPTX via C++ of online" h2="Excel exporteren&reg; CSV naar PPTX binnen volledig functionele C++-toepassingen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="CSV naar PPTX-conversie op C++" %}}

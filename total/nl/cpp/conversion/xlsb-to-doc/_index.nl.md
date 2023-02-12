@@ -1,6 +1,6 @@
 ---
-title: Converteer XLSB naar DOC met C++
-description: Converteer XLSB naar DOC binnen C++-toepassingen
+title: Converteer XLSB naar DOC met C++ of met gratis Online Converter
+description: Converteer XLSB naar DOC binnen C++-toepassingen of online. Test snel de gratis CSV naar DOC online converter voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer XLSB naar DOC via C++" h2="Excel exporteren&reg; XLSB naar DOC binnen volledig functionele C++-toepassingen" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer XLSB naar DOC via C++ of online" h2="Excel exporteren&reg; XLSB naar DOC binnen volledig functionele C++-toepassingen" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLSB naar DOC-conversie op C++" %}}

@@ -1,6 +1,6 @@
 ---
-title: Konvertera XLSX till DOCX med C++
-description: Konvertera XLSX till DOCX inom C++-applikationer
+title: Konvertera XLSX till DOCX med C++ eller med gratis Online Converter
+description: Konvertera XLSX till DOCX inom C++-applikationer eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera XLSX till DOCX via C++" h2="Exportera Excel<sup>&reg;</sup> XLSX till DOCX inom fullfunktionella C++-applikationer" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera XLSX till DOCX via C++ eller online" h2="Exportera Excel<sup>&reg;</sup> XLSX till DOCX inom fullfunktionella C++-applikationer" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XLSX till DOCX-konvertering på C++" %}}

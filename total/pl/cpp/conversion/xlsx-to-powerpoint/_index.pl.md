@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLSX na POWERPOINT za pomocą C++
-description: Konwertuj XLSX na POWERPOINT w aplikacjach C++
+title: Konwertuj XLSX na POWERPOINT za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Konwertuj XLSX na POWERPOINT w aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSX na POWERPOINT za pomocą C++" h2="Eksportuj Excel<sup>&reg;</sup> XLSX do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSX na POWERPOINT za pomocą C++ lub online" h2="Eksportuj Excel<sup>&reg;</sup> XLSX do POWERPOINT w ramach w pełni funkcjonalnych aplikacji C++" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Konwersja XLSX do POWERPOINT w C++" %}}

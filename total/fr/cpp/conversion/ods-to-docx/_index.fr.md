@@ -1,6 +1,6 @@
 ---
-title: Convertir ODS en DOCX avec C++
-description: Convertir ODS en DOCX dans les applications C++
+title: Convertir ODS en DOCX avec C++ ou avec le convertisseur en ligne gratuit
+description: Convertir ODS en DOCX dans les applications C++ ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX POWERPOINT DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir ODS en DOCX via C++" h2="Exporter Excel® ODS vers DOCX dans des applications C++ entièrement fonctionnelles" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir ODS en DOCX via C++ ou en ligne" h2="Exporter Excel® ODS vers DOCX dans des applications C++ entièrement fonctionnelles" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Conversion ODS en DOCX sur C++" %}}

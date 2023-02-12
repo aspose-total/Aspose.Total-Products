@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to PPTX using Java 
-description: Java API to Export CSV to PPTX with using Excel or Word 
+title: Convert CSV to PPTX using Java or with free Online Converter
+description: Java API to Export CSV to PPTX or online with using Excel or Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /java/conversion/csv-to-pptx/
 family: total
 platformtag: java
@@ -11,7 +11,7 @@ otherformats: POWERPOINT DOC DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export CSV to PPTX" h2="On Premise Java API to Export CSV to PPTX without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export CSV to PPTX or online" h2="On Premise Java API to Export CSV to PPTX or online without relying on Microsoft Excel&reg;">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to PPTX via Java API" isGrey="true" %}}

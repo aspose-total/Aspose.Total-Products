@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to DOCX with C++ 
-description: Convert XLTX to DOCX within C++ applications
+title: Convert XLTX to DOCX with C++ or with free Online Converter
+description: Convert XLTX to DOCX within C++ applications or online. Test free CSV to DOC online converter quickly before integrating the code.
 url_ignore: /cpp/conversion/xltx-to-docx/
 family: total
 platformtag: cpp
@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLTX to DOCX via C++" h2="Export Excel&reg; XLTX to DOCX within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLTX to DOCX via C++ or online" h2="Export Excel&reg; XLTX to DOCX within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 
