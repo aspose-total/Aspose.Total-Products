@@ -37,6 +37,17 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertitore online gratuito da DOTX a XLSB</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=dotx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Carica Documento DOTX da Stream tramite C#" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) consente anche di caricare Documenti DOTX tramite stream. Per aprire un Documento da uno stream, è sufficiente passare un oggetto stream che contiene il Documento nel costruttore [Document](https://apiference.aspose.com/words/net/aspose.words/Document). L'esempio di codice seguente mostra come aprire un Documento da un flusso:  

@@ -37,6 +37,17 @@ otherformats: XLSB DIF TSV FODS XLS EXCEL SXC XLSX XLT ODS XLTM XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>DOCX를 XLAM로 변환하는 무료 온라인 변환기</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="C#을 통해 스트림에서 DOCX 문서 로드" %}}[Document]
 [Aspose.Words for .NET](https://products.aspose.com/words/net/)에서도 스트림을 통해 DOCX 문서를 로드할 수 있습니다. 스트림에서 문서를 열려면 문서가 포함된 스트림 개체를 [Document](https://reference.aspose.com/words/net/aspose.words/document) 생성자에 전달하기만 하면 됩니다. 다음 코드 예제는 스트림에서 문서를 여는 방법을 보여줍니다.  

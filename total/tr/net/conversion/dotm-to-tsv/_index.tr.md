@@ -37,6 +37,17 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>DOTM'den TSV'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=dotm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="DOTM Belgesini Akıştan C# ile Yükle" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) ayrıca akış yoluyla DOTM belgesini yüklemenizi sağlar. Bir akıştan bir belge açmak için belgeyi içeren bir akış nesnesini [Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument) yapıcısına iletmeniz yeterlidir. Aşağıdaki kod örneği, bir akıştan bir belgenin nasıl açılacağını gösterir:  

@@ -37,6 +37,17 @@ otherformats: TSV XLAM SXC XLS EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>DOTMからXLSへの無料オンラインコンバーター</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=dotm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="C＃経由でストリームからDOTMドキュメントをロードする" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/)では、ストリームを介してDOTMドキュメントをロードすることもできます。ストリームからドキュメントを開くには、ドキュメントを含むストリームオブジェクトを[Dotmument](https://reference.aspose.com/words/net/aspose.words/dotmument)コンストラクターに渡すだけです。次のコード例は、ストリームからドキュメントを開く方法を示しています。  

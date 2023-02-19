@@ -37,6 +37,17 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免费的 DOTX 到 XLS 在线转换器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=dotx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 从 Stream 加载 DOTX 文档" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) 还允许您通过流加载 DOTX 文档。要从流中打开文档，只需将包含文档的流对象传递给 [Document](https://reference.aspose.com/words/net/aspose.words/Document) 构造函数。以下代码示例显示了如何从流中打开文档：  

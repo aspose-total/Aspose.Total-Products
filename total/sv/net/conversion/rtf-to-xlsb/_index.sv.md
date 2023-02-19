@@ -37,6 +37,17 @@ Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Gratis onlinekonverterare för RTF till XLSB</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=rtf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Ladda RTF-dokument från Stream via C#" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) låter dig också ladda RTF-dokument via stream. För att öppna ett dokument från en ström, skicka helt enkelt ett strömobjekt som innehåller dokumentet till konstruktorn [Dokument](https://reference.aspose.com/words/net/aspose.words/Document). Följande kodexempel visar hur man öppnar ett dokument från en ström:  

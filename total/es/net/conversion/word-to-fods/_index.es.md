@@ -37,6 +37,17 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertidor en línea gratuito para WORD a FODS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Cargar documento WORD desde Stream a través de C#" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) también le permite cargar documentos WORD a través de la transmisión. Para abrir un documento desde una secuencia, simplemente pase un objeto de secuencia que contenga el documento al constructor [Documento](https://reference.aspose.com/words/net/aspose.words/document). El siguiente ejemplo de código muestra cómo abrir un documento desde una secuencia:  

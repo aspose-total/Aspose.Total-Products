@@ -37,6 +37,17 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertisseur en ligne gratuit pour DOCM en SXC</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=docm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Charger le documentDOCM à partir du flux via C#" %}}
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) vous permet également de charger un documentDOCM via un flux. Pour ouvrir un ddocument partir d'un flux, transmettez simplement un objet de flux contenant le dodocumentns le constructeur [Document](https://reference.aspose.com/words/net/aspose.words/docdocument'exemple de code suivant montre comment ouvrir un docudocumentrtir d'un flux :  
