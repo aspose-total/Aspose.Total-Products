@@ -37,6 +37,17 @@ POWERPOINT을 XLTX로 변환하려면 [Maven](https://releases.aspose.com/total/
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>POWERPOINT를 XLTX로 변환하는 무료 온라인 변환기</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Java를 통해 Android에서 보호된 POWERPOINT를 XLTX로 변환" %}}
 API를 사용하여 암호로 보호된 문서를 열 수도 있습니다. 입력한 POWERPOINT 문서가 비밀번호로 보호되어 있는 경우 비밀번호를 사용하지 않고는 XLTX로 변환할 수 없습니다. API를 사용하면 LoadOptions 개체에 올바른 암호를 전달하여 암호화된 문서를 열 수 있습니다. 다음 코드 예제에서는 암호로 암호화된 문서를 여는 방법을 보여줍니다.

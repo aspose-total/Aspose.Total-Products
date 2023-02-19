@@ -37,6 +37,17 @@ Alternatif olarak, [downloads](https://releases.aspose.com/total/androidjava) ad
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>PPSX'den MHTML'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=ppsx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Korumalı PPSX'u MHTML'ye dönüştürün" %}}
 API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PPSX belgeniz parola korumalıysa, parolayı kullanmadan MHTML'ye dönüştüremezsiniz. API, bir LoadOptions nesnesinde doğru parolayı ileterek şifrelenmiş belgeyi açmanıza olanak tanır. Aşağıdaki kod örneği, şifreli bir belgeyi parola ile açmanın nasıl deneneceğini gösterir:

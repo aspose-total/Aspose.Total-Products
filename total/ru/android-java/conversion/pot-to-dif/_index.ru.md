@@ -37,6 +37,17 @@ otherformats: XLTM MARKDOWN XLT XLSX XLS XLSB MHTML CSV XLSM ODS FODS EXCEL XLAM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Бесплатный онлайн-конвертер POT в DIF</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pot" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Преобразование защищенного POT в DIF в Android через Java" %}}
 С помощью API вы также можете открыть защищенный паролем документ. Если ваш входной документ POT защищен паролем, вы не сможете преобразовать его в DIF без использования пароля. API позволяет открыть зашифрованный документ, указав правильный пароль в объекте LoadOptions. В следующем примере кода показано, как попытаться открыть зашифрованный документ с помощью пароля:
