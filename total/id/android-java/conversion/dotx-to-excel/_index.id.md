@@ -37,6 +37,17 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Konverter Online Gratis untuk DOTX ke EXCEL</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=dotx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Hapus Informasi yang Tidak Digunakan dari Dokumen DOTX di Android melalui Java" %}}
 Sebelum mengonversi DOTX ke EXCEL, Anda dapat menghapus informasi yang tidak digunakan dari Dokumen DOTX melalui [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Terkadang Anda mungkin perlu menghapus informasi yang tidak digunakan atau duplikat untuk mengurangi ukuran dokumen keluaran dan waktu pemrosesan. Kelas [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) memungkinkan Anda menentukan opsi untuk pembersihan dokumen. Untuk menghapus gaya duplikat atau hanya gaya atau daftar yang tidak digunakan dari dokumen, Anda dapat menggunakan metode [Pembersihan](https://reference.aspose.com/words/java/com.aspose.words/Dotxument#cleanup()). Anda dapat menggunakan [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) dan [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanuoptions#UnusedBuiltinStyles) properti untuk mendeteksi dan menghapus gaya yang ditandai sebagai "tidak digunakan".

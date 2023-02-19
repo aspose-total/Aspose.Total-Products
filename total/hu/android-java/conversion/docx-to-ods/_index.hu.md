@@ -37,6 +37,17 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Ingyenes online konverter DOCX-hez ODS-be</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Távolítsa el a fel nem használt információkat egy DOCX-dokumentumból Androidon Java segítségével" %}}Document
 Mielőtt a DOCX-t ODS-vé alakítaná, eltávolíthatja a fel nem használt információkat a DOCX-dokumentumból az [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) segítségével. Néha előfordulhat, hogy el kell távolítania a fel nem használt vagy ismétlődő információkat, hogy csökkentse a kimeneti dokumentum méretét és a feldolgozási időt. A [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) osztály lehetővé teszi a dokumentumok tisztítására vonatkozó beállítások megadását. Az ismétlődő stílusok vagy csak a nem használt stílusok vagy listák dokumentumból való eltávolításához használja a [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Docxument#cleanup()) metódust. Használhatja a [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) és az [UnusedBuiltinStyles](https://reference.aspose.com/words/java) /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) tulajdonságai a „nem használtként” megjelölt stílusok észleléséhez és eltávolításához.

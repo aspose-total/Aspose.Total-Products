@@ -37,6 +37,17 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://release
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Conversor Online Gratuito de DOTM para SXC</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Remover informações não utilizadas de um dotmumento DOTM no Android via Java" %}}
 Antes de converter DOTM para SXC, você pode remover informações não utilizadas do Dotmumento DOTM por meio do [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Às vezes, pode ser necessário remover informações não utilizadas ou duplicadas para reduzir o tamanho do dotmumento de saída e o tempo de processamento. A classe [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) permite especificar opções para limpeza de dotmumentos. Para remover estilos duplicados ou apenas estilos ou listas não utilizados do dotmumento, você pode usar o método [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#cleanup()). Você pode usar os [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) e [UnusedBuiltinStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedBuiltinStyles) para detectar e remover estilos marcados como “não usados”.
