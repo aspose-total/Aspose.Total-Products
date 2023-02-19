@@ -66,6 +66,17 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免费的 RTF 到 PPSX 在线转换器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=rtf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C++ 加载受密码保护的 RTF 文档" %}}
 除了文档转换，[Aspose.Words for C++](https://products.aspose.com/words/cpp/) API 为 C++ 开发人员提供了大量的文档操作功能。如果您的 Microsoft Word RTF 文件格式受密码保护，您仍然可以使用 API 打开它。为了加载加密文档，您可以使用特殊的构造函数重载，它接受 [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options) 对象。此对象包含 Password 属性，该属性指定密码字符串。

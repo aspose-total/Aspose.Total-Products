@@ -66,6 +66,17 @@ pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Gratis online converter voor ODT naar POT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pot&from=odt" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Laad met een wachtwoord beveiligd ODT-odtument via C++" %}}
 Afgezien van odtumentconversie, biedt de [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API tal van odtumentmanipulatiefuncties voor C++-ontwikkelaars. Als uw Microsoft Word ODT-bestandsindeling met een wachtwoord is beveiligd, kunt u deze nog steeds openen met behulp van de API. Om het versleutelde odtument te laden, kunt u een speciale constructor-overload gebruiken, die een [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options) object accepteert. Dit object bevat de eigenschap Password, waarmee de wachtwoordreeks wordt opgegeven.

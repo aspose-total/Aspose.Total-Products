@@ -66,6 +66,17 @@ pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>WORDML를 ODP로 변환하는 무료 온라인 변환기</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odp&from=wordml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="C++를 통해 암호로 보호된 WORDML 문서 로드" %}}
 문서 변환 외에도 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API는 C++ 개발자를 위한 수많은 문서 조작 기능을 허용합니다. Microsoft Word WORDML 파일 형식이 암호로 보호되어 있는 경우에도 API를 사용하여 열 수 있습니다. 암호화된 문서를 로드하기 위해 [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options) 개체를 허용하는 특수 생성자 오버로드를 사용할 수 있습니다. 이 개체에는 암호 문자열을 지정하는 Password 속성이 포함되어 있습니다.

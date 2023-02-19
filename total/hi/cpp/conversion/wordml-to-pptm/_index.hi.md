@@ -66,6 +66,17 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>बीएमपी से जीआईएफ के लिए मुफ्त ऑनलाइन कन्वर्टर</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptm&from=wordml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="C++ के माध्यम से पासवर्ड संरक्षित WORDML दस्तावेज़ लोड करें" %}}
 दस्तावेज़ रूपांतरण के अलावा, [Aspose.Words for C++](https://products.aspose.com/words/cpp/) API, C++ डेवलपर्स के लिए कई दस्तावेज़ हेरफेर सुविधाओं की अनुमति देता है। यदि आपका Microsoft Word WORDML फ़ाइल स्वरूप पासवर्ड से सुरक्षित है, तब भी आप इसे API का उपयोग करके खोल सकते हैं। एन्क्रिप्ट किए गए दस्तावेज़ को लोड करने के लिए, आप एक विशेष कंस्ट्रक्टर ओवरलोड का उपयोग कर सकते हैं, जो एक [LoadOptions](https://reference.aspose.com/words/cpp/class/aspose.words.loading.load_options) ऑब्जेक्ट को स्वीकार करता है। इस ऑब्जेक्ट में पासवर्ड गुण है, जो पासवर्ड स्ट्रिंग को निर्दिष्ट करता है।
