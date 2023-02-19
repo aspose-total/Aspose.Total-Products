@@ -33,6 +33,17 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Zdarma online převodník PPS na DOCX</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Požadavky na převod" %}}[Document]
 Pomocí API můžete také provést převod PPS souboru na DOCX s vodoznakem. Chcete-li přidat vodoznak do dokumentu DOCX, můžete nejprve převést soubor PPS do HTML a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor HTML pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), vytvořte instanci TextWatermarkOptions a nastavte jeho vlastnosti, zavolejte metodu Watermark.setText a předejte text vodoznaku a objekt TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}

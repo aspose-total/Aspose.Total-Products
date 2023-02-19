@@ -33,6 +33,17 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Công cụ chuyển đổi trực tuyến miễn phí cho PPSX sang DOTM</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotm&from=ppsx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
 Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSX sang DOTM với hình mờ. Để thêm hình mờ vào tài liệu DOTM, trước tiên bạn có thể chuyển đổi tệp PPSX sang HTML và thêm hình mờ vào đó. Để thêm hình mờ, hãy tải tệp HTML mới được tạo bằng cách sử dụng lớp [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument), tạo một bản sao của TextWatermarkOptions và đặt thuộc tính của nó, Gọi phương thức Watermark.setText và chuyển văn bản & đối tượng hình mờ của TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}

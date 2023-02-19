@@ -33,6 +33,17 @@ otherformats: WORDML DOT OTT WORD ODT WORDX TEXT DOTX WORDM RTF DOTM FLATOPC
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Δωρεάν Online Μετατροπέας για POT σε WORD</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pot" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Χρησιμοποιώντας το API, μπορείτε επίσης να πραγματοποιήσετε μετατροπή αρχείου POT σε WORD με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας WORD, μπορείτε πρώτα να μετατρέψετε το αρχείο POT σε HTML και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το νέο αρχείο HTML χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε Οι ιδιότητές του, Καλέστε τη μέθοδο Watermark.setText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}

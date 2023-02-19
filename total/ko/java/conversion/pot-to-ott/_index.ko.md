@@ -33,6 +33,17 @@ POT에서 OTT 파일 변환을 위해 [Maven](https://repository.aspose.com/weba
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>POT를 OTT로 변환하는 무료 온라인 변환기</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=pot" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="변환 요구 사항" %}}/Document
 API를 사용하여 워터마크를 사용하여 POT 파일을 OTT로 변환할 수도 있습니다. OTT 문서에 워터마크를 추가하려면 먼저 POT 파일을 HTML로 변환하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 새로 생성된 HTML 파일을 로드하고 TextWatermarkOptions의 인스턴스를 생성하고 설정합니다. 해당 속성, Watermark.setText 메서드를 호출하고 TextWatermarkOptions의 워터마크 텍스트 및 개체를 전달합니다.  
 {{% blocks/products/pf/feature-page-code %}}

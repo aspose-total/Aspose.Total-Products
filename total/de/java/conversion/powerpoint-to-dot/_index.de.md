@@ -33,6 +33,17 @@ Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Kostenloser Online-Konverter für POWERPOINT zu DOT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Konvertierungsanforderungen" %}}words/Document)
 Mit der API können Sie auch eine POWERPOINT-Datei in eine DOT-Konvertierung mit Wasserzeichen durchführen. Um Ihrem DOT-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die POWERPOINT-Datei in HTML konvertieren und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte HTML-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), erstellen Sie eine Instanz von TextWatermarkOptions und setzen Sie sie seine Eigenschaften, Methode Watermark.setText aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben.  
 {{% blocks/products/pf/feature-page-code %}}

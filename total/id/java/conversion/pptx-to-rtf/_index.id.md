@@ -33,6 +33,17 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Konverter Online Gratis untuk PPTX ke RTF</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Persyaratan Konversi" %}}
 Menggunakan API, Anda juga dapat melakukan konversi file PPTX ke RTF dengan tanda air. Untuk menambahkan tanda air ke dokumen RTF Anda, Anda dapat terlebih dahulu mengonversi file PPTX ke HTML dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file HTML yang baru dibuat menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.setText dan berikan teks watermark & objek TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}

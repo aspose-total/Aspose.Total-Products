@@ -33,6 +33,17 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertitore online gratuito da PPTX a FLATOPC</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Requisiti di conversione" %}}
 Utilizzando l'API, puoi anche eseguire la conversione da file PPTX a FLATOPC con filigrana. Per aggiungere una filigrana al tuo flatopcumento FLATOPC, puoi prima convertire il file PPTX in HTML e aggiungervi una filigrana. Per aggiungere una filigrana, carica il file HTML appena creato utilizzando la classe [Flatopcument](https://apiference.aspose.com/words/java/com.aspose.words/Flatopcument), crea un'istanza di TextWatermarkOptions e imposta le sue proprietà, chiama il metodo Watermark.setText e passa il testo e l'oggetto della filigrana di TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}

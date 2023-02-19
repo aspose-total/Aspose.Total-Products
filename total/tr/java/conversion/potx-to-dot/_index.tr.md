@@ -33,6 +33,17 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>POTX'den DOT'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=potx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Dönüşüm Gereksinimleri" %}}
 API'yi kullanarak, filigranlı POTX dosyasını DOT'ye dönüştürme işlemini de gerçekleştirebilirsiniz. DOT belgenize filigran eklemek için öncelikle POTX dosyasını HTML'ye çevirebilir ve ona bir filigran ekleyebilirsiniz. Filigran eklemek için, yeni oluşturulan HTML dosyasını [Dotument](https://reference.aspose.com/words/java/com.aspose.words/Dotument) sınıfını kullanarak yükleyin, bir TextWatermarkOptions örneği oluşturun ve ayarlayın özellikleri, Watermark.setText yöntemini çağırın ve filigran metnini ve TextWatermarkOptions nesnesini iletin.  
 {{% blocks/products/pf/feature-page-code %}}

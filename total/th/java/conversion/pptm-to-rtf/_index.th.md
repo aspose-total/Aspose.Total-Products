@@ -33,6 +33,17 @@ otherformats: DOTM RTFX TEXT WORD OTT DOTX WORDML DOT RTF RTFM ODT FLATOPC
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPTM เป็น RTF</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 เมื่อใช้ API คุณยังสามารถทำการแปลงไฟล์ PPTM เป็น RTF ด้วยลายน้ำ ในการเพิ่มลายน้ำให้กับเอกสาร RTF ของคุณ ก่อนอื่นให้แปลงไฟล์ PPTM เป็น HTML และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ HTML ที่สร้างขึ้นใหม่โดยใช้คลาส [Rtfument](https://reference.aspose.com/words/java/com.aspose.words/Rtfument) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่า คุณสมบัติของมัน วิธี Call Watermark.setText และส่งข้อความลายน้ำ & วัตถุของ TextWatermarkOptions  
 {{% blocks/products/pf/feature-page-code %}}

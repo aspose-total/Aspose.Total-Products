@@ -33,6 +33,17 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://rele
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Ingyenes online konverter PPTM-hez DOCM-be</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docm&from=pptm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Konverziós követelmények" %}}
 Az API segítségével PPTM fájlból DOCM-ba konvertálhat vízjellel. Ha vízjelet szeretne hozzáadni a DOCM dokumentumhoz, először konvertálja a PPTM fájlt HTML formátumba, és vízjelet adjon hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott HTML-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály segítségével, hozzon létre egy TextWatermarkOptions példányt, és állítsa be. tulajdonságai, Hívja meg a Watermark.setText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát.  
 {{% blocks/products/pf/feature-page-code %}}

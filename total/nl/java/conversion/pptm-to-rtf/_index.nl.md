@@ -33,6 +33,17 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Gratis online converter voor PPTM naar RTF</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met behulp van de API kunt u ook een PPTM-bestand naar RTF-conversie met watermerk uitvoeren. Om een watermerk aan uw RTF-Document toe te voegen, kunt u het PPTM-bestand eerst naar HTML converteren en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte HTML-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), maakt u een instantie van TextWatermarkOptions en stelt u zijn eigenschappen, Bel de methode Watermark.setText en geef de watermerktekst en het object van TextWatermarkOptions door.  
 {{% blocks/products/pf/feature-page-code %}}

@@ -33,6 +33,17 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORDML OTT TEXT WORD ODT WORDMLX WORDMLM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>محول مجاني على الإنترنت لـ PPSM إلى WORDML</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="متطلبات التحويل" %}}
 باستخدام API ، يمكنك أيضًا تنفيذ ملف PPSM لتحويل WORDML بعلامة مائية. لإضافة علامة مائية إلى مستند WORDML الخاص بك ، يمكنك أولاً تحويل ملف PPSM إلى HTML وإضافة علامة مائية إليه. لإضافة علامة مائية ، قم بتحميل ملف HTML الذي تم إنشاؤه حديثًا باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) ، وأنشئ مثيلاً لـ TextWatermarkOptions وعيّن خصائصه ، استدعاء طريقة Watermark.setText وتمرير نص العلامة المائية وكائن TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}

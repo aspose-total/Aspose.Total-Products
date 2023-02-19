@@ -33,6 +33,17 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertisseur en ligne gratuit pour PPS en DOTX</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotx&from=pps" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Exigences de conversion" %}}
 À l'aide de l'API, vous pouvez également effectuer une conversion de fichier PPS en DOTX avec filigrane. Afin d'ajouter un filigrane à votre Document DOTX, vous pouvez d'abord convertir le fichier PPS en HTML et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier HTML nouvellement créé à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document), créez une instance de TextWatermarkOptions et définissez ses propriétés, appelez la méthode Watermark.setText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions.  
 {{% blocks/products/pf/feature-page-code %}}
