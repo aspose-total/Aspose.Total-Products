@@ -33,6 +33,17 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Gratis online converter voor DOCM naar ODS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=docm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}Document
 Voordat u DOCM naar ODS converteert, kunt u ongebruikte informatie uit het DOCM-documentverwijderen via [Aspose.Words for Java](https://products.aspose.com/words/java/). Soms moet u ongebruikte of dubbele informatie verwijderen om de grootte van het uitvoerddocumentn de verwerkingstijd te verminderen. Met de klasse [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) kunt u opties opgeven voor het opschonen van dodocument Om dubbele stijlen of alleen ongebruikte stijlen of lijsten uit het docdocumentverwijderen, kunt u de methode [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Document#cleanup()) gebruiken. U kunt de [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) en [UnusedBuiltinStyles](https://reference.aspose.com/words/java gebruiken /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) eigenschappen om stijlen te detecteren en te verwijderen die zijn gemarkeerd als "ongebruikt".  
 {{% blocks/products/pf/feature-page-code %}}

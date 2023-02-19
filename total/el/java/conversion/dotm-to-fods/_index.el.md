@@ -33,6 +33,17 @@ otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Δωρεάν Online Μετατροπέας για DOTM σε FODS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=dotm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Απαιτήσεις μετατροπής" %}}
 Πριν μετατρέψετε το DOTM σε FODS, μπορείτε να αφαιρέσετε αχρησιμοποίητες πληροφορίες από το έγγραφο DOTM μέσω του [Aspose.Words for Java](https://products.aspose.com/words/java/). Μερικές φορές μπορεί να χρειαστεί να αφαιρέσετε αχρησιμοποίητες ή διπλότυπες πληροφορίες για να μειώσετε το μέγεθος του εγγράφου εξόδου και τον χρόνο επεξεργασίας. Η κλάση [CleanupOptions](https://reference.aspose.com/words/java/com.aspose.words/CleanupOptions) σάς επιτρέπει να ορίσετε επιλογές για τον καθαρισμό εγγράφων. Για να αφαιρέσετε διπλότυπα στυλ ή απλώς αχρησιμοποίητα στυλ ή λίστες από το έγγραφο, μπορείτε να χρησιμοποιήσετε τη μέθοδο [Cleanup](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#cleanup()). Μπορείτε να χρησιμοποιήσετε τα [UnusedStyles](https://reference.aspose.com/words/java/com.aspose.words/cleanupoptions#UnusedStyles) και [UnusedBuiltinStyles](https://reference.aspose.com/words/java Ιδιότητες /com.aspose.words/cleanupoptions#UnusedBuiltinStyles) για τον εντοπισμό και την αφαίρεση στυλ που επισημαίνονται ως "αχρησιμοποίητα".  
 {{% blocks/products/pf/feature-page-code %}}
