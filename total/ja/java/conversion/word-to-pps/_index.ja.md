@@ -34,6 +34,17 @@ WORDからPPSファイルへの変換では、[Maven](https://repository.aspose.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>WORDからPPSへの無料オンラインコンバーター</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="変換要件" %}}
 APIを使用すると、パスワードで保護されたWORDドキュメントをPPSに変換することもできます。入力WORDドキュメントがパスワードで保護されている場合、パスワードを使用せずにPPS形式に変換することはできません。暗号化されたドキュメントを開くには、LoadOptionsオブジェクトに正しいパスワードを設定し、それをDocumentコンストラクターに渡すことができます。  
 {{% blocks/products/pf/feature-page-code %}}

@@ -34,6 +34,17 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Gratis online converter voor DOC naar PPSM</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=doc" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met de API kunt u ook met een wachtwoord beveiligde DOC-documenten naar PPSM converteren. Als uw DOC-invoerdocument met een wachtwoord is beveiligd, kunt u het niet converteren naar PPSM-indeling zonder het wachtwoord te gebruiken. Om een versleuteld document te openen, kunt u het juiste wachtwoord instellen in het object LoadOptions en dit doorgeven aan de documentconstructor.  
 {{% blocks/products/pf/feature-page-code %}}

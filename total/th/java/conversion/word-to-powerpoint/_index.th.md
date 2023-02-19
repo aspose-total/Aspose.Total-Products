@@ -34,6 +34,17 @@ otherformats: PPTX PPTM POT POTX PPSM POWERPOINT POTM PPSX PPS PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>ตัวแปลงออนไลน์ฟรีสำหรับ WORD เป็น POWERPOINT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="ข้อกำหนดการแปลง" %}}
 API ยังช่วยให้คุณแปลงเอกสาร WORD ที่ป้องกันด้วยรหัสผ่านเป็น POWERPOINT หากเอกสาร WORD ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ POWERPOINT ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในวัตถุ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร  
 {{% blocks/products/pf/feature-page-code %}}

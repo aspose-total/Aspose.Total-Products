@@ -34,6 +34,17 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Darmowy konwerter online dla DOC na PPT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=doc" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Wymagania dotyczące konwersji" %}}
 Interfejs API umożliwia również konwersję dokumentów DOC chronionych hasłem na PPT. Jeśli wejściowy dokument DOC jest chroniony hasłem, nie można go przekonwertować do formatu PPT bez użycia hasła. W celu otwarcia zaszyfrowanego dokumentu można ustawić poprawne hasło w obiekcie LoadOptions i przekazać je do konstruktora dokumentu.  
 {{% blocks/products/pf/feature-page-code %}}

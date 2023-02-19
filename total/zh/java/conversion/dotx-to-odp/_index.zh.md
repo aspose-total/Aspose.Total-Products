@@ -34,6 +34,17 @@ otherformats: POWERPOINT PPS PPSM POTM PPSX PPTM PPT POTX PPTX POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免费的 DOTX 到 ODP 在线转换器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odp&from=dotx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="转换要求" %}}
 该 API 还允许您将受密码保护的 DOTX 文档转换为 ODP。如果您输入的 DOTX 文档受密码保护，则您无法在不使用密码的情况下将其转换为 ODP 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Document 构造函数。  
 {{% blocks/products/pf/feature-page-code %}}
