@@ -37,6 +37,17 @@ otherformats: XLS EXCEL XLAM SXC ODS XLSX XLTM DIF MARKDOWN XLT XLSM XLTX FODS M
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免費的 PPSX 到 CSV 在線轉換器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=ppsx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="通過 C++ 將受保護的 PPSX 轉換為 CSV" %}}
 使用 API，您還可以打開受密碼保護的文檔。如果您輸入的 PPSX 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 CSV。當您的文檔受密碼保護時，這意味著它對演示文稿實施了某些限制。要取消限制，必須輸入密碼。受密碼保護的演示文稿被視為鎖定演示文稿。 API 允許您通過在 LoadOptions 對像中傳遞正確的密碼來打開加密的文檔。以下代碼示例顯示如何使用密碼打開加密文檔。

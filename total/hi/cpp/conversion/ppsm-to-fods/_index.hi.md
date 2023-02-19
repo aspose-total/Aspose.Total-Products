@@ -37,6 +37,17 @@ otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM CSV M
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>बीएमपी से जीआईएफ के लिए मुफ्त ऑनलाइन कन्वर्टर</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=ppsm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="C++ के द्वारा प्रोटेक्टेड PPSM को FODS में बदलें" %}}
 एपीआई का उपयोग करके, आप पासवर्ड से सुरक्षित दस्तावेज़ भी खोल सकते हैं। यदि आपका इनपुट पीओटी दस्तावेज़ पासवर्ड से सुरक्षित है, तो आप पासवर्ड का उपयोग किए बिना इसे सीएसवी में परिवर्तित नहीं कर सकते। जब आपका दस्तावेज़ पासवर्ड से सुरक्षित होता है, तो इसका मतलब है कि यह प्रस्तुति पर कुछ प्रतिबंध लागू करता है। प्रतिबंधों को हटाने के लिए, पासवर्ड दर्ज करना होगा। एक पासवर्ड-रक्षित प्रस्तुतिकरण को एक अवरोधित प्रस्तुति माना जाता है। एपीआई आपको लोडऑप्शन ऑब्जेक्ट में सही पासवर्ड पास करके एन्क्रिप्टेड दस्तावेज़ को खोलने की अनुमति देता है। निम्न कोड उदाहरण दिखाता है कि पासवर्ड के साथ एन्क्रिप्टेड दस्तावेज़ कैसे खोलें।

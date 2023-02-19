@@ -37,6 +37,17 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX C
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>محول مجاني على الإنترنت لـ POT إلى XLAM</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pot" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="تحويل المحمية POT إلى XLAM عبر C++" %}}
 باستخدام API ، يمكنك أيضًا فتح المستند المحمي بكلمة مرور. إذا كان مستند POT الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى XLAM دون استخدام كلمة المرور. عندما يكون المستند محميًا بكلمة مرور ، فهذا يعني أنه يفرض قيودًا معينة على العرض التقديمي. لإزالة القيود ، يجب إدخال كلمة المرور. يعتبر العرض التقديمي المحمي بكلمة مرور عرضًا تقديميًا مقفلًا. تسمح لك واجهة برمجة التطبيقات بفتح المستند المشفر عن طريق تمرير كلمة المرور الصحيحة في كائن LoadOptions. يوضح المثال التالي من التعليمات البرمجية كيفية فتح مستند مشفر بكلمة مرور.

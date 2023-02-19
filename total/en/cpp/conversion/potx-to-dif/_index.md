@@ -34,6 +34,17 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Free Online Converter for POTX to DIF</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=potx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Protected POTX to DIF via C++" %}}
 Using the API, you can also open the password-protected document. If your input POTX document is password protected, you cannot convert it to DIF without using the password.  When your document is password protected, it means it enforces certain restrictions on the presentation. To remove the restrictions, the password has to be entered. A password-protected presentation is considered a locked presentation. The API allows you to open the encrypted document by passing the correct password in a LoadOptions object. The following code example shows how to open an encrypted document with a password.

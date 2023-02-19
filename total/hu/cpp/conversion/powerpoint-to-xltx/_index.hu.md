@@ -37,6 +37,17 @@ Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eke
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Ingyenes online konverter POWERPOINT-hez XLTX-be</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="A Protected POWERPOINT konvertálása XLTX-re C++-on keresztül" %}}
 Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a bevitt POWERPOINT-dokumentum jelszóval védett, nem konvertálhatja XLTX-vé a jelszó használata nélkül. Ha a dokumentum jelszóval védett, az azt jelenti, hogy bizonyos korlátozásokat érvényesít a megjelenítésre vonatkozóan. A korlátozások megszüntetéséhez meg kell adni a jelszót. A jelszóval védett prezentáció zárolt prezentációnak minősül. Az API lehetővé teszi a titkosított dokumentum megnyitását a megfelelő jelszó átadásával egy LoadOptions objektumban. A következő kódpélda bemutatja, hogyan lehet titkosított dokumentumot jelszóval megnyitni.

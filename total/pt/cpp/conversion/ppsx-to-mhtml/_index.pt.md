@@ -37,6 +37,17 @@ Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Conversor Online Gratuito de PPSX para MHTML</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=ppsx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Converter PPSX Protegido para MHTML via C++" %}}
 Usando a API, você também pode abrir o documento protegido por senha. Se o documento PPSX de entrada estiver protegido por senha, você não poderá convertê-lo em MHTML sem usar a senha. Quando seu documento está protegido por senha, isso significa que ele impõe certas restrições à apresentação. Para remover as restrições, a senha deve ser inserida. Uma apresentação protegida por senha é considerada uma apresentação bloqueada. A API permite que você abra o documento criptografado passando a senha correta em um objeto LoadOptions. O exemplo de código a seguir mostra como abrir um documento criptografado com uma senha.

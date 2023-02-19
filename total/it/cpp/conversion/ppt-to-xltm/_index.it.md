@@ -37,6 +37,17 @@ In alternativa, scarica il programma di installazione MSI offline o le DLL in un
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertitore online gratuito da PPT a XLTM</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=ppt" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Converti PPT protetto in XLTM tramite C++" %}}
 Utilizzando l'API, puoi anche aprire il documento protetto da password. Se il documento PPT di input è protetto da password, non è possibile convertirlo in XLTM senza utilizzare la password. Quando il tuo documento è protetto da password, significa che impone determinate restrizioni alla presentazione. Per rimuovere le restrizioni, è necessario inserire la password. Una presentazione protetta da password è considerata una presentazione bloccata. L'API consente di aprire il documento crittografato passando la password corretta in un oggetto LoadOptions. L'esempio di codice seguente mostra come aprire un documento crittografato con una password.

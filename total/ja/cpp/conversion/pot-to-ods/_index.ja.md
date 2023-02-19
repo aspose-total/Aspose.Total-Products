@@ -37,6 +37,17 @@ otherformats: XLS CSV DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XL
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>POTからODSへの無料オンラインコンバーター</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pot" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="保護されたPOTをC++経由でODSに変換する" %}}
 APIを使用して、パスワードで保護されたドキュメントを開くこともできます。入力POTドキュメントがパスワードで保護されている場合、パスワードを使用せずにODSに変換することはできません。ドキュメントがパスワードで保護されている場合、それはプレゼンテーションに特定の制限を適用することを意味します。制限を解除するには、パスワードを入力する必要があります。パスワードで保護されたプレゼンテーションは、ロックされたプレゼンテーションと見なされます。 APIを使用すると、LoadOptionsオブジェクトに正しいパスワードを渡すことで、暗号化されたドキュメントを開くことができます。次のコード例は、パスワードを使用して暗号化されたドキュメントを開く方法を示しています。

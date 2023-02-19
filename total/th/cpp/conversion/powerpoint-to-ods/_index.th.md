@@ -37,6 +37,17 @@ otherformats: FODS XLAM TSV CSV XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>ตัวแปลงออนไลน์ฟรีสำหรับ POWERPOINT เป็น ODS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="แปลง Protected POWERPOINT เป็น ODS ผ่าน C++" %}}
 คุณยังสามารถเปิดเอกสารที่ป้องกันด้วยรหัสผ่านโดยใช้ API ได้อีกด้วย หากเอกสาร POWERPOINT ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็น ODS ได้โดยไม่ต้องใช้รหัสผ่าน เมื่อเอกสารของคุณได้รับการป้องกันด้วยรหัสผ่าน แสดงว่ามีการบังคับใช้ข้อจำกัดบางประการในการนำเสนอ ต้องป้อนรหัสผ่านเพื่อลบข้อจำกัด การนำเสนอที่มีการป้องกันด้วยรหัสผ่านถือเป็นการนำเสนอที่ถูกล็อค API อนุญาตให้คุณเปิดเอกสารที่เข้ารหัสโดยส่งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions ตัวอย่างโค้ดต่อไปนี้แสดงวิธีการเปิดเอกสารที่เข้ารหัสด้วยรหัสผ่าน
