@@ -38,6 +38,17 @@ otherformats: PPT POT PPTX POTM POTX ODP PPSX PPS PPTM PPSM CSV DIF FODS ODS SXC
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Бесплатный онлайн-конвертер FLATOPC в POWERPOINT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=flatopc" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Конвертировать защищенный FLATOPC в POWERPOINT в Android через Java" %}}
 Вы также можете преобразовать защищенный паролем FLATOPC в POWERPOINT в своих приложениях для Android. Если ваш входной документ FLATOPC защищен паролем, вы не можете преобразовать его в формат POWERPOINT без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.

@@ -38,6 +38,17 @@ otherformats: POTM PPTX POWERPOINT PPT POTX ODP PPSX PPTM PPS POT CSV DIF FODS O
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免费的 RTF 到 PPSM 在线转换器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=rtf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 在 Android 中将受保护的 RTF 转换为 PPSM" %}}
 您还可以在 Android 应用程序中将受密码保护的 RTF 转换为 PPSM。如果您输入的 RTF 文档受密码保护，则您无法在不使用密码的情况下将其转换为 PPSM 格式。为了打开加密文档，您可以在 LoadOptions 对象中设置正确的密码并将其传递给 Rtfument 构造函数。

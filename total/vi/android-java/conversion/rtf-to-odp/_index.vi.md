@@ -38,6 +38,17 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [download](https://releases.aspo
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Công cụ chuyển đổi trực tuyến miễn phí cho RTF sang ODP</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odp&from=rtf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Chuyển đổi RTF được bảo vệ sang ODP trong Android qua Java" %}}
 Bạn cũng có thể chuyển đổi RTF được bảo vệ bằng mật khẩu sang ODP trong các ứng dụng Android của mình. Nếu tài liệu RTF đầu vào của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó sang định dạng ODP mà không sử dụng mật khẩu. Để mở một tài liệu được mã hóa, bạn có thể đặt mật khẩu chính xác trong đối tượng LoadOptions và chuyển nó đến phương thức khởi tạo Tài liệu.

@@ -38,6 +38,17 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertitore online gratuito da WORDML a POT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pot&from=wordml" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Converti Protected WORDML in POT in Android tramite Java" %}}
 Puoi anche convertire il tuo WORDML protetto da password in POT all'interno delle tue applicazioni Android. Se il wordmlumento WORDML di input è protetto da password, non è possibile convertirlo in formato POT senza utilizzare la password. Per aprire un wordmlumento crittografato, è possibile impostare la password corretta nell'oggetto LoadOptions e passarla al costruttore del wordmlumento.

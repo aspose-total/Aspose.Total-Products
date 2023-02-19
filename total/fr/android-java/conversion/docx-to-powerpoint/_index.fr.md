@@ -38,6 +38,17 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Convertisseur en ligne gratuit pour DOCX en POWERPOINT</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Convertir DOCX protégé en POWERPOINT dans Android via Java" %}}Document
 Vous pouvez également convertir votre DOCX protégé par mot de passe en POWERPOINT dans vos applications Android. Si votre document DOCX d'entrée est protégé par un mot de passe, vous ne pouvez pas le convertir au format POWERPOINT sans utiliser le mot de passe. Pour ouvrir un document crypté, vous pouvez définir le mot de passe correct dans l'objet LoadOptions et le transmettre au constructeur Docxument.

@@ -38,6 +38,17 @@ otherformats: POTM ODP PPT POWERPOINT POT PPSX POTX PPS PPSM PPTM CSV DIF FODS O
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>محول مجاني على الإنترنت لـ TXT إلى PPTX</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=txt" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="تحويل TXT المحمي إلى PPTX في Android عبر Java" %}}
 يمكنك أيضًا تحويل TXT المحمي بكلمة مرور إلى PPTX داخل تطبيقات Android. إذا كان مستند TXT الذي تم إدخاله محميًا بكلمة مرور ، فلا يمكنك تحويله إلى تنسيق PPTX بدون استخدام كلمة المرور. لفتح مستند مشفر ، يمكنك تعيين كلمة المرور الصحيحة في كائن LoadOptions وتمريرها إلى مُنشئ المستند.

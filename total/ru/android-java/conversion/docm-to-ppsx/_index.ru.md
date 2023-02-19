@@ -38,6 +38,17 @@ otherformats: ODP PPT PPTX POWERPOINT POTX PPS PPTM POT PPSM POTM CSV DIF FODS O
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Бесплатный онлайн-конвертер DOCM в PPSX</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=docm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Конвертировать защищенный DOCM в PPSX в Android через Java" %}}
 Вы также можете преобразовать защищенный паролем DOCM в PPSX в своих приложениях для Android. Если ваш входной документ DOCM защищен паролем, вы не можете преобразовать его в формат PPSX без использования пароля. Чтобы открыть зашифрованный документ, вы можете установить правильный пароль в объекте LoadOptions и передать его конструктору документа.

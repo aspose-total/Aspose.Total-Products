@@ -38,6 +38,17 @@ otherformats: ODP PPTM PPT POWERPOINT PPTX PPSM POT POTX POTM PPSX
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Δωρεάν Online Μετατροπέας για DOTX σε PPS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=dotx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Μετατρέψτε το προστατευμένο DOTX σε PPS στο Android μέσω Java" %}}
 Μπορείτε επίσης να μετατρέψετε το DOTX που προστατεύεται με κωδικό πρόσβασης σε PPS στις εφαρμογές σας Android. Εάν το έγγραφο DOTX εισόδου σας προστατεύεται με κωδικό πρόσβασης, δεν μπορείτε να το μετατρέψετε σε μορφή PPS χωρίς να χρησιμοποιήσετε τον κωδικό πρόσβασης. Για να ανοίξετε ένα κρυπτογραφημένο έγγραφο, μπορείτε να ορίσετε τον σωστό κωδικό πρόσβασης στο αντικείμενο LoadOptions και να τον μεταβιβάσετε στον κατασκευαστή του εγγράφου.

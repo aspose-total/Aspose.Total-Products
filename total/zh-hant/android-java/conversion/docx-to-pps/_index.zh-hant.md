@@ -38,6 +38,17 @@ otherformats: POTX POWERPOINT POTM POT PPTM PPT PPSX PPSM ODP PPTX
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免費的 DOCX 到 PPS 在線轉換器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="通過 Java 在 Android 中將受保護的 DOCX 轉換為 PPS" %}}Document
 您還可以在 Android 應用程序中將受密碼保護的 DOCX 轉換為 PPS。如果您輸入的 DOCX 文檔受密碼保護，則您無法在不使用密碼的情況下將其轉換為 PPS 格式。為了打開加密文檔，您可以在 LoadOptions 對像中設置正確的密碼並將其傳遞給 Docxument 構造函數。

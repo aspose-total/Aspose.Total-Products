@@ -38,6 +38,17 @@ otherformats: PPSM PPTM PPSX ODP PPTX POTM POT POWERPOINT PPT PPS CSV DIF FODS O
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>ตัวแปลงออนไลน์ฟรีสำหรับ RTF เป็น POTX</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=rtf" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="แปลง RTF ที่ได้รับการป้องกันเป็น POTX ใน Android ผ่าน Java" %}}
 คุณยังสามารถแปลง RTF ที่ป้องกันด้วยรหัสผ่านเป็น POTX ภายในแอปพลิเคชัน Android ของคุณ หากเอกสาร RTF ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ POTX ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร

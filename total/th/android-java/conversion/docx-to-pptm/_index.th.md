@@ -38,6 +38,17 @@ otherformats: PPT PPSX POT PPTX POWERPOINT PPS POTM PPSM POTX ODP
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOCX เป็น PPTM</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptm&from=docx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="แปลง DOCX ที่ได้รับการป้องกันเป็น PPTM ใน Android ผ่าน Java" %}}
 คุณยังสามารถแปลง DOCX ที่ป้องกันด้วยรหัสผ่านเป็น PPTM ภายในแอปพลิเคชัน Android ของคุณ หากเอกสาร DOCX ที่คุณป้อนมีการป้องกันด้วยรหัสผ่าน คุณจะไม่สามารถแปลงเป็นรูปแบบ PPTM ได้โดยไม่ต้องใช้รหัสผ่าน ในการเปิดเอกสารที่เข้ารหัส คุณสามารถตั้งรหัสผ่านที่ถูกต้องในออบเจกต์ LoadOptions และส่งผ่านไปยังตัวสร้างเอกสาร
