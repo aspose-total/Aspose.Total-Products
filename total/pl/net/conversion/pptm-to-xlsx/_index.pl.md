@@ -37,6 +37,17 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Darmowy konwerter online dla PPTM na XLSX</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Konwertuj chroniony PPTM na XLSX za pomocą C#" %}}
 Podczas konwertowania pliku PPTM do XLSX, jeśli wejściowy dokument PPTM jest chroniony hasłem, nie można go przekonwertować do XLSX bez odszyfrowania dokumentu. Gdy Twój dokument jest chroniony hasłem, oznacza to, że wymusza pewne ograniczenia prezentacji. Aby usunąć ograniczenia, należy wprowadzić hasło. Prezentacja chroniona hasłem jest uważana za prezentację zablokowaną. API umożliwia otwarcie zaszyfrowanego dokumentu poprzez podanie prawidłowego hasła w obiekcie LoadOptions.  

@@ -37,6 +37,17 @@ otherformats: ODS XLSB DIF XLTX FODS XLSM XLS MARKDOWN XLTM XLT TSV EXCEL MHTML 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免费的 POT 到 XLSB 在线转换器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=pot" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="通过 C# 将受保护的 POT 转换为 XLSB" %}}
 在将 POT 文件转换为 XLSB 时，如果您的输入 POT 文档受密码保护，则您无法在不解密文档的情况下将其转换为 XLSB。当您的文档受密码保护时，这意味着它对演示文稿实施了某些限制。要取消限制，必须输入密码。受密码保护的演示文稿被视为锁定演示文稿。 API 允许您通过在 LoadOptions 对象中传递正确的密码来打开加密的文档。  

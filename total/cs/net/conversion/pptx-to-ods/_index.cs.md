@@ -37,6 +37,17 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Zdarma online převodník PPTX na ODS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pptx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Převést chráněný PPTX na ODS přes C#" %}}
 Při převodu souboru PPTX na ODS, pokud je váš vstupní dokument PPTX chráněn heslem, nemůžete jej převést na ODS bez dešifrování dokumentu. Když je váš dokument chráněn heslem, znamená to, že vyžaduje určitá omezení prezentace. Pro odstranění omezení je nutné zadat heslo. Prezentace chráněná heslem je považována za zamčenou prezentaci. Rozhraní API vám umožňuje otevřít zašifrovaný dokument předáním správného hesla v objektu LoadOptions.  

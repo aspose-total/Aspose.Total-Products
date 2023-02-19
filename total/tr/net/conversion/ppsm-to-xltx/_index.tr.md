@@ -37,6 +37,17 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>PPSM'den XLTX'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=ppsm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{% blocks/products/pf/feature-page-section  h2="Korumalı PPSM'u C# ile XLTX'ye Dönüştür" %}}
 PPSM dosyasını XLTX'ye dönüştürürken, girdiğiniz PPSM belgeniz parola korumalıysa, belgenin şifresini çözmeden onu XLTX'ye dönüştüremezsiniz. Belgeniz parola korumalı olduğunda, sunum üzerinde belirli kısıtlamalar uyguladığı anlamına gelir. Kısıtlamaları kaldırmak için şifre girilmelidir. Parola korumalı bir sunu, kilitli bir sunu olarak kabul edilir. API, bir LoadOptions nesnesinde doğru parolayı ileterek şifrelenmiş belgeyi açmanıza olanak tanır.  
