@@ -33,6 +33,17 @@ otherformats: XLSM XLT ODS XLTX SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXC
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>免费的 POTX 到 XLTX 在线转换器</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=potx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 将受保护的 POTX 转换为 XLTX" %}}
 使用 API，您还可以打开受密码保护的文档。如果您输入的 POTX 文档受密码保护，则您无法在不使用密码的情况下将其转换为 XLTX。 API 允许您通过在 LoadOptions 对象中传递正确的密码来打开加密的文档。  
 {{% blocks/products/pf/feature-page-code %}}

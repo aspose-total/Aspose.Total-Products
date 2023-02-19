@@ -33,6 +33,17 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Công cụ chuyển đổi trực tuyến miễn phí cho PPSX sang EXCEL</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Yêu cầu chuyển đổi" %}}
 Sử dụng API, bạn cũng có thể mở tài liệu được bảo vệ bằng mật khẩu. Nếu tài liệu PPSX đầu vào của bạn được bảo vệ bằng mật khẩu, bạn không thể chuyển đổi nó thành EXCEL mà không sử dụng mật khẩu. API cho phép bạn mở tài liệu được mã hóa bằng cách chuyển mật khẩu chính xác vào đối tượng LoadOptions.  
 {{% blocks/products/pf/feature-page-code %}}

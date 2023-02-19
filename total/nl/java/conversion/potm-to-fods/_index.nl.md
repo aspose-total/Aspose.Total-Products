@@ -33,6 +33,17 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://releases.aspose.com/t
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Gratis online converter voor POTM naar FODS</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=potm" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 {{% blocks/products/pf/feature-page-section  h2="Conversievereisten" %}}
 Met behulp van de API kunt u ook het met een wachtwoord beveiligde document openen. Als uw POTM-invoerdocument met een wachtwoord is beveiligd, kunt u het niet naar FODS converteren zonder het wachtwoord te gebruiken. Met de API kunt u het gecodeerde document openen door het juiste wachtwoord in een LoadOptions-object door te geven.  
 {{% blocks/products/pf/feature-page-code %}}
