@@ -53,6 +53,17 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+<div class=container>
+<div class=row>
+<div class="demobox tc col-md-12 padding-0" align="center">
+
+<h3>Darmowy konwerter online dla XLTX na DOC</h3>
+
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=xltx" id="child-iframe" width="80%"></iframe>
+
+</div></div>
+</div></div>
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-supported-section title="Inne opcje konwersji" subTitle="" >}}
