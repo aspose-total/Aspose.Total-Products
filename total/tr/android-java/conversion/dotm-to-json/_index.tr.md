@@ -20,7 +20,7 @@ otherformats: XLAM XLTX TSV FODS XLT DIF CSV EXCEL XLSB XLS XLSM XLTM SXC ODS
 {{% blocks/products/pf/agp/feature-section-col title="Android'de DOTM'yi JSON Formatına Dönüştür" %}}
 1. DOTM dosyasını [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument) sınıfını kullanarak açın
 2. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOTM'yi HTML'ye dönüştürün. ) yöntem
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

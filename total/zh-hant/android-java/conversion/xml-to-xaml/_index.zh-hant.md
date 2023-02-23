@@ -18,7 +18,7 @@ otherformats: PPSM PPS POTX POT POTM SWF PPTM PPSX OTP ODP PPT POWERPOINT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="用於將 XML 導出為 XAML 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開XML文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開XML文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 方法將 XML 轉換為 PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類加載 PPTX 文檔
 4. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法將文檔保存為 XAML 格式並設置 ` Xaml` 作為 SaveFormat

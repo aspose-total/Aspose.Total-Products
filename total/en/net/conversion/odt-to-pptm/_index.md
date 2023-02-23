@@ -12,7 +12,7 @@ description: Convert Word odt documents to PowerPoint pptm files with C#. Conver
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODT to PPTM Using C#" %}}
 
- In order to automate the process for any Word odt files to PowerPoint pptm presentation batch conversion , we’ll use [Aspose.Words for .NET](https://products.aspose.com/words/net) and [Aspose.Slides for .NET](https://products.aspose.com/slides/net) APIs. The former is a word processing API for processing or manipulating Microsoft Word documents. Whereas, the latter is a presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
+ In order to automate the process for any Word odt files to PowerPoint pptm presentation batch conversion, we’ll use [Aspose.Words for .NET](https://products.aspose.com/words/net) and [Aspose.Slides for .NET](https://products.aspose.com/slides/net) APIs. The former is a word processing API for processing or manipulating Microsoft Word documents. Whereas, the latter is a presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -100,7 +100,8 @@ using (Presentation pptm = new Presentation()){
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

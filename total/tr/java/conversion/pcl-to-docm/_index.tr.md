@@ -17,7 +17,7 @@ otherformats: DOT XAMLFLOW DOTX PS OTT ODT MHTML DOTM FLATOPC MARKDOWN WORDML RT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PCL'yi DOCM'ye Dönüştürmek için Java API" %}}
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak PCL dosyasını açın
-2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak PCL'yi DOC'ye dönüştürün ) yöntem
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak PCL'yi DOC'ye dönüştürün yöntem
 3. DOC dosyasını Aspose.Words'ün [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOCM biçiminde kaydedin ve DOCM'yi ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}

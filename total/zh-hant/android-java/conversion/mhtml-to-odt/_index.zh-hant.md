@@ -18,7 +18,7 @@ otherformats: MARKDOWN DOCM OTT DOTM FLATOPC PCL DOTX PS DOT XAMLFLOW WORDML RTF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通過 Java 在 Android 上將 MHTML 轉換為 ODT" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開MHTML文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開MHTML文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 將 MHTML 轉換為 DOC ) 方法
 3. 使用 Aspose.Words 的 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類加載 DOC 文件
 4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法將文檔保存為 ODT 格式並設置 ODT保存格式

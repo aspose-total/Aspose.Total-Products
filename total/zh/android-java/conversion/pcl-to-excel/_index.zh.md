@@ -18,10 +18,10 @@ otherformats: DIF TXT CSV XLSM MD ODS XLTM TSV FODS SXC XLTX XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 PCL 渲染为 EXCEL 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 将 PCL 转换为 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 XLSX 文档
-4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 将文档保存为 EXCEL 格式。 SaveOptions)) 方法
+4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 将文档保存为 EXCEL 格式方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

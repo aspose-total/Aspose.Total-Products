@@ -16,13 +16,13 @@ otherformats: FLATOPC MHTML OTT RTF MARKDOWN PS WORDML DOT ODT DOTM XAMLFLOW DOT
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API 将 PCL 转换为 MHTML" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
-2.使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-将PCL转换为DOC ) 方法
-3.使用Aspose.Words的[Document](https://reference.aspose.com/words/java/com.aspose.words/Document)类加载DOC文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
+2. 用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-将PCL转换为DOC ) 方法
+3. 用Aspose.Words的[Document](https://reference.aspose.com/words/java/com.aspose.words/Document)类加载DOC文件
 4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法将文档保存为 MHTML 格式并设置 MHTML保存格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-从您可以直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。。
+从您可以直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

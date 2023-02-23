@@ -18,9 +18,9 @@ otherformats: PPTX POTM PPT PPS POTX POWERPOINT ODP PPSX POT PPSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 DOCX 到 PPTM 转换" %}}
-1.使用[Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)类参考打开DOCX文件
+1. 用[Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)类参考打开DOCX文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stdbasicostream_saveoptions) 成员函数将 DOCX 转换为 HTML
-3.初始化一个新的[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)对象
+3. 始化一个新的[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)对象
 4. 在你的幻灯片中添加一个自选图形，并在其中添加 AddTextFrame
 5. 加载 HTML 内容并将其写入您的 Presentation 文件中
 6. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 方法将文档保存为 PPTM 格式，并将 Pptm 设置为 SaveFormat
@@ -66,7 +66,8 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

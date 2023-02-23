@@ -48,7 +48,7 @@ Beim Analysieren von JSON zu MOBI können Sie auch Layoutoptionen für Ihr JSON 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysieren Sie das JSON-Format in MOBI mit Wasserzeichen" %}}
-Mit der API können Sie auch JSON in MOBI mit Wasserzeichen konvertieren. Um Ihrem MOBI-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die JSON-Datei in eine PDF-Datei parsen und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PDF-Datei mit der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document), erstellen Sie eine Instanz von TextWatermarkOptions und legen Sie ihre Eigenschaften fest , Watermark.SetText-Methode aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument in MOBI speichern. 
+Mit der API können Sie auch JSON in MOBI mit Wasserzeichen konvertieren. Um Ihrem MOBI-Dokument ein Wasserzeichen hinzuzufügen, können Sie zuerst die JSON-Datei in eine PDF-Datei parsen und ihr ein Wasserzeichen hinzufügen. Um ein Wasserzeichen hinzuzufügen, laden Sie die neu erstellte PDF-Datei mit der Klasse [Document](https://reference.aspose.com/words/net/aspose.words/document), erstellen Sie eine Instanz von TextWatermarkOptions und legen Sie ihre Eigenschaften fest, Watermark.SetText-Methode aufrufen und Wasserzeichentext und Objekt von TextWatermarkOptions übergeben. Nachdem Sie das Wasserzeichen hinzugefügt haben, können Sie das Dokument in MOBI speichern. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -17,7 +17,7 @@ otherformats: FLATOPC PCL MHTML WORDML DOTX PS OTT XAMLFLOW RTF ODT DOT MARKDOWN
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PDF'yi DOT'ye Dönüştürmek için Java API" %}}
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak PDF dosyasını açın
-2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak PDF'yi DOC'ye dönüştürün ) yöntem
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak PDF'yi DOC'ye dönüştürün yöntem
 3. DOC dosyasını Aspose.Words'ün [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOT biçiminde kaydedin ve DOT'yi ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}

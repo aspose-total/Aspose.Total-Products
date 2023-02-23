@@ -19,7 +19,7 @@ otherformats: XAMLFLOW PS DOT DOCM MHTML DOTX PCL RTF WORDML OTT FLATOPC ODT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java aracılığıyla Android'de SVG'yi DOTM'ye dönüştürün" %}}
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak SVG dosyasını açın
-2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak SVG'yi DOC'ye dönüştürün ) yöntem
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak SVG'yi DOC'ye dönüştürün yöntem
 3. DOC dosyasını Aspose.Words'ün [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOTM formatına kaydedin ve DOTM'yi ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}

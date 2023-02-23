@@ -41,7 +41,7 @@ API, PDF'yi Görsellere, Powerpoint'e, Excel'e ve diğer biçimlere dönüştür
 
 {{% blocks/products/pf/feature-page-section  h2="Excel'i Word ve PowerPoint'e Dönüştürün" %}}
 
-Microsoft Excel formatlarını Word ve PowerPoint dahil olmak üzere farklı dosyalara dönüştürmek için, ana Aspose.Total for .NET API'sini içeren ilgili alt API'ler. Excel dosyalarını Word belgesine dönüştürme işlemi, [Çalışma Kitabı](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak EXCEL dosyasını yükleyin ve önce EXCEL'i PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın. Sonra dönüştürülen PDF dosyasını Document sınıfını kullanarak yükleyin ve Save yöntemini çağırın ve Doc, Docx'i SaveFormat olarak ayarlayın. Kod ayrıca Microsoft **Excel'den Powerpoint'e** dönüştürme için de listelenmiştir.
+Microsoft Excel formatlarını Word ve PowerPoint dahil olmak üzere farklı dosyalara dönüştürmek için, ana Aspose.Total for .NET API'sini içeren ilgili alt API'ler. Excel dosyalarını Word belgesine dönüştürme işlemi, [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak EXCEL dosyasını yükleyin ve önce EXCEL'i PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın. Sonra dönüştürülen PDF dosyasını Document sınıfını kullanarak yükleyin ve Save yöntemini çağırın ve Doc, Docx'i SaveFormat olarak ayarlayın. Kod ayrıca Microsoft **Excel'den Powerpoint'e** dönüştürme için de listelenmiştir.
 
 {{% blocks/products/pf/feature-page-code h3="C# - JSON'dan Excel'e Dönüştürme" %}}
 

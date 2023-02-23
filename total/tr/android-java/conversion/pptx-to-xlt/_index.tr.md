@@ -20,7 +20,7 @@ otherformats: CSV DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV 
 {{% blocks/products/pf/agp/feature-section-col title="Android'de PPTX'u XLT'ye Dönüştürme" %}}
 1. [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak PPTX dosyasını açın
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) kullanarak PPTX'u HTML'ye dönüştürün.ISaveOptions-) yöntemi
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/) kullanarak belgeyi XLT biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -37,7 +37,8 @@ Alternatif olarak, [downloads](https://releases.aspose.com/total/androidjava) ad
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

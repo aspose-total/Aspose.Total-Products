@@ -18,7 +18,7 @@ otherformats: POWERPOINT PPT POTM PPTM PPSX PPTX PPS PPSM POTX POT CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してRTFをPPSXに変換する方法" %}}
 1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してRTFファイルを開きます
 2. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してRTFファイルをHTMLに変換します)) 方法
-3.新しい[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)オブジェクトを初期化します
+3. しい[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)オブジェクトを初期化します
 5. BufferedReaderを使用してHTMLファイルからコンテンツを抽出し、プレゼンテーションファイルにコンテンツを書き込みます
 6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)メソッドを使用してドキュメントをPPSXに保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -34,7 +34,8 @@ RTFからPPSXファイルへの変換では、[Maven](https://repository.aspose.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

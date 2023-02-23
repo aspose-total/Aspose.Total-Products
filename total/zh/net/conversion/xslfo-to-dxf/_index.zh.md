@@ -18,7 +18,7 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ DXF DICOM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 .NET 将 XSLFO 文件转换为 DXF" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开XSLFO文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开XSLFO文件
 2. 初始化[JpegDevice](https://reference.aspose.com/pdf/net/aspose.pdf.devices/jpegdevice)类对象并使用[Process](https://reference.aspose.com/pdf/net/aspose.pdf.devices.pagedevice/process/methods/1) 方法
 3. 使用 [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 类加载 JPEG 文件
 4. 使用[Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)方法将文档保存为DXF格式

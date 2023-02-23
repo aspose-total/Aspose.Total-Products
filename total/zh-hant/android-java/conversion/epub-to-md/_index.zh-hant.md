@@ -18,7 +18,7 @@ otherformats: XLTM TXT XLT EXCEL FODS XLAM XLSM TSV CSV XLSB XLTX DIF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 EPUB 渲染為 MD 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開EPUB文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開EPUB文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 將 EPUB 轉換為 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類加載 XLSX 文檔
 4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 將文檔保存為 MD 格式。 SaveOptions)) 方法

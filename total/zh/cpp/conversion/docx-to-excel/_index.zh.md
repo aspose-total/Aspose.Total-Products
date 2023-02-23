@@ -18,7 +18,7 @@ otherformats: TSV XLT XLS ODS DIF XLSB XLAM XLSX CSV FODS SXC XLSM XLTM XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 DOCX 转换为 EXCEL 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)类参考打开DOCX文件
+1. 用[Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)类参考打开DOCX文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) 成员函数将 DOCX 转换为 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成员函数将文档保存为 EXCEL 格式

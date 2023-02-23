@@ -22,7 +22,7 @@ otherformats: DOTX EPUB PCL MOBI WORDML OTT FLATOPC PS DOT DOC WORD RTF ODT DOCM
 4. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将文档保存为 EPUB 格式)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-从您可以直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。。
+从您可以直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

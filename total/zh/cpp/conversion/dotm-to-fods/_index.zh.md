@@ -18,7 +18,7 @@ otherformats: SXC XLSX XLS XLAM XLSB XLTX XLT ODS DIF EXCEL XLSM TSV XLTM CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 DOTM 转换为 FODS 的 C++ API" %}}
-1.使用[Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)类参考打开DOTM文件
+1. 用[Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)类参考打开DOTM文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat) 成员函数将 DOTM 转换为 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成员函数将文档保存为 FODS 格式

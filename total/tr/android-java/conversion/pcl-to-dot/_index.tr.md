@@ -19,7 +19,7 @@ otherformats: MARKDOWN FLATOPC MHTML XAMLFLOW WORDML DOTX DOTM ODT RTF DOCM OTT 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java aracılığıyla Android'de PCL'yi DOT'ye dönüştürün" %}}
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak PCL dosyasını açın
-2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak PCL'yi DOC'ye dönüştürün ) yöntem
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak PCL'yi DOC'ye dönüştürün yöntem
 3. DOC dosyasını Aspose.Words'ün [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak DOT formatına kaydedin ve DOT'yi ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}

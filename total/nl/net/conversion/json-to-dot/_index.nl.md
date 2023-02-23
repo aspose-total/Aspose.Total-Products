@@ -48,7 +48,7 @@ Tijdens het ontleden van JSON naar DOT, kunt u ook lay-outopties voor uw JSON in
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="JSON-indeling ontleden naar DOT met watermerk" %}}
-Met behulp van de API kunt u JSON ook converteren naar DOT met watermerk. Om een watermerk aan uw DOT-document toe te voegen, kunt u eerst het JSON-bestand naar PDF ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PDF-bestand met behulp van de klasse [Document](https://reference.aspose.com/words/net/aspose.words/document), maakt u een instantie van TextWatermarkOptions en stelt u de eigenschappen ervan in , Roep de Watermark.SetText-methode aan en geef de watermerktekst en het object van TextWatermarkOptions door. Nadat u het watermerk hebt toegevoegd, kunt u het document opslaan in DOT. 
+Met behulp van de API kunt u JSON ook converteren naar DOT met watermerk. Om een watermerk aan uw DOT-document toe te voegen, kunt u eerst het JSON-bestand naar PDF ontleden en er een watermerk aan toevoegen. Om een watermerk toe te voegen, laadt u het nieuw gemaakte PDF-bestand met behulp van de klasse [Document](https://reference.aspose.com/words/net/aspose.words/document), maakt u een instantie van TextWatermarkOptions en stelt u de eigenschappen ervan in, Roep de Watermark.SetText-methode aan en geef de watermerktekst en het object van TextWatermarkOptions door. Nadat u het watermerk hebt toegevoegd, kunt u het document opslaan in DOT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

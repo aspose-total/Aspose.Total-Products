@@ -39,7 +39,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [downloads](h
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="DOC Belge Özelliklerine C++ ile Erişin" %}}
-[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ayrıca DOC dosyasının belge özelliklerine erişmenizi sağlar ve dönüştürme işleminden önce bilinçli bir karar vermenizi sağlar. Belge özelliklerine erişmek için yerleşik özellikleri ve [CustomDocumentProperties]( elde etmek için [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) kullanabilirsiniz. referans.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) özel özellikler elde etmek için. Aşağıdaki kod örneği, bir belgedeki tüm yerleşik ve özel özelliklerin nasıl numaralandırılacağını gösterir.
+[Aspose.Words for C++](https://products.aspose.com/words/cpp/) ayrıca DOC dosyasının belge özelliklerine erişmenizi sağlar ve dönüştürme işleminden önce bilinçli bir karar vermenizi sağlar. Belge özelliklerine erişmek için yerleşik özellikleri ve CustomDocumentProperties elde etmek için [BuiltInDocumentProperties](https://reference.aspose.com/words/cpp/class/aspose.words.properties.built_in_document_properties) kullanabilirsiniz. referans.aspose.com/words/cpp/class/aspose.words.properties.custom_document_properties) özel özellikler elde etmek için. Aşağıdaki kod örneği, bir belgedeki tüm yerleşik ve özel özelliklerin nasıl numaralandırılacağını gösterir.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "1219e046dd93cf1ab6a75783eb74c191" "get-word-document-properties.cs" >}}

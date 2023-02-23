@@ -48,7 +48,7 @@ A JSON OTT-re történő elemzése közben a JSON elrendezési beállításait i
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="JSON formátum elemzése OTT-be vízjellel" %}}
-Az API használatával a JSON-t vízjellel OTT-re is konvertálhatja. Ha vízjelet szeretne hozzáadni a OTT-dokumentumhoz, először elemezheti a JSON-fájlt PDF-be, és vízjelet adhat hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott PDF-fájlt a [Document](https://reference.aspose.com/words/net/aspose.words/document) osztály használatával, hozzon létre egy TextWatermarkOptions példányt, és állítsa be a tulajdonságait , Hívja a Watermark.SetText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát. A vízjel hozzáadása után a dokumentumot elmentheti a OTT-be. 
+Az API használatával a JSON-t vízjellel OTT-re is konvertálhatja. Ha vízjelet szeretne hozzáadni a OTT-dokumentumhoz, először elemezheti a JSON-fájlt PDF-be, és vízjelet adhat hozzá. Vízjel hozzáadásához töltse be az újonnan létrehozott PDF-fájlt a [Document](https://reference.aspose.com/words/net/aspose.words/document) osztály használatával, hozzon létre egy TextWatermarkOptions példányt, és állítsa be a tulajdonságait, Hívja a Watermark.SetText metódust, és adja át a vízjel szövegét és a TextWatermarkOptions objektumát. A vízjel hozzáadása után a dokumentumot elmentheti a OTT-be. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -18,7 +18,7 @@ otherformats: EXCEL FODS MD ODS XLT TXT SXC XLTM XLAM XLSM XLTX XLSB
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 XML 转换为 SXC" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开XML文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开XML文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将XML转换为XLSX
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 SXC 格式，并将 `Sxc` 设置为 SaveFormat

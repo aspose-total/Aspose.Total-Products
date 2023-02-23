@@ -20,7 +20,7 @@ otherformats: POTX PPSX PPT PPSM POT PPS PPTX PPTM POWERPOINT POTM
 {{% blocks/products/pf/agp/feature-section-col title="C++でのWORDからODPへの変換" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)クラスリファレンスを使用してWORDファイルを開きます
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_stdbasicostream_saveoptions)メンバー関数を使用してWORDをHTMLに変換します
-3.新しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
+3. しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
 4.スライドにAutoShapeを追加し、それにAddTextFrameを追加します
 5. HTMLコンテンツをロードし、プレゼンテーションファイルに書き込みます
 6. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをODP形式で保存し、OdpをSaveFormatとして設定します
@@ -66,7 +66,8 @@ pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

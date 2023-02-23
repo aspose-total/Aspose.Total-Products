@@ -18,7 +18,7 @@ otherformats: EXCEL XLTM CSV XLSB FODS XLS XLSM XLTX DIF ODS TSV XLSX SXC XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 MOBI 转换为 XLT 的 C++ API" %}}
-1.使用[Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument)类参考打开MOBI文件
+1. 用[Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument)类参考打开MOBI文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat) 成员函数将 MOBI 转换为 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成员函数将文档保存为 XLT 格式

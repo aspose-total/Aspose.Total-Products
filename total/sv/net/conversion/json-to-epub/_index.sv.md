@@ -48,7 +48,7 @@ När du analyserar JSON till EPUB kan du också ställa in layoutalternativ för
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analysera JSON-format till EPUB med vattenstämpel" %}}
-Med hjälp av API:t kan du också konvertera JSON till EPUB med vattenstämpel. För att lägga till en vattenstämpel till ditt EPUB-dokument kan du först analysera JSON-filen till PDF och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade PDF-filen med klassen [Document](https://reference.aspose.com/words/net/aspose.words/document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper , Ring Watermark.SetText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions. Efter att ha lagt till vattenstämpeln kan du spara dokumentet i EPUB. 
+Med hjälp av API:t kan du också konvertera JSON till EPUB med vattenstämpel. För att lägga till en vattenstämpel till ditt EPUB-dokument kan du först analysera JSON-filen till PDF och lägga till en vattenstämpel till den. För att lägga till en vattenstämpel, ladda den nyskapade PDF-filen med klassen [Document](https://reference.aspose.com/words/net/aspose.words/document), skapa en instans av TextWatermarkOptions och ställ in dess egenskaper, Ring Watermark.SetText-metoden och skicka vattenstämpeltext och objekt av TextWatermarkOptions. Efter att ha lagt till vattenstämpeln kan du spara dokumentet i EPUB. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

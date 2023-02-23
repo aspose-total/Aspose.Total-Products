@@ -20,7 +20,7 @@ otherformats: WORD DOC POWERPOINT PPTX
 {{% blocks/products/pf/agp/feature-section-col title="用於將 XLS 導出為 DOCX 的 Android API" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類打開 XLS 文件
 2. 將 XLS 轉換為 PDF 並將 SaveFormat 設置為 AUTO
-3.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類加載轉換後的PDF文件
+3. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類加載轉換後的PDF文件
 4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)將文檔保存為DOCX格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -45,7 +45,8 @@ document.save("output.docx", com.aspose.pdf.SaveFormat.DocxX);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

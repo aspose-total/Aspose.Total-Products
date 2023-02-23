@@ -18,9 +18,9 @@ otherformats: MHTML XAMLFLOW MARKDOWN WORDML PCL DOTM PS FLATOPC DOT OTT RTF DOT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 SVG 转换为 DOCM" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开SVG文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开SVG文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将SVG转换为Doc
-3.使用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
+3. 用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
 4. 使用[Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)方法将文档保存为DOCM格式，并将Docm设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

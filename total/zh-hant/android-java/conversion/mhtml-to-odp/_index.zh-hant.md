@@ -18,7 +18,7 @@ otherformats: POT PPTM XAML PPS POWERPOINT OTP PPSX SWF PPSM PPT POTM POTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="用於將 MHTML 導出為 ODP 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開MHTML文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開MHTML文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 方法將 MHTML 轉換為 PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類加載 PPTX 文檔
 4. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法將文檔保存為 ODP 格式並設置 ` Odp` 作為 SaveFormat

@@ -18,10 +18,10 @@ otherformats: MHTML PS DOTM DOTX RTF WORDML DOT XAMLFLOW OTT FLATOPC DOCM MARKDO
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 XPS 渲染为 PCL 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考打开XPS文件
-2.使用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)成员函数将XPS转换为DOC
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考打开XPS文件
+2. 用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)成员函数将XPS转换为DOC
 3. 使用 Aspose.Words API 的 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 类引用加载 DOC 文件
-4.使用[Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)成员函数将文档保存为PCL格式
+4. 用[Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)成员函数将文档保存为PCL格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

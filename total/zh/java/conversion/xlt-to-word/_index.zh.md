@@ -18,7 +18,7 @@ otherformats: WORDX POWERPOINT WORD PPTX
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java API 将 XLT 转换为 WORD" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 XLT 文件
 2. 将 XLT 转换为 PDF 并将 SaveFormat 设置为 AUTO
-3.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
+3. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
 4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)将文档保存为WORD格式-) 方法并将 Word 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -39,7 +39,8 @@ document.save("output.word", com.aspose.pdf.SaveFormat.Word);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

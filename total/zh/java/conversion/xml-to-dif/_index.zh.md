@@ -16,13 +16,13 @@ otherformats: XLAM EXCEL SXC XLT XLSM XLTX ODS TSV MD XLSB TXT XLTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 Java 将 XML 文件转换为 DIF" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开XML文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开XML文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions- 将 XML 转换为 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 XLSX 文档
 4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-从您可以直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。。
+从您可以直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目轻松地使用 Aspose.Total for Java 并在您的 pom.xml 中包含库。
 
 或者，您可以从 [下载](https://releases.aspose.com/total/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}

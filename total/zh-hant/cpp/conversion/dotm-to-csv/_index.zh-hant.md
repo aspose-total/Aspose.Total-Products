@@ -18,7 +18,7 @@ otherformats: XLAM SXC XLTM TSV DIF FODS XLSM XLSX ODS XLTX XLS EXCEL XLSB XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 DOTM 轉換為 CSV 的 C++ API" %}}
-1.使用[Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)類參考打開DOTM文件
+1. 用[Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)類參考打開DOTM文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat) 成員函數將 DOTM 轉換為 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 HTML 文檔
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成員函數將文檔保存為 CSV 格式

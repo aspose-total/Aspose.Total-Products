@@ -18,7 +18,7 @@ otherformats: DOCM RTF EPUB PCL WORD DOT DOC MOBI PS DOTX ODT WORDML FLATOPC OTT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してJSON形式をDOCに変換する" %}}
-1.新しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
+1. しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
 2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility)クラスと[Save](https://reference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / net / aspose.cells.workbook / save / methods / 4)それをPDFとして
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document)クラスを使用してPDFドキュメントをロードします
 4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)メソッドを使用してドキュメントをDOC形式で保存します

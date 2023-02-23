@@ -18,7 +18,7 @@ otherformats: PPSM POTM ODP OTP XAML SWF POTX POT POWERPOINT PPTM PPT PPSX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="用於將 EPUB 導出為 PPS 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開EPUB文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開EPUB文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 方法將 EPUB 轉換為 PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類加載 PPTX 文檔
 4. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法將文檔保存為 PPS 格式並設置 ` Pps` 作為 SaveFormat

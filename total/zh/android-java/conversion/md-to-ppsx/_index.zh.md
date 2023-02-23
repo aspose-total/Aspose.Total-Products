@@ -18,7 +18,7 @@ otherformats: POWERPOINT OTP PPTM SWF POTX PPT ODP POTM POT PPS PPSM XAML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="用于将 MD 导出为 PPSX 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开MD文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开MD文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 方法将 MD 转换为 PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 类加载 PPTX 文档
 4. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法将文档保存为 PPSX 格式并设置 ` Ppsx` 作为 SaveFormat

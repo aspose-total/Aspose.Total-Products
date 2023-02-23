@@ -18,7 +18,7 @@ otherformats: SXC XLTM TSV XLSM FODS EXCEL XLTX XLSB TXT ODS XLT XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 MD 渲染為 CSV 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開MD文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開MD文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 將 MD 轉換為 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類加載 XLSX 文檔
 4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 將文檔保存為 CSV 格式。 SaveOptions)) 方法

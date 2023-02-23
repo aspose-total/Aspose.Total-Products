@@ -18,7 +18,7 @@ otherformats: FLATOPC DOT PS ODT RTF OTT WORDML MARKDOWN MHTML XAMLFLOW DOTM DOT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 Java 在 Android 上将 PCL 转换为 DOCM" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开PCL文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 将 PCL 转换为 DOC ) 方法
 3. 使用 Aspose.Words 的 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类加载 DOC 文件
 4. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 方法将文档保存为 DOCM 格式并设置 DOCM保存格式

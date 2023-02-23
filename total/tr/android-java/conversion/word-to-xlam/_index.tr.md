@@ -20,7 +20,7 @@ Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/and
 {{% blocks/products/pf/agp/feature-section-col title="WORD'yi XLAM'ye Dönüştürmek için Android API" %}}
 1. WORD dosyasını [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument) sınıfını kullanarak açın
 2. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak WORD'yi HTML'ye dönüştürün. ) yöntem
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. Belgeyi [Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -37,7 +37,8 @@ Alternatif olarak, [downloads](https://releases.aspose.com/total/androidjava) ad
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -58,7 +59,7 @@ WORD'yi XLAM'ye dönüştürmeden önce, kullanılmayan bilgileri [Aspose.Words 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Akış için XLAM Dosyasını Kaydet" %}}
+{{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de Akış için XLAM Dosyasını Kaydet" %}}[Workbook]
 WORD'yi XLAM'ye dönüştürdükten sonra, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), belgenizi akışa kaydetmenizi sağlar. Dosyaları bir Akışa kaydetmeniz gerekiyorsa, bir FileOutputStream nesnesi oluşturmalı ve ardından [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.io.OutputStream,%20com.aspose.cells.SaveOptions)) [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) kaydetme yöntemini çağırarak bu Stream nesnesine dosya nesne.
 {{% blocks/products/pf/feature-page-code %}}
 

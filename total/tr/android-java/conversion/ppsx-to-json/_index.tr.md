@@ -20,7 +20,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Android'de PPSX'u JSON'ye Dönüştürme" %}}
 1. [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak PPSX dosyasını açın
 2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) kullanarak PPSX'u HTML'ye dönüştürün.ISaveOptions-) yöntemi
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/) kullanarak belgeyi JSON biçiminde kaydedin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

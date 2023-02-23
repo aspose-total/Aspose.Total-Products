@@ -20,7 +20,7 @@ otherformats: WORD DOC DOCX PPTX
 {{% blocks/products/pf/agp/feature-section-col title="用于将 EXCEL 导出为 POWERPOINT 的 Android API" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 EXCEL 文件
 2. 将 EXCEL 转换为 PDF 并将 SaveFormat 设置为 AUTO
-3.使用[Powerpointument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)类加载转换后的PDF文件
+3. 用[Powerpointument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)类加载转换后的PDF文件
 4. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions) 将文档保存为 POWERPOINT 格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

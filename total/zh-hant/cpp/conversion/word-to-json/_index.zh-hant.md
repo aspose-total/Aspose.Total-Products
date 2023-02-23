@@ -18,7 +18,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通過 C++ 將 WORD 轉換為 JSON 格式" %}}
-1.使用[Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)類參考打開WORD文件
+1. 用[Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)類參考打開WORD文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat) 成員函數將 WORD 轉換為 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 HTML 文檔
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 成員函數將文檔保存為 JSON 格式

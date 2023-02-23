@@ -18,7 +18,7 @@ otherformats: XLAM XLSM MD XLTM ODS DIF EXCEL TXT XLTX TSV SXC FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 CGM 转换为 XLT" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开CGM文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开CGM文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将CGM转换为XLSX
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLT 格式，并将 `Xlt` 设置为 SaveFormat

@@ -48,7 +48,7 @@ otherformats: FLATOPC ODT DOCM WORDML RTF EPUB DOC PS WORD MOBI DOT OTT DOTX PCL
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Разобрать формат JSON в MOBI с водяным знаком" %}}
-Используя API, вы также можете конвертировать JSON в MOBI с водяным знаком. Чтобы добавить водяной знак в ваш документ MOBI, вы можете сначала преобразовать файл JSON в PDF и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл PDF с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document), создайте экземпляр TextWatermarkOptions и задайте его свойства. , Вызовите метод Watermark.SetText и передайте текст водяного знака и объект TextWatermarkOptions. После добавления водяного знака вы можете сохранить документ в MOBI. 
+Используя API, вы также можете конвертировать JSON в MOBI с водяным знаком. Чтобы добавить водяной знак в ваш документ MOBI, вы можете сначала преобразовать файл JSON в PDF и добавить к нему водяной знак. Чтобы добавить водяной знак, загрузите только что созданный файл PDF с помощью класса [Document](https://reference.aspose.com/words/net/aspose.words/document), создайте экземпляр TextWatermarkOptions и задайте его свойства., Вызовите метод Watermark.SetText и передайте текст водяного знака и объект TextWatermarkOptions. После добавления водяного знака вы можете сохранить документ в MOBI. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -11,7 +11,7 @@ description: Konversikan dokumen dokumen Word ke file ppt PowerPoint dengan C#. 
 
 {{% blocks/products/pf/agp/content h2="Cara Mengkonversi ODT ke PPT Menggunakan C#" %}}
 
-Untuk mengotomatiskan proses untuk file dokumen Word apa pun ke konversi batch presentasi PowerPoint ppt , kami akan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net) dan [Aspose.Slides untuk .NET](https://products.aspose.com/slides/net) API. Yang pertama adalah API pengolah kata untuk memproses atau memanipulasi dokumen Microsoft Word. Sedangkan, yang terakhir adalah API manipulasi presentasi yang memungkinkan Anda membuat atau memodifikasi slide Microsoft PowerPoint. Kedua API tersebut merupakan bagian dari paket [Aspose.Total for .NET](https://products.aspose.com/total/net). Anda dapat langsung [download](https://releases.aspose.com/) dari Nuget atau dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengotomatiskan proses untuk file dokumen Word apa pun ke konversi batch presentasi PowerPoint ppt, kami akan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net) dan [Aspose.Slides untuk .NET](https://products.aspose.com/slides/net) API. Yang pertama adalah API pengolah kata untuk memproses atau memanipulasi dokumen Microsoft Word. Sedangkan, yang terakhir adalah API manipulasi presentasi yang memungkinkan Anda membuat atau memodifikasi slide Microsoft PowerPoint. Kedua API tersebut merupakan bagian dari paket [Aspose.Total for .NET](https://products.aspose.com/total/net). Anda dapat langsung [download](https://releases.aspose.com/) dari Nuget atau dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -94,7 +94,8 @@ using (Presentation ppt = new Presentation()){
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

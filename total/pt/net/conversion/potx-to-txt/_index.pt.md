@@ -11,7 +11,7 @@ description: Converta documentos potx do PowerPoint em arquivos txt do Word com 
 
 {{% blocks/products/pf/agp/content h2="Como converter POTX para TXT usando C#" %}}
 
-Para automatizar o processo de qualquer apresentação do PowerPoint potx para conversão em lote de arquivos txt do Word , usaremos [Aspose.Slides for .NET](https://products.aspose.com/slides/net) e [Aspose.Words para .NET](https://products.aspose.com/words/net) APIs. O primeiro é uma API de manipulação de apresentações do PowerPoint que permite criar ou modificar slides do Microsoft PowerPoint. Considerando que, o último é uma API de processamento de texto para processar ou manipular documentos do Microsoft Word. Ambas as APIs fazem parte do pacote [Aspose.Total for .NET](https://products.aspose.com/total/net). Você pode [baixar] diretamente (https://releases.aspose.com/) do Nuget ou pode usar os seguintes comandos do Console do Gerenciador de Pacotes.
+Para automatizar o processo de qualquer apresentação do PowerPoint potx para conversão em lote de arquivos txt do Word, usaremos [Aspose.Slides for .NET](https://products.aspose.com/slides/net) e [Aspose.Words para .NET](https://products.aspose.com/words/net) APIs. O primeiro é uma API de manipulação de apresentações do PowerPoint que permite criar ou modificar slides do Microsoft PowerPoint. Considerando que, o último é uma API de processamento de texto para processar ou manipular documentos do Microsoft Word. Ambas as APIs fazem parte do pacote [Aspose.Total for .NET](https://products.aspose.com/total/net). Você pode [baixar] diretamente (https://releases.aspose.com/) do Nuget ou pode usar os seguintes comandos do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 
@@ -77,7 +77,8 @@ txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

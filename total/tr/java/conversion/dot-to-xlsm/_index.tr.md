@@ -17,7 +17,7 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSM EXCEL XLSX SXC TSV XLSB
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOT'yi XLSM'ye Dönüştürmek için C++ API" %}}
 1. DOT dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
-2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOT'yi HTML'ye dönüştürün ) yöntem
+2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOT'yi HTML'ye dönüştürün yöntem
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -33,7 +33,8 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

@@ -18,7 +18,7 @@ otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 WORD 转换为 JSON 格式" %}}
-1.使用[Document](https://reference.aspose.com/words/net/aspose.words/document)类打开WORD文件
+1. 用[Document](https://reference.aspose.com/words/net/aspose.words/document)类打开WORD文件
 2. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 方法将 WORD 转换为 HTML
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 JSON 格式

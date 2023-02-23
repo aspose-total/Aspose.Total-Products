@@ -18,7 +18,7 @@ Android uygulamalarınızda JSON'u PCL'ye iki aşamalı bir işlemle dönüştü
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java ile Android'de JSON Formatını PCL'ye dönüştürün" %}}
-1. Yeni bir [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) nesnesi oluşturun ve dosyadan geçerli JSON verilerini okuyun
+1. Yeni bir [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) nesnesi oluşturun ve dosyadan geçerli JSON verilerini okuyun
 2. [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) sınıfını ve [Kaydet](https://reference.aspose.com/) kullanarak JSON dosyasını çalışma sayfasına aktarın cell/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) PDF olarak
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak PDF belgesi yükleyin
 4. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) kullanarak belgeyi PCL biçiminde kaydedin )) yöntem

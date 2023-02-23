@@ -18,8 +18,8 @@ otherformats: PPTX DOCX POWERPOINT WORD
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET 上的 XLSX 到 DOC 转换" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类打开 XLSX 文件
-2.将XLSX转换为PDF并将SaveFormat设置为Auto
-3.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类加载转换后的PDF文件
+2. XLSX转换为PDF并将SaveFormat设置为Auto
+3. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类加载转换后的PDF文件
 4. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将文档保存为DOC格式，并将Doc设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -44,7 +44,8 @@ document.Save("output.doc", SaveFormat.Doc);
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

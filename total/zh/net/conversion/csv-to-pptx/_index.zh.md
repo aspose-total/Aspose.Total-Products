@@ -19,7 +19,7 @@ otherformats: WORD POWERPOINT DOC DOCX
 {{% blocks/products/pf/agp/feature-section-col title=".NET 上的 CSV 到 PPTX 转换" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类打开 CSV 文件
 2. 将 CSV 转换为 PDF 并将 SaveFormat 设置为 Auto
-3.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类加载转换后的PDF文件
+3. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类加载转换后的PDF文件
 4. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将文档保存为PPTX格式，并将Pptx设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -44,7 +44,8 @@ document.Save("output.pptx", SaveFormat.Pptx);
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

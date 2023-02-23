@@ -16,7 +16,7 @@ XLS'yi POWERPOINT'ye işlemek iki adımlı bir işlemdir. Verilen XLS belgesini 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java API ile XLS'yi POWERPOINT'ye Dönüştürme" %}}
-1. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak XLS dosyasını açın
+1. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak XLS dosyasını açın
 2. XLS'yi PDF'ye dönüştürün ve SaveFormat'ı AUTO olarak ayarlayın
 3. Dönüştürülen PDF dosyasını [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions) kullanarak POWERPOINT biçiminde kaydedin-) yöntemi ve Powerpoint'u SaveFormat olarak ayarlayın
@@ -39,7 +39,8 @@ document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

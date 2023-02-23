@@ -21,7 +21,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 1. 使用 [Otpument](https://reference.aspose.com/words/java/com.aspose.words/Otpument) 类打开 OTP 文件
 2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Otpument#save(java.lang.String,com.aspose.words.SaveOptions) 将 OTP 转换为 HTML ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
-4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.)) 将文档保存为 JSON 格式。 SaveOptions)) 方法
+4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.)) 将文档保存为 JSON 格式方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

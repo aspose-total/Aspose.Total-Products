@@ -48,7 +48,7 @@ Mientras analiza JSON a DOCM, también puede establecer opciones de diseño para
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizar formato JSON a DOCM con marca de agua" %}}
-Usando la API, también puede convertir JSON a DOCM con marca de agua. Para agregar una marca de agua a su documento DOCM, primero puede analizar el archivo JSON en PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document), cree una instancia de TextWatermarkOptions y establezca sus propiedades , Llame al método Watermark.SetText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions. Después de agregar la marca de agua, puede guardar el documento en DOCM. 
+Usando la API, también puede convertir JSON a DOCM con marca de agua. Para agregar una marca de agua a su documento DOCM, primero puede analizar el archivo JSON en PDF y agregarle una marca de agua. Para agregar una marca de agua, cargue el archivo PDF recién creado usando la clase [Documento](https://reference.aspose.com/words/net/aspose.words/document), cree una instancia de TextWatermarkOptions y establezca sus propiedades, Llame al método Watermark.SetText y pase el texto y el objeto de la marca de agua de TextWatermarkOptions. Después de agregar la marca de agua, puede guardar el documento en DOCM. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

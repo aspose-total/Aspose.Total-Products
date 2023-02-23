@@ -21,7 +21,7 @@ otherformats: DIF XLSB ODS XLSM XLAM EXCEL XLS CSV XLSX TSV XLTX FODS XLTM SXC
 1. 使用 [Ottument](https://reference.aspose.com/words/java/com.aspose.words/Ottument) 类打开 OTT 文件
 2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions) 将 OTT 转换为 HTML ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
-4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.)) 将文档保存为 XLT 格式。 SaveOptions)) 方法
+4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.)) 将文档保存为 XLT 格式方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -37,7 +37,8 @@ otherformats: DIF XLSB ODS XLSM XLAM EXCEL XLS CSV XLSX TSV XLTX FODS XLTM SXC
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

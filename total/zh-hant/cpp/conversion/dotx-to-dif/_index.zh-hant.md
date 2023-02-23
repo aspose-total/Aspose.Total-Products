@@ -18,7 +18,7 @@ otherformats: FODS EXCEL TSV XLSM XLSB XLTX XLT SXC XLTM XLAM CSV XLS ODS XLSX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 DOTX 轉換為 DIF 的 C++ API" %}}
-1.使用[Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)類參考打開DOTX文件
+1. 用[Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)類參考打開DOTX文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat) 成員函數將 DOTX 轉換為 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 HTML 文檔
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 成員函數將文檔保存為 DIF 格式

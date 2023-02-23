@@ -48,7 +48,7 @@ Podczas analizowania JSON do ODT możesz również ustawić opcje układu dla sw
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Przetwarzaj format JSON do ODT za pomocą znaku wodnego" %}}
-Korzystając z API, możesz również przekonwertować JSON na ODT ze znakiem wodnym. Aby dodać znak wodny do dokumentu ODT, możesz najpierw przeanalizować plik JSON do formatu PDF i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik PDF za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości , Wywołaj metodę Watermark.SetText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions. Po dodaniu znaku wodnego możesz zapisać dokument w ODT. 
+Korzystając z API, możesz również przekonwertować JSON na ODT ze znakiem wodnym. Aby dodać znak wodny do dokumentu ODT, możesz najpierw przeanalizować plik JSON do formatu PDF i dodać do niego znak wodny. Aby dodać znak wodny, załaduj nowo utworzony plik PDF za pomocą klasy [Document](https://reference.aspose.com/words/net/aspose.words/document), utwórz instancję TextWatermarkOptions i ustaw jego właściwości, Wywołaj metodę Watermark.SetText i przekaż tekst znaku wodnego i obiekt TextWatermarkOptions. Po dodaniu znaku wodnego możesz zapisać dokument w ODT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

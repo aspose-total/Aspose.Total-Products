@@ -48,7 +48,7 @@ otherformats: OTT DOT PS DOTX EPUB FLATOPC WORD RTF DOC PCL WORDML DOCM ODT MOBI
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αναλύστε τη μορφή JSON σε OTT με υδατογράφημα" %}}
-Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε OTT με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας OTT, μπορείτε πρώτα να αναλύσετε το αρχείο JSON σε PDF και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το αρχείο PDF που δημιουργήθηκε πρόσφατα χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε τις ιδιότητές του , Καλέστε τη μέθοδο Watermark.SetText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο OTT. 
+Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε OTT με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας OTT, μπορείτε πρώτα να αναλύσετε το αρχείο JSON σε PDF και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το αρχείο PDF που δημιουργήθηκε πρόσφατα χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε τις ιδιότητές του, Καλέστε τη μέθοδο Watermark.SetText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο OTT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

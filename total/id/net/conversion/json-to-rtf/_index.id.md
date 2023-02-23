@@ -48,7 +48,7 @@ Saat menguraikan JSON ke RTF, Anda juga dapat menyetel opsi tata letak untuk JSO
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Parsing Format JSON ke RTF dengan Watermark" %}}
-Menggunakan API, Anda juga dapat mengonversi JSON ke RTF dengan tanda air. Untuk menambahkan tanda air ke dokumen RTF Anda, pertama-tama Anda dapat mengurai file JSON ke PDF dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PDF yang baru dibuat menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document), buat instance TextWatermarkOptions dan atur propertinya , Panggil metode Watermark.SetText dan berikan teks watermark & objek TextWatermarkOptions. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke RTF. 
+Menggunakan API, Anda juga dapat mengonversi JSON ke RTF dengan tanda air. Untuk menambahkan tanda air ke dokumen RTF Anda, pertama-tama Anda dapat mengurai file JSON ke PDF dan menambahkan tanda air ke dalamnya. Untuk menambahkan tanda air, muat file PDF yang baru dibuat menggunakan kelas [Document](https://reference.aspose.com/words/net/aspose.words/document), buat instance TextWatermarkOptions dan atur propertinya, Panggil metode Watermark.SetText dan berikan teks watermark & objek TextWatermarkOptions. Setelah menambahkan tanda air, Anda dapat menyimpan dokumen ke RTF. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

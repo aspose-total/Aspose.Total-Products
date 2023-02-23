@@ -12,7 +12,7 @@ description: Convert PowerPoint pps documents to Word txt files with C#. Convert
 
 {{% blocks/products/pf/agp/content h2="How to Convert PPS to TXT Using C#" %}}
 
- In order to automate the process for any PowerPoint pps presentation to Word txt files batch conversion , we’ll use [Aspose.Slides for .NET](https://products.aspose.com/slides/net) and [Aspose.Words for .NET](https://products.aspose.com/words/net) APIs. The former is a PowerPoint presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Whereas, the latter is a word processing API for processing or manipulating Microsoft Word documents. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
+ In order to automate the process for any PowerPoint pps presentation to Word txt files batch conversion, we’ll use [Aspose.Slides for .NET](https://products.aspose.com/slides/net) and [Aspose.Words for .NET](https://products.aspose.com/words/net) APIs. The former is a PowerPoint presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Whereas, the latter is a word processing API for processing or manipulating Microsoft Word documents. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -80,7 +80,8 @@ txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

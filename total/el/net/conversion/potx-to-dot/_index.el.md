@@ -11,7 +11,7 @@ description: Μετατρέψτε έγγραφα potx του PowerPoint σε α�
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το POTX σε DOT χρησιμοποιώντας C#" %}}
 
-Για να αυτοματοποιήσουμε τη διαδικασία για οποιαδήποτε παρουσίαση PowerPoint potx σε μαζική μετατροπή αρχείων εγγράφων του Word , θα χρησιμοποιήσουμε τα [Aspose.Slides for .NET](https://products.aspose.com/slides/net) και [Aspose.Words για .NET](https://products.aspose.com/words/net) API. Το πρώτο είναι ένα API χειρισμού παρουσίασης PowerPoint που σας επιτρέπει να δημιουργείτε ή να τροποποιείτε διαφάνειες του Microsoft PowerPoint. Ενώ, το τελευταίο είναι ένα API επεξεργασίας κειμένου για επεξεργασία ή χειρισμό εγγράφων του Microsoft Word. Και τα δύο API αποτελούν μέρος του πακέτου [Aspose.Total for .NET](https://products.aspose.com/total/net). Μπορείτε να κάνετε απευθείας [λήψη](https://releases.aspose.com/) από το Nuget ή μπορείτε να χρησιμοποιήσετε τις ακόλουθες εντολές από την Κονσόλα Package Manager.
+Για να αυτοματοποιήσουμε τη διαδικασία για οποιαδήποτε παρουσίαση PowerPoint potx σε μαζική μετατροπή αρχείων εγγράφων του Word, θα χρησιμοποιήσουμε τα [Aspose.Slides for .NET](https://products.aspose.com/slides/net) και [Aspose.Words για .NET](https://products.aspose.com/words/net) API. Το πρώτο είναι ένα API χειρισμού παρουσίασης PowerPoint που σας επιτρέπει να δημιουργείτε ή να τροποποιείτε διαφάνειες του Microsoft PowerPoint. Ενώ, το τελευταίο είναι ένα API επεξεργασίας κειμένου για επεξεργασία ή χειρισμό εγγράφων του Microsoft Word. Και τα δύο API αποτελούν μέρος του πακέτου [Aspose.Total for .NET](https://products.aspose.com/total/net). Μπορείτε να κάνετε απευθείας [λήψη](https://releases.aspose.com/) από το Nuget ή μπορείτε να χρησιμοποιήσετε τις ακόλουθες εντολές από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -77,7 +77,8 @@ dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

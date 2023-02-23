@@ -48,7 +48,7 @@ JSON을 ODT으로 구문 분석하는 동안 [JsonLayoutOptions](https://referen
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="워터마크를 사용하여 JSON 형식을 ODT으로 구문 분석" %}}
-API를 사용하여 워터마크가 있는 JSON을 ODT으로 변환할 수도 있습니다. ODT 문서에 워터마크를 추가하려면 먼저 JSON 파일을 PDF로 구문 분석하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 새로 생성된 PDF 파일을 로드하고 TextWatermarkOptions 인스턴스를 생성하고 속성을 설정합니다. , Watermark.SetText 메서드를 호출하고 TextWatermarkOptions의 워터마크 텍스트 및 개체를 전달합니다. 워터마크를 추가한 후 문서를 ODT에 저장할 수 있습니다. 
+API를 사용하여 워터마크가 있는 JSON을 ODT으로 변환할 수도 있습니다. ODT 문서에 워터마크를 추가하려면 먼저 JSON 파일을 PDF로 구문 분석하고 워터마크를 추가할 수 있습니다. 워터마크를 추가하려면 [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 새로 생성된 PDF 파일을 로드하고 TextWatermarkOptions 인스턴스를 생성하고 속성을 설정합니다., Watermark.SetText 메서드를 호출하고 TextWatermarkOptions의 워터마크 텍스트 및 개체를 전달합니다. 워터마크를 추가한 후 문서를 ODT에 저장할 수 있습니다. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

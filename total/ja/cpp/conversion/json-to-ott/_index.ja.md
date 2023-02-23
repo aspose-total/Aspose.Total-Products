@@ -18,7 +18,7 @@ otherformats: ODT DOCM EPUB PS PCL DOTX MOBI CHM RTF WORD WORDML DOT FLATOPC DOC
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="JSON形式をC++でOTTに変換する" %}}
-1.新しい[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
+1. しい[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
 2. [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)メソッドを使用してJSONをPDFとして保存します
 3. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスを使用してPDFドキュメントをロードします
 4. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メソッドを使用してドキュメントをOTT形式で保存します

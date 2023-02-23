@@ -48,7 +48,7 @@ C#
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="แยกรูปแบบ JSON เป็น ODT ด้วย Watermark" %}}
-การใช้ API คุณสามารถแปลง JSON เป็น ODT ด้วยลายน้ำได้ ในการเพิ่มลายน้ำให้กับเอกสาร ODT ของคุณ ก่อนอื่นให้แยกไฟล์ JSON เป็น PDF และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ PDF ที่สร้างขึ้นใหม่โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่าคุณสมบัติ , โทรวิธี Watermark.SetText และส่งข้อความลายน้ำและวัตถุของ TextWatermarkOptions หลังจากเพิ่มลายน้ำแล้ว คุณสามารถบันทึกเอกสารไปที่ ODT 
+การใช้ API คุณสามารถแปลง JSON เป็น ODT ด้วยลายน้ำได้ ในการเพิ่มลายน้ำให้กับเอกสาร ODT ของคุณ ก่อนอื่นให้แยกไฟล์ JSON เป็น PDF และเพิ่มลายน้ำลงไป ในการเพิ่มลายน้ำ ให้โหลดไฟล์ PDF ที่สร้างขึ้นใหม่โดยใช้คลาส [Document](https://reference.aspose.com/words/net/aspose.words/document) สร้างอินสแตนซ์ของ TextWatermarkOptions และตั้งค่าคุณสมบัติ, โทรวิธี Watermark.SetText และส่งข้อความลายน้ำและวัตถุของ TextWatermarkOptions หลังจากเพิ่มลายน้ำแล้ว คุณสามารถบันทึกเอกสารไปที่ ODT 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

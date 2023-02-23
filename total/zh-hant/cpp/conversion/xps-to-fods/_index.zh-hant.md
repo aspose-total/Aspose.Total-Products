@@ -18,8 +18,8 @@ otherformats: ODS EXCEL MD XLSM XLT XLSB TSV CSV XLTX XLAM SXC TXT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 XPS 轉換為 FODS 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開XPS文件
-2.使用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成員函數將XPS轉換為XLSX
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開XPS文件
+2. 用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成員函數將XPS轉換為XLSX
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 XLSX 文檔
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 成員函數將文檔保存為 FODS 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}

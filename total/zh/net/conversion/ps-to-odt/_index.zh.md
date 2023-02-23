@@ -18,9 +18,9 @@ otherformats: RTF WORDML DOTM ODT OTT DOTX XAMLFLOW FLATOPC DOT MHTML PCL MARKDO
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 PS 转换为 ODT" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PS文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PS文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将PS转换为Doc
-3.使用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
+3. 用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
 4. 使用[Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)方法将文档保存为ODT格式，并将Odt设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

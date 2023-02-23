@@ -20,7 +20,7 @@ otherformats: DOTX WORD DOT RTF DOC DOCM MOBI OTT WORDML PCL ODT PS FLATOPC EPUB
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 JSON 格式转换为 ODT" %}}
 1. 创建一个新的 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
 2. 使用 [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://reference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 以 PDF 格式
-3.使用[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载PDF文档
+3. 用[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载PDF文档
 4. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) 方法将文档保存为 ODT 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -25,7 +25,7 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 - **Βήμα 1** Ανοίξτε το αρχείο προέλευσης TXT χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/python-net/aspose.words/document/)
 - Αποθηκεύστε το αρχείο TXT σε PDF χρησιμοποιώντας τη μέθοδο [Save](https://reference.aspose.com/words/python-net/aspose.words/document/save/) παρέχοντας το όνομα του αρχείου και την επιθυμητή διαδρομή καταλόγου.
 -  **Βήμα 2** Φόρτωση αρχείου PDF με μια παρουσία της κλάσης [Presentation](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/)
--  Καλέστε τη μέθοδο «αποθήκευση» ενώ προσδιορίζετε τη διαδρομή αρχείου εξόδου και το SaveFormat.POWERPOINT ως παραμέτρους. , το αρχείο TXT μετατρέπεται σε POWERPOINT στην καθορισμένη διαδρομή.
+-  Καλέστε τη μέθοδο «αποθήκευση» ενώ προσδιορίζετε τη διαδρομή αρχείου εξόδου και το SaveFormat.POWERPOINT ως παραμέτρους., το αρχείο TXT μετατρέπεται σε POWERPOINT στην καθορισμένη διαδρομή.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -52,7 +52,8 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

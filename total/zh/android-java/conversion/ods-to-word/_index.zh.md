@@ -20,7 +20,7 @@ otherformats: DOCX DOC POWERPOINT PPTX
 {{% blocks/products/pf/agp/feature-section-col title="用于将 ODS 导出为 WORD 的 Android API" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 ODS 文件
 2. 将 ODS 转换为 PDF 并将 SaveFormat 设置为 AUTO
-3.使用[Wordument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument)类加载转换后的PDF文件
+3. 用[Wordument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument)类加载转换后的PDF文件
 4. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Wordument#save-java.lang.String-com.aspose.pdf.SaveOptions) 将文档保存为 WORD 格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -45,7 +45,8 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

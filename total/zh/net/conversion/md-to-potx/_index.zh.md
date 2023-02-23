@@ -18,7 +18,7 @@ otherformats: PPSX PPS PPTM XAML PPT POTM POTX PPSM POT POWERPOINT OTP SWF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 MD 转换为 POTX" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开MD文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开MD文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将MD转换为PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PPTX 文件
 4. 使用 [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将文档保存为 POTX 格式，并将 `Potx` 设置为 SaveFormat

@@ -19,8 +19,8 @@ Android uygulamalarınızda XPS'den ODS'ye dönüştürme özelliğini iki aşam
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XPS'yi ODS'ye Dönüştürmek için Android API" %}}
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak XPS dosyasını açın
-2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak XPS'yi XLSX'e dönüştürün ) yöntem
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak XLSX belgesini yükleyin
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak XPS'yi XLSX'e dönüştürün yöntem
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak XLSX belgesini yükleyin
 4. Belgeyi [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +48,7 @@ Alternatif olarak, [downloads](https://releases.aspose.com/total/androidjava) ad
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Java aracılığıyla Android'de ODS Belgesini koruyun" %}}
-[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), ihtiyaçlarınıza bağlı olarak ODS dosyanızın korunmasını destekler. Belgenizi korumak için [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) yöntemini kullanabilirsiniz [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfı.
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), ihtiyaçlarınıza bağlı olarak ODS dosyanızın korunmasını destekler. Belgenizi korumak için [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) yöntemini kullanabilirsiniz [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfı.
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-ods.java" >}}

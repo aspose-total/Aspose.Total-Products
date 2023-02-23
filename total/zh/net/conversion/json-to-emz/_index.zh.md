@@ -18,8 +18,8 @@ otherformats: IMAGE TGA SVGZ JPEG2000 EMZ DXF WMZ WMF DICOM PSD
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 JSON 格式转换为 EMZ" %}}
-1.新建[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)对象，从文件中读取JSON数据
-2.使用[Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)方法将JSON转换为JPEG
+1. 建[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)对象，从文件中读取JSON数据
+2. 用[Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)方法将JSON转换为JPEG
 3. 使用 [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 类加载 JPEG 文档
 4. 使用[Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)方法将文档保存为EMZ格式
 {{% /blocks/products/pf/agp/feature-section-col %}}

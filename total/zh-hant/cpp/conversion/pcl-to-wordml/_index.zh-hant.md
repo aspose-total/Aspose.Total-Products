@@ -18,10 +18,10 @@ otherformats: MARKDOWN DOTM FLATOPC DOTX ODT RTF XAMLFLOW MHTML DOCM OTT DOT PS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 PCL 渲染為 WORDML 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開PCL文件
-2.使用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)成員函數將PCL轉換為DOC
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開PCL文件
+2. 用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#adb8061c585440fde49c1263e68837f01)成員函數將PCL轉換為DOC
 3. 使用 Aspose.Words API 的 [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) 類引用加載 DOC 文件
-4.使用[Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)成員函數將文檔保存為WORDML格式
+4. 用[Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_stream_saveformat)成員函數將文檔保存為WORDML格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}

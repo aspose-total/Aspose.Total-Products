@@ -18,9 +18,9 @@ otherformats: PCL DOT DOTX ODT FLATOPC WORDML MARKDOWN DOTM XAMLFLOW MHTML PS RT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C# API 将 EPUB 转换为 MHTML" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开EPUB文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开EPUB文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将EPUB转换为Doc
-3.使用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
+3. 用Aspose.Words的[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载Doc文件
 4. 使用[Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4)方法将文档保存为MHTML格式，并将Mhtml设置为SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

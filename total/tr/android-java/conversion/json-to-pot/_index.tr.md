@@ -18,7 +18,7 @@ Android uygulamalarınızda JSON formatını iki aşamalı bir işlemle POT'ye d
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Android'de JSON Formatını POT'ye Dönüştür" %}}
-1. Yeni bir [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) nesnesi oluşturun ve JSON dosyasını açın
+1. Yeni bir [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) nesnesi oluşturun ve JSON dosyasını açın
 2. [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) kullanarak JSON'u PPTX olarak kaydedin ) yöntem
 3. [Sunum](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) sınıfını kullanarak PPTX belgesini yükleyin
 4. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) yöntemini kullanarak belgeyi POT biçiminde kaydedin

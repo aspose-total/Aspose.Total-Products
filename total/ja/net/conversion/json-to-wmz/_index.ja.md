@@ -18,7 +18,7 @@ otherformats: JPEG2000 TGA WMZ IMAGE PSD DXF SVGZ DICOM WMF EMZ
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してJSON形式をWMZに変換する" %}}
-1.新しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルからJSONデータを読み取ります
+1. しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルからJSONデータを読み取ります
 2. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4)メソッドを使用してJSONをJPEGに変換します
 3. [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image)クラスを使用してJPEGドキュメントをロードします
 4. [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4)メソッドを使用してドキュメントをWMZ形式で保存します

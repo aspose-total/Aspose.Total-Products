@@ -48,7 +48,7 @@ Durante l'analisi da JSON a WORD, puoi anche impostare le opzioni di layout per 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analizza il formato JSON in WORD con filigrana" %}}
-Utilizzando l'API, puoi anche convertire JSON in WORD con filigrana. Per aggiungere una filigrana al tuo documento WORD, puoi prima analizzare il file JSON in PDF e aggiungervi una filigrana. Per aggiungere una filigrana, caricare il file PDF appena creato utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/document), creare un'istanza di TextWatermarkOptions e impostarne le proprietà , Chiama il metodo Watermark.SetText e passa il testo e l'oggetto della filigrana di TextWatermarkOptions. Dopo aver aggiunto la filigrana, è possibile salvare il documento in WORD. 
+Utilizzando l'API, puoi anche convertire JSON in WORD con filigrana. Per aggiungere una filigrana al tuo documento WORD, puoi prima analizzare il file JSON in PDF e aggiungervi una filigrana. Per aggiungere una filigrana, caricare il file PDF appena creato utilizzando la classe [Document](https://apiference.aspose.com/words/net/aspose.words/document), creare un'istanza di TextWatermarkOptions e impostarne le proprietà, Chiama il metodo Watermark.SetText e passa il testo e l'oggetto della filigrana di TextWatermarkOptions. Dopo aver aggiunto la filigrana, è possibile salvare il documento in WORD. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

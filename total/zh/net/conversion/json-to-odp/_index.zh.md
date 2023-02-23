@@ -20,7 +20,7 @@ otherformats: PPT OTP PPSX POWERPOINT POTM POT PPSM POTX PPTM PPS
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 JSON 格式转换为 ODP" %}}
 1. 创建一个新的 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
 2. 使用 [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://reference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 它作为 PPTX
-3.使用[Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)类加载PPTX文档
+3. 用[Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)类加载PPTX文档
 4. 使用[Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)方法将文档保存为ODP格式
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

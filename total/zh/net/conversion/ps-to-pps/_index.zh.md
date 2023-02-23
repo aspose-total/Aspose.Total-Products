@@ -18,7 +18,7 @@ otherformats: XAML POTX PPS PPTM PPT PPSX POT OTP POTM PPSM POWERPOINT SWF
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 PS 转换为 PPS" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PS文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PS文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将PS转换为PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PPTX 文件
 4. 使用 [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将文档保存为 PPS 格式，并将 `Pps` 设置为 SaveFormat

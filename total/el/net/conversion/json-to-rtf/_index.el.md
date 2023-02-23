@@ -48,7 +48,7 @@ otherformats: DOCM ODT DOTX DOC EPUB WORD DOT OTT FLATOPC PCL MOBI PS RTF WORDML
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Αναλύστε τη μορφή JSON σε RTF με υδατογράφημα" %}}
-Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε RTF με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας RTF, μπορείτε πρώτα να αναλύσετε το αρχείο JSON σε PDF και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το αρχείο PDF που δημιουργήθηκε πρόσφατα χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε τις ιδιότητές του , Καλέστε τη μέθοδο Watermark.SetText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο RTF. 
+Χρησιμοποιώντας το API, μπορείτε επίσης να μετατρέψετε το JSON σε RTF με υδατογράφημα. Για να προσθέσετε ένα υδατογράφημα στο έγγραφό σας RTF, μπορείτε πρώτα να αναλύσετε το αρχείο JSON σε PDF και να προσθέσετε ένα υδατογράφημα σε αυτό. Για να προσθέσετε ένα υδατογράφημα, φορτώστε το αρχείο PDF που δημιουργήθηκε πρόσφατα χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/net/aspose.words/document), δημιουργήστε μια παρουσία του TextWatermarkOptions και ορίστε τις ιδιότητές του, Καλέστε τη μέθοδο Watermark.SetText και περάστε κείμενο υδατογραφήματος & αντικείμενο του TextWatermarkOptions. Αφού προσθέσετε το υδατογράφημα, μπορείτε να αποθηκεύσετε το έγγραφο στο RTF. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

@@ -18,7 +18,7 @@ otherformats: XLTX XLSM EXCEL TSV TXT XLSB MD DIF XLAM XLTM FODS XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 PDF 渲染為 CSV 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開PDF文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開PDF文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 將 PDF 轉換為 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類加載 XLSX 文檔
 4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 將文檔保存為 CSV 格式。 SaveOptions)) 方法

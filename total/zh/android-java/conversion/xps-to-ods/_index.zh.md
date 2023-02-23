@@ -18,10 +18,10 @@ otherformats: DIF TSV FODS TXT CSV XLSB XLSM MD XLAM SXC XLT XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 XPS 渲染为 ODS 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开XPS文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类打开XPS文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 将 XPS 转换为 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 XLSX 文档
-4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 将文档保存为 ODS 格式。 SaveOptions)) 方法
+4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 将文档保存为 ODS 格式方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}

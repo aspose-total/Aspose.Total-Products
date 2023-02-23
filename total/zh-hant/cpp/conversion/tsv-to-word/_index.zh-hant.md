@@ -16,7 +16,7 @@ otherformats: DOC PPTX DOCX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 TSV 到 WORD 轉換" %}}
 1. 使用[Factory](https://reference.aspose.com/cells)的[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)成員函數打開TSV文件/cpp/class/aspose.cells.factory) 類參考
 2. 將 TSV 轉換為 PDF 並將 SaveFormat 設置為 Pdf
-3.使用[Wordument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument)類參考加載轉換後的PDF文件
+3. 用[Wordument](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument)類參考加載轉換後的PDF文件
 4. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.wordument#a6383c010776212483f51cc41235924db)成員函數將文檔保存為WORD格式，並將Word設置為SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +39,8 @@ word->Save(u"convertedFile.word", SaveFormat::Word);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

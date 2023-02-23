@@ -18,7 +18,7 @@ otherformats: PPTM POTX PPSM OTP PPT PPS ODP POTM POT POWERPOINT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="在 Android 中將 JSON 格式轉換為 PPSX" %}}
-1.新建[Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)對象並打開JSON文件
+1. 建[Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)對象並打開JSON文件
 2. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 將 JSON 保存為 PPTX ) 方法
 3. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 類加載 PPTX 文檔
 4. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 方法將文檔保存為 PPSX 格式

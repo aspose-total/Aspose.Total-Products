@@ -11,7 +11,7 @@ description: Konwertuj dokumenty Word odt na pliki pptm programu PowerPoint za p
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować ODT na PPTM za pomocą C#" %}}
 
-Aby zautomatyzować proces konwersji dowolnych plików dokumentów programu Word do wsadowej konwersji prezentacji PowerPoint pptm , użyjemy [Aspose.Words for .NET](https://products.aspose.com/words/net) i [Aspose.Slides dla .NET](https://products.aspose.com/slides/net) API. Ten pierwszy to interfejs API do przetwarzania tekstu do przetwarzania lub manipulowania dokumentami Microsoft Word. Natomiast ten ostatni to interfejs API do manipulacji prezentacją, który pozwala tworzyć lub modyfikować slajdy programu Microsoft PowerPoint. Oba interfejsy API są częścią pakietu [Aspose.Total for .NET](https://products.aspose.com/total/net). Możesz bezpośrednio [pobrać](https://releases.aspose.com) z Nuget lub użyć następujących poleceń z konsoli Menedżera pakietów.
+Aby zautomatyzować proces konwersji dowolnych plików dokumentów programu Word do wsadowej konwersji prezentacji PowerPoint pptm, użyjemy [Aspose.Words for .NET](https://products.aspose.com/words/net) i [Aspose.Slides dla .NET](https://products.aspose.com/slides/net) API. Ten pierwszy to interfejs API do przetwarzania tekstu do przetwarzania lub manipulowania dokumentami Microsoft Word. Natomiast ten ostatni to interfejs API do manipulacji prezentacją, który pozwala tworzyć lub modyfikować slajdy programu Microsoft PowerPoint. Oba interfejsy API są częścią pakietu [Aspose.Total for .NET](https://products.aspose.com/total/net). Możesz bezpośrednio [pobrać](https://releases.aspose.com) z Nuget lub użyć następujących poleceń z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -94,7 +94,8 @@ using (Presentation pptm = new Presentation()){
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

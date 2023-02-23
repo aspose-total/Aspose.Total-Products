@@ -20,7 +20,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{% blocks/products/pf/agp/feature-section-col title="Android'de OTP'yi JSON Formatına Dönüştür" %}}
 1. OTP dosyasını [Otpument](https://reference.aspose.com/words/java/com.aspose.words/Otpument) sınıfını kullanarak açın
 2. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Otpument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak OTP'yi HTML'ye dönüştürün. ) yöntem
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

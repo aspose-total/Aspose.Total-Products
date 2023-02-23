@@ -18,7 +18,7 @@ otherformats: OTT FLATOPC PS DOTX RTF WORDML ODT WORD EPUB DOC DOT PCL MOBI DOCM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C＃を介してJSON形式をCHMに変換する" %}}
-1.新しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
+1. しい[Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)オブジェクトを作成し、ファイルから有効なJSONデータを読み取ります
 2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility)クラスと[Save](https://reference.aspose.com/)を使用して、JSONファイルをワークシートにインポートします。 cells / net / aspose.cells.workbook / save / methods / 4)それをPDFとして
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document)クラスを使用してPDFドキュメントをロードします
 4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3)メソッドを使用してドキュメントをCHM形式で保存します

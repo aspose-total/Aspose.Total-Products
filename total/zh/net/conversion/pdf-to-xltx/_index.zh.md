@@ -18,7 +18,7 @@ otherformats: FODS TXT TSV DIF MD XLTM SXC XLAM EXCEL ODS XLSM XLTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 PDF 转换为 XLTX" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PDF文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PDF文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将PDF转换为XLSX
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLTX 格式，并将 `Xltx` 设置为 SaveFormat

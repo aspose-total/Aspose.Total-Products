@@ -18,7 +18,7 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通過 C++ 將 POWERPOINT 轉換為 JSON 格式" %}}
-1.使用[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)類參考打開POWERPOINT文件
+1. 用[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)類參考打開POWERPOINT文件
 2. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) 方法將 POWERPOINT 轉換為 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 HTML 文檔
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) 方法將文檔保存為 JSON 格式

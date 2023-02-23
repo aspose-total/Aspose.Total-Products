@@ -20,7 +20,7 @@ otherformats: POTX POWERPOINT POTM PPTM PPSM PPTX PPT PPSX PPS ODP CSV DIF FODS 
 {{% blocks/products/pf/agp/feature-section-col title="如何在 Android 中将 OTT 转换为 POT" %}}
 1. 使用 [Ottument](https://reference.aspose.com/words/java/com.aspose.words/Ottument) 类打开 OTT 文件
 2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Ottument#save(java.lang.String,com.aspose.words.SaveOptions) 将 OTT 文件转换为 HTML )) 方法
-3.初始化一个新的[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)对象
+3. 始化一个新的[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)对象
 5. 使用 BufferedReader 从 HTML 文件中提取内容并将内容写入您的演示文件
 6. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法将文档保存到 POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,8 @@ otherformats: POTX POWERPOINT POTM PPTM PPSM PPTX PPT PPSX PPS ODP CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

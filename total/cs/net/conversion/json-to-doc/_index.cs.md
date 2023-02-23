@@ -48,7 +48,7 @@ Při analýze JSON na DOC můžete také nastavit možnosti rozvržení pro JSON
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyzujte formát JSON do DOC s vodoznakem" %}}
-Pomocí API můžete také převést JSON na DOC s vodoznakem. Chcete-li do dokumentu DOC přidat vodoznak, můžete nejprve analyzovat soubor JSON do PDF a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor PDF pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document), vytvořte instanci TextWatermarkOptions a nastavte její vlastnosti , Zavolejte metodu Watermark.SetText a předejte text vodoznaku a objekt TextWatermarkOptions. Po přidání vodoznaku můžete dokument uložit do DOC. 
+Pomocí API můžete také převést JSON na DOC s vodoznakem. Chcete-li do dokumentu DOC přidat vodoznak, můžete nejprve analyzovat soubor JSON do PDF a přidat do něj vodoznak. Chcete-li přidat vodoznak, načtěte nově vytvořený soubor PDF pomocí třídy [Document](https://reference.aspose.com/words/net/aspose.words/document), vytvořte instanci TextWatermarkOptions a nastavte její vlastnosti, Zavolejte metodu Watermark.SetText a předejte text vodoznaku a objekt TextWatermarkOptions. Po přidání vodoznaku můžete dokument uložit do DOC. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

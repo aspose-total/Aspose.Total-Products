@@ -20,7 +20,7 @@ otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 {{% blocks/products/pf/agp/feature-section-col title="Android'de WORD'yi JSON Formatına Dönüştür" %}}
 1. WORD dosyasını [Wordument](https://reference.aspose.com/words/java/com.aspose.words/Wordument) sınıfını kullanarak açın
 2. [Kaydet](https://reference.aspose.com/words/java/com.aspose.words/Wordument#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak WORD'yi HTML'ye dönüştürün. ) yöntem
-3. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
+3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin
 4. [Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) yöntemi
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

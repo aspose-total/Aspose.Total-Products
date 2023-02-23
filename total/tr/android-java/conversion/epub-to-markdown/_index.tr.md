@@ -19,7 +19,7 @@ otherformats: WORDML ODT RTF XAMLFLOW FLATOPC PCL DOCM DOTM DOTX MHTML OTT DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java aracılığıyla Android'de EPUB'yi MARKDOWN'ye dönüştürün" %}}
 1. [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) sınıfını kullanarak EPUB dosyasını açın
-2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak EPUB'yi DOC'ye dönüştürün ) yöntem
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) kullanarak EPUB'yi DOC'ye dönüştürün yöntem
 3. DOC dosyasını Aspose.Words'ün [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) yöntemini kullanarak MARKDOWN formatına kaydedin ve MARKDOWN'yi ayarlayın SaveFormat olarak
 {{% /blocks/products/pf/agp/feature-section-col %}}

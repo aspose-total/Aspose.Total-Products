@@ -18,7 +18,7 @@ otherformats: WORD DOC DOCX PPTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EXCEL'yi POWERPOINT'a Dışa Aktarmak için Android API" %}}
-1. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak EXCEL dosyasını açın
+1. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak EXCEL dosyasını açın
 2. EXCEL'yi PDF'ye dönüştürün ve SaveFormat'ı AUTO olarak ayarlayın
 3. Dönüştürülen PDF dosyasını [Powerpointument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions) kullanarak POWERPOINT biçiminde kaydedin -) yöntem

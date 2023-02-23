@@ -18,9 +18,9 @@ otherformats: PPS PPTM ODP POTX XAML PPT SWF POT PPSM OTP POWERPOINT POTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="用于将 MHTML 导出为 PPSX 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考打开MHTML文件
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考打开MHTML文件
 2. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)方法函数将MHTML转换为PPTX
-3.使用[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)类参考加载PPTX文档
+3. 用[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)类参考加载PPTX文档
 4. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 成员函数将文档保存为 PPSX 格式，并将 `Ppsx` 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

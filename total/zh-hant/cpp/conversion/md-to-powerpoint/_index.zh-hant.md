@@ -18,9 +18,9 @@ otherformats: PPTM PPSX OTP SWF PPT PPS POTX POTM ODP PPSM POT XAML
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 MD 導出為 POWERPOINT 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開MD文件
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開MD文件
 2. 使用[Save](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a0184df207563187be7df37b8dbe443f6)方法函數將MD轉換為PPTX
-3.使用[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)類參考加載PPTX文檔
+3. 用[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)類參考加載PPTX文檔
 4. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 成員函數將文檔保存為 POWERPOINT 格式，並將 `Powerpoint` 設置為 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

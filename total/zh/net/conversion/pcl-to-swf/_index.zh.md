@@ -18,7 +18,7 @@ otherformats: POT PPS POTM XAML OTP POWERPOINT PPTM PPT POTX SWF PPSX PPSM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 PCL 转换为 SWF" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PCL文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开PCL文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将PCL转换为PPTX
 3. 使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类加载 PPTX 文件
 4. 使用 [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将文档保存为 SWF 格式，并将 `Swf` 设置为 SaveFormat

@@ -19,7 +19,7 @@ otherformats: WORD DOC PPTX POWERPOINT
 {{% blocks/products/pf/agp/feature-section-col title=".NET 上的 CSV 到 DOCX 轉換" %}}
 1. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 類打開 CSV 文件
 2. 將 CSV 轉換為 PDF 並將 SaveFormat 設置為 Auto
-3.使用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)類加載轉換後的PDF文件
+3. 用[Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document)類加載轉換後的PDF文件
 4. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法將文檔保存為DOCX格式，並將Docx設置為SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -42,7 +42,8 @@ document.Save("output.docx", SaveFormat.Docx);
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

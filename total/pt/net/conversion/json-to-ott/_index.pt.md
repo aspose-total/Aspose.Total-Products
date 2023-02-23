@@ -48,7 +48,7 @@ Ao analisar JSON para OTT, você também pode definir opções de layout para se
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar o formato JSON para OTT com marca d'água" %}}
-Usando a API, você também pode converter JSON em OTT com marca d'água. Para adicionar uma marca d'água ao seu documento OTT, você pode primeiro analisar o arquivo JSON para PDF e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PDF recém-criado usando a classe [Document](https://reference.aspose.com/words/net/aspose.words/document), crie uma instância de TextWatermarkOptions e defina suas propriedades , Chame o método Watermark.SetText e passe o texto da marca d'água e o objeto de TextWatermarkOptions. Depois de adicionar a marca d'água, você pode salvar o documento no OTT. 
+Usando a API, você também pode converter JSON em OTT com marca d'água. Para adicionar uma marca d'água ao seu documento OTT, você pode primeiro analisar o arquivo JSON para PDF e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PDF recém-criado usando a classe [Document](https://reference.aspose.com/words/net/aspose.words/document), crie uma instância de TextWatermarkOptions e defina suas propriedades, Chame o método Watermark.SetText e passe o texto da marca d'água e o objeto de TextWatermarkOptions. Depois de adicionar a marca d'água, você pode salvar o documento no OTT. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

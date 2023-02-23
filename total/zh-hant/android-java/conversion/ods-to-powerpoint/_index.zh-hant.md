@@ -20,7 +20,7 @@ otherformats: DOCX DOC WORD PPTX
 {{% blocks/products/pf/agp/feature-section-col title="用於將 ODS 導出為 POWERPOINT 的 Android API" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類打開 ODS 文件
 2. 將 ODS 轉換為 PDF 並將 SaveFormat 設置為 AUTO
-3.使用[Powerpointument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)類加載轉換後的PDF文件
+3. 用[Powerpointument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument)類加載轉換後的PDF文件
 4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions)將文檔保存為POWERPOINT格式-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -45,7 +45,8 @@ powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

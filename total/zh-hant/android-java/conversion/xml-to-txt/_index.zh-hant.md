@@ -18,7 +18,7 @@ otherformats: XLSB EXCEL DIF XLSM FODS CSV ODS TSV XLAM XLTM SXC XLT
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 XML 渲染為 TXT 的 Android API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開XML文件
+1. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類打開XML文件
 2. 使用 [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) 將 XML 轉換為 XLSX ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類加載 XLSX 文檔
 4. 使用 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook) 將文檔保存為 TXT 格式。 SaveOptions)) 方法

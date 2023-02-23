@@ -18,9 +18,9 @@ otherformats: POT PPT POWERPOINT ODP PPTX PPS PPSX POTX POTM PPTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ 上的 OTT 到 PPSM 轉換" %}}
-1.使用[Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)類參考打開OTT文件
+1. 用[Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)類參考打開OTT文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_stdbasicostream_saveoptions) 成員函數將 OTT 轉換為 HTML
-3.初始化一個新的[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)對象
+3. 始化一個新的[Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)對象
 4. 在你的幻燈片中添加一個自選圖形，並在其中添加 AddTextFrame
 5. 加載 HTML 內容並將其寫入您的 Presentation 文件中
 6. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e) 方法將文檔保存為 PPSM 格式，並將 Ppsm 設置為 SaveFormat
@@ -66,7 +66,8 @@ pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

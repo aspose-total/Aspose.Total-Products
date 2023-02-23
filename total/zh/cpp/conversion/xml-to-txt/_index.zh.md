@@ -18,8 +18,8 @@ otherformats: XLT EXCEL ODS TSV XLTM MD SXC FODS XLTX XLSB DIF XLAM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C++ API 将 XML 转换为 TXT" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考打开XML文件
-2.使用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成员函数将XML转换为XLSX
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)类参考打开XML文件
+2. 用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成员函数将XML转换为XLSX
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 XLSX 文档
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 成员函数将文档保存为 TXT 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}

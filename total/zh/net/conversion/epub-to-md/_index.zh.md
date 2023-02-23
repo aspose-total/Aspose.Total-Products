@@ -18,7 +18,7 @@ otherformats: XLSB SXC ODS FODS XLT TXT XLSM XLTX MD XLAM DIF XLTM
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 EPUB 转换为 MD" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开EPUB文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开EPUB文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将EPUB转换为XLSX
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 MD 格式，并将 `Md` 设置为 SaveFormat

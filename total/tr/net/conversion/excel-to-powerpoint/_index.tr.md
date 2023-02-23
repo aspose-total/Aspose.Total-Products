@@ -17,7 +17,7 @@ otherformats: WORD PPTX DOCX DOC
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET'te EXCEL'den POWERPOINT'ye Dönüştürme" %}}
-1. [Çalışma Kitabı](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak EXCEL dosyasını açın
+1. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak EXCEL dosyasını açın
 2. EXCEL'yi PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın
 3. Dönüştürülen PDF dosyasını [Powerpointument](https://apireference.aspose.com/pdf/net/aspose.pdf/powerpointument) sınıfını kullanarak yükleyin
 4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.powerpointument/save/methods/5) yöntemini kullanarak dokümanı POWERPOINT formatına kaydedin ve Dokümanı SaveFormat olarak ayarlayın

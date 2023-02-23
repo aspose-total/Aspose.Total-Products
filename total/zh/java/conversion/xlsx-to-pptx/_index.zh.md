@@ -18,7 +18,7 @@ otherformats: PPTX POWERPOINT PPTXX WORD
 {{% blocks/products/pf/agp/feature-section-col title="如何通过 Java API 将 XLSX 转换为 PPTX" %}}
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 XLSX 文件
 2. 将 XLSX 转换为 PDF 并将 SaveFormat 设置为 AUTO
-3.使用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
+3. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
 4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)将文档保存为PPTX格式-) 方法并将 Pptx 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
@@ -39,7 +39,8 @@ document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">

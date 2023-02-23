@@ -17,7 +17,7 @@ otherformats: PPTX WORD DOCX DOC
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET'te XLS'den POWERPOINT'ye Dönüştürme" %}}
-1. [Çalışma Kitabı](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak XLS dosyasını açın
+1. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak XLS dosyasını açın
 2. XLS'yi PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın
 3. Dönüştürülen PDF dosyasını [Powerpointument](https://apireference.aspose.com/pdf/net/aspose.pdf/powerpointument) sınıfını kullanarak yükleyin
 4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.powerpointument/save/methods/5) yöntemini kullanarak dokümanı POWERPOINT formatına kaydedin ve Dokümanı SaveFormat olarak ayarlayın
@@ -42,7 +42,8 @@ powerpointument.Save("output.pptx", SaveFormat.Pptx);
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

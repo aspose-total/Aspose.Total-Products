@@ -19,7 +19,7 @@ otherformats: WORD PPTX DOCX DOC
 {{% blocks/products/pf/agp/feature-section-col title=".NET 上的 EXCEL 到 POWERPOINT 轉換" %}}
 1. 使用 [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 類打開 EXCEL 文件
 2. 將 EXCEL 轉換為 PDF 並將 SaveFormat 設置為 Auto
-3.使用[Powerpointument](https://apireference.aspose.com/pdf/net/aspose.pdf/powerpointument)類加載轉換後的PDF文件
+3. 用[Powerpointument](https://apireference.aspose.com/pdf/net/aspose.pdf/powerpointument)類加載轉換後的PDF文件
 4. 使用[Save](https://apireference.aspose.com/pdf/net/aspose.pdf.powerpointument/save/methods/5)方法將文檔保存為POWERPOINT格式，並將Powerpoint設置為SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

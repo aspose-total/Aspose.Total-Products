@@ -26,7 +26,7 @@ otherformats: POWERPOINT ODP POTX PPS POTM PPSX POT PPTM PPTX PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A DOCM- és PPT-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://releases.aspose.com/total/java/) -től , és telepítse a könyvtárakat az alkalmazásba.
+A DOCM- és PPT-fájlok konvertálásához egyszerűen használhatja az Aspose.Total for Androidot Java-n keresztül közvetlenül a [Maven](https://releases.aspose.com/total/java/) -től, és telepítse a könyvtárakat az alkalmazásba.
 
 Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.aspose.com/total/androidjava) webhelyről.
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -38,7 +38,8 @@ Másik megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://releases.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

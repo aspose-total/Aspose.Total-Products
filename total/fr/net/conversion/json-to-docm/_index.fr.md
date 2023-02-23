@@ -48,7 +48,7 @@ Lors de l'analyse de JSON vers DOCM, vous pouvez également définir des options
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analyser le format JSON en DOCM avec filigrane" %}}
-À l'aide de l'API, vous pouvez également convertir JSON en DOCM avec filigrane. Afin d'ajouter un filigrane à votre document DOCM, vous pouvez d'abord analyser le fichier JSON en PDF et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PDF nouvellement créé à l'aide de la classe [Document](https://reference.aspose.com/words/net/aspose.words/document), créez une instance de TextWatermarkOptions et définissez ses propriétés , Appelez la méthode Watermark.SetText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur DOCM. 
+À l'aide de l'API, vous pouvez également convertir JSON en DOCM avec filigrane. Afin d'ajouter un filigrane à votre document DOCM, vous pouvez d'abord analyser le fichier JSON en PDF et y ajouter un filigrane. Pour ajouter un filigrane, chargez le fichier PDF nouvellement créé à l'aide de la classe [Document](https://reference.aspose.com/words/net/aspose.words/document), créez une instance de TextWatermarkOptions et définissez ses propriétés, Appelez la méthode Watermark.SetText et transmettez le texte et l'objet du filigrane de TextWatermarkOptions. Après avoir ajouté le filigrane, vous pouvez enregistrer le document sur DOCM. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

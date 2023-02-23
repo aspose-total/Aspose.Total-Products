@@ -18,7 +18,7 @@ otherformats: DOCX DOC WORD PPTX
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="ODS'yi POWERPOINT'a Dışa Aktarmak için Android API" %}}
-1. [Çalışma Kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak ODS dosyasını açın
+1. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak ODS dosyasını açın
 2. ODS'yi PDF'ye dönüştürün ve SaveFormat'ı AUTO olarak ayarlayın
 3. Dönüştürülen PDF dosyasını [Powerpointument](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument) sınıfını kullanarak yükleyin
 4. Belgeyi [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Powerpointument#save-java.lang.String-com.aspose.pdf.SaveOptions) kullanarak POWERPOINT biçiminde kaydedin -) yöntem
@@ -45,7 +45,8 @@ powerpointument.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

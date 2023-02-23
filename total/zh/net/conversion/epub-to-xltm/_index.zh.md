@@ -18,7 +18,7 @@ otherformats: XLTX DIF XLSB TXT XLT XLTM XLAM SXC FODS ODS MD EXCEL
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 EPUB 转换为 XLTM" %}}
-1.使用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开EPUB文件
+1. 用[Document](https://reference.aspose.com/pdf/net/aspose.pdf/document)类打开EPUB文件
 2. 使用[Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5)方法将EPUB转换为XLSX
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 XLSX 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 XLTM 格式，并将 `Xltm` 设置为 SaveFormat

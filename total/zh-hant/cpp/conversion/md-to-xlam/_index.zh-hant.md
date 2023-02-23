@@ -18,8 +18,8 @@ otherformats: DIF CSV ODS XLSB TXT XLTM XLT TSV EXCEL SXC XLTX FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="將 MD 轉換為 XLAM 的 C++ API" %}}
-1.使用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開MD文件
-2.使用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成員函數將MD轉換為XLSX
+1. 用[Document](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document)類參考打開MD文件
+2. 用[保存](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.document#a6383c010776212483f51cc41235924db)成員函數將MD轉換為XLSX
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 XLSX 文檔
 4. 使用 [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 成員函數將文檔保存為 XLAM 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}

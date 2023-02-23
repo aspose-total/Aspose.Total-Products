@@ -48,7 +48,7 @@ Ao analisar JSON para FLATOPC, você também pode definir opções de layout par
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Analisar o formato JSON para FLATOPC com marca d'água" %}}
-Usando a API, você também pode converter JSON em FLATOPC com marca d'água. Para adicionar uma marca d'água ao seu documento FLATOPC, você pode primeiro analisar o arquivo JSON para PDF e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PDF recém-criado usando a classe [Document](https://reference.aspose.com/words/net/aspose.words/document), crie uma instância de TextWatermarkOptions e defina suas propriedades , Chame o método Watermark.SetText e passe o texto da marca d'água e o objeto de TextWatermarkOptions. Depois de adicionar a marca d'água, você pode salvar o documento no FLATOPC. 
+Usando a API, você também pode converter JSON em FLATOPC com marca d'água. Para adicionar uma marca d'água ao seu documento FLATOPC, você pode primeiro analisar o arquivo JSON para PDF e adicionar uma marca d'água a ele. Para adicionar uma marca d'água, carregue o arquivo PDF recém-criado usando a classe [Document](https://reference.aspose.com/words/net/aspose.words/document), crie uma instância de TextWatermarkOptions e defina suas propriedades, Chame o método Watermark.SetText e passe o texto da marca d'água e o objeto de TextWatermarkOptions. Depois de adicionar a marca d'água, você pode salvar o documento no FLATOPC. 
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "d9b625f318e1b7a92036a7f5681d43f8" "parse-json-to-word-with-watermark.cs" >}}

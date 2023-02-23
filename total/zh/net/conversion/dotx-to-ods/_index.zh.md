@@ -18,7 +18,7 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title=".NET API 将 DOTX 转换为 ODS" %}}
-1.使用[Document](https://reference.aspose.com/words/net/aspose.words/Document)类打开DOTX文件
+1. 用[Document](https://reference.aspose.com/words/net/aspose.words/Document)类打开DOTX文件
 2. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4) 方法将 DOTX 转换为 HTML
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 方法将文档保存为 ODS 格式，并将 `ODS` 设置为 SaveFormat
@@ -37,7 +37,8 @@ otherformats: ODS DIF TSV XLS XLT XLTX XLSX EXCEL XLSB XLTM XLSM SXC XLAM FODS
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

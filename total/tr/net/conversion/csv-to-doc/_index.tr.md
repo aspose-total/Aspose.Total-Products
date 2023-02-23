@@ -17,7 +17,7 @@ otherformats: WORD POWERPOINT PPTX DOCX
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title=".NET'te CSV'den DOC'ye Dönüştürme" %}}
-1. [Çalışma Kitabı](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak CSV dosyasını açın
+1. [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıfını kullanarak CSV dosyasını açın
 2. CSV'yi PDF'ye dönüştürün ve SaveFormat'ı Otomatik olarak ayarlayın
 3. Dönüştürülen PDF dosyasını [Document](https://apireference.aspose.com/pdf/net/aspose.pdf/document) sınıfını kullanarak yükleyin
 4. [Save](https://apireference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) yöntemini kullanarak dokümanı DOC formatına kaydedin ve Dokümanı SaveFormat olarak ayarlayın
@@ -44,7 +44,8 @@ document.Save("output.doc", SaveFormat.Doc);
 
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

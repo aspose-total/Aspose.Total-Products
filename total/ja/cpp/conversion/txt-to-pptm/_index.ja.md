@@ -20,7 +20,7 @@ otherformats: PPT ODP PPS POWERPOINT PPSM POT PPTX PPSX POTX POTM
 {{% blocks/products/pf/agp/feature-section-col title="C++でのTXTからPPTMへの変換" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.txtument)クラスリファレンスを使用してTXTファイルを開きます
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.txtument#save_stdbasicostream_saveoptions)メンバー関数を使用してTXTをHTMLに変換します
-3.新しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
+3. しい[プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)オブジェクトを初期化します
 4.スライドにAutoShapeを追加し、それにAddTextFrameを追加します
 5. HTMLコンテンツをロードし、プレゼンテーションファイルに書き込みます
 6. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#afcd59ec697bf05c10f78c3869de2ec9e)メソッドを使用してドキュメントをPPTM形式で保存し、PptmをSaveFormatとして設定します
@@ -66,7 +66,8 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
