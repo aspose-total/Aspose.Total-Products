@@ -1,6 +1,6 @@
 ---
-title: Converti XLTM in PPTM usando Python
-description: Conversione da XLTM a PPTM nelle tue applicazioni Python senza utilizzare Microsoft Office 
+title: Converti XLTM in PPTM usando Python o con il convertitore online gratuito
+description: Conversione da XLTM a PPTM nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti XLTM in PPTM tramite Python" h2="Conversione da XLTM a PPTM nelle tue applicazioni Python senza installare Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti XLTM in PPTM tramite Python o in linea" h2="Conversione da XLTM a PPTM nelle tue applicazioni Python senza installare Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

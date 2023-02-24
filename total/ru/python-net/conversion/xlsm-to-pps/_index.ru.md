@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSM в PPS с помощью Python
-description: Преобразование XLSM в PPS в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование XLSM в PPS с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLSM в PPS в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование XLSM в PPS через Python" h2="Преобразование XLSM в PPS в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование XLSM в PPS через Python или онлайн" h2="Преобразование XLSM в PPS в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

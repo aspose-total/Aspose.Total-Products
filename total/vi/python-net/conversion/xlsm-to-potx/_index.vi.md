@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi XLSM sang POTX bằng Python
-description: Chuyển đổi XLSM sang POTX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office 
+title: Chuyển đổi XLSM sang POTX bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi XLSM sang POTX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi XLSM sang POTX qua Python" h2="Chuyển đổi XLSM sang POTX trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Excel<sup>&reg;</sup> hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi XLSM sang POTX qua Python hoặc trực tuyến" h2="Chuyển đổi XLSM sang POTX trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Excel<sup>&reg;</sup> hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

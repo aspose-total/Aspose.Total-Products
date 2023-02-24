@@ -1,6 +1,6 @@
 ---
-title: 使用 Python 将 TSV 转换为 PPTM
-description: 在不使用 Microsoft Office 的情况下在 Python 应用程序中将 TSV 转换为 PPTM 
+title: 使用 Python 将 TSV 转换为 PPTM 或使用免费的在线转换器
+description: 在不使用 Microsoft Office 的情况下在 Python 应用程序中将 TSV 转换为 PPTM 或在线。在集成代码之前快速测试免费的 CSV 到 POT 在线转换器。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Python 将 TSV 转换为 PPTM" h2="无需安装 Microsoft Excel<sup>&reg;</sup> 或 PowerPoint，即可在 Python 应用程序中将 TSV 转换为 PPTM" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Python 将 TSV 转换为 PPTM 或在线" h2="无需安装 Microsoft Excel<sup>&reg;</sup> 或 PowerPoint，即可在 Python 应用程序中将 TSV 转换为 PPTM" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

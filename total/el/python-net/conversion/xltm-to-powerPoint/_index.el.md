@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLTM σε POWERPOINT χρησιμοποιώντας Python
-description: Μετατροπή XLTM σε POWERPOINT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office 
+title: Μετατροπή XLTM σε POWERPOINT χρησιμοποιώντας Python ή με δωρεάν Online Converter
+description: Μετατροπή XLTM σε POWERPOINT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLTM σε POWERPOINT μέσω Python" h2="Μετατροπή XLTM σε POWERPOINT στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή XLTM σε POWERPOINT μέσω Python ή διαδικτυακά" h2="Μετατροπή XLTM σε POWERPOINT στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

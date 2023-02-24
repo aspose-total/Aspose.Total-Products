@@ -1,6 +1,6 @@
 ---
-title: Convierte XLSB a PPT usando Python
-description: Conversión de XLSB a PPT en sus aplicaciones de Python sin usar Microsoft Office 
+title: Convierte XLSB a PPT usando Python o con el convertidor en línea gratuito
+description: Conversión de XLSB a PPT en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLSB a PPT a través de Python" h2="Conversión de XLSB a PPT en sus aplicaciones Python sin instalar Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLSB a PPT a través de Python o en línea" h2="Conversión de XLSB a PPT en sus aplicaciones Python sin instalar Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

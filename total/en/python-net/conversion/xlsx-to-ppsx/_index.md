@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to PPSX using Python
-description: XLSX to PPSX conversion in your Python applications without using Microsoft Office 
+title: Convert XLSX to PPSX using Python or with free Online Converter
+description: XLSX to PPSX conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert XLSX to PPSX via Python" h2="XLSX to PPSX conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert XLSX to PPSX via Python or online" h2="XLSX to PPSX conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

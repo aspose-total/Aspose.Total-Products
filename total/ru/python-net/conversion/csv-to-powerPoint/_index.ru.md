@@ -1,6 +1,6 @@
 ---
-title: Преобразование CSV в POWERPOINT с помощью Python
-description: Преобразование CSV в POWERPOINT в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование CSV в POWERPOINT с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование CSV в POWERPOINT в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование CSV в POWERPOINT через Python" h2="Преобразование CSV в POWERPOINT в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование CSV в POWERPOINT через Python или онлайн" h2="Преобразование CSV в POWERPOINT в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

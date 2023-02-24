@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLSX in PPTM mit Python
-description: Konvertierung von XLSX in PPTM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office 
+title: Konvertieren Sie XLSX in PPTM mit Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von XLSX in PPTM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLSX über Python in PPTM" h2="Konvertierung von XLSX in PPTM in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLSX über Python in PPTM oder online" h2="Konvertierung von XLSX in PPTM in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

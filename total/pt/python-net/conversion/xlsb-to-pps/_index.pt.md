@@ -1,6 +1,6 @@
 ---
-title: Converter XLSB para PPS usando Python
-description: Conversão de XLSB para PPS em seus aplicativos Python sem usar o Microsoft Office 
+title: Converter XLSB para PPS usando Python ou com o conversor online gratuito
+description: Conversão de XLSB para PPS em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLSB para PPS via Python" h2="Conversão de XLSB para PPS em seus aplicativos Python sem instalar o Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLSB para PPS via Python ou online" h2="Conversão de XLSB para PPS em seus aplicativos Python sem instalar o Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

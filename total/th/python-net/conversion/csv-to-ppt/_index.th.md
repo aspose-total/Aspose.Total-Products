@@ -1,6 +1,6 @@
 ---
-title: แปลง CSV เป็น PPT โดยใช้ Python
-description: การแปลง CSV เป็น PPT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office 
+title: แปลง CSV เป็น PPT โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง CSV เป็น PPT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง CSV เป็น PPT ผ่าน Python" h2="การแปลง CSV เป็น PPT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง CSV เป็น PPT ผ่าน Python หรือทางออนไลน์" h2="การแปลง CSV เป็น PPT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

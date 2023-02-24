@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLS in POTX mit Python
-description: Konvertierung von XLS in POTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office 
+title: Konvertieren Sie XLS in POTX mit Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von XLS in POTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über Python in POTX" h2="Konvertierung von XLS in POTX in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über Python in POTX oder online" h2="Konvertierung von XLS in POTX in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

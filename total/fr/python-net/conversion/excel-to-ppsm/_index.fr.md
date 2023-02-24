@@ -1,6 +1,6 @@
 ---
-title: Convertir EXCEL en PPSM en utilisant Python
-description: Conversion EXCEL en PPSM dans vos applications Python sans utiliser Microsoft Office 
+title: Convertir EXCEL en PPSM en utilisant Python ou avec le convertisseur en ligne gratuit
+description: Conversion EXCEL en PPSM dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir EXCEL en PPSM via Python" h2="Conversion EXCEL en PPSM dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir EXCEL en PPSM via Python ou en ligne" h2="Conversion EXCEL en PPSM dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a XLSB-t POWERPOINT-be Python segítségével
-description: XLSB-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül 
+title: Konvertálja a XLSB-t POWERPOINT-be Python segítségével vagy online vagy ingyenes online konverterrel
+description: XLSB-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a XLSB-t POWERPOINT-be Python segítségével" h2="XLSB-ből POWERPOINT-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a XLSB-t POWERPOINT-be Python segítségével vagy online" h2="XLSB-ből POWERPOINT-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak XLSX'yi PPS'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda XLSX'den PPS'e dönüştürme 
+title: Python kullanarak XLSX'yi PPS'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda XLSX'den PPS'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLSX'yi Python aracılığıyla PPS'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden XLSX'den PPS'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="XLSX'yi Python aracılığıyla PPS'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden XLSX'den PPS'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

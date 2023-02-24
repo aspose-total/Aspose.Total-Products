@@ -1,6 +1,6 @@
 ---
-title: Převeďte CSV na PPSM pomocí Pythonu
-description: Převod CSV na PPSM ve vašich aplikacích Python bez použití Microsoft Office 
+title: Převeďte CSV na PPSM pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod CSV na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést CSV na PPSM pomocí Pythonu" h2="Převod CSV na PPSM ve vašich aplikacích Python bez instalace Microsoft Excel<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést CSV na PPSM pomocí Pythonu nebo online" h2="Převod CSV na PPSM ve vašich aplikacích Python bez instalace Microsoft Excel<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

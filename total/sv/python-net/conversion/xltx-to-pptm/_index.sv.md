@@ -1,6 +1,6 @@
 ---
-title: Konvertera XLTX till PPTM med Python
-description: XLTX till PPTM-konvertering i dina Python-applikationer utan att använda Microsoft Office 
+title: Konvertera XLTX till PPTM med Python eller med gratis Online Converter
+description: XLTX till PPTM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera XLTX till PPTM via Python" h2="XLTX till PPTM-konvertering i dina Python-applikationer utan att installera Microsoft Excel<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera XLTX till PPTM via Python eller online" h2="XLTX till PPTM-konvertering i dina Python-applikationer utan att installera Microsoft Excel<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

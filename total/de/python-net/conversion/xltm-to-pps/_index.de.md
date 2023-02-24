@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLTM in PPS mit Python
-description: Konvertierung von XLTM in PPS in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office 
+title: Konvertieren Sie XLTM in PPS mit Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von XLTM in PPS in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLTM über Python in PPS" h2="Konvertierung von XLTM in PPS in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLTM über Python in PPS oder online" h2="Konvertierung von XLTM in PPS in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

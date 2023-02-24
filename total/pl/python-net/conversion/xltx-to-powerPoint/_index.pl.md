@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLTX na POWERPOINT za pomocą Pythona
-description: Konwersja XLTX na POWERPOINT w aplikacjach Pythona bez użycia pakietu Microsoft Office 
+title: Konwertuj XLTX na POWERPOINT za pomocą Pythona lub online lub za pomocą bezpłatnego konwertera online
+description: Konwersja XLTX na POWERPOINT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLTX na POWERPOINT za pomocą Pythona" h2="Konwersja XLTX na POWERPOINT w aplikacjach Pythona bez instalowania Microsoft Excel<sup>&reg;</sup> lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLTX na POWERPOINT za pomocą Pythona lub online" h2="Konwersja XLTX na POWERPOINT w aplikacjach Pythona bez instalowania Microsoft Excel<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

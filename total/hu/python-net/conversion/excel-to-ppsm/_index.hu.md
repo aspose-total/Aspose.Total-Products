@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a EXCEL-t PPSM-be Python segítségével
-description: EXCEL-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül 
+title: Konvertálja a EXCEL-t PPSM-be Python segítségével vagy online vagy ingyenes online konverterrel
+description: EXCEL-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a EXCEL-t PPSM-be Python segítségével" h2="EXCEL-ből PPSM-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a EXCEL-t PPSM-be Python segítségével vagy online" h2="EXCEL-ből PPSM-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

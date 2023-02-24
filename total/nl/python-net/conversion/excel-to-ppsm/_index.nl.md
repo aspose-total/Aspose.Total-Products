@@ -1,6 +1,6 @@
 ---
-title: Converteer EXCEL naar PPSM met behulp van Python
-description: EXCEL naar PPSM-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken 
+title: Converteer EXCEL naar PPSM met behulp van Python of met gratis Online Converter
+description: EXCEL naar PPSM-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer EXCEL naar PPSM via Python" h2="EXCEL naar PPSM-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer EXCEL naar PPSM via Python of online" h2="EXCEL naar PPSM-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

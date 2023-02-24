@@ -1,6 +1,6 @@
 ---
-title: Převeďte TSV na PPS pomocí Pythonu
-description: Převod TSV na PPS ve vašich aplikacích Python bez použití Microsoft Office 
+title: Převeďte TSV na PPS pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod TSV na PPS ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést TSV na PPS pomocí Pythonu" h2="Převod TSV na PPS ve vašich aplikacích Python bez instalace Microsoft Excel<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést TSV na PPS pomocí Pythonu nebo online" h2="Převod TSV na PPS ve vašich aplikacích Python bez instalace Microsoft Excel<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Converteer XLTX naar PPSX met behulp van Python
-description: XLTX naar PPSX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken 
+title: Converteer XLTX naar PPSX met behulp van Python of met gratis Online Converter
+description: XLTX naar PPSX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer XLTX naar PPSX via Python" h2="XLTX naar PPSX-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer XLTX naar PPSX via Python of online" h2="XLTX naar PPSX-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

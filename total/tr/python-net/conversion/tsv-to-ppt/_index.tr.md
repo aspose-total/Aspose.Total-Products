@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak TSV'yi PPT'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda TSV'den PPT'e dönüştürme 
+title: Python kullanarak TSV'yi PPT'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda TSV'den PPT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="TSV'yi Python aracılığıyla PPT'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden TSV'den PPT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="TSV'yi Python aracılığıyla PPT'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden TSV'den PPT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

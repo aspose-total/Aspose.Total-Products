@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή EXCEL σε PPTX χρησιμοποιώντας Python
-description: Μετατροπή EXCEL σε PPTX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office 
+title: Μετατροπή EXCEL σε PPTX χρησιμοποιώντας Python ή με δωρεάν Online Converter
+description: Μετατροπή EXCEL σε PPTX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή EXCEL σε PPTX μέσω Python" h2="Μετατροπή EXCEL σε PPTX στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή EXCEL σε PPTX μέσω Python ή διαδικτυακά" h2="Μετατροπή EXCEL σε PPTX στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

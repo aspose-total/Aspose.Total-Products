@@ -1,6 +1,6 @@
 ---
-title: Converter XLSX para PPT usando Python
-description: Conversão de XLSX para PPT em seus aplicativos Python sem usar o Microsoft Office 
+title: Converter XLSX para PPT usando Python ou com o conversor online gratuito
+description: Conversão de XLSX para PPT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLSX para PPT via Python" h2="Conversão de XLSX para PPT em seus aplicativos Python sem instalar o Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLSX para PPT via Python ou online" h2="Conversão de XLSX para PPT em seus aplicativos Python sem instalar o Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

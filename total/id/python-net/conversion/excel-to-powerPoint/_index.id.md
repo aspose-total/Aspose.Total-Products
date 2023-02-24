@@ -1,6 +1,6 @@
 ---
-title: Konversikan EXCEL ke POWERPOINT menggunakan Python
-description: Konversi EXCEL ke POWERPOINT di aplikasi Python Anda tanpa menggunakan Microsoft Office 
+title: Konversikan EXCEL ke POWERPOINT menggunakan Python atau dengan Konverter Online gratis
+description: Konversi EXCEL ke POWERPOINT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan EXCEL ke POWERPOINT melalui Python" h2="Konversi EXCEL ke POWERPOINT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan EXCEL ke POWERPOINT melalui Python atau daring" h2="Konversi EXCEL ke POWERPOINT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Converti CSV in POT usando Python
-description: Conversione da CSV a POT nelle tue applicazioni Python senza utilizzare Microsoft Office 
+title: Converti CSV in POT usando Python o con il convertitore online gratuito
+description: Conversione da CSV a POT nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti CSV in POT tramite Python" h2="Conversione da CSV a POT nelle tue applicazioni Python senza installare Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti CSV in POT tramite Python o in linea" h2="Conversione da CSV a POT nelle tue applicazioni Python senza installare Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

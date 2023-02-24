@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak EXCEL'yi POT'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda EXCEL'den POT'e dönüştürme 
+title: Python kullanarak EXCEL'yi POT'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda EXCEL'den POT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="EXCEL'yi Python aracılığıyla POT'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden EXCEL'den POT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="EXCEL'yi Python aracılığıyla POT'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden EXCEL'den POT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

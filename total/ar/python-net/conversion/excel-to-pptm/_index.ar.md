@@ -1,6 +1,6 @@
 ---
-title: تحويل EXCEL إلى PPTM باستخدام Python
-description: تحويل EXCEL إلى PPTM في تطبيقات Python الخاصة بك دون استخدام Microsoft Office 
+title: تحويل EXCEL إلى PPTM باستخدام Python أو مع محول مجاني على الإنترنت
+description: تحويل EXCEL إلى PPTM في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل EXCEL إلى PPTM عبر Python" h2="تحويل EXCEL إلى PPTM في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل EXCEL إلى PPTM عبر Python أو عبر الإنترنت" h2="تحويل EXCEL إلى PPTM في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

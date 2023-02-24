@@ -1,6 +1,6 @@
 ---
-title: Python を使用して XLS を PPTX に変換する
-description: Microsoft Office を使用しない Python アプリケーションでの XLS から PPTX への変換 
+title: Python を使用して XLS を PPTX に変換する または無料のオンライン コンバーターを使用
+description: Microsoft Office を使用しない Python アプリケーションでの XLS から PPTX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でXLSをPPTXに変換" h2="Microsoft Excel<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで XLS から PPTX への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でXLSをPPTXに変換 またはオンライン" h2="Microsoft Excel<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで XLS から PPTX への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

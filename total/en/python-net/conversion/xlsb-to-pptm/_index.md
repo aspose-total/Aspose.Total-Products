@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to PPTM using Python
-description: XLSB to PPTM conversion in your Python applications without using Microsoft Office 
+title: Convert XLSB to PPTM using Python or with free Online Converter
+description: XLSB to PPTM conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert XLSB to PPTM via Python" h2="XLSB to PPTM conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert XLSB to PPTM via Python or online" h2="XLSB to PPTM conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Python を使用して TSV を POWERPOINT に変換する
-description: Microsoft Office を使用しない Python アプリケーションでの TSV から POWERPOINT への変換 
+title: Python を使用して TSV を POWERPOINT に変換する または無料のオンライン コンバーターを使用
+description: Microsoft Office を使用しない Python アプリケーションでの TSV から POWERPOINT への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でTSVをPOWERPOINTに変換" h2="Microsoft Excel<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで TSV から POWERPOINT への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でTSVをPOWERPOINTに変換 またはオンライン" h2="Microsoft Excel<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで TSV から POWERPOINT への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
