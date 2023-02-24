@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak XLTX'yi DOTX'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda XLTX'den DOTX'e dönüştürme 
+title: Python kullanarak XLTX'yi DOTX'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda XLTX'den DOTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLTX'yi Python aracılığıyla DOTX'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden XLTX'den DOTX'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="XLTX'yi Python aracılığıyla DOTX'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden XLTX'den DOTX'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

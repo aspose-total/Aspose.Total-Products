@@ -1,6 +1,6 @@
 ---
-title: Python を使用して DIF を DOTM に変換する
-description: Microsoft Office を使用しない Python アプリケーションでの DIF から DOTM への変換 
+title: Python を使用して DIF を DOTM に変換する または無料のオンライン コンバーターを使用
+description: Microsoft Office を使用しない Python アプリケーションでの DIF から DOTM への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でDIFをDOTMに変換" h2="Microsoft Excel<sup>&reg;</sup> または Word をインストールせずに、Python アプリケーションで DIF から DOTM への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でDIFをDOTMに変換 またはオンライン" h2="Microsoft Excel<sup>&reg;</sup> または Word をインストールせずに、Python アプリケーションで DIF から DOTM への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

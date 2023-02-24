@@ -1,6 +1,6 @@
 ---
-title: Converti SXC in DOTM usando Python
-description: Conversione da SXC a DOTM nelle tue applicazioni Python senza utilizzare Microsoft Office 
+title: Converti SXC in DOTM usando Python o con il convertitore online gratuito
+description: Conversione da SXC a DOTM nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti SXC in DOTM tramite Python" h2="Conversione da SXC a DOTM nelle tue applicazioni Python senza installare Microsoft Excel<sup>&reg;</sup> o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti SXC in DOTM tramite Python o in linea" h2="Conversione da SXC a DOTM nelle tue applicazioni Python senza installare Microsoft Excel<sup>&reg;</sup> o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: แปลง SXC เป็น DOT โดยใช้ Python
-description: การแปลง SXC เป็น DOT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office 
+title: แปลง SXC เป็น DOT โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง SXC เป็น DOT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง SXC เป็น DOT ผ่าน Python" h2="การแปลง SXC เป็น DOT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง SXC เป็น DOT ผ่าน Python หรือทางออนไลน์" h2="การแปลง SXC เป็น DOT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

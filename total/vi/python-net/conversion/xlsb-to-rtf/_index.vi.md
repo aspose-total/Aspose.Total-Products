@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi XLSB sang RTF bằng Python
-description: Chuyển đổi XLSB sang RTF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office 
+title: Chuyển đổi XLSB sang RTF bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi XLSB sang RTF trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi XLSB sang RTF qua Python" h2="Chuyển đổi XLSB sang RTF trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Excel<sup>&reg;</sup> hoặc Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi XLSB sang RTF qua Python hoặc trực tuyến" h2="Chuyển đổi XLSB sang RTF trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Excel<sup>&reg;</sup> hoặc Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

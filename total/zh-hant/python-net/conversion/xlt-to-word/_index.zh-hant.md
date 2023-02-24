@@ -1,6 +1,6 @@
 ---
-title: 使用 Python 將 XLT 轉換為 WORD
-description: 在不使用 Microsoft Office 的情況下在 Python 應用程序中將 XLT 轉換為 WORD 
+title: 使用 Python 將 XLT 轉換為 WORD 或使用免費的在線轉換器
+description: 在不使用 Microsoft Office 的情況下在 Python 應用程序中將 XLT 轉換為 WORD 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Python 將 XLT 轉換為 WORD" h2="無需安裝 Microsoft Excel<sup>&reg;</sup> 或 Word，即可在 Python 應用程序中將 XLT 轉換為 WORD" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Python 將 XLT 轉換為 WORD 或在線" h2="無需安裝 Microsoft Excel<sup>&reg;</sup> 或 Word，即可在 Python 應用程序中將 XLT 轉換為 WORD" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

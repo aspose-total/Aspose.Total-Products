@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak CSV'yi DOC'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda CSV'den DOC'e dönüştürme 
+title: Python kullanarak CSV'yi DOC'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda CSV'den DOC'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="CSV'yi Python aracılığıyla DOC'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden CSV'den DOC'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="CSV'yi Python aracılığıyla DOC'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden CSV'den DOC'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Converteer XLSM naar OTT met behulp van Python
-description: XLSM naar OTT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken 
+title: Converteer XLSM naar OTT met behulp van Python of met gratis Online Converter
+description: XLSM naar OTT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer XLSM naar OTT via Python" h2="XLSM naar OTT-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of Word te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer XLSM naar OTT via Python of online" h2="XLSM naar OTT-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of Word te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

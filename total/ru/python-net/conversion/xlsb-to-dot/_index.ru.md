@@ -1,6 +1,6 @@
 ---
-title: Преобразование XLSB в DOT с помощью Python
-description: Преобразование XLSB в DOT в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование XLSB в DOT с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLSB в DOT в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование XLSB в DOT через Python" h2="Преобразование XLSB в DOT в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование XLSB в DOT через Python или онлайн" h2="Преобразование XLSB в DOT в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

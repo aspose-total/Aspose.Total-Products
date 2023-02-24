@@ -1,6 +1,6 @@
 ---
-title: Konvertera XLAM till DOC med Python
-description: XLAM till DOC-konvertering i dina Python-applikationer utan att använda Microsoft Office 
+title: Konvertera XLAM till DOC med Python eller med gratis Online Converter
+description: XLAM till DOC-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera XLAM till DOC via Python" h2="XLAM till DOC-konvertering i dina Python-applikationer utan att installera Microsoft Excel<sup>&reg;</sup> eller Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera XLAM till DOC via Python eller online" h2="XLAM till DOC-konvertering i dina Python-applikationer utan att installera Microsoft Excel<sup>&reg;</sup> eller Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLSX na WORDML za pomocą Pythona
-description: Konwersja XLSX na WORDML w aplikacjach Pythona bez użycia pakietu Microsoft Office 
+title: Konwertuj XLSX na WORDML za pomocą Pythona lub online lub za pomocą bezpłatnego konwertera online
+description: Konwersja XLSX na WORDML w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSX na WORDML za pomocą Pythona" h2="Konwersja XLSX na WORDML w aplikacjach Pythona bez instalowania programu Microsoft Excel<sup>&reg;</sup> lub programu Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj XLSX na WORDML za pomocą Pythona lub online" h2="Konwersja XLSX na WORDML w aplikacjach Pythona bez instalowania programu Microsoft Excel<sup>&reg;</sup> lub programu Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

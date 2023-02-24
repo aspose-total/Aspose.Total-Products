@@ -1,6 +1,6 @@
 ---
-title: Converteer EXCEL naar DOTM met behulp van Python
-description: EXCEL naar DOTM-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken 
+title: Converteer EXCEL naar DOTM met behulp van Python of met gratis Online Converter
+description: EXCEL naar DOTM-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer EXCEL naar DOTM via Python" h2="EXCEL naar DOTM-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of Word te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer EXCEL naar DOTM via Python of online" h2="EXCEL naar DOTM-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of Word te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

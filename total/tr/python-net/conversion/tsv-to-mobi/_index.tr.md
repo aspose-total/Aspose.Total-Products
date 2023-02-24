@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak TSV'yi MOBI'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda TSV'den MOBI'e dönüştürme 
+title: Python kullanarak TSV'yi MOBI'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda TSV'den MOBI'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="TSV'yi Python aracılığıyla MOBI'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden TSV'den MOBI'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="TSV'yi Python aracılığıyla MOBI'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden TSV'den MOBI'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak FODS'yi OTT'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda FODS'den OTT'e dönüştürme 
+title: Python kullanarak FODS'yi OTT'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda FODS'den OTT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="FODS'yi Python aracılığıyla OTT'e dönüştürün" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden FODS'den OTT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="FODS'yi Python aracılığıyla OTT'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden FODS'den OTT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

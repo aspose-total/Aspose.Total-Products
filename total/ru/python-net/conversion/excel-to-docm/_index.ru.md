@@ -1,6 +1,6 @@
 ---
-title: Преобразование EXCEL в DOCM с помощью Python
-description: Преобразование EXCEL в DOCM в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование EXCEL в DOCM с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование EXCEL в DOCM в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование EXCEL в DOCM через Python" h2="Преобразование EXCEL в DOCM в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование EXCEL в DOCM через Python или онлайн" h2="Преобразование EXCEL в DOCM в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
