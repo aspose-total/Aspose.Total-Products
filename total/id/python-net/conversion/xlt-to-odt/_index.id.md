@@ -1,6 +1,6 @@
 ---
-title: Konversikan XLT ke ODT menggunakan Python
-description: Konversi XLT ke ODT di aplikasi Python Anda tanpa menggunakan Microsoft Office 
+title: Konversikan XLT ke ODT menggunakan Python atau dengan Konverter Online gratis
+description: Konversi XLT ke ODT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan XLT ke ODT melalui Python" h2="Konversi XLT ke ODT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan XLT ke ODT melalui Python atau daring" h2="Konversi XLT ke ODT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

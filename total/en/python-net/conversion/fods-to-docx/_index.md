@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to DOCX using Python
-description: FODS to DOCX conversion in your Python applications without using Microsoft Office 
+title: Convert FODS to DOCX using Python or with free Online Converter
+description: FODS to DOCX conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert FODS to DOCX via Python" h2="FODS to DOCX conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert FODS to DOCX via Python or online" h2="FODS to DOCX conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

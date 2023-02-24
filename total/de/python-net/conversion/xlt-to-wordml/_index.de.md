@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLT mit Python in WORDML
-description: Konvertierung von XLT in WORDML in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office 
+title: Konvertieren Sie XLT mit Python in WORDML oder mit dem kostenlosen Online Converter
+description: Konvertierung von XLT in WORDML in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLT über Python in WORDML" h2="Konvertierung von XLT in WORDML in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLT über Python in WORDML oder online" h2="Konvertierung von XLT in WORDML in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

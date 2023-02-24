@@ -1,6 +1,6 @@
 ---
-title: Konversikan XLTM ke RTF menggunakan Python
-description: Konversi XLTM ke RTF di aplikasi Python Anda tanpa menggunakan Microsoft Office 
+title: Konversikan XLTM ke RTF menggunakan Python atau dengan Konverter Online gratis
+description: Konversi XLTM ke RTF di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan XLTM ke RTF melalui Python" h2="Konversi XLTM ke RTF di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan XLTM ke RTF melalui Python atau daring" h2="Konversi XLTM ke RTF di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

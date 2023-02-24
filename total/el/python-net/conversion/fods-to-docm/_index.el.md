@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή FODS σε DOCM χρησιμοποιώντας Python
-description: Μετατροπή FODS σε DOCM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office 
+title: Μετατροπή FODS σε DOCM χρησιμοποιώντας Python ή με δωρεάν Online Converter
+description: Μετατροπή FODS σε DOCM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή FODS σε DOCM μέσω Python" h2="Μετατροπή FODS σε DOCM στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή FODS σε DOCM μέσω Python ή διαδικτυακά" h2="Μετατροπή FODS σε DOCM στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

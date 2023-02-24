@@ -1,6 +1,6 @@
 ---
-title: تحويل XLTM إلى DOT باستخدام Python
-description: تحويل XLTM إلى DOT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office 
+title: تحويل XLTM إلى DOT باستخدام Python أو مع محول مجاني على الإنترنت
+description: تحويل XLTM إلى DOT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل XLTM إلى DOT عبر Python" h2="تحويل XLTM إلى DOT في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل XLTM إلى DOT عبر Python أو عبر الإنترنت" h2="تحويل XLTM إلى DOT في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

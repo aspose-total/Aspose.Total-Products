@@ -1,6 +1,6 @@
 ---
-title: تحويل ODS إلى ODT باستخدام Python
-description: تحويل ODS إلى ODT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office 
+title: تحويل ODS إلى ODT باستخدام Python أو مع محول مجاني على الإنترنت
+description: تحويل ODS إلى ODT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ODS إلى ODT عبر Python" h2="تحويل ODS إلى ODT في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ODS إلى ODT عبر Python أو عبر الإنترنت" h2="تحويل ODS إلى ODT في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

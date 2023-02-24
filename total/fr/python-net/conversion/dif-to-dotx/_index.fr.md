@@ -1,6 +1,6 @@
 ---
-title: Convertir DIF en DOTX en utilisant Python
-description: Conversion DIF en DOTX dans vos applications Python sans utiliser Microsoft Office 
+title: Convertir DIF en DOTX en utilisant Python ou avec le convertisseur en ligne gratuit
+description: Conversion DIF en DOTX dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DIF en DOTX via Python" h2="Conversion DIF en DOTX dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DIF en DOTX via Python ou en ligne" h2="Conversion DIF en DOTX dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

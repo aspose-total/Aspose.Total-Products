@@ -1,6 +1,6 @@
 ---
-title: تحويل XLTX إلى DOCM باستخدام Python
-description: تحويل XLTX إلى DOCM في تطبيقات Python الخاصة بك دون استخدام Microsoft Office 
+title: تحويل XLTX إلى DOCM باستخدام Python أو مع محول مجاني على الإنترنت
+description: تحويل XLTX إلى DOCM في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل XLTX إلى DOCM عبر Python" h2="تحويل XLTX إلى DOCM في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل XLTX إلى DOCM عبر Python أو عبر الإنترنت" h2="تحويل XLTX إلى DOCM في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

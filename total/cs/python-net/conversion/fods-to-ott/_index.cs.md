@@ -1,6 +1,6 @@
 ---
-title: Převeďte FODS na OTT pomocí Pythonu
-description: Převod FODS na OTT ve vašich aplikacích Python bez použití Microsoft Office 
+title: Převeďte FODS na OTT pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod FODS na OTT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést FODS na OTT pomocí Pythonu" h2="Převod FODS na OTT ve vašich aplikacích Python bez instalace Microsoft Excel<sup>&reg;</sup> nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést FODS na OTT pomocí Pythonu nebo online" h2="Převod FODS na OTT ve vašich aplikacích Python bez instalace Microsoft Excel<sup>&reg;</sup> nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

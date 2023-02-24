@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to OTT using Python
-description: XLT to OTT conversion in your Python applications without using Microsoft Office 
+title: Convert XLT to OTT using Python or with free Online Converter
+description: XLT to OTT conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert XLT to OTT via Python" h2="XLT to OTT conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert XLT to OTT via Python or online" h2="XLT to OTT conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

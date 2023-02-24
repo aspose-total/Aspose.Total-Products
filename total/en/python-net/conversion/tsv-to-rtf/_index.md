@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to RTF using Python
-description: TSV to RTF conversion in your Python applications without using Microsoft Office 
+title: Convert TSV to RTF using Python or with free Online Converter
+description: TSV to RTF conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert TSV to RTF via Python" h2="TSV to RTF conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert TSV to RTF via Python or online" h2="TSV to RTF conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

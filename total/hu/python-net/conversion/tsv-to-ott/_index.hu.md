@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a TSV-t OTT-be Python segítségével
-description: TSV-ből OTT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül 
+title: Konvertálja a TSV-t OTT-be Python segítségével vagy online vagy ingyenes online konverterrel
+description: TSV-ből OTT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a TSV-t OTT-be Python segítségével" h2="TSV-ből OTT-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a Word telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a TSV-t OTT-be Python segítségével vagy online" h2="TSV-ből OTT-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a Word telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

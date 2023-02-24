@@ -1,6 +1,6 @@
 ---
-title: Convert DIF to MOBI using Python
-description: DIF to MOBI conversion in your Python applications without using Microsoft Office 
+title: Convert DIF to MOBI using Python or with free Online Converter
+description: DIF to MOBI conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DIF to MOBI via Python" h2="DIF to MOBI conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DIF to MOBI via Python or online" h2="DIF to MOBI conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
