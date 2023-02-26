@@ -1,6 +1,6 @@
 ---
-title: Android API a DOT konvertálásához FODS-vé
-description: Konvertálja a DOT-t FODS-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+title: Android API a DOT konvertálásához FODS-vé vagy ingyenes online konverterrel
+description: Konvertálja a DOT-t FODS-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLS EXCEL XLSX XLTX XLTM DIF CSV XLSB XLAM SXC XLSM XLT TSV ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A DOT konvertálása FODS formátumba az Android alkalmazásokban" h2="DOT exportálása FODS formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="A DOT konvertálása FODS formátumba az Android alkalmazásokban vagy online" h2="DOT exportálása FODS formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) használatával integrálhatja a DOT-FODS-konverziós funkciót androidos alkalmazásaiba. Először is konvertálhatja a DOT-t HTML-vé a funkciókban gazdag dokumentumkezelési és -konverziós API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) használatával. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t FODS-vé. 

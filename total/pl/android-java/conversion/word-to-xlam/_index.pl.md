@@ -1,6 +1,6 @@
 ---
-title: Android API do konwersji WORD na XLAM
-description: Konwertuj WORD na XLAM w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel
+title: Android API do konwersji WORD na XLAM lub za pomocą bezpłatnego konwertera online
+description: Konwertuj WORD na XLAM w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSB FODS SXC XLT XLS DIF TSV CSV XLTM XLSM XLSX EXCEL XLTX ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj WORD na XLAM w aplikacjach na Androida" h2="Eksportuj WORD do XLAM w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj WORD na XLAM w aplikacjach na Androida lub online" h2="Eksportuj WORD do XLAM w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) możesz zintegrować funkcję konwersji WORD na XLAM w swoich aplikacjach na Androida. Po pierwsze, możesz przekonwertować WORD na HTML, korzystając z bogatego w funkcje interfejsu API do manipulacji dokumentami i konwersji [Aspose.Words na Androida przez Javę](https://products.aspose.com/words/android-java/). Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLAM. 

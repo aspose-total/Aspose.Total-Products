@@ -1,6 +1,6 @@
 ---
-title: Android API untuk Mengonversi ODT ke ODS
-description: Konversi ODT ke ODS di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Android API untuk Mengonversi ODT ke ODS atau dengan Konverter Online gratis
+description: Konversi ODT ke ODS di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: FODS XLAM XLSX XLSB XLT XLTM XLTX EXCEL XLS CSV DIF SXC XLSM TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi ODT ke ODS di Aplikasi Android" h2="Ekspor ODT ke ODS di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi ODT ke ODS di Aplikasi Android atau daring" h2="Ekspor ODT ke ODS di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi ODT ke ODS di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi ODT ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke ODS. 

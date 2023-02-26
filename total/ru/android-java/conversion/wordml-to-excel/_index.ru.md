@@ -1,6 +1,6 @@
 ---
-title: Android API для преобразования WORDML в EXCEL
-description: Преобразование WORDML в EXCEL в Android через Java без использования Microsoft Word или Microsoft Excel
+title: Android API для преобразования WORDML в EXCEL или с помощью бесплатного онлайн-конвертера
+description: Преобразование WORDML в EXCEL в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: TSV XLS XLTX FODS XLTM XLSX CSV DIF SXC XLAM ODS XLSM XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование WORDML в EXCEL в приложениях для Android" h2="Экспорт WORDML в EXCEL на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование WORDML в EXCEL в приложениях для Android или онлайн" h2="Экспорт WORDML в EXCEL на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования WORDML в EXCEL в свои приложения для Android. Во-первых, вы можете конвертировать WORDML в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в EXCEL. 

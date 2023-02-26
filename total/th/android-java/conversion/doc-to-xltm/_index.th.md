@@ -1,6 +1,6 @@
 ---
-title: Android API เพื่อแปลง DOC เป็น XLTM
-description: แปลง DOC เป็น XLTM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+title: Android API เพื่อแปลง DOC เป็น XLTM หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง DOC เป็น XLTM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLT FODS TSV ODS SXC EXCEL XLSB DIF CSV XLS XLTX XLAM XLSX XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DOC เป็น XLTM ในแอปพลิเคชัน Android" h2="ส่งออก DOC เป็น XLTM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DOC เป็น XLTM ในแอปพลิเคชัน Android หรือทางออนไลน์" h2="ส่งออก DOC เป็น XLTM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง DOC เป็น XLTM ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง DOC เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น XLTM ได้ 

@@ -1,6 +1,6 @@
 ---
-title: DOTM'yi CSV'ye Dönüştürmek için Android API
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOTM'yi CSV'ye dönüştürün
+title: DOTM'yi CSV'ye Dönüştürmek için Android API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOTM'yi CSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: EXCEL XLTM FODS XLTX DIF XLSM SXC XLAM ODS XLSX XLS XLT XLSB TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTM'yi CSV'ye Dönüştür" h2="DOTM'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de CSV'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTM'yi CSV'ye Dönüştür veya çevrimiçi" h2="DOTM'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de CSV'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda DOTM'den CSV'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak DOTM'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi CSV'ye dönüştürebilirsiniz. 

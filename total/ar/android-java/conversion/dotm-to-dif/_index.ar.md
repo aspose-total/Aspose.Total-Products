@@ -1,6 +1,6 @@
 ---
-title: Android API لتحويل DOTM إلى DIF
-description: قم بتحويل DOTM إلى DIF في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel
+title: Android API لتحويل DOTM إلى DIF أو مع محول مجاني على الإنترنت
+description: قم بتحويل DOTM إلى DIF في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLAM FODS XLT ODS CSV XLTM EXCEL XLSX SXC XLSM XLSB XLTX XLS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOTM إلى DIF في تطبيقات Android" h2="تصدير DOTM إلى DIF في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOTM إلى DIF في تطبيقات Android أو عبر الإنترنت" h2="تصدير DOTM إلى DIF في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل DOTM إلى DIF داخل تطبيقات Android. أولاً ، يمكنك تحويل DOTM إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى DIF. 

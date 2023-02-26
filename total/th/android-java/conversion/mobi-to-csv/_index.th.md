@@ -1,6 +1,6 @@
 ---
-title: Android API เพื่อแปลง MOBI เป็น CSV
-description: แปลง MOBI เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+title: Android API เพื่อแปลง MOBI เป็น CSV หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง MOBI เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLAM XLSX SXC XLTM XLTX XLSB TSV FODS XLSM XLT EXCEL DIF ODS XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง MOBI เป็น CSV ในแอปพลิเคชัน Android" h2="ส่งออก MOBI เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง MOBI เป็น CSV ในแอปพลิเคชัน Android หรือทางออนไลน์" h2="ส่งออก MOBI เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง MOBI เป็น CSV ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง MOBI เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น CSV ได้ 

@@ -1,6 +1,6 @@
 ---
-title: Android API om DOTM naar SXC te converteren
-description: Converteer DOTM naar SXC in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Android API om DOTM naar SXC te converteren of met gratis Online Converter
+description: Converteer DOTM naar SXC in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLSB XLSX DIF TSV XLAM XLT CSV ODS FODS XLSM EXCEL XLTX XLTM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOTM naar SXC in Android-applicaties" h2="Exporteer DOTM naar SXC in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOTM naar SXC in Android-applicaties of online" h2="Exporteer DOTM naar SXC in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOTM-naar-SXC-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOTM naar HTML converteren door gebruik te maken van de veelzijdige, dotmumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar SXC converteren. 

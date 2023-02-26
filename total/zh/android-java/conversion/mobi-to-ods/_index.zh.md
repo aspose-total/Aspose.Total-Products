@@ -1,6 +1,6 @@
 ---
-title: Android API 将 MOBI 转换为 ODS
-description: 在不使用 Microsoft Word 或 Microsoft Excel 的情况下，通过 Java 在 Android 中将 MOBI 转换为 ODS
+title: Android API 将 MOBI 转换为 ODS 或使用免费的在线转换器
+description: 在不使用 Microsoft Word 或 Microsoft Excel 的情况下，通过 Java 在 Android 中将 MOBI 转换为 ODS 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLS CSV XLSM XLSB XLTX XLAM XLTM EXCEL XLT FODS XLSX SXC DIF TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在 Android 应用程序中将 MOBI 转换为 ODS" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情况下，通过 Java 在 Android 中将 MOBI 导出为 ODS" >}}
+{{< blocks/products/pf/feature-page-header h1="在 Android 应用程序中将 MOBI 转换为 ODS 或在线" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情况下，通过 Java 在 Android 中将 MOBI 导出为 ODS" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通过使用 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)，您可以在您的 android 应用程序中集成 MOBI 到 ODS 转换功能。首先，您可以使用功能丰富的文档操作和转换 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)将 MOBI 转换为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)，您可以将 HTML 转换为 ODS。 

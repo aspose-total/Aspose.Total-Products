@@ -1,6 +1,6 @@
 ---
-title: API Android per convertire DOC in XLT
-description: Converti DOC in XLT in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+title: API Android per convertire DOC in XLT o con il convertitore online gratuito
+description: Converti DOC in XLT in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: CSV EXCEL XLAM TSV SXC XLSX FODS XLTM XLS XLSM XLTX XLSB DIF ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOC in XLT nelle applicazioni Android" h2="Esporta DOC in XLT in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOC in XLT nelle applicazioni Android o in linea" h2="Esporta DOC in XLT in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da DOC a XLT all'interno delle tue applicazioni Android. In primo luogo, puoi convertire DOC in HTML utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in XLT. 

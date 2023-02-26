@@ -1,6 +1,6 @@
 ---
-title: RTF를 XLSB로 변환하는 Android API
-description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 Android에서 RTF를 XLSB로 변환
+title: RTF를 XLSB로 변환하는 Android API 또는 무료 온라인 변환기 사용
+description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 Android에서 RTF를 XLSB로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: DIF XLS XLT XLSM XLTX TSV XLAM EXCEL CSV SXC ODS XLSX FODS XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android 애플리케이션에서 RTF를 XLSB로 변환" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 Java를 통해 Android에서 RTF를 XLSB로 내보내기" >}}
+{{< blocks/products/pf/feature-page-header h1="Android 애플리케이션에서 RTF를 XLSB로 변환 또는 온라인" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 Java를 통해 Android에서 RTF를 XLSB로 내보내기" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 사용하여 Android 애플리케이션 내에서 RTF를 XLSB로 변환 기능을 통합할 수 있습니다. 첫째, 기능이 풍부한 문서 조작 및 변환 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)를 사용하여 RTF를 HTML로 변환할 수 있습니다. 이후 [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)를 사용하여 HTML을 XLSB로 변환할 수 있습니다. 

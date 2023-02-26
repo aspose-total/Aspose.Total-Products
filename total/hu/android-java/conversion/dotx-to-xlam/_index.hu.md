@@ -1,6 +1,6 @@
 ---
-title: Android API a DOTX konvertálásához XLAM-vé
-description: Konvertálja a DOTX-t XLAM-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+title: Android API a DOTX konvertálásához XLAM-vé vagy ingyenes online konverterrel
+description: Konvertálja a DOTX-t XLAM-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: ODS DIF EXCEL XLSM XLSB XLS TSV XLSX FODS XLTX XLT XLTM SXC CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A DOTX konvertálása XLAM formátumba az Android alkalmazásokban" h2="DOTX exportálása XLAM formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="A DOTX konvertálása XLAM formátumba az Android alkalmazásokban vagy online" h2="DOTX exportálása XLAM formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) használatával integrálhatja a DOTX-XLAM-konverziós funkciót androidos alkalmazásaiba. Először is konvertálhatja a DOTX-t HTML-vé a funkciókban gazdag dokumentumkezelési és -konverziós API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) használatával. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLAM-vé. 

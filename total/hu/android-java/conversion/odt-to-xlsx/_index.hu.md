@@ -1,6 +1,6 @@
 ---
-title: Android API a ODT konvertálásához XLSX-vé
-description: Konvertálja a ODT-t XLSX-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+title: Android API a ODT konvertálásához XLSX-vé vagy ingyenes online konverterrel
+description: Konvertálja a ODT-t XLSX-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLAM XLS XLTX ODS DIF FODS XLSM XLTM CSV XLSB EXCEL SXC XLT TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A ODT konvertálása XLSX formátumba az Android alkalmazásokban" h2="ODT exportálása XLSX formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="A ODT konvertálása XLSX formátumba az Android alkalmazásokban vagy online" h2="ODT exportálása XLSX formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) használatával integrálhatja a ODT-XLSX-konverziós funkciót androidos alkalmazásaiba. Először is konvertálhatja a ODT-t HTML-vé a funkciókban gazdag dokumentumkezelési és -konverziós API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) használatával. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLSX-vé. 

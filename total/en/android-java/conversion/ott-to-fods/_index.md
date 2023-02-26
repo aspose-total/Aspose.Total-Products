@@ -1,6 +1,6 @@
 ---
 title: Android API to Convert OTT to FODS
-description: Convert OTT to FODS in Android via Java without using using Microsoft Word or Microsoft Excel
+description: Convert OTT to FODS in Android via Java without using using Microsoft Word or Microsoft Excel or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/ott-to-fods/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLT XLSM DIF ODS SXC TSV XLS EXCEL XLTX XLTM XLAM XLSX CSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert OTT to FODS in Android Applications" h2="Export OTT to FODS in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert OTT to FODS in Android Applications or online" h2="Export OTT to FODS in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate OTT to FODS conversion feature inside your android applications. Firstly, you can convert OTT to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to FODS.

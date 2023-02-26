@@ -1,6 +1,6 @@
 ---
-title: API Android per convertire DOCX in XLSX
-description: Converti DOCX in XLSX in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+title: API Android per convertire DOCX in XLSX o con il convertitore online gratuito
+description: Converti DOCX in XLSX in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLAM XLSB TSV XLT XLTM DIF XLTX FODS ODS EXCEL CSV XLS XLSM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOCX in XLSX nelle applicazioni Android" h2="Esporta DOCX in XLSX in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOCX in XLSX nelle applicazioni Android o in linea" h2="Esporta DOCX in XLSX in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da DOCX a XLSX all'interno delle tue applicazioni Android. In primo luogo, puoi convertire DOCX in HTML utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in XLSX. 

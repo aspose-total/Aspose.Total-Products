@@ -1,6 +1,6 @@
 ---
-title: Android API для преобразования ODT в TSV
-description: Преобразование ODT в TSV в Android через Java без использования Microsoft Word или Microsoft Excel
+title: Android API для преобразования ODT в TSV или с помощью бесплатного онлайн-конвертера
+description: Преобразование ODT в TSV в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTM SXC XLSX DIF XLAM ODS EXCEL XLSB FODS CSV XLTX XLSM XLT XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование ODT в TSV в приложениях для Android" h2="Экспорт ODT в TSV на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование ODT в TSV в приложениях для Android или онлайн" h2="Экспорт ODT в TSV на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования ODT в TSV в свои приложения для Android. Во-первых, вы можете конвертировать ODT в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в TSV. 

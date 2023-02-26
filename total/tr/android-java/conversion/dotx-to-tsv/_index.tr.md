@@ -1,6 +1,6 @@
 ---
-title: DOTX'yi TSV'ye Dönüştürmek için Android API
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOTX'yi TSV'ye dönüştürün
+title: DOTX'yi TSV'ye Dönüştürmek için Android API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOTX'yi TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: EXCEL XLTX SXC DIF FODS XLSX XLAM XLSB XLSM ODS XLT CSV XLS XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTX'yi TSV'ye Dönüştür" h2="DOTX'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de TSV'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTX'yi TSV'ye Dönüştür veya çevrimiçi" h2="DOTX'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de TSV'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda DOTX'den TSV'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak DOTX'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi TSV'ye dönüştürebilirsiniz. 

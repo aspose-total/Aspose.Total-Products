@@ -1,6 +1,6 @@
 ---
-title: Android API untuk Mengonversi WORDML ke XLT
-description: Konversi WORDML ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Android API untuk Mengonversi WORDML ke XLT atau dengan Konverter Online gratis
+description: Konversi WORDML ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF ODS CSV XLSB XLSX TSV XLSM FODS EXCEL XLTM XLTX SXC XLAM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke XLT di Aplikasi Android" h2="Ekspor WORDML ke XLT di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke XLT di Aplikasi Android atau daring" h2="Ekspor WORDML ke XLT di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi WORDML ke XLT di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi WORDML ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLT. 

@@ -1,6 +1,6 @@
 ---
-title: Android API для преобразования DOTX в XLTX
-description: Преобразование DOTX в XLTX в Android через Java без использования Microsoft Word или Microsoft Excel
+title: Android API для преобразования DOTX в XLTX или с помощью бесплатного онлайн-конвертера
+description: Преобразование DOTX в XLTX в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLSX DIF XLTM TSV XLAM EXCEL CSV XLSM SXC ODS FODS XLT XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOTX в XLTX в приложениях для Android" h2="Экспорт DOTX в XLTX на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOTX в XLTX в приложениях для Android или онлайн" h2="Экспорт DOTX в XLTX на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования DOTX в XLTX в свои приложения для Android. Во-первых, вы можете конвертировать DOTX в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в XLTX. 

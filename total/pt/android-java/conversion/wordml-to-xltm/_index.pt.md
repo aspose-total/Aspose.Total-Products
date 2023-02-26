@@ -1,6 +1,6 @@
 ---
-title: API Android para converter WORDML para XLTM
-description: Converta WORDML para XLTM no Android via Java sem usar o Microsoft Word ou o Microsoft Excel
+title: API Android para converter WORDML para XLTM ou com o conversor online gratuito
+description: Converta WORDML para XLTM no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSB FODS XLAM XLS XLT DIF XLSX XLSM XLTX TSV EXCEL ODS CSV SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter WORDML para XLTM em aplicativos Android" h2="Exporte WORDML para XLTM no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter WORDML para XLTM em aplicativos Android ou online" h2="Exporte WORDML para XLTM no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de WORDML para XLTM dentro de seus aplicativos Android. Em primeiro lugar, você pode converter WORDML para HTML usando a API de conversão e manipulação de wordmlumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLTM. 

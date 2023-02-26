@@ -1,6 +1,6 @@
 ---
-title: Android API do konwersji OTT na EXCEL
-description: Konwertuj OTT na EXCEL w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel
+title: Android API do konwersji OTT na EXCEL lub za pomocą bezpłatnego konwertera online
+description: Konwertuj OTT na EXCEL w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLAM FODS XLSX XLSB XLTM TSV XLTX ODS XLS SXC XLT DIF XLSM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj OTT na EXCEL w aplikacjach na Androida" h2="Eksportuj OTT do EXCEL w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj OTT na EXCEL w aplikacjach na Androida lub online" h2="Eksportuj OTT do EXCEL w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) możesz zintegrować funkcję konwersji OTT na EXCEL w swoich aplikacjach na Androida. Po pierwsze, możesz przekonwertować OTT na HTML, korzystając z bogatego w funkcje interfejsu API do manipulacji dokumentami i konwersji [Aspose.Words na Androida przez Javę](https://products.aspose.com/words/android-java/). Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na EXCEL. 

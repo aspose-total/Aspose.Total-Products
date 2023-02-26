@@ -1,6 +1,6 @@
 ---
-title: Android API om DOCM naar EXCEL te converteren
-description: Converteer DOCM naar EXCEL in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Android API om DOCM naar EXCEL te converteren of met gratis Online Converter
+description: Converteer DOCM naar EXCEL in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSM XLT CSV XLSX XLTM DIF XLTX XLAM XLSB ODS FODS XLS SXC TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOCM naar EXCEL in Android-applicaties" h2="Exporteer DOCM naar EXCEL in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOCM naar EXCEL in Android-applicaties of online" h2="Exporteer DOCM naar EXCEL in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOCM-naar-EXCEL-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOCM naar HTML converteren door gebruik te maken van de veelzijdige, docmumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar EXCEL converteren. 

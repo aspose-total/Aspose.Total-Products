@@ -1,6 +1,6 @@
 ---
-title: API Android per convertire OTT in XLSB
-description: Converti OTT in XLSB in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+title: API Android per convertire OTT in XLSB o con il convertitore online gratuito
+description: Converti OTT in XLSB in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: ODS SXC TSV DIF XLSM XLSX FODS XLS XLTM EXCEL XLTX CSV XLAM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti OTT in XLSB nelle applicazioni Android" h2="Esporta OTT in XLSB in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti OTT in XLSB nelle applicazioni Android o in linea" h2="Esporta OTT in XLSB in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da OTT a XLSB all'interno delle tue applicazioni Android. In primo luogo, puoi convertire OTT in HTML utilizzando l'API di conversione e manipolazione dei ottumenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in XLSB. 

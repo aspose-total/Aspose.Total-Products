@@ -1,6 +1,6 @@
 ---
-title: Android API a WORDML konvertálásához XLT-vé
-description: Konvertálja a WORDML-t XLT-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+title: Android API a WORDML konvertálásához XLT-vé vagy ingyenes online konverterrel
+description: Konvertálja a WORDML-t XLT-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF ODS CSV XLSB XLSX TSV XLSM FODS EXCEL XLTM XLTX SXC XLAM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A WORDML konvertálása XLT formátumba az Android alkalmazásokban" h2="WORDML exportálása XLT formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="A WORDML konvertálása XLT formátumba az Android alkalmazásokban vagy online" h2="WORDML exportálása XLT formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) használatával integrálhatja a WORDML-XLT-konverziós funkciót androidos alkalmazásaiba. Először is konvertálhatja a WORDML-t HTML-vé a funkciókban gazdag dokumentumkezelési és -konverziós API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) használatával. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLT-vé. 

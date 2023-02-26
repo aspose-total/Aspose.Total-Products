@@ -1,6 +1,6 @@
 ---
-title: API Android per convertire DOC in EXCEL
-description: Converti DOC in EXCEL in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+title: API Android per convertire DOC in EXCEL o con il convertitore online gratuito
+description: Converti DOC in EXCEL in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSM XLS SXC XLTX XLSB TSV DIF XLAM ODS FODS XLT XLTM XLSX CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOC in EXCEL nelle applicazioni Android" h2="Esporta DOC in EXCEL in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOC in EXCEL nelle applicazioni Android o in linea" h2="Esporta DOC in EXCEL in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da DOC a EXCEL all'interno delle tue applicazioni Android. In primo luogo, puoi convertire DOC in HTML utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in EXCEL. 

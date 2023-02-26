@@ -1,6 +1,6 @@
 ---
-title: Android API för att konvertera WORD till XLT
-description: Konvertera WORD till XLT i Android via Java utan att använda Microsoft Word eller Microsoft Excel
+title: Android API för att konvertera WORD till XLT eller med gratis Online Converter
+description: Konvertera WORD till XLT i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLSX XLAM CSV EXCEL TSV FODS DIF SXC XLTX ODS XLSM XLS XLTM XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera WORD till XLT i Android-applikationer" h2="Exportera WORD till XLT i Android via Java utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera WORD till XLT i Android-applikationer eller online" h2="Exportera WORD till XLT i Android via Java utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) kan du integrera WORD till XLT-konverteringsfunktionen i dina Android-applikationer. För det första kan du konvertera WORD till HTML genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till XLT. 

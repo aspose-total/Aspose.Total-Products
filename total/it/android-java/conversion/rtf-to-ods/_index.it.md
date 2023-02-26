@@ -1,6 +1,6 @@
 ---
-title: API Android per convertire RTF in ODS
-description: Converti RTF in ODS in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+title: API Android per convertire RTF in ODS o con il convertitore online gratuito
+description: Converti RTF in ODS in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: CSV XLSX XLSB DIF FODS TSV XLAM XLTM SXC XLTX EXCEL XLS XLT XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti RTF in ODS nelle applicazioni Android" h2="Esporta RTF in ODS in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti RTF in ODS nelle applicazioni Android o in linea" h2="Esporta RTF in ODS in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da RTF a ODS all'interno delle tue applicazioni Android. In primo luogo, puoi convertire RTF in HTML utilizzando l'API di conversione e manipolazione dei rtfumenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in ODS. 

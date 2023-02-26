@@ -1,6 +1,6 @@
 ---
-title: Android API 將 ODT 轉換為 XLSB
-description: 在不使用 Microsoft Word 或 Microsoft Excel 的情況下，通過 Java 在 Android 中將 ODT 轉換為 XLSB
+title: Android API 將 ODT 轉換為 XLSB 或使用免費的在線轉換器
+description: 在不使用 Microsoft Word 或 Microsoft Excel 的情況下，通過 Java 在 Android 中將 ODT 轉換為 XLSB 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC ODS TSV CSV EXCEL XLAM XLT FODS XLSM XLTX DIF XLSX XLTM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在 Android 應用程序中將 ODT 轉換為 XLSB" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情況下，通過 Java 在 Android 中將 ODT 導出為 XLSB" >}}
+{{< blocks/products/pf/feature-page-header h1="在 Android 應用程序中將 ODT 轉換為 XLSB 或在線" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情況下，通過 Java 在 Android 中將 ODT 導出為 XLSB" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通過使用 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)，您可以在您的 android 應用程序中集成 ODT 到 XLSB 轉換功能。首先，您可以使用功能豐富的文檔操作和轉換 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)將 ODT 轉換為 HTML。之後，通過使用 [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)，您可以將 HTML 轉換為 XLSB。 

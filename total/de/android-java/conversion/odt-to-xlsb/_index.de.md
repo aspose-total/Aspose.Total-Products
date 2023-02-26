@@ -1,6 +1,6 @@
 ---
-title: Android-API zum Konvertieren von ODT in XLSB
-description: Konvertieren Sie ODT in XLSB in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden
+title: Android-API zum Konvertieren von ODT in XLSB oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie ODT in XLSB in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC ODS TSV CSV EXCEL XLAM XLT FODS XLSM XLTX DIF XLSX XLTM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODT in XLSB in Android-Anwendungen" h2="Exportieren Sie ODT in Android über Java in XLSB, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODT in XLSB in Android-Anwendungen oder online" h2="Exportieren Sie ODT in Android über Java in XLSB, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die ODT-zu-XLSB-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie ODT in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in XLSB konvertieren. 

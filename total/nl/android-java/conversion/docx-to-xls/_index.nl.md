@@ -1,6 +1,6 @@
 ---
-title: Android API om DOCX naar XLS te converteren
-description: Converteer DOCX naar XLS in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Android API om DOCX naar XLS te converteren of met gratis Online Converter
+description: Converteer DOCX naar XLS in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: EXCEL XLSM SXC XLT CSV ODS XLSX XLAM XLTX FODS XLSB DIF XLTM TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOCX naar XLS in Android-applicaties" h2="Exporteer DOCX naar XLS in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOCX naar XLS in Android-applicaties of online" h2="Exporteer DOCX naar XLS in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de DOCX-naar-XLS-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u DOCX naar HTML converteren door gebruik te maken van de veelzijdige, documentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar XLS converteren. 

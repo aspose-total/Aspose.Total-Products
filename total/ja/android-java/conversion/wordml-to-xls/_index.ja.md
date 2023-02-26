@@ -1,6 +1,6 @@
 ---
-title: WORDMLをXLSに変換するAndroidAPI
-description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでWORDMLをXLSに変換する
+title: WORDMLをXLSに変換するAndroidAPI または無料のオンライン コンバーターを使用
+description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでWORDMLをXLSに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: SXC TSV EXCEL XLAM XLTM XLSM FODS XLTX XLT DIF XLSB CSV ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでWORDMLをXLSに変換する" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのXLSにWORDMLをエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでWORDMLをXLSに変換する またはオンライン" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのXLSにWORDMLをエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でWORDMLからXLSへの変換機能を統合できます。まず、機能豊富なドキュメント操作および変換API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、WORDMLをHTMLに変換できます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)を使用して、HTMLをXLSに変換できます。 

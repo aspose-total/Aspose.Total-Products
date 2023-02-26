@@ -1,6 +1,6 @@
 ---
-title: Android API لتحويل DOCX إلى XLSM
-description: قم بتحويل DOCX إلى XLSM في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel
+title: Android API لتحويل DOCX إلى XLSM أو مع محول مجاني على الإنترنت
+description: قم بتحويل DOCX إلى XLSM في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: CSV XLTM SXC FODS XLSX EXCEL XLS XLAM DIF ODS XLSB XLTX TSV XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOCX إلى XLSM في تطبيقات Android" h2="تصدير DOCX إلى XLSM في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOCX إلى XLSM في تطبيقات Android أو عبر الإنترنت" h2="تصدير DOCX إلى XLSM في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل DOCX إلى XLSM داخل تطبيقات Android. أولاً ، يمكنك تحويل DOCX إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLSM. 

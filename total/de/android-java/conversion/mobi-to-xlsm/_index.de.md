@@ -1,6 +1,6 @@
 ---
-title: Android-API zum Konvertieren von MOBI in XLSM
-description: Konvertieren Sie MOBI in XLSM in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden
+title: Android-API zum Konvertieren von MOBI in XLSM oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie MOBI in XLSM in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLT TSV XLSX FODS EXCEL CSV ODS XLTM SXC XLSB XLS DIF XLAM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie MOBI in XLSM in Android-Anwendungen" h2="Exportieren Sie MOBI in Android über Java in XLSM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie MOBI in XLSM in Android-Anwendungen oder online" h2="Exportieren Sie MOBI in Android über Java in XLSM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die MOBI-zu-XLSM-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie MOBI in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in XLSM konvertieren. 

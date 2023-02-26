@@ -1,6 +1,6 @@
 ---
-title: API Android para converter MOBI para XLT
-description: Converta MOBI para XLT no Android via Java sem usar o Microsoft Word ou o Microsoft Excel
+title: API Android para converter MOBI para XLT ou com o conversor online gratuito
+description: Converta MOBI para XLT no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV XLSB CSV XLSM XLS ODS DIF XLTX SXC XLAM XLSX FODS EXCEL XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter MOBI para XLT em aplicativos Android" h2="Exporte MOBI para XLT no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter MOBI para XLT em aplicativos Android ou online" h2="Exporte MOBI para XLT no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de MOBI para XLT dentro de seus aplicativos Android. Em primeiro lugar, você pode converter MOBI para HTML usando a API de conversão e manipulação de mobiumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLT. 

@@ -1,6 +1,6 @@
 ---
-title: Android API untuk Mengonversi WORD ke XLTX
-description: Konversi WORD ke XLTX di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Android API untuk Mengonversi WORD ke XLTX atau dengan Konverter Online gratis
+description: Konversi WORD ke XLTX di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLSB SXC XLT XLSM EXCEL CSV XLS TSV FODS DIF ODS XLAM XLSX XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi WORD ke XLTX di Aplikasi Android" h2="Ekspor WORD ke XLTX di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi WORD ke XLTX di Aplikasi Android atau daring" h2="Ekspor WORD ke XLTX di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi WORD ke XLTX di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi WORD ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLTX. 

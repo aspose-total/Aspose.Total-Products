@@ -1,6 +1,6 @@
 ---
-title: API Android para converter DOC para XLSB
-description: Converta DOC para XLSB no Android via Java sem usar o Microsoft Word ou o Microsoft Excel
+title: API Android para converter DOC para XLSB ou com o conversor online gratuito
+description: Converta DOC para XLSB no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLT DIF XLAM XLS XLSX CSV TSV EXCEL XLTM ODS XLSM FODS XLTX SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOC para XLSB em aplicativos Android" h2="Exporte DOC para XLSB no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOC para XLSB em aplicativos Android ou online" h2="Exporte DOC para XLSB no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOC para XLSB dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOC para HTML usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLSB. 

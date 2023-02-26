@@ -1,6 +1,6 @@
 ---
-title: Android API för att konvertera WORDML till ODS
-description: Konvertera WORDML till ODS i Android via Java utan att använda Microsoft Word eller Microsoft Excel
+title: Android API för att konvertera WORDML till ODS eller med gratis Online Converter
+description: Konvertera WORDML till ODS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLAM EXCEL XLS DIF XLSX XLSM XLTM XLSB XLT TSV FODS XLTX SXC CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera WORDML till ODS i Android-applikationer" h2="Exportera WORDML till ODS i Android via Java utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera WORDML till ODS i Android-applikationer eller online" h2="Exportera WORDML till ODS i Android via Java utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) kan du integrera WORDML till ODS-konverteringsfunktionen i dina Android-applikationer. För det första kan du konvertera WORDML till HTML genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till ODS. 

@@ -1,6 +1,6 @@
 ---
 title: Android API to Convert RTF to EXCEL
-description: Convert RTF to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel
+description: Convert RTF to EXCEL in Android via Java without using using Microsoft Word or Microsoft Excel or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/rtf-to-excel/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: SXC XLAM TSV XLT XLSB XLS XLTM DIF CSV XLSM ODS XLTX FODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert RTF to EXCEL in Android Applications" h2="Export RTF to EXCEL in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert RTF to EXCEL in Android Applications or online" h2="Export RTF to EXCEL in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate RTF to EXCEL conversion feature inside your android applications. Firstly, you can convert RTF to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to EXCEL.

@@ -1,6 +1,6 @@
 ---
-title: API Android pour convertir DOCX en DIF
-description: Convertir DOCX en DIF dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel
+title: API Android pour convertir DOCX en DIF ou avec le convertisseur en ligne gratuit
+description: Convertir DOCX en DIF dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLT XLSB FODS XLSM XLSX XLAM XLS EXCEL XLTX CSV TSV ODS SXC XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DOCX en DIF dans les applications Android" h2="Exportez DOCX vers DIF dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DOCX en DIF dans les applications Android ou en ligne" h2="Exportez DOCX vers DIF dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), vous pouvez intégrer la fonction de conversion DOCX en DIF dans vos applications Android. Premièrement, vous pouvez convertir DOCX en HTML en utilisant une API de manipulation et de conversion de documents riche en fonctionnalités [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en DIF. 

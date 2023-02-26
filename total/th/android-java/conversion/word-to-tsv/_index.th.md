@@ -1,6 +1,6 @@
 ---
-title: Android API เพื่อแปลง WORD เป็น TSV
-description: แปลง WORD เป็น TSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+title: Android API เพื่อแปลง WORD เป็น TSV หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง WORD เป็น TSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLT XLTX XLSB ODS DIF XLAM CSV XLSX XLS XLSM XLTM SXC EXCEL FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง WORD เป็น TSV ในแอปพลิเคชัน Android" h2="ส่งออก WORD เป็น TSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง WORD เป็น TSV ในแอปพลิเคชัน Android หรือทางออนไลน์" h2="ส่งออก WORD เป็น TSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง WORD เป็น TSV ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง WORD เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น TSV ได้ 

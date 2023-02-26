@@ -1,6 +1,6 @@
 ---
-title: Android API untuk Mengonversi WORDML ke DIF
-description: Konversi WORDML ke DIF di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Android API untuk Mengonversi WORDML ke DIF atau dengan Konverter Online gratis
+description: Konversi WORDML ke DIF di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLT XLSX XLSM FODS XLTM ODS TSV SXC EXCEL XLSB XLTX CSV XLS XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke DIF di Aplikasi Android" h2="Ekspor WORDML ke DIF di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke DIF di Aplikasi Android atau daring" h2="Ekspor WORDML ke DIF di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi WORDML ke DIF di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi WORDML ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke DIF. 

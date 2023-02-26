@@ -1,6 +1,6 @@
 ---
-title: Android API pro převod MOBI na XLTM
-description: Převeďte MOBI na XLTM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
+title: Android API pro převod MOBI na XLTM nebo pomocí bezplatného online převodníku
+description: Převeďte MOBI na XLTM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: DIF XLTX XLSB CSV XLSX XLS XLAM XLSM FODS XLT ODS TSV EXCEL SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte MOBI na XLTM v aplikacích pro Android" h2="Export MOBI do XLTM v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte MOBI na XLTM v aplikacích pro Android nebo online" h2="Export MOBI do XLTM v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu MOBI na XLTM do svých aplikací pro Android. Za prvé, můžete převést MOBI do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na XLTM. 

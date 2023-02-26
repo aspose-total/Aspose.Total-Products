@@ -1,6 +1,6 @@
 ---
-title: API Android pour convertir DOTM en XLSX
-description: Convertir DOTM en XLSX dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel
+title: API Android pour convertir DOTM en XLSX ou avec le convertisseur en ligne gratuit
+description: Convertir DOTM en XLSX dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: SXC XLTX DIF ODS XLSM XLT XLS TSV XLSB CSV FODS XLAM EXCEL XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DOTM en XLSX dans les applications Android" h2="Exportez DOTM vers XLSX dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DOTM en XLSX dans les applications Android ou en ligne" h2="Exportez DOTM vers XLSX dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), vous pouvez intégrer la fonction de conversion DOTM en XLSX dans vos applications Android. Premièrement, vous pouvez convertir DOTM en HTML en utilisant une API de manipulation et de conversion de dotmuments riche en fonctionnalités [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en XLSX. 

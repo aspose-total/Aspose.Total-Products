@@ -1,6 +1,6 @@
 ---
-title: Android API pro převod WORD na XLTM
-description: Převeďte WORD na XLTM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
+title: Android API pro převod WORD na XLTM nebo pomocí bezplatného online převodníku
+description: Převeďte WORD na XLTM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: CSV ODS TSV XLAM SXC XLSM XLTX XLSX EXCEL XLSB XLS DIF FODS XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte WORD na XLTM v aplikacích pro Android" h2="Export WORD do XLTM v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte WORD na XLTM v aplikacích pro Android nebo online" h2="Export WORD do XLTM v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu WORD na XLTM do svých aplikací pro Android. Za prvé, můžete převést WORD do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na XLTM. 

@@ -1,6 +1,6 @@
 ---
-title: Android API untuk Mengonversi DOTX ke XLT
-description: Konversi DOTX ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Android API untuk Mengonversi DOTX ke XLT atau dengan Konverter Online gratis
+description: Konversi DOTX ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLTM CSV DIF SXC TSV XLSX FODS XLSM ODS XLTX EXCEL XLSB XLS XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi DOTX ke XLT di Aplikasi Android" h2="Ekspor DOTX ke XLT di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi DOTX ke XLT di Aplikasi Android atau daring" h2="Ekspor DOTX ke XLT di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi DOTX ke XLT di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi DOTX ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLT. 

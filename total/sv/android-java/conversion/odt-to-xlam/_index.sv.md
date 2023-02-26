@@ -1,6 +1,6 @@
 ---
-title: Android API för att konvertera ODT till XLAM
-description: Konvertera ODT till XLAM i Android via Java utan att använda Microsoft Word eller Microsoft Excel
+title: Android API för att konvertera ODT till XLAM eller med gratis Online Converter
+description: Konvertera ODT till XLAM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLT TSV XLSB FODS CSV ODS XLSM XLTM XLSX EXCEL DIF XLTX SXC XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera ODT till XLAM i Android-applikationer" h2="Exportera ODT till XLAM i Android via Java utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera ODT till XLAM i Android-applikationer eller online" h2="Exportera ODT till XLAM i Android via Java utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) kan du integrera ODT till XLAM-konverteringsfunktionen i dina Android-applikationer. För det första kan du konvertera ODT till HTML genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till XLAM. 

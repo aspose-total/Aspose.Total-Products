@@ -1,6 +1,6 @@
 ---
-title: ODT'yi XLSB'ye Dönüştürmek için Android API
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de ODT'yi XLSB'ye dönüştürün
+title: ODT'yi XLSB'ye Dönüştürmek için Android API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de ODT'yi XLSB'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC ODS TSV CSV EXCEL XLAM XLT FODS XLSM XLTX DIF XLSX XLTM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında ODT'yi XLSB'ye Dönüştür" h2="ODT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSB'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında ODT'yi XLSB'ye Dönüştür veya çevrimiçi" h2="ODT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSB'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda ODT'den XLSB'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak ODT'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSB'ye dönüştürebilirsiniz. 

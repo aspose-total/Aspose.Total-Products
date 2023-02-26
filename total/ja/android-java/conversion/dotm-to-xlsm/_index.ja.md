@@ -1,6 +1,6 @@
 ---
-title: DOTMをXLSMに変換するAndroidAPI
-description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでDOTMをXLSMに変換する
+title: DOTMをXLSMに変換するAndroidAPI または無料のオンライン コンバーターを使用
+description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでDOTMをXLSMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: FODS XLSX TSV XLTM XLSB SXC XLAM XLTX XLS ODS XLT DIF CSV EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでDOTMをXLSMに変換する" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのXLSMにDOTMをエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでDOTMをXLSMに変換する またはオンライン" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのXLSMにDOTMをエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でDOTMからXLSMへの変換機能を統合できます。まず、機能豊富なドキュメント操作および変換API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、DOTMをHTMLに変換できます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)を使用して、HTMLをXLSMに変換できます。 

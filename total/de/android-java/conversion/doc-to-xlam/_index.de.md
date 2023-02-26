@@ -1,6 +1,6 @@
 ---
-title: Android-API zum Konvertieren von DOC in XLAM
-description: Konvertieren Sie DOC in XLAM in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden
+title: Android-API zum Konvertieren von DOC in XLAM oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie DOC in XLAM in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLTX EXCEL SXC ODS XLT DIF XLSB XLSX XLTM CSV TSV XLSM FODS XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOC in XLAM in Android-Anwendungen" h2="Exportieren Sie DOC in Android über Java in XLAM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOC in XLAM in Android-Anwendungen oder online" h2="Exportieren Sie DOC in Android über Java in XLAM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die DOC-zu-XLAM-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie DOC in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in XLAM konvertieren. 

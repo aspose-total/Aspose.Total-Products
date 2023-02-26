@@ -1,6 +1,6 @@
 ---
-title: Android API 將 WORD 轉換為 XLTM
-description: 在不使用 Microsoft Word 或 Microsoft Excel 的情況下，通過 Java 在 Android 中將 WORD 轉換為 XLTM
+title: Android API 將 WORD 轉換為 XLTM 或使用免費的在線轉換器
+description: 在不使用 Microsoft Word 或 Microsoft Excel 的情況下，通過 Java 在 Android 中將 WORD 轉換為 XLTM 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: CSV ODS TSV XLAM SXC XLSM XLTX XLSX EXCEL XLSB XLS DIF FODS XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在 Android 應用程序中將 WORD 轉換為 XLTM" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情況下，通過 Java 在 Android 中將 WORD 導出為 XLTM" >}}
+{{< blocks/products/pf/feature-page-header h1="在 Android 應用程序中將 WORD 轉換為 XLTM 或在線" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情況下，通過 Java 在 Android 中將 WORD 導出為 XLTM" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通過使用 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)，您可以在您的 android 應用程序中集成 WORD 到 XLTM 轉換功能。首先，您可以使用功能豐富的文檔操作和轉換 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)將 WORD 轉換為 HTML。之後，通過使用 [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)，您可以將 HTML 轉換為 XLTM。 

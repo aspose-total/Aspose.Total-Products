@@ -1,6 +1,6 @@
 ---
-title: Android API για μετατροπή MOBI σε XLAM
-description: Μετατροπή MOBI σε XLAM στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Android API για μετατροπή MOBI σε XLAM ή με δωρεάν Online Converter
+description: Μετατροπή MOBI σε XLAM στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: CSV XLS XLTX DIF XLSB SXC ODS XLTM FODS EXCEL TSV XLSX XLT XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή MOBI σε XLAM στις Εφαρμογές Android" h2="Εξαγωγή MOBI σε XLAM στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή MOBI σε XLAM στις Εφαρμογές Android ή διαδικτυακά" h2="Εξαγωγή MOBI σε XLAM στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής MOBI σε XLAM στις εφαρμογές σας Android. Πρώτον, μπορείτε να μετατρέψετε το MOBI σε HTML χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, API χειρισμού εγγράφων και μετατροπής [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLAM. 

@@ -1,6 +1,6 @@
 ---
-title: API de Android para convertir DOCM a FODS
-description: Convierta DOCM a FODS en Android a través de Java sin usar Microsoft Word o Microsoft Excel
+title: API de Android para convertir DOCM a FODS o con el convertidor en línea gratuito
+description: Convierta DOCM a FODS en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV ODS CSV XLTM XLAM DIF XLT SXC XLSB XLSX XLSM EXCEL XLS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta DOCM a FODS en aplicaciones de Android" h2="Exporte DOCM a FODS en Android a través de Java sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta DOCM a FODS en aplicaciones de Android o en línea" h2="Exporte DOCM a FODS en Android a través de Java sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al utilizar [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), puede integrar la función de conversión de DOCM a FODS dentro de sus aplicaciones de Android. En primer lugar, puede convertir DOCM a HTML utilizando la API de conversión y manipulación de docmumentos rica en funciones [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a FODS. 

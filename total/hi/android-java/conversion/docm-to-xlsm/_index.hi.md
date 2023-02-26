@@ -1,6 +1,6 @@
 ---
-title: DOCM को XLSM में बदलने के लिए Android API
-description: माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना जावा के माध्यम से एंड्रॉइड में डीओसी को सीएसवी में कनवर्ट करें
+title: DOCM को XLSM में बदलने के लिए Android API या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना जावा के माध्यम से एंड्रॉइड में डीओसी को सीएसवी में कनवर्ट करें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLT EXCEL TSV DIF XLTM CSV FODS ODS XLSX XLSB XLAM XLS SXC XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android एप्लिकेशन में DOCM को XLSM में बदलें" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना जावा के द्वारा Android में DOCM को XLSM में निर्यात करें" >}}
+{{< blocks/products/pf/feature-page-header h1="Android एप्लिकेशन में DOCM को XLSM में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना जावा के द्वारा Android में DOCM को XLSM में निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) का उपयोग करके आप अपने Android एप्लिकेशन के अंदर DOCM को XLSM रूपांतरण सुविधा में एकीकृत कर सकते हैं। सबसे पहले, आप सुविधा संपन्न, दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग करके DOCM को HTML में बदल सकते हैं। उसके बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को XLSM में बदल सकते हैं। 

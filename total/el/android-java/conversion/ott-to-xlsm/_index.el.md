@@ -1,6 +1,6 @@
 ---
-title: Android API για μετατροπή OTT σε XLSM
-description: Μετατροπή OTT σε XLSM στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Android API για μετατροπή OTT σε XLSM ή με δωρεάν Online Converter
+description: Μετατροπή OTT σε XLSM στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSB FODS XLTX XLTM XLAM XLS TSV SXC ODS XLSX XLT DIF CSV EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή OTT σε XLSM στις Εφαρμογές Android" h2="Εξαγωγή OTT σε XLSM στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή OTT σε XLSM στις Εφαρμογές Android ή διαδικτυακά" h2="Εξαγωγή OTT σε XLSM στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής OTT σε XLSM στις εφαρμογές σας Android. Πρώτον, μπορείτε να μετατρέψετε το OTT σε HTML χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, API χειρισμού εγγράφων και μετατροπής [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLSM. 

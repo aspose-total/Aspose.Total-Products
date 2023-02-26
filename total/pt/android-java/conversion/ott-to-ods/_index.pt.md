@@ -1,6 +1,6 @@
 ---
-title: API Android para converter OTT para ODS
-description: Converta OTT para ODS no Android via Java sem usar o Microsoft Word ou o Microsoft Excel
+title: API Android para converter OTT para ODS ou com o conversor online gratuito
+description: Converta OTT para ODS no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: DIF XLS XLSX TSV FODS XLSB XLTM SXC XLT XLAM CSV XLSM XLTX EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter OTT para ODS em aplicativos Android" h2="Exporte OTT para ODS no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter OTT para ODS em aplicativos Android ou online" h2="Exporte OTT para ODS no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de OTT para ODS dentro de seus aplicativos Android. Em primeiro lugar, você pode converter OTT para HTML usando a API de conversão e manipulação de ottumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para ODS. 

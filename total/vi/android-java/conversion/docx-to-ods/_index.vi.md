@@ -1,6 +1,6 @@
 ---
-title: API Android để chuyển đổi DOCX sang ODS
-description: Chuyển đổi DOCX sang ODS trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
+title: API Android để chuyển đổi DOCX sang ODS hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi DOCX sang ODS trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLAM XLTM SXC XLSM XLS XLT XLSX TSV CSV XLTX XLSB FODS EXCEL DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOCX sang ODS trong các ứng dụng Android" h2="Xuất DOCX sang ODS trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOCX sang ODS trong các ứng dụng Android hoặc trực tuyến" h2="Xuất DOCX sang ODS trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), bạn có thể tích hợp tính năng chuyển đổi DOCX sang ODS bên trong các ứng dụng Android của mình. Trước tiên, bạn có thể chuyển đổi DOCX sang HTML bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Sau đó, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang ODS. 

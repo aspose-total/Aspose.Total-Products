@@ -1,6 +1,6 @@
 ---
-title: Android API a DOCM konvertálásához XLS-vé
-description: Konvertálja a DOCM-t XLS-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+title: Android API a DOCM konvertálásához XLS-vé vagy ingyenes online konverterrel
+description: Konvertálja a DOCM-t XLS-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: DIF XLT XLTX SXC XLSB XLAM TSV CSV FODS ODS XLSX XLTM XLSM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A DOCM konvertálása XLS formátumba az Android alkalmazásokban" h2="DOCM exportálása XLS formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="A DOCM konvertálása XLS formátumba az Android alkalmazásokban vagy online" h2="DOCM exportálása XLS formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) használatával integrálhatja a DOCM-XLS-konverziós funkciót androidos alkalmazásaiba. Először is konvertálhatja a DOCM-t HTML-vé a funkciókban gazdag dokumentumkezelési és -konverziós API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) használatával. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLS-vé. 

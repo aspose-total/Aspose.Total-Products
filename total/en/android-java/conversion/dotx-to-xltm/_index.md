@@ -1,6 +1,6 @@
 ---
 title: Android API to Convert DOTX to XLTM
-description: Convert DOTX to XLTM in Android via Java without using using Microsoft Word or Microsoft Excel
+description: Convert DOTX to XLTM in Android via Java without using using Microsoft Word or Microsoft Excel or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/dotx-to-xltm/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSX DIF FODS XLT XLSM XLS TSV CSV EXCEL XLAM XLSB SXC ODS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOTX to XLTM in Android Applications" h2="Export DOTX to XLTM in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOTX to XLTM in Android Applications or online" h2="Export DOTX to XLTM in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate DOTX to XLTM conversion feature inside your android applications. Firstly, you can convert DOTX to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to XLTM.

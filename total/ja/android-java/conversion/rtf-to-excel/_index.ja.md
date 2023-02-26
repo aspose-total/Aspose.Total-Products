@@ -1,6 +1,6 @@
 ---
-title: RTFをEXCELに変換するAndroidAPI
-description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでRTFをEXCELに変換する
+title: RTFをEXCELに変換するAndroidAPI または無料のオンライン コンバーターを使用
+description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでRTFをEXCELに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: SXC XLAM TSV XLT XLSB XLS XLTM DIF CSV XLSM ODS XLTX FODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでRTFをEXCELに変換する" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのEXCELにRTFをエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでRTFをEXCELに変換する またはオンライン" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのEXCELにRTFをエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でRTFからEXCELへの変換機能を統合できます。まず、機能豊富なドキュメント操作および変換API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、RTFをHTMLに変換できます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)を使用して、HTMLをEXCELに変換できます。 

@@ -1,6 +1,6 @@
 ---
-title: Android API pro převod ODT na XLT
-description: Převeďte ODT na XLT v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
+title: Android API pro převod ODT na XLT nebo pomocí bezplatného online převodníku
+description: Převeďte ODT na XLT v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLSB XLSX XLTM CSV EXCEL SXC XLTX XLS DIF FODS TSV XLSM XLAM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte ODT na XLT v aplikacích pro Android" h2="Export ODT do XLT v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte ODT na XLT v aplikacích pro Android nebo online" h2="Export ODT do XLT v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu ODT na XLT do svých aplikací pro Android. Za prvé, můžete převést ODT do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na XLT. 

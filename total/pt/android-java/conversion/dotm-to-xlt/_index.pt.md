@@ -1,6 +1,6 @@
 ---
-title: API Android para converter DOTM para XLT
-description: Converta DOTM para XLT no Android via Java sem usar o Microsoft Word ou o Microsoft Excel
+title: API Android para converter DOTM para XLT ou com o conversor online gratuito
+description: Converta DOTM para XLT no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLS CSV XLSX XLAM EXCEL XLSB TSV SXC FODS XLSM XLTX ODS XLTM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOTM para XLT em aplicativos Android" h2="Exporte DOTM para XLT no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOTM para XLT em aplicativos Android ou online" h2="Exporte DOTM para XLT no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOTM para XLT dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOTM para HTML usando a API de conversão e manipulação de dotmumentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLT. 

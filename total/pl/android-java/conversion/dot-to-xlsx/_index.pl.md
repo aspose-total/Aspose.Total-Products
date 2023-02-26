@@ -1,6 +1,6 @@
 ---
-title: Android API do konwersji DOT na XLSX
-description: Konwertuj DOT na XLSX w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel
+title: Android API do konwersji DOT na XLSX lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOT na XLSX w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: SXC XLTX XLSM XLTM EXCEL DIF XLAM ODS CSV XLS FODS TSV XLT XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj DOT na XLSX w aplikacjach na Androida" h2="Eksportuj DOT do XLSX w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj DOT na XLSX w aplikacjach na Androida lub online" h2="Eksportuj DOT do XLSX w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) możesz zintegrować funkcję konwersji DOT na XLSX w swoich aplikacjach na Androida. Po pierwsze, możesz przekonwertować DOT na HTML, korzystając z bogatego w funkcje interfejsu API do manipulacji dokumentami i konwersji [Aspose.Words na Androida przez Javę](https://products.aspose.com/words/android-java/). Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na XLSX. 

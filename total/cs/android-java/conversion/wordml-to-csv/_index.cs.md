@@ -1,6 +1,6 @@
 ---
-title: Android API pro převod WORDML na CSV
-description: Převeďte WORDML na CSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
+title: Android API pro převod WORDML na CSV nebo pomocí bezplatného online převodníku
+description: Převeďte WORDML na CSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: FODS XLSM XLT XLSX XLAM XLS SXC XLTM TSV XLSB XLTX ODS EXCEL DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte WORDML na CSV v aplikacích pro Android" h2="Export WORDML do CSV v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte WORDML na CSV v aplikacích pro Android nebo online" h2="Export WORDML do CSV v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu WORDML na CSV do svých aplikací pro Android. Za prvé, můžete převést WORDML do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na CSV. 

@@ -1,6 +1,6 @@
 ---
-title: Android API pro převod DOCM na CSV
-description: Převeďte DOCM na CSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel
+title: Android API pro převod DOCM na CSV nebo pomocí bezplatného online převodníku
+description: Převeďte DOCM na CSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLSX XLS TSV XLTX XLTM EXCEL XLSM DIF XLAM FODS XLSB XLT SXC ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte DOCM na CSV v aplikacích pro Android" h2="Export DOCM do CSV v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte DOCM na CSV v aplikacích pro Android nebo online" h2="Export DOCM do CSV v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu DOCM na CSV do svých aplikací pro Android. Za prvé, můžete převést DOCM do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na CSV. 
