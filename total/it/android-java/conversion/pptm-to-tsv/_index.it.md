@@ -1,6 +1,6 @@
 ---
-title: Converti PPTM in TSV in Android tramite Java o in linea o con il convertitore online gratuito
-description: Converti PPTM in TSV in Android tramite Java o in linea senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+title: Converti PPTM in TSV in Android tramite Java
+description: Converti PPTM in TSV in Android tramite Java senza utilizzare Microsoft Excel o PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: ODS SXC XLS MHTML XLTX XLAM FODS CSV DIF XLTM XLT XLSB XLSM XLSX MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti PPTM in TSV in Android tramite Java o in linea" h2="Esporta file PPTM in TSV nelle applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti PPTM in TSV in Android tramite Java" h2="Esporta file PPTM in TSV nelle applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire facilmente file PPTM in TSV nelle tue applicazioni Android in un processo in due fasi tramite [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Nel primo passaggio puoi esportare il file PPTM in HTML utilizzando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). In secondo luogo, utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in TSV. 

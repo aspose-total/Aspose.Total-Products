@@ -1,6 +1,6 @@
 ---
-title: Exportar PPSX a DOCX en Andorid a través de Java
-description: Convierta PPSX a DOCX en aplicaciones móviles sin instalar ningún software
+title: Exportar PPSX a DOCX en Andorid a través de Java o con el convertidor en línea gratuito
+description: Convierta PPSX a DOCX en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: RTF OTT DOCM DOT ODT DOTX DOC FLATOPC WORDML TEXT DOTM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderizar PPSX a DOCX en Andorid a través de Java" h2="API de formato de archivo para convertir PPSX a DOCX dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderizar PPSX a DOCX en Andorid a través de Java o en línea" h2="API de formato de archivo para convertir PPSX a DOCX dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite manipular formatos de archivo dentro de las aplicaciones de Android. Al utilizar las API proporcionadas en el paquete, puede automatizar el proceso de conversión de PowerPoint PPSX a Word DOCX en sus aplicaciones.

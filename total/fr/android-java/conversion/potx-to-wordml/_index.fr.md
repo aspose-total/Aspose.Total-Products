@@ -1,6 +1,6 @@
 ---
-title: Exporter POTX vers WORDML sur Andorid via Java
-description: Convertissez POTX en WORDML dans les applications mobiles sans installer de logiciel
+title: Exporter POTX vers WORDML sur Andorid via Java ou avec le convertisseur en ligne gratuit
+description: Convertissez POTX en WORDML dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTX DOCX ODT FLATOPC OTT DOC WORD TEXT DOT RTF DOCM DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendre POTX en WORDML sur Andorid via Java" h2="API de format de fichier pour convertir POTX en WORDML dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendre POTX en WORDML sur Andorid via Java ou en ligne" h2="API de format de fichier pour convertir POTX en WORDML dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permet de manipuler les formats de fichiers dans les applications Android. En utilisant les API fournies dans le package, vous pouvez automatiser le processus de conversion de PowerPoint POTX en Word WORDML dans vos applications.

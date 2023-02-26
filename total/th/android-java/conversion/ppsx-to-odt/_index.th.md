@@ -1,6 +1,6 @@
 ---
-title: ส่งออก PPSX เป็น ODT บน Andorid ผ่าน Java
-description: แปลง PPSX เป็น ODT ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ
+title: ส่งออก PPSX เป็น ODT บน Andorid ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง PPSX เป็น ODT ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTX WORD DOCM TEXT FLATOPC DOTM WORDML OTT DOCX RTF DOC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แสดง PPSX เป็น ODT บน Andorid ผ่าน Java" h2="รูปแบบไฟล์ API เพื่อแปลง PPSX เป็น ODT ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="แสดง PPSX เป็น ODT บน Andorid ผ่าน Java หรือทางออนไลน์" h2="รูปแบบไฟล์ API เพื่อแปลง PPSX เป็น ODT ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) อนุญาตให้จัดการรูปแบบไฟล์ภายในแอปพลิเคชัน Android ด้วยการใช้ API ที่ให้มาในแพ็คเกจ คุณสามารถทำให้กระบวนการแปลง PowerPoint PPSX เป็น Word ODT ในแอปของคุณเป็นแบบอัตโนมัติ

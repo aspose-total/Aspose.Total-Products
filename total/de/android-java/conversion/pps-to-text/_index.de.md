@@ -1,6 +1,6 @@
 ---
-title: Exportieren Sie PPS nach TEXT auf Andorid über Java
-description: Konvertieren Sie PPS in TEXT in mobilen Apps, ohne Software zu installieren
+title: Exportieren Sie PPS nach TEXT auf Andorid über Java oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie PPS in TEXT in mobilen Apps, ohne Software zu installieren oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: WORD DOTM DOC RTF FLATOPC DOCM WORDML DOCX DOTX OTT DOT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPS zu TEXT auf Andorid über Java" h2="Dateiformat-APIs zum Konvertieren von PPS in TEXT in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPS zu TEXT auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von PPS in TEXT in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint PPS in Word TEXT in Ihren Apps automatisieren.

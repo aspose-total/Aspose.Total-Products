@@ -1,6 +1,6 @@
 ---
-title: Konversi POTM ke CSV di Android melalui Java atau daring atau dengan Konverter Online gratis
-description: Konversi POTM ke CSV di Android melalui Java atau daring tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+title: Konversi POTM ke CSV di Android melalui Java
+description: Konversi POTM ke CSV di Android melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLS XLTX XLT MARKDOWN EXCEL MHTML XLAM XLTM XLSB DIF FODS XLSX ODS TSV XLSM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi POTM ke CSV di Android melalui Java atau daring" h2="Ekspor file POTM ke CSV di aplikasi Android tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi POTM ke CSV di Android melalui Java" h2="Ekspor file POTM ke CSV di aplikasi Android tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat dengan mudah mengonversi file POTM ke CSV di aplikasi Android Anda dalam proses dua langkah melalui [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Pada langkah pertama Anda dapat mengekspor file POTM ke HTML dengan menggunakan [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Kedua, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke CSV. 

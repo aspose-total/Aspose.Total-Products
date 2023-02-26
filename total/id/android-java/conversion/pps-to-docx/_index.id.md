@@ -1,6 +1,6 @@
 ---
-title: Ekspor PPS ke DOCX di Andorid melalui Java
-description: Konversi PPS ke DOCX di aplikasi seluler tanpa menginstal perangkat lunak apa pun
+title: Ekspor PPS ke DOCX di Andorid melalui Java atau dengan Konverter Online gratis
+description: Konversi PPS ke DOCX di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOTX FLATOPC TEXT DOCM DOTM OTT WORD DOT DOC WORDML ODT RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPS ke DOCX di Andorid melalui Java" h2="API format file untuk mengonversi PPS ke DOCX dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPS ke DOCX di Andorid melalui Java atau daring" h2="API format file untuk mengonversi PPS ke DOCX dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) memungkinkan manipulasi format file dalam aplikasi Android. Dengan menggunakan API yang disediakan dalam paket, Anda dapat mengotomatiskan proses konversi PowerPoint PPS ke Word DOCX di aplikasi Anda.

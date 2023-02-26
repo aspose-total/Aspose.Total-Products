@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPTM σε ODS στο Android μέσω Java ή διαδικτυακά ή με δωρεάν Online Converter
-description: Μετατροπή PPTM σε ODS στο Android μέσω Java ή διαδικτυακά χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+title: Μετατροπή PPTM σε ODS στο Android μέσω Java
+description: Μετατροπή PPTM σε ODS στο Android μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLT XLS TSV MHTML XLSX DIF CSV XLSM XLAM XLTM EXCEL MARKDOWN XLTX XLSB FODS SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPTM σε ODS στο Android μέσω Java ή διαδικτυακά" h2="Εξαγωγή αρχείου PPTM σε ODS σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPTM σε ODS στο Android μέσω Java" h2="Εξαγωγή αρχείου PPTM σε ODS σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε εύκολα να μετατρέψετε το αρχείο PPTM σε ODS στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Στο πρώτο βήμα, μπορείτε να εξαγάγετε αρχείο PPTM σε HTML χρησιμοποιώντας το [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε ODS. 

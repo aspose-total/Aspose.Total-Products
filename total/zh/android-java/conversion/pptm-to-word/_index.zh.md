@@ -1,6 +1,6 @@
 ---
-title: 通过 Java 将 PPTM 导出到 Andorid 上的 WORD
-description: 在移动应用程序中将 PPTM 转换为 WORD，无需安装任何软件
+title: 通过 Java 将 PPTM 导出到 Andorid 上的 WORD 或使用免费的在线转换器
+description: 在移动应用程序中将 PPTM 转换为 WORD，无需安装任何软件 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: ODT TEXT DOTM WORDML DOC RTF DOT DOTX DOCM FLATOPC OTT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Andorid 上将 PPTM 渲染到 WORD" h2="文件格式 API 可在 Android 应用程序中将 PPTM 转换为 WORD，而不依赖于 Microsoft PowerPoint 或 Word" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Andorid 上将 PPTM 渲染到 WORD 或在线" h2="文件格式 API 可在 Android 应用程序中将 PPTM 转换为 WORD，而不依赖于 Microsoft PowerPoint 或 Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 允许在 Android 应用程序中操作文件格式。通过使用包中提供的 API，您可以在您的应用程序中自动执行 PowerPoint PPTM 到 Word WORD 的转换过程。

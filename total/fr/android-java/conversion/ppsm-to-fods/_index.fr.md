@@ -1,6 +1,6 @@
 ---
-title: Convertir PPSM en FODS dans Android via Java ou en ligne ou avec le convertisseur en ligne gratuit
-description: Convertissez PPSM en FODS dans Android via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+title: Convertir PPSM en FODS dans Android via Java
+description: Convertissez PPSM en FODS dans Android via Java sans utiliser Microsoft Excel ou PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM CSV MHTML DIF ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPSM en FODS dans Android via Java ou en ligne" h2="Exportez le fichier PPSM au format FODS dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPSM en FODS dans Android via Java" h2="Exportez le fichier PPSM au format FODS dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez facilement convertir le fichier PPSM en FODS dans vos applications Android en deux étapes via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier PPSM au format HTML en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en FODS. 

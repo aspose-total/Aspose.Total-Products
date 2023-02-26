@@ -1,6 +1,6 @@
 ---
-title: Exportálja a POTX-ot WORDML-ba Andoridon Java-n keresztül
-description: Konvertálja a POTX-ot WORDML-ba mobilalkalmazásokban szoftver telepítése nélkül
+title: Exportálja a POTX-ot WORDML-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
+description: Konvertálja a POTX-ot WORDML-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTX DOCX ODT FLATOPC OTT DOC WORD TEXT DOT RTF DOCM DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderelje le a POTX-ot WORDML-ba Andoridon Java-n keresztül" h2="Fájlformátumú API-k, amelyek a POTX-t WORDML-ba konvertálják Android-alkalmazásokon belül, anélkül, hogy a Microsoft PowerPointtól vagy a Wordtől függnének" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderelje le a POTX-ot WORDML-ba Andoridon Java-n keresztül vagy online" h2="Fájlformátumú API-k, amelyek a POTX-t WORDML-ba konvertálják Android-alkalmazásokon belül, anélkül, hogy a Microsoft PowerPointtól vagy a Wordtől függnének" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android Java segítségével](https://products.aspose.com/total/android-java/) lehetővé teszi a fájlformátumok manipulálását az Android-alkalmazásokon belül. A csomagban található API-k használatával automatizálhatja a PowerPoint POTX–Word WORDML konverziós folyamatát alkalmazásaiban.

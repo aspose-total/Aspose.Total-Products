@@ -1,6 +1,6 @@
 ---
-title: 通過 Java 在 Android 中將 POWERPOINT 轉換為 DIF 或在線 或使用免費的在線轉換器
-description: 在不使用 Microsoft Excel 或 PowerPoint 的情況下，通過 Java 在 Android 中將 POWERPOINT 轉換為 DIF 或在線 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+title: 通過 Java 在 Android 中將 POWERPOINT 轉換為 DIF
+description: 在不使用 Microsoft Excel 或 PowerPoint 的情況下，通過 Java 在 Android 中將 POWERPOINT 轉換為 DIF
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM CSV MARKDOWN MHTML ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 中將 POWERPOINT 轉換為 DIF 或在線" h2="無需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint 在 Android 應用程序中將 POWERPOINT 文件導出為 DIF" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 中將 POWERPOINT 轉換為 DIF" h2="無需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint 在 Android 應用程序中將 POWERPOINT 文件導出為 DIF" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 您可以通過 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 分兩步在 Android 應用程序中輕鬆地將 POWERPOINT 文件轉換為 DIF。第一步，您可以使用 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) 將 POWERPOINT 文件導出為 HTML。其次，通過使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)，您可以將 HTML 轉換為 DIF。 

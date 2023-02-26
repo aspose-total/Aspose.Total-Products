@@ -1,6 +1,6 @@
 ---
-title: Exporteer PPT naar OTT op Andorid via Java
-description: Converteer PPT naar OTT in mobiele apps zonder software te installeren
+title: Exporteer PPT naar OTT op Andorid via Java of met gratis Online Converter
+description: Converteer PPT naar OTT in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOTX WORDML DOCX DOTM DOT RTF TEXT ODT DOC DOCM FLATOPC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPT naar OTT op Andorid via Java" h2="Bestandsformaat-API's om PPT naar OTT te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPT naar OTT op Andorid via Java of online" h2="Bestandsformaat-API's om PPT naar OTT te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint PPT naar Word OTT in uw apps automatiseren.

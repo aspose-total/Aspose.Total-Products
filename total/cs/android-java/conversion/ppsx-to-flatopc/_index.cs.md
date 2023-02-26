@@ -1,6 +1,6 @@
 ---
-title: Export PPSX do FLATOPC na Andorid přes Java
-description: Převeďte PPSX na FLATOPC v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export PPSX do FLATOPC na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPSX na FLATOPC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: RTF DOC DOCM DOCX DOT DOTM ODT WORD TEXT WORDML DOTX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPSX do FLATOPC na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod PPSX na FLATOPC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPSX do FLATOPC na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPSX na FLATOPC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPSX do Word FLATOPC ve vašich aplikacích.

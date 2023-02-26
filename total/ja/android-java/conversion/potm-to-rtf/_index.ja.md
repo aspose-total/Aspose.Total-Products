@@ -1,6 +1,6 @@
 ---
-title: Java経由でAndoridのRTFにPOTMをエクスポートする
-description: ソフトウェアをインストールせずにモバイルアプリでPOTMをRTFに変換する
+title: Java経由でAndoridのRTFにPOTMをエクスポートする または無料のオンライン コンバーターを使用
+description: ソフトウェアをインストールせずにモバイルアプリでPOTMをRTFに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: ODT DOT TEXT DOTM DOCM DOCX WORDML DOTX FLATOPC WORD OTT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのRTFにPOTMをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTMをRTFに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのRTFにPOTMをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTMをRTFに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPOTMからWordRTFへの変換プロセスを自動化できます。

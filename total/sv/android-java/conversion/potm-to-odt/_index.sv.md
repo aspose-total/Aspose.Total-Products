@@ -1,6 +1,6 @@
 ---
-title: Exportera POTM till ODT på Andorid via Java
-description: Konvertera POTM till ODT i mobilappar utan att installera någon programvara
+title: Exportera POTM till ODT på Andorid via Java eller med gratis Online Converter
+description: Konvertera POTM till ODT i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM TEXT OTT WORD DOC DOCX FLATOPC DOT WORDML DOTX RTF DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendera POTM till ODT på Andorid via Java" h2="Filformats-API:er för att konvertera POTM till ODT i Android-appar utan att vara beroende av Microsoft PowerPoint eller Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendera POTM till ODT på Andorid via Java eller online" h2="Filformats-API:er för att konvertera POTM till ODT i Android-appar utan att vara beroende av Microsoft PowerPoint eller Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) tillåter manipulering av filformat i Android-program. Genom att använda API:erna i paketet kan du automatisera konverteringsprocessen från PowerPoint POTM till Word ODT i dina appar.

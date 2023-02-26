@@ -1,6 +1,6 @@
 ---
-title: Export PPSM do ODT na Andorid přes Java
-description: Převeďte PPSM na ODT v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export PPSM do ODT na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPSM na ODT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: TEXT DOCM DOTM OTT DOTX WORD DOT WORDML DOCX DOC RTF FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPSM do ODT na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod PPSM na ODT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPSM do ODT na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPSM na ODT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPSM do Word ODT ve vašich aplikacích.

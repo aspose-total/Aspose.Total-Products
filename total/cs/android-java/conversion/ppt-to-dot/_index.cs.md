@@ -1,6 +1,6 @@
 ---
-title: Export PPT do DOT na Andorid přes Java
-description: Převeďte PPT na DOT v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export PPT do DOT na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPT na DOT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOCX FLATOPC ODT DOCM TEXT DOC RTF WORDML DOTM WORD DOTX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPT do DOT na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod PPT na DOT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPT do DOT na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPT na DOT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPT do Word DOT ve vašich aplikacích.

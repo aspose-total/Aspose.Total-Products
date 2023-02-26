@@ -1,6 +1,6 @@
 ---
-title: Java経由でAndoridのODTにPPTをエクスポートする
-description: ソフトウェアをインストールせずにモバイルアプリでPPTをODTに変換する
+title: Java経由でAndoridのODTにPPTをエクスポートする または無料のオンライン コンバーターを使用
+description: ソフトウェアをインストールせずにモバイルアプリでPPTをODTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM TEXT DOCX OTT WORDML RTF DOC WORD DOTX DOCM DOT FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのODTにPPTをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTをODTに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのODTにPPTをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTをODTに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPTからWordODTへの変換プロセスを自動化できます。

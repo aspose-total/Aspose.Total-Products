@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi POTM sang XLTM trong Android qua Java hoặc trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi POTM sang XLTM trong Android qua Java hoặc trực tuyến mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+title: Chuyển đổi POTM sang XLTM trong Android qua Java
+description: Chuyển đổi POTM sang XLTM trong Android qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: MHTML SXC TSV XLSX CSV XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT DIF XLS XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi POTM sang XLTM trong Android qua Java hoặc trực tuyến" h2="Xuất tệp POTM sang XLTM trong các ứng dụng Android mà không cần sử dụng Microsoft <sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi POTM sang XLTM trong Android qua Java" h2="Xuất tệp POTM sang XLTM trong các ứng dụng Android mà không cần sử dụng Microsoft <sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể dễ dàng chuyển đổi tệp POTM sang XLTM trong các ứng dụng Android của mình theo quy trình hai bước thông qua [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Trong bước đầu tiên, bạn có thể xuất tệp POTM sang HTML bằng cách sử dụng [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang XLTM. 

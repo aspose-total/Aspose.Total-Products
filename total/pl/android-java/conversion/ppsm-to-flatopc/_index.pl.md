@@ -1,6 +1,6 @@
 ---
-title: Eksportuj PPSM do FLATOPC na Androidzie przez Javę
-description: Konwertuj PPSM na FLATOPC w aplikacjach mobilnych bez instalowania żadnego oprogramowania
+title: Eksportuj PPSM do FLATOPC na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPSM na FLATOPC w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOCM DOCX DOTM DOT TEXT OTT DOC WORD RTF ODT DOTX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderuj PPSM do FLATOPC na Androidzie przez Javę" h2="Interfejsy API formatów plików do konwersji PPSM na FLATOPC w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj PPSM do FLATOPC na Androidzie przez Javę lub online" h2="Interfejsy API formatów plików do konwersji PPSM na FLATOPC w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) umożliwia manipulowanie formatami plików w aplikacjach na Androida. Korzystając z interfejsów API dostarczonych w pakiecie, możesz zautomatyzować proces konwersji PowerPoint PPSM do Word FLATOPC w swoich aplikacjach.

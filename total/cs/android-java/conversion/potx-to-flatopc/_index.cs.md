@@ -1,6 +1,6 @@
 ---
-title: Export POTX do FLATOPC na Andorid přes Java
-description: Převeďte POTX na FLATOPC v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export POTX do FLATOPC na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte POTX na FLATOPC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: ODT TEXT WORDML DOCX DOTM DOC DOT RTF WORD DOCM OTT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte POTX do FLATOPC na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod POTX na FLATOPC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte POTX do FLATOPC na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod POTX na FLATOPC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint POTX do Word FLATOPC ve vašich aplikacích.

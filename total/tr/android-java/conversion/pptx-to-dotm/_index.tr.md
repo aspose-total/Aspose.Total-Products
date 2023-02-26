@@ -1,6 +1,6 @@
 ---
-title: Java aracılığıyla Andorid'de PPTX'u DOTM'a aktarın
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTX'u DOTM'ye dönüştürün
+title: Java aracılığıyla Andorid'de PPTX'u DOTM'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTX'u DOTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: FLATOPC ODT DOT WORD TEXT WORDML DOTX DOCM OTT RTF DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPTX'u DOTM'a dönüştürün" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPTX'u DOTM'ye dönüştürmek için dosya biçimi API'leri" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPTX'u DOTM'a dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPTX'u DOTM'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint PPTX'tan Word DOTM'ye dönüştürme işlemini otomatikleştirebilirsiniz.

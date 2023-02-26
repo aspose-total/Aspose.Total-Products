@@ -1,6 +1,6 @@
 ---
-title: Java ile Android'de PPTM'u MHTML'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPTM'u Android'de MHTML'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+title: Java ile Android'de PPTM'u MHTML'ye dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPTM'u Android'de MHTML'ye dönüştürün
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS CSV XLAM XLTM XLSM EXCEL SXC TSV FODS ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u MHTML'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını MHTML'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u MHTML'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını MHTML'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPTM dosyasını Android uygulamalarınızda kolayca MHTML'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPTM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi MHTML'ye dönüştürebilirsiniz. 

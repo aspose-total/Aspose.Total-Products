@@ -1,6 +1,6 @@
 ---
-title: Ekspor PPSM ke FLATOPC di Andorid melalui Java
-description: Konversi PPSM ke FLATOPC di aplikasi seluler tanpa menginstal perangkat lunak apa pun
+title: Ekspor PPSM ke FLATOPC di Andorid melalui Java atau dengan Konverter Online gratis
+description: Konversi PPSM ke FLATOPC di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOCM DOCX DOTM DOT TEXT OTT DOC WORD RTF ODT DOTX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPSM ke FLATOPC di Andorid melalui Java" h2="API format file untuk mengonversi PPSM ke FLATOPC dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPSM ke FLATOPC di Andorid melalui Java atau daring" h2="API format file untuk mengonversi PPSM ke FLATOPC dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) memungkinkan manipulasi format file dalam aplikasi Android. Dengan menggunakan API yang disediakan dalam paket, Anda dapat mengotomatiskan proses konversi PowerPoint PPSM ke Word FLATOPC di aplikasi Anda.

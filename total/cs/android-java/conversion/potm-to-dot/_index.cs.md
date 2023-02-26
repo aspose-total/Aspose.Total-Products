@@ -1,6 +1,6 @@
 ---
-title: Export POTM do DOT na Andorid přes Java
-description: Převeďte POTM na DOT v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export POTM do DOT na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte POTM na DOT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: FLATOPC DOTM RTF WORDML OTT ODT DOCM DOTX DOCX WORD DOC TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte POTM do DOT na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod POTM na DOT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte POTM do DOT na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod POTM na DOT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint POTM do Word DOT ve vašich aplikacích.

@@ -1,6 +1,6 @@
 ---
-title: Export POT do WORDML na Andorid přes Java
-description: Převeďte POT na WORDML v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export POT do WORDML na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte POT na WORDML v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTM RTF DOT OTT ODT WORD DOCX FLATOPC DOCM TEXT DOC DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte POT do WORDML na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod POT na WORDML v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte POT do WORDML na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod POT na WORDML v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint POT do Word WORDML ve vašich aplikacích.

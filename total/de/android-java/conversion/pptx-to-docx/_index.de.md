@@ -1,6 +1,6 @@
 ---
-title: Exportieren Sie PPTX nach DOCX auf Andorid über Java
-description: Konvertieren Sie PPTX in DOCX in mobilen Apps, ohne Software zu installieren
+title: Exportieren Sie PPTX nach DOCX auf Andorid über Java oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie PPTX in DOCX in mobilen Apps, ohne Software zu installieren oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPTX zu DOCX auf Andorid über Java" h2="Dateiformat-APIs zum Konvertieren von PPTX in DOCX in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPTX zu DOCX auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von PPTX in DOCX in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint PPTX in Word DOCX in Ihren Apps automatisieren.

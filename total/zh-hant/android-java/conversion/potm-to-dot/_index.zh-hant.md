@@ -1,6 +1,6 @@
 ---
-title: 通過 Java 將 POTM 導出到 Andorid 上的 DOT
-description: 在移動應用程序中將 POTM 轉換為 DOT，無需安裝任何軟件
+title: 通過 Java 將 POTM 導出到 Andorid 上的 DOT 或使用免費的在線轉換器
+description: 在移動應用程序中將 POTM 轉換為 DOT，無需安裝任何軟件 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: FLATOPC DOTM RTF WORDML OTT ODT DOCM DOTX DOCX WORD DOC TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Andorid 上將 POTM 渲染到 DOT" h2="文件格式 API 可在 Android 應用程序中將 POTM 轉換為 DOT，而不依賴於 Microsoft PowerPoint 或 Word" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Andorid 上將 POTM 渲染到 DOT 或在線" h2="文件格式 API 可在 Android 應用程序中將 POTM 轉換為 DOT，而不依賴於 Microsoft PowerPoint 或 Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 允許在 Android 應用程序中操作文件格式。通過使用包中提供的 API，您可以在您的應用程序中自動執行 PowerPoint POTM 到 Word DOT 的轉換過程。

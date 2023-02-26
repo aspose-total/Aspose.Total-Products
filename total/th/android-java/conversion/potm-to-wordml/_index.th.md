@@ -1,6 +1,6 @@
 ---
-title: ส่งออก POTM เป็น WORDML บน Andorid ผ่าน Java
-description: แปลง POTM เป็น WORDML ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ
+title: ส่งออก POTM เป็น WORDML บน Andorid ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง POTM เป็น WORDML ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: FLATOPC ODT DOCX DOCM WORD RTF DOTM DOC DOTX OTT TEXT DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แสดง POTM เป็น WORDML บน Andorid ผ่าน Java" h2="รูปแบบไฟล์ API เพื่อแปลง POTM เป็น WORDML ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="แสดง POTM เป็น WORDML บน Andorid ผ่าน Java หรือทางออนไลน์" h2="รูปแบบไฟล์ API เพื่อแปลง POTM เป็น WORDML ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) อนุญาตให้จัดการรูปแบบไฟล์ภายในแอปพลิเคชัน Android ด้วยการใช้ API ที่ให้มาในแพ็คเกจ คุณสามารถทำให้กระบวนการแปลง PowerPoint POTM เป็น Word WORDML ในแอปของคุณเป็นแบบอัตโนมัติ

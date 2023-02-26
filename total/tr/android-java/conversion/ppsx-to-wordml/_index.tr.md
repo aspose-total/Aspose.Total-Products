@@ -1,6 +1,6 @@
 ---
-title: Java aracılığıyla Andorid'de PPSX'u WORDML'a aktarın
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSX'u WORDML'ye dönüştürün
+title: Java aracılığıyla Andorid'de PPSX'u WORDML'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSX'u WORDML'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOCM TEXT DOC DOTX FLATOPC OTT WORD ODT DOT RTF DOTM DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPSX'u WORDML'a dönüştürün" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPSX'u WORDML'ye dönüştürmek için dosya biçimi API'leri" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPSX'u WORDML'a dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPSX'u WORDML'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint PPSX'tan Word WORDML'ye dönüştürme işlemini otomatikleştirebilirsiniz.

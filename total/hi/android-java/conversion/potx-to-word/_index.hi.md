@@ -1,6 +1,6 @@
 ---
-title: जावा के माध्यम से Andorid पर WORD को POTX निर्यात करें
-description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में POTX को WORD में बदलें
+title: जावा के माध्यम से Andorid पर WORD को POTX निर्यात करें या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: बिना किसी सॉफ्टवेयर को इंस्टॉल किए मोबाइल ऐप्स में POTX को WORD में बदलें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: FLATOPC RTF DOCX ODT TEXT DOC DOTX DOCM DOTM OTT WORDML DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंडोरिड पर पीओटी को डीओसी को प्रस्तुत करना" h2="Microsoft PowerPoint या Word पर निर्भर किए बिना Android ऐप्स के भीतर POTX को WORD में बदलने के लिए फ़ाइल स्वरूप API" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंडोरिड पर पीओटी को डीओसी को प्रस्तुत करना या ऑनलाइन" h2="Microsoft PowerPoint या Word पर निर्भर किए बिना Android ऐप्स के भीतर POTX को WORD में बदलने के लिए फ़ाइल स्वरूप API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Android ऐप्लिकेशन के भीतर फ़ाइल स्वरूपों में हेरफेर करने की अनुमति देता है। पैकेज में दिए गए API का उपयोग करके आप अपने ऐप्स में PowerPoint POTX से Word WORD रूपांतरण प्रक्रिया को स्वचालित कर सकते हैं।

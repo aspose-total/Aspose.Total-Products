@@ -1,6 +1,6 @@
 ---
-title: Convierta PPSX a FODS en Android a través de Java o en línea o con el convertidor en línea gratuito
-description: Convierta PPSX a FODS en Android a través de Java o en línea sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+title: Convierta PPSX a FODS en Android a través de Java
+description: Convierta PPSX a FODS en Android a través de Java sin usar Microsoft Excel o PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: MARKDOWN ODS XLSB SXC CSV XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TSV EXCEL MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta PPSX a FODS en Android a través de Java o en línea" h2="Exporte archivos PPSX a FODS en aplicaciones de Android sin utilizar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta PPSX a FODS en Android a través de Java" h2="Exporte archivos PPSX a FODS en aplicaciones de Android sin utilizar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puede convertir fácilmente un archivo PPSX a FODS en sus aplicaciones de Android en un proceso de dos pasos a través de [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). En el primer paso, puede exportar el archivo PPSX a HTML utilizando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). En segundo lugar, al usar [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a FODS. 

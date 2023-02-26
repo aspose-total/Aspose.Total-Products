@@ -1,6 +1,6 @@
 ---
-title: تصدير PPSM إلى RTF على Andorid عبر Java
-description: قم بتحويل PPSM إلى RTF في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
+title: تصدير PPSM إلى RTF على Andorid عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPSM إلى RTF في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOCX DOCM WORDML DOTM OTT ODT DOTX DOC DOT TEXT FLATOPC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPSM إلى RTF على Andorid عبر Java" h2="تنسيق ملف APIs لتحويل PPSM إلى RTF داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPSM إلى RTF على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPSM إلى RTF داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPSM إلى Word RTF في تطبيقاتك.

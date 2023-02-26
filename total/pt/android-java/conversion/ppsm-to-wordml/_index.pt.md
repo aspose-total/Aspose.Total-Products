@@ -1,6 +1,6 @@
 ---
-title: Exportar PPSM para WORDML no Andorid via Java
-description: Converta PPSM para WORDML em aplicativos móveis sem instalar nenhum software
+title: Exportar PPSM para WORDML no Andorid via Java ou com o conversor online gratuito
+description: Converta PPSM para WORDML em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTM DOT RTF WORD FLATOPC DOCM TEXT DOTX DOCX ODT OTT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize PPSM para WORDML no Andorid via Java" h2="APIs de formato de arquivo para converter PPSM para WORDML em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize PPSM para WORDML no Andorid via Java ou online" h2="APIs de formato de arquivo para converter PPSM para WORDML em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint PPSM para Word WORDML em seus aplicativos.

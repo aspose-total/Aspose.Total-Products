@@ -1,6 +1,6 @@
 ---
-title: Java経由でAndoridのFLATOPCにPPSXをエクスポートする
-description: ソフトウェアをインストールせずにモバイルアプリでPPSXをFLATOPCに変換する
+title: Java経由でAndoridのFLATOPCにPPSXをエクスポートする または無料のオンライン コンバーターを使用
+description: ソフトウェアをインストールせずにモバイルアプリでPPSXをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: RTF DOC DOCM DOCX DOT DOTM ODT WORD TEXT WORDML DOTX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのFLATOPCにPPSXをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPSXをFLATOPCに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのFLATOPCにPPSXをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPSXをFLATOPCに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPSXからWordFLATOPCへの変換プロセスを自動化できます。

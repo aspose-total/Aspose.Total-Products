@@ -1,6 +1,6 @@
 ---
-title: تصدير PPSX إلى WORDML على Andorid عبر Java
-description: قم بتحويل PPSX إلى WORDML في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
+title: تصدير PPSX إلى WORDML على Andorid عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPSX إلى WORDML في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOCM TEXT DOC DOTX FLATOPC OTT WORD ODT DOT RTF DOTM DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPSX إلى WORDML على Andorid عبر Java" h2="تنسيق ملف APIs لتحويل PPSX إلى WORDML داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPSX إلى WORDML على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPSX إلى WORDML داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPSX إلى Word WORDML في تطبيقاتك.

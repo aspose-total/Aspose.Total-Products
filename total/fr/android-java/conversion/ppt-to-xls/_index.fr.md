@@ -1,6 +1,6 @@
 ---
-title: Convertir PPT en XLS dans Android via Java ou en ligne ou avec le convertisseur en ligne gratuit
-description: Convertissez PPT en XLS dans Android via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+title: Convertir PPT en XLS dans Android via Java
+description: Convertissez PPT en XLS dans Android via Java sans utiliser Microsoft Excel ou PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS MHTML XLT TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPT en XLS dans Android via Java ou en ligne" h2="Exportez le fichier PPT au format XLS dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPT en XLS dans Android via Java" h2="Exportez le fichier PPT au format XLS dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez facilement convertir le fichier PPT en XLS dans vos applications Android en deux étapes via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier PPT au format HTML en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en XLS. 

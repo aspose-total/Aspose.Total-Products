@@ -1,6 +1,6 @@
 ---
-title: Export POWERPOINT do DOTM na Andorid přes Java
-description: Převeďte POWERPOINT na DOTM v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export POWERPOINT do DOTM na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte POWERPOINT na DOTM v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: WORDML OTT DOTX TEXT RTF FLATOPC DOCX WORD DOCM DOT ODT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte POWERPOINT do DOTM na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod POWERPOINT na DOTM v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte POWERPOINT do DOTM na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod POWERPOINT na DOTM v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint POWERPOINT do Word DOTM ve vašich aplikacích.

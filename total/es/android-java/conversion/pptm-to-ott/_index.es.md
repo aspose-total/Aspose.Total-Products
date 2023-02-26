@@ -1,6 +1,6 @@
 ---
-title: Exportar PPTM a OTT en Andorid a través de Java
-description: Convierta PPTM a OTT en aplicaciones móviles sin instalar ningún software
+title: Exportar PPTM a OTT en Andorid a través de Java o con el convertidor en línea gratuito
+description: Convierta PPTM a OTT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: WORD DOCX FLATOPC WORDML DOTM TEXT DOT DOCM DOTX ODT DOC RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderizar PPTM a OTT en Andorid a través de Java" h2="API de formato de archivo para convertir PPTM a OTT dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderizar PPTM a OTT en Andorid a través de Java o en línea" h2="API de formato de archivo para convertir PPTM a OTT dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite manipular formatos de archivo dentro de las aplicaciones de Android. Al utilizar las API proporcionadas en el paquete, puede automatizar el proceso de conversión de PowerPoint PPTM a Word OTT en sus aplicaciones.

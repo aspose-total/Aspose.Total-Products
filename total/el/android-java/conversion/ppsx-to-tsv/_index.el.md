@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPSX σε TSV στο Android μέσω Java ή διαδικτυακά ή με δωρεάν Online Converter
-description: Μετατροπή PPSX σε TSV στο Android μέσω Java ή διαδικτυακά χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+title: Μετατροπή PPSX σε TSV στο Android μέσω Java
+description: Μετατροπή PPSX σε TSV στο Android μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTX DIF CSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARKDOWN FODS XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSX σε TSV στο Android μέσω Java ή διαδικτυακά" h2="Εξαγωγή αρχείου PPSX σε TSV σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSX σε TSV στο Android μέσω Java" h2="Εξαγωγή αρχείου PPSX σε TSV σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε εύκολα να μετατρέψετε το αρχείο PPSX σε TSV στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Στο πρώτο βήμα, μπορείτε να εξαγάγετε αρχείο PPSX σε HTML χρησιμοποιώντας το [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε TSV. 

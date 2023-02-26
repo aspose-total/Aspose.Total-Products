@@ -1,6 +1,6 @@
 ---
-title: Java経由でAndoridのDOCにPPTをエクスポートする
-description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOCに変換する
+title: Java経由でAndoridのDOCにPPTをエクスポートする または無料のオンライン コンバーターを使用
+description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOCに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOTX RTF DOCX OTT WORD WORDML ODT DOTM TEXT FLATOPC DOT DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのDOCにPPTをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTをDOCに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのDOCにPPTをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTをDOCに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPTからWordDOCへの変換プロセスを自動化できます。

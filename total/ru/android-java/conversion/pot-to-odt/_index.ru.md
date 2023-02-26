@@ -1,6 +1,6 @@
 ---
-title: Экспорт POT в ODT на Andorid через Java
-description: Конвертируйте POT в ODT в мобильных приложениях без установки какого-либо программного обеспечения
+title: Экспорт POT в ODT на Andorid через Java или с помощью бесплатного онлайн-конвертера
+description: Конвертируйте POT в ODT в мобильных приложениях без установки какого-либо программного обеспечения или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTX RTF WORD FLATOPC DOTM DOCM WORDML DOC TEXT DOCX OTT DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Рендеринг POT в ODT на Andorid через Java" h2="API форматов файлов для преобразования POT в ODT в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Рендеринг POT в ODT на Andorid через Java или онлайн" h2="API форматов файлов для преобразования POT в ODT в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) позволяет управлять форматами файлов в приложениях Android. С помощью API-интерфейсов, предоставляемых в пакете, вы можете автоматизировать процесс преобразования PowerPoint POT в Word ODT в своих приложениях.

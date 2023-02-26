@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPSM-ot XLAM-vé Androidon Java segítségével vagy online vagy ingyenes online konverterrel
-description: Konvertálja a PPSM-ot XLAM-vé Androidon Java segítségével vagy online Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+title: Konvertálja a PPSM-ot XLAM-vé Androidon Java segítségével
+description: Konvertálja a PPSM-ot XLAM-vé Androidon Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB CSV FODS ODS XLS XLT MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSM-ot XLAM-vé Androidon Java segítségével vagy online" h2="PPSM-fájl exportálása XLAM-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSM-ot XLAM-vé Androidon Java segítségével" h2="PPSM-fájl exportálása XLAM-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) segítségével kétlépéses folyamatban egyszerűen konvertálhat PPSM-fájlt XLAM-vé Android-alkalmazásaiban. Az első lépésben a PPSM-fájlt exportálhatja HTML-be az [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) használatával. Másodszor, az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLAM-vé. 

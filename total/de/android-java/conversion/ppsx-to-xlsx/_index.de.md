@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPSX in XLSX in Android über Java oder online oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie PPSX in XLSX in Android über Java oder online, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+title: Konvertieren Sie PPSX in XLSX in Android über Java
+description: Konvertieren Sie PPSX in XLSX in Android über Java, ohne Microsoft Excel oder PowerPoint zu verwenden
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF XLAM XLTX CSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPSX in XLSX in Android über Java oder online" h2="Exportieren Sie die PPSX-Datei in Android-Anwendungen in XLSX, ohne Microsoft<sup>&reg;</sup> Excel oder PowerPoint zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPSX in XLSX in Android über Java" h2="Exportieren Sie die PPSX-Datei in Android-Anwendungen in XLSX, ohne Microsoft<sup>&reg;</sup> Excel oder PowerPoint zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die PPSX-Datei in Ihren Android-Anwendungen in einem zweistufigen Prozess über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ganz einfach in XLSX konvertieren. Im ersten Schritt können Sie die PPSX-Datei mithilfe von [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) in HTML exportieren. Zweitens können Sie durch die Verwendung von [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in XLSX konvertieren. 

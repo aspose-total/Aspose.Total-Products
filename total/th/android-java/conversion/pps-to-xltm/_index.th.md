@@ -1,6 +1,6 @@
 ---
-title: แปลง PPS เป็น XLTM ใน Android ผ่าน Java หรือทางออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง PPS เป็น XLTM ใน Android ผ่าน Java หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+title: แปลง PPS เป็น XLTM ใน Android ผ่าน Java
+description: แปลง PPS เป็น XLTM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: SXC XLSB XLAM DIF XLTX CSV XLSX FODS XLT XLSM ODS MHTML MARKDOWN XLS EXCEL TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง PPS เป็น XLTM ใน Android ผ่าน Java หรือทางออนไลน์" h2="ส่งออกไฟล์ PPS เป็น XLTM ในแอปพลิเคชัน Android โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง PPS เป็น XLTM ใน Android ผ่าน Java" h2="ส่งออกไฟล์ PPS เป็น XLTM ในแอปพลิเคชัน Android โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 คุณสามารถแปลงไฟล์ PPS เป็น XLTM ในแอปพลิเคชัน Android ของคุณได้อย่างง่ายดายด้วยกระบวนการสองขั้นตอนผ่าน [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ในขั้นตอนแรก คุณสามารถส่งออกไฟล์ PPS เป็น HTML ได้โดยใช้ [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) ประการที่สอง โดยใช้ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) คุณสามารถแปลง HTML เป็น XLTM 

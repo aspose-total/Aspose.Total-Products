@@ -1,6 +1,6 @@
 ---
-title: Eksportuj POWERPOINT do DOT na Androidzie przez Javę
-description: Konwertuj POWERPOINT na DOT w aplikacjach mobilnych bez instalowania żadnego oprogramowania
+title: Eksportuj POWERPOINT do DOT na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POWERPOINT na DOT w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOCM DOTX OTT WORD DOTM TEXT WORDML DOC ODT DOCX FLATOPC RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderuj POWERPOINT do DOT na Androidzie przez Javę" h2="Interfejsy API formatów plików do konwersji POWERPOINT na DOT w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj POWERPOINT do DOT na Androidzie przez Javę lub online" h2="Interfejsy API formatów plików do konwersji POWERPOINT na DOT w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) umożliwia manipulowanie formatami plików w aplikacjach na Androida. Korzystając z interfejsów API dostarczonych w pakiecie, możesz zautomatyzować proces konwersji PowerPoint POWERPOINT do Word DOT w swoich aplikacjach.

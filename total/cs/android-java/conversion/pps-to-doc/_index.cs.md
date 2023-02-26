@@ -1,6 +1,6 @@
 ---
-title: Export PPS do DOC na Andorid přes Java
-description: Převeďte PPS na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export PPS do DOC na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPS na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCM TEXT DOTX DOT OTT DOCX RTF ODT DOTM WORDML WORD FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPS do DOC na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod PPS na DOC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPS do DOC na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPS na DOC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPS do Word DOC ve vašich aplikacích.

@@ -1,6 +1,6 @@
 ---
-title: Export PPTM do DOC na Andorid přes Java
-description: Převeďte PPTM na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export PPTM do DOC na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPTM na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOT DOCM ODT TEXT RTF DOTX WORD DOCX DOTM WORDML OTT FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPTM do DOC na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod PPTM na DOC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPTM do DOC na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPTM na DOC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPTM do Word DOC ve vašich aplikacích.

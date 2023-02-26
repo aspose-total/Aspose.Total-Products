@@ -1,6 +1,6 @@
 ---
-title: Преобразование POTM в TSV в Android через Java или онлайн или с помощью бесплатного онлайн-конвертера
-description: Преобразование POTM в TSV в Android через Java или онлайн без использования Microsoft Excel или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+title: Преобразование POTM в TSV в Android через Java
+description: Преобразование POTM в TSV в Android через Java без использования Microsoft Excel или PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTX XLT DIF SXC XLSB XLS FODS CSV EXCEL XLAM MARKDOWN XLTM MHTML XLSM XLSX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование POTM в TSV в Android через Java или онлайн" h2="Экспорт файла POTM в TSV в приложениях Android без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование POTM в TSV в Android через Java" h2="Экспорт файла POTM в TSV в приложениях Android без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете легко преобразовать файл POTM в TSV в своих приложениях для Android, выполнив двухэтапный процесс с помощью [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). На первом этапе вы можете экспортировать файл POTM в HTML, используя [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Во-вторых, используя [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в TSV. 

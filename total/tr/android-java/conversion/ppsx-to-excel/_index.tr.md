@@ -1,6 +1,6 @@
 ---
-title: Java ile Android'de PPSX'u EXCEL'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPSX'u Android'de EXCEL'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+title: Java ile Android'de PPSX'u EXCEL'ye dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPSX'u Android'de EXCEL'ye dönüştürün
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM CSV FODS XLSM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPSX'u EXCEL'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPSX dosyasını EXCEL'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPSX'u EXCEL'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPSX dosyasını EXCEL'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPSX dosyasını Android uygulamalarınızda kolayca EXCEL'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPSX dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi EXCEL'ye dönüştürebilirsiniz. 

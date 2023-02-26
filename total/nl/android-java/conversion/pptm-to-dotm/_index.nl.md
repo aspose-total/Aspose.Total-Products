@@ -1,6 +1,6 @@
 ---
-title: Exporteer PPTM naar DOTM op Andorid via Java
-description: Converteer PPTM naar DOTM in mobiele apps zonder software te installeren
+title: Exporteer PPTM naar DOTM op Andorid via Java of met gratis Online Converter
+description: Converteer PPTM naar DOTM in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: DOTX DOCM DOCX RTF WORDML FLATOPC DOT ODT TEXT WORD OTT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPTM naar DOTM op Andorid via Java" h2="Bestandsformaat-API's om PPTM naar DOTM te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPTM naar DOTM op Andorid via Java of online" h2="Bestandsformaat-API's om PPTM naar DOTM te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint PPTM naar Word DOTM in uw apps automatiseren.

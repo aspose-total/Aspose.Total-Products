@@ -1,6 +1,6 @@
 ---
-title: 通过 Java 将 PPS 导出到 Andorid 上的 DOTX
-description: 在移动应用程序中将 PPS 转换为 DOTX，无需安装任何软件
+title: 通过 Java 将 PPS 导出到 Andorid 上的 DOTX 或使用免费的在线转换器
+description: 在移动应用程序中将 PPS 转换为 DOTX，无需安装任何软件 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: TEXT DOCX OTT ODT FLATOPC DOC DOT WORDML DOTM DOCM WORD RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Andorid 上将 PPS 渲染到 DOTX" h2="文件格式 API 可在 Android 应用程序中将 PPS 转换为 DOTX，而不依赖于 Microsoft PowerPoint 或 Word" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Andorid 上将 PPS 渲染到 DOTX 或在线" h2="文件格式 API 可在 Android 应用程序中将 PPS 转换为 DOTX，而不依赖于 Microsoft PowerPoint 或 Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 允许在 Android 应用程序中操作文件格式。通过使用包中提供的 API，您可以在您的应用程序中自动执行 PowerPoint PPS 到 Word DOTX 的转换过程。

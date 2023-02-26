@@ -1,6 +1,6 @@
 ---
-title: Exportar PPS a DOT en Andorid a través de Java
-description: Convierta PPS a DOT en aplicaciones móviles sin instalar ningún software
+title: Exportar PPS a DOT en Andorid a través de Java o con el convertidor en línea gratuito
+description: Convierta PPS a DOT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOC DOTM DOCM FLATOPC DOTX RTF WORD DOCX TEXT ODT OTT WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderizar PPS a DOT en Andorid a través de Java" h2="API de formato de archivo para convertir PPS a DOT dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderizar PPS a DOT en Andorid a través de Java o en línea" h2="API de formato de archivo para convertir PPS a DOT dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite manipular formatos de archivo dentro de las aplicaciones de Android. Al utilizar las API proporcionadas en el paquete, puede automatizar el proceso de conversión de PowerPoint PPS a Word DOT en sus aplicaciones.

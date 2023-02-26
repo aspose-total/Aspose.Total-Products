@@ -1,6 +1,6 @@
 ---
-title: Eksportuj POTX do RTF na Androidzie przez Javę
-description: Konwertuj POTX na RTF w aplikacjach mobilnych bez instalowania żadnego oprogramowania
+title: Eksportuj POTX do RTF na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POTX na RTF w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: FLATOPC OTT WORD DOTM DOCM DOC DOTX DOT DOCX WORDML TEXT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderuj POTX do RTF na Androidzie przez Javę" h2="Interfejsy API formatów plików do konwersji POTX na RTF w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj POTX do RTF na Androidzie przez Javę lub online" h2="Interfejsy API formatów plików do konwersji POTX na RTF w aplikacjach na Androida bez konieczności korzystania z programu Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) umożliwia manipulowanie formatami plików w aplikacjach na Androida. Korzystając z interfejsów API dostarczonych w pakiecie, możesz zautomatyzować proces konwersji PowerPoint POTX do Word RTF w swoich aplikacjach.

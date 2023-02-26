@@ -1,6 +1,6 @@
 ---
-title: Javaを介してAndroidでPPSXをMARKDOWNに変換する またはオンライン または無料のオンライン コンバーターを使用
-description: Microsoft ExcelまたはPowerPointを使用せずに、Javaを介してAndroidでPPSXをMARKDOWNに変換する またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+title: Javaを介してAndroidでPPSXをMARKDOWNに変換する
+description: Microsoft ExcelまたはPowerPointを使用せずに、Javaを介してAndroidでPPSXをMARKDOWNに変換する
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM CSV TSV DIF XLT XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPPSXをMARKDOWNに変換する またはオンライン" h2="Microsoft <sup>＆reg; </sup>ExcelまたはPowerPointを使用せずにAndroidアプリケーションでPPSXファイルをMARKDOWNにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPPSXをMARKDOWNに変換する" h2="Microsoft <sup>＆reg; </sup>ExcelまたはPowerPointを使用せずにAndroidアプリケーションでPPSXファイルをMARKDOWNにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、AndroidアプリケーションでPPSXファイルをMARKDOWNに簡単に変換できます。最初のステップでは、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用してPPSXファイルをHTMLにエクスポートできます。次に、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用すると、HTMLをMARKDOWNに変換できます。 

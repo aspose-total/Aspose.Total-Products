@@ -1,6 +1,6 @@
 ---
-title: Java ile Android'de POT'u TSV'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla POT'u Android'de TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+title: Java ile Android'de POT'u TSV'ye dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla POT'u Android'de TSV'ye dönüştürün
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS EXCEL CSV XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java ile Android'de POT'u TSV'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında POT dosyasını TSV'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Java ile Android'de POT'u TSV'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında POT dosyasını TSV'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle POT dosyasını Android uygulamalarınızda kolayca TSV'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak POT dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi TSV'ye dönüştürebilirsiniz. 

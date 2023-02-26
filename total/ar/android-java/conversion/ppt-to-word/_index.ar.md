@@ -1,6 +1,6 @@
 ---
-title: تصدير PPT إلى WORD على Andorid عبر Java
-description: قم بتحويل PPT إلى WORD في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
+title: تصدير PPT إلى WORD على Andorid عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPT إلى WORD في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOTX DOC DOTM ODT DOCM RTF DOCX OTT WORDML TEXT FLATOPC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPT إلى WORD على Andorid عبر Java" h2="تنسيق ملف APIs لتحويل PPT إلى WORD داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPT إلى WORD على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPT إلى WORD داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPT إلى Word WORD في تطبيقاتك.

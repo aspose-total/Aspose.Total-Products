@@ -1,6 +1,6 @@
 ---
-title: تصدير POT إلى DOCM على Andorid عبر Java
-description: قم بتحويل POT إلى DOCM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
+title: تصدير POT إلى DOCM على Andorid عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل POT إلى DOCM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: DOTX TEXT WORD DOCX DOT DOC FLATOPC ODT WORDML OTT RTF DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم POT إلى DOCM على Andorid عبر Java" h2="تنسيق ملف APIs لتحويل POT إلى DOCM داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم POT إلى DOCM على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POT إلى DOCM داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POT إلى Word DOCM في تطبيقاتك.

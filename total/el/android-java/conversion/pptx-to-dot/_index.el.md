@@ -1,6 +1,6 @@
 ---
-title: Εξαγωγή PPTX σε DOT στο Andorid μέσω Java
-description: Μετατρέψτε το PPTX σε DOT σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού
+title: Εξαγωγή PPTX σε DOT στο Andorid μέσω Java ή με δωρεάν Online Converter
+description: Μετατρέψτε το PPTX σε DOT σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: WORDML DOTX ODT TEXT DOTM OTT DOC DOCX DOCM RTF WORD FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Αποδώστε το PPTX στο DOT στο Andorid μέσω Java" h2="API μορφής αρχείου για μετατροπή PPTX σε DOT εντός εφαρμογών Android χωρίς να εξαρτάται από το Microsoft PowerPoint ή το Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Αποδώστε το PPTX στο DOT στο Andorid μέσω Java ή διαδικτυακά" h2="API μορφής αρχείου για μετατροπή PPTX σε DOT εντός εφαρμογών Android χωρίς να εξαρτάται από το Microsoft PowerPoint ή το Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) επιτρέπει τον χειρισμό μορφών αρχείων εντός εφαρμογών Android. Χρησιμοποιώντας τα API που παρέχονται στο πακέτο, μπορείτε να αυτοματοποιήσετε τη διαδικασία μετατροπής PowerPoint PPTX σε Word DOT στις εφαρμογές σας.

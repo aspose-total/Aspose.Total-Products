@@ -1,6 +1,6 @@
 ---
-title: Экспорт POWERPOINT в DOC на Andorid через Java
-description: Конвертируйте POWERPOINT в DOC в мобильных приложениях без установки какого-либо программного обеспечения
+title: Экспорт POWERPOINT в DOC на Andorid через Java или с помощью бесплатного онлайн-конвертера
+description: Конвертируйте POWERPOINT в DOC в мобильных приложениях без установки какого-либо программного обеспечения или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD DOTX DOCM ODT OTT RTF FLATOPC DOTM WORDML DOT TEXT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Рендеринг POWERPOINT в DOC на Andorid через Java" h2="API форматов файлов для преобразования POWERPOINT в DOC в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Рендеринг POWERPOINT в DOC на Andorid через Java или онлайн" h2="API форматов файлов для преобразования POWERPOINT в DOC в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) позволяет управлять форматами файлов в приложениях Android. С помощью API-интерфейсов, предоставляемых в пакете, вы можете автоматизировать процесс преобразования PowerPoint POWERPOINT в Word DOC в своих приложениях.

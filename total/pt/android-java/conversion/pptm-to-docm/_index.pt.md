@@ -1,6 +1,6 @@
 ---
-title: Exportar PPTM para DOCM no Andorid via Java
-description: Converta PPTM para DOCM em aplicativos móveis sem instalar nenhum software
+title: Exportar PPTM para DOCM no Andorid via Java ou com o conversor online gratuito
+description: Converta PPTM para DOCM em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: TEXT DOCX WORD DOTM RTF WORDML DOT DOTX OTT FLATOPC DOC ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize PPTM para DOCM no Andorid via Java" h2="APIs de formato de arquivo para converter PPTM para DOCM em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize PPTM para DOCM no Andorid via Java ou online" h2="APIs de formato de arquivo para converter PPTM para DOCM em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint PPTM para Word DOCM em seus aplicativos.

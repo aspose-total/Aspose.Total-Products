@@ -1,6 +1,6 @@
 ---
-title: Export POTX do DOC na Andorid přes Java
-description: Převeďte POTX na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru
+title: Export POTX do DOC na Andorid přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte POTX na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOT ODT DOCM TEXT DOTX WORDML FLATOPC OTT DOTM WORD RTF DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte POTX do DOC na Andoridu přes Javu" h2="Rozhraní API pro formát souborů pro převod POTX na DOC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte POTX do DOC na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod POTX na DOC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint POTX do Word DOC ve vašich aplikacích.

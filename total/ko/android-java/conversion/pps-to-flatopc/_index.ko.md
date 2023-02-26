@@ -1,6 +1,6 @@
 ---
-title: Java를 통해 Andorid의 FLATOPC로 PPS 내보내기
-description: 소프트웨어를 설치하지 않고 모바일 앱에서 PPS을 FLATOPC로 변환
+title: Java를 통해 Andorid의 FLATOPC로 PPS 내보내기 또는 무료 온라인 변환기 사용
+description: 소프트웨어를 설치하지 않고 모바일 앱에서 PPS을 FLATOPC로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOCX ODT DOT DOC DOTM TEXT RTF OTT WORD DOCM DOTX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java를 통해 Andorid에서 PPS을 FLATOPC로 렌더링" h2="Microsoft PowerPoint 또는 Word에 의존하지 않고 Android 앱 내에서 PPS를 FLATOPC로 변환하는 파일 형식 API" >}}
+{{< blocks/products/pf/feature-page-header h1="Java를 통해 Andorid에서 PPS을 FLATOPC로 렌더링 또는 온라인" h2="Microsoft PowerPoint 또는 Word에 의존하지 않고 Android 앱 내에서 PPS를 FLATOPC로 변환하는 파일 형식 API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 사용하면 Android 애플리케이션 내에서 파일 형식을 조작할 수 있습니다. 패키지에 제공된 API를 사용하여 앱에서 PowerPoint PPS에서 Word FLATOPC로의 변환 프로세스를 자동화할 수 있습니다.

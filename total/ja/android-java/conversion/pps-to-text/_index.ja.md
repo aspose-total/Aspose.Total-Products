@@ -1,6 +1,6 @@
 ---
-title: Java経由でAndoridのTEXTにPPSをエクスポートする
-description: ソフトウェアをインストールせずにモバイルアプリでPPSをTEXTに変換する
+title: Java経由でAndoridのTEXTにPPSをエクスポートする または無料のオンライン コンバーターを使用
+description: ソフトウェアをインストールせずにモバイルアプリでPPSをTEXTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: WORD DOTM DOC RTF FLATOPC DOCM WORDML DOCX DOTX OTT DOT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのTEXTにPPSをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPSをTEXTに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのTEXTにPPSをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPSをTEXTに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPSからWordTEXTへの変換プロセスを自動化できます。

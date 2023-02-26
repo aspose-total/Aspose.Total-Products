@@ -1,6 +1,6 @@
 ---
-title: Java aracılığıyla Andorid'de PPTM'u WORD'a aktarın
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u WORD'ye dönüştürün
+title: Java aracılığıyla Andorid'de PPTM'u WORD'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: ODT TEXT DOTM WORDML DOC RTF DOT DOTX DOCM FLATOPC OTT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPTM'u WORD'a dönüştürün" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPTM'u WORD'ye dönüştürmek için dosya biçimi API'leri" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPTM'u WORD'a dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPTM'u WORD'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint PPTM'tan Word WORD'ye dönüştürme işlemini otomatikleştirebilirsiniz.

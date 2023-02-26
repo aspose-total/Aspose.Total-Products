@@ -1,6 +1,6 @@
 ---
-title: Convert PPTX to CSV in Android via Java or online
-description: Convert PPTX to CSV in Android via Java or online without using using Microsoft Excel or PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTX to CSV in Android via Java
+description: Convert PPTX to CSV in Android via Java without using using Microsoft Excel or PowerPoint
 url_ignore: /android-java/conversion/pptx-to-csv/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DIF MHTML EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPTX to CSV in Android via Java or online" h2="Export PPTX file to CSV in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPTX to CSV in Android via Java" h2="Export PPTX file to CSV in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can easily convert PPTX file to CSV in your Android applications in a two-step process via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In the first step you can export PPTX file to HTML by using [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Secondly, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to CSV.

@@ -1,6 +1,6 @@
 ---
-title: تصدير PPS إلى OTT على Andorid عبر Java
-description: قم بتحويل PPS إلى OTT في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج
+title: تصدير PPS إلى OTT على Andorid عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPS إلى OTT في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOTM TEXT WORD FLATOPC WORDML RTF DOCX DOTX DOCM ODT DOT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPS إلى OTT على Andorid عبر Java" h2="تنسيق ملف APIs لتحويل PPS إلى OTT داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPS إلى OTT على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPS إلى OTT داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPS إلى Word OTT في تطبيقاتك.

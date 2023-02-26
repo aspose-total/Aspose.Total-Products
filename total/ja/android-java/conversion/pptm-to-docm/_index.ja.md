@@ -1,6 +1,6 @@
 ---
-title: Java経由でAndoridのDOCMにPPTMをエクスポートする
-description: ソフトウェアをインストールせずにモバイルアプリでPPTMをDOCMに変換する
+title: Java経由でAndoridのDOCMにPPTMをエクスポートする または無料のオンライン コンバーターを使用
+description: ソフトウェアをインストールせずにモバイルアプリでPPTMをDOCMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: TEXT DOCX WORD DOTM RTF WORDML DOT DOTX OTT FLATOPC DOC ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのDOCMにPPTMをレンダリングする" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTMをDOCMに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのDOCMにPPTMをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTMをDOCMに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPTMからWordDOCMへの変換プロセスを自動化できます。

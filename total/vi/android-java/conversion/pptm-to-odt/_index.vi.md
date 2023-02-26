@@ -1,6 +1,6 @@
 ---
-title: Xuất PPTM sang ODT trên Andorid qua Java
-description: Chuyển đổi PPTM sang ODT trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào
+title: Xuất PPTM sang ODT trên Andorid qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi PPTM sang ODT trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOT WORDML DOCX DOC DOTX FLATOPC DOTM RTF TEXT WORD DOCM OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Kết xuất PPTM sang ODT trên Andorid qua Java" h2="Các API định dạng tệp để chuyển đổi PPTM sang ODT trong ứng dụng Android mà không phụ thuộc vào Microsoft PowerPoint hoặc Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Kết xuất PPTM sang ODT trên Andorid qua Java hoặc trực tuyến" h2="Các API định dạng tệp để chuyển đổi PPTM sang ODT trong ứng dụng Android mà không phụ thuộc vào Microsoft PowerPoint hoặc Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) cho phép thao tác các định dạng tệp trong các ứng dụng Android. Bằng cách sử dụng các API được cung cấp trong gói, bạn có thể tự động hóa quy trình chuyển đổi PowerPoint PPTM sang Word ODT trong ứng dụng của mình.

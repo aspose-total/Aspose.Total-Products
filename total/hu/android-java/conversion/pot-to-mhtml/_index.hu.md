@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a POT-ot MHTML-vé Androidon Java segítségével vagy online vagy ingyenes online konverterrel
-description: Konvertálja a POT-ot MHTML-vé Androidon Java segítségével vagy online Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+title: Konvertálja a POT-ot MHTML-vé Androidon Java segítségével
+description: Konvertálja a POT-ot MHTML-vé Androidon Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM ODS TSV EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a POT-ot MHTML-vé Androidon Java segítségével vagy online" h2="POT-fájl exportálása MHTML-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a POT-ot MHTML-vé Androidon Java segítségével" h2="POT-fájl exportálása MHTML-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) segítségével kétlépéses folyamatban egyszerűen konvertálhat POT-fájlt MHTML-vé Android-alkalmazásaiban. Az első lépésben a POT-fájlt exportálhatja HTML-be az [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) használatával. Másodszor, az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t MHTML-vé. 

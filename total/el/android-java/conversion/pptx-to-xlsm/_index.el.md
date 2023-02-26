@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPTX σε XLSM στο Android μέσω Java ή διαδικτυακά ή με δωρεάν Online Converter
-description: Μετατροπή PPTX σε XLSM στο Android μέσω Java ή διαδικτυακά χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+title: Μετατροπή PPTX σε XLSM στο Android μέσω Java
+description: Μετατροπή PPTX σε XLSM στο Android μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS CSV MHTML ODS XLSX MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPTX σε XLSM στο Android μέσω Java ή διαδικτυακά" h2="Εξαγωγή αρχείου PPTX σε XLSM σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPTX σε XLSM στο Android μέσω Java" h2="Εξαγωγή αρχείου PPTX σε XLSM σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε εύκολα να μετατρέψετε το αρχείο PPTX σε XLSM στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Στο πρώτο βήμα, μπορείτε να εξαγάγετε αρχείο PPTX σε HTML χρησιμοποιώντας το [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLSM. 

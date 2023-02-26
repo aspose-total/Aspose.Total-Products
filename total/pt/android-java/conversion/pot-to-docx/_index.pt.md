@@ -1,6 +1,6 @@
 ---
-title: Exportar POT para DOCX no Andorid via Java
-description: Converta POT para DOCX em aplicativos móveis sem instalar nenhum software
+title: Exportar POT para DOCX no Andorid via Java ou com o conversor online gratuito
+description: Converta POT para DOCX em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORDML OTT DOT DOC DOTM DOTX ODT DOCM FLATOPC WORD RTF TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize POT para DOCX no Andorid via Java" h2="APIs de formato de arquivo para converter POT para DOCX em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize POT para DOCX no Andorid via Java ou online" h2="APIs de formato de arquivo para converter POT para DOCX em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint POT para Word DOCX em seus aplicativos.
