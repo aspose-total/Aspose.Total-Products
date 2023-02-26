@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak POWERPOINT'yi XLSB'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda POWERPOINT'den XLSB'e dönüştürme 
+title: Python kullanarak POWERPOINT'yi XLSB'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda POWERPOINT'den XLSB'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POWERPOINT'yi Python aracılığıyla XLSB'e dönüştürün" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda POWERPOINT'den XLSB'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="POWERPOINT'yi Python aracılığıyla XLSB'e dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda POWERPOINT'den XLSB'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

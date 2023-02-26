@@ -1,6 +1,6 @@
 ---
-title: Преобразование POWERPOINT в TSV с помощью Python
-description: Преобразование POWERPOINT в TSV в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование POWERPOINT в TSV с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование POWERPOINT в TSV в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование POWERPOINT в TSV через Python" h2="Преобразование POWERPOINT в TSV в приложениях Python без установки Microsoft PowerPoint<sup>&reg;</sup> или Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование POWERPOINT в TSV через Python или онлайн" h2="Преобразование POWERPOINT в TSV в приложениях Python без установки Microsoft PowerPoint<sup>&reg;</sup> или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

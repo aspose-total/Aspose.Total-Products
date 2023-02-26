@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak PPSX'yi XLS'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda PPSX'den XLS'e dönüştürme 
+title: Python kullanarak PPSX'yi XLS'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda PPSX'den XLS'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPSX'yi Python aracılığıyla XLS'e dönüştürün" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda PPSX'den XLS'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="PPSX'yi Python aracılığıyla XLS'e dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda PPSX'den XLS'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

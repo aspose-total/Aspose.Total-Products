@@ -1,6 +1,6 @@
 ---
-title: Преобразование POTM в XLTX с помощью Python
-description: Преобразование POTM в XLTX в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование POTM в XLTX с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование POTM в XLTX в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование POTM в XLTX через Python" h2="Преобразование POTM в XLTX в приложениях Python без установки Microsoft PowerPoint<sup>&reg;</sup> или Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование POTM в XLTX через Python или онлайн" h2="Преобразование POTM в XLTX в приложениях Python без установки Microsoft PowerPoint<sup>&reg;</sup> или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

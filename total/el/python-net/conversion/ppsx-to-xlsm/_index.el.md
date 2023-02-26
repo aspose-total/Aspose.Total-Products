@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPSX σε XLSM χρησιμοποιώντας Python
-description: Μετατροπή PPSX σε XLSM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office 
+title: Μετατροπή PPSX σε XLSM χρησιμοποιώντας Python ή με δωρεάν Online Converter
+description: Μετατροπή PPSX σε XLSM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSX σε XLSM μέσω Python" h2="Μετατροπή PPSX σε XLSM στις εφαρμογές Python χωρίς εγκατάσταση του Microsoft PowerPoint<sup>&reg;</sup> ή του Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSX σε XLSM μέσω Python ή διαδικτυακά" h2="Μετατροπή PPSX σε XLSM στις εφαρμογές Python χωρίς εγκατάσταση του Microsoft PowerPoint<sup>&reg;</sup> ή του Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPSX till TSV med Python
-description: PPSX till TSV-konvertering i dina Python-applikationer utan att använda Microsoft Office 
+title: Konvertera PPSX till TSV med Python eller med gratis Online Converter
+description: PPSX till TSV-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera PPSX till TSV via Python" h2="PPSX till TSV-konvertering i dina Python-applikationer utan att installera Microsoft PowerPoint<sup>&reg;</sup> eller Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera PPSX till TSV via Python eller online" h2="PPSX till TSV-konvertering i dina Python-applikationer utan att installera Microsoft PowerPoint<sup>&reg;</sup> eller Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

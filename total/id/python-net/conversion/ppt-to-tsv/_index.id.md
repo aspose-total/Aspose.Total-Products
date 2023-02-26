@@ -1,6 +1,6 @@
 ---
-title: Konversikan PPT ke TSV menggunakan Python
-description: Konversi PPT ke TSV di aplikasi Python Anda tanpa menggunakan Microsoft Office 
+title: Konversikan PPT ke TSV menggunakan Python atau dengan Konverter Online gratis
+description: Konversi PPT ke TSV di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan PPT ke TSV melalui Python" h2="Konversi PPT ke TSV di aplikasi Python Anda tanpa menginstal Microsoft PowerPoint<sup>&reg;</sup> atau Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan PPT ke TSV melalui Python atau daring" h2="Konversi PPT ke TSV di aplikasi Python Anda tanpa menginstal Microsoft PowerPoint<sup>&reg;</sup> atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

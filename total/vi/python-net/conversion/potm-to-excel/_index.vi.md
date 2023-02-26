@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi POTM sang EXCEL bằng Python
-description: Chuyển đổi POTM sang EXCEL trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office 
+title: Chuyển đổi POTM sang EXCEL bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi POTM sang EXCEL trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi POTM sang EXCEL qua Python" h2="Chuyển đổi POTM sang EXCEL trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft PowerPoint<sup>&reg;</sup> hoặc Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi POTM sang EXCEL qua Python hoặc trực tuyến" h2="Chuyển đổi POTM sang EXCEL trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft PowerPoint<sup>&reg;</sup> hoặc Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

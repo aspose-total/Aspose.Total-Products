@@ -1,6 +1,6 @@
 ---
-title: Convert POTM to XLS using Python
-description: POTM to XLS conversion in your Python applications without using Microsoft Office 
+title: Convert POTM to XLS using Python or with free Online Converter
+description: POTM to XLS conversion in your Python applications without using Microsoft Office or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POTM to XLS via Python" h2="POTM to XLS conversion in your Python applications without installing Microsoft PowerPoint<sup>&reg;</sup> or Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POTM to XLS via Python or online" h2="POTM to XLS conversion in your Python applications without installing Microsoft PowerPoint<sup>&reg;</sup> or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

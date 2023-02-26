@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPSM na XLSM pomocí Pythonu
-description: Převod PPSM na XLSM ve vašich aplikacích Python bez použití Microsoft Office 
+title: Převeďte PPSM na XLSM pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod PPSM na XLSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést PPSM na XLSM pomocí Pythonu" h2="Převod PPSM na XLSM ve vašich aplikacích Python bez instalace Microsoft PowerPoint<sup>&reg;</sup> nebo Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést PPSM na XLSM pomocí Pythonu nebo online" h2="Převod PPSM na XLSM ve vašich aplikacích Python bez instalace Microsoft PowerPoint<sup>&reg;</sup> nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

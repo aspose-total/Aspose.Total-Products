@@ -1,6 +1,6 @@
 ---
-title: แปลง POTX เป็น XLSB โดยใช้ Python
-description: การแปลง POTX เป็น XLSB ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office 
+title: แปลง POTX เป็น XLSB โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง POTX เป็น XLSB ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง POTX เป็น XLSB ผ่าน Python" h2="การแปลง POTX เป็น XLSB ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft PowerPoint<sup>&reg;</sup> หรือ Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง POTX เป็น XLSB ผ่าน Python หรือทางออนไลน์" h2="การแปลง POTX เป็น XLSB ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft PowerPoint<sup>&reg;</sup> หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

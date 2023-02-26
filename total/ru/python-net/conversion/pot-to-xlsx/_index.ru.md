@@ -1,6 +1,6 @@
 ---
-title: Преобразование POT в XLSX с помощью Python
-description: Преобразование POT в XLSX в ваших приложениях Python без использования Microsoft Office 
+title: Преобразование POT в XLSX с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование POT в XLSX в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование POT в XLSX через Python" h2="Преобразование POT в XLSX в приложениях Python без установки Microsoft PowerPoint<sup>&reg;</sup> или Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование POT в XLSX через Python или онлайн" h2="Преобразование POT в XLSX в приложениях Python без установки Microsoft PowerPoint<sup>&reg;</sup> или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

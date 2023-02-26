@@ -1,6 +1,6 @@
 ---
-title: Convierte PPTX a TSV usando Python
-description: Conversión de PPTX a TSV en sus aplicaciones de Python sin usar Microsoft Office 
+title: Convierte PPTX a TSV usando Python o con el convertidor en línea gratuito
+description: Conversión de PPTX a TSV en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPTX a TSV a través de Python" h2="Conversión de PPTX a TSV en sus aplicaciones Python sin instalar Microsoft PowerPoint<sup>&reg;</sup> o Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPTX a TSV a través de Python o en línea" h2="Conversión de PPTX a TSV en sus aplicaciones Python sin instalar Microsoft PowerPoint<sup>&reg;</sup> o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

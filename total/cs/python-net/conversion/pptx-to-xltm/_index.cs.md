@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPTX na XLTM pomocí Pythonu
-description: Převod PPTX na XLTM ve vašich aplikacích Python bez použití Microsoft Office 
+title: Převeďte PPTX na XLTM pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod PPTX na XLTM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést PPTX na XLTM pomocí Pythonu" h2="Převod PPTX na XLTM ve vašich aplikacích Python bez instalace Microsoft PowerPoint<sup>&reg;</sup> nebo Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést PPTX na XLTM pomocí Pythonu nebo online" h2="Převod PPTX na XLTM ve vašich aplikacích Python bez instalace Microsoft PowerPoint<sup>&reg;</sup> nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

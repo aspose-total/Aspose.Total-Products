@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POTM in CSV mit Python
-description: Konvertierung von POTM in CSV in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office 
+title: Konvertieren Sie POTM in CSV mit Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von POTM in CSV in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTM über Python in CSV" h2="Konvertierung von POTM in CSV in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTM über Python in CSV oder online" h2="Konvertierung von POTM in CSV in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

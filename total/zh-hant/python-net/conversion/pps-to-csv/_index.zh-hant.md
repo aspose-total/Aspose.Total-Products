@@ -1,6 +1,6 @@
 ---
-title: 使用 Python 將 PPS 轉換為 CSV
-description: 在不使用 Microsoft Office 的情況下在 Python 應用程序中將 PPS 轉換為 CSV 
+title: 使用 Python 將 PPS 轉換為 CSV 或使用免費的在線轉換器
+description: 在不使用 Microsoft Office 的情況下在 Python 應用程序中將 PPS 轉換為 CSV 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Python 將 PPS 轉換為 CSV" h2="無需安裝 Microsoft PowerPoint<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 PPS 轉換為 CSV" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Python 將 PPS 轉換為 CSV 或在線" h2="無需安裝 Microsoft PowerPoint<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 PPS 轉換為 CSV" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

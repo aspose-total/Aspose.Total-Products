@@ -1,6 +1,6 @@
 ---
-title: Converteer PPSX naar EXCEL met behulp van Python
-description: PPSX naar EXCEL-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken 
+title: Converteer PPSX naar EXCEL met behulp van Python of met gratis Online Converter
+description: PPSX naar EXCEL-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar EXCEL via Python" h2="PPSX naar EXCEL-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar EXCEL via Python of online" h2="PPSX naar EXCEL-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

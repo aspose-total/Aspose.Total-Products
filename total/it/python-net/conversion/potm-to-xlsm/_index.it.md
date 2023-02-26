@@ -1,6 +1,6 @@
 ---
-title: Converti POTM in XLSM usando Python
-description: Conversione da POTM a XLSM nelle tue applicazioni Python senza utilizzare Microsoft Office 
+title: Converti POTM in XLSM usando Python o con il convertitore online gratuito
+description: Conversione da POTM a XLSM nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti POTM in XLSM tramite Python" h2="Conversione da POTM a XLSM nelle tue applicazioni Python senza installare Microsoft PowerPoint<sup>&reg;</sup> o Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti POTM in XLSM tramite Python o in linea" h2="Conversione da POTM a XLSM nelle tue applicazioni Python senza installare Microsoft PowerPoint<sup>&reg;</sup> o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

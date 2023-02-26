@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPT in XLS mit Python
-description: Konvertierung von PPT in XLS in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office 
+title: Konvertieren Sie PPT in XLS mit Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von PPT in XLS in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPT über Python in XLS" h2="Konvertierung von PPT in XLS in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPT über Python in XLS oder online" h2="Konvertierung von PPT in XLS in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

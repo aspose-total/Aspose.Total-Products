@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak PPT'yi XLTX'e dönüştürün
-description: Microsoft Office kullanmadan Python uygulamalarınızda PPT'den XLTX'e dönüştürme 
+title: Python kullanarak PPT'yi XLTX'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Office kullanmadan Python uygulamalarınızda PPT'den XLTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPT'yi Python aracılığıyla XLTX'e dönüştürün" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda PPT'den XLTX'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="PPT'yi Python aracılığıyla XLTX'e dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda PPT'den XLTX'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

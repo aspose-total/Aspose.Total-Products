@@ -1,6 +1,6 @@
 ---
-title: Converteer POWERPOINT naar CSV met behulp van Python
-description: POWERPOINT naar CSV-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken 
+title: Converteer POWERPOINT naar CSV met behulp van Python of met gratis Online Converter
+description: POWERPOINT naar CSV-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer POWERPOINT naar CSV via Python" h2="POWERPOINT naar CSV-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer POWERPOINT naar CSV via Python of online" h2="POWERPOINT naar CSV-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

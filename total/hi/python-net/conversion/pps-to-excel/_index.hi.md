@@ -1,6 +1,6 @@
 ---
-title: पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें
-description: Microsoft Office का उपयोग किए बिना आपके Python अनुप्रयोगों में PPS से EXCEL रूपांतरण 
+title: पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: Microsoft Office का उपयोग किए बिना आपके Python अनुप्रयोगों में PPS से EXCEL रूपांतरण या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="पायथन के माध्यम से बीएमपी को जीआईएफ में बदलें" h2="Microsoft PowerPoint<sup>&reg;</sup> या Excel इंस्टॉल किए बिना आपके Python एप्लिकेशन में PPS से EXCEL रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="पायथन के माध्यम से बीएमपी को जीआईएफ में बदलें या ऑनलाइन" h2="Microsoft PowerPoint<sup>&reg;</sup> या Excel इंस्टॉल किए बिना आपके Python एप्लिकेशन में PPS से EXCEL रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

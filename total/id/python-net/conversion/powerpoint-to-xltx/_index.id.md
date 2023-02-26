@@ -1,6 +1,6 @@
 ---
-title: Konversikan POWERPOINT ke XLTX menggunakan Python
-description: Konversi POWERPOINT ke XLTX di aplikasi Python Anda tanpa menggunakan Microsoft Office 
+title: Konversikan POWERPOINT ke XLTX menggunakan Python atau dengan Konverter Online gratis
+description: Konversi POWERPOINT ke XLTX di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan POWERPOINT ke XLTX melalui Python" h2="Konversi POWERPOINT ke XLTX di aplikasi Python Anda tanpa menginstal Microsoft PowerPoint<sup>&reg;</sup> atau Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan POWERPOINT ke XLTX melalui Python atau daring" h2="Konversi POWERPOINT ke XLTX di aplikasi Python Anda tanpa menginstal Microsoft PowerPoint<sup>&reg;</sup> atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPTM σε CSV χρησιμοποιώντας Python
-description: Μετατροπή PPTM σε CSV στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office 
+title: Μετατροπή PPTM σε CSV χρησιμοποιώντας Python ή με δωρεάν Online Converter
+description: Μετατροπή PPTM σε CSV στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPTM σε CSV μέσω Python" h2="Μετατροπή PPTM σε CSV στις εφαρμογές Python χωρίς εγκατάσταση του Microsoft PowerPoint<sup>&reg;</sup> ή του Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPTM σε CSV μέσω Python ή διαδικτυακά" h2="Μετατροπή PPTM σε CSV στις εφαρμογές Python χωρίς εγκατάσταση του Microsoft PowerPoint<sup>&reg;</sup> ή του Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
