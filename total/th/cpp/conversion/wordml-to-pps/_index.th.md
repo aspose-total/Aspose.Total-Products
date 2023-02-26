@@ -1,6 +1,6 @@
 ---
-title: แปลง WORDML เป็น PPS ผ่าน C++
-description: ส่งออก WORDML เป็น PPS ในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word ของ PowerPoint
+title: แปลง WORDML เป็น PPS ผ่าน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
+description: ส่งออก WORDML เป็น PPS ในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word ของ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPSM ODP PPTM PPTX POTX PPT POTM POT POWERPOINT PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง WORDML เป็น PPS" h2="ส่งออก WORDML เป็น PPS ภายในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word&reg; หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง WORDML เป็น PPS หรือทางออนไลน์" h2="ส่งออก WORDML เป็น PPS ภายในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word&reg; หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) ประกอบด้วย API การทำงานอัตโนมัติของไฟล์อันทรงพลังที่อนุญาตให้แปลง WORDML เป็น PPS โดยอัตโนมัติในขณะที่ใช้ API สองตัว โหลด WORDML ของคุณโดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) แล้วแปลงเป็น HTML จากนั้นโหลด HTML ผ่านการจัดการ PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) เพื่อสร้างงานนำเสนอใหม่และบันทึกเป็น PPS 

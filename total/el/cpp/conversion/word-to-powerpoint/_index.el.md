@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή WORD σε POWERPOINT μέσω C++
-description: Εξαγωγή WORD σε POWERPOINT στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint
+title: Μετατροπή WORD σε POWERPOINT μέσω C++ ή με δωρεάν Online Converter
+description: Εξαγωγή WORD σε POWERPOINT στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX ODP PPTM PPT PPSM POT POTM PPS PPSX POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή WORD σε POWERPOINT" h2="Εξαγωγή WORD σε POWERPOINT εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή WORD σε POWERPOINT ή διαδικτυακά" h2="Εξαγωγή WORD σε POWERPOINT εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής WORD σε POWERPOINT ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το WORD σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως POWERPOINT. 

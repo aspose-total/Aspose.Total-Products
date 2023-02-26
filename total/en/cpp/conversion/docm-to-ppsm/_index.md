@@ -1,6 +1,6 @@
 ---
 title: Convert DOCM to PPSM via C++
-description: Export DOCM to PPSM in your C++ applications without using Microsoft Word of PowerPoint 
+description: Export DOCM to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /cpp/conversion/docm-to-ppsm/
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POTX PPTX POT PPT PPS PPTM POWERPOINT POTM ODP PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOCM to PPSM" h2="Export DOCM to PPSM within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOCM to PPSM or online" h2="Export DOCM to PPSM within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consists of powerful file automation APIs that allows to automate DOCM to PPSM conversion while using two of it's APIs. Load your DOCM using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) and convert it to HTML, then load the HTML via PowerPoint manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to create a new presentation, and save it as PPSM. 

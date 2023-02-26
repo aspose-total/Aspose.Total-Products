@@ -1,6 +1,6 @@
 ---
-title: FLATOPC'yi C++ ile ODP'ye dönüştürün
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda FLATOPC'yi ODP'ye aktarın
+title: FLATOPC'yi C++ ile ODP'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda FLATOPC'yi ODP'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPS POTX PPT POTM PPTX PPSX POWERPOINT PPSM PPTM POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="FLATOPC'yi ODP'ye Dönüştürmek için C++ API" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde FLATOPC'yi ODP'ye aktarın veya PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="FLATOPC'yi ODP'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde FLATOPC'yi ODP'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken FLATOPC'den ODP'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak FLATOPC'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve ODP olarak kaydedin. 

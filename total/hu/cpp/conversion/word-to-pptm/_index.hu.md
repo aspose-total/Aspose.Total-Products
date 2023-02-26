@@ -1,6 +1,6 @@
 ---
-title: A WORD konvertálása PPTM-re C++ segítségével
-description: Exportáljon WORD-t PPTM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül
+title: A WORD konvertálása PPTM-re C++ segítségével vagy ingyenes online konverterrel
+description: Exportáljon WORD-t PPTM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POTM POTX PPSM ODP POWERPOINT PPS PPTX PPT PPSX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a WORD konvertálásához PPTM-vé" h2="WORD exportálása PPTM-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a WORD konvertálásához PPTM-vé vagy online" h2="WORD exportálása PPTM-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a WORD- PPTM-konverzió automatizálását, miközben két API-t használ. Töltse be a WORD-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és PPTM-ként mentéséhez. 

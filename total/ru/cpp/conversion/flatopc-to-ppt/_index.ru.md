@@ -1,6 +1,6 @@
 ---
-title: Преобразование FLATOPC в PPT через C++
-description: Экспортируйте FLATOPC в PPT в свои приложения C++ без использования Microsoft Word of PowerPoint.
+title: Преобразование FLATOPC в PPT через C++ или с помощью бесплатного онлайн-конвертера
+description: Экспортируйте FLATOPC в PPT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPTX PPS POTM PPSM POTX ODP PPTM PPSX POWERPOINT POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования FLATOPC в PPT" h2="Экспортируйте FLATOPC в PPT в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования FLATOPC в PPT или онлайн" h2="Экспортируйте FLATOPC в PPT в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование FLATOPC в PPT при использовании двух API-интерфейсов. Загрузите свой FLATOPC с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPT. 

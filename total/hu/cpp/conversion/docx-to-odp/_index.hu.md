@@ -1,6 +1,6 @@
 ---
-title: A DOCX konvertálása ODP-re C++ segítségével
-description: Exportáljon DOCX-t ODP-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül
+title: A DOCX konvertálása ODP-re C++ segítségével vagy ingyenes online konverterrel
+description: Exportáljon DOCX-t ODP-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: POTX PPSM POTM POT PPTX PPS PPSX POWERPOINT PPT PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a DOCX konvertálásához ODP-vé" h2="DOCX exportálása ODP-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a DOCX konvertálásához ODP-vé vagy online" h2="DOCX exportálása ODP-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a DOCX- ODP-konverzió automatizálását, miközben két API-t használ. Töltse be a DOCX-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és ODP-ként mentéséhez. 

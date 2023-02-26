@@ -1,6 +1,6 @@
 ---
-title: Převést WORDML na ODP přes C++
-description: Exportujte WORDML do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint
+title: Převést WORDML na ODP přes C++ nebo pomocí bezplatného online převodníku
+description: Exportujte WORDML do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPT PPTX PPSM POT PPSX POTM POWERPOINT PPTM POTX PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro převod WORDML na ODP" h2="Exportujte WORDML do ODP v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro převod WORDML na ODP nebo online" h2="Exportujte WORDML do ODP v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod WORDML na ODP při použití dvou z těchto rozhraní API. Načtěte svůj WORDML pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako ODP. 

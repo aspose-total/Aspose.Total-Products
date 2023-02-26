@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to POTM via C++
-description: Export TXT to POTM in your C++ applications without using Microsoft Word of PowerPoint 
+description: Export TXT to POTM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /cpp/conversion/txt-to-potm/
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPSM POT PPT PPSX PPTX PPS PPTM ODP POWERPOINT POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert TXT to POTM" h2="Export TXT to POTM within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert TXT to POTM or online" h2="Export TXT to POTM within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consists of powerful file automation APIs that allows to automate TXT to POTM conversion while using two of it's APIs. Load your TXT using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) and convert it to HTML, then load the HTML via PowerPoint manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to create a new presentation, and save it as POTM. 

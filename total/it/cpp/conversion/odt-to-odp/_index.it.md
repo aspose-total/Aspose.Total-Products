@@ -1,6 +1,6 @@
 ---
-title: Converti ODT in ODP tramite C++
-description: Esporta ODT in ODP nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint
+title: Converti ODT in ODP tramite C++ o con il convertitore online gratuito
+description: Esporta ODT in ODP nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPSM POTM POWERPOINT POT PPTM POTX PPSX PPTX PPS PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire ODT in ODP" h2="Esporta ODT in ODP all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire ODT in ODP o in linea" h2="Esporta ODT in ODP all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è costituito da potenti API di automazione dei file che consentono di automatizzare la conversione da ODT a ODP utilizzando due delle sue API. Carica il tuo ODT utilizzando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e convertilo in HTML, quindi carica l'HTML tramite la manipolazione di PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per creare una nuova presentazione e salvarla come ODP. 

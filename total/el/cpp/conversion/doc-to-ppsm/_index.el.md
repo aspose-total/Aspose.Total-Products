@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOC σε PPSM μέσω C++
-description: Εξαγωγή DOC σε PPSM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint
+title: Μετατροπή DOC σε PPSM μέσω C++ ή με δωρεάν Online Converter
+description: Εξαγωγή DOC σε PPSM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POWERPOINT POTX ODP POTM POT PPS PPTM PPSX PPTX PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOC σε PPSM" h2="Εξαγωγή DOC σε PPSM εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOC σε PPSM ή διαδικτυακά" h2="Εξαγωγή DOC σε PPSM εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής DOC σε PPSM ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το DOC σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως PPSM. 

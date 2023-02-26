@@ -1,6 +1,6 @@
 ---
-title: Converteer WORD naar PPTM via C++
-description: Exporteer WORD naar PPTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer WORD naar PPTM via C++ of met gratis Online Converter
+description: Exporteer WORD naar PPTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POTM POTX PPSM ODP POWERPOINT PPS PPTX PPT PPSX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om WORD naar PPTM te converteren" h2="Exporteer WORD naar PPTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om WORD naar PPTM te converteren of online" h2="Exporteer WORD naar PPTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de WORD-naar-PPTM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw WORD met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPTM. 

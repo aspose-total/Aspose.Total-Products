@@ -1,6 +1,6 @@
 ---
-title: Konversi DOT ke PPTM melalui C++
-description: Ekspor DOT ke PPTM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
+title: Konversi DOT ke PPTM melalui C++ atau dengan Konverter Online gratis
+description: Ekspor DOT ke PPTM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POTM ODP PPSM PPTX POWERPOINT PPSX PPT PPS POT POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOT ke PPTM" h2="Ekspor DOT ke PPTM dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOT ke PPTM atau daring" h2="Ekspor DOT ke PPTM dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi DOT ke PPTM saat menggunakan dua API-nya. Muat DOT Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai PPTM. 

@@ -1,6 +1,6 @@
 ---
-title: Konversi WORD ke POTX melalui C++
-description: Ekspor WORD ke POTX di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
+title: Konversi WORD ke POTX melalui C++ atau dengan Konverter Online gratis
+description: Ekspor WORD ke POTX di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PPTM POWERPOINT PPSX POTM POT PPTX PPT ODP PPS PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi WORD ke POTX" h2="Ekspor WORD ke POTX dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi WORD ke POTX atau daring" h2="Ekspor WORD ke POTX dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi WORD ke POTX saat menggunakan dua API-nya. Muat WORD Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai POTX. 

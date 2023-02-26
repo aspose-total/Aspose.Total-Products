@@ -1,6 +1,6 @@
 ---
-title: Converteer OTT naar POTM via C++
-description: Exporteer OTT naar POTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer OTT naar POTM via C++ of met gratis Online Converter
+description: Exporteer OTT naar POTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPS PPSM PPSX POWERPOINT PPTX PPTM POT ODP POTX PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om OTT naar POTM te converteren" h2="Exporteer OTT naar POTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om OTT naar POTM te converteren of online" h2="Exporteer OTT naar POTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de OTT-naar-POTM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw OTT met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als POTM. 

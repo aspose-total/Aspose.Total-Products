@@ -1,6 +1,6 @@
 ---
-title: 通過 C++ 將 WORD 轉換為 PPSM
-description: 在您的 C++ 應用程序中將 WORD 導出為 PPSM，而無需使用 Microsoft Word of PowerPoint
+title: 通過 C++ 將 WORD 轉換為 PPSM 或使用免費的在線轉換器
+description: 在您的 C++ 應用程序中將 WORD 導出為 PPSM，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PPTX PPTM PPS POTX ODP PPT PPSX POWERPOINT POT POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="將 WORD 轉換為 PPSM 的 C++ API" h2="在您的 C++ 應用程序中將 WORD 導出為 PPSM，而無需使用 Microsoft Word&reg;或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="將 WORD 轉換為 PPSM 的 C++ API 或在線" h2="在您的 C++ 應用程序中將 WORD 導出為 PPSM，而無需使用 Microsoft Word&reg;或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包含強大的文件自動化 API，允許在使用其中兩個 API 時自動進行 WORD 到 PPSM 的轉換。使用 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) 加載您的 WORD 並將其轉換為 HTML，然後通過 PowerPoint 操作 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 加載 HTML 創建一個新的演示文稿，並將其保存為 PPSM。 

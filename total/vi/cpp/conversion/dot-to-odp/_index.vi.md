@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi DOT sang ODP qua C++
-description: Xuất DOT sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint
+title: Chuyển đổi DOT sang ODP qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Xuất DOT sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: POT PPT POTX PPS PPTM POWERPOINT POTM PPSM PPTX PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOT sang ODP" h2="Xuất DOT sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOT sang ODP hoặc trực tuyến" h2="Xuất DOT sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOT sang ODP trong khi sử dụng hai trong số các API của nó. Tải DOT của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng ODP. 

@@ -1,6 +1,6 @@
 ---
-title: A TXT konvertálása POWERPOINT-re C++ segítségével
-description: Exportáljon TXT-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül
+title: A TXT konvertálása POWERPOINT-re C++ segítségével vagy ingyenes online konverterrel
+description: Exportáljon TXT-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPSX PPSM POTM ODP PPT POT PPTM PPTX PPS POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a TXT konvertálásához POWERPOINT-vé" h2="TXT exportálása POWERPOINT-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a TXT konvertálásához POWERPOINT-vé vagy online" h2="TXT exportálása POWERPOINT-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a TXT- POWERPOINT-konverzió automatizálását, miközben két API-t használ. Töltse be a TXT-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és POWERPOINT-ként mentéséhez. 

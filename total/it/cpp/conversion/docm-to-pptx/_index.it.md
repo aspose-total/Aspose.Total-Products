@@ -1,6 +1,6 @@
 ---
-title: Converti DOCM in PPTX tramite C++
-description: Esporta DOCM in PPTX nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint
+title: Converti DOCM in PPTX tramite C++ o con il convertitore online gratuito
+description: Esporta DOCM in PPTX nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPSM ODP POTX POWERPOINT POT PPS PPTM PPSX PPT POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOCM in PPTX" h2="Esporta DOCM in PPTX all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOCM in PPTX o in linea" h2="Esporta DOCM in PPTX all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è costituito da potenti API di automazione dei file che consentono di automatizzare la conversione da DOCM a PPTX utilizzando due delle sue API. Carica il tuo DOCM utilizzando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e convertilo in HTML, quindi carica l'HTML tramite la manipolazione di PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per creare una nuova presentazione e salvarla come PPTX. 

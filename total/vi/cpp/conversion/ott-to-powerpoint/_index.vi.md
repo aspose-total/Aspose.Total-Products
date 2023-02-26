@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi OTT sang POWERPOINT qua C++
-description: Xuất OTT sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint
+title: Chuyển đổi OTT sang POWERPOINT qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Xuất OTT sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPS POT ODP PPTX POTX PPSX POTM PPTM PPSM PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi OTT sang POWERPOINT" h2="Xuất OTT sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi OTT sang POWERPOINT hoặc trực tuyến" h2="Xuất OTT sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi OTT sang POWERPOINT trong khi sử dụng hai trong số các API của nó. Tải OTT của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POWERPOINT. 

@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie WORDML über C++ in PPTX
-description: Exportieren Sie WORDML in PPTX in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden
+title: Konvertieren Sie WORDML über C++ in PPTX oder mit dem kostenlosen Online Converter
+description: Exportieren Sie WORDML in PPTX in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POT PPSX POTX PPT POWERPOINT PPTM PPS PPSM POTM ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von WORDML in PPTX" h2="Exportieren Sie WORDML in PPTX innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von WORDML in PPTX oder online" h2="Exportieren Sie WORDML in PPTX innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) besteht aus leistungsstarken Dateiautomatisierungs-APIs, die es ermöglichen, die WORDML-zu-PPTX-Konvertierung zu automatisieren, während zwei seiner APIs verwendet werden. Laden Sie Ihr WORDML mit [Aspose.Words for C++](https://products.aspose.com/words/cpp/) und konvertieren Sie es in HTML, laden Sie dann das HTML über die PowerPoint-Manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), um eine neue Präsentation zu erstellen und als PPTX zu speichern. 

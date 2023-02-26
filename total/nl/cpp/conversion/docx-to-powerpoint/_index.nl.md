@@ -1,6 +1,6 @@
 ---
-title: Converteer DOCX naar POWERPOINT via C++
-description: Exporteer DOCX naar POWERPOINT in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOCX naar POWERPOINT via C++ of met gratis Online Converter
+description: Exporteer DOCX naar POWERPOINT in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: ODP PPSM PPS PPTM POTX PPSX POT PPT POTM PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om DOCX naar POWERPOINT te converteren" h2="Exporteer DOCX naar POWERPOINT binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om DOCX naar POWERPOINT te converteren of online" h2="Exporteer DOCX naar POWERPOINT binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOCX-naar-POWERPOINT-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOCX met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als POWERPOINT. 

@@ -1,6 +1,6 @@
 ---
-title: Converter DOTM para PPSX via C++
-description: Exporte DOTM para PPSX em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint
+title: Converter DOTM para PPSX via C++ ou com o conversor online grátis
+description: Exporte DOTM para PPSX em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPT ODP POTM PPSM POWERPOINT PPTX PPS POTX PPTM POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOTM em PPSX" h2="Exporte DOTM para PPSX em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOTM em PPSX ou online" h2="Exporte DOTM para PPSX em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de DOTM para PPSX usando duas de suas APIs. Carregue seu DOTM usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como PPSX. 

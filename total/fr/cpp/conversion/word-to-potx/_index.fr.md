@@ -1,6 +1,6 @@
 ---
-title: Convertir WORD en POTX via C++
-description: Exportez WORD vers POTX dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint
+title: Convertir WORD en POTX via C++ ou avec le convertisseur en ligne gratuit
+description: Exportez WORD vers POTX dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PPTM POWERPOINT PPSX POTM POT PPTX PPT ODP PPS PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en POTX" h2="Exportez WORD vers POTX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en POTX ou en ligne" h2="Exportez WORD vers POTX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion WORD en POTX tout en utilisant deux de ses API. Chargez votre WORD en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous POTX. 

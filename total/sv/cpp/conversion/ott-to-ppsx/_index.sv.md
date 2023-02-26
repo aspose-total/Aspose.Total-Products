@@ -1,6 +1,6 @@
 ---
-title: Konvertera OTT till PPSX via C++
-description: Exportera OTT till PPSX i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint
+title: Konvertera OTT till PPSX via C++ eller med gratis Online Converter
+description: Exportera OTT till PPSX i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POTM ODP PPTX PPTM PPSM POTX PPT POWERPOINT POT PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera OTT till PPSX" h2="Exportera OTT till PPSX i dina C++-program utan att använda Microsoft Word&reg; eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera OTT till PPSX eller online" h2="Exportera OTT till PPSX i dina C++-program utan att använda Microsoft Word&reg; eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) består av kraftfulla filautomatiserings-API:er som gör det möjligt att automatisera OTT till PPSX-konvertering samtidigt som två av dess API:er används. Ladda ditt dokument med [Aspose.Words for C++](https://products.aspose.com/words/cpp/) och konvertera det till HTML, ladda sedan HTML-koden via PowerPoint-manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) för att skapa en ny presentation och spara den som PPSX. 

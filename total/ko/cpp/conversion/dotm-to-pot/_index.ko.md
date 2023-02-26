@@ -1,6 +1,6 @@
 ---
-title: C++를 통해 DOTM를 POT로 변환
-description: PowerPoint의 Microsoft Word를 사용하지 않고 C++ 응용 프로그램에서 DOTM를 POT로 내보내기
+title: C++를 통해 DOTM를 POT로 변환 또는 무료 온라인 변환기 사용
+description: PowerPoint의 Microsoft Word를 사용하지 않고 C++ 응용 프로그램에서 DOTM를 POT로 내보내기 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPTM POWERPOINT PPTX POTX PPSX ODP PPSM POTM PPS PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTM를 POT로 변환하는 C++ API" h2="Microsoft Word&reg;를 사용하지 않고 C++ 응용 프로그램 내에서 DOTM를 POT로 내보내기 또는 파워포인트" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTM를 POT로 변환하는 C++ API 또는 온라인" h2="Microsoft Word&reg;를 사용하지 않고 C++ 응용 프로그램 내에서 DOTM를 POT로 내보내기 또는 파워포인트" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)는 두 개의 API를 사용하면서 DOTM에서 POT로의 변환을 자동화할 수 있는 강력한 파일 자동화 API로 구성되어 있습니다. [Aspose.Words for C++](https://products.aspose.com/words/cpp/)를 사용하여 DOTM를 로드하고 HTML로 변환한 다음 PowerPoint 조작 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 새 프레젠테이션을 만들고 POT로 저장합니다. 

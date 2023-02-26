@@ -1,6 +1,6 @@
 ---
-title: C++を介してDOTをPPSXに変換する
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOTをPPSXにエクスポートする
+title: C++を介してDOTをPPSXに変換する または無料のオンライン コンバーターを使用
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOTをPPSXにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPT POTX ODP POT POWERPOINT PPTX POTM PPSM PPS PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTをPPSXに変換するC++API" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOTをPPSXにエクスポートします。またはPowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTをPPSXに変換するC++API またはオンライン" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOTをPPSXにエクスポートします。またはPowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらDOTからPPSXへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してDOTを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、PPSXとして保存します。 

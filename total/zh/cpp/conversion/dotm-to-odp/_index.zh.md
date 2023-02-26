@@ -1,6 +1,6 @@
 ---
-title: 通过 C++ 将 DOTM 转换为 ODP
-description: 在您的 C++ 应用程序中将 DOTM 导出为 ODP，而无需使用 Microsoft Word of PowerPoint
+title: 通过 C++ 将 DOTM 转换为 ODP 或使用免费的在线转换器
+description: 在您的 C++ 应用程序中将 DOTM 导出为 ODP，而无需使用 Microsoft Word of PowerPoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPTM POTX PPTX PPSX PPS POWERPOINT PPT POTM POT PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="将 DOTM 转换为 ODP 的 C++ API" h2="在您的 C++ 应用程序中将 DOTM 导出为 ODP，而无需使用 Microsoft Word&reg;或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="将 DOTM 转换为 ODP 的 C++ API 或在线" h2="在您的 C++ 应用程序中将 DOTM 导出为 ODP，而无需使用 Microsoft Word&reg;或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包含强大的文件自动化 API，允许在使用其中两个 API 时自动进行 DOTM 到 ODP 的转换。使用 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) 加载您的 DOTM 并将其转换为 HTML，然后通过 PowerPoint 操作 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 加载 HTML 创建一个新的演示文稿，并将其保存为 ODP。 

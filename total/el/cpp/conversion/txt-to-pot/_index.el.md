@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή TXT σε POT μέσω C++
-description: Εξαγωγή TXT σε POT στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint
+title: Μετατροπή TXT σε POT μέσω C++ ή με δωρεάν Online Converter
+description: Εξαγωγή TXT σε POT στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: POTM PPSM PPSX PPT PPS PPTX POTX POWERPOINT PPTM ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή TXT σε POT" h2="Εξαγωγή TXT σε POT εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή TXT σε POT ή διαδικτυακά" h2="Εξαγωγή TXT σε POT εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής TXT σε POT ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το TXT σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως POT. 

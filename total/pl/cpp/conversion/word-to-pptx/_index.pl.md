@@ -1,6 +1,6 @@
 ---
-title: Konwertuj WORD na PPTX za pomocą C++
-description: Eksportuj WORD do PPTX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint
+title: Konwertuj WORD na PPTX za pomocą C++ lub za pomocą bezpłatnego konwertera online
+description: Eksportuj WORD do PPTX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTM PPSX ODP PPSM PPT POTX PPTM POWERPOINT PPS POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji WORD na PPTX" h2="Eksportuj WORD do PPTX w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji WORD na PPTX lub online" h2="Eksportuj WORD do PPTX w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję WORD do PPTX przy użyciu dwóch jego API. Załaduj dokument WORD za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako PPTX. 

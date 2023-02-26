@@ -1,6 +1,6 @@
 ---
-title: تحويل OTT إلى PPTX عبر C++
-description: قم بتصدير OTT إلى PPTX في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint
+title: تحويل OTT إلى PPTX عبر C++ أو مع محول مجاني على الإنترنت
+description: قم بتصدير OTT إلى PPTX في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTM POWERPOINT PPSX ODP POTX PPS PPSM PPTM PPT POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل OTT إلى PPTX" h2="تصدير OTT إلى PPTX داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل OTT إلى PPTX أو عبر الإنترنت" h2="تصدير OTT إلى PPTX داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل OTT إلى PPTX أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند OTT باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ PPTX. 

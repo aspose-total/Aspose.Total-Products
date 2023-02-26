@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOCX σε PPTM μέσω C++
-description: Εξαγωγή DOCX σε PPTM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint
+title: Μετατροπή DOCX σε PPTM μέσω C++ ή με δωρεάν Online Converter
+description: Εξαγωγή DOCX σε PPTM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPTX POTM PPT PPS POTX POWERPOINT ODP PPSX POT PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOCX σε PPTM" h2="Εξαγωγή DOCX σε PPTM εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOCX σε PPTM ή διαδικτυακά" h2="Εξαγωγή DOCX σε PPTM εντός των εφαρμογών σας C++ χωρίς χρήση του Microsoft Word&reg; ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) αποτελείται από ισχυρά API αυτοματισμού αρχείων που επιτρέπουν την αυτοματοποίηση της μετατροπής DOCX σε PPTM ενώ χρησιμοποιούνται δύο από τα API του. Φορτώστε το DOCX σας χρησιμοποιώντας το [Aspose.Words for C++](https://products.aspose.com/words/cpp/) και μετατρέψτε το σε HTML και, στη συνέχεια, φορτώστε το HTML μέσω χειρισμού του PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) για να δημιουργήσετε μια νέα παρουσίαση και να την αποθηκεύσετε ως PPTM. 

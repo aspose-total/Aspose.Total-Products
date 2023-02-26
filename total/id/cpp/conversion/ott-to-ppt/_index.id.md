@@ -1,6 +1,6 @@
 ---
-title: Konversi OTT ke PPT melalui C++
-description: Ekspor OTT ke PPT di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
+title: Konversi OTT ke PPT melalui C++ atau dengan Konverter Online gratis
+description: Ekspor OTT ke PPT di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPSM POTM PPTM PPSX PPS PPTX POT POTX POWERPOINT ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi OTT ke PPT" h2="Ekspor OTT ke PPT dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi OTT ke PPT atau daring" h2="Ekspor OTT ke PPT dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi OTT ke PPT saat menggunakan dua API-nya. Muat OTT Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai PPT. 

@@ -1,6 +1,6 @@
 ---
-title: Convertir FLATOPC en POTX via C++
-description: Exportez FLATOPC vers POTX dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint
+title: Convertir FLATOPC en POTX via C++ ou avec le convertisseur en ligne gratuit
+description: Exportez FLATOPC vers POTX dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: POTM PPSM POWERPOINT PPSX ODP PPTX PPTM POT PPT PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir FLATOPC en POTX" h2="Exportez FLATOPC vers POTX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir FLATOPC en POTX ou en ligne" h2="Exportez FLATOPC vers POTX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion FLATOPC en POTX tout en utilisant deux de ses API. Chargez votre FLATOPC en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous POTX. 

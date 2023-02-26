@@ -1,6 +1,6 @@
 ---
-title: Konversi DOTX ke POTM melalui C++
-description: Ekspor DOTX ke POTM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
+title: Konversi DOTX ke POTM melalui C++ atau dengan Konverter Online gratis
+description: Ekspor DOTX ke POTM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POTX POWERPOINT PPT PPTM PPSM ODP POT PPS PPSX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOTX ke POTM" h2="Ekspor DOTX ke POTM dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOTX ke POTM atau daring" h2="Ekspor DOTX ke POTM dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi DOTX ke POTM saat menggunakan dua API-nya. Muat DOTX Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai POTM. 

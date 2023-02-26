@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi DOCX sang ODP qua C++
-description: Xuất DOCX sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint
+title: Chuyển đổi DOCX sang ODP qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Xuất DOCX sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: POTX PPSM POTM POT PPTX PPS PPSX POWERPOINT PPT PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCX sang ODP" h2="Xuất DOCX sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCX sang ODP hoặc trực tuyến" h2="Xuất DOCX sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCX sang ODP trong khi sử dụng hai trong số các API của nó. Tải DOCX của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng ODP. 

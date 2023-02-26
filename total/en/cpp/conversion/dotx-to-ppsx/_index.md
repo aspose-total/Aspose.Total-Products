@@ -1,6 +1,6 @@
 ---
 title: Convert DOTX to PPSX via C++
-description: Export DOTX to PPSX in your C++ applications without using Microsoft Word of PowerPoint 
+description: Export DOTX to PPSX in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /cpp/conversion/dotx-to-ppsx/
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POWERPOINT POTX POT POTM PPSM PPT ODP PPTX PPTM PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOTX to PPSX" h2="Export DOTX to PPSX within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOTX to PPSX or online" h2="Export DOTX to PPSX within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consists of powerful file automation APIs that allows to automate DOTX to PPSX conversion while using two of it's APIs. Load your DOTX using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) and convert it to HTML, then load the HTML via PowerPoint manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to create a new presentation, and save it as PPSX. 

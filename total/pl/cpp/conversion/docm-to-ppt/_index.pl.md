@@ -1,6 +1,6 @@
 ---
-title: Konwertuj DOCM na PPT za pomocą C++
-description: Eksportuj DOCM do PPT w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint
+title: Konwertuj DOCM na PPT za pomocą C++ lub za pomocą bezpłatnego konwertera online
+description: Eksportuj DOCM do PPT w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: POWERPOINT PPS ODP PPSM POT PPTM PPTX PPSX POTM POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOCM na PPT" h2="Eksportuj DOCM do PPT w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOCM na PPT lub online" h2="Eksportuj DOCM do PPT w swoich aplikacjach C++ bez użycia Microsoft Word&reg; lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) składa się z potężnych API do automatyzacji plików, które pozwalają zautomatyzować konwersję DOCM do PPT przy użyciu dwóch jego API. Załaduj dokument DOCM za pomocą [Aspose.Words for C++](https://products.aspose.com/words/cpp/) i przekonwertuj go na HTML, a następnie załaduj HTML za pomocą interfejsu API C++ do manipulacji w programie PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby utworzyć nową prezentację i zapisać ją jako PPT. 

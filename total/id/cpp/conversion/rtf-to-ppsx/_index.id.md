@@ -1,6 +1,6 @@
 ---
-title: Konversi RTF ke PPSX melalui C++
-description: Ekspor RTF ke PPSX di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
+title: Konversi RTF ke PPSX melalui C++ atau dengan Konverter Online gratis
+description: Ekspor RTF ke PPSX di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POWERPOINT POT ODP PPT PPSM POTX POTM PPTX PPS PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi RTF ke PPSX" h2="Ekspor RTF ke PPSX dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi RTF ke PPSX atau daring" h2="Ekspor RTF ke PPSX dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi RTF ke PPSX saat menggunakan dua API-nya. Muat RTF Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai PPSX. 

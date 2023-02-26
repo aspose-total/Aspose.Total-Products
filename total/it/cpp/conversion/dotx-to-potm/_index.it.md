@@ -1,6 +1,6 @@
 ---
-title: Converti DOTX in POTM tramite C++
-description: Esporta DOTX in POTM nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint
+title: Converti DOTX in POTM tramite C++ o con il convertitore online gratuito
+description: Esporta DOTX in POTM nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POTX POWERPOINT PPT PPTM PPSM ODP POT PPS PPSX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOTX in POTM" h2="Esporta DOTX in POTM all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOTX in POTM o in linea" h2="Esporta DOTX in POTM all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è costituito da potenti API di automazione dei file che consentono di automatizzare la conversione da DOTX a POTM utilizzando due delle sue API. Carica il tuo DOTX utilizzando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e convertilo in HTML, quindi carica l'HTML tramite la manipolazione di PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per creare una nuova presentazione e salvarla come POTM. 

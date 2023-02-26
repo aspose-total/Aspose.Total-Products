@@ -1,6 +1,6 @@
 ---
-title: A DOCM konvertálása PPSX-re C++ segítségével
-description: Exportáljon DOCM-t PPSX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül
+title: A DOCM konvertálása PPSX-re C++ segítségével vagy ingyenes online konverterrel
+description: Exportáljon DOCM-t PPSX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a DOCM konvertálásához PPSX-vé" h2="DOCM exportálása PPSX-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a DOCM konvertálásához PPSX-vé vagy online" h2="DOCM exportálása PPSX-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a DOCM- PPSX-konverzió automatizálását, miközben két API-t használ. Töltse be a DOCM-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és PPSX-ként mentéséhez. 

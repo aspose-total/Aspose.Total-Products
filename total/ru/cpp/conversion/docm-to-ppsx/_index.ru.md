@@ -1,6 +1,6 @@
 ---
-title: Преобразование DOCM в PPSX через C++
-description: Экспортируйте DOCM в PPSX в свои приложения C++ без использования Microsoft Word of PowerPoint.
+title: Преобразование DOCM в PPSX через C++ или с помощью бесплатного онлайн-конвертера
+description: Экспортируйте DOCM в PPSX в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOCM в PPSX" h2="Экспортируйте DOCM в PPSX в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOCM в PPSX или онлайн" h2="Экспортируйте DOCM в PPSX в приложениях C++ без использования Microsoft Word&reg; или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) состоит из мощных API-интерфейсов для автоматизации файлов, которые позволяют автоматизировать преобразование DOCM в PPSX при использовании двух API-интерфейсов. Загрузите свой DOCM с помощью [Aspose.Words for C++](https://products.aspose.com/words/cpp/) и преобразуйте его в HTML, затем загрузите HTML с помощью C++ API для обработки PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), чтобы создать новую презентацию и сохранить ее как PPSX. 

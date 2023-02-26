@@ -1,6 +1,6 @@
 ---
-title: Konversi DOCM ke PPSX melalui C++
-description: Ekspor DOCM ke PPSX di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint
+title: Konversi DOCM ke PPSX melalui C++ atau dengan Konverter Online gratis
+description: Ekspor DOCM ke PPSX di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOCM ke PPSX" h2="Ekspor DOCM ke PPSX dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOCM ke PPSX atau daring" h2="Ekspor DOCM ke PPSX dalam aplikasi C++ Anda tanpa menggunakan Microsoft Word&reg; atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) terdiri dari API otomatisasi file canggih yang memungkinkan untuk mengotomatiskan konversi DOCM ke PPSX saat menggunakan dua API-nya. Muat DOCM Anda menggunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/) dan ubah menjadi HTML, lalu muat HTML melalui manipulasi PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) untuk membuat presentasi baru, dan menyimpannya sebagai PPSX. 

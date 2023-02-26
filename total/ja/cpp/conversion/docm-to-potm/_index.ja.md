@@ -1,6 +1,6 @@
 ---
-title: C++を介してDOCMをPOTMに変換する
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOCMをPOTMにエクスポートする
+title: C++を介してDOCMをPOTMに変換する または無料のオンライン コンバーターを使用
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOCMをPOTMにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: ODP PPS POT PPT PPSX PPTM PPTX POWERPOINT POTX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCMをPOTMに変換するC++API" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOCMをPOTMにエクスポートします。またはPowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCMをPOTMに変換するC++API またはオンライン" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOCMをPOTMにエクスポートします。またはPowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらDOCMからPOTMへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してDOCMを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、POTMとして保存します。 

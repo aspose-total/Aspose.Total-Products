@@ -1,6 +1,6 @@
 ---
-title: تحويل ODT إلى POTX عبر C++
-description: قم بتصدير ODT إلى POTX في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint
+title: تحويل ODT إلى POTX عبر C++ أو مع محول مجاني على الإنترنت
+description: قم بتصدير ODT إلى POTX في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: ODP PPSM PPSX POWERPOINT POTM PPTX PPT POT PPS PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل ODT إلى POTX" h2="تصدير ODT إلى POTX داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل ODT إلى POTX أو عبر الإنترنت" h2="تصدير ODT إلى POTX داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل ODT إلى POTX أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند ODT باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ POTX. 

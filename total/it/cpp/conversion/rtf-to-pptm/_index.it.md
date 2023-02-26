@@ -1,6 +1,6 @@
 ---
-title: Converti RTF in PPTM tramite C++
-description: Esporta RTF in PPTM nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint
+title: Converti RTF in PPTM tramite C++ o con il convertitore online gratuito
+description: Esporta RTF in PPTM nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPTX POTX POTM PPS PPT PPSX PPSM POWERPOINT ODP POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire RTF in PPTM" h2="Esporta RTF in PPTM all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire RTF in PPTM o in linea" h2="Esporta RTF in PPTM all'interno delle tue applicazioni C++ senza utilizzare Microsoft Word&reg; o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è costituito da potenti API di automazione dei file che consentono di automatizzare la conversione da RTF a PPTM utilizzando due delle sue API. Carica il tuo RTF utilizzando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e convertilo in HTML, quindi carica l'HTML tramite la manipolazione di PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per creare una nuova presentazione e salvarla come PPTM. 

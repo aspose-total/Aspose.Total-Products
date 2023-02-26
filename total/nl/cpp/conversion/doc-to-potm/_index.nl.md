@@ -1,6 +1,6 @@
 ---
-title: Converteer DOC naar POTM via C++
-description: Exporteer DOC naar POTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOC naar POTM via C++ of met gratis Online Converter
+description: Exporteer DOC naar POTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POWERPOINT PPTM POTX PPSM PPS PPT POT PPTX ODP PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om DOC naar POTM te converteren" h2="Exporteer DOC naar POTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om DOC naar POTM te converteren of online" h2="Exporteer DOC naar POTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOC-naar-POTM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOC met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als POTM. 

@@ -1,6 +1,6 @@
 ---
-title: Converter ODT para POTM via C++
-description: Exporte ODT para POTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint
+title: Converter ODT para POTM via C++ ou com o conversor online grátis
+description: Exporte ODT para POTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPTM PPSM POT PPS POWERPOINT PPSX PPTX POTX PPT ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para converter ODT em POTM" h2="Exporte ODT para POTM em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para converter ODT em POTM ou online" h2="Exporte ODT para POTM em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de ODT para POTM usando duas de suas APIs. Carregue seu ODT usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como POTM. 
