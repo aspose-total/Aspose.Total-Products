@@ -1,6 +1,6 @@
 ---
-title: Convertir PPSX en XLS via C++
-description: Exporter PPSX vers XLS en C++ sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir PPSX en XLS via C++ ou en ligne ou avec le convertisseur en ligne gratuit
+description: Exporter PPSX vers XLS en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLTX XLSX XLSB DIF CSV MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM XLT XLSM TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPSX en XLS via C++" h2="Conversion de fichiers PPSX en XLS via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPSX en XLS via C++ ou en ligne" h2="Conversion de fichiers PPSX en XLS via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPSX en XLS dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLS. 

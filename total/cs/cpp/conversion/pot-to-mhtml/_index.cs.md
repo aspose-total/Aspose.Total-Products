@@ -1,6 +1,6 @@
 ---
-title: Převeďte POT do MHTML přes C++
-description: Exportujte POT do MHTML v C++ bez použití Microsoft Excel nebo Powerpoint
+title: Převeďte POT do MHTML přes C++ nebo online nebo pomocí bezplatného online převodníku
+description: Exportujte POT do MHTML v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM ODS TSV EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte POT do MHTML přes C++" h2="Konverze souborů POT do MHTML přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte POT do MHTML přes C++ nebo online" h2="Konverze souborů POT do MHTML přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor POT na MHTML v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete exportovat POT do HTML. Poté můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na MHTML. 

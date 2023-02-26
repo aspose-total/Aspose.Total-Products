@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPS über C++ in XLTM
-description: Exportieren Sie PPS in C++ in XLTM, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie PPS über C++ in XLTM oder online oder mit dem kostenlosen Online Converter
+description: Exportieren Sie PPS in C++ in XLTM, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: SXC XLSB XLAM DIF XLTX CSV XLSX FODS XLT XLSM ODS MHTML MARKDOWN XLS EXCEL TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPS über C++ in XLTM" h2="PPS-zu-XLTM-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPS über C++ in XLTM oder online" h2="PPS-zu-XLTM-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for C++](https://products.aspose.com/total/cpp/) können Sie die PPS-Datei innerhalb von C++-Anwendungen in zwei einfachen Schritten in XLTM konvertieren. Erstens können Sie mit [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) PPS in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in XLTM konvertieren. 

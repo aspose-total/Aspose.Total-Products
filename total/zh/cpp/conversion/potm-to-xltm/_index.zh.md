@@ -1,6 +1,6 @@
 ---
-title: 通过 C++ 将 POTM 转换为 XLTM
-description: 在 C++ 中将 POTM 导出为 XLTM，而不使用 Microsoft Excel 或 Powerpoint
+title: 通过 C++ 将 POTM 转换为 XLTM 或在线 或使用免费的在线转换器
+description: 在 C++ 中将 POTM 导出为 XLTM，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTM
 otherformats: MHTML SXC TSV XLSX CSV XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT DIF XLS XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 POTM 转换为 XLTM" h2="通过 C++ 将 POTM 转换为 XLTM 文件，无需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 C++ 将 POTM 转换为 XLTM 或在线" h2="通过 C++ 将 POTM 转换为 XLTM 或在线 文件，无需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通过使用 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)，您可以通过两个简单的步骤在 C++ 应用程序中将 POTM 文件转换为 XLTM。首先，通过使用 [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)，您可以将 POTM 导出为 HTML。之后，通过使用 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) 电子表格编程 API，您可以将 HTML 转换为 XLTM。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何通过 C++ 将 POTM 转换为 XLTM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通过 C++ 将 POTM 转换为 XLTM 或在线" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 类参考打开 POTM 文件
 2. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) 方法将 POTM 转换为 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 HTML 文档

@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPS-ot XLS-vé a C++ segítségével
-description: Exportálja a PPS-ot XLS-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül
+title: Konvertálja a PPS-ot XLS-vé a C++ segítségével vagy online vagy ingyenes online konverterrel
+description: Exportálja a PPS-ot XLS-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX CSV TSV ODS EXCEL MHTML DIF XLTX XLT XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPS-ot XLS-vé a C++ segítségével" h2="PPS-ból XLS-fájl átalakítás C++-on keresztül Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPS-ot XLS-vé a C++ segítségével vagy online" h2="PPS-ból XLS-fájl átalakítás C++-on keresztül Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) használatával két egyszerű lépésben konvertálhat PPS fájlt XLS-vé a C++ alkalmazásokon belül. Először is, az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) használatával exportálhatja a PPS-ot HTML-be. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API használatával konvertálhatja a HTML-t XLS-vé. 

@@ -1,6 +1,6 @@
 ---
-title: Converteer PPT naar XLAM via C++
-description: Exporteer PPT naar XLAM in C++ zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer PPT naar XLAM via C++ of online of met gratis Online Converter
+description: Exporteer PPT naar XLAM in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: TSV SXC ODS MARKDOWN XLS CSV XLTM XLSB EXCEL XLSX FODS XLTX XLSM DIF MHTML XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar XLAM via C++" h2="PPT naar XLAM-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar XLAM via C++ of online" h2="PPT naar XLAM-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for C++](https://products.aspose.com/total/cpp/) te gebruiken, kunt u het PPT-bestand in C++-toepassingen in twee eenvoudige stappen naar XLAM converteren. Ten eerste, door [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) te gebruiken, kunt u PPT naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API HTML naar XLAM converteren. 

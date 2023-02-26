@@ -1,6 +1,6 @@
 ---
-title: Конвертировать POTX в XLSX через C++
-description: Экспорт POTX в XLSX на C++ без использования Microsoft Excel или Powerpoint
+title: Конвертировать POTX в XLSX через C++ или онлайн или с помощью бесплатного онлайн-конвертера
+description: Экспорт POTX в XLSX на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: MARKDOWN XLS XLSM TSV ODS DIF XLTM XLSB SXC EXCEL XLAM CSV XLTX FODS XLT MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать POTX в XLSX через C++" h2="Преобразование файлов POTX в XLSX с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать POTX в XLSX через C++ или онлайн" h2="Преобразование файлов POTX в XLSX с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for C++](https://products.aspose.com/total/cpp/), вы можете преобразовать файл POTX в XLSX в приложениях C++ в два простых шага. Во-первых, с помощью [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) вы можете экспортировать POTX в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLSX. 

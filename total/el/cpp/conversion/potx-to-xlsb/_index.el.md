@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή POTX σε XLSB μέσω C++
-description: Εξαγωγή POTX σε XLSB σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint
+title: Μετατροπή POTX σε XLSB μέσω C++ ή διαδικτυακά ή με δωρεάν Online Converter
+description: Εξαγωγή POTX σε XLSB σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLAM XLT XLS XLSX SXC EXCEL DIF TSV XLTM CSV MHTML FODS MARKDOWN XLTX ODS XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή POTX σε XLSB μέσω C++" h2="Μετατροπή αρχείου POTX σε XLSB μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή POTX σε XLSB μέσω C++ ή διαδικτυακά" h2="Μετατροπή αρχείου POTX σε XLSB μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το αρχείο POTX σε XLSB εντός των εφαρμογών C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), μπορείτε να εξαγάγετε το POTX σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε XLSB. 

@@ -1,6 +1,6 @@
 ---
-title: Converter PPSM para TSV via C++
-description: Exporte PPSM para TSV em C++ sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPSM para TSV via C++ ou online ou com o conversor online grátis
+description: Exporte PPSM para TSV em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: DIF ODS XLS SXC XLSB EXCEL CSV XLAM XLSM XLT XLSX MHTML XLTM FODS MARKDOWN XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPSM para TSV via C++" h2="Conversão de arquivo PPSM para TSV via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPSM para TSV via C++ ou online" h2="Conversão de arquivo PPSM para TSV via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo PPSM para TSV dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar PPSM para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para TSV. 

@@ -1,6 +1,6 @@
 ---
-title: Converteer POT naar EXCEL via C++
-description: Exporteer POT naar EXCEL in C++ zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer POT naar EXCEL via C++ of online of met gratis Online Converter
+description: Exporteer POT naar EXCEL in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLSB XLAM XLTX CSV MHTML XLTM XLS XLSM MARKDOWN TSV FODS ODS XLSX SXC DIF XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer POT naar EXCEL via C++" h2="POT naar EXCEL-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer POT naar EXCEL via C++ of online" h2="POT naar EXCEL-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for C++](https://products.aspose.com/total/cpp/) te gebruiken, kunt u het POT-bestand in C++-toepassingen in twee eenvoudige stappen naar EXCEL converteren. Ten eerste, door [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) te gebruiken, kunt u POT naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API HTML naar EXCEL converteren. 

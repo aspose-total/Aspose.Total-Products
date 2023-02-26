@@ -1,6 +1,6 @@
 ---
-title: Converter PPSM para XLT via C++
-description: Exporte PPSM para XLT em C++ sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPSM para XLT via C++ ou online ou com o conversor online grátis
+description: Exporte PPSM para XLT em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLS XLAM EXCEL ODS TSV DIF CSV XLTX XLSB FODS XLSX MHTML XLTM XLSM SXC MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPSM para XLT via C++" h2="Conversão de arquivo PPSM para XLT via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPSM para XLT via C++ ou online" h2="Conversão de arquivo PPSM para XLT via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo PPSM para XLT dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar PPSM para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para XLT. 

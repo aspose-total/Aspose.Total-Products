@@ -1,6 +1,6 @@
 ---
-title: PPTX'u C++ ile FODS'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C++'da FODS'ye aktarın
+title: PPTX'u C++ ile FODS'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PPTX'u C++'da FODS'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT CSV XLSB XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTX'u C++ ile FODS'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla PPTX'tan FODS Dosyasına Dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTX'u C++ ile FODS'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla PPTX'tan FODS Dosyasına Dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda PPTX dosyasını C++ uygulamaları içinde FODS'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak PPTX'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi FODS'ye dönüştürebilirsiniz. 

@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPTX till XLSX via C++
-description: Exportera PPTX till XLSX i C++ utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera PPTX till XLSX via C++ eller online eller med gratis Online Converter
+description: Exportera PPTX till XLSX i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MHTML XLSM CSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera PPTX till XLSX via C++" h2="PPTX till XLSX-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera PPTX till XLSX via C++ eller online" h2="PPTX till XLSX-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kan du konvertera PPTX-fil till XLSX inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du exportera PPTX till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till XLSX. 

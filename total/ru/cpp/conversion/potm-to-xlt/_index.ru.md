@@ -1,6 +1,6 @@
 ---
-title: Конвертировать POTM в XLT через C++
-description: Экспорт POTM в XLT на C++ без использования Microsoft Excel или Powerpoint
+title: Конвертировать POTM в XLT через C++ или онлайн или с помощью бесплатного онлайн-конвертера
+description: Экспорт POTM в XLT на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM CSV MARKDOWN XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать POTM в XLT через C++" h2="Преобразование файлов POTM в XLT с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать POTM в XLT через C++ или онлайн" h2="Преобразование файлов POTM в XLT с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for C++](https://products.aspose.com/total/cpp/), вы можете преобразовать файл POTM в XLT в приложениях C++ в два простых шага. Во-первых, с помощью [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) вы можете экспортировать POTM в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLT. 

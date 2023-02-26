@@ -1,6 +1,6 @@
 ---
-title: Converteer POTX naar MHTML via C++
-description: Exporteer POTX naar MHTML in C++ zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer POTX naar MHTML via C++ of online of met gratis Online Converter
+description: Exporteer POTX naar MHTML in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: EXCEL SXC CSV XLT XLTM XLSM XLAM XLSB DIF ODS XLTX XLSX MARKDOWN TSV FODS XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer POTX naar MHTML via C++" h2="POTX naar MHTML-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer POTX naar MHTML via C++ of online" h2="POTX naar MHTML-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for C++](https://products.aspose.com/total/cpp/) te gebruiken, kunt u het POTX-bestand in C++-toepassingen in twee eenvoudige stappen naar MHTML converteren. Ten eerste, door [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) te gebruiken, kunt u POTX naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API HTML naar MHTML converteren. 

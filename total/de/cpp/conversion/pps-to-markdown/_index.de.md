@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPS über C++ in MARKDOWN
-description: Exportieren Sie PPS in C++ in MARKDOWN, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie PPS über C++ in MARKDOWN oder online oder mit dem kostenlosen Online Converter
+description: Exportieren Sie PPS in C++ in MARKDOWN, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: XLTM XLSB XLSX FODS XLS XLAM CSV XLTX MHTML SXC XLT TSV ODS EXCEL DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPS über C++ in MARKDOWN" h2="PPS-zu-MARKDOWN-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPS über C++ in MARKDOWN oder online" h2="PPS-zu-MARKDOWN-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for C++](https://products.aspose.com/total/cpp/) können Sie die PPS-Datei innerhalb von C++-Anwendungen in zwei einfachen Schritten in MARKDOWN konvertieren. Erstens können Sie mit [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) PPS in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in MARKDOWN konvertieren. 

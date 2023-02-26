@@ -1,6 +1,6 @@
 ---
-title: POTM'u C++ ile ODS'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C++'da ODS'ye aktarın
+title: POTM'u C++ ile ODS'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C++'da ODS'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS SXC XLTM CSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POTM'u C++ ile ODS'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POTM'tan ODS Dosyasına Dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="POTM'u C++ ile ODS'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POTM'tan ODS Dosyasına Dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda POTM dosyasını C++ uygulamaları içinde ODS'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak POTM'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi ODS'ye dönüştürebilirsiniz. 

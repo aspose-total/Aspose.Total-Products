@@ -1,6 +1,6 @@
 ---
-title: C++ के माध्यम से PPTM को XLS में बदलें
-description: Microsoft Excel या Powerpoint का उपयोग किए बिना C++ में PPTM को XLS में निर्यात करें
+title: C++ के माध्यम से PPTM को XLS में बदलें या ऑनलाइन या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: Microsoft Excel या Powerpoint का उपयोग किए बिना C++ में PPTM को XLS में निर्यात करें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV CSV SXC ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ के माध्यम से PPTM को XLS में बदलें" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना C++ के माध्यम से PPTM से XLS फ़ाइल रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ के माध्यम से PPTM को XLS में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना C++ के माध्यम से PPTM से XLS फ़ाइल रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) का उपयोग करके आप दो आसान चरणों में C++ ऐप्लिकेशन में PPTM फ़ाइल को XLS में बदल सकते हैं। सबसे पहले, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) का उपयोग करके, आप HTML को PPTM निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) स्प्रैडशीट प्रोग्रामिंग API का उपयोग करके, आप HTML को XLS में बदल सकते हैं। 

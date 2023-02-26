@@ -1,6 +1,6 @@
 ---
-title: Convertir PPTM en XLSB via C++
-description: Exporter PPTM vers XLSB en C++ sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir PPTM en XLSB via C++ ou en ligne ou avec le convertisseur en ligne gratuit
+description: Exporter PPTM vers XLSB en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: MHTML DIF XLSM XLAM XLS FODS SXC TSV XLTM XLSX EXCEL XLTX MARKDOWN ODS CSV XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPTM en XLSB via C++" h2="Conversion de fichiers PPTM en XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPTM en XLSB via C++ ou en ligne" h2="Conversion de fichiers PPTM en XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPTM en XLSB dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPTM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLSB. 

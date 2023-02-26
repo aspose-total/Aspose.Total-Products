@@ -1,6 +1,6 @@
 ---
-title: POWERPOINT'u C++ ile XLTM'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C++'da XLTM'ye aktarın
+title: POWERPOINT'u C++ ile XLTM'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C++'da XLTM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: SXC XLS FODS MHTML MARKDOWN CSV XLSM XLT EXCEL DIF ODS XLAM XLSX TSV XLTX XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u C++ ile XLTM'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POWERPOINT'tan XLTM Dosyasına Dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u C++ ile XLTM'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POWERPOINT'tan XLTM Dosyasına Dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda POWERPOINT dosyasını C++ uygulamaları içinde XLTM'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak POWERPOINT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi XLTM'ye dönüştürebilirsiniz. 

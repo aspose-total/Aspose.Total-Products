@@ -1,6 +1,6 @@
 ---
-title: Konversi PPT ke MHTML melalui C++
-description: Ekspor PPT ke MHTML dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint
+title: Konversi PPT ke MHTML melalui C++ atau daring atau dengan Konverter Online gratis
+description: Ekspor PPT ke MHTML dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: EXCEL XLSX XLSB FODS DIF ODS XLT MARKDOWN SXC XLTM XLTX XLAM CSV TSV XLS XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi PPT ke MHTML melalui C++" h2="Konversi File PPT ke MHTML melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi PPT ke MHTML melalui C++ atau daring" h2="Konversi File PPT ke MHTML melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for C++](https://products.aspose.com/total/cpp/) Anda dapat mengonversi file PPT ke MHTML dalam aplikasi C++ dalam dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), Anda dapat mengekspor PPT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke MHTML. 

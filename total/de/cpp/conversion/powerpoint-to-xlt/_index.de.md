@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POWERPOINT über C++ in XLT
-description: Exportieren Sie POWERPOINT in C++ in XLT, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie POWERPOINT über C++ in XLT oder online oder mit dem kostenlosen Online Converter
+description: Exportieren Sie POWERPOINT in C++ in XLT, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: EXCEL XLAM DIF MARKDOWN CSV XLTM XLSX XLSB TSV XLS SXC FODS XLSM ODS MHTML XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POWERPOINT über C++ in XLT" h2="POWERPOINT-zu-XLT-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POWERPOINT über C++ in XLT oder online" h2="POWERPOINT-zu-XLT-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for C++](https://products.aspose.com/total/cpp/) können Sie die POWERPOINT-Datei innerhalb von C++-Anwendungen in zwei einfachen Schritten in XLT konvertieren. Erstens können Sie mit [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) POWERPOINT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in XLT konvertieren. 

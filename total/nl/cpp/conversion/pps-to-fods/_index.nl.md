@@ -1,6 +1,6 @@
 ---
-title: Converteer PPS naar FODS via C++
-description: Exporteer PPS naar FODS in C++ zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer PPS naar FODS via C++ of online of met gratis Online Converter
+description: Exporteer PPS naar FODS in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM CSV XLTX EXCEL MARKDOWN MHTML XLSB XLT XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPS naar FODS via C++" h2="PPS naar FODS-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPS naar FODS via C++ of online" h2="PPS naar FODS-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for C++](https://products.aspose.com/total/cpp/) te gebruiken, kunt u het PPS-bestand in C++-toepassingen in twee eenvoudige stappen naar FODS converteren. Ten eerste, door [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) te gebruiken, kunt u PPS naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API HTML naar FODS converteren. 

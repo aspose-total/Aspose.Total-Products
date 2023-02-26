@@ -1,6 +1,6 @@
 ---
-title: Convertir POWERPOINT en SXC via C++
-description: Exporter POWERPOINT vers SXC en C++ sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir POWERPOINT en SXC via C++ ou en ligne ou avec le convertisseur en ligne gratuit
+description: Exporter POWERPOINT vers SXC en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: CSV FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EXCEL XLSB XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir POWERPOINT en SXC via C++" h2="Conversion de fichiers POWERPOINT en SXC via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir POWERPOINT en SXC via C++ ou en ligne" h2="Conversion de fichiers POWERPOINT en SXC via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier POWERPOINT en SXC dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter POWERPOINT vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en SXC. 

@@ -1,6 +1,6 @@
 ---
-title: Конвертировать POWERPOINT в CSV через C++
-description: Экспорт POWERPOINT в CSV на C++ без использования Microsoft Excel или Powerpoint
+title: Конвертировать POWERPOINT в CSV через C++ или онлайн или с помощью бесплатного онлайн-конвертера
+description: Экспорт POWERPOINT в CSV на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MARKDOWN ODS XLS SXC TSV XLT XLTM XLTX DIF EXCEL MHTML FODS XLAM XLSX XLSM XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать POWERPOINT в CSV через C++" h2="Преобразование файлов POWERPOINT в CSV с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать POWERPOINT в CSV через C++ или онлайн" h2="Преобразование файлов POWERPOINT в CSV с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for C++](https://products.aspose.com/total/cpp/), вы можете преобразовать файл POWERPOINT в CSV в приложениях C++ в два простых шага. Во-первых, с помощью [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) вы можете экспортировать POWERPOINT в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API для программирования электронных таблиц, вы можете конвертировать HTML в CSV. 

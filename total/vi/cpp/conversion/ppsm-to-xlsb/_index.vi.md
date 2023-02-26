@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi PPSM sang XLSB qua C++
-description: Xuất PPSM sang XLSB bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint
+title: Chuyển đổi PPSM sang XLSB qua C++ hoặc trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Xuất PPSM sang XLSB bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC DIF EXCEL TSV CSV MARKDOWN XLTX XLSX XLSM XLS ODS XLAM XLTM MHTML XLT FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSM sang XLSB qua C++" h2="Chuyển đổi tệp PPSM sang XLSB qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSM sang XLSB qua C++ hoặc trực tuyến" h2="Chuyển đổi tệp PPSM sang XLSB qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for C++](https://products.aspose.com/total/cpp/), bạn có thể chuyển đổi tệp PPSM sang XLSB trong các ứng dụng C++ bằng hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), bạn có thể xuất PPSM sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang XLSB. 

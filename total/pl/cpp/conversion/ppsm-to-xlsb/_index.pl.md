@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPSM na XLSB za pomocą C++
-description: Eksportuj PPSM do XLSB w C++ bez użycia Microsoft Excel lub Powerpoint
+title: Konwertuj PPSM na XLSB za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Eksportuj PPSM do XLSB w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC DIF EXCEL TSV CSV MARKDOWN XLTX XLSX XLSM XLS ODS XLAM XLTM MHTML XLT FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj PPSM na XLSB za pomocą C++" h2="Konwersja plików PPSM do XLSB za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj PPSM na XLSB za pomocą C++ lub online" h2="Konwersja plików PPSM do XLSB za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for C++](https://products.aspose.com/total/cpp/) możesz przekonwertować plik PPSM na XLSB w aplikacjach C++ w dwóch prostych krokach. Po pierwsze, używając [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), możesz wyeksportować PPSM do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, możesz przekonwertować HTML na XLSB. 

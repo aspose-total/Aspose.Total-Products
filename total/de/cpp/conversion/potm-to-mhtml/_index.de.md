@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POTM über C++ in MHTML
-description: Exportieren Sie POTM in C++ in MHTML, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie POTM über C++ in MHTML oder online oder mit dem kostenlosen Online Converter
+description: Exportieren Sie POTM in C++ in MHTML, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS CSV DIF XLT XLTX ODS XLSM XLSB FODS XLSX XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTM über C++ in MHTML" h2="POTM-zu-MHTML-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTM über C++ in MHTML oder online" h2="POTM-zu-MHTML-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for C++](https://products.aspose.com/total/cpp/) können Sie die POTM-Datei innerhalb von C++-Anwendungen in zwei einfachen Schritten in MHTML konvertieren. Erstens können Sie mit [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) POTM in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in MHTML konvertieren. 

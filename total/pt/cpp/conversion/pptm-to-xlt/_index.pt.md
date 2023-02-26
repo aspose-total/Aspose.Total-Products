@@ -1,6 +1,6 @@
 ---
-title: Converter PPTM para XLT via C++
-description: Exporte PPTM para XLT em C++ sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPTM para XLT via C++ ou online ou com o conversor online grátis
+description: Exporte PPTM para XLT em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLAM TSV ODS XLS XLTM XLTX MARKDOWN DIF EXCEL CSV XLSB XLSM FODS XLSX SXC MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPTM para XLT via C++" h2="Conversão de arquivo PPTM para XLT via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPTM para XLT via C++ ou online" h2="Conversão de arquivo PPTM para XLT via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo PPTM para XLT dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar PPTM para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para XLT. 

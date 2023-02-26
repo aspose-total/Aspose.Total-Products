@@ -1,6 +1,6 @@
 ---
-title: POT'u C++ ile XLSM'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan POT'u C++'da XLSM'ye aktarın
+title: POT'u C++ ile XLSM'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan POT'u C++'da XLSM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSB XLSX XLS EXCEL CSV XLAM SXC TSV MARKDOWN XLTM DIF MHTML ODS FODS XLTX XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POT'u C++ ile XLSM'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POT'tan XLSM Dosyasına Dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="POT'u C++ ile XLSM'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POT'tan XLSM Dosyasına Dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda POT dosyasını C++ uygulamaları içinde XLSM'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak POT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi XLSM'ye dönüştürebilirsiniz. 

@@ -1,6 +1,6 @@
 ---
-title: C++を介してPPSMをODSに変換する
-description: MicrosoftExcelまたはPowerpointを使用せずにC++でPPSMをODSにエクスポートする
+title: C++を介してPPSMをODSに変換する またはオンライン または無料のオンライン コンバーターを使用
+description: MicrosoftExcelまたはPowerpointを使用せずにC++でPPSMをODSにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM XLSM XLT DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++を介してPPSMをODSに変換する" h2="Microsoft <sup>&reg;</sup>ExcelまたはPowerPointを使用せずにC++を介してPPSMからODSファイルに変換" >}}
+{{< blocks/products/pf/feature-page-header h1="C++を介してPPSMをODSに変換する またはオンライン" h2="Microsoft <sup>&reg;</sup>ExcelまたはPowerPointを使用せずにC++を介してPPSMからODSファイルに変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)を使用すると、2つの簡単な手順でC++アプリケーション内でPPSMファイルをODSに変換できます。まず、[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用すると、PPSMをHTMLにエクスポートできます。その後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)Spreadsheet Programming APIを使用して、HTMLをODSに変換できます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++を介してPPSMをODSに変換する方法" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++を介してPPSMをODSに変換する またはオンライン方法" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPPSMファイルを開きます
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)メソッドを使用してPPSMをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします

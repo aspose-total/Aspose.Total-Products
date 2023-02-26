@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPTM na TSV za pomocą C++
-description: Eksportuj PPTM do TSV w C++ bez użycia Microsoft Excel lub Powerpoint
+title: Konwertuj PPTM na TSV za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Eksportuj PPTM do TSV w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: ODS SXC XLS MHTML XLTX XLAM FODS CSV DIF XLTM XLT XLSB XLSM XLSX MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj PPTM na TSV za pomocą C++" h2="Konwersja plików PPTM do TSV za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj PPTM na TSV za pomocą C++ lub online" h2="Konwersja plików PPTM do TSV za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for C++](https://products.aspose.com/total/cpp/) możesz przekonwertować plik PPTM na TSV w aplikacjach C++ w dwóch prostych krokach. Po pierwsze, używając [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), możesz wyeksportować PPTM do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, możesz przekonwertować HTML na TSV. 

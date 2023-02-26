@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPT-ot XLSX-vé a C++ segítségével
-description: Exportálja a PPT-ot XLSX-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül
+title: Konvertálja a PPT-ot XLSX-vé a C++ segítségével vagy online vagy ingyenes online konverterrel
+description: Exportálja a PPT-ot XLSX-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM CSV XLTM MARKDOWN TSV MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPT-ot XLSX-vé a C++ segítségével" h2="PPT-ból XLSX-fájl átalakítás C++-on keresztül Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPT-ot XLSX-vé a C++ segítségével vagy online" h2="PPT-ból XLSX-fájl átalakítás C++-on keresztül Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) használatával két egyszerű lépésben konvertálhat PPT fájlt XLSX-vé a C++ alkalmazásokon belül. Először is, az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) használatával exportálhatja a PPT-ot HTML-be. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API használatával konvertálhatja a HTML-t XLSX-vé. 

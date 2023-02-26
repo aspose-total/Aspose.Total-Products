@@ -1,6 +1,6 @@
 ---
-title: Convert PPTX to EXCEL via C++ 
-description: Export PPTX to EXCEL in C++ without using Microsoft Excel or Powerpoint
+title: Convert PPTX to EXCEL via C++ or online 
+description: Export PPTX to EXCEL in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /cpp/conversion/pptx-to-excel/
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: EXCEL
 otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MHTML DIF ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPTX to EXCEL via C++" h2="PPTX  to EXCEL File Conversion via C++ without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPTX to EXCEL via C++ or online" h2="PPTX  to EXCEL File Conversion via C++ without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can convert PPTX file to EXCEL within C++ applications in two simple steps. Firstly, by using [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), you can export PPTX to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, you can convert HTML to EXCEL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPTX to EXCEL via C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPTX to EXCEL via C++ or online" %}}
 1. Open PPTX file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
 2. Convert PPTX to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

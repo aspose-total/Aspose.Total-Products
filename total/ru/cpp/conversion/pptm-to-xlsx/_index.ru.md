@@ -1,6 +1,6 @@
 ---
-title: Конвертировать PPTM в XLSX через C++
-description: Экспорт PPTM в XLSX на C++ без использования Microsoft Excel или Powerpoint
+title: Конвертировать PPTM в XLSX через C++ или онлайн или с помощью бесплатного онлайн-конвертера
+description: Экспорт PPTM в XLSX на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM TSV MARKDOWN EXCEL XLSM XLSB XLAM XLTX FODS SXC XLT MHTML DIF CSV XLS ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать PPTM в XLSX через C++" h2="Преобразование файлов PPTM в XLSX с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать PPTM в XLSX через C++ или онлайн" h2="Преобразование файлов PPTM в XLSX с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for C++](https://products.aspose.com/total/cpp/), вы можете преобразовать файл PPTM в XLSX в приложениях C++ в два простых шага. Во-первых, с помощью [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) вы можете экспортировать PPTM в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLSX. 

@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPT do XLS přes C++
-description: Exportujte PPT do XLS v C++ bez použití Microsoft Excel nebo Powerpoint
+title: Převeďte PPT do XLS přes C++ nebo online nebo pomocí bezplatného online převodníku
+description: Exportujte PPT do XLS v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS MHTML XLT TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte PPT do XLS přes C++" h2="Konverze souborů PPT do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte PPT do XLS přes C++ nebo online" h2="Konverze souborů PPT do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor PPT na XLS v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete exportovat PPT do HTML. Ppté můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na XLS. 

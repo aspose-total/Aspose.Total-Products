@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPT na CSV za pomocą C++
-description: Eksportuj PPT do CSV w C++ bez użycia Microsoft Excel lub Powerpoint
+title: Konwertuj PPT na CSV za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+description: Eksportuj PPT do CSV w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MARKDOWN XLSB XLAM SXC TSV XLTX XLSX FODS XLT XLTM ODS MHTML EXCEL XLS DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj PPT na CSV za pomocą C++" h2="Konwersja plików PPT do CSV za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj PPT na CSV za pomocą C++ lub online" h2="Konwersja plików PPT do CSV za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for C++](https://products.aspose.com/total/cpp/) możesz przekonwertować plik PPT na CSV w aplikacjach C++ w dwóch prostych krokach. Po pierwsze, używając [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), możesz wyeksportować PPT do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, możesz przekonwertować HTML na CSV. 

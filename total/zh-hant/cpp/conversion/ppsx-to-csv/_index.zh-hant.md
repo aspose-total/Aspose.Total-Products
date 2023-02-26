@@ -1,6 +1,6 @@
 ---
-title: 通過 C++ 將 PPSX 轉換為 CSV
-description: 在 C++ 中將 PPSX 導出為 CSV，而不使用 Microsoft Excel 或 Powerpoint
+title: 通過 C++ 將 PPSX 轉換為 CSV 或在線 或使用免費的在線轉換器
+description: 在 C++ 中將 PPSX 導出為 CSV，而不使用 Microsoft Excel 或 Powerpoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLS EXCEL XLAM SXC ODS XLSX XLTM DIF MARKDOWN XLT XLSM XLTX FODS MHTML XLSB TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C++ 將 PPSX 轉換為 CSV" h2="通過 C++ 將 PPSX 轉換為 CSV 文件，無需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 C++ 將 PPSX 轉換為 CSV 或在線" h2="通過 C++ 將 PPSX 轉換為 CSV 或在線 文件，無需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通過使用 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)，您可以通過兩個簡單的步驟在 C++ 應用程序中將 PPSX 文件轉換為 CSV。首先，通過使用 [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)，您可以將 PPSX 導出為 HTML。之後，通過使用 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) 電子表格編程 API，您可以將 HTML 轉換為 CSV。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何通過 C++ 將 PPSX 轉換為 CSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通過 C++ 將 PPSX 轉換為 CSV 或在線" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) 類參考打開 PPSX 文件
 2. 使用 [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) 方法將 PPSX 轉換為 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 HTML 文檔

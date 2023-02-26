@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPS till XLT via C++
-description: Exportera PPS till XLT i C++ utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera PPS till XLT via C++ eller online eller med gratis Online Converter
+description: Exportera PPS till XLT i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: SXC EXCEL CSV XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB MARKDOWN DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera PPS till XLT via C++" h2="PPS till XLT-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera PPS till XLT via C++ eller online" h2="PPS till XLT-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kan du konvertera PPS-fil till XLT inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du exportera PPS till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till XLT. 

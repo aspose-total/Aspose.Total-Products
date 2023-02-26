@@ -1,6 +1,6 @@
 ---
-title: Converter PPS para XLS via C++
-description: Exporte PPS para XLS em C++ sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPS para XLS via C++ ou online ou com o conversor online grátis
+description: Exporte PPS para XLS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX CSV TSV ODS EXCEL MHTML DIF XLTX XLT XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPS para XLS via C++" h2="Conversão de arquivo PPS para XLS via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPS para XLS via C++ ou online" h2="Conversão de arquivo PPS para XLS via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo PPS para XLS dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar PPS para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para XLS. 

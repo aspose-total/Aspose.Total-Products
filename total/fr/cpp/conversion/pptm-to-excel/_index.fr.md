@@ -1,6 +1,6 @@
 ---
-title: Convertir PPTM en EXCEL via C++
-description: Exporter PPTM vers EXCEL en C++ sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir PPTM en EXCEL via C++ ou en ligne ou avec le convertisseur en ligne gratuit
+description: Exporter PPTM vers EXCEL en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLTX CSV XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML FODS SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPTM en EXCEL via C++" h2="Conversion de fichiers PPTM en EXCEL via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPTM en EXCEL via C++ ou en ligne" h2="Conversion de fichiers PPTM en EXCEL via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier PPTM en EXCEL dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter PPTM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en EXCEL. 

@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPSX σε SXC μέσω C++
-description: Εξαγωγή PPSX σε SXC σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint
+title: Μετατροπή PPSX σε SXC μέσω C++ ή διαδικτυακά ή με δωρεάν Online Converter
+description: Εξαγωγή PPSX σε SXC σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLS XLTX XLSB XLSX CSV FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN XLSM ODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSX σε SXC μέσω C++" h2="Μετατροπή αρχείου PPSX σε SXC μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPSX σε SXC μέσω C++ ή διαδικτυακά" h2="Μετατροπή αρχείου PPSX σε SXC μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το αρχείο PPSX σε SXC εντός των εφαρμογών C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), μπορείτε να εξαγάγετε το PPSX σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε SXC. 

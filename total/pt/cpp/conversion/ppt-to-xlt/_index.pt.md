@@ -1,6 +1,6 @@
 ---
-title: Converter PPT para XLT via C++
-description: Exporte PPT para XLT em C++ sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPT para XLT via C++ ou online ou com o conversor online grátis
+description: Exporte PPT para XLT em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLS XLAM SXC CSV XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX XLSB MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPT para XLT via C++" h2="Conversão de arquivo PPT para XLT via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPT para XLT via C++ ou online" h2="Conversão de arquivo PPT para XLT via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo PPT para XLT dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar PPT para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para XLT. 

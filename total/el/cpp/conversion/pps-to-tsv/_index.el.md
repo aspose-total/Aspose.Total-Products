@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPS σε TSV μέσω C++
-description: Εξαγωγή PPS σε TSV σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint
+title: Μετατροπή PPS σε TSV μέσω C++ ή διαδικτυακά ή με δωρεάν Online Converter
+description: Εξαγωγή PPS σε TSV σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLAM XLS CSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT XLSM SXC ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPS σε TSV μέσω C++" h2="Μετατροπή αρχείου PPS σε TSV μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή PPS σε TSV μέσω C++ ή διαδικτυακά" h2="Μετατροπή αρχείου PPS σε TSV μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) μπορείτε να μετατρέψετε το αρχείο PPS σε TSV εντός των εφαρμογών C++ με δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), μπορείτε να εξαγάγετε το PPS σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε TSV. 
