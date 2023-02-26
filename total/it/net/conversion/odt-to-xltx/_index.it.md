@@ -1,6 +1,6 @@
 ---
 title: API .NET per convertire ODT in XLTX
-description: API C# per convertire ODT in XLTX senza utilizzare Microsoft Excel o Adobe Reader
+description: API C# per convertire ODT in XLTX o in linea senza utilizzare Microsoft Excel o Adobe Reader o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/odt-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL XLTM XLTX XLSB XLSM XLT XLSX FODS ODS DIF XLAM XLS SXC TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# per convertire ODT in XLTX" h2="Esporta ODT in XLTX tramite C# senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# per convertire ODT in XLTX o in linea" h2="Esporta ODT in XLTX tramite C# senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi includere la funzione di conversione da ODT a XLTX all'interno di qualsiasi applicazione .NET, C#, ASP.NET e VB.NET in due semplici passaggi. Innanzitutto, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi esportare ODT in HTML. Successivamente, utilizzando l'API di programmazione per fogli di calcolo [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), è possibile convertire HTML in XLTX.

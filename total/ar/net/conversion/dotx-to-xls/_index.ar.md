@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل DOTX إلى XLS
-description: C# API لتحويل DOTX إلى XLS بدون استخدام Microsoft Excel أو Adobe Reader
+description: C# API لتحويل DOTX إلى XLS أو عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/dotx-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتحويل DOTX إلى XLS" h2="تصدير DOTX إلى XLS عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتحويل DOTX إلى XLS أو عبر الإنترنت" h2="تصدير DOTX إلى XLS عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) ، يمكنك تضمين DOTX إلى ميزة تحويل XLS ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تصدير DOTX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى XLS.

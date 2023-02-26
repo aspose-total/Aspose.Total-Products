@@ -1,6 +1,6 @@
 ---
 title: .NET API để chuyển đổi ODT sang TSV
-description: C# API để chuyển đổi ODT sang TSV mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
+description: C# API để chuyển đổi ODT sang TSV hoặc trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/odt-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: EXCEL FODS XLSB XLSX XLT TSV ODS XLS XLTM SXC XLTX XLAM XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API để chuyển đổi ODT sang TSV" h2="Xuất ODT sang TSV qua C# mà không sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API để chuyển đổi ODT sang TSV hoặc trực tuyến" h2="Xuất ODT sang TSV qua C# mà không sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể bao gồm tính năng chuyển đổi ODT sang TSV trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể xuất ODT sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang TSV.

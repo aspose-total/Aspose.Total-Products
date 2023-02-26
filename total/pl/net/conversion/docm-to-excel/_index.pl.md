@@ -1,6 +1,6 @@
 ---
 title: .NET API do konwersji DOCM na EXCEL
-description: C# API do konwersji DOCM na EXCEL bez użycia Microsoft Excel lub Adobe Reader
+description: C# API do konwersji DOCM na EXCEL lub online bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/docm-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API do konwersji DOCM na EXCEL" h2="Eksportuj DOCM do EXCEL za pomocą C# bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API do konwersji DOCM na EXCEL lub online" h2="Eksportuj DOCM do EXCEL za pomocą C# bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) możesz dołączyć funkcję konwersji DOCM do EXCEL w dowolnej aplikacji .NET, C#, ASP.NET i VB.NET w dwa proste kroki. Po pierwsze, używając [Aspose.Words for .NET](https://products.aspose.com/words/net/), możesz wyeksportować DOCM do HTML. Następnie, używając [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, możesz przekonwertować HTML na EXCEL.

@@ -1,6 +1,6 @@
 ---
 title: API .NET para convertir WORDML a XLT
-description: API de C# para convertir WORDML a XLT sin usar Microsoft Excel o Adobe Reader
+description: API de C# para convertir WORDML a XLT o en línea sin usar Microsoft Excel o Adobe Reader o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/wordml-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV XLTX SXC XLSX DIF XLSB XLS XLAM FODS XLT XLSM XLTM EXCEL ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir WORDML a XLT" h2="Exporte WORDML a XLT a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir WORDML a XLT o en línea" h2="Exporte WORDML a XLT a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), puede incluir la función de conversión de WORDML a XLT dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos sencillos pasos. En primer lugar, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede exportar WORDML a HTML. Después de eso, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programación de hojas de cálculo, puede convertir HTML a XLT.

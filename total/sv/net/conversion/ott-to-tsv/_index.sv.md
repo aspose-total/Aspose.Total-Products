@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera OTT till TSV
-description: C# API för att konvertera OTT till TSV utan att använda Microsoft Excel eller Adobe Reader
+description: C# API för att konvertera OTT till TSV eller online utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/ott-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLSX XLTX XLSB XLAM EXCEL XLSM ODS XLS DIF FODS XLTM XLT SXC TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera OTT till TSV" h2="Exportera OTT till TSV via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera OTT till TSV eller online" h2="Exportera OTT till TSV via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du inkludera OTT till TSV-konverteringsfunktion i alla .NET-, C#-, ASP.NET- och VB.NET-applikationer i två enkla steg. För det första, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du exportera OTT till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till TSV.

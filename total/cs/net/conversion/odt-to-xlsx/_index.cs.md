@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod ODT do XLSX
-description: C# API pro převod ODT do XLSX bez použití Microsoft Excel nebo Adobe Reader
+description: C# API pro převod ODT do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/odt-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSB XLAM FODS XLT XLS ODS DIF XLTX SXC XLSX XLSM TSV XLTM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod ODT na XLSX" h2="Export ODT do XLSX přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod ODT na XLSX nebo online" h2="Export ODT do XLSX přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete zahrnout funkci převodu ODT na XLSX v jakékoli aplikaci .NET, C#, ASP.NET a VB.NET v dva jednoduché kroky. Za prvé, pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) můžete exportovat ODT do HTML. Poté můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na XLSX.

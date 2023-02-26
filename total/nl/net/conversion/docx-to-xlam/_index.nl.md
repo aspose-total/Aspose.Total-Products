@@ -1,6 +1,6 @@
 ---
 title: .NET API om DOCX naar XLAM te converteren
-description: C# API om DOCX naar XLAM te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
+description: C# API om DOCX naar XLAM te converteren of online zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/docx-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSB DIF TSV FODS XLS EXCEL SXC XLSX XLT ODS XLTM XLTX XLAM XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API om DOCX naar XLAM te converteren" h2="Exporteer DOCX naar XLAM via C# zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API om DOCX naar XLAM te converteren of online" h2="Exporteer DOCX naar XLAM via C# zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruiken, kunt u DOCX naar XLAM-conversiefunctie opnemen in elke .NET-, C#-, ASP.NET- en VB.NET-toepassing in twee eenvoudige stappen. Ten eerste, door [Aspose.Words for .NET](https://products.aspose.com/words/net/) te gebruiken, kunt u DOCX naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API HTML naar XLAM converteren.

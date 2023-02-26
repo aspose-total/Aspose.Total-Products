@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi ODS'ye Dönüştürmek için .NET API
-description: Microsoft Excel veya Adobe Reader kullanmadan DOCM'yi ODS'ye dönüştürmek için C# API'si
+description: Microsoft Excel veya Adobe Reader kullanmadan DOCM'yi ODS'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/docm-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLT XLSM SXC XLAM DIF FODS XLSB TSV XLS XLTM XLSX XLTX EXCEL ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="DOCM'yi ODS'ye Dönüştürmek için C# API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOCM'yi C# aracılığıyla ODS'ye aktarın" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="DOCM'yi ODS'ye Dönüştürmek için C# API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOCM'yi C# aracılığıyla ODS'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak DOCM'den ODS'ye dönüştürme özelliğini herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasına dahil edebilirsiniz. iki basit adım. İlk olarak, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak DOCM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi ODS'ye dönüştürebilirsiniz.

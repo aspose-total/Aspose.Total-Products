@@ -1,6 +1,6 @@
 ---
 title: DOCX를 XLSM로 변환하는 .NET API
-description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 DOCX를 XLSM로 변환하는 C# API
+description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 DOCX를 XLSM로 변환하는 C# API 또는 온라인 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오. 또는 무료 온라인 변환기 사용
 url_ignore: /ko/net/conversion/docx-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSM SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="DOCX를 XLSM로 변환하는 C# API" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 C#을 통해 DOCX를 XLSM로 내보내기" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="DOCX를 XLSM로 변환하는 C# API 또는 온라인" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 C#을 통해 DOCX를 XLSM로 내보내기" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)을 사용하면 모든 .NET, C#, ASP.NET 및 VB.NET 응용 프로그램 내에 DOCX에서 XLSM로 변환 기능을 포함할 수 있습니다. 두 가지 간단한 단계. 먼저 [Aspose.Words for .NET](https://products.aspose.com/words/net/)을 사용하여 DOCX를 HTML로 내보낼 수 있습니다. 그런 다음 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API를 사용하여 HTML을 XLSM로 변환할 수 있습니다.

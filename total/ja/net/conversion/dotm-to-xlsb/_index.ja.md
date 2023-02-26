@@ -1,6 +1,6 @@
 ---
 title: DOTMをXLSBに変換する.NETAPI
-description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをXLSBに変換するC＃API
+description: MicrosoftExcelまたはAdobeReaderを使用せずにDOTMをXLSBに変換するC＃API またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/dotm-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="DOTMをXLSBに変換するC＃API" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOTMをXLSBにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="DOTMをXLSBに変換するC＃API またはオンライン" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOTMをXLSBにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、DOTMからXLSBへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、DOTMをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをXLSBに変換できます。

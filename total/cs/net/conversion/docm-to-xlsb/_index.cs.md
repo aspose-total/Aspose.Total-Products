@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOCM do XLSB
-description: C# API pro převod DOCM do XLSB bez použití Microsoft Excel nebo Adobe Reader
+description: C# API pro převod DOCM do XLSB bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/docm-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLTM XLSB XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod DOCM na XLSB" h2="Export DOCM do XLSB přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod DOCM na XLSB nebo online" h2="Export DOCM do XLSB přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete zahrnout funkci převodu DOCM na XLSB v jakékoli aplikaci .NET, C#, ASP.NET a VB.NET v dva jednoduché kroky. Za prvé, pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) můžete exportovat DOCM do HTML. Poté můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na XLSB.

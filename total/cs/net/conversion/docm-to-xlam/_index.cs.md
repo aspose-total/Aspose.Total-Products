@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOCM do XLAM
-description: C# API pro převod DOCM do XLAM bez použití Microsoft Excel nebo Adobe Reader
+description: C# API pro převod DOCM do XLAM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/docm-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: ODS XLT EXCEL SXC XLSB DIF XLSX XLTM XLTX XLS FODS TSV XLSM XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod DOCM na XLAM" h2="Export DOCM do XLAM přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod DOCM na XLAM nebo online" h2="Export DOCM do XLAM přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete zahrnout funkci převodu DOCM na XLAM v jakékoli aplikaci .NET, C#, ASP.NET a VB.NET v dva jednoduché kroky. Za prvé, pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) můžete exportovat DOCM do HTML. Poté můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na XLAM.

@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOTM do SXC
-description: C# API pro převod DOTM do SXC bez použití Microsoft Excel nebo Adobe Reader
+description: C# API pro převod DOTM do SXC bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/dotm-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLAM FODS EXCEL XLTM XLSX TSV XLT XLS DIF ODS XLSM XLTX XLSB SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod DOTM na SXC" h2="Export DOTM do SXC přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API pro převod DOTM na SXC nebo online" h2="Export DOTM do SXC přes C# bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete zahrnout funkci převodu DOTM na SXC v jakékoli aplikaci .NET, C#, ASP.NET a VB.NET v dva jednoduché kroky. Za prvé, pomocí [Aspose.Words for .NET](https://products.aspose.com/words/net/) můžete exportovat DOTM do HTML. Poté můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na SXC.

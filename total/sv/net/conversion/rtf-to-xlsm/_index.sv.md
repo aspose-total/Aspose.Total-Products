@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera RTF till XLSM
-description: C# API för att konvertera RTF till XLSM utan att använda Microsoft Excel eller Adobe Reader
+description: C# API för att konvertera RTF till XLSM eller online utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/rtf-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: TSV XLS XLTX SXC XLTM FODS XLAM XLT ODS EXCEL DIF XLSB XLSX XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera RTF till XLSM" h2="Exportera RTF till XLSM via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera RTF till XLSM eller online" h2="Exportera RTF till XLSM via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du inkludera RTF till XLSM-konverteringsfunktion i alla .NET-, C#-, ASP.NET- och VB.NET-applikationer i två enkla steg. För det första, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du exportera RTF till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till XLSM.

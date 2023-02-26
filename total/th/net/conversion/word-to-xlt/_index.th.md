@@ -1,6 +1,6 @@
 ---
 title: .NET API เพื่อแปลง WORD เป็น XLT
-description: C# API เพื่อแปลง WORD เป็น XLT โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader
+description: C# API เพื่อแปลง WORD เป็น XLT หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/net/conversion/word-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: SXC XLT ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API เพื่อแปลง WORD เป็น XLT" h2="ส่งออก WORD เป็น XLT ผ่าน C# โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API เพื่อแปลง WORD เป็น XLT หรือทางออนไลน์" h2="ส่งออก WORD เป็น XLT ผ่าน C# โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถรวมคุณลักษณะการแปลง WORD เป็น XLT ภายในแอปพลิเคชัน .NET, C#, ASP.NET และ VB.NET ใดก็ได้ สองขั้นตอนง่ายๆ ประการแรก ด้วยการใช้ [Aspose.Words for .NET](https://products.aspose.com/words/net/) คุณสามารถส่งออก WORD เป็น HTML หลังจากนั้น การใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API จะช่วยให้คุณแปลง HTML เป็น XLT ได้

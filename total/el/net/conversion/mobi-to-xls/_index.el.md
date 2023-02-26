@@ -1,6 +1,6 @@
 ---
 title: .NET API για μετατροπή MOBI σε XLS
-description: C# API για μετατροπή MOBI σε XLS χωρίς χρήση Microsoft Excel ή Adobe Reader
+description: C# API για μετατροπή MOBI σε XLS ή διαδικτυακά χωρίς χρήση Microsoft Excel ή Adobe Reader ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/mobi-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLSM XLT TSV EXCEL XLTX SXC XLSB XLS XLSX ODS DIF FODS XLAM XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API για μετατροπή MOBI σε XLS" h2="Εξαγωγή MOBI σε XLS μέσω C# χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API για μετατροπή MOBI σε XLS ή διαδικτυακά" h2="Εξαγωγή MOBI σε XLS μέσω C# χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for .NET](https://products.aspose.com/total/net/) μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής MOBI σε XLS σε οποιαδήποτε εφαρμογή .NET, C#, ASP.NET και VB.NET σε δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να εξαγάγετε το MOBI σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε XLS.

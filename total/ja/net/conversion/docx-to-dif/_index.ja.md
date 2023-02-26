@@ -1,6 +1,6 @@
 ---
 title: DOCXをDIFに変換する.NETAPI
-description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCXをDIFに変換するC＃API
+description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCXをDIFに変換するC＃API またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/docx-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTM XLTX XLT EXCEL XLAM TSV XLS DIF ODS XLSM FODS XLSB XLSX SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="DOCXをDIFに変換するC＃API" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOCXをDIFにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="DOCXをDIFに変換するC＃API またはオンライン" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOCXをDIFにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、DOCXからDIFへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、DOCXをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをDIFに変換できます。

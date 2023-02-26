@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования DOTM в DIF
-description: C# API для преобразования DOTM в DIF без использования Microsoft Excel или Adobe Reader
+description: C# API для преобразования DOTM в DIF или онлайн без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/dotm-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTM ODS EXCEL XLSM XLAM XLSX XLS XLTX DIF XLT XLSB TSV SXC FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования DOTM в DIF" h2="Экспорт DOTM в DIF с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования DOTM в DIF или онлайн" h2="Экспорт DOTM в DIF с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете включить функцию преобразования DOTM в DIF в любое приложение .NET, C#, ASP.NET и VB.NET в два простых шага. Во-первых, с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы можете экспортировать DOTM в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в DIF.

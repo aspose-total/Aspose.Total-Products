@@ -1,6 +1,6 @@
 ---
 title: .NET API 将 DOTM 转换为 XLTM
-description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOTM 转换为 XLTM 的 C# API
+description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOTM 转换为 XLTM 的 C# API 或在线 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/dotm-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: TSV XLAM SXC XLTM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="将 DOTM 转换为 XLTM 的 C# API" h2="通过 C# 将 DOTM 导出为 XLTM，无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="将 DOTM 转换为 XLTM 的 C# API 或在线" h2="通过 C# 将 DOTM 导出为 XLTM，无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通过使用 [Aspose.Total for .NET](https://products.aspose.com/total/net/)，您可以在任何 .NET、C#、ASP.NET 和 VB.NET 应用程序中包含 DOTM 到 XLTM 的转换功能两个简单的步骤。首先，通过使用 [Aspose.Words for .NET](https://products.aspose.com/words/net/)，您可以将 DOTM 导出为 HTML。之后，通过使用 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 电子表格编程 API，您可以将 HTML 转换为 XLTM。

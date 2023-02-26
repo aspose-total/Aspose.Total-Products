@@ -1,6 +1,6 @@
 ---
 title: OTT'yi EXCEL'ye Dönüştürmek için .NET API
-description: Microsoft Excel veya Adobe Reader kullanmadan OTT'yi EXCEL'ye dönüştürmek için C# API'si
+description: Microsoft Excel veya Adobe Reader kullanmadan OTT'yi EXCEL'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/ott-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: DIF XLTX XLAM XLSB XLT EXCEL ODS TSV XLTM FODS XLS XLSX XLSM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="OTT'yi EXCEL'ye Dönüştürmek için C# API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan OTT'yi C# aracılığıyla EXCEL'ye aktarın" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="OTT'yi EXCEL'ye Dönüştürmek için C# API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan OTT'yi C# aracılığıyla EXCEL'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak OTT'den EXCEL'ye dönüştürme özelliğini herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasına dahil edebilirsiniz. iki basit adım. İlk olarak, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak OTT'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi EXCEL'ye dönüştürebilirsiniz.

@@ -1,6 +1,6 @@
 ---
 title: .NET API do konwersji ODT na XLAM
-description: C# API do konwersji ODT na XLAM bez użycia Microsoft Excel lub Adobe Reader
+description: C# API do konwersji ODT na XLAM lub online bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/odt-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLTM DIF TSV XLS ODS XLSM XLAM XLT XLTX EXCEL SXC XLSB FODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API do konwersji ODT na XLAM" h2="Eksportuj ODT do XLAM za pomocą C# bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API do konwersji ODT na XLAM lub online" h2="Eksportuj ODT do XLAM za pomocą C# bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) możesz dołączyć funkcję konwersji ODT do XLAM w dowolnej aplikacji .NET, C#, ASP.NET i VB.NET w dwa proste kroki. Po pierwsze, używając [Aspose.Words for .NET](https://products.aspose.com/words/net/), możesz wyeksportować ODT do HTML. Następnie, używając [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, możesz przekonwertować HTML na XLAM.

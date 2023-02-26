@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir DOT en FODS
-description: API C# pour convertir DOT en FODS sans utiliser Microsoft Excel ou Adobe Reader
+description: API C# pour convertir DOT en FODS ou en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/net/conversion/dot-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: DIF XLTM XLSX XLAM EXCEL XLTX ODS XLSB XLT XLS FODS TSV XLSM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOT en FODS" h2="Exportez DOT vers FODS via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOT en FODS ou en ligne" h2="Exportez DOT vers FODS via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOT vers FODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOT vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en FODS.

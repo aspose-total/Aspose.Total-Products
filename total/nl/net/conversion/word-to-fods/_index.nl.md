@@ -1,6 +1,6 @@
 ---
 title: .NET API om WORD naar FODS te converteren
-description: C# API om WORD naar FODS te converteren zonder Microsoft Excel of Adobe Reader te gebruiken
+description: C# API om WORD naar FODS te converteren of online zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/word-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: EXCEL XLTX SXC XLTM TSV XLAM XLSX XLT XLSM XLSB FODS ODS DIF XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API om WORD naar FODS te converteren" h2="Exporteer WORD naar FODS via C# zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API om WORD naar FODS te converteren of online" h2="Exporteer WORD naar FODS via C# zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruiken, kunt u WORD naar FODS-conversiefunctie opnemen in elke .NET-, C#-, ASP.NET- en VB.NET-toepassing in twee eenvoudige stappen. Ten eerste, door [Aspose.Words for .NET](https://products.aspose.com/words/net/) te gebruiken, kunt u WORD naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API HTML naar FODS converteren.

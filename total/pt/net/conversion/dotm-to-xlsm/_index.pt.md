@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter DOTM para XLSM
-description: API C# para converter DOTM para XLSM sem usar o Microsoft Excel ou Adobe Reader
+description: API C# para converter DOTM para XLSM ou online sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/dotm-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: TSV XLAM SXC XLSM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter DOTM para XLSM" h2="Exporte DOTM para XLSM via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter DOTM para XLSM ou online" h2="Exporte DOTM para XLSM via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode incluir o recurso de conversão de DOTM para XLSM em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode exportar DOTM para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para XLSM.

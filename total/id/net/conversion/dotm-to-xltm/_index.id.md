@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi DOTM ke XLTM
-description: C# API untuk Mengonversi DOTM ke XLTM tanpa menggunakan Microsoft Excel atau Adobe Reader
+description: C# API untuk Mengonversi DOTM ke XLTM atau daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/dotm-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: TSV XLAM SXC XLTM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi DOTM ke XLTM" h2="Ekspor DOTM ke XLTM melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi DOTM ke XLTM atau daring" h2="Ekspor DOTM ke XLTM melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/), Anda dapat menyertakan fitur konversi DOTM ke XLTM dalam aplikasi .NET, C#, ASP.NET, dan VB.NET apa pun di dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat mengekspor DOTM ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke XLTM.

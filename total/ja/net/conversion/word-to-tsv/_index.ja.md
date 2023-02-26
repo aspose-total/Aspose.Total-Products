@@ -1,6 +1,6 @@
 ---
 title: WORDをTSVに変換する.NETAPI
-description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをTSVに変換するC＃API
+description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDをTSVに変換するC＃API またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/word-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLSX XLT SXC XLTM XLTX DIF FODS TSV XLS XLSM ODS XLSB XLAM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="WORDをTSVに変換するC＃API" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でWORDをTSVにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="WORDをTSVに変換するC＃API またはオンライン" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でWORDをTSVにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、WORDからTSVへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、WORDをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをTSVに変換できます。

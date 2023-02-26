@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir DOCM en TSV
-description: API C# pour convertir DOCM en TSV sans utiliser Microsoft Excel ou Adobe Reader
+description: API C# pour convertir DOCM en TSV ou en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/net/conversion/docm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: FODS SXC XLTM EXCEL ODS XLS XLAM TSV XLSX XLTX XLT XLSB XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOCM en TSV" h2="Exportez DOCM vers TSV via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir DOCM en TSV ou en ligne" h2="Exportez DOCM vers TSV via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion DOCM vers TSV dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en TSV.

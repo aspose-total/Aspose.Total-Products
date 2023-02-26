@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von OTT in FODS
-description: C#-API zum Konvertieren von OTT in FODS ohne Verwendung von Microsoft Excel oder Adobe Reader
+description: C#-API zum Konvertieren von OTT in FODS oder online ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/ott-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSM XLSB SXC FODS XLSX XLT XLAM TSV EXCEL XLTM XLTX XLS ODS DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#-API zum Konvertieren von OTT in FODS" h2="OTT über C# in FODS exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#-API zum Konvertieren von OTT in FODS oder online" h2="OTT über C# in FODS exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie die OTT-zu-FODS-Konvertierungsfunktion in jede .NET-, C#-, ASP.NET- und VB.NET-Anwendung integrieren zwei einfache Schritte. Erstens können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) OTT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in FODS konvertieren.

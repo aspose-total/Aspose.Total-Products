@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera WORDML till XLSB
-description: C# API för att konvertera WORDML till XLSB utan att använda Microsoft Excel eller Adobe Reader
+description: C# API för att konvertera WORDML till XLSB eller online utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/wordml-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLAM SXC XLT XLSB TSV FODS XLSX XLTX DIF EXCEL XLSM XLTM ODS XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera WORDML till XLSB" h2="Exportera WORDML till XLSB via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera WORDML till XLSB eller online" h2="Exportera WORDML till XLSB via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du inkludera WORDML till XLSB-konverteringsfunktion i alla .NET-, C#-, ASP.NET- och VB.NET-applikationer i två enkla steg. För det första, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du exportera WORDML till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till XLSB.

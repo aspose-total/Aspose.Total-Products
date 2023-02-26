@@ -1,6 +1,6 @@
 ---
 title: DOCXをXLTMに変換する.NETAPI
-description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCXをXLTMに変換するC＃API
+description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCXをXLTMに変換するC＃API またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/docx-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLAM FODS XLSB XLSX SXC DIF XLT ODS TSV XLSM XLTM EXCEL XLS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="DOCXをXLTMに変換するC＃API" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOCXをXLTMにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="DOCXをXLTMに変換するC＃API またはオンライン" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でDOCXをXLTMにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、DOCXからXLTMへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、DOCXをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをXLTMに変換できます。

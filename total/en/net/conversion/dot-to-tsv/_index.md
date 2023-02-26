@@ -1,6 +1,6 @@
 ---
 title: .NET API to Convert DOT to TSV 
-description: C# API to Convert DOT to TSV without using Microsoft Excel or Adobe Reader
+description: C# API to Convert DOT to TSV or online without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/dot-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLS EXCEL XLT XLTX XLAM XLSM XLTM DIF CSV XLSX ODS XLSB FODS SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to TSV" h2="Export DOT to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to TSV or online" h2="Export DOT to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 

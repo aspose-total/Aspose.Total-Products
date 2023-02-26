@@ -1,6 +1,6 @@
 ---
 title: .NET API a ODT konvertálásához XLSB-vé
-description: C# API a ODT konvertálásához XLSB-vé Microsoft Excel vagy Adobe Reader használata nélkül
+description: C# API a ODT konvertálásához XLSB-vé vagy online Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/odt-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: DIF XLTX XLAM FODS EXCEL SXC TSV XLSB XLTM XLSX XLS XLT XLSM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API a ODT konvertálásához XLSB-vé" h2="ODT exportálása XLSB-fájlba C#-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API a ODT konvertálásához XLSB-vé vagy online" h2="ODT exportálása XLSB-fájlba C#-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával beépíthet ODT-ból XLSB-vé konvertáló funkciót bármely .NET, C#, ASP.NET és VB.NET alkalmazásba. két egyszerű lépés. Először is, az [Aspose.Words for .NET](https://products.aspose.com/words/net/) használatával exportálhatja a ODT-t HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t XLSB-vé.

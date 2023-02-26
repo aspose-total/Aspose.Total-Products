@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter WORD para XLTM
-description: API C# para converter WORD para XLTM sem usar o Microsoft Excel ou Adobe Reader
+description: API C# para converter WORD para XLTM ou online sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/word-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: FODS DIF SXC EXCEL XLSM XLSX XLTM XLAM TSV ODS XLT XLTX XLS XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter WORD para XLTM" h2="Exporte WORD para XLTM via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter WORD para XLTM ou online" h2="Exporte WORD para XLTM via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode incluir o recurso de conversão de WORD para XLTM em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode exportar WORD para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para XLTM.

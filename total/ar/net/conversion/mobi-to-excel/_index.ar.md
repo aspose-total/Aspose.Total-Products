@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل MOBI إلى EXCEL
-description: C# API لتحويل MOBI إلى EXCEL بدون استخدام Microsoft Excel أو Adobe Reader
+description: C# API لتحويل MOBI إلى EXCEL أو عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/mobi-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: EXCEL XLTM DIF XLS XLSM XLSX XLSB SXC FODS ODS XLTX TSV XLAM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتحويل MOBI إلى EXCEL" h2="تصدير MOBI إلى EXCEL عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API لتحويل MOBI إلى EXCEL أو عبر الإنترنت" h2="تصدير MOBI إلى EXCEL عبر C# بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) ، يمكنك تضمين MOBI إلى ميزة تحويل EXCEL ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Words for .NET](https://products.aspose.com/words/net/) ، يمكنك تصدير MOBI إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى EXCEL.

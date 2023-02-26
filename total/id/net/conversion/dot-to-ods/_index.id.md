@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi DOT ke ODS
-description: C# API untuk Mengonversi DOT ke ODS tanpa menggunakan Microsoft Excel atau Adobe Reader
+description: C# API untuk Mengonversi DOT ke ODS atau daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/dot-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLSB XLTX DIF TSV ODS EXCEL SXC XLS XLT XLSX FODS XLSM XLTM XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi DOT ke ODS" h2="Ekspor DOT ke ODS melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi DOT ke ODS atau daring" h2="Ekspor DOT ke ODS melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/), Anda dapat menyertakan fitur konversi DOT ke ODS dalam aplikasi .NET, C#, ASP.NET, dan VB.NET apa pun di dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat mengekspor DOT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke ODS.

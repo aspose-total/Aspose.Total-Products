@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von WORDML in SXC
-description: C#-API zum Konvertieren von WORDML in SXC ohne Verwendung von Microsoft Excel oder Adobe Reader
+description: C#-API zum Konvertieren von WORDML in SXC oder online ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/wordml-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: EXCEL FODS SXC XLSM XLAM XLTM TSV ODS XLTX DIF XLS XLSB XLSX XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#-API zum Konvertieren von WORDML in SXC" h2="WORDML über C# in SXC exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#-API zum Konvertieren von WORDML in SXC oder online" h2="WORDML über C# in SXC exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie die WORDML-zu-SXC-Konvertierungsfunktion in jede .NET-, C#-, ASP.NET- und VB.NET-Anwendung integrieren zwei einfache Schritte. Erstens können Sie mit [Aspose.Words for .NET](https://products.aspose.com/words/net/) WORDML in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in SXC konvertieren.

@@ -1,6 +1,6 @@
 ---
 title: MOBI'yi XLAM'ye Dönüştürmek için .NET API
-description: Microsoft Excel veya Adobe Reader kullanmadan MOBI'yi XLAM'ye dönüştürmek için C# API'si
+description: Microsoft Excel veya Adobe Reader kullanmadan MOBI'yi XLAM'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/mobi-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLTM SXC XLSX XLTX XLT ODS FODS TSV XLSM EXCEL XLAM DIF XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="MOBI'yi XLAM'ye Dönüştürmek için C# API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan MOBI'yi C# aracılığıyla XLAM'ye aktarın" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="MOBI'yi XLAM'ye Dönüştürmek için C# API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan MOBI'yi C# aracılığıyla XLAM'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak MOBI'den XLAM'ye dönüştürme özelliğini herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasına dahil edebilirsiniz. iki basit adım. İlk olarak, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak MOBI'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi XLAM'ye dönüştürebilirsiniz.

@@ -1,6 +1,6 @@
 ---
 title: .NET API to Convert RTF to XLSB 
-description: C# API to Convert RTF to XLSB without using Microsoft Excel or Adobe Reader
+description: C# API to Convert RTF to XLSB or online without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/rtf-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: ODS XLT FODS XLSX XLTX EXCEL TSV CSV XLAM XLTM DIF SXC XLS XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to XLSB" h2="Export RTF to XLSB via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to XLSB or online" h2="Export RTF to XLSB via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to XLSB conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSB. 

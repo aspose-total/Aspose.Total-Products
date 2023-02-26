@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir WORD en EXCEL
-description: API C# pour convertir WORD en EXCEL sans utiliser Microsoft Excel ou Adobe Reader
+description: API C# pour convertir WORD en EXCEL ou en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/net/conversion/word-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: SXC EXCEL ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir WORD en EXCEL" h2="Exportez WORD vers EXCEL via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# pour convertir WORD en EXCEL ou en ligne" h2="Exportez WORD vers EXCEL via C# sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez inclure la fonction de conversion WORD vers EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET dans deux étapes simples. Tout d'abord, en utilisant [Aspose.Words for .NET](https://products.aspose.com/words/net/), vous pouvez exporter WORD vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en EXCEL.

@@ -1,6 +1,6 @@
 ---
 title: Convert DOCM to XLSM via .NET 
-description: Convert DOCM to XLSM in C# without using Microsoft Excel or Adobe Reader
+description: Convert DOCM to XLSM in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/docm-to-xlsm/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOCM to XLSM via C#" h2="Convert DOCM to XLSM via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOCM to XLSM via C# or online" h2="Convert DOCM to XLSM via C# or online without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOCM to XLSM  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOCM to XLSM via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOCM to XLSM via C# or online" %}}
 1. Open DOCM file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
 2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

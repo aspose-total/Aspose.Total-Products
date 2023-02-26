@@ -1,6 +1,6 @@
 ---
 title: API .NET para convertir ODT a SXC
-description: API de C# para convertir ODT a SXC sin usar Microsoft Excel o Adobe Reader
+description: API de C# para convertir ODT a SXC o en línea sin usar Microsoft Excel o Adobe Reader o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/odt-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: EXCEL TSV XLTX XLTM ODS SXC XLSX XLT XLSM XLSB DIF XLS FODS XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir ODT a SXC" h2="Exporte ODT a SXC a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir ODT a SXC o en línea" h2="Exporte ODT a SXC a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), puede incluir la función de conversión de ODT a SXC dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos sencillos pasos. En primer lugar, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede exportar ODT a HTML. Después de eso, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programación de hojas de cálculo, puede convertir HTML a SXC.

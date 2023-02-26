@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter WORD para FODS
-description: API C# para converter WORD para FODS sem usar o Microsoft Excel ou Adobe Reader
+description: API C# para converter WORD para FODS ou online sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/word-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: EXCEL XLTX SXC XLTM TSV XLAM XLSX XLT XLSM XLSB FODS ODS DIF XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter WORD para FODS" h2="Exporte WORD para FODS via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter WORD para FODS ou online" h2="Exporte WORD para FODS via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode incluir o recurso de conversão de WORD para FODS em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode exportar WORD para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para FODS.

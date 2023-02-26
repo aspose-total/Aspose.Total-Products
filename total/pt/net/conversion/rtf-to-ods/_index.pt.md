@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter RTF para ODS
-description: API C# para converter RTF para ODS sem usar o Microsoft Excel ou Adobe Reader
+description: API C# para converter RTF para ODS ou online sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/rtf-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTX EXCEL XLAM XLT XLTM XLSX DIF FODS XLSM SXC ODS TSV XLS XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter RTF para ODS" h2="Exporte RTF para ODS via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# para converter RTF para ODS ou online" h2="Exporte RTF para ODS via C# sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode incluir o recurso de conversão de RTF para ODS em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Words for .NET](https://products.aspose.com/words/net/), você pode exportar RTF para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para ODS.

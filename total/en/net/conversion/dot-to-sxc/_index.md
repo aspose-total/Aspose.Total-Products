@@ -1,6 +1,6 @@
 ---
 title: .NET API to Convert DOT to SXC 
-description: C# API to Convert DOT to SXC without using Microsoft Excel or Adobe Reader
+description: C# API to Convert DOT to SXC or online without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/dot-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: DIF XLSM XLTX EXCEL FODS CSV TSV XLSB XLAM ODS XLTM XLSX XLT XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to SXC" h2="Export DOT to SXC via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to SXC or online" h2="Export DOT to SXC via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to SXC. 

@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования DOCX в DIF
-description: C# API для преобразования DOCX в DIF без использования Microsoft Excel или Adobe Reader
+description: C# API для преобразования DOCX в DIF или онлайн без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/docx-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTM XLTX XLT EXCEL XLAM TSV XLS DIF ODS XLSM FODS XLSB XLSX SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования DOCX в DIF" h2="Экспорт DOCX в DIF с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования DOCX в DIF или онлайн" h2="Экспорт DOCX в DIF с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете включить функцию преобразования DOCX в DIF в любое приложение .NET, C#, ASP.NET и VB.NET в два простых шага. Во-первых, с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы можете экспортировать DOCX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в DIF.

@@ -1,6 +1,6 @@
 ---
 title: RTF'yi DIF'ye Dönüştürmek için .NET API
-description: Microsoft Excel veya Adobe Reader kullanmadan RTF'yi DIF'ye dönüştürmek için C# API'si
+description: Microsoft Excel veya Adobe Reader kullanmadan RTF'yi DIF'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/rtf-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: TSV SXC DIF XLSM XLAM XLT XLS FODS XLTM XLTX EXCEL XLSX ODS XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="RTF'yi DIF'ye Dönüştürmek için C# API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan RTF'yi C# aracılığıyla DIF'ye aktarın" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="RTF'yi DIF'ye Dönüştürmek için C# API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan RTF'yi C# aracılığıyla DIF'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak RTF'den DIF'ye dönüştürme özelliğini herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasına dahil edebilirsiniz. iki basit adım. İlk olarak, [Aspose.Words for .NET](https://products.aspose.com/words/net/) kullanarak RTF'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi DIF'ye dönüştürebilirsiniz.

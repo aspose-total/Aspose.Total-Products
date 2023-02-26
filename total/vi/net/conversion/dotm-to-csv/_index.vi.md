@@ -1,6 +1,6 @@
 ---
 title: .NET API để chuyển đổi DOTM sang CSV
-description: C# API để chuyển đổi DOTM sang CSV mà không cần sử dụng Microsoft Excel hoặc Adobe Reader
+description: C# API để chuyển đổi DOTM sang CSV hoặc trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/dotm-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: DIF XLTX XLSM EXCEL XLS TSV XLT XLSB FODS ODS SXC XLSX XLAM XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API để chuyển đổi DOTM sang CSV" h2="Xuất DOTM sang CSV qua C# mà không sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API để chuyển đổi DOTM sang CSV hoặc trực tuyến" h2="Xuất DOTM sang CSV qua C# mà không sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể bao gồm tính năng chuyển đổi DOTM sang CSV trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai bước đơn giản. Thứ nhất, bằng cách sử dụng [Aspose.Words for .NET](https://products.aspose.com/words/net/), bạn có thể xuất DOTM sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang CSV.

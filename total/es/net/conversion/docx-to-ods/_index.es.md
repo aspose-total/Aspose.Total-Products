@@ -1,6 +1,6 @@
 ---
 title: API .NET para convertir DOCX a ODS
-description: API de C# para convertir DOCX a ODS sin usar Microsoft Excel o Adobe Reader
+description: API de C# para convertir DOCX a ODS o en línea sin usar Microsoft Excel o Adobe Reader o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/docx-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: DIF XLTM ODS XLSM XLAM FODS EXCEL XLSX TSV XLT XLTX XLSB XLS SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir DOCX a ODS" h2="Exporte DOCX a ODS a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API de C# para convertir DOCX a ODS o en línea" h2="Exporte DOCX a ODS a través de C# sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al utilizar [Aspose.Total para .NET](https://products.aspose.com/total/net/), puede incluir la función de conversión de DOCX a ODS dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos sencillos pasos. En primer lugar, al usar [Aspose.Words for .NET](https://products.aspose.com/words/net/), puede exportar DOCX a HTML. Después de eso, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programación de hojas de cálculo, puede convertir HTML a ODS.

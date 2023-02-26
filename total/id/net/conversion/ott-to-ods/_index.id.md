@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi OTT ke ODS
-description: C# API untuk Mengonversi OTT ke ODS tanpa menggunakan Microsoft Excel atau Adobe Reader
+description: C# API untuk Mengonversi OTT ke ODS atau daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/ott-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: FODS XLT DIF XLSM SXC XLSX XLTX ODS EXCEL TSV XLSB XLTM XLS XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi OTT ke ODS" h2="Ekspor OTT ke ODS melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi OTT ke ODS atau daring" h2="Ekspor OTT ke ODS melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/), Anda dapat menyertakan fitur konversi OTT ke ODS dalam aplikasi .NET, C#, ASP.NET, dan VB.NET apa pun di dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat mengekspor OTT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke ODS.

@@ -1,6 +1,6 @@
 ---
 title: API .NET per convertire RTF in FODS
-description: API C# per convertire RTF in FODS senza utilizzare Microsoft Excel o Adobe Reader
+description: API C# per convertire RTF in FODS o in linea senza utilizzare Microsoft Excel o Adobe Reader o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/rtf-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLS TSV ODS XLT XLSB EXCEL FODS XLSX XLAM SXC XLSM XLTX XLTM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="API C# per convertire RTF in FODS" h2="Esporta RTF in FODS tramite C# senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="API C# per convertire RTF in FODS o in linea" h2="Esporta RTF in FODS tramite C# senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi includere la funzione di conversione da RTF a FODS all'interno di qualsiasi applicazione .NET, C#, ASP.NET e VB.NET in due semplici passaggi. Innanzitutto, utilizzando [Aspose.Words for .NET](https://products.aspose.com/words/net/), puoi esportare RTF in HTML. Successivamente, utilizzando l'API di programmazione per fogli di calcolo [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), è possibile convertire HTML in FODS.

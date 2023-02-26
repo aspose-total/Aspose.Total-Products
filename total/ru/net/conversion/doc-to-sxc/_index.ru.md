@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования DOC в SXC
-description: C# API для преобразования DOC в SXC без использования Microsoft Excel или Adobe Reader
+description: C# API для преобразования DOC в SXC или онлайн без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/doc-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLSX FODS SXC DIF ODS TSV XLS XLAM XLSM EXCEL XLT XLSB XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования DOC в SXC" h2="Экспорт DOC в SXC с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования DOC в SXC или онлайн" h2="Экспорт DOC в SXC с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете включить функцию преобразования DOC в SXC в любое приложение .NET, C#, ASP.NET и VB.NET в два простых шага. Во-первых, с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы можете экспортировать DOC в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в SXC.

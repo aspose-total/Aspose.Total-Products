@@ -1,6 +1,6 @@
 ---
 title: .NET API για μετατροπή OTT σε DIF
-description: C# API για μετατροπή OTT σε DIF χωρίς χρήση Microsoft Excel ή Adobe Reader
+description: C# API για μετατροπή OTT σε DIF ή διαδικτυακά χωρίς χρήση Microsoft Excel ή Adobe Reader ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/ott-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: SXC FODS XLSB XLT EXCEL XLSX XLTM ODS DIF XLAM XLSM XLTX XLS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API για μετατροπή OTT σε DIF" h2="Εξαγωγή OTT σε DIF μέσω C# χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API για μετατροπή OTT σε DIF ή διαδικτυακά" h2="Εξαγωγή OTT σε DIF μέσω C# χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for .NET](https://products.aspose.com/total/net/) μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής OTT σε DIF σε οποιαδήποτε εφαρμογή .NET, C#, ASP.NET και VB.NET σε δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Words για .NET](https://products.aspose.com/words/net/), μπορείτε να εξαγάγετε το OTT σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε DIF.

@@ -1,6 +1,6 @@
 ---
 title: MOBIをXLSXに変換する.NETAPI
-description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをXLSXに変換するC＃API
+description: MicrosoftExcelまたはAdobeReaderを使用せずにMOBIをXLSXに変換するC＃API またはオンライン またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/mobi-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: EXCEL XLAM FODS SXC XLSM TSV XLTX DIF XLS ODS XLTM XLSX XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="MOBIをXLSXに変換するC＃API" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でMOBIをXLSXにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="MOBIをXLSXに変換するC＃API またはオンライン" h2="Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg;</sup> Excelを使用せずにC＃経由でMOBIをXLSXにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、MOBIからXLSXへの変換機能を.NET、C＃、ASP.NET、およびVB.NETアプリケーションに含めることができます。 2つの簡単なステップ。まず、[Aspose.Words for .NET](https://products.aspose.com/words/net/)を使用して、MOBIをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをXLSXに変換できます。

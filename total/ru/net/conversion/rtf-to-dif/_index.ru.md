@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования RTF в DIF
-description: C# API для преобразования RTF в DIF без использования Microsoft Excel или Adobe Reader
+description: C# API для преобразования RTF в DIF или онлайн без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/rtf-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: TSV SXC DIF XLSM XLAM XLT XLS FODS XLTM XLTX EXCEL XLSX ODS XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования RTF в DIF" h2="Экспорт RTF в DIF с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API для преобразования RTF в DIF или онлайн" h2="Экспорт RTF в DIF с помощью C# без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете включить функцию преобразования RTF в DIF в любое приложение .NET, C#, ASP.NET и VB.NET в два простых шага. Во-первых, с помощью [Aspose.Words for .NET](https://products.aspose.com/words/net/) вы можете экспортировать RTF в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в DIF.

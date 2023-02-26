@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera DOC till FODS
-description: C# API för att konvertera DOC till FODS utan att använda Microsoft Excel eller Adobe Reader
+description: C# API för att konvertera DOC till FODS eller online utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/doc-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLTX XLAM FODS TSV XLSB XLSM DIF SXC XLSX EXCEL XLT XLTM ODS XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera DOC till FODS" h2="Exportera DOC till FODS via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API för att konvertera DOC till FODS eller online" h2="Exportera DOC till FODS via C# utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du inkludera DOC till FODS-konverteringsfunktion i alla .NET-, C#-, ASP.NET- och VB.NET-applikationer i två enkla steg. För det första, genom att använda [Aspose.Words for .NET](https://products.aspose.com/words/net/), kan du exportera DOC till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till FODS.
