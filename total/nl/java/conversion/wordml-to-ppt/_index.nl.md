@@ -1,6 +1,6 @@
 ---
-title: Converteer WORDML naar PPT via Java
-description: Java API om WORDML naar PPT te exporteren zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer WORDML naar PPT via Java of online
+description: Java API om WORDML naar PPT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/wordml-to-ppt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: POWERPOINT PPTM POT PPT POTX PPTX PPSM POTM PPSX PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer WORDML naar PPT via Java" h2="WORDML naar PPT-conversie door gebruik te maken van on-premise Java API binnen alle Java J2SE-, J2EE-, J2ME-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint of Word te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer WORDML naar PPT via Java of online" h2="WORDML naar PPT-conversie door gebruik te maken van on-premise Java API binnen alle Java J2SE-, J2EE-, J2ME-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint of Word te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vaak moeten ontwikkelaars het WORDML-bestand programmatisch naar PPT converteren. Door de Java-bibliotheken voor bestandsautomatisering [Aspose.Total for Java](https://products.aspose.com/total/java/) te gebruiken, kunt u het weergaveproces in een paar eenvoudige stappen automatiseren. U kunt uw WORDML-bestand laden door [Aspose.Words for Java](https://products.aspose.com/words/java/) te gebruiken en het naar HTML te converteren. Daarna kunt u met behulp van krachtige PowerPoint-manipulatie Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}

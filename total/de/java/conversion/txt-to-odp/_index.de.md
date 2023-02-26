@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie TXT über Java in ODP
-description: Java-API zum Exportieren von TXT in ODP, ohne Microsoft Word oder PowerPoint zu verwenden
+title: Konvertieren Sie TXT über Java in ODP oder online
+description: Java-API zum Exportieren von TXT in ODP, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/txt-to-odp/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPSX PPTX PPT PPTM PPS POWERPOINT POT POTX POTM PPSM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie TXT über Java in ODP" h2="TXT-zu-ODP-Konvertierung durch Verwendung der lokalen Java-API in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen ohne Verwendung von Microsoft<sup>&reg;</sup> PowerPoint oder Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie TXT über Java in ODP oder online" h2="TXT-zu-ODP-Konvertierung durch Verwendung der lokalen Java-API in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen ohne Verwendung von Microsoft<sup>&reg;</sup> PowerPoint oder Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Oft müssen Entwickler TXT-Dateien programmgesteuert in ODP konvertieren. Durch die Verwendung der Dateiautomatisierungs-Java-Bibliotheken [Aspose.Total für Java](https://products.aspose.com/total/java/) können Sie den Rendering-Prozess in wenigen einfachen Schritten automatisieren. Sie können Ihre TXT-Datei mit [Aspose.Words for Java](https://products.aspose.com/words/java/) laden und in HTML konvertieren. Danach können Sie mithilfe der leistungsstarken Java-API zur PowerPoint-Manipulation [Aspose.Slides for Java](https://products.aspose.com/slides/java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie als ODP speichern .
 {{% /blocks/products/pf/feature-page-summary  %}}

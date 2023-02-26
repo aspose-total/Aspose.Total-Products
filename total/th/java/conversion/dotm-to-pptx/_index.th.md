@@ -1,6 +1,6 @@
 ---
-title: แปลง DOTM เป็น PPTX ผ่าน Java
-description: Java API เพื่อส่งออก DOTM ไปยัง PPTX โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint
+title: แปลง DOTM เป็น PPTX ผ่าน Java หรือทางออนไลน์
+description: Java API เพื่อส่งออก DOTM ไปยัง PPTX โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/dotm-to-pptx/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: PPTX
 otherformats: POTM PPS PPSM PPTM POTX PPT PPTX POWERPOINT POT PPSX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOTM เป็น PPTX ผ่าน Java" h2="การแปลง DOTM เป็น PPTX โดยใช้ Java API ภายในภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOTM เป็น PPTX ผ่าน Java หรือทางออนไลน์" h2="การแปลง DOTM เป็น PPTX โดยใช้ Java API ภายในภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> PowerPoint หรือ Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 บ่อยครั้งที่นักพัฒนาต้องแปลงไฟล์ DOTM เป็น PPTX โดยทางโปรแกรม ด้วยการใช้ไลบรารี File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) คุณสามารถทำให้กระบวนการแสดงผลเป็นอัตโนมัติในไม่กี่ขั้นตอนง่ายๆ คุณสามารถโหลดไฟล์ DOTM ได้โดยใช้ [Aspose.Words for Java](https://products.aspose.com/words/java/) และแปลงเป็น HTML หลังจากนั้นโดยใช้การจัดการ PowerPoint ที่มีประสิทธิภาพ Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น PPTX .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง DOTM เป็น PPTX ผ่าน Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง DOTM เป็น PPTX ผ่าน Java หรือทางออนไลน์" %}}
 1. เปิดไฟล์ DOTM โดยใช้คลาส [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. แปลงไฟล์ DOTM เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions)) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่

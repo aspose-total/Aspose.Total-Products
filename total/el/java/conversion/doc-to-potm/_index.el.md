@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOC σε POTM μέσω Java
-description: Java API για εξαγωγή DOC σε POTM χωρίς χρήση Microsoft Word ή PowerPoint
+title: Μετατροπή DOC σε POTM μέσω Java ή διαδικτυακά
+description: Java API για εξαγωγή DOC σε POTM χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/doc-to-potm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POWERPOINT PPSX PPT PPTM PPTX PPS POTM PPSM POTX POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή DOC σε POTM μέσω Java" h2="Μετατροπή DOC σε POTM με χρήση του API Java εντός οποιασδήποτε εφαρμογής Java J2SE, J2EE, J2ME χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint ή Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή DOC σε POTM μέσω Java ή διαδικτυακά" h2="Μετατροπή DOC σε POTM με χρήση του API Java εντός οποιασδήποτε εφαρμογής Java J2SE, J2EE, J2ME χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint ή Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Συχνά οι προγραμματιστές πρέπει να μετατρέψουν το αρχείο DOC σε POTM μέσω προγραμματισμού. Χρησιμοποιώντας τις βιβλιοθήκες Java Automation αρχείων [Aspose.Total for Java](https://products.aspose.com/total/java/) μπορείτε να αυτοματοποιήσετε τη διαδικασία απόδοσης με μερικά απλά βήματα. Μπορείτε να φορτώσετε το αρχείο DOC χρησιμοποιώντας το [Aspose.Words για Java](https://products.aspose.com/words/java/) και να το μετατρέψετε σε HTML. Στη συνέχεια, χρησιμοποιώντας ισχυρό χειρισμό PowerPoint Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) μπορείτε να δημιουργήσετε μια νέα Παρουσίαση, να γράψετε περιεχόμενο HTML σε αυτήν και να το αποθηκεύσετε ως POTM .
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie DOTM über Java in POTM
-description: Java-API zum Exportieren von DOTM in POTM, ohne Microsoft Word oder PowerPoint zu verwenden
+title: Konvertieren Sie DOTM über Java in POTM oder online
+description: Java-API zum Exportieren von DOTM in POTM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/dotm-to-potm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPSX PPTM POWERPOINT PPT POTM POT PPS PPSM POTX PPTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOTM über Java in POTM" h2="DOTM-zu-POTM-Konvertierung durch Verwendung der lokalen Java-API in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen ohne Verwendung von Microsoft<sup>&reg;</sup> PowerPoint oder Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOTM über Java in POTM oder online" h2="DOTM-zu-POTM-Konvertierung durch Verwendung der lokalen Java-API in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen ohne Verwendung von Microsoft<sup>&reg;</sup> PowerPoint oder Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Oft müssen Entwickler DOTM-Dateien programmgesteuert in POTM konvertieren. Durch die Verwendung der Dateiautomatisierungs-Java-Bibliotheken [Aspose.Total für Java](https://products.aspose.com/total/java/) können Sie den Rendering-Prozess in wenigen einfachen Schritten automatisieren. Sie können Ihre DOTM-Datei mit [Aspose.Words for Java](https://products.aspose.com/words/java/) laden und in HTML konvertieren. Danach können Sie mithilfe der leistungsstarken Java-API zur PowerPoint-Manipulation [Aspose.Slides for Java](https://products.aspose.com/slides/java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie als POTM speichern .
 {{% /blocks/products/pf/feature-page-summary  %}}

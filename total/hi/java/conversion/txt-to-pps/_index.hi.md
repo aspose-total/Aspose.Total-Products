@@ -1,6 +1,6 @@
 ---
-title: जावा के माध्यम से TXT को PPS में बदलें
-description: जावा एपीआई माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना डीओसी को ओडीपी में निर्यात करने के लिए
+title: जावा के माध्यम से TXT को PPS में बदलें या ऑनलाइन
+description: जावा एपीआई माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना डीओसी को ओडीपी में निर्यात करने के लिए या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। या मुफ्त ऑनलाइन कन्वर्टर के साथ
 url_ignore: /hi/java/conversion/txt-to-pps/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPTX POWERPOINT POT POTM PPSX PPS PPSM PPT POTX PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से TXT को PPS में बदलें" h2="Microsoft<sup>&reg;</sup> PowerPoint या Word का उपयोग किए बिना किसी भी Java J2SE, J2EE, J2ME अनुप्रयोगों में ऑन-प्रिमाइसेस Java API का उपयोग करके TXT से PPS रूपांतरण" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से TXT को PPS में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> PowerPoint या Word का उपयोग किए बिना किसी भी Java J2SE, J2EE, J2ME अनुप्रयोगों में ऑन-प्रिमाइसेस Java API का उपयोग करके TXT से PPS रूपांतरण" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 कई बार डेवलपर्स को TXT फाइल को प्रोग्रामेटिक रूप से PPS में कनवर्ट करना पड़ता है। फ़ाइल ऑटोमेशन जावा लाइब्रेरी [Aspose.Total for Java](https://products.aspose.com/total/java/) का उपयोग करके आप कुछ आसान चरणों में रेंडरिंग प्रक्रिया को स्वचालित कर सकते हैं। आप [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके अपनी TXT फ़ाइल लोड कर सकते हैं और इसे HTML में बदल सकते हैं। उसके बाद शक्तिशाली पावरपॉइंट मैनिपुलेशन Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) का उपयोग करके आप एक नया प्रेजेंटेशन बना सकते हैं, उसमें HTML सामग्री लिख सकते हैं और इसे PPS के रूप में सहेज सकते हैं। .
 {{% /blocks/products/pf/feature-page-summary  %}}

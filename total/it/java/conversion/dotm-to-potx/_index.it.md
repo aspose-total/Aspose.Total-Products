@@ -1,6 +1,6 @@
 ---
-title: Converti DOTM in POTX tramite Java
-description: API Java per esportare DOTM in POTX senza utilizzare Microsoft Word o PowerPoint
+title: Converti DOTM in POTX tramite Java o in linea
+description: API Java per esportare DOTM in POTX senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/dotm-to-potx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PPTX POTX PPSM POWERPOINT PPS PPT POTM POT PPTM PPSX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti DOTM in POTX tramite Java" h2="Conversione da DOTM a POTX utilizzando l'API Java in locale all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti DOTM in POTX tramite Java o in linea" h2="Conversione da DOTM a POTX utilizzando l'API Java in locale all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Spesso gli sviluppatori devono convertire i file DOTM in POTX a livello di codice. Utilizzando le librerie Java di File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/) puoi automatizzare il processo di rendering in pochi semplici passaggi. Puoi caricare il tuo file DOTM utilizzando [Aspose.Words for Java](https://products.aspose.com/words/java/) e convertirlo in HTML. Successivamente, utilizzando la potente API Java per la manipolazione di PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come POTX .
 {{% /blocks/products/pf/feature-page-summary  %}}

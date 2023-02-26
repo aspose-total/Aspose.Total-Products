@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi ODT sang PPSM qua Java
-description: Java API để xuất ODT sang PPSM mà không cần sử dụng Microsoft Word hoặc PowerPoint
+title: Chuyển đổi ODT sang PPSM qua Java hoặc trực tuyến
+description: Java API để xuất ODT sang PPSM mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/odt-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PPSX PPSM PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi ODT sang PPSM qua Java" h2="Chuyển đổi ODT sang PPSM bằng cách sử dụng API Java tiền đề trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào mà không cần sử dụng Microsoft<sup>&reg;</sup> PowerPoint hoặc Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi ODT sang PPSM qua Java hoặc trực tuyến" h2="Chuyển đổi ODT sang PPSM bằng cách sử dụng API Java tiền đề trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào mà không cần sử dụng Microsoft<sup>&reg;</sup> PowerPoint hoặc Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Thông thường, các nhà phát triển phải chuyển đổi tệp ODT sang PPSM theo chương trình. Bằng cách sử dụng các thư viện Java Tự động hóa Tệp [Aspose.Total for Java](https://products.aspose.com/total/java/), bạn có thể tự động hóa quá trình kết xuất trong một vài bước đơn giản. Bạn có thể tải tệp ODT của mình bằng cách sử dụng [Aspose.Words for Java](https://products.aspose.com/words/java/) và chuyển đổi nó sang HTML. Sau đó, bằng cách sử dụng Java API thao tác mạnh mẽ trên PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), bạn có thể tạo một Bản trình bày mới, viết nội dung HTML trong đó và lưu dưới dạng PPSM .
 {{% /blocks/products/pf/feature-page-summary  %}}

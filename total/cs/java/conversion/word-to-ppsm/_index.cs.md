@@ -1,6 +1,6 @@
 ---
-title: Převést WORD na PPSM přes Java
-description: Java API pro export WORD do PPSM bez použití Microsoft Word nebo PowerPoint
+title: Převést WORD na PPSM přes Java nebo online
+description: Java API pro export WORD do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/word-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PPT PPSX POWERPOINT PPTM POT POTX PPSM PPTX POTM PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést WORD na PPSM přes Java" h2="Konverze WORD na PPSM pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést WORD na PPSM přes Java nebo online" h2="Konverze WORD na PPSM pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Často musí vývojáři převést soubor WORD na PPSM programově. Pomocí knihoven File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete automatizovat proces vykreslování v několika jednoduchých krocích. Soubor WORD můžete načíst pomocí [Aspose.Words for Java](https://products.aspose.com/words/java/) a převést jej do HTML. Poté pomocí výkonného rozhraní Java API pro manipulaci v PowerPointu [Aspose.Slides for Java](https://products.aspose.com/slides/java/) můžete vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako PPSM .
 {{% /blocks/products/pf/feature-page-summary  %}}

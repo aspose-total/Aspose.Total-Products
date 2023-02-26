@@ -1,6 +1,6 @@
 ---
-title: Converteer DOCM naar PPSM via Java
-description: Java API om DOCM naar PPSM te exporteren zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOCM naar PPSM via Java of online
+description: Java API om DOCM naar PPSM te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/docm-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POT PPSM POWERPOINT PPTX PPTM PPS POTM PPSX POTX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOCM naar PPSM via Java" h2="DOCM naar PPSM-conversie door gebruik te maken van on-premise Java API binnen alle Java J2SE-, J2EE-, J2ME-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint of Word te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOCM naar PPSM via Java of online" h2="DOCM naar PPSM-conversie door gebruik te maken van on-premise Java API binnen alle Java J2SE-, J2EE-, J2ME-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint of Word te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vaak moeten ontwikkelaars het DOCM-bestand programmatisch naar PPSM converteren. Door de Java-bibliotheken voor bestandsautomatisering [Aspose.Total for Java](https://products.aspose.com/total/java/) te gebruiken, kunt u het weergaveproces in een paar eenvoudige stappen automatiseren. U kunt uw DOCM-bestand laden door [Aspose.Words for Java](https://products.aspose.com/words/java/) te gebruiken en het naar HTML te converteren. Daarna kunt u met behulp van krachtige PowerPoint-manipulatie Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPSM .
 {{% /blocks/products/pf/feature-page-summary  %}}

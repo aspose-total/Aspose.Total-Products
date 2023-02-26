@@ -1,6 +1,6 @@
 ---
-title: Преобразование DOCM в PPSX через Java
-description: Java API для экспорта DOCM в PPSX без использования Microsoft Word или PowerPoint
+title: Преобразование DOCM в PPSX через Java или онлайн
+description: Java API для экспорта DOCM в PPSX без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/docm-to-ppsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POTX PPTX PPSM POTM POT PPTM POWERPOINT PPS PPSX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование DOCM в PPSX через Java" h2="Преобразование DOCM в PPSX с помощью локального Java API в любых приложениях Java J2SE, J2EE, J2ME без использования Microsoft<sup>&reg;</sup> PowerPoint или Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование DOCM в PPSX через Java или онлайн" h2="Преобразование DOCM в PPSX с помощью локального Java API в любых приложениях Java J2SE, J2EE, J2ME без использования Microsoft<sup>&reg;</sup> PowerPoint или Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Часто разработчикам приходится программно преобразовывать файл DOCM в PPSX. Используя библиотеки Java для автоматизации файлов [Aspose.Total for Java](https://products.aspose.com/total/java/), вы можете автоматизировать процесс рендеринга, выполнив несколько простых шагов. Вы можете загрузить файл DOCM с помощью [Aspose.Words for Java](https://products.aspose.com/words/java/) и преобразовать его в HTML. После этого, используя мощный Java-API для манипулирования PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), вы можете создать новую презентацию, записать в нее HTML-контент и сохранить его как PPSX. .
 {{% /blocks/products/pf/feature-page-summary  %}}

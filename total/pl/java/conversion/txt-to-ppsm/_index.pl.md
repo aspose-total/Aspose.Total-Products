@@ -1,6 +1,6 @@
 ---
-title: Konwertuj TXT na PPSM za pomocą Javy
-description: Java API do eksportu TXT do PPSM bez użycia Microsoft Word lub PowerPoint
+title: Konwertuj TXT na PPSM za pomocą Javy lub online
+description: Java API do eksportu TXT do PPSM bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/txt-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POT PPTM POTM PPSM PPTX PPS POWERPOINT POTX PPSX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj TXT na PPSM za pomocą Javy" h2="Konwersja TXT do PPSM przy użyciu lokalnego interfejsu API Java w dowolnej aplikacji Java J2SE, J2EE, J2ME bez korzystania z programu Microsoft<sup>&reg;</sup> PowerPoint lub Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj TXT na PPSM za pomocą Javy lub online" h2="Konwersja TXT do PPSM przy użyciu lokalnego interfejsu API Java w dowolnej aplikacji Java J2SE, J2EE, J2ME bez korzystania z programu Microsoft<sup>&reg;</sup> PowerPoint lub Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Często programiści muszą programowo przekonwertować plik TXT na PPSM. Korzystając z bibliotek Java File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) możesz zautomatyzować proces renderowania w kilku prostych krokach. Możesz wczytać plik TXT, używając [Aspose.Words for Java](https://products.aspose.com/words/java/) i przekonwertować go na HTML. Następnie za pomocą potężnej manipulacji PowerPoint API Java [Aspose.Slides for Java](https://products.aspose.com/slides/java/) możesz utworzyć nową prezentację, napisać w niej treść HTML i zapisać ją jako PPSM .
 {{% /blocks/products/pf/feature-page-summary  %}}

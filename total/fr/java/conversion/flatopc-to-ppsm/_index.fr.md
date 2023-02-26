@@ -1,6 +1,6 @@
 ---
-title: Convertir FLATOPC en PPSM via Java
-description: API Java pour exporter FLATOPC vers PPSM sans utiliser Microsoft Word ou PowerPoint
+title: Convertir FLATOPC en PPSM via Java ou en ligne
+description: API Java pour exporter FLATOPC vers PPSM sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/flatopc-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POT POTX POWERPOINT POTM PPSX PPSM PPTX PPTM PPS PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir FLATOPC en PPSM via Java" h2="Conversion FLATOPC en PPSM en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir FLATOPC en PPSM via Java ou en ligne" h2="Conversion FLATOPC en PPSM en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Souvent, les développeurs doivent convertir le fichier FLATOPC en PPSM par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier FLATOPC en utilisant [Aspose.Words for Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPSM. .
 {{% /blocks/products/pf/feature-page-summary  %}}

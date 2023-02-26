@@ -1,6 +1,6 @@
 ---
-title: A OTT konvertálása PPS-re Java segítségével
-description: Java API a OTT exportálásához PPS-be Microsoft Word vagy PowerPoint használata nélkül
+title: A OTT konvertálása PPS-re Java segítségével vagy online
+description: Java API a OTT exportálásához PPS-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/ott-to-pps/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: POT PPTM PPTX PPSM PPS POTX PPSX POTM POWERPOINT PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A OTT konvertálása PPS-re Java segítségével" h2="OTT konvertálása PPS-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A OTT konvertálása PPS-re Java segítségével vagy online" h2="OTT konvertálása PPS-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A fejlesztőknek gyakran programozottan kell konvertálniuk a OTT fájlt PPS-vé. A File Automation Java könyvtárak [Aspose.Total for Java](https://products.aspose.com/total/java/) használatával néhány egyszerű lépésben automatizálhatja a renderelési folyamatot. A OTT-fájlt az [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával töltheti be, és konvertálhatja HTML formátumba. Ezt követően a hatékony PowerPoint manipulációs Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) segítségével új prezentációt hozhat létre, HTML-tartalmat írhat bele, és PPS-ként mentheti. .
 {{% /blocks/products/pf/feature-page-summary  %}}

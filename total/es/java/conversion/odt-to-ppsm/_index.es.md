@@ -1,6 +1,6 @@
 ---
-title: Convierta ODT a PPSM a través de Java
-description: API de Java para exportar ODT a PPSM sin usar Microsoft Word o PowerPoint
+title: Convierta ODT a PPSM a través de Java o en línea
+description: API de Java para exportar ODT a PPSM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/odt-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PPSX PPSM PPTX PPS POTM POTX PPT POWERPOINT PPTM POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta ODT a PPSM a través de Java" h2="Conversión de ODT a PPSM mediante el uso de la API Java local dentro de cualquier aplicación Java J2SE, J2EE, J2ME sin utilizar Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta ODT a PPSM a través de Java o en línea" h2="Conversión de ODT a PPSM mediante el uso de la API Java local dentro de cualquier aplicación Java J2SE, J2EE, J2ME sin utilizar Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A menudo, los desarrolladores tienen que convertir el archivo ODT a PPSM mediante programación. Mediante el uso de las bibliotecas Java de automatización de archivos [Aspose.Total for Java](https://products.aspose.com/total/java/) puede automatizar el proceso de renderizado en unos pocos pasos simples. Puede cargar su archivo ODT usando [Aspose.Words for Java](https://products.aspose.com/words/java/) y convertirlo a HTML. Después de eso, al usar la poderosa API Java de manipulación de PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PPSM .
 {{% /blocks/products/pf/feature-page-summary  %}}

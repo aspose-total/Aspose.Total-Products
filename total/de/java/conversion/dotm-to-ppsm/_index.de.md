@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie DOTM über Java in PPSM
-description: Java-API zum Exportieren von DOTM in PPSM, ohne Microsoft Word oder PowerPoint zu verwenden
+title: Konvertieren Sie DOTM über Java in PPSM oder online
+description: Java-API zum Exportieren von DOTM in PPSM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/dotm-to-ppsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POTM PPSM POT PPTM PPT PPS PPTX PPSX POWERPOINT POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOTM über Java in PPSM" h2="DOTM-zu-PPSM-Konvertierung durch Verwendung der lokalen Java-API in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen ohne Verwendung von Microsoft<sup>&reg;</sup> PowerPoint oder Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOTM über Java in PPSM oder online" h2="DOTM-zu-PPSM-Konvertierung durch Verwendung der lokalen Java-API in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen ohne Verwendung von Microsoft<sup>&reg;</sup> PowerPoint oder Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Oft müssen Entwickler DOTM-Dateien programmgesteuert in PPSM konvertieren. Durch die Verwendung der Dateiautomatisierungs-Java-Bibliotheken [Aspose.Total für Java](https://products.aspose.com/total/java/) können Sie den Rendering-Prozess in wenigen einfachen Schritten automatisieren. Sie können Ihre DOTM-Datei mit [Aspose.Words for Java](https://products.aspose.com/words/java/) laden und in HTML konvertieren. Danach können Sie mithilfe der leistungsstarken Java-API zur PowerPoint-Manipulation [Aspose.Slides for Java](https://products.aspose.com/slides/java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie als PPSM speichern .
 {{% /blocks/products/pf/feature-page-summary  %}}

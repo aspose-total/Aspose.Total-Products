@@ -1,6 +1,6 @@
 ---
-title: Převést FLATOPC na PPSX přes Java
-description: Java API pro export FLATOPC do PPSX bez použití Microsoft Word nebo PowerPoint
+title: Převést FLATOPC na PPSX přes Java nebo online
+description: Java API pro export FLATOPC do PPSX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/flatopc-to-ppsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTX POT PPSM PPS PPSX POTM PPT POWERPOINT PPTM POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést FLATOPC na PPSX přes Java" h2="Konverze FLATOPC na PPSX pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést FLATOPC na PPSX přes Java nebo online" h2="Konverze FLATOPC na PPSX pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Často musí vývojáři převést soubor FLATOPC na PPSX programově. Pomocí knihoven File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete automatizovat proces vykreslování v několika jednoduchých krocích. Soubor FLATOPC můžete načíst pomocí [Aspose.Words for Java](https://products.aspose.com/words/java/) a převést jej do HTML. Poté pomocí výkonného rozhraní Java API pro manipulaci v PowerPointu [Aspose.Slides for Java](https://products.aspose.com/slides/java/) můžete vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako PPSX .
 {{% /blocks/products/pf/feature-page-summary  %}}

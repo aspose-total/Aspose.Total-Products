@@ -1,6 +1,6 @@
 ---
-title: Converter DOTX para PPS via Java
-description: API Java para exportar DOTX para PPS sem usar o Microsoft Word ou PowerPoint
+title: Converter DOTX para PPS via Java ou online
+description: API Java para exportar DOTX para PPS sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/dotx-to-pps/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPTM PPSM PPSX POT POTM PPTX POWERPOINT POTX PPT PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOTX para PPS via Java" h2="Conversão de DOTX para PPS usando a API Java local em qualquer aplicativo Java J2SE, J2EE, J2ME sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOTX para PPS via Java ou online" h2="Conversão de DOTX para PPS usando a API Java local em qualquer aplicativo Java J2SE, J2EE, J2ME sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Muitas vezes, os desenvolvedores precisam converter o arquivo DOTX para PPS programaticamente. Ao usar as bibliotecas Java de Automação de Arquivos [Aspose.Total for Java](https://products.aspose.com/total/java/), você pode automatizar o processo de renderização em algumas etapas simples. Você pode carregar seu arquivo DOTX usando [Aspose.Words for Java](https://products.aspose.com/words/java/) e convertê-lo em HTML. Depois disso, usando a poderosa API Java de manipulação do PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPS .
 {{% /blocks/products/pf/feature-page-summary  %}}

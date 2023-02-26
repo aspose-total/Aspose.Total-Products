@@ -1,6 +1,6 @@
 ---
-title: تحويل DOTX إلى PPT عبر Java
-description: Java API لتصدير DOTX إلى PPT دون استخدام Microsoft Word أو PowerPoint
+title: تحويل DOTX إلى PPT عبر Java أو عبر الإنترنت
+description: Java API لتصدير DOTX إلى PPT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/dotx-to-ppt/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: PPT
 otherformats: POTM PPT POT POTX PPTM POWERPOINT PPTX PPSX PPS PPSM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTX إلى PPT عبر Java" h2="تحويل DOTX إلى PPT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTX إلى PPT عبر Java أو عبر الإنترنت" h2="تحويل DOTX إلى PPT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 في كثير من الأحيان يتعين على المطورين تحويل ملف DOTX إلى PPT برمجيًا. باستخدام مكتبات Java لأتمتة الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/) يمكنك أتمتة عملية العرض في بضع خطوات بسيطة. يمكنك تحميل ملف DOTX الخاص بك باستخدام [Aspose.Words for Java](https://products.aspose.com/words/java/) وتحويله إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات Java API قوية للمعالجة في PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه كـ PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOTX إلى PPT عبر Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOTX إلى PPT عبر Java أو عبر الإنترنت" %}}
 1. افتح ملف DOTX باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. تحويل ملف DOTX إلى HTML باستخدام [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن

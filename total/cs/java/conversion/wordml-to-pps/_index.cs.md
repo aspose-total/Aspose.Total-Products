@@ -1,6 +1,6 @@
 ---
-title: Převést WORDML na PPS přes Java
-description: Java API pro export WORDML do PPS bez použití Microsoft Word nebo PowerPoint
+title: Převést WORDML na PPS přes Java nebo online
+description: Java API pro export WORDML do PPS bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/wordml-to-pps/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: POTM PPS PPTX POT POWERPOINT POTX PPSX PPSM PPTM PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést WORDML na PPS přes Java" h2="Konverze WORDML na PPS pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést WORDML na PPS přes Java nebo online" h2="Konverze WORDML na PPS pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Často musí vývojáři převést soubor WORDML na PPS programově. Pomocí knihoven File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete automatizovat proces vykreslování v několika jednoduchých krocích. Soubor WORDML můžete načíst pomocí [Aspose.Words for Java](https://products.aspose.com/words/java/) a převést jej do HTML. Poté pomocí výkonného rozhraní Java API pro manipulaci v PowerPointu [Aspose.Slides for Java](https://products.aspose.com/slides/java/) můžete vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako PPS .
 {{% /blocks/products/pf/feature-page-summary  %}}

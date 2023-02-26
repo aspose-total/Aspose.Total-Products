@@ -1,6 +1,6 @@
 ---
-title: Konvertera RTF till PPTX via Java
-description: Java API för att exportera RTF till PPTX utan att använda Microsoft Word eller PowerPoint
+title: Konvertera RTF till PPTX via Java eller online
+description: Java API för att exportera RTF till PPTX utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/rtf-to-pptx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTX POT POTM POWERPOINT PPTM PPTX PPSM PPSX PPT PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera RTF till PPTX via Java" h2="RTF till PPTX-konvertering genom att använda lokalt Java API inom alla Java J2SE, J2EE, J2ME-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint eller Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera RTF till PPTX via Java eller online" h2="RTF till PPTX-konvertering genom att använda lokalt Java API inom alla Java J2SE, J2EE, J2ME-applikationer utan att använda Microsoft<sup>&reg;</sup> PowerPoint eller Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Ofta måste utvecklare konvertera RTF-fil till PPTX programmatiskt. Genom att använda Java-biblioteken för filautomatisering [Aspose.Total for Java](https://products.aspose.com/total/java/) kan du automatisera renderingsprocessen i några enkla steg. Du kan ladda din RTF-fil genom att använda [Aspose.Words for Java](https://products.aspose.com/words/java/) och konvertera den till HTML. Därefter genom att använda kraftfull PowerPoint-manipulation Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kan du skapa en ny presentation, skriva HTML-innehåll i den och spara den som PPTX .
 {{% /blocks/products/pf/feature-page-summary  %}}

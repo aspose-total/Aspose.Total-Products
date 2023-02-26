@@ -1,6 +1,6 @@
 ---
-title: Konwertuj DOT na PPS za pomocą Javy
-description: Java API do eksportu DOT do PPS bez użycia Microsoft Word lub PowerPoint
+title: Konwertuj DOT na PPS za pomocą Javy lub online
+description: Java API do eksportu DOT do PPS bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/dot-to-pps/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPT PPS POTM PPSM PPSX POWERPOINT PPTX POT PPTM POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOT na PPS za pomocą Javy" h2="Konwersja DOT do PPS przy użyciu lokalnego interfejsu API Java w dowolnej aplikacji Java J2SE, J2EE, J2ME bez korzystania z programu Microsoft<sup>&reg;</sup> PowerPoint lub Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOT na PPS za pomocą Javy lub online" h2="Konwersja DOT do PPS przy użyciu lokalnego interfejsu API Java w dowolnej aplikacji Java J2SE, J2EE, J2ME bez korzystania z programu Microsoft<sup>&reg;</sup> PowerPoint lub Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Często programiści muszą programowo przekonwertować plik DOT na PPS. Korzystając z bibliotek Java File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) możesz zautomatyzować proces renderowania w kilku prostych krokach. Możesz wczytać plik DOT, używając [Aspose.Words for Java](https://products.aspose.com/words/java/) i przekonwertować go na HTML. Następnie za pomocą potężnej manipulacji PowerPoint API Java [Aspose.Slides for Java](https://products.aspose.com/slides/java/) możesz utworzyć nową prezentację, napisać w niej treść HTML i zapisać ją jako PPS .
 {{% /blocks/products/pf/feature-page-summary  %}}

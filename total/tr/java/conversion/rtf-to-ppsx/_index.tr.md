@@ -1,6 +1,6 @@
 ---
-title: Java ile RTF'yi PPSX'ye dönüştürün
-description: Microsoft Word veya PowerPoint kullanmadan RTF'yi PPSX'ye Dışa Aktarmak için Java API
+title: Java ile RTF'yi PPSX'ye dönüştürün veya çevrimiçi
+description: Microsoft Word veya PowerPoint kullanmadan RTF'yi PPSX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/rtf-to-ppsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POWERPOINT PPT POTM PPTM PPSX PPTX PPS PPSM POTX POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile RTF'yi PPSX'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> PowerPoint veya Word kullanmadan herhangi bir Java J2SE, J2EE, J2ME uygulamasında şirket içi Java API kullanarak RTF'den PPSX'ye dönüştürme" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile RTF'yi PPSX'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> PowerPoint veya Word kullanmadan herhangi bir Java J2SE, J2EE, J2ME uygulamasında şirket içi Java API kullanarak RTF'den PPSX'ye dönüştürme" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Çoğu zaman geliştiricilerin RTF dosyasını programlı olarak PPSX'ye dönüştürmesi gerekir. Dosya Otomasyonu Java kitaplıklarını [Aspose.Total for Java](https://products.aspose.com/total/java/) kullanarak, oluşturma işlemini birkaç basit adımda otomatikleştirebilirsiniz. RTF dosyanızı [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak yükleyebilir ve HTML'ye dönüştürebilirsiniz. Bundan sonra, güçlü PowerPoint manipülasyonu Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve PPSX olarak kaydedebilirsiniz. .
 {{% /blocks/products/pf/feature-page-summary  %}}

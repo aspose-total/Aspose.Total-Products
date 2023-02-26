@@ -1,6 +1,6 @@
 ---
-title: 通过 Java 将 OTT 转换为 POWERPOINT
-description: 无需使用 Microsoft Word 或 PowerPoint 即可将 OTT 导出为 POWERPOINT 的 Java API
+title: 通过 Java 将 OTT 转换为 POWERPOINT 或在线
+description: 无需使用 Microsoft Word 或 PowerPoint 即可将 OTT 导出为 POWERPOINT 的 Java API 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/java/conversion/ott-to-powerpoint/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: PPTX
 otherformats: PPTX PPT POTX PPS PPSX POTM POWERPOINT PPTM POT PPSM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 OTT 转换为 POWERPOINT" h2="通过在任何 Java J2SE、J2EE、J2ME 应用程序中使用本地 Java API 将 OTT 转换为 POWERPOINT，而无需使用 Microsoft<sup>&reg;</sup> PowerPoint 或 Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 OTT 转换为 POWERPOINT 或在线" h2="通过在任何 Java J2SE、J2EE、J2ME 应用程序中使用本地 Java API 将 OTT 转换为 POWERPOINT，而无需使用 Microsoft<sup>&reg;</sup> PowerPoint 或 Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 通常，开发人员必须以编程方式将 OTT 文件转换为 POWERPOINT。通过使用文件自动化 Java 库 [Aspose.Total for Java](https://products.aspose.com/total/java/)，您可以通过几个简单的步骤来自动化渲染过程。您可以使用 [Aspose.Words for Java](https://products.aspose.com/words/java/) 加载 OTT 文件并将其转换为 HTML。之后，通过使用强大的 PowerPoint 操作 Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/)，您可以创建一个新的演示文稿，在其中写入 HTML 内容，并将其保存为 POWERPOINT .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 OTT 转换为 POWERPOINT" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 OTT 转换为 POWERPOINT 或在线" %}}
 1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类打开 OTT 文件
 2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 OTT 文件转换为 HTML)) 方法
 3. 始化一个新的[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)对象
