@@ -1,6 +1,6 @@
 ---
-title: Exportera XLT till DOCX i Android
-description: Android API för att konvertera XLT till DOCX utan att använda Microsoft Word
+title: Exportera XLT till DOCX i Android eller med gratis Online Converter
+description: Android API för att konvertera XLT till DOCX utan att använda Microsoft Word eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendera XLT till DOCX på Android via Java" h2="Förvandla XLT till DOCX i dina Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendera XLT till DOCX på Android via Java eller online" h2="Förvandla XLT till DOCX i dina Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) är ett paket med kraftfulla API:er för filautomatisering. Genom att använda två av dess API:er kan du integrera XLT till DOCX-konverteringsfunktionen i dina Android-applikationer. I det första steget kan du exportera XLT till PDF genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Efter det, genom att använda [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), kan du konvertera PDF till DOCX. 

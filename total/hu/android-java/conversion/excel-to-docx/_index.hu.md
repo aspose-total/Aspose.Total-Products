@@ -1,6 +1,6 @@
 ---
-title: EXCEL exportálása DOCX formátumba Androidon
-description: Android API a EXCEL konvertálásához DOCX formátumba Microsoft Word használata nélkül
+title: EXCEL exportálása DOCX formátumba Androidon vagy ingyenes online konverterrel
+description: Android API a EXCEL konvertálásához DOCX formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderelje le a EXCEL-t DOCX-fájlba Androidon Java segítségével" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a EXCEL-t DOCX formátumba Android-alkalmazásaiban" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderelje le a EXCEL-t DOCX-fájlba Androidon Java segítségével vagy online" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a EXCEL-t DOCX formátumba Android-alkalmazásaiban" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a EXCEL-ből DOCX-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a EXCEL-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et DOCX formátumba. 

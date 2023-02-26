@@ -1,6 +1,6 @@
 ---
-title: Exportar EXCEL para WORD no Android
-description: API do Android para converter EXCEL para WORD sem usar o Microsoft Word
+title: Exportar EXCEL para WORD no Android ou com o conversor online gratuito
+description: API do Android para converter EXCEL para WORD sem usar o Microsoft Word ou on-line. Teste o conversor online gratuito de EXCEL para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize EXCEL para WORD no Android via Java" h2="Transforme EXCEL em WORD em seus aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize EXCEL para WORD no Android via Java ou online" h2="Transforme EXCEL em WORD em seus aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) é um pacote de poderosas APIs de automação de arquivos. Ao usar duas de suas APIs, você pode integrar o recurso de conversão de EXCEL para WORD dentro de seus aplicativos Android. Na primeira etapa, você pode exportar EXCEL para PDF usando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Depois disso, usando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), você pode converter PDF para WORD. 

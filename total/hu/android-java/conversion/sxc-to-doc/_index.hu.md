@@ -1,6 +1,6 @@
 ---
-title: SXC exportálása DOC formátumba Androidon
-description: Android API a SXC konvertálásához DOC formátumba Microsoft Word használata nélkül
+title: SXC exportálása DOC formátumba Androidon vagy ingyenes online konverterrel
+description: Android API a SXC konvertálásához DOC formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD POWERPOINT DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderelje le a SXC-t DOC-fájlba Androidon Java segítségével" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a SXC-t DOC formátumba Android-alkalmazásaiban" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderelje le a SXC-t DOC-fájlba Androidon Java segítségével vagy online" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a SXC-t DOC formátumba Android-alkalmazásaiban" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a SXC-ből DOC-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a SXC-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et DOC formátumba. 

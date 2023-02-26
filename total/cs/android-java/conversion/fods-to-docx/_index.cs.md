@@ -1,6 +1,6 @@
 ---
-title: Export FODS do DOCX v Androidu
-description: Android API pro převod FODS na DOCX bez použití aplikace Microsoft Word
+title: Export FODS do DOCX v Androidu nebo pomocí bezplatného online převodníku
+description: Android API pro převod FODS na DOCX bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORD PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vykreslení FODS do DOCX na Androidu přes Java" h2="Transformujte FODS na DOCX ve svých aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Vykreslení FODS do DOCX na Androidu přes Java nebo online" h2="Transformujte FODS na DOCX ve svých aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total pro Android přes Javu](https://products.aspose.com/total/android-java/) je balíček výkonných rozhraní API pro automatizaci souborů. Pomocí dvou jeho rozhraní API můžete integrovat funkci převodu FODS na DOCX do aplikací pro Android. V prvním kroku můžete exportovat FODS do PDF pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/). Poté můžete pomocí [Aspose.PDF pro Android přes Java](https://products.aspose.com/pdf/android-java/) převést PDF na DOCX. 

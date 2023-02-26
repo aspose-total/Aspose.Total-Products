@@ -1,6 +1,6 @@
 ---
-title: Esporta FODS in PPTX in Android
-description: API Android per convertire FODS in PPTX senza utilizzare Microsoft Word
+title: Esporta FODS in PPTX in Android o con il convertitore online gratuito
+description: API Android per convertire FODS in PPTX senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD POWERPOINT DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendi FODS in PPTX su Android tramite Java" h2="Trasforma FODS in PPTX all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendi FODS in PPTX su Android tramite Java o in linea" h2="Trasforma FODS in PPTX all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) è un pacchetto di potenti API di automazione dei file. Utilizzando due delle sue API, puoi integrare la funzione di conversione da FODS a PPTX all'interno delle tue applicazioni Android. Nel primo passaggio puoi esportare FODS in PDF utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Successivamente, utilizzando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), puoi convertire PDF in PPTX. 

@@ -1,6 +1,6 @@
 ---
-title: Android에서 XLS를 PPTX로 내보내기
-description: Microsoft Word를 사용하지 않고 XLS를 PPTX로 변환하는 Android API
+title: Android에서 XLS를 PPTX로 내보내기 또는 무료 온라인 변환기 사용
+description: Microsoft Word를 사용하지 않고 XLS를 PPTX로 변환하는 Android API 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD POWERPOINT DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 XLS를 PPTX로 렌더링" h2="Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 Android 애플리케이션 내에서 XLS를 PPTX로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 XLS를 PPTX로 렌더링 또는 온라인" h2="Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 Android 애플리케이션 내에서 XLS를 PPTX로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)은 강력한 파일 자동화 API 패키지입니다. 두 가지 API를 사용하여 Android 애플리케이션 내에서 XLS를 PPTX로 변환 기능으로 통합할 수 있습니다. 첫 번째 단계에서는 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 XLS를 PDF로 내보낼 수 있습니다. 그 후 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)를 사용하여 PDF를 PPTX로 변환할 수 있습니다. 

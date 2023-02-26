@@ -1,6 +1,6 @@
 ---
-title: Exportera EXCEL till PPTX i Android
-description: Android API för att konvertera EXCEL till PPTX utan att använda Microsoft Word
+title: Exportera EXCEL till PPTX i Android eller med gratis Online Converter
+description: Android API för att konvertera EXCEL till PPTX utan att använda Microsoft Word eller online. Testa gratis EXCEL till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendera EXCEL till PPTX på Android via Java" h2="Förvandla EXCEL till PPTX i dina Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendera EXCEL till PPTX på Android via Java eller online" h2="Förvandla EXCEL till PPTX i dina Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) är ett paket med kraftfulla API:er för filautomatisering. Genom att använda två av dess API:er kan du integrera EXCEL till PPTX-konverteringsfunktionen i dina Android-applikationer. I det första steget kan du exportera EXCEL till PDF genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Efter det, genom att använda [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), kan du konvertera PDF till PPTX. 

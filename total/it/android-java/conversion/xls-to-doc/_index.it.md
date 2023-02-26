@@ -1,6 +1,6 @@
 ---
-title: Esporta XLS in DOC in Android
-description: API Android per convertire XLS in DOC senza utilizzare Microsoft Word
+title: Esporta XLS in DOC in Android o con il convertitore online gratuito
+description: API Android per convertire XLS in DOC senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendi XLS in DOC su Android tramite Java" h2="Trasforma XLS in DOC all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendi XLS in DOC su Android tramite Java o in linea" h2="Trasforma XLS in DOC all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) è un pacchetto di potenti API di automazione dei file. Utilizzando due delle sue API, puoi integrare la funzione di conversione da XLS a DOC all'interno delle tue applicazioni Android. Nel primo passaggio puoi esportare XLS in PDF utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Successivamente, utilizzando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), puoi convertire PDF in DOC. 

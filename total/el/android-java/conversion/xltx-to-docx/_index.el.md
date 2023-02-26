@@ -1,6 +1,6 @@
 ---
-title: Εξαγωγή XLTX σε DOCX στο Android
-description: Android API για μετατροπή XLTX σε DOCX χωρίς χρήση του Microsoft Word
+title: Εξαγωγή XLTX σε DOCX στο Android ή με δωρεάν Online Converter
+description: Android API για μετατροπή XLTX σε DOCX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Αποδώστε το XLTX στο DOCX στο Android μέσω Java" h2="Μετατρέψτε το XLTX σε DOCX στις Εφαρμογές σας Android χωρίς να χρησιμοποιήσετε το Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Αποδώστε το XLTX στο DOCX στο Android μέσω Java ή διαδικτυακά" h2="Μετατρέψτε το XLTX σε DOCX στις Εφαρμογές σας Android χωρίς να χρησιμοποιήσετε το Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) είναι ένα πακέτο ισχυρών API αυτοματισμού αρχείων. Χρησιμοποιώντας δύο από τα API του, μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής XLTX σε DOCX στις εφαρμογές σας Android. Στο πρώτο βήμα, μπορείτε να εξαγάγετε XLTX σε PDF χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), μπορείτε να μετατρέψετε το PDF σε DOCX. 

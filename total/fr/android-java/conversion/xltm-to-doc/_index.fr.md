@@ -1,6 +1,6 @@
 ---
-title: Exporter XLTM vers DOC dans Android
-description: API Android pour convertir XLTM en DOC sans utiliser Microsoft Word
+title: Exporter XLTM vers DOC dans Android ou avec le convertisseur en ligne gratuit
+description: API Android pour convertir XLTM en DOC sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendu XLTM en DOC sur Android via Java" h2="Transformez XLTM en DOC dans vos applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendu XLTM en DOC sur Android via Java ou en ligne" h2="Transformez XLTM en DOC dans vos applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) est un package de puissantes API d'automatisation de fichiers. En utilisant deux de ses API, vous pouvez intégrer la fonction de conversion XLTM en DOC dans vos applications Android. Dans la première étape, vous pouvez exporter XLTM au format PDF en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Après cela, en utilisant [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), vous pouvez convertir un PDF en DOC. 

@@ -1,6 +1,6 @@
 ---
 title: Export XLSB to POWERPOINT in Android 
-description: Android API to Convert XLSB to POWERPOINT without using Microsoft Word
+description: Android API to Convert XLSB to POWERPOINT without using Microsoft Word or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/xlsb-to-powerpoint/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX WORD DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render XLSB to POWERPOINT on Android via Java" h2="Transform XLSB to POWERPOINT within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render XLSB to POWERPOINT on Android via Java or online" h2="Transform XLSB to POWERPOINT within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is a package of powerful File Automation APIs. By using two of its APIs, you can integrate XLSB to POWERPOINT conversion feature inside your Android applications. In the first step you can export XLSB to PDF by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). After that, by using [Aspose.PDF for Android via  Java](https://products.aspose.com/pdf/android-java/), you can convert PDF to POWERPOINT.

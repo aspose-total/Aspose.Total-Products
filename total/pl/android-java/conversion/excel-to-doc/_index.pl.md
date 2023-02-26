@@ -1,6 +1,6 @@
 ---
-title: Eksportuj EXCEL do DOC w Androidzie
-description: Android API do konwersji EXCEL na DOC bez użycia Microsoft Word
+title: Eksportuj EXCEL do DOC w Androidzie lub za pomocą bezpłatnego konwertera online
+description: Android API do konwersji EXCEL na DOC bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online EXCEL na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX WORD DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderuj EXCEL do DOC na Androidzie przez Javę" h2="Przekształć EXCEL w DOC w swoich aplikacjach na Androida bez użycia Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj EXCEL do DOC na Androidzie przez Javę lub online" h2="Przekształć EXCEL w DOC w swoich aplikacjach na Androida bez użycia Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) to pakiet zaawansowanych interfejsów API automatyzacji plików. Korzystając z dwóch jego interfejsów API, możesz zintegrować funkcję konwersji EXCEL na DOC w swoich aplikacjach na Androida. W pierwszym kroku możesz wyeksportować plik EXCEL do pliku PDF, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/). Następnie, używając [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), możesz przekonwertować PDF na DOC. 

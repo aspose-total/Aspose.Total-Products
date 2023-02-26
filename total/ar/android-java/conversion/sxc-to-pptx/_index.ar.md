@@ -1,6 +1,6 @@
 ---
-title: تصدير SXC إلى PPTX في Android
-description: Android API لتحويل SXC إلى PPTX دون استخدام Microsoft Word
+title: تصدير SXC إلى PPTX في Android أو مع محول مجاني على الإنترنت
+description: Android API لتحويل SXC إلى PPTX دون استخدام Microsoft Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT WORD DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم SXC إلى PPTX على Android عبر Java" h2="قم بتحويل ملف SXC إلى PPTX داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم SXC إلى PPTX على Android عبر Java أو عبر الإنترنت" h2="قم بتحويل ملف SXC إلى PPTX داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) عبارة عن حزمة من واجهات برمجة التطبيقات القوية لأتمتة الملفات. باستخدام اثنين من واجهات برمجة التطبيقات الخاصة به ، يمكنك دمج ميزة تحويل SXC إلى PPTX داخل تطبيقات Android. في الخطوة الأولى ، يمكنك تصدير SXC إلى PDF باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). بعد ذلك ، باستخدام [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) ، يمكنك تحويل PDF إلى PPTX. 

@@ -1,6 +1,6 @@
 ---
 title: Export FODS to DOC in Android 
-description: Android API to Convert FODS to DOC without using Microsoft Word
+description: Android API to Convert FODS to DOC without using Microsoft Word or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/fods-to-doc/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render FODS to DOC on Android via Java" h2="Transform FODS to DOC within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render FODS to DOC on Android via Java or online" h2="Transform FODS to DOC within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is a package of powerful File Automation APIs. By using two of its APIs, you can integrate FODS to DOC conversion feature inside your Android applications. In the first step you can export FODS to PDF by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). After that, by using [Aspose.PDF for Android via  Java](https://products.aspose.com/pdf/android-java/), you can convert PDF to DOC.

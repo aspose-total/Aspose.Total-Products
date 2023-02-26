@@ -1,6 +1,6 @@
 ---
-title: ส่งออก EXCEL เป็น WORD ใน Android
-description: Android API เพื่อแปลง EXCEL เป็น WORD โดยไม่ต้องใช้ Microsoft Word
+title: ส่งออก EXCEL เป็น WORD ใน Android หรือด้วยตัวแปลงออนไลน์ฟรี
+description: Android API เพื่อแปลง EXCEL เป็น WORD โดยไม่ต้องใช้ Microsoft Word หรือทางออนไลน์ ทดสอบตัวแปลง EXCEL เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แสดงผล EXCEL เป็น WORD บน Android ผ่าน Java" h2="แปลง EXCEL เป็น WORD ภายในแอปพลิเคชัน Android ของคุณโดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แสดงผล EXCEL เป็น WORD บน Android ผ่าน Java หรือทางออนไลน์" h2="แปลง EXCEL เป็น WORD ภายในแอปพลิเคชัน Android ของคุณโดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) เป็นแพ็คเกจของ File Automation API ที่ทรงพลัง ด้วยการใช้ API สองอัน คุณสามารถรวมคุณลักษณะการแปลง EXCEL เป็น WORD ในแอปพลิเคชัน Android ของคุณได้ ในขั้นตอนแรก คุณสามารถส่งออก EXCEL เป็น PDF ได้โดยใช้ [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) หลังจากนั้น ด้วยการใช้ [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) คุณจะสามารถแปลง PDF เป็น WORD ได้ 

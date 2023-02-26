@@ -1,6 +1,6 @@
 ---
-title: Ekspor SXC ke POWERPOINT di Android
-description: Android API untuk Mengonversi SXC ke POWERPOINT tanpa menggunakan Microsoft Word
+title: Ekspor SXC ke POWERPOINT di Android atau dengan Konverter Online gratis
+description: Android API untuk Mengonversi SXC ke POWERPOINT tanpa menggunakan Microsoft Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX DOC WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render SXC ke POWERPOINT di Android melalui Java" h2="Ubah SXC menjadi POWERPOINT dalam Aplikasi Android Anda tanpa menggunakan Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render SXC ke POWERPOINT di Android melalui Java atau daring" h2="Ubah SXC menjadi POWERPOINT dalam Aplikasi Android Anda tanpa menggunakan Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) adalah paket File Automation API yang andal. Dengan menggunakan dua API-nya, Anda dapat mengintegrasikan fitur konversi SXC ke POWERPOINT di dalam aplikasi Android Anda. Pada langkah pertama Anda dapat mengekspor SXC ke PDF dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Setelah itu, dengan menggunakan [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), Anda dapat mengonversi PDF ke POWERPOINT. 

@@ -1,6 +1,6 @@
 ---
-title: Exportar XLS para DOCX no Android
-description: API do Android para converter XLS para DOCX sem usar o Microsoft Word
+title: Exportar XLS para DOCX no Android ou com o conversor online gratuito
+description: API do Android para converter XLS para DOCX sem usar o Microsoft Word ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize XLS para DOCX no Android via Java" h2="Transforme XLS em DOCX em seus aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize XLS para DOCX no Android via Java ou online" h2="Transforme XLS em DOCX em seus aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) é um pacote de poderosas APIs de automação de arquivos. Ao usar duas de suas APIs, você pode integrar o recurso de conversão de XLS para DOCX dentro de seus aplicativos Android. Na primeira etapa, você pode exportar XLS para PDF usando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Depois disso, usando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), você pode converter PDF para DOCX. 

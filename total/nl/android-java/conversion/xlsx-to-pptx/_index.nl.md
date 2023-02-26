@@ -1,6 +1,6 @@
 ---
-title: XLSX exporteren naar PPTX in Android
-description: Android API om XLSX naar PPTX te converteren zonder Microsoft Word te gebruiken
+title: XLSX exporteren naar PPTX in Android of met gratis Online Converter
+description: Android API om XLSX naar PPTX te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: WORD POWERPOINT DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render XLSX naar PPTX op Android via Java" h2="Transformeer XLSX naar PPTX binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render XLSX naar PPTX op Android via Java of online" h2="Transformeer XLSX naar PPTX binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van XLSX naar PPTX in uw Android-applicaties integreren. In de eerste stap kunt u XLSX naar PDF exporteren met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar PPTX converteren. 

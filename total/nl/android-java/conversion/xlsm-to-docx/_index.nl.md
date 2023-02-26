@@ -1,6 +1,6 @@
 ---
-title: XLSM exporteren naar DOCX in Android
-description: Android API om XLSM naar DOCX te converteren zonder Microsoft Word te gebruiken
+title: XLSM exporteren naar DOCX in Android of met gratis Online Converter
+description: Android API om XLSM naar DOCX te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX WORD POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render XLSM naar DOCX op Android via Java" h2="Transformeer XLSM naar DOCX binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render XLSM naar DOCX op Android via Java of online" h2="Transformeer XLSM naar DOCX binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van XLSM naar DOCX in uw Android-applicaties integreren. In de eerste stap kunt u XLSM naar PDF exporteren met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar DOCX converteren. 

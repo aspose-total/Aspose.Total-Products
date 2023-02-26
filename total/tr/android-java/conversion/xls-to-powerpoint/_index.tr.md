@@ -1,6 +1,6 @@
 ---
-title: Android'de XLS'yi POWERPOINT'a aktarın
-description: Microsoft Word kullanmadan XLS'yi POWERPOINT'ye dönüştürmek için Android API
+title: Android'de XLS'yi POWERPOINT'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word kullanmadan XLS'yi POWERPOINT'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOC DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de XLS'yi POWERPOINT'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda XLS'yi POWERPOINT'ye dönüştürün" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de XLS'yi POWERPOINT'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda XLS'yi POWERPOINT'ye dönüştürün" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) güçlü bir Dosya Otomasyonu API'leri paketidir. API'lerinden ikisini kullanarak, Android uygulamalarınıza XLS'den POWERPOINT'a dönüştürme özelliğini entegre edebilirsiniz. İlk adımda, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak XLS'yi PDF'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.PDF](https://products.aspose.com/pdf/android-java/) kullanarak PDF'yi POWERPOINT'ye dönüştürebilirsiniz. 

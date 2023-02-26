@@ -1,6 +1,6 @@
 ---
-title: Export XLSM do DOC v Androidu
-description: Android API pro převod XLSM na DOC bez použití aplikace Microsoft Word
+title: Export XLSM do DOC v Androidu nebo pomocí bezplatného online převodníku
+description: Android API pro převod XLSM na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vykreslení XLSM do DOC na Androidu přes Java" h2="Transformujte XLSM na DOC ve svých aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Vykreslení XLSM do DOC na Androidu přes Java nebo online" h2="Transformujte XLSM na DOC ve svých aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total pro Android přes Javu](https://products.aspose.com/total/android-java/) je balíček výkonných rozhraní API pro automatizaci souborů. Pomocí dvou jeho rozhraní API můžete integrovat funkci převodu XLSM na DOC do aplikací pro Android. V prvním kroku můžete exportovat XLSM do PDF pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/). Poté můžete pomocí [Aspose.PDF pro Android přes Java](https://products.aspose.com/pdf/android-java/) převést PDF na DOC. 

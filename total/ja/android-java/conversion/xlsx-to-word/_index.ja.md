@@ -1,6 +1,6 @@
 ---
-title: AndroidのWORDにXLSXをエクスポートする
-description: MicrosoftWordを使用せずにXLSXをWORDに変換するAndroidAPI
+title: AndroidのWORDにXLSXをエクスポートする または無料のオンライン コンバーターを使用
+description: MicrosoftWordを使用せずにXLSXをWORDに変換するAndroidAPI またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のWORDにXLSXをレンダリングする" h2="Microsoft <sup>＆reg; </ sup> Excelを使用せずに、Androidアプリケーション内でXLSXをWORDに変換する" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のWORDにXLSXをレンダリングする またはオンライン" h2="Microsoft <sup>＆reg; </ sup> Excelを使用せずに、Androidアプリケーション内でXLSXをWORDに変換する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)は、強力なファイル自動化APIのパッケージです。 2つのAPIを使用することで、Androidアプリケーション内でXLSXからWORDへの変換機能を統合できます。最初のステップでは、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用してXLSXをPDFにエクスポートできます。その後、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用して、PDFをWORDに変換できます。 

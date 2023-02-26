@@ -1,6 +1,6 @@
 ---
-title: ODS exporteren naar DOC in Android
-description: Android API om ODS naar DOC te converteren zonder Microsoft Word te gebruiken
+title: ODS exporteren naar DOC in Android of met gratis Online Converter
+description: Android API om ODS naar DOC te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD PPTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render ODS naar DOC op Android via Java" h2="Transformeer ODS naar DOC binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render ODS naar DOC op Android via Java of online" h2="Transformeer ODS naar DOC binnen uw Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is een pakket krachtige API's voor bestandsautomatisering. Door twee van zijn API's te gebruiken, kunt u de conversiefunctie van ODS naar DOC in uw Android-applicaties integreren. In de eerste stap kunt u ODS naar PDF exporteren met [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Daarna kunt u met [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF naar DOC converteren. 

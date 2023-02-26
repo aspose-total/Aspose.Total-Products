@@ -1,6 +1,6 @@
 ---
-title: AndroidのWORDにEXCELをエクスポートする
-description: MicrosoftWordを使用せずにEXCELをWORDに変換するAndroidAPI
+title: AndroidのWORDにEXCELをエクスポートする または無料のオンライン コンバーターを使用
+description: MicrosoftWordを使用せずにEXCELをWORDに変換するAndroidAPI またはオンライン。コードを統合する前に、無料の EXCEL から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のWORDにEXCELをレンダリングする" h2="Microsoft <sup>＆reg; </ sup> Excelを使用せずに、Androidアプリケーション内でEXCELをWORDに変換する" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のWORDにEXCELをレンダリングする またはオンライン" h2="Microsoft <sup>＆reg; </ sup> Excelを使用せずに、Androidアプリケーション内でEXCELをWORDに変換する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)は、強力なファイル自動化APIのパッケージです。 2つのAPIを使用することで、Androidアプリケーション内でEXCELからWORDへの変換機能を統合できます。最初のステップでは、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用してEXCELをPDFにエクスポートできます。その後、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用して、PDFをWORDに変換できます。 

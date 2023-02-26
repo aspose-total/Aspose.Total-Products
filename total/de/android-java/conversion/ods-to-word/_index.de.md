@@ -1,6 +1,6 @@
 ---
-title: Exportieren Sie ODS in WORD in Android
-description: Android-API zum Konvertieren von ODS in WORD ohne Verwendung von Microsoft Word
+title: Exportieren Sie ODS in WORD in Android oder mit dem kostenlosen Online Converter
+description: Android-API zum Konvertieren von ODS in WORD ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX DOC POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie ODS in WORD auf Android über Java" h2="Wandeln Sie ODS in WORD in Ihren Android-Anwendungen um, ohne Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie ODS in WORD auf Android über Java oder online" h2="Wandeln Sie ODS in WORD in Ihren Android-Anwendungen um, ohne Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ist ein Paket leistungsstarker Dateiautomatisierungs-APIs. Durch die Verwendung von zwei seiner APIs können Sie die ODS-zu-WORD-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Im ersten Schritt können Sie ODS in PDF exportieren, indem Sie [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) verwenden. Danach können Sie mit [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF in WORD konvertieren. 

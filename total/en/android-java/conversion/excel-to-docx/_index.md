@@ -1,6 +1,6 @@
 ---
 title: Export EXCEL to DOCX in Android 
-description: Android API to Convert EXCEL to DOCX without using Microsoft Word
+description: Android API to Convert EXCEL to DOCX without using Microsoft Word or online. Test free EXCEL to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/excel-to-docx/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render EXCEL to DOCX on Android via Java" h2="Transform EXCEL to DOCX within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render EXCEL to DOCX on Android via Java or online" h2="Transform EXCEL to DOCX within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is a package of powerful File Automation APIs. By using two of its APIs, you can integrate EXCEL to DOCX conversion feature inside your Android applications. In the first step you can export EXCEL to PDF by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). After that, by using [Aspose.PDF for Android via  Java](https://products.aspose.com/pdf/android-java/), you can convert PDF to DOCX.

@@ -1,6 +1,6 @@
 ---
-title: 在 Android 中將 ODS 導出為 POWERPOINT
-description: 無需使用 Microsoft Word 即可將 ODS 轉換為 POWERPOINT 的 Android API
+title: 在 Android 中將 ODS 導出為 POWERPOINT 或使用免費的在線轉換器
+description: 無需使用 Microsoft Word 即可將 ODS 轉換為 POWERPOINT 的 Android API 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOCX DOC WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 上將 ODS 渲染為 POWERPOINT" h2="在您的 Android 應用程序中將 ODS 轉換為 POWERPOINT，而無需使用 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 上將 ODS 渲染為 POWERPOINT 或在線" h2="在您的 Android 應用程序中將 ODS 轉換為 POWERPOINT，而無需使用 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一個強大的文件自動化 API 包。通過使用它的兩個 API，您可以在 Android 應用程序中集成 ODS 到 POWERPOINT 的轉換功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 將 ODS 導出為 PDF。之後，通過使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以將 PDF 轉換為 POWERPOINT。 

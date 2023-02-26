@@ -1,6 +1,6 @@
 ---
-title: Esporta TSV in DOCX in Android
-description: API Android per convertire TSV in DOCX senza utilizzare Microsoft Word
+title: Esporta TSV in DOCX in Android o con il convertitore online gratuito
+description: API Android per convertire TSV in DOCX senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendi TSV in DOCX su Android tramite Java" h2="Trasforma TSV in DOCX all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendi TSV in DOCX su Android tramite Java o in linea" h2="Trasforma TSV in DOCX all'interno delle tue applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) è un pacchetto di potenti API di automazione dei file. Utilizzando due delle sue API, puoi integrare la funzione di conversione da TSV a DOCX all'interno delle tue applicazioni Android. Nel primo passaggio puoi esportare TSV in PDF utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Successivamente, utilizzando [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), puoi convertire PDF in DOCX. 
