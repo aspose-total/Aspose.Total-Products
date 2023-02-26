@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie DOCX in POWERPOINT in Android über Java
-description: DOCX-zu-POWERPOINT-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint
+title: Konvertieren Sie DOCX in POWERPOINT in Android über Java oder mit dem kostenlosen Online Converter
+description: DOCX-zu-POWERPOINT-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: ODP PPSX PPTX POTX PPT POT POTM PPTM PPS PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOCX in POWERPOINT in Android-Apps" h2="Umwandlung von DOCX in POWERPOINT in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOCX in POWERPOINT in Android-Apps oder online" h2="Umwandlung von DOCX in POWERPOINT in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sind Sie ein Android-Entwickler und möchten Ihrer Anwendung eine Dokumentkonvertierungsfunktion hinzufügen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dateiformatautomatisierungsbibliotheken können Ihnen helfen, den Dokumentenkonvertierungsprozess in Ihren Android-Anwendungen zu automatisieren. Um die DOCX-Datei in POWERPOINT zu konvertieren, können Sie zuerst die Dokumentbearbeitungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden, um das DOCX-Dateiformat in HTML zu konvertieren. Danach können Sie mithilfe der PowerPoint-API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie speichern als POWERPOINT. 

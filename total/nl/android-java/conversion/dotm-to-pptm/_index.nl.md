@@ -1,6 +1,6 @@
 ---
-title: Converteer DOTM naar PPTM in Android via Java
-description: DOTM naar PPTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOTM naar PPTM in Android via Java of met gratis Online Converter
+description: DOTM naar PPTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POT ODP PPSM PPSX PPT POTM PPTX POWERPOINT POTX PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTM naar PPTM converteren in Android-apps" h2="DOTM naar PPTM-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTM naar PPTM converteren in Android-apps of online" h2="DOTM naar PPTM-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bent u een Android-ontwikkelaar en wilt u een functie voor dotmumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het dotmumentconversieproces in uw Android-applicaties te automatiseren. Om het DOTM-bestand naar PPTM te converteren, kunt u eerst de dotmumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOTM-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPTM. 

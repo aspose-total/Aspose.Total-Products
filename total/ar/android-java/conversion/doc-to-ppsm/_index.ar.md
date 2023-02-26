@@ -1,6 +1,6 @@
 ---
-title: تحويل DOC إلى PPSM في Android عبر Java
-description: DOC لتحويل PPSM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
+title: تحويل DOC إلى PPSM في Android عبر Java أو مع محول مجاني على الإنترنت
+description: DOC لتحويل PPSM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POT PPTM PPT ODP PPTX PPSX PPS POWERPOINT POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOC إلى PPSM في تطبيقات Android" h2="تحويل DOC إلى PPSM في تطبيقات Android دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOC إلى PPSM في تطبيقات Android أو عبر الإنترنت" h2="تحويل DOC إلى PPSM في تطبيقات Android أو عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف DOC إلى PPSM ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف DOC إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم PPSM. 

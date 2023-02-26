@@ -1,6 +1,6 @@
 ---
-title: تحويل DOT إلى POTM في Android عبر Java
-description: DOT لتحويل POTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
+title: تحويل DOT إلى POTM في Android عبر Java أو مع محول مجاني على الإنترنت
+description: DOT لتحويل POTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POTX PPTX PPSM PPSX POWERPOINT ODP PPS PPT PPTM POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى POTM في تطبيقات Android" h2="تحويل DOT إلى POTM في تطبيقات Android دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى POTM في تطبيقات Android أو عبر الإنترنت" h2="تحويل DOT إلى POTM في تطبيقات Android أو عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف DOT إلى POTM ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف DOT إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم POTM. 

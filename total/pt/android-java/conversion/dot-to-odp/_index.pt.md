@@ -1,6 +1,6 @@
 ---
-title: Converter DOT para ODP no Android via Java
-description: Conversão de DOT para ODP em seus telefones Android sem usar o Microsoft Word do PowerPoint
+title: Converter DOT para ODP no Android via Java ou com o conversor online gratuito
+description: Conversão de DOT para ODP em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPT POWERPOINT PPSX PPSM PPS POTM PPTM PPTX POT POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOT para ODP em aplicativos Android" h2="Conversão de DOT para ODP em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOT para ODP em aplicativos Android ou online" h2="Conversão de DOT para ODP em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de dotumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de dotumentos em seus aplicativos Android. Para converter o arquivo DOT para ODP, você pode primeiro usar a API de manipulação de dotumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOT para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como ODP. 

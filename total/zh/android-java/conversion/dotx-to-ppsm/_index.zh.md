@@ -1,6 +1,6 @@
 ---
-title: 在 Android 中通过 Java 将 DOTX 转换为 PPSM
-description: 在您的 Android 手机中将 DOTX 转换为 PPSM，而无需使用 Microsoft Word 的 PowerPoint
+title: 在 Android 中通过 Java 将 DOTX 转换为 PPSM 或使用免费的在线转换器
+description: 在您的 Android 手机中将 DOTX 转换为 PPSM，而无需使用 Microsoft Word 的 PowerPoint 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POWERPOINT POT ODP PPTX PPS PPTM PPT POTX POTM PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在 Android 应用中将 DOTX 转换为 PPSM" h2="在您的 Android 应用程序中将 DOTX 转换为 PPSM，无需安装 Microsoft Word<sup>&reg;</sup> 或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="在 Android 应用中将 DOTX 转换为 PPSM 或在线" h2="在您的 Android 应用程序中将 DOTX 转换为 PPSM，无需安装 Microsoft Word<sup>&reg;</sup> 或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 您是一名希望为您的应用程序添加文档转换功能的 Android 开发人员吗？ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 文件格式自动化库可以帮助您在 Android 应用程序中自动化文档转换过程。为了将 DOTX 文件转换为 PPSM，您可以首先使用文档操作 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) 将 DOTX 文件格式转换为 HTML。之后使用 PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)，您可以创建一个新的演示文稿，在其中写入 HTML 内容，并将其另存为耗氧量。 

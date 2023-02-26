@@ -1,6 +1,6 @@
 ---
-title: Converteer DOC naar POT in Android via Java
-description: DOC naar POT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOC naar POT in Android via Java of met gratis Online Converter
+description: DOC naar POT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPTM PPS PPSM POTM PPSX PPTX POWERPOINT PPT ODP POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOC naar POT converteren in Android-apps" h2="DOC naar POT-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="DOC naar POT converteren in Android-apps of online" h2="DOC naar POT-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bent u een Android-ontwikkelaar en wilt u een functie voor documentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het documentconversieproces in uw Android-applicaties te automatiseren. Om het DOC-bestand naar POT te converteren, kunt u eerst de documentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOC-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als POT. 

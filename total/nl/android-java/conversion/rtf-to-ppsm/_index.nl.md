@@ -1,6 +1,6 @@
 ---
-title: Converteer RTF naar PPSM in Android via Java
-description: RTF naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer RTF naar PPSM in Android via Java of met gratis Online Converter
+description: RTF naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POTM PPTX POWERPOINT PPT POTX ODP PPSX PPTM PPS POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="RTF naar PPSM converteren in Android-apps" h2="RTF naar PPSM-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="RTF naar PPSM converteren in Android-apps of online" h2="RTF naar PPSM-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bent u een Android-ontwikkelaar en wilt u een functie voor rtfumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het rtfumentconversieproces in uw Android-applicaties te automatiseren. Om het RTF-bestand naar PPSM te converteren, kunt u eerst de rtfumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het RTF-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPSM. 

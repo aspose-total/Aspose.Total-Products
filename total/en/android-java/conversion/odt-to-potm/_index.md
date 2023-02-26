@@ -1,6 +1,6 @@
 ---
 title: Convert ODT to POTM in Android via Java
-description: ODT to POTM conversion in your Android Phones without using Microsoft Word of PowerPoint 
+description: ODT to POTM conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/odt-to-potm/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPTM PPTX POTX PPS PPSX PPSM PPT POT POWERPOINT ODP CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert ODT to POTM in Android Apps" h2="ODT to POTM conversion in your Android Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert ODT to POTM in Android Apps or online" h2="ODT to POTM conversion in your Android Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Are you an Android developer looking to add a document conversion feature to your application? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation libraries can help you automate the document conversion process in your Android applications. In order to convert ODT file to POTM, you can first use document manipulation API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) to convert ODT file format to HTML. After that by using PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), you can create a new Presentation, write HTML content in it, and save it as POTM. 

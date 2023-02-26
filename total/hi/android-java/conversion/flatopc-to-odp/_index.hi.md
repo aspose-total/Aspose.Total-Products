@@ -1,6 +1,6 @@
 ---
-title: जावा के माध्यम से एंड्रॉइड में डीओसी को ओडीपी में कनवर्ट करें
-description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने Android फ़ोन में FLATOPC से ODP रूपांतरण
+title: जावा के माध्यम से एंड्रॉइड में डीओसी को ओडीपी में कनवर्ट करें या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: PowerPoint के Microsoft Word का उपयोग किए बिना अपने Android फ़ोन में FLATOPC से ODP रूपांतरण या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: POT PPS POTX POTM PPTX PPSM PPTM POWERPOINT PPSX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android ऐप्स में FLATOPC को ODP में बदलें" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Android एप्लिकेशन में FLATOPC से ODP रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="Android ऐप्स में FLATOPC को ODP में बदलें या ऑनलाइन" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Android एप्लिकेशन में FLATOPC से ODP रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 क्या आप एक Android डेवलपर हैं जो अपने एप्लिकेशन में दस्तावेज़ रूपांतरण सुविधा जोड़ना चाहते हैं? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी आपके एंड्रॉइड एप्लिकेशन में दस्तावेज़ रूपांतरण प्रक्रिया को स्वचालित करने में आपकी सहायता कर सकती है। FLATOPC फ़ाइल को ODP में बदलने के लिए, आप FLATOPC फ़ाइल स्वरूप को HTML में बदलने के लिए पहले दस्तावेज़ हेरफेर API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग कर सकते हैं। उसके बाद PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) का उपयोग करके, आप एक नया प्रेजेंटेशन बना सकते हैं, उसमें HTML सामग्री लिख सकते हैं, और इसे इस रूप में सहेज सकते हैं ओडीपी। 

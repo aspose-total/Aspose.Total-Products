@@ -1,6 +1,6 @@
 ---
-title: Преобразование DOC в POTM в Android через Java
-description: Преобразование DOC в POTM на ваших телефонах Android без использования Microsoft Word of PowerPoint
+title: Преобразование DOC в POTM в Android через Java или с помощью бесплатного онлайн-конвертера
+description: Преобразование DOC в POTM на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPSM PPTX POT ODP POTX PPTM POWERPOINT PPS PPT PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOC в POTM в приложениях для Android" h2="Преобразование DOC в POTM в приложениях для Android без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOC в POTM в приложениях для Android или онлайн" h2="Преобразование DOC в POTM в приложениях для Android или онлайн без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы Android-разработчик и хотите добавить в свое приложение функцию преобразования документов? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Библиотеки автоматизации форматов файлов могут помочь вам автоматизировать процесс преобразования документов в ваших приложениях для Android. Чтобы преобразовать файл DOC в POTM, вы можете сначала использовать API обработки документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) для преобразования формата файла DOC в HTML. После этого с помощью PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) вы можете создать новую презентацию, записать в нее HTML-контент и сохранить ее как POTM. 

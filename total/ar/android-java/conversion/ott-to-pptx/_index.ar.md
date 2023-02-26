@@ -1,6 +1,6 @@
 ---
-title: تحويل OTT إلى PPTX في Android عبر Java
-description: OTT لتحويل PPTX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint
+title: تحويل OTT إلى PPTX في Android عبر Java أو مع محول مجاني على الإنترنت
+description: OTT لتحويل PPTX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTM POWERPOINT PPSM PPTM POTX POT PPS ODP PPSX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل OTT إلى PPTX في تطبيقات Android" h2="تحويل OTT إلى PPTX في تطبيقات Android دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل OTT إلى PPTX في تطبيقات Android أو عبر الإنترنت" h2="تحويل OTT إلى PPTX في تطبيقات Android أو عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف OTT إلى PPTX ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف OTT إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم PPTX. 

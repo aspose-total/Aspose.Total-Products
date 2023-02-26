@@ -1,6 +1,6 @@
 ---
-title: Convertir DOCX en PPTM dans Android via Java
-description: Conversion DOCX en PPTM dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint
+title: Convertir DOCX en PPTM dans Android via Java ou avec le convertisseur en ligne gratuit
+description: Conversion DOCX en PPTM dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPT PPSX POT PPTX POWERPOINT PPS POTM PPSM POTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DOCX en PPTM dans les applications Android" h2="Conversion DOCX en PPTM dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DOCX en PPTM dans les applications Android ou en ligne" h2="Conversion DOCX en PPTM dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de documents à votre application ? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de documents dans vos applications Android. Afin de convertir un fichier DOCX en PPTM, vous pouvez d'abord utiliser l'API de manipulation de document [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier DOCX en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPTM. 

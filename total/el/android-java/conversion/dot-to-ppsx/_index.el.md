@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOT σε PPSX στο Android μέσω Java
-description: Μετατροπή DOT σε PPSX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
+title: Μετατροπή DOT σε PPSX στο Android μέσω Java ή με δωρεάν Online Converter
+description: Μετατροπή DOT σε PPSX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPS POWERPOINT PPT ODP PPTX POTX PPSM POTM PPTM POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOT σε PPSX στις εφαρμογές Android" h2="Μετατροπή DOT σε PPSX στις Εφαρμογές σας Android χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOT σε PPSX στις εφαρμογές Android ή διαδικτυακά" h2="Μετατροπή DOT σε PPSX στις Εφαρμογές σας Android χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Είστε προγραμματιστής Android που θέλετε να προσθέσετε μια δυνατότητα μετατροπής εγγράφων στην εφαρμογή σας; [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Οι βιβλιοθήκες αυτοματισμού μορφοποίησης αρχείων μπορούν να σας βοηθήσουν να αυτοματοποιήσετε τη διαδικασία μετατροπής εγγράφων στις εφαρμογές σας Android. Για να μετατρέψετε το αρχείο DOT σε PPSX, μπορείτε πρώτα να χρησιμοποιήσετε το API χειρισμού εγγράφων [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) για να μετατρέψετε τη μορφή αρχείου DOT σε HTML. Στη συνέχεια, χρησιμοποιώντας το PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), μπορείτε να δημιουργήσετε μια νέα Παρουσίαση, να γράψετε περιεχόμενο HTML σε αυτήν και να την αποθηκεύσετε ως PPSX. 

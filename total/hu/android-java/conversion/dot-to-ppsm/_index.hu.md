@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a DOT-t PPSM-vé Androidon Java segítségével
-description: DOT konvertálás PPSM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül
+title: Konvertálja a DOT-t PPSM-vé Androidon Java segítségével vagy ingyenes online konverterrel
+description: DOT konvertálás PPSM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PPSX PPTM POTX PPT PPTX POT ODP POTM PPS POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOT-t PPSM-vé az Android alkalmazásokban" h2="DOT- PPSM-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOT-t PPSM-vé az Android alkalmazásokban vagy online" h2="DOT- PPSM-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ön Android-fejlesztő, aki dokumentumkonverziós funkciót szeretne hozzáadni az alkalmazásához? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) A fájlformátum-automatizálási könyvtárak segíthetnek automatizálni a dokumentumátalakítási folyamatot Android-alkalmazásaiban. A DOT-fájl PPSM-re konvertálásához először használhatja a dokumentummanipulációs API-t [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) a DOT-fájlformátum HTML-lé konvertálásához. Ezt követően a PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) használatával új prezentációt hozhat létre, HTML-tartalmat írhat bele, és más néven mentheti. PPSM. 

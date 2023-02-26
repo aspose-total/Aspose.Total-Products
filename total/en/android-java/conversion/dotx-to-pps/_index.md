@@ -1,6 +1,6 @@
 ---
 title: Convert DOTX to PPS in Android via Java
-description: DOTX to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint 
+description: DOTX to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/dotx-to-pps/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: ODP PPTM PPT POWERPOINT PPTX PPSM POT POTX POTM PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOTX to PPS in Android Apps" h2="DOTX to PPS conversion in your Android Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOTX to PPS in Android Apps or online" h2="DOTX to PPS conversion in your Android Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Are you an Android developer looking to add a document conversion feature to your application? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation libraries can help you automate the document conversion process in your Android applications. In order to convert DOTX file to PPS, you can first use document manipulation API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) to convert DOTX file format to HTML. After that by using PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), you can create a new Presentation, write HTML content in it, and save it as PPS. 

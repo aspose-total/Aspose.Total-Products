@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi FLATOPC sang PPTX trong Android qua Java
-description: Chuyển đổi FLATOPC sang PPTX trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint
+title: Chuyển đổi FLATOPC sang PPTX trong Android qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi FLATOPC sang PPTX trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTX PPTM POTM POWERPOINT ODP PPSM POT PPSX PPS PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi FLATOPC sang PPTX trong Ứng dụng Android" h2="Chuyển đổi FLATOPC sang PPTX trong Ứng dụng Android của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi FLATOPC sang PPTX trong Ứng dụng Android hoặc trực tuyến" h2="Chuyển đổi FLATOPC sang PPTX trong Ứng dụng Android hoặc trực tuyến của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn là nhà phát triển Android đang muốn thêm tính năng chuyển đổi tài liệu vào ứng dụng của mình? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Thư viện tự động hóa định dạng tệp có thể giúp bạn tự động hóa quá trình chuyển đổi tài liệu trong các ứng dụng Android của mình. Để chuyển đổi tệp FLATOPC sang PPTX, trước tiên bạn có thể sử dụng API thao tác tài liệu [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) để chuyển đổi định dạng tệp FLATOPC sang HTML. Sau đó, bằng cách sử dụng PowerPoint API [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), bạn có thể tạo một Bản trình bày mới, viết nội dung HTML trong đó và lưu nó dưới dạng PPTX. 

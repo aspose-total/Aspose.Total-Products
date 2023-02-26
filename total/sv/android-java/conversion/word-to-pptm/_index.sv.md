@@ -1,6 +1,6 @@
 ---
-title: Konvertera WORD till PPTM i Android via Java
-description: WORD till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint
+title: Konvertera WORD till PPTM i Android via Java eller med gratis Online Converter
+description: WORD till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POTM PPT POTX POWERPOINT PPTX PPSM PPSX ODP PPS POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera WORD till PPTM i Android-appar" h2="WORD till PPTM-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera WORD till PPTM i Android-appar eller online" h2="WORD till PPTM-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Är du en Android-utvecklare som vill lägga till en dokumentkonverteringsfunktion till din applikation? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Filformatsautomatiseringsbibliotek kan hjälpa dig att automatisera dokumentkonverteringsprocessen i dina Android-applikationer. För att konvertera WORD-fil till PPTM kan du först använda API för dokumentmanipulering [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) för att konvertera WORD-filformat till HTML. Därefter genom att använda PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), kan du skapa en ny presentation, skriva HTML-innehåll i den och spara den som PPTM. 

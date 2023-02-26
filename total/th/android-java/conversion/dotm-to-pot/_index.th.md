@@ -1,6 +1,6 @@
 ---
-title: แปลง DOTM เป็น POT ใน Android ผ่าน Java
-description: การแปลง DOTM เป็น POT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint
+title: แปลง DOTM เป็น POT ใน Android ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง DOTM เป็น POT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: ODP PPT PPSM POTM PPTM PPSX PPTX PPS POTX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DOTM เป็น POT ในแอพ Android" h2="การแปลง DOTM เป็น POT ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DOTM เป็น POT ในแอพ Android หรือทางออนไลน์" h2="การแปลง DOTM เป็น POT ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ DOTM เป็น POT ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ DOTM เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 

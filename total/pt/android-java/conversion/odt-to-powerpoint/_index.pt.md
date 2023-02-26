@@ -1,6 +1,6 @@
 ---
-title: Converter ODT para POWERPOINT no Android via Java
-description: Conversão de ODT para POWERPOINT em seus telefones Android sem usar o Microsoft Word do PowerPoint
+title: Converter ODT para POWERPOINT no Android via Java ou com o conversor online gratuito
+description: Conversão de ODT para POWERPOINT em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTM PPT POT POTX PPS ODP PPSX PPSM PPTM PPTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter ODT para POWERPOINT em aplicativos Android" h2="Conversão de ODT para POWERPOINT em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter ODT para POWERPOINT em aplicativos Android ou online" h2="Conversão de ODT para POWERPOINT em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de odtumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de odtumentos em seus aplicativos Android. Para converter o arquivo ODT para POWERPOINT, você pode primeiro usar a API de manipulação de odtumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo ODT para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como POWERPOINT. 

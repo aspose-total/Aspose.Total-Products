@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie WORDML in PPSX in Android über Java
-description: WORDML-zu-PPSX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint
+title: Konvertieren Sie WORDML in PPSX in Android über Java oder mit dem kostenlosen Online Converter
+description: WORDML-zu-PPSX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTX PPT PPSM POTX ODP POTM POT PPTM PPS POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORDML in PPSX in Android-Apps" h2="Umwandlung von WORDML in PPSX in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORDML in PPSX in Android-Apps oder online" h2="Umwandlung von WORDML in PPSX in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sind Sie ein Android-Entwickler und möchten Ihrer Anwendung eine Dokumentkonvertierungsfunktion hinzufügen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dateiformatautomatisierungsbibliotheken können Ihnen helfen, den Dokumentenkonvertierungsprozess in Ihren Android-Anwendungen zu automatisieren. Um die WORDML-Datei in PPSX zu konvertieren, können Sie zuerst die Dokumentbearbeitungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden, um das WORDML-Dateiformat in HTML zu konvertieren. Danach können Sie mithilfe der PowerPoint-API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie speichern als PPSX. 

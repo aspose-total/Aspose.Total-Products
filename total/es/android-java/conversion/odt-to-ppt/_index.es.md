@@ -1,6 +1,6 @@
 ---
-title: Convierta ODT a PPT en Android a través de Java
-description: Conversión de ODT a PPT en sus teléfonos Android sin usar Microsoft Word o PowerPoint
+title: Convierta ODT a PPT en Android a través de Java o con el convertidor en línea gratuito
+description: Conversión de ODT a PPT en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: ODP POTM POWERPOINT PPTX PPTM PPSM PPS PPSX POT POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta ODT a PPT en aplicaciones de Android" h2="Conversión de ODT a PPT en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta ODT a PPT en aplicaciones de Android o en línea" h2="Conversión de ODT a PPT en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ¿Es usted un desarrollador de Android que busca agregar una función de conversión de odtumentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de odtumentos en sus aplicaciones de Android. Para convertir un archivo ODT a PPT, primero puede usar la API de manipulación de odtumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo ODT a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 

@@ -1,6 +1,6 @@
 ---
-title: Converteer DOCX naar PPTX in Android via Java
-description: DOCX naar PPTX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOCX naar PPTX in Android via Java of met gratis Online Converter
+description: DOCX naar PPTX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT PPT POT ODP POTM PPSX PPTM PPSM POTX PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCX naar PPTX converteren in Android-apps" h2="DOCX naar PPTX-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCX naar PPTX converteren in Android-apps of online" h2="DOCX naar PPTX-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bent u een Android-ontwikkelaar en wilt u een functie voor documentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het documentconversieproces in uw Android-applicaties te automatiseren. Om het DOCX-bestand naar PPTX te converteren, kunt u eerst de documentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOCX-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPTX. 

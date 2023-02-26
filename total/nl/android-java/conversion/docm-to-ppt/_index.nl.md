@@ -1,6 +1,6 @@
 ---
-title: Converteer DOCM naar PPT in Android via Java
-description: DOCM naar PPT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer DOCM naar PPT in Android via Java of met gratis Online Converter
+description: DOCM naar PPT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: POWERPOINT ODP POTX PPS POTM PPSX POT PPTM PPTX PPSM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCM naar PPT converteren in Android-apps" h2="DOCM naar PPT-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCM naar PPT converteren in Android-apps of online" h2="DOCM naar PPT-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bent u een Android-ontwikkelaar en wilt u een functie voor docmumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het docmumentconversieproces in uw Android-applicaties te automatiseren. Om het DOCM-bestand naar PPT te converteren, kunt u eerst de docmumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOCM-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPT. 

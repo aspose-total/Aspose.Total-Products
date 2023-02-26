@@ -1,6 +1,6 @@
 ---
-title: Java ile Android'de DOC'yi PPS'ye dönüştürün
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOC'den PPS'ye dönüştürme
+title: Java ile Android'de DOC'yi PPS'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOC'den PPS'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPTX ODP POT PPSX PPTM PPT POTM POWERPOINT POTX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOC'yi PPS'ye Dönüştür" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda DOC'den PPS'ye dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOC'yi PPS'ye Dönüştür veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda DOC'den PPS'ye dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliştiricisi misiniz? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dosya Biçimi Otomasyonu kitaplıkları, Android uygulamalarınızda belge dönüştürme işlemini otomatikleştirmenize yardımcı olabilir. DOC dosyasını PPS'ye dönüştürmek için, önce DOC dosya biçimini HTML'ye dönüştürmek için belge işleme API'sini [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) kullanabilirsiniz. Bundan sonra PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve farklı olarak kaydedebilirsiniz. PPS. 

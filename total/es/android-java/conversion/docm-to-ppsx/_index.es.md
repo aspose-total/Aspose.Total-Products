@@ -1,6 +1,6 @@
 ---
-title: Convierta DOCM a PPSX en Android a través de Java
-description: Conversión de DOCM a PPSX en sus teléfonos Android sin usar Microsoft Word o PowerPoint
+title: Convierta DOCM a PPSX en Android a través de Java o con el convertidor en línea gratuito
+description: Conversión de DOCM a PPSX en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: ODP PPT PPTX POWERPOINT POTX PPS PPTM POT PPSM POTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta DOCM a PPSX en aplicaciones de Android" h2="Conversión de DOCM a PPSX en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta DOCM a PPSX en aplicaciones de Android o en línea" h2="Conversión de DOCM a PPSX en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ¿Es usted un desarrollador de Android que busca agregar una función de conversión de docmumentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de docmumentos en sus aplicaciones de Android. Para convertir un archivo DOCM a PPSX, primero puede usar la API de manipulación de docmumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo DOCM a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 

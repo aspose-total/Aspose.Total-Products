@@ -1,6 +1,6 @@
 ---
-title: แปลง WORD เป็น PPT ใน Android ผ่าน Java
-description: การแปลง WORD เป็น PPT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint
+title: แปลง WORD เป็น PPT ใน Android ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง WORD เป็น PPT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: POTX PPSM POTM PPS PPTM POT ODP PPTX POWERPOINT PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง WORD เป็น PPT ในแอพ Android" h2="การแปลง WORD เป็น PPT ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง WORD เป็น PPT ในแอพ Android หรือทางออนไลน์" h2="การแปลง WORD เป็น PPT ในแอปพลิเคชัน Android ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 คุณเป็นนักพัฒนา Android ที่ต้องการเพิ่มคุณสมบัติการแปลงเอกสารในแอปพลิเคชันของคุณหรือไม่? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้คุณทำกระบวนการแปลงเอกสารในแอปพลิเคชัน Android ได้โดยอัตโนมัติ ในการแปลงไฟล์ WORD เป็น PPT ขั้นแรก คุณสามารถใช้ API การจัดการเอกสาร [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) เพื่อแปลงรูปแบบไฟล์ WORD เป็น HTML ได้ หลังจากนั้นโดยใช้ PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น อปท. 

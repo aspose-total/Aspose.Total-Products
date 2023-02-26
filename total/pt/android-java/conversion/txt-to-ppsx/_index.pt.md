@@ -1,6 +1,6 @@
 ---
-title: Converter TXT para PPSX no Android via Java
-description: Conversão de TXT para PPSX em seus telefones Android sem usar o Microsoft Word do PowerPoint
+title: Converter TXT para PPSX no Android via Java ou com o conversor online gratuito
+description: Conversão de TXT para PPSX em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPSM POTX POWERPOINT PPTX POTM PPTM PPS PPT ODP POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter TXT para PPSX em aplicativos Android" h2="Conversão de TXT para PPSX em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter TXT para PPSX em aplicativos Android ou online" h2="Conversão de TXT para PPSX em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de txtumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de txtumentos em seus aplicativos Android. Para converter o arquivo TXT para PPSX, você pode primeiro usar a API de manipulação de txtumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo TXT para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPSX. 

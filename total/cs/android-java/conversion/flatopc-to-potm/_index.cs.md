@@ -1,6 +1,6 @@
 ---
-title: Převést FLATOPC na POTM v Androidu přes Java
-description: Převod FLATOPC na POTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint
+title: Převést FLATOPC na POTM v Androidu přes Java nebo pomocí bezplatného online převodníku
+description: Převod FLATOPC na POTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPSM PPTM POTX ODP PPT PPS POWERPOINT POT PPTX PPSX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte FLATOPC na POTM v aplikacích pro Android" h2="Převod FLATOPC na POTM ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte FLATOPC na POTM v aplikacích pro Android nebo online" h2="Převod FLATOPC na POTM ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Jste vývojář Android a chcete do své aplikace přidat funkci převodu dokumentů? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Knihovny Automatizace formátu souborů vám mohou pomoci automatizovat proces převodu dokumentů ve vašich aplikacích pro Android. Chcete-li převést soubor FLATOPC na POTM, můžete nejprve použít rozhraní API pro manipulaci s dokumenty [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) a převést formát souboru FLATOPC do HTML. Poté můžete pomocí PowerPoint API [Aspose.Slides pro Android Java](https://products.aspose.com/slides/android-java/) vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako POTM. 

@@ -1,6 +1,6 @@
 ---
-title: Converter DOTX para PPTM no Android via Java
-description: Conversão de DOTX para PPTM em seus telefones Android sem usar o Microsoft Word do PowerPoint
+title: Converter DOTX para PPTM no Android via Java ou com o conversor online gratuito
+description: Conversão de DOTX para PPTM em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POTX POT PPSX PPT POWERPOINT PPTX PPS ODP POTM PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOTX para PPTM em aplicativos Android" h2="Conversão de DOTX para PPTM em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOTX para PPTM em aplicativos Android ou online" h2="Conversão de DOTX para PPTM em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de dotxumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de dotxumentos em seus aplicativos Android. Para converter o arquivo DOTX para PPTM, você pode primeiro usar a API de manipulação de dotxumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOTX para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPTM. 

@@ -1,6 +1,6 @@
 ---
-title: Konvertera DOCM till PPSX i Android via Java
-description: DOCM till PPSX-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint
+title: Konvertera DOCM till PPSX i Android via Java eller med gratis Online Converter
+description: DOCM till PPSX-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: ODP PPT PPTX POWERPOINT POTX PPS PPTM POT PPSM POTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera DOCM till PPSX i Android-appar" h2="DOCM till PPSX-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera DOCM till PPSX i Android-appar eller online" h2="DOCM till PPSX-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Är du en Android-utvecklare som vill lägga till en dokumentkonverteringsfunktion till din applikation? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Filformatsautomatiseringsbibliotek kan hjälpa dig att automatisera dokumentkonverteringsprocessen i dina Android-applikationer. För att konvertera DOCM-fil till PPSX kan du först använda API för dokumentmanipulering [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) för att konvertera DOCM-filformat till HTML. Därefter genom att använda PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), kan du skapa en ny presentation, skriva HTML-innehåll i den och spara den som PPSX. 

@@ -1,6 +1,6 @@
 ---
-title: Converti OTT in PPTX in Android tramite Java
-description: Conversione da OTT a PPTX nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint
+title: Converti OTT in PPTX in Android tramite Java o con il convertitore online gratuito
+description: Conversione da OTT a PPTX nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POTM POWERPOINT PPSM PPTM POTX POT PPS ODP PPSX PPT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti OTT in PPTX nelle app Android" h2="Conversione da OTT a PPTX nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti OTT in PPTX nelle app Android o in linea" h2="Conversione da OTT a PPTX nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei ottumenti alla tua applicazione? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei ottumenti nelle tue applicazioni Android. Per convertire il file OTT in PPTX, puoi prima utilizzare l'API di manipolazione del ottumento [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) per convertire il formato del file OTT in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come PPTX. 

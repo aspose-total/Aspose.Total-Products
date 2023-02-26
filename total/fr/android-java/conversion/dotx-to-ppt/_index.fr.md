@@ -1,6 +1,6 @@
 ---
-title: Convertir DOTX en PPT dans Android via Java
-description: Conversion DOTX en PPT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint
+title: Convertir DOTX en PPT dans Android via Java ou avec le convertisseur en ligne gratuit
+description: Conversion DOTX en PPT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPSX PPTX PPSM ODP POTM PPS POT POTX PPTM POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DOTX en PPT dans les applications Android" h2="Conversion DOTX en PPT dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DOTX en PPT dans les applications Android ou en ligne" h2="Conversion DOTX en PPT dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de dotxuments à votre application ? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de dotxuments dans vos applications Android. Afin de convertir un fichier DOTX en PPT, vous pouvez d'abord utiliser l'API de manipulation de dotxument [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier DOTX en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPT. 

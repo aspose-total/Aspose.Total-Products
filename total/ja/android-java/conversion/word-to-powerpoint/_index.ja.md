@@ -1,6 +1,6 @@
 ---
-title: Javaを介してAndroidでWORDをPOWERPOINTに変換する
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDからPOWERPOINTに変換
+title: Javaを介してAndroidでWORDをPOWERPOINTに変換する または無料のオンライン コンバーターを使用
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDからPOWERPOINTに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POT POTX PPTM PPTX PPT POTM ODP PPS PPSX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリでWORDをPOWERPOINTに変換する" h2="Microsoft Word <sup>＆reg;</sup>またはPowerPointをインストールせずにAndroidアプリケーションでWORDからPOWERPOINTに変換" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリでWORDをPOWERPOINTに変換する またはオンライン" h2="Microsoft Word <sup>＆reg;</sup>またはPowerPointをインストールせずにAndroidアプリケーションでWORDからPOWERPOINTに変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 アプリケーションにドキュメント変換機能を追加しようとしているAndroid開発者ですか？ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)ファイル形式自動化ライブラリは、Androidアプリケーションでのドキュメント変換プロセスの自動化に役立ちます。 WORDファイルをPOWERPOINTに変換するには、最初にドキュメント操作API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用してWORDファイル形式をHTMLに変換できます。その後、PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、名前を付けて保存できます。 POWERPOINT。 

@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOTX σε PPT στο Android μέσω Java
-description: Μετατροπή DOTX σε PPT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint
+title: Μετατροπή DOTX σε PPT στο Android μέσω Java ή με δωρεάν Online Converter
+description: Μετατροπή DOTX σε PPT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPSX PPTX PPSM ODP POTM PPS POT POTX PPTM POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOTX σε PPT στις εφαρμογές Android" h2="Μετατροπή DOTX σε PPT στις Εφαρμογές σας Android χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOTX σε PPT στις εφαρμογές Android ή διαδικτυακά" h2="Μετατροπή DOTX σε PPT στις Εφαρμογές σας Android χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Είστε προγραμματιστής Android που θέλετε να προσθέσετε μια δυνατότητα μετατροπής εγγράφων στην εφαρμογή σας; [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Οι βιβλιοθήκες αυτοματισμού μορφοποίησης αρχείων μπορούν να σας βοηθήσουν να αυτοματοποιήσετε τη διαδικασία μετατροπής εγγράφων στις εφαρμογές σας Android. Για να μετατρέψετε το αρχείο DOTX σε PPT, μπορείτε πρώτα να χρησιμοποιήσετε το API χειρισμού εγγράφων [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) για να μετατρέψετε τη μορφή αρχείου DOTX σε HTML. Στη συνέχεια, χρησιμοποιώντας το PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), μπορείτε να δημιουργήσετε μια νέα Παρουσίαση, να γράψετε περιεχόμενο HTML σε αυτήν και να την αποθηκεύσετε ως PPT. 
