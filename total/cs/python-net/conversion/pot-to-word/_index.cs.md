@@ -1,6 +1,6 @@
 ---
-title: Převést POT na WORD v Pythonu
-description: Převod POT na WORD ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
+title: Převést POT na WORD v Pythonu nebo pomocí bezplatného online převodníku
+description: Převod POT na WORD ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte POT na WORD pomocí Pythonu" h2="Převod POT na WORD ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte POT na WORD pomocí Pythonu nebo online" h2="Převod POT na WORD ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

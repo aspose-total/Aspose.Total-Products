@@ -1,6 +1,6 @@
 ---
-title: Python'da POT'yi DOTM'e Dönüştür
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan POT'den DOTM'e dönüştürme 
+title: Python'da POT'yi DOTM'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan POT'den DOTM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python kullanarak POT'yi DOTM'e dönüştürün" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda POT'den DOTM'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Python kullanarak POT'yi DOTM'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda POT'den DOTM'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

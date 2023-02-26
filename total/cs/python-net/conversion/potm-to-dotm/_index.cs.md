@@ -1,6 +1,6 @@
 ---
-title: Převést POTM na DOTM v Pythonu
-description: Převod POTM na DOTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
+title: Převést POTM na DOTM v Pythonu nebo pomocí bezplatného online převodníku
+description: Převod POTM na DOTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte POTM na DOTM pomocí Pythonu" h2="Převod POTM na DOTM ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte POTM na DOTM pomocí Pythonu nebo online" h2="Převod POTM na DOTM ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

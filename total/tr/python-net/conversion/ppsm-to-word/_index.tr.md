@@ -1,6 +1,6 @@
 ---
-title: Python'da PPSM'yi WORD'e Dönüştür
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPSM'den WORD'e dönüştürme 
+title: Python'da PPSM'yi WORD'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPSM'den WORD'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python kullanarak PPSM'yi WORD'e dönüştürün" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda PPSM'den WORD'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Python kullanarak PPSM'yi WORD'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda PPSM'den WORD'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

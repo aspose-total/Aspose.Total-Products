@@ -1,6 +1,6 @@
 ---
-title: Converti POTM in DOT in Python
-description: Conversione da POTM a DOT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
+title: Converti POTM in DOT in Python o con il convertitore online gratuito
+description: Conversione da POTM a DOT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti POTM in DOT usando Python" h2="Conversione da POTM a DOT nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti POTM in DOT usando Python o in linea" h2="Conversione da POTM a DOT nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

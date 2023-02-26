@@ -1,6 +1,6 @@
 ---
-title: Konwertuj ODP na DOCM w Pythonie
-description: Konwersja ODP do DOCM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
+title: Konwertuj ODP na DOCM w Pythonie lub za pomocą bezpłatnego konwertera online
+description: Konwersja ODP do DOCM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj ODP na DOCM za pomocą Pythona" h2="Konwersja ODP do DOCM w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj ODP na DOCM za pomocą Pythona lub online" h2="Konwersja ODP do DOCM w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

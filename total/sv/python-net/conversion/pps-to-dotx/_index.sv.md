@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPS till DOTX i Python
-description: PPS till DOTX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
+title: Konvertera PPS till DOTX i Python eller med gratis Online Converter
+description: PPS till DOTX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera PPS till DOTX med Python" h2="PPS till DOTX-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera PPS till DOTX med Python eller online" h2="PPS till DOTX-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

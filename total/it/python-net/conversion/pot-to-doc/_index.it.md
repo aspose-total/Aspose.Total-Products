@@ -1,6 +1,6 @@
 ---
-title: Converti POT in DOC in Python
-description: Conversione da POT a DOC nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
+title: Converti POT in DOC in Python o con il convertitore online gratuito
+description: Conversione da POT a DOC nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti POT in DOC usando Python" h2="Conversione da POT a DOC nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti POT in DOC usando Python o in linea" h2="Conversione da POT a DOC nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

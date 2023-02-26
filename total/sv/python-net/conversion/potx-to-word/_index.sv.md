@@ -1,6 +1,6 @@
 ---
-title: Konvertera POTX till WORD i Python
-description: POTX till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint 
+title: Konvertera POTX till WORD i Python eller med gratis Online Converter
+description: POTX till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera POTX till WORD med Python" h2="POTX till WORD-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera POTX till WORD med Python eller online" h2="POTX till WORD-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

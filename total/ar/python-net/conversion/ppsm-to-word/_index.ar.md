@@ -1,6 +1,6 @@
 ---
-title: تحويل PPSM إلى WORD في Python
-description: تحويل PPSM إلى WORD في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
+title: تحويل PPSM إلى WORD في Python أو مع محول مجاني على الإنترنت
+description: تحويل PPSM إلى WORD في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل PPSM إلى WORD باستخدام Python" h2="تحويل PPSM إلى WORD في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل PPSM إلى WORD باستخدام Python أو عبر الإنترنت" h2="تحويل PPSM إلى WORD في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

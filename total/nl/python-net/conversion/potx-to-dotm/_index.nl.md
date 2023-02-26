@@ -1,6 +1,6 @@
 ---
-title: Converteer POTX naar DOTM in Python
-description: POTX naar DOTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer POTX naar DOTM in Python of met gratis Online Converter
+description: POTX naar DOTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer POTX naar DOTM met Python" h2="POTX naar DOTM-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer POTX naar DOTM met Python of online" h2="POTX naar DOTM-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

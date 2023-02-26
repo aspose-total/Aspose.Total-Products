@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPSX-t DOT-be Pythonban
-description: PPSX-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
+title: Konvertálja a PPSX-t DOT-be Pythonban vagy ingyenes online konverterrel
+description: PPSX-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSX-t DOT-be Python segítségével" h2="PPSX-ből DOT-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSX-t DOT-be Python segítségével vagy online" h2="PPSX-ből DOT-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

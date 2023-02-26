@@ -1,6 +1,6 @@
 ---
-title: Converter PPT para DOTM em Python
-description: Conversão de PPT para DOTM em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint 
+title: Converter PPT para DOTM em Python ou com o conversor online gratuito
+description: Conversão de PPT para DOTM em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPT para DOTM usando Python" h2="Conversão de PPT para DOTM em seus aplicativos Python sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPT para DOTM usando Python ou online" h2="Conversão de PPT para DOTM em seus aplicativos Python sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

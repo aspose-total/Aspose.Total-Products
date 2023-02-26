@@ -1,6 +1,6 @@
 ---
-title: Converteer PPT naar RTF in Python
-description: PPT naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer PPT naar RTF in Python of met gratis Online Converter
+description: PPT naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar RTF met Python" h2="PPT naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar RTF met Python of online" h2="PPT naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

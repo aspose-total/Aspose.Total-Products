@@ -1,6 +1,6 @@
 ---
-title: Convertir POTX a DOC en Python
-description: Conversión de POTX a DOC en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint 
+title: Convertir POTX a DOC en Python o con el convertidor en línea gratuito
+description: Conversión de POTX a DOC en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierte POTX a DOC usando Python" h2="Conversión de POTX a DOC en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierte POTX a DOC usando Python o en línea" h2="Conversión de POTX a DOC en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

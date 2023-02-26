@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPSM na DOT w Pythonie
-description: Konwersja PPSM do DOT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
+title: Konwertuj PPSM na DOT w Pythonie lub za pomocą bezpłatnego konwertera online
+description: Konwersja PPSM do DOT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj PPSM na DOT za pomocą Pythona" h2="Konwersja PPSM do DOT w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj PPSM na DOT za pomocą Pythona lub online" h2="Konwersja PPSM do DOT w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

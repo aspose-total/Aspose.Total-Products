@@ -1,6 +1,6 @@
 ---
-title: Converteer POWERPOINT naar WORD in Python
-description: POWERPOINT naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer POWERPOINT naar WORD in Python of met gratis Online Converter
+description: POWERPOINT naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer POWERPOINT naar WORD met Python" h2="POWERPOINT naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer POWERPOINT naar WORD met Python of online" h2="POWERPOINT naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

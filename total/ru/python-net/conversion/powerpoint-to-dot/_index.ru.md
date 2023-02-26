@@ -1,6 +1,6 @@
 ---
-title: Преобразование POWERPOINT в DOT в Python
-description: Преобразование POWERPOINT в DOT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
+title: Преобразование POWERPOINT в DOT в Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование POWERPOINT в DOT в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование POWERPOINT в DOT с помощью Python" h2="Преобразование POWERPOINT в DOT в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование POWERPOINT в DOT с помощью Python или онлайн" h2="Преобразование POWERPOINT в DOT в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

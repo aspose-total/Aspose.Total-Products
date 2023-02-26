@@ -1,6 +1,6 @@
 ---
-title: Convertir PPT en WORD en Python
-description: Conversion PPT en WORD dans vos applications Python sans utiliser Microsoft Word ou PowerPoint 
+title: Convertir PPT en WORD en Python ou avec le convertisseur en ligne gratuit
+description: Conversion PPT en WORD dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPT en WORD en utilisant Python" h2="Conversion PPT en WORD dans vos applications Python sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPT en WORD en utilisant Python ou en ligne" h2="Conversion PPT en WORD dans vos applications Python sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: แปลง PPSX เป็น WORD ใน Python
-description: การแปลง PPSX เป็น WORD ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint 
+title: แปลง PPSX เป็น WORD ใน Python หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง PPSX เป็น WORD ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง PPSX เป็น WORD โดยใช้ Python" h2="การแปลง PPSX เป็น WORD ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง PPSX เป็น WORD โดยใช้ Python หรือทางออนไลน์" h2="การแปลง PPSX เป็น WORD ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

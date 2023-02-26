@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POTM in DOCX in Python
-description: Konvertierung von POTM in DOCX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
+title: Konvertieren Sie POTM in DOCX in Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von POTM in DOCX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTM in DOCX mit Python" h2="Konvertierung von POTM in DOCX in Ihren Python-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTM in DOCX mit Python oder online" h2="Konvertierung von POTM in DOCX in Ihren Python-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

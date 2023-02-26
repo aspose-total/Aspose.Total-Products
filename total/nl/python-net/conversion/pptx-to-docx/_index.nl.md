@@ -1,6 +1,6 @@
 ---
-title: Converteer PPTX naar DOCX in Python
-description: PPTX naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer PPTX naar DOCX in Python of met gratis Online Converter
+description: PPTX naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPTX naar DOCX met Python" h2="PPTX naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPTX naar DOCX met Python of online" h2="PPTX naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

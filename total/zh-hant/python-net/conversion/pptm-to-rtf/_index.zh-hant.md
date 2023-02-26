@@ -1,6 +1,6 @@
 ---
-title: 在 Python 中將 PPTM 轉換為 RTF
-description: 在 Python 應用程序中將 PPTM 轉換為 RTF，而無需使用 Microsoft Word 或 PowerPoint 
+title: 在 Python 中將 PPTM 轉換為 RTF 或使用免費的在線轉換器
+description: 在 Python 應用程序中將 PPTM 轉換為 RTF，而無需使用 Microsoft Word 或 PowerPoint 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Python 將 PPTM 轉換為 RTF" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 應用程序中將 PPTM 轉換為 RTF" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 將 PPTM 轉換為 RTF 或在線" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 應用程序中將 PPTM 轉換為 RTF" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPTX в WORD в Python
-description: Преобразование PPTX в WORD в ваших приложениях Python без использования Microsoft Word или PowerPoint 
+title: Преобразование PPTX в WORD в Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPTX в WORD в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование PPTX в WORD с помощью Python" h2="Преобразование PPTX в WORD в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование PPTX в WORD с помощью Python или онлайн" h2="Преобразование PPTX в WORD в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

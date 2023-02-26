@@ -1,6 +1,6 @@
 ---
-title: पायथन में बीएमपी को जीआईएफ में बदलें
-description: माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना आपके पायथन अनुप्रयोगों में बीएमपी से जीआईएफ रूपांतरण 
+title: पायथन में बीएमपी को जीआईएफ में बदलें या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: माइक्रोसॉफ्ट वर्ड या पावरपॉइंट का उपयोग किए बिना आपके पायथन अनुप्रयोगों में बीएमपी से जीआईएफ रूपांतरण या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Python अनुप्रयोगों में PPS से WORD रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें या ऑनलाइन" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Python अनुप्रयोगों में PPS से WORD रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

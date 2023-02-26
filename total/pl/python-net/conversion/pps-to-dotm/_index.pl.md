@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPS na DOTM w Pythonie
-description: Konwersja PPS do DOTM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
+title: Konwertuj PPS na DOTM w Pythonie lub za pomocą bezpłatnego konwertera online
+description: Konwersja PPS do DOTM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj PPS na DOTM za pomocą Pythona" h2="Konwersja PPS do DOTM w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj PPS na DOTM za pomocą Pythona lub online" h2="Konwersja PPS do DOTM w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

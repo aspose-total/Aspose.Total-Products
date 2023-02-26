@@ -1,6 +1,6 @@
 ---
-title: Konversi PPTX ke DOT dengan Python
-description: Konversi PPTX ke DOT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
+title: Konversi PPTX ke DOT dengan Python atau dengan Konverter Online gratis
+description: Konversi PPTX ke DOT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi PPTX ke DOT menggunakan Python" h2="Konversi PPTX ke DOT di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi PPTX ke DOT menggunakan Python atau daring" h2="Konversi PPTX ke DOT di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
