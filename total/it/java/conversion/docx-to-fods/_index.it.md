@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire DOCX in FODS
-description: Converti DOCX in FODS tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+description: Converti DOCX in FODS tramite Java o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/docx-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti DOCX in FODS tramite Java" h2="API Java in loco per convertire DOCX in FODS senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti DOCX in FODS tramite Java o in linea" h2="API Java in loco per convertire DOCX in FODS senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversione di DOCX in FODS tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare DOCX in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

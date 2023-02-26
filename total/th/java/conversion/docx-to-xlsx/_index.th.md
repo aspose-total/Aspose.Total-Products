@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง DOCX เป็น XLSX
-description: แปลง DOCX เป็น XLSX ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+description: แปลง DOCX เป็น XLSX ผ่าน Java หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/docx-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSX SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOCX เป็น XLSX ผ่าน Java" h2="บน Premise Java API เพื่อแปลง DOCX เป็น XLSX โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOCX เป็น XLSX ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API เพื่อแปลง DOCX เป็น XLSX โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 การแปลง DOCX เป็น XLSX ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) เป็นกระบวนการสองขั้นตอนง่ายๆ เมื่อใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Java](https://products.aspose.com/words/java/) คุณจะส่งออก DOCX เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณจะแปลง HTML เป็น XLSX ได้
 {{% /blocks/products/pf/feature-page-summary  %}}

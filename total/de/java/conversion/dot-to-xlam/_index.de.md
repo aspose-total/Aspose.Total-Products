@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von DOT in XLAM
-description: Konvertieren Sie DOT über Java in XLAM, ohne Microsoft Word oder Microsoft Excel zu verwenden
+description: Konvertieren Sie DOT über Java in XLAM oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/dot-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOT über Java in XLAM" h2="Lokale Java-API zum Konvertieren von DOT in XLAM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOT über Java in XLAM oder online" h2="Lokale Java-API zum Konvertieren von DOT in XLAM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Das Konvertieren von DOT in XLAM über [Aspose.Total for Java](https://products.aspose.com/total/java/) ist ein einfacher zweistufiger Prozess. Durch die Verwendung der funktionsreichen Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) können Sie DOT in HTML exportieren. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in XLAM konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

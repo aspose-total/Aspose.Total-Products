@@ -1,6 +1,6 @@
 ---
 title: Java API a WORDML konvertálásához SXC-vé
-description: A WORDML konvertálása SXC-vé Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+description: A WORDML konvertálása SXC-vé Java segítségével vagy online Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/wordml-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: SXC XLSX XLSB XLT FODS XLAM XLSM XLTM DIF XLTX TSV EXCEL XLS ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A WORDML konvertálása SXC-vé Java segítségével" h2="On Premise Java API a WORDML konvertálásához SXC-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A WORDML konvertálása SXC-vé Java segítségével vagy online" h2="On Premise Java API a WORDML konvertálásához SXC-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A WORDML konvertálása SXC-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával WORDML-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t SXC-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

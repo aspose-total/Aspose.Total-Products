@@ -1,6 +1,6 @@
 ---
 title: Java API a RTF konvertálásához EXCEL-vé
-description: A RTF konvertálása EXCEL-vé Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+description: A RTF konvertálása EXCEL-vé Java segítségével vagy online Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/rtf-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLS EXCEL XLSM XLT ODS XLSX XLTX SXC TSV DIF XLAM XLTM XLSB FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A RTF konvertálása EXCEL-vé Java segítségével" h2="On Premise Java API a RTF konvertálásához EXCEL-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A RTF konvertálása EXCEL-vé Java segítségével vagy online" h2="On Premise Java API a RTF konvertálásához EXCEL-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A RTF konvertálása EXCEL-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával RTF-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t EXCEL-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

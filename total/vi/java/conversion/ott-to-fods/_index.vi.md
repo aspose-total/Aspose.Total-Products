@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi OTT sang FODS
-description: Chuyển đổi OTT sang FODS qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
+description: Chuyển đổi OTT sang FODS qua Java hoặc trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/ott-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi OTT sang FODS qua Java" h2="Trên API Premise Java để chuyển đổi OTT sang FODS mà không cần sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi OTT sang FODS qua Java hoặc trực tuyến" h2="Trên API Premise Java để chuyển đổi OTT sang FODS mà không cần sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Chuyển đổi OTT sang FODS qua [Aspose.Total for Java](https://products.aspose.com/total/java/) là một quy trình đơn giản gồm hai bước. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), bạn có thể xuất OTT sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

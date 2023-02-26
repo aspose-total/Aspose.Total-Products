@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง DOCM เป็น EXCEL
-description: แปลง DOCM เป็น EXCEL ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+description: แปลง DOCM เป็น EXCEL ผ่าน Java หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/docm-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOCM เป็น EXCEL ผ่าน Java" h2="บน Premise Java API เพื่อแปลง DOCM เป็น EXCEL โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOCM เป็น EXCEL ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API เพื่อแปลง DOCM เป็น EXCEL โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 การแปลง DOCM เป็น EXCEL ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) เป็นกระบวนการสองขั้นตอนง่ายๆ เมื่อใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Java](https://products.aspose.com/words/java/) คุณจะส่งออก DOCM เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณจะแปลง HTML เป็น EXCEL ได้
 {{% /blocks/products/pf/feature-page-summary  %}}

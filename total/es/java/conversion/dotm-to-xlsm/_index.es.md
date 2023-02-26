@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir DOTM a XLSM
-description: Convierta DOTM a XLSM a través de Java sin usar Microsoft Word o Microsoft Excel
+description: Convierta DOTM a XLSM a través de Java o en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/dotm-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: TSV XLAM SXC XLSM EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta DOTM a XLSM a través de Java" h2="API de Java local para convertir DOTM a XLSM sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta DOTM a XLSM a través de Java o en línea" h2="API de Java local para convertir DOTM a XLSM sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Convertir DOTM a XLSM a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de dotmumentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar DOTM a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

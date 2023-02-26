@@ -1,6 +1,6 @@
 ---
 title: Java API om DOTX naar XLTM te converteren
-description: Converteer DOTX naar XLTM via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+description: Converteer DOTX naar XLTM via Java of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/dotx-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOTX naar XLTM via Java" h2="On Premise Java API om DOTX naar XLTM te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOTX naar XLTM via Java of online" h2="On Premise Java API om DOTX naar XLTM te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Het converteren van DOTX naar XLTM via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor Documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u DOTX naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLTM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

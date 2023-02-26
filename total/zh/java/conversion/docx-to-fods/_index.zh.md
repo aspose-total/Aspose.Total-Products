@@ -1,6 +1,6 @@
 ---
 title: Java API 将 DOCX 转换为 FODS
-description: 通过 Java 将 DOCX 转换为 FODS，而不使用 Microsoft Word 或 Microsoft Excel
+description: 通过 Java 将 DOCX 转换为 FODS 或在线，而不使用 Microsoft Word 或 Microsoft Excel 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/java/conversion/docx-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 DOCX 转换为 FODS" h2="无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 即可将 DOCX 转换为 FODS 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 DOCX 转换为 FODS 或在线" h2="无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 即可将 DOCX 转换为 FODS 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将 DOCX 转换为 FODS 是一个简单的两步过程。通过使用功能丰富的文档操作和转换 API [Aspose.Words for Java](https://products.aspose.com/words/java/)，您可以将 DOCX 导出为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)，您可以将 HTML 转换为 FODS。
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir MOBI en XLTX
-description: Convertir MOBI en XLTX via Java sans utiliser Microsoft Word ou Microsoft Excel
+description: Convertir MOBI en XLTX via Java ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/mobi-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLTX XLAM XLSB DIF EXCEL FODS XLS XLTM XLT XLSX SXC TSV XLSM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir MOBI en XLTX via Java" h2="API Java sur site pour convertir MOBI en XLTX sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir MOBI en XLTX via Java ou en ligne" h2="API Java sur site pour convertir MOBI en XLTX sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversion de MOBI en XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de mobiuments riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter MOBI vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von RTF in XLTM
-description: Konvertieren Sie RTF über Java in XLTM, ohne Microsoft Word oder Microsoft Excel zu verwenden
+description: Konvertieren Sie RTF über Java in XLTM oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/rtf-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSX XLT SXC FODS XLSM EXCEL XLSB XLS XLTM XLAM TSV ODS DIF XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie RTF über Java in XLTM" h2="Lokale Java-API zum Konvertieren von RTF in XLTM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie RTF über Java in XLTM oder online" h2="Lokale Java-API zum Konvertieren von RTF in XLTM, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Das Konvertieren von RTF in XLTM über [Aspose.Total for Java](https://products.aspose.com/total/java/) ist ein einfacher zweistufiger Prozess. Durch die Verwendung der funktionsreichen Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) können Sie RTF in HTML exportieren. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in XLTM konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

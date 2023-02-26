@@ -1,6 +1,6 @@
 ---
 title: Java API to Convert OTT to XLSX
-description: Convert OTT to XLSX via Java without using using Microsoft Word or Microsoft Excel
+description: Convert OTT to XLSX via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/ott-to-xlsx/
 family: total
 platformtag: java
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: EXCEL XLT DIF XLSM XLTM FODS ODS XLSB XLTX CSV XLAM SXC XLS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert OTT to XLSX via Java" h2="On Premise Java API to convert OTT to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert OTT to XLSX via Java or online" h2="On Premise Java API to convert OTT to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  Converting OTT to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export OTT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.

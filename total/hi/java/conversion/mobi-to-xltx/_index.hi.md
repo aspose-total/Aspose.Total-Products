@@ -1,6 +1,6 @@
 ---
 title: डीओसी को सीएसवी में बदलने के लिए जावा एपीआई
-description: माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना जावा के माध्यम से डीओसी को सीएसवी में कनवर्ट करें
+description: माइक्रोसॉफ्ट वर्ड या माइक्रोसॉफ्ट एक्सेल का उपयोग किए बिना जावा के माध्यम से डीओसी को सीएसवी में कनवर्ट करें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। या मुफ्त ऑनलाइन कन्वर्टर के साथ
 url_ignore: /hi/java/conversion/mobi-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLTX XLAM XLSB DIF EXCEL FODS XLS XLTM XLT XLSX SXC TSV XLSM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से MOBI को XLTX में बदलें" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना MOBI को XLTX में कनवर्ट करने के लिए Premise Java API पर" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से MOBI को XLTX में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना MOBI को XLTX में कनवर्ट करने के लिए Premise Java API पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) के माध्यम से MOBI को XLTX में कनवर्ट करना एक आसान दो चरणों वाली प्रक्रिया है। सुविधा संपन्न, दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके, आप HTML को MOBI निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) का उपयोग करके, आप HTML को XLTX में बदल सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}

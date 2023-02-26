@@ -1,6 +1,6 @@
 ---
 title: Java API 将 ODT 转换为 XLAM
-description: 通过 Java 将 ODT 转换为 XLAM，而不使用 Microsoft Word 或 Microsoft Excel
+description: 通过 Java 将 ODT 转换为 XLAM 或在线，而不使用 Microsoft Word 或 Microsoft Excel 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/java/conversion/odt-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: DIF XLSM XLSX EXCEL SXC TSV FODS XLAM ODS XLSB XLTM XLT XLS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 ODT 转换为 XLAM" h2="无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 即可将 ODT 转换为 XLAM 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 ODT 转换为 XLAM 或在线" h2="无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 即可将 ODT 转换为 XLAM 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将 ODT 转换为 XLAM 是一个简单的两步过程。通过使用功能丰富的文档操作和转换 API [Aspose.Words for Java](https://products.aspose.com/words/java/)，您可以将 ODT 导出为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)，您可以将 HTML 转换为 XLAM。
 {{% /blocks/products/pf/feature-page-summary  %}}

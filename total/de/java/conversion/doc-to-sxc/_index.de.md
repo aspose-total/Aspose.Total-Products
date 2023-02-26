@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von DOC in SXC
-description: Konvertieren Sie DOC über Java in SXC, ohne Microsoft Word oder Microsoft Excel zu verwenden
+description: Konvertieren Sie DOC über Java in SXC oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/doc-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOC über Java in SXC" h2="Lokale Java-API zum Konvertieren von DOC in SXC, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie DOC über Java in SXC oder online" h2="Lokale Java-API zum Konvertieren von DOC in SXC, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Das Konvertieren von DOC in SXC über [Aspose.Total for Java](https://products.aspose.com/total/java/) ist ein einfacher zweistufiger Prozess. Durch die Verwendung der funktionsreichen Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) können Sie DOC in HTML exportieren. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in SXC konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

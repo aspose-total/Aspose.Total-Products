@@ -1,6 +1,6 @@
 ---
 title: Java API om RTF naar XLS te converteren
-description: Converteer RTF naar XLS via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+description: Converteer RTF naar XLS via Java of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/rtf-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: TSV XLSM DIF XLTM SXC XLT XLS EXCEL FODS XLSB XLTX XLAM ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer RTF naar XLS via Java" h2="On Premise Java API om RTF naar XLS te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer RTF naar XLS via Java of online" h2="On Premise Java API om RTF naar XLS te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Het converteren van RTF naar XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor Documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u RTF naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLS converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

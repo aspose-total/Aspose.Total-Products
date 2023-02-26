@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOCX do SXC
-description: Převeďte DOCX na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte DOCX na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/docx-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOCX na SXC přes Java" h2="On Premise Java API pro převod DOCX na SXC bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOCX na SXC přes Java nebo online" h2="On Premise Java API pro převod DOCX na SXC bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod DOCX na SXC prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOCX do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}

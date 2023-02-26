@@ -1,6 +1,6 @@
 ---
 title: API Java para converter DOCM para XLT
-description: Converta DOCM para XLT via Java sem usar o Microsoft Word ou o Microsoft Excel
+description: Converta DOCM para XLT via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/docm-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLTM XLT XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOCM para XLT via Java" h2="API Java no local para converter DOCM para XLT sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOCM para XLT via Java ou online" h2="API Java no local para converter DOCM para XLT sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter DOCM para XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documents rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOCM para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

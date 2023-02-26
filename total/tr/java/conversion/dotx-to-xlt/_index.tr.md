@@ -1,6 +1,6 @@
 ---
 title: DOTX'yi XLT'ye Dönüştürmek için Java API
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOTX'yi XLT'ye dönüştürün
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOTX'yi XLT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/dotx-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLAM ODS TSV XLT FODS XLT DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile DOTX'yi XLT'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOTX'yi XLT'ye dönüştürmek için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile DOTX'yi XLT'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOTX'yi XLT'ye dönüştürmek için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla DOTX'yi XLT'ye dönüştürmek, iki adımlı basit bir işlemdir. Zengin özelliklere sahip, belge işleme ve dönüştürme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak DOTX'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi XLT'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

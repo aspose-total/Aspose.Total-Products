@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir WORD a TSV
-description: Convierta WORD a TSV a través de Java sin usar Microsoft Word o Microsoft Excel
+description: Convierta WORD a TSV a través de Java o en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/word-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC TSV XLSX DIF XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta WORD a TSV a través de Java" h2="API de Java local para convertir WORD a TSV sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta WORD a TSV a través de Java o en línea" h2="API de Java local para convertir WORD a TSV sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Convertir WORD a TSV a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de documentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar WORD a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

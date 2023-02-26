@@ -1,6 +1,6 @@
 ---
 title: Java API a DOT konvertálásához XLAM-vé
-description: A DOT konvertálása XLAM-vé Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+description: A DOT konvertálása XLAM-vé Java segítségével vagy online Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/dot-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A DOT konvertálása XLAM-vé Java segítségével" h2="On Premise Java API a DOT konvertálásához XLAM-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A DOT konvertálása XLAM-vé Java segítségével vagy online" h2="On Premise Java API a DOT konvertálásához XLAM-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A DOT konvertálása XLAM-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával DOT-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLAM-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

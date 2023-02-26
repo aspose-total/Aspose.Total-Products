@@ -1,6 +1,6 @@
 ---
 title: Java API to Convert WORDML to XLT
-description: Convert WORDML to XLT via Java without using using Microsoft Word or Microsoft Excel
+description: Convert WORDML to XLT via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/wordml-to-xlt/
 family: total
 platformtag: java
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV ODS EXCEL XLSM XLAM CSV XLTM XLTX DIF XLS XLSB SXC XLSX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert WORDML to XLT via Java" h2="On Premise Java API to convert WORDML to XLT without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert WORDML to XLT via Java or online" h2="On Premise Java API to convert WORDML to XLT without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  Converting WORDML to XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export WORDML to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLT.

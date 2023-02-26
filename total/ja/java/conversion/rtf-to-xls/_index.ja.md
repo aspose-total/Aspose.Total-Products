@@ -1,6 +1,6 @@
 ---
 title: RTFをXLSに変換するJavaAPI
-description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でRTFをXLSに変換する
+description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でRTFをXLSに変換する またはオンライン またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/rtf-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: TSV XLSM DIF XLTM SXC XLT XLS EXCEL FODS XLSB XLTX XLAM ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でRTFをXLSに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにRTFをXLSに変換する" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でRTFをXLSに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにRTFをXLSに変換する" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を介してRTFをXLSに変換するのは、単純な2ステップのプロセスです。機能豊富なドキュメント操作および変換API[Aspose.Wordsfor Java](https://products.aspose.com/words/java/)を使用することにより、RTFをHTMLにエクスポートできます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをXLSに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

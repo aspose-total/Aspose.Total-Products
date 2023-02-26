@@ -1,6 +1,6 @@
 ---
 title: API Java para converter MOBI para XLAM
-description: Converta MOBI para XLAM via Java sem usar o Microsoft Word ou o Microsoft Excel
+description: Converta MOBI para XLAM via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/mobi-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: SXC DIF XLT EXCEL XLTX XLSM XLAM XLTM ODS FODS XLSX XLSB TSV XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter MOBI para XLAM via Java" h2="API Java no local para converter MOBI para XLAM sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter MOBI para XLAM via Java ou online" h2="API Java no local para converter MOBI para XLAM sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter MOBI para XLAM via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de mobiumentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar MOBI para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOCM till XLSX
-description: Konvertera DOCM till XLSX via Java utan att använda Microsoft Word eller Microsoft Excel
+description: Konvertera DOCM till XLSX via Java eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/docm-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM XLSX XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera DOCM till XLSX via Java" h2="On Premise Java API för att konvertera DOCM till XLSX utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera DOCM till XLSX via Java eller online" h2="On Premise Java API för att konvertera DOCM till XLSX utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Att konvertera DOCM till XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) är en enkel process i två steg. Genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Java](https://products.aspose.com/words/java/), kan du exportera DOCM till HTML. Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}

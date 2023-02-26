@@ -1,6 +1,6 @@
 ---
 title: API Java para converter DOCX para ODS
-description: Converta DOCX para ODS via Java sem usar o Microsoft Word ou o Microsoft Excel
+description: Converta DOCX para ODS via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/docx-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOCX para ODS via Java" h2="API Java no local para converter DOCX para ODS sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOCX para ODS via Java ou online" h2="API Java no local para converter DOCX para ODS sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter DOCX para ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOCX para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

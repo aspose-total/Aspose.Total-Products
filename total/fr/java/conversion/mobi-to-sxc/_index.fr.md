@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir MOBI en SXC
-description: Convertir MOBI en SXC via Java sans utiliser Microsoft Word ou Microsoft Excel
+description: Convertir MOBI en SXC via Java ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/mobi-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: SXC ODS XLTM DIF TSV XLAM FODS EXCEL XLSX XLT XLTX XLSB XLS XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir MOBI en SXC via Java" h2="API Java sur site pour convertir MOBI en SXC sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir MOBI en SXC via Java ou en ligne" h2="API Java sur site pour convertir MOBI en SXC sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversion de MOBI en SXC via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de mobiuments riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter MOBI vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}

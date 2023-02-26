@@ -1,6 +1,6 @@
 ---
 title: DOC'yi FODS'ye Dönüştürmek için Java API
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOC'yi FODS'ye dönüştürün
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOC'yi FODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/doc-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: SXC XLT EXCEL XLTM XLSB TSV XLTX XLSM XLS XLSX DIF FODS XLAM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile DOC'yi FODS'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi FODS'ye dönüştürmek için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile DOC'yi FODS'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi FODS'ye dönüştürmek için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla DOC'yi FODS'ye dönüştürmek, iki adımlı basit bir işlemdir. Zengin özelliklere sahip, belge işleme ve dönüştürme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak DOC'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi FODS'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

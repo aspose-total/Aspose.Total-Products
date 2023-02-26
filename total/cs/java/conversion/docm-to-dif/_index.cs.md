@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOCM do DIF
-description: Převeďte DOCM na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte DOCM na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/docm-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM DIF ODS EXCEL XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOCM na DIF přes Java" h2="On Premise Java API pro převod DOCM na DIF bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOCM na DIF přes Java nebo online" h2="On Premise Java API pro převod DOCM na DIF bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod DOCM na DIF prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOCM do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod MOBI do EXCEL
-description: Převeďte MOBI na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte MOBI na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/mobi-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM DIF FODS XLTX SXC TSV XLSB XLAM XLSX XLS XLT XLSM EXCEL ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést MOBI na EXCEL přes Java" h2="On Premise Java API pro převod MOBI na EXCEL bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést MOBI na EXCEL přes Java nebo online" h2="On Premise Java API pro převod MOBI na EXCEL bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod MOBI na EXCEL prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat MOBI do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}

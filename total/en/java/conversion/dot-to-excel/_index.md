@@ -1,6 +1,6 @@
 ---
-title: Convert DOT to EXCEL via Java
-description: Convert DOT to EXCEL via Java without using using Microsoft Word or Microsoft Excel
+title: Convert DOT to EXCEL via Java or online
+description: Convert DOT to EXCEL via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/dot-to-excel/
 family: total
 platformtag: java
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOT to EXCEL via Java" h2="On Premise Java API to convert DOT to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOT to EXCEL via Java or online" h2="On Premise Java API to convert DOT to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can converting DOT to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOT to EXCEL via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOT to EXCEL via Java or online" %}}
 1. Open DOT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOT to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class

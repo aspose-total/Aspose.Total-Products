@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod MOBI do CSV
-description: Převeďte MOBI na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte MOBI na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/mobi-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: FODS XLSB XLS XLAM EXCEL XLSX ODS TSV SXC DIF XLTX XLTM XLSM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést MOBI na CSV přes Java" h2="On Premise Java API pro převod MOBI na CSV bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést MOBI na CSV přes Java nebo online" h2="On Premise Java API pro převod MOBI na CSV bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod MOBI na CSV prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat MOBI do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

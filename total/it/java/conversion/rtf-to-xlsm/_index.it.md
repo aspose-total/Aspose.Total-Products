@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire RTF in XLSM
-description: Converti RTF in XLSM tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+description: Converti RTF in XLSM tramite Java o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/rtf-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLAM XLSM ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti RTF in XLSM tramite Java" h2="API Java in loco per convertire RTF in XLSM senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti RTF in XLSM tramite Java o in linea" h2="API Java in loco per convertire RTF in XLSM senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversione di RTF in XLSM tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei Documenti ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare RTF in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

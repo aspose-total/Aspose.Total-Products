@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do XLAM
-description: Převeďte DOC na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte DOC na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/doc-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSX XLTX EXCEL SXC XLT XLAM DIF TSV XLS ODS XLTM XLSM XLSB FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOC na XLAM přes Java" h2="On Premise Java API pro převod DOC na XLAM bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOC na XLAM přes Java nebo online" h2="On Premise Java API pro převod DOC na XLAM bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod DOC na XLAM prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOC do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

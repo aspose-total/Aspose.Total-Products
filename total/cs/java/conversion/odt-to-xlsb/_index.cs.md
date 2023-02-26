@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod ODT do XLSB
-description: Převeďte ODT na XLSB přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte ODT na XLSB přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/odt-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLSB TSV XLS EXCEL DIF XLSX FODS SXC XLT XLAM ODS XLSM XLTX XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést ODT na XLSB přes Java" h2="On Premise Java API pro převod ODT na XLSB bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést ODT na XLSB přes Java nebo online" h2="On Premise Java API pro převod ODT na XLSB bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod ODT na XLSB prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat ODT do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

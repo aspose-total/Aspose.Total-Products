@@ -1,6 +1,6 @@
 ---
 title: RTF를 XLT로 변환하는 Java API
-description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 RTF를 XLT로 변환
+description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 RTF를 XLT로 변환 또는 온라인 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오. 또는 무료 온라인 변환기 사용
 url_ignore: /ko/java/conversion/rtf-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java를 통해 RTF를 XLT로 변환" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 RTF를 XLT로 변환하는 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java를 통해 RTF를 XLT로 변환 또는 온라인" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 RTF를 XLT로 변환하는 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)를 통해 RTF를 XLT로 변환하는 것은 간단한 2단계 프로세스입니다. 기능이 풍부한 문서 조작 및 변환 API [Aspose.Words for Java](https://products.aspose.com/words/java/)를 사용하여 RTF를 HTML로 내보낼 수 있습니다. 그 후 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)를 사용하여 HTML을 XLT로 변환할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}

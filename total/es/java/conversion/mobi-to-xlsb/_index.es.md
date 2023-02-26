@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir MOBI a XLSB
-description: Convierta MOBI a XLSB a través de Java sin usar Microsoft Word o Microsoft Excel
+description: Convierta MOBI a XLSB a través de Java o en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/mobi-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLSB XLSX TSV XLAM XLT XLSM SXC XLTX XLS FODS ODS XLTM DIF EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta MOBI a XLSB a través de Java" h2="API de Java local para convertir MOBI a XLSB sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta MOBI a XLSB a través de Java o en línea" h2="API de Java local para convertir MOBI a XLSB sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Convertir MOBI a XLSB a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de mobiumentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar MOBI a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

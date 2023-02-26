@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOTX do XLTX
-description: Převeďte DOTX na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte DOTX na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/dotx-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLAM ODS TSV XLT FODS XLTX DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOTX na XLTX přes Java" h2="On Premise Java API pro převod DOTX na XLTX bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOTX na XLTX přes Java nebo online" h2="On Premise Java API pro převod DOTX na XLTX bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod DOTX na XLTX prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOTX do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}

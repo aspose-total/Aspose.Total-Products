@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir DOCM en ODS
-description: Convertir DOCM en ODS via Java sans utiliser Microsoft Word ou Microsoft Excel
+description: Convertir DOCM en ODS via Java ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/docm-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir DOCM en ODS via Java" h2="API Java sur site pour convertir DOCM en ODS sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir DOCM en ODS via Java ou en ligne" h2="API Java sur site pour convertir DOCM en ODS sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversion de DOCM en ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de document riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

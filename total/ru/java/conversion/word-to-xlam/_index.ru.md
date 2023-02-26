@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования WORD в XLAM
-description: Преобразование WORD в XLAM через Java без использования Microsoft Word или Microsoft Excel
+description: Преобразование WORD в XLAM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/word-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLAM XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать WORD в XLAM через Java" h2="Локальный Java API для преобразования WORD в XLAM без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать WORD в XLAM через Java или онлайн" h2="Локальный Java API для преобразования WORD в XLAM без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование WORD в XLAM с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать WORD в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

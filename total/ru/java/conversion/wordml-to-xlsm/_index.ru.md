@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования WORDML в XLSM
-description: Преобразование WORDML в XLSM через Java без использования Microsoft Word или Microsoft Excel
+description: Преобразование WORDML в XLSM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/wordml-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: FODS XLSM TSV SXC DIF EXCEL ODS XLTX XLSB XLAM XLS XLSX XLTM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать WORDML в XLSM через Java" h2="Локальный Java API для преобразования WORDML в XLSM без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать WORDML в XLSM через Java или онлайн" h2="Локальный Java API для преобразования WORDML в XLSM без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование WORDML в XLSM с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать WORDML в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

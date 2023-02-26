@@ -1,6 +1,6 @@
 ---
 title: OTTをFODSに変換するJavaAPI
-description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でOTTをFODSに変換する
+description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でOTTをFODSに変換する またはオンライン またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/ott-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC FODS XLTM XLAM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でOTTをFODSに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにOTTをFODSに変換する" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でOTTをFODSに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにOTTをFODSに変換する" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を介してOTTをFODSに変換するのは、単純な2ステップのプロセスです。機能豊富なドキュメント操作および変換API[Aspose.Wordsfor Java](https://products.aspose.com/words/java/)を使用することにより、OTTをHTMLにエクスポートできます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをFODSに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

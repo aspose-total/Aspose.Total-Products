@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOT do XLT
-description: Převeďte DOT na XLT přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte DOT na XLT přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/dot-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLT EXCEL XLSX SXC TSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOT na XLT přes Java" h2="On Premise Java API pro převod DOT na XLT bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOT na XLT přes Java nebo online" h2="On Premise Java API pro převod DOT na XLT bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod DOT na XLT prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOT do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

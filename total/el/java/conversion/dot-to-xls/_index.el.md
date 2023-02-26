@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή DOT σε XLS
-description: Μετατροπή DOT σε XLS μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+description: Μετατροπή DOT σε XLS μέσω Java ή διαδικτυακά χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/dot-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLS EXCEL XLSX SXC TSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή DOT σε XLS μέσω Java" h2="On Premise Java API για μετατροπή DOT σε XLS χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή DOT σε XLS μέσω Java ή διαδικτυακά" h2="On Premise Java API για μετατροπή DOT σε XLS χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Η μετατροπή DOT σε XLS μέσω [Aspose.Total for Java](https://products.aspose.com/total/java/) είναι μια απλή διαδικασία δύο βημάτων. Χρησιμοποιώντας το πλούσιο σε χαρακτηριστικά, το API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Java](https://products.aspose.com/words/java/), μπορείτε να εξάγετε το DOT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}

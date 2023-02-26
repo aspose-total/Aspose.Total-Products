@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire DOCM in SXC
-description: Converti DOCM in SXC tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+description: Converti DOCM in SXC tramite Java o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/docm-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: SXC ODS TSV XLSB XLTX XLS FODS XLSM XLTM XLT XLSX EXCEL DIF XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti DOCM in SXC tramite Java" h2="API Java in loco per convertire DOCM in SXC senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti DOCM in SXC tramite Java o in linea" h2="API Java in loco per convertire DOCM in SXC senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversione di DOCM in SXC tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei document ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare DOCM in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}

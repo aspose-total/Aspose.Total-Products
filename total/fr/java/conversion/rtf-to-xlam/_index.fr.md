@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir RTF en XLAM
-description: Convertir RTF en XLAM via Java sans utiliser Microsoft Word ou Microsoft Excel
+description: Convertir RTF en XLAM via Java ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/rtf-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: DIF XLSX XLSM XLTM XLS XLAM XLTX TSV SXC ODS XLSB FODS XLT EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir RTF en XLAM via Java" h2="API Java sur site pour convertir RTF en XLAM sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir RTF en XLAM via Java ou en ligne" h2="API Java sur site pour convertir RTF en XLAM sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversion de RTF en XLAM via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de Documents riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter RTF vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

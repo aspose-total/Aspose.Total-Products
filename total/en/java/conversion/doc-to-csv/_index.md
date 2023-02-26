@@ -1,6 +1,6 @@
 ---
 title: Java API to Convert DOC to CSV
-description: Convert DOC to CSV via Java without using using Microsoft Word or Microsoft Excel
+description: Convert DOC to CSV via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/doc-to-csv/
 family: total
 platformtag: java
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOC to CSV via Java" h2="On Premise Java API to convert DOC to CSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOC to CSV via Java or online" h2="On Premise Java API to convert DOC to CSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  Converting DOC to CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to CSV.

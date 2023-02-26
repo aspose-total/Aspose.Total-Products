@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire ODT in TSV
-description: Converti ODT in TSV tramite Java senza utilizzare Microsoft Word o Microsoft Excel
+description: Converti ODT in TSV tramite Java o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/odt-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTM ODS XLSM TSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti ODT in TSV tramite Java" h2="API Java in loco per convertire ODT in TSV senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti ODT in TSV tramite Java o in linea" h2="API Java in loco per convertire ODT in TSV senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversione di ODT in TSV tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare ODT in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

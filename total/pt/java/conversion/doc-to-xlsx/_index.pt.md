@@ -1,6 +1,6 @@
 ---
 title: API Java para converter DOC para XLSX
-description: Converta DOC para XLSX via Java sem usar o Microsoft Word ou o Microsoft Excel
+description: Converta DOC para XLSX via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/doc-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOC para XLSX via Java" h2="API Java no local para converter DOC para XLSX sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOC para XLSX via Java ou online" h2="API Java no local para converter DOC para XLSX sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter DOC para XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOC para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}

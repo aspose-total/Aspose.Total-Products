@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod WORDML do XLT
-description: Převeďte WORDML na XLT přes Java bez použití Microsoft Word nebo Microsoft Excel
+description: Převeďte WORDML na XLT přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/wordml-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV ODS EXCEL XLSM XLAM XLT XLTM XLTX DIF XLS XLSB SXC XLSX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést WORDML na XLT přes Java" h2="On Premise Java API pro převod WORDML na XLT bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést WORDML na XLT přes Java nebo online" h2="On Premise Java API pro převod WORDML na XLT bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Převod WORDML na XLT prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat WORDML do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

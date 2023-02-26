@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir DOTX en CSV
-description: Convertir DOTX en CSV via Java sans utiliser Microsoft Word ou Microsoft Excel
+description: Convertir DOTX en CSV via Java ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/dotx-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: DIF XLSB XLSM EXCEL FODS XLTX XLS XLAM XLSX XLT XLTM ODS TSV SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir DOTX en CSV via Java" h2="API Java sur site pour convertir DOTX en CSV sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir DOTX en CSV via Java ou en ligne" h2="API Java sur site pour convertir DOTX en CSV sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 La conversion de DOTX en CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de Documents riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter DOTX vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

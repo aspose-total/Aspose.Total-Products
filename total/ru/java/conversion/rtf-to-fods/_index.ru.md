@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования RTF в FODS
-description: Преобразование RTF в FODS через Java без использования Microsoft Word или Microsoft Excel
+description: Преобразование RTF в FODS через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/rtf-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: ODS XLS TSV XLSM FODS SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать RTF в FODS через Java" h2="Локальный Java API для преобразования RTF в FODS без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать RTF в FODS через Java или онлайн" h2="Локальный Java API для преобразования RTF в FODS без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование RTF в FODS с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать RTF в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

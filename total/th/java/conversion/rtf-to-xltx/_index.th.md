@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง RTF เป็น XLTX
-description: แปลง RTF เป็น XLTX ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+description: แปลง RTF เป็น XLTX ผ่าน Java หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/rtf-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLTM ODS XLAM XLS XLSB FODS XLT XLTX TSV XLSM XLSX SXC EXCEL DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง RTF เป็น XLTX ผ่าน Java" h2="บน Premise Java API เพื่อแปลง RTF เป็น XLTX โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง RTF เป็น XLTX ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API เพื่อแปลง RTF เป็น XLTX โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 การแปลง RTF เป็น XLTX ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) เป็นกระบวนการสองขั้นตอนง่ายๆ เมื่อใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Java](https://products.aspose.com/words/java/) คุณจะส่งออก RTF เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณจะแปลง HTML เป็น XLTX ได้
 {{% /blocks/products/pf/feature-page-summary  %}}

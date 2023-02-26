@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi WORD sang XLTM
-description: Chuyển đổi WORD sang XLTM qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
+description: Chuyển đổi WORD sang XLTM qua Java hoặc trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/word-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSB XLS XLAM EXCEL DIF XLTM FODS SXC XLTX XLT XLSM TSV ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi WORD sang XLTM qua Java" h2="Trên API Premise Java để chuyển đổi WORD sang XLTM mà không cần sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi WORD sang XLTM qua Java hoặc trực tuyến" h2="Trên API Premise Java để chuyển đổi WORD sang XLTM mà không cần sử dụng Microsoft<sup>&reg;</sup> Word hoặc Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Chuyển đổi WORD sang XLTM qua [Aspose.Total for Java](https://products.aspose.com/total/java/) là một quy trình đơn giản gồm hai bước. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), bạn có thể xuất WORD sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

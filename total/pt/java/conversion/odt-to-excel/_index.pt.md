@@ -1,6 +1,6 @@
 ---
 title: API Java para converter ODT para EXCEL
-description: Converta ODT para EXCEL via Java sem usar o Microsoft Word ou o Microsoft Excel
+description: Converta ODT para EXCEL via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/odt-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter ODT para EXCEL via Java" h2="API Java no local para converter ODT para EXCEL sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter ODT para EXCEL via Java ou online" h2="API Java no local para converter ODT para EXCEL sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter ODT para EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar ODT para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}

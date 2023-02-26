@@ -1,6 +1,6 @@
 ---
 title: Java API do konwersji DOC na XLAM
-description: Konwertuj DOC na XLAM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel
+description: Konwertuj DOC na XLAM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/doc-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSX XLTX EXCEL SXC XLT XLAM DIF TSV XLS ODS XLTM XLSM XLSB FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOC na XLAM przez Java" h2="On Premise Java API do konwersji DOC na XLAM bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOC na XLAM przez Java lub online" h2="On Premise Java API do konwersji DOC na XLAM bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Konwersja DOC do XLAM za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) to prosty, dwuetapowy proces. Korzystając z bogatego w funkcje interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/), możesz eksportować DOC do HTML. Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

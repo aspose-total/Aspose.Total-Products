@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOTM till CSV
-description: Konvertera DOTM till CSV via Java utan att använda Microsoft Word eller Microsoft Excel
+description: Konvertera DOTM till CSV via Java eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/dotm-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera DOTM till CSV via Java" h2="On Premise Java API för att konvertera DOTM till CSV utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera DOTM till CSV via Java eller online" h2="On Premise Java API för att konvertera DOTM till CSV utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Att konvertera DOTM till CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) är en enkel process i två steg. Genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Java](https://products.aspose.com/words/java/), kan du exportera DOTM till HTML. Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

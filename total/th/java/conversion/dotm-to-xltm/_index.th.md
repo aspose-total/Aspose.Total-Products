@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง DOTM เป็น XLTM
-description: แปลง DOTM เป็น XLTM ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel
+description: แปลง DOTM เป็น XLTM ผ่าน Java หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/dotm-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: SXC FODS XLAM XLSB XLSM XLTX TSV ODS XLS XLSX XLTM DIF EXCEL XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOTM เป็น XLTM ผ่าน Java" h2="บน Premise Java API เพื่อแปลง DOTM เป็น XLTM โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง DOTM เป็น XLTM ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API เพื่อแปลง DOTM เป็น XLTM โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 การแปลง DOTM เป็น XLTM ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) เป็นกระบวนการสองขั้นตอนง่ายๆ เมื่อใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Java](https://products.aspose.com/words/java/) คุณจะส่งออก DOTM เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณจะแปลง HTML เป็น XLTM ได้
 {{% /blocks/products/pf/feature-page-summary  %}}

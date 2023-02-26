@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل RTF إلى XLSX
-description: قم بتحويل RTF إلى XLSX عبر Java دون استخدام Microsoft Word أو Microsoft Excel
+description: قم بتحويل RTF إلى XLSX عبر Java أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/rtf-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSX XLTX XLSB SXC XLTM XLSM XLS XLAM DIF EXCEL ODS FODS TSV XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل RTF إلى XLSX عبر Java" h2="في Premise Java API لتحويل RTF إلى XLSX بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل RTF إلى XLSX عبر Java أو عبر الإنترنت" h2="في Premise Java API لتحويل RTF إلى XLSX بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 تحويل RTF إلى XLSX عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) هي عملية بسيطة من خطوتين. باستخدام واجهة برمجة تطبيقات معالجة المستندات والتحويل الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تصدير RTF إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Java API do konwersji DOT na XLTM
-description: Konwertuj DOT na XLTM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel
+description: Konwertuj DOT na XLTM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/dot-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSB XLTM FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOT na XLTM przez Java" h2="On Premise Java API do konwersji DOT na XLTM bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOT na XLTM przez Java lub online" h2="On Premise Java API do konwersji DOT na XLTM bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Konwersja DOT do XLTM za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) to prosty, dwuetapowy proces. Korzystając z bogatego w funkcje interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/), możesz eksportować DOT do HTML. Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

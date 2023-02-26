@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل DOTX إلى FODS
-description: قم بتحويل DOTX إلى FODS عبر Java دون استخدام Microsoft Word أو Microsoft Excel
+description: قم بتحويل DOTX إلى FODS عبر Java أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/dotx-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLT XLTM XLSM ODS DIF XLAM FODS TSV SXC XLSB XLS EXCEL XLTX XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTX إلى FODS عبر Java" h2="في Premise Java API لتحويل DOTX إلى FODS بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOTX إلى FODS عبر Java أو عبر الإنترنت" h2="في Premise Java API لتحويل DOTX إلى FODS بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 تحويل DOTX إلى FODS عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) هي عملية بسيطة من خطوتين. باستخدام واجهة برمجة تطبيقات معالجة المستندات والتحويل الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تصدير DOTX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

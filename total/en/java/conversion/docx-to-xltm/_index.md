@@ -1,6 +1,6 @@
 ---
 title: Java API to Convert DOCX to XLTM
-description: Convert DOCX to XLTM via Java without using using Microsoft Word or Microsoft Excel
+description: Convert DOCX to XLTM via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/docx-to-xltm/
 family: total
 platformtag: java
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLTX XLSX DIF EXCEL XLT XLSM TSV ODS XLSB SXC XLAM XLS FODS CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOCX to XLTM via Java" h2="On Premise Java API to convert DOCX to XLTM without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOCX to XLTM via Java or online" h2="On Premise Java API to convert DOCX to XLTM without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  Converting DOCX to XLTM via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTM.

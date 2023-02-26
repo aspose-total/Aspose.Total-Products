@@ -1,6 +1,6 @@
 ---
 title: Java API om MOBI naar XLSM te converteren
-description: Converteer MOBI naar XLSM via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+description: Converteer MOBI naar XLSM via Java of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/mobi-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: ODS XLAM SXC DIF XLS FODS EXCEL XLSM XLT XLTM XLTX XLSX TSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer MOBI naar XLSM via Java" h2="On Premise Java API om MOBI naar XLSM te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer MOBI naar XLSM via Java of online" h2="On Premise Java API om MOBI naar XLSM te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Het converteren van MOBI naar XLSM via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor mobiumentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u MOBI naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLSM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

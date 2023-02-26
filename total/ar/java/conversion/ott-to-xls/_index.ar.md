@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل OTT إلى XLS
-description: قم بتحويل OTT إلى XLS عبر Java دون استخدام Microsoft Word أو Microsoft Excel
+description: قم بتحويل OTT إلى XLS عبر Java أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/ott-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل OTT إلى XLS عبر Java" h2="في Premise Java API لتحويل OTT إلى XLS بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل OTT إلى XLS عبر Java أو عبر الإنترنت" h2="في Premise Java API لتحويل OTT إلى XLS بدون استخدام Microsoft<sup>&reg;</sup> Word أو Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 تحويل OTT إلى XLS عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) هي عملية بسيطة من خطوتين. باستخدام واجهة برمجة تطبيقات معالجة المستندات والتحويل الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) ، يمكنك تصدير OTT إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}

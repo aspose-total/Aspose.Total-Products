@@ -1,6 +1,6 @@
 ---
 title: Java API om DOTM naar FODS te converteren
-description: Converteer DOTM naar FODS via Java zonder Microsoft Word of Microsoft Excel te gebruiken
+description: Converteer DOTM naar FODS via Java of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/dotm-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOTM naar FODS via Java" h2="On Premise Java API om DOTM naar FODS te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOTM naar FODS via Java of online" h2="On Premise Java API om DOTM naar FODS te converteren zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Het converteren van DOTM naar FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor dotmumentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u DOTM naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar FODS converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

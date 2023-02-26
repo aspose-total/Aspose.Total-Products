@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von MOBI in ODS
-description: Konvertieren Sie MOBI über Java in ODS, ohne Microsoft Word oder Microsoft Excel zu verwenden
+description: Konvertieren Sie MOBI über Java in ODS oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/mobi-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: SXC XLS XLSB XLSM XLT ODS XLTX XLAM FODS XLSX XLTM EXCEL DIF TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie MOBI über Java in ODS" h2="Lokale Java-API zum Konvertieren von MOBI in ODS, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie MOBI über Java in ODS oder online" h2="Lokale Java-API zum Konvertieren von MOBI in ODS, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Das Konvertieren von MOBI in ODS über [Aspose.Total for Java](https://products.aspose.com/total/java/) ist ein einfacher zweistufiger Prozess. Durch die Verwendung der funktionsreichen Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) können Sie MOBI in HTML exportieren. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in ODS konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

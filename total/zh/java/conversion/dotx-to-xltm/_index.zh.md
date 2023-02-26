@@ -1,6 +1,6 @@
 ---
 title: Java API 将 DOTX 转换为 XLTM
-description: 通过 Java 将 DOTX 转换为 XLTM，而不使用 Microsoft Word 或 Microsoft Excel
+description: 通过 Java 将 DOTX 转换为 XLTM 或在线，而不使用 Microsoft Word 或 Microsoft Excel 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/java/conversion/dotx-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSX TSV SXC XLSB XLTM XLT FODS EXCEL ODS XLTX DIF XLAM XLSM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 DOTX 转换为 XLTM" h2="无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 即可将 DOTX 转换为 XLTM 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 DOTX 转换为 XLTM 或在线" h2="无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 即可将 DOTX 转换为 XLTM 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将 DOTX 转换为 XLTM 是一个简单的两步过程。通过使用功能丰富的文档操作和转换 API [Aspose.Words for Java](https://products.aspose.com/words/java/)，您可以将 DOTX 导出为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)，您可以将 HTML 转换为 XLTM。
 {{% /blocks/products/pf/feature-page-summary  %}}

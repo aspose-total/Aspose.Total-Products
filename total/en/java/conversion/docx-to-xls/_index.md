@@ -1,6 +1,6 @@
 ---
-title: Convert DOCX to XLS via Java
-description: Convert DOCX to XLS via Java without using using Microsoft Word or Microsoft Excel
+title: Convert DOCX to XLS via Java or online
+description: Convert DOCX to XLS via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/docx-to-xls/
 family: total
 platformtag: java
@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: CSV SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOCX to XLS via Java" h2="On Premise Java API to convert DOCX to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOCX to XLS via Java or online" h2="On Premise Java API to convert DOCX to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can converting DOCX to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOCX to XLS via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOCX to XLS via Java or online" %}}
 1. Open DOCX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class

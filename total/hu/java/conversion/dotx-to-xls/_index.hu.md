@@ -1,6 +1,6 @@
 ---
 title: Java API a DOTX konvertálásához XLS-vé
-description: A DOTX konvertálása XLS-vé Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül
+description: A DOTX konvertálása XLS-vé Java segítségével vagy online Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/dotx-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A DOTX konvertálása XLS-vé Java segítségével" h2="On Premise Java API a DOTX konvertálásához XLS-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A DOTX konvertálása XLS-vé Java segítségével vagy online" h2="On Premise Java API a DOTX konvertálásához XLS-vé Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A DOTX konvertálása XLS-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával DOTX-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLS-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
