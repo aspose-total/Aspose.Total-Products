@@ -1,6 +1,6 @@
 ---
-title: Converter CSV para PPTX com .NET 
-description: Converter CSV para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin
+title: Converter CSV para PPTX com .NET ou com o conversor online gratuito
+description: Converter CSV para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: WORD POWERPOINT DOC DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter CSV para PPTX via C#" h2="Exportar Excel&reg; CSV para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter CSV para PPTX via C# ou online" h2="Exportar Excel&reg; CSV para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

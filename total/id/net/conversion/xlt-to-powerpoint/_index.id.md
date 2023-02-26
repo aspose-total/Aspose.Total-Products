@@ -1,6 +1,6 @@
 ---
-title: Konversi XLT ke POWERPOINT dengan .NET 
-description: Konversi XLT ke POWERPOINT di .NET Framework, .NET Core, Mono atau Platform Xamarin
+title: Konversi XLT ke POWERPOINT dengan .NET atau dengan Konverter Online gratis
+description: Konversi XLT ke POWERPOINT di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: WORD DOCX PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLT ke POWERPOINT melalui C#" h2="Ekspor Excel&reg; XLT ke POWERPOINT di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLT ke POWERPOINT melalui C# atau daring" h2="Ekspor Excel&reg; XLT ke POWERPOINT di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

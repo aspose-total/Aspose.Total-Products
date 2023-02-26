@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLTM na WORD za pomocą .NET 
-description: Konwertuj XLTM na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin
+title: Konwertuj XLTM na WORD za pomocą .NET lub za pomocą bezpłatnego konwertera online
+description: Konwertuj XLTM na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT DOCX DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj XLTM na WORD za pomocą C#" h2="Eksportuj Excel&reg; XLTM do WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj XLTM na WORD za pomocą C# lub online" h2="Eksportuj Excel&reg; XLTM do WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

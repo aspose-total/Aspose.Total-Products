@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLS na DOC za pomocą .NET 
-description: Konwertuj XLS na DOC na platformach .NET Framework, .NET Core, Mono lub Xamarin
+title: Konwertuj XLS na DOC za pomocą .NET lub za pomocą bezpłatnego konwertera online
+description: Konwertuj XLS na DOC na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj XLS na DOC za pomocą C#" h2="Eksportuj Excel&reg; XLS do DOC na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj XLS na DOC za pomocą C# lub online" h2="Eksportuj Excel&reg; XLS do DOC na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

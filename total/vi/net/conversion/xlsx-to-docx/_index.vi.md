@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi XLSX sang DOCX với .NET 
-description: Chuyển đổi XLSX sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin
+title: Chuyển đổi XLSX sang DOCX với .NET hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi XLSX sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Chuyển đổi XLSX sang DOCX qua C#" h2="Xuất Excel & reg; XLSX sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Chuyển đổi XLSX sang DOCX qua C# hoặc trực tuyến" h2="Xuất Excel & reg; XLSX sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

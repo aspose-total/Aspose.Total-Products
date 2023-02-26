@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to POWERPOINT with .NET 
-description: Convert XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms
+description: Convert XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/xls-to-powerpoint/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLS to POWERPOINT via C#" h2="Export Excel&reg; XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLS to POWERPOINT via C# or online" h2="Export Excel&reg; XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 

@@ -1,6 +1,6 @@
 ---
-title: .NET ile XLS'yi DOC'ye dönüştürün 
-description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'yi DOC'ye dönüştürün
+title: .NET ile XLS'yi DOC'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'yi DOC'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile XLS'yi DOC'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'den DOC'ye">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile XLS'yi DOC'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'den DOC'ye">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

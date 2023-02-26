@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLTX na POWERPOINT pomocí .NET 
-description: Převeďte XLTX na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte XLTX na POWERPOINT pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte XLTX na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX DOC WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLTX na POWERPOINT přes C#" h2="Export Excel&reg; XLTX do POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLTX na POWERPOINT přes C# nebo online" h2="Export Excel&reg; XLTX do POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

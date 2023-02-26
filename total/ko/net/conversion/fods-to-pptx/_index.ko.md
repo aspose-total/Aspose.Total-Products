@@ -1,6 +1,6 @@
 ---
-title: .NET을 사용하여 FODS를 PPTX로 변환 
-description: .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 FODS를 PPTX로 변환
+title: .NET을 사용하여 FODS를 PPTX로 변환 또는 무료 온라인 변환기 사용
+description: .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 FODS를 PPTX로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC DOCX WORD POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 FODS를 PPTX로 변환" h2="엑셀 내보내기&reg; .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 FODS를 PPTX로">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 FODS를 PPTX로 변환 또는 온라인" h2="엑셀 내보내기&reg; .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 FODS를 PPTX로">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

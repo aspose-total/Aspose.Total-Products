@@ -1,6 +1,6 @@
 ---
-title: Converter XLSX para DOCX com .NET 
-description: Converter XLSX para DOCX em plataformas .NET Framework, .NET Core, Mono ou Xamarin
+title: Converter XLSX para DOCX com .NET ou com o conversor online gratuito
+description: Converter XLSX para DOCX em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter XLSX para DOCX via C#" h2="Exportar Excel&reg; XLSX para DOCX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter XLSX para DOCX via C# ou online" h2="Exportar Excel&reg; XLSX para DOCX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

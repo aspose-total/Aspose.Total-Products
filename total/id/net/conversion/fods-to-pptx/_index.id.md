@@ -1,6 +1,6 @@
 ---
-title: Konversi FODS ke PPTX dengan .NET 
-description: Konversi FODS ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin
+title: Konversi FODS ke PPTX dengan .NET atau dengan Konverter Online gratis
+description: Konversi FODS ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC DOCX WORD POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi FODS ke PPTX melalui C#" h2="Ekspor Excel&reg; FODS ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi FODS ke PPTX melalui C# atau daring" h2="Ekspor Excel&reg; FODS ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

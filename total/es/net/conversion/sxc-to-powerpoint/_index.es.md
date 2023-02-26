@@ -1,6 +1,6 @@
 ---
-title: Convierta SXC a POWERPOINT con .NET 
-description: Convierta SXC a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin
+title: Convierta SXC a POWERPOINT con .NET o con el convertidor en línea gratuito
+description: Convierta SXC a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta SXC a POWERPOINT a través de C#" h2="Exportar Excel&reg; SXC a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta SXC a POWERPOINT a través de C# o en línea" h2="Exportar Excel&reg; SXC a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

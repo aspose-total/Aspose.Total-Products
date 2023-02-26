@@ -1,6 +1,6 @@
 ---
-title: Konversi XLS ke DOC dengan .NET 
-description: Konversi XLS ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin
+title: Konversi XLS ke DOC dengan .NET atau dengan Konverter Online gratis
+description: Konversi XLS ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLS ke DOC melalui C#" h2="Ekspor Excel&reg; XLS ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLS ke DOC melalui C# atau daring" h2="Ekspor Excel&reg; XLS ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

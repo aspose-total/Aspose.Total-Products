@@ -1,6 +1,6 @@
 ---
-title: Converter ODS para PPTX com .NET 
-description: Converter ODS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin
+title: Converter ODS para PPTX com .NET ou com o conversor online gratuito
+description: Converter ODS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT DOCX WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter ODS para PPTX via C#" h2="Exportar Excel&reg; ODS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter ODS para PPTX via C# ou online" h2="Exportar Excel&reg; ODS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

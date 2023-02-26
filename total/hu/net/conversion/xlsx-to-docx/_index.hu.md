@@ -1,6 +1,6 @@
 ---
-title: A XLSX konvertálása DOCX formátumba .NET segítségével 
-description: A XLSX konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
+title: A XLSX konvertálása DOCX formátumba .NET segítségével vagy ingyenes online konverterrel
+description: A XLSX konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="A XLSX konvertálása DOCX formátumba C# segítségével" h2="Exportálás Excel&reg; XLSX-ből DOCX-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="A XLSX konvertálása DOCX formátumba C# segítségével vagy online" h2="Exportálás Excel&reg; XLSX-ből DOCX-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

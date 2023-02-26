@@ -1,6 +1,6 @@
 ---
-title: Converter XLS para PPTX com .NET 
-description: Converter XLS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin
+title: Converter XLS para PPTX com .NET ou com o conversor online gratuito
+description: Converter XLS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter XLS para PPTX via C#" h2="Exportar Excel&reg; XLS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter XLS para PPTX via C# ou online" h2="Exportar Excel&reg; XLS para PPTX em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

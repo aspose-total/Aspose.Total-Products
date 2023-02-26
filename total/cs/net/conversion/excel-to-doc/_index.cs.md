@@ -1,6 +1,6 @@
 ---
-title: Převeďte EXCEL na DOC pomocí .NET 
-description: Převeďte EXCEL na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte EXCEL na DOC pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte EXCEL na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník EXCEL na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést EXCEL na DOC přes C#" h2="Export Excel&reg; EXCEL do DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést EXCEL na DOC přes C# nebo online" h2="Export Excel&reg; EXCEL do DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

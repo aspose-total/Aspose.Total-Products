@@ -1,6 +1,6 @@
 ---
-title: A EXCEL konvertálása DOC formátumba .NET segítségével 
-description: A EXCEL konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
+title: A EXCEL konvertálása DOC formátumba .NET segítségével vagy ingyenes online konverterrel
+description: A EXCEL konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOC online konvertert.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="A EXCEL konvertálása DOC formátumba C# segítségével" h2="Exportálás Excel&reg; EXCEL-ből DOC-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="A EXCEL konvertálása DOC formátumba C# segítségével vagy online" h2="Exportálás Excel&reg; EXCEL-ből DOC-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

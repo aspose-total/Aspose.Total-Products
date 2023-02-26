@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLT σε DOCX με .NET 
-description: Μετατροπή XLT σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
+title: Μετατροπή XLT σε DOCX με .NET ή με δωρεάν Online Converter
+description: Μετατροπή XLT σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή XLT σε DOCX μέσω C#" h2="Εξαγωγή Excel&reg; XLT σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή XLT σε DOCX μέσω C# ή διαδικτυακά" h2="Εξαγωγή Excel&reg; XLT σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

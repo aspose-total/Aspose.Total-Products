@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή XLSM σε PPTX με .NET 
-description: Μετατροπή XLSM σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin
+title: Μετατροπή XLSM σε PPTX με .NET ή με δωρεάν Online Converter
+description: Μετατροπή XLSM σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή XLSM σε PPTX μέσω C#" h2="Εξαγωγή Excel&reg; XLSM σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή XLSM σε PPTX μέσω C# ή διαδικτυακά" h2="Εξαγωγή Excel&reg; XLSM σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

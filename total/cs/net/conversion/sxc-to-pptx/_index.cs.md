@@ -1,6 +1,6 @@
 ---
-title: Převeďte SXC na PPTX pomocí .NET 
-description: Převeďte SXC na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte SXC na PPTX pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte SXC na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX POWERPOINT WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést SXC na PPTX přes C#" h2="Export Excel&reg; SXC do PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést SXC na PPTX přes C# nebo online" h2="Export Excel&reg; SXC do PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

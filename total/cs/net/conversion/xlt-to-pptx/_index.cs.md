@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLT na PPTX pomocí .NET 
-description: Převeďte XLT na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte XLT na PPTX pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte XLT na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX WORD DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLT na PPTX přes C#" h2="Export Excel&reg; XLT do PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLT na PPTX přes C# nebo online" h2="Export Excel&reg; XLT do PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

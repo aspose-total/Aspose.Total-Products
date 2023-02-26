@@ -1,6 +1,6 @@
 ---
-title: .NETを使用してXLTをDOCXに変換する 
-description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTをDOCXに変換する
+title: .NETを使用してXLTをDOCXに変換する または無料のオンライン コンバーターを使用
+description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C＃経由でXLTをDOCXに変換" h2="Excelをエクスポート＆reg; .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでのXLTからDOCXへ">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C＃経由でXLTをDOCXに変換 またはオンライン" h2="Excelをエクスポート＆reg; .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでのXLTからDOCXへ">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

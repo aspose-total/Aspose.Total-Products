@@ -1,6 +1,6 @@
 ---
 title: Конвертируйте ODS в POWERPOINT с помощью .NET 
-description: Преобразование ODS в POWERPOINT на платформах .NET Framework, .NET Core, Mono или Xamarin.
+description: Преобразование ODS в POWERPOINT на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ods-to-powerpoint/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование ODS в POWERPOINT через C#" h2="Экспорт Excel&reg; ODS в POWERPOINT на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование ODS в POWERPOINT через C# или онлайн" h2="Экспорт Excel&reg; ODS в POWERPOINT на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 

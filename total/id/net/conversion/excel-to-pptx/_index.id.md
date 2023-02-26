@@ -1,6 +1,6 @@
 ---
-title: Konversi EXCEL ke PPTX dengan .NET 
-description: Konversi EXCEL ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin
+title: Konversi EXCEL ke PPTX dengan .NET atau dengan Konverter Online gratis
+description: Konversi EXCEL ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online EXCEL ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi EXCEL ke PPTX melalui C#" h2="Ekspor Excel&reg; EXCEL ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi EXCEL ke PPTX melalui C# atau daring" h2="Ekspor Excel&reg; EXCEL ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

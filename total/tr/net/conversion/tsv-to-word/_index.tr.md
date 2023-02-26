@@ -1,6 +1,6 @@
 ---
-title: .NET ile TSV'yi WORD'ye dönüştürün 
-description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV'yi WORD'ye dönüştürün
+title: .NET ile TSV'yi WORD'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV'yi WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX PPTX POWERPOINT DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile TSV'yi WORD'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV'den WORD'ye">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile TSV'yi WORD'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV'den WORD'ye">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

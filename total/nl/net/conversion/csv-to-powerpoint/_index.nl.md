@@ -1,6 +1,6 @@
 ---
-title: Converteer CSV naar POWERPOINT met .NET 
-description: Converteer CSV naar POWERPOINT op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms
+title: Converteer CSV naar POWERPOINT met .NET of met gratis Online Converter
+description: Converteer CSV naar POWERPOINT op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer CSV naar POWERPOINT via C#" h2="Excel exporteren&reg; CSV naar POWERPOINT op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer CSV naar POWERPOINT via C# of online" h2="Excel exporteren&reg; CSV naar POWERPOINT op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -1,6 +1,6 @@
 ---
-title: Konversi XLTX ke DOCX dengan .NET 
-description: Konversi XLTX ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin
+title: Konversi XLTX ke DOCX dengan .NET atau dengan Konverter Online gratis
+description: Konversi XLTX ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX DOC POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLTX ke DOCX melalui C#" h2="Ekspor Excel&reg; XLTX ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLTX ke DOCX melalui C# atau daring" h2="Ekspor Excel&reg; XLTX ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

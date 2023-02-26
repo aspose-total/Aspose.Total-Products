@@ -1,6 +1,6 @@
 ---
-title: Convertir XLT en POWERPOINT avec .NET 
-description: Convertir XLT en POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
+title: Convertir XLT en POWERPOINT avec .NET ou avec le convertisseur en ligne gratuit
+description: Convertir XLT en POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: WORD DOCX PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir XLT en POWERPOINT via C#" h2="Exporter Excel® XLT vers POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir XLT en POWERPOINT via C# ou en ligne" h2="Exporter Excel® XLT vers POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

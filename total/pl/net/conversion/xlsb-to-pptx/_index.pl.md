@@ -1,6 +1,6 @@
 ---
-title: Konwertuj XLSB na PPTX za pomocą .NET 
-description: Konwertuj XLSB na PPTX na platformach .NET Framework, .NET Core, Mono lub Xamarin
+title: Konwertuj XLSB na PPTX za pomocą .NET lub za pomocą bezpłatnego konwertera online
+description: Konwertuj XLSB na PPTX na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj XLSB na PPTX za pomocą C#" h2="Eksportuj Excel&reg; XLSB do PPTX na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konwertuj XLSB na PPTX za pomocą C# lub online" h2="Eksportuj Excel&reg; XLSB do PPTX na platformach .NET Framework, .NET Core, Mono lub Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

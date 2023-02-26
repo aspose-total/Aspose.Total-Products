@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to POWERPOINT with .NET 
-description: Convert CSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms
+description: Convert CSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/csv-to-powerpoint/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert CSV to POWERPOINT via C#" h2="Export Excel&reg; CSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert CSV to POWERPOINT via C# or online" h2="Export Excel&reg; CSV to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 

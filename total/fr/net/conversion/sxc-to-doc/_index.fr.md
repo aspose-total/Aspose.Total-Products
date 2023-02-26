@@ -1,6 +1,6 @@
 ---
-title: Convertir SXC en DOC avec .NET 
-description: Convertir SXC en DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
+title: Convertir SXC en DOC avec .NET ou avec le convertisseur en ligne gratuit
+description: Convertir SXC en DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: WORD PPTX DOCX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir SXC en DOC via C#" h2="Exporter Excel® SXC vers DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir SXC en DOC via C# ou en ligne" h2="Exporter Excel® SXC vers DOC sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

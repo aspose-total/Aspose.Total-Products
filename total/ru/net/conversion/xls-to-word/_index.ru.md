@@ -1,6 +1,6 @@
 ---
 title: Преобразование XLS в WORD с помощью .NET 
-description: Преобразование XLS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
+description: Преобразование XLS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/xls-to-word/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование XLS в WORD через C#" h2="Экспорт Excel&reg; XLS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование XLS в WORD через C# или онлайн" h2="Экспорт Excel&reg; XLS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 

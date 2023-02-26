@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to WORD with .NET 
-description: Convert SXC to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms
+description: Convert SXC to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/sxc-to-word/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX DOCX DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert SXC to WORD via C#" h2="Export Excel&reg; SXC to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert SXC to WORD via C# or online" h2="Export Excel&reg; SXC to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 

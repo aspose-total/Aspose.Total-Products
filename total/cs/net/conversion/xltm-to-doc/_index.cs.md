@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLTM na DOC pomocí .NET 
-description: Převeďte XLTM na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte XLTM na DOC pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte XLTM na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT DOCX PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLTM na DOC přes C#" h2="Export Excel&reg; XLTM do DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLTM na DOC přes C# nebo online" h2="Export Excel&reg; XLTM do DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

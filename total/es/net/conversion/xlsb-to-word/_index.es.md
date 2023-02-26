@@ -1,6 +1,6 @@
 ---
-title: Convierta XLSB a WORD con .NET 
-description: Convierta XLSB a WORD en plataformas .NET Framework, .NET Core, Mono o Xamarin
+title: Convierta XLSB a WORD con .NET o con el convertidor en línea gratuito
+description: Convierta XLSB a WORD en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta XLSB a WORD a través de C#" h2="Exportar Excel&reg; XLSB a WORD en plataformas .NET Framework, .NET Core, Mono o Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta XLSB a WORD a través de C# o en línea" h2="Exportar Excel&reg; XLSB a WORD en plataformas .NET Framework, .NET Core, Mono o Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

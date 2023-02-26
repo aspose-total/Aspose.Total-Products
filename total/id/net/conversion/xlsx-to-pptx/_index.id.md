@@ -1,6 +1,6 @@
 ---
-title: Konversi XLSX ke PPTX dengan .NET 
-description: Konversi XLSX ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin
+title: Konversi XLSX ke PPTX dengan .NET atau dengan Konverter Online gratis
+description: Konversi XLSX ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC DOCX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLSX ke PPTX melalui C#" h2="Ekspor Excel&reg; XLSX ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konversi XLSX ke PPTX melalui C# atau daring" h2="Ekspor Excel&reg; XLSX ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

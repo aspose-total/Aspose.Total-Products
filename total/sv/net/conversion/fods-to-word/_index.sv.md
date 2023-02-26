@@ -1,6 +1,6 @@
 ---
-title: Konvertera FODS till WORD med .NET 
-description: Konvertera FODS till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar
+title: Konvertera FODS till WORD med .NET eller med gratis Online Converter
+description: Konvertera FODS till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC PPTX POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till WORD via C#" h2="Exportera Excel&reg; FODS till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera FODS till WORD via C# eller online" h2="Exportera Excel&reg; FODS till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

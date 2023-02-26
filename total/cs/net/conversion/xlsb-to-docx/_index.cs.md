@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLSB na DOCX pomocí .NET 
-description: Převeďte XLSB na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte XLSB na DOCX pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte XLSB na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLSB na DOCX přes C#" h2="Export Excel&reg; XLSB do DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLSB na DOCX přes C# nebo online" h2="Export Excel&reg; XLSB do DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

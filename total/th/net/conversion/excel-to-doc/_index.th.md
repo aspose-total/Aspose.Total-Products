@@ -1,6 +1,6 @@
 ---
-title: แปลง EXCEL เป็น DOC ด้วย .NET 
-description: แปลง EXCEL เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
+title: แปลง EXCEL เป็น DOC ด้วย .NET หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง EXCEL เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง EXCEL เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง EXCEL เป็น DOC ผ่าน C#" h2="ส่งออก Excel&reg; EXCEL เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง EXCEL เป็น DOC ผ่าน C# หรือทางออนไลน์" h2="ส่งออก Excel&reg; EXCEL เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -1,6 +1,6 @@
 ---
-title: Converti CSV in DOCX con .NET 
-description: Converti CSV in DOCX su piattaforme .NET Framework, .NET Core, Mono o Xamarin
+title: Converti CSV in DOCX con .NET o con il convertitore online gratuito
+description: Converti CSV in DOCX su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: WORD DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti CSV in DOCX tramite C#" h2="Esporta Excel&reg; CSV a DOCX su piattaforme .NET Framework, .NET Core, Mono o Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converti CSV in DOCX tramite C# o in linea" h2="Esporta Excel&reg; CSV a DOCX su piattaforme .NET Framework, .NET Core, Mono o Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

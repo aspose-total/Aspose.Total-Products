@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie FODS in DOC mit .NET 
-description: Konvertieren Sie FODS in DOC auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen
+title: Konvertieren Sie FODS in DOC mit .NET oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie FODS in DOC auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS in DOC über C#" h2="Excel exportieren&reg; FODS zu DOC auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS in DOC über C# oder online" h2="Excel exportieren&reg; FODS zu DOC auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

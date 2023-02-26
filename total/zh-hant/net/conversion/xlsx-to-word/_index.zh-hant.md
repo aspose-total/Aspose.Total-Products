@@ -1,6 +1,6 @@
 ---
-title: 使用 .NET 將 XLSX 轉換為 WORD 
-description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上將 XLSX 轉換為 WORD
+title: 使用 .NET 將 XLSX 轉換為 WORD 或使用免費的在線轉換器
+description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上將 XLSX 轉換為 WORD 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC DOCX POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="通過 C# 將 XLSX 轉換為 WORD" h2="導出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSX 到 WORD">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="通過 C# 將 XLSX 轉換為 WORD 或在線" h2="導出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSX 到 WORD">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

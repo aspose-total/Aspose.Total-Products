@@ -1,6 +1,6 @@
 ---
-title: تحويل XLT إلى DOCX باستخدام .NET 
-description: قم بتحويل ملف XLT إلى DOCX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin
+title: تحويل XLT إلى DOCX باستخدام .NET أو مع محول مجاني على الإنترنت
+description: قم بتحويل ملف XLT إلى DOCX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل XLT إلى DOCX عبر C#" h2="تصدير Excel & reg ؛ XLT إلى DOCX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل XLT إلى DOCX عبر C# أو عبر الإنترنت" h2="تصدير Excel & reg ؛ XLT إلى DOCX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -1,6 +1,6 @@
 ---
-title: Převeďte EXCEL na PPTX pomocí .NET 
-description: Převeďte EXCEL na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte EXCEL na PPTX pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte EXCEL na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník EXCEL na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést EXCEL na PPTX přes C#" h2="Export Excel&reg; EXCEL do PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést EXCEL na PPTX přes C# nebo online" h2="Export Excel&reg; EXCEL do PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

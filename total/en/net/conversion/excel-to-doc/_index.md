@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to DOC with .NET 
-description: Convert EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms
+description: Convert EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free EXCEL to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/excel-to-doc/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX WORD POWERPOINT DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert EXCEL to DOC via C#" h2="Export Excel&reg; EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert EXCEL to DOC via C# or online" h2="Export Excel&reg; EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 

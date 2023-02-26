@@ -1,6 +1,6 @@
 ---
-title: Converteer XLSB naar PPTX met .NET 
-description: Converteer XLSB naar PPTX op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms
+title: Converteer XLSB naar PPTX met .NET of met gratis Online Converter
+description: Converteer XLSB naar PPTX op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer XLSB naar PPTX via C#" h2="Excel exporteren&reg; XLSB naar PPTX op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer XLSB naar PPTX via C# of online" h2="Excel exporteren&reg; XLSB naar PPTX op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

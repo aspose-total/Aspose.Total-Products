@@ -1,6 +1,6 @@
 ---
 title: Преобразование SXC в WORD с помощью .NET 
-description: Преобразование SXC в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin
+description: Преобразование SXC в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/sxc-to-word/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: PPTX DOCX DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование SXC в WORD через C#" h2="Экспорт Excel&reg; SXC в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование SXC в WORD через C# или онлайн" h2="Экспорт Excel&reg; SXC в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 

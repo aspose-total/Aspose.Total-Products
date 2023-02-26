@@ -1,6 +1,6 @@
 ---
-title: A XLT konvertálása WORD formátumba .NET segítségével 
-description: A XLT konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon
+title: A XLT konvertálása WORD formátumba .NET segítségével vagy ingyenes online konverterrel
+description: A XLT konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC DOCX POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="A XLT konvertálása WORD formátumba C# segítségével" h2="Exportálás Excel&reg; XLT-ből WORD-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="A XLT konvertálása WORD formátumba C# segítségével vagy online" h2="Exportálás Excel&reg; XLT-ből WORD-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Преобразование FODS в DOCX с помощью .NET 
-description: Преобразование FODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.
+description: Преобразование FODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/fods-to-docx/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование FODS в DOCX через C#" h2="Экспорт Excel&reg; FODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование FODS в DOCX через C# или онлайн" h2="Экспорт Excel&reg; FODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin.">}}
 {{< blocks/products/pf/main-container >}}
 
 

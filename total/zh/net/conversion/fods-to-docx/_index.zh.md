@@ -1,6 +1,6 @@
 ---
 title: 使用 .NET 将 FODS 转换为 DOCX 
-description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将 FODS 转换为 DOCX
+description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将 FODS 转换为 DOCX 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/fods-to-docx/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="通过 C# 将 FODS 转换为 DOCX" h2="导出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 FODS 到 DOCX">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="通过 C# 将 FODS 转换为 DOCX 或在线" h2="导出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 FODS 到 DOCX">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

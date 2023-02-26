@@ -1,6 +1,6 @@
 ---
-title: Převeďte FODS na DOCX pomocí .NET 
-description: Převeďte FODS na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte FODS na DOCX pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte FODS na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést FODS na DOCX přes C#" h2="Export Excel&reg; FODS do DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést FODS na DOCX přes C# nebo online" h2="Export Excel&reg; FODS do DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

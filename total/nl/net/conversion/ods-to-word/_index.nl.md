@@ -1,6 +1,6 @@
 ---
-title: Converteer ODS naar WORD met .NET 
-description: Converteer ODS naar WORD op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms
+title: Converteer ODS naar WORD met .NET of met gratis Online Converter
+description: Converteer ODS naar WORD op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX POWERPOINT DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer ODS naar WORD via C#" h2="Excel exporteren&reg; ODS naar WORD op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Converteer ODS naar WORD via C# of online" h2="Excel exporteren&reg; ODS naar WORD op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

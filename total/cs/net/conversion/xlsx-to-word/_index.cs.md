@@ -1,6 +1,6 @@
 ---
-title: Převeďte XLSX na WORD pomocí .NET 
-description: Převeďte XLSX na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin
+title: Převeďte XLSX na WORD pomocí .NET nebo pomocí bezplatného online převodníku
+description: Převeďte XLSX na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC DOCX POWERPOINT PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLSX na WORD přes C#" h2="Export Excel&reg; XLSX do WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Převést XLSX na WORD přes C# nebo online" h2="Export Excel&reg; XLSX do WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

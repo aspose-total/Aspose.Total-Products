@@ -1,6 +1,6 @@
 ---
-title: Convertir EXCEL en WORD avec .NET 
-description: Convertir EXCEL en WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin
+title: Convertir EXCEL en WORD avec .NET ou avec le convertisseur en ligne gratuit
+description: Convertir EXCEL en WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne EXCEL vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: POWERPOINT DOCX PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir EXCEL en WORD via C#" h2="Exporter Excel® EXCEL vers WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir EXCEL en WORD via C# ou en ligne" h2="Exporter Excel® EXCEL vers WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

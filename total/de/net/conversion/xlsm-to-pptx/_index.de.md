@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie XLSM in PPTX mit .NET 
-description: Konvertieren Sie XLSM in PPTX auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen
+title: Konvertieren Sie XLSM in PPTX mit .NET oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie XLSM in PPTX auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie XLSM in PPTX über C#" h2="Excel exportieren&reg; XLSM zu PPTX auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie XLSM in PPTX über C# oder online" h2="Excel exportieren&reg; XLSM zu PPTX auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

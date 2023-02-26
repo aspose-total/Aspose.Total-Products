@@ -1,6 +1,6 @@
 ---
-title: แปลง ODS เป็น WORD ด้วย .NET 
-description: แปลง ODS เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
+title: แปลง ODS เป็น WORD ด้วย .NET หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง ODS เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: DOCX POWERPOINT DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง ODS เป็น WORD ผ่าน C#" h2="ส่งออก Excel&reg; ODS เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง ODS เป็น WORD ผ่าน C# หรือทางออนไลน์" h2="ส่งออก Excel&reg; ODS เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

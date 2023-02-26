@@ -1,6 +1,6 @@
 ---
 title: Преобразование EXCEL в DOCX с помощью .NET 
-description: Преобразование EXCEL в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin
+description: Преобразование EXCEL в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер EXCEL в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/excel-to-docx/
 family: total
 platformtag: net
@@ -11,7 +11,7 @@ otherformats: WORD DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование EXCEL в DOCX через C#" h2="Экспорт Excel&reg; EXCEL в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Преобразование EXCEL в DOCX через C# или онлайн" h2="Экспорт Excel&reg; EXCEL в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 
