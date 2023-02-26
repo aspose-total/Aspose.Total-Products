@@ -1,6 +1,6 @@
 ---
-title: जावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें
-description: माइक्रोसॉफ्ट एक्सेल या पावरपॉइंट का उपयोग किए बिना जावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें
+title: जावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: माइक्रोसॉफ्ट एक्सेल या पावरपॉइंट का उपयोग किए बिनाजावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन या मुफ्त ऑनलाइन कन्वर्टर के साथ
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: CSV XLAM XLSM TSV EXCEL MHTML XLSB FODS SXC XLTM ODS XLT MARKDOWN XLS XLSX DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना Android अनुप्रयोगों में PPS फ़ाइल को XLTX में निर्यात करें" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंड्रॉइड में पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना Android अनुप्रयोगों में PPS फ़ाइल को XLTX में निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 आप अपने Android ऐप्लिकेशन में [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) के ज़रिए आसानी से अपने Android ऐप्लिकेशन में PPS फ़ाइल को XLTX में बदल सकते हैं। पहले चरण में आप [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) का उपयोग करके HTML को PPS फ़ाइल निर्यात कर सकते हैं। दूसरे, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को XLTX में बदल सकते हैं। 

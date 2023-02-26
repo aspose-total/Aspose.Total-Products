@@ -1,6 +1,6 @@
 ---
-title: Java를 통해 Android에서 PPTX을 XLT로 변환
-description: Microsoft Excel 또는 PowerPoint를 사용하지 않고 Java를 통해 Android에서 PPTX를 XLT로 변환
+title: Java를 통해 Android에서 PPTX을 XLT로 변환 또는 온라인 또는 무료 온라인 변환기 사용
+description: Microsoft Excel 또는 PowerPoint를 사용하지 않고 Java를 통해 Android에서 PPTX를 XLT로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: CSV DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV EXCEL XLS ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 PPTX을 XLT로 변환" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 Android 애플리케이션에서 PPTX 파일을 XLT로 내보내기" >}}
+{{< blocks/products/pf/feature-page-header h1="Java를 통해 Android에서 PPTX을 XLT로 변환 또는 온라인" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 Android 애플리케이션에서 PPTX 파일을 XLT로 내보내기" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 통해 2단계 프로세스로 Android 애플리케이션에서 PPTX 파일을 XLT로 쉽게 변환할 수 있습니다. 첫 번째 단계에서 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 HTML로 PPTX 파일을 내보낼 수 있습니다. 둘째, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)를 사용하여 HTML을 XLT로 변환할 수 있습니다. 

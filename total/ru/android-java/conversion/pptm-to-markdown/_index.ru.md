@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPTM в MARKDOWN в Android через Java
-description: Преобразование PPTM в MARKDOWN в Android через Java без использования Microsoft Excel или PowerPoint
+title: Преобразование PPTM в MARKDOWN в Android через Java или онлайн или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPTM в MARKDOWN в Android через Java или онлайн без использования Microsoft Excel или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB CSV TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование PPTM в MARKDOWN в Android через Java" h2="Экспорт файла PPTM в MARKDOWN в приложениях Android без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование PPTM в MARKDOWN в Android через Java или онлайн" h2="Экспорт файла PPTM в MARKDOWN в приложениях Android без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете легко преобразовать файл PPTM в MARKDOWN в своих приложениях для Android, выполнив двухэтапный процесс с помощью [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). На первом этапе вы можете экспортировать файл PPTM в HTML, используя [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Во-вторых, используя [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в MARKDOWN. 

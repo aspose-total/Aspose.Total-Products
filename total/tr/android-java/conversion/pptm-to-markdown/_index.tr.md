@@ -1,6 +1,6 @@
 ---
-title: Java ile Android'de PPTM'u MARKDOWN'ye dönüştürün
-description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPTM'u Android'de MARKDOWN'ye dönüştürün
+title: Java ile Android'de PPTM'u MARKDOWN'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPTM'u Android'de MARKDOWN'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB CSV TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u MARKDOWN'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını MARKDOWN'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u MARKDOWN'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını MARKDOWN'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPTM dosyasını Android uygulamalarınızda kolayca MARKDOWN'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPTM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi MARKDOWN'ye dönüştürebilirsiniz. 

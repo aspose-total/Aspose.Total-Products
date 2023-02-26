@@ -1,6 +1,6 @@
 ---
-title: Converter PPS para FODS no Android via Java
-description: Converta PPS para FODS no Android via Java sem usar o Microsoft Excel ou PowerPoint
+title: Converter PPS para FODS no Android via Java ou online ou com o conversor online gratuito
+description: Converta PPS para FODS no Android via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM CSV XLTX EXCEL MARKDOWN MHTML XLSB XLT XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPS para FODS no Android via Java" h2="Exporte o arquivo PPS para FODS em aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPS para FODS no Android via Java ou online" h2="Exporte o arquivo PPS para FODS em aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter facilmente o arquivo PPS para FODS em seus aplicativos Android em um processo de duas etapas via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Na primeira etapa, você pode exportar o arquivo PPS para HTML usando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Em segundo lugar, usando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para FODS. 

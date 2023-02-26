@@ -1,6 +1,6 @@
 ---
-title: Converteer PPSX naar MHTML in Android via Java
-description: Converteer PPSX naar MHTML in Android via Java zonder Microsoft Excel of PowerPoint te gebruiken
+title: Converteer PPSX naar MHTML in Android via Java of online of met gratis Online Converter
+description: Converteer PPSX naar MHTML in Android via Java of online zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: TSV ODS DIF XLTM XLSB XLTX CSV SXC XLSX EXCEL XLS MARKDOWN FODS XLAM XLSM XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar MHTML in Android via Java" h2="Exporteer PPSX-bestand naar MHTML in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar MHTML in Android via Java of online" h2="Exporteer PPSX-bestand naar MHTML in Android-applicaties zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt het PPSX-bestand eenvoudig naar MHTML converteren in uw Android-applicaties in een proces van twee stappen via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In de eerste stap kunt u het PPSX-bestand naar HTML exporteren met [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Ten tweede, door [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) te gebruiken, kunt u HTML naar MHTML converteren. 

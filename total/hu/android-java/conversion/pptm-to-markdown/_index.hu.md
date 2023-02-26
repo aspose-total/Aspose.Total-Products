@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPTM-ot MARKDOWN-vé Androidon Java segítségével
-description: Konvertálja a PPTM-ot MARKDOWN-vé Androidon Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
+title: Konvertálja a PPTM-ot MARKDOWN-vé Androidon Java segítségével vagy online vagy ingyenes online konverterrel
+description: Konvertálja a PPTM-ot MARKDOWN-vé Androidon Java segítségével vagy online Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB CSV TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPTM-ot MARKDOWN-vé Androidon Java segítségével" h2="PPTM-fájl exportálása MARKDOWN-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPTM-ot MARKDOWN-vé Androidon Java segítségével vagy online" h2="PPTM-fájl exportálása MARKDOWN-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) segítségével kétlépéses folyamatban egyszerűen konvertálhat PPTM-fájlt MARKDOWN-vé Android-alkalmazásaiban. Az első lépésben a PPTM-fájlt exportálhatja HTML-be az [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) használatával. Másodszor, az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t MARKDOWN-vé. 

@@ -1,6 +1,6 @@
 ---
-title: Converter POTM para XLSX no Android via Java
-description: Converta POTM para XLSX no Android via Java sem usar o Microsoft Excel ou PowerPoint
+title: Converter POTM para XLSX no Android via Java ou online ou com o conversor online gratuito
+description: Converta POTM para XLSX no Android via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: MARKDOWN XLTX XLTM DIF ODS CSV XLSM XLS TSV EXCEL XLAM FODS SXC MHTML XLT XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter POTM para XLSX no Android via Java" h2="Exporte o arquivo POTM para XLSX em aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter POTM para XLSX no Android via Java ou online" h2="Exporte o arquivo POTM para XLSX em aplicativos Android sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter facilmente o arquivo POTM para XLSX em seus aplicativos Android em um processo de duas etapas via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Na primeira etapa, você pode exportar o arquivo POTM para HTML usando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Em segundo lugar, usando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para XLSX. 

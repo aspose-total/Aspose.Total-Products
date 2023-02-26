@@ -1,6 +1,6 @@
 ---
-title: Konversi PPTX ke XLSX di Android melalui Java
-description: Konversi PPTX ke XLSX di Android melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint
+title: Konversi PPTX ke XLSX di Android melalui Java atau daring atau dengan Konverter Online gratis
+description: Konversi PPTX ke XLSX di Android melalui Java atau daring tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MHTML XLSM CSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi PPTX ke XLSX di Android melalui Java" h2="Ekspor file PPTX ke XLSX di aplikasi Android tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi PPTX ke XLSX di Android melalui Java atau daring" h2="Ekspor file PPTX ke XLSX di aplikasi Android tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat dengan mudah mengonversi file PPTX ke XLSX di aplikasi Android Anda dalam proses dua langkah melalui [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Pada langkah pertama Anda dapat mengekspor file PPTX ke HTML dengan menggunakan [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Kedua, dengan menggunakan [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLSX. 

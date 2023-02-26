@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POWERPOINT in EXCEL in Android über Java
-description: Konvertieren Sie POWERPOINT in EXCEL in Android über Java, ohne Microsoft Excel oder PowerPoint zu verwenden
+title: Konvertieren Sie POWERPOINT in EXCEL in Android über Java oder online oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie POWERPOINT in EXCEL in Android über Java oder online, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLS TSV DIF CSV XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN MHTML ODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POWERPOINT in EXCEL in Android über Java" h2="Exportieren Sie die POWERPOINT-Datei in Android-Anwendungen in EXCEL, ohne Microsoft<sup>&reg;</sup> Excel oder PowerPoint zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POWERPOINT in EXCEL in Android über Java oder online" h2="Exportieren Sie die POWERPOINT-Datei in Android-Anwendungen in EXCEL, ohne Microsoft<sup>&reg;</sup> Excel oder PowerPoint zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die POWERPOINT-Datei in Ihren Android-Anwendungen in einem zweistufigen Prozess über [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ganz einfach in EXCEL konvertieren. Im ersten Schritt können Sie die POWERPOINT-Datei mithilfe von [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) in HTML exportieren. Zweitens können Sie durch die Verwendung von [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) HTML in EXCEL konvertieren. 

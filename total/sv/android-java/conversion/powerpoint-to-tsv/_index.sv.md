@@ -1,6 +1,6 @@
 ---
-title: Konvertera POWERPOINT till TSV i Android via Java
-description: Konvertera POWERPOINT till TSV i Android via Java utan att använda Microsoft Excel eller PowerPoint
+title: Konvertera POWERPOINT till TSV i Android via Java eller online eller med gratis Online Converter
+description: Konvertera POWERPOINT till TSV i Android via Java eller online utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF CSV XLT MARKDOWN XLSX SXC XLSM XLSB XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera POWERPOINT till TSV i Android via Java" h2="Exportera POWERPOINT-fil till TSV i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera POWERPOINT till TSV i Android via Java eller online" h2="Exportera POWERPOINT-fil till TSV i Android-applikationer utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan enkelt konvertera POWERPOINT-fil till TSV i dina Android-applikationer i en tvåstegsprocess via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). I det första steget kan du exportera POWERPOINT-fil till HTML genom att använda [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). För det andra, genom att använda [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), kan du konvertera HTML till TSV. 

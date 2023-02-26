@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή POT σε XLS στο Android μέσω Java
-description: Μετατροπή POT σε XLS στο Android μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
+title: Μετατροπή POT σε XLS στο Android μέσω Java ή διαδικτυακά ή με δωρεάν Online Converter
+description: Μετατροπή POT σε XLS στο Android μέσω Java ή διαδικτυακά χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS CSV XLTX SXC XLSB XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή POT σε XLS στο Android μέσω Java" h2="Εξαγωγή αρχείου POT σε XLS σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή POT σε XLS στο Android μέσω Java ή διαδικτυακά" h2="Εξαγωγή αρχείου POT σε XLS σε εφαρμογές Android χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε εύκολα να μετατρέψετε το αρχείο POT σε XLS στις εφαρμογές σας Android σε μια διαδικασία δύο βημάτων μέσω του [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Στο πρώτο βήμα, μπορείτε να εξαγάγετε αρχείο POT σε HTML χρησιμοποιώντας το [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε XLS. 

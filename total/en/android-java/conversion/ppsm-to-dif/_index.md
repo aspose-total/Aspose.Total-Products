@@ -1,6 +1,6 @@
 ---
-title: Convert PPSM to DIF in Android via Java
-description: Convert PPSM to DIF in Android via Java without using using Microsoft Excel or PowerPoint
+title: Convert PPSM to DIF in Android via Java or online
+description: Convert PPSM to DIF in Android via Java or online without using using Microsoft Excel or PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /android-java/conversion/ppsm-to-dif/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML CSV MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPSM to DIF in Android via Java" h2="Export PPSM file to DIF in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPSM to DIF in Android via Java or online" h2="Export PPSM file to DIF in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can easily convert PPSM file to DIF in your Android applications in a two-step process via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In the first step you can export PPSM file to HTML by using [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Secondly, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to DIF.

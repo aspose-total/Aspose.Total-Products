@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a POTM-ot XLSM-vé Androidon Java segítségével
-description: Konvertálja a POTM-ot XLSM-vé Androidon Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
+title: Konvertálja a POTM-ot XLSM-vé Androidon Java segítségével vagy online vagy ingyenes online konverterrel
+description: Konvertálja a POTM-ot XLSM-vé Androidon Java segítségével vagy online Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSX XLAM EXCEL XLT FODS TSV MARKDOWN XLTX XLSB XLS CSV XLTM MHTML SXC ODS DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a POTM-ot XLSM-vé Androidon Java segítségével" h2="POTM-fájl exportálása XLSM-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a POTM-ot XLSM-vé Androidon Java segítségével vagy online" h2="POTM-fájl exportálása XLSM-fájlba Android-alkalmazásokban Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) segítségével kétlépéses folyamatban egyszerűen konvertálhat POTM-fájlt XLSM-vé Android-alkalmazásaiban. Az első lépésben a POTM-fájlt exportálhatja HTML-be az [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) használatával. Másodszor, az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLSM-vé. 

@@ -1,6 +1,6 @@
 ---
-title: Convertir POT en XLTX dans Android via Java
-description: Convertissez POT en XLTX dans Android via Java sans utiliser Microsoft Excel ou PowerPoint
+title: Convertir POT en XLTX dans Android via Java ou en ligne ou avec le convertisseur en ligne gratuit
+description: Convertissez POT en XLTX dans Android via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM MHTML CSV ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir POT en XLTX dans Android via Java" h2="Exportez le fichier POT au format XLTX dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir POT en XLTX dans Android via Java ou en ligne" h2="Exportez le fichier POT au format XLTX dans les applications Android sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez facilement convertir le fichier POT en XLTX dans vos applications Android en deux étapes via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Dans la première étape, vous pouvez exporter le fichier POT au format HTML en utilisant [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Deuxièmement, en utilisant [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en XLTX. 

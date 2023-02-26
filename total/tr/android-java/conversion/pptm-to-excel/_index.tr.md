@@ -1,6 +1,6 @@
 ---
-title: Java ile Android'de PPTM'u EXCEL'ye dönüştürün
-description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPTM'u Android'de EXCEL'ye dönüştürün
+title: Java ile Android'de PPTM'u EXCEL'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan Java aracılığıyla PPTM'u Android'de EXCEL'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLTX CSV XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML FODS SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u EXCEL'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını EXCEL'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Java ile Android'de PPTM'u EXCEL'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan Android uygulamalarında PPTM dosyasını EXCEL'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) aracılığıyla iki aşamalı bir işlemle PPTM dosyasını Android uygulamalarınızda kolayca EXCEL'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/) kullanarak PPTM dosyasını HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi EXCEL'ye dönüştürebilirsiniz. 

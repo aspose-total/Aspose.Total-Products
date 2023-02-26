@@ -1,6 +1,6 @@
 ---
-title: Převeďte POT na SXC v Androidu přes Java
-description: Převeďte POT na SXC v Androidu přes Java bez použití Microsoft Excel nebo PowerPoint
+title: Převeďte POT na SXC v Androidu přes Java nebo online nebo pomocí bezplatného online převodníku
+description: Převeďte POT na SXC v Androidu přes Java nebo online bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS CSV FODS TSV XLTM MHTML MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte POT na SXC v Androidu přes Java" h2="Exportujte soubor POT do SXC v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte POT na SXC v Androidu přes Java nebo online" h2="Exportujte soubor POT do SXC v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Soubor POT můžete snadno převést na SXC ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor POT do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na SXC. 

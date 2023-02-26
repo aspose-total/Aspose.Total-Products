@@ -1,6 +1,6 @@
 ---
-title: قم بتحويل POTX إلى XLS في Android عبر Java
-description: قم بتحويل POTX إلى XLS في Android عبر Java دون استخدام Microsoft Excel أو PowerPoint
+title: قم بتحويل POTX إلى XLS في Android عبر Java أو عبر الإنترنت أو مع محول مجاني على الإنترنت
+description: قم بتحويل POTX إلى XLS في Android عبر Java أو عبر الإنترنت دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: FODS XLTX DIF XLTM XLSM MARKDOWN XLSB SXC XLT XLAM XLSX EXCEL MHTML TSV ODS CSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="قم بتحويل POTX إلى XLS في Android عبر Java" h2="قم بتصدير ملف POTX إلى XLS في تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="قم بتحويل POTX إلى XLS في Android عبر Java أو عبر الإنترنت" h2="قم بتصدير ملف POTX إلى XLS في تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك بسهولة تحويل ملف POTX إلى XLS في تطبيقات Android في عملية من خطوتين عبر [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). في الخطوة الأولى ، يمكنك تصدير ملف POTX إلى HTML باستخدام [Aspose.Slides لنظام Android عبر Java](https://products.aspose.com/slides/android-java/). ثانيًا ، باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLS. 

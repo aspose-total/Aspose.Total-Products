@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPTX na MHTML v Androidu přes Java
-description: Převeďte PPTX na MHTML v Androidu přes Java bez použití Microsoft Excel nebo PowerPoint
+title: Převeďte PPTX na MHTML v Androidu přes Java nebo online nebo pomocí bezplatného online převodníku
+description: Převeďte PPTX na MHTML v Androidu přes Java nebo online bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: DIF EXCEL FODS XLSX XLTM XLSB XLAM XLSM XLT TSV CSV SXC MARKDOWN ODS XLS XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte PPTX na MHTML v Androidu přes Java" h2="Exportujte soubor PPTX do MHTML v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte PPTX na MHTML v Androidu přes Java nebo online" h2="Exportujte soubor PPTX do MHTML v aplikacích pro Android bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Soubor PPTX můžete snadno převést na MHTML ve svých aplikacích pro Android ve dvou krocích prostřednictvím [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). V prvním kroku můžete exportovat soubor PPTX do HTML pomocí [Aspose.Slides pro Android přes Java](https://products.aspose.com/slides/android-java/). Za druhé, pomocí [Aspose.Cells pro Android přes Java](https://products.aspose.com/cells/android-java/) můžete převést HTML na MHTML. 

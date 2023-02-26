@@ -1,6 +1,6 @@
 ---
-title: Converti PPT in XLSB in Android tramite Java
-description: Converti PPT in XLSB in Android tramite Java senza utilizzare Microsoft Excel o PowerPoint
+title: Converti PPT in XLSB in Android tramite Java o in linea o con il convertitore online gratuito
+description: Converti PPT in XLSB in Android tramite Java o in linea senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLSM XLT XLS TSV XLTX DIF SXC XLAM XLTM XLSX CSV ODS FODS MHTML EXCEL MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti PPT in XLSB in Android tramite Java" h2="Esporta file PPT in XLSB nelle applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti PPT in XLSB in Android tramite Java o in linea" h2="Esporta file PPT in XLSB nelle applicazioni Android senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire facilmente file PPT in XLSB nelle tue applicazioni Android in un processo in due fasi tramite [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). Nel primo passaggio puoi esportare il file PPT in HTML utilizzando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). In secondo luogo, utilizzando [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in XLSB. 

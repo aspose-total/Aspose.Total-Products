@@ -1,6 +1,6 @@
 ---
-title: Convierta PPSX a DIF en Android a través de Java
-description: Convierta PPSX a DIF en Android a través de Java sin usar Microsoft Excel o PowerPoint
+title: Convierta PPSX a DIF en Android a través de Java o en línea o con el convertidor en línea gratuito
+description: Convierta PPSX a DIF en Android a través de Java o en línea sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM XLTM XLSB XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta PPSX a DIF en Android a través de Java" h2="Exporte archivos PPSX a DIF en aplicaciones de Android sin utilizar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta PPSX a DIF en Android a través de Java o en línea" h2="Exporte archivos PPSX a DIF en aplicaciones de Android sin utilizar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puede convertir fácilmente un archivo PPSX a DIF en sus aplicaciones de Android en un proceso de dos pasos a través de [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). En el primer paso, puede exportar el archivo PPSX a HTML utilizando [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). En segundo lugar, al usar [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a DIF. 
