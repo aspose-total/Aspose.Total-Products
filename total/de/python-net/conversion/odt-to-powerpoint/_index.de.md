@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie ODT in POWERPOINT in Python
-description: Konvertierung von ODT in POWERPOINT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint 
+title: Konvertieren Sie ODT in POWERPOINT in Python oder mit dem kostenlosen Online Converter
+description: Konvertierung von ODT in POWERPOINT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODT in POWERPOINT mit Python" h2="Konvertierung von ODT in POWERPOINT in Ihren Python-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODT in POWERPOINT mit Python oder online" h2="Konvertierung von ODT in POWERPOINT in Ihren Python-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

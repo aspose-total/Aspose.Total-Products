@@ -1,6 +1,6 @@
 ---
-title: Konversi ODT ke ODP dengan Python
-description: Konversi ODT ke ODP dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
+title: Konversi ODT ke ODP dengan Python atau dengan Konverter Online gratis
+description: Konversi ODT ke ODP dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi ODT ke ODP menggunakan Python" h2="Konversi ODT ke ODP di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi ODT ke ODP menggunakan Python atau daring" h2="Konversi ODT ke ODP di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

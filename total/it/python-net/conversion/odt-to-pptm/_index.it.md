@@ -1,6 +1,6 @@
 ---
-title: Converti ODT in PPTM in Python
-description: Conversione da ODT a PPTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
+title: Converti ODT in PPTM in Python o con il convertitore online gratuito
+description: Conversione da ODT a PPTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti ODT in PPTM usando Python" h2="Conversione da ODT a PPTM nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti ODT in PPTM usando Python o in linea" h2="Conversione da ODT a PPTM nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

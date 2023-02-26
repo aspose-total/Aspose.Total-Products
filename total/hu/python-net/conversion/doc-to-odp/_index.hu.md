@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a DOC-t ODP-be Pythonban
-description: DOC-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
+title: Konvertálja a DOC-t ODP-be Pythonban vagy ingyenes online konverterrel
+description: DOC-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOC-t ODP-be Python segítségével" h2="DOC-ből ODP-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOC-t ODP-be Python segítségével vagy online" h2="DOC-ből ODP-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

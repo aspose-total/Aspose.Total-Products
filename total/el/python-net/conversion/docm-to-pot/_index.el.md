@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOCM σε POT στην Python
-description: Μετατροπή DOCM σε POT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint 
+title: Μετατροπή DOCM σε POT στην Python ή με δωρεάν Online Converter
+description: Μετατροπή DOCM σε POT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε POT χρησιμοποιώντας Python" h2="Μετατροπή DOCM σε POT στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε POT χρησιμοποιώντας Python ή διαδικτυακά" h2="Μετατροπή DOCM σε POT στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

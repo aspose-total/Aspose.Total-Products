@@ -1,6 +1,6 @@
 ---
-title: تحويل DOC إلى PPT في Python
-description: تحويل DOC إلى PPT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
+title: تحويل DOC إلى PPT في Python أو مع محول مجاني على الإنترنت
+description: تحويل DOC إلى PPT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOC إلى PPT باستخدام Python" h2="تحويل DOC إلى PPT في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOC إلى PPT باستخدام Python أو عبر الإنترنت" h2="تحويل DOC إلى PPT في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

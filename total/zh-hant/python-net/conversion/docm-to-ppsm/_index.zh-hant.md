@@ -1,6 +1,6 @@
 ---
-title: 在 Python 中將 DOCM 轉換為 PPSM
-description: 在 Python 應用程序中將 DOCM 轉換為 PPSM，而無需使用 Microsoft Word 或 PowerPoint 
+title: 在 Python 中將 DOCM 轉換為 PPSM 或使用免費的在線轉換器
+description: 在 Python 應用程序中將 DOCM 轉換為 PPSM，而無需使用 Microsoft Word 或 PowerPoint 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Python 將 DOCM 轉換為 PPSM" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 應用程序中將 DOCM 轉換為 PPSM" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 將 DOCM 轉換為 PPSM 或在線" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 應用程序中將 DOCM 轉換為 PPSM" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

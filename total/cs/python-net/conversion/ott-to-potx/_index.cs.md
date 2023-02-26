@@ -1,6 +1,6 @@
 ---
-title: Převést OTT na POTX v Pythonu
-description: Převod OTT na POTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
+title: Převést OTT na POTX v Pythonu nebo pomocí bezplatného online převodníku
+description: Převod OTT na POTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte OTT na POTX pomocí Pythonu" h2="Převod OTT na POTX ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte OTT na POTX pomocí Pythonu nebo online" h2="Převod OTT na POTX ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

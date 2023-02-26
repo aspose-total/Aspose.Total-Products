@@ -1,6 +1,6 @@
 ---
-title: Převést DOT na PPTX v Pythonu
-description: Převod DOT na PPTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
+title: Převést DOT na PPTX v Pythonu nebo pomocí bezplatného online převodníku
+description: Převod DOT na PPTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte DOT na PPTX pomocí Pythonu" h2="Převod DOT na PPTX ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte DOT na PPTX pomocí Pythonu nebo online" h2="Převod DOT na PPTX ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

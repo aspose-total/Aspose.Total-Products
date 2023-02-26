@@ -1,6 +1,6 @@
 ---
-title: Převést RTF na POT v Pythonu
-description: Převod RTF na POT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
+title: Převést RTF na POT v Pythonu nebo pomocí bezplatného online převodníku
+description: Převod RTF na POT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte RTF na POT pomocí Pythonu" h2="Převod RTF na POT ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte RTF na POT pomocí Pythonu nebo online" h2="Převod RTF na POT ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

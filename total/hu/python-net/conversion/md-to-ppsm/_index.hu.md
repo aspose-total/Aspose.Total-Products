@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a MD-t PPSM-be Pythonban
-description: MD-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül 
+title: Konvertálja a MD-t PPSM-be Pythonban vagy ingyenes online konverterrel
+description: MD-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a MD-t PPSM-be Python segítségével" h2="MD-ből PPSM-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a MD-t PPSM-be Python segítségével vagy online" h2="MD-ből PPSM-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

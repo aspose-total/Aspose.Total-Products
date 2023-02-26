@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to PPS in Python
-description: TXT to PPS conversion in your Python applications without using Microsoft Word or PowerPoint 
+title: Convert TXT to PPS in Python or with free Online Converter
+description: TXT to PPS conversion in your Python applications without using Microsoft Word or PowerPoint or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert TXT to PPS using Python" h2="TXT to PPS conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert TXT to PPS using Python or online" h2="TXT to PPS conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

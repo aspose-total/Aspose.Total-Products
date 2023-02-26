@@ -1,6 +1,6 @@
 ---
-title: Python'da DOTM'yi POTX'e Dönüştür
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOTM'den POTX'e dönüştürme 
+title: Python'da DOTM'yi POTX'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOTM'den POTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python kullanarak DOTM'yi POTX'e dönüştürün" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda DOTM'den POTX'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Python kullanarak DOTM'yi POTX'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda DOTM'den POTX'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Converteer RTF naar POWERPOINT in Python
-description: RTF naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer RTF naar POWERPOINT in Python of met gratis Online Converter
+description: RTF naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar POWERPOINT met Python" h2="RTF naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar POWERPOINT met Python of online" h2="RTF naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

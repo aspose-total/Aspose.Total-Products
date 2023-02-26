@@ -1,6 +1,6 @@
 ---
-title: Konwertuj ODT na PPTX w Pythonie
-description: Konwersja ODT do PPTX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint 
+title: Konwertuj ODT na PPTX w Pythonie lub za pomocą bezpłatnego konwertera online
+description: Konwersja ODT do PPTX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj ODT na PPTX za pomocą Pythona" h2="Konwersja ODT do PPTX w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj ODT na PPTX za pomocą Pythona lub online" h2="Konwersja ODT do PPTX w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

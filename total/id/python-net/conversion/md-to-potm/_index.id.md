@@ -1,6 +1,6 @@
 ---
-title: Konversi MD ke POTM dengan Python
-description: Konversi MD ke POTM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
+title: Konversi MD ke POTM dengan Python atau dengan Konverter Online gratis
+description: Konversi MD ke POTM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi MD ke POTM menggunakan Python" h2="Konversi MD ke POTM di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi MD ke POTM menggunakan Python atau daring" h2="Konversi MD ke POTM di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

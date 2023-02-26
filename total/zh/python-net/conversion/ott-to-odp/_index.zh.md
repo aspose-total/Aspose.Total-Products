@@ -1,6 +1,6 @@
 ---
-title: 在 Python 中将 OTT 转换为 ODP
-description: 在 Python 应用程序中将 OTT 转换为 ODP，而无需使用 Microsoft Word 或 PowerPoint 
+title: 在 Python 中将 OTT 转换为 ODP 或使用免费的在线转换器
+description: 在 Python 应用程序中将 OTT 转换为 ODP，而无需使用 Microsoft Word 或 PowerPoint 或在线。在集成代码之前快速测试免费的 CSV 到 POT 在线转换器。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Python 将 OTT 转换为 ODP" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 应用程序中将 OTT 转换为 ODP" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 将 OTT 转换为 ODP 或在线" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 应用程序中将 OTT 转换为 ODP" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: تحويل DOTX إلى PPTX في Python
-description: تحويل DOTX إلى PPTX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
+title: تحويل DOTX إلى PPTX في Python أو مع محول مجاني على الإنترنت
+description: تحويل DOTX إلى PPTX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOTX إلى PPTX باستخدام Python" h2="تحويل DOTX إلى PPTX في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOTX إلى PPTX باستخدام Python أو عبر الإنترنت" h2="تحويل DOTX إلى PPTX في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

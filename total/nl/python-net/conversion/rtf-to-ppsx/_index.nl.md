@@ -1,6 +1,6 @@
 ---
-title: Converteer RTF naar PPSX in Python
-description: RTF naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer RTF naar PPSX in Python of met gratis Online Converter
+description: RTF naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar PPSX met Python" h2="RTF naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar PPSX met Python of online" h2="RTF naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

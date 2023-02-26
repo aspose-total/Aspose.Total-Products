@@ -1,6 +1,6 @@
 ---
-title: แปลง OTT เป็น PPSM ใน Python
-description: การแปลง OTT เป็น PPSM ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint 
+title: แปลง OTT เป็น PPSM ใน Python หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง OTT เป็น PPSM ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง OTT เป็น PPSM โดยใช้ Python" h2="การแปลง OTT เป็น PPSM ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง OTT เป็น PPSM โดยใช้ Python หรือทางออนไลน์" h2="การแปลง OTT เป็น PPSM ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

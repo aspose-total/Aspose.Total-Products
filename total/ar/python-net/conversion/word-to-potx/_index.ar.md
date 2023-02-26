@@ -1,6 +1,6 @@
 ---
-title: تحويل WORD إلى POTX في Python
-description: تحويل WORD إلى POTX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint 
+title: تحويل WORD إلى POTX في Python أو مع محول مجاني على الإنترنت
+description: تحويل WORD إلى POTX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل WORD إلى POTX باستخدام Python" h2="تحويل WORD إلى POTX في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل WORD إلى POTX باستخدام Python أو عبر الإنترنت" h2="تحويل WORD إلى POTX في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: แปลง MD เป็น POWERPOINT ใน Python
-description: การแปลง MD เป็น POWERPOINT ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint 
+title: แปลง MD เป็น POWERPOINT ใน Python หรือด้วยตัวแปลงออนไลน์ฟรี
+description: การแปลง MD เป็น POWERPOINT ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง MD เป็น POWERPOINT โดยใช้ Python" h2="การแปลง MD เป็น POWERPOINT ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง MD เป็น POWERPOINT โดยใช้ Python หรือทางออนไลน์" h2="การแปลง MD เป็น POWERPOINT ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Converteer DOCX naar PPT in Python
-description: DOCX naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer DOCX naar PPT in Python of met gratis Online Converter
+description: DOCX naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOCX naar PPT met Python" h2="DOCX naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOCX naar PPT met Python of online" h2="DOCX naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

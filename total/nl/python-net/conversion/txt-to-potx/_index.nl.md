@@ -1,6 +1,6 @@
 ---
-title: Converteer TXT naar POTX in Python
-description: TXT naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint 
+title: Converteer TXT naar POTX in Python of met gratis Online Converter
+description: TXT naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer TXT naar POTX met Python" h2="TXT naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer TXT naar POTX met Python of online" h2="TXT naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word<sup>&reg;</sup> of PowerPoint . te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

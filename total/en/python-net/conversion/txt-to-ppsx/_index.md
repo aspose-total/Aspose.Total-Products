@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to PPSX in Python
-description: TXT to PPSX conversion in your Python applications without using Microsoft Word or PowerPoint 
+title: Convert TXT to PPSX in Python or with free Online Converter
+description: TXT to PPSX conversion in your Python applications without using Microsoft Word or PowerPoint or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert TXT to PPSX using Python" h2="TXT to PPSX conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert TXT to PPSX using Python or online" h2="TXT to PPSX conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

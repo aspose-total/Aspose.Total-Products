@@ -1,6 +1,6 @@
 ---
-title: Преобразование DOCM в ODP в Python
-description: Преобразование DOCM в ODP в ваших приложениях Python без использования Microsoft Word или PowerPoint 
+title: Преобразование DOCM в ODP в Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование DOCM в ODP в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOCM в ODP с помощью Python" h2="Преобразование DOCM в ODP в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOCM в ODP с помощью Python или онлайн" h2="Преобразование DOCM в ODP в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

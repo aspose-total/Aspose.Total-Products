@@ -1,6 +1,6 @@
 ---
-title: Convert DOC to POTM in Python
-description: DOC to POTM conversion in your Python applications without using Microsoft Word or PowerPoint 
+title: Convert DOC to POTM in Python or with free Online Converter
+description: DOC to POTM conversion in your Python applications without using Microsoft Word or PowerPoint or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOC to POTM using Python" h2="DOC to POTM conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOC to POTM using Python or online" h2="DOC to POTM conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

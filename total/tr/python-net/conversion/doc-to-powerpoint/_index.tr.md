@@ -1,6 +1,6 @@
 ---
-title: Python'da DOC'yi POWERPOINT'e Dönüştür
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOC'den POWERPOINT'e dönüştürme 
+title: Python'da DOC'yi POWERPOINT'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOC'den POWERPOINT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python kullanarak DOC'yi POWERPOINT'e dönüştürün" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda DOC'den POWERPOINT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Python kullanarak DOC'yi POWERPOINT'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda DOC'den POWERPOINT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi MD sang PPSX bằng Python
-description: Chuyển đổi MD sang PPSX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint 
+title: Chuyển đổi MD sang PPSX bằng Python hoặc trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi MD sang PPSX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi MD sang PPSX bằng Python" h2="Chuyển đổi MD sang PPSX trong Ứng dụng Python của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi MD sang PPSX bằng Python hoặc trực tuyến" h2="Chuyển đổi MD sang PPSX trong Ứng dụng Python của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

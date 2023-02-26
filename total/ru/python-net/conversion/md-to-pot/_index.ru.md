@@ -1,6 +1,6 @@
 ---
-title: Преобразование MD в POT в Python
-description: Преобразование MD в POT в ваших приложениях Python без использования Microsoft Word или PowerPoint 
+title: Преобразование MD в POT в Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование MD в POT в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование MD в POT с помощью Python" h2="Преобразование MD в POT в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование MD в POT с помощью Python или онлайн" h2="Преобразование MD в POT в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

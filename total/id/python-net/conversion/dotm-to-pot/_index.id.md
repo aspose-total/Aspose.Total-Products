@@ -1,6 +1,6 @@
 ---
-title: Konversi DOTM ke POT dengan Python
-description: Konversi DOTM ke POT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint 
+title: Konversi DOTM ke POT dengan Python atau dengan Konverter Online gratis
+description: Konversi DOTM ke POT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi DOTM ke POT menggunakan Python" h2="Konversi DOTM ke POT di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi DOTM ke POT menggunakan Python atau daring" h2="Konversi DOTM ke POT di Aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

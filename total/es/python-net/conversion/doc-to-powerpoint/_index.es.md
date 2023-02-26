@@ -1,6 +1,6 @@
 ---
-title: Convertir DOC a POWERPOINT en Python
-description: Conversión de DOC a POWERPOINT en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint 
+title: Convertir DOC a POWERPOINT en Python o con el convertidor en línea gratuito
+description: Conversión de DOC a POWERPOINT en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierte DOC a POWERPOINT usando Python" h2="Conversión de DOC a POWERPOINT en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierte DOC a POWERPOINT usando Python o en línea" h2="Conversión de DOC a POWERPOINT en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

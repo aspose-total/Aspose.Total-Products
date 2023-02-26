@@ -1,6 +1,6 @@
 ---
-title: Converti WORD in PPTX in Python
-description: Conversione da WORD a PPTX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint 
+title: Converti WORD in PPTX in Python o con il convertitore online gratuito
+description: Conversione da WORD a PPTX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti WORD in PPTX usando Python" h2="Conversione da WORD a PPTX nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti WORD in PPTX usando Python o in linea" h2="Conversione da WORD a PPTX nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

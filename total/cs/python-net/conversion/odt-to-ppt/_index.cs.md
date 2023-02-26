@@ -1,6 +1,6 @@
 ---
-title: Převést ODT na PPT v Pythonu
-description: Převod ODT na PPT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint 
+title: Převést ODT na PPT v Pythonu nebo pomocí bezplatného online převodníku
+description: Převod ODT na PPT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte ODT na PPT pomocí Pythonu" h2="Převod ODT na PPT ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte ODT na PPT pomocí Pythonu nebo online" h2="Převod ODT na PPT ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

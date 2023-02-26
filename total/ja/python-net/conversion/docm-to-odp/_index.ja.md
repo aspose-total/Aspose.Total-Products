@@ -1,6 +1,6 @@
 ---
-title: Python で DOCM を ODP に変換する
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCM から ODP への変換 
+title: Python で DOCM を ODP に変換する または無料のオンライン コンバーターを使用
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCM から ODP への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python を使用して DOCM を ODP に変換する" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで DOCM から ODP への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python を使用して DOCM を ODP に変換する またはオンライン" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで DOCM から ODP への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
