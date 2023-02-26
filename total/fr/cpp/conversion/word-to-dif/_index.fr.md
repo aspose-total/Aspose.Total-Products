@@ -1,6 +1,6 @@
 ---
-title: Convertir WORD en DIF en C++
-description: API C++ pour convertir WORD en DIF sans utiliser Microsoft Word ou Microsoft Excel
+title: Convertir WORD en DIF en C++ ou avec le convertisseur en ligne gratuit
+description: API C++ pour convertir WORD en DIF ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: XLSB FODS ODS SXC XLTX XLAM XLTM XLSX XLSM EXCEL XLS TSV CSV XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en DIF" h2="Exportez WORD vers DIF via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en DIF ou en ligne" h2="Exportez WORD vers DIF via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez facilement inclure la fonction de conversion WORD en DIF dans vos applications C++. En utilisant l'API de manipulation et de conversion de worduments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du WORD vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en DIF. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir WORD en DIF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir WORD en DIF ou en ligne" %}}
 1. Ouvrez le fichier WORD à l'aide de la référence de classe [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)
 2. Convertir WORD en HTML en utilisant la fonction membre [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat)
 3. Chargez le wordument HTML à l'aide de la référence de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

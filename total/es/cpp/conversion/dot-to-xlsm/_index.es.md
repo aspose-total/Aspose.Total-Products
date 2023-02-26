@@ -1,6 +1,6 @@
 ---
-title: Convertir DOT a XLSM en C++
-description: API de C++ para convertir DOT a XLSM sin usar Microsoft Word o Microsoft Excel
+title: Convertir DOT a XLSM en C++ o con el convertidor en línea gratuito
+description: API de C++ para convertir DOT a XLSM o en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLSX XLTX CSV XLT EXCEL FODS XLS ODS XLAM DIF SXC TSV XLSB XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API de C++ para convertir DOT a XLSM" h2="Exporte DOT a XLSM a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API de C++ para convertir DOT a XLSM o en línea" h2="Exporte DOT a XLSM a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puede incluir fácilmente la función de conversión de DOT a XLSM dentro de sus aplicaciones C++. Mediante el uso de la API de manipulación y conversión de dotumentos rica en funciones, potente y fácil de usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOT a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a XLSM. Ambas API se incluyen en el paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOT a XLSM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOT a XLSM o en línea" %}}
 1. Abra el archivo DOT usando la referencia de clase [Dotumento](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
 2. Convierta DOT a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. Cargue el dotumento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

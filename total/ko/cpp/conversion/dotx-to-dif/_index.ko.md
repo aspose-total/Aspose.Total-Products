@@ -1,6 +1,6 @@
 ---
-title: C++에서 DOTX를 DIF로 변환
-description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 DOTX를 DIF로 변환하는 C++ API
+title: C++에서 DOTX를 DIF로 변환 또는 무료 온라인 변환기 사용
+description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 DOTX를 DIF로 변환하는 C++ API 또는 온라인 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: FODS EXCEL TSV XLSM XLSB XLTX XLT SXC XLTM XLAM CSV XLS ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTX를 DIF로 변환하는 C++ API" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 C++를 통해 DOTX를 DIF로 내보내기" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTX를 DIF로 변환하는 C++ API 또는 온라인" h2="Microsoft<sup>&reg;</sup> Word 또는 Microsoft<sup>&reg;</sup> Excel을 사용하지 않고 C++를 통해 DOTX를 DIF로 내보내기" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 C++ 애플리케이션에 DOTX에서 DIF로의 변환 기능을 쉽게 포함할 수 있습니다. 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환 API [Aspose.Words for C++](https://products.aspose.com/words/cpp/)를 사용하여 DOTX를 HTML로 내보낼 수 있습니다. 그 후 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)를 사용하여 HTML을 DIF로 변환할 수 있습니다. 두 API 모두 [C++용 Aspose.Total](https://products.aspose.com/total/cpp/) 패키지에 있습니다. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTX를 DIF로 변환하는 C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOTX를 DIF로 변환하는 C++ API 또는 온라인" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) 클래스 참조를 사용하여 DOTX 파일을 엽니다.
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat) 멤버 함수를 사용하여 DOTX를 HTML로 변환
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 클래스 참조를 사용하여 HTML 문서 로드

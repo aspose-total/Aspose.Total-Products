@@ -1,6 +1,6 @@
 ---
-title: تحويل DOC إلى FODS في C++
-description: C++ API لتحويل DOC إلى FODS دون استخدام Microsoft Word أو Microsoft Excel
+title: تحويل DOC إلى FODS في C++ أو مع محول مجاني على الإنترنت
+description: C++ API لتحويل DOC إلى FODS أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: DIF SXC ODS XLT XLSM XLSB EXCEL XLTX TSV XLAM XLS XLTM CSV XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOC إلى FODS" h2="تصدير DOC إلى FODS عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOC إلى FODS أو عبر الإنترنت" h2="تصدير DOC إلى FODS عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تضمين ميزة تحويل DOC إلى FODS داخل تطبيقات C++ بسهولة. باستخدام واجهة برمجة تطبيقات معالجة وتحويل غنية بالميزات وقوية وسهلة الاستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) ، يمكنك تصدير DOC إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) ، يمكنك تحويل HTML إلى FODS. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل DOC إلى FODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل DOC إلى FODS أو عبر الإنترنت" %}}
 1. افتح ملف DOC باستخدام [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) مرجع فئة
 2. تحويل DOC إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

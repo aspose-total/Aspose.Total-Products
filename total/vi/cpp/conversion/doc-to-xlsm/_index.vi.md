@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi DOC sang XLSM trong C++
-description: C++ API để chuyển đổi DOC sang XLSM mà không cần sử dụng Microsoft Word hoặc Microsoft Excel
+title: Chuyển đổi DOC sang XLSM trong C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: C++ API để chuyển đổi DOC sang XLSM mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLAM XLTM FODS XLTX XLS ODS XLT TSV XLSX SXC DIF XLSB EXCEL CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi DOC sang XLSM" h2="Xuất DOC sang XLSM qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi DOC sang XLSM hoặc trực tuyến" h2="Xuất DOC sang XLSM qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể bao gồm tính năng chuyển đổi DOC sang XLSM trong các ứng dụng C++ của mình một cách dễ dàng. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, mạnh mẽ và dễ sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOC sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang XLSM. Cả hai API đều nằm trong gói [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOC sang XLSM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOC sang XLSM hoặc trực tuyến" %}}
 1. Mở tệp DOC bằng tham chiếu lớp [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Chuyển đổi DOC sang HTML bằng cách sử dụng hàm thành viên [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Tải tài liệu HTML bằng cách sử dụng tham chiếu lớp [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

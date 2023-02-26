@@ -1,6 +1,6 @@
 ---
-title: Converteer WORD naar CSV in C++
-description: C++ API om WORD naar CSV te converteren zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Converteer WORD naar CSV in C++ of met gratis Online Converter
+description: C++ API om WORD naar CSV te converteren of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLSB XLSX XLSM XLS XLTM ODS XLAM FODS SXC EXCEL XLT DIF XLTX TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om WORD naar CSV te converteren" h2="Exporteer WORD naar CSV via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om WORD naar CSV te converteren of online" h2="Exporteer WORD naar CSV via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt de WORD-naar-CSV-conversiefunctie eenvoudig in uw C++-toepassingen opnemen. Door gebruik te maken van de veelzijdige, krachtige en gebruiksvriendelijke API voor wordumentmanipulatie en conversie [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kunt u WORD naar HTML exporteren. Daarna kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML naar CSV converteren. Beide API's vallen onder het pakket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om WORD naar CSV te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API om WORD naar CSV te converteren of online" %}}
 1. Open WORD-bestand met behulp van [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) klasseverwijzing
 2. Converteer WORD naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat) lidfunctie
 3. Laad HTML-wordument met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing

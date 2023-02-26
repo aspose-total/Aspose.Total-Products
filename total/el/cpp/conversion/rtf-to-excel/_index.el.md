@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή RTF σε EXCEL σε C++
-description: C++ API για μετατροπή RTF σε EXCEL χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Μετατροπή RTF σε EXCEL σε C++ ή με δωρεάν Online Converter
+description: C++ API για μετατροπή RTF σε EXCEL ή διαδικτυακά χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: DIF XLSB CSV XLSX SXC FODS XLTX XLTM XLAM ODS XLT TSV XLSM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή RTF σε EXCEL" h2="Εξαγωγή RTF σε EXCEL μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή RTF σε EXCEL ή διαδικτυακά" h2="Εξαγωγή RTF σε EXCEL μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής RTF σε EXCEL στις εφαρμογές σας C++ εύκολα. Χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξάγετε RTF σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε EXCEL. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή RTF σε EXCEL" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή RTF σε EXCEL ή διαδικτυακά" %}}
 1. Ανοίξτε το αρχείο RTF χρησιμοποιώντας την αναφορά κλάσης [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument)
 2. Μετατρέψτε το RTF σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την αναφορά κλάσης [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

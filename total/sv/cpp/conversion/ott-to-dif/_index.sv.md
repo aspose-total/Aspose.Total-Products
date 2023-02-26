@@ -1,6 +1,6 @@
 ---
-title: Konvertera OTT till DIF i C++
-description: C++ API för att konvertera OTT till DIF utan att använda Microsoft Word eller Microsoft Excel
+title: Konvertera OTT till DIF i C++ eller med gratis Online Converter
+description: C++ API för att konvertera OTT till DIF eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: XLTX TSV XLT XLSB SXC ODS XLSX CSV FODS XLS EXCEL XLSM XLAM XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera OTT till DIF" h2="Exportera OTT till DIF via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera OTT till DIF eller online" h2="Exportera OTT till DIF via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan enkelt inkludera OTT till DIF-konverteringsfunktionen i dina C++-applikationer. Genom att använda funktionsrika, kraftfulla och lättanvända dokumentmanipulerings- och konverterings-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera OTT till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), kan du konvertera HTML till DIF. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera OTT till DIF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera OTT till DIF eller online" %}}
 1. Öppna OTT-filen med [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) klassreferens
 2. Konvertera OTT till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

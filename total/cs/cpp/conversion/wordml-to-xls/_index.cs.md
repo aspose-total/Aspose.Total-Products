@@ -1,6 +1,6 @@
 ---
-title: Převést WORDML na XLS v C++
-description: C++ API pro převod WORDML do XLS bez použití Microsoft Word nebo Microsoft Excel
+title: Převést WORDML na XLS v C++ nebo pomocí bezplatného online převodníku
+description: C++ API pro převod WORDML do XLS nebo online bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: XLT XLSM ODS EXCEL XLSB SXC TSV XLTM FODS XLAM XLSX CSV XLTX DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro převod WORDML do XLS" h2="Export WORDML do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro převod WORDML do XLS nebo online" h2="Export WORDML do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Funkci převodu WORDML na XLS můžete snadno zahrnout do svých aplikací C++. Pomocí funkčně bohatého, výkonného a snadno použitelného rozhraní API pro manipulaci a konverzi dokumentů [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat WORDML do HTML. Poté můžete pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) převést HTML na XLS. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod WORDML do XLS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod WORDML do XLS nebo online" %}}
 1. Otevřete soubor WORDML pomocí odkazu třídy [Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument)
 2. Převeďte WORDML do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string_saveformat)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

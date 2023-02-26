@@ -1,6 +1,6 @@
 ---
-title: 在 C++ 中將 DOTX 轉換為 ODS
-description: 無需使用 Microsoft Word 或 Microsoft Excel 即可將 DOTX 轉換為 ODS 的 C++ API
+title: 在 C++ 中將 DOTX 轉換為 ODS 或使用免費的在線轉換器
+description: 無需使用 Microsoft Word 或 Microsoft Excel 即可將 DOTX 轉換為 ODS 的 C++ API 或在線 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: XLTM XLAM SXC TSV XLTX XLS XLSB DIF EXCEL XLSX CSV FODS XLT XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="將 DOTX 轉換為 ODS 的 C++ API" h2="通過 C++ 將 DOTX 導出為 ODS，無需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="將 DOTX 轉換為 ODS 的 C++ API 或在線" h2="通過 C++ 將 DOTX 導出為 ODS，無需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 您可以在 C++ 應用程序中輕鬆包含 DOTX 到 ODS 的轉換功能。通過使用功能豐富、功能強大且易於使用的文檔操作和轉換 API [Aspose.Words for C++](https://products.aspose.com/words/cpp/)，您可以將 DOTX 導出為 HTML。之後，通過使用 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)，您可以將 HTML 轉換為 ODS。這兩個 API 都屬於 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="將 DOTX 轉換為 ODS 的 C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="將 DOTX 轉換為 ODS 的 C++ API 或在線" %}}
 1. 用[Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)類參考打開DOTX文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat) 成員函數將 DOTX 轉換為 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 類參考加載 HTML 文檔

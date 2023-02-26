@@ -1,6 +1,6 @@
 ---
-title: Konwertuj RTF na XLSM w C++
-description: C++ API do konwersji RTF na XLSM bez używania Microsoft Word lub Microsoft Excel
+title: Konwertuj RTF na XLSM w C++ lub za pomocą bezpłatnego konwertera online
+description: C++ API do konwersji RTF na XLSM lub online bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: ODS XLTX EXCEL XLSB CSV XLAM XLSX SXC XLTM TSV XLT XLS DIF FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji RTF na XLSM" h2="Eksportuj RTF do XLSM za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji RTF na XLSM lub online" h2="Eksportuj RTF do XLSM za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz łatwo włączyć funkcję konwersji RTF do XLSM w swoich aplikacjach C++. Korzystając z bogatego w funkcje, wydajnego i łatwego w użyciu interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for C++](https://products.aspose.com/words/cpp/), możesz eksportować RTF do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), możesz przekonwertować HTML na XLSM. Oba interfejsy API są objęte pakietem [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji RTF na XLSM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji RTF na XLSM lub online" %}}
 1. Otwórz plik RTF, korzystając z odwołania do klasy [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument)
 2. Konwertuj RTF na HTML za pomocą funkcji członkowskiej [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat)
 3. Załaduj dokument HTML, używając odwołania do klasy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

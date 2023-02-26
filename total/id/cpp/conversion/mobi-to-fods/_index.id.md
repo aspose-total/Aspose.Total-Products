@@ -1,6 +1,6 @@
 ---
-title: Konversi MOBI ke FODS di C++
-description: C++ API untuk Mengonversi MOBI ke FODS tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Konversi MOBI ke FODS di C++ atau dengan Konverter Online gratis
+description: C++ API untuk Mengonversi MOBI ke FODS atau daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: SXC CSV XLTM XLSX XLS XLAM TSV XLSB ODS EXCEL XLTX DIF XLSM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi MOBI ke FODS" h2="Ekspor MOBI ke FODS melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi MOBI ke FODS atau daring" h2="Ekspor MOBI ke FODS melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat menyertakan fitur konversi MOBI ke FODS dalam aplikasi C++ Anda dengan mudah. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur, andal, dan mudah digunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/), Anda dapat mengekspor MOBI ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), Anda dapat mengonversi HTML ke FODS. Kedua API berada di bawah paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi MOBI ke FODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi MOBI ke FODS atau daring" %}}
 1. Buka file MOBI menggunakan referensi kelas [Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument)
 2. Konversi MOBI ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

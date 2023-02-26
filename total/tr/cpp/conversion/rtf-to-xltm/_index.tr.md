@@ -1,6 +1,6 @@
 ---
-title: RTF'yi C++'da XLTM'ye dönüştürün
-description: Microsoft Word veya Microsoft Excel kullanmadan RTF'yi XLTM'ye dönüştürmek için C++ API
+title: RTF'yi C++'da XLTM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan RTF'yi XLTM'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTM
 otherformats: XLSX FODS XLS TSV CSV DIF ODS XLSB SXC XLSM EXCEL XLAM XLT XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="RTF'yi XLTM'ye Dönüştürmek için C++ API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan RTF'yi C++ aracılığıyla XLTM'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="RTF'yi XLTM'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan RTF'yi C++ aracılığıyla XLTM'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 RTF'den XLTM'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak RTF'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi XLTM'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="RTF'yi XLTM'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="RTF'yi XLTM'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) sınıf referansını kullanarak RTF dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat) üye işlevini kullanarak RTF'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

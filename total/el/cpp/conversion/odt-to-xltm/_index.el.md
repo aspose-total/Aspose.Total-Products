@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή ODT σε XLTM σε C++
-description: C++ API για μετατροπή ODT σε XLTM χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Μετατροπή ODT σε XLTM σε C++ ή με δωρεάν Online Converter
+description: C++ API για μετατροπή ODT σε XLTM ή διαδικτυακά χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTM
 otherformats: TSV ODS DIF SXC XLT XLSM XLSB CSV FODS XLS EXCEL XLAM XLSX XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή ODT σε XLTM" h2="Εξαγωγή ODT σε XLTM μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή ODT σε XLTM ή διαδικτυακά" h2="Εξαγωγή ODT σε XLTM μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής ODT σε XLTM στις εφαρμογές σας C++ εύκολα. Χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξάγετε ODT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε XLTM. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή ODT σε XLTM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή ODT σε XLTM ή διαδικτυακά" %}}
 1. Ανοίξτε το αρχείο ODT χρησιμοποιώντας την αναφορά κλάσης [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument)
 2. Μετατρέψτε το ODT σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την αναφορά κλάσης [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

@@ -1,6 +1,6 @@
 ---
-title: OTT'yi C++'da XLTX'ye dönüştürün
-description: Microsoft Word veya Microsoft Excel kullanmadan OTT'yi XLTX'ye dönüştürmek için C++ API
+title: OTT'yi C++'da XLTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan OTT'yi XLTX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: XLAM DIF EXCEL FODS XLTM XLSB SXC XLSM TSV XLS CSV XLSX XLT ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="OTT'yi XLTX'ye Dönüştürmek için C++ API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan OTT'yi C++ aracılığıyla XLTX'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="OTT'yi XLTX'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan OTT'yi C++ aracılığıyla XLTX'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 OTT'den XLTX'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak OTT'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi XLTX'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="OTT'yi XLTX'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="OTT'yi XLTX'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) sınıf referansını kullanarak OTT dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat) üye işlevini kullanarak OTT'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

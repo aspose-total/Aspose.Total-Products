@@ -1,6 +1,6 @@
 ---
-title: Converter DOTM para FODS em C++
-description: API C++ para converter DOTM para FODS sem usar o Microsoft Word ou o Microsoft Excel
+title: Converter DOTM para FODS em C++ ou com o conversor online grátis
+description: API C++ para converter DOTM para FODS ou online sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: SXC XLSX XLS XLAM XLSB XLTX XLT ODS DIF EXCEL XLSM TSV XLTM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOTM para FODS" h2="Exporte DOTM para FODS via C++ sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOTM para FODS ou online" h2="Exporte DOTM para FODS via C++ sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode incluir o recurso de conversão de DOTM para FODS em seus aplicativos C++ facilmente. Usando a API de conversão e manipulação de dotmumentos [Aspose.Words for C++](https://products.aspose.com/words/cpp/) rica em recursos, poderosa e fácil de usar, você pode exportar DOTM para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), você pode converter HTML para FODS. Ambas as APIs estão no pacote [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOTM para FODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOTM para FODS ou online" %}}
 1. Abra o arquivo DOTM usando a referência de classe [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
 2. Converta DOTM para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
 3. Carregue o dotmumento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

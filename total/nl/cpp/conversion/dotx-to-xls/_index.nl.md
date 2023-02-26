@@ -1,6 +1,6 @@
 ---
-title: Converteer DOTX naar XLS in C++
-description: C++ API om DOTX naar XLS te converteren zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Converteer DOTX naar XLS in C++ of met gratis Online Converter
+description: C++ API om DOTX naar XLS te converteren of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: XLSB XLTX TSV XLSX ODS XLSM XLTM CSV DIF XLAM FODS XLT SXC EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om DOTX naar XLS te converteren" h2="Exporteer DOTX naar XLS via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om DOTX naar XLS te converteren of online" h2="Exporteer DOTX naar XLS via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt de DOTX-naar-XLS-conversiefunctie eenvoudig in uw C++-toepassingen opnemen. Door gebruik te maken van de veelzijdige, krachtige en gebruiksvriendelijke API voor dotxumentmanipulatie en conversie [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kunt u DOTX naar HTML exporteren. Daarna kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML naar XLS converteren. Beide API's vallen onder het pakket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om DOTX naar XLS te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API om DOTX naar XLS te converteren of online" %}}
 1. Open DOTX-bestand met behulp van [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) klasseverwijzing
 2. Converteer DOTX naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat) lidfunctie
 3. Laad HTML-dotxument met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing

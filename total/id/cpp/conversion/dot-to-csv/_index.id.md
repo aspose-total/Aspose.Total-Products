@@ -1,6 +1,6 @@
 ---
-title: Konversi DOT ke CSV di C++
-description: C++ API untuk Mengonversi DOT ke CSV tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Konversi DOT ke CSV di C++ atau dengan Konverter Online gratis
+description: C++ API untuk Mengonversi DOT ke CSV atau daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLAM DIF XLTX XLSB ODS TSV XLTM XLS XLSX FODS SXC EXCEL XLSM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOT ke CSV" h2="Ekspor DOT ke CSV melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOT ke CSV atau daring" h2="Ekspor DOT ke CSV melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat menyertakan fitur konversi DOT ke CSV dalam aplikasi C++ Anda dengan mudah. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur, andal, dan mudah digunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/), Anda dapat mengekspor DOT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), Anda dapat mengonversi HTML ke CSV. Kedua API berada di bawah paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOT ke CSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOT ke CSV atau daring" %}}
 1. Buka file DOT menggunakan referensi kelas [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
 2. Konversi DOT ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

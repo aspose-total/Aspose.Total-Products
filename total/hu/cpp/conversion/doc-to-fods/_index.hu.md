@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a DOC-t FODS-vé C++-ban
-description: C++ API a DOC konvertálásához FODS-vé Microsoft Word vagy Microsoft Excel használata nélkül
+title: Konvertálja a DOC-t FODS-vé C++-ban vagy ingyenes online konverterrel
+description: C++ API a DOC konvertálásához FODS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: DIF SXC ODS XLT XLSM XLSB EXCEL XLTX TSV XLAM XLS XLTM CSV XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a DOC FODS-vé konvertálásához" h2="DOC exportálása FODS-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a DOC FODS-vé konvertálásához vagy online" h2="DOC exportálása FODS-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Könnyedén beépíthet DOC-fods-átalakítási funkciót C++-alkalmazásaiba. A funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -konverziós API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával DOC-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) használatával konvertálhatja a HTML-t FODS-vé. Mindkét API az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) csomagban található. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a DOC FODS-vé konvertálásához" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API a DOC FODS-vé konvertálásához vagy online" %}}
 1. Nyissa meg a DOC-fájlt a [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) osztályhivatkozás használatával
 2. Alakítsa át a DOC-t HTML-vé a [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) tagfüggvény használatával
 3. Töltsön be HTML-dokumentumot az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztályhivatkozás használatával

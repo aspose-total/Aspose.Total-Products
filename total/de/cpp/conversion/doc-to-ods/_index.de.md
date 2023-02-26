@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie DOC in ODS in C++
-description: C++-API zum Konvertieren von DOC in ODS, ohne Microsoft Word oder Microsoft Excel zu verwenden
+title: Konvertieren Sie DOC in ODS in C++ oder mit dem kostenlosen Online Converter
+description: C++-API zum Konvertieren von DOC in ODS oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: EXCEL FODS DIF XLSM XLTM XLS XLSB XLT SXC TSV XLSX CSV XLAM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOC in ODS" h2="DOC über C++ in ODS exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOC in ODS oder online" h2="DOC über C++ in ODS exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die DOC-zu-ODS-Konvertierungsfunktion einfach in Ihre C++-Anwendungen integrieren. Durch die Verwendung der funktionsreichen, leistungsstarken und benutzerfreundlichen API zur Dokumentenbearbeitung und -konvertierung [Aspose.Words for C++](https://products.aspose.com/words/cpp/) können Sie DOC in HTML exportieren. Danach können Sie mit [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in ODS konvertieren. Beide APIs befinden sich im Paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von DOC in ODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von DOC in ODS oder online" %}}
 1. Öffnen Sie die DOC-Datei mit der Klassenreferenz [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 2. Konvertieren Sie DOC in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klassenreferenz [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).

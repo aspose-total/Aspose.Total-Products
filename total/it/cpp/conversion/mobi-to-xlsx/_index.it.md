@@ -1,6 +1,6 @@
 ---
-title: Converti MOBI in XLSX in C++
-description: API C++ per convertire MOBI in XLSX senza utilizzare Microsoft Word o Microsoft Excel
+title: Converti MOBI in XLSX in C++ o con il convertitore online gratuito
+description: API C++ per convertire MOBI in XLSX o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLTX ODS FODS XLT DIF XLSM XLS CSV XLSB EXCEL TSV XLTM SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire MOBI in XLSX" h2="Esporta MOBI in XLSX tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire MOBI in XLSX o in linea" h2="Esporta MOBI in XLSX tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi includere facilmente la funzione di conversione da MOBI a XLSX nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei mobiumenti ricca di funzionalità, potente e facile da usare [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare MOBI in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in XLSX. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire MOBI in XLSX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire MOBI in XLSX o in linea" %}}
 1. Aprire il file MOBI utilizzando [Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument) riferimento alla classe
 2. Converti MOBI in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat)
 3. Caricare il mobiumento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

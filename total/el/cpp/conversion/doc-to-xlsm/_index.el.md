@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOC σε XLSM σε C++
-description: C++ API για μετατροπή DOC σε XLSM χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Μετατροπή DOC σε XLSM σε C++ ή με δωρεάν Online Converter
+description: C++ API για μετατροπή DOC σε XLSM ή διαδικτυακά χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLAM XLTM FODS XLTX XLS ODS XLT TSV XLSX SXC DIF XLSB EXCEL CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOC σε XLSM" h2="Εξαγωγή DOC σε XLSM μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOC σε XLSM ή διαδικτυακά" h2="Εξαγωγή DOC σε XLSM μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής DOC σε XLSM στις εφαρμογές σας C++ εύκολα. Χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξάγετε DOC σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε XLSM. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή DOC σε XLSM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή DOC σε XLSM ή διαδικτυακά" %}}
 1. Ανοίξτε το αρχείο DOC χρησιμοποιώντας την αναφορά κλάσης [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Μετατρέψτε το DOC σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την αναφορά κλάσης [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

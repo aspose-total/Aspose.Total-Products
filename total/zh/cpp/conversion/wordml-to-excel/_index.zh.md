@@ -1,6 +1,6 @@
 ---
-title: 在 C++ 中将 WORDML 转换为 EXCEL
-description: 无需使用 Microsoft Word 或 Microsoft Excel 即可将 WORDML 转换为 EXCEL 的 C++ API
+title: 在 C++ 中将 WORDML 转换为 EXCEL 或使用免费的在线转换器
+description: 无需使用 Microsoft Word 或 Microsoft Excel 即可将 WORDML 转换为 EXCEL 的 C++ API 或在线 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLAM ODS XLT CSV TSV XLSX XLS XLTX SXC XLSB FODS XLTM DIF XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="将 WORDML 转换为 EXCEL 的 C++ API" h2="通过 C++ 将 WORDML 导出为 EXCEL，无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="将 WORDML 转换为 EXCEL 的 C++ API 或在线" h2="通过 C++ 将 WORDML 导出为 EXCEL，无需使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 您可以在 C++ 应用程序中轻松包含 WORDML 到 EXCEL 的转换功能。通过使用功能丰富、功能强大且易于使用的文档操作和转换 API [Aspose.Words for C++](https://products.aspose.com/words/cpp/)，您可以将 WORDML 导出为 HTML。之后，通过使用 [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)，您可以将 HTML 转换为 EXCEL。这两个 API 都属于 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="将 WORDML 转换为 EXCEL 的 C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="将 WORDML 转换为 EXCEL 的 C++ API 或在线" %}}
 1. 用[Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument)类参考打开WORDML文件
 2. 使用 [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string_saveformat) 成员函数将 WORDML 转换为 HTML
 3. 使用 [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 类参考加载 HTML 文档

@@ -1,6 +1,6 @@
 ---
-title: DOC'yi C++'da XLSM'ye dönüştürün
-description: Microsoft Word veya Microsoft Excel kullanmadan DOC'yi XLSM'ye dönüştürmek için C++ API
+title: DOC'yi C++'da XLSM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan DOC'yi XLSM'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLAM XLTM FODS XLTX XLS ODS XLT TSV XLSX SXC DIF XLSB EXCEL CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOC'yi XLSM'ye Dönüştürmek için C++ API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi C++ aracılığıyla XLSM'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="DOC'yi XLSM'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi C++ aracılığıyla XLSM'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 DOC'den XLSM'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOC'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi XLSM'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOC'yi XLSM'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOC'yi XLSM'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak DOC dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) üye işlevini kullanarak DOC'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

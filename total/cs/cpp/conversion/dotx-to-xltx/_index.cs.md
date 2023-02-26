@@ -1,6 +1,6 @@
 ---
-title: Převést DOTX na XLTX v C++
-description: C++ API pro převod DOTX do XLTX bez použití Microsoft Word nebo Microsoft Excel
+title: Převést DOTX na XLTX v C++ nebo pomocí bezplatného online převodníku
+description: C++ API pro převod DOTX do XLTX nebo online bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: EXCEL XLSM XLT ODS SXC TSV XLSX XLTM XLAM XLS DIF FODS CSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOTX do XLTX" h2="Export DOTX do XLTX přes C++ bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOTX do XLTX nebo online" h2="Export DOTX do XLTX přes C++ bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Funkci převodu DOTX na XLTX můžete snadno zahrnout do svých aplikací C++. Pomocí funkčně bohatého, výkonného a snadno použitelného rozhraní API pro manipulaci a konverzi dokumentů [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete exportovat DOTX do HTML. Poté můžete pomocí [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) převést HTML na XLTX. Obě rozhraní API jsou součástí balíčku [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod DOTX do XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod DOTX do XLTX nebo online" %}}
 1. Otevřete soubor DOTX pomocí odkazu třídy [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)
 2. Převeďte DOTX do HTML pomocí členské funkce [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat)
 3. Načtěte dokument HTML pomocí odkazu třídy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

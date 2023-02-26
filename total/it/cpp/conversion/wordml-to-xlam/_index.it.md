@@ -1,6 +1,6 @@
 ---
-title: Converti WORDML in XLAM in C++
-description: API C++ per convertire WORDML in XLAM senza utilizzare Microsoft Word o Microsoft Excel
+title: Converti WORDML in XLAM in C++ o con il convertitore online gratuito
+description: API C++ per convertire WORDML in XLAM o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLAM
 otherformats: XLSX CSV EXCEL SXC XLS FODS XLT DIF XLSM XLTM TSV ODS XLSB XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire WORDML in XLAM" h2="Esporta WORDML in XLAM tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire WORDML in XLAM o in linea" h2="Esporta WORDML in XLAM tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi includere facilmente la funzione di conversione da WORDML a XLAM nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei wordmlumenti ricca di funzionalità, potente e facile da usare [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare WORDML in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in XLAM. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire WORDML in XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire WORDML in XLAM o in linea" %}}
 1. Aprire il file WORDML utilizzando [Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) riferimento alla classe
 2. Converti WORDML in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string_saveformat)
 3. Caricare il wordmlumento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

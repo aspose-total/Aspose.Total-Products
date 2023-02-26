@@ -1,6 +1,6 @@
 ---
-title: Преобразование DOC в TSV на C++
-description: C++ API для преобразования DOC в TSV без использования Microsoft Word или Microsoft Excel
+title: Преобразование DOC в TSV на C++ или с помощью бесплатного онлайн-конвертера
+description: C++ API для преобразования DOC в TSV или онлайн без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: SXC XLS XLSX CSV EXCEL DIF XLTX XLAM XLSM XLTM FODS XLSB ODS XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOC в TSV" h2="Экспорт DOC в TSV через C++ без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOC в TSV или онлайн" h2="Экспорт DOC в TSV через C++ без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете легко включить функцию преобразования DOC в TSV в свои приложения C++. Используя многофункциональный, мощный и простой в использовании API для работы с документами и преобразования [Aspose.Words for C++](https://products.aspose.com/words/cpp/), вы можете экспортировать DOC в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), вы можете конвертировать HTML в TSV. Оба API входят в пакет [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования DOC в TSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования DOC в TSV или онлайн" %}}
 1. Откройте файл DOC, используя ссылку на класс [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document).
 2. Преобразуйте DOC в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat).
 3. Загрузите HTML-документ, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).

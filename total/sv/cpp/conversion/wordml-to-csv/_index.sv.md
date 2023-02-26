@@ -1,6 +1,6 @@
 ---
-title: Konvertera WORDML till CSV i C++
-description: C++ API för att konvertera WORDML till CSV utan att använda Microsoft Word eller Microsoft Excel
+title: Konvertera WORDML till CSV i C++ eller med gratis Online Converter
+description: C++ API för att konvertera WORDML till CSV eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: DIF FODS XLTX ODS XLAM EXCEL XLT SXC XLSX XLTM XLSM XLSB XLS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera WORDML till CSV" h2="Exportera WORDML till CSV via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera WORDML till CSV eller online" h2="Exportera WORDML till CSV via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan enkelt inkludera WORDML till CSV-konverteringsfunktionen i dina C++-applikationer. Genom att använda funktionsrika, kraftfulla och lättanvända dokumentmanipulerings- och konverterings-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera WORDML till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), kan du konvertera HTML till CSV. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera WORDML till CSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera WORDML till CSV eller online" %}}
 1. Öppna WORDML-filen med [Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) klassreferens
 2. Konvertera WORDML till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

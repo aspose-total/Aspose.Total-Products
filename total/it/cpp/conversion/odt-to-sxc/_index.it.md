@@ -1,6 +1,6 @@
 ---
-title: Converti ODT in SXC in C++
-description: API C++ per convertire ODT in SXC senza utilizzare Microsoft Word o Microsoft Excel
+title: Converti ODT in SXC in C++ o con il convertitore online gratuito
+description: API C++ per convertire ODT in SXC o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: SXC
 otherformats: DIF ODS XLTM XLSM XLT XLSX XLTX EXCEL XLS FODS XLSB TSV XLAM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire ODT in SXC" h2="Esporta ODT in SXC tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire ODT in SXC o in linea" h2="Esporta ODT in SXC tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi includere facilmente la funzione di conversione da ODT a SXC nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei odtumenti ricca di funzionalità, potente e facile da usare [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare ODT in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in SXC. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire ODT in SXC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire ODT in SXC o in linea" %}}
 1. Aprire il file ODT utilizzando [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument) riferimento alla classe
 2. Converti ODT in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat)
 3. Caricare il odtumento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

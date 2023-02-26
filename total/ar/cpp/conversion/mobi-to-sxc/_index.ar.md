@@ -1,6 +1,6 @@
 ---
-title: تحويل MOBI إلى SXC في C++
-description: C++ API لتحويل MOBI إلى SXC دون استخدام Microsoft Word أو Microsoft Excel
+title: تحويل MOBI إلى SXC في C++ أو مع محول مجاني على الإنترنت
+description: C++ API لتحويل MOBI إلى SXC أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: SXC
 otherformats: DIF ODS XLTX XLSX XLTM XLSM CSV FODS TSV XLT XLSB XLAM EXCEL XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل MOBI إلى SXC" h2="تصدير MOBI إلى SXC عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل MOBI إلى SXC أو عبر الإنترنت" h2="تصدير MOBI إلى SXC عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تضمين ميزة تحويل MOBI إلى SXC داخل تطبيقات C++ بسهولة. باستخدام واجهة برمجة تطبيقات معالجة وتحويل غنية بالميزات وقوية وسهلة الاستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) ، يمكنك تصدير MOBI إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) ، يمكنك تحويل HTML إلى SXC. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل MOBI إلى SXC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل MOBI إلى SXC أو عبر الإنترنت" %}}
 1. افتح ملف MOBI باستخدام [Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument) مرجع فئة
 2. تحويل MOBI إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

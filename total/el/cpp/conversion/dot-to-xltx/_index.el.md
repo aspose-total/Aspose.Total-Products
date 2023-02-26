@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOT σε XLTX σε C++
-description: C++ API για μετατροπή DOT σε XLTX χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Μετατροπή DOT σε XLTX σε C++ ή με δωρεάν Online Converter
+description: C++ API για μετατροπή DOT σε XLTX ή διαδικτυακά χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: EXCEL XLSX FODS TSV XLS CSV SXC DIF XLTM ODS XLSB XLT XLAM XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOT σε XLTX" h2="Εξαγωγή DOT σε XLTX μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή DOT σε XLTX ή διαδικτυακά" h2="Εξαγωγή DOT σε XLTX μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής DOT σε XLTX στις εφαρμογές σας C++ εύκολα. Χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξάγετε DOT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε XLTX. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή DOT σε XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή DOT σε XLTX ή διαδικτυακά" %}}
 1. Ανοίξτε το αρχείο DOT χρησιμοποιώντας την αναφορά κλάσης [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
 2. Μετατρέψτε το DOT σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την αναφορά κλάσης [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

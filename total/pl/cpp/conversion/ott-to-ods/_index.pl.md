@@ -1,6 +1,6 @@
 ---
-title: Konwertuj OTT na ODS w C++
-description: C++ API do konwersji OTT na ODS bez używania Microsoft Word lub Microsoft Excel
+title: Konwertuj OTT na ODS w C++ lub za pomocą bezpłatnego konwertera online
+description: C++ API do konwersji OTT na ODS lub online bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: EXCEL DIF XLSB CSV XLAM XLTX XLTM TSV FODS XLS XLT XLSM SXC XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji OTT na ODS" h2="Eksportuj OTT do ODS za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji OTT na ODS lub online" h2="Eksportuj OTT do ODS za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz łatwo włączyć funkcję konwersji OTT do ODS w swoich aplikacjach C++. Korzystając z bogatego w funkcje, wydajnego i łatwego w użyciu interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for C++](https://products.aspose.com/words/cpp/), możesz eksportować OTT do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), możesz przekonwertować HTML na ODS. Oba interfejsy API są objęte pakietem [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji OTT na ODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji OTT na ODS lub online" %}}
 1. Otwórz plik OTT, korzystając z odwołania do klasy [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)
 2. Konwertuj OTT na HTML za pomocą funkcji członkowskiej [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat)
 3. Załaduj dokument HTML, używając odwołania do klasy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

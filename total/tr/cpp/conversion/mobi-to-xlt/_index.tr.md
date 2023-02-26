@@ -1,6 +1,6 @@
 ---
-title: MOBI'yi C++'da XLT'ye dönüştürün
-description: Microsoft Word veya Microsoft Excel kullanmadan MOBI'yi XLT'ye dönüştürmek için C++ API
+title: MOBI'yi C++'da XLT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan MOBI'yi XLT'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLT
 otherformats: EXCEL XLTM CSV XLSB FODS XLS XLSM XLTX DIF ODS TSV XLSX SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="MOBI'yi XLT'ye Dönüştürmek için C++ API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan MOBI'yi C++ aracılığıyla XLT'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="MOBI'yi XLT'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan MOBI'yi C++ aracılığıyla XLT'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 MOBI'den XLT'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak MOBI'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi XLT'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="MOBI'yi XLT'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="MOBI'yi XLT'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument) sınıf referansını kullanarak MOBI dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat) üye işlevini kullanarak MOBI'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

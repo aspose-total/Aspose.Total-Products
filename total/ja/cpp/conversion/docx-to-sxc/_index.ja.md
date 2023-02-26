@@ -1,6 +1,6 @@
 ---
-title: C++でDOCXをSXCに変換する
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCXをSXCに変換するC++API
+title: C++でDOCXをSXCに変換する または無料のオンライン コンバーターを使用
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCXをSXCに変換するC++API またはオンライン またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: SXC
 otherformats: EXCEL ODS XLSM XLT XLTM CSV XLSX TSV XLAM DIF XLS XLSB XLTX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCXをSXCに変換するC++API" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でDOCXをSXCにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCXをSXCに変換するC++API またはオンライン" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でDOCXをSXCにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 C++アプリケーションにDOCXからSXCへの変換機能を簡単に含めることができます。機能豊富で強力で使いやすいドキュメント操作および変換API[Aspose.Wordsfor C++](https://products.aspose.com/words/cpp/)を使用することで、DOCXをHTMLにエクスポートできます。その後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)を使用して、HTMLをSXCに変換できます。どちらのAPIも[Aspose.TotalforC++](https://products.aspose.com/total/cpp/)パッケージに含まれています。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOCXをSXCに変換するC++API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOCXをSXCに変換するC++API またはオンライン" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.document)クラスリファレンスを使用してDOCXファイルを開きます
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)メンバー関数を使用してDOCXをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします

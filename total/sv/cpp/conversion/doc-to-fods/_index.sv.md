@@ -1,6 +1,6 @@
 ---
-title: Konvertera DOC till FODS i C++
-description: C++ API för att konvertera DOC till FODS utan att använda Microsoft Word eller Microsoft Excel
+title: Konvertera DOC till FODS i C++ eller med gratis Online Converter
+description: C++ API för att konvertera DOC till FODS eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: DIF SXC ODS XLT XLSM XLSB EXCEL XLTX TSV XLAM XLS XLTM CSV XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera DOC till FODS" h2="Exportera DOC till FODS via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera DOC till FODS eller online" h2="Exportera DOC till FODS via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan enkelt inkludera DOC till FODS-konverteringsfunktionen i dina C++-applikationer. Genom att använda funktionsrika, kraftfulla och lättanvända dokumentmanipulerings- och konverterings-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera DOC till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), kan du konvertera HTML till FODS. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera DOC till FODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera DOC till FODS eller online" %}}
 1. Öppna DOC-filen med [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klassreferens
 2. Konvertera DOC till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

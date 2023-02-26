@@ -1,6 +1,6 @@
 ---
 title: Convert DOTX to XLT in C++
-description: C++ API to Convert DOTX to XLT without using using Microsoft Word or Microsoft Excel
+description: C++ API to Convert DOTX to XLT or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /cpp/conversion/dotx-to-xlt/
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLT
 otherformats: EXCEL XLSB XLAM XLTM XLSM SXC TSV FODS XLSX DIF XLTX ODS CSV XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOTX to XLT" h2="Export DOTX to XLT via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOTX to XLT or online" h2="Export DOTX to XLT via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  You can include DOTX to XLT conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOTX to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to XLT. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert DOTX to XLT" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert DOTX to XLT or online" %}}
 1. Open DOTX file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

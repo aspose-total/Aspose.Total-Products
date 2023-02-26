@@ -1,6 +1,6 @@
 ---
-title: DOTX'yi C++'da DIF'ye dönüştürün
-description: Microsoft Word veya Microsoft Excel kullanmadan DOTX'yi DIF'ye dönüştürmek için C++ API
+title: DOTX'yi C++'da DIF'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Word veya Microsoft Excel kullanmadan DOTX'yi DIF'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: FODS EXCEL TSV XLSM XLSB XLTX XLT SXC XLTM XLAM CSV XLS ODS XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTX'yi DIF'ye Dönüştürmek için C++ API" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOTX'yi C++ aracılığıyla DIF'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTX'yi DIF'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOTX'yi C++ aracılığıyla DIF'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 DOTX'den DIF'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOTX'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi DIF'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTX'yi DIF'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOTX'yi DIF'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) sınıf referansını kullanarak DOTX dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat) üye işlevini kullanarak DOTX'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

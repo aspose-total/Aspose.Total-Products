@@ -1,6 +1,6 @@
 ---
-title: Konversi DOTM ke XLSX di C++
-description: C++ API untuk Mengonversi DOTM ke XLSX tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Konversi DOTM ke XLSX di C++ atau dengan Konverter Online gratis
+description: C++ API untuk Mengonversi DOTM ke XLSX atau daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLSB TSV ODS XLTX EXCEL FODS SXC XLT DIF XLSM CSV XLAM XLS XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOTM ke XLSX" h2="Ekspor DOTM ke XLSX melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOTM ke XLSX atau daring" h2="Ekspor DOTM ke XLSX melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat menyertakan fitur konversi DOTM ke XLSX dalam aplikasi C++ Anda dengan mudah. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur, andal, dan mudah digunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/), Anda dapat mengekspor DOTM ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), Anda dapat mengonversi HTML ke XLSX. Kedua API berada di bawah paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOTM ke XLSX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOTM ke XLSX atau daring" %}}
 1. Buka file DOTM menggunakan referensi kelas [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
 2. Konversi DOTM ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

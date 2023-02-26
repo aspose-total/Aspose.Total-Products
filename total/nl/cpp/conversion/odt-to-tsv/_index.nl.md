@@ -1,6 +1,6 @@
 ---
-title: Converteer ODT naar TSV in C++
-description: C++ API om ODT naar TSV te converteren zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Converteer ODT naar TSV in C++ of met gratis Online Converter
+description: C++ API om ODT naar TSV te converteren of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: XLSX XLS ODS DIF XLAM XLTX XLSB EXCEL XLT XLSM CSV XLTM FODS SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om ODT naar TSV te converteren" h2="Exporteer ODT naar TSV via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om ODT naar TSV te converteren of online" h2="Exporteer ODT naar TSV via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt de ODT-naar-TSV-conversiefunctie eenvoudig in uw C++-toepassingen opnemen. Door gebruik te maken van de veelzijdige, krachtige en gebruiksvriendelijke API voor odtumentmanipulatie en conversie [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kunt u ODT naar HTML exporteren. Daarna kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML naar TSV converteren. Beide API's vallen onder het pakket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om ODT naar TSV te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API om ODT naar TSV te converteren of online" %}}
 1. Open ODT-bestand met behulp van [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument) klasseverwijzing
 2. Converteer ODT naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat) lidfunctie
 3. Laad HTML-odtument met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing

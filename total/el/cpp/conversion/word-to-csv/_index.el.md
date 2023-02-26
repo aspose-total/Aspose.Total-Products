@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή WORD σε CSV σε C++
-description: C++ API για μετατροπή WORD σε CSV χωρίς χρήση του Microsoft Word ή του Microsoft Excel
+title: Μετατροπή WORD σε CSV σε C++ ή με δωρεάν Online Converter
+description: C++ API για μετατροπή WORD σε CSV ή διαδικτυακά χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLSB XLSX XLSM XLS XLTM ODS XLAM FODS SXC EXCEL XLT DIF XLTX TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή WORD σε CSV" h2="Εξαγωγή WORD σε CSV μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για μετατροπή WORD σε CSV ή διαδικτυακά" h2="Εξαγωγή WORD σε CSV μέσω C++ χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να συμπεριλάβετε τη δυνατότητα μετατροπής WORD σε CSV στις εφαρμογές σας C++ εύκολα. Χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο API χειρισμού εγγράφων και μετατροπής [Aspose.Words for C++](https://products.aspose.com/words/cpp/), μπορείτε να εξάγετε WORD σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), μπορείτε να μετατρέψετε HTML σε CSV. Και τα δύο API περιλαμβάνονται στο πακέτο [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή WORD σε CSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή WORD σε CSV ή διαδικτυακά" %}}
 1. Ανοίξτε το αρχείο WORD χρησιμοποιώντας την αναφορά κλάσης [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument)
 2. Μετατρέψτε το WORD σε HTML χρησιμοποιώντας τη συνάρτηση μέλους [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat)
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την αναφορά κλάσης [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

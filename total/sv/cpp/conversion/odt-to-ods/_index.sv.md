@@ -1,6 +1,6 @@
 ---
-title: Konvertera ODT till ODS i C++
-description: C++ API för att konvertera ODT till ODS utan att använda Microsoft Word eller Microsoft Excel
+title: Konvertera ODT till ODS i C++ eller med gratis Online Converter
+description: C++ API för att konvertera ODT till ODS eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: XLT EXCEL XLSM FODS DIF XLTX XLS XLAM SXC TSV XLTM CSV XLSX XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera ODT till ODS" h2="Exportera ODT till ODS via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera ODT till ODS eller online" h2="Exportera ODT till ODS via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan enkelt inkludera ODT till ODS-konverteringsfunktionen i dina C++-applikationer. Genom att använda funktionsrika, kraftfulla och lättanvända dokumentmanipulerings- och konverterings-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera ODT till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), kan du konvertera HTML till ODS. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera ODT till ODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera ODT till ODS eller online" %}}
 1. Öppna ODT-filen med [Odtument](https://reference.aspose.com/words/cpp/class/aspose.words.odtument) klassreferens
 2. Konvertera ODT till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.odtument#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

@@ -1,6 +1,6 @@
 ---
-title: تحويل DOCX إلى XLAM في C++
-description: C++ API لتحويل DOCX إلى XLAM دون استخدام Microsoft Word أو Microsoft Excel
+title: تحويل DOCX إلى XLAM في C++ أو مع محول مجاني على الإنترنت
+description: C++ API لتحويل DOCX إلى XLAM أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLAM
 otherformats: XLT XLS DIF TSV FODS ODS CSV XLSM XLTX XLSX SXC XLTM XLSB EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOCX إلى XLAM" h2="تصدير DOCX إلى XLAM عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOCX إلى XLAM أو عبر الإنترنت" h2="تصدير DOCX إلى XLAM عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تضمين ميزة تحويل DOCX إلى XLAM داخل تطبيقات C++ بسهولة. باستخدام واجهة برمجة تطبيقات معالجة وتحويل غنية بالميزات وقوية وسهلة الاستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) ، يمكنك تصدير DOCX إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) ، يمكنك تحويل HTML إلى XLAM. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل DOCX إلى XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل DOCX إلى XLAM أو عبر الإنترنت" %}}
 1. افتح ملف DOCX باستخدام [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) مرجع فئة
 2. تحويل DOCX إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

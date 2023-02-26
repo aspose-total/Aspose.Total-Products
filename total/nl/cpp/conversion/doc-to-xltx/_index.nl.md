@@ -1,6 +1,6 @@
 ---
-title: Converteer DOC naar XLTX in C++
-description: C++ API om DOC naar XLTX te converteren zonder Microsoft Word of Microsoft Excel te gebruiken
+title: Converteer DOC naar XLTX in C++ of met gratis Online Converter
+description: C++ API om DOC naar XLTX te converteren of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: ODS CSV XLSX XLSB SXC XLSM EXCEL FODS DIF XLS XLTM XLAM TSV XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om DOC naar XLTX te converteren" h2="Exporteer DOC naar XLTX via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om DOC naar XLTX te converteren of online" h2="Exporteer DOC naar XLTX via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt de DOC-naar-XLTX-conversiefunctie eenvoudig in uw C++-toepassingen opnemen. Door gebruik te maken van de veelzijdige, krachtige en gebruiksvriendelijke API voor documentmanipulatie en conversie [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kunt u DOC naar HTML exporteren. Daarna kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML naar XLTX converteren. Beide API's vallen onder het pakket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om DOC naar XLTX te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API om DOC naar XLTX te converteren of online" %}}
 1. Open DOC-bestand met behulp van [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) klasseverwijzing
 2. Converteer DOC naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) lidfunctie
 3. Laad HTML-document met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing

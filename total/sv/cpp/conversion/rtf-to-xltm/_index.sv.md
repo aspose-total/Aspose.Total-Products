@@ -1,6 +1,6 @@
 ---
-title: Konvertera RTF till XLTM i C++
-description: C++ API för att konvertera RTF till XLTM utan att använda Microsoft Word eller Microsoft Excel
+title: Konvertera RTF till XLTM i C++ eller med gratis Online Converter
+description: C++ API för att konvertera RTF till XLTM eller online utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTM
 otherformats: XLSX FODS XLS TSV CSV DIF ODS XLSB SXC XLSM EXCEL XLAM XLT XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera RTF till XLTM" h2="Exportera RTF till XLTM via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att konvertera RTF till XLTM eller online" h2="Exportera RTF till XLTM via C++ utan att använda Microsoft<sup>&reg;</sup> Word eller Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan enkelt inkludera RTF till XLTM-konverteringsfunktionen i dina C++-applikationer. Genom att använda funktionsrika, kraftfulla och lättanvända dokumentmanipulerings- och konverterings-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kan du exportera RTF till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), kan du konvertera HTML till XLTM. Båda API:erna kommer under paketet [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera RTF till XLTM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera RTF till XLTM eller online" %}}
 1. Öppna RTF-filen med [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) klassreferens
 2. Konvertera RTF till HTML genom att använda medlemsfunktionen [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat)
 3. Ladda HTML-dokument med hjälp av klassreferens [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

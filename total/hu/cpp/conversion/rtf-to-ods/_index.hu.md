@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a RTF-t ODS-vé C++-ban
-description: C++ API a RTF konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül
+title: Konvertálja a RTF-t ODS-vé C++-ban vagy ingyenes online konverterrel
+description: C++ API a RTF konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: XLT XLAM XLSX FODS XLSM DIF EXCEL TSV XLS XLTX CSV XLSB SXC XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a RTF ODS-vé konvertálásához" h2="RTF exportálása ODS-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a RTF ODS-vé konvertálásához vagy online" h2="RTF exportálása ODS-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Könnyedén beépíthet RTF-ods-átalakítási funkciót C++-alkalmazásaiba. A funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -konverziós API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával RTF-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) használatával konvertálhatja a HTML-t ODS-vé. Mindkét API az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) csomagban található. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a RTF ODS-vé konvertálásához" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API a RTF ODS-vé konvertálásához vagy online" %}}
 1. Nyissa meg a RTF-fájlt a [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument) osztályhivatkozás használatával
 2. Alakítsa át a RTF-t HTML-vé a [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat) tagfüggvény használatával
 3. Töltsön be HTML-dokumentumot az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztályhivatkozás használatával

@@ -1,6 +1,6 @@
 ---
-title: Konversi DOCX ke EXCEL di C++
-description: C++ API untuk Mengonversi DOCX ke EXCEL tanpa menggunakan Microsoft Word atau Microsoft Excel
+title: Konversi DOCX ke EXCEL di C++ atau dengan Konverter Online gratis
+description: C++ API untuk Mengonversi DOCX ke EXCEL atau daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: TSV XLT XLS ODS DIF XLSB XLAM XLSX CSV FODS SXC XLSM XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOCX ke EXCEL" h2="Ekspor DOCX ke EXCEL melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi DOCX ke EXCEL atau daring" h2="Ekspor DOCX ke EXCEL melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat menyertakan fitur konversi DOCX ke EXCEL dalam aplikasi C++ Anda dengan mudah. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur, andal, dan mudah digunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/), Anda dapat mengekspor DOCX ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), Anda dapat mengonversi HTML ke EXCEL. Kedua API berada di bawah paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOCX ke EXCEL" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOCX ke EXCEL atau daring" %}}
 1. Buka file DOCX menggunakan referensi kelas [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Konversi DOCX ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)
