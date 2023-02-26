@@ -1,6 +1,6 @@
 ---
-title: Convierta PPSX a DOTM a través de Java
-description: API de Java para exportar PPSX a DOTM sin usar Microsoft Word o PowerPoint
+title: Convierta PPSX a DOTM a través de Java o en línea
+description: API de Java para exportar PPSX a DOTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/ppsx-to-dotm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: DOT OTT WORDML TEXT DOTX RTF WORD DOTM DOTMM DOTMX ODT FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPSX a DOTM a través de Java" h2="API de Java en las instalaciones para la conversión de PowerPoint PPSX a DOTM dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPSX a DOTM a través de Java o en línea" h2="API de Java en las instalaciones para la conversión de PowerPoint PPSX a DOTM dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total para Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint PPSX a Word DOTM. La conversión del dotmumento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir PPSX a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a DOTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

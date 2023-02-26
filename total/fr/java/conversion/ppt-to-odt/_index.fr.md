@@ -1,6 +1,6 @@
 ---
-title: Convertir PPT en ODT via Java
-description: API Java pour exporter PPT vers ODT sans utiliser Microsoft Word ou PowerPoint
+title: Convertir PPT en ODT via Java ou en ligne
+description: API Java pour exporter PPT vers ODT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/ppt-to-odt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: TEXT DOTM WORDML ODTM RTF FLATOPC DOT WORD ODT ODTX OTT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPT en ODT via Java" h2="API Java sur site pour la conversion PowerPoint PPT en ODT dans toutes les applications Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPT en ODT via Java ou en ligne" h2="API Java sur site pour la conversion PowerPoint PPT en ODT dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPT en Word ODT. La conversion du document est un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPT en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), nous convertirons le HTML en ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}

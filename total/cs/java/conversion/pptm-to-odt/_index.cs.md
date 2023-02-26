@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPTM na ODT přes Java
-description: Java API pro export PPTM do ODT bez použití Microsoft Word nebo PowerPoint
+title: Převeďte PPTM na ODT přes Java nebo online
+description: Java API pro export PPTM do ODT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/pptm-to-odt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: ODTM ODT FLATOPC WORD ODTX DOT TEXT DOTM DOTX RTF WORDML OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTM na ODT přes Java" h2="On Premise Java API pro PowerPoint převod PPTM na ODT v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTM na ODT přes Java nebo online" h2="On Premise Java API pro PowerPoint převod PPTM na ODT v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Knihovny pro automatizaci formátů souborů umožňují vývojářům Java automatizovat proces dávkového převodu PowerPoint PPTM do Word ODT. Převod dokumentu je dvoukrokový proces a zahrnuje použití dvou rozhraní API. K převodu PPTM do HTML použijeme [Aspose.Slides for Java](https://products.aspose.com/slides/java/), což je PowerPoint API pro manipulaci a správu prezentací. Pptmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for Java](https://products.aspose.com/words/java/) převedeme HTML na ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}

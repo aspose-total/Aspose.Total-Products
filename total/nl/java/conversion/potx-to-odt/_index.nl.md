@@ -1,6 +1,6 @@
 ---
-title: Converteer POTX naar ODT via Java
-description: Java API om POTX naar ODT te exporteren zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer POTX naar ODT via Java of online
+description: Java API om POTX naar ODT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/potx-to-odt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF ODTM ODTX WORD ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POTX naar ODT via Java" h2="On Premise Java API voor PowerPoint POTX naar ODT conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POTX naar ODT via Java of online" h2="On Premise Java API voor PowerPoint POTX naar ODT conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken voor automatisering van bestandsindelingen stellen Java-ontwikkelaars in staat om het batchconversieproces van PowerPoint POTX naar Word ODT te automatiseren. Het converteren van het document is een proces in twee stappen en omvat het gebruik van twee API's. We gebruiken [Aspose.Slides for Java](https://products.aspose.com/slides/java/), een PowerPoint-API voor het manipuleren en beheren van presentaties om POTX naar HTML te converteren. Daarna zullen we met behulp van de functierijke Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) de HTML naar ODT converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

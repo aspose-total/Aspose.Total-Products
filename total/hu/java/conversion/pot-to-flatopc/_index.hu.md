@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a POT-ot FLATOPC-ba Java segítségével
-description: Java API a POT exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül
+title: Konvertálja a POT-ot FLATOPC-ba Java segítségével vagy online
+description: Java API a POT exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/pot-to-flatopc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: FLATOPCX RTF DOTX OTT WORDML DOT FLATOPC FLATOPCM DOTM ODT WORD TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a POT-ot FLATOPC-ba Java segítségével" h2="On Premise Java API a PowerPoint POT-ból FLATOPC konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a POT-ot FLATOPC-ba Java segítségével vagy online" h2="On Premise Java API a PowerPoint POT-ból FLATOPC konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) A fájlformátum-automatizálási könyvtárak lehetővé teszik a Java-fejlesztők számára, hogy automatizálják a PowerPoint POT-ból Word FLATOPC-ba történő kötegelt konvertálási folyamatát. A dokumentum konvertálása kétlépéses folyamat, és két API használatát foglalja magában. Az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) alkalmazást fogjuk használni, amely egy PowerPoint API a prezentációk manipulálásához és kezeléséhez a POT HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a HTML-t FLATOPC formátumba konvertáljuk.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Конвертировать PPS в DOC через Java
-description: Java API для экспорта PPS в DOC без использования Microsoft Word или PowerPoint
+title: Конвертировать PPS в DOC через Java или онлайн
+description: Java API для экспорта PPS в DOC без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/pps-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCM FLATOPC WORDML ODT DOCX OTT TEXT WORD DOT RTF DOTM DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPS в DOC через Java" h2="Локальный Java API для преобразования PowerPoint PPS в DOC в любых приложениях Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPS в DOC через Java или онлайн" h2="Локальный Java API для преобразования PowerPoint PPS в DOC в любых приложениях Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total для Java](https://products.aspose.com/total/java/) Библиотеки автоматизации форматов файлов позволяют разработчикам Java автоматизировать процесс пакетного преобразования PowerPoint PPS в Word DOC. Преобразование документа представляет собой двухэтапный процесс и включает использование двух API. Мы будем использовать [Aspose.Slides for Java](https://products.aspose.com/slides/java/), который представляет собой API PowerPoint для работы с презентациями и управления ими для преобразования PPS в HTML. После этого с помощью многофункционального API обработки текста [Aspose.Words for Java](https://products.aspose.com/words/java/) мы преобразуем HTML в DOC.
 {{% /blocks/products/pf/feature-page-summary  %}}

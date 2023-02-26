@@ -1,6 +1,6 @@
 ---
-title: Converteer PPT naar DOTM via Java
-description: Java API om PPT naar DOTM te exporteren zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer PPT naar DOTM via Java of online
+description: Java API om PPT naar DOTM te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/ppt-to-dotm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: FLATOPC WORD DOTMM DOTMX WORDML DOTM RTF DOT ODT DOTX OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPT naar DOTM via Java" h2="On Premise Java API voor PowerPoint PPT naar DOTM conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPT naar DOTM via Java of online" h2="On Premise Java API voor PowerPoint PPT naar DOTM conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken voor automatisering van bestandsindelingen stellen Java-ontwikkelaars in staat om het batchconversieproces van PowerPoint PPT naar Word DOTM te automatiseren. Het converteren van het dotmument is een proces in twee stappen en omvat het gebruik van twee API's. We gebruiken [Aspose.Slides for Java](https://products.aspose.com/slides/java/), een PowerPoint-API voor het manipuleren en beheren van presentaties om PPT naar HTML te converteren. Daarna zullen we met behulp van de functierijke Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) de HTML naar DOTM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

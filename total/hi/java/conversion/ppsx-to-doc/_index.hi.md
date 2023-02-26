@@ -1,6 +1,6 @@
 ---
-title: जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें
-description: Microsoft Word या PowerPoint का उपयोग किए बिना DOC को PPSX निर्यात करने के लिए Java API
+title: जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें या ऑनलाइन
+description: Microsoft Word या PowerPoint का उपयोग किए बिना DOC को PPSX निर्यात करने के लिए Java API या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। या मुफ्त ऑनलाइन कन्वर्टर के साथ
 url_ignore: /hi/java/conversion/ppsx-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: OTT TEXT WORD ODT RTF WORDML DOTM DOCX DOCM FLATOPC DOT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें" h2="किसी भी जावा J2SE, J2EE, J2ME अनुप्रयोगों के भीतर PowerPoint PPSX से DOC रूपांतरण के लिए परिसर जावा एपीआई पर" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से पीओटी को डीओसी में कनवर्ट करें या ऑनलाइन" h2="किसी भी जावा J2SE, J2EE, J2ME अनुप्रयोगों के भीतर PowerPoint PPSX से DOC रूपांतरण के लिए परिसर जावा एपीआई पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी जावा डेवलपर्स को पावरपॉइंट पॉट की बैच रूपांतरण प्रक्रिया को वर्ड डीओसी में स्वचालित करने के लिए सशक्त बनाती है। दस्तावेज़ को परिवर्तित करना दो चरणों वाली प्रक्रिया है और इसमें दो API का उपयोग करना शामिल है। हम [Aspose.Slides for Java](https://products.aspose.com/slides/java/) का उपयोग करेंगे जो कि PPSX को HTML में बदलने के लिए प्रस्तुतियों में हेरफेर और प्रबंधन के लिए एक PowerPoint API है। उसके बाद सुविधा संपन्न वर्ड प्रोसेसिंग एपीआई [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके हम HTML को DOC में बदल देंगे।
 {{% /blocks/products/pf/feature-page-summary  %}}

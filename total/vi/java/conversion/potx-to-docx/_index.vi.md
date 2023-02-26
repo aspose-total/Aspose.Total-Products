@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi POTX sang DOCX qua Java
-description: Java API để xuất POTX sang DOCX mà không cần sử dụng Microsoft Word hoặc PowerPoint
+title: Chuyển đổi POTX sang DOCX qua Java hoặc trực tuyến
+description: Java API để xuất POTX sang DOCX mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/potx-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: DOCXM ODT DOTX FLATOPC DOCX DOT TEXT DOTM WORD OTT RTF WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POTX sang DOCX qua Java" h2="Trên Premise Java API cho PowerPoint chuyển đổi POTX sang DOCX trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POTX sang DOCX qua Java hoặc trực tuyến" h2="Trên Premise Java API cho PowerPoint chuyển đổi POTX sang DOCX trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Thư viện tự động hóa định dạng tệp cho phép các nhà phát triển Java tự động hóa quá trình chuyển đổi hàng loạt PowerPoint POTX sang Word DOCX. Chuyển đổi tài liệu là một quá trình gồm hai bước và liên quan đến việc sử dụng hai API. Chúng tôi sẽ sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/) là một API PowerPoint cho thao tác và quản lý bản trình bày để chuyển đổi POTX sang HTML. Sau đó, bằng cách sử dụng API xử lý văn bản giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), chúng tôi sẽ chuyển đổi HTML thành DOCX.
 {{% /blocks/products/pf/feature-page-summary  %}}

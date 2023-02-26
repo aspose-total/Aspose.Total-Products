@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPS-ot DOC-ba Java segítségével
-description: Java API a PPS exportálásához DOC-ba Microsoft Word vagy PowerPoint használata nélkül
+title: Konvertálja a PPS-ot DOC-ba Java segítségével vagy online
+description: Java API a PPS exportálásához DOC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/pps-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCM FLATOPC WORDML ODT DOCX OTT TEXT WORD DOT RTF DOTM DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPS-ot DOC-ba Java segítségével" h2="On Premise Java API a PowerPoint PPS-ból DOC konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPS-ot DOC-ba Java segítségével vagy online" h2="On Premise Java API a PowerPoint PPS-ból DOC konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) A fájlformátum-automatizálási könyvtárak lehetővé teszik a Java-fejlesztők számára, hogy automatizálják a PowerPoint PPS-ból Word DOC-ba történő kötegelt konvertálási folyamatát. A dokumentum konvertálása kétlépéses folyamat, és két API használatát foglalja magában. Az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) alkalmazást fogjuk használni, amely egy PowerPoint API a prezentációk manipulálásához és kezeléséhez a PPS HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a HTML-t DOC formátumba konvertáljuk.
 {{% /blocks/products/pf/feature-page-summary  %}}

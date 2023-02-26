@@ -1,6 +1,6 @@
 ---
-title: Java ile PPSM'u RTF'ye dönüştürün
-description: Microsoft Word veya PowerPoint kullanmadan PPSM'u RTF'a Aktarmak için Java API
+title: Java ile PPSM'u RTF'ye dönüştürün veya çevrimiçi
+description: Microsoft Word veya PowerPoint kullanmadan PPSM'u RTF'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/ppsm-to-rtf/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: RTFX RTFM TEXT OTT WORDML DOTX WORD RTF ODT FLATOPC DOTM DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPSM'u RTF'ye dönüştürün" h2="Herhangi bir Java J2SE, J2EE, J2ME uygulamasında PowerPoint PPSM'tan RTF'ye dönüştürme için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPSM'u RTF'ye dönüştürün veya çevrimiçi" h2="Herhangi bir Java J2SE, J2EE, J2ME uygulamasında PowerPoint PPSM'tan RTF'ye dönüştürme için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Dosya Biçimi Otomasyonu kitaplıkları, Java geliştiricilerinin PowerPoint PPSM'tan Word RTF'a toplu dönüştürme sürecini otomatikleştirmesini sağlar. Belgeyi dönüştürmek iki adımlı bir işlemdir ve iki API kullanmayı içerir. PPSM'u HTML'ye dönüştürmek için sunum manipülasyonu ve yönetimi için bir PowerPoint API'si olan [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanacağız. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak HTML'yi RTF'ye dönüştüreceğiz.
 {{% /blocks/products/pf/feature-page-summary  %}}

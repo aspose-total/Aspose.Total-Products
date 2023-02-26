@@ -1,6 +1,6 @@
 ---
-title: Convierta POWERPOINT a DOCX a través de Java
-description: API de Java para exportar POWERPOINT a DOCX sin usar Microsoft Word o PowerPoint
+title: Convierta POWERPOINT a DOCX a través de Java o en línea
+description: API de Java para exportar POWERPOINT a DOCX sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/powerpoint-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POWERPOINT a DOCX a través de Java" h2="API de Java en las instalaciones para la conversión de PowerPoint POWERPOINT a DOCX dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POWERPOINT a DOCX a través de Java o en línea" h2="API de Java en las instalaciones para la conversión de PowerPoint POWERPOINT a DOCX dentro de cualquier aplicación Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Las bibliotecas de automatización de formato de archivo permiten a los desarrolladores de Java automatizar el proceso de conversión por lotes de PowerPoint POWERPOINT a Word DOCX. La conversión del documento es un proceso de dos pasos e implica el uso de dos API. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que es una API de PowerPoint para la manipulación y administración de presentaciones para convertir POWERPOINT a HTML. Después de eso, mediante el uso de la API de procesamiento de textos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), convertiremos el HTML a DOCX.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPSM σε ODT μέσω Java
-description: Java API για εξαγωγή PPSM σε ODT χωρίς χρήση Microsoft Word ή PowerPoint
+title: Μετατροπή PPSM σε ODT μέσω Java ή διαδικτυακά
+description: Java API για εξαγωγή PPSM σε ODT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/ppsm-to-odt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPSM σε ODT μέσω Java" h2="On Premise Java API για μετατροπή PowerPoint PPSM σε ODT σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPSM σε ODT μέσω Java ή διαδικτυακά" h2="On Premise Java API για μετατροπή PowerPoint PPSM σε ODT σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Οι βιβλιοθήκες αυτοματισμού μορφής αρχείου εξουσιοδοτούν τους προγραμματιστές Java να αυτοματοποιούν τη διαδικασία μετατροπής ομαδικής μετατροπής του PowerPoint PPSM σε Word ODT. Η μετατροπή του εγγράφου είναι μια διαδικασία δύο βημάτων και περιλαμβάνει τη χρήση δύο API. Θα χρησιμοποιήσουμε το [Aspose.Slides for Java](https://products.aspose.com/slides/java/) που είναι ένα PowerPoint API για χειρισμό και διαχείριση παρουσιάσεων για τη μετατροπή PPSM σε HTML. Στη συνέχεια, χρησιμοποιώντας το πλούσιο σε δυνατότητες API επεξεργασίας κειμένου [Aspose.Words για Java](https://products.aspose.com/words/java/) θα μετατρέψουμε το HTML σε ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}

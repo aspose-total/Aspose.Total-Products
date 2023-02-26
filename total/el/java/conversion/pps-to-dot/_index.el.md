@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPS σε DOT μέσω Java
-description: Java API για εξαγωγή PPS σε DOT χωρίς χρήση Microsoft Word ή PowerPoint
+title: Μετατροπή PPS σε DOT μέσω Java ή διαδικτυακά
+description: Java API για εξαγωγή PPS σε DOT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/pps-to-dot/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: WORD ODT WORDML DOTX DOT DOTM OTT RTF DOTX DOTM TEXT FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPS σε DOT μέσω Java" h2="On Premise Java API για μετατροπή PowerPoint PPS σε DOT σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPS σε DOT μέσω Java ή διαδικτυακά" h2="On Premise Java API για μετατροπή PowerPoint PPS σε DOT σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Οι βιβλιοθήκες αυτοματισμού μορφής αρχείου εξουσιοδοτούν τους προγραμματιστές Java να αυτοματοποιούν τη διαδικασία μετατροπής ομαδικής μετατροπής του PowerPoint PPS σε Word DOT. Η μετατροπή του εγγράφου είναι μια διαδικασία δύο βημάτων και περιλαμβάνει τη χρήση δύο API. Θα χρησιμοποιήσουμε το [Aspose.Slides for Java](https://products.aspose.com/slides/java/) που είναι ένα PowerPoint API για χειρισμό και διαχείριση παρουσιάσεων για τη μετατροπή PPS σε HTML. Στη συνέχεια, χρησιμοποιώντας το πλούσιο σε δυνατότητες API επεξεργασίας κειμένου [Aspose.Words για Java](https://products.aspose.com/words/java/) θα μετατρέψουμε το HTML σε DOT.
 {{% /blocks/products/pf/feature-page-summary  %}}

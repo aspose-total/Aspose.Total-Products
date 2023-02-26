@@ -1,6 +1,6 @@
 ---
-title: Konvertera POTM till TEXT via Java
-description: Java API för att exportera POTM till TEXT utan att använda Microsoft Word eller PowerPoint
+title: Konvertera POTM till TEXT via Java eller online
+description: Java API för att exportera POTM till TEXT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/potm-to-text/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: WORDML OTT DOT RTF FLATOPC ODT TEXTM DOTX TEXTX TEXT WORD DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POTM till TEXT via Java" h2="On Premise Java API för PowerPoint POTM till TEXT-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POTM till TEXT via Java eller online" h2="On Premise Java API för PowerPoint POTM till TEXT-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total för Java](https://products.aspose.com/total/java/) Filformatsautomatiseringsbibliotek ger Java-utvecklare möjlighet att automatisera batchkonverteringsprocessen från PowerPoint POTM till Word TEXT. Att konvertera dokumentet är en process i två steg och involverar användning av två API:er. Vi kommer att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/) som är ett PowerPoint-API för presentationsmanipulering och hantering för att konvertera POTM till HTML. Efter det kommer vi att konvertera HTML till TEXT genom att använda funktionsrika Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

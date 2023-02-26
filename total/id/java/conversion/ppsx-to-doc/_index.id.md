@@ -1,6 +1,6 @@
 ---
-title: Konversi PPSX ke DOC melalui Java
-description: Java API untuk Mengekspor PPSX ke DOC tanpa menggunakan Microsoft Word atau PowerPoint
+title: Konversi PPSX ke DOC melalui Java atau daring
+description: Java API untuk Mengekspor PPSX ke DOC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/java/conversion/ppsx-to-doc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: OTT TEXT WORD ODT RTF WORDML DOTM DOCX DOCM FLATOPC DOT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPSX ke DOC melalui Java" h2="On Premise Java API untuk PowerPoint PPSX ke konversi DOC dalam aplikasi Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPSX ke DOC melalui Java atau daring" h2="On Premise Java API untuk PowerPoint PPSX ke konversi DOC dalam aplikasi Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Pustaka Otomatisasi Format File memberdayakan pengembang Java untuk mengotomatiskan proses konversi batch PowerPoint PPSX ke Word DOC. Mengonversi dokumen adalah proses dua langkah dan melibatkan penggunaan dua API. Kami akan menggunakan [Aspose.Slides for Java](https://products.aspose.com/slides/java/) yang merupakan API PowerPoint untuk manipulasi dan manajemen presentasi guna mengonversi PPSX ke HTML. Setelah itu dengan menggunakan API Pemrosesan Kata yang kaya fitur [Aspose.Words for Java](https://products.aspose.com/words/java/) kita akan mengonversi HTML menjadi DOC.
 {{% /blocks/products/pf/feature-page-summary  %}}

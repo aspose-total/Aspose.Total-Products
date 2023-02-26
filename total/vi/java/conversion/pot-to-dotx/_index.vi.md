@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi POT sang DOTX qua Java
-description: Java API để xuất POT sang DOTX mà không cần sử dụng Microsoft Word hoặc PowerPoint
+title: Chuyển đổi POT sang DOTX qua Java hoặc trực tuyến
+description: Java API để xuất POT sang DOTX mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/pot-to-dotx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: RTF DOTX ODT WORD WORDML FLATOPC DOT OTT DOTXM TEXT DOTXX DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POT sang DOTX qua Java" h2="Trên Premise Java API cho PowerPoint chuyển đổi POT sang DOTX trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POT sang DOTX qua Java hoặc trực tuyến" h2="Trên Premise Java API cho PowerPoint chuyển đổi POT sang DOTX trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Thư viện tự động hóa định dạng tệp cho phép các nhà phát triển Java tự động hóa quá trình chuyển đổi hàng loạt PowerPoint POT sang Word DOTX. Chuyển đổi tài liệu là một quá trình gồm hai bước và liên quan đến việc sử dụng hai API. Chúng tôi sẽ sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/) là một API PowerPoint cho thao tác và quản lý bản trình bày để chuyển đổi POT sang HTML. Sau đó, bằng cách sử dụng API xử lý văn bản giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), chúng tôi sẽ chuyển đổi HTML thành DOTX.
 {{% /blocks/products/pf/feature-page-summary  %}}

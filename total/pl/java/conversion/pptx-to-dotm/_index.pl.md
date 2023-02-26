@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTX na DOTM przez Javę
-description: Java API do eksportu PPTX do DOTM bez użycia Microsoft Word lub PowerPoint
+description: Java API do eksportu PPTX do DOTM bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/pptx-to-dotm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: FLATOPC RTF DOTMX WORD OTT DOTMM ODT TEXT DOTX WORDML DOT DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPTX na DOTM przez Java" h2="On Premise Java API do konwersji PowerPoint PPTX do DOTM w dowolnych aplikacjach Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPTX na DOTM przez Java lub online" h2="On Premise Java API do konwersji PowerPoint PPTX do DOTM w dowolnych aplikacjach Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Biblioteki File Format Automation umożliwiają programistom Java automatyzację procesu konwersji wsadowej PowerPoint PPTX do Word DOTM. Konwersja dokumentu jest procesem dwuetapowym i obejmuje użycie dwóch interfejsów API. Aby przekonwertować PPTX na HTML, użyjemy [Aspose.Slides for Java](https://products.aspose.com/slides/java/), czyli interfejsu API programu PowerPoint do manipulowania prezentacjami i zarządzania nimi. Następnie za pomocą bogatego w funkcje interfejsu API przetwarzania tekstu [Aspose.Words for Java](https://products.aspose.com/words/java/) przekonwertujemy kod HTML na DOTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

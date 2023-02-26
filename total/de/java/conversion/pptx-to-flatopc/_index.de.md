@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPTX über Java in FLATOPC
-description: Java-API zum Exportieren von PPTX nach FLATOPC, ohne Microsoft Word oder PowerPoint zu verwenden
+title: Konvertieren Sie PPTX über Java in FLATOPC oder online
+description: Java-API zum Exportieren von PPTX nach FLATOPC, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/pptx-to-flatopc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: WORD FLATOPCX FLATOPCM DOTM OTT RTF FLATOPC TEXT DOT ODT DOTX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPTX über Java in FLATOPC" h2="Lokale Java-API für PowerPoint PPTX-zu-FLATOPC-Konvertierung in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPTX über Java in FLATOPC oder online" h2="Lokale Java-API für PowerPoint PPTX-zu-FLATOPC-Konvertierung in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken zur Dateiformatautomatisierung ermöglichen Java-Entwicklern, den Stapelkonvertierungsprozess von PowerPoint PPTX in Word FLATOPC zu automatisieren. Das Konvertieren des Document ist ein zweistufiger Prozess und beinhaltet die Verwendung von zwei APIs. Wir verwenden [Aspose.Slides for Java](https://products.aspose.com/slides/java/), eine PowerPoint-API für die Bearbeitung und Verwaltung von Präsentationen, um PPTX in HTML zu konvertieren. Danach konvertieren wir mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) den HTML-Code in FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}

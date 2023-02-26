@@ -1,6 +1,6 @@
 ---
-title: تحويل PPSM إلى DOTM عبر Java
-description: Java API لتصدير PPSM إلى DOTM دون استخدام Microsoft Word أو PowerPoint
+title: تحويل PPSM إلى DOTM عبر Java أو عبر الإنترنت
+description: Java API لتصدير PPSM إلى DOTM دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/ppsm-to-dotm/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: DOTM
 otherformats: DOTMM FLATOPC DOTMX WORDML RTF DOTM DOT ODT DOTX WORD TEXT OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPSM إلى DOTM عبر Java" h2="في Premise Java API لـ PowerPoint ، تحويل PPSM إلى DOTM داخل أي تطبيقات Java J2SE ، J2EE ، J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPSM إلى DOTM عبر Java أو عبر الإنترنت" h2="في Premise Java API لـ PowerPoint ، تحويل PPSM إلى DOTM داخل أي تطبيقات Java J2SE ، J2EE ، J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) تعمل مكتبات أتمتة تنسيق الملفات على تمكين مطوري Java من أتمتة عملية تحويل الدُفعات من PowerPoint PPSM إلى Word DOTM. تحويل المستند هو عملية من خطوتين ويتضمن استخدام اثنين من واجهات برمجة التطبيقات. سنستخدم [Aspose.Slides for Java](https://products.aspose.com/slides/java/) وهي واجهة برمجة تطبيقات PowerPoint لمعالجة وإدارة العروض التقديمية لتحويل PPSM إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة النصوص الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) سنحول HTML إلى DOTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى DOTM عبر Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى DOTM عبر Java أو عبر الإنترنت" %}}
 1. افتح ملف PPSM باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. تحويل PPSM إلى HTML باستخدام [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)

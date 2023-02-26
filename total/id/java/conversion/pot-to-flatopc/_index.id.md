@@ -1,6 +1,6 @@
 ---
-title: Konversi POT ke FLATOPC melalui Java
-description: Java API untuk Mengekspor POT ke FLATOPC tanpa menggunakan Microsoft Word atau PowerPoint
+title: Konversi POT ke FLATOPC melalui Java atau daring
+description: Java API untuk Mengekspor POT ke FLATOPC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/java/conversion/pot-to-flatopc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: FLATOPCX RTF DOTX OTT WORDML DOT FLATOPC FLATOPCM DOTM ODT WORD TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POT ke FLATOPC melalui Java" h2="On Premise Java API untuk PowerPoint POT ke konversi FLATOPC dalam aplikasi Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POT ke FLATOPC melalui Java atau daring" h2="On Premise Java API untuk PowerPoint POT ke konversi FLATOPC dalam aplikasi Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Pustaka Otomatisasi Format File memberdayakan pengembang Java untuk mengotomatiskan proses konversi batch PowerPoint POT ke Word FLATOPC. Mengonversi dokumen adalah proses dua langkah dan melibatkan penggunaan dua API. Kami akan menggunakan [Aspose.Slides for Java](https://products.aspose.com/slides/java/) yang merupakan API PowerPoint untuk manipulasi dan manajemen presentasi guna mengonversi POT ke HTML. Setelah itu dengan menggunakan API Pemrosesan Kata yang kaya fitur [Aspose.Words for Java](https://products.aspose.com/words/java/) kita akan mengonversi HTML menjadi FLATOPC.
 {{% /blocks/products/pf/feature-page-summary  %}}

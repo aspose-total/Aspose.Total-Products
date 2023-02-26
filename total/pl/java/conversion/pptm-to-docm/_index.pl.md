@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTM na DOCM przez Javę
-description: Java API do eksportu PPTM do DOCM bez użycia Microsoft Word lub PowerPoint
+description: Java API do eksportu PPTM do DOCM bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/pptm-to-docm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCMM
 otherformats: DOTM DOCM RTF OTT DOT WORD FLATOPC TEXT ODT DOTX DOCMX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPTM na DOCM przez Java" h2="On Premise Java API do konwersji PowerPoint PPTM do DOCM w dowolnych aplikacjach Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPTM na DOCM przez Java lub online" h2="On Premise Java API do konwersji PowerPoint PPTM do DOCM w dowolnych aplikacjach Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Biblioteki File Format Automation umożliwiają programistom Java automatyzację procesu konwersji wsadowej PowerPoint PPTM do Word DOCM. Konwersja dokumentu jest procesem dwuetapowym i obejmuje użycie dwóch interfejsów API. Aby przekonwertować PPTM na HTML, użyjemy [Aspose.Slides for Java](https://products.aspose.com/slides/java/), czyli interfejsu API programu PowerPoint do manipulowania prezentacjami i zarządzania nimi. Następnie za pomocą bogatego w funkcje interfejsu API przetwarzania tekstu [Aspose.Words for Java](https://products.aspose.com/words/java/) przekonwertujemy kod HTML na DOCM.
 {{% /blocks/products/pf/feature-page-summary  %}}

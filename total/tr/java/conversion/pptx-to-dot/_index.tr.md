@@ -1,6 +1,6 @@
 ---
-title: Java ile PPTX'u DOT'ye dönüştürün
-description: Microsoft Word veya PowerPoint kullanmadan PPTX'u DOT'a Aktarmak için Java API
+title: Java ile PPTX'u DOT'ye dönüştürün veya çevrimiçi
+description: Microsoft Word veya PowerPoint kullanmadan PPTX'u DOT'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/pptx-to-dot/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: TEXT DOT WORDML DOTM RTF DOTX FLATOPC WORD DOTM ODT DOTX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPTX'u DOT'ye dönüştürün" h2="Herhangi bir Java J2SE, J2EE, J2ME uygulamasında PowerPoint PPTX'tan DOT'ye dönüştürme için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPTX'u DOT'ye dönüştürün veya çevrimiçi" h2="Herhangi bir Java J2SE, J2EE, J2ME uygulamasında PowerPoint PPTX'tan DOT'ye dönüştürme için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Dosya Biçimi Otomasyonu kitaplıkları, Java geliştiricilerinin PowerPoint PPTX'tan Word DOT'a toplu dönüştürme sürecini otomatikleştirmesini sağlar. Belgeyi dönüştürmek iki adımlı bir işlemdir ve iki API kullanmayı içerir. PPTX'u HTML'ye dönüştürmek için sunum manipülasyonu ve yönetimi için bir PowerPoint API'si olan [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanacağız. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak HTML'yi DOT'ye dönüştüreceğiz.
 {{% /blocks/products/pf/feature-page-summary  %}}

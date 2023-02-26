@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή POWERPOINT σε DOTX μέσω Java
-description: Java API για εξαγωγή POWERPOINT σε DOTX χωρίς χρήση Microsoft Word ή PowerPoint
+title: Μετατροπή POWERPOINT σε DOTX μέσω Java ή διαδικτυακά
+description: Java API για εξαγωγή POWERPOINT σε DOTX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/powerpoint-to-dotx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: FLATOPC TEXT ODT DOTXM DOTX DOTM DOTXX OTT WORDML RTF DOT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POWERPOINT σε DOTX μέσω Java" h2="On Premise Java API για μετατροπή PowerPoint POWERPOINT σε DOTX σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POWERPOINT σε DOTX μέσω Java ή διαδικτυακά" h2="On Premise Java API για μετατροπή PowerPoint POWERPOINT σε DOTX σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Οι βιβλιοθήκες αυτοματισμού μορφής αρχείου εξουσιοδοτούν τους προγραμματιστές Java να αυτοματοποιούν τη διαδικασία μετατροπής ομαδικής μετατροπής του PowerPoint POWERPOINT σε Word DOTX. Η μετατροπή του εγγράφου είναι μια διαδικασία δύο βημάτων και περιλαμβάνει τη χρήση δύο API. Θα χρησιμοποιήσουμε το [Aspose.Slides for Java](https://products.aspose.com/slides/java/) που είναι ένα PowerPoint API για χειρισμό και διαχείριση παρουσιάσεων για τη μετατροπή POWERPOINT σε HTML. Στη συνέχεια, χρησιμοποιώντας το πλούσιο σε δυνατότητες API επεξεργασίας κειμένου [Aspose.Words για Java](https://products.aspose.com/words/java/) θα μετατρέψουμε το HTML σε DOTX.
 {{% /blocks/products/pf/feature-page-summary  %}}

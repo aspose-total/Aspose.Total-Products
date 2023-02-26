@@ -1,6 +1,6 @@
 ---
-title: Converteer PPS naar TEXT via Java
-description: Java API om PPS naar TEXT te exporteren zonder Microsoft Word of PowerPoint te gebruiken
+title: Converteer PPS naar TEXT via Java of online
+description: Java API om PPS naar TEXT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/pps-to-text/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: WORDML OTT TEXTM RTF WORD FLATOPC ODT TEXT DOT TEXTX DOTX DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPS naar TEXT via Java" h2="On Premise Java API voor PowerPoint PPS naar TEXT conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPS naar TEXT via Java of online" h2="On Premise Java API voor PowerPoint PPS naar TEXT conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken voor automatisering van bestandsindelingen stellen Java-ontwikkelaars in staat om het batchconversieproces van PowerPoint PPS naar Word TEXT te automatiseren. Het converteren van het textument is een proces in twee stappen en omvat het gebruik van twee API's. We gebruiken [Aspose.Slides for Java](https://products.aspose.com/slides/java/), een PowerPoint-API voor het manipuleren en beheren van presentaties om PPS naar HTML te converteren. Daarna zullen we met behulp van de functierijke Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) de HTML naar TEXT converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

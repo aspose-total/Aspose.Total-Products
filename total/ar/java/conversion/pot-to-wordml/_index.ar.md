@@ -1,6 +1,6 @@
 ---
-title: تحويل POT إلى WORDML عبر Java
-description: Java API لتصدير POT إلى WORDML دون استخدام Microsoft Word أو PowerPoint
+title: تحويل POT إلى WORDML عبر Java أو عبر الإنترنت
+description: Java API لتصدير POT إلى WORDML دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/pot-to-wordml/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: WORDML
 otherformats: WORDML TEXT RTF WORD WORDMLM DOTX DOTM DOT WORDMLX ODT FLATOPC OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل POT إلى WORDML عبر Java" h2="في Premise Java API لـ PowerPoint ، تحويل POT إلى WORDML داخل أي تطبيقات Java J2SE ، J2EE ، J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل POT إلى WORDML عبر Java أو عبر الإنترنت" h2="في Premise Java API لـ PowerPoint ، تحويل POT إلى WORDML داخل أي تطبيقات Java J2SE ، J2EE ، J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) تعمل مكتبات أتمتة تنسيق الملفات على تمكين مطوري Java من أتمتة عملية تحويل الدُفعات من PowerPoint POT إلى Word WORDML. تحويل المستند هو عملية من خطوتين ويتضمن استخدام اثنين من واجهات برمجة التطبيقات. سنستخدم [Aspose.Slides for Java](https://products.aspose.com/slides/java/) وهي واجهة برمجة تطبيقات PowerPoint لمعالجة وإدارة العروض التقديمية لتحويل POT إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة النصوص الغنية بالميزات [Aspose.Words for Java](https://products.aspose.com/words/java/) سنحول HTML إلى WORDML.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POT إلى WORDML عبر Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل POT إلى WORDML عبر Java أو عبر الإنترنت" %}}
 1. افتح ملف POT باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. تحويل POT إلى HTML باستخدام [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) وتعيين Html كـ SaveFormat
 3. قم بتحميل ملف HTML المحول باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)

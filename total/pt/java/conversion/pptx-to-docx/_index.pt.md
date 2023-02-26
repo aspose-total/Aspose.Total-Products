@@ -1,6 +1,6 @@
 ---
-title: Converter PPTX para DOCX via Java
-description: API Java para exportar PPTX para DOCX sem usar o Microsoft Word ou PowerPoint
+title: Converter PPTX para DOCX via Java ou online
+description: API Java para exportar PPTX para DOCX sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/pptx-to-docx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: DOTM ODT TEXT DOCXM DOTX RTF WORD FLATOPC WORDML DOT OTT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPTX para DOCX via Java" h2="On Premise Java API para conversão PowerPoint PPTX para DOCX em qualquer aplicativo Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPTX para DOCX via Java ou online" h2="On Premise Java API para conversão PowerPoint PPTX para DOCX em qualquer aplicativo Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotecas de Automação de Formato de Arquivo capacitam os desenvolvedores Java a automatizar o processo de conversão em lote do PowerPoint PPTX para Word DOCX. A conversão do documento é um processo de duas etapas e envolve o uso de duas APIs. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que é uma API do PowerPoint para manipulação e gerenciamento de apresentações para converter PPTX em HTML. Depois disso, usando a API de processamento de texto rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), converteremos o HTML em DOCX.
 {{% /blocks/products/pf/feature-page-summary  %}}

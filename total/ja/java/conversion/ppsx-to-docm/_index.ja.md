@@ -1,6 +1,6 @@
 ---
-title: Java経由でPPSXをDOCMに変換する
-description: MicrosoftWordやPowerPointを使用せずにPPSXをDOCMにエクスポートするJavaAPI
+title: Java経由でPPSXをDOCMに変換する またはオンライン
+description: MicrosoftWordやPowerPointを使用せずにPPSXをDOCMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/ppsx-to-docm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOCMM
 otherformats: DOT WORD WORDML DOCM DOTX RTF ODT OTT FLATOPC DOTM TEXT DOCMX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPSXをDOCMに変換する" h2="任意のJavaJ2SE、J2EE、J2MEアプリケーション内でのPowerPointPPSXからDOCMへの変換のためのオンプレミスJavaAPI" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPSXをDOCMに変換する またはオンライン" h2="任意のJavaJ2SE、J2EE、J2MEアプリケーション内でのPowerPointPPSXからDOCMへの変換のためのオンプレミスJavaAPI" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)ファイル形式自動化ライブラリにより、Java開発者はPowerPointPPSXからWordDOCMへのバッチ変換プロセスを自動化できます。ドキュメントの変換は2段階のプロセスであり、2つのAPIを使用する必要があります。 PPSXをHTMLに変換するためのプレゼンテーションの操作と管理のためのPowerPointAPIである[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用します。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用して、HTMLをDOCMに変換します。
 {{% /blocks/products/pf/feature-page-summary  %}}

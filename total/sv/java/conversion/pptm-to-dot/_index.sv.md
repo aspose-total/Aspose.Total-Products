@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPTM till DOT via Java
-description: Java API för att exportera PPTM till DOT utan att använda Microsoft Word eller PowerPoint
+title: Konvertera PPTM till DOT via Java eller online
+description: Java API för att exportera PPTM till DOT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/pptm-to-dot/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: FLATOPC ODT DOTM TEXT DOTM DOTX OTT DOT WORDML DOTX WORD RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till DOT via Java" h2="On Premise Java API för PowerPoint PPTM till DOT-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till DOT via Java eller online" h2="On Premise Java API för PowerPoint PPTM till DOT-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total för Java](https://products.aspose.com/total/java/) Filformatsautomatiseringsbibliotek ger Java-utvecklare möjlighet att automatisera batchkonverteringsprocessen från PowerPoint PPTM till Word DOT. Att konvertera dokumentet är en process i två steg och involverar användning av två API:er. Vi kommer att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/) som är ett PowerPoint-API för presentationsmanipulering och hantering för att konvertera PPTM till HTML. Efter det kommer vi att konvertera HTML till DOT genom att använda funktionsrika Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
