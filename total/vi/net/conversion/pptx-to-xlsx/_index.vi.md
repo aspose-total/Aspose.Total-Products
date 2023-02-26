@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi PPTX sang XLSX qua C#
-description: Chuyển đổi PPTX sang XLSX trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
+title: Chuyển đổi PPTX sang XLSX qua C# hoặc trực tuyến
+description: Chuyển đổi PPTX sang XLSX trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/pptx-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MHTML XLSM XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTX sang XLSX qua C#" h2=".NET API để chuyển đổi PPTX sang XLSX mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTX sang XLSX qua C# hoặc trực tuyến" h2=".NET API để chuyển đổi PPTX sang XLSX mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể chuyển đổi tệp PPTX thành XLSX trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai ứng dụng các bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), bạn có thể xuất PPTX sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang XLSX.
