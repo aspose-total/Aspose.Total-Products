@@ -1,6 +1,6 @@
 ---
 title: Convierta POWERPOINT a formato XLSM a través de Java
-description: Convierta POWERPOINT a formato XLSM a través de Java sin usar Microsoft Excel o PowerPoint
+description: Convierta POWERPOINT a formato XLSM a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX XLSM XLT XLS XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POWERPOINT a XLSM a través de Java" h2="API de Java local para exportar POWERPOINT a XLSM sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POWERPOINT a XLSM a través de Java o en línea" h2="API de Java local para exportar POWERPOINT a XLSM sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puede convertir un archivo POWERPOINT a XLSM a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) en dos pasos. En el primer paso, puede exportar POWERPOINT a HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). En segundo lugar, al usar [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

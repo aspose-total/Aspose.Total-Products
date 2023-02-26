@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar XLAM-formaat via Java
-description: Converteer POT naar XLAM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
+description: Converteer POT naar XLAM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/pot-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX XLAM XLSX XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POT naar XLAM via Java" h2="On Premise Java API om POT naar XLAM te exporteren zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POT naar XLAM via Java of online" h2="On Premise Java API om POT naar XLAM te exporteren zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt het POT-bestand in twee stappen converteren naar XLAM via [Aspose.Total for Java](https://products.aspose.com/total/java/). In de eerste stap kunt u POT naar HTML exporteren met [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Ten tweede kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLAM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

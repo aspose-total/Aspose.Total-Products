@@ -1,6 +1,6 @@
 ---
 title: Konversi Format POTM ke MARKDOWN melalui Java
-description: Konversi format POTM ke MARKDOWN melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint
+description: Konversi format POTM ke MARKDOWN melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/java/conversion/potm-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL MARKDOWN XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POTM ke MARKDOWN melalui Java" h2="On Premise Java API untuk mengekspor POTM ke MARKDOWN tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POTM ke MARKDOWN melalui Java atau daring" h2="On Premise Java API untuk mengekspor POTM ke MARKDOWN tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat mengonversi file POTM ke MARKDOWN melalui [Aspose.Total for Java](https://products.aspose.com/total/java/) dalam dua langkah langkah. Pada langkah pertama Anda dapat mengekspor POTM ke HTML dengan menggunakan [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Kedua, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java/), Anda dapat mengonversi HTML ke MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}

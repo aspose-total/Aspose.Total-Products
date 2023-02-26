@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPSX na format XLT za pomocą Java
-description: Konwertuj PPSX do formatu XLT za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
+description: Konwertuj PPSX do formatu XLT za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/ppsx-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX XLT XLSM XLSX MARKDOWN FODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPSX na XLT przez Java" h2="On Premise Java API do eksportowania PPSX do XLT bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPSX na XLT przez Java lub online" h2="On Premise Java API do eksportowania PPSX do XLT bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz przekonwertować plik PPSX na XLT za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) w dwóch krokach. W pierwszym kroku możesz wyeksportować PPSX do HTML, używając [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Po drugie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

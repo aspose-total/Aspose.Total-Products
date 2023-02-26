@@ -1,6 +1,6 @@
 ---
 title: PPTX'u Java ile XLSM Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla XLSM formatına dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla XLSM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/pptx-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS XLSM MHTML ODS XLSX MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPTX'u XLSM'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPTX'u XLSM'ye aktarmak için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPTX'u XLSM'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPTX'u XLSM'ye aktarmak için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 PPTX dosyasını iki adımda [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla XLSM'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak PPTX'u HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi XLSM'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

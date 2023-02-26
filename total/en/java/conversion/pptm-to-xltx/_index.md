@@ -1,6 +1,6 @@
 ---
 title: Convert PPTM to XLTX Format via Java
-description: Convert PPTM to XLTX format via Java without using using Microsoft Excel or PowerPoint
+description: Convert PPTM to XLTX format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/pptm-to-xltx/
 family: total
 platformtag: java
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: XLSX CSV XLT SXC XLSB EXCEL ODS TSV MARKDOWN XLTM MHTML XLS XLAM XLSM DIF FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPTM to XLTX via Java" h2="On Premise Java API to export PPTM to XLTX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPTM to XLTX via Java or online" h2="On Premise Java API to export PPTM to XLTX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can convert PPTM file to XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPTM to XLTX via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPTM to XLTX via Java or online" %}}
 1. Open PPTM file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert PPTM to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class

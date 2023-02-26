@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPTMをTSV形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTMをTSV形式に変換する
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTMをTSV形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/pptm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: ODS SXC XLS MHTML XLTX XLAM FODS TSV DIF XLTM XLT XLSB XLSM XLSX MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPTMをTSVに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTMをTSVにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPTMをTSVに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTMをTSVにエクスポートする" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を使用して、2つのステップでPPTMファイルをTSVに変換できます。最初のステップでは、[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用してPPTMをHTMLにエクスポートできます。次に、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをTSVに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

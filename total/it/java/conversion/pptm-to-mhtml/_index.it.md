@@ -1,6 +1,6 @@
 ---
 title: Converti PPTM in formato MHTML tramite Java
-description: Converti PPTM in formato MHTML tramite Java senza utilizzare Microsoft Excel o PowerPoint
+description: Converti PPTM in formato MHTML tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/pptm-to-mhtml/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS MHTML XLAM XLTM XLSM EXCEL SXC TSV FODS ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPTM in MHTML tramite Java" h2="API Java in loco per esportare PPTM in MHTML senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPTM in MHTML tramite Java o in linea" h2="API Java in loco per esportare PPTM in MHTML senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file PPTM in MHTML tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare PPTM in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in MHTML.
 {{% /blocks/products/pf/feature-page-summary  %}}

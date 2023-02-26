@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTM sang Định dạng EXCEL qua Java
-description: Chuyển đổi PPTM sang định dạng EXCEL qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
+description: Chuyển đổi PPTM sang định dạng EXCEL qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/pptm-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLTX EXCEL XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML FODS SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTM sang EXCEL qua Java" h2="Trên API Premise Java để xuất PPTM sang EXCEL mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTM sang EXCEL qua Java hoặc trực tuyến" h2="Trên API Premise Java để xuất PPTM sang EXCEL mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể chuyển đổi tệp PPTM sang EXCEL qua [Aspose.Total for Java](https://products.aspose.com/total/java/) trong hai bước. Trong bước đầu tiên, bạn có thể xuất PPTM sang HTML bằng cách sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Converter POTM para formato MHTML via Java
-description: Converta o formato POTM para MHTML via Java sem usar o Microsoft Excel ou PowerPoint
+description: Converta o formato POTM para MHTML via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/potm-to-mhtml/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS MHTML DIF XLT XLTX ODS XLSM XLSB FODS XLSX XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter POTM para MHTML via Java" h2="API Java no local para exportar POTM para MHTML sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter POTM para MHTML via Java ou online" h2="API Java no local para exportar POTM para MHTML sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter o arquivo POTM para MHTML via [Aspose.Total for Java](https://products.aspose.com/total/java/) em duas etapas. Na primeira etapa, você pode exportar POTM para HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Em segundo lugar, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para MHTML.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPTをDIF形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTをDIF形式に変換する
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTをDIF形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/ppt-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FODS MHTML XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPTをDIFに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTをDIFにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPTをDIFに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTをDIFにエクスポートする" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を使用して、2つのステップでPPTファイルをDIFに変換できます。最初のステップでは、[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用してPPTをHTMLにエクスポートできます。次に、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをDIFに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

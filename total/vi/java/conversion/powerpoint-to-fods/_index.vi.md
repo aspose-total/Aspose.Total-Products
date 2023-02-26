@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POWERPOINT sang Định dạng FODS qua Java
-description: Chuyển đổi POWERPOINT sang định dạng FODS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
+description: Chuyển đổi POWERPOINT sang định dạng FODS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/powerpoint-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT XLS SXC MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POWERPOINT sang FODS qua Java" h2="Trên API Premise Java để xuất POWERPOINT sang FODS mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POWERPOINT sang FODS qua Java hoặc trực tuyến" h2="Trên API Premise Java để xuất POWERPOINT sang FODS mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể chuyển đổi tệp POWERPOINT sang FODS qua [Aspose.Total for Java](https://products.aspose.com/total/java/) trong hai bước. Trong bước đầu tiên, bạn có thể xuất POWERPOINT sang HTML bằng cách sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

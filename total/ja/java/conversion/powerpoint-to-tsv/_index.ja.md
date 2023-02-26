@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOWERPOINTをTSV形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをTSV形式に変換する
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをTSV形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC XLSM XLSB XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPOWERPOINTをTSVに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOWERPOINTをTSVにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPOWERPOINTをTSVに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOWERPOINTをTSVにエクスポートする" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を使用して、2つのステップでPOWERPOINTファイルをTSVに変換できます。最初のステップでは、[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用してPOWERPOINTをHTMLにエクスポートできます。次に、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをTSVに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

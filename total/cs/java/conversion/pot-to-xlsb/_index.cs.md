@@ -1,6 +1,6 @@
 ---
 title: Převeďte POT do formátu XLSB přes Java
-description: Převeďte POT do formátu XLSB přes Java bez použití Microsoft Excel nebo PowerPoint
+description: Převeďte POT do formátu XLSB přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/pot-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: ODS XLSB DIF XLTX FODS XLSM XLS MARKDOWN XLTM XLT TSV EXCEL MHTML XLSX XLAM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte POT do XLSB přes Java" h2="On Premise Java API pro export POT do XLSB bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte POT do XLSB přes Java nebo online" h2="On Premise Java API pro export POT do XLSB bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Soubor POT můžete převést na XLSB prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) ve dvou krocích. V prvním kroku můžete exportovat POT do HTML pomocí [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Za druhé, pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) můžete převést HTML na XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

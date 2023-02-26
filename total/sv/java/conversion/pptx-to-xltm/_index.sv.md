@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till XLTM-format via Java
-description: Konvertera PPTX till XLTM-format via Java utan att använda Microsoft Excel eller PowerPoint
+description: Konvertera PPTX till XLTM-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/pptx-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: TSV XLSM FODS MARKDOWN XLTM XLTX XLT DIF XLS EXCEL MHTML XLAM ODS XLSB SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTX till XLTM via Java" h2="On Premise Java API för att exportera PPTX till XLTM utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTX till XLTM via Java eller online" h2="On Premise Java API för att exportera PPTX till XLTM utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan konvertera PPTX-fil till XLTM via [Aspose.Total for Java](https://products.aspose.com/total/java/) i två steg. I det första steget kan du exportera PPTX till HTML genom att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/). För det andra, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

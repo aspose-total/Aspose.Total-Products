@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTをXLTX形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTをXLTX形式に変換する
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTをXLTX形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/pot-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM MHTML XLTX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPOTをXLTXに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOTをXLTXにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPOTをXLTXに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOTをXLTXにエクスポートする" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を使用して、2つのステップでPOTファイルをXLTXに変換できます。最初のステップでは、[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用してPOTをHTMLにエクスポートできます。次に、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをXLTXに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

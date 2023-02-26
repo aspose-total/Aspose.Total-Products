@@ -1,6 +1,6 @@
 ---
 title: Converti POT in formato XLSM tramite Java
-description: Converti POT in formato XLSM tramite Java senza utilizzare Microsoft Excel o PowerPoint
+description: Converti POT in formato XLSM tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/pot-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSB XLSX XLS EXCEL XLSM XLAM SXC TSV MARKDOWN XLTM DIF MHTML ODS FODS XLTX XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POT in XLSM tramite Java" h2="API Java in loco per esportare POT in XLSM senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti POT in XLSM tramite Java o in linea" h2="API Java in loco per esportare POT in XLSM senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file POT in XLSM tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare POT in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

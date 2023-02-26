@@ -1,6 +1,6 @@
 ---
 title: Converti PPSM in formato DIF tramite Java
-description: Converti PPSM in formato DIF tramite Java senza utilizzare Microsoft Excel o PowerPoint
+description: Converti PPSM in formato DIF tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/ppsm-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML DIF MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPSM in DIF tramite Java" h2="API Java in loco per esportare PPSM in DIF senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPSM in DIF tramite Java o in linea" h2="API Java in loco per esportare PPSM in DIF senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file PPSM in DIF tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare PPSM in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POTM σε μορφή XLSM μέσω Java
-description: Μετατροπή POTM σε μορφή XLSM μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
+description: Μετατροπή POTM σε μορφή XLSM μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/potm-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSX XLAM EXCEL XLT FODS TSV MARKDOWN XLTX XLSB XLS XLSM XLTM MHTML SXC ODS DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POTM σε XLSM μέσω Java" h2="Στο Premise Java API για εξαγωγή POTM σε XLSM χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POTM σε XLSM μέσω Java ή διαδικτυακά" h2="Στο Premise Java API για εξαγωγή POTM σε XLSM χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να μετατρέψετε το αρχείο POTM σε XLSM μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/) σε δύο βήματα. Στο πρώτο βήμα μπορείτε να εξαγάγετε το POTM σε HTML χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

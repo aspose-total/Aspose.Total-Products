@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POWERPOINT sang Định dạng MARKDOWN qua Java
-description: Chuyển đổi POWERPOINT sang định dạng MARKDOWN qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
+description: Chuyển đổi POWERPOINT sang định dạng MARKDOWN qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: EXCEL MARKDOWN XLSX ODS XLS DIF XLT FODS MHTML XLTM TSV XLAM XLSM SXC XLTX XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POWERPOINT sang MARKDOWN qua Java" h2="Trên API Premise Java để xuất POWERPOINT sang MARKDOWN mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POWERPOINT sang MARKDOWN qua Java hoặc trực tuyến" h2="Trên API Premise Java để xuất POWERPOINT sang MARKDOWN mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể chuyển đổi tệp POWERPOINT sang MARKDOWN qua [Aspose.Total for Java](https://products.aspose.com/total/java/) trong hai bước. Trong bước đầu tiên, bạn có thể xuất POWERPOINT sang HTML bằng cách sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: تحويل PPT إلى تنسيق ODS عبر Java
-description: قم بتحويل PPT إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint
+description: قم بتحويل PPT إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/ppt-to-ods/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: ODS
 otherformats: XLTX XLS DIF XLSB EXCEL XLSM XLAM XLSX SXC MARKDOWN TSV XLTM XLT MHTML ODS FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPT إلى ODS عبر Java" h2="في Premise Java API لتصدير PPT إلى ODS بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPT إلى ODS عبر Java أو عبر الإنترنت" h2="في Premise Java API لتصدير PPT إلى ODS بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تحويل ملف PPT إلى ODS عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير PPT إلى HTML باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPT إلى ODS عبر Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPT إلى ODS عبر Java أو عبر الإنترنت" %}}
 1. افتح ملف PPT باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. تحويل PPT إلى HTML باستخدام [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

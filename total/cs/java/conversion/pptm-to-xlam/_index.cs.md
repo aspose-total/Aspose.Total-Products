@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTM do formátu XLAM přes Java
-description: Převeďte PPTM do formátu XLAM přes Java bez použití Microsoft Excel nebo PowerPoint
+description: Převeďte PPTM do formátu XLAM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/pptm-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLT DIF MARKDOWN XLAM XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB ODS XLTX XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTM do XLAM přes Java" h2="On Premise Java API pro export PPTM do XLAM bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTM do XLAM přes Java nebo online" h2="On Premise Java API pro export PPTM do XLAM bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Soubor PPTM můžete převést na XLAM prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) ve dvou krocích. V prvním kroku můžete exportovat PPTM do HTML pomocí [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Za druhé, pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) můžete převést HTML na XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

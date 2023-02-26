@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTM till MARKDOWN-format via Java
-description: Konvertera PPTM till MARKDOWN-format via Java utan att använda Microsoft Excel eller PowerPoint
+description: Konvertera PPTM till MARKDOWN-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/pptm-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB MARKDOWN TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till MARKDOWN via Java" h2="On Premise Java API för att exportera PPTM till MARKDOWN utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till MARKDOWN via Java eller online" h2="On Premise Java API för att exportera PPTM till MARKDOWN utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan konvertera PPTM-fil till MARKDOWN via [Aspose.Total for Java](https://products.aspose.com/total/java/) i två steg. I det första steget kan du exportera PPTM till HTML genom att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/). För det andra, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}

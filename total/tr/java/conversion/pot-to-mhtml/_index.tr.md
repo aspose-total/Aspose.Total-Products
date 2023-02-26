@@ -1,6 +1,6 @@
 ---
 title: POT'u Java ile MHTML Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan POT'u Java aracılığıyla MHTML formatına dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan POT'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/pot-to-mhtml/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: XLSX SXC FODS XLAM DIF MHTML XLTM XLSB MARKDOWN XLS XLTX XLT XLSM ODS TSV EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile POT'u MHTML'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POT'u MHTML'ye aktarmak için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile POT'u MHTML'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POT'u MHTML'ye aktarmak için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 POT dosyasını iki adımda [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla MHTML'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak POT'u HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi MHTML'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

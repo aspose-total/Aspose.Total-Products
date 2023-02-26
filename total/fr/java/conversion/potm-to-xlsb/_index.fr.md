@@ -1,6 +1,6 @@
 ---
 title: Convertir POTM au format XLSB via Java
-description: Convertissez le format POTM au format XLSB via Java sans utiliser Microsoft Excel ou PowerPoint
+description: Convertissez le format POTM au format XLSB via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/potm-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: FODS DIF XLSX MARKDOWN MHTML XLSB TSV SXC XLS ODS XLTM XLTX EXCEL XLT XLSM XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTM en XLSB via Java" h2="API Java sur site pour exporter POTM vers XLSB sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTM en XLSB via Java ou en ligne" h2="API Java sur site pour exporter POTM vers XLSB sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez convertir le fichier POTM en XLSB via [Aspose.Total for Java](https://products.aspose.com/total/java/) en deux étapes. Dans la première étape, vous pouvez exporter POTM vers HTML en utilisant [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Deuxièmement, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

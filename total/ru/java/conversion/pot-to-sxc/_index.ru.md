@@ -1,6 +1,6 @@
 ---
 title: Преобразование POT в формат SXC через Java
-description: Преобразуйте формат POT в SXC через Java без использования Microsoft Excel или PowerPoint.
+description: Преобразуйте формат POT в SXC через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/pot-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS SXC FODS TSV XLTM MHTML MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать POT в SXC через Java" h2="Локальный Java API для экспорта POT в SXC без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать POT в SXC через Java или онлайн" h2="Локальный Java API для экспорта POT в SXC без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете преобразовать файл POT в SXC с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) в два шага. На первом этапе вы можете экспортировать POT в HTML с помощью [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Во-вторых, с помощью [Aspose.Cells for Java](https://products.aspose.com/cells/java/) вы можете конвертировать HTML в SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}

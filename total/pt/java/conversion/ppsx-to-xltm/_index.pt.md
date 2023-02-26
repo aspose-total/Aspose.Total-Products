@@ -1,6 +1,6 @@
 ---
 title: Converter PPSX para formato XLTM via Java
-description: Converta o formato PPSX para XLTM via Java sem usar o Microsoft Excel ou PowerPoint
+description: Converta o formato PPSX para XLTM via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/ppsx-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX XLTM DIF XLSB XLAM XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPSX para XLTM via Java" h2="API Java no local para exportar PPSX para XLTM sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPSX para XLTM via Java ou online" h2="API Java no local para exportar PPSX para XLTM sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter o arquivo PPSX para XLTM via [Aspose.Total for Java](https://products.aspose.com/total/java/) em duas etapas. Na primeira etapa, você pode exportar PPSX para HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Em segundo lugar, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

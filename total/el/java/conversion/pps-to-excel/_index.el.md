@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPS σε μορφή EXCEL μέσω Java
-description: Μετατροπή PPS σε μορφή EXCEL μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
+description: Μετατροπή PPS σε μορφή EXCEL μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/pps-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLT ODS XLTX XLTM EXCEL SXC MHTML MARKDOWN FODS DIF XLSB XLAM TSV XLSX XLS XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPS σε EXCEL μέσω Java" h2="Στο Premise Java API για εξαγωγή PPS σε EXCEL χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPS σε EXCEL μέσω Java ή διαδικτυακά" h2="Στο Premise Java API για εξαγωγή PPS σε EXCEL χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να μετατρέψετε το αρχείο PPS σε EXCEL μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/) σε δύο βήματα. Στο πρώτο βήμα μπορείτε να εξαγάγετε το PPS σε HTML χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}

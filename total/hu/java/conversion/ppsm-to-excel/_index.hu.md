@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-ot EXCEL formátumba Java segítségével
-description: Konvertálja a PPSM-ot EXCEL formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
+description: Konvertálja a PPSM-ot EXCEL formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/ppsm-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: DIF FODS XLSX EXCEL MHTML XLTM XLS XLT XLTX MARKDOWN TSV XLSM XLSB ODS SXC XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="PPSM konvertálása EXCEL-vé Java segítségével" h2="On Premise Java API a PPSM exportálásához EXCEL formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="PPSM konvertálása EXCEL-vé Java segítségével vagy online" h2="On Premise Java API a PPSM exportálásához EXCEL formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A PPSM-fájlt EXCEL-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a PPSM-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t EXCEL-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

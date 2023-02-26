@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na format ODS za pomocą Java
-description: Konwertuj POT do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
+description: Konwertuj POT do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/pot-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLS ODS DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XLAM MHTML XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj POT na ODS przez Java" h2="On Premise Java API do eksportowania POT do ODS bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj POT na ODS przez Java lub online" h2="On Premise Java API do eksportowania POT do ODS bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz przekonwertować plik POT na ODS za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) w dwóch krokach. W pierwszym kroku możesz wyeksportować POT do HTML, używając [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Po drugie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

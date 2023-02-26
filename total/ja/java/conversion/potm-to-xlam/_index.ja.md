@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTMをXLAM形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをXLAM形式に変換する
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをXLAM形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/potm-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSX DIF MARKDOWN XLTX XLAM EXCEL MHTML XLSM ODS TSV FODS XLT XLTM XLSB SXC XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPOTMをXLAMに変換する" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOTMをXLAMにエクスポートする" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPOTMをXLAMに変換する またはオンライン" h2="オンプレミスのJavaAPIを使用して、Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOTMをXLAMにエクスポートする" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を使用して、2つのステップでPOTMファイルをXLAMに変換できます。最初のステップでは、[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用してPOTMをHTMLにエクスポートできます。次に、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをXLAMに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}

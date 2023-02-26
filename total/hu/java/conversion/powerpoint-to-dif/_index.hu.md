@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-ot DIF formátumba Java segítségével
-description: Konvertálja a POWERPOINT-ot DIF formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
+description: Konvertálja a POWERPOINT-ot DIF formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/powerpoint-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM DIF MARKDOWN MHTML ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="POWERPOINT konvertálása DIF-vé Java segítségével" h2="On Premise Java API a POWERPOINT exportálásához DIF formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="POWERPOINT konvertálása DIF-vé Java segítségével vagy online" h2="On Premise Java API a POWERPOINT exportálásához DIF formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A POWERPOINT-fájlt DIF-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a POWERPOINT-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t DIF-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

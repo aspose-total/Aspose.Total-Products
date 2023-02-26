@@ -1,6 +1,6 @@
 ---
 title: PPSX'u Java ile CSV Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla CSV formatına dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla CSV formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/ppsx-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLS EXCEL XLAM SXC ODS XLSX XLTM DIF MARKDOWN XLT XLSM XLTX FODS MHTML XLSB TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPSX'u CSV'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPSX'u CSV'ye aktarmak için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPSX'u CSV'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPSX'u CSV'ye aktarmak için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 PPSX dosyasını iki adımda [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla CSV'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak PPSX'u HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi CSV'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

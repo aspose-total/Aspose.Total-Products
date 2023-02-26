@@ -1,6 +1,6 @@
 ---
 title: Converter PPT para formato CSV via Java
-description: Converta o formato PPT para CSV via Java sem usar o Microsoft Excel ou PowerPoint
+description: Converta o formato PPT para CSV via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/ppt-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MARKDOWN XLSB XLAM SXC TSV XLTX XLSX FODS XLT XLTM ODS MHTML EXCEL XLS DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPT para CSV via Java" h2="API Java no local para exportar PPT para CSV sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPT para CSV via Java ou online" h2="API Java no local para exportar PPT para CSV sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter o arquivo PPT para CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) em duas etapas. Na primeira etapa, você pode exportar PPT para HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Em segundo lugar, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

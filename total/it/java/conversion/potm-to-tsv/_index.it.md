@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in formato TSV tramite Java
-description: Converti POTM in formato TSV tramite Java senza utilizzare Microsoft Excel o PowerPoint
+description: Converti POTM in formato TSV tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/potm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTX XLT DIF SXC XLSB XLS FODS TSV EXCEL XLAM MARKDOWN XLTM MHTML XLSM XLSX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POTM in TSV tramite Java" h2="API Java in loco per esportare POTM in TSV senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti POTM in TSV tramite Java o in linea" h2="API Java in loco per esportare POTM in TSV senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file POTM in TSV tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare POTM in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTM إلى تنسيق MHTML عبر Java
-description: قم بتحويل PPTM إلى تنسيق MHTML عبر Java دون استخدام Microsoft Excel أو PowerPoint
+description: قم بتحويل PPTM إلى تنسيق MHTML عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/pptm-to-mhtml/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: MHTML
 otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS MHTML XLAM XLTM XLSM EXCEL SXC TSV FODS ODS XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPTM إلى MHTML عبر Java" h2="في Premise Java API لتصدير PPTM إلى MHTML بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPTM إلى MHTML عبر Java أو عبر الإنترنت" h2="في Premise Java API لتصدير PPTM إلى MHTML بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تحويل ملف PPTM إلى MHTML عبر [Aspose.Total for Java](https://products.aspose.com/total/java/) في خطوتين. في الخطوة الأولى ، يمكنك تصدير PPTM إلى HTML باستخدام [Aspose.Slides for Java](https://products.aspose.com/slides/java/). ثانيًا ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/java/) ، يمكنك تحويل HTML إلى MHTML.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTM إلى MHTML عبر Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPTM إلى MHTML عبر Java أو عبر الإنترنت" %}}
 1. افتح ملف PPTM باستخدام فئة [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. تحويل PPTM إلى HTML باستخدام [Save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) طريقة
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

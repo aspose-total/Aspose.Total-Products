@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSX в формат XLS через Java
-description: Преобразуйте формат PPSX в XLS через Java без использования Microsoft Excel или PowerPoint.
+description: Преобразуйте формат PPSX в XLS через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/ppsx-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLTX XLSX XLSB DIF XLS MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM XLT XLSM TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPSX в XLS через Java" h2="Локальный Java API для экспорта PPSX в XLS без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPSX в XLS через Java или онлайн" h2="Локальный Java API для экспорта PPSX в XLS без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете преобразовать файл PPSX в XLS с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) в два шага. На первом этапе вы можете экспортировать PPSX в HTML с помощью [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Во-вторых, с помощью [Aspose.Cells for Java](https://products.aspose.com/cells/java/) вы можете конвертировать HTML в XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}

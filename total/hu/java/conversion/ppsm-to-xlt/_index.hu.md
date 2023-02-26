@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-ot XLT formátumba Java segítségével
-description: Konvertálja a PPSM-ot XLT formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül
+description: Konvertálja a PPSM-ot XLT formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/ppsm-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM SXC MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="PPSM konvertálása XLT-vé Java segítségével" h2="On Premise Java API a PPSM exportálásához XLT formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="PPSM konvertálása XLT-vé Java segítségével vagy online" h2="On Premise Java API a PPSM exportálásához XLT formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A PPSM-fájlt XLT-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a PPSM-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLT-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

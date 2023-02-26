@@ -1,6 +1,6 @@
 ---
 title: PPSX'u Java ile XLTX Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla XLTX formatına dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla XLTX formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/ppsx-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EXCEL XLTX XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPSX'u XLTX'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPSX'u XLTX'ye aktarmak için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPSX'u XLTX'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPSX'u XLTX'ye aktarmak için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 PPSX dosyasını iki adımda [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla XLTX'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak PPSX'u HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi XLTX'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

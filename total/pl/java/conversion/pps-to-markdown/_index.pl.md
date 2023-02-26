@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na format MARKDOWN za pomocą Java
-description: Konwertuj PPS do formatu MARKDOWN za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
+description: Konwertuj PPS do formatu MARKDOWN za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/pps-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: XLTM XLSB XLSX FODS XLS XLAM MARKDOWN XLTX MHTML SXC XLT TSV ODS EXCEL DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPS na MARKDOWN przez Java" h2="On Premise Java API do eksportowania PPS do MARKDOWN bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPS na MARKDOWN przez Java lub online" h2="On Premise Java API do eksportowania PPS do MARKDOWN bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz przekonwertować plik PPS na MARKDOWN za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) w dwóch krokach. W pierwszym kroku możesz wyeksportować PPS do HTML, używając [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Po drugie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTM till FODS-format via Java
-description: Konvertera PPTM till FODS-format via Java utan att använda Microsoft Excel eller PowerPoint
+description: Konvertera PPTM till FODS-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/pptm-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM XLT XLS FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till FODS via Java" h2="On Premise Java API för att exportera PPTM till FODS utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till FODS via Java eller online" h2="On Premise Java API för att exportera PPTM till FODS utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan konvertera PPTM-fil till FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) i två steg. I det första steget kan du exportera PPTM till HTML genom att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/). För det andra, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

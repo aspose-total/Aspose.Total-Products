@@ -1,6 +1,6 @@
 ---
 title: POT'u Java ile EXCEL Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan POT'u Java aracılığıyla EXCEL formatına dönüştürün
+description: Microsoft Excel veya PowerPoint kullanmadan POT'u Java aracılığıyla EXCEL formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/pot-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLSB XLAM XLTX EXCEL MHTML XLTM XLS XLSM MARKDOWN TSV FODS ODS XLSX SXC DIF XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile POT'u EXCEL'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POT'u EXCEL'ye aktarmak için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile POT'u EXCEL'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POT'u EXCEL'ye aktarmak için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 POT dosyasını iki adımda [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla EXCEL'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak POT'u HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi EXCEL'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTX na format MARKDOWN za pomocą Java
-description: Konwertuj PPTX do formatu MARKDOWN za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint
+description: Konwertuj PPTX do formatu MARKDOWN za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/pptx-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MHTML XLSM XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPTX na MARKDOWN przez Java" h2="On Premise Java API do eksportowania PPTX do MARKDOWN bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPTX na MARKDOWN przez Java lub online" h2="On Premise Java API do eksportowania PPTX do MARKDOWN bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz przekonwertować plik PPTX na MARKDOWN za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) w dwóch krokach. W pierwszym kroku możesz wyeksportować PPTX do HTML, używając [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Po drugie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}

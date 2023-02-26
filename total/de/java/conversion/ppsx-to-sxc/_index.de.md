@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPSX über Java in das SXC-Format
-description: Konvertieren Sie PPSX über Java in das SXC-Format, ohne Microsoft Excel oder PowerPoint zu verwenden
+description: Konvertieren Sie PPSX über Java in das SXC-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/ppsx-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLS XLTX XLSB XLSX SXC FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN XLSM ODS XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPSX über Java in SXC" h2="Lokale Java-API zum Exportieren von PPSX in SXC ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPSX über Java in SXC oder online" h2="Lokale Java-API zum Exportieren von PPSX in SXC ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die PPSX-Datei über [Aspose.Total for Java](https://products.aspose.com/total/java/) in zwei Schritten in SXC konvertieren. Im ersten Schritt können Sie PPSX in HTML exportieren, indem Sie [Aspose.Slides for Java](https://products.aspose.com/slides/java/) verwenden. Zweitens können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in SXC konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

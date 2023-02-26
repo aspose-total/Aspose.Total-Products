@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSX naar XLAM-formaat via Java
-description: Converteer PPSX naar XLAM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
+description: Converteer PPSX naar XLAM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/ppsx-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: MARKDOWN ODS XLTX XLT XLAM XLTM FODS MHTML DIF XLS XLSB SXC EXCEL TSV XLSX XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPSX naar XLAM via Java" h2="On Premise Java API om PPSX naar XLAM te exporteren zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPSX naar XLAM via Java of online" h2="On Premise Java API om PPSX naar XLAM te exporteren zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt het PPSX-bestand in twee stappen converteren naar XLAM via [Aspose.Total for Java](https://products.aspose.com/total/java/). In de eerste stap kunt u PPSX naar HTML exporteren met [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Ten tweede kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLAM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

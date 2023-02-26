@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSM в формат XLTM через Java
-description: Преобразуйте формат PPSM в XLTM через Java без использования Microsoft Excel или PowerPoint.
+description: Преобразуйте формат PPSM в XLTM через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/ppsm-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSM XLT XLTM XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF SXC FODS EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPSM в XLTM через Java" h2="Локальный Java API для экспорта PPSM в XLTM без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPSM в XLTM через Java или онлайн" h2="Локальный Java API для экспорта PPSM в XLTM без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете преобразовать файл PPSM в XLTM с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) в два шага. На первом этапе вы можете экспортировать PPSM в HTML с помощью [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Во-вторых, с помощью [Aspose.Cells for Java](https://products.aspose.com/cells/java/) вы можете конвертировать HTML в XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

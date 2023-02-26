@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX do formátu CSV přes Java
-description: Převeďte PPTX do formátu CSV přes Java bez použití Microsoft Excel nebo PowerPoint
+description: Převeďte PPTX do formátu CSV přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/pptx-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DIF MHTML EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTX do CSV přes Java" h2="On Premise Java API pro export PPTX do CSV bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTX do CSV přes Java nebo online" h2="On Premise Java API pro export PPTX do CSV bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Soubor PPTX můžete převést na CSV prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) ve dvou krocích. V prvním kroku můžete exportovat PPTX do HTML pomocí [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Za druhé, pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) můžete převést HTML na CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

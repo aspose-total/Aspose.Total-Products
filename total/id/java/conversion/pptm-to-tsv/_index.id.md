@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPTM ke TSV melalui Java
-description: Konversi format PPTM ke TSV melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint
+description: Konversi format PPTM ke TSV melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/java/conversion/pptm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: ODS SXC XLS MHTML XLTX XLAM FODS TSV DIF XLTM XLT XLSB XLSM XLSX MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPTM ke TSV melalui Java" h2="On Premise Java API untuk mengekspor PPTM ke TSV tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPTM ke TSV melalui Java atau daring" h2="On Premise Java API untuk mengekspor PPTM ke TSV tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat mengonversi file PPTM ke TSV melalui [Aspose.Total for Java](https://products.aspose.com/total/java/) dalam dua langkah langkah. Pada langkah pertama Anda dapat mengekspor PPTM ke HTML dengan menggunakan [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Kedua, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java/), Anda dapat mengonversi HTML ke TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

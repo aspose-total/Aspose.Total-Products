@@ -1,6 +1,6 @@
 ---
 title: Converter POT para formato XLT via Java
-description: Converta o formato POT para XLT via Java sem usar o Microsoft Excel ou PowerPoint
+description: Converta o formato POT para XLT via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/pot-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM XLT EXCEL XLS XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter POT para XLT via Java" h2="API Java no local para exportar POT para XLT sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter POT para XLT via Java ou online" h2="API Java no local para exportar POT para XLT sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter o arquivo POT para XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) em duas etapas. Na primeira etapa, você pode exportar POT para HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Em segundo lugar, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

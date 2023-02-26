@@ -1,6 +1,6 @@
 ---
 title: แปลง POT เป็นรูปแบบ DIF ผ่าน Java
-description: แปลงรูปแบบ POT เป็น DIF ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint
+description: แปลงรูปแบบ POT เป็น DIF ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/pot-to-dif/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: DIF
 otherformats: XLTM MARKDOWN XLT XLSX XLS XLSB MHTML DIF XLSM ODS FODS EXCEL XLAM TSV SXC XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง POT เป็น DIF ผ่าน Java" h2="บน Premise Java API เพื่อส่งออก POT เป็น DIF โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง POT เป็น DIF ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API เพื่อส่งออก POT เป็น DIF โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 คุณสามารถแปลงไฟล์ POT เป็น DIF ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) ได้ใน 2 ขั้นตอน ในขั้นตอนแรก คุณสามารถส่งออก POT เป็น HTML ได้โดยใช้ [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ประการที่สอง โดยใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณสามารถแปลง HTML เป็น DIF
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POT เป็น DIF ผ่าน Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POT เป็น DIF ผ่าน Java หรือทางออนไลน์" %}}
 1. เปิดไฟล์ POT โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. แปลง POT เป็น HTML โดยใช้ [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides ISaveOptions-) วิธีการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

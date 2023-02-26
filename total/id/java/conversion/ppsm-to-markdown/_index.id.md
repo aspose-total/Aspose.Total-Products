@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPSM ke MARKDOWN melalui Java
-description: Konversi format PPSM ke MARKDOWN melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint
+description: Konversi format PPSM ke MARKDOWN melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/java/conversion/ppsm-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL MARKDOWN MHTML FODS ODS XLAM TSV XLTM XLSB XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPSM ke MARKDOWN melalui Java" h2="On Premise Java API untuk mengekspor PPSM ke MARKDOWN tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPSM ke MARKDOWN melalui Java atau daring" h2="On Premise Java API untuk mengekspor PPSM ke MARKDOWN tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat mengonversi file PPSM ke MARKDOWN melalui [Aspose.Total for Java](https://products.aspose.com/total/java/) dalam dua langkah langkah. Pada langkah pertama Anda dapat mengekspor PPSM ke HTML dengan menggunakan [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Kedua, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java/), Anda dapat mengonversi HTML ke MARKDOWN.
 {{% /blocks/products/pf/feature-page-summary  %}}

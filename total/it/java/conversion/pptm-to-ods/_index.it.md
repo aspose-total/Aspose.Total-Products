@@ -1,6 +1,6 @@
 ---
 title: Converti PPTM in formato ODS tramite Java
-description: Converti PPTM in formato ODS tramite Java senza utilizzare Microsoft Excel o PowerPoint
+description: Converti PPTM in formato ODS tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/pptm-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX XLSB FODS SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPTM in ODS tramite Java" h2="API Java in loco per esportare PPTM in ODS senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPTM in ODS tramite Java o in linea" h2="API Java in loco per esportare PPTM in ODS senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file PPTM in ODS tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare PPTM in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

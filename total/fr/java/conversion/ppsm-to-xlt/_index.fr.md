@@ -1,6 +1,6 @@
 ---
 title: Convertir PPSM au format XLT via Java
-description: Convertissez le format PPSM au format XLT via Java sans utiliser Microsoft Excel ou PowerPoint
+description: Convertissez le format PPSM au format XLT via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/ppsm-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM SXC MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSM en XLT via Java" h2="API Java sur site pour exporter PPSM vers XLT sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSM en XLT via Java ou en ligne" h2="API Java sur site pour exporter PPSM vers XLT sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez convertir le fichier PPSM en XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) en deux étapes. Dans la première étape, vous pouvez exporter PPSM vers HTML en utilisant [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Deuxièmement, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

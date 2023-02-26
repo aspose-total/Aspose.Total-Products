@@ -1,6 +1,6 @@
 ---
 title: जावा के माध्यम से पीओटी को सीएसवी प्रारूप में कनवर्ट करें
-description: माइक्रोसॉफ्ट एक्सेल या पावरपॉइंट का उपयोग किए बिना जावा के माध्यम से पीओटी को सीएसवी प्रारूप में कनवर्ट करें
+description: माइक्रोसॉफ्ट एक्सेल या पावरपॉइंट का उपयोग किए बिना जावा के माध्यम से पीओटी को सीएसवी प्रारूप में कनवर्ट करें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। या मुफ्त ऑनलाइन कन्वर्टर के साथ
 url_ignore: /hi/java/conversion/ppsm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: DIF ODS XLS SXC XLSB EXCEL TSV XLAM XLSM XLT XLSX MHTML XLTM FODS MARKDOWN XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से पीओटी को सीएसवी में कनवर्ट करें" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना TSV को PPSM निर्यात करने के लिए परिसर जावा API पर" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना TSV को PPSM निर्यात करने के लिए परिसर जावा API पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 आप दो चरणों में [Aspose.Total for Java](https://products.aspose.com/total/java/) के ज़रिए PPSM फ़ाइल को TSV में बदल सकते हैं। पहले चरण में आप [Aspose.Slides for Java](https://products.aspose.com/slides/java/) का उपयोग करके HTML को PPSM निर्यात कर सकते हैं। दूसरे, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) का उपयोग करके, आप HTML को TSV में बदल सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}

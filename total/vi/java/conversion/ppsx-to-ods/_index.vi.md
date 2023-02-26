@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPSX sang Định dạng ODS qua Java
-description: Chuyển đổi PPSX sang định dạng ODS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
+description: Chuyển đổi PPSX sang định dạng ODS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/ppsx-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL XLTX SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPSX sang ODS qua Java" h2="Trên API Premise Java để xuất PPSX sang ODS mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPSX sang ODS qua Java hoặc trực tuyến" h2="Trên API Premise Java để xuất PPSX sang ODS mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể chuyển đổi tệp PPSX sang ODS qua [Aspose.Total for Java](https://products.aspose.com/total/java/) trong hai bước. Trong bước đầu tiên, bạn có thể xuất PPSX sang HTML bằng cách sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

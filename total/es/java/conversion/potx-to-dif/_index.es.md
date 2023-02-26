@@ -1,6 +1,6 @@
 ---
 title: Convierta POTX a formato DIF a través de Java
-description: Convierta POTX a formato DIF a través de Java sin usar Microsoft Excel o PowerPoint
+description: Convierta POTX a formato DIF a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/potx-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: MHTML SXC XLTM FODS XLSM MARKDOWN XLT EXCEL ODS XLTX XLS XLSB XLAM DIF XLSX TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POTX a DIF a través de Java" h2="API de Java local para exportar POTX a DIF sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POTX a DIF a través de Java o en línea" h2="API de Java local para exportar POTX a DIF sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puede convertir un archivo POTX a DIF a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) en dos pasos. En el primer paso, puede exportar POTX a HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). En segundo lugar, al usar [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}

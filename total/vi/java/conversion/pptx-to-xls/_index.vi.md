@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTX sang Định dạng XLS qua Java
-description: Chuyển đổi PPTX sang định dạng XLS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint
+description: Chuyển đổi PPTX sang định dạng XLS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/pptx-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLS FODS MHTML MARKDOWN SXC XLSX XLTM XLT XLTX ODS XLAM TSV DIF XLSM XLSB EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTX sang XLS qua Java" h2="Trên API Premise Java để xuất PPTX sang XLS mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPTX sang XLS qua Java hoặc trực tuyến" h2="Trên API Premise Java để xuất PPTX sang XLS mà không sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể chuyển đổi tệp PPTX sang XLS qua [Aspose.Total for Java](https://products.aspose.com/total/java/) trong hai bước. Trong bước đầu tiên, bạn có thể xuất PPTX sang HTML bằng cách sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Thứ hai, bằng cách sử dụng [Aspose.Cells for Java](https://products.aspose.com/cells/java/), bạn có thể chuyển đổi HTML sang XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Convierta PPS a formato XLSX a través de Java
-description: Convierta PPS a formato XLSX a través de Java sin usar Microsoft Excel o PowerPoint
+description: Convierta PPS a formato XLSX a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/pps-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM XLSX XLT XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPS a XLSX a través de Java" h2="API de Java local para exportar PPS a XLSX sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPS a XLSX a través de Java o en línea" h2="API de Java local para exportar PPS a XLSX sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puede convertir un archivo PPS a XLSX a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) en dos pasos. En el primer paso, puede exportar PPS a HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). En segundo lugar, al usar [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}

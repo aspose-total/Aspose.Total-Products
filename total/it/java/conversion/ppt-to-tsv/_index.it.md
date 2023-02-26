@@ -1,6 +1,6 @@
 ---
 title: Converti PPT in formato TSV tramite Java
-description: Converti PPT in formato TSV tramite Java senza utilizzare Microsoft Excel o PowerPoint
+description: Converti PPT in formato TSV tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/ppt-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: DIF XLS TSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML MARKDOWN XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPT in TSV tramite Java" h2="API Java in loco per esportare PPT in TSV senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPT in TSV tramite Java o in linea" h2="API Java in loco per esportare PPT in TSV senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file PPT in TSV tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare PPT in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

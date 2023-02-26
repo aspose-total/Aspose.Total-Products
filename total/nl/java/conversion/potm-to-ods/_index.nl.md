@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar ODS-formaat via Java
-description: Converteer POTM naar ODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken
+description: Converteer POTM naar ODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/potm-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS SXC XLTM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POTM naar ODS via Java" h2="On Premise Java API om POTM naar ODS te exporteren zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POTM naar ODS via Java of online" h2="On Premise Java API om POTM naar ODS te exporteren zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt het POTM-bestand in twee stappen converteren naar ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/). In de eerste stap kunt u POTM naar HTML exporteren met [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Ten tweede kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar ODS converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPTX σε μορφή XLSX μέσω Java
-description: Μετατροπή PPTX σε μορφή XLSX μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
+description: Μετατροπή PPTX σε μορφή XLSX μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/pptx-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MHTML XLSM XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPTX σε XLSX μέσω Java" h2="Στο Premise Java API για εξαγωγή PPTX σε XLSX χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPTX σε XLSX μέσω Java ή διαδικτυακά" h2="Στο Premise Java API για εξαγωγή PPTX σε XLSX χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να μετατρέψετε το αρχείο PPTX σε XLSX μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/) σε δύο βήματα. Στο πρώτο βήμα μπορείτε να εξαγάγετε το PPTX σε HTML χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}

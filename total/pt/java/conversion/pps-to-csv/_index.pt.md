@@ -1,6 +1,6 @@
 ---
 title: Converter PPS para formato CSV via Java
-description: Converta o formato PPS para CSV via Java sem usar o Microsoft Excel ou PowerPoint
+description: Converta o formato PPS para CSV via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/pps-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MHTML XLS ODS XLSM MARKDOWN XLTX TSV FODS XLSX DIF EXCEL XLTM SXC XLAM XLT XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPS para CSV via Java" h2="API Java no local para exportar PPS para CSV sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPS para CSV via Java ou online" h2="API Java no local para exportar PPS para CSV sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter o arquivo PPS para CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) em duas etapas. Na primeira etapa, você pode exportar PPS para HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Em segundo lugar, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

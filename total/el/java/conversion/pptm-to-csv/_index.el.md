@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPTM σε μορφή CSV μέσω Java
-description: Μετατροπή PPTM σε μορφή CSV μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint
+description: Μετατροπή PPTM σε μορφή CSV μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/pptm-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MHTML EXCEL XLS XLSM ODS DIF XLTM XLT MARKDOWN XLTX TSV XLAM FODS XLSX XLSB SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPTM σε CSV μέσω Java" h2="Στο Premise Java API για εξαγωγή PPTM σε CSV χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPTM σε CSV μέσω Java ή διαδικτυακά" h2="Στο Premise Java API για εξαγωγή PPTM σε CSV χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να μετατρέψετε το αρχείο PPTM σε CSV μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/) σε δύο βήματα. Στο πρώτο βήμα μπορείτε να εξαγάγετε το PPTM σε HTML χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
