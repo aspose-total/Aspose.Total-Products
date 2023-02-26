@@ -1,6 +1,6 @@
 ---
-title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें
-description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPT को SXC में C# में बदलें
+title: सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन
+description: Microsoft Excel या Powerpoint का उपयोग किए बिना PPT को SXC में C# में बदलें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें। या मुफ्त ऑनलाइन कन्वर्टर के साथ
 url_ignore: /hi/net/conversion/ppt-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: SXC TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKDOWN XLAM XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना PPT से SXC रूपांतरण के लिए .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="सी # के माध्यम से पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना PPT से SXC रूपांतरण के लिए .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) का उपयोग करके आप किसी भी .NET, C#, ASP.NET और VB.NET एप्लिकेशन में PPT फ़ाइल को SXC में कनवर्ट कर सकते हैं। सरल कदम। सबसे पहले, [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) का उपयोग करके, आप HTML को PPT निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) स्प्रेडशीट प्रोग्रामिंग API का उपयोग करके, आप HTML को SXC में बदल सकते हैं।

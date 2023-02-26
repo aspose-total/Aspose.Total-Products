@@ -1,6 +1,6 @@
 ---
-title: แปลง PPTX เป็น ODS ผ่าน C#
-description: แปลง PPTX เป็น ODS ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint
+title: แปลง PPTX เป็น ODS ผ่าน C# หรือทางออนไลน์
+description: แปลง PPTX เป็น ODS ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/net/conversion/pptx-to-ods/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN ODS XLTM TSV XLT DIF FODS MHTML XLAM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง PPTX เป็น ODS ผ่าน C#" h2=".NET API สำหรับการแปลง PPTX เป็น ODS โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง PPTX เป็น ODS ผ่าน C# หรือทางออนไลน์" h2=".NET API สำหรับการแปลง PPTX เป็น ODS โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for .NET](https://products.aspose.com/total/net/) คุณสามารถแปลงไฟล์ PPTX เป็น ODS ภายในแอปพลิเคชัน .NET, C#, ASP.NET และ VB.NET ได้เป็นสองส่วน ขั้นตอนง่ายๆ ประการแรก ด้วยการใช้ [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) คุณสามารถส่งออก PPTX เป็น HTML หลังจากนั้น การใช้ [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API จะช่วยให้คุณแปลง HTML เป็น ODS ได้
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPTX เป็น ODS ผ่าน C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPTX เป็น ODS ผ่าน C# หรือทางออนไลน์" %}}
 1. เปิดไฟล์ PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
 2. ส่งออก PPTX เป็น HTML โดยใช้วิธีการ [บันทึก](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)

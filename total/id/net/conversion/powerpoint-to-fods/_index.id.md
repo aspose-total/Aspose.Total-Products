@@ -1,6 +1,6 @@
 ---
-title: Konversi POWERPOINT ke FODS melalui C#
-description: Konversi POWERPOINT ke FODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint
+title: Konversi POWERPOINT ke FODS melalui C# atau daring
+description: Konversi POWERPOINT ke FODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/powerpoint-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT XLS SXC MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POWERPOINT ke FODS melalui C#" h2=".NET API untuk konversi POWERPOINT ke FODS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POWERPOINT ke FODS melalui C# atau daring" h2=".NET API untuk konversi POWERPOINT ke FODS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda dapat mengonversi file POWERPOINT ke FODS dalam aplikasi .NET, C#, ASP.NET dan VB.NET dalam dua langkah-langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), Anda dapat mengekspor POWERPOINT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke FODS.

@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POTM über C# in XLTX
-description: Konvertieren Sie POTM in C# in XLTX, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie POTM über C# in XLTX oder online
+description: Konvertieren Sie POTM in C# in XLTX, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/potm-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: ODS MHTML XLSM FODS XLT XLSX DIF XLS MARKDOWN XLTM SXC EXCEL XLSB TSV XLAM XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POTM über C# in XLTX" h2=".NET-API für die POTM-zu-XLTX-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POTM über C# in XLTX oder online" h2=".NET-API für die POTM-zu-XLTX-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie POTM-Dateien innerhalb jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei Fällen in XLTX konvertieren einfache Schritte. Erstens können Sie mit [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) POTM in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in XLTX konvertieren.

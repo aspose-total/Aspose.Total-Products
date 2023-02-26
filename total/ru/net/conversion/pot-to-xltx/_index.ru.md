@@ -1,6 +1,6 @@
 ---
-title: Преобразование POT в XLTX через C#
-description: Преобразование POT в XLTX на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование POT в XLTX через C# или онлайн
+description: Преобразование POT в XLTX на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pot-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM MHTML XLTX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование POT в XLTX через C#" h2=".NET API для преобразования POT в XLTX без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование POT в XLTX через C# или онлайн" h2=".NET API для преобразования POT в XLTX без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл POT в XLTX в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать POT в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLTX.

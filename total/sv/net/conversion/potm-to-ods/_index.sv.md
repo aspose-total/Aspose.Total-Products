@@ -1,6 +1,6 @@
 ---
-title: Konvertera POTM till ODS via C#
-description: Konvertera POTM till ODS i C# utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera POTM till ODS via C# eller online
+description: Konvertera POTM till ODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/potm-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS SXC XLTM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POTM till ODS via C#" h2=".NET API för POTM till ODS-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POTM till ODS via C# eller online" h2=".NET API för POTM till ODS-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera POTM-filen till ODS i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera POTM till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till ODS.

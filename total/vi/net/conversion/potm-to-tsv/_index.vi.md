@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi POTM sang TSV qua C#
-description: Chuyển đổi POTM sang TSV trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint
+title: Chuyển đổi POTM sang TSV qua C# hoặc trực tuyến
+description: Chuyển đổi POTM sang TSV trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/potm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTX XLT DIF SXC XLSB XLS FODS TSV EXCEL XLAM MARKDOWN XLTM MHTML XLSM XLSX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POTM sang TSV qua C#" h2=".NET API để chuyển đổi POTM sang TSV mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi POTM sang TSV qua C# hoặc trực tuyến" h2=".NET API để chuyển đổi POTM sang TSV mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể chuyển đổi tệp POTM thành TSV trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai ứng dụng các bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), bạn có thể xuất POTM sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang TSV.

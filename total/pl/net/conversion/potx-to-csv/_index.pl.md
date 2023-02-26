@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POTX na CSV za pomocą C#
-description: Konwertuj POTX na CSV w C# bez użycia Microsoft Excel lub Powerpoint
+title: Konwertuj POTX na CSV za pomocą C# lub online
+description: Konwertuj POTX na CSV w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/potx-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: DIF XLAM MHTML XLSB XLTM XLSM EXCEL TSV SXC XLSX MARKDOWN ODS XLTX XLS XLT FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj POTX na CSV za pomocą C#" h2=".NET API do konwersji POTX na CSV bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj POTX na CSV za pomocą C# lub online" h2=".NET API do konwersji POTX na CSV bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) możesz przekonwertować plik POTX na CSV w dowolnej aplikacji .NET, C#, ASP.NET i VB.NET w dwóch proste kroki. Po pierwsze, używając [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), możesz wyeksportować POTX do HTML. Następnie, używając [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, możesz przekonwertować HTML na CSV.

@@ -1,6 +1,6 @@
 ---
-title: Konvertera POT till FODS via C#
-description: Konvertera POT till FODS i C# utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera POT till FODS via C# eller online
+description: Konvertera POT till FODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pot-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB EXCEL XLAM XLSX FODS TSV XLTM DIF XLT XLS MHTML SXC XLTX MARKDOWN XLSM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POT till FODS via C#" h2=".NET API för POT till FODS-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POT till FODS via C# eller online" h2=".NET API för POT till FODS-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera POT-filen till FODS i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera POT till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till FODS.

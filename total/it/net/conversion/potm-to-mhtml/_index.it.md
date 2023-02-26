@@ -1,6 +1,6 @@
 ---
-title: Converti POTM in MHTML tramite C#
-description: Converti POTM in MHTML in C# senza utilizzare Microsoft Excel o Powerpoint
+title: Converti POTM in MHTML tramite C# o in linea
+description: Converti POTM in MHTML in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/potm-to-mhtml/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS MHTML DIF XLT XLTX ODS XLSM XLSB FODS XLSX XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POTM in MHTML tramite C#" h2="API .NET per la conversione da POTM a MHTML senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti POTM in MHTML tramite C# o in linea" h2="API .NET per la conversione da POTM a MHTML senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi convertire il file POTM in MHTML all'interno di qualsiasi applicazione .NET, C#, ASP.NET e VB.NET in due semplici passaggi. Innanzitutto, utilizzando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), puoi esportare POTM in HTML. Successivamente, utilizzando l'API di programmazione per fogli di calcolo [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), è possibile convertire HTML in MHTML.

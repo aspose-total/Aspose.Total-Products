@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPTX в MHTML через C#
-description: Преобразование PPTX в MHTML на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование PPTX в MHTML через C# или онлайн
+description: Преобразование PPTX в MHTML на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pptx-to-mhtml/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: DIF EXCEL FODS XLSX XLTM XLSB XLAM XLSM XLT TSV MHTML SXC MARKDOWN ODS XLS XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPTX в MHTML через C#" h2=".NET API для преобразования PPTX в MHTML без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPTX в MHTML через C# или онлайн" h2=".NET API для преобразования PPTX в MHTML без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPTX в MHTML в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPTX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в MHTML.

@@ -1,6 +1,6 @@
 ---
-title: Convert POTM to XLTM via C# 
-description: Convert POTM to XLTM in C# without using Microsoft Excel or Powerpoint
+title: Convert POTM to XLTM via C# or online 
+description: Convert POTM to XLTM in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/potm-to-xltm/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: XLTM
 otherformats: MHTML SXC TSV XLSX CSV XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT DIF XLS XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POTM to XLTM via C#" h2=".NET API for POTM to XLTM conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POTM to XLTM via C# or online" h2=".NET API for POTM to XLTM conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert POTM file to XLTM within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export POTM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTM to XLTM via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTM to XLTM via C# or online" %}}
 1. Open POTM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export POTM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

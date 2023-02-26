@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPTM-ot XLSB-vé a C# segítségével
-description: Konvertálja a PPTM-ot XLSB-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül
+title: Konvertálja a PPTM-ot XLSB-vé a C# segítségével vagy online
+description: Konvertálja a PPTM-ot XLSB-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/pptm-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: MHTML DIF XLSM XLAM XLS FODS SXC TSV XLTM XLSX EXCEL XLTX MARKDOWN ODS XLSB XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPTM-ot XLSB-vé a C# segítségével" h2=".NET API a PPTM-ból XLSB-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPTM-ot XLSB-vé a C# segítségével vagy online" h2=".NET API a PPTM-ból XLSB-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával PPTM-fájlt konvertálhat XLSB-vé bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül két részből. egyszerű lépéseket. Először is, az [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) használatával exportálhatja a PPTM-ot HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t XLSB-vé.

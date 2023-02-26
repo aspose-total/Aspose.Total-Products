@@ -1,6 +1,6 @@
 ---
-title: Convierta PPTM a XLTM a través de C#
-description: Convierta PPTM a XLTM en C# sin usar Microsoft Excel o Powerpoint
+title: Convierta PPTM a XLTM a través de C# o en línea
+description: Convierta PPTM a XLTM en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/pptm-to-xltm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSX XLSM ODS XLSB XLTX FODS XLT XLS TSV XLTM MARKDOWN MHTML EXCEL XLAM DIF SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPTM a XLTM a través de C#" h2="API .NET para conversión de PPTM a XLTM sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPTM a XLTM a través de C# o en línea" h2="API .NET para conversión de PPTM a XLTM sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede convertir un archivo PPTM a XLTM dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos pasos simples En primer lugar, al usar [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), puede exportar PPTM a HTML. Después de eso, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programación de hojas de cálculo, puede convertir HTML a XLTM.

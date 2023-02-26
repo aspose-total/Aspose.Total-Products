@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPSX в ODS через C#
-description: Преобразование PPSX в ODS на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование PPSX в ODS через C# или онлайн
+description: Преобразование PPSX в ODS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsx-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL XLTX SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в ODS через C#" h2=".NET API для преобразования PPSX в ODS без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в ODS через C# или онлайн" h2=".NET API для преобразования PPSX в ODS без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPSX в ODS в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в ODS.

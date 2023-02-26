@@ -1,6 +1,6 @@
 ---
-title: Converteer PPSM naar XLS via C#
-description: Converteer PPSM naar XLS in C# zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer PPSM naar XLS via C# of online
+description: Converteer PPSM naar XLS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppsm-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB XLS XLTX MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPSM naar XLS via C#" h2=".NET API voor PPSM naar XLS-conversie zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPSM naar XLS via C# of online" h2=".NET API voor PPSM naar XLS-conversie zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruiken, kunt u PPSM-bestanden naar XLS converteren binnen elke .NET-, C#-, ASP.NET- en VB.NET-toepassing in twee eenvoudige stappen. Ten eerste, door [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) te gebruiken, kunt u PPSM naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API HTML naar XLS converteren.

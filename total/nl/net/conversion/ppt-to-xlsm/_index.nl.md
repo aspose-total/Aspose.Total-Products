@@ -1,6 +1,6 @@
 ---
-title: Converteer PPT naar XLSM via C#
-description: Converteer PPT naar XLSM in C# zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer PPT naar XLSM via C# of online
+description: Converteer PPT naar XLSM in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppt-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: SXC XLS XLSX XLSM DIF MARKDOWN FODS ODS MHTML XLTX TSV EXCEL XLT XLTM XLAM XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPT naar XLSM via C#" h2=".NET API voor PPT naar XLSM-conversie zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPT naar XLSM via C# of online" h2=".NET API voor PPT naar XLSM-conversie zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruiken, kunt u PPT-bestanden naar XLSM converteren binnen elke .NET-, C#-, ASP.NET- en VB.NET-toepassing in twee eenvoudige stappen. Ten eerste, door [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) te gebruiken, kunt u PPT naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API HTML naar XLSM converteren.

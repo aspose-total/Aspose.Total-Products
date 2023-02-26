@@ -1,6 +1,6 @@
 ---
-title: C＃を介してPPTMをXLAMに変換する
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをXLAMに変換する
+title: C＃を介してPPTMをXLAMに変換する またはオンライン
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTMをXLAMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/pptm-to-xlam/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: XLAM
 otherformats: XLT DIF MARKDOWN XLAM XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB ODS XLTX XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してPPTMをXLAMに変換する" h2="Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTMからXLAMに変換するための.NETAPI" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してPPTMをXLAMに変換する またはオンライン" h2="Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTMからXLAMに変換するための.NETAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、任意の.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でPPTMファイルをXLAMに変換できます。簡単な手順。まず、[Aspose.Slides for .NET](https://products.aspose.com/slides/net/)を使用して、PPTMをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをXLAMに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C＃を介してPPTMをXLAMに変換する方法" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C＃を介してPPTMをXLAMに変換する またはオンライン方法" %}}
 1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPPTMファイルを開きます
 2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPPTMをHTMLとしてエクスポートします
 3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします

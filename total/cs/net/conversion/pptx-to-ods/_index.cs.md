@@ -1,6 +1,6 @@
 ---
-title: Převést PPTX na ODS přes C#
-description: Převeďte PPTX na ODS v C# bez použití Microsoft Excel nebo Powerpoint
+title: Převést PPTX na ODS přes C# nebo online
+description: Převeďte PPTX na ODS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pptx-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN ODS XLTM TSV XLT DIF FODS MHTML XLAM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést PPTX na ODS přes C#" h2=".NET API pro převod PPTX do ODS bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést PPTX na ODS přes C# nebo online" h2=".NET API pro převod PPTX do ODS bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete převést soubor PPTX na ODS v rámci libovolné aplikace .NET, C#, ASP.NET a VB.NET ve dvou jednoduché kroky. Za prvé, pomocí [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) můžete exportovat PPTX do HTML. Pptxé můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na ODS.

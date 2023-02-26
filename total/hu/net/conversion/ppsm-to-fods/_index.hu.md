@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPSM-ot FODS-vé a C# segítségével
-description: Konvertálja a PPSM-ot FODS-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül
+title: Konvertálja a PPSM-ot FODS-vé a C# segítségével vagy online
+description: Konvertálja a PPSM-ot FODS-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/ppsm-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM FODS MHTML DIF ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPSM-ot FODS-vé a C# segítségével" h2=".NET API a PPSM-ból FODS-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPSM-ot FODS-vé a C# segítségével vagy online" h2=".NET API a PPSM-ból FODS-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával PPSM-fájlt konvertálhat FODS-vé bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül két részből. egyszerű lépéseket. Először is, az [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) használatával exportálhatja a PPSM-ot HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t FODS-vé.

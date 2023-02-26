@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPSX в XLSM через C#
-description: Преобразование PPSX в XLSM на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование PPSX в XLSM через C# или онлайн
+description: Преобразование PPSX в XLSM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsx-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: DIF TSV XLS ODS EXCEL XLT MHTML XLSX XLTX MARKDOWN XLTM XLAM XLSB FODS SXC XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в XLSM через C#" h2=".NET API для преобразования PPSX в XLSM без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в XLSM через C# или онлайн" h2=".NET API для преобразования PPSX в XLSM без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPSX в XLSM в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLSM.

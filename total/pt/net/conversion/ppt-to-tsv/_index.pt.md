@@ -1,6 +1,6 @@
 ---
-title: Converter PPT para TSV via C#
-description: Converter PPT para TSV em C# sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPT para TSV via C# ou online
+description: Converter PPT para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/ppt-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: DIF XLS TSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML MARKDOWN XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPT para TSV via C#" h2="API .NET para conversão de PPT para TSV sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPT para TSV via C# ou online" h2="API .NET para conversão de PPT para TSV sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode converter o arquivo PPT para TSV em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), você pode exportar PPT para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para TSV.

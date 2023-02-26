@@ -1,6 +1,6 @@
 ---
-title: Convertir PPTM en FODS via C#
-description: Convertir PPTM en FODS en C# sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir PPTM en FODS via C# ou en ligne
+description: Convertir PPTM en FODS en C# sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/net/conversion/pptm-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM XLT XLS FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPTM en FODS via C#" h2="API .NET pour la conversion PPTM en FODS sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPTM en FODS via C# ou en ligne" h2="API .NET pour la conversion PPTM en FODS sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPTM en FODS dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPTM vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en FODS.

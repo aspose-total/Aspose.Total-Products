@@ -1,6 +1,6 @@
 ---
-title: تحويل PPSM إلى XLSX عبر C#
-description: قم بتحويل PPSM إلى XLSX في C# بدون استخدام Microsoft Excel أو Powerpoint
+title: تحويل PPSM إلى XLSX عبر C# أو عبر الإنترنت
+description: قم بتحويل PPSM إلى XLSX في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/ppsm-to-xlsx/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLSM TSV EXCEL ODS XLT SXC XLTX XLTM FODS XLS XLSB MHTML XLAM XLSX DIF MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPSM إلى XLSX عبر C#" h2="NET API لتحويل PPSM إلى XLSX بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل PPSM إلى XLSX عبر C# أو عبر الإنترنت" h2="NET API لتحويل PPSM إلى XLSX بدون استخدام Microsoft<sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for .NET](https://products.aspose.com/total/net/) يمكنك تحويل ملف PPSM إلى XLSX ضمن أي تطبيق .NET و C# و ASP.NET و VB.NET في قسمين خطوات بسيطة. أولاً ، باستخدام [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) ، يمكنك تصدير PPSM إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى XLSX عبر C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى XLSX عبر C# أو عبر الإنترنت" %}}
 1. افتح ملف PPSM باستخدام فئة [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)
 2. تصدير PPSM بتنسيق HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)
 3. قم بتحميل مستند HTML باستخدام فئة [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)

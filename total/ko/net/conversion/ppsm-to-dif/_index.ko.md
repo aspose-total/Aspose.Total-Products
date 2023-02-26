@@ -1,6 +1,6 @@
 ---
-title: C#을 통해 PPSM을 DIF로 변환
-description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C#에서 PPSM을 DIF로 변환
+title: C#을 통해 PPSM을 DIF로 변환 또는 온라인
+description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C#에서 PPSM을 DIF로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오. 또는 무료 온라인 변환기 사용
 url_ignore: /ko/net/conversion/ppsm-to-dif/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML DIF MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#을 통해 PPSM을 DIF로 변환" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 PPSM에서 DIF로 변환하는 .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#을 통해 PPSM을 DIF로 변환 또는 온라인" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 PPSM에서 DIF로 변환하는 .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)을 사용하면 모든 .NET, C#, ASP.NET 및 VB.NET 응용 프로그램 내에서 PPSM 파일을 DIF로 변환할 수 있습니다. 간단한 단계. 먼저 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/)을 사용하여 PPSM을 HTML로 내보낼 수 있습니다. 그런 다음 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API를 사용하여 HTML을 DIF로 변환할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C#을 통해 PPSM을 DIF로 변환하는 방법" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C#을 통해 PPSM을 DIF로 변환 또는 온라인하는 방법" %}}
 1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 사용하여 PPSM 파일을 엽니다.
 2. [저장](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 메서드를 사용하여 PPSM을 HTML로 내보냅니다.
 3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드

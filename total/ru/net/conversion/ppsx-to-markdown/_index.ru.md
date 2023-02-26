@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPSX в MARKDOWN через C#
-description: Преобразование PPSX в MARKDOWN на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование PPSX в MARKDOWN через C# или онлайн
+description: Преобразование PPSX в MARKDOWN на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsx-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM MARKDOWN TSV DIF XLT XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в MARKDOWN через C#" h2=".NET API для преобразования PPSX в MARKDOWN без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSX в MARKDOWN через C# или онлайн" h2=".NET API для преобразования PPSX в MARKDOWN без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPSX в MARKDOWN в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSX в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в MARKDOWN.

@@ -1,6 +1,6 @@
 ---
-title: Converteer PPTM naar XLSX via C#
-description: Converteer PPTM naar XLSX in C# zonder Microsoft Excel of Powerpoint te gebruiken
+title: Converteer PPTM naar XLSX via C# of online
+description: Converteer PPTM naar XLSX in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/pptm-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM TSV MARKDOWN EXCEL XLSM XLSB XLAM XLTX FODS SXC XLT MHTML DIF XLSX XLS ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPTM naar XLSX via C#" h2=".NET API voor PPTM naar XLSX-conversie zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer PPTM naar XLSX via C# of online" h2=".NET API voor PPTM naar XLSX-conversie zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for .NET](https://products.aspose.com/total/net/) te gebruiken, kunt u PPTM-bestanden naar XLSX converteren binnen elke .NET-, C#-, ASP.NET- en VB.NET-toepassing in twee eenvoudige stappen. Ten eerste, door [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) te gebruiken, kunt u PPTM naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API HTML naar XLSX converteren.

@@ -1,6 +1,6 @@
 ---
-title: Konversi PPTX ke XLT melalui C#
-description: Konversi PPTX ke XLT dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint
+title: Konversi PPTX ke XLT melalui C# atau daring
+description: Konversi PPTX ke XLT dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pptx-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLT DIF MHTML XLSM XLTX XLSB XLAM XLTM FODS MARKDOWN SXC XLSX TSV EXCEL XLS ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPTX ke XLT melalui C#" h2=".NET API untuk konversi PPTX ke XLT tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPTX ke XLT melalui C# atau daring" h2=".NET API untuk konversi PPTX ke XLT tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda dapat mengonversi file PPTX ke XLT dalam aplikasi .NET, C#, ASP.NET dan VB.NET dalam dua langkah-langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), Anda dapat mengekspor PPTX ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke XLT.

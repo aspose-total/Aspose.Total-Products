@@ -1,6 +1,6 @@
 ---
-title: Konversi PPS ke FODS melalui C#
-description: Konversi PPS ke FODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint
+title: Konversi PPS ke FODS melalui C# atau daring
+description: Konversi PPS ke FODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pps-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV DIF XLAM XLS SXC ODS XLTM XLSM FODS XLTX EXCEL MARKDOWN MHTML XLSB XLT XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPS ke FODS melalui C#" h2=".NET API untuk konversi PPS ke FODS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPS ke FODS melalui C# atau daring" h2=".NET API untuk konversi PPS ke FODS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda dapat mengonversi file PPS ke FODS dalam aplikasi .NET, C#, ASP.NET dan VB.NET dalam dua langkah-langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), Anda dapat mengekspor PPS ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke FODS.

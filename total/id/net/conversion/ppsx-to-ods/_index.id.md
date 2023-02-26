@@ -1,6 +1,6 @@
 ---
-title: Konversi PPSX ke ODS melalui C#
-description: Konversi PPSX ke ODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint
+title: Konversi PPSX ke ODS melalui C# atau daring
+description: Konversi PPSX ke ODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/ppsx-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL XLTX SXC XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPSX ke ODS melalui C#" h2=".NET API untuk konversi PPSX ke ODS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPSX ke ODS melalui C# atau daring" h2=".NET API untuk konversi PPSX ke ODS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda dapat mengonversi file PPSX ke ODS dalam aplikasi .NET, C#, ASP.NET dan VB.NET dalam dua langkah-langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), Anda dapat mengekspor PPSX ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke ODS.

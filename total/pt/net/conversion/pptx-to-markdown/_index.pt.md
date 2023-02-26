@@ -1,6 +1,6 @@
 ---
-title: Converter PPTX para MARKDOWN via C#
-description: Converter PPTX para MARKDOWN em C# sem usar o Microsoft Excel ou Powerpoint
+title: Converter PPTX para MARKDOWN via C# ou online
+description: Converter PPTX para MARKDOWN em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pptx-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MHTML XLSM XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPTX para MARKDOWN via C#" h2="API .NET para conversão de PPTX para MARKDOWN sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPTX para MARKDOWN via C# ou online" h2="API .NET para conversão de PPTX para MARKDOWN sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode converter o arquivo PPTX para MARKDOWN em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), você pode exportar PPTX para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para MARKDOWN.

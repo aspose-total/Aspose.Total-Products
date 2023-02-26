@@ -1,6 +1,6 @@
 ---
-title: PPTM'u C# ile TSV'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan PPTM'u C#'ta TSV'ye dönüştürün
+title: PPTM'u C# ile TSV'ye dönüştürün veya çevrimiçi
+description: Microsoft Excel veya Powerpoint kullanmadan PPTM'u C#'ta TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/pptm-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: ODS SXC XLS MHTML XLTX XLAM FODS TSV DIF XLTM XLT XLSB XLSM XLSX MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="PPTM'u C# ile TSV'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPTM'tan TSV'ye dönüştürme için .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="PPTM'u C# ile TSV'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPTM'tan TSV'ye dönüştürme için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında PPTM dosyasını iki şekilde TSV'ye dönüştürebilirsiniz. basit adımlar. İlk olarak, [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) kullanarak PPTM'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi TSV'ye dönüştürebilirsiniz.

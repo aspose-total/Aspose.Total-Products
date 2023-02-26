@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPSM в XLAM через C#
-description: Преобразование PPSM в XLAM на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование PPSM в XLAM через C# или онлайн
+description: Преобразование PPSM в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsm-to-xlam/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB XLAM FODS ODS XLS XLT MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSM в XLAM через C#" h2=".NET API для преобразования PPSM в XLAM без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование PPSM в XLAM через C# или онлайн" h2=".NET API для преобразования PPSM в XLAM без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл PPSM в XLAM в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать PPSM в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в XLAM.

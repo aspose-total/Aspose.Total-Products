@@ -1,6 +1,6 @@
 ---
-title: Konversi PPS ke XLS melalui C#
-description: Konversi PPS ke XLS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint
+title: Konversi PPS ke XLS melalui C# atau daring
+description: Konversi PPS ke XLS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pps-to-xls/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: FODS XLAM XLTM XLSM SXC MARKDOWN XLSX XLS TSV ODS EXCEL MHTML DIF XLTX XLT XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPS ke XLS melalui C#" h2=".NET API untuk konversi PPS ke XLS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPS ke XLS melalui C# atau daring" h2=".NET API untuk konversi PPS ke XLS tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda dapat mengonversi file PPS ke XLS dalam aplikasi .NET, C#, ASP.NET dan VB.NET dalam dua langkah-langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), Anda dapat mengekspor PPS ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke XLS.

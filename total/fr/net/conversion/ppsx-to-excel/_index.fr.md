@@ -1,6 +1,6 @@
 ---
-title: Convertir PPSX en EXCEL via C#
-description: Convertir PPSX en EXCEL en C# sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir PPSX en EXCEL via C# ou en ligne
+description: Convertir PPSX en EXCEL en C# sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/net/conversion/ppsx-to-excel/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM EXCEL FODS XLSM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSX en EXCEL via C#" h2="API .NET pour la conversion PPSX en EXCEL sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPSX en EXCEL via C# ou en ligne" h2="API .NET pour la conversion PPSX en EXCEL sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPSX en EXCEL dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPSX vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en EXCEL.

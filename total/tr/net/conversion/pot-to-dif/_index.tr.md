@@ -1,6 +1,6 @@
 ---
-title: POT'u C# ile DIF'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta DIF'ye dönüştürün
+title: POT'u C# ile DIF'ye dönüştürün veya çevrimiçi
+description: Microsoft Excel veya Powerpoint kullanmadan POT'u C#'ta DIF'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/pot-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTM MARKDOWN XLT XLSX XLS XLSB MHTML DIF XLSM ODS FODS EXCEL XLAM TSV SXC XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="POT'u C# ile DIF'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POT'tan DIF'ye dönüştürme için .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="POT'u C# ile DIF'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POT'tan DIF'ye dönüştürme için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında POT dosyasını iki şekilde DIF'ye dönüştürebilirsiniz. basit adımlar. İlk olarak, [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) kullanarak POT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi DIF'ye dönüştürebilirsiniz.

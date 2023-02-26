@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPS über C# in SXC
-description: Konvertieren Sie PPS in C# in SXC, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie PPS über C# in SXC oder online
+description: Konvertieren Sie PPS in C# in SXC, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/pps-to-sxc/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB XLT FODS MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPS über C# in SXC" h2=".NET-API für die PPS-zu-SXC-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPS über C# in SXC oder online" h2=".NET-API für die PPS-zu-SXC-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie PPS-Dateien innerhalb jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei Fällen in SXC konvertieren einfache Schritte. Erstens können Sie mit [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) PPS in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in SXC konvertieren.

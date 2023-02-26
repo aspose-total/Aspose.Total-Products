@@ -1,6 +1,6 @@
 ---
-title: Convierta POWERPOINT a TSV a través de C#
-description: Convierta POWERPOINT a TSV en C# sin usar Microsoft Excel o Powerpoint
+title: Convierta POWERPOINT a TSV a través de C# o en línea
+description: Convierta POWERPOINT a TSV en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC XLSM XLSB XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POWERPOINT a TSV a través de C#" h2="API .NET para conversión de POWERPOINT a TSV sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta POWERPOINT a TSV a través de C# o en línea" h2="API .NET para conversión de POWERPOINT a TSV sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al usar [Aspose.Total for .NET](https://products.aspose.com/total/net/) puede convertir un archivo POWERPOINT a TSV dentro de cualquier aplicación .NET, C#, ASP.NET y VB.NET en dos pasos simples En primer lugar, al usar [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), puede exportar POWERPOINT a HTML. Después de eso, al usar [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programación de hojas de cálculo, puede convertir HTML a TSV.

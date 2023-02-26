@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POT über C# in ODS
-description: Konvertieren Sie POT in C# in ODS, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie POT über C# in ODS oder online
+description: Konvertieren Sie POT in C# in ODS, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/pot-to-ods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLS ODS DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XLAM MHTML XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POT über C# in ODS" h2=".NET-API für die POT-zu-ODS-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POT über C# in ODS oder online" h2=".NET-API für die POT-zu-ODS-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie POT-Dateien innerhalb jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei Fällen in ODS konvertieren einfache Schritte. Erstens können Sie mit [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) POT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in ODS konvertieren.

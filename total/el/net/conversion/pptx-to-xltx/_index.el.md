@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPTX σε XLTX μέσω C#
-description: Μετατροπή PPTX σε XLTX σε C# χωρίς χρήση Microsoft Excel ή Powerpoint
+title: Μετατροπή PPTX σε XLTX μέσω C# ή διαδικτυακά
+description: Μετατροπή PPTX σε XLTX σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/pptx-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL DIF ODS XLSM XLTX XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN XLAM XLS XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPTX σε XLTX μέσω C#" h2=".NET API για μετατροπή PPTX σε XLTX χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPTX σε XLTX μέσω C# ή διαδικτυακά" h2=".NET API για μετατροπή PPTX σε XLTX χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for .NET](https://products.aspose.com/total/net/) μπορείτε να μετατρέψετε το αρχείο PPTX σε XLTX σε οποιαδήποτε εφαρμογή .NET, C#, ASP.NET και VB.NET σε δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), μπορείτε να εξαγάγετε το PPTX σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε XLTX.

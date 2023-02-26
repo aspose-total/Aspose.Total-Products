@@ -1,6 +1,6 @@
 ---
-title: Convertir PPT en XLSX via C#
-description: Convertir PPT en XLSX en C# sans utiliser Microsoft Excel ou Powerpoint
+title: Convertir PPT en XLSX via C# ou en ligne
+description: Convertir PPT en XLSX en C# sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/net/conversion/ppt-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM XLSX XLTM MARKDOWN TSV MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPT en XLSX via C#" h2="API .NET pour la conversion PPT en XLSX sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPT en XLSX via C# ou en ligne" h2="API .NET pour la conversion PPT en XLSX sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for .NET](https://products.aspose.com/total/net/), vous pouvez convertir le fichier PPT en XLSX dans n'importe quelle application .NET, C#, ASP.NET et VB.NET en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), vous pouvez exporter PPT vers HTML. Après cela, en utilisant [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API de programmation de feuille de calcul, vous pouvez convertir HTML en XLSX.

@@ -1,6 +1,6 @@
 ---
-title: Převést POTM na CSV přes C#
-description: Převeďte POTM na CSV v C# bez použití Microsoft Excel nebo Powerpoint
+title: Převést POTM na CSV přes C# nebo online
+description: Převeďte POTM na CSV v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/potm-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLS XLTX XLT MARKDOWN EXCEL MHTML XLAM XLTM XLSB DIF FODS XLSX ODS TSV XLSM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést POTM na CSV přes C#" h2=".NET API pro převod POTM do CSV bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést POTM na CSV přes C# nebo online" h2=".NET API pro převod POTM do CSV bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete převést soubor POTM na CSV v rámci libovolné aplikace .NET, C#, ASP.NET a VB.NET ve dvou jednoduché kroky. Za prvé, pomocí [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) můžete exportovat POTM do HTML. Potmé můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na CSV.

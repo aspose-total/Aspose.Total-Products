@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPSM till XLSB via C#
-description: Konvertera PPSM till XLSB i C# utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera PPSM till XLSB via C# eller online
+description: Konvertera PPSM till XLSB i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/ppsm-to-xlsb/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC DIF EXCEL TSV XLSB MARKDOWN XLTX XLSX XLSM XLS ODS XLAM XLTM MHTML XLT FODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPSM till XLSB via C#" h2=".NET API för PPSM till XLSB-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPSM till XLSB via C# eller online" h2=".NET API för PPSM till XLSB-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera PPSM-filen till XLSB i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera PPSM till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till XLSB.

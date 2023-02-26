@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPSX till XLTX via C#
-description: Konvertera PPSX till XLTX i C# utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera PPSX till XLTX via C# eller online
+description: Konvertera PPSX till XLTX i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/ppsx-to-xltx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EXCEL XLTX XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPSX till XLTX via C#" h2=".NET API för PPSX till XLTX-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPSX till XLTX via C# eller online" h2=".NET API för PPSX till XLTX-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera PPSX-filen till XLTX i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera PPSX till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till XLTX.

@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή POT σε MARKDOWN μέσω C#
-description: Μετατροπή POT σε MARKDOWN σε C# χωρίς χρήση Microsoft Excel ή Powerpoint
+title: Μετατροπή POT σε MARKDOWN μέσω C# ή διαδικτυακά
+description: Μετατροπή POT σε MARKDOWN σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/pot-to-markdown/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML MARKDOWN EXCEL XLAM XLT XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POT σε MARKDOWN μέσω C#" h2=".NET API για μετατροπή POT σε MARKDOWN χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POT σε MARKDOWN μέσω C# ή διαδικτυακά" h2=".NET API για μετατροπή POT σε MARKDOWN χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for .NET](https://products.aspose.com/total/net/) μπορείτε να μετατρέψετε το αρχείο POT σε MARKDOWN σε οποιαδήποτε εφαρμογή .NET, C#, ASP.NET και VB.NET σε δύο απλά βήματα. Πρώτον, χρησιμοποιώντας το [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), μπορείτε να εξαγάγετε το POT σε HTML. Στη συνέχεια, χρησιμοποιώντας το [Aspose.Cells για .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, μπορείτε να μετατρέψετε HTML σε MARKDOWN.

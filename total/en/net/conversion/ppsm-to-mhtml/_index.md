@@ -1,6 +1,6 @@
 ---
-title: Convert PPSM to MHTML via C# 
-description: Convert PPSM to MHTML in C# without using Microsoft Excel or Powerpoint
+title: Convert PPSM to MHTML via C# or online 
+description: Convert PPSM to MHTML in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/ppsm-to-mhtml/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: MHTML
 otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF CSV ODS TSV EXCEL SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPSM to MHTML via C#" h2=".NET API for PPSM to MHTML conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPSM to MHTML via C# or online" h2=".NET API for PPSM to MHTML conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPSM file to MHTML within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPSM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to MHTML. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSM to MHTML via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSM to MHTML via C# or online" %}}
 1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPSM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie POT über C# in XLSM
-description: Konvertieren Sie POT in C# in XLSM, ohne Microsoft Excel oder Powerpoint zu verwenden
+title: Konvertieren Sie POT über C# in XLSM oder online
+description: Konvertieren Sie POT in C# in XLSM, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/pot-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSB XLSX XLS EXCEL XLSM XLAM SXC TSV MARKDOWN XLTM DIF MHTML ODS FODS XLTX XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POT über C# in XLSM" h2=".NET-API für die POT-zu-XLSM-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POT über C# in XLSM oder online" h2=".NET-API für die POT-zu-XLSM-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie POT-Dateien innerhalb jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei Fällen in XLSM konvertieren einfache Schritte. Erstens können Sie mit [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) POT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in XLSM konvertieren.

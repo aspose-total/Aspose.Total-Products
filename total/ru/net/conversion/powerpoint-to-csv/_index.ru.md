@@ -1,6 +1,6 @@
 ---
-title: Преобразование POWERPOINT в CSV через C#
-description: Преобразование POWERPOINT в CSV на C# без использования Microsoft Excel или Powerpoint
+title: Преобразование POWERPOINT в CSV через C# или онлайн
+description: Преобразование POWERPOINT в CSV на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/powerpoint-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MARKDOWN ODS XLS SXC TSV XLT XLTM XLTX DIF EXCEL MHTML FODS XLAM XLSX XLSM XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование POWERPOINT в CSV через C#" h2=".NET API для преобразования POWERPOINT в CSV без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование POWERPOINT в CSV через C# или онлайн" h2=".NET API для преобразования POWERPOINT в CSV без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total для .NET](https://products.aspose.com/total/net/), вы можете преобразовать файл POWERPOINT в CSV в любом приложении .NET, C#, ASP.NET и VB.NET в два этапа. простые шаги. Во-первых, с помощью [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) вы можете экспортировать POWERPOINT в HTML. После этого, используя [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) API для программирования электронных таблиц, вы можете конвертировать HTML в CSV.

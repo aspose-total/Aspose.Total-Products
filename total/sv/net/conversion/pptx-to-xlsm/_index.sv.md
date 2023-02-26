@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPTX till XLSM via C#
-description: Konvertera PPTX till XLSM i C# utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera PPTX till XLSM via C# eller online
+description: Konvertera PPTX till XLSM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pptx-to-xlsm/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: EXCEL XLAM FODS SXC DIF TSV XLT XLSB XLTX XLTM XLS XLSM MHTML ODS XLSX MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTX till XLSM via C#" h2=".NET API för PPTX till XLSM-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTX till XLSM via C# eller online" h2=".NET API för PPTX till XLSM-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera PPTX-filen till XLSM i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera PPTX till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till XLSM.

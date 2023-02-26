@@ -1,6 +1,6 @@
 ---
-title: POWERPOINT'u C# ile FODS'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta FODS'ye dönüştürün
+title: POWERPOINT'u C# ile FODS'ye dönüştürün veya çevrimiçi
+description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta FODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/powerpoint-to-fods/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB XLSM XLAM DIF FODS XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT XLS SXC MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="POWERPOINT'u C# ile FODS'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POWERPOINT'tan FODS'ye dönüştürme için .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="POWERPOINT'u C# ile FODS'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POWERPOINT'tan FODS'ye dönüştürme için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında POWERPOINT dosyasını iki şekilde FODS'ye dönüştürebilirsiniz. basit adımlar. İlk olarak, [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) kullanarak POWERPOINT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi FODS'ye dönüştürebilirsiniz.

@@ -1,6 +1,6 @@
 ---
-title: Convert POWERPOINT to XLTX via C# 
-description: Convert POWERPOINT to XLTX in C# without using Microsoft Excel or Powerpoint
+title: Convert POWERPOINT to XLTX via C# or online 
+description: Convert POWERPOINT to XLTX in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/powerpoint-to-xltx/
 family: total
 platformtag: net
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT CSV TSV XLAM MHTML FODS XLTM ODS XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to XLTX via C#" h2=".NET API for POWERPOINT to XLTX conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to XLTX via C# or online" h2=".NET API for POWERPOINT to XLTX conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert POWERPOINT file to XLTX within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export POWERPOINT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert POWERPOINT to XLTX via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POWERPOINT to XLTX via C# or online" %}}
 1. Open POWERPOINT file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export POWERPOINT as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

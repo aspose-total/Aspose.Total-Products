@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPTM till DIF via C#
-description: Konvertera PPTM till DIF i C# utan att använda Microsoft Excel eller Powerpoint
+title: Konvertera PPTM till DIF via C# eller online
+description: Konvertera PPTM till DIF i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pptm-to-dif/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLSB MHTML XLSM SXC FODS TSV DIF XLS XLAM XLTM XLTX EXCEL XLSX MARKDOWN XLT ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till DIF via C#" h2=".NET API för PPTM till DIF-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTM till DIF via C# eller online" h2=".NET API för PPTM till DIF-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera PPTM-filen till DIF i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera PPTM till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till DIF.

@@ -1,6 +1,6 @@
 ---
-title: PPT'u C# ile XLT'ye dönüştürün
-description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta XLT'ye dönüştürün
+title: PPT'u C# ile XLT'ye dönüştürün veya çevrimiçi
+description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta XLT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/ppt-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLS XLAM SXC XLT XLTM ODS XLSM FODS TSV XLTX DIF MHTML EXCEL XLSX XLSB MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="PPT'u C# ile XLT'ye dönüştürün" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPT'tan XLT'ye dönüştürme için .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="PPT'u C# ile XLT'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPT'tan XLT'ye dönüştürme için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında PPT dosyasını iki şekilde XLT'ye dönüştürebilirsiniz. basit adımlar. İlk olarak, [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) kullanarak PPT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi XLT'ye dönüştürebilirsiniz.

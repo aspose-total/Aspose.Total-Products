@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a POWERPOINT-ot MHTML-vé a C# segítségével
-description: Konvertálja a POWERPOINT-ot MHTML-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül
+title: Konvertálja a POWERPOINT-ot MHTML-vé a C# segítségével vagy online
+description: Konvertálja a POWERPOINT-ot MHTML-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: MHTML
 otherformats: FODS ODS XLAM XLSX XLSM SXC MARKDOWN XLSB DIF MHTML XLTX XLS TSV EXCEL XLTM XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a POWERPOINT-ot MHTML-vé a C# segítségével" h2=".NET API a POWERPOINT-ból MHTML-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a POWERPOINT-ot MHTML-vé a C# segítségével vagy online" h2=".NET API a POWERPOINT-ból MHTML-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával POWERPOINT-fájlt konvertálhat MHTML-vé bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül két részből. egyszerű lépéseket. Először is, az [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) használatával exportálhatja a POWERPOINT-ot HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t MHTML-vé.

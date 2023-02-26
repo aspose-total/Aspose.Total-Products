@@ -1,6 +1,6 @@
 ---
-title: Converter POTM para XLT via C#
-description: Converter POTM para XLT em C# sem usar o Microsoft Excel ou Powerpoint
+title: Converter POTM para XLT via C# ou online
+description: Converter POTM para XLT em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/potm-to-xlt/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM XLT MARKDOWN XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter POTM para XLT via C#" h2="API .NET para conversão de POTM para XLT sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter POTM para XLT via C# ou online" h2="API .NET para conversão de POTM para XLT sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for .NET](https://products.aspose.com/total/net/) você pode converter o arquivo POTM para XLT em qualquer aplicativo .NET, C#, ASP.NET e VB.NET em dois passos simples. Em primeiro lugar, usando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), você pode exportar POTM para HTML. Depois disso, usando a API de programação de planilha [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), você pode converter HTML para XLT.
