@@ -1,6 +1,6 @@
 ---
-title: C++ API a PPS DOCM formátumba konvertálásához
-description: Exportálja a PPS-ot DOCM-ba a C++ alkalmazásaiban
+title: C++ API a PPS DOCM formátumba konvertálásához vagy ingyenes online konverterrel
+description: Exportálja a PPS-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: DOTX DOC DOCX DOTM DOT WORDML ODT WORD FLATOPC TEXT RTF OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a PPS rendereléséhez DOCM-ba" h2="Exportálja a PPS-ot DOCM-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a PPS rendereléséhez DOCM-ba vagy online" h2="Exportálja a PPS-ot DOCM-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) a C++ fájlformátum-automatizálási könyvtárak teljes csomagja. A csomagban elérhető API-k gazdag funkcióinak használatával könnyedén konvertálhatjuk a PowerPoint PPS-ot Word DOCM-ba. Az átalakítás végrehajtásához először használhatja az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API-t a PPS HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával a HTML-t DOCM formátumba konvertálhatja. 

@@ -1,6 +1,6 @@
 ---
-title: API de C++ para convertir PPS a OTT
-description: Exporte PPS a OTT dentro de sus aplicaciones C++
+title: API de C++ para convertir PPS a OTT o con el convertidor en línea gratuito
+description: Exporte PPS a OTT dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: ODT WORDML FLATOPC WORD DOTM DOT DOCM DOC DOTX TEXT DOCX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API de C++ para renderizar PPS a OTT" h2="Exporte PPS a OTT en aplicaciones C++ sin dependencias de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API de C++ para renderizar PPS a OTT o en línea" h2="Exporte PPS a OTT en aplicaciones C++ sin dependencias de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) es un paquete completo de bibliotecas de automatización de formato de archivo C++. Mediante el uso de las ricas funciones de las API disponibles en el paquete, podemos convertir fácilmente PowerPoint PPS a Word OTT. Para realizar la conversión, primero puede usar la API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para convertir PPS a HTML. Después de eso, al usar la API de procesamiento de textos rica en funciones [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede convertir el HTML a OTT. 

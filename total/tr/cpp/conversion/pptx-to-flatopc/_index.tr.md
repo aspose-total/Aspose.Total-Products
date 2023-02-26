@@ -1,6 +1,6 @@
 ---
-title: PPTX'u FLATOPC'a Dönüştürmek için C++ API
-description: C++ uygulamalarınızda PPTX'u FLATOPC'a aktarın
+title: PPTX'u FLATOPC'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamalarınızda PPTX'u FLATOPC'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: TEXT OTT DOCX DOT DOCM DOTM WORDML DOC WORD ODT DOTX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTX'u FLATOPC'ye Dönüştürmek için C++ API" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPTX'u FLATOPC'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTX'u FLATOPC'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPTX'u FLATOPC'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint PPTX'u Word FLATOPC'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce PPTX'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi FLATOPC'ye dönüştürebilirsiniz. 

@@ -1,6 +1,6 @@
 ---
-title: POWERPOINT'u OTT'a Dönüştürmek için C++ API
-description: C++ uygulamalarınızda POWERPOINT'u OTT'a aktarın
+title: POWERPOINT'u OTT'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamalarınızda POWERPOINT'u OTT'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOT WORDML TEXT RTF ODT DOTX FLATOPC DOC DOTM DOCM WORD DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u OTT'ye Dönüştürmek için C++ API" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POWERPOINT'u OTT'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u OTT'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POWERPOINT'u OTT'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint POWERPOINT'u Word OTT'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce POWERPOINT'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi OTT'ye dönüştürebilirsiniz. 

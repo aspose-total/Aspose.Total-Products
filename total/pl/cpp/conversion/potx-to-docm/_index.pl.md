@@ -1,6 +1,6 @@
 ---
-title: C++ API do konwersji POTX na DOCM
-description: Eksportuj POTX do DOCM w swoich aplikacjach C++
+title: C++ API do konwersji POTX na DOCM lub za pomocą bezpłatnego konwertera online
+description: Eksportuj POTX do DOCM w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: DOT FLATOPC DOC OTT RTF DOTX WORD TEXT DOTM DOCX WORDML ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania POTX do DOCM" h2="Eksportuj POTX do DOCM w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania POTX do DOCM lub online" h2="Eksportuj POTX do DOCM w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) to kompletny pakiet bibliotek C++ File Format Automation. Korzystając z bogatych funkcji API dostępnych w pakiecie, możemy łatwo przekonwertować PowerPoint POTX na Word DOCM. Aby przeprowadzić konwersję, możesz najpierw użyć interfejsu API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby przekonwertować POTX na HTML. Następnie za pomocą bogatego w funkcje interfejsu API przetwarzania tekstu [Aspose.Words for C++](https://products.aspose.com/words/cpp/) możesz przekonwertować kod HTML na DOCM. 

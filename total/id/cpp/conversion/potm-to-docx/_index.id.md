@@ -1,6 +1,6 @@
 ---
-title: C++ API untuk Mengonversi POTM ke DOCX
-description: Ekspor POTM ke DOCX dalam aplikasi C++ Anda
+title: C++ API untuk Mengonversi POTM ke DOCX atau dengan Konverter Online gratis
+description: Ekspor POTM ke DOCX dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: TEXT ODT FLATOPC OTT DOC DOTM DOT WORD DOTX WORDML DOCM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Merender POTM ke DOCX" h2="Ekspor POTM ke DOCX dalam aplikasi C++ tanpa ketergantungan Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Merender POTM ke DOCX atau daring" h2="Ekspor POTM ke DOCX dalam aplikasi C++ tanpa ketergantungan Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) adalah paket lengkap library C++ File Format Automation. Dengan menggunakan fitur kaya dari API yang tersedia di paket, kita dapat dengan mudah mengonversi PowerPoint POTM ke Word DOCX. Untuk melakukan konversi, pertama-tama Anda dapat menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API untuk mengonversi POTM ke HTML. Setelah itu dengan menggunakan API Pemrosesan Kata yang kaya fitur [Aspose.Words for C++](https://products.aspose.com/words/cpp/) Anda dapat mengonversi HTML ke DOCX. 

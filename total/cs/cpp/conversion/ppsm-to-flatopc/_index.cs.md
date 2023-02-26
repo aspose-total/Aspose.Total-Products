@@ -1,6 +1,6 @@
 ---
-title: C++ API pro převod PPSM na FLATOPC
-description: Exportujte PPSM do FLATOPC v rámci vašich aplikací C++
+title: C++ API pro převod PPSM na FLATOPC nebo pomocí bezplatného online převodníku
+description: Exportujte PPSM do FLATOPC v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: RTF TEXT WORD DOTM DOCX DOCM DOC DOTX DOT OTT ODT WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSM do FLATOPC" h2="Export PPSM do FLATOPC v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSM do FLATOPC nebo online" h2="Export PPSM do FLATOPC v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint PPSM na Word FLATOPC. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu PPSM do HTML. Ppsmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na FLATOPC. 

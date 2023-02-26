@@ -1,6 +1,6 @@
 ---
-title: API C++ per convertire PPTX in DOTM
-description: Esporta PPTX in DOTM all'interno delle tue applicazioni C++
+title: API C++ per convertire PPTX in DOTM o con il convertitore online gratuito
+description: Esporta PPTX in DOTM all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: WORD RTF WORDML ODT OTT DOCM FLATOPC DOC DOTX TEXT DOCX DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per il rendering di PPTX in DOTM" h2="Esporta PPTX in DOTM in applicazioni C++ senza dipendenze da Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per il rendering di PPTX in DOTM o in linea" h2="Esporta PPTX in DOTM in applicazioni C++ senza dipendenze da Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è un pacchetto completo di librerie C++ File Format Automation. Utilizzando le ricche funzionalità delle API disponibili nel pacchetto, possiamo convertire facilmente PowerPoint PPTX in Word DOTM. Per eseguire la conversione, puoi prima utilizzare l'API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per convertire PPTX in HTML. Successivamente, utilizzando l'API di elaborazione testi ricca di funzionalità [Aspose.Words for C++](https://products.aspose.com/words/cpp/) puoi convertire l'HTML in DOTM. 

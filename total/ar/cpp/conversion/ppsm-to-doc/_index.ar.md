@@ -1,6 +1,6 @@
 ---
-title: C++ API لتحويل PPSM إلى DOC
-description: قم بتصدير PPSM إلى DOC داخل تطبيقات C++ الخاصة بك
+title: C++ API لتحويل PPSM إلى DOC أو مع محول مجاني على الإنترنت
+description: قم بتصدير PPSM إلى DOC داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: FLATOPC DOTM DOCM WORD DOTX WORDML TEXT OTT DOT ODT RTF DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم PPSM إلى DOC" h2="تصدير PPSM إلى DOC في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم PPSM إلى DOC أو عبر الإنترنت" h2="تصدير PPSM إلى DOC في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) عبارة عن حزمة كاملة من مكتبات أتمتة تنسيق الملفات C++. باستخدام الميزات الغنية لواجهات برمجة التطبيقات المتوفرة في pacakge ، يمكننا بسهولة تحويل PowerPoint PPSM إلى Word DOC. من أجل إجراء التحويل ، يمكنك أولاً استخدام واجهة برمجة تطبيقات [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لتحويل PPSM إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة الكلمات الغنية بالميزات [Aspose.Words for C++](https://products.aspose.com/words/cpp/) يمكنك تحويل HTML إلى DOC. 

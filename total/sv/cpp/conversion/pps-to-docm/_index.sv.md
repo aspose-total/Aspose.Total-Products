@@ -1,6 +1,6 @@
 ---
-title: C++ API för att konvertera PPS till DOCM
-description: Exportera PPS till DOCM i dina C++-applikationer
+title: C++ API för att konvertera PPS till DOCM eller med gratis Online Converter
+description: Exportera PPS till DOCM i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: DOTX DOC DOCX DOTM DOT WORDML ODT WORD FLATOPC TEXT RTF OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPS till DOCM" h2="Exportera PPS till DOCM i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPS till DOCM eller online" h2="Exportera PPS till DOCM i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPS till Word DOCM. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPS till HTML. Därefter kan du konvertera HTML till DOCM genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 

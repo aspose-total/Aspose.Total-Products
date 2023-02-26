@@ -1,6 +1,6 @@
 ---
-title: C++ API a PPSX TEXT formátumba konvertálásához
-description: Exportálja a PPSX-ot TEXT-ba a C++ alkalmazásaiban
+title: C++ API a PPSX TEXT formátumba konvertálásához vagy ingyenes online konverterrel
+description: Exportálja a PPSX-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: FLATOPC RTF WORDML DOCX DOTX DOTM DOC WORD DOCM OTT ODT DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a PPSX rendereléséhez TEXT-ba" h2="Exportálja a PPSX-ot TEXT-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a PPSX rendereléséhez TEXT-ba vagy online" h2="Exportálja a PPSX-ot TEXT-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) a C++ fájlformátum-automatizálási könyvtárak teljes csomagja. A csomagban elérhető API-k gazdag funkcióinak használatával könnyedén konvertálhatjuk a PowerPoint PPSX-ot Word TEXT-ba. Az átalakítás végrehajtásához először használhatja az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API-t a PPSX HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával a HTML-t TEXT formátumba konvertálhatja. 

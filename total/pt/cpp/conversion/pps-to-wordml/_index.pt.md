@@ -1,6 +1,6 @@
 ---
-title: API C++ para converter PPS em WORDML
-description: Exporte PPS para WORDML em seus aplicativos C++
+title: API C++ para converter PPS em WORDML ou com o conversor online grátis
+description: Exporte PPS para WORDML em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTM DOCX DOCM WORD DOTX RTF TEXT OTT DOT FLATOPC ODT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para renderizar PPS para WORDML" h2="Exporte PPS para WORDML em aplicativos C++ sem dependências do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para renderizar PPS para WORDML ou online" h2="Exporte PPS para WORDML em aplicativos C++ sem dependências do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) é um pacote completo de bibliotecas de automação de formato de arquivo C++. Usando os recursos avançados das APIs disponíveis no pacote, podemos facilmente converter PowerPoint PPS em Word WORDML. Para realizar a conversão, você pode primeiro usar a API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para converter PPS em HTML. Depois disso, usando a API de processamento de texto rica em recursos [Aspose.Words for C++](https://products.aspose.com/words/cpp/), você pode converter o HTML para WORDML. 

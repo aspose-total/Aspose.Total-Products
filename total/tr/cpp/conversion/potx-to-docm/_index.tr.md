@@ -1,6 +1,6 @@
 ---
-title: POTX'u DOCM'a Dönüştürmek için C++ API
-description: C++ uygulamalarınızda POTX'u DOCM'a aktarın
+title: POTX'u DOCM'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamalarınızda POTX'u DOCM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: DOT FLATOPC DOC OTT RTF DOTX WORD TEXT DOTM DOCX WORDML ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POTX'u DOCM'ye Dönüştürmek için C++ API" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POTX'u DOCM'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="POTX'u DOCM'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POTX'u DOCM'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint POTX'u Word DOCM'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce POTX'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi DOCM'ye dönüştürebilirsiniz. 

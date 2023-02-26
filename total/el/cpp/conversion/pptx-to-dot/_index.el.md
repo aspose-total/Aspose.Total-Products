@@ -1,6 +1,6 @@
 ---
-title: C++ API για Μετατροπή PPTX σε DOT
-description: Εξαγωγή PPTX σε DOT στις εφαρμογές σας C++
+title: C++ API για Μετατροπή PPTX σε DOT ή με δωρεάν Online Converter
+description: Εξαγωγή PPTX σε DOT στις εφαρμογές σας C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOC WORD ODT WORDML DOTX OTT DOCM FLATOPC DOCX TEXT RTF DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για απόδοση PPTX σε DOT" h2="Εξαγωγή PPTX σε DOT σε εφαρμογές C++ χωρίς εξαρτήσεις Microsoft PowerPoint ή Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για απόδοση PPTX σε DOT ή διαδικτυακά" h2="Εξαγωγή PPTX σε DOT σε εφαρμογές C++ χωρίς εξαρτήσεις Microsoft PowerPoint ή Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) είναι ένα πλήρες πακέτο βιβλιοθηκών αυτοματισμού μορφής αρχείου C++. Χρησιμοποιώντας τις πλούσιες δυνατότητες των API που είναι διαθέσιμα στο πακέτο, μπορούμε εύκολα να μετατρέψουμε το PowerPoint PPTX σε Word DOT. Για να πραγματοποιήσετε τη μετατροπή, μπορείτε πρώτα να χρησιμοποιήσετε το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API για να μετατρέψετε το PPTX σε HTML. Στη συνέχεια, χρησιμοποιώντας το πλούσιο σε δυνατότητες API επεξεργασίας κειμένου [Aspose.Words for C++](https://products.aspose.com/words/cpp/) μπορείτε να μετατρέψετε το HTML σε DOT. 

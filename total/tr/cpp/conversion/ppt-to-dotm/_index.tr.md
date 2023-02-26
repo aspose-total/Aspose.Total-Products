@@ -1,6 +1,6 @@
 ---
-title: PPT'u DOTM'a Dönüştürmek için C++ API
-description: C++ uygulamalarınızda PPT'u DOTM'a aktarın
+title: PPT'u DOTM'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamalarınızda PPT'u DOTM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: DOC WORD DOT RTF TEXT WORDML DOTX OTT FLATOPC ODT DOCX DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPT'u DOTM'ye Dönüştürmek için C++ API" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPT'u DOTM'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="PPT'u DOTM'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPT'u DOTM'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint PPT'u Word DOTM'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce PPT'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi DOTM'ye dönüştürebilirsiniz. 

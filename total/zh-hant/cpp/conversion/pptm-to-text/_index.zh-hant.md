@@ -1,6 +1,6 @@
 ---
-title: 將 PPTM 轉換為 TEXT 的 C++ API
-description: 在 C++ 應用程序中將 PPTM 導出為 TEXT
+title: 將 PPTM 轉換為 TEXT 的 C++ API 或使用免費的在線轉換器
+description: 在 C++ 應用程序中將 PPTM 導出為 TEXT 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: FLATOPC DOCX DOTM DOTX ODT WORD DOCM OTT RTF WORDML DOC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="將 PPTM 渲染為 TEXT 的 C++ API" h2="在 C++ 應用程序中將 PPTM 導出為 TEXT，無需任何 Microsoft PowerPoint 或 Word 依賴項" >}}
+{{< blocks/products/pf/feature-page-header h1="將 PPTM 渲染為 TEXT 的 C++ API 或在線" h2="在 C++ 應用程序中將 PPTM 導出為 TEXT 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。，無需任何 Microsoft PowerPoint 或 Word 依賴項" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 是完整的 C++ 文件格式自動化庫包。通過使用 pacakge 中可用的 API 的豐富功能，我們可以輕鬆地將 PowerPoint PPTM 轉換為 Word TEXT。為了執行轉換，您可以首先使用 [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API 將 PPTM 轉換為 HTML。之後，通過使用功能豐富的文字處理 API [Aspose.Words for C++](https://products.aspose.com/words/cpp/)，您可以將 HTML 轉換為 TEXT。 

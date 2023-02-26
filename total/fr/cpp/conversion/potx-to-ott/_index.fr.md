@@ -1,6 +1,6 @@
 ---
-title: API C++ pour convertir POTX en OTT
-description: Exportez POTX vers OTT dans vos applications C++
+title: API C++ pour convertir POTX en OTT ou avec le convertisseur en ligne gratuit
+description: Exportez POTX vers OTT dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOTX DOTM DOCM ODT TEXT DOC WORD RTF FLATOPC WORDML DOCX DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour rendre POTX en OTT" h2="Exportez POTX vers OTT dans des applications C++ sans aucune dépendance Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour rendre POTX en OTT ou en ligne" h2="Exportez POTX vers OTT dans des applications C++ sans aucune dépendance Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) est un package complet de bibliothèques d'automatisation du format de fichier C++. En utilisant les fonctionnalités riches des API disponibles dans le package, nous pouvons facilement convertir PowerPoint POTX en Word OTT. Pour effectuer la conversion, vous pouvez d'abord utiliser l'API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour convertir POTX en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez convertir le HTML en OTT. 

@@ -1,6 +1,6 @@
 ---
-title: POTX'u RTF'a Dönüştürmek için C++ API
-description: C++ uygulamalarınızda POTX'u RTF'a aktarın
+title: POTX'u RTF'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: C++ uygulamalarınızda POTX'u RTF'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOCX DOT FLATOPC OTT DOTX ODT WORDML DOCM DOTM TEXT WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POTX'u RTF'ye Dönüştürmek için C++ API" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POTX'u RTF'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="POTX'u RTF'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POTX'u RTF'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint POTX'u Word RTF'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce POTX'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi RTF'ye dönüştürebilirsiniz. 

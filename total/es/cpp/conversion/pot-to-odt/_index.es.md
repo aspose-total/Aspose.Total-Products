@@ -1,6 +1,6 @@
 ---
-title: API de C++ para convertir POT a ODT
-description: Exporte POT a ODT dentro de sus aplicaciones C++
+title: API de C++ para convertir POT a ODT o con el convertidor en línea gratuito
+description: Exporte POT a ODT dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOCM OTT DOT DOC DOCX TEXT DOTM WORDML FLATOPC WORD DOTX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API de C++ para renderizar POT a ODT" h2="Exporte POT a ODT en aplicaciones C++ sin dependencias de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API de C++ para renderizar POT a ODT o en línea" h2="Exporte POT a ODT en aplicaciones C++ sin dependencias de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) es un paquete completo de bibliotecas de automatización de formato de archivo C++. Mediante el uso de las ricas funciones de las API disponibles en el paquete, podemos convertir fácilmente PowerPoint POT a Word ODT. Para realizar la conversión, primero puede usar la API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para convertir POT a HTML. Después de eso, al usar la API de procesamiento de textos rica en funciones [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede convertir el HTML a ODT. 

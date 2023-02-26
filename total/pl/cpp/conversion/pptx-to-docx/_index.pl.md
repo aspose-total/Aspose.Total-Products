@@ -1,6 +1,6 @@
 ---
-title: C++ API do konwersji PPTX na DOCX
-description: Eksportuj PPTX do DOCX w swoich aplikacjach C++
+title: C++ API do konwersji PPTX na DOCX lub za pomocą bezpłatnego konwertera online
+description: Eksportuj PPTX do DOCX w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOTX DOC ODT DOCM FLATOPC OTT WORDML TEXT DOTM RTF DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania PPTX do DOCX" h2="Eksportuj PPTX do DOCX w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania PPTX do DOCX lub online" h2="Eksportuj PPTX do DOCX w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) to kompletny pakiet bibliotek C++ File Format Automation. Korzystając z bogatych funkcji API dostępnych w pakiecie, możemy łatwo przekonwertować PowerPoint PPTX na Word DOCX. Aby przeprowadzić konwersję, możesz najpierw użyć interfejsu API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby przekonwertować PPTX na HTML. Następnie za pomocą bogatego w funkcje interfejsu API przetwarzania tekstu [Aspose.Words for C++](https://products.aspose.com/words/cpp/) możesz przekonwertować kod HTML na DOCX. 

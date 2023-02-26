@@ -1,6 +1,6 @@
 ---
-title: API C++ per convertire PPSX in ODT
-description: Esporta PPSX in ODT all'interno delle tue applicazioni C++
+title: API C++ per convertire PPSX in ODT o con il convertitore online gratuito
+description: Esporta PPSX in ODT all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: TEXT DOCX RTF DOT DOTX DOTM DOCM FLATOPC DOC WORD WORDML OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per il rendering di PPSX in ODT" h2="Esporta PPSX in ODT in applicazioni C++ senza dipendenze da Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per il rendering di PPSX in ODT o in linea" h2="Esporta PPSX in ODT in applicazioni C++ senza dipendenze da Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è un pacchetto completo di librerie C++ File Format Automation. Utilizzando le ricche funzionalità delle API disponibili nel pacchetto, possiamo convertire facilmente PowerPoint PPSX in Word ODT. Per eseguire la conversione, puoi prima utilizzare l'API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per convertire PPSX in HTML. Successivamente, utilizzando l'API di elaborazione testi ricca di funzionalità [Aspose.Words for C++](https://products.aspose.com/words/cpp/) puoi convertire l'HTML in ODT. 

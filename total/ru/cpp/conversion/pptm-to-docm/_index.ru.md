@@ -1,6 +1,6 @@
 ---
-title: C++ API для преобразования PPTM в DOCM
-description: Экспорт PPTM в DOCM в ваших приложениях C++
+title: C++ API для преобразования PPTM в DOCM или с помощью бесплатного онлайн-конвертера
+description: Экспорт PPTM в DOCM в ваших приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: TEXT DOCX FLATOPC DOTX ODT RTF DOTM OTT WORD DOC DOT WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для рендеринга PPTM в DOCM" h2="Экспорт PPTM в DOCM в приложениях C++ без каких-либо зависимостей от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для рендеринга PPTM в DOCM или онлайн" h2="Экспорт PPTM в DOCM в приложениях C++ без каких-либо зависимостей от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) — это полный пакет библиотек C++ File Format Automation. Используя богатые возможности API-интерфейсов, доступных в пакете, мы можем легко преобразовать PowerPoint PPTM в Word DOCM. Чтобы выполнить преобразование, вы можете сначала использовать API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) для преобразования PPTM в HTML. После этого с помощью многофункционального API обработки текстов [Aspose.Words for C++](https://products.aspose.com/words/cpp/) вы можете конвертировать HTML в DOCM. 

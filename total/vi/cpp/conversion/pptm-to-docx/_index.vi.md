@@ -1,6 +1,6 @@
 ---
-title: API C++ để chuyển đổi PPTM sang DOCX
-description: Xuất PPTM sang DOCX trong các ứng dụng C++ của bạn
+title: API C++ để chuyển đổi PPTM sang DOCX hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Xuất PPTM sang DOCX trong các ứng dụng C++ của bạn hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOTX DOT WORD OTT ODT RTF WORDML DOC TEXT DOTM FLATOPC DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ để hiển thị PPTM sang DOCX" h2="Xuất PPTM sang DOCX trong các ứng dụng C++ mà không có bất kỳ phụ thuộc Microsoft PowerPoint hoặc Word nào" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ để hiển thị PPTM sang DOCX hoặc trực tuyến" h2="Xuất PPTM sang DOCX trong các ứng dụng C++ mà không có bất kỳ phụ thuộc Microsoft PowerPoint hoặc Word nào" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) là gói thư viện Tự động hóa Định dạng Tệp C++ hoàn chỉnh. Bằng cách sử dụng các tính năng phong phú của các API có sẵn trong pacakge, chúng tôi có thể dễ dàng chuyển đổi PowerPoint PPTM sang Word DOCX. Để thực hiện chuyển đổi, trước tiên bạn có thể sử dụng API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để chuyển đổi PPTM sang HTML. Sau đó, bằng cách sử dụng API xử lý văn bản giàu tính năng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể chuyển đổi HTML sang DOCX. 

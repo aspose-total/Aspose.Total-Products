@@ -1,6 +1,6 @@
 ---
-title: C++ API do konwersji POT na RTF
-description: Eksportuj POT do RTF w swoich aplikacjach C++
+title: C++ API do konwersji POT na RTF lub za pomocą bezpłatnego konwertera online
+description: Eksportuj POT do RTF w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: ODT DOCM DOTM FLATOPC WORDML WORD OTT DOTX DOCX TEXT DOC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania POT do RTF" h2="Eksportuj POT do RTF w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania POT do RTF lub online" h2="Eksportuj POT do RTF w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) to kompletny pakiet bibliotek C++ File Format Automation. Korzystając z bogatych funkcji API dostępnych w pakiecie, możemy łatwo przekonwertować PowerPoint POT na Word RTF. Aby przeprowadzić konwersję, możesz najpierw użyć interfejsu API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby przekonwertować POT na HTML. Następnie za pomocą bogatego w funkcje interfejsu API przetwarzania tekstu [Aspose.Words for C++](https://products.aspose.com/words/cpp/) możesz przekonwertować kod HTML na RTF. 

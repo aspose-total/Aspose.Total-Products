@@ -1,6 +1,6 @@
 ---
-title: C++ API om PPSX naar RTF te converteren
-description: Exporteer PPSX naar RTF binnen uw C++-toepassingen
+title: C++ API om PPSX naar RTF te converteren of met gratis Online Converter
+description: Exporteer PPSX naar RTF binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOTX DOCM OTT DOC FLATOPC WORDML DOT TEXT WORD DOCX DOTM ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om PPSX naar RTF te renderen" h2="Exporteer PPSX naar RTF in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om PPSX naar RTF te renderen of online" h2="Exporteer PPSX naar RTF in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) is een compleet pakket van C++ File Format Automation-bibliotheken. Door gebruik te maken van de uitgebreide functies van de API's die beschikbaar zijn in het pakket, kunnen we PowerPoint PPSX gemakkelijk converteren naar Word RTF. Om de conversie uit te voeren, kunt u eerst de API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) gebruiken om PPSX naar HTML te converteren. Daarna kunt u met behulp van de veelzijdige Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) de HTML naar RTF converteren. 

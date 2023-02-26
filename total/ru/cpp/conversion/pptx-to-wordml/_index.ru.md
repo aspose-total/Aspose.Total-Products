@@ -1,6 +1,6 @@
 ---
-title: C++ API для преобразования PPTX в WORDML
-description: Экспорт PPTX в WORDML в ваших приложениях C++
+title: C++ API для преобразования PPTX в WORDML или с помощью бесплатного онлайн-конвертера
+description: Экспорт PPTX в WORDML в ваших приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: FLATOPC DOC WORD TEXT ODT OTT DOCX DOTM DOT DOTX RTF DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для рендеринга PPTX в WORDML" h2="Экспорт PPTX в WORDML в приложениях C++ без каких-либо зависимостей от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для рендеринга PPTX в WORDML или онлайн" h2="Экспорт PPTX в WORDML в приложениях C++ без каких-либо зависимостей от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) — это полный пакет библиотек C++ File Format Automation. Используя богатые возможности API-интерфейсов, доступных в пакете, мы можем легко преобразовать PowerPoint PPTX в Word WORDML. Чтобы выполнить преобразование, вы можете сначала использовать API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) для преобразования PPTX в HTML. После этого с помощью многофункционального API обработки текстов [Aspose.Words for C++](https://products.aspose.com/words/cpp/) вы можете конвертировать HTML в WORDML. 

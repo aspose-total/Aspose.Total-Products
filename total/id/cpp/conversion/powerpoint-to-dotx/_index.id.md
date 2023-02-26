@@ -1,6 +1,6 @@
 ---
-title: C++ API untuk Mengonversi POWERPOINT ke DOTX
-description: Ekspor POWERPOINT ke DOTX dalam aplikasi C++ Anda
+title: C++ API untuk Mengonversi POWERPOINT ke DOTX atau dengan Konverter Online gratis
+description: Ekspor POWERPOINT ke DOTX dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: FLATOPC DOC DOCM OTT DOTM ODT WORDML WORD RTF TEXT DOT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Merender POWERPOINT ke DOTX" h2="Ekspor POWERPOINT ke DOTX dalam aplikasi C++ tanpa ketergantungan Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Merender POWERPOINT ke DOTX atau daring" h2="Ekspor POWERPOINT ke DOTX dalam aplikasi C++ tanpa ketergantungan Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) adalah paket lengkap library C++ File Format Automation. Dengan menggunakan fitur kaya dari API yang tersedia di paket, kita dapat dengan mudah mengonversi PowerPoint POWERPOINT ke Word DOTX. Untuk melakukan konversi, pertama-tama Anda dapat menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API untuk mengonversi POWERPOINT ke HTML. Setelah itu dengan menggunakan API Pemrosesan Kata yang kaya fitur [Aspose.Words for C++](https://products.aspose.com/words/cpp/) Anda dapat mengonversi HTML ke DOTX. 

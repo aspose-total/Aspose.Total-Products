@@ -1,6 +1,6 @@
 ---
-title: C++ API för att konvertera PPT till DOTM
-description: Exportera PPT till DOTM i dina C++-applikationer
+title: C++ API för att konvertera PPT till DOTM eller med gratis Online Converter
+description: Exportera PPT till DOTM i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: DOC WORD DOT RTF TEXT WORDML DOTX OTT FLATOPC ODT DOCX DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPT till DOTM" h2="Exportera PPT till DOTM i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att rendera PPT till DOTM eller online" h2="Exportera PPT till DOTM i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint PPT till Word DOTM. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera PPT till HTML. Därefter kan du konvertera HTML till DOTM genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 

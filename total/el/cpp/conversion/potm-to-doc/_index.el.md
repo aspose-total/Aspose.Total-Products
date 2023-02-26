@@ -1,6 +1,6 @@
 ---
-title: C++ API για Μετατροπή POTM σε DOC
-description: Εξαγωγή POTM σε DOC στις εφαρμογές σας C++
+title: C++ API για Μετατροπή POTM σε DOC ή με δωρεάν Online Converter
+description: Εξαγωγή POTM σε DOC στις εφαρμογές σας C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOTX TEXT FLATOPC WORD DOCM WORDML RTF DOCX OTT ODT DOT DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API για απόδοση POTM σε DOC" h2="Εξαγωγή POTM σε DOC σε εφαρμογές C++ χωρίς εξαρτήσεις Microsoft PowerPoint ή Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API για απόδοση POTM σε DOC ή διαδικτυακά" h2="Εξαγωγή POTM σε DOC σε εφαρμογές C++ χωρίς εξαρτήσεις Microsoft PowerPoint ή Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for C++](https://products.aspose.com/total/cpp/) είναι ένα πλήρες πακέτο βιβλιοθηκών αυτοματισμού μορφής αρχείου C++. Χρησιμοποιώντας τις πλούσιες δυνατότητες των API που είναι διαθέσιμα στο πακέτο, μπορούμε εύκολα να μετατρέψουμε το PowerPoint POTM σε Word DOC. Για να πραγματοποιήσετε τη μετατροπή, μπορείτε πρώτα να χρησιμοποιήσετε το [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API για να μετατρέψετε το POTM σε HTML. Στη συνέχεια, χρησιμοποιώντας το πλούσιο σε δυνατότητες API επεξεργασίας κειμένου [Aspose.Words for C++](https://products.aspose.com/words/cpp/) μπορείτε να μετατρέψετε το HTML σε DOC. 

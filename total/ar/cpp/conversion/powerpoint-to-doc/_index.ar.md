@@ -1,6 +1,6 @@
 ---
-title: C++ API لتحويل POWERPOINT إلى DOC
-description: قم بتصدير POWERPOINT إلى DOC داخل تطبيقات C++ الخاصة بك
+title: C++ API لتحويل POWERPOINT إلى DOC أو مع محول مجاني على الإنترنت
+description: قم بتصدير POWERPOINT إلى DOC داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: ODT DOTX WORD OTT TEXT WORDML DOCX DOT DOTM DOCM FLATOPC RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم POWERPOINT إلى DOC" h2="تصدير POWERPOINT إلى DOC في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم POWERPOINT إلى DOC أو عبر الإنترنت" h2="تصدير POWERPOINT إلى DOC في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) عبارة عن حزمة كاملة من مكتبات أتمتة تنسيق الملفات C++. باستخدام الميزات الغنية لواجهات برمجة التطبيقات المتوفرة في pacakge ، يمكننا بسهولة تحويل PowerPoint POWERPOINT إلى Word DOC. من أجل إجراء التحويل ، يمكنك أولاً استخدام واجهة برمجة تطبيقات [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لتحويل POWERPOINT إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة الكلمات الغنية بالميزات [Aspose.Words for C++](https://products.aspose.com/words/cpp/) يمكنك تحويل HTML إلى DOC. 

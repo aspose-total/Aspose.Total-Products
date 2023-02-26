@@ -1,6 +1,6 @@
 ---
-title: C++ API لتحويل POTM إلى ODT
-description: قم بتصدير POTM إلى ODT داخل تطبيقات C++ الخاصة بك
+title: C++ API لتحويل POTM إلى ODT أو مع محول مجاني على الإنترنت
+description: قم بتصدير POTM إلى ODT داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM DOCX RTF DOTX FLATOPC WORD DOCM DOC WORDML DOT OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم POTM إلى ODT" h2="تصدير POTM إلى ODT في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم POTM إلى ODT أو عبر الإنترنت" h2="تصدير POTM إلى ODT في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) عبارة عن حزمة كاملة من مكتبات أتمتة تنسيق الملفات C++. باستخدام الميزات الغنية لواجهات برمجة التطبيقات المتوفرة في pacakge ، يمكننا بسهولة تحويل PowerPoint POTM إلى Word ODT. من أجل إجراء التحويل ، يمكنك أولاً استخدام واجهة برمجة تطبيقات [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لتحويل POTM إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة الكلمات الغنية بالميزات [Aspose.Words for C++](https://products.aspose.com/words/cpp/) يمكنك تحويل HTML إلى ODT. 

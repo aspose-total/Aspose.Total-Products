@@ -1,6 +1,6 @@
 ---
-title: C++ API pro převod POTM na DOT
-description: Exportujte POTM do DOT v rámci vašich aplikací C++
+title: C++ API pro převod POTM na DOT nebo pomocí bezplatného online převodníku
+description: Exportujte POTM do DOT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: RTF OTT DOC WORDML FLATOPC ODT DOTM DOCX DOTX TEXT DOCM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení POTM do DOT" h2="Export POTM do DOT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení POTM do DOT nebo online" h2="Export POTM do DOT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint POTM na Word DOT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu POTM do HTML. Potmé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na DOT. 

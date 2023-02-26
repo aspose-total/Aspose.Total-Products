@@ -1,6 +1,6 @@
 ---
-title: C++ API do konwersji PPTM na WORDML
-description: Eksportuj PPTM do WORDML w swoich aplikacjach C++
+title: C++ API do konwersji PPTM na WORDML lub za pomocą bezpłatnego konwertera online
+description: Eksportuj PPTM do WORDML w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOC DOTM DOCM DOT DOCX WORD FLATOPC TEXT ODT OTT RTF DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania PPTM do WORDML" h2="Eksportuj PPTM do WORDML w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do renderowania PPTM do WORDML lub online" h2="Eksportuj PPTM do WORDML w aplikacjach C++ bez żadnych zależności Microsoft PowerPoint lub Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) to kompletny pakiet bibliotek C++ File Format Automation. Korzystając z bogatych funkcji API dostępnych w pakiecie, możemy łatwo przekonwertować PowerPoint PPTM na Word WORDML. Aby przeprowadzić konwersję, możesz najpierw użyć interfejsu API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), aby przekonwertować PPTM na HTML. Następnie za pomocą bogatego w funkcje interfejsu API przetwarzania tekstu [Aspose.Words for C++](https://products.aspose.com/words/cpp/) możesz przekonwertować kod HTML na WORDML. 

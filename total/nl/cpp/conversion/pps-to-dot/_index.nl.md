@@ -1,6 +1,6 @@
 ---
-title: C++ API om PPS naar DOT te converteren
-description: Exporteer PPS naar DOT binnen uw C++-toepassingen
+title: C++ API om PPS naar DOT te converteren of met gratis Online Converter
+description: Exporteer PPS naar DOT binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: TEXT WORD ODT DOCX OTT DOTX DOCM DOTM DOC RTF WORDML FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om PPS naar DOT te renderen" h2="Exporteer PPS naar DOT in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om PPS naar DOT te renderen of online" h2="Exporteer PPS naar DOT in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) is een compleet pakket van C++ File Format Automation-bibliotheken. Door gebruik te maken van de uitgebreide functies van de API's die beschikbaar zijn in het pakket, kunnen we PowerPoint PPS gemakkelijk converteren naar Word DOT. Om de conversie uit te voeren, kunt u eerst de API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) gebruiken om PPS naar HTML te converteren. Daarna kunt u met behulp van de veelzijdige Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) de HTML naar DOT converteren. 

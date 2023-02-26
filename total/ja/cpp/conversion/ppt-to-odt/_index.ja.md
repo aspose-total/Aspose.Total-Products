@@ -1,6 +1,6 @@
 ---
-title: PPTをODTに変換するC++API
-description: C++アプリケーション内でPPTをODTにエクスポートする
+title: PPTをODTに変換するC++API または無料のオンライン コンバーターを使用
+description: C++アプリケーション内でPPTをODTにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: FLATOPC WORDML TEXT OTT DOCM DOC DOTM DOCX RTF DOTX WORD DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTをODTにレンダリングするC++API" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTをODTにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTをODTにレンダリングするC++API またはオンライン" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTをODTにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPPTをWordODTに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPPTをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをODTに変換できます。 

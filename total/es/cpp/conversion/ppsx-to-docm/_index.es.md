@@ -1,6 +1,6 @@
 ---
-title: API de C++ para convertir PPSX a DOCM
-description: Exporte PPSX a DOCM dentro de sus aplicaciones C++
+title: API de C++ para convertir PPSX a DOCM o con el convertidor en línea gratuito
+description: Exporte PPSX a DOCM dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: WORD FLATOPC ODT DOTX DOC DOCX WORDML OTT DOT RTF TEXT DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API de C++ para renderizar PPSX a DOCM" h2="Exporte PPSX a DOCM en aplicaciones C++ sin dependencias de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API de C++ para renderizar PPSX a DOCM o en línea" h2="Exporte PPSX a DOCM en aplicaciones C++ sin dependencias de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) es un paquete completo de bibliotecas de automatización de formato de archivo C++. Mediante el uso de las ricas funciones de las API disponibles en el paquete, podemos convertir fácilmente PowerPoint PPSX a Word DOCM. Para realizar la conversión, primero puede usar la API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para convertir PPSX a HTML. Después de eso, al usar la API de procesamiento de textos rica en funciones [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede convertir el HTML a DOCM. 

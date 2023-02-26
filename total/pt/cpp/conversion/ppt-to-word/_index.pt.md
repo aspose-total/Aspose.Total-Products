@@ -1,6 +1,6 @@
 ---
-title: API C++ para converter PPT em WORD
-description: Exporte PPT para WORD em seus aplicativos C++
+title: API C++ para converter PPT em WORD ou com o conversor online grátis
+description: Exporte PPT para WORD em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: RTF DOT DOCX WORDML DOCM TEXT DOC FLATOPC DOTM OTT ODT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para renderizar PPT para WORD" h2="Exporte PPT para WORD em aplicativos C++ sem dependências do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para renderizar PPT para WORD ou online" h2="Exporte PPT para WORD em aplicativos C++ sem dependências do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) é um pacote completo de bibliotecas de automação de formato de arquivo C++. Usando os recursos avançados das APIs disponíveis no pacote, podemos facilmente converter PowerPoint PPT em Word WORD. Para realizar a conversão, você pode primeiro usar a API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para converter PPT em HTML. Depois disso, usando a API de processamento de texto rica em recursos [Aspose.Words for C++](https://products.aspose.com/words/cpp/), você pode converter o HTML para WORD. 

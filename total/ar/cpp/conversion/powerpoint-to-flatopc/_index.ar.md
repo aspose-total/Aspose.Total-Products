@@ -1,6 +1,6 @@
 ---
-title: C++ API لتحويل POWERPOINT إلى FLATOPC
-description: قم بتصدير POWERPOINT إلى FLATOPC داخل تطبيقات C++ الخاصة بك
+title: C++ API لتحويل POWERPOINT إلى FLATOPC أو مع محول مجاني على الإنترنت
+description: قم بتصدير POWERPOINT إلى FLATOPC داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: WORDML ODT DOTX DOCM DOT RTF OTT WORD DOC DOTM TEXT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم POWERPOINT إلى FLATOPC" h2="تصدير POWERPOINT إلى FLATOPC في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتقديم POWERPOINT إلى FLATOPC أو عبر الإنترنت" h2="تصدير POWERPOINT إلى FLATOPC في تطبيقات C++ بدون أي تبعيات Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) عبارة عن حزمة كاملة من مكتبات أتمتة تنسيق الملفات C++. باستخدام الميزات الغنية لواجهات برمجة التطبيقات المتوفرة في pacakge ، يمكننا بسهولة تحويل PowerPoint POWERPOINT إلى Word FLATOPC. من أجل إجراء التحويل ، يمكنك أولاً استخدام واجهة برمجة تطبيقات [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لتحويل POWERPOINT إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات معالجة الكلمات الغنية بالميزات [Aspose.Words for C++](https://products.aspose.com/words/cpp/) يمكنك تحويل HTML إلى FLATOPC. 

@@ -1,6 +1,6 @@
 ---
-title: C++ API pro převod PPSX na WORDML
-description: Exportujte PPSX do WORDML v rámci vašich aplikací C++
+title: C++ API pro převod PPSX na WORDML nebo pomocí bezplatného online převodníku
+description: Exportujte PPSX do WORDML v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: ODT WORD RTF DOT TEXT DOCX DOC DOCM OTT DOTX DOTM FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSX do WORDML" h2="Export PPSX do WORDML v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSX do WORDML nebo online" h2="Export PPSX do WORDML v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint PPSX na Word WORDML. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu PPSX do HTML. Ppsxé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na WORDML. 

@@ -1,6 +1,6 @@
 ---
-title: C++ API om POTX naar DOC te converteren
-description: Exporteer POTX naar DOC binnen uw C++-toepassingen
+title: C++ API om POTX naar DOC te converteren of met gratis Online Converter
+description: Exporteer POTX naar DOC binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: TEXT OTT RTF WORDML ODT DOTM FLATOPC DOCM DOT DOCX DOTX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om POTX naar DOC te renderen" h2="Exporteer POTX naar DOC in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om POTX naar DOC te renderen of online" h2="Exporteer POTX naar DOC in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) is een compleet pakket van C++ File Format Automation-bibliotheken. Door gebruik te maken van de uitgebreide functies van de API's die beschikbaar zijn in het pakket, kunnen we PowerPoint POTX gemakkelijk converteren naar Word DOC. Om de conversie uit te voeren, kunt u eerst de API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) gebruiken om POTX naar HTML te converteren. Daarna kunt u met behulp van de veelzijdige Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) de HTML naar DOC converteren. 

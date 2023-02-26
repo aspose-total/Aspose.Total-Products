@@ -1,6 +1,6 @@
 ---
-title: C++ API untuk Mengonversi PPT ke TEXT
-description: Ekspor PPT ke TEXT dalam aplikasi C++ Anda
+title: C++ API untuk Mengonversi PPT ke TEXT atau dengan Konverter Online gratis
+description: Ekspor PPT ke TEXT dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: OTT ODT DOC DOTX FLATOPC DOCM DOCX DOT RTF WORDML WORD DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Merender PPT ke TEXT" h2="Ekspor PPT ke TEXT dalam aplikasi C++ tanpa ketergantungan Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Merender PPT ke TEXT atau daring" h2="Ekspor PPT ke TEXT dalam aplikasi C++ tanpa ketergantungan Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) adalah paket lengkap library C++ File Format Automation. Dengan menggunakan fitur kaya dari API yang tersedia di paket, kita dapat dengan mudah mengonversi PowerPoint PPT ke Word TEXT. Untuk melakukan konversi, pertama-tama Anda dapat menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API untuk mengonversi PPT ke HTML. Setelah itu dengan menggunakan API Pemrosesan Kata yang kaya fitur [Aspose.Words for C++](https://products.aspose.com/words/cpp/) Anda dapat mengonversi HTML ke TEXT. 

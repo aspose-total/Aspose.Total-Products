@@ -1,6 +1,6 @@
 ---
-title: PPTXをDOTに変換するC++API
-description: C++アプリケーション内でPPTXをDOTにエクスポートする
+title: PPTXをDOTに変換するC++API または無料のオンライン コンバーターを使用
+description: C++アプリケーション内でPPTXをDOTにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOC WORD ODT WORDML DOTX OTT DOCM FLATOPC DOCX TEXT RTF DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTXをDOTにレンダリングするC++API" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTXをDOTにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTXをDOTにレンダリングするC++API またはオンライン" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTXをDOTにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPPTXをWordDOTに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPPTXをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをDOTに変換できます。 

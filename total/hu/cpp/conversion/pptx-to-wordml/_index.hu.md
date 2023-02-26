@@ -1,6 +1,6 @@
 ---
-title: C++ API a PPTX WORDML formátumba konvertálásához
-description: Exportálja a PPTX-ot WORDML-ba a C++ alkalmazásaiban
+title: C++ API a PPTX WORDML formátumba konvertálásához vagy ingyenes online konverterrel
+description: Exportálja a PPTX-ot WORDML-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: FLATOPC DOC WORD TEXT ODT OTT DOCX DOTM DOT DOTX RTF DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a PPTX rendereléséhez WORDML-ba" h2="Exportálja a PPTX-ot WORDML-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a PPTX rendereléséhez WORDML-ba vagy online" h2="Exportálja a PPTX-ot WORDML-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) a C++ fájlformátum-automatizálási könyvtárak teljes csomagja. A csomagban elérhető API-k gazdag funkcióinak használatával könnyedén konvertálhatjuk a PowerPoint PPTX-ot Word WORDML-ba. Az átalakítás végrehajtásához először használhatja az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API-t a PPTX HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával a HTML-t WORDML formátumba konvertálhatja. 

@@ -1,6 +1,6 @@
 ---
-title: C++ API pro převod PPSX na DOTM
-description: Exportujte PPSX do DOTM v rámci vašich aplikací C++
+title: C++ API pro převod PPSX na DOTM nebo pomocí bezplatného online převodníku
+description: Exportujte PPSX do DOTM v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: WORDML DOT DOCM TEXT DOC ODT OTT DOTX WORD RTF DOCX FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSX do DOTM" h2="Export PPSX do DOTM v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPSX do DOTM nebo online" h2="Export PPSX do DOTM v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint PPSX na Word DOTM. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu PPSX do HTML. Ppsxé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na DOTM. 

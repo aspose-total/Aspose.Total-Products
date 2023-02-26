@@ -1,6 +1,6 @@
 ---
-title: पीओटी को डीओसी में बदलने के लिए सी++ एपीआई
-description: अपने सी ++ अनुप्रयोगों के भीतर डीओसी को पीओटी निर्यात करें
+title: पीओटी को डीओसी में बदलने के लिए सी++ एपीआई या मुफ्त ऑनलाइन कन्वर्टर के साथ
+description: अपने सी ++ अनुप्रयोगों के भीतर डीओसी को पीओटी निर्यात करें या ऑनलाइन। कोड को एकीकृत करने से पहले मुफ्त बीएमपी से जीआईएफ ऑनलाइन परिवर्तक का त्वरित परीक्षण करें।
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: WORD DOT DOTX DOCX OTT DOCM DOC ODT TEXT FLATOPC DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="सी ++ एपीआई डीओसी को पॉट प्रस्तुत करने के लिए" h2="बिना किसी Microsoft PowerPoint या Word निर्भरता के C++ अनुप्रयोगों में WORDML को POTX निर्यात करें" >}}
+{{< blocks/products/pf/feature-page-header h1="सी ++ एपीआई डीओसी को पॉट प्रस्तुत करने के लिए या ऑनलाइन" h2="बिना किसी Microsoft PowerPoint या Word निर्भरता के C++ अनुप्रयोगों में WORDML को POTX निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) C++ फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी का पूरा पैकेज है। pacakge में उपलब्ध APIs की समृद्ध विशेषताओं का उपयोग करके, हम आसानी से PowerPoint POTX को Word WORDML में बदल सकते हैं। रूपांतरण करने के लिए, आप POTX को HTML में बदलने के लिए पहले [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API का उपयोग कर सकते हैं। उसके बाद सुविधा संपन्न वर्ड प्रोसेसिंग एपीआई [Aspose.Words for C++](https://products.aspose.com/words/cpp/) का उपयोग करके आप HTML को WORDML में बदल सकते हैं। 

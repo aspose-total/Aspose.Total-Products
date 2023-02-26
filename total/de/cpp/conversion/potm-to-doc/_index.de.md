@@ -1,6 +1,6 @@
 ---
-title: C++-API zum Konvertieren von POTM in DOC
-description: Exportieren Sie POTM in DOC innerhalb Ihrer C++-Anwendungen
+title: C++-API zum Konvertieren von POTM in DOC oder mit dem kostenlosen Online Converter
+description: Exportieren Sie POTM in DOC innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOTX TEXT FLATOPC WORD DOCM WORDML RTF DOCX OTT ODT DOT DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von POTM in DOC" h2="Exportieren Sie POTM in DOC in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von POTM in DOC oder online" h2="Exportieren Sie POTM in DOC in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) ist ein vollständiges Paket von C++ File Format Automation-Bibliotheken. Durch die Verwendung der reichhaltigen Funktionen der im Paket verfügbaren APIs können wir PowerPoint POTM problemlos in Word DOC konvertieren. Um die Konvertierung durchzuführen, können Sie zuerst die API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) verwenden, um POTM in HTML zu konvertieren. Danach können Sie mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) den HTML-Code in DOC konvertieren. 

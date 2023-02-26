@@ -1,6 +1,6 @@
 ---
-title: C++ API för att konvertera POWERPOINT till WORDML
-description: Exportera POWERPOINT till WORDML i dina C++-applikationer
+title: C++ API för att konvertera POWERPOINT till WORDML eller med gratis Online Converter
+description: Exportera POWERPOINT till WORDML i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: RTF DOTX DOT DOCM DOC OTT DOCX FLATOPC TEXT WORD ODT DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API för att rendera POWERPOINT till WORDML" h2="Exportera POWERPOINT till WORDML i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API för att rendera POWERPOINT till WORDML eller online" h2="Exportera POWERPOINT till WORDML i C++-applikationer utan några Microsoft PowerPoint- eller Word-beroenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) är ett komplett paket med C++ filformatsautomatiseringsbibliotek. Genom att använda de rika funktionerna i API:erna som finns i paketet kan vi enkelt konvertera PowerPoint POWERPOINT till Word WORDML. För att utföra konverteringen kan du först använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API för att konvertera POWERPOINT till HTML. Därefter kan du konvertera HTML till WORDML genom att använda funktionsrika Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). 

@@ -1,6 +1,6 @@
 ---
-title: C++ API เพื่อแปลง PPSM เป็น TEXT
-description: ส่งออก PPSM เป็น TEXT ภายในแอปพลิเคชัน C++ ของคุณ
+title: C++ API เพื่อแปลง PPSM เป็น TEXT หรือด้วยตัวแปลงออนไลน์ฟรี
+description: ส่งออก PPSM เป็น TEXT ภายในแอปพลิเคชัน C++ ของคุณ หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: DOC DOCX ODT FLATOPC DOTX OTT DOCM RTF WORD WORDML DOTM DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแสดงผล PPSM เป็น TEXT" h2="ส่งออก PPSM เป็น TEXT ในแอปพลิเคชัน C++ โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแสดงผล PPSM เป็น TEXT หรือทางออนไลน์" h2="ส่งออก PPSM เป็น TEXT ในแอปพลิเคชัน C++ โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ด้วยการใช้คุณสมบัติที่หลากหลายของ API ที่มีอยู่ใน pacakge เราสามารถแปลง PowerPoint PPSM เป็น Word TEXT ได้อย่างง่ายดาย ในการแปลง คุณสามารถใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API เพื่อแปลง PPSM เป็น HTML ได้ก่อน หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณจะสามารถแปลง HTML เป็น TEXT ได้ 

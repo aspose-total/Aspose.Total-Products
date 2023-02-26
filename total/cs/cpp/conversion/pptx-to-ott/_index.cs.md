@@ -1,6 +1,6 @@
 ---
-title: C++ API pro převod PPTX na OTT
-description: Exportujte PPTX do OTT v rámci vašich aplikací C++
+title: C++ API pro převod PPTX na OTT nebo pomocí bezplatného online převodníku
+description: Exportujte PPTX do OTT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: TEXT DOCX WORD WORDML DOC DOT DOCM DOTX ODT RTF FLATOPC DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPTX do OTT" h2="Export PPTX do OTT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro vykreslení PPTX do OTT nebo online" h2="Export PPTX do OTT v aplikacích C++ bez jakýchkoli závislostí Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) je kompletní balíček knihoven C++ File Format Automation. Pomocí bohatých funkcí API dostupných v balíčku můžeme snadno převést PowerPoint PPTX na Word OTT. Chcete-li provést převod, můžete nejprve použít [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API k převodu PPTX do HTML. Pptxé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for C++](https://products.aspose.com/words/cpp/) můžete převést HTML na OTT. 

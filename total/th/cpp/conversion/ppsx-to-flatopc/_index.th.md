@@ -1,6 +1,6 @@
 ---
-title: C++ API เพื่อแปลง PPSX เป็น FLATOPC
-description: ส่งออก PPSX เป็น FLATOPC ภายในแอปพลิเคชัน C++ ของคุณ
+title: C++ API เพื่อแปลง PPSX เป็น FLATOPC หรือด้วยตัวแปลงออนไลน์ฟรี
+description: ส่งออก PPSX เป็น FLATOPC ภายในแอปพลิเคชัน C++ ของคุณ หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOT DOCX WORDML DOCM TEXT OTT ODT RTF DOTX DOC DOTM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแสดงผล PPSX เป็น FLATOPC" h2="ส่งออก PPSX เป็น FLATOPC ในแอปพลิเคชัน C++ โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแสดงผล PPSX เป็น FLATOPC หรือทางออนไลน์" h2="ส่งออก PPSX เป็น FLATOPC ในแอปพลิเคชัน C++ โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ด้วยการใช้คุณสมบัติที่หลากหลายของ API ที่มีอยู่ใน pacakge เราสามารถแปลง PowerPoint PPSX เป็น Word FLATOPC ได้อย่างง่ายดาย ในการแปลง คุณสามารถใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API เพื่อแปลง PPSX เป็น HTML ได้ก่อน หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณจะสามารถแปลง HTML เป็น FLATOPC ได้ 

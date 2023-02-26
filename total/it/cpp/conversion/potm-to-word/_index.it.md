@@ -1,6 +1,6 @@
 ---
-title: API C++ per convertire POTM in WORD
-description: Esporta POTM in WORD all'interno delle tue applicazioni C++
+title: API C++ per convertire POTM in WORD o con il convertitore online gratuito
+description: Esporta POTM in WORD all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORDML DOTX DOCX RTF DOCM DOTM ODT FLATOPC DOT DOC TEXT OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per il rendering di POTM in WORD" h2="Esporta POTM in WORD in applicazioni C++ senza dipendenze da Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per il rendering di POTM in WORD o in linea" h2="Esporta POTM in WORD in applicazioni C++ senza dipendenze da Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) è un pacchetto completo di librerie C++ File Format Automation. Utilizzando le ricche funzionalità delle API disponibili nel pacchetto, possiamo convertire facilmente PowerPoint POTM in Word WORD. Per eseguire la conversione, puoi prima utilizzare l'API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) per convertire POTM in HTML. Successivamente, utilizzando l'API di elaborazione testi ricca di funzionalità [Aspose.Words for C++](https://products.aspose.com/words/cpp/) puoi convertire l'HTML in WORD. 

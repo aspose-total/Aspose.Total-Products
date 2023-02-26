@@ -1,6 +1,6 @@
 ---
-title: C++ API om PPTM naar DOC te converteren
-description: Exporteer PPTM naar DOC binnen uw C++-toepassingen
+title: C++ API om PPTM naar DOC te converteren of met gratis Online Converter
+description: Exporteer PPTM naar DOC binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: FLATOPC OTT DOTM RTF ODT DOCX DOTX DOCM WORDML DOT WORD TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om PPTM naar DOC te renderen" h2="Exporteer PPTM naar DOC in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om PPTM naar DOC te renderen of online" h2="Exporteer PPTM naar DOC in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) is een compleet pakket van C++ File Format Automation-bibliotheken. Door gebruik te maken van de uitgebreide functies van de API's die beschikbaar zijn in het pakket, kunnen we PowerPoint PPTM gemakkelijk converteren naar Word DOC. Om de conversie uit te voeren, kunt u eerst de API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) gebruiken om PPTM naar HTML te converteren. Daarna kunt u met behulp van de veelzijdige Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) de HTML naar DOC converteren. 

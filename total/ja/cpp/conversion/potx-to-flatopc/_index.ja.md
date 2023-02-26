@@ -1,6 +1,6 @@
 ---
-title: POTXをFLATOPCに変換するC++API
-description: C++アプリケーション内でPOTXをFLATOPCにエクスポートする
+title: POTXをFLATOPCに変換するC++API または無料のオンライン コンバーターを使用
+description: C++アプリケーション内でPOTXをFLATOPCにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: WORDML ODT DOTX TEXT DOTM WORD DOCX OTT DOT RTF DOCM DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POTXをFLATOPCにレンダリングするC++API" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPOTXをFLATOPCにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="POTXをFLATOPCにレンダリングするC++API またはオンライン" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPOTXをFLATOPCにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPOTXをWordFLATOPCに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPOTXをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをFLATOPCに変換できます。 

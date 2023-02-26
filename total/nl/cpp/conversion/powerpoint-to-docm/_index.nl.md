@@ -1,6 +1,6 @@
 ---
-title: C++ API om POWERPOINT naar DOCM te converteren
-description: Exporteer POWERPOINT naar DOCM binnen uw C++-toepassingen
+title: C++ API om POWERPOINT naar DOCM te converteren of met gratis Online Converter
+description: Exporteer POWERPOINT naar DOCM binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: TEXT RTF DOCX DOT ODT DOTX DOTM FLATOPC OTT WORDML WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om POWERPOINT naar DOCM te renderen" h2="Exporteer POWERPOINT naar DOCM in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om POWERPOINT naar DOCM te renderen of online" h2="Exporteer POWERPOINT naar DOCM in C++-toepassingen zonder Microsoft PowerPoint- of Word-afhankelijkheden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) is een compleet pakket van C++ File Format Automation-bibliotheken. Door gebruik te maken van de uitgebreide functies van de API's die beschikbaar zijn in het pakket, kunnen we PowerPoint POWERPOINT gemakkelijk converteren naar Word DOCM. Om de conversie uit te voeren, kunt u eerst de API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) gebruiken om POWERPOINT naar HTML te converteren. Daarna kunt u met behulp van de veelzijdige Word Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) de HTML naar DOCM converteren. 

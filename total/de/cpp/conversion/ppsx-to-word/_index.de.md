@@ -1,6 +1,6 @@
 ---
-title: C++-API zum Konvertieren von PPSX in WORD
-description: Exportieren Sie PPSX in WORD innerhalb Ihrer C++-Anwendungen
+title: C++-API zum Konvertieren von PPSX in WORD oder mit dem kostenlosen Online Converter
+description: Exportieren Sie PPSX in WORD innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORDML DOCM DOCX DOTM DOC OTT TEXT DOT DOTX ODT FLATOPC RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von PPSX in WORD" h2="Exportieren Sie PPSX in WORD in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von PPSX in WORD oder online" h2="Exportieren Sie PPSX in WORD in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) ist ein vollständiges Paket von C++ File Format Automation-Bibliotheken. Durch die Verwendung der reichhaltigen Funktionen der im Paket verfügbaren APIs können wir PowerPoint PPSX problemlos in Word WORD konvertieren. Um die Konvertierung durchzuführen, können Sie zuerst die API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) verwenden, um PPSX in HTML zu konvertieren. Danach können Sie mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) den HTML-Code in WORD konvertieren. 

@@ -1,6 +1,6 @@
 ---
-title: C++ API a POTX DOCX formátumba konvertálásához
-description: Exportálja a POTX-ot DOCX-ba a C++ alkalmazásaiban
+title: C++ API a POTX DOCX formátumba konvertálásához vagy ingyenes online konverterrel
+description: Exportálja a POTX-ot DOCX-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOCM TEXT DOTX DOT DOC FLATOPC WORDML ODT OTT RTF DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a POTX rendereléséhez DOCX-ba" h2="Exportálja a POTX-ot DOCX-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a POTX rendereléséhez DOCX-ba vagy online" h2="Exportálja a POTX-ot DOCX-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) a C++ fájlformátum-automatizálási könyvtárak teljes csomagja. A csomagban elérhető API-k gazdag funkcióinak használatával könnyedén konvertálhatjuk a PowerPoint POTX-ot Word DOCX-ba. Az átalakítás végrehajtásához először használhatja az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API-t a POTX HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával a HTML-t DOCX formátumba konvertálhatja. 

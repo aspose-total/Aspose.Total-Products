@@ -1,6 +1,6 @@
 ---
-title: C++ API a POTM ODT formátumba konvertálásához
-description: Exportálja a POTM-ot ODT-ba a C++ alkalmazásaiban
+title: C++ API a POTM ODT formátumba konvertálásához vagy ingyenes online konverterrel
+description: Exportálja a POTM-ot ODT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
 platformtag: cpp
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM DOCX RTF DOTX FLATOPC WORD DOCM DOC WORDML DOT OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a POTM rendereléséhez ODT-ba" h2="Exportálja a POTM-ot ODT-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a POTM rendereléséhez ODT-ba vagy online" h2="Exportálja a POTM-ot ODT-ba C++ alkalmazásokban Microsoft PowerPoint vagy Word függőség nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) a C++ fájlformátum-automatizálási könyvtárak teljes csomagja. A csomagban elérhető API-k gazdag funkcióinak használatával könnyedén konvertálhatjuk a PowerPoint POTM-ot Word ODT-ba. Az átalakítás végrehajtásához először használhatja az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API-t a POTM HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával a HTML-t ODT formátumba konvertálhatja. 
