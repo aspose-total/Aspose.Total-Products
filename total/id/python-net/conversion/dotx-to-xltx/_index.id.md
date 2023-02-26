@@ -1,6 +1,6 @@
 ---
-title: Konversikan DOTX ke XLTX menggunakan Python
-description: Konversi DOTX ke XLTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel 
+title: Konversikan DOTX ke XLTX menggunakan Python atau dengan Konverter Online gratis
+description: Konversi DOTX ke XLTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan DOTX ke XLTX melalui Python" h2="Konversi DOTX ke XLTX di aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan DOTX ke XLTX melalui Python atau daring" h2="Konversi DOTX ke XLTX di aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Convert OTT to SXC using Python
-description: OTT to SXC conversion in your Python applications without using Microsoft Word or Excel 
+title: Convert OTT to SXC using Python or with free Online Converter
+description: OTT to SXC conversion in your Python applications without using Microsoft Word or Excel or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert OTT to SXC via Python" h2="OTT to SXC conversion in your Python applications without installing Microsoft Word<sup>&reg;</sup> or Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert OTT to SXC via Python or online" h2="OTT to SXC conversion in your Python applications without installing Microsoft Word<sup>&reg;</sup> or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Python을 사용하여 RTF를 XLT로 변환
-description: Microsoft Word 또는 Excel을 사용하지 않고 Python 애플리케이션에서 RTF를 XLT로 변환 
+title: Python을 사용하여 RTF를 XLT로 변환 또는 무료 온라인 변환기 사용
+description: Microsoft Word 또는 Excel을 사용하지 않고 Python 애플리케이션에서 RTF를 XLT로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to POT 온라인 변환기를 빠르게 테스트하십시오. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python을 통해 RTF를 XLT로 변환" h2="Microsoft Word<sup>&reg;</sup> 또는 Excel을 설치하지 않고 Python 애플리케이션에서 RTF를 XLT로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Python을 통해 RTF를 XLT로 변환 또는 온라인" h2="Microsoft Word<sup>&reg;</sup> 또는 Excel을 설치하지 않고 Python 애플리케이션에서 RTF를 XLT로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

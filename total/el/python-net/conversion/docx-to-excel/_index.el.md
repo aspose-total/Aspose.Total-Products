@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOCX σε EXCEL χρησιμοποιώντας Python
-description: Μετατροπή DOCX σε EXCEL στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel 
+title: Μετατροπή DOCX σε EXCEL χρησιμοποιώντας Python ή με δωρεάν Online Converter
+description: Μετατροπή DOCX σε EXCEL στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCX σε EXCEL μέσω Python" h2="Μετατροπή DOCX σε EXCEL στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCX σε EXCEL μέσω Python ή διαδικτυακά" h2="Μετατροπή DOCX σε EXCEL στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

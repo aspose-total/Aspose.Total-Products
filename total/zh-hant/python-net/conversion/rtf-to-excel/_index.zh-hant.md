@@ -1,6 +1,6 @@
 ---
-title: 使用 Python 將 RTF 轉換為 EXCEL
-description: 在不使用 Microsoft Word 或 Excel 的 Python 應用程序中將 RTF 轉換為 EXCEL 
+title: 使用 Python 將 RTF 轉換為 EXCEL 或使用免費的在線轉換器
+description: 在不使用 Microsoft Word 或 Excel 的 Python 應用程序中將 RTF 轉換為 EXCEL 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Python 將 RTF 轉換為 EXCEL" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 RTF 轉換為 EXCEL" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Python 將 RTF 轉換為 EXCEL 或在線" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 RTF 轉換為 EXCEL" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

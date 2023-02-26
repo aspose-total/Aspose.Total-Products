@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to XLAM using Python
-description: WORD to XLAM conversion in your Python applications without using Microsoft Word or Excel 
+title: Convert WORD to XLAM using Python or with free Online Converter
+description: WORD to XLAM conversion in your Python applications without using Microsoft Word or Excel or online. Test free CSV to POT online converter quickly before integrating the code. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert WORD to XLAM via Python" h2="WORD to XLAM conversion in your Python applications without installing Microsoft Word<sup>&reg;</sup> or Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert WORD to XLAM via Python or online" h2="WORD to XLAM conversion in your Python applications without installing Microsoft Word<sup>&reg;</sup> or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

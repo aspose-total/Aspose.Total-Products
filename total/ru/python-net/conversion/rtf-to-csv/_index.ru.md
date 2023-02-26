@@ -1,6 +1,6 @@
 ---
-title: Преобразование RTF в CSV с помощью Python
-description: Преобразование RTF в CSV в ваших приложениях Python без использования Microsoft Word или Excel 
+title: Преобразование RTF в CSV с помощью Python или с помощью бесплатного онлайн-конвертера
+description: Преобразование RTF в CSV в ваших приложениях Python без использования Microsoft Word или Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование RTF в CSV через Python" h2="Преобразование RTF в CSV в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование RTF в CSV через Python или онлайн" h2="Преобразование RTF в CSV в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

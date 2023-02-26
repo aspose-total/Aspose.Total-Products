@@ -1,6 +1,6 @@
 ---
-title: 使用 Python 将 WORD 转换为 XLSX
-description: 在不使用 Microsoft Word 或 Excel 的 Python 应用程序中将 WORD 转换为 XLSX 
+title: 使用 Python 将 WORD 转换为 XLSX 或使用免费的在线转换器
+description: 在不使用 Microsoft Word 或 Excel 的 Python 应用程序中将 WORD 转换为 XLSX 或在线。在集成代码之前快速测试免费的 CSV 到 POT 在线转换器。 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Python 将 WORD 转换为 XLSX" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 应用程序中将 WORD 转换为 XLSX" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Python 将 WORD 转换为 XLSX 或在线" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 应用程序中将 WORD 转换为 XLSX" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

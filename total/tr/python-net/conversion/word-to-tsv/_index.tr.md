@@ -1,6 +1,6 @@
 ---
-title: Python kullanarak WORD'yi TSV'e dönüştürün
-description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan WORD'den TSV'e dönüştürme 
+title: Python kullanarak WORD'yi TSV'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan WORD'den TSV'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="WORD'yi Python aracılığıyla TSV'e dönüştürün" h2="Microsoft Word<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda WORD'den TSV'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="WORD'yi Python aracılığıyla TSV'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda WORD'den TSV'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

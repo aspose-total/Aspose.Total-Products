@@ -1,6 +1,6 @@
 ---
-title: Konvertera WORD till CSV med Python
-description: WORD till CSV-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel 
+title: Konvertera WORD till CSV med Python eller med gratis Online Converter
+description: WORD till CSV-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera WORD till CSV via Python" h2="WORD till CSV-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera WORD till CSV via Python eller online" h2="WORD till CSV-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

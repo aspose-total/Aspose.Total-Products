@@ -1,6 +1,6 @@
 ---
-title: Converteer RTF naar XLSM met behulp van Python
-description: RTF naar XLSM-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken 
+title: Converteer RTF naar XLSM met behulp van Python of met gratis Online Converter
+description: RTF naar XLSM-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar XLSM via Python" h2="RTF naar XLSM-conversie in uw Python-applicaties zonder Microsoft Word<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar XLSM via Python of online" h2="RTF naar XLSM-conversie in uw Python-applicaties zonder Microsoft Word<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

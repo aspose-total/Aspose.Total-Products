@@ -1,6 +1,6 @@
 ---
-title: Converteer DOTX naar XLS met behulp van Python
-description: DOTX naar XLS-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken 
+title: Converteer DOTX naar XLS met behulp van Python of met gratis Online Converter
+description: DOTX naar XLS-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOTX naar XLS via Python" h2="DOTX naar XLS-conversie in uw Python-applicaties zonder Microsoft Word<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOTX naar XLS via Python of online" h2="DOTX naar XLS-conversie in uw Python-applicaties zonder Microsoft Word<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

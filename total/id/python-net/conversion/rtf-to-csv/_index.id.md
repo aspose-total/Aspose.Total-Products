@@ -1,6 +1,6 @@
 ---
-title: Konversikan RTF ke CSV menggunakan Python
-description: Konversi RTF ke CSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel 
+title: Konversikan RTF ke CSV menggunakan Python atau dengan Konverter Online gratis
+description: Konversi RTF ke CSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan RTF ke CSV melalui Python" h2="Konversi RTF ke CSV di aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan RTF ke CSV melalui Python atau daring" h2="Konversi RTF ke CSV di aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

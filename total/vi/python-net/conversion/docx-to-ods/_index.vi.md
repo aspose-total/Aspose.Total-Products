@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi DOCX sang ODS bằng Python
-description: Chuyển đổi DOCX sang ODS trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc Excel 
+title: Chuyển đổi DOCX sang ODS bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi DOCX sang ODS trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOCX sang ODS qua Python" h2="Chuyển đổi DOCX sang ODS trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Word<sup>&reg;</sup> hoặc Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOCX sang ODS qua Python hoặc trực tuyến" h2="Chuyển đổi DOCX sang ODS trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Word<sup>&reg;</sup> hoặc Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Python を使用して RTF を XLTX に変換する
-description: Microsoft Word や Excel を使用せずに、Python アプリケーションで RTF から XLTX への変換 
+title: Python を使用して RTF を XLTX に変換する または無料のオンライン コンバーターを使用
+description: Microsoft Word や Excel を使用せずに、Python アプリケーションで RTF から XLTX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でRTFをXLTXに変換" h2="Microsoft Word<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで RTF から XLTX への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でRTFをXLTXに変換 またはオンライン" h2="Microsoft Word<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで RTF から XLTX への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Převeďte RTF na XLSB pomocí Pythonu
-description: Převod RTF na XLSB ve vašich aplikacích Python bez použití Microsoft Word nebo Excel 
+title: Převeďte RTF na XLSB pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod RTF na XLSB ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést RTF na XLSB pomocí Pythonu" h2="Převod RTF na XLSB ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést RTF na XLSB pomocí Pythonu nebo online" h2="Převod RTF na XLSB ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

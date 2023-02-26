@@ -1,6 +1,6 @@
 ---
-title: Konwertuj OTT na CSV za pomocą Pythona
-description: Konwersja OTT na CSV w aplikacjach Pythona bez użycia Microsoft Word lub Excel 
+title: Konwertuj OTT na CSV za pomocą Pythona lub online lub za pomocą bezpłatnego konwertera online
+description: Konwersja OTT na CSV w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj OTT na CSV za pomocą Pythona" h2="Konwersja OTT na CSV w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub Excela" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj OTT na CSV za pomocą Pythona lub online" h2="Konwersja OTT na CSV w aplikacjach Pythona bez instalowania Microsoft Word<sup>&reg;</sup> lub Excela" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

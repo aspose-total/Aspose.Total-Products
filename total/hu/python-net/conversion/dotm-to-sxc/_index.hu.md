@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a DOTM-t SXC-be Python segítségével
-description: DOTM-ből SXC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül 
+title: Konvertálja a DOTM-t SXC-be Python segítségével vagy online vagy ingyenes online konverterrel
+description: DOTM-ből SXC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOTM-t SXC-be Python segítségével" h2="DOTM-ből SXC-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy az Excel telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOTM-t SXC-be Python segítségével vagy online" h2="DOTM-ből SXC-be konvertálás a Python-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy az Excel telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

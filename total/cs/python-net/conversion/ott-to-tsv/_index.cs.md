@@ -1,6 +1,6 @@
 ---
-title: Převeďte OTT na TSV pomocí Pythonu
-description: Převod OTT na TSV ve vašich aplikacích Python bez použití Microsoft Word nebo Excel 
+title: Převeďte OTT na TSV pomocí Pythonu nebo pomocí bezplatného online převodníku
+description: Převod OTT na TSV ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést OTT na TSV pomocí Pythonu" h2="Převod OTT na TSV ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést OTT na TSV pomocí Pythonu nebo online" h2="Převod OTT na TSV ve vašich aplikacích Python bez instalace Microsoft Word<sup>&reg;</sup> nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

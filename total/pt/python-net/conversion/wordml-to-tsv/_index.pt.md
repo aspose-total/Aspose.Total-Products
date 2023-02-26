@@ -1,6 +1,6 @@
 ---
-title: Converter WORDML para TSV usando Python
-description: Conversão de WORDML para TSV em seus aplicativos Python sem usar o Microsoft Word ou Excel 
+title: Converter WORDML para TSV usando Python ou com o conversor online gratuito
+description: Conversão de WORDML para TSV em seus aplicativos Python sem usar o Microsoft Word ou Excel ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter WORDML para TSV via Python" h2="Conversão de WORDML para TSV em seus aplicativos Python sem instalar o Microsoft Word<sup>&reg;</sup> ou Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter WORDML para TSV via Python ou online" h2="Conversão de WORDML para TSV em seus aplicativos Python sem instalar o Microsoft Word<sup>&reg;</sup> ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

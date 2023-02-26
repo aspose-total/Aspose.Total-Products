@@ -1,6 +1,6 @@
 ---
-title: Convierte DOTM a ODS usando Python
-description: Conversión de DOTM a ODS en sus aplicaciones de Python sin usar Microsoft Word o Excel 
+title: Convierte DOTM a ODS usando Python o con el convertidor en línea gratuito
+description: Conversión de DOTM a ODS en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DOTM a ODS a través de Python" h2="Conversión de DOTM a ODS en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup> o Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DOTM a ODS a través de Python o en línea" h2="Conversión de DOTM a ODS en sus aplicaciones Python sin instalar Microsoft Word<sup>&reg;</sup> o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

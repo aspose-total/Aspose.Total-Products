@@ -1,6 +1,6 @@
 ---
-title: Converti DOTM in XLSM usando Python
-description: Conversione da DOTM a XLSM nelle tue applicazioni Python senza utilizzare Microsoft Word o Excel 
+title: Converti DOTM in XLSM usando Python o con il convertitore online gratuito
+description: Conversione da DOTM a XLSM nelle tue applicazioni Python senza utilizzare Microsoft Word o Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
 
 family: total
 platformtag: Python
@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOTM in XLSM tramite Python" h2="Conversione da DOTM a XLSM nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOTM in XLSM tramite Python o in linea" h2="Conversione da DOTM a XLSM nelle tue applicazioni Python senza installare Microsoft Word<sup>&reg;</sup> o Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
