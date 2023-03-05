@@ -24,4 +24,37 @@ Bármilyen szimbolikus vonalkód generálásához az API biztosítja a BarcodeGe
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" beforeslug="generál">}}
+{{< blocks/products/pf/agp/other-supported-section title="" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/qr/" name="generál QR" description="QR Code, GS1 QR Code" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/pdf417/" name="generál PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/databar/" name="generál DATABAR" description="GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/datamatrix/" name="generál DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/ean/" name="generál EAN" description="EAN-8, EAN-13, EAN-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/upc/" name="generál UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/aztec/" name="generál AZTEC" description="AZTEC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/codeblock/" name="generál CODEBLOCK" description="CodablockF, GS1 CodablockF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/code128/" name="generál CODE128" description="Code 128, GS1-128" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/code16k/" name="generál CODE16K" description="CODE 16K" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/code32/" name="generál CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/code39/" name="generál CODE39" description="Code 39 Extended, Code 39 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/code93/" name="generál CODE93" description="Code 93 Extended, Code 93 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/onecode/" name="generál ONECODE" description="USPS ONECODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/deutschepost/" name="generál DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/dutchkix/" name="generál DUTCHKIX" description="KIX-CODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/italianpost25/" name="generál ITALIANPOST25" description="ITALIAN POST 25" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/rm4scc/" name="generál RM4SCC" description="ROYALMAIL RM4SCC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/postnet/" name="generál POSTNET" description="POSTNET" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/singaporepost/" name="generál SINGAPOREPOST" description="SINGAPORE POST" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/swisspostparcel/" name="generál SWISSPOSTPARCEL" description="SWISS POST PARCEL" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/dotcode/" name="generál DOTCODE" description="DOTCODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/interleaved2of5/" name="generál INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/datalogic2of5/" name="generál DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/iata2of5/" name="generál IATA2OF5" description="IATA 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/matrix2of5/" name="generál MATRIX2OF5" description="MATRIX 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/standard2of5/" name="generál STANDARD2OF5" description="STANDARD 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/isbn/" name="generál ISBN" description="ISBN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/ismn/" name="generál ISMN" description="ISMN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/issn/" name="generál ISSN" description="ISSN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/itf/" name="generál ITF" description="ITF-6, ITF-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/generate-barcode/planet/" name="generál PLANET" description="PLANET" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}

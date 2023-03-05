@@ -24,4 +24,37 @@ Pro čtení a skenování čárových kódů jakékoli symboliky poskytuje API t
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Uznat">}}
+{{< blocks/products/pf/agp/other-supported-section title="" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/qr/" name="Uznat QR" description="QR Code, GS1 QR Code" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/pdf417/" name="Uznat PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/databar/" name="Uznat DATABAR" description="GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/datamatrix/" name="Uznat DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/ean/" name="Uznat EAN" description="EAN-8, EAN-13, EAN-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/upc/" name="Uznat UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/aztec/" name="Uznat AZTEC" description="AZTEC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/codeblock/" name="Uznat CODEBLOCK" description="CodablockF, GS1 CodablockF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/code128/" name="Uznat CODE128" description="Code 128, GS1-128" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/code16k/" name="Uznat CODE16K" description="CODE 16K" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/code32/" name="Uznat CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/code39/" name="Uznat CODE39" description="Code 39 Extended, Code 39 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/code93/" name="Uznat CODE93" description="Code 93 Extended, Code 93 Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/onecode/" name="Uznat ONECODE" description="USPS ONECODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/deutschepost/" name="Uznat DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/dutchkix/" name="Uznat DUTCHKIX" description="KIX-CODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/italianpost25/" name="Uznat ITALIANPOST25" description="ITALIAN POST 25" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/rm4scc/" name="Uznat RM4SCC" description="ROYALMAIL RM4SCC" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/postnet/" name="Uznat POSTNET" description="POSTNET" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/singaporepost/" name="Uznat SINGAPOREPOST" description="SINGAPORE POST" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/swisspostparcel/" name="Uznat SWISSPOSTPARCEL" description="SWISS POST PARCEL" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/dotcode/" name="Uznat DOTCODE" description="DOTCODE" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/interleaved2of5/" name="Uznat INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/datalogic2of5/" name="Uznat DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/iata2of5/" name="Uznat IATA2OF5" description="IATA 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/matrix2of5/" name="Uznat MATRIX2OF5" description="MATRIX 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/standard2of5/" name="Uznat STANDARD2OF5" description="STANDARD 2 OF 5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/isbn/" name="Uznat ISBN" description="ISBN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/ismn/" name="Uznat ISMN" description="ISMN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/issn/" name="Uznat ISSN" description="ISSN" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/itf/" name="Uznat ITF" description="ITF-6, ITF-14" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/recognize-barcode/planet/" name="Uznat PLANET" description="PLANET" >}}
+{{< /blocks/products/pf/agp/other-supported-section >}}
