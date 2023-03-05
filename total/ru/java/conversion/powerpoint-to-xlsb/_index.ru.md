@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: FODS SXC DIF XLS XLT MARKDOWN TSV XLAM EXCEL MHTML ODS XLTX XLSM XLSB XLTM XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать POWERPOINT в XLSB через Java или онлайн" h2="Локальный Java API для экспорта POWERPOINT в XLSB без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать POWERPOINT в XLSB через Java или онлайн-приложение" h2="Локальный Java API для экспорта POWERPOINT в XLSB без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете преобразовать файл POWERPOINT в XLSB с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) в два шага. На первом этапе вы можете экспортировать POWERPOINT в HTML с помощью [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Во-вторых, с помощью [Aspose.Cells for Java](https://products.aspose.com/cells/java/) вы можете конвертировать HTML в XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

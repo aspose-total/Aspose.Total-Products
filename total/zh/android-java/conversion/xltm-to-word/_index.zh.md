@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX POWERPOINT DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 XLTM 渲染为 WORD 或在线" h2="在您的 Android 应用程序中将 XLTM 转换为 WORD，而无需使用 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 XLTM 渲染为 WORD 或在线应用程序" h2="在您的 Android 应用程序中将 XLTM 转换为 WORD，而无需使用 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一个强大的文件自动化 API 包。通过使用它的两个 API，您可以在 Android 应用程序中集成 XLTM 到 WORD 的转换功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 将 XLTM 导出为 PDF。之后，通过使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以将 PDF 转换为 WORD。 

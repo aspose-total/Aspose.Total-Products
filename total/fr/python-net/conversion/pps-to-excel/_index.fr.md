@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir PPS en EXCEL via Python ou en ligne" h2="Conversion PPS en EXCEL dans vos applications Python sans installer Microsoft PowerPoint<sup>&reg;</sup> ou Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir PPS en EXCEL via Python ou application en ligne" h2="Conversion PPS en EXCEL dans vos applications Python sans installer Microsoft PowerPoint<sup>&reg;</sup> ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

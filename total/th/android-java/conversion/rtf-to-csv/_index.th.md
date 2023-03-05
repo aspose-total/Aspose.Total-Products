@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: DIF ODS XLSX XLTM XLT XLSM TSV FODS XLS EXCEL XLAM XLTX XLSB SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง RTF เป็น CSV ในแอปพลิเคชัน Android หรือทางออนไลน์" h2="ส่งออก RTF เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง RTF เป็น CSV ในแอปพลิเคชัน Android หรือแอพออนไลน์" h2="ส่งออก RTF เป็น CSV ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง RTF เป็น CSV ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง RTF เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น CSV ได้ 

@@ -1,6 +1,6 @@
 ---
 title: แปลง OTT เป็น ODS ใน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C++ API เพื่อแปลง OTT เป็น ODS หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: C++ API เพื่อแปลง OTT เป็น ODS หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: EXCEL DIF XLSB CSV XLAM XLTX XLTM TSV FODS XLS XLT XLSM SXC XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง OTT เป็น ODS หรือทางออนไลน์" h2="ส่งออก OTT เป็น ODS ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง OTT เป็น ODS หรือแอพออนไลน์" h2="ส่งออก OTT เป็น ODS ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 คุณสามารถรวมคุณลักษณะการแปลง OTT เป็น ODS ไว้ในแอปพลิเคชัน C++ ของคุณได้อย่างง่ายดาย ด้วยการใช้ API การจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณสามารถส่งออก OTT เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) คุณจะแปลง HTML เป็น ODS ได้ API ทั้งสองอยู่ภายใต้แพ็คเกจ [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง OTT เป็น ODS หรือทางออนไลน์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง OTT เป็น ODS หรือแอพออนไลน์" %}}
 1. เปิดไฟล์ OTT โดยใช้ [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) การอ้างอิงคลาส
 2. แปลง OTT เป็น HTML โดยใช้ฟังก์ชันสมาชิก [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat)
 3. โหลดเอกสาร HTML โดยใช้ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) การอ้างอิงคลาส

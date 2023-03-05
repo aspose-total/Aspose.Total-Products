@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOC DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Рендеринг XLS в POWERPOINT на Android через Java или онлайн" h2="Преобразование XLS в POWERPOINT в приложениях для Android без использования Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Рендеринг XLS в POWERPOINT на Android через Java или онлайн-приложение" h2="Преобразование XLS в POWERPOINT в приложениях для Android без использования Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) — это пакет мощных API автоматизации файлов. Используя два его API, вы можете интегрировать функцию преобразования XLS в POWERPOINT в свои приложения для Android. На первом этапе вы можете экспортировать XLS в PDF с помощью [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). После этого, используя [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), вы можете конвертировать PDF в POWERPOINT. 

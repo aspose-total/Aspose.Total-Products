@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: RTF DOT DOC TEXT DOTX DOTM ODT DOCX OTT WORD WORDML DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java를 통해 Andorid에서 POWERPOINT을 FLATOPC로 렌더링 또는 온라인" h2="Microsoft PowerPoint 또는 Word에 의존하지 않고 Android 앱 내에서 POWERPOINT를 FLATOPC로 변환하는 파일 형식 API" >}}
+{{< blocks/products/pf/feature-page-header h1="Java를 통해 Andorid에서 POWERPOINT을 FLATOPC로 렌더링 또는 온라인 앱" h2="Microsoft PowerPoint 또는 Word에 의존하지 않고 Android 앱 내에서 POWERPOINT를 FLATOPC로 변환하는 파일 형식 API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)을 사용하면 Android 애플리케이션 내에서 파일 형식을 조작할 수 있습니다. 패키지에 제공된 API를 사용하여 앱에서 PowerPoint POWERPOINT에서 Word FLATOPC로의 변환 프로세스를 자동화할 수 있습니다.

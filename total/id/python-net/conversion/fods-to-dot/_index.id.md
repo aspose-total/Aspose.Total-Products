@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan FODS ke DOT melalui Python atau daring" h2="Konversi FODS ke DOT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan FODS ke DOT melalui Python atau Aplikasi Daring" h2="Konversi FODS ke DOT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

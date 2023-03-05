@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV ODS EXCEL XLSM XLAM XLT XLTM XLTX DIF XLS XLSB SXC XLSX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj WORDML na XLT przez Java lub online" h2="On Premise Java API do konwersji WORDML na XLT bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj WORDML na XLT przez Java lub Aplikacja internetowa" h2="On Premise Java API do konwersji WORDML na XLT bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Konwersja WORDML do XLT za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) to prosty, dwuetapowy proces. Korzystając z bogatego w funkcje interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/), możesz eksportować WORDML do HTML. Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

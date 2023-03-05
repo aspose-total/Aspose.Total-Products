@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DOCM naar XLSX via Python of online" h2="DOCM naar XLSX-conversie in uw Python-applicaties zonder Microsoft Word<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DOCM naar XLSX via Python of online-app" h2="DOCM naar XLSX-conversie in uw Python-applicaties zonder Microsoft Word<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
 title: Convert WORD to FODS in C++
-description: C++ API to Convert WORD to FODS or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+description: C++ API to Convert WORD to FODS or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /cpp/conversion/word-to-fods/
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: EXCEL XLSM XLSX XLSB SXC TSV XLTX DIF XLTM XLS XLT XLAM ODS CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert WORD to FODS or online" h2="Export WORD to FODS via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert WORD to FODS or Online App" h2="Export WORD to FODS via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  You can include WORD to FODS conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export WORD to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to FODS. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert WORD to FODS or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert WORD to FODS or Online App" %}}
 1. Open WORD file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert WORD to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

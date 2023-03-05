@@ -1,5 +1,5 @@
 ---
-title: Μετατροπή POTM σε RTF μέσω Java ή διαδικτυακά
+title: Μετατροπή POTM σε RTF μέσω Java ή Online App
 description: Java API για εξαγωγή POTM σε RTF χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/potm-to-rtf/
 family: total
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOTM DOTX ODT OTT WORDML DOT RTF RTFM TEXT WORD FLATOPC RTFX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POTM σε RTF μέσω Java ή διαδικτυακά" h2="On Premise Java API για μετατροπή PowerPoint POTM σε RTF σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή POTM σε RTF μέσω Java ή Online App" h2="On Premise Java API για μετατροπή PowerPoint POTM σε RTF σε οποιαδήποτε εφαρμογή Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Οι βιβλιοθήκες αυτοματισμού μορφής αρχείου εξουσιοδοτούν τους προγραμματιστές Java να αυτοματοποιούν τη διαδικασία μετατροπής ομαδικής μετατροπής του PowerPoint POTM σε Word RTF. Η μετατροπή του εγγράφου είναι μια διαδικασία δύο βημάτων και περιλαμβάνει τη χρήση δύο API. Θα χρησιμοποιήσουμε το [Aspose.Slides for Java](https://products.aspose.com/slides/java/) που είναι ένα PowerPoint API για χειρισμό και διαχείριση παρουσιάσεων για τη μετατροπή POTM σε HTML. Στη συνέχεια, χρησιμοποιώντας το πλούσιο σε δυνατότητες API επεξεργασίας κειμένου [Aspose.Words για Java](https://products.aspose.com/words/java/) θα μετατρέψουμε το HTML σε RTF.
 {{% /blocks/products/pf/feature-page-summary  %}}

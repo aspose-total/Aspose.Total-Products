@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="EXCEL'yi Python aracılığıyla POT'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden EXCEL'den POT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="EXCEL'yi Python aracılığıyla POT'e dönüştürün veya Çevrimiçi Uygulama" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden EXCEL'den POT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: POTM POTX PPS PPSM POT ODP PPTM POWERPOINT PPTX PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOT в PPT в приложениях для Android или онлайн" h2="Преобразование DOT в PPT в приложениях для Android или онлайн без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOT в PPT в приложениях для Android или онлайн-приложение" h2="Преобразование DOT в PPT в приложениях для Android или онлайн-приложение без установки Microsoft Word<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы Android-разработчик и хотите добавить в свое приложение функцию преобразования документов? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Библиотеки автоматизации форматов файлов могут помочь вам автоматизировать процесс преобразования документов в ваших приложениях для Android. Чтобы преобразовать файл DOT в PPT, вы можете сначала использовать API обработки документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) для преобразования формата файла DOT в HTML. После этого с помощью PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) вы можете создать новую презентацию, записать в нее HTML-контент и сохранить ее как PPT. 

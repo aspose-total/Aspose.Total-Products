@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EXCEL XLSB XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POWERPOINT über Java in SXC oder online" h2="Lokale Java-API zum Exportieren von POWERPOINT in SXC ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POWERPOINT über Java in SXC oder Online-App" h2="Lokale Java-API zum Exportieren von POWERPOINT in SXC ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die POWERPOINT-Datei über [Aspose.Total for Java](https://products.aspose.com/total/java/) in zwei Schritten in SXC konvertieren. Im ersten Schritt können Sie POWERPOINT in HTML exportieren, indem Sie [Aspose.Slides for Java](https://products.aspose.com/slides/java/) verwenden. Zweitens können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in SXC konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

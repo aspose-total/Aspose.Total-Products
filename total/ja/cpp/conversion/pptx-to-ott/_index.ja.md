@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: TEXT DOCX WORD WORDML DOC DOT DOCM DOTX ODT RTF FLATOPC DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTXをOTTにレンダリングするC++API またはオンライン" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTXをOTTにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTXをOTTにレンダリングするC++API またはオンラインアプリ" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTXをOTTにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPPTXをWordOTTに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPPTXをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをOTTに変換できます。 

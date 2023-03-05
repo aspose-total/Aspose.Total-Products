@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: ODS XLSB DIF XLT XLSX XLAM SXC FODS XLTM XLTX TSV XLS XLSM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή MOBI σε EXCEL στις Εφαρμογές Android ή διαδικτυακά" h2="Εξαγωγή MOBI σε EXCEL στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή MOBI σε EXCEL στις Εφαρμογές Android ή Online App" h2="Εξαγωγή MOBI σε EXCEL στο Android μέσω Java χωρίς χρήση Microsoft<sup>&reg;</sup> Word ή Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Χρησιμοποιώντας το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής MOBI σε EXCEL στις εφαρμογές σας Android. Πρώτον, μπορείτε να μετατρέψετε το MOBI σε HTML χρησιμοποιώντας πλούσιο σε χαρακτηριστικά, API χειρισμού εγγράφων και μετατροπής [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), μπορείτε να μετατρέψετε HTML σε EXCEL. 

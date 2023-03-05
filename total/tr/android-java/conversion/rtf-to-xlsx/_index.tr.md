@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM FODS DIF CSV EXCEL XLTX XLSM XLSB XLT XLS SXC XLAM ODS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında RTF'yi XLSX'ye Dönüştür veya çevrimiçi" h2="RTF'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSX'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında RTF'yi XLSX'ye Dönüştür veya Çevrimiçi Uygulama" h2="RTF'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSX'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda RTF'den XLSX'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak RTF'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSX'ye dönüştürebilirsiniz. 

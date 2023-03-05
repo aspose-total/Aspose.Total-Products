@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى XLTX عبر Python أو عبر الإنترنت" h2="تحويل DOT إلى XLTX في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى XLTX عبر Python أو التطبيق عبر الإنترنت" h2="تحويل DOT إلى XLTX في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

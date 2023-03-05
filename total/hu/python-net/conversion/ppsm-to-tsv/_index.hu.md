@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a PPSM-t TSV-be Python segítségével vagy online vagy ingyenes online konverterrel
+title: Konvertálja a PPSM-t TSV-be Python segítségével vagy Online App vagy ingyenes online konverterrel
 description: PPSM-ből TSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSM-t TSV-be Python segítségével vagy online" h2="PPSM-ből TSV-be konvertálás a Python-alkalmazásokban a Microsoft PowerPoint<sup>&reg;</sup> vagy az Excel telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSM-t TSV-be Python segítségével vagy Online App" h2="PPSM-ből TSV-be konvertálás a Python-alkalmazásokban a Microsoft PowerPoint<sup>&reg;</sup> vagy az Excel telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

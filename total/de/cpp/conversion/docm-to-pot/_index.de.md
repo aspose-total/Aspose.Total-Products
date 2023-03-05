@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPTX PPT PPS PPSX POWERPOINT POTX POTM ODP PPTM PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOCM in POT oder online" h2="Exportieren Sie DOCM in POT innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOCM in POT oder Online-App" h2="Exportieren Sie DOCM in POT innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) besteht aus leistungsstarken Dateiautomatisierungs-APIs, die es ermöglichen, die DOCM-zu-POT-Konvertierung zu automatisieren, während zwei seiner APIs verwendet werden. Laden Sie Ihr DOCM mit [Aspose.Words for C++](https://products.aspose.com/words/cpp/) und konvertieren Sie es in HTML, laden Sie dann das HTML über die PowerPoint-Manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), um eine neue Präsentation zu erstellen und als POT zu speichern. 

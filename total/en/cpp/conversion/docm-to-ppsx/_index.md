@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTM PPTX PPS PPSM ODP POT PPT POWERPOINT POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOCM to PPSX or online" h2="Export DOCM to PPSX within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOCM to PPSX or Online App" h2="Export DOCM to PPSX within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consists of powerful file automation APIs that allows to automate DOCM to PPSX conversion while using two of it's APIs. Load your DOCM using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) and convert it to HTML, then load the HTML via PowerPoint manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to create a new presentation, and save it as PPSX. 

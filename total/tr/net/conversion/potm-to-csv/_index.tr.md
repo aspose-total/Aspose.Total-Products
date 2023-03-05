@@ -1,5 +1,5 @@
 ---
-title: POTM'u C# ile CSV'ye dönüştürün veya çevrimiçi
+title: POTM'u C# ile CSV'ye dönüştürün veya Çevrimiçi Uygulama
 description: Microsoft Excel veya Powerpoint kullanmadan POTM'u C#'ta CSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/potm-to-csv/
 family: total
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLS XLTX XLT MARKDOWN EXCEL MHTML XLAM XLTM XLSB DIF FODS XLSX ODS TSV XLSM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="POTM'u C# ile CSV'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POTM'tan CSV'ye dönüştürme için .NET API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="POTM'u C# ile CSV'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan POTM'tan CSV'ye dönüştürme için .NET API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/) kullanarak herhangi bir .NET, C#, ASP.NET ve VB.NET uygulamasında POTM dosyasını iki şekilde CSV'ye dönüştürebilirsiniz. basit adımlar. İlk olarak, [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) kullanarak POTM'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi CSV'ye dönüştürebilirsiniz.

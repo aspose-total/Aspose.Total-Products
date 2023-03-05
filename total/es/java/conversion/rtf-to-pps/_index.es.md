@@ -1,5 +1,5 @@
 ---
-title: Convierta RTF a PPS a través de Java o en línea
+title: Convierta RTF a PPS a través de Java o aplicación en línea
 description: API de Java para exportar RTF a PPS sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/rtf-to-pps/
 family: total
@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPSX POWERPOINT PPT PPS POT PPSM PPTX POTM POTX PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta RTF a PPS a través de Java o en línea" h2="Conversión de RTF a PPS mediante el uso de la API Java local dentro de cualquier aplicación Java J2SE, J2EE, J2ME sin utilizar Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta RTF a PPS a través de Java o aplicación en línea" h2="Conversión de RTF a PPS mediante el uso de la API Java local dentro de cualquier aplicación Java J2SE, J2EE, J2ME sin utilizar Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A menudo, los desarrolladores tienen que convertir el archivo RTF a PPS mediante programación. Mediante el uso de las bibliotecas Java de automatización de archivos [Aspose.Total para Java](https://products.aspose.com/total/java/) puede automatizar el proceso de renderizado en unos pocos pasos simples. Puede cargar su archivo RTF usando [Aspose.Words for Java](https://products.aspose.com/words/java/) y convertirlo a HTML. Después de eso, al usar la poderosa API Java de manipulación de PowerPoint [Aspose.Slides para Java](https://products.aspose.com/slides/java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PPS .
 {{% /blocks/products/pf/feature-page-summary  %}}

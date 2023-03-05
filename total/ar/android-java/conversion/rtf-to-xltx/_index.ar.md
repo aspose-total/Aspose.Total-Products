@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLSM XLSB XLT XLAM CSV XLS XLSX SXC ODS TSV EXCEL XLTM FODS DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل RTF إلى XLTX في تطبيقات Android أو عبر الإنترنت" h2="تصدير RTF إلى XLTX في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل RTF إلى XLTX في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تصدير RTF إلى XLTX في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل RTF إلى XLTX داخل تطبيقات Android. أولاً ، يمكنك تحويل RTF إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLTX. 

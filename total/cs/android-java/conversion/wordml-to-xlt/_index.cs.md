@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF ODS CSV XLSB XLSX TSV XLSM FODS EXCEL XLTM XLTX SXC XLAM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte WORDML na XLT v aplikacích pro Android nebo online" h2="Export WORDML do XLT v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte WORDML na XLT v aplikacích pro Android nebo online aplikace" h2="Export WORDML do XLT v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu WORDML na XLT do svých aplikací pro Android. Za prvé, můžete převést WORDML do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na XLT. 

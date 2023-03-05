@@ -1,6 +1,6 @@
 ---
 title: Konversi OTT ke ODS di C++ atau dengan Konverter Online gratis
-description: C++ API untuk Mengonversi OTT ke ODS atau daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: C++ API untuk Mengonversi OTT ke ODS atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: EXCEL DIF XLSB CSV XLAM XLTX XLTM TSV FODS XLS XLT XLSM SXC XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi OTT ke ODS atau daring" h2="Ekspor OTT ke ODS melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API untuk Mengonversi OTT ke ODS atau Aplikasi Daring" h2="Ekspor OTT ke ODS melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat menyertakan fitur konversi OTT ke ODS dalam aplikasi C++ Anda dengan mudah. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur, andal, dan mudah digunakan [Aspose.Words for C++](https://products.aspose.com/words/cpp/), Anda dapat mengekspor OTT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), Anda dapat mengonversi HTML ke ODS. Kedua API berada di bawah paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi OTT ke ODS atau daring" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi OTT ke ODS atau Aplikasi Daring" %}}
 1. Buka file OTT menggunakan referensi kelas [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)
 2. Konversi OTT ke HTML dengan menggunakan fungsi anggota [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat)
 3. Muat dokumen HTML dengan menggunakan referensi kelas [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

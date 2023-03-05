@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert XLSX to PPTX via Python or online" h2="XLSX to PPTX conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert XLSX to PPTX via Python or Online App" h2="XLSX to PPTX conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

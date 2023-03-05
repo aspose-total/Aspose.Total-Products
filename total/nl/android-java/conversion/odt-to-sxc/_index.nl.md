@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: CSV XLSB FODS XLTM TSV XLAM ODS DIF XLS XLSM XLTX XLSX EXCEL XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer ODT naar SXC in Android-applicaties of online" h2="Exporteer ODT naar SXC in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer ODT naar SXC in Android-applicaties of online-app" h2="Exporteer ODT naar SXC in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de ODT-naar-SXC-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u ODT naar HTML converteren door gebruik te maken van de veelzijdige, odtumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar SXC converteren. 

@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python을 통해 DOCX를 XLSB로 변환 또는 온라인" h2="Microsoft Word<sup>&reg;</sup> 또는 Excel을 설치하지 않고 Python 애플리케이션에서 DOCX를 XLSB로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Python을 통해 DOCX를 XLSB로 변환 또는 온라인 앱" h2="Microsoft Word<sup>&reg;</sup> 또는 Excel을 설치하지 않고 Python 애플리케이션에서 DOCX를 XLSB로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

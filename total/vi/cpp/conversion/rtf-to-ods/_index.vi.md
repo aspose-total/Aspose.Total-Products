@@ -10,14 +10,14 @@ outformat: ODS
 otherformats: XLT XLAM XLSX FODS XLSM DIF EXCEL TSV XLS XLTX CSV XLSB SXC XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi RTF sang ODS hoặc trực tuyến" h2="Xuất RTF sang ODS qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi RTF sang ODS hoặc Ứng dụng trực tuyến" h2="Xuất RTF sang ODS qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể bao gồm tính năng chuyển đổi RTF sang ODS trong các ứng dụng C++ của mình một cách dễ dàng. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, mạnh mẽ và dễ sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất RTF sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang ODS. Cả hai API đều nằm trong gói [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi RTF sang ODS hoặc trực tuyến" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi RTF sang ODS hoặc Ứng dụng trực tuyến" %}}
 1. Mở tệp RTF bằng tham chiếu lớp [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument)
 2. Chuyển đổi RTF sang HTML bằng cách sử dụng hàm thành viên [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat)
 3. Tải tài liệu HTML bằng cách sử dụng tham chiếu lớp [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

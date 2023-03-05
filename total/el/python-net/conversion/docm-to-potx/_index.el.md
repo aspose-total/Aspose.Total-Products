@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε POTX χρησιμοποιώντας Python ή διαδικτυακά" h2="Μετατροπή DOCM σε POTX στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή DOCM σε POTX χρησιμοποιώντας Python ή Online App" h2="Μετατροπή DOCM σε POTX στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Word<sup>&reg;</sup> ή του PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

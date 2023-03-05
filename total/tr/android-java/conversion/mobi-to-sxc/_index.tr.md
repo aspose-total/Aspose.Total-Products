@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: FODS XLTX CSV DIF XLSX ODS TSV XLS XLSB XLTM EXCEL XLT XLSM XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında MOBI'yi SXC'ye Dönüştür veya çevrimiçi" h2="MOBI'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de SXC'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında MOBI'yi SXC'ye Dönüştür veya Çevrimiçi Uygulama" h2="MOBI'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de SXC'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda MOBI'den SXC'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak MOBI'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi SXC'ye dönüştürebilirsiniz. 

@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPTM über Python in XLSB oder online" h2="Konvertierung von PPTM in XLSB in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie PPTM über Python in XLSB oder Online-App" h2="Konvertierung von PPTM in XLSB in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

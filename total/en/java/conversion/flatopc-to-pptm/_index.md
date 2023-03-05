@@ -1,5 +1,5 @@
 ---
-title: Convert FLATOPC to PPTM via Java or online
+title: Convert FLATOPC to PPTM via Java or Online App
 description: Java API to Export FLATOPC to PPTM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/flatopc-to-pptm/
 family: total
@@ -10,14 +10,14 @@ outformat: PPTM
 otherformats: PPTX ODP PPSM POWERPOINT POT POTX PPS PPT PPSX POTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert FLATOPC to PPTM via Java or online" h2="FLATOPC to PPTM conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert FLATOPC to PPTM via Java or Online App" h2="FLATOPC to PPTM conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Often times developers have to convert FLATOPC file to PPTM programmatically. By using the File Automation Java libraries [Aspose.Total for Java](https://products.aspose.com/total/java/) you can automate the rendering process in a few simple steps. You can load your FLATOPC file by using [Aspose.Words for Java](https://products.aspose.com/words/java/) and convert it to HTML. After that by using powerful PowerPoint manipulation Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) you can create a new Presentation, write HTML content in it, and save it as PPTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert FLATOPC to PPTM via Java or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert FLATOPC to PPTM via Java or Online App" %}}
 1. Open FLATOPC file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert FLATOPC file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object

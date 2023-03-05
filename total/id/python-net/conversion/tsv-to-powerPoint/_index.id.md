@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan TSV ke POWERPOINT melalui Python atau daring" h2="Konversi TSV ke POWERPOINT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan TSV ke POWERPOINT melalui Python atau Aplikasi Daring" h2="Konversi TSV ke POWERPOINT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

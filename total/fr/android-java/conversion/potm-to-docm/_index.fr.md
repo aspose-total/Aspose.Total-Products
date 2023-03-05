@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: WORDML FLATOPC OTT DOT DOC DOCX ODT DOTX TEXT DOTM WORD RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendre POTM en DOCM sur Andorid via Java ou en ligne" h2="API de format de fichier pour convertir POTM en DOCM dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendre POTM en DOCM sur Andorid via Java ou application en ligne" h2="API de format de fichier pour convertir POTM en DOCM dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permet de manipuler les formats de fichiers dans les applications Android. En utilisant les API fournies dans le package, vous pouvez automatiser le processus de conversion de PowerPoint POTM en Word DOCM dans vos applications.

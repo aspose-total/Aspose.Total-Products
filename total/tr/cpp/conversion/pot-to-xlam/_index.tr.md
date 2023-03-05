@@ -1,5 +1,5 @@
 ---
-title: POT'u C++ ile XLAM'ye dönüştürün veya çevrimiçi veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: POT'u C++ ile XLAM'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
 description: Microsoft Excel veya Powerpoint kullanmadan POT'u C++'da XLAM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX CSV XLSX XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POT'u C++ ile XLAM'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POT'tan XLAM Dosyasına Dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="POT'u C++ ile XLAM'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan C++ aracılığıyla POT'tan XLAM Dosyasına Dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kullanarak, iki basit adımda POT dosyasını C++ uygulamaları içinde XLAM'ye dönüştürebilirsiniz. İlk olarak, [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) kullanarak POT'u HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Elektronik Tablo Programlama API'sini kullanarak HTML'yi XLAM'ye dönüştürebilirsiniz. 

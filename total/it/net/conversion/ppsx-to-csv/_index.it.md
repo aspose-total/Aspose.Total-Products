@@ -1,5 +1,5 @@
 ---
-title: Converti PPSX in CSV tramite C# o in linea
+title: Converti PPSX in CSV tramite C# o App online
 description: Converti PPSX in CSV in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/ppsx-to-csv/
 family: total
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLS EXCEL XLAM SXC ODS XLSX XLTM DIF MARKDOWN XLT XLSM XLTX FODS MHTML XLSB TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPSX in CSV tramite C# o in linea" h2="API .NET per la conversione da PPSX a CSV senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti PPSX in CSV tramite C# o App online" h2="API .NET per la conversione da PPSX a CSV senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi convertire il file PPSX in CSV all'interno di qualsiasi applicazione .NET, C#, ASP.NET e VB.NET in due semplici passaggi. Innanzitutto, utilizzando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), puoi esportare PPSX in HTML. Successivamente, utilizzando l'API di programmazione per fogli di calcolo [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), è possibile convertire HTML in CSV.

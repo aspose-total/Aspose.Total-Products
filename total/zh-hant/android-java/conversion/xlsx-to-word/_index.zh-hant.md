@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 上將 XLSX 渲染為 WORD 或在線" h2="在您的 Android 應用程序中將 XLSX 轉換為 WORD，而無需使用 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 上將 XLSX 渲染為 WORD 或在線應用程序" h2="在您的 Android 應用程序中將 XLSX 轉換為 WORD，而無需使用 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一個強大的文件自動化 API 包。通過使用它的兩個 API，您可以在 Android 應用程序中集成 XLSX 到 WORD 的轉換功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 將 XLSX 導出為 PDF。之後，通過使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以將 PDF 轉換為 WORD。 

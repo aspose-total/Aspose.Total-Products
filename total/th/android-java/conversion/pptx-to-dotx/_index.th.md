@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: DOC OTT DOTM FLATOPC TEXT RTF DOCX WORD ODT WORDML DOT DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แสดง PPTX เป็น DOTX บน Andorid ผ่าน Java หรือทางออนไลน์" h2="รูปแบบไฟล์ API เพื่อแปลง PPTX เป็น DOTX ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="แสดง PPTX เป็น DOTX บน Andorid ผ่าน Java หรือแอพออนไลน์" h2="รูปแบบไฟล์ API เพื่อแปลง PPTX เป็น DOTX ภายในแอป Android โดยไม่ต้องพึ่งพา Microsoft PowerPoint หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) อนุญาตให้จัดการรูปแบบไฟล์ภายในแอปพลิเคชัน Android ด้วยการใช้ API ที่ให้มาในแพ็คเกจ คุณสามารถทำให้กระบวนการแปลง PowerPoint PPTX เป็น Word DOTX ในแอปของคุณเป็นแบบอัตโนมัติ

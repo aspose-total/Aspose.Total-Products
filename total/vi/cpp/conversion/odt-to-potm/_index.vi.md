@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPTM PPSM POT PPS POWERPOINT PPSX PPTX POTX PPT ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi ODT sang POTM hoặc trực tuyến" h2="Xuất ODT sang POTM trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi ODT sang POTM hoặc Ứng dụng trực tuyến" h2="Xuất ODT sang POTM trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi ODT sang POTM trong khi sử dụng hai trong số các API của nó. Tải ODT của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng POTM. 

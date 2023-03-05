@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX MARKDOWN XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POTX über Java in MARKDOWN oder online" h2="Lokale Java-API zum Exportieren von POTX in MARKDOWN ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POTX über Java in MARKDOWN oder Online-App" h2="Lokale Java-API zum Exportieren von POTX in MARKDOWN ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die POTX-Datei über [Aspose.Total for Java](https://products.aspose.com/total/java/) in zwei Schritten in MARKDOWN konvertieren. Im ersten Schritt können Sie POTX in HTML exportieren, indem Sie [Aspose.Slides for Java](https://products.aspose.com/slides/java/) verwenden. Zweitens können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in MARKDOWN konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

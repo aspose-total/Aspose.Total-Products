@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTX POTM POWERPOINT POT POTX PPSM ODP PPTM PPS PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOTM-t PPSX-vé az Android alkalmazásokban vagy online" h2="DOTM- PPSX-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOTM-t PPSX-vé az Android alkalmazásokban vagy Online App" h2="DOTM- PPSX-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ön Android-fejlesztő, aki dokumentumkonverziós funkciót szeretne hozzáadni az alkalmazásához? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) A fájlformátum-automatizálási könyvtárak segíthetnek automatizálni a dokumentumátalakítási folyamatot Android-alkalmazásaiban. A DOTM-fájl PPSX-re konvertálásához először használhatja a dokumentummanipulációs API-t [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) a DOTM-fájlformátum HTML-lé konvertálásához. Ezt követően a PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) használatával új prezentációt hozhat létre, HTML-tartalmat írhat bele, és más néven mentheti. PPSX. 

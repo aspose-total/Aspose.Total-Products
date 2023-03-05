@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan XLSX ke POT melalui Python atau daring" h2="Konversi XLSX ke POT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan XLSX ke POT melalui Python atau Aplikasi Daring" h2="Konversi XLSX ke POT di aplikasi Python Anda tanpa menginstal Microsoft Excel<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

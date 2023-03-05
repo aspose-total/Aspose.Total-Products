@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でPPTMをXLSに変換 またはオンライン" h2="Microsoft PowerPoint<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで PPTM から XLS への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でPPTMをXLSに変換 またはオンラインアプリ" h2="Microsoft PowerPoint<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで PPTM から XLS への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

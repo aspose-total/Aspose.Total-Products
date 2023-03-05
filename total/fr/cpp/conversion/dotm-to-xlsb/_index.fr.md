@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTM en XLSB en C++ ou avec le convertisseur en ligne gratuit
-description: API C++ pour convertir DOTM en XLSB ou en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: API C++ pour convertir DOTM en XLSB ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSB
 otherformats: DIF XLT XLSM SXC XLTM XLTX XLSX EXCEL FODS TSV XLS ODS CSV XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOTM en XLSB ou en ligne" h2="Exportez DOTM vers XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOTM en XLSB ou application en ligne" h2="Exportez DOTM vers XLSB via C++ sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez facilement inclure la fonction de conversion DOTM en XLSB dans vos applications C++. En utilisant l'API de manipulation et de conversion de dotmuments riche en fonctionnalités, puissante et facile à utiliser [Aspose.Words for C++](https://products.aspose.com/words/cpp/), vous pouvez exporter du DOTM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), vous pouvez convertir HTML en XLSB. Les deux API relèvent du package [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir DOTM en XLSB ou en ligne" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir DOTM en XLSB ou application en ligne" %}}
 1. Ouvrez le fichier DOTM à l'aide de la référence de classe [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
 2. Convertir DOTM en HTML en utilisant la fonction membre [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
 3. Chargez le dotmument HTML à l'aide de la référence de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

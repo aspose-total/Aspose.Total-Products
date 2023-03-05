@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSB FODS XLAM XLS XLT DIF XLSX XLSM XLTX TSV EXCEL ODS CSV SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke XLTM di Aplikasi Android atau daring" h2="Ekspor WORDML ke XLTM di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke XLTM di Aplikasi Android atau Aplikasi Daring" h2="Ekspor WORDML ke XLTM di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi WORDML ke XLTM di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi WORDML ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLTM. 

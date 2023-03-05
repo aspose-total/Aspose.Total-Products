@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPSX PPS POWERPOINT PPTX POTM PPSM POTX POT ODP PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="将 RTF 转换为 PPT 的 C++ API 或在线" h2="在您的 C++ 应用程序中将 RTF 导出为 PPT，而无需使用 Microsoft Word&reg;或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="将 RTF 转换为 PPT 的 C++ API 或在线应用程序" h2="在您的 C++ 应用程序中将 RTF 导出为 PPT，而无需使用 Microsoft Word&reg;或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包含强大的文件自动化 API，允许在使用其中两个 API 时自动进行 RTF 到 PPT 的转换。使用 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) 加载您的 RTF 并将其转换为 HTML，然后通过 PowerPoint 操作 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 加载 HTML 创建一个新的演示文稿，并将其保存为 PPT。 

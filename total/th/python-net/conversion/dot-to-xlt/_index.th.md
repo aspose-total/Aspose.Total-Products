@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DOT เป็น XLT ผ่าน Python หรือทางออนไลน์" h2="การแปลง DOT เป็น XLT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DOT เป็น XLT ผ่าน Python หรือแอพออนไลน์" h2="การแปลง DOT เป็น XLT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

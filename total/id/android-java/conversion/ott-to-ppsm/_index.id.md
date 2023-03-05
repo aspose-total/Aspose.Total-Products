@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POT POTX PPS POTM PPTM ODP PPT PPTX PPSX POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi OTT ke PPSM di Aplikasi Android atau daring" h2="Konversi OTT ke PPSM di Aplikasi Android atau daring Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi OTT ke PPSM di Aplikasi Android atau Aplikasi Daring" h2="Konversi OTT ke PPSM di Aplikasi Android atau Aplikasi Daring Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Apakah Anda seorang pengembang Android yang ingin menambahkan fitur konversi dokumen ke aplikasi Anda? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Pustaka Otomatisasi Format File dapat membantu Anda mengotomatiskan proses konversi dokumen di aplikasi Android Anda. Untuk mengonversi file OTT ke PPSM, pertama-tama Anda dapat menggunakan API manipulasi dokumen [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) untuk mengonversi format file OTT ke HTML. Setelah itu dengan menggunakan PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), Anda dapat membuat Presentasi baru, menulis konten HTML di dalamnya, dan menyimpannya sebagai PPSM. 

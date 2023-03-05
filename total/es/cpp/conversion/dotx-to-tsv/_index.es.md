@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTX a TSV en C++ o con el convertidor en línea gratuito
-description: API de C++ para convertir DOTX a TSV o en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: API de C++ para convertir DOTX a TSV o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: DIF CSV XLTM XLAM FODS XLSB ODS XLSM EXCEL XLSX XLS XLTX SXC XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API de C++ para convertir DOTX a TSV o en línea" h2="Exporte DOTX a TSV a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API de C++ para convertir DOTX a TSV o aplicación en línea" h2="Exporte DOTX a TSV a través de C++ sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puede incluir fácilmente la función de conversión de DOTX a TSV dentro de sus aplicaciones C++. Mediante el uso de la API de manipulación y conversión de dotxumentos rica en funciones, potente y fácil de usar [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puede exportar DOTX a HTML. Después de eso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puede convertir HTML a TSV. Ambas API se incluyen en el paquete [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOTX a TSV o en línea" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOTX a TSV o aplicación en línea" %}}
 1. Abra el archivo DOTX usando la referencia de clase [Dotxumento](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)
 2. Convierta DOTX a HTML usando la función miembro [Guardar](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat)
 3. Cargue el dotxumento HTML utilizando la referencia de clase [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

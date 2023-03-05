@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPSX para XLSM via Python ou online" h2="Conversão de PPSX para XLSM em seus aplicativos Python sem instalar o Microsoft PowerPoint<sup>&reg;</sup> ou Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPSX para XLSM via Python ou aplicativo on-line" h2="Conversão de PPSX para XLSM em seus aplicativos Python sem instalar o Microsoft PowerPoint<sup>&reg;</sup> ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

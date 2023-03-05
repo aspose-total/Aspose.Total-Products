@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でXLSXをDOCMに変換 またはオンライン" h2="Microsoft Excel<sup>&reg;</sup> または Word をインストールせずに、Python アプリケーションで XLSX から DOCM への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でXLSXをDOCMに変換 またはオンラインアプリ" h2="Microsoft Excel<sup>&reg;</sup> または Word をインストールせずに、Python アプリケーションで XLSX から DOCM への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

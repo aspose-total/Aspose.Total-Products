@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: ODT TEXT WORDML DOCX DOTM DOC DOT RTF WORD DOCM OTT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de POTX'u FLATOPC'a dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında POTX'u FLATOPC'ye dönüştürmek için dosya biçimi API'leri" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de POTX'u FLATOPC'a dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında POTX'u FLATOPC'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint POTX'tan Word FLATOPC'ye dönüştürme işlemini otomatikleştirebilirsiniz.

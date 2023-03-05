@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB EXCEL XLAM XLSX FODS TSV XLTM DIF XLT XLS MHTML SXC XLTX MARKDOWN XLSM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter POT para FODS via Java ou online" h2="API Java no local para exportar POT para FODS sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter POT para FODS via Java ou aplicativo on-line" h2="API Java no local para exportar POT para FODS sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode converter o arquivo POT para FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) em duas etapas. Na primeira etapa, você pode exportar POT para HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Em segundo lugar, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

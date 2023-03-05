@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLAM ODS SXC XLSX DIF XLTX XLT XLS XLSB EXCEL FODS TSV XLTM XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter OTT para XLAM via Java ou online" h2="API Java no local para converter OTT para XLAM sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter OTT para XLAM via Java ou aplicativo on-line" h2="API Java no local para converter OTT para XLAM sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter OTT para XLAM via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar OTT para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

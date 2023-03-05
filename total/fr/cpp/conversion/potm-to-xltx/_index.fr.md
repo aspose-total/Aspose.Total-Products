@@ -1,5 +1,5 @@
 ---
-title: Convertir POTM en XLTX via C++ ou en ligne ou avec le convertisseur en ligne gratuit
+title: Convertir POTM en XLTX via C++ ou application en ligne ou avec le convertisseur en ligne gratuit
 description: Exporter POTM vers XLTX en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: ODS MHTML XLSM FODS XLT XLSX DIF XLS MARKDOWN XLTM SXC EXCEL XLSB TSV XLAM CSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir POTM en XLTX via C++ ou en ligne" h2="Conversion de fichiers POTM en XLTX via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir POTM en XLTX via C++ ou application en ligne" h2="Conversion de fichiers POTM en XLTX via C++ sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for C++](https://products.aspose.com/total/cpp/), vous pouvez convertir le fichier POTM en XLTX dans les applications C++ en deux étapes simples. Tout d'abord, en utilisant [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vous pouvez exporter POTM vers HTML. Après cela, en utilisant [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, vous pouvez convertir HTML en XLTX. 

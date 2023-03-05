@@ -10,14 +10,14 @@ outformat: SXC
 otherformats: XLTM DIF FODS XLAM ODS XLSB XLSM CSV EXCEL XLSX XLT TSV XLTX XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a OTT SXC-vé konvertálásához vagy online" h2="OTT exportálása SXC-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a OTT SXC-vé konvertálásához vagy Online App" h2="OTT exportálása SXC-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Könnyedén beépíthet OTT-sxc-átalakítási funkciót C++-alkalmazásaiba. A funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -konverziós API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával OTT-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) használatával konvertálhatja a HTML-t SXC-vé. Mindkét API az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) csomagban található. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a OTT SXC-vé konvertálásához vagy online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API a OTT SXC-vé konvertálásához vagy Online App" %}}
 1. Nyissa meg a OTT-fájlt a [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument) osztályhivatkozás használatával
 2. Alakítsa át a OTT-t HTML-vé a [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat) tagfüggvény használatával
 3. Töltsön be HTML-dokumentumot az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztályhivatkozás használatával

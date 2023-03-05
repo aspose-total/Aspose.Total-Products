@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOCM DOCX DOTM DOT TEXT OTT DOC WORD RTF ODT DOTX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPSM naar FLATOPC op Andorid via Java of online" h2="Bestandsformaat-API's om PPSM naar FLATOPC te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPSM naar FLATOPC op Andorid via Java of online-app" h2="Bestandsformaat-API's om PPSM naar FLATOPC te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint PPSM naar Word FLATOPC in uw apps automatiseren.

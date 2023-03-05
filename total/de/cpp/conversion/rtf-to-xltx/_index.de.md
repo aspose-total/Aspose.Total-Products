@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie RTF in XLTX in C++ oder mit dem kostenlosen Online Converter
-description: C++-API zum Konvertieren von RTF in XLTX oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: C++-API zum Konvertieren von RTF in XLTX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: CSV DIF XLSX TSV SXC FODS XLS XLTM XLT XLSM XLAM ODS XLSB EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von RTF in XLTX oder online" h2="RTF über C++ in XLTX exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von RTF in XLTX oder Online-App" h2="RTF über C++ in XLTX exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die RTF-zu-XLTX-Konvertierungsfunktion einfach in Ihre C++-Anwendungen integrieren. Durch die Verwendung der funktionsreichen, leistungsstarken und benutzerfreundlichen API zur Dokumentenbearbeitung und -konvertierung [Aspose.Words for C++](https://products.aspose.com/words/cpp/) können Sie RTF in HTML exportieren. Danach können Sie mit [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in XLTX konvertieren. Beide APIs befinden sich im Paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von RTF in XLTX oder online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von RTF in XLTX oder Online-App" %}}
 1. Öffnen Sie die RTF-Datei mit der Klassenreferenz [Rtfument](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument).
 2. Konvertieren Sie RTF in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.rtfument#save_string_saveformat) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klassenreferenz [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).

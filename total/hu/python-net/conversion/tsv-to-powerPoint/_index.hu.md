@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a TSV-t POWERPOINT-be Python segítségével vagy online vagy ingyenes online konverterrel
+title: Konvertálja a TSV-t POWERPOINT-be Python segítségével vagy Online App vagy ingyenes online konverterrel
 description: TSV-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a TSV-t POWERPOINT-be Python segítségével vagy online" h2="TSV-ből POWERPOINT-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a TSV-t POWERPOINT-be Python segítségével vagy Online App" h2="TSV-ből POWERPOINT-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

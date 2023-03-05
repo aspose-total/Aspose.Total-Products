@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: DOC DOCX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de XLSM'yi PPTX'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda XLSM'yi PPTX'ye dönüştürün" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de XLSM'yi PPTX'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda XLSM'yi PPTX'ye dönüştürün" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) güçlü bir Dosya Otomasyonu API'leri paketidir. API'lerinden ikisini kullanarak, Android uygulamalarınıza XLSM'den PPTX'a dönüştürme özelliğini entegre edebilirsiniz. İlk adımda, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak XLSM'yi PDF'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.PDF](https://products.aspose.com/pdf/android-java/) kullanarak PDF'yi PPTX'ye dönüştürebilirsiniz. 

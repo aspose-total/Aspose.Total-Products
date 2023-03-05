@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLAM FODS XLT ODS CSV XLTM EXCEL XLSX SXC XLSM XLSB XLTX XLS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTM'yi DIF'ye Dönüştür veya çevrimiçi" h2="DOTM'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de DIF'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTM'yi DIF'ye Dönüştür veya Çevrimiçi Uygulama" h2="DOTM'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de DIF'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda DOTM'den DIF'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak DOTM'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi DIF'ye dönüştürebilirsiniz. 

@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPSM PPTM POTX ODP PPT PPS POWERPOINT POT PPTX PPSX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android ऐप्स में FLATOPC को POTM में बदलें या ऑनलाइन" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Android एप्लिकेशन में FLATOPC से POTM रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="Android ऐप्स में FLATOPC को POTM में बदलें या ऑनलाइन ऐप" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Android एप्लिकेशन में FLATOPC से POTM रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 क्या आप एक Android डेवलपर हैं जो अपने एप्लिकेशन में दस्तावेज़ रूपांतरण सुविधा जोड़ना चाहते हैं? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) फाइल फॉर्मेट ऑटोमेशन लाइब्रेरी आपके एंड्रॉइड एप्लिकेशन में दस्तावेज़ रूपांतरण प्रक्रिया को स्वचालित करने में आपकी सहायता कर सकती है। FLATOPC फ़ाइल को POTM में बदलने के लिए, आप FLATOPC फ़ाइल स्वरूप को HTML में बदलने के लिए पहले दस्तावेज़ हेरफेर API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग कर सकते हैं। उसके बाद PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) का उपयोग करके, आप एक नया प्रेजेंटेशन बना सकते हैं, उसमें HTML सामग्री लिख सकते हैं, और इसे इस रूप में सहेज सकते हैं ओडीपी। 

@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPSM ODP PPTX PPT PPTM PPS POWERPOINT POTM POTX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTX naar PPSX converteren in Android-apps of online" h2="DOTX naar PPSX-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTX naar PPSX converteren in Android-apps of online-app" h2="DOTX naar PPSX-conversie in uw Android-applicaties zonder Microsoft Word<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bent u een Android-ontwikkelaar en wilt u een functie voor dotxumentconversie aan uw toepassing toevoegen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation-bibliotheken kunnen u helpen het dotxumentconversieproces in uw Android-applicaties te automatiseren. Om het DOTX-bestand naar PPSX te converteren, kunt u eerst de dotxumentmanipulatie-API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) gebruiken om het DOTX-bestandsformaat naar HTML te converteren. Daarna kunt u met behulp van PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als PPSX. 

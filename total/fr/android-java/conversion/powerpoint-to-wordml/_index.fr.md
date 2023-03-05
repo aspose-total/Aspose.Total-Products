@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: FLATOPC WORD DOT ODT TEXT DOCX OTT DOC RTF DOTM DOTX DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendre POWERPOINT en WORDML sur Andorid via Java ou en ligne" h2="API de format de fichier pour convertir POWERPOINT en WORDML dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendre POWERPOINT en WORDML sur Andorid via Java ou application en ligne" h2="API de format de fichier pour convertir POWERPOINT en WORDML dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permet de manipuler les formats de fichiers dans les applications Android. En utilisant les API fournies dans le package, vous pouvez automatiser le processus de conversion de PowerPoint POWERPOINT en Word WORDML dans vos applications.

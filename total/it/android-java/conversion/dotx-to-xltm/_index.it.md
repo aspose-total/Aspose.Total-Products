@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: XLSX DIF FODS XLT XLSM XLS TSV CSV EXCEL XLAM XLSB SXC ODS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOTX in XLTM nelle applicazioni Android o in linea" h2="Esporta DOTX in XLTM in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOTX in XLTM nelle applicazioni Android o App online" h2="Esporta DOTX in XLTM in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da DOTX a XLTM all'interno delle tue applicazioni Android. In primo luogo, puoi convertire DOTX in HTML utilizzando l'API di conversione e manipolazione dei dotxumenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in XLTM. 

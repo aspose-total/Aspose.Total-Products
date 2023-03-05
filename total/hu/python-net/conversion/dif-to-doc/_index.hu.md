@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a DIF-t DOC-be Python segítségével vagy online vagy ingyenes online konverterrel
+title: Konvertálja a DIF-t DOC-be Python segítségével vagy Online App vagy ingyenes online konverterrel
 description: DIF-ből DOC-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a DIF-t DOC-be Python segítségével vagy online" h2="DIF-ből DOC-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a Word telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a DIF-t DOC-be Python segítségével vagy Online App" h2="DIF-ből DOC-be konvertálás a Python-alkalmazásokban a Microsoft Excel<sup>&reg;</sup> vagy a Word telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

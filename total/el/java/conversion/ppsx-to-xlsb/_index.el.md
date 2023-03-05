@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: TSV XLAM XLTM MHTML XLSM XLSB FODS ODS XLSX DIF XLTX XLT SXC XLS MARKDOWN EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPSX σε XLSB μέσω Java ή διαδικτυακά" h2="Στο Premise Java API για εξαγωγή PPSX σε XLSB χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPSX σε XLSB μέσω Java ή Online App" h2="Στο Premise Java API για εξαγωγή PPSX σε XLSB χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να μετατρέψετε το αρχείο PPSX σε XLSB μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/) σε δύο βήματα. Στο πρώτο βήμα μπορείτε να εξαγάγετε το PPSX σε HTML χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

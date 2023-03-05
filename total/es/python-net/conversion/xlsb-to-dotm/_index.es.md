@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLSB a DOTM a través de Python o en línea" h2="Conversión de XLSB a DOTM en sus aplicaciones Python sin instalar Microsoft Excel<sup>&reg;</sup> o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLSB a DOTM a través de Python o aplicación en línea" h2="Conversión de XLSB a DOTM en sus aplicaciones Python sin instalar Microsoft Excel<sup>&reg;</sup> o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

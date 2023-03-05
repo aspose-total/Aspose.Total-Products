@@ -1,5 +1,5 @@
 ---
-title: Převést POWERPOINT na XLT přes C# nebo online
+title: Převést POWERPOINT na XLT přes C# nebo online aplikace
 description: Převeďte POWERPOINT na XLT v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/powerpoint-to-xlt/
 family: total
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: EXCEL XLAM DIF MARKDOWN XLT XLTM XLSX XLSB TSV XLS SXC FODS XLSM ODS MHTML XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést POWERPOINT na XLT přes C# nebo online" h2=".NET API pro převod POWERPOINT do XLT bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést POWERPOINT na XLT přes C# nebo online aplikace" h2=".NET API pro převod POWERPOINT do XLT bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete převést soubor POWERPOINT na XLT v rámci libovolné aplikace .NET, C#, ASP.NET a VB.NET ve dvou jednoduché kroky. Za prvé, pomocí [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) můžete exportovat POWERPOINT do HTML. Powerpointé můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na XLT.

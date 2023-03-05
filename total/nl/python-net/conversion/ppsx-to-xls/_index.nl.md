@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar XLS via Python of online" h2="PPSX naar XLS-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPSX naar XLS via Python of online-app" h2="PPSX naar XLS-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

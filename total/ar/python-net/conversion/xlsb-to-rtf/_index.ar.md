@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل XLSB إلى RTF عبر Python أو عبر الإنترنت" h2="تحويل XLSB إلى RTF في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل XLSB إلى RTF عبر Python أو التطبيق عبر الإنترنت" h2="تحويل XLSB إلى RTF في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Python 将 WORD 转换为 PPSX 或在线" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 应用程序中将 WORD 转换为 PPSX" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 将 WORD 转换为 PPSX 或在线应用程序" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 PowerPoint 即可在 Python 应用程序中将 WORD 转换为 PPSX" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

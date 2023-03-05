@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: OTT DOTM FLATOPC DOT RTF DOC TEXT DOCX WORDML WORD DOTX ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPS'u DOCM'a dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPS'u DOCM'ye dönüştürmek için dosya biçimi API'leri" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de PPS'u DOCM'a dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında PPS'u DOCM'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint PPS'tan Word DOCM'ye dönüştürme işlemini otomatikleştirebilirsiniz.

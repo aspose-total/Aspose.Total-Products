@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTX XLTM XLSM DIF TSV XLS EXCEL XLSX XLT XLSB SXC CSV XLAM FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOC para ODS em aplicativos Android ou online" h2="Exporte DOC para ODS no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOC para ODS em aplicativos Android ou aplicativo on-line" h2="Exporte DOC para ODS no Android via Java sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ao usar o [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), você pode integrar o recurso de conversão de DOC para ODS dentro de seus aplicativos Android. Em primeiro lugar, você pode converter DOC para HTML usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), você pode converter HTML para ODS. 

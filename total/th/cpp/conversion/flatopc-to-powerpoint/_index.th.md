@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPS ODP PPSX PPTM PPSM PPT POT POTX PPTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง FLATOPC เป็น POWERPOINT หรือทางออนไลน์" h2="ส่งออก FLATOPC เป็น POWERPOINT ภายในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word&reg; หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง FLATOPC เป็น POWERPOINT หรือแอพออนไลน์" h2="ส่งออก FLATOPC เป็น POWERPOINT ภายในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word&reg; หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) ประกอบด้วย API การทำงานอัตโนมัติของไฟล์อันทรงพลังที่อนุญาตให้แปลง FLATOPC เป็น POWERPOINT โดยอัตโนมัติในขณะที่ใช้ API สองตัว โหลด FLATOPC ของคุณโดยใช้ [Aspose.Words for C++](https://products.aspose.com/words/cpp/) แล้วแปลงเป็น HTML จากนั้นโหลด HTML ผ่านการจัดการ PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) เพื่อสร้างงานนำเสนอใหม่และบันทึกเป็น POWERPOINT 

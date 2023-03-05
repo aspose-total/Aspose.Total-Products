@@ -1,5 +1,5 @@
 ---
-title: แปลง PPTX เป็น FLATOPC ผ่าน Java หรือทางออนไลน์
+title: แปลง PPTX เป็น FLATOPC ผ่าน Java หรือแอพออนไลน์
 description: Java API เพื่อส่งออก PPTX เป็น FLATOPC โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/pptx-to-flatopc/
 family: total
@@ -10,12 +10,12 @@ outformat: FLATOPC
 otherformats: WORD FLATOPCX FLATOPCM DOTM OTT RTF FLATOPC TEXT DOT ODT DOTX WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง PPTX เป็น FLATOPC ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API สำหรับการแปลง PowerPoint PPTX เป็น FLATOPC ภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง PPTX เป็น FLATOPC ผ่าน Java หรือแอพออนไลน์" h2="บน Premise Java API สำหรับการแปลง PowerPoint PPTX เป็น FLATOPC ภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total สำหรับ Java](https://products.aspose.com/total/java/) ไลบรารีระบบอัตโนมัติของรูปแบบไฟล์ช่วยให้นักพัฒนา Java ดำเนินการแปลงเป็นชุดของ PowerPoint PPTX เป็น Word FLATOPC ได้โดยอัตโนมัติ การแปลงเอกสารเป็นกระบวนการสองขั้นตอนและเกี่ยวข้องกับการใช้สอง API เราจะใช้ [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ซึ่งเป็น PowerPoint API สำหรับการจัดการและจัดการงานนำเสนอเพื่อแปลง PPTX เป็น HTML หลังจากนั้นโดยใช้ API การประมวลผลคำที่มีคุณลักษณะหลากหลาย [Aspose.Words for Java](https://products.aspose.com/words/java/) เราจะแปลง HTML เป็น FLATOPC
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPTX เป็น FLATOPC ผ่าน Java หรือทางออนไลน์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPTX เป็น FLATOPC ผ่าน Java หรือแอพออนไลน์" %}}
 1. เปิดไฟล์ PPTX โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. แปลง PPTX เป็น HTML โดยใช้ [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides ISaveOptions-) และตั้งค่า Html เป็น SaveFormat
 3. โหลดไฟล์ HTML ที่แปลงแล้วโดยใช้คลาส [Flatopcument](https://reference.aspose.com/words/java/com.aspose.words/Flatopcument)

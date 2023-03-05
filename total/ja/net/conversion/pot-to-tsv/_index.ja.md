@@ -1,5 +1,5 @@
 ---
-title: C＃を介してPOTをTSVに変換する またはオンライン
+title: C＃を介してPOTをTSVに変換する またはオンラインアプリ
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをTSVに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/pot-to-tsv/
 family: total
@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS EXCEL TSV XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してPOTをTSVに変換する またはオンライン" h2="Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOTからTSVに変換するための.NETAPI" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してPOTをTSVに変換する またはオンラインアプリ" h2="Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPOTからTSVに変換するための.NETAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、任意の.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でPOTファイルをTSVに変換できます。簡単な手順。まず、[Aspose.Slides for .NET](https://products.aspose.com/slides/net/)を使用して、POTをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをTSVに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C＃を介してPOTをTSVに変換する またはオンライン方法" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C＃を介してPOTをTSVに変換する またはオンラインアプリ方法" %}}
 1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPOTファイルを開きます
 2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPOTをHTMLとしてエクスポートします
 3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします

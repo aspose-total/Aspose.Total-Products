@@ -1,6 +1,6 @@
 ---
 title: C++でOTTをXLSに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにOTTをXLSに変換するC++API またはオンライン またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにOTTをXLSに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: DIF EXCEL XLSX TSV XLSM XLSB XLTM XLT XLAM CSV SXC ODS FODS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="OTTをXLSに変換するC++API またはオンライン" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でOTTをXLSにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="OTTをXLSに変換するC++API またはオンラインアプリ" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でOTTをXLSにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 C++アプリケーションにOTTからXLSへの変換機能を簡単に含めることができます。機能豊富で強力で使いやすいドキュメント操作および変換API[Aspose.Wordsfor C++](https://products.aspose.com/words/cpp/)を使用することで、OTTをHTMLにエクスポートできます。その後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)を使用して、HTMLをXLSに変換できます。どちらのAPIも[Aspose.TotalforC++](https://products.aspose.com/total/cpp/)パッケージに含まれています。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="OTTをXLSに変換するC++API またはオンライン" %}}
+{{% blocks/products/pf/agp/feature-section-col title="OTTをXLSに変換するC++API またはオンラインアプリ" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.ottument)クラスリファレンスを使用してOTTファイルを開きます
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat)メンバー関数を使用してOTTをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします

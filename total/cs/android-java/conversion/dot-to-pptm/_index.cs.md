@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPS POTX POT POWERPOINT POTM ODP PPT PPSX PPSM PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte DOT na PPTM v aplikacích pro Android nebo online" h2="Převod DOT na PPTM ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte DOT na PPTM v aplikacích pro Android nebo online aplikace" h2="Převod DOT na PPTM ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Jste vývojář Android a chcete do své aplikace přidat funkci převodu dokumentů? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Knihovny Automatizace formátu souborů vám mohou pomoci automatizovat proces převodu dokumentů ve vašich aplikacích pro Android. Chcete-li převést soubor DOT na PPTM, můžete nejprve použít rozhraní API pro manipulaci s dokumenty [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) a převést formát souboru DOT do HTML. Poté můžete pomocí PowerPoint API [Aspose.Slides pro Android Java](https://products.aspose.com/slides/android-java/) vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako PPTM. 

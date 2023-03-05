@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: ODP POT POTM PPTM PPSM PPS POWERPOINT POTX PPSX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir DOCX en PPT dans les applications Android ou en ligne" h2="Conversion DOCX en PPT dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir DOCX en PPT dans les applications Android ou application en ligne" h2="Conversion DOCX en PPT dans vos applications Android sans installer Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Êtes-vous un développeur Android qui souhaite ajouter une fonctionnalité de conversion de documents à votre application ? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Les bibliothèques d'automatisation du format de fichier peuvent vous aider à automatiser le processus de conversion de documents dans vos applications Android. Afin de convertir un fichier DOCX en PPT, vous pouvez d'abord utiliser l'API de manipulation de document [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) pour convertir le format de fichier DOCX en HTML. Après cela, en utilisant l'API PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer sous PPT. 

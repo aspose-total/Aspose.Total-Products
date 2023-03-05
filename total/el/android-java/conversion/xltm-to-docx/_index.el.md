@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: PPTX WORD DOC POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Αποδώστε το XLTM στο DOCX στο Android μέσω Java ή διαδικτυακά" h2="Μετατρέψτε το XLTM σε DOCX στις Εφαρμογές σας Android χωρίς να χρησιμοποιήσετε το Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Αποδώστε το XLTM στο DOCX στο Android μέσω Java ή Online App" h2="Μετατρέψτε το XLTM σε DOCX στις Εφαρμογές σας Android χωρίς να χρησιμοποιήσετε το Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) είναι ένα πακέτο ισχυρών API αυτοματισμού αρχείων. Χρησιμοποιώντας δύο από τα API του, μπορείτε να ενσωματώσετε τη δυνατότητα μετατροπής XLTM σε DOCX στις εφαρμογές σας Android. Στο πρώτο βήμα, μπορείτε να εξαγάγετε XLTM σε PDF χρησιμοποιώντας το [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Μετά από αυτό, χρησιμοποιώντας το [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), μπορείτε να μετατρέψετε το PDF σε DOCX. 

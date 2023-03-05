@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: DIF MARKDOWN XLAM MHTML XLS TSV SXC XLTM XLSM XLT ODS EXCEL FODS XLSB XLTX XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTX en SXC via Java ou en ligne" h2="API Java sur site pour exporter POTX vers SXC sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTX en SXC via Java ou application en ligne" h2="API Java sur site pour exporter POTX vers SXC sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez convertir le fichier POTX en SXC via [Aspose.Total for Java](https://products.aspose.com/total/java/) en deux étapes. Dans la première étape, vous pouvez exporter POTX vers HTML en utilisant [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Deuxièmement, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}

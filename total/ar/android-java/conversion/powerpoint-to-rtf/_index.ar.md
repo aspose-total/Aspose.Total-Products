@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOT DOTX TEXT WORD ODT WORDML DOCX OTT DOC DOTM DOCM FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى RTF على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى RTF داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى RTF على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى RTF داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POWERPOINT إلى Word RTF في تطبيقاتك.

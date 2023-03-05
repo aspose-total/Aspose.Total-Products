@@ -1,5 +1,5 @@
 ---
-title: แปลง WORD เป็น POTM ผ่าน Java หรือทางออนไลน์
+title: แปลง WORD เป็น POTM ผ่าน Java หรือแอพออนไลน์
 description: Java API เพื่อส่งออก WORD ไปยัง POTM โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/java/conversion/word-to-potm/
 family: total
@@ -10,12 +10,12 @@ outformat: POTM
 otherformats: PPSX PPSM POWERPOINT POTM PPTM PPTX PPT POTX POT PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง WORD เป็น POTM ผ่าน Java หรือทางออนไลน์" h2="การแปลง WORD เป็น POTM โดยใช้ Java API ภายในภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> PowerPoint หรือ Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง WORD เป็น POTM ผ่าน Java หรือแอพออนไลน์" h2="การแปลง WORD เป็น POTM โดยใช้ Java API ภายในภายในแอปพลิเคชัน Java J2SE, J2EE, J2ME โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> PowerPoint หรือ Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 บ่อยครั้งที่นักพัฒนาต้องแปลงไฟล์ WORD เป็น POTM โดยทางโปรแกรม ด้วยการใช้ไลบรารี File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) คุณสามารถทำให้กระบวนการแสดงผลเป็นอัตโนมัติในไม่กี่ขั้นตอนง่ายๆ คุณสามารถโหลดไฟล์ WORD ได้โดยใช้ [Aspose.Words for Java](https://products.aspose.com/words/java/) และแปลงเป็น HTML หลังจากนั้นโดยใช้การจัดการ PowerPoint ที่มีประสิทธิภาพ Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) คุณสามารถสร้างงานนำเสนอใหม่ เขียนเนื้อหา HTML ในนั้น และบันทึกเป็น POTM .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง WORD เป็น POTM ผ่าน Java หรือทางออนไลน์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง WORD เป็น POTM ผ่าน Java หรือแอพออนไลน์" %}}
 1. เปิดไฟล์ WORD โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. แปลงไฟล์ WORD เป็น HTML โดยใช้ [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) กระบวนการ
 3. เริ่มต้นวัตถุ [การนำเสนอ](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) ใหม่

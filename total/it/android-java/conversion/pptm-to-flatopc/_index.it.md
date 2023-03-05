@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOC DOCX DOCM DOTX WORDML DOT RTF OTT ODT WORD TEXT DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendi PPTM in FLATOPC su Andorid tramite Java o in linea" h2="API di formato file per convertire PPTM in FLATOPC all'interno di app Android senza dipendere da Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendi PPTM in FLATOPC su Andorid tramite Java o App online" h2="API di formato file per convertire PPTM in FLATOPC all'interno di app Android senza dipendere da Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) consente di manipolare i formati di file all'interno delle applicazioni Android. Utilizzando le API fornite nel pacchetto puoi automatizzare il processo di conversione da PowerPoint PPTM a Word FLATOPC nelle tue app.

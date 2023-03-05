@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: DIF XLSB ODS XLSM XLAM EXCEL XLS CSV XLSX TSV XLTX FODS XLTM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在 Android 应用程序中将 OTT 转换为 XLT 或在线" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情况下，通过 Java 在 Android 中将 OTT 导出为 XLT" >}}
+{{< blocks/products/pf/feature-page-header h1="在 Android 应用程序中将 OTT 转换为 XLT 或在线应用程序" h2="在不使用 Microsoft<sup>&reg;</sup> Word 或 Microsoft<sup>&reg;</sup> Excel 的情况下，通过 Java 在 Android 中将 OTT 导出为 XLT" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通过使用 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)，您可以在您的 android 应用程序中集成 OTT 到 XLT 转换功能。首先，您可以使用功能丰富的文档操作和转换 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)将 OTT 转换为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)，您可以将 HTML 转换为 XLT。 

@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Python 將 DOCM 轉換為 XLTX 或在線" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 DOCM 轉換為 XLTX" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Python 將 DOCM 轉換為 XLTX 或在線應用程序" h2="無需安裝 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 DOCM 轉換為 XLTX" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

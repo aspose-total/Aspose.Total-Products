@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPSX PPSM PPT POTX POT PPTX PPTM PPS POTM ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTM'yi POWERPOINT'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde DOTM'yi POWERPOINT'ye aktarın veya PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTM'yi POWERPOINT'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde DOTM'yi POWERPOINT'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken DOTM'den POWERPOINT'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOTM'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve POWERPOINT olarak kaydedin. 

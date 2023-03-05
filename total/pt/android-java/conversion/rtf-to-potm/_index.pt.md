@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPS PPT POT PPSM POWERPOINT POTX ODP PPTM PPTX PPSX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter RTF para POTM em aplicativos Android ou online" h2="Conversão de RTF para POTM em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter RTF para POTM em aplicativos Android ou aplicativo on-line" h2="Conversão de RTF para POTM em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de rtfumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de rtfumentos em seus aplicativos Android. Para converter o arquivo RTF para POTM, você pode primeiro usar a API de manipulação de rtfumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo RTF para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como POTM. 

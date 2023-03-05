@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en POWERPOINT via Python ou en ligne" h2="Conversion XLTM en POWERPOINT dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en POWERPOINT via Python ou application en ligne" h2="Conversion XLTM en POWERPOINT dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

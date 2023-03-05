@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPSX PPSM ODP POTX POTM PPTM PPT POWERPOINT PPTX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API to Convert TXT to PPS or online" h2="Export TXT to PPS within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API to Convert TXT to PPS or Online App" h2="Export TXT to PPS within your C++ applications without using Microsoft Word&reg; or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consists of powerful file automation APIs that allows to automate TXT to PPS conversion while using two of it's APIs. Load your TXT using [Aspose.Words for C++](https://products.aspose.com/words/cpp/) and convert it to HTML, then load the HTML via PowerPoint manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) to create a new presentation, and save it as PPS. 

@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPSX PPS POTM PPTX POT ODP PPSM PPT POTX PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter OTT para POWERPOINT em aplicativos Android ou online" h2="Conversão de OTT para POWERPOINT em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter OTT para POWERPOINT em aplicativos Android ou aplicativo on-line" h2="Conversão de OTT para POWERPOINT em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de ottumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de ottumentos em seus aplicativos Android. Para converter o arquivo OTT para POWERPOINT, você pode primeiro usar a API de manipulação de ottumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo OTT para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como POWERPOINT. 

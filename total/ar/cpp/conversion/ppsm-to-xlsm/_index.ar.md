@@ -1,5 +1,5 @@
 ---
-title: تحويل PPSM إلى XLSM عبر C++ أو عبر الإنترنت أو مع محول مجاني على الإنترنت
+title: تحويل PPSM إلى XLSM عبر C++ أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت
 description: قم بتصدير PPSM إلى XLSM في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV CSV MARKDOWN XLS XLTX XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل PPSM إلى XLSM عبر C++ أو عبر الإنترنت" h2="PPSM لتحويل ملف XLSM عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل PPSM إلى XLSM عبر C++ أو التطبيق عبر الإنترنت" h2="PPSM لتحويل ملف XLSM عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Excel أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for C++](https://products.aspose.com/total/cpp/) يمكنك تحويل ملف PPSM إلى XLSM داخل تطبيقات C++ في خطوتين بسيطتين. أولاً ، باستخدام [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) ، يمكنك تصدير PPSM إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) واجهة برمجة تطبيقات برمجة جداول البيانات ، يمكنك تحويل HTML إلى XLSM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى XLSM عبر C++ أو عبر الإنترنت" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل PPSM إلى XLSM عبر C++ أو التطبيق عبر الإنترنت" %}}
 1. افتح ملف PPSM باستخدام مرجع فئة [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)
 2. تحويل PPSM إلى HTML باستخدام طريقة [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

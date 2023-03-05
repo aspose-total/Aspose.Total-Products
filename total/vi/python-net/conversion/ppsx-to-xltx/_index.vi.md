@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSX sang XLTX qua Python hoặc trực tuyến" h2="Chuyển đổi PPSX sang XLTX trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft PowerPoint<sup>&reg;</sup> hoặc Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi PPSX sang XLTX qua Python hoặc Ứng dụng trực tuyến" h2="Chuyển đổi PPSX sang XLTX trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft PowerPoint<sup>&reg;</sup> hoặc Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

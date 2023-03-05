@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: ODP PPT PPTX PPSX PPSM PPTM POWERPOINT POT POTX PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta TXT a POTM en aplicaciones de Android o en línea" h2="Conversión de TXT a POTM en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta TXT a POTM en aplicaciones de Android o aplicación en línea" h2="Conversión de TXT a POTM en sus aplicaciones de Android sin instalar Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ¿Es usted un desarrollador de Android que busca agregar una función de conversión de txtumentos a su aplicación? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Las bibliotecas de automatización de formato de archivo pueden ayudarlo a automatizar el proceso de conversión de txtumentos en sus aplicaciones de Android. Para convertir un archivo TXT a POTM, primero puede usar la API de manipulación de txtumentos [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) para convertir el formato de archivo TXT a HTML. Después de eso, al usar la API de PowerPoint [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), puede crear una nueva presentación, escribir contenido HTML en ella y guardarla como PAO. 

@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLSB FODS XLTX XLTM XLAM XLS TSV SXC ODS XLSX XLT DIF CSV EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında OTT'yi XLSM'ye Dönüştür veya çevrimiçi" h2="OTT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSM'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında OTT'yi XLSM'ye Dönüştür veya Çevrimiçi Uygulama" h2="OTT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSM'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda OTT'den XLSM'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak OTT'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSM'ye dönüştürebilirsiniz. 

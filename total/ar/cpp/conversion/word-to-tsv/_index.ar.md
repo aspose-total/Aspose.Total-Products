@@ -1,6 +1,6 @@
 ---
 title: تحويل WORD إلى TSV في C++ أو مع محول مجاني على الإنترنت
-description: C++ API لتحويل WORD إلى TSV أو عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: C++ API لتحويل WORD إلى TSV أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: XLSX DIF EXCEL XLTM XLAM XLTX XLSM XLS CSV XLT XLSB FODS SXC ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل WORD إلى TSV أو عبر الإنترنت" h2="تصدير WORD إلى TSV عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل WORD إلى TSV أو التطبيق عبر الإنترنت" h2="تصدير WORD إلى TSV عبر C++ بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يمكنك تضمين ميزة تحويل WORD إلى TSV داخل تطبيقات C++ بسهولة. باستخدام واجهة برمجة تطبيقات معالجة وتحويل غنية بالميزات وقوية وسهلة الاستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) ، يمكنك تصدير WORD إلى HTML. بعد ذلك ، باستخدام [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) ، يمكنك تحويل HTML إلى TSV. تأتي كلتا واجهات برمجة التطبيقات ضمن حزمة [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل WORD إلى TSV أو عبر الإنترنت" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API لتحويل WORD إلى TSV أو التطبيق عبر الإنترنت" %}}
 1. افتح ملف WORD باستخدام [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) مرجع فئة
 2. تحويل WORD إلى HTML باستخدام وظيفة العضو [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat)
 3. قم بتحميل مستند HTML باستخدام مرجع فئة [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

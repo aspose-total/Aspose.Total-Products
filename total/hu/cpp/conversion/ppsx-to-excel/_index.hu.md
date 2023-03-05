@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a PPSX-ot EXCEL-vé a C++ segítségével vagy online vagy ingyenes online konverterrel
+title: Konvertálja a PPSX-ot EXCEL-vé a C++ segítségével vagy Online App vagy ingyenes online konverterrel
 description: Exportálja a PPSX-ot EXCEL-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
 
 family: total
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM CSV FODS XLSM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSX-ot EXCEL-vé a C++ segítségével vagy online" h2="PPSX-ból EXCEL-fájl átalakítás C++-on keresztül Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a PPSX-ot EXCEL-vé a C++ segítségével vagy Online App" h2="PPSX-ból EXCEL-fájl átalakítás C++-on keresztül Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) használatával két egyszerű lépésben konvertálhat PPSX fájlt EXCEL-vé a C++ alkalmazásokon belül. Először is, az [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) használatával exportálhatja a PPSX-ot HTML-be. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API használatával konvertálhatja a HTML-t EXCEL-vé. 

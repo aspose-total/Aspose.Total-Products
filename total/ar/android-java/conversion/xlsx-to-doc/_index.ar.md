@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCX WORD POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم XLSX إلى DOC على Android عبر Java أو عبر الإنترنت" h2="قم بتحويل ملف XLSX إلى DOC داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم XLSX إلى DOC على Android عبر Java أو التطبيق عبر الإنترنت" h2="قم بتحويل ملف XLSX إلى DOC داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) عبارة عن حزمة من واجهات برمجة التطبيقات القوية لأتمتة الملفات. باستخدام اثنين من واجهات برمجة التطبيقات الخاصة به ، يمكنك دمج ميزة تحويل XLSX إلى DOC داخل تطبيقات Android. في الخطوة الأولى ، يمكنك تصدير XLSX إلى PDF باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). بعد ذلك ، باستخدام [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) ، يمكنك تحويل PDF إلى DOC. 

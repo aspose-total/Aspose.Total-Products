@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать ODT в XLSM через Java или онлайн" h2="Локальный Java API для преобразования ODT в XLSM без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать ODT в XLSM через Java или онлайн-приложение" h2="Локальный Java API для преобразования ODT в XLSM без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование ODT в XLSM с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать ODT в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в XLSM.
 {{% /blocks/products/pf/feature-page-summary  %}}

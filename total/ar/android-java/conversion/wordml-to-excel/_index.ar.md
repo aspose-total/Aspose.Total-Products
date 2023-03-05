@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: TSV XLS XLTX FODS XLTM XLSX CSV DIF SXC XLAM ODS XLSM XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل WORDML إلى EXCEL في تطبيقات Android أو عبر الإنترنت" h2="تصدير WORDML إلى EXCEL في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل WORDML إلى EXCEL في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تصدير WORDML إلى EXCEL في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل WORDML إلى EXCEL داخل تطبيقات Android. أولاً ، يمكنك تحويل WORDML إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى EXCEL. 

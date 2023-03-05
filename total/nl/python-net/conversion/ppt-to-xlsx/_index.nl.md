@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar XLSX via Python of online" h2="PPT naar XLSX-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar XLSX via Python of online-app" h2="PPT naar XLSX-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

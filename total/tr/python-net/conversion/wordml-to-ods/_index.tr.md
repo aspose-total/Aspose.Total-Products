@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="WORDML'yi Python aracılığıyla ODS'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda WORDML'den ODS'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="WORDML'yi Python aracılığıyla ODS'e dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft Word<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda WORDML'den ODS'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Converter TXT para PPTM via Java ou online
+title: Converter TXT para PPTM via Java ou aplicativo on-line
 description: API Java para exportar TXT para PPTM sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/txt-to-pptm/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPT POWERPOINT POT PPTM POTX PPSX POTM PPTX PPSM PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter TXT para PPTM via Java ou online" h2="Conversão de TXT para PPTM usando a API Java local em qualquer aplicativo Java J2SE, J2EE, J2ME sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter TXT para PPTM via Java ou aplicativo on-line" h2="Conversão de TXT para PPTM usando a API Java local em qualquer aplicativo Java J2SE, J2EE, J2ME sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Muitas vezes, os desenvolvedores precisam converter o arquivo TXT para PPTM programaticamente. Ao usar as bibliotecas Java de Automação de Arquivos [Aspose.Total for Java](https://products.aspose.com/total/java/), você pode automatizar o processo de renderização em algumas etapas simples. Você pode carregar seu arquivo TXT usando [Aspose.Words for Java](https://products.aspose.com/words/java/) e convertê-lo em HTML. Depois disso, usando a poderosa API Java de manipulação do PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPTM .
 {{% /blocks/products/pf/feature-page-summary  %}}

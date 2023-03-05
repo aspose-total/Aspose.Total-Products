@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: FLATOPC DOC WORD TEXT ODT OTT DOCX DOTM DOT DOTX RTF DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTX을 WORDML로 렌더링하는 C++ API 또는 온라인" h2="Microsoft PowerPoint 또는 Word 종속성 없이 C++ 응용 프로그램에서 PPTX을 WORDML로 내보내기" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTX을 WORDML로 렌더링하는 C++ API 또는 온라인 앱" h2="Microsoft PowerPoint 또는 Word 종속성 없이 C++ 응용 프로그램에서 PPTX을 WORDML로 내보내기" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)는 C++ 파일 형식 자동화 라이브러리의 완전한 패키지입니다. 패키지에서 사용할 수 있는 API의 풍부한 기능을 사용하여 PowerPoint PPTX을 Word WORDML로 쉽게 변환할 수 있습니다. 변환을 수행하려면 먼저 [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API를 사용하여 PPTX를 HTML로 변환할 수 있습니다. 그 후 기능이 풍부한 워드 프로세싱 API [Aspose.Words for C++](https://products.aspose.com/words/cpp/)를 사용하여 HTML을 WORDML로 변환할 수 있습니다. 

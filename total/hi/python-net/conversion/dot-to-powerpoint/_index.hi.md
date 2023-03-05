@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें या ऑनलाइन" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Python अनुप्रयोगों में DOT से POWERPOINT रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="पायथन का उपयोग करके बीएमपी को जीआईएफ में बदलें या ऑनलाइन ऐप" h2="Microsoft Word<sup>&reg;</sup> या PowerPoint . को स्थापित किए बिना आपके Python अनुप्रयोगों में DOT से POWERPOINT रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

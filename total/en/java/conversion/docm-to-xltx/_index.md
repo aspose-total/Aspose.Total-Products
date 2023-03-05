@@ -1,6 +1,6 @@
 ---
-title: Convert DOCM to XLTX via Java or online
-description: Convert DOCM to XLTX via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOCM to XLTX via Java or Online App
+description: Convert DOCM to XLTX via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/docm-to-xltx/
 family: total
 platformtag: java
@@ -10,14 +10,14 @@ outformat: XLTX
 otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOCM to XLTX via Java or online" h2="On Premise Java API to convert DOCM to XLTX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOCM to XLTX via Java or Online App" h2="On Premise Java API to convert DOCM to XLTX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can converting DOCM to XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOCM to XLTX via Java or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOCM to XLTX via Java or Online App" %}}
 1. Open DOCM file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class

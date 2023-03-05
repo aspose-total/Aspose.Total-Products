@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter XLTX para MOBI via Python ou online" h2="Conversão de XLTX para MOBI em seus aplicativos Python sem instalar o Microsoft Excel<sup>&reg;</sup> ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter XLTX para MOBI via Python ou aplicativo on-line" h2="Conversão de XLTX para MOBI em seus aplicativos Python sem instalar o Microsoft Excel<sup>&reg;</sup> ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

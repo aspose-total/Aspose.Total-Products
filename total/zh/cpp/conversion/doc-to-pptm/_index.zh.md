@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POT PPSX PPT POTX ODP POTM PPS PPSM POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="将 DOC 转换为 PPTM 的 C++ API 或在线" h2="在您的 C++ 应用程序中将 DOC 导出为 PPTM，而无需使用 Microsoft Word&reg;或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="将 DOC 转换为 PPTM 的 C++ API 或在线应用程序" h2="在您的 C++ 应用程序中将 DOC 导出为 PPTM，而无需使用 Microsoft Word&reg;或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包含强大的文件自动化 API，允许在使用其中两个 API 时自动进行 DOC 到 PPTM 的转换。使用 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) 加载您的 DOC 并将其转换为 HTML，然后通过 PowerPoint 操作 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 加载 HTML 创建一个新的演示文稿，并将其保存为 PPTM。 

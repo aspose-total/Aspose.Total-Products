@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC EXCEL MHTML DIF ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPTX über Java in EXCEL oder online" h2="Lokale Java-API zum Exportieren von PPTX in EXCEL ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPTX über Java in EXCEL oder Online-App" h2="Lokale Java-API zum Exportieren von PPTX in EXCEL ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die PPTX-Datei über [Aspose.Total for Java](https://products.aspose.com/total/java/) in zwei Schritten in EXCEL konvertieren. Im ersten Schritt können Sie PPTX in HTML exportieren, indem Sie [Aspose.Slides for Java](https://products.aspose.com/slides/java/) verwenden. Zweitens können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in EXCEL konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

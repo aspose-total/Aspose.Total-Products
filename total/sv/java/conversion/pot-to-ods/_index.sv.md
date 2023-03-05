@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLS ODS DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XLAM MHTML XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POT till ODS via Java eller online" h2="On Premise Java API för att exportera POT till ODS utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POT till ODS via Java eller onlineapp" h2="On Premise Java API för att exportera POT till ODS utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Du kan konvertera POT-fil till ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) i två steg. I det första steget kan du exportera POT till HTML genom att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/). För det andra, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}

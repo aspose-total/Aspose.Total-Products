@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir TSV a PPSX a través de Python o en línea" h2="Conversión de TSV a PPSX en sus aplicaciones Python sin instalar Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir TSV a PPSX a través de Python o aplicación en línea" h2="Conversión de TSV a PPSX en sus aplicaciones Python sin instalar Microsoft Excel<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

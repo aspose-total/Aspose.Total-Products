@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a PPSX-ot XLSX-vé a C# segítségével vagy online
+title: Konvertálja a PPSX-ot XLSX-vé a C# segítségével vagy Online App
 description: Konvertálja a PPSX-ot XLSX-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/ppsx-to-xlsx/
 family: total
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF XLAM XLTX XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPSX-ot XLSX-vé a C# segítségével vagy online" h2=".NET API a PPSX-ból XLSX-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPSX-ot XLSX-vé a C# segítségével vagy Online App" h2=".NET API a PPSX-ból XLSX-vé konvertáláshoz Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for .NET](https://products.aspose.com/total/net/) használatával PPSX-fájlt konvertálhat XLSX-vé bármely .NET, C#, ASP.NET és VB.NET alkalmazáson belül két részből. egyszerű lépéseket. Először is, az [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) használatával exportálhatja a PPSX-ot HTML-be. Ezt követően az [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API használatával konvertálhatja a HTML-t XLSX-vé.

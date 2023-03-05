@@ -1,5 +1,5 @@
 ---
-title: Converteer PPT naar CSV via C++ of online of met gratis Online Converter
+title: Converteer PPT naar CSV via C++ of online-app of met gratis Online Converter
 description: Exporteer PPT naar CSV in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MARKDOWN XLSB XLAM SXC TSV XLTX XLSX FODS XLT XLTM ODS MHTML EXCEL XLS DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar CSV via C++ of online" h2="PPT naar CSV-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPT naar CSV via C++ of online-app" h2="PPT naar CSV-bestandsconversie via C++ zonder Microsoft<sup>&reg;</sup> Excel of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for C++](https://products.aspose.com/total/cpp/) te gebruiken, kunt u het PPT-bestand in C++-toepassingen in twee eenvoudige stappen naar CSV converteren. Ten eerste, door [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) te gebruiken, kunt u PPT naar HTML exporteren. Daarna kunt u met behulp van [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API HTML naar CSV converteren. 

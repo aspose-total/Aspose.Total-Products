@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTX DOTM TEXT RTF WORDML FLATOPC DOCM DOC WORD OTT DOCX DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendi PPS in ODT su Andorid tramite Java o in linea" h2="API di formato file per convertire PPS in ODT all'interno di app Android senza dipendere da Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendi PPS in ODT su Andorid tramite Java o App online" h2="API di formato file per convertire PPS in ODT all'interno di app Android senza dipendere da Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) consente di manipolare i formati di file all'interno delle applicazioni Android. Utilizzando le API fornite nel pacchetto puoi automatizzare il processo di conversione da PowerPoint PPS a Word ODT nelle tue app.

@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: FODS XLSX TSV XLTM XLSB SXC XLAM XLTX XLS ODS XLT DIF CSV EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DOTM เป็น XLSM ในแอปพลิเคชัน Android หรือทางออนไลน์" h2="ส่งออก DOTM เป็น XLSM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DOTM เป็น XLSM ในแอปพลิเคชัน Android หรือแอพออนไลน์" h2="ส่งออก DOTM เป็น XLSM ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง DOTM เป็น XLSM ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง DOTM เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น XLSM ได้ 

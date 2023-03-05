@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOCM DOTX OTT WORD DOTM TEXT WORDML DOC ODT DOCX FLATOPC RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderizar POWERPOINT a DOT en Andorid a través de Java o en línea" h2="API de formato de archivo para convertir POWERPOINT a DOT dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderizar POWERPOINT a DOT en Andorid a través de Java o aplicación en línea" h2="API de formato de archivo para convertir POWERPOINT a DOT dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite manipular formatos de archivo dentro de las aplicaciones de Android. Al utilizar las API proporcionadas en el paquete, puede automatizar el proceso de conversión de PowerPoint POWERPOINT a Word DOT en sus aplicaciones.

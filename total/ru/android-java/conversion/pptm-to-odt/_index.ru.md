@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOT WORDML DOCX DOC DOTX FLATOPC DOTM RTF TEXT WORD DOCM OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Рендеринг PPTM в ODT на Andorid через Java или онлайн" h2="API форматов файлов для преобразования PPTM в ODT в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Рендеринг PPTM в ODT на Andorid через Java или онлайн-приложение" h2="API форматов файлов для преобразования PPTM в ODT в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) позволяет управлять форматами файлов в приложениях Android. С помощью API-интерфейсов, предоставляемых в пакете, вы можете автоматизировать процесс преобразования PowerPoint PPTM в Word ODT в своих приложениях.

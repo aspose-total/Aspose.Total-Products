@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera XLS till PPSM via Python eller online" h2="XLS till PPSM-konvertering i dina Python-applikationer utan att installera Microsoft Excel<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera XLS till PPSM via Python eller onlineapp" h2="XLS till PPSM-konvertering i dina Python-applikationer utan att installera Microsoft Excel<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

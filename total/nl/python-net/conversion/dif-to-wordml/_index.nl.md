@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer DIF naar WORDML via Python of online" h2="DIF naar WORDML-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of Word te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer DIF naar WORDML via Python of online-app" h2="DIF naar WORDML-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of Word te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

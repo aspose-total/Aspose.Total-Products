@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でWORDをEXCELに変換 またはオンライン" h2="Microsoft Word<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで WORD から EXCEL への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でWORDをEXCELに変換 またはオンラインアプリ" h2="Microsoft Word<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで WORD から EXCEL への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

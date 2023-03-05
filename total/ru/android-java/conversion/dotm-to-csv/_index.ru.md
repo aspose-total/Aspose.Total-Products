@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: EXCEL XLTM FODS XLTX DIF XLSM SXC XLAM ODS XLSX XLS XLT XLSB TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOTM в CSV в приложениях для Android или онлайн" h2="Экспорт DOTM в CSV на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOTM в CSV в приложениях для Android или онлайн-приложение" h2="Экспорт DOTM в CSV на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования DOTM в CSV в свои приложения для Android. Во-первых, вы можете конвертировать DOTM в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в CSV. 

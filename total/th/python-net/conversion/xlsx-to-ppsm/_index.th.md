@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง XLSX เป็น PPSM ผ่าน Python หรือทางออนไลน์" h2="การแปลง XLSX เป็น PPSM ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง XLSX เป็น PPSM ผ่าน Python หรือแอพออนไลน์" h2="การแปลง XLSX เป็น PPSM ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

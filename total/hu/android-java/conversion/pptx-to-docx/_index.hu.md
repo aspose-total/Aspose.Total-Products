@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderelje le a PPTX-ot DOCX-ba Andoridon Java-n keresztül vagy online" h2="Fájlformátumú API-k, amelyek a PPTX-t DOCX-ba konvertálják Android-alkalmazásokon belül, anélkül, hogy a Microsoft PowerPointtól vagy a Wordtől függnének" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderelje le a PPTX-ot DOCX-ba Andoridon Java-n keresztül vagy Online App" h2="Fájlformátumú API-k, amelyek a PPTX-t DOCX-ba konvertálják Android-alkalmazásokon belül, anélkül, hogy a Microsoft PowerPointtól vagy a Wordtől függnének" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android Java segítségével](https://products.aspose.com/total/android-java/) lehetővé teszi a fájlformátumok manipulálását az Android-alkalmazásokon belül. A csomagban található API-k használatával automatizálhatja a PowerPoint PPTX–Word DOCX konverziós folyamatát alkalmazásaiban.

@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DOC เป็น DIF ผ่าน Python หรือทางออนไลน์" h2="การแปลง DOC เป็น DIF ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DOC เป็น DIF ผ่าน Python หรือแอพออนไลน์" h2="การแปลง DOC เป็น DIF ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Word<sup>&reg;</sup> หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPT ODP PPTM PPTX POWERPOINT PPSX POT PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ODT'yi PPS'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde ODT'yi PPS'ye aktarın veya PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="ODT'yi PPS'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde ODT'yi PPS'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken ODT'den PPS'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak ODT'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPS olarak kaydedin. 

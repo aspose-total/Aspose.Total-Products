@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir DOT a XLSX
-description: Convierta DOT a XLSX a través de Java o en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta DOT a XLSX a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/java/conversion/dot-to-xlsx/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLSX EXCEL XLSX SXC TSV XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta DOT a XLSX a través de Java o en línea" h2="API de Java local para convertir DOT a XLSX sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta DOT a XLSX a través de Java o aplicación en línea" h2="API de Java local para convertir DOT a XLSX sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Convertir DOT a XLSX a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de Documentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar DOT a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}

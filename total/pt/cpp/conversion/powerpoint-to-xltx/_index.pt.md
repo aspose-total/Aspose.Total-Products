@@ -1,5 +1,5 @@
 ---
-title: Converter POWERPOINT para XLTX via C++ ou online ou com o conversor online grátis
+title: Converter POWERPOINT para XLTX via C++ ou aplicativo on-line ou com o conversor online grátis
 description: Exporte POWERPOINT para XLTX em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT CSV TSV XLAM MHTML FODS XLTM ODS XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter POWERPOINT para XLTX via C++ ou online" h2="Conversão de arquivo POWERPOINT para XLTX via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter POWERPOINT para XLTX via C++ ou aplicativo on-line" h2="Conversão de arquivo POWERPOINT para XLTX via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo POWERPOINT para XLTX dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar POWERPOINT para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para XLTX. 

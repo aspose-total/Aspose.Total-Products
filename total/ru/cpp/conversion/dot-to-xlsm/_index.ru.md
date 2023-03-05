@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в XLSM на C++ или с помощью бесплатного онлайн-конвертера
-description: C++ API для преобразования DOT в XLSM или онлайн без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: C++ API для преобразования DOT в XLSM или онлайн-приложение без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSM
 otherformats: XLSX XLTX CSV XLT EXCEL FODS XLS ODS XLAM DIF SXC TSV XLSB XLTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOT в XLSM или онлайн" h2="Экспорт DOT в XLSM через C++ без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования DOT в XLSM или онлайн-приложение" h2="Экспорт DOT в XLSM через C++ без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете легко включить функцию преобразования DOT в XLSM в свои приложения C++. Используя многофункциональный, мощный и простой в использовании API для работы с документами и преобразования [Aspose.Words for C++](https://products.aspose.com/words/cpp/), вы можете экспортировать DOT в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), вы можете конвертировать HTML в XLSM. Оба API входят в пакет [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования DOT в XLSM или онлайн" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования DOT в XLSM или онлайн-приложение" %}}
 1. Откройте файл DOT, используя ссылку на класс [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument).
 2. Преобразуйте DOT в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat).
 3. Загрузите HTML-документ, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).

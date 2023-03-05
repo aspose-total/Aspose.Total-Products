@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPT POTM PPSM ODP PPSX PPS POT POWERPOINT POTX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCM sang PPTM hoặc trực tuyến" h2="Xuất DOCM sang PPTM trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API để chuyển đổi DOCM sang PPTM hoặc Ứng dụng trực tuyến" h2="Xuất DOCM sang PPTM trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word <sup>&reg;</sup>; hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bao gồm các API tự động hóa tệp mạnh mẽ cho phép tự động chuyển đổi DOCM sang PPTM trong khi sử dụng hai trong số các API của nó. Tải DOCM của bạn bằng [Aspose. AdWords for C++](https://products.aspose.com/words/cpp/) và chuyển đổi nó thành HTML, sau đó tải HTML thông qua thao tác PowerPoint API C++ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) để tạo bản trình bày mới và lưu dưới dạng PPTM. 

@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLT EXCEL TSV DIF XLTM CSV FODS ODS XLSX XLSB XLAM XLS SXC XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi DOCM ke XLSM di Aplikasi Android atau daring" h2="Ekspor DOCM ke XLSM di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi DOCM ke XLSM di Aplikasi Android atau Aplikasi Daring" h2="Ekspor DOCM ke XLSM di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi DOCM ke XLSM di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi DOCM ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLSM. 

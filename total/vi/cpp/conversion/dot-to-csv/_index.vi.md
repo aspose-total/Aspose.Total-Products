@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLAM DIF XLTX XLSB ODS TSV XLTM XLS XLSX FODS SXC EXCEL XLSM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi DOT sang CSV hoặc trực tuyến" h2="Xuất DOT sang CSV qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi DOT sang CSV hoặc Ứng dụng trực tuyến" h2="Xuất DOT sang CSV qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể bao gồm tính năng chuyển đổi DOT sang CSV trong các ứng dụng C++ của mình một cách dễ dàng. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, mạnh mẽ và dễ sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOT sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang CSV. Cả hai API đều nằm trong gói [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOT sang CSV hoặc trực tuyến" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOT sang CSV hoặc Ứng dụng trực tuyến" %}}
 1. Mở tệp DOT bằng tham chiếu lớp [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument)
 2. Chuyển đổi DOT sang HTML bằng cách sử dụng hàm thành viên [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. Tải tài liệu HTML bằng cách sử dụng tham chiếu lớp [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

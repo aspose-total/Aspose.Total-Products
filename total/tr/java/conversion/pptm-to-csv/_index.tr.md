@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MHTML EXCEL XLS XLSM ODS DIF XLTM XLT MARKDOWN XLTX TSV XLAM FODS XLSX XLSB SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPTM'u CSV'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPTM'u CSV'ye aktarmak için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile PPTM'u CSV'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel veya PowerPoint kullanmadan PPTM'u CSV'ye aktarmak için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 PPTM dosyasını iki adımda [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla CSV'ye dönüştürebilirsiniz. İlk adımda, [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanarak PPTM'u HTML'ye aktarabilirsiniz. İkinci olarak, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi CSV'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}

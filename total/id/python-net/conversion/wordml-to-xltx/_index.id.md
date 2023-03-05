@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan WORDML ke XLTX melalui Python atau daring" h2="Konversi WORDML ke XLTX di aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan WORDML ke XLTX melalui Python atau Aplikasi Daring" h2="Konversi WORDML ke XLTX di aplikasi Python Anda tanpa menginstal Microsoft Word<sup>&reg;</sup> atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

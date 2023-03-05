@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSX DIF MARKDOWN XLTX XLAM EXCEL MHTML XLSM ODS TSV FODS XLT XLTM XLSB SXC XLS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POTM ke XLAM melalui Java atau daring" h2="On Premise Java API untuk mengekspor POTM ke XLAM tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi POTM ke XLAM melalui Java atau Aplikasi Daring" h2="On Premise Java API untuk mengekspor POTM ke XLAM tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Anda dapat mengonversi file POTM ke XLAM melalui [Aspose.Total for Java](https://products.aspose.com/total/java/) dalam dua langkah langkah. Pada langkah pertama Anda dapat mengekspor POTM ke HTML dengan menggunakan [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Kedua, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java/), Anda dapat mengonversi HTML ke XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}

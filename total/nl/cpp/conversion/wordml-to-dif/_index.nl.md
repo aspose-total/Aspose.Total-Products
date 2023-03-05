@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar DIF in C++ of met gratis Online Converter
-description: C++ API om WORDML naar DIF te converteren of online zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: C++ API om WORDML naar DIF te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: CSV TSV XLAM SXC FODS EXCEL ODS XLS XLT XLTX XLSX XLTM XLSM XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om WORDML naar DIF te converteren of online" h2="Exporteer WORDML naar DIF via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om WORDML naar DIF te converteren of online-app" h2="Exporteer WORDML naar DIF via C++ zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 U kunt de WORDML-naar-DIF-conversiefunctie eenvoudig in uw C++-toepassingen opnemen. Door gebruik te maken van de veelzijdige, krachtige en gebruiksvriendelijke API voor wordmlumentmanipulatie en conversie [Aspose.Words for C++](https://products.aspose.com/words/cpp/), kunt u WORDML naar HTML exporteren. Daarna kunt u met [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML naar DIF converteren. Beide API's vallen onder het pakket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om WORDML naar DIF te converteren of online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API om WORDML naar DIF te converteren of online-app" %}}
 1. Open WORDML-bestand met behulp van [Wordmlument](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument) klasseverwijzing
 2. Converteer WORDML naar HTML met behulp van [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordmlument#save_string_saveformat) lidfunctie
 3. Laad HTML-wordmlument met behulp van [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) klasseverwijzing

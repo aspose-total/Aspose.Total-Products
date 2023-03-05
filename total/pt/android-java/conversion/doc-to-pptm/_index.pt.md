@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPT ODP POTX PPTX POWERPOINT PPSX POT POTM PPSM PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOC para PPTM em aplicativos Android ou online" h2="Conversão de DOC para PPTM em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOC para PPTM em aplicativos Android ou aplicativo on-line" h2="Conversão de DOC para PPTM em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de documentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de documentos em seus aplicativos Android. Para converter o arquivo DOC para PPTM, você pode primeiro usar a API de manipulação de documentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOC para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPTM. 

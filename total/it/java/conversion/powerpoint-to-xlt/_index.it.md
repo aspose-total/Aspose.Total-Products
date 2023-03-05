@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: EXCEL XLAM DIF MARKDOWN XLT XLTM XLSX XLSB TSV XLS SXC FODS XLSM ODS MHTML XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POWERPOINT in XLT tramite Java o in linea" h2="API Java in loco per esportare POWERPOINT in XLT senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti POWERPOINT in XLT tramite Java o App online" h2="API Java in loco per esportare POWERPOINT in XLT senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi convertire il file POWERPOINT in XLT tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) in due passaggi. Nel primo passaggio puoi esportare POWERPOINT in HTML utilizzando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). In secondo luogo, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

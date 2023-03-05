@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python kullanarak WORDML'yi POT'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda WORDML'den POT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Python kullanarak WORDML'yi POT'e dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda WORDML'den POT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

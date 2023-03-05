@@ -1,5 +1,5 @@
 ---
-title: Конвертировать POWERPOINT в FODS через C++ или онлайн или с помощью бесплатного онлайн-конвертера
+title: Конвертировать POWERPOINT в FODS через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
 description: Экспорт POWERPOINT в FODS на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLSB XLSM XLAM DIF CSV XLSX XLTX EXCEL ODS XLTM MARKDOWN TSV XLT XLS SXC MHTML DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Конвертировать POWERPOINT в FODS через C++ или онлайн" h2="Преобразование файлов POWERPOINT в FODS с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Конвертировать POWERPOINT в FODS через C++ или онлайн-приложение" h2="Преобразование файлов POWERPOINT в FODS с помощью C++ без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for C++](https://products.aspose.com/total/cpp/), вы можете преобразовать файл POWERPOINT в FODS в приложениях C++ в два простых шага. Во-первых, с помощью [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) вы можете экспортировать POWERPOINT в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API для программирования электронных таблиц, вы можете конвертировать HTML в FODS. 

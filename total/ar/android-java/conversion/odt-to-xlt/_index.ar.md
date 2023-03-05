@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLSB XLSX XLTM CSV EXCEL SXC XLTX XLS DIF FODS TSV XLSM XLAM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ODT إلى XLT في تطبيقات Android أو عبر الإنترنت" h2="تصدير ODT إلى XLT في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ODT إلى XLT في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تصدير ODT إلى XLT في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل ODT إلى XLT داخل تطبيقات Android. أولاً ، يمكنك تحويل ODT إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLT. 

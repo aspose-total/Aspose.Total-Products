@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOCM WORD DOTM OTT FLATOPC ODT DOT DOC TEXT DOTX DOCX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPT'u WORDML'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPT'u WORDML'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="PPT'u WORDML'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPT'u WORDML'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint PPT'u Word WORDML'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce PPT'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi WORDML'ye dönüştürebilirsiniz. 

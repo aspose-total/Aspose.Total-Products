@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTX RTF WORD FLATOPC DOTM DOCM WORDML DOC TEXT DOCX OTT DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Αποδώστε το POT στο ODT στο Andorid μέσω Java ή διαδικτυακά" h2="API μορφής αρχείου για μετατροπή POT σε ODT εντός εφαρμογών Android χωρίς να εξαρτάται από το Microsoft PowerPoint ή το Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Αποδώστε το POT στο ODT στο Andorid μέσω Java ή Online App" h2="API μορφής αρχείου για μετατροπή POT σε ODT εντός εφαρμογών Android χωρίς να εξαρτάται από το Microsoft PowerPoint ή το Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) επιτρέπει τον χειρισμό μορφών αρχείων εντός εφαρμογών Android. Χρησιμοποιώντας τα API που παρέχονται στο πακέτο, μπορείτε να αυτοματοποιήσετε τη διαδικασία μετατροπής PowerPoint POT σε Word ODT στις εφαρμογές σας.

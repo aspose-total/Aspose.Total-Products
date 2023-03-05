@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLTM XLT XLTX XLS DIF XLSM XLSB EXCEL ODS XLAM XLSX TSV CSV SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DOCX เป็น FODS ในแอปพลิเคชัน Android หรือทางออนไลน์" h2="ส่งออก DOCX เป็น FODS ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DOCX เป็น FODS ในแอปพลิเคชัน Android หรือแอพออนไลน์" h2="ส่งออก DOCX เป็น FODS ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) คุณสามารถรวมคุณลักษณะการแปลง DOCX เป็น FODS ภายในแอปพลิเคชัน Android ของคุณได้ ประการแรก คุณสามารถแปลง DOCX เป็น HTML ได้โดยใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) คุณจะแปลง HTML เป็น FODS ได้ 

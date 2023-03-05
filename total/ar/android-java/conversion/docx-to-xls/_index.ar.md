@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: EXCEL XLSM SXC XLT CSV ODS XLSX XLAM XLTX FODS XLSB DIF XLTM TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOCX إلى XLS في تطبيقات Android أو عبر الإنترنت" h2="تصدير DOCX إلى XLS في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOCX إلى XLS في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تصدير DOCX إلى XLS في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل DOCX إلى XLS داخل تطبيقات Android. أولاً ، يمكنك تحويل DOCX إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى XLS. 

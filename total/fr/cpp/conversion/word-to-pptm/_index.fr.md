@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POTM POTX PPSM ODP POWERPOINT PPS PPTX PPT PPSX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en PPTM ou en ligne" h2="Exportez WORD vers PPTM dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir WORD en PPTM ou application en ligne" h2="Exportez WORD vers PPTM dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion WORD en PPTM tout en utilisant deux de ses API. Chargez votre WORD en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPTM. 

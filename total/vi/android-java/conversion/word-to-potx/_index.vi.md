@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: POWERPOINT PPT POTM PPSX PPTM ODP PPS POT PPTX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi WORD sang POTX trong Ứng dụng Android hoặc trực tuyến" h2="Chuyển đổi WORD sang POTX trong Ứng dụng Android hoặc trực tuyến của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi WORD sang POTX trong Ứng dụng Android hoặc Ứng dụng trực tuyến" h2="Chuyển đổi WORD sang POTX trong Ứng dụng Android hoặc Ứng dụng trực tuyến của bạn mà không cần cài đặt Microsoft Word <sup>&reg;</sup> hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn là nhà phát triển Android đang muốn thêm tính năng chuyển đổi tài liệu vào ứng dụng của mình? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Thư viện tự động hóa định dạng tệp có thể giúp bạn tự động hóa quá trình chuyển đổi tài liệu trong các ứng dụng Android của mình. Để chuyển đổi tệp WORD sang POTX, trước tiên bạn có thể sử dụng API thao tác tài liệu [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) để chuyển đổi định dạng tệp WORD sang HTML. Sau đó, bằng cách sử dụng PowerPoint API [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/), bạn có thể tạo một Bản trình bày mới, viết nội dung HTML trong đó và lưu nó dưới dạng POTX. 

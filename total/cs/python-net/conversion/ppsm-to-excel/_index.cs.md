@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převést PPSM na EXCEL pomocí Pythonu nebo online" h2="Převod PPSM na EXCEL ve vašich aplikacích Python bez instalace Microsoft PowerPoint<sup>&reg;</sup> nebo Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převést PPSM na EXCEL pomocí Pythonu nebo online aplikace" h2="Převod PPSM na EXCEL ve vašich aplikacích Python bez instalace Microsoft PowerPoint<sup>&reg;</sup> nebo Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

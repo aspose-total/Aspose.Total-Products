@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTM MARKDOWN XLT XLSX XLS XLSB MHTML DIF XLSM ODS FODS EXCEL XLAM TSV SXC XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать POT в DIF через Java или онлайн" h2="Локальный Java API для экспорта POT в DIF без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать POT в DIF через Java или онлайн-приложение" h2="Локальный Java API для экспорта POT в DIF без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете преобразовать файл POT в DIF с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) в два шага. На первом этапе вы можете экспортировать POT в HTML с помощью [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Во-вторых, с помощью [Aspose.Cells for Java](https://products.aspose.com/cells/java/) вы можете конвертировать HTML в DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}

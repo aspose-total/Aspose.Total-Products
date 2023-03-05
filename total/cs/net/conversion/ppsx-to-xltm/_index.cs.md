@@ -1,5 +1,5 @@
 ---
-title: Převést PPSX na XLTM přes C# nebo online
+title: Převést PPSX na XLTM přes C# nebo online aplikace
 description: Převeďte PPSX na XLTM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/ppsx-to-xltm/
 family: total
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX XLTM DIF XLSB XLAM XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést PPSX na XLTM přes C# nebo online" h2=".NET API pro převod PPSX do XLTM bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést PPSX na XLTM přes C# nebo online aplikace" h2=".NET API pro převod PPSX do XLTM bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for .NET](https://products.aspose.com/total/net/) můžete převést soubor PPSX na XLTM v rámci libovolné aplikace .NET, C#, ASP.NET a VB.NET ve dvou jednoduché kroky. Za prvé, pomocí [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) můžete exportovat PPSX do HTML. Ppsxé můžete pomocí rozhraní [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API převést HTML na XLTM.

@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTX RTF WORD FLATOPC DOTM DOCM WORDML DOC TEXT DOCX OTT DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのODTにPOTをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTをODTに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのODTにPOTをレンダリングする またはオンラインアプリ" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTをODTに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPOTからWordODTへの変換プロセスを自動化できます。

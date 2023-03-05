@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOTX DOCX WORDML RTF TEXT DOTM DOCM OTT FLATOPC ODT WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendre PPTM en DOT sur Andorid via Java ou en ligne" h2="API de format de fichier pour convertir PPTM en DOT dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendre PPTM en DOT sur Andorid via Java ou application en ligne" h2="API de format de fichier pour convertir PPTM en DOT dans les applications Android sans dépendre de Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permet de manipuler les formats de fichiers dans les applications Android. En utilisant les API fournies dans le package, vous pouvez automatiser le processus de conversion de PowerPoint PPTM en Word DOT dans vos applications.

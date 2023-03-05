@@ -1,6 +1,6 @@
 ---
 title: Java API to Convert ODT to FODS
-description: Convert ODT to FODS via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+description: Convert ODT to FODS via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/odt-to-fods/
 family: total
 platformtag: java
@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: TSV XLSM XLSB XLSX ODS XLT XLTX CSV SXC XLS XLTM EXCEL DIF XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert ODT to FODS via Java or online" h2="On Premise Java API to convert ODT to FODS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert ODT to FODS via Java or Online App" h2="On Premise Java API to convert ODT to FODS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  Converting ODT to FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export ODT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to FODS.

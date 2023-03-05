@@ -1,5 +1,5 @@
 ---
-title: Převést DOCX na POT přes Java nebo online
+title: Převést DOCX na POT přes Java nebo online aplikace
 description: Java API pro export DOCX do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/docx-to-pot/
 family: total
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: POWERPOINT PPS POTM PPTX POTX PPSM POT PPT PPSX PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOCX na POT přes Java nebo online" h2="Konverze DOCX na POT pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést DOCX na POT přes Java nebo online aplikace" h2="Konverze DOCX na POT pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Často musí vývojáři převést soubor DOCX na POT programově. Pomocí knihoven File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete automatizovat proces vykreslování v několika jednoduchých krocích. Soubor DOCX můžete načíst pomocí [Aspose.Words for Java](https://products.aspose.com/words/java/) a převést jej do HTML. Poté pomocí výkonného rozhraní Java API pro manipulaci v PowerPointu [Aspose.Slides for Java](https://products.aspose.com/slides/java/) můžete vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako POT .
 {{% /blocks/products/pf/feature-page-summary  %}}

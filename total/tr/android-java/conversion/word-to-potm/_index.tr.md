@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: ODP POTX PPS PPSX PPT PPTM PPSM PPTX POT POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında WORD'yi POTM'ye Dönüştür veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda WORD'den POTM'ye dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında WORD'yi POTM'ye Dönüştür veya Çevrimiçi Uygulama" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Android Uygulamalarınızda WORD'den POTM'ye dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Uygulamanıza belge dönüştürme özelliği eklemek isteyen bir Android geliştiricisi misiniz? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dosya Biçimi Otomasyonu kitaplıkları, Android uygulamalarınızda belge dönüştürme işlemini otomatikleştirmenize yardımcı olabilir. WORD dosyasını POTM'ye dönüştürmek için, önce WORD dosya biçimini HTML'ye dönüştürmek için belge işleme API'sini [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) kullanabilirsiniz. Bundan sonra PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) kullanarak yeni bir Sunum oluşturabilir, içine HTML içeriği yazabilir ve farklı olarak kaydedebilirsiniz. POTM. 

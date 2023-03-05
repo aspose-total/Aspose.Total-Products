@@ -1,5 +1,5 @@
 ---
-title: تحويل DOC إلى PPT عبر Java أو عبر الإنترنت
+title: تحويل DOC إلى PPT عبر Java أو التطبيق عبر الإنترنت
 description: Java API لتصدير DOC إلى PPT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/java/conversion/doc-to-ppt/
 family: total
@@ -10,12 +10,12 @@ outformat: PPT
 otherformats: POT PPS PPT PPTX PPSX PPTM POWERPOINT POTX PPSM POTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOC إلى PPT عبر Java أو عبر الإنترنت" h2="تحويل DOC إلى PPT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="تحويل DOC إلى PPT عبر Java أو التطبيق عبر الإنترنت" h2="تحويل DOC إلى PPT باستخدام واجهة برمجة تطبيقات Java في أماكن العمل داخل أي تطبيقات Java J2SE و J2EE و J2ME دون استخدام Microsoft<sup>&reg;</sup> PowerPoint أو Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 في كثير من الأحيان يتعين على المطورين تحويل ملف DOC إلى PPT برمجيًا. باستخدام مكتبات Java لأتمتة الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/) يمكنك أتمتة عملية العرض في بضع خطوات بسيطة. يمكنك تحميل ملف DOC الخاص بك باستخدام [Aspose.Words for Java](https://products.aspose.com/words/java/) وتحويله إلى HTML. بعد ذلك باستخدام واجهة برمجة تطبيقات Java API قوية للمعالجة في PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه كـ PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOC إلى PPT عبر Java أو عبر الإنترنت" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل DOC إلى PPT عبر Java أو التطبيق عبر الإنترنت" %}}
 1. افتح ملف DOC باستخدام فئة [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. تحويل ملف DOC إلى HTML باستخدام [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String.com.aspose.words.SaveOptions)) طريقة
 3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) جديد تهيئة كائن

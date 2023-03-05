@@ -11,7 +11,7 @@ otherformats: POWERPOINT PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="通過 C# 將 TSV 轉換為 DOC 或在線" h2="導出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 TSV 到 DOC">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="通過 C# 將 TSV 轉換為 DOC 或在線應用程序" h2="導出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 TSV 到 DOC">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

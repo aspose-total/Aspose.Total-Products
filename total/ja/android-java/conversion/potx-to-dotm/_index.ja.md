@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: FLATOPC DOT RTF DOTX WORD TEXT OTT DOC WORDML DOCM ODT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのDOTMにPOTXをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTXをDOTMに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのDOTMにPOTXをレンダリングする またはオンラインアプリ" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPOTXをDOTMに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPOTXからWordDOTMへの変換プロセスを自動化できます。

@@ -1,6 +1,6 @@
 ---
-title: 通过 Java 将 PPSM 转换为 MARKDOWN 或在线 格式
-description: 通过 Java 将 PPSM 转换为 MARKDOWN 或在线 格式，而不使用 Microsoft Excel 或 PowerPoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
+title: 通过 Java 将 PPSM 转换为 MARKDOWN 或在线应用程序 格式
+description: 通过 Java 将 PPSM 转换为 MARKDOWN 或在线应用程序 格式，而不使用 Microsoft Excel 或 PowerPoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/java/conversion/ppsm-to-markdown/
 family: total
 platformtag: net
@@ -10,12 +10,12 @@ outformat: MARKDOWN
 otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL MARKDOWN MHTML FODS ODS XLAM TSV XLTM XLSB XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 PPSM 转换为 MARKDOWN 或在线" h2="无需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint 即可将 PPSM 导出为 MARKDOWN 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 PPSM 转换为 MARKDOWN 或在线应用程序" h2="无需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint 即可将 PPSM 导出为 MARKDOWN 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 您可以通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 分两步将 PPSM 文件转换为 MARKDOWN。在第一步中，您可以使用 [Aspose.Slides for Java](https://products.aspose.com/slides/java/) 将 PPSM 导出为 HTML。其次，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)，您可以将 HTML 转换为 MARKDOWN。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 PPSM 转换为 MARKDOWN 或在线" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 PPSM 转换为 MARKDOWN 或在线应用程序" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 类打开 PPSM 文件
 2. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) 将 PPSM 转换为 HTML。 ISaveOptions-) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档

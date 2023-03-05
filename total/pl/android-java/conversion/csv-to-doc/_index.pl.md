@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderuj CSV do DOC na Androidzie przez Javę lub online" h2="Przekształć CSV w DOC w swoich aplikacjach na Androida bez użycia Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderuj CSV do DOC na Androidzie przez Javę lub Aplikacja internetowa" h2="Przekształć CSV w DOC w swoich aplikacjach na Androida bez użycia Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) to pakiet zaawansowanych interfejsów API automatyzacji plików. Korzystając z dwóch jego interfejsów API, możesz zintegrować funkcję konwersji CSV na DOC w swoich aplikacjach na Androida. W pierwszym kroku możesz wyeksportować plik CSV do pliku PDF, używając [Aspose.Cells na Androida przez Javę](https://products.aspose.com/cells/android-java/). Następnie, używając [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), możesz przekonwertować PDF na DOC. 

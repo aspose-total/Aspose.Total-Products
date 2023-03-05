@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLSB CSV TSV XLTM ODS XLSX XLTX SXC XLAM XLS XLSM FODS XLT DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte DOT na EXCEL v aplikacích pro Android nebo online" h2="Export DOT do EXCEL v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte DOT na EXCEL v aplikacích pro Android nebo online aplikace" h2="Export DOT do EXCEL v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu DOT na EXCEL do svých aplikací pro Android. Za prvé, můžete převést DOT do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na EXCEL. 

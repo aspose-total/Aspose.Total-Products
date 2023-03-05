@@ -1,5 +1,5 @@
 ---
-title: A WORDML konvertálása POT-re Java segítségével vagy online
+title: A WORDML konvertálása POT-re Java segítségével vagy Online App
 description: Java API a WORDML exportálásához POT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/wordml-to-pot/
 family: total
@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPSX POTM PPSM PPTM POWERPOINT POT PPS PPTX PPT POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A WORDML konvertálása POT-re Java segítségével vagy online" h2="WORDML konvertálása POT-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A WORDML konvertálása POT-re Java segítségével vagy Online App" h2="WORDML konvertálása POT-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A fejlesztőknek gyakran programozottan kell konvertálniuk a WORDML fájlt POT-vé. A File Automation Java könyvtárak [Aspose.Total for Java](https://products.aspose.com/total/java/) használatával néhány egyszerű lépésben automatizálhatja a renderelési folyamatot. A WORDML-fájlt az [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával töltheti be, és konvertálhatja HTML formátumba. Ezt követően a hatékony PowerPoint manipulációs Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) segítségével új prezentációt hozhat létre, HTML-tartalmat írhat bele, és POT-ként mentheti. .
 {{% /blocks/products/pf/feature-page-summary  %}}

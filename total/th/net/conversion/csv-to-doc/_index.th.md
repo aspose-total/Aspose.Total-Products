@@ -11,7 +11,7 @@ otherformats: WORD POWERPOINT PPTX DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง CSV เป็น DOC ผ่าน C# หรือทางออนไลน์" h2="ส่งออก Excel&reg; CSV เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง CSV เป็น DOC ผ่าน C# หรือแอพออนไลน์" h2="ส่งออก Excel&reg; CSV เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

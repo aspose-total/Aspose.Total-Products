@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über Python in PPTM oder online" h2="Konvertierung von XLS in PPTM in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über Python in PPTM oder Online-App" h2="Konvertierung von XLS in PPTM in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

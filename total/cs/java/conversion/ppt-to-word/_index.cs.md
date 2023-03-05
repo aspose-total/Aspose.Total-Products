@@ -1,5 +1,5 @@
 ---
-title: Převeďte PPT na WORD přes Java nebo online
+title: Převeďte PPT na WORD přes Java nebo online aplikace
 description: Java API pro export PPT do WORD bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/ppt-to-word/
 family: total
@@ -10,7 +10,7 @@ outformat: WORDX
 otherformats: DOT RTF DOTX FLATOPC WORDX ODT DOTM TEXT WORDML WORDM WORD OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPT na WORD přes Java nebo online" h2="On Premise Java API pro PowerPoint převod PPT na WORD v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPT na WORD přes Java nebo online aplikace" h2="On Premise Java API pro PowerPoint převod PPT na WORD v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Knihovny pro automatizaci formátů souborů umožňují vývojářům Java automatizovat proces dávkového převodu PowerPoint PPT do Word WORD. Převod dokumentu je dvoukrokový proces a zahrnuje použití dvou rozhraní API. K převodu PPT do HTML použijeme [Aspose.Slides for Java](https://products.aspose.com/slides/java/), což je PowerPoint API pro manipulaci a správu prezentací. Ppté pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for Java](https://products.aspose.com/words/java/) převedeme HTML na WORD.
 {{% /blocks/products/pf/feature-page-summary  %}}

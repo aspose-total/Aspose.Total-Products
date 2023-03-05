@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOTM WORDML RTF ODT DOT OTT WORD DOC TEXT DOCM DOTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTMをFLATOPCにレンダリングするC++API またはオンライン" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTMをFLATOPCにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTMをFLATOPCにレンダリングするC++API またはオンラインアプリ" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPPTMをFLATOPCにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPPTMをWordFLATOPCに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPPTMをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをFLATOPCに変換できます。 

@@ -1,5 +1,5 @@
 ---
-title: Converti POT in DIF tramite C# o in linea
+title: Converti POT in DIF tramite C# o App online
 description: Converti POT in DIF in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/pot-to-dif/
 family: total
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTM MARKDOWN XLT XLSX XLS XLSB MHTML DIF XLSM ODS FODS EXCEL XLAM TSV SXC XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POT in DIF tramite C# o in linea" h2="API .NET per la conversione da POT a DIF senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti POT in DIF tramite C# o App online" h2="API .NET per la conversione da POT a DIF senza utilizzare Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for .NET](https://products.aspose.com/total/net/) puoi convertire il file POT in DIF all'interno di qualsiasi applicazione .NET, C#, ASP.NET e VB.NET in due semplici passaggi. Innanzitutto, utilizzando [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), puoi esportare POT in HTML. Successivamente, utilizzando l'API di programmazione per fogli di calcolo [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), è possibile convertire HTML in DIF.

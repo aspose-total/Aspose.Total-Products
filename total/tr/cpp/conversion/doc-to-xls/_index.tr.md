@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: CSV XLAM SXC TSV XLT EXCEL DIF XLSM XLTM XLSX XLSB FODS ODS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOC'yi XLS'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi C++ aracılığıyla XLS'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="DOC'yi XLS'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOC'yi C++ aracılığıyla XLS'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 DOC'den XLS'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOC'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi XLS'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOC'yi XLS'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOC'yi XLS'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) sınıf referansını kullanarak DOC dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) üye işlevini kullanarak DOC'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

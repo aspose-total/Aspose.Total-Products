@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi DOTX ke CSV
-description: C# API untuk Mengonversi DOTX ke CSV atau daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: C# API untuk Mengonversi DOTX ke CSV atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/dotx-to-csv/
 family: total
 platformtag: net
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: SXC DIF XLSB XLSM XLSX ODS XLT EXCEL XLAM TSV XLTM XLTX XLS FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi DOTX ke CSV atau daring" h2="Ekspor DOTX ke CSV melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# API untuk Mengonversi DOTX ke CSV atau Aplikasi Daring" h2="Ekspor DOTX ke CSV melalui C# tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/), Anda dapat menyertakan fitur konversi DOTX ke CSV dalam aplikasi .NET, C#, ASP.NET, dan VB.NET apa pun di dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Words for .NET](https://products.aspose.com/words/net/), Anda dapat mengekspor DOTX ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke CSV.

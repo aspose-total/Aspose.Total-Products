@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPSM PPS POWERPOINT POT ODP POTX PPTM PPT PPSX PPTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="在 Android 應用中將 WORDML 轉換為 POTM 或在線" h2="在您的 Android 應用程序中將 WORDML 轉換為 POTM，無需安裝 Microsoft Word<sup>&reg;</sup> 或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="在 Android 應用中將 WORDML 轉換為 POTM 或在線應用程序" h2="在您的 Android 應用程序中將 WORDML 轉換為 POTM，無需安裝 Microsoft Word<sup>&reg;</sup> 或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 您是一名希望為您的應用程序添加文檔轉換功能的 Android 開發人員嗎？ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 文件格式自動化庫可以幫助您在 Android 應用程序中自動化文檔轉換過程。為了將 WORDML 文件轉換為 POTM，您可以首先使用文檔操作 API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) 將 WORDML 文件格式轉換為 HTML。之後使用 PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)，您可以創建一個新的演示文稿，在其中寫入 HTML 內容，並將其另存為耗氧量。 

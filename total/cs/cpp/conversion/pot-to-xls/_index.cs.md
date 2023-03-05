@@ -1,5 +1,5 @@
 ---
-title: Převeďte POT do XLS přes C++ nebo online nebo pomocí bezplatného online převodníku
+title: Převeďte POT do XLS přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
 description: Exportujte POT do XLS v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS CSV XLTX SXC XLSB XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte POT do XLS přes C++ nebo online" h2="Konverze souborů POT do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte POT do XLS přes C++ nebo online aplikace" h2="Konverze souborů POT do XLS přes C++ bez použití Microsoft<sup>&reg;</sup> Excel nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for C++](https://products.aspose.com/total/cpp/) můžete převést soubor POT na XLS v aplikacích C++ ve dvou jednoduchých krocích. Za prvé, pomocí [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) můžete exportovat POT do HTML. Poté můžete pomocí rozhraní [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API převést HTML na XLS. 

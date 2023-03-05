@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOC WORDML DOTM TEXT OTT FLATOPC DOCM ODT DOT WORD DOTX RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPTX ke DOCX di Andorid melalui Java atau daring" h2="API format file untuk mengonversi PPTX ke DOCX dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPTX ke DOCX di Andorid melalui Java atau Aplikasi Daring" h2="API format file untuk mengonversi PPTX ke DOCX dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) memungkinkan manipulasi format file dalam aplikasi Android. Dengan menggunakan API yang disediakan dalam paket, Anda dapat mengotomatiskan proses konversi PowerPoint PPTX ke Word DOCX di aplikasi Anda.

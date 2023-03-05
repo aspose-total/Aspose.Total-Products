@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: OTT TEXT DOCM ODT DOT DOC WORD FLATOPC WORDML RTF DOCX DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPSX naar DOTM op Andorid via Java of online" h2="Bestandsformaat-API's om PPSX naar DOTM te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPSX naar DOTM op Andorid via Java of online-app" h2="Bestandsformaat-API's om PPSX naar DOTM te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint PPSX naar Word DOTM in uw apps automatiseren.

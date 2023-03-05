@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: POT PPSX PPTX PPSM PPTM PPT PPS POWERPOINT ODP POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOT in POTX oder online" h2="Exportieren Sie DOT in POTX innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von DOT in POTX oder Online-App" h2="Exportieren Sie DOT in POTX innerhalb Ihrer C++-Anwendungen, ohne Microsoft Word&reg; oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) besteht aus leistungsstarken Dateiautomatisierungs-APIs, die es ermöglichen, die DOT-zu-POTX-Konvertierung zu automatisieren, während zwei seiner APIs verwendet werden. Laden Sie Ihr DOT mit [Aspose.Words for C++](https://products.aspose.com/words/cpp/) und konvertieren Sie es in HTML, laden Sie dann das HTML über die PowerPoint-Manipulation C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), um eine neue Präsentation zu erstellen und als POTX zu speichern. 

@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLAM XLS SXC ODS DIF EXCEL TSV CSV XLSB XLTX XLT XLTM XLSX XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj MOBI na FODS w aplikacjach na Androida lub online" h2="Eksportuj MOBI do FODS w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj MOBI na FODS w aplikacjach na Androida lub Aplikacja internetowa" h2="Eksportuj MOBI do FODS w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) możesz zintegrować funkcję konwersji MOBI na FODS w swoich aplikacjach na Androida. Po pierwsze, możesz przekonwertować MOBI na HTML, korzystając z bogatego w funkcje interfejsu API do manipulacji dokumentami i konwersji [Aspose.Words na Androida przez Javę](https://products.aspose.com/words/android-java/). Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na FODS. 

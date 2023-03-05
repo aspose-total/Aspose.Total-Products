@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT PPTM POT POTX PPSX ODP PPT POTM PPS PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ODT'yi PPTX'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde ODT'yi PPTX'ye aktarın veya PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="ODT'yi PPTX'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde ODT'yi PPTX'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken ODT'den PPTX'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak ODT'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPTX olarak kaydedin. 

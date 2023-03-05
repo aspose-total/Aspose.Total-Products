@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan POTX ke XLTM melalui Python atau daring" h2="Konversi POTX ke XLTM di aplikasi Python Anda tanpa menginstal Microsoft PowerPoint<sup>&reg;</sup> atau Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan POTX ke XLTM melalui Python atau Aplikasi Daring" h2="Konversi POTX ke XLTM di aplikasi Python Anda tanpa menginstal Microsoft PowerPoint<sup>&reg;</sup> atau Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

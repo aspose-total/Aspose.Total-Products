@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python을 통해 XLSM를 POTX로 변환 또는 온라인" h2="Microsoft Excel<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Python 애플리케이션에서 XLSM를 POTX로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Python을 통해 XLSM를 POTX로 변환 또는 온라인 앱" h2="Microsoft Excel<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Python 애플리케이션에서 XLSM를 POTX로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

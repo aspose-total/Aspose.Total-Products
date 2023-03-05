@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: RTF DOCM WORDML DOTX DOCX TEXT DOT WORD DOC FLATOPC OTT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte POT do DOTM na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod POT na DOTM v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte POT do DOTM na Andoridu přes Javu nebo online aplikace" h2="Rozhraní API pro formát souborů pro převod POT na DOTM v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint POT do Word DOTM ve vašich aplikacích.

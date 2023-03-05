@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: DOC WORD DOCX RTF ODT OTT DOTX FLATOPC DOT TEXT WORDML DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPT ke DOTM di Andorid melalui Java atau daring" h2="API format file untuk mengonversi PPT ke DOTM dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPT ke DOTM di Andorid melalui Java atau Aplikasi Daring" h2="API format file untuk mengonversi PPT ke DOTM dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) memungkinkan manipulasi format file dalam aplikasi Android. Dengan menggunakan API yang disediakan dalam paket, Anda dapat mengotomatiskan proses konversi PowerPoint PPT ke Word DOTM di aplikasi Anda.

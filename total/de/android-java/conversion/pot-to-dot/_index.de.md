@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOCM DOCX OTT TEXT ODT WORDML DOC FLATOPC DOTM RTF WORD DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie POT zu DOT auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von POT in DOT in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie POT zu DOT auf Andorid über Java oder Online-App" h2="Dateiformat-APIs zum Konvertieren von POT in DOT in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint POT in Word DOT in Ihren Apps automatisieren.

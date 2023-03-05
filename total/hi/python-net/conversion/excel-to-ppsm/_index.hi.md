@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="पायथन के माध्यम से बीएमपी को जीआईएफ में बदलें या ऑनलाइन" h2="Microsoft Excel<sup>&reg;</sup> या PowerPoint स्थापित किए बिना आपके Python एप्लिकेशन में EXCEL से PPSM रूपांतरण" >}}
+{{< blocks/products/pf/feature-page-header h1="पायथन के माध्यम से बीएमपी को जीआईएफ में बदलें या ऑनलाइन ऐप" h2="Microsoft Excel<sup>&reg;</sup> या PowerPoint स्थापित किए बिना आपके Python एप्लिकेशन में EXCEL से PPSM रूपांतरण" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

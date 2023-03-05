@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPS POTX PPT POTM PPTX PPSX POWERPOINT PPSM PPTM POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="FLATOPCをODPに変換するC++API またはオンライン" h2="Microsoft Wordを使用せずに、C++アプリケーション内でFLATOPCをODPにエクスポートします。またはPowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="FLATOPCをODPに変換するC++API またはオンラインアプリ" h2="Microsoft Wordを使用せずに、C++アプリケーション内でFLATOPCをODPにエクスポートします。またはPowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらFLATOPCからODPへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してFLATOPCを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、ODPとして保存します。 

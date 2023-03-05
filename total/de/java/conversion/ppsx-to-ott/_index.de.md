@@ -1,5 +1,5 @@
 ---
-title: Konvertieren Sie PPSX über Java in OTT oder online
+title: Konvertieren Sie PPSX über Java in OTT oder Online-App
 description: Java-API zum Exportieren von PPSX nach OTT, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/ppsx-to-ott/
 family: total
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPSX über Java in OTT oder online" h2="Lokale Java-API für PowerPoint PPSX-zu-OTT-Konvertierung in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPSX über Java in OTT oder Online-App" h2="Lokale Java-API für PowerPoint PPSX-zu-OTT-Konvertierung in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken zur Dateiformatautomatisierung ermöglichen Java-Entwicklern, den Stapelkonvertierungsprozess von PowerPoint PPSX in Word OTT zu automatisieren. Das Konvertieren des Document ist ein zweistufiger Prozess und beinhaltet die Verwendung von zwei APIs. Wir verwenden [Aspose.Slides for Java](https://products.aspose.com/slides/java/), eine PowerPoint-API für die Bearbeitung und Verwaltung von Präsentationen, um PPSX in HTML zu konvertieren. Danach konvertieren wir mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) den HTML-Code in OTT.
 {{% /blocks/products/pf/feature-page-summary  %}}

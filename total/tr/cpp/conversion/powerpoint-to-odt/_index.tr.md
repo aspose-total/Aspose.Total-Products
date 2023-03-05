@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM DOC WORD DOCM DOCX WORDML DOT RTF TEXT FLATOPC OTT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u ODT'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POWERPOINT'u ODT'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="POWERPOINT'u ODT'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında POWERPOINT'u ODT'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint POWERPOINT'u Word ODT'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce POWERPOINT'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi ODT'ye dönüştürebilirsiniz. 

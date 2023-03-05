@@ -10,12 +10,12 @@ outformat: XLSM
 otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV XLSM MARKDOWN XLS XLTX XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java를 통해 PPSM을 XLSM로 변환 또는 온라인" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 PPSM를 XLSM로 내보내는 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java를 통해 PPSM을 XLSM로 변환 또는 온라인 앱" h2="Microsoft<sup>&reg;</sup> Excel 또는 PowerPoint를 사용하지 않고 PPSM를 XLSM로 내보내는 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)를 통해 2단계로 PPSM 파일을 XLSM로 변환할 수 있습니다. 첫 번째 단계에서 [Aspose.Slides for Java](https://products.aspose.com/slides/java/)를 사용하여 PPSM을 HTML로 내보낼 수 있습니다. 둘째, [Aspose.Cells for Java](https://products.aspose.com/cells/java/)를 사용하여 HTML을 XLSM로 변환할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java를 통해 PPSM을 XLSM로 변환 또는 온라인하는 방법" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java를 통해 PPSM을 XLSM로 변환 또는 온라인 앱하는 방법" %}}
 1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPSM 파일을 엽니다.
 2. [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 PPSM을 HTML로 변환합니다. ISaveOptions-) 메서드
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드

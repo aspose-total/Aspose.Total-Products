@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Python 將 POWERPOINT 轉換為 TSV 或在線" h2="無需安裝 Microsoft PowerPoint<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 POWERPOINT 轉換為 TSV" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Python 將 POWERPOINT 轉換為 TSV 或在線應用程序" h2="無需安裝 Microsoft PowerPoint<sup>&reg;</sup> 或 Excel，即可在 Python 應用程序中將 POWERPOINT 轉換為 TSV" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi XLTX sang PPSM qua Python hoặc trực tuyến" h2="Chuyển đổi XLTX sang PPSM trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Excel<sup>&reg;</sup> hoặc PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi XLTX sang PPSM qua Python hoặc Ứng dụng trực tuyến" h2="Chuyển đổi XLTX sang PPSM trong các ứng dụng Python của bạn mà không cần cài đặt Microsoft Excel<sup>&reg;</sup> hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

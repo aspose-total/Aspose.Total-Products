@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie CSV über Python in PPS oder online" h2="Konvertierung von CSV in PPS in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie CSV über Python in PPS oder Online-App" h2="Konvertierung von CSV in PPS in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

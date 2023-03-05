@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über Python in RTF oder online" h2="Konvertierung von XLS in RTF in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie XLS über Python in RTF oder Online-App" h2="Konvertierung von XLS in RTF in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

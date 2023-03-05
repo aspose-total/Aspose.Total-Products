@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOTX DOC DOTM ODT DOCM RTF DOCX OTT WORDML TEXT FLATOPC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのWORDにPPTをレンダリングする またはオンライン" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTをWORDに変換するファイル形式のAPI" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndoridのWORDにPPTをレンダリングする またはオンラインアプリ" h2="Microsoft PowerPointやWordに依存せずに、Androidアプリ内でPPTをWORDに変換するファイル形式のAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でファイル形式を操作できます。パッケージで提供されているAPIを使用することで、アプリでPowerPointPPTからWordWORDへの変換プロセスを自動化できます。

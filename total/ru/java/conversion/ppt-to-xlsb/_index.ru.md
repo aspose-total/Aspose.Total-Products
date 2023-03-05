@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLSM XLT XLS TSV XLTX DIF SXC XLAM XLTM XLSX XLSB ODS FODS MHTML EXCEL MARKDOWN DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPT в XLSB через Java или онлайн" h2="Локальный Java API для экспорта PPT в XLSB без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPT в XLSB через Java или онлайн-приложение" h2="Локальный Java API для экспорта PPT в XLSB без использования Microsoft<sup>&reg;</sup> Excel или PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете преобразовать файл PPT в XLSB с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) в два шага. На первом этапе вы можете экспортировать PPT в HTML с помощью [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Во-вторых, с помощью [Aspose.Cells for Java](https://products.aspose.com/cells/java/) вы можете конвертировать HTML в XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}

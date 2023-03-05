@@ -1,5 +1,5 @@
 ---
-title: Converter PPTX para MARKDOWN via C++ ou online ou com o conversor online grátis
+title: Converter PPTX para MARKDOWN via C++ ou aplicativo on-line ou com o conversor online grátis
 description: Exporte PPTX para MARKDOWN em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
@@ -10,7 +10,7 @@ outformat: MARKDOWN
 otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS CSV XLSB MHTML XLSM XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter PPTX para MARKDOWN via C++ ou online" h2="Conversão de arquivo PPTX para MARKDOWN via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter PPTX para MARKDOWN via C++ ou aplicativo on-line" h2="Conversão de arquivo PPTX para MARKDOWN via C++ sem usar o Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Usando [Aspose.Total for C++](https://products.aspose.com/total/cpp/) você pode converter o arquivo PPTX para MARKDOWN dentro de aplicativos C++ em duas etapas simples. Em primeiro lugar, usando [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), você pode exportar PPTX para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, você pode converter HTML para MARKDOWN. 

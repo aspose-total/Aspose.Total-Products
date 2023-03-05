@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: FLATOPC DOTM TEXT DOTX RTF WORD DOC DOCX OTT DOT ODT WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderizar PPSM a DOCM en Andorid a través de Java o en línea" h2="API de formato de archivo para convertir PPSM a DOCM dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderizar PPSM a DOCM en Andorid a través de Java o aplicación en línea" h2="API de formato de archivo para convertir PPSM a DOCM dentro de las aplicaciones de Android sin depender de Microsoft PowerPoint o Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite manipular formatos de archivo dentro de las aplicaciones de Android. Al utilizar las API proporcionadas en el paquete, puede automatizar el proceso de conversión de PowerPoint PPSM a Word DOCM en sus aplicaciones.

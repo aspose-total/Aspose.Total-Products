@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python을 통해 FODS를 DOCM로 변환 또는 온라인" h2="Microsoft Excel<sup>&reg;</sup> 또는 Word를 설치하지 않고 Python 애플리케이션에서 FODS를 DOCM로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Python을 통해 FODS를 DOCM로 변환 또는 온라인 앱" h2="Microsoft Excel<sup>&reg;</sup> 또는 Word를 설치하지 않고 Python 애플리케이션에서 FODS를 DOCM로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Konvertieren Sie PPTX über C# in XLSB oder online
+title: Konvertieren Sie PPTX über C# in XLSB oder Online-App
 description: Konvertieren Sie PPTX in C# in XLSB, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/pptx-to-xlsb/
 family: total
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: MARKDOWN XLSM EXCEL XLAM XLT XLSB XLTX XLS DIF XLSX MHTML SXC TSV FODS XLTM ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPTX über C# in XLSB oder online" h2=".NET-API für die PPTX-zu-XLSB-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPTX über C# in XLSB oder Online-App" h2=".NET-API für die PPTX-zu-XLSB-Konvertierung ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for .NET](https://products.aspose.com/total/net/) können Sie PPTX-Dateien innerhalb jeder .NET-, C#-, ASP.NET- und VB.NET-Anwendung in zwei Fällen in XLSB konvertieren einfache Schritte. Erstens können Sie mit [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) PPTX in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) HTML in XLSB konvertieren.

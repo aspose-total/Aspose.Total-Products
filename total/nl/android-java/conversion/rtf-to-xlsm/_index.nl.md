@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLAM TSV XLT XLTX EXCEL XLTM XLSB XLS CSV ODS FODS SXC DIF XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar XLSM in Android-applicaties of online" h2="Exporteer RTF naar XLSM in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer RTF naar XLSM in Android-applicaties of online-app" h2="Exporteer RTF naar XLSM in Android via Java zonder Microsoft<sup>&reg;</sup> Word of Microsoft<sup>&reg;</sup> Excel te gebruiken" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Door [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) te gebruiken, kunt u de RTF-naar-XLSM-conversiefunctie in uw Android-applicaties integreren. Ten eerste kunt u RTF naar HTML converteren door gebruik te maken van de veelzijdige, rtfumentmanipulatie- en conversie-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML naar XLSM converteren. 

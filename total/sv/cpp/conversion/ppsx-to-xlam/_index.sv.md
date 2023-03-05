@@ -1,5 +1,5 @@
 ---
-title: Konvertera PPSX till XLAM via C++ eller online eller med gratis Online Converter
+title: Konvertera PPSX till XLAM via C++ eller onlineapp eller med gratis Online Converter
 description: Exportera PPSX till XLAM i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: MARKDOWN ODS XLTX XLT CSV XLTM FODS MHTML DIF XLS XLSB SXC EXCEL TSV XLSX XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera PPSX till XLAM via C++ eller online" h2="PPSX till XLAM-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera PPSX till XLAM via C++ eller onlineapp" h2="PPSX till XLAM-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kan du konvertera PPSX-fil till XLAM inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du exportera PPSX till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till XLAM. 

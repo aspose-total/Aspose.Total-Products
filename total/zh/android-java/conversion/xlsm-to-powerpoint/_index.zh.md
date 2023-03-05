@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX WORD DOCX DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 XLSM 渲染为 POWERPOINT 或在线" h2="在您的 Android 应用程序中将 XLSM 转换为 POWERPOINT，而无需使用 Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 XLSM 渲染为 POWERPOINT 或在线应用程序" h2="在您的 Android 应用程序中将 XLSM 转换为 POWERPOINT，而无需使用 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一个强大的文件自动化 API 包。通过使用它的两个 API，您可以在 Android 应用程序中集成 XLSM 到 POWERPOINT 的转换功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 将 XLSM 导出为 PDF。之后，通过使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以将 PDF 转换为 POWERPOINT。 

@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Python 将 POTM 转换为 XLSX 或在线" h2="无需安装 Microsoft PowerPoint<sup>&reg;</sup> 或 Excel，即可在 Python 应用程序中将 POTM 转换为 XLSX" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Python 将 POTM 转换为 XLSX 或在线应用程序" h2="无需安装 Microsoft PowerPoint<sup>&reg;</sup> 或 Excel，即可在 Python 应用程序中将 POTM 转换为 XLSX" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Converti POWERPOINT in OTT tramite Java o in linea
+title: Converti POWERPOINT in OTT tramite Java o App online
 description: API Java per esportare POWERPOINT in OTT senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/powerpoint-to-ott/
 family: total
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOTX ODT WORDML DOT DOTM WORD RTF OTTM OTT TEXT FLATOPC OTTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti POWERPOINT in OTT tramite Java o in linea" h2="API Java on-premise per la conversione PowerPoint da POWERPOINT a OTT all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti POWERPOINT in OTT tramite Java o App online" h2="API Java on-premise per la conversione PowerPoint da POWERPOINT a OTT all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Le librerie File Format Automation consentono agli sviluppatori Java di automatizzare il processo di conversione batch di PowerPoint POWERPOINT in Word OTT. La conversione del documento è un processo in due fasi e prevede l'utilizzo di due API. Useremo [Aspose.Slides for Java](https://products.aspose.com/slides/java/) che è un'API PowerPoint per la manipolazione e la gestione delle presentazioni per convertire POWERPOINT in HTML. Successivamente, utilizzando l'API di elaborazione testi ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/) convertiremo l'HTML in OTT.
 {{% /blocks/products/pf/feature-page-summary  %}}

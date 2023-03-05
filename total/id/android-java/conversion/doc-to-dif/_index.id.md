@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLT XLTX FODS XLSM XLSX XLAM XLSB XLTM EXCEL SXC TSV CSV XLS ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi DOC ke DIF di Aplikasi Android atau daring" h2="Ekspor DOC ke DIF di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi DOC ke DIF di Aplikasi Android atau Aplikasi Daring" h2="Ekspor DOC ke DIF di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi DOC ke DIF di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi DOC ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke DIF. 

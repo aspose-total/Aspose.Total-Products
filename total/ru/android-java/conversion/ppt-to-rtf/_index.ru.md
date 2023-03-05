@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOT DOTM TEXT WORD DOCM DOCX FLATOPC OTT DOTX DOC ODT WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Рендеринг PPT в RTF на Andorid через Java или онлайн" h2="API форматов файлов для преобразования PPT в RTF в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Рендеринг PPT в RTF на Andorid через Java или онлайн-приложение" h2="API форматов файлов для преобразования PPT в RTF в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) позволяет управлять форматами файлов в приложениях Android. С помощью API-интерфейсов, предоставляемых в пакете, вы можете автоматизировать процесс преобразования PowerPoint PPT в Word RTF в своих приложениях.

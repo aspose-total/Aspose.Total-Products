@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: POWERPOINT DOCX DOC PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render CSV to WORD on Android via Java or online" h2="Transform CSV to WORD within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Render CSV to WORD on Android via Java or Online App" h2="Transform CSV to WORD within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is a package of powerful File Automation APIs. By using two of its APIs, you can integrate CSV to WORD conversion feature inside your Android applications. In the first step you can export CSV to PDF by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). After that, by using [Aspose.PDF for Android via  Java](https://products.aspose.com/pdf/android-java/), you can convert PDF to WORD.

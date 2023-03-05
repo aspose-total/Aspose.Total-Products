@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python을 사용하여 DOTM를 POT로 변환 또는 온라인" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Python 응용 프로그램에서 DOTM에서 POT로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Python을 사용하여 DOTM를 POT로 변환 또는 온라인 앱" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Python 응용 프로그램에서 DOTM에서 POT로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

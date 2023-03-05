@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOTM para TSV via Java ou online" h2="API Java no local para converter DOTM para TSV sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOTM para TSV via Java ou aplicativo on-line" h2="API Java no local para converter DOTM para TSV sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter DOTM para TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de dotmumentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOTM para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

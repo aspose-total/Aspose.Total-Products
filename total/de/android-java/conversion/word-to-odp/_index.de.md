@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPT POTM PPSM POWERPOINT PPTX POT PPS PPTM POTX PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORD in ODP in Android-Apps oder online" h2="Umwandlung von WORD in ODP in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORD in ODP in Android-Apps oder Online-App" h2="Umwandlung von WORD in ODP in Ihren Android-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sind Sie ein Android-Entwickler und möchten Ihrer Anwendung eine Dokumentkonvertierungsfunktion hinzufügen? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Dateiformatautomatisierungsbibliotheken können Ihnen helfen, den Dokumentenkonvertierungsprozess in Ihren Android-Anwendungen zu automatisieren. Um die WORD-Datei in ODP zu konvertieren, können Sie zuerst die Dokumentbearbeitungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden, um das WORD-Dateiformat in HTML zu konvertieren. Danach können Sie mithilfe der PowerPoint-API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) eine neue Präsentation erstellen, HTML-Inhalte darin schreiben und sie speichern als ODP. 

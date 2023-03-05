@@ -1,5 +1,5 @@
 ---
-title: C++を介してPOTMをFODSに変換する またはオンライン または無料のオンライン コンバーターを使用
+title: C++を介してPOTMをFODSに変換する またはオンラインアプリ または無料のオンライン コンバーターを使用
 description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOTMをFODSにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: MHTML EXCEL XLSX CSV ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN XLTX XLTM DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++を介してPOTMをFODSに変換する またはオンライン" h2="Microsoft <sup>&reg;</sup>ExcelまたはPowerPointを使用せずにC++を介してPOTMからFODSファイルに変換" >}}
+{{< blocks/products/pf/feature-page-header h1="C++を介してPOTMをFODSに変換する またはオンラインアプリ" h2="Microsoft <sup>&reg;</sup>ExcelまたはPowerPointを使用せずにC++を介してPOTMからFODSファイルに変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)を使用すると、2つの簡単な手順でC++アプリケーション内でPOTMファイルをFODSに変換できます。まず、[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用すると、POTMをHTMLにエクスポートできます。その後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)Spreadsheet Programming APIを使用して、HTMLをFODSに変換できます。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++を介してPOTMをFODSに変換する またはオンライン方法" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++を介してPOTMをFODSに変換する またはオンラインアプリ方法" %}}
 1. [プレゼンテーション](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation)クラスリファレンスを使用してPOTMファイルを開きます
 2. [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)メソッドを使用してPOTMをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします

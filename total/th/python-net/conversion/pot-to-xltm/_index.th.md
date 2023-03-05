@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง POT เป็น XLTM ผ่าน Python หรือทางออนไลน์" h2="การแปลง POT เป็น XLTM ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft PowerPoint<sup>&reg;</sup> หรือ Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง POT เป็น XLTM ผ่าน Python หรือแอพออนไลน์" h2="การแปลง POT เป็น XLTM ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft PowerPoint<sup>&reg;</sup> หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: SXC CSV XLTX XLAM XLS FODS DIF XLT XLSM TSV EXCEL XLSB XLTM XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOCM в ODS в приложениях для Android или онлайн" h2="Экспорт DOCM в ODS на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOCM в ODS в приложениях для Android или онлайн-приложение" h2="Экспорт DOCM в ODS на Android через Java без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Используя [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), вы можете интегрировать функцию преобразования DOCM в ODS в свои приложения для Android. Во-первых, вы можете конвертировать DOCM в HTML с помощью многофункционального API для обработки и преобразования документов [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), вы можете конвертировать HTML в ODS. 

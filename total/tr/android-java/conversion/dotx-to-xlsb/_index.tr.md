@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: XLTX EXCEL XLS XLT SXC FODS XLTM XLSX XLSM CSV TSV XLAM DIF ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTX'yi XLSB'ye Dönüştür veya çevrimiçi" h2="DOTX'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSB'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında DOTX'yi XLSB'ye Dönüştür veya Çevrimiçi Uygulama" h2="DOTX'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de XLSB'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda DOTX'den XLSB'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak DOTX'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi XLSB'ye dönüştürebilirsiniz. 

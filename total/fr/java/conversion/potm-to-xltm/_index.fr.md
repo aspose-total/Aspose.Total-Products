@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: MHTML SXC TSV XLSX XLTM XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT DIF XLS XLAM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTM en XLTM via Java ou en ligne" h2="API Java sur site pour exporter POTM vers XLTM sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir POTM en XLTM via Java ou application en ligne" h2="API Java sur site pour exporter POTM vers XLTM sans utiliser Microsoft<sup>&reg;</sup> Excel ou PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vous pouvez convertir le fichier POTM en XLTM via [Aspose.Total for Java](https://products.aspose.com/total/java/) en deux étapes. Dans la première étape, vous pouvez exporter POTM vers HTML en utilisant [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Deuxièmement, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}

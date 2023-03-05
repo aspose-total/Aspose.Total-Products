@@ -10,14 +10,14 @@ outformat: XLAM
 otherformats: XLSB XLTM XLTX DIF XLSX EXCEL SXC XLS TSV XLT ODS FODS XLSM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi DOTX sang XLAM hoặc trực tuyến" h2="Xuất DOTX sang XLAM qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ để chuyển đổi DOTX sang XLAM hoặc Ứng dụng trực tuyến" h2="Xuất DOTX sang XLAM qua C++ mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bạn có thể bao gồm tính năng chuyển đổi DOTX sang XLAM trong các ứng dụng C++ của mình một cách dễ dàng. Bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, mạnh mẽ và dễ sử dụng [Aspose.Words for C++](https://products.aspose.com/words/cpp/), bạn có thể xuất DOTX sang HTML. Sau đó, bằng cách sử dụng [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), bạn có thể chuyển đổi HTML sang XLAM. Cả hai API đều nằm trong gói [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOTX sang XLAM hoặc trực tuyến" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ để chuyển đổi DOTX sang XLAM hoặc Ứng dụng trực tuyến" %}}
 1. Mở tệp DOTX bằng tham chiếu lớp [Dotxument](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument)
 2. Chuyển đổi DOTX sang HTML bằng cách sử dụng hàm thành viên [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat)
 3. Tải tài liệu HTML bằng cách sử dụng tham chiếu lớp [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLTX FODS TSV SXC EXCEL XLS CSV XLTM XLT ODS DIF XLSB XLSX XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOCX in XLAM nelle applicazioni Android o in linea" h2="Esporta DOCX in XLAM in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOCX in XLAM nelle applicazioni Android o App online" h2="Esporta DOCX in XLAM in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da DOCX a XLAM all'interno delle tue applicazioni Android. In primo luogo, puoi convertire DOCX in HTML utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in XLAM. 

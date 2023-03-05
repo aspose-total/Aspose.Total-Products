@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง PPSM เป็น XLSX ผ่าน Python หรือทางออนไลน์" h2="การแปลง PPSM เป็น XLSX ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft PowerPoint<sup>&reg;</sup> หรือ Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง PPSM เป็น XLSX ผ่าน Python หรือแอพออนไลน์" h2="การแปลง PPSM เป็น XLSX ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft PowerPoint<sup>&reg;</sup> หรือ Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: XLSX FODS TSV XLSM SXC XLSB EXCEL CSV XLAM DIF XLTX XLT XLTM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a WORD XLS-vé konvertálásához vagy online" h2="WORD exportálása XLS-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a WORD XLS-vé konvertálásához vagy Online App" h2="WORD exportálása XLS-be C++-on keresztül Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Könnyedén beépíthet WORD-xls-átalakítási funkciót C++-alkalmazásaiba. A funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -konverziós API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) használatával WORD-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) használatával konvertálhatja a HTML-t XLS-vé. Mindkét API az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) csomagban található. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a WORD XLS-vé konvertálásához vagy online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API a WORD XLS-vé konvertálásához vagy Online App" %}}
 1. Nyissa meg a WORD-fájlt a [Wordument](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) osztályhivatkozás használatával
 2. Alakítsa át a WORD-t HTML-vé a [Save](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat) tagfüggvény használatával
 3. Töltsön be HTML-dokumentumot az [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) osztályhivatkozás használatával

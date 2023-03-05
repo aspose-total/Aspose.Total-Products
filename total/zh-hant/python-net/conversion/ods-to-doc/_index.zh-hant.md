@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Python 將 ODS 轉換為 DOC 或在線" h2="無需安裝 Microsoft Excel<sup>&reg;</sup> 或 Word，即可在 Python 應用程序中將 ODS 轉換為 DOC" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Python 將 ODS 轉換為 DOC 或在線應用程序" h2="無需安裝 Microsoft Excel<sup>&reg;</sup> 或 Word，即可在 Python 應用程序中將 ODS 轉換為 DOC" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

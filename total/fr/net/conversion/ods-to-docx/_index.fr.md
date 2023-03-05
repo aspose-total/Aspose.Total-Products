@@ -11,7 +11,7 @@ otherformats: PPTX DOC POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir ODS en DOCX via C# ou en ligne" h2="Exporter Excel® ODS vers DOCX sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir ODS en DOCX via C# ou application en ligne" h2="Exporter Excel® ODS vers DOCX sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

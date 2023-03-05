@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX POWERPOINT DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderelje le a XLT-t WORD-fájlba Androidon Java segítségével vagy online" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a XLT-t WORD formátumba Android-alkalmazásaiban" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderelje le a XLT-t WORD-fájlba Androidon Java segítségével vagy Online App" h2="A Microsoft<sup>&reg;</sup> Excel használata nélkül alakítsa át a XLT-t WORD formátumba Android-alkalmazásaiban" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) egy hatékony fájlautomatizálási API-k csomagja. Két API használatával integrálhatja a XLT-ből WORD-ba konvertáló funkciót Android-alkalmazásaiba. Az első lépésben exportálhatja a XLT-t PDF formátumba az [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) használatával. Ezt követően az [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) használatával konvertálhatja a PDF-et WORD formátumba. 

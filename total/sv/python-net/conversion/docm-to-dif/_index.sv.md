@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera DOCM till DIF via Python eller online" h2="DOCM till DIF-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera DOCM till DIF via Python eller onlineapp" h2="DOCM till DIF-konvertering i dina Python-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

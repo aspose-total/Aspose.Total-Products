@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง XLT เป็น DOCM ผ่าน Python หรือทางออนไลน์" h2="การแปลง XLT เป็น DOCM ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง XLT เป็น DOCM ผ่าน Python หรือแอพออนไลน์" h2="การแปลง XLT เป็น DOCM ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

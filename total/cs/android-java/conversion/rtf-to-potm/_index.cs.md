@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PPS PPT POT PPSM POWERPOINT POTX ODP PPTM PPTX PPSX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte RTF na POTM v aplikacích pro Android nebo online" h2="Převod RTF na POTM ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte RTF na POTM v aplikacích pro Android nebo online aplikace" h2="Převod RTF na POTM ve vašich aplikacích pro Android bez instalace Microsoft Word<sup>&reg;</sup> nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Jste vývojář Android a chcete do své aplikace přidat funkci převodu dokumentů? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Knihovny Automatizace formátu souborů vám mohou pomoci automatizovat proces převodu dokumentů ve vašich aplikacích pro Android. Chcete-li převést soubor RTF na POTM, můžete nejprve použít rozhraní API pro manipulaci s dokumenty [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) a převést formát souboru RTF do HTML. Poté můžete pomocí PowerPoint API [Aspose.Slides pro Android Java](https://products.aspose.com/slides/android-java/) vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako POTM. 

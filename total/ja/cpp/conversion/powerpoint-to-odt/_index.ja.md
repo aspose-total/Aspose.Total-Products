@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOTM DOC WORD DOCM DOCX WORDML DOT RTF TEXT FLATOPC OTT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POWERPOINTをODTにレンダリングするC++API またはオンライン" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPOWERPOINTをODTにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="POWERPOINTをODTにレンダリングするC++API またはオンラインアプリ" h2="MicrosoftPowerPointやWordに依存せずにC++アプリケーションでPOWERPOINTをODTにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、C++ファイル形式自動化ライブラリの完全なパッケージです。 pacakgeで利用可能なAPIの豊富な機能を使用することで、PowerPointPOWERPOINTをWordODTに簡単に変換できます。変換を実行するには、最初に[Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)APIを使用してPOWERPOINTをHTMLに変換できます。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用して、HTMLをODTに変換できます。 

@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POTX PPTX POT PPT PPS PPTM POWERPOINT POTM ODP PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCM'yi PPSM'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde DOCM'yi PPSM'ye aktarın veya PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCM'yi PPSM'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft Word&reg; kullanmadan C++ uygulamalarınız içinde DOCM'yi PPSM'ye aktarın veya PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), iki API'sini kullanırken DOCM'den PPSM'ye dönüştürmeyi otomatikleştirmeye izin veren güçlü dosya otomasyon API'lerinden oluşur. [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOCM'nizi yükleyin ve HTML'ye dönüştürün, ardından HTML'yi PowerPoint manipülasyonu C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) yeni bir sunum oluşturun ve PPSM olarak kaydedin. 

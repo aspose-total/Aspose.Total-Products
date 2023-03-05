@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a PPT-ot DOT-ba Java segítségével vagy online
+title: Konvertálja a PPT-ot DOT-ba Java segítségével vagy Online App
 description: Java API a PPT exportálásához DOT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/ppt-to-dot/
 family: total
@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: WORDML DOTM RTF DOTM TEXT OTT DOTX FLATOPC WORD DOTX DOT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPT-ot DOT-ba Java segítségével vagy online" h2="On Premise Java API a PowerPoint PPT-ból DOT konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPT-ot DOT-ba Java segítségével vagy Online App" h2="On Premise Java API a PowerPoint PPT-ból DOT konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) A fájlformátum-automatizálási könyvtárak lehetővé teszik a Java-fejlesztők számára, hogy automatizálják a PowerPoint PPT-ból Word DOT-ba történő kötegelt konvertálási folyamatát. A dokumentum konvertálása kétlépéses folyamat, és két API használatát foglalja magában. Az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) alkalmazást fogjuk használni, amely egy PowerPoint API a prezentációk manipulálásához és kezeléséhez a PPT HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a HTML-t DOT formátumba konvertáljuk.
 {{% /blocks/products/pf/feature-page-summary  %}}

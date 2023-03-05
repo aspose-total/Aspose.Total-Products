@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: TSV SXC EXCEL XLS FODS XLTM XLTX ODS CSV XLT XLSB XLAM XLSM XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert DOTX to DIF in Android Applications or online" h2="Export DOTX to DIF in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert DOTX to DIF in Android Applications or Online App" h2="Export DOTX to DIF in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate DOTX to DIF conversion feature inside your android applications. Firstly, you can convert DOTX to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to DIF.

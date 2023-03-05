@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX POWERPOINT DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie XLTX in WORD auf Android über Java oder online" h2="Wandeln Sie XLTX in WORD in Ihren Android-Anwendungen um, ohne Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie XLTX in WORD auf Android über Java oder Online-App" h2="Wandeln Sie XLTX in WORD in Ihren Android-Anwendungen um, ohne Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ist ein Paket leistungsstarker Dateiautomatisierungs-APIs. Durch die Verwendung von zwei seiner APIs können Sie die XLTX-zu-WORD-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Im ersten Schritt können Sie XLTX in PDF exportieren, indem Sie [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) verwenden. Danach können Sie mit [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) PDF in WORD konvertieren. 

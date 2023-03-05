@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert XLSB to PPT via Python or online" h2="XLSB to PPT conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert XLSB to PPT via Python or Online App" h2="XLSB to PPT conversion in your Python applications without installing Microsoft Excel<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

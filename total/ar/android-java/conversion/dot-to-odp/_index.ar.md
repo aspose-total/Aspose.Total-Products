@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPT POWERPOINT PPSX PPSM PPS POTM PPTM PPTX POT POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى ODP في تطبيقات Android أو عبر الإنترنت" h2="تحويل DOT إلى ODP في تطبيقات Android أو عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى ODP في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تحويل DOT إلى ODP في تطبيقات Android أو التطبيق عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف DOT إلى ODP ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف DOT إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم ODP. 

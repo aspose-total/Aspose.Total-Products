@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: RTF DOCM WORDML DOTX DOCX TEXT DOT WORD DOC FLATOPC OTT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंडोरिड पर पीओटी को डीओसी को प्रस्तुत करना या ऑनलाइन" h2="Microsoft PowerPoint या Word पर निर्भर किए बिना Android ऐप्स के भीतर POT को DOTM में बदलने के लिए फ़ाइल स्वरूप API" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के माध्यम से एंडोरिड पर पीओटी को डीओसी को प्रस्तुत करना या ऑनलाइन ऐप" h2="Microsoft PowerPoint या Word पर निर्भर किए बिना Android ऐप्स के भीतर POT को DOTM में बदलने के लिए फ़ाइल स्वरूप API" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Android ऐप्लिकेशन के भीतर फ़ाइल स्वरूपों में हेरफेर करने की अनुमति देता है। पैकेज में दिए गए API का उपयोग करके आप अपने ऐप्स में PowerPoint POT से Word DOTM रूपांतरण प्रक्रिया को स्वचालित कर सकते हैं।

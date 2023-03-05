@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOCX DOC DOCM WORD WORDML RTF ODT OTT DOTM TEXT FLATOPC DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPSX ke DOT di Andorid melalui Java atau daring" h2="API format file untuk mengonversi PPSX ke DOT dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPSX ke DOT di Andorid melalui Java atau Aplikasi Daring" h2="API format file untuk mengonversi PPSX ke DOT dalam aplikasi Android tanpa bergantung pada Microsoft PowerPoint atau Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) memungkinkan manipulasi format file dalam aplikasi Android. Dengan menggunakan API yang disediakan dalam paket, Anda dapat mengotomatiskan proses konversi PowerPoint PPSX ke Word DOT di aplikasi Anda.

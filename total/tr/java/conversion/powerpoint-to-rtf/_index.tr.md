@@ -1,5 +1,5 @@
 ---
-title: Java ile POWERPOINT'u RTF'ye dönüştürün veya çevrimiçi
+title: Java ile POWERPOINT'u RTF'ye dönüştürün veya Çevrimiçi Uygulama
 description: Microsoft Word veya PowerPoint kullanmadan POWERPOINT'u RTF'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/java/conversion/powerpoint-to-rtf/
 family: total
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: WORDML RTF FLATOPC OTT WORD DOTX RTFM DOTM RTFX DOT TEXT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java ile POWERPOINT'u RTF'ye dönüştürün veya çevrimiçi" h2="Herhangi bir Java J2SE, J2EE, J2ME uygulamasında PowerPoint POWERPOINT'tan RTF'ye dönüştürme için Şirket İçi Java API'si" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java ile POWERPOINT'u RTF'ye dönüştürün veya Çevrimiçi Uygulama" h2="Herhangi bir Java J2SE, J2EE, J2ME uygulamasında PowerPoint POWERPOINT'tan RTF'ye dönüştürme için Şirket İçi Java API'si" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Dosya Biçimi Otomasyonu kitaplıkları, Java geliştiricilerinin PowerPoint POWERPOINT'tan Word RTF'a toplu dönüştürme sürecini otomatikleştirmesini sağlar. Belgeyi dönüştürmek iki adımlı bir işlemdir ve iki API kullanmayı içerir. POWERPOINT'u HTML'ye dönüştürmek için sunum manipülasyonu ve yönetimi için bir PowerPoint API'si olan [Aspose.Slides for Java](https://products.aspose.com/slides/java/) kullanacağız. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak HTML'yi RTF'ye dönüştüreceğiz.
 {{% /blocks/products/pf/feature-page-summary  %}}

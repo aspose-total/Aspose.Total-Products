@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: ODT FLATOPC DOCM RTF DOTX WORDML DOT DOCX OTT DOTM WORD TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize PPSX para DOC no Andorid via Java ou online" h2="APIs de formato de arquivo para converter PPSX para DOC em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize PPSX para DOC no Andorid via Java ou aplicativo on-line" h2="APIs de formato de arquivo para converter PPSX para DOC em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint PPSX para Word DOC em seus aplicativos.

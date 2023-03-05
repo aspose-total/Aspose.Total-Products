@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: DOT DOCX WORDML DOCM TEXT OTT ODT RTF DOTX DOC DOTM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von PPSX in FLATOPC oder online" h2="Exportieren Sie PPSX in FLATOPC in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von PPSX in FLATOPC oder Online-App" h2="Exportieren Sie PPSX in FLATOPC in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) ist ein vollständiges Paket von C++ File Format Automation-Bibliotheken. Durch die Verwendung der reichhaltigen Funktionen der im Paket verfügbaren APIs können wir PowerPoint PPSX problemlos in Word FLATOPC konvertieren. Um die Konvertierung durchzuführen, können Sie zuerst die API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) verwenden, um PPSX in HTML zu konvertieren. Danach können Sie mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) den HTML-Code in FLATOPC konvertieren. 

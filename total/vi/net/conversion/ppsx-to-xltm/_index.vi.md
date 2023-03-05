@@ -1,5 +1,5 @@
 ---
-title: Chuyển đổi PPSX sang XLTM qua C# hoặc trực tuyến
+title: Chuyển đổi PPSX sang XLTM qua C# hoặc Ứng dụng trực tuyến
 description: Chuyển đổi PPSX sang XLTM trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/ppsx-to-xltm/
 family: total
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX XLTM DIF XLSB XLAM XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPSX sang XLTM qua C# hoặc trực tuyến" h2=".NET API để chuyển đổi PPSX sang XLTM mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPSX sang XLTM qua C# hoặc Ứng dụng trực tuyến" h2=".NET API để chuyển đổi PPSX sang XLTM mà không cần sử dụng Microsoft<sup>&reg;</sup> Excel hoặc PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for .NET](https://products.aspose.com/total/net/), bạn có thể chuyển đổi tệp PPSX thành XLTM trong bất kỳ ứng dụng .NET, C#, ASP.NET và VB.NET nào trong hai ứng dụng các bước đơn giản. Đầu tiên, bằng cách sử dụng [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), bạn có thể xuất PPSX sang HTML. Sau đó, bằng cách sử dụng API lập trình bảng tính [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), bạn có thể chuyển đổi HTML sang XLTM.

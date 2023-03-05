@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: XLTX XLS XLT XLAM SXC EXCEL XLSM XLTM TSV ODS DIF XLSB XLSX CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="सी ++ एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना DOTX को C++ के माध्यम से FODS में निर्यात करें" >}}
+{{< blocks/products/pf/feature-page-header h1="सी ++ एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए या ऑनलाइन ऐप" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना DOTX को C++ के माध्यम से FODS में निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 आप अपने C++ एप्लिकेशन में DOTX से FODS रूपांतरण सुविधा को आसानी से शामिल कर सकते हैं। सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) का उपयोग करके, आप HTML को DOTX निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) का उपयोग करके, आप HTML को FODS में बदल सकते हैं। दोनों API [Aspose.Total for C++](https://products.aspose.com/total/cpp/) पैकेज के अंतर्गत आते हैं। 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="सी ++ एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए या ऑनलाइन" %}}
+{{% blocks/products/pf/agp/feature-section-col title="सी ++ एपीआई डीओसी को सीएसवी में कनवर्ट करने के लिए या ऑनलाइन ऐप" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument) वर्ग संदर्भ का उपयोग करके DOTX फ़ाइल खोलें
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotxument#save_string_saveformat) सदस्य फ़ंक्शन का उपयोग करके DOTX को HTML में बदलें
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) वर्ग संदर्भ का उपयोग करके HTML दस्तावेज़ लोड करें

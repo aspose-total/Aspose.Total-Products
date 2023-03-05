@@ -11,7 +11,7 @@ otherformats: POWERPOINT DOC DOCX PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie CSV in WORD über C# oder online" h2="Excel exportieren&reg; CSV zu WORD auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie CSV in WORD über C# oder Online-App" h2="Excel exportieren&reg; CSV zu WORD auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

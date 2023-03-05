@@ -1,5 +1,5 @@
 ---
-title: Converti OTT in PPTM tramite Java o in linea
+title: Converti OTT in PPTM tramite Java o App online
 description: API Java per esportare OTT in PPTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/java/conversion/ott-to-pptm/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPT POTM POT PPSX PPTM POWERPOINT PPSM PPS POTX PPTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converti OTT in PPTM tramite Java o in linea" h2="Conversione da OTT a PPTM utilizzando l'API Java in locale all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converti OTT in PPTM tramite Java o App online" h2="Conversione da OTT a PPTM utilizzando l'API Java in locale all'interno di qualsiasi applicazione Java J2SE, J2EE, J2ME senza utilizzare Microsoft<sup>&reg;</sup> PowerPoint o Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Spesso gli sviluppatori devono convertire i file OTT in PPTM a livello di codice. Utilizzando le librerie Java di File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/) puoi automatizzare il processo di rendering in pochi semplici passaggi. Puoi caricare il tuo file OTT utilizzando [Aspose.Words for Java](https://products.aspose.com/words/java/) e convertirlo in HTML. Successivamente, utilizzando la potente API Java per la manipolazione di PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/) puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come PPTM .
 {{% /blocks/products/pf/feature-page-summary  %}}

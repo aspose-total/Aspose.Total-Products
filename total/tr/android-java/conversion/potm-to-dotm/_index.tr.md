@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: RTF DOTX WORD OTT FLATOPC TEXT DOCX ODT DOCM DOT WORDML DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de POTM'u DOTM'a dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında POTM'u DOTM'ye dönüştürmek için dosya biçimi API'leri" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Andorid'de POTM'u DOTM'a dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint veya Word'e bağlı kalmadan Android uygulamalarında POTM'u DOTM'ye dönüştürmek için dosya biçimi API'leri" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), Android uygulamalarında dosya biçimlerinin değiştirilmesine olanak tanır. Pakette sağlanan API'leri kullanarak, uygulamalarınızda PowerPoint POTM'tan Word DOTM'ye dönüştürme işlemini otomatikleştirebilirsiniz.

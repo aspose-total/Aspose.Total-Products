@@ -10,7 +10,7 @@ outformat: XLS
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POWERPOINT über Python in XLS oder online" h2="Konvertierung von POWERPOINT in XLS in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POWERPOINT über Python in XLS oder Online-App" h2="Konvertierung von POWERPOINT in XLS in Ihren Python-Anwendungen ohne Installation von Microsoft PowerPoint<sup>&reg;</sup> oder Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python을 사용하여 POTX를 DOCM로 변환 또는 온라인" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Python 응용 프로그램에서 POTX에서 DOCM로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Python을 사용하여 POTX를 DOCM로 변환 또는 온라인 앱" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Python 응용 프로그램에서 POTX에서 DOCM로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

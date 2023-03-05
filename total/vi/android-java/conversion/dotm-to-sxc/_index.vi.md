@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLSB XLSX DIF TSV XLAM XLT CSV ODS FODS XLSM EXCEL XLTX XLTM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOTM sang SXC trong các ứng dụng Android hoặc trực tuyến" h2="Xuất DOTM sang SXC trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOTM sang SXC trong các ứng dụng Android hoặc Ứng dụng trực tuyến" h2="Xuất DOTM sang SXC trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), bạn có thể tích hợp tính năng chuyển đổi DOTM sang SXC bên trong các ứng dụng Android của mình. Trước tiên, bạn có thể chuyển đổi DOTM sang HTML bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Sau đó, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang SXC. 

@@ -1,5 +1,5 @@
 ---
-title: Konvertieren Sie POT über C++ in CSV oder online oder mit dem kostenlosen Online Converter
+title: Konvertieren Sie POT über C++ in CSV oder Online-App oder mit dem kostenlosen Online Converter
 description: Exportieren Sie POT in C++ in CSV, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX TSV DIF XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POT über C++ in CSV oder online" h2="POT-zu-CSV-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POT über C++ in CSV oder Online-App" h2="POT-zu-CSV-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for C++](https://products.aspose.com/total/cpp/) können Sie die POT-Datei innerhalb von C++-Anwendungen in zwei einfachen Schritten in CSV konvertieren. Erstens können Sie mit [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) POT in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in CSV konvertieren. 

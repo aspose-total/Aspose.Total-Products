@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLS en DOCM via Python ou en ligne" h2="Conversion XLS en DOCM dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLS en DOCM via Python ou application en ligne" h2="Conversion XLS en DOCM dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

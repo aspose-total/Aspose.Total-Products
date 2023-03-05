@@ -1,5 +1,5 @@
 ---
-title: Konvertera PPTX till DOTX via Java eller online
+title: Konvertera PPTX till DOTX via Java eller onlineapp
 description: Java API för att exportera PPTX till DOTX utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/pptx-to-dotx/
 family: total
@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: RTF FLATOPC WORDML TEXT DOTXM OTT DOT DOTM DOTX ODT DOTXX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTX till DOTX via Java eller online" h2="On Premise Java API för PowerPoint PPTX till DOTX-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera PPTX till DOTX via Java eller onlineapp" h2="On Premise Java API för PowerPoint PPTX till DOTX-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total för Java](https://products.aspose.com/total/java/) Filformatsautomatiseringsbibliotek ger Java-utvecklare möjlighet att automatisera batchkonverteringsprocessen från PowerPoint PPTX till Word DOTX. Att konvertera dokumentet är en process i två steg och involverar användning av två API:er. Vi kommer att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/) som är ett PowerPoint-API för presentationsmanipulering och hantering för att konvertera PPTX till HTML. Efter det kommer vi att konvertera HTML till DOTX genom att använda funktionsrika Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

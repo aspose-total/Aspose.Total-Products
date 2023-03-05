@@ -1,5 +1,5 @@
 ---
-title: 通过 Java 将 PPS 转换为 WORDML 或在线
+title: 通过 Java 将 PPS 转换为 WORDML 或在线应用程序
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPS 导出为 WORDML 的 Java API 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/java/conversion/pps-to-wordml/
 family: total
@@ -10,12 +10,12 @@ outformat: WORDML
 otherformats: TEXT WORDMLM DOTM ODT WORDML DOTX DOT FLATOPC WORDMLX WORD OTT RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 PPS 转换为 WORDML 或在线" h2="在任何 Java J2SE、J2EE、J2ME 应用程序中用于 PowerPoint PPS 到 WORDML 的 On Premise Java API" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 Java 将 PPS 转换为 WORDML 或在线应用程序" h2="在任何 Java J2SE、J2EE、J2ME 应用程序中用于 PowerPoint PPS 到 WORDML 的 On Premise Java API" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) 文件格式自动化库使 Java 开发人员能够自动化 PowerPoint PPS 到 Word WORDML 的批量转换过程。转换文档是一个两步过程，涉及使用两个 API。我们将使用 [Aspose.Slides for Java](https://products.aspose.com/slides/java/)，它是一个用于演示文稿操作和管理的 PowerPoint API，将 PPS 转换为 HTML。之后，通过使用功能丰富的文字处理 API [Aspose.Words for Java](https://products.aspose.com/words/java/)，我们将 HTML 转换为 WORDML。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 PPS 转换为 WORDML 或在线" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通过 Java 将 PPS 转换为 WORDML 或在线应用程序" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 类打开 PPS 文件
 2. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides) 将 PPS 转换为 HTML。 ISaveOptions-) 方法并将 Html 设置为 SaveFormat
 3. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类加载转换后的 HTML 文件

@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: TEXT DOTM ODT WORDML DOTX DOC DOT WORD OTT DOCM RTF FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PPT naar DOCX op Andorid via Java of online" h2="Bestandsformaat-API's om PPT naar DOCX te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Render PPT naar DOCX op Andorid via Java of online-app" h2="Bestandsformaat-API's om PPT naar DOCX te converteren binnen Android-apps zonder afhankelijk te zijn van Microsoft PowerPoint of Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) maakt het manipuleren van bestandsindelingen binnen Android-applicaties mogelijk. Door de API's in het pakket te gebruiken, kunt u het conversieproces van PowerPoint PPT naar Word DOCX in uw apps automatiseren.

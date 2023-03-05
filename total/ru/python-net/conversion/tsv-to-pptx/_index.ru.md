@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование TSV в PPTX через Python или онлайн" h2="Преобразование TSV в PPTX в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование TSV в PPTX через Python или онлайн-приложение" h2="Преобразование TSV в PPTX в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

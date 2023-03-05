@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOCM WORD TEXT DOTM DOCX RTF DOT ODT FLATOPC DOTX DOC WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Andorid 上將 PPTX 渲染到 OTT 或在線" h2="文件格式 API 可在 Android 應用程序中將 PPTX 轉換為 OTT，而不依賴於 Microsoft PowerPoint 或 Word" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 在 Andorid 上將 PPTX 渲染到 OTT 或在線應用程序" h2="文件格式 API 可在 Android 應用程序中將 PPTX 轉換為 OTT，而不依賴於 Microsoft PowerPoint 或 Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 允許在 Android 應用程序中操作文件格式。通過使用包中提供的 API，您可以在您的應用程序中自動執行 PowerPoint PPTX 到 Word OTT 的轉換過程。

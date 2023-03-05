@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: XLTM FODS DIF CSV EXCEL XLTX XLSM XLSB XLT XLS SXC XLAM ODS TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir RTF en XLSX dans les applications Android ou en ligne" h2="Exportez RTF vers XLSX dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir RTF en XLSX dans les applications Android ou application en ligne" h2="Exportez RTF vers XLSX dans Android via Java sans utiliser Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 En utilisant [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), vous pouvez intégrer la fonction de conversion RTF en XLSX dans vos applications Android. Premièrement, vous pouvez convertir RTF en HTML en utilisant une API de manipulation et de conversion de rtfuments riche en fonctionnalités [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), vous pouvez convertir HTML en XLSX. 

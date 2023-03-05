@@ -1,5 +1,5 @@
 ---
-title: Convierta PPTX a CSV a través de C++ o en línea o con el convertidor en línea gratuito
+title: Convierta PPTX a CSV a través de C++ o aplicación en línea o con el convertidor en línea gratuito
 description: Exporte PPTX a CSV en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
 
 family: total
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DIF MHTML EXCEL DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta PPTX a CSV a través de C++ o en línea" h2="Conversión de archivos PPTX a CSV a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta PPTX a CSV a través de C++ o aplicación en línea" h2="Conversión de archivos PPTX a CSV a través de C++ sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al usar [Aspose.Total for C++](https://products.aspose.com/total/cpp/) puede convertir archivos PPTX a CSV dentro de aplicaciones C++ en dos simples pasos. En primer lugar, al usar [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), puede exportar PPTX a HTML. Después de eso, al usar [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) API de programación de hojas de cálculo, puede convertir HTML a CSV. 

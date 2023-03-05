@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python を使用して POTM を DOT に変換する またはオンライン" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで POTM から DOT への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python を使用して POTM を DOT に変換する またはオンラインアプリ" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで POTM から DOT への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: ODP PPTX POT POWERPOINT PPSX PPTM POTX POTM PPS PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="RTF को PPSM में बदलने के लिए C++ API या ऑनलाइन" h2="Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में RTF को PPSM में निर्यात करें&reg; या पावरपॉइंट" >}}
+{{< blocks/products/pf/feature-page-header h1="RTF को PPSM में बदलने के लिए C++ API या ऑनलाइन ऐप" h2="Microsoft Word का उपयोग किए बिना अपने C++ अनुप्रयोगों में RTF को PPSM में निर्यात करें&reg; या पावरपॉइंट" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) में शक्तिशाली फ़ाइल ऑटोमेशन API शामिल हैं जो अपने दो API का उपयोग करते हुए RTF से PPSM रूपांतरण को स्वचालित करने की अनुमति देता है। [Aspose.Words for C++](https://products.aspose.com/words/cpp/) का उपयोग करके अपना RTF लोड करें और इसे HTML में बदलें, फिर HTML को PowerPoint मैनिपुलेशन C++ API [Aspose.Slides for C++] के माध्यम से लोड करें। https://products.aspose.com/slides/cpp/) एक नई प्रस्तुति बनाने के लिए, और इसे PPSM के रूप में सहेजें। 

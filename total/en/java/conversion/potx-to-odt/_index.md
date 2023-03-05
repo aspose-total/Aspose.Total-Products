@@ -1,5 +1,5 @@
 ---
-title: Convert POTX to ODT via Java or online
+title: Convert POTX to ODT via Java or Online App
 description: Java API to Export POTX to ODT without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/potx-to-odt/
 family: total
@@ -10,14 +10,14 @@ outformat: ODT
 otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF DOCM DOCX WORD DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POTX to ODT via Java or online" h2="On Premise Java API for PowerPoint POTX to ODT conversion within any Java J2SE, J2EE, J2ME applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POTX to ODT via Java or Online App" h2="On Premise Java API for PowerPoint POTX to ODT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint POTX to Word ODT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert POTX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to ODT. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTX to ODT via Java or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTX to ODT via Java or Online App" %}}
 1. Open POTX file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert POTX to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class

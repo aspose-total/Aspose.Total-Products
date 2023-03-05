@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLTX EXCEL XLSX XLS XLSM XLTM ODS FODS XLAM XLT SXC TSV XLSB DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOCM para CSV via Java ou online" h2="API Java no local para converter DOCM para CSV sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOCM para CSV via Java ou aplicativo on-line" h2="API Java no local para converter DOCM para CSV sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter DOCM para CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documents rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOCM para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}

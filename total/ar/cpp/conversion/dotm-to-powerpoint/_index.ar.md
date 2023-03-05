@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPSX PPSM PPT POTX POT PPTX PPTM PPS POTM ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOTM إلى POWERPOINT أو عبر الإنترنت" h2="تصدير DOTM إلى POWERPOINT داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API لتحويل DOTM إلى POWERPOINT أو التطبيق عبر الإنترنت" h2="تصدير DOTM إلى POWERPOINT داخل تطبيقات C++ دون استخدام Microsoft Word <sup>&reg;</sup> ؛ أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يتكون [Aspose.Total for C++](https://products.aspose.com/total/cpp/) من واجهات برمجة تطبيقات قوية لأتمتة الملفات تسمح بأتمتة تحويل DOTM إلى POWERPOINT أثناء استخدام اثنين من واجهات برمجة التطبيقات الخاصة به. قم بتحميل مستند DOTM باستخدام [Aspose.Words for C++](https://products.aspose.com/words/cpp/) وقم بتحويله إلى HTML ، ثم قم بتحميل HTML عبر معالجة PowerPoint C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) لإنشاء عرض تقديمي جديد وحفظه كـ POWERPOINT. 

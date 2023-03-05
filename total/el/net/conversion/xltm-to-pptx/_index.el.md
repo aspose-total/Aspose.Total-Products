@@ -11,7 +11,7 @@ otherformats: DOCX POWERPOINT WORD DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή XLTM σε PPTX μέσω C# ή διαδικτυακά" h2="Εξαγωγή Excel&reg; XLTM σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Μετατροπή XLTM σε PPTX μέσω C# ή Online App" h2="Εξαγωγή Excel&reg; XLTM σε PPTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

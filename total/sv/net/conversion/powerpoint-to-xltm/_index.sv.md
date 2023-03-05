@@ -1,5 +1,5 @@
 ---
-title: Konvertera POWERPOINT till XLTM via C# eller online
+title: Konvertera POWERPOINT till XLTM via C# eller onlineapp
 description: Konvertera POWERPOINT till XLTM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/powerpoint-to-xltm/
 family: total
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: SXC XLS FODS MHTML MARKDOWN XLTM XLSM XLT EXCEL DIF ODS XLAM XLSX TSV XLTX XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POWERPOINT till XLTM via C# eller online" h2=".NET API för POWERPOINT till XLTM-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POWERPOINT till XLTM via C# eller onlineapp" h2=".NET API för POWERPOINT till XLTM-konvertering utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total för .NET](https://products.aspose.com/total/net/) kan du konvertera POWERPOINT-filen till XLTM i valfri .NET, C#, ASP.NET och VB.NET applikation i två enkla steg. För det första, genom att använda [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), kan du exportera POWERPOINT till HTML. Efter det, genom att använda [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, kan du konvertera HTML till XLTM.

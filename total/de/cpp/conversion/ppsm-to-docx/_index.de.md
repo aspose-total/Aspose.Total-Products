@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOTM DOCM DOT WORDML OTT TEXT DOTX DOC ODT FLATOPC WORD RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von PPSM in DOCX oder online" h2="Exportieren Sie PPSM in DOCX in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Rendern von PPSM in DOCX oder Online-App" h2="Exportieren Sie PPSM in DOCX in C++-Anwendungen ohne Microsoft PowerPoint- oder Word-Abhängigkeiten" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) ist ein vollständiges Paket von C++ File Format Automation-Bibliotheken. Durch die Verwendung der reichhaltigen Funktionen der im Paket verfügbaren APIs können wir PowerPoint PPSM problemlos in Word DOCX konvertieren. Um die Konvertierung durchzuführen, können Sie zuerst die API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) verwenden, um PPSM in HTML zu konvertieren. Danach können Sie mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for C++](https://products.aspose.com/words/cpp/) den HTML-Code in DOCX konvertieren. 

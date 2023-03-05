@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: DOTM ODT DOCX OTT FLATOPC RTF DOCM TEXT WORD WORDML DOC DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم POTM إلى DOTX على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POTM إلى DOTX داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم POTM إلى DOTX على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POTM إلى DOTX داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POTM إلى Word DOTX في تطبيقاتك.

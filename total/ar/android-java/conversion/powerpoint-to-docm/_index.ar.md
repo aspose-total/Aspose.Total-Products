@@ -10,7 +10,7 @@ outformat: DOCM
 otherformats: RTF DOTM WORD FLATOPC TEXT DOC WORDML DOTX DOCX OTT DOT ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى DOCM على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى DOCM داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى DOCM على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى DOCM داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POWERPOINT إلى Word DOCM في تطبيقاتك.

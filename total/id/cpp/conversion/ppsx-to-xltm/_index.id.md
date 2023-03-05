@@ -1,5 +1,5 @@
 ---
-title: Konversi PPSX ke XLTM melalui C++ atau daring atau dengan Konverter Online gratis
+title: Konversi PPSX ke XLTM melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
 description: Ekspor PPSX ke XLTM dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX CSV DIF XLSB XLAM XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi PPSX ke XLTM melalui C++ atau daring" h2="Konversi File PPSX ke XLTM melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi PPSX ke XLTM melalui C++ atau Aplikasi Daring" h2="Konversi File PPSX ke XLTM melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for C++](https://products.aspose.com/total/cpp/) Anda dapat mengonversi file PPSX ke XLTM dalam aplikasi C++ dalam dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), Anda dapat mengekspor PPSX ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke XLTM. 

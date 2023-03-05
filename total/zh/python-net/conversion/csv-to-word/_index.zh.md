@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Python 将 CSV 转换为 WORD 或在线" h2="无需安装 Microsoft Excel<sup>&reg;</sup> 或 Word，即可在 Python 应用程序中将 CSV 转换为 WORD" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Python 将 CSV 转换为 WORD 或在线应用程序" h2="无需安装 Microsoft Excel<sup>&reg;</sup> 或 Word，即可在 Python 应用程序中将 CSV 转换为 WORD" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

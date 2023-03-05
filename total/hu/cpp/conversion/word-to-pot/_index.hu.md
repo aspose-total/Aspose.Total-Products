@@ -10,7 +10,7 @@ outformat: POT
 otherformats: POWERPOINT POTX PPSM ODP PPSX PPS PPTX PPTM PPT POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API a WORD konvertálásához POT-vé vagy online" h2="WORD exportálása POT-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API a WORD konvertálásához POT-vé vagy Online App" h2="WORD exportálása POT-be a C++-alkalmazásokon belül a Microsoft Word&reg; vagy PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for C++](https://products.aspose.com/total/cpp/) olyan hatékony fájlautomatizálási API-kból áll, amelyek lehetővé teszik a WORD- POT-konverzió automatizálását, miközben két API-t használ. Töltse be a WORD-t az [Aspose.Words for C++] segítségével (https://products.aspose.com/words/cpp/), konvertálja HTML-vé, majd töltse be a HTML-t a PowerPoint manipulációs C++ API-n keresztül [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) új prezentáció létrehozásához és POT-ként mentéséhez. 

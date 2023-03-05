@@ -1,6 +1,6 @@
 ---
 title: Converti DOCX in XLAM in C++ o con il convertitore online gratuito
-description: API C++ per convertire DOCX in XLAM o in linea senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: API C++ per convertire DOCX in XLAM o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLAM
 otherformats: XLT XLS DIF TSV FODS ODS CSV XLSM XLTX XLSX SXC XLTM XLSB EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOCX in XLAM o in linea" h2="Esporta DOCX in XLAM tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ per convertire DOCX in XLAM o App online" h2="Esporta DOCX in XLAM tramite C++ senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Puoi includere facilmente la funzione di conversione da DOCX a XLAM nelle tue applicazioni C++. Utilizzando l'API di conversione e manipolazione dei documenti ricca di funzionalità, potente e facile da usare [Aspose.Words for C++](https://products.aspose.com/words/cpp/), puoi esportare DOCX in HTML. Successivamente, utilizzando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), puoi convertire HTML in XLAM. Entrambe le API rientrano nel pacchetto [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire DOCX in XLAM o in linea" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire DOCX in XLAM o App online" %}}
 1. Aprire il file DOCX utilizzando [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) riferimento alla classe
 2. Converti DOCX in HTML utilizzando la funzione membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Caricare il documento HTML utilizzando il riferimento alla classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

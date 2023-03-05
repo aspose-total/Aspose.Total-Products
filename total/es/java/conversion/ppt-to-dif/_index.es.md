@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM DIF XLTX MARKDOWN XLS XLSM FODS MHTML XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPT a DIF a través de Java o en línea" h2="API de Java local para exportar PPT a DIF sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convierta PPT a DIF a través de Java o aplicación en línea" h2="API de Java local para exportar PPT a DIF sin usar Microsoft<sup>&reg;</sup> Excel o PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Puede convertir un archivo PPT a DIF a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) en dos pasos. En el primer paso, puede exportar PPT a HTML usando [Aspose.Slides for Java](https://products.aspose.com/slides/java/). En segundo lugar, al usar [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}

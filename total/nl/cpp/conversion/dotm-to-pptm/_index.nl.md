@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPSX PPT PPSM POTM POT POTX PPS POWERPOINT PPTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om DOTM naar PPTM te converteren of online" h2="Exporteer DOTM naar PPTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om DOTM naar PPTM te converteren of online-app" h2="Exporteer DOTM naar PPTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOTM-naar-PPTM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOTM met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPTM. 

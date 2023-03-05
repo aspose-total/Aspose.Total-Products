@@ -1,5 +1,5 @@
 ---
-title: Převeďte PPTX na OTT přes Java nebo online
+title: Převeďte PPTX na OTT přes Java nebo online aplikace
 description: Java API pro export PPTX do OTT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/pptx-to-ott/
 family: total
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOT OTT RTF DOTM OTTX WORD DOTX WORDML OTTM TEXT ODT FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTX na OTT přes Java nebo online" h2="On Premise Java API pro PowerPoint převod PPTX na OTT v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převeďte PPTX na OTT přes Java nebo online aplikace" h2="On Premise Java API pro PowerPoint převod PPTX na OTT v jakékoli Java J2SE, J2EE, J2ME aplikací" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Knihovny pro automatizaci formátů souborů umožňují vývojářům Java automatizovat proces dávkového převodu PowerPoint PPTX do Word OTT. Převod dokumentu je dvoukrokový proces a zahrnuje použití dvou rozhraní API. K převodu PPTX do HTML použijeme [Aspose.Slides for Java](https://products.aspose.com/slides/java/), což je PowerPoint API pro manipulaci a správu prezentací. Pptxé pomocí rozhraní API pro zpracování textu s bohatými funkcemi [Aspose.Words for Java](https://products.aspose.com/words/java/) převedeme HTML na OTT.
 {{% /blocks/products/pf/feature-page-summary  %}}

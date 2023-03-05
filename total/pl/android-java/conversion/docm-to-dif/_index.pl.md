@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: FODS XLT TSV SXC XLAM XLSX XLTM EXCEL XLSB XLSM CSV XLTX XLS ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj DOCM na DIF w aplikacjach na Androida lub online" h2="Eksportuj DOCM do DIF w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj DOCM na DIF w aplikacjach na Androida lub Aplikacja internetowa" h2="Eksportuj DOCM do DIF w Androidzie przez Javę bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total na Androida przez Javę](https://products.aspose.com/total/android-java/) możesz zintegrować funkcję konwersji DOCM na DIF w swoich aplikacjach na Androida. Po pierwsze, możesz przekonwertować DOCM na HTML, korzystając z bogatego w funkcje interfejsu API do manipulacji dokumentami i konwersji [Aspose.Words na Androida przez Javę](https://products.aspose.com/words/android-java/). Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), możesz przekonwertować HTML na DIF. 

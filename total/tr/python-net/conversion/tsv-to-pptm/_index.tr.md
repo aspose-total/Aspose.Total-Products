@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="TSV'yi Python aracılığıyla PPTM'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden TSV'den PPTM'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="TSV'yi Python aracılığıyla PPTM'e dönüştürün veya Çevrimiçi Uygulama" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya PowerPoint yüklemeden TSV'den PPTM'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

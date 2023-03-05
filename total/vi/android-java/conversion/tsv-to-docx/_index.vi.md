@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORD DOC POWERPOINT PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Kết xuất TSV sang DOCX trên Android qua Java hoặc trực tuyến" h2="Chuyển đổi TSV sang DOCX trong Ứng dụng Android của bạn mà không cần sử dụng Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Kết xuất TSV sang DOCX trên Android qua Java hoặc Ứng dụng trực tuyến" h2="Chuyển đổi TSV sang DOCX trong Ứng dụng Android của bạn mà không cần sử dụng Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) là một gói API tự động hóa tệp mạnh mẽ. Bằng cách sử dụng hai trong số các API của nó, bạn có thể tích hợp tính năng chuyển đổi TSV sang DOCX bên trong các ứng dụng Android của mình. Trong bước đầu tiên, bạn có thể xuất TSV sang PDF bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Sau đó, bằng cách sử dụng [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/), bạn có thể chuyển đổi PDF sang DOCX. 

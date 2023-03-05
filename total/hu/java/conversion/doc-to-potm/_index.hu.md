@@ -1,5 +1,5 @@
 ---
-title: A DOC konvertálása POTM-re Java segítségével vagy online
+title: A DOC konvertálása POTM-re Java segítségével vagy Online App
 description: Java API a DOC exportálásához POTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/doc-to-potm/
 family: total
@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POWERPOINT PPSX PPT PPTM PPTX PPS POTM PPSM POTX POT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A DOC konvertálása POTM-re Java segítségével vagy online" h2="DOC konvertálása POTM-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A DOC konvertálása POTM-re Java segítségével vagy Online App" h2="DOC konvertálása POTM-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A fejlesztőknek gyakran programozottan kell konvertálniuk a DOC fájlt POTM-vé. A File Automation Java könyvtárak [Aspose.Total for Java](https://products.aspose.com/total/java/) használatával néhány egyszerű lépésben automatizálhatja a renderelési folyamatot. A DOC-fájlt az [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával töltheti be, és konvertálhatja HTML formátumba. Ezt követően a hatékony PowerPoint manipulációs Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) segítségével új prezentációt hozhat létre, HTML-tartalmat írhat bele, és POTM-ként mentheti. .
 {{% /blocks/products/pf/feature-page-summary  %}}

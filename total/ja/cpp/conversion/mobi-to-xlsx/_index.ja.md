@@ -1,6 +1,6 @@
 ---
 title: C++でMOBIをXLSXに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにMOBIをXLSXに変換するC++API またはオンライン またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにMOBIをXLSXに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLTX ODS FODS XLT DIF XLSM XLS CSV XLSB EXCEL TSV XLTM SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="MOBIをXLSXに変換するC++API またはオンライン" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でMOBIをXLSXにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="MOBIをXLSXに変換するC++API またはオンラインアプリ" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でMOBIをXLSXにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 C++アプリケーションにMOBIからXLSXへの変換機能を簡単に含めることができます。機能豊富で強力で使いやすいドキュメント操作および変換API[Aspose.Wordsfor C++](https://products.aspose.com/words/cpp/)を使用することで、MOBIをHTMLにエクスポートできます。その後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)を使用して、HTMLをXLSXに変換できます。どちらのAPIも[Aspose.TotalforC++](https://products.aspose.com/total/cpp/)パッケージに含まれています。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="MOBIをXLSXに変換するC++API またはオンライン" %}}
+{{% blocks/products/pf/agp/feature-section-col title="MOBIをXLSXに変換するC++API またはオンラインアプリ" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument)クラスリファレンスを使用してMOBIファイルを開きます
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat)メンバー関数を使用してMOBIをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします

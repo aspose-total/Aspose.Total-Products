@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: ODT DOCM TEXT DOTX DOCX WORD WORDML RTF DOT DOTM DOC OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPT do FLATOPC na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPT na FLATOPC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPT do FLATOPC na Andoridu přes Javu nebo online aplikace" h2="Rozhraní API pro formát souborů pro převod PPT na FLATOPC v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPT do Word FLATOPC ve vašich aplikacích.

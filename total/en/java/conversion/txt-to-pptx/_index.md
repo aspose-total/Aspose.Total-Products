@@ -1,5 +1,5 @@
 ---
-title: Convert TXT to PPTX via Java or online
+title: Convert TXT to PPTX via Java or Online App
 description: Java API to Export TXT to PPTX without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/txt-to-pptx/
 family: total
@@ -10,14 +10,14 @@ outformat: PPTX
 otherformats: PPSM ODP PPT PPSX POTM POT POWERPOINT PPS PPTM POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert TXT to PPTX via Java or online" h2="TXT to PPTX conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert TXT to PPTX via Java or Online App" h2="TXT to PPTX conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Often times developers have to convert TXT file to PPTX programmatically. By using the File Automation Java libraries [Aspose.Total for Java](https://products.aspose.com/total/java/) you can automate the rendering process in a few simple steps. You can load your TXT file by using [Aspose.Words for Java](https://products.aspose.com/words/java/) and convert it to HTML. After that by using powerful PowerPoint manipulation Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) you can create a new Presentation, write HTML content in it, and save it as PPTX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert TXT to PPTX via Java or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert TXT to PPTX via Java or Online App" %}}
 1. Open TXT file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert TXT file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object

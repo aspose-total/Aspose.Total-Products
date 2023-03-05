@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: DIF XLAM XLSB XLT EXCEL XLS XLSX ODS XLTM SXC XLSM CSV XLTX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCM'yi TSV'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOCM'yi C++ aracılığıyla TSV'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCM'yi TSV'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOCM'yi C++ aracılığıyla TSV'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 DOCM'den TSV'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOCM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi TSV'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOCM'yi TSV'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOCM'yi TSV'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.docmument) sınıf referansını kullanarak DOCM dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.docmument#save_string_saveformat) üye işlevini kullanarak DOCM'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

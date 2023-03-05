@@ -10,7 +10,7 @@ outformat: WORD
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python を使用して POT を WORD に変換する またはオンライン" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで POT から WORD への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python を使用して POT を WORD に変換する またはオンラインアプリ" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで POT から WORD への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

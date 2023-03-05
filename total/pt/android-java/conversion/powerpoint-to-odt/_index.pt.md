@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: DOT WORD FLATOPC DOCM DOCX DOC WORDML DOTX TEXT RTF DOTM OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize POWERPOINT para ODT no Andorid via Java ou online" h2="APIs de formato de arquivo para converter POWERPOINT para ODT em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize POWERPOINT para ODT no Andorid via Java ou aplicativo on-line" h2="APIs de formato de arquivo para converter POWERPOINT para ODT em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint POWERPOINT para Word ODT em seus aplicativos.

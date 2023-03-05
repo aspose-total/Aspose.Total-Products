@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: TSV ODS EXCEL XLSM XLAM XLT XLTM XLTX DIF XLS XLSB SXC XLSX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать WORDML в XLT через Java или онлайн" h2="Локальный Java API для преобразования WORDML в XLT без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать WORDML в XLT через Java или онлайн-приложение" h2="Локальный Java API для преобразования WORDML в XLT без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Преобразование WORDML в XLT с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать WORDML в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

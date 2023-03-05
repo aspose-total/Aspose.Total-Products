@@ -1,5 +1,5 @@
 ---
-title: A DOCX konvertálása POWERPOINT-re Java segítségével vagy online
+title: A DOCX konvertálása POWERPOINT-re Java segítségével vagy Online App
 description: Java API a DOCX exportálásához POWERPOINT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/docx-to-powerpoint/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPS PPSX PPT PPTM POT PPTX POTM PPSM POTX POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="A DOCX konvertálása POWERPOINT-re Java segítségével vagy online" h2="DOCX konvertálása POWERPOINT-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A DOCX konvertálása POWERPOINT-re Java segítségével vagy Online App" h2="DOCX konvertálása POWERPOINT-be helyszíni Java API használatával bármely Java J2SE, J2EE, J2ME alkalmazáson belül Microsoft<sup>&reg;</sup> PowerPoint vagy Word használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A fejlesztőknek gyakran programozottan kell konvertálniuk a DOCX fájlt POWERPOINT-vé. A File Automation Java könyvtárak [Aspose.Total for Java](https://products.aspose.com/total/java/) használatával néhány egyszerű lépésben automatizálhatja a renderelési folyamatot. A DOCX-fájlt az [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával töltheti be, és konvertálhatja HTML formátumba. Ezt követően a hatékony PowerPoint manipulációs Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) segítségével új prezentációt hozhat létre, HTML-tartalmat írhat bele, és POWERPOINT-ként mentheti. .
 {{% /blocks/products/pf/feature-page-summary  %}}

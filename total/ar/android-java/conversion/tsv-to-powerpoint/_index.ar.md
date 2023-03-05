@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTX DOCX DOC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم TSV إلى POWERPOINT على Android عبر Java أو عبر الإنترنت" h2="قم بتحويل ملف TSV إلى POWERPOINT داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم TSV إلى POWERPOINT على Android عبر Java أو التطبيق عبر الإنترنت" h2="قم بتحويل ملف TSV إلى POWERPOINT داخل تطبيقات Android بدون استخدام Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) عبارة عن حزمة من واجهات برمجة التطبيقات القوية لأتمتة الملفات. باستخدام اثنين من واجهات برمجة التطبيقات الخاصة به ، يمكنك دمج ميزة تحويل TSV إلى POWERPOINT داخل تطبيقات Android. في الخطوة الأولى ، يمكنك تصدير TSV إلى PDF باستخدام [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). بعد ذلك ، باستخدام [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) ، يمكنك تحويل PDF إلى POWERPOINT. 

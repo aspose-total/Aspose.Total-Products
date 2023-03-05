@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: WORD DOCX FLATOPC WORDML DOTM TEXT DOT DOCM DOTX ODT DOC RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPTM zu OTT auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von PPTM in OTT in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPTM zu OTT auf Andorid über Java oder Online-App" h2="Dateiformat-APIs zum Konvertieren von PPTM in OTT in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint PPTM in Word OTT in Ihren Apps automatisieren.

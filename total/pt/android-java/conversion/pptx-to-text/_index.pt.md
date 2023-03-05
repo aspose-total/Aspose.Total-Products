@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: DOCM ODT DOTX DOTM RTF FLATOPC OTT DOC DOCX DOT WORD WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize PPTX para TEXT no Andorid via Java ou online" h2="APIs de formato de arquivo para converter PPTX para TEXT em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize PPTX para TEXT no Andorid via Java ou aplicativo on-line" h2="APIs de formato de arquivo para converter PPTX para TEXT em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint PPTX para Word TEXT em seus aplicativos.

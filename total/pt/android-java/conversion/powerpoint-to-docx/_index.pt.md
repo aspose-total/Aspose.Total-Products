@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: RTF FLATOPC TEXT DOCM ODT WORD DOTX DOTM WORDML DOT OTT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderize POWERPOINT para DOCX no Andorid via Java ou online" h2="APIs de formato de arquivo para converter POWERPOINT para DOCX em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderize POWERPOINT para DOCX no Andorid via Java ou aplicativo on-line" h2="APIs de formato de arquivo para converter POWERPOINT para DOCX em aplicativos Android sem depender do Microsoft PowerPoint ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) permite a manipulação de formatos de arquivo dentro de aplicativos Android. Ao usar as APIs fornecidas no pacote, você pode automatizar o processo de conversão do PowerPoint POWERPOINT para Word DOCX em seus aplicativos.

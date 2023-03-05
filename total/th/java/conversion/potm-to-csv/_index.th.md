@@ -10,12 +10,12 @@ outformat: CSV
 otherformats: XLS XLTX XLT MARKDOWN EXCEL MHTML XLAM XLTM XLSB DIF FODS XLSX ODS TSV XLSM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="แปลง POTM เป็น CSV ผ่าน Java หรือทางออนไลน์" h2="บน Premise Java API เพื่อส่งออก POTM เป็น CSV โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="แปลง POTM เป็น CSV ผ่าน Java หรือแอพออนไลน์" h2="บน Premise Java API เพื่อส่งออก POTM เป็น CSV โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 คุณสามารถแปลงไฟล์ POTM เป็น CSV ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) ได้ใน 2 ขั้นตอน ในขั้นตอนแรก คุณสามารถส่งออก POTM เป็น HTML ได้โดยใช้ [Aspose.Slides for Java](https://products.aspose.com/slides/java/) ประการที่สอง โดยใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณสามารถแปลง HTML เป็น CSV
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POTM เป็น CSV ผ่าน Java หรือทางออนไลน์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง POTM เป็น CSV ผ่าน Java หรือแอพออนไลน์" %}}
 1. เปิดไฟล์ POTM โดยใช้คลาส [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)
 2. แปลง POTM เป็น HTML โดยใช้ [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides ISaveOptions-) วิธีการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

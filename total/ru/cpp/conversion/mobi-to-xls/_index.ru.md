@@ -1,6 +1,6 @@
 ---
 title: Преобразование MOBI в XLS на C++ или с помощью бесплатного онлайн-конвертера
-description: C++ API для преобразования MOBI в XLS или онлайн без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: C++ API для преобразования MOBI в XLS или онлайн-приложение без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLS
 otherformats: FODS XLSX XLAM XLT ODS XLSB XLTM EXCEL XLTX DIF TSV XLSM SXC CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования MOBI в XLS или онлайн" h2="Экспорт MOBI в XLS через C++ без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API для преобразования MOBI в XLS или онлайн-приложение" h2="Экспорт MOBI в XLS через C++ без использования Microsoft<sup>&reg;</sup> Word или Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Вы можете легко включить функцию преобразования MOBI в XLS в свои приложения C++. Используя многофункциональный, мощный и простой в использовании API для работы с документами и преобразования [Aspose.Words for C++](https://products.aspose.com/words/cpp/), вы можете экспортировать MOBI в HTML. После этого, используя [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), вы можете конвертировать HTML в XLS. Оба API входят в пакет [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования MOBI в XLS или онлайн" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования MOBI в XLS или онлайн-приложение" %}}
 1. Откройте файл MOBI, используя ссылку на класс [Mobiument](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument).
 2. Преобразуйте MOBI в HTML с помощью функции-члена [Save](https://reference.aspose.com/words/cpp/class/aspose.words.mobiument#save_string_saveformat).
 3. Загрузите HTML-документ, используя ссылку на класс [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).

@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLAM XLS TSV MHTML DIF XLSX XLTX XLSB EXCEL XLTM MARKDOWN FODS XLT XLSM SXC ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPS über Java in TSV oder online" h2="Lokale Java-API zum Exportieren von PPS in TSV ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie PPS über Java in TSV oder Online-App" h2="Lokale Java-API zum Exportieren von PPS in TSV ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die PPS-Datei über [Aspose.Total for Java](https://products.aspose.com/total/java/) in zwei Schritten in TSV konvertieren. Im ersten Schritt können Sie PPS in HTML exportieren, indem Sie [Aspose.Slides for Java](https://products.aspose.com/slides/java/) verwenden. Zweitens können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in TSV konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

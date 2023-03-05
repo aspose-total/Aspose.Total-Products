@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование FODS в OTT через Python или онлайн" h2="Преобразование FODS в OTT в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование FODS в OTT через Python или онлайн-приложение" h2="Преобразование FODS в OTT в приложениях Python без установки Microsoft Excel<sup>&reg;</sup> или Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

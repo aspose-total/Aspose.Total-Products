@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python を使用して DOCX を POTM に変換する またはオンライン" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで DOCX から POTM への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python を使用して DOCX を POTM に変換する またはオンラインアプリ" h2="Microsoft Word<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで DOCX から POTM への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Konvertera POT till WORDML via Java eller online
+title: Konvertera POT till WORDML via Java eller onlineapp
 description: Java API för att exportera POT till WORDML utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/java/conversion/pot-to-wordml/
 family: total
@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: WORDML TEXT RTF WORD WORDMLM DOTX DOTM DOT WORDMLX ODT FLATOPC OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POT till WORDML via Java eller online" h2="On Premise Java API för PowerPoint POT till WORDML-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera POT till WORDML via Java eller onlineapp" h2="On Premise Java API för PowerPoint POT till WORDML-konvertering inom alla Java J2SE, J2EE, J2ME-applikationer" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total för Java](https://products.aspose.com/total/java/) Filformatsautomatiseringsbibliotek ger Java-utvecklare möjlighet att automatisera batchkonverteringsprocessen från PowerPoint POT till Word WORDML. Att konvertera dokumentet är en process i två steg och involverar användning av två API:er. Vi kommer att använda [Aspose.Slides för Java](https://products.aspose.com/slides/java/) som är ett PowerPoint-API för presentationsmanipulering och hantering för att konvertera POT till HTML. Efter det kommer vi att konvertera HTML till WORDML genom att använda funktionsrika Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}

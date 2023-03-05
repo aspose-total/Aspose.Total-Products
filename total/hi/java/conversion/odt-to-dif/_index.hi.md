@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से ODT को DIF में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना ODT को DIF में कनवर्ट करने के लिए Premise Java API पर" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से ODT को DIF में बदलें या ऑनलाइन ऐप" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना ODT को DIF में कनवर्ट करने के लिए Premise Java API पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) के माध्यम से ODT को DIF में कनवर्ट करना एक आसान दो चरणों वाली प्रक्रिया है। सुविधा संपन्न, दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके, आप HTML को ODT निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) का उपयोग करके, आप HTML को DIF में बदल सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}

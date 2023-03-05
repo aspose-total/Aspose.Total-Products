@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: TSV XLAM SXC EXCEL EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOTM para EXCEL via Java ou online" h2="API Java no local para converter DOTM para EXCEL sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter DOTM para EXCEL via Java ou aplicativo on-line" h2="API Java no local para converter DOTM para EXCEL sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter DOTM para EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de dotmumentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOTM para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para EXCEL.
 {{% /blocks/products/pf/feature-page-summary  %}}

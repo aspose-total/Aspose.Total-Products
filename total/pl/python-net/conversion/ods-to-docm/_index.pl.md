@@ -1,5 +1,5 @@
 ---
-title: Konwertuj ODS na DOCM za pomocą Pythona lub online lub za pomocą bezpłatnego konwertera online
+title: Konwertuj ODS na DOCM za pomocą Pythona lub Aplikacja internetowa lub za pomocą bezpłatnego konwertera online
 description: Konwersja ODS na DOCM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj ODS na DOCM za pomocą Pythona lub online" h2="Konwersja ODS na DOCM w aplikacjach Pythona bez instalowania programu Microsoft Excel<sup>&reg;</sup> lub programu Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj ODS na DOCM za pomocą Pythona lub Aplikacja internetowa" h2="Konwersja ODS na DOCM w aplikacjach Pythona bez instalowania programu Microsoft Excel<sup>&reg;</sup> lub programu Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

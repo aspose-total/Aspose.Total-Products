@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python kullanarak PPTM'yi RTF'e dönüştürün veya çevrimiçi" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda PPTM'den RTF'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="Python kullanarak PPTM'yi RTF'e dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft Word<sup>&reg;</sup> veya PowerPoint yüklemeden Python Uygulamalarınızda PPTM'den RTF'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

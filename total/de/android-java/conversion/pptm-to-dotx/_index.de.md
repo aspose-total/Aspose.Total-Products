@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: WORDML DOTM FLATOPC DOCX WORD DOT TEXT ODT DOC RTF DOCM OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPTM zu DOTX auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von PPTM in DOTX in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPTM zu DOTX auf Andorid über Java oder Online-App" h2="Dateiformat-APIs zum Konvertieren von PPTM in DOTX in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint PPTM in Word DOTX in Ihren Apps automatisieren.

@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Python 将 WORD 转换为 XLSM 或在线" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 应用程序中将 WORD 转换为 XLSM" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Python 将 WORD 转换为 XLSM 或在线应用程序" h2="无需安装 Microsoft Word<sup>&reg;</sup> 或 Excel，即可在 Python 应用程序中将 WORD 转换为 XLSM" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

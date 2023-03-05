@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: DIF XLAM ODS EXCEL XLTX TSV XLS XLTM XLT SXC CSV XLSX XLSM FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke XLSB di Aplikasi Android atau daring" h2="Ekspor WORDML ke XLSB di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi WORDML ke XLSB di Aplikasi Android atau Aplikasi Daring" h2="Ekspor WORDML ke XLSB di Android melalui Java tanpa menggunakan Microsoft<sup>&reg;</sup> Word atau Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Anda dapat mengintegrasikan fitur konversi WORDML ke XLSB di dalam aplikasi android Anda. Pertama, Anda dapat mengonversi WORDML ke HTML dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), Anda dapat mengonversi HTML ke XLSB. 

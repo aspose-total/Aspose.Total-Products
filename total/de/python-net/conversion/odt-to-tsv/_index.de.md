@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODT über Python in TSV oder online" h2="Konvertierung von ODT in TSV in Ihren Python-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie ODT über Python in TSV oder Online-App" h2="Konvertierung von ODT in TSV in Ihren Python-Anwendungen ohne Installation von Microsoft Word<sup>&reg;</sup> oder Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

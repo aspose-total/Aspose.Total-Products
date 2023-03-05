@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer PPS naar XLTM via Python of online" h2="PPS naar XLTM-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer PPS naar XLTM via Python of online-app" h2="PPS naar XLTM-conversie in uw Python-applicaties zonder Microsoft PowerPoint<sup>&reg;</sup> of Excel te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

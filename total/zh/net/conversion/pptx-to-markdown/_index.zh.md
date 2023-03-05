@@ -1,5 +1,5 @@
 ---
-title: 通过 C# 将 PPTX 转换为 MARKDOWN 或在线
+title: 通过 C# 将 PPTX 转换为 MARKDOWN 或在线应用程序
 description: 在 C# 中将 PPTX 转换为 MARKDOWN，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/pptx-to-markdown/
 family: total
@@ -10,14 +10,14 @@ outformat: MARKDOWN
 otherformats: EXCEL SXC XLT XLTX TSV XLSX XLS XLAM ODS DIF FODS MARKDOWN XLSB MHTML XLSM XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="通过 C# 将 PPTX 转换为 MARKDOWN 或在线" h2="用于 PPTX 到 MARKDOWN 转换的 .NET API，无需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通过 C# 将 PPTX 转换为 MARKDOWN 或在线应用程序" h2="用于 PPTX 到 MARKDOWN 转换的 .NET API，无需使用 Microsoft<sup>&reg;</sup> Excel 或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 通过使用 [Aspose.Total for .NET](https://products.aspose.com/total/net/)，您可以在任何 .NET、C#、ASP.NET 和 VB.NET 应用程序中将 PPTX 文件转换为 MARKDOWN，分两种简单的步骤。首先，通过使用 [Aspose.Slides for .NET](https://products.aspose.com/slides/net/)，您可以将 PPTX 导出为 HTML。之后，通过使用 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) 电子表格编程 API，您可以将 HTML 转换为 MARKDOWN。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="如何通过 C# 将 PPTX 转换为 MARKDOWN 或在线" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通过 C# 将 PPTX 转换为 MARKDOWN 或在线应用程序" %}}
 1. 使用 [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 类打开 PPTX 文件
 2. 使用 [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 方法将 PPTX 导出为 HTML
 3. 使用 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类加载 HTML 文档

@@ -1,5 +1,5 @@
 ---
-title: Μετατροπή DOCX σε POWERPOINT μέσω Java ή διαδικτυακά
+title: Μετατροπή DOCX σε POWERPOINT μέσω Java ή Online App
 description: Java API για εξαγωγή DOCX σε POWERPOINT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/java/conversion/docx-to-powerpoint/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPS PPSX PPT PPTM POT PPTX POTM PPSM POTX POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή DOCX σε POWERPOINT μέσω Java ή διαδικτυακά" h2="Μετατροπή DOCX σε POWERPOINT με χρήση του API Java εντός οποιασδήποτε εφαρμογής Java J2SE, J2EE, J2ME χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint ή Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή DOCX σε POWERPOINT μέσω Java ή Online App" h2="Μετατροπή DOCX σε POWERPOINT με χρήση του API Java εντός οποιασδήποτε εφαρμογής Java J2SE, J2EE, J2ME χωρίς χρήση Microsoft<sup>&reg;</sup> PowerPoint ή Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Συχνά οι προγραμματιστές πρέπει να μετατρέψουν το αρχείο DOCX σε POWERPOINT μέσω προγραμματισμού. Χρησιμοποιώντας τις βιβλιοθήκες Java Automation αρχείων [Aspose.Total for Java](https://products.aspose.com/total/java/) μπορείτε να αυτοματοποιήσετε τη διαδικασία απόδοσης με μερικά απλά βήματα. Μπορείτε να φορτώσετε το αρχείο DOCX χρησιμοποιώντας το [Aspose.Words για Java](https://products.aspose.com/words/java/) και να το μετατρέψετε σε HTML. Στη συνέχεια, χρησιμοποιώντας ισχυρό χειρισμό PowerPoint Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) μπορείτε να δημιουργήσετε μια νέα Παρουσίαση, να γράψετε περιεχόμενο HTML σε αυτήν και να το αποθηκεύσετε ως POWERPOINT .
 {{% /blocks/products/pf/feature-page-summary  %}}

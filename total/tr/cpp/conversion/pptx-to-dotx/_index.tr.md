@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: DOCX OTT ODT FLATOPC WORD WORDML DOC DOCM DOT TEXT DOTM RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PPTX'u DOTX'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPTX'u DOTX'a aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="PPTX'u DOTX'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint veya Word bağımlılığı olmadan C++ uygulamalarında PPTX'u DOTX'a aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/), C++ Dosya Formatı Otomasyonu kitaplıklarının eksiksiz paketidir. Pakette bulunan API'lerin zengin özelliklerini kullanarak PowerPoint PPTX'u Word DOTX'a kolayca dönüştürebiliriz. Dönüştürmeyi gerçekleştirmek için önce PPTX'u HTML'ye dönüştürmek için [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API'sini kullanabilirsiniz. Bundan sonra, zengin özelliklere sahip Kelime İşlem API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak HTML'yi DOTX'ye dönüştürebilirsiniz. 

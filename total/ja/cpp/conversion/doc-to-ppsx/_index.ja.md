@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPTX PPTM POT POTX PPSM POTM PPS PPT ODP POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOCをPPSXに変換するC++API またはオンライン" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOCをPPSXにエクスポートします。またはPowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="DOCをPPSXに変換するC++API またはオンラインアプリ" h2="Microsoft Wordを使用せずに、C++アプリケーション内でDOCをPPSXにエクスポートします。またはPowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/)は、2つのAPIを使用しながらDOCからPPSXへの変換を自動化できる強力なファイル自動化APIで構成されています。 [Aspose.Words for C++](https://products.aspose.com/words/cpp/)を使用してDOCを読み込み、HTMLに変換してから、PowerPoint操作C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/)を使用して新しいプレゼンテーションを作成し、PPSXとして保存します。 

@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: CSV EXCEL XLAM TSV SXC XLSX FODS XLTM XLS XLSM XLTX XLSB DIF ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOC in XLT in Android-Anwendungen oder online" h2="Exportieren Sie DOC in Android über Java in XLT, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOC in XLT in Android-Anwendungen oder Online-App" h2="Exportieren Sie DOC in Android über Java in XLT, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die DOC-zu-XLT-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie DOC in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in XLT konvertieren. 

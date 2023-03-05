@@ -1,5 +1,5 @@
 ---
-title: Конвертировать PPSM в DOCX через Java или онлайн
+title: Конвертировать PPSM в DOCX через Java или онлайн-приложение
 description: Java API для экспорта PPSM в DOCX без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/ppsm-to-docx/
 family: total
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: OTT WORDML DOTX DOTM DOCX ODT DOCXM TEXT RTF DOT FLATOPC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPSM в DOCX через Java или онлайн" h2="Локальный Java API для преобразования PowerPoint PPSM в DOCX в любых приложениях Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Конвертировать PPSM в DOCX через Java или онлайн-приложение" h2="Локальный Java API для преобразования PowerPoint PPSM в DOCX в любых приложениях Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total для Java](https://products.aspose.com/total/java/) Библиотеки автоматизации форматов файлов позволяют разработчикам Java автоматизировать процесс пакетного преобразования PowerPoint PPSM в Word DOCX. Преобразование документа представляет собой двухэтапный процесс и включает использование двух API. Мы будем использовать [Aspose.Slides for Java](https://products.aspose.com/slides/java/), который представляет собой API PowerPoint для работы с презентациями и управления ими для преобразования PPSM в HTML. После этого с помощью многофункционального API обработки текста [Aspose.Words for Java](https://products.aspose.com/words/java/) мы преобразуем HTML в DOCX.
 {{% /blocks/products/pf/feature-page-summary  %}}

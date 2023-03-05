@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POTX PPTM POTM PPTX PPS PPT ODP POWERPOINT PPSX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera DOTM till PPSM i Android-appar eller online" h2="DOTM till PPSM-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera DOTM till PPSM i Android-appar eller onlineapp" h2="DOTM till PPSM-konvertering i dina Android-applikationer utan att installera Microsoft Word<sup>&reg;</sup> eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Är du en Android-utvecklare som vill lägga till en dokumentkonverteringsfunktion till din applikation? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Filformatsautomatiseringsbibliotek kan hjälpa dig att automatisera dokumentkonverteringsprocessen i dina Android-applikationer. För att konvertera DOTM-fil till PPSM kan du först använda API för dokumentmanipulering [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) för att konvertera DOTM-filformat till HTML. Därefter genom att använda PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), kan du skapa en ny presentation, skriva HTML-innehåll i den och spara den som PPSM. 

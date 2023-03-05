@@ -1,5 +1,5 @@
 ---
-title: Konwertuj PPS na XLT za pomocą C# lub online
+title: Konwertuj PPS na XLT za pomocą C# lub Aplikacja internetowa
 description: Konwertuj PPS na XLT w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/pps-to-xlt/
 family: total
@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: SXC EXCEL XLT XLSX XLS XLSM TSV XLTX XLAM FODS MHTML XLTM ODS XLSB MARKDOWN DIF DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPS na XLT za pomocą C# lub online" h2=".NET API do konwersji PPS na XLT bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj PPS na XLT za pomocą C# lub Aplikacja internetowa" h2=".NET API do konwersji PPS na XLT bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) możesz przekonwertować plik PPS na XLT w dowolnej aplikacji .NET, C#, ASP.NET i VB.NET w dwóch proste kroki. Po pierwsze, używając [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), możesz wyeksportować PPS do HTML. Następnie, używając [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, możesz przekonwertować HTML na XLT.

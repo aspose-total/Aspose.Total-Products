@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie OTT in XLSX in C++ oder mit dem kostenlosen Online Converter
-description: C++-API zum Konvertieren von OTT in XLSX oder online, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: C++-API zum Konvertieren von OTT in XLSX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLAM SXC XLSM TSV XLS CSV XLTM ODS XLTX FODS XLT DIF EXCEL XLSB
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von OTT in XLSX oder online" h2="OTT über C++ in XLSX exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="C++-API zum Konvertieren von OTT in XLSX oder Online-App" h2="OTT über C++ in XLSX exportieren, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die OTT-zu-XLSX-Konvertierungsfunktion einfach in Ihre C++-Anwendungen integrieren. Durch die Verwendung der funktionsreichen, leistungsstarken und benutzerfreundlichen API zur Dokumentenbearbeitung und -konvertierung [Aspose.Words for C++](https://products.aspose.com/words/cpp/) können Sie OTT in HTML exportieren. Danach können Sie mit [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in XLSX konvertieren. Beide APIs befinden sich im Paket [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von OTT in XLSX oder online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von OTT in XLSX oder Online-App" %}}
 1. Öffnen Sie die OTT-Datei mit der Klassenreferenz [Ottument](https://reference.aspose.com/words/cpp/class/aspose.words.ottument).
 2. Konvertieren Sie OTT in HTML, indem Sie die Member-Funktion [Save](https://reference.aspose.com/words/cpp/class/aspose.words.ottument#save_string_saveformat) verwenden
 3. Laden Sie das HTML-Dokument mithilfe der Klassenreferenz [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).

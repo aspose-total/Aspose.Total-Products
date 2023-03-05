@@ -1,5 +1,5 @@
 ---
-title: Chuyển đổi PPS sang TEXT qua Java hoặc trực tuyến
+title: Chuyển đổi PPS sang TEXT qua Java hoặc Ứng dụng trực tuyến
 description: Java API để xuất PPS sang TEXT mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/pps-to-text/
 family: total
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: WORDML OTT TEXTM RTF WORD FLATOPC ODT TEXT DOT TEXTX DOTX DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPS sang TEXT qua Java hoặc trực tuyến" h2="Trên Premise Java API cho PowerPoint chuyển đổi PPS sang TEXT trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPS sang TEXT qua Java hoặc Ứng dụng trực tuyến" h2="Trên Premise Java API cho PowerPoint chuyển đổi PPS sang TEXT trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Thư viện tự động hóa định dạng tệp cho phép các nhà phát triển Java tự động hóa quá trình chuyển đổi hàng loạt PowerPoint PPS sang Word TEXT. Chuyển đổi tài liệu là một quá trình gồm hai bước và liên quan đến việc sử dụng hai API. Chúng tôi sẽ sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/) là một API PowerPoint cho thao tác và quản lý bản trình bày để chuyển đổi PPS sang HTML. Sau đó, bằng cách sử dụng API xử lý văn bản giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), chúng tôi sẽ chuyển đổi HTML thành TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}

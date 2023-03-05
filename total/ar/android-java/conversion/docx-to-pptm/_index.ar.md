@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: PPT PPSX POT PPTX POWERPOINT PPS POTM PPSM POTX ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOCX إلى PPTM في تطبيقات Android أو عبر الإنترنت" h2="تحويل DOCX إلى PPTM في تطبيقات Android أو عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOCX إلى PPTM في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تحويل DOCX إلى PPTM في تطبيقات Android أو التطبيق عبر الإنترنت دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 هل أنت مطور Android تتطلع إلى إضافة ميزة تحويل المستندات إلى تطبيقك؟ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) يمكن أن تساعدك مكتبات أتمتة تنسيق الملفات في أتمتة عملية تحويل المستندات في تطبيقات Android. لتحويل ملف DOCX إلى PPTM ، يمكنك أولاً استخدام واجهة برمجة تطبيقات معالجة المستندات [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) لتحويل تنسيق ملف DOCX إلى HTML. بعد ذلك باستخدام PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) ، يمكنك إنشاء عرض تقديمي جديد وكتابة محتوى HTML فيه وحفظه باسم PPTM. 

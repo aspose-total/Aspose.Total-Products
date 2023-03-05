@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPT PPS POTX PPSX PPTX PPTM POT ODP PPSM POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOCM na POWERPOINT nebo online" h2="Exportujte DOCM do POWERPOINT v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API pro převod DOCM na POWERPOINT nebo online aplikace" h2="Exportujte DOCM do POWERPOINT v rámci vašich C++ aplikací bez použití Microsoft Word&reg; nebo PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se skládá z výkonných rozhraní API pro automatizaci souborů, která umožňují automatizovat převod DOCM na POWERPOINT při použití dvou z těchto rozhraní API. Načtěte svůj DOCM pomocí [Aspose.Words for C++](https://products.aspose.com/words/cpp/) a převeďte jej do HTML, poté načtěte HTML pomocí manipulačního C++ API PowerPointu [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), vytvořte novou prezentaci a uložte ji jako POWERPOINT. 

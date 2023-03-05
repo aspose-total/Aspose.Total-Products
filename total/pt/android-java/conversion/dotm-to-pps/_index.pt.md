@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPTM POTM PPSM POT PPSX ODP POWERPOINT PPTX POTX PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOTM para PPS em aplicativos Android ou online" h2="Conversão de DOTM para PPS em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOTM para PPS em aplicativos Android ou aplicativo on-line" h2="Conversão de DOTM para PPS em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de dotmumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de dotmumentos em seus aplicativos Android. Para converter o arquivo DOTM para PPS, você pode primeiro usar a API de manipulação de dotmumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOTM para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPS. 

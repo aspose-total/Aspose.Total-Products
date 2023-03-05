@@ -1,6 +1,6 @@
 ---
 title: Java API to Convert WORDML to XLSB
-description: Convert WORDML to XLSB via Java or online without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+description: Convert WORDML to XLSB via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/wordml-to-xlsb/
 family: total
 platformtag: java
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: FODS SXC CSV ODS XLSX XLT TSV XLTX DIF EXCEL XLTM XLAM XLS XLSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert WORDML to XLSB via Java or online" h2="On Premise Java API to convert WORDML to XLSB without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert WORDML to XLSB via Java or Online App" h2="On Premise Java API to convert WORDML to XLSB without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
  Converting WORDML to XLSB via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export WORDML to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSB.

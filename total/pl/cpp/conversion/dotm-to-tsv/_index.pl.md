@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOTM na TSV w C++ lub za pomocą bezpłatnego konwertera online
-description: C++ API do konwersji DOTM na TSV lub online bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: C++ API do konwersji DOTM na TSV lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: TSV
 otherformats: XLAM XLSM XLS SXC FODS DIF XLTM XLSB EXCEL XLSX XLTX XLT ODS CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOTM na TSV lub online" h2="Eksportuj DOTM do TSV za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API do konwersji DOTM na TSV lub Aplikacja internetowa" h2="Eksportuj DOTM do TSV za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Word lub Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Możesz łatwo włączyć funkcję konwersji DOTM do TSV w swoich aplikacjach C++. Korzystając z bogatego w funkcje, wydajnego i łatwego w użyciu interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for C++](https://products.aspose.com/words/cpp/), możesz eksportować DOTM do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), możesz przekonwertować HTML na TSV. Oba interfejsy API są objęte pakietem [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji DOTM na TSV lub online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji DOTM na TSV lub Aplikacja internetowa" %}}
 1. Otwórz plik DOTM, korzystając z odwołania do klasy [Dotmument](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)
 2. Konwertuj DOTM na HTML za pomocą funkcji członkowskiej [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)
 3. Załaduj dokument HTML, używając odwołania do klasy [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

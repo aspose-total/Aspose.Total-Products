@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: WORDML OTT DOT FLATOPC DOCM DOTX DOCX DOC ODT DOTM WORD RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى TEXT على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى TEXT داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم POWERPOINT إلى TEXT على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل POWERPOINT إلى TEXT داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint POWERPOINT إلى Word TEXT في تطبيقاتك.

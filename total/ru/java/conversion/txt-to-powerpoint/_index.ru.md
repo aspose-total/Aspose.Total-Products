@@ -1,5 +1,5 @@
 ---
-title: Преобразование TXT в POWERPOINT через Java или онлайн
+title: Преобразование TXT в POWERPOINT через Java или онлайн-приложение
 description: Java API для экспорта TXT в POWERPOINT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/java/conversion/txt-to-powerpoint/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPSX PPT PPTM PPSM POTM PPTX POTX POWERPOINT POT PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование TXT в POWERPOINT через Java или онлайн" h2="Преобразование TXT в POWERPOINT с помощью локального Java API в любых приложениях Java J2SE, J2EE, J2ME без использования Microsoft<sup>&reg;</sup> PowerPoint или Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование TXT в POWERPOINT через Java или онлайн-приложение" h2="Преобразование TXT в POWERPOINT с помощью локального Java API в любых приложениях Java J2SE, J2EE, J2ME без использования Microsoft<sup>&reg;</sup> PowerPoint или Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Часто разработчикам приходится программно преобразовывать файл TXT в POWERPOINT. Используя библиотеки Java для автоматизации файлов [Aspose.Total for Java](https://products.aspose.com/total/java/), вы можете автоматизировать процесс рендеринга, выполнив несколько простых шагов. Вы можете загрузить файл TXT с помощью [Aspose.Words for Java](https://products.aspose.com/words/java/) и преобразовать его в HTML. После этого, используя мощный Java-API для манипулирования PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), вы можете создать новую презентацию, записать в нее HTML-контент и сохранить его как POWERPOINT. .
 {{% /blocks/products/pf/feature-page-summary  %}}

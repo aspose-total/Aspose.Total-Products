@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPTX POTM POWERPOINT POTX ODP PPT PPSX PPTM PPSM PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="將 DOC 轉換為 POT 的 C++ API 或在線" h2="在您的 C++ 應用程序中將 DOC 導出為 POT，而無需使用 Microsoft Word&reg;或 PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="將 DOC 轉換為 POT 的 C++ API 或在線應用程序" h2="在您的 C++ 應用程序中將 DOC 導出為 POT，而無需使用 Microsoft Word&reg;或 PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 包含強大的文件自動化 API，允許在使用其中兩個 API 時自動進行 DOC 到 POT 的轉換。使用 [Aspose.Words for C++](https://products.aspose.com/words/cpp/) 加載您的 DOC 並將其轉換為 HTML，然後通過 PowerPoint 操作 C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) 加載 HTML 創建一個新的演示文稿，並將其保存為 POT。 

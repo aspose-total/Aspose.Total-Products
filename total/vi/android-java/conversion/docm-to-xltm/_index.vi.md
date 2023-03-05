@@ -10,7 +10,7 @@ outformat: XLTM
 otherformats: SXC XLAM XLSM XLSX ODS TSV DIF XLTX FODS XLT XLSB XLS EXCEL CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOCM sang XLTM trong các ứng dụng Android hoặc trực tuyến" h2="Xuất DOCM sang XLTM trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi DOCM sang XLTM trong các ứng dụng Android hoặc Ứng dụng trực tuyến" h2="Xuất DOCM sang XLTM trong Android qua Java mà không sử dụng Microsoft <sup>&reg;</sup> Word hoặc Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Bằng cách sử dụng [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), bạn có thể tích hợp tính năng chuyển đổi DOCM sang XLTM bên trong các ứng dụng Android của mình. Trước tiên, bạn có thể chuyển đổi DOCM sang HTML bằng cách sử dụng API chuyển đổi và thao tác tài liệu phong phú, giàu tính năng [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Sau đó, bằng cách sử dụng [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), bạn có thể chuyển đổi HTML sang XLTM. 

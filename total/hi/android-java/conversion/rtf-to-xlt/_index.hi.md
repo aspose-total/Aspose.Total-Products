@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLSB TSV XLS ODS XLTX DIF CSV XLSM FODS EXCEL XLAM XLSX XLTM SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android एप्लिकेशन में RTF को XLT में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना जावा के द्वारा Android में RTF को XLT में निर्यात करें" >}}
+{{< blocks/products/pf/feature-page-header h1="Android एप्लिकेशन में RTF को XLT में बदलें या ऑनलाइन ऐप" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना जावा के द्वारा Android में RTF को XLT में निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) का उपयोग करके आप अपने Android एप्लिकेशन के अंदर RTF को XLT रूपांतरण सुविधा में एकीकृत कर सकते हैं। सबसे पहले, आप सुविधा संपन्न, दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) का उपयोग करके RTF को HTML में बदल सकते हैं। उसके बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) का उपयोग करके, आप HTML को XLT में बदल सकते हैं। 

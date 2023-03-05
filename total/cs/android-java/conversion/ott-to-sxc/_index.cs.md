@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: XLT TSV XLTM FODS CSV DIF XLSB XLTX XLAM ODS XLSM EXCEL XLSX XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte OTT na SXC v aplikacích pro Android nebo online" h2="Export OTT do SXC v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte OTT na SXC v aplikacích pro Android nebo online aplikace" h2="Export OTT do SXC v Androidu přes Java bez použití Microsoft<sup>&reg;</sup> Word nebo Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pomocí [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) můžete integrovat funkci převodu OTT na SXC do svých aplikací pro Android. Za prvé, můžete převést OTT do HTML pomocí rozhraní API pro manipulaci s dokumenty a konverzi s bohatými funkcemi [Aspose.Words pro Android přes Java](https://products.aspose.com/words/android-java/). Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) převést HTML na SXC. 

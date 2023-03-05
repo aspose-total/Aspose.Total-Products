@@ -1,5 +1,5 @@
 ---
-title: Konversi DOCM ke PPT melalui Java atau daring
+title: Konversi DOCM ke PPT melalui Java atau Aplikasi Daring
 description: Java API untuk Mengekspor DOCM ke PPT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/java/conversion/docm-to-ppt/
 family: total
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi DOCM ke PPT melalui Java atau daring" h2="Konversi DOCM ke PPT dengan menggunakan API Java lokal dalam aplikasi Java J2SE, J2EE, J2ME tanpa menggunakan Microsoft<sup>&reg;</sup> PowerPoint atau Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi DOCM ke PPT melalui Java atau Aplikasi Daring" h2="Konversi DOCM ke PPT dengan menggunakan API Java lokal dalam aplikasi Java J2SE, J2EE, J2ME tanpa menggunakan Microsoft<sup>&reg;</sup> PowerPoint atau Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Seringkali pengembang harus mengonversi file DOCM ke PPT secara terprogram. Dengan menggunakan library Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), Anda dapat mengotomatiskan proses rendering dalam beberapa langkah sederhana. Anda dapat memuat file DOCM dengan menggunakan [Aspose.Words for Java](https://products.aspose.com/words/java/) dan mengonversinya menjadi HTML. Setelah itu dengan menggunakan manipulasi PowerPoint yang kuat Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) Anda dapat membuat Presentasi baru, menulis konten HTML di dalamnya, dan menyimpannya sebagai PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}

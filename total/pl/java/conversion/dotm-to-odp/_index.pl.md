@@ -1,5 +1,5 @@
 ---
-title: Konwertuj DOTM na ODP za pomocą Javy lub online
+title: Konwertuj DOTM na ODP za pomocą Javy lub Aplikacja internetowa
 description: Java API do eksportu DOTM do ODP bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/java/conversion/dotm-to-odp/
 family: total
@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: POWERPOINT PPSX PPSM POTX PPTM PPTX PPT POT POTM PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOTM na ODP za pomocą Javy lub online" h2="Konwersja DOTM do ODP przy użyciu lokalnego interfejsu API Java w dowolnej aplikacji Java J2SE, J2EE, J2ME bez korzystania z programu Microsoft<sup>&reg;</sup> PowerPoint lub Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj DOTM na ODP za pomocą Javy lub Aplikacja internetowa" h2="Konwersja DOTM do ODP przy użyciu lokalnego interfejsu API Java w dowolnej aplikacji Java J2SE, J2EE, J2ME bez korzystania z programu Microsoft<sup>&reg;</sup> PowerPoint lub Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Często programiści muszą programowo przekonwertować plik DOTM na ODP. Korzystając z bibliotek Java File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) możesz zautomatyzować proces renderowania w kilku prostych krokach. Możesz wczytać plik DOTM, używając [Aspose.Words for Java](https://products.aspose.com/words/java/) i przekonwertować go na HTML. Następnie za pomocą potężnej manipulacji PowerPoint API Java [Aspose.Slides for Java](https://products.aspose.com/slides/java/) możesz utworzyć nową prezentację, napisać w niej treść HTML i zapisać ją jako ODP .
 {{% /blocks/products/pf/feature-page-summary  %}}

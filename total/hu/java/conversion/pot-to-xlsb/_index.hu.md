@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: ODS XLSB DIF XLTX FODS XLSM XLS MARKDOWN XLTM XLT TSV EXCEL MHTML XLSX XLAM SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="POT konvertálása XLSB-vé Java segítségével vagy online" h2="On Premise Java API a POT exportálásához XLSB formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="POT konvertálása XLSB-vé Java segítségével vagy Online App" h2="On Premise Java API a POT exportálásához XLSB formátumba Microsoft<sup>&reg;</sup> Excel vagy PowerPoint használata nélkül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 A POT-fájlt XLSB-vé konvertálhatja az [Aspose.Total for Java](https://products.aspose.com/total/java/) segítségével, két lépésben. Az első lépésben exportálhatja a POT-ot HTML-be az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) használatával. Másodszor, az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLSB-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}

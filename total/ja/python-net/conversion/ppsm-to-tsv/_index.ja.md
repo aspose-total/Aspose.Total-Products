@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でPPSMをTSVに変換 またはオンライン" h2="Microsoft PowerPoint<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで PPSM から TSV への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でPPSMをTSVに変換 またはオンラインアプリ" h2="Microsoft PowerPoint<sup>&reg;</sup> または Excel をインストールせずに、Python アプリケーションで PPSM から TSV への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

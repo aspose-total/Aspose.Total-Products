@@ -1,5 +1,5 @@
 ---
-title: Convert PPS to FLATOPC via Java or online
+title: Convert PPS to FLATOPC via Java or Online App
 description: Java API to Export PPS to FLATOPC without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/pps-to-flatopc/
 family: total
@@ -10,14 +10,14 @@ outformat: FLATOPC
 otherformats: OTT DOCX DOTM DOT DOC ODT WORD WORDML DOTX TEXT RTF DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPS to FLATOPC via Java or online" h2="On Premise Java API for PowerPoint PPS to FLATOPC conversion within any Java J2SE, J2EE, J2ME applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPS to FLATOPC via Java or Online App" h2="On Premise Java API for PowerPoint PPS to FLATOPC conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPS to Word FLATOPC. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPS to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to FLATOPC. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to FLATOPC via Java or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to FLATOPC via Java or Online App" %}}
 1. Open PPS file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert PPS to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class

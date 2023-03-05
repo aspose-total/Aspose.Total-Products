@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPTM POWERPOINT PPTX POTX PPSX ODP PPSM POTM PPS PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOTM en POT ou en ligne" h2="Exportez DOTM vers POT dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir DOTM en POT ou application en ligne" h2="Exportez DOTM vers POT dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion DOTM en POT tout en utilisant deux de ses API. Chargez votre DOTM en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous POT. 

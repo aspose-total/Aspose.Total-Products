@@ -1,5 +1,5 @@
 ---
-title: Konversi PPTM ke CSV melalui C# atau daring
+title: Konversi PPTM ke CSV melalui C# atau Aplikasi Daring
 description: Konversi PPTM ke CSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pptm-to-csv/
 family: total
@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: MHTML EXCEL XLS XLSM ODS DIF XLTM XLT MARKDOWN XLTX TSV XLAM FODS XLSX XLSB SXC DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPTM ke CSV melalui C# atau daring" h2=".NET API untuk konversi PPTM ke CSV tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konversi PPTM ke CSV melalui C# atau Aplikasi Daring" h2=".NET API untuk konversi PPTM ke CSV tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for .NET](https://products.aspose.com/total/net/) Anda dapat mengonversi file PPTM ke CSV dalam aplikasi .NET, C#, ASP.NET dan VB.NET dalam dua langkah-langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), Anda dapat mengekspor PPTM ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke CSV.

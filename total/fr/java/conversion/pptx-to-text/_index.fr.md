@@ -1,5 +1,5 @@
 ---
-title: Convertir PPTX en TEXT via Java ou en ligne
+title: Convertir PPTX en TEXT via Java ou application en ligne
 description: API Java pour exporter PPTX vers TEXT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/pptx-to-text/
 family: total
@@ -10,7 +10,7 @@ outformat: TEXT
 otherformats: TEXTM TEXT WORDML TEXTX OTT DOTX DOT ODT FLATOPC WORD RTF DOTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPTX en TEXT via Java ou en ligne" h2="API Java sur site pour la conversion PowerPoint PPTX en TEXT dans toutes les applications Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir PPTX en TEXT via Java ou application en ligne" h2="API Java sur site pour la conversion PowerPoint PPTX en TEXT dans toutes les applications Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Les bibliothèques d'automatisation du format de fichier permettent aux développeurs Java d'automatiser le processus de conversion par lots de PowerPoint PPTX en Word TEXT. La conversion du textument est un processus en deux étapes et implique l'utilisation de deux API. Nous utiliserons [Aspose.Slides for Java](https://products.aspose.com/slides/java/) qui est une API PowerPoint pour la manipulation et la gestion des présentations afin de convertir PPTX en HTML. Après cela, en utilisant l'API de traitement de texte riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), nous convertirons le HTML en TEXT.
 {{% /blocks/products/pf/feature-page-summary  %}}

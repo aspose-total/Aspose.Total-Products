@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="XLT'yi Python aracılığıyla DOT'e dönüştürün veya çevrimiçi" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden XLT'den DOT'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="XLT'yi Python aracılığıyla DOT'e dönüştürün veya Çevrimiçi Uygulama" h2="Python uygulamalarınızda Microsoft Excel<sup>&reg;</sup> veya Word yüklemeden XLT'den DOT'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

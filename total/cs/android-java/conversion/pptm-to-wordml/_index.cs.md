@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTM OTT RTF DOCX DOC DOCM DOTX TEXT DOT FLATOPC ODT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPTM do WORDML na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPTM na WORDML v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPTM do WORDML na Andoridu přes Javu nebo online aplikace" h2="Rozhraní API pro formát souborů pro převod PPTM na WORDML v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPTM do Word WORDML ve vašich aplikacích.

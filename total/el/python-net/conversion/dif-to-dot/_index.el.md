@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Μετατροπή DIF σε DOT μέσω Python ή διαδικτυακά" h2="Μετατροπή DIF σε DOT στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή DIF σε DOT μέσω Python ή Online App" h2="Μετατροπή DIF σε DOT στις εφαρμογές σας Python χωρίς εγκατάσταση του Microsoft Excel<sup>&reg;</sup> ή του Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

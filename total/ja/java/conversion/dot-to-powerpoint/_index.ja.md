@@ -1,5 +1,5 @@
 ---
-title: Java経由でDOTをPOWERPOINTに変換する またはオンライン
+title: Java経由でDOTをPOWERPOINTに変換する またはオンラインアプリ
 description: MicrosoftWordやPowerPointを使用せずにDOTをPOWERPOINTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/dot-to-powerpoint/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPTM PPSX POWERPOINT POTX PPT POT PPSM PPS PPTX POTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でDOTをPOWERPOINTに変換する またはオンライン" h2="Microsoft<sup>＆reg;</sup> PowerPointまたはWordを使用せずに、Java J2SE、J2EE、J2MEアプリケーション内でオンプレミスのJavaAPIを使用することによるDOTからPOWERPOINTへの変換" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でDOTをPOWERPOINTに変換する またはオンラインアプリ" h2="Microsoft<sup>＆reg;</sup> PowerPointまたはWordを使用せずに、Java J2SE、J2EE、J2MEアプリケーション内でオンプレミスのJavaAPIを使用することによるDOTからPOWERPOINTへの変換" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 多くの場合、開発者はプログラムでDOTファイルをPOWERPOINTに変換する必要があります。 FileAutomationJavaライブラリ[Aspose.TotalforJava](https://products.aspose.com/total/java/)を使用すると、いくつかの簡単な手順でレンダリングプロセスを自動化できます。 [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してDOTファイルをロードし、HTMLに変換できます。その後、強力なPowerPoint操作Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、POWERPOINTとして保存できます。 。
 {{% /blocks/products/pf/feature-page-summary  %}}

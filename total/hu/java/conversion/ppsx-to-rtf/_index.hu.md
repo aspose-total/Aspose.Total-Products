@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a PPSX-ot RTF-ba Java segítségével vagy online
+title: Konvertálja a PPSX-ot RTF-ba Java segítségével vagy Online App
 description: Java API a PPSX exportálásához RTF-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/java/conversion/ppsx-to-rtf/
 family: total
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOTX RTF RTFM FLATOPC WORD ODT TEXT WORDML DOTM DOT RTFX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPSX-ot RTF-ba Java segítségével vagy online" h2="On Premise Java API a PowerPoint PPSX-ból RTF konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a PPSX-ot RTF-ba Java segítségével vagy Online App" h2="On Premise Java API a PowerPoint PPSX-ból RTF konvertáláshoz bármely Java J2SE, J2EE, J2ME alkalmazáson belül" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) A fájlformátum-automatizálási könyvtárak lehetővé teszik a Java-fejlesztők számára, hogy automatizálják a PowerPoint PPSX-ból Word RTF-ba történő kötegelt konvertálási folyamatát. A dokumentum konvertálása kétlépéses folyamat, és két API használatát foglalja magában. Az [Aspose.Slides for Java](https://products.aspose.com/slides/java/) alkalmazást fogjuk használni, amely egy PowerPoint API a prezentációk manipulálásához és kezeléséhez a PPSX HTML-lé konvertálásához. Ezt követően a funkciókban gazdag szövegszerkesztő API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával a HTML-t RTF formátumba konvertáljuk.
 {{% /blocks/products/pf/feature-page-summary  %}}

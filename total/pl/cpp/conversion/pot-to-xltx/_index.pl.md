@@ -1,5 +1,5 @@
 ---
-title: Konwertuj POT na XLTX za pomocą C++ lub online lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POT na XLTX za pomocą C++ lub Aplikacja internetowa lub za pomocą bezpłatnego konwertera online
 description: Eksportuj POT do XLTX w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM MHTML CSV ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj POT na XLTX za pomocą C++ lub online" h2="Konwersja plików POT do XLTX za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj POT na XLTX za pomocą C++ lub Aplikacja internetowa" h2="Konwersja plików POT do XLTX za pomocą C++ bez użycia Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for C++](https://products.aspose.com/total/cpp/) możesz przekonwertować plik POT na XLTX w aplikacjach C++ w dwóch prostych krokach. Po pierwsze, używając [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), możesz wyeksportować POT do HTML. Następnie, używając [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, możesz przekonwertować HTML na XLTX. 

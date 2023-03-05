@@ -1,6 +1,6 @@
 ---
 title: Converter DOCX para CSV em C++ ou com o conversor online grátis
-description: API C++ para converter DOCX para CSV ou online sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: API C++ para converter DOCX para CSV ou aplicativo on-line sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLSB SXC XLAM EXCEL DIF TSV XLTM ODS XLSX XLSM XLT XLS FODS XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOCX para CSV ou online" h2="Exporte DOCX para CSV via C++ sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOCX para CSV ou aplicativo on-line" h2="Exporte DOCX para CSV via C++ sem usar o Microsoft<sup>&reg;</sup> Word ou o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você pode incluir o recurso de conversão de DOCX para CSV em seus aplicativos C++ facilmente. Usando a API de conversão e manipulação de documentos [Aspose.Words for C++](https://products.aspose.com/words/cpp/) rica em recursos, poderosa e fácil de usar, você pode exportar DOCX para HTML. Depois disso, usando [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), você pode converter HTML para CSV. Ambas as APIs estão no pacote [Aspose.Total for C++](https://products.aspose.com/total/cpp/). 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOCX para CSV ou online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOCX para CSV ou aplicativo on-line" %}}
 1. Abra o arquivo DOCX usando a referência de classe [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document)
 2. Converta DOCX para HTML usando a função de membro [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat)
 3. Carregue o documento HTML usando a referência de classe [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)

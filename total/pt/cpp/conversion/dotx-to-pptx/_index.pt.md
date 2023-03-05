@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PPT POWERPOINT POT ODP PPS PPTM POTM PPSX POTX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOTX em PPTX ou online" h2="Exporte DOTX para PPTX em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ para converter DOTX em PPTX ou aplicativo on-line" h2="Exporte DOTX para PPTX em seus aplicativos C++ sem usar o Microsoft Word&reg; ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) consiste em poderosas APIs de automação de arquivos que permitem automatizar a conversão de DOTX para PPTX usando duas de suas APIs. Carregue seu DOTX usando [Aspose.Words for C++](https://products.aspose.com/words/cpp/) e converta-o em HTML, depois carregue o HTML via API C++ de manipulação do PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) para criar uma nova apresentação e salvá-la como PPTX. 

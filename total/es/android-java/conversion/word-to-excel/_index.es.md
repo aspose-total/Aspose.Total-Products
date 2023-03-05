@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: DIF XLS XLTM TSV XLT ODS XLSB XLSX FODS CSV XLSM XLTX SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta WORD a EXCEL en aplicaciones de Android o en línea" h2="Exporte WORD a EXCEL en Android a través de Java sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta WORD a EXCEL en aplicaciones de Android o aplicación en línea" h2="Exporte WORD a EXCEL en Android a través de Java sin usar Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Al utilizar [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/), puede integrar la función de conversión de WORD a EXCEL dentro de sus aplicaciones de Android. En primer lugar, puede convertir WORD a HTML utilizando la API de conversión y manipulación de wordumentos rica en funciones [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puede convertir HTML a EXCEL. 

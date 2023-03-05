@@ -10,7 +10,7 @@ outformat: ODP
 otherformats: PPSX POTX PPS POTM PPTM PPSM PPT POWERPOINT PPTX POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOTX para ODP em aplicativos Android ou online" h2="Conversão de DOTX para ODP em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOTX para ODP em aplicativos Android ou aplicativo on-line" h2="Conversão de DOTX para ODP em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de dotxumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de dotxumentos em seus aplicativos Android. Para converter o arquivo DOTX para ODP, você pode primeiro usar a API de manipulação de dotxumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo DOTX para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como ODP. 

@@ -10,7 +10,7 @@ outformat: XLT
 otherformats: XLSM XLAM XLSX XLTX XLTM TSV FODS XLSB SXC ODS XLT DIF XLS EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter MOBI para XLT via Java ou online" h2="API Java no local para converter MOBI para XLT sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter MOBI para XLT via Java ou aplicativo on-line" h2="API Java no local para converter MOBI para XLT sem usar o Microsoft<sup>&reg;</sup> Word ou Microsoft<sup>&reg;</sup> Excel" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Converter MOBI para XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de mobiumentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar MOBI para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}

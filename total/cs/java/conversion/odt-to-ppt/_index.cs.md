@@ -1,5 +1,5 @@
 ---
-title: Převést ODT na PPT přes Java nebo online
+title: Převést ODT na PPT přes Java nebo online aplikace
 description: Java API pro export ODT do PPT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/java/conversion/odt-to-ppt/
 family: total
@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPT PPSX PPSM PPS POTM POTX PPTM PPTX POT POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést ODT na PPT přes Java nebo online" h2="Konverze ODT na PPT pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést ODT na PPT přes Java nebo online aplikace" h2="Konverze ODT na PPT pomocí místního rozhraní Java API v jakékoli aplikaci Java J2SE, J2EE, J2ME bez použití Microsoft<sup>&reg;</sup> PowerPoint nebo Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Často musí vývojáři převést soubor ODT na PPT programově. Pomocí knihoven File Automation Java [Aspose.Total for Java](https://products.aspose.com/total/java/) můžete automatizovat proces vykreslování v několika jednoduchých krocích. Soubor ODT můžete načíst pomocí [Aspose.Words for Java](https://products.aspose.com/words/java/) a převést jej do HTML. Poté pomocí výkonného rozhraní Java API pro manipulaci v PowerPointu [Aspose.Slides for Java](https://products.aspose.com/slides/java/) můžete vytvořit novou prezentaci, napsat do ní obsah HTML a uložit ji jako PPT .
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: FLATOPC DOT RTF DOTX WORD TEXT OTT DOC WORDML DOCM ODT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie POTX zu DOTM auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von POTX in DOTM in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie POTX zu DOTM auf Andorid über Java oder Online-App" h2="Dateiformat-APIs zum Konvertieren von POTX in DOTM in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint POTX in Word DOTM in Ihren Apps automatisieren.

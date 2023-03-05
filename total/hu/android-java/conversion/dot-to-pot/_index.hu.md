@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PPT PPSX PPTX PPS PPSM POTM POTX POWERPOINT PPTM ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOT-t POT-vé az Android alkalmazásokban vagy online" h2="DOT- POT-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertálja a DOT-t POT-vé az Android alkalmazásokban vagy Online App" h2="DOT- POT-konverzió az Android-alkalmazásokban a Microsoft Word<sup>&reg;</sup> vagy a PowerPoint telepítése nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Ön Android-fejlesztő, aki dokumentumkonverziós funkciót szeretne hozzáadni az alkalmazásához? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) A fájlformátum-automatizálási könyvtárak segíthetnek automatizálni a dokumentumátalakítási folyamatot Android-alkalmazásaiban. A DOT-fájl POT-re konvertálásához először használhatja a dokumentummanipulációs API-t [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) a DOT-fájlformátum HTML-lé konvertálásához. Ezt követően a PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/) használatával új prezentációt hozhat létre, HTML-tartalmat írhat bele, és más néven mentheti. POT. 

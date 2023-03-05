@@ -1,5 +1,5 @@
 ---
-title: Konwertuj POTX na DIF za pomocą C# lub online
+title: Konwertuj POTX na DIF za pomocą C# lub Aplikacja internetowa
 description: Konwertuj POTX na DIF w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/potx-to-dif/
 family: total
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: MHTML SXC XLTM FODS XLSM MARKDOWN XLT EXCEL ODS XLTX XLS XLSB XLAM DIF XLSX TSV DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj POTX na DIF za pomocą C# lub online" h2=".NET API do konwersji POTX na DIF bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj POTX na DIF za pomocą C# lub Aplikacja internetowa" h2=".NET API do konwersji POTX na DIF bez użycia programu Microsoft<sup>&reg;</sup> Excel lub PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Używając [Aspose.Total for .NET](https://products.aspose.com/total/net/) możesz przekonwertować plik POTX na DIF w dowolnej aplikacji .NET, C#, ASP.NET i VB.NET w dwóch proste kroki. Po pierwsze, używając [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), możesz wyeksportować POTX do HTML. Następnie, używając [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, możesz przekonwertować HTML na DIF.

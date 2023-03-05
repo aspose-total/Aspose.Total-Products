@@ -1,5 +1,5 @@
 ---
-title: Converter WORD para PPSM via Java ou online
+title: Converter WORD para PPSM via Java ou aplicativo on-line
 description: API Java para exportar WORD para PPSM sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/word-to-ppsm/
 family: total
@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: PPT PPSX POWERPOINT PPTM POT POTX PPSM PPTX POTM PPS CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter WORD para PPSM via Java ou online" h2="Conversão de WORD para PPSM usando a API Java local em qualquer aplicativo Java J2SE, J2EE, J2ME sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter WORD para PPSM via Java ou aplicativo on-line" h2="Conversão de WORD para PPSM usando a API Java local em qualquer aplicativo Java J2SE, J2EE, J2ME sem usar o Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Muitas vezes, os desenvolvedores precisam converter o arquivo WORD para PPSM programaticamente. Ao usar as bibliotecas Java de Automação de Arquivos [Aspose.Total for Java](https://products.aspose.com/total/java/), você pode automatizar o processo de renderização em algumas etapas simples. Você pode carregar seu arquivo WORD usando [Aspose.Words for Java](https://products.aspose.com/words/java/) e convertê-lo em HTML. Depois disso, usando a poderosa API Java de manipulação do PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPSM .
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: PPS PPSM POTX POWERPOINT POTM PPTX ODP PPTM POT PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter WORD para PPSX em aplicativos Android ou online" h2="Conversão de WORD para PPSX em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter WORD para PPSX em aplicativos Android ou aplicativo on-line" h2="Conversão de WORD para PPSX em seus aplicativos Android sem instalar o Microsoft Word<sup>&reg;</sup> ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Você é um desenvolvedor Android que deseja adicionar um recurso de conversão de wordumentos ao seu aplicativo? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) As bibliotecas de automação de formato de arquivo podem ajudá-lo a automatizar o processo de conversão de wordumentos em seus aplicativos Android. Para converter o arquivo WORD para PPSX, você pode primeiro usar a API de manipulação de wordumentos [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) para converter o formato de arquivo WORD para HTML. Depois disso, usando a API do PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), você pode criar uma nova apresentação, escrever conteúdo HTML nela e salvá-la como PPSX. 

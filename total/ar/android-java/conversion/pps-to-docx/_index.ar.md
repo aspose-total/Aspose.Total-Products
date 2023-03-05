@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: DOTX FLATOPC TEXT DOCM DOTM OTT WORD DOT DOC WORDML ODT RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPS إلى DOCX على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPS إلى DOCX داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPS إلى DOCX على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPS إلى DOCX داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPS إلى Word DOCX في تطبيقاتك.

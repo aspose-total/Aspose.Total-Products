@@ -1,5 +1,5 @@
 ---
-title: Konversi POWERPOINT ke ODS melalui C++ atau daring atau dengan Konverter Online gratis
+title: Konversi POWERPOINT ke ODS melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
 description: Ekspor POWERPOINT ke ODS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: FODS XLAM TSV CSV XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKDOWN XLSB XLSM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi POWERPOINT ke ODS melalui C++ atau daring" h2="Konversi File POWERPOINT ke ODS melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi POWERPOINT ke ODS melalui C++ atau Aplikasi Daring" h2="Konversi File POWERPOINT ke ODS melalui C++ tanpa menggunakan Microsoft<sup>&reg;</sup> Excel atau PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Dengan menggunakan [Aspose.Total for C++](https://products.aspose.com/total/cpp/) Anda dapat mengonversi file POWERPOINT ke ODS dalam aplikasi C++ dalam dua langkah sederhana. Pertama, dengan menggunakan [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), Anda dapat mengekspor POWERPOINT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, Anda dapat mengonversi HTML ke ODS. 

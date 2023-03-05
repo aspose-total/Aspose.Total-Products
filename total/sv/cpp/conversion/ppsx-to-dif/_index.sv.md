@@ -1,5 +1,5 @@
 ---
-title: Konvertera PPSX till DIF via C++ eller online eller med gratis Online Converter
+title: Konvertera PPSX till DIF via C++ eller onlineapp eller med gratis Online Converter
 description: Exportera PPSX till DIF i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM XLTM XLSB XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera PPSX till DIF via C++ eller online" h2="PPSX till DIF-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera PPSX till DIF via C++ eller onlineapp" h2="PPSX till DIF-filkonvertering via C++ utan att använda Microsoft<sup>&reg;</sup> Excel eller PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Genom att använda [Aspose.Total for C++](https://products.aspose.com/total/cpp/) kan du konvertera PPSX-fil till DIF inom C++-applikationer i två enkla steg. För det första, genom att använda [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/), kan du exportera PPSX till HTML. Efter det, genom att använda [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, kan du konvertera HTML till DIF. 

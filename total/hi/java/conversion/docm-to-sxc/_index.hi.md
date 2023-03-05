@@ -10,7 +10,7 @@ outformat: SXC
 otherformats: SXC ODS TSV XLSB XLTX XLS FODS XLSM XLTM XLT XLSX EXCEL DIF XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से DOCM को SXC में बदलें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना DOCM को SXC में कनवर्ट करने के लिए Premise Java API पर" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से DOCM को SXC में बदलें या ऑनलाइन ऐप" h2="Microsoft<sup>&reg;</sup> Word या Microsoft<sup>&reg;</sup> Excel का उपयोग किए बिना DOCM को SXC में कनवर्ट करने के लिए Premise Java API पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) के माध्यम से DOCM को SXC में कनवर्ट करना एक आसान दो चरणों वाली प्रक्रिया है। सुविधा संपन्न, दस्तावेज़ हेरफेर और रूपांतरण API [Aspose.Words for Java](https://products.aspose.com/words/java/) का उपयोग करके, आप HTML को DOCM निर्यात कर सकते हैं। उसके बाद, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) का उपयोग करके, आप HTML को SXC में बदल सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}

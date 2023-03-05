@@ -10,7 +10,7 @@ outformat: PPTM
 otherformats: POT ODP PPSM PPSX PPT POTM PPTX POWERPOINT POTX PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android 앱에서 DOTM를 PPTM로 변환 또는 온라인" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Android 애플리케이션에서 DOTM에서 PPTM로 변환" >}}
+{{< blocks/products/pf/feature-page-header h1="Android 앱에서 DOTM를 PPTM로 변환 또는 온라인 앱" h2="Microsoft Word<sup>&reg;</sup> 또는 PowerPoint를 설치하지 않고 Android 애플리케이션에서 DOTM에서 PPTM로 변환" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 애플리케이션에 문서 변환 기능을 추가하려는 Android 개발자입니까? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 파일 형식 자동화 라이브러리를 사용하면 Android 애플리케이션에서 문서 변환 프로세스를 자동화할 수 있습니다. DOTM 파일을 PPTM로 변환하기 위해서는 먼저 문서 조작 API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/)를 사용하여 DOTM 파일 형식을 HTML로 변환할 수 있습니다. 그 후 PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)를 사용하여 새 프레젠테이션을 만들고 HTML 콘텐츠를 작성하고 다른 이름으로 저장할 수 있습니다. PPTM. 

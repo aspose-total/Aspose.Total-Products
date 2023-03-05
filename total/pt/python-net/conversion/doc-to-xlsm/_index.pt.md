@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converter DOC para XLSM via Python ou online" h2="Conversão de DOC para XLSM em seus aplicativos Python sem instalar o Microsoft Word<sup>&reg;</sup> ou Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converter DOC para XLSM via Python ou aplicativo on-line" h2="Conversão de DOC para XLSM em seus aplicativos Python sem instalar o Microsoft Word<sup>&reg;</sup> ou Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Konwertuj PPTX na XLSB za pomocą Pythona lub online lub za pomocą bezpłatnego konwertera online
+title: Konwertuj PPTX na XLSB za pomocą Pythona lub Aplikacja internetowa lub za pomocą bezpłatnego konwertera online
 description: Konwersja PPTX na XLSB w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj PPTX na XLSB za pomocą Pythona lub online" h2="Konwersja PPTX na XLSB w aplikacjach Pythona bez instalowania programu Microsoft PowerPoint<sup>&reg;</sup> lub programu Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj PPTX na XLSB za pomocą Pythona lub Aplikacja internetowa" h2="Konwersja PPTX na XLSB w aplikacjach Pythona bez instalowania programu Microsoft PowerPoint<sup>&reg;</sup> lub programu Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

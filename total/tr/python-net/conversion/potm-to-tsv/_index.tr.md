@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="POTM'yi Python aracılığıyla TSV'e dönüştürün veya çevrimiçi" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda POTM'den TSV'e dönüştürme" >}}
+{{< blocks/products/pf/feature-page-header h1="POTM'yi Python aracılığıyla TSV'e dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft PowerPoint<sup>&reg;</sup> veya Excel yüklemeden Python uygulamalarınızda POTM'den TSV'e dönüştürme" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

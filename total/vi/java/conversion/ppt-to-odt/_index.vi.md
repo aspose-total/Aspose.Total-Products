@@ -1,5 +1,5 @@
 ---
-title: Chuyển đổi PPT sang ODT qua Java hoặc trực tuyến
+title: Chuyển đổi PPT sang ODT qua Java hoặc Ứng dụng trực tuyến
 description: Java API để xuất PPT sang ODT mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/java/conversion/ppt-to-odt/
 family: total
@@ -10,7 +10,7 @@ outformat: ODT
 otherformats: TEXT DOTM WORDML ODTM RTF FLATOPC DOT WORD ODT ODTX OTT DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPT sang ODT qua Java hoặc trực tuyến" h2="Trên Premise Java API cho PowerPoint chuyển đổi PPT sang ODT trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi PPT sang ODT qua Java hoặc Ứng dụng trực tuyến" h2="Trên Premise Java API cho PowerPoint chuyển đổi PPT sang ODT trong bất kỳ ứng dụng Java J2SE, J2EE, J2ME nào" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Thư viện tự động hóa định dạng tệp cho phép các nhà phát triển Java tự động hóa quá trình chuyển đổi hàng loạt PowerPoint PPT sang Word ODT. Chuyển đổi tài liệu là một quá trình gồm hai bước và liên quan đến việc sử dụng hai API. Chúng tôi sẽ sử dụng [Aspose.Slides for Java](https://products.aspose.com/slides/java/) là một API PowerPoint cho thao tác và quản lý bản trình bày để chuyển đổi PPT sang HTML. Sau đó, bằng cách sử dụng API xử lý văn bản giàu tính năng [Aspose.Words for Java](https://products.aspose.com/words/java/), chúng tôi sẽ chuyển đổi HTML thành ODT.
 {{% /blocks/products/pf/feature-page-summary  %}}

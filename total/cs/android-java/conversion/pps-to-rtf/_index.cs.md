@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: DOTM DOT ODT WORD TEXT WORDML DOTX DOCM DOC OTT FLATOPC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPS do RTF na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPS na RTF v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPS do RTF na Andoridu přes Javu nebo online aplikace" h2="Rozhraní API pro formát souborů pro převod PPS na RTF v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPS do Word RTF ve vašich aplikacích.

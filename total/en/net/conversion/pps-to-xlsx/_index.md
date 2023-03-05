@@ -1,5 +1,5 @@
 ---
-title: Convert PPS to XLSX via C# or online 
+title: Convert PPS to XLSX via C# or Online App 
 description: Convert PPS to XLSX in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /net/conversion/pps-to-xlsx/
 family: total
@@ -10,14 +10,14 @@ outformat: XLSX
 otherformats: XLSM XLAM SXC MARKDOWN XLSB ODS FODS DIF TSV MHTML EXCEL XLS XLTM CSV XLT XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPS to XLSX via C# or online" h2=".NET API for PPS to XLSX conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPS to XLSX via C# or Online App" h2=".NET API for PPS to XLSX conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPS file to XLSX within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPS to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSX. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to XLSX via C# or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to XLSX via C# or Online App" %}}
 1. Open PPS file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPS as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

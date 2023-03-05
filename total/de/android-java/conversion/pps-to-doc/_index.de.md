@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: DOCM TEXT DOTX DOT OTT DOCX RTF ODT DOTM WORDML WORD FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPS zu DOC auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von PPS in DOC in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie PPS zu DOC auf Andorid über Java oder Online-App" h2="Dateiformat-APIs zum Konvertieren von PPS in DOC in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint PPS in Word DOC in Ihren Apps automatisieren.

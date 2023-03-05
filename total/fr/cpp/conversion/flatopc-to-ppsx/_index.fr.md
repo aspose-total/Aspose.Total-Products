@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POWERPOINT PPSM PPS PPTM POTX POTM PPTX ODP PPT POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir FLATOPC en PPSX ou en ligne" h2="Exportez FLATOPC vers PPSX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="API C++ pour convertir FLATOPC en PPSX ou application en ligne" h2="Exportez FLATOPC vers PPSX dans vos applications C++ sans utiliser Microsoft Word® ou PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) se compose de puissantes API d'automatisation de fichiers qui permettent d'automatiser la conversion FLATOPC en PPSX tout en utilisant deux de ses API. Chargez votre FLATOPC en utilisant [Aspose.Words for C++](https://products.aspose.com/words/cpp/) et convertissez-le en HTML, puis chargez le HTML via l'API C++ de manipulation PowerPoint [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) pour créer une nouvelle présentation et enregistrez-la sous PPSX. 

@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTM XLSX ODS SXC DIF CSV XLSB XLT FODS XLS XLSM XLTX XLAM EXCEL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOCX in TSV in Android-Anwendungen oder online" h2="Exportieren Sie DOCX in Android über Java in TSV, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie DOCX in TSV in Android-Anwendungen oder Online-App" h2="Exportieren Sie DOCX in Android über Java in TSV, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die DOCX-zu-TSV-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie DOCX in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in TSV konvertieren. 

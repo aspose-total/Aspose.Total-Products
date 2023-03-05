@@ -1,5 +1,5 @@
 ---
-title: C＃を介してPPTをXLTMに変換する またはオンライン
+title: C＃を介してPPTをXLTMに変換する またはオンラインアプリ
 description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTをXLTMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/ppt-to-xltm/
 family: total
@@ -10,14 +10,14 @@ outformat: XLTM
 otherformats: DIF XLS MARKDOWN SXC XLTX XLSB XLSX TSV XLAM EXCEL ODS XLSM FODS XLTM MHTML XLT DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してPPTをXLTMに変換する またはオンライン" h2="Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTからXLTMに変換するための.NETAPI" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C＃を介してPPTをXLTMに変換する またはオンラインアプリ" h2="Microsoft<sup>＆reg;</sup>ExcelまたはPowerPointを使用せずにPPTからXLTMに変換するための.NETAPI" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for .NET](https://products.aspose.com/total/net/)を使用すると、任意の.NET、C＃、ASP.NET、およびVB.NETアプリケーション内でPPTファイルをXLTMに変換できます。簡単な手順。まず、[Aspose.Slides for .NET](https://products.aspose.com/slides/net/)を使用して、PPTをHTMLにエクスポートできます。その後、[Aspose.Cells for .NET](https://products.aspose.com/cells/net/)Spreadsheet Programming APIを使用して、HTMLをXLTMに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C＃を介してPPTをXLTMに変換する またはオンライン方法" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C＃を介してPPTをXLTMに変換する またはオンラインアプリ方法" %}}
 1. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation)クラスを使用してPPTファイルを開きます
 2. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5)メソッドを使用してPPTをHTMLとしてエクスポートします
 3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスを使用してHTMLドキュメントをロードします

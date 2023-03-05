@@ -10,7 +10,7 @@ outformat: FODS
 otherformats: XLS EXCEL XLSX XLTX XLTM DIF CSV XLSB XLAM SXC XLSM XLT TSV ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى FODS في تطبيقات Android أو عبر الإنترنت" h2="تصدير DOT إلى FODS في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل DOT إلى FODS في تطبيقات Android أو التطبيق عبر الإنترنت" h2="تصدير DOT إلى FODS في Android عبر Java بدون استخدام Microsoft <sup>&reg;</sup> Word أو Microsoft <sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 باستخدام [Aspose.Total for Android عبر Java](https://products.aspose.com/total/android-java/) يمكنك دمج ميزة تحويل DOT إلى FODS داخل تطبيقات Android. أولاً ، يمكنك تحويل DOT إلى HTML باستخدام واجهة برمجة تطبيقات غنية بالميزات ومعالجة المستندات والتحويل [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). بعد ذلك ، باستخدام [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) ، يمكنك تحويل HTML إلى FODS. 

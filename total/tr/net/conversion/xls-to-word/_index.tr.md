@@ -11,7 +11,7 @@ otherformats: DOCX DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile XLS'yi WORD'ye dönüştürün veya çevrimiçi" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'den WORD'ye">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile XLS'yi WORD'ye dönüştürün veya Çevrimiçi Uygulama" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS'den WORD'ye">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

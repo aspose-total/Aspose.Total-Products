@@ -1,5 +1,5 @@
 ---
-title: แปลง PPSX เป็น DIF ผ่าน C++ หรือทางออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี
+title: แปลง PPSX เป็น DIF ผ่าน C++ หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี
 description: ส่งออก PPSX เป็น DIF ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
@@ -10,14 +10,14 @@ outformat: DIF
 otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM XLTM XLSB XLSX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง PPSX เป็น DIF ผ่าน C++ หรือทางออนไลน์" h2="การแปลงไฟล์ PPSX เป็น DIF ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง PPSX เป็น DIF ผ่าน C++ หรือแอพออนไลน์" h2="การแปลงไฟล์ PPSX เป็น DIF ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Excel หรือ PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 ด้วยการใช้ [Aspose.Total for C++](https://products.aspose.com/total/cpp/) คุณสามารถแปลงไฟล์ PPSX เป็น DIF ภายในแอปพลิเคชัน C++ ได้ในสองขั้นตอนง่ายๆ ประการแรก โดยใช้ [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) คุณสามารถส่งออก PPSX เป็น HTML หลังจากนั้น ด้วยการใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API คุณสามารถแปลง HTML เป็น DIF 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPSX เป็น DIF ผ่าน C++ หรือทางออนไลน์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีแปลง PPSX เป็น DIF ผ่าน C++ หรือแอพออนไลน์" %}}
 1. เปิดไฟล์ PPSX โดยใช้ [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) การอ้างอิงคลาส
 2. แปลง PPSX เป็น HTML โดยใช้วิธี [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba)
 3. โหลดเอกสาร HTML โดยใช้ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) การอ้างอิงคลาส

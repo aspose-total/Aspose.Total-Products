@@ -10,7 +10,7 @@ outformat: POT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie EXCEL über Python in POT oder online" h2="Konvertierung von EXCEL in POT in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie EXCEL über Python in POT oder Online-App" h2="Konvertierung von EXCEL in POT in Ihren Python-Anwendungen ohne Installation von Microsoft Excel<sup>&reg;</sup> oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: POTX PPS POWERPOINT PPT PPSX ODP POT PPTX PPTM PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om DOT naar POTM te converteren of online" h2="Exporteer DOT naar POTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om DOT naar POTM te converteren of online-app" h2="Exporteer DOT naar POTM binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de DOT-naar-POTM-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw DOT met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als POTM. 

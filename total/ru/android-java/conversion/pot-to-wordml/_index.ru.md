@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: DOTM RTF DOT OTT ODT WORD DOCX FLATOPC DOCM TEXT DOC DOTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Рендеринг POT в WORDML на Andorid через Java или онлайн" h2="API форматов файлов для преобразования POT в WORDML в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
+{{< blocks/products/pf/feature-page-header h1="Рендеринг POT в WORDML на Andorid через Java или онлайн-приложение" h2="API форматов файлов для преобразования POT в WORDML в приложениях Android независимо от Microsoft PowerPoint или Word." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) позволяет управлять форматами файлов в приложениях Android. С помощью API-интерфейсов, предоставляемых в пакете, вы можете автоматизировать процесс преобразования PowerPoint POT в Word WORDML в своих приложениях.

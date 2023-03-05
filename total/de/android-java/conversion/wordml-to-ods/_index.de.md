@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLAM EXCEL XLS DIF XLSX XLSM XLTM XLSB XLT TSV FODS XLTX SXC CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORDML in ODS in Android-Anwendungen oder online" h2="Exportieren Sie WORDML in Android über Java in ODS, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie WORDML in ODS in Android-Anwendungen oder Online-App" h2="Exportieren Sie WORDML in Android über Java in ODS, ohne Microsoft<sup>&reg;</sup> Word oder Microsoft<sup>&reg;</sup> Excel zu verwenden" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) können Sie die WORDML-zu-ODS-Konvertierungsfunktion in Ihre Android-Anwendungen integrieren. Erstens können Sie WORDML in HTML konvertieren, indem Sie die funktionsreiche Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) verwenden. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) HTML in ODS konvertieren. 

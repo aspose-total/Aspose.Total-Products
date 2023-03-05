@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل EXCEL إلى PPS عبر Python أو عبر الإنترنت" h2="تحويل EXCEL إلى PPS في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل EXCEL إلى PPS عبر Python أو التطبيق عبر الإنترنت" h2="تحويل EXCEL إلى PPS في تطبيقات Python دون تثبيت Microsoft Excel <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

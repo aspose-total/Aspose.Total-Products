@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: RTF DOC DOCM DOCX DOT DOTM ODT WORD TEXT WORDML DOTX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPSX إلى FLATOPC على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPSX إلى FLATOPC داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPSX إلى FLATOPC على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPSX إلى FLATOPC داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPSX إلى Word FLATOPC في تطبيقاتك.

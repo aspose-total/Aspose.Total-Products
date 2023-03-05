@@ -1,5 +1,5 @@
 ---
-title: Convertir WORDML en PPTX via Java ou en ligne
+title: Convertir WORDML en PPTX via Java ou application en ligne
 description: API Java pour exporter WORDML vers PPTX sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
 url_ignore: /fr/java/conversion/wordml-to-pptx/
 family: total
@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: POWERPOINT PPS PPSX PPTX POT POTM PPTM PPT PPSM POTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convertir WORDML en PPTX via Java ou en ligne" h2="Conversion WORDML en PPTX en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertir WORDML en PPTX via Java ou application en ligne" h2="Conversion WORDML en PPTX en utilisant l'API Java sur site dans toutes les applications Java J2SE, J2EE, J2ME sans utiliser Microsoft<sup>&reg;</sup> PowerPoint ou Word" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Souvent, les développeurs doivent convertir le fichier WORDML en PPTX par programme. En utilisant les bibliothèques Java File Automation [Aspose.Total for Java](https://products.aspose.com/total/java/), vous pouvez automatiser le processus de rendu en quelques étapes simples. Vous pouvez charger votre fichier WORDML en utilisant [Aspose.Words for Java](https://products.aspose.com/words/java/) et le convertir en HTML. Après cela, en utilisant la puissante API Java de manipulation PowerPoint [Aspose.Slides for Java](https://products.aspose.com/slides/java/), vous pouvez créer une nouvelle présentation, y écrire du contenu HTML et l'enregistrer au format PPTX. .
 {{% /blocks/products/pf/feature-page-summary  %}}

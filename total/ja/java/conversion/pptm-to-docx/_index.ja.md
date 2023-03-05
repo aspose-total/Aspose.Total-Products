@@ -1,5 +1,5 @@
 ---
-title: Java経由でPPTMをDOCXに変換する またはオンライン
+title: Java経由でPPTMをDOCXに変換する またはオンラインアプリ
 description: MicrosoftWordやPowerPointを使用せずにPPTMをDOCXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/java/conversion/pptm-to-docx/
 family: total
@@ -10,7 +10,7 @@ outformat: DOCXX
 otherformats: RTF OTT DOTM WORDML FLATOPC ODT DOCXM TEXT WORD DOTX DOCX DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPTMをDOCXに変換する またはオンライン" h2="任意のJavaJ2SE、J2EE、J2MEアプリケーション内でのPowerPointPPTMからDOCXへの変換のためのオンプレミスJavaAPI" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java経由でPPTMをDOCXに変換する またはオンラインアプリ" h2="任意のJavaJ2SE、J2EE、J2MEアプリケーション内でのPowerPointPPTMからDOCXへの変換のためのオンプレミスJavaAPI" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/)ファイル形式自動化ライブラリにより、Java開発者はPowerPointPPTMからWordDOCXへのバッチ変換プロセスを自動化できます。ドキュメントの変換は2段階のプロセスであり、2つのAPIを使用する必要があります。 PPTMをHTMLに変換するためのプレゼンテーションの操作と管理のためのPowerPointAPIである[Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用します。その後、機能豊富なワードプロセッシングAPI [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用して、HTMLをDOCXに変換します。
 {{% /blocks/products/pf/feature-page-summary  %}}

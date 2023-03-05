@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: FLATOPC RTF DOCX ODT TEXT DOC DOTX DOCM DOTM OTT WORDML DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Andorid 上将 POTX 渲染到 WORD 或在线" h2="文件格式 API 可在 Android 应用程序中将 POTX 转换为 WORD，而不依赖于 Microsoft PowerPoint 或 Word" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 Java 在 Andorid 上将 POTX 渲染到 WORD 或在线应用程序" h2="文件格式 API 可在 Android 应用程序中将 POTX 转换为 WORD，而不依赖于 Microsoft PowerPoint 或 Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 允许在 Android 应用程序中操作文件格式。通过使用包中提供的 API，您可以在您的应用程序中自动执行 PowerPoint POTX 到 Word WORD 的转换过程。

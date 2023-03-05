@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML DIF TSV XLTM MARKDOWN SXC XLSX XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPS σε DIF μέσω Java ή διαδικτυακά" h2="Στο Premise Java API για εξαγωγή PPS σε DIF χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή PPS σε DIF μέσω Java ή Online App" h2="Στο Premise Java API για εξαγωγή PPS σε DIF χωρίς χρήση Microsoft<sup>&reg;</sup> Excel ή PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Μπορείτε να μετατρέψετε το αρχείο PPS σε DIF μέσω του [Aspose.Total for Java](https://products.aspose.com/total/java/) σε δύο βήματα. Στο πρώτο βήμα μπορείτε να εξαγάγετε το PPS σε HTML χρησιμοποιώντας το [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Δεύτερον, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}

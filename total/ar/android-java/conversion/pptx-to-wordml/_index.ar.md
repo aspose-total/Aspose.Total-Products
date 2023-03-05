@@ -10,7 +10,7 @@ outformat: WORDML
 otherformats: WORD DOC DOCX FLATOPC DOCM DOTX OTT DOT TEXT DOTM ODT RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تقديم PPTX إلى WORDML على Andorid عبر Java أو عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPTX إلى WORDML داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
+{{< blocks/products/pf/feature-page-header h1="تقديم PPTX إلى WORDML على Andorid عبر Java أو التطبيق عبر الإنترنت" h2="تنسيق ملف APIs لتحويل PPTX إلى WORDML داخل تطبيقات Android دون الاعتماد على Microsoft PowerPoint أو Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 يسمح [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) بمعالجة تنسيقات الملفات داخل تطبيقات Android. باستخدام واجهات برمجة التطبيقات المتوفرة في الحزمة ، يمكنك أتمتة عملية تحويل PowerPoint PPTX إلى Word WORDML في تطبيقاتك.

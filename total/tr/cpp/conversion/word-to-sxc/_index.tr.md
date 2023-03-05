@@ -10,14 +10,14 @@ outformat: SXC
 otherformats: XLSM XLT XLSX ODS XLAM EXCEL DIF CSV TSV XLTM XLSB XLS XLTX FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="WORD'yi SXC'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan WORD'yi C++ aracılığıyla SXC'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="WORD'yi SXC'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan WORD'yi C++ aracılığıyla SXC'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 WORD'den SXC'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak WORD'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi SXC'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="WORD'yi SXC'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
+{{% blocks/products/pf/agp/feature-section-col title="WORD'yi SXC'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.wordument) sınıf referansını kullanarak WORD dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.wordument#save_string_saveformat) üye işlevini kullanarak WORD'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

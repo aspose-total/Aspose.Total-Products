@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: RTF DOC TEXT ODT DOTM WORD DOT FLATOPC DOTX DOCX DOCM WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderujte PPSM do OTT na Andoridu přes Javu nebo online" h2="Rozhraní API pro formát souborů pro převod PPSM na OTT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderujte PPSM do OTT na Andoridu přes Javu nebo online aplikace" h2="Rozhraní API pro formát souborů pro převod PPSM na OTT v aplikacích pro Android bez závislosti na Microsoft PowerPoint nebo Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) umožňuje manipulaci s formáty souborů v aplikacích pro Android. Pomocí rozhraní API poskytovaných v balíčku můžete automatizovat proces převodu PowerPoint PPSM do Word OTT ve vašich aplikacích.

@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ODT إلى PPS باستخدام Python أو عبر الإنترنت" h2="تحويل ODT إلى PPS في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ODT إلى PPS باستخدام Python أو التطبيق عبر الإنترنت" h2="تحويل ODT إلى PPS في تطبيقات Python دون تثبيت Microsoft Word <sup>&reg;</sup> أو PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

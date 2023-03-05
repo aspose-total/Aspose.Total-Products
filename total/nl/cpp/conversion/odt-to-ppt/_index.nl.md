@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PPSX POWERPOINT ODP POT POTM PPTM PPS PPTX POTX PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API om ODT naar PPT te converteren of online" h2="Exporteer ODT naar PPT binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API om ODT naar PPT te converteren of online-app" h2="Exporteer ODT naar PPT binnen uw C++-toepassingen zonder Microsoft Word&reg; of PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) bestaat uit krachtige API's voor bestandsautomatisering waarmee de ODT-naar-PPT-conversie kan worden geautomatiseerd terwijl twee van zijn API's worden gebruikt. Laad uw ODT met [Aspose.Words for C++](https://products.aspose.com/words/cpp/) en converteer het naar HTML, laad vervolgens de HTML via PowerPoint-manipulatie C++ API [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) om een nieuwe presentatie te maken en deze op te slaan als PPT. 

@@ -10,7 +10,7 @@ outformat: XLSB
 otherformats: SXC ODS TSV CSV EXCEL XLAM XLT FODS XLSM XLTX DIF XLSX XLTM XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="A ODT konvertálása XLSB formátumba az Android alkalmazásokban vagy online" h2="ODT exportálása XLSB formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
+{{< blocks/products/pf/feature-page-header h1="A ODT konvertálása XLSB formátumba az Android alkalmazásokban vagy Online App" h2="ODT exportálása XLSB formátumba Androidon Java segítségével Microsoft<sup>&reg;</sup> Word vagy Microsoft<sup>&reg;</sup> Excel használata nélkül" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) használatával integrálhatja a ODT-XLSB-konverziós funkciót androidos alkalmazásaiba. Először is konvertálhatja a ODT-t HTML-vé a funkciókban gazdag dokumentumkezelési és -konverziós API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) használatával. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) használatával konvertálhatja a HTML-t XLSB-vé. 

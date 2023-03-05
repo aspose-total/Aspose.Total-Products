@@ -11,7 +11,7 @@ otherformats: DOC DOCX WORD PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="通过 C# 将 XLSB 转换为 POWERPOINT 或在线" h2="导出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSB 到 POWERPOINT">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="通过 C# 将 XLSB 转换为 POWERPOINT 或在线应用程序" h2="导出 Excel&reg; .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSB 到 POWERPOINT">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

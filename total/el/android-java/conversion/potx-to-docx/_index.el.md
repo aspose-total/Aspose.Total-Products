@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: OTT TEXT DOCM RTF DOT DOTM DOTX FLATOPC WORD WORDML ODT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Αποδώστε το POTX στο DOCX στο Andorid μέσω Java ή διαδικτυακά" h2="API μορφής αρχείου για μετατροπή POTX σε DOCX εντός εφαρμογών Android χωρίς να εξαρτάται από το Microsoft PowerPoint ή το Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Αποδώστε το POTX στο DOCX στο Andorid μέσω Java ή Online App" h2="API μορφής αρχείου για μετατροπή POTX σε DOCX εντός εφαρμογών Android χωρίς να εξαρτάται από το Microsoft PowerPoint ή το Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Το [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) επιτρέπει τον χειρισμό μορφών αρχείων εντός εφαρμογών Android. Χρησιμοποιώντας τα API που παρέχονται στο πακέτο, μπορείτε να αυτοματοποιήσετε τη διαδικασία μετατροπής PowerPoint POTX σε Word DOCX στις εφαρμογές σας.

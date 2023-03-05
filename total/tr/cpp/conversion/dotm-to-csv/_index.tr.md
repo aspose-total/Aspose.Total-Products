@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLAM SXC XLTM TSV DIF FODS XLSM XLSX ODS XLTX XLS EXCEL XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTM'yi CSV'ye Dönüştürmek için C++ API veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOTM'yi C++ aracılığıyla CSV'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTM'yi CSV'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan DOTM'yi C++ aracılığıyla CSV'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 DOTM'den CSV'ye dönüştürme özelliğini C++ uygulamalarınıza kolayca dahil edebilirsiniz. Zengin özelliklere sahip, güçlü ve kullanımı kolay belge işleme ve dönüştürme API'sini [Aspose.Words for C++](https://products.aspose.com/words/cpp/) kullanarak DOTM'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) kullanarak HTML'yi CSV'ye dönüştürebilirsiniz. Her iki API de [Aspose.Total for C++](https://products.aspose.com/total/cpp/) paketi kapsamında gelir. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTM'yi CSV'ye Dönüştürmek için C++ API veya çevrimiçi" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOTM'yi CSV'ye Dönüştürmek için C++ API veya Çevrimiçi Uygulama" %}}
 1. [Document](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument) sınıf referansını kullanarak DOTM dosyasını açın
 2. [Kaydet](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat) üye işlevini kullanarak DOTM'u HTML'ye dönüştürün
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) sınıf referansını kullanarak HTML belgesini yükleyin

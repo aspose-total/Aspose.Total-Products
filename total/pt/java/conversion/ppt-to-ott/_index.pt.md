@@ -1,5 +1,5 @@
 ---
-title: Converter PPT para OTT via Java ou online
+title: Converter PPT para OTT via Java ou aplicativo on-line
 description: API Java para exportar PPT para OTT sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/ppt-to-ott/
 family: total
@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOTM DOTX DOT OTTX WORDML WORD RTF OTT FLATOPC TEXT OTTM ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPT para OTT via Java ou online" h2="On Premise Java API para conversão PowerPoint PPT para OTT em qualquer aplicativo Java J2SE, J2EE, J2ME" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter PPT para OTT via Java ou aplicativo on-line" h2="On Premise Java API para conversão PowerPoint PPT para OTT em qualquer aplicativo Java J2SE, J2EE, J2ME" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotecas de Automação de Formato de Arquivo capacitam os desenvolvedores Java a automatizar o processo de conversão em lote do PowerPoint PPT para Word OTT. A conversão do documento é um processo de duas etapas e envolve o uso de duas APIs. Usaremos [Aspose.Slides for Java](https://products.aspose.com/slides/java/) que é uma API do PowerPoint para manipulação e gerenciamento de apresentações para converter PPT em HTML. Depois disso, usando a API de processamento de texto rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), converteremos o HTML em OTT.
 {{% /blocks/products/pf/feature-page-summary  %}}

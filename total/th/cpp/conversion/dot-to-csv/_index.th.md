@@ -1,6 +1,6 @@
 ---
 title: แปลง DOT เป็น CSV ใน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C++ API เพื่อแปลง DOT เป็น CSV หรือทางออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: C++ API เพื่อแปลง DOT เป็น CSV หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: CSV
 otherformats: XLAM DIF XLTX XLSB ODS TSV XLTM XLS XLSX FODS SXC EXCEL XLSM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง DOT เป็น CSV หรือทางออนไลน์" h2="ส่งออก DOT เป็น CSV ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="C++ API เพื่อแปลง DOT เป็น CSV หรือแอพออนไลน์" h2="ส่งออก DOT เป็น CSV ผ่าน C++ โดยไม่ต้องใช้ Microsoft<sup>&reg;</sup> Word หรือ Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 คุณสามารถรวมคุณลักษณะการแปลง DOT เป็น CSV ไว้ในแอปพลิเคชัน C++ ของคุณได้อย่างง่ายดาย ด้วยการใช้ API การจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย [Aspose.Words for C++](https://products.aspose.com/words/cpp/) คุณสามารถส่งออก DOT เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) คุณจะแปลง HTML เป็น CSV ได้ API ทั้งสองอยู่ภายใต้แพ็คเกจ [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง DOT เป็น CSV หรือทางออนไลน์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง DOT เป็น CSV หรือแอพออนไลน์" %}}
 1. เปิดไฟล์ DOT โดยใช้ [Dotument](https://reference.aspose.com/words/cpp/class/aspose.words.dotument) การอ้างอิงคลาส
 2. แปลง DOT เป็น HTML โดยใช้ฟังก์ชันสมาชิก [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotument#save_string_saveformat)
 3. โหลดเอกสาร HTML โดยใช้ [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) การอ้างอิงคลาส

@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: WORDML TEXT ODT RTF DOTX DOT DOC FLATOPC DOCM WORD DOTM OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="将 PPS 渲染为 DOCX 的 C++ API 或在线" h2="在 C++ 应用程序中将 PPS 导出为 DOCX 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。，无需任何 Microsoft PowerPoint 或 Word 依赖项" >}}
+{{< blocks/products/pf/feature-page-header h1="将 PPS 渲染为 DOCX 的 C++ API 或在线应用程序" h2="在 C++ 应用程序中将 PPS 导出为 DOCX 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。，无需任何 Microsoft PowerPoint 或 Word 依赖项" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for C++](https://products.aspose.com/total/cpp/) 是完整的 C++ 文件格式自动化库包。通过使用 pacakge 中可用的 API 的丰富功能，我们可以轻松地将 PowerPoint PPS 转换为 Word DOCX。为了执行转换，您可以首先使用 [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) API 将 PPS 转换为 HTML。之后，通过使用功能丰富的文字处理 API [Aspose.Words for C++](https://products.aspose.com/words/cpp/)，您可以将 HTML 转换为 DOCX。 

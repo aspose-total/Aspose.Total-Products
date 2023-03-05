@@ -10,7 +10,7 @@ outformat: DOCX
 otherformats: FLATOPC ODT DOCM TEXT DOTM DOTX DOCX DOT RTF WORDML DOC OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Renderelje le a PPS-ot WORD-ba Andoridon Java-n keresztül vagy online" h2="Fájlformátumú API-k, amelyek a PPS-t WORD-ba konvertálják Android-alkalmazásokon belül, anélkül, hogy a Microsoft PowerPointtól vagy a Wordtől függnének" >}}
+{{< blocks/products/pf/feature-page-header h1="Renderelje le a PPS-ot WORD-ba Andoridon Java-n keresztül vagy Online App" h2="Fájlformátumú API-k, amelyek a PPS-t WORD-ba konvertálják Android-alkalmazásokon belül, anélkül, hogy a Microsoft PowerPointtól vagy a Wordtől függnének" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Az [Aspose.Total for Android Java segítségével](https://products.aspose.com/total/android-java/) lehetővé teszi a fájlformátumok manipulálását az Android-alkalmazásokon belül. A csomagban található API-k használatával automatizálhatja a PowerPoint PPS–Word WORD konverziós folyamatát alkalmazásaiban.

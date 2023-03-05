@@ -1,6 +1,6 @@
 ---
 title: C++でDOTMをFODSに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOTMをFODSに変換するC++API またはオンライン またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOTMをFODSに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
@@ -10,14 +10,14 @@ outformat: FODS
 otherformats: SXC XLSX XLS XLAM XLSB XLTX XLT ODS DIF EXCEL XLSM TSV XLTM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="DOTMをFODSに変換するC++API またはオンライン" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でDOTMをFODSにエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="DOTMをFODSに変換するC++API またはオンラインアプリ" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>&reg;</sup>Excelを使用せずにC++経由でDOTMをFODSにエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 C++アプリケーションにDOTMからFODSへの変換機能を簡単に含めることができます。機能豊富で強力で使いやすいドキュメント操作および変換API[Aspose.Wordsfor C++](https://products.aspose.com/words/cpp/)を使用することで、DOTMをHTMLにエクスポートできます。その後、[Aspose.Cells for C++](https://products.aspose.com/cells/cpp/)を使用して、HTMLをFODSに変換できます。どちらのAPIも[Aspose.TotalforC++](https://products.aspose.com/total/cpp/)パッケージに含まれています。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTMをFODSに変換するC++API またはオンライン" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOTMをFODSに変換するC++API またはオンラインアプリ" %}}
 1. [ドキュメント](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument)クラスリファレンスを使用してDOTMファイルを開きます
 2. [Save](https://reference.aspose.com/words/cpp/class/aspose.words.dotmument#save_string_saveformat)メンバー関数を使用してDOTMをHTMLに変換します
 3. [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)クラスリファレンスを使用してHTMLドキュメントをロードします

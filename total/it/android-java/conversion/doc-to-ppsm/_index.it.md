@@ -10,7 +10,7 @@ outformat: PPSM
 otherformats: POT PPTM PPT ODP PPTX PPSX PPS POWERPOINT POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOC in PPSM nelle app Android o in linea" h2="Conversione da DOC a PPSM nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOC in PPSM nelle app Android o App online" h2="Conversione da DOC a PPSM nelle tue applicazioni Android senza installare Microsoft Word<sup>&reg;</sup> o PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Sei uno sviluppatore Android e stai cercando di aggiungere una funzione di conversione dei documenti alla tua applicazione? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) Le librerie File Format Automation possono aiutarti ad automatizzare il processo di conversione dei documenti nelle tue applicazioni Android. Per convertire il file DOC in PPSM, puoi prima utilizzare l'API di manipolazione del documento [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) per convertire il formato del file DOC in HTML. Successivamente, utilizzando l'API di PowerPoint [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), puoi creare una nuova presentazione, scrivere contenuto HTML al suo interno e salvarlo come PPSM. 

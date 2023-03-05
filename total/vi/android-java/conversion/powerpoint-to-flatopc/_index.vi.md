@@ -10,7 +10,7 @@ outformat: FLATOPC
 otherformats: RTF DOT DOC TEXT DOTX DOTM ODT DOCX OTT WORD WORDML DOCM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Kết xuất POWERPOINT sang FLATOPC trên Andorid qua Java hoặc trực tuyến" h2="Các API định dạng tệp để chuyển đổi POWERPOINT sang FLATOPC trong ứng dụng Android mà không phụ thuộc vào Microsoft PowerPoint hoặc Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Kết xuất POWERPOINT sang FLATOPC trên Andorid qua Java hoặc Ứng dụng trực tuyến" h2="Các API định dạng tệp để chuyển đổi POWERPOINT sang FLATOPC trong ứng dụng Android mà không phụ thuộc vào Microsoft PowerPoint hoặc Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) cho phép thao tác các định dạng tệp trong các ứng dụng Android. Bằng cách sử dụng các API được cung cấp trong gói, bạn có thể tự động hóa quy trình chuyển đổi PowerPoint POWERPOINT sang Word FLATOPC trong ứng dụng của mình.

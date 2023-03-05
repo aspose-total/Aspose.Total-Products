@@ -1,5 +1,5 @@
 ---
-title: Konvertieren Sie POTX über C++ in XLAM oder online oder mit dem kostenlosen Online Converter
+title: Konvertieren Sie POTX über C++ in XLAM oder Online-App oder mit dem kostenlosen Online Converter
 description: Exportieren Sie POTX in C++ in XLAM, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL CSV XLTX MHTML XLTM DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTX über C++ in XLAM oder online" h2="POTX-zu-XLAM-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie POTX über C++ in XLAM oder Online-App" h2="POTX-zu-XLAM-Dateikonvertierung über C++ ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Durch die Verwendung von [Aspose.Total for C++](https://products.aspose.com/total/cpp/) können Sie die POTX-Datei innerhalb von C++-Anwendungen in zwei einfachen Schritten in XLAM konvertieren. Erstens können Sie mit [Aspose.Slides for C++](https://products.aspose.com/slides/cpp/) POTX in HTML exportieren. Danach können Sie mithilfe der Spreadsheet Programming API [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) HTML in XLAM konvertieren. 

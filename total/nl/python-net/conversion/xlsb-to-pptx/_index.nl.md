@@ -10,7 +10,7 @@ outformat: PPTX
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer XLSB naar PPTX via Python of online" h2="XLSB naar PPTX-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of PowerPoint te installeren" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer XLSB naar PPTX via Python of online-app" h2="XLSB naar PPTX-conversie in uw Python-applicaties zonder Microsoft Excel<sup>&reg;</sup> of PowerPoint te installeren" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

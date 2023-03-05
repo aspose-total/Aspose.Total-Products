@@ -11,7 +11,7 @@ otherformats: POWERPOINT PPTX DOCX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="A TSV konvertálása DOC formátumba C# segítségével vagy online" h2="Exportálás Excel&reg; TSV-ből DOC-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="A TSV konvertálása DOC formátumba C# segítségével vagy Online App" h2="Exportálás Excel&reg; TSV-ből DOC-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

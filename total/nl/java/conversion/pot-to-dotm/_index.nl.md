@@ -1,5 +1,5 @@
 ---
-title: Converteer POT naar DOTM via Java of online
+title: Converteer POT naar DOTM via Java of online-app
 description: Java API om POT naar DOTM te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/pot-to-dotm/
 family: total
@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: DOTMX DOTMM DOT DOTM ODT RTF FLATOPC OTT DOTX TEXT WORDML WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POT naar DOTM via Java of online" h2="On Premise Java API voor PowerPoint POT naar DOTM conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer POT naar DOTM via Java of online-app" h2="On Premise Java API voor PowerPoint POT naar DOTM conversie binnen alle Java J2SE, J2EE, J2ME applicaties" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken voor automatisering van bestandsindelingen stellen Java-ontwikkelaars in staat om het batchconversieproces van PowerPoint POT naar Word DOTM te automatiseren. Het converteren van het dotmument is een proces in twee stappen en omvat het gebruik van twee API's. We gebruiken [Aspose.Slides for Java](https://products.aspose.com/slides/java/), een PowerPoint-API voor het manipuleren en beheren van presentaties om POT naar HTML te converteren. Daarna zullen we met behulp van de functierijke Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) de HTML naar DOTM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}

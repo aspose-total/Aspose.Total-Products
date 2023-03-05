@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: PPTX DOCX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de FODS'yi WORD'ye dönüştürün veya çevrimiçi" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda FODS'yi WORD'ye dönüştürün" >}}
+{{< blocks/products/pf/feature-page-header h1="Java aracılığıyla Android'de FODS'yi WORD'ye dönüştürün veya Çevrimiçi Uygulama" h2="Microsoft<sup>&reg;</sup> Excel kullanmadan Android Uygulamalarınızda FODS'yi WORD'ye dönüştürün" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) güçlü bir Dosya Otomasyonu API'leri paketidir. API'lerinden ikisini kullanarak, Android uygulamalarınıza FODS'den WORD'a dönüştürme özelliğini entegre edebilirsiniz. İlk adımda, [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) kullanarak FODS'yi PDF'ye aktarabilirsiniz. Bundan sonra, [Java üzerinden Android için Aspose.PDF](https://products.aspose.com/pdf/android-java/) kullanarak PDF'yi WORD'ye dönüştürebilirsiniz. 

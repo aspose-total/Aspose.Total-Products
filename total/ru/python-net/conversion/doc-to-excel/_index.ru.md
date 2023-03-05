@@ -11,7 +11,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование DOC в EXCEL через Python или онлайн" h2="Преобразование DOC в EXCEL в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование DOC в EXCEL через Python или онлайн-приложение" h2="Преобразование DOC в EXCEL в приложениях Python без установки Microsoft Word<sup>&reg;</sup> или Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

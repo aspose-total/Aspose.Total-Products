@@ -1,5 +1,5 @@
 ---
-title: Convert PPT to DOTM via Java or online
+title: Convert PPT to DOTM via Java or Online App
 description: Java API to Export PPT to DOTM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
 url_ignore: /java/conversion/ppt-to-dotm/
 family: total
@@ -10,14 +10,14 @@ outformat: DOTM
 otherformats: FLATOPC WORD DOCM DOCX WORDML DOC RTF DOT ODT DOTX OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPT to DOTM via Java or online" h2="On Premise Java API for PowerPoint PPT to DOTM conversion within any Java J2SE, J2EE, J2ME applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPT to DOTM via Java or Online App" h2="On Premise Java API for PowerPoint PPT to DOTM conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPT to Word DOTM. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPT to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOTM. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPT to DOTM via Java or online" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPT to DOTM via Java or Online App" %}}
 1. Open PPT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert PPT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class

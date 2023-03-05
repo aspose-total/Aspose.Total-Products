@@ -10,7 +10,7 @@ outformat: DOTM
 otherformats: WORDML OTT DOTX TEXT RTF FLATOPC DOCX WORD DOCM DOT ODT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Rendern Sie POWERPOINT zu DOTM auf Andorid über Java oder online" h2="Dateiformat-APIs zum Konvertieren von POWERPOINT in DOTM in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
+{{< blocks/products/pf/feature-page-header h1="Rendern Sie POWERPOINT zu DOTM auf Andorid über Java oder Online-App" h2="Dateiformat-APIs zum Konvertieren von POWERPOINT in DOTM in Android-Apps, ohne von Microsoft PowerPoint oder Word abhängig zu sein" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) ermöglicht die Manipulation von Dateiformaten in Android-Anwendungen. Durch die Verwendung der im Paket bereitgestellten APIs können Sie den Konvertierungsprozess von PowerPoint POWERPOINT in Word DOTM in Ihren Apps automatisieren.

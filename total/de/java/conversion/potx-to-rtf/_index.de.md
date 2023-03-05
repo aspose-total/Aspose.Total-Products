@@ -1,5 +1,5 @@
 ---
-title: Konvertieren Sie POTX über Java in RTF oder online
+title: Konvertieren Sie POTX über Java in RTF oder Online-App
 description: Java-API zum Exportieren von POTX nach RTF, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/java/conversion/potx-to-rtf/
 family: total
@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: RTF DOTM FLATOPC WORDML WORD TEXT ODT RTFM RTFX DOT DOTX OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POTX über Java in RTF oder online" h2="Lokale Java-API für PowerPoint POTX-zu-RTF-Konvertierung in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POTX über Java in RTF oder Online-App" h2="Lokale Java-API für PowerPoint POTX-zu-RTF-Konvertierung in beliebigen Java J2SE-, J2EE-, J2ME-Anwendungen" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Java](https://products.aspose.com/total/java/) Bibliotheken zur Dateiformatautomatisierung ermöglichen Java-Entwicklern, den Stapelkonvertierungsprozess von PowerPoint POTX in Word RTF zu automatisieren. Das Konvertieren des Document ist ein zweistufiger Prozess und beinhaltet die Verwendung von zwei APIs. Wir verwenden [Aspose.Slides for Java](https://products.aspose.com/slides/java/), eine PowerPoint-API für die Bearbeitung und Verwaltung von Präsentationen, um POTX in HTML zu konvertieren. Danach konvertieren wir mithilfe der funktionsreichen Textverarbeitungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) den HTML-Code in RTF.
 {{% /blocks/products/pf/feature-page-summary  %}}

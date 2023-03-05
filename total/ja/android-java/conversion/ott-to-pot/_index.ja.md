@@ -10,7 +10,7 @@ outformat: POT
 otherformats: POTX POWERPOINT POTM PPTM PPSM PPTX PPT PPSX PPS ODP CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリでOTTをPOTに変換する またはオンライン" h2="Microsoft Word <sup>＆reg;</sup>またはPowerPointをインストールせずにAndroidアプリケーションでOTTからPOTに変換" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリでOTTをPOTに変換する またはオンラインアプリ" h2="Microsoft Word <sup>＆reg;</sup>またはPowerPointをインストールせずにAndroidアプリケーションでOTTからPOTに変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 アプリケーションにドキュメント変換機能を追加しようとしているAndroid開発者ですか？ [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)ファイル形式自動化ライブラリは、Androidアプリケーションでのドキュメント変換プロセスの自動化に役立ちます。 OTTファイルをPOTに変換するには、最初にドキュメント操作API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用してOTTファイル形式をHTMLに変換できます。その後、PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/)を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、名前を付けて保存できます。 POT。 

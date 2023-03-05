@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลง DIF เป็น OTT ผ่าน Python หรือทางออนไลน์" h2="การแปลง DIF เป็น OTT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ Word" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลง DIF เป็น OTT ผ่าน Python หรือแอพออนไลน์" h2="การแปลง DIF เป็น OTT ในแอปพลิเคชัน Python โดยไม่ต้องติดตั้ง Microsoft Excel<sup>&reg;</sup> หรือ Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

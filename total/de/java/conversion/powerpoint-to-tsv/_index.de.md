@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF TSV XLT MARKDOWN XLSX SXC XLSM XLSB XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POWERPOINT über Java in TSV oder online" h2="Lokale Java-API zum Exportieren von POWERPOINT in TSV ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertieren Sie POWERPOINT über Java in TSV oder Online-App" h2="Lokale Java-API zum Exportieren von POWERPOINT in TSV ohne Verwendung von Microsoft<sup>&reg;</sup> Excel oder PowerPoint" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Sie können die POWERPOINT-Datei über [Aspose.Total for Java](https://products.aspose.com/total/java/) in zwei Schritten in TSV konvertieren. Im ersten Schritt können Sie POWERPOINT in HTML exportieren, indem Sie [Aspose.Slides for Java](https://products.aspose.com/slides/java/) verwenden. Zweitens können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in TSV konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTM SXC XLSX DIF XLAM ODS EXCEL XLSB FODS CSV XLTX XLSM XLT XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında ODT'yi TSV'ye Dönüştür veya çevrimiçi" h2="ODT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de TSV'ye aktarın" >}}
+{{< blocks/products/pf/feature-page-header h1="Android Uygulamalarında ODT'yi TSV'ye Dönüştür veya Çevrimiçi Uygulama" h2="ODT'yi, Microsoft<sup>&reg;</sup> Word veya Microsoft<sup>&reg;</sup> Excel kullanmadan Java aracılığıyla Android'de TSV'ye aktarın" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/android-java/) kullanarak, android uygulamalarınızda ODT'den TSV'ye dönüştürme özelliğini entegre edebilirsiniz. İlk olarak, zengin özelliklere sahip belge işleme ve dönüştürme API'sini [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/) kullanarak ODT'u HTML'ye dönüştürebilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/) kullanarak HTML'yi TSV'ye dönüştürebilirsiniz. 

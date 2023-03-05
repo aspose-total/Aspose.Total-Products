@@ -10,7 +10,7 @@ outformat: CSV
 otherformats: XLTX XLSX SXC TSV DIF EXCEL ODS XLSB FODS XLS XLTM XLAM XLSM XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti DOT in CSV nelle applicazioni Android o in linea" h2="Esporta DOT in CSV in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti DOT in CSV nelle applicazioni Android o App online" h2="Esporta DOT in CSV in Android tramite Java senza utilizzare Microsoft<sup>&reg;</sup> Word o Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Utilizzando [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) puoi integrare la funzione di conversione da DOT a CSV all'interno delle tue applicazioni Android. In primo luogo, puoi convertire DOT in HTML utilizzando l'API di conversione e manipolazione dei dotumenti ricca di funzionalità [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), puoi convertire HTML in CSV. 

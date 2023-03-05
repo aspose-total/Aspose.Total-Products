@@ -1,5 +1,5 @@
 ---
-title: Converteer DOC naar POTX via Java of online
+title: Converteer DOC naar POTX via Java of online-app
 description: Java API om DOC naar POTX te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/java/conversion/doc-to-potx/
 family: total
@@ -10,7 +10,7 @@ outformat: POTX
 otherformats: PPSX PPTM POTX POTM PPT POWERPOINT PPS POT PPTX PPSM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOC naar POTX via Java of online" h2="DOC naar POTX-conversie door gebruik te maken van on-premise Java API binnen alle Java J2SE-, J2EE-, J2ME-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint of Word te gebruiken" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer DOC naar POTX via Java of online-app" h2="DOC naar POTX-conversie door gebruik te maken van on-premise Java API binnen alle Java J2SE-, J2EE-, J2ME-applicaties zonder Microsoft<sup>&reg;</sup> PowerPoint of Word te gebruiken" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 Vaak moeten ontwikkelaars het DOC-bestand programmatisch naar POTX converteren. Door de Java-bibliotheken voor bestandsautomatisering [Aspose.Total for Java](https://products.aspose.com/total/java/) te gebruiken, kunt u het weergaveproces in een paar eenvoudige stappen automatiseren. U kunt uw DOC-bestand laden door [Aspose.Words for Java](https://products.aspose.com/words/java/) te gebruiken en het naar HTML te converteren. Daarna kunt u met behulp van krachtige PowerPoint-manipulatie Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) een nieuwe presentatie maken, HTML-inhoud erin schrijven en deze opslaan als POTX .
 {{% /blocks/products/pf/feature-page-summary  %}}

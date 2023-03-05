@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Python経由でXLSをPPTに変換 またはオンライン" h2="Microsoft Excel<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで XLS から PPT への変換" >}}
+{{< blocks/products/pf/feature-page-header h1="Python経由でXLSをPPTに変換 またはオンラインアプリ" h2="Microsoft Excel<sup>&reg;</sup> または PowerPoint をインストールせずに、Python アプリケーションで XLS から PPT への変換" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

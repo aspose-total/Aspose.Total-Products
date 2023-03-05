@@ -10,7 +10,7 @@ outformat: TSV
 otherformats: XLTX XLT DIF SXC XLSB XLS FODS TSV EXCEL XLAM MARKDOWN XLTM MHTML XLSM XLSX ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना TSV को POTM निर्यात करने के लिए परिसर जावा API पर" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="जावा के माध्यम से पीओटी को सीएसवी में कनवर्ट करें या ऑनलाइन ऐप" h2="Microsoft<sup>&reg;</sup> Excel या PowerPoint का उपयोग किए बिना TSV को POTM निर्यात करने के लिए परिसर जावा API पर" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 आप दो चरणों में [Aspose.Total for Java](https://products.aspose.com/total/java/) के ज़रिए POTM फ़ाइल को TSV में बदल सकते हैं। पहले चरण में आप [Aspose.Slides for Java](https://products.aspose.com/slides/java/) का उपयोग करके HTML को POTM निर्यात कर सकते हैं। दूसरे, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) का उपयोग करके, आप HTML को TSV में बदल सकते हैं।
 {{% /blocks/products/pf/feature-page-summary  %}}

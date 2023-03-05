@@ -11,7 +11,7 @@ otherformats: PPTX DOCX POWERPOINT WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera XLSX till DOC via C# eller online" h2="Exportera Excel&reg; XLSX till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertera XLSX till DOC via C# eller onlineapp" h2="Exportera Excel&reg; XLSX till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en ODT via Python ou en ligne" h2="Conversion XLTM en ODT dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou Word" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir XLTM en ODT via Python ou application en ligne" h2="Conversion XLTM en ODT dans vos applications Python sans installer Microsoft Excel<sup>&reg;</sup> ou Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
