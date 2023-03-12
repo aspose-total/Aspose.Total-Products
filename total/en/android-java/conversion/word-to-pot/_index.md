@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to POT in Android via Java
-description: WORD to POT conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORD to POT in Android via Java or with free Online Converter
+description: WORD to POT conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/word-to-pot/
 family: total
 platformtag: android-java

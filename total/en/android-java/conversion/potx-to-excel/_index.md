@@ -1,6 +1,6 @@
 ---
-title: Convert POTX to EXCEL in Android via Java
-description: Convert POTX to EXCEL in Android via Java without using using Microsoft Excel or PowerPoint
+title: Convert POTX to EXCEL in Android via Java or with free Online Converter
+description: Convert POTX to EXCEL in Android via Java or Online App without using using Microsoft Excel or PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/potx-to-excel/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: EXCEL
 otherformats: XLSB MHTML XLAM XLTM XLTX CSV TSV XLSX DIF XLS MARKDOWN XLT SXC XLSM FODS ODS DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert POTX to EXCEL in Android via Java" h2="Export POTX file to EXCEL in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert POTX to EXCEL in Android via Java or Online App" h2="Export POTX file to EXCEL in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can easily convert POTX file to EXCEL in your Android applications in a two-step process via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In the first step you can export POTX file to HTML by using [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Secondly, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to EXCEL.

@@ -1,6 +1,6 @@
 ---
-title: Convert PPTX to XLAM in Android via Java
-description: Convert PPTX to XLAM in Android via Java without using using Microsoft Excel or PowerPoint
+title: Convert PPTX to XLAM in Android via Java or with free Online Converter
+description: Convert PPTX to XLAM in Android via Java or Online App without using using Microsoft Excel or PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/pptx-to-xlam/
 family: total
 platformtag: android-java
@@ -10,7 +10,7 @@ outformat: XLAM
 otherformats: XLSB CSV SXC TSV MHTML EXCEL XLTM XLS XLSX XLSM FODS XLT MARKDOWN ODS DIF XLTX DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLAM in Android via Java" h2="Export PPTX file to XLAM in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLAM in Android via Java or Online App" h2="Export PPTX file to XLAM in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can easily convert PPTX file to XLAM in your Android applications in a two-step process via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In the first step you can export PPTX file to HTML by using [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Secondly, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to XLAM.

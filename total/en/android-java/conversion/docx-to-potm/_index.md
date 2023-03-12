@@ -1,6 +1,6 @@
 ---
-title: Convert DOCX to POTM in Android via Java
-description: DOCX to POTM conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOCX to POTM in Android via Java or with free Online Converter
+description: DOCX to POTM conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/docx-to-potm/
 family: total
 platformtag: android-java

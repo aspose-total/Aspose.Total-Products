@@ -1,6 +1,6 @@
 ---
-title: Convert DOTM to PPS in Android via Java
-description: DOTM to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOTM to PPS in Android via Java or with free Online Converter
+description: DOTM to PPS conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/dotm-to-pps/
 family: total
 platformtag: android-java

@@ -1,6 +1,6 @@
 ---
-title: Convert ODT to PPTM in Android via Java
-description: ODT to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert ODT to PPTM in Android via Java or with free Online Converter
+description: ODT to PPTM conversion in your Android Phones without using Microsoft Word of PowerPoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/odt-to-pptm/
 family: total
 platformtag: android-java
