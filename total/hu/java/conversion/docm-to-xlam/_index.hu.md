@@ -1,6 +1,6 @@
 ---
-title: Java API a DOCM konvertálásához XLAM-vé
-description: A DOCM konvertálása XLAM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a DOCM konvertálásához XLAM-vé vagy ingyenes online konverterrel
+description: A DOCM konvertálása XLAM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/docm-to-xlam/
 family: total
 platformtag: net

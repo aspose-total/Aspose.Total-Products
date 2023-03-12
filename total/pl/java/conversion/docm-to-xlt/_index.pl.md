@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOCM na XLT
-description: Konwertuj DOCM na XLT za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOCM na XLT lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOCM na XLT za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/docm-to-xlt/
 family: total
 platformtag: net

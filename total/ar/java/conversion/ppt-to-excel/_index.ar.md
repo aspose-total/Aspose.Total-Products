@@ -1,6 +1,6 @@
 ---
-title: تحويل PPT إلى تنسيق EXCEL عبر Java
-description: قم بتحويل PPT إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل PPT إلى تنسيق EXCEL عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPT إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ppt-to-excel/
 family: total
 platformtag: net

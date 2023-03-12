@@ -1,6 +1,6 @@
 ---
-title: Converteer PPT naar DOCM via Java of online-app
-description: Java API om PPT naar DOCM te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer PPT naar DOCM via Java -app of met gratis Online Converter 
+description: Java API om PPT naar DOCM te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppt-to-docm/
 family: total
 platformtag: net

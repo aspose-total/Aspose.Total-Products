@@ -1,6 +1,6 @@
 ---
-title: Java API για μετατροπή DOCX σε XLTX
-description: Μετατροπή DOCX σε XLTX μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Java API για μετατροπή DOCX σε XLTX ή με δωρεάν Online Converter
+description: Μετατροπή DOCX σε XLTX μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/docx-to-xltx/
 family: total
 platformtag: net

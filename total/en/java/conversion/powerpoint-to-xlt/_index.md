@@ -1,6 +1,6 @@
 ---
-title: Convert POWERPOINT to XLT Format via Java
-description: Convert POWERPOINT to XLT format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert POWERPOINT to XLT Format via Java or with free Online Converter
+description: Convert POWERPOINT to XLT format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/powerpoint-to-xlt/
 family: total
 platformtag: java

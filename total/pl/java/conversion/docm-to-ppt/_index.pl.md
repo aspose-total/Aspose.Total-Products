@@ -1,6 +1,6 @@
 ---
-title: Konwertuj DOCM na PPT za pomocą Javy lub Aplikacja internetowa
-description: Java API do eksportu DOCM do PPT bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj DOCM na PPT za pomocą Javy lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu DOCM do PPT bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/docm-to-ppt/
 family: total
 platformtag: net

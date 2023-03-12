@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji RTF na XLTX
-description: Konwertuj RTF na XLTX za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji RTF na XLTX lub za pomocą bezpłatnego konwertera online
+description: Konwertuj RTF na XLTX za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/rtf-to-xltx/
 family: total
 platformtag: net

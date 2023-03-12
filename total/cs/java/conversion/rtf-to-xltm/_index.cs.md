@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod RTF do XLTM
-description: Převeďte RTF na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod RTF do XLTM nebo pomocí bezplatného online převodníku
+description: Převeďte RTF na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/rtf-to-xltm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Преобразование DOTM в PPTX через Java или онлайн-приложение
-description: Java API для экспорта DOTM в PPTX без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Преобразование DOTM в PPTX через Java или с помощью бесплатного онлайн-конвертера 
+description: Java API для экспорта DOTM в PPTX без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/dotm-to-pptx/
 family: total
 platformtag: net

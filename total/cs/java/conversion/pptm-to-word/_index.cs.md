@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPTM na WORD přes Java nebo online aplikace
-description: Java API pro export PPTM do WORD bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převeďte PPTM na WORD přes Java  aplikace nebo pomocí bezplatného online převodníku 
+description: Java API pro export PPTM do WORD bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/pptm-to-word/
 family: total
 platformtag: net

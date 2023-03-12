@@ -1,6 +1,6 @@
 ---
-title: Konversi RTF ke POT melalui Java atau Aplikasi Daring
-description: Java API untuk Mengekspor RTF ke POT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Konversi RTF ke POT melalui Java atau dengan Konverter Online gratis 
+description: Java API untuk Mengekspor RTF ke POT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/rtf-to-pot/
 family: total
 platformtag: net

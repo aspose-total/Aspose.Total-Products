@@ -1,6 +1,6 @@
 ---
-title: Java ile WORD'yi PPTM'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Word veya PowerPoint kullanmadan WORD'yi PPTM'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: Java ile WORD'yi PPTM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
+description: Microsoft Word veya PowerPoint kullanmadan WORD'yi PPTM'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/word-to-pptm/
 family: total
 platformtag: net

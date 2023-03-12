@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POTX na format ODS za pomocą Java
-description: Konwertuj POTX do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POTX na format ODS za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POTX do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/potx-to-ods/
 family: total
 platformtag: net

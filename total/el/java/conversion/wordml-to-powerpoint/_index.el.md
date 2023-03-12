@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή WORDML σε POWERPOINT μέσω Java ή Online App
-description: Java API για εξαγωγή WORDML σε POWERPOINT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή WORDML σε POWERPOINT μέσω Java ή με δωρεάν Online Converter 
+description: Java API για εξαγωγή WORDML σε POWERPOINT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/wordml-to-powerpoint/
 family: total
 platformtag: net

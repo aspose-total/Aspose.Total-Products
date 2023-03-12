@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPS-ot RTF-ba Java segítségével vagy Online App
-description: Java API a PPS exportálásához RTF-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPS-ot RTF-ba Java segítségével vagy Online App vagy ingyenes online konverterrel 
+description: Java API a PPS exportálásához RTF-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/pps-to-rtf/
 family: total
 platformtag: net

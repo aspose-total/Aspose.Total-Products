@@ -1,6 +1,6 @@
 ---
-title: Converteer POTX naar XLSX-formaat via Java
-description: Converteer POTX naar XLSX-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer POTX naar XLSX-formaat via Java of met gratis Online Converter
+description: Converteer POTX naar XLSX-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/potx-to-xlsx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java経由でPPSXをODTに変換する またはオンラインアプリ
-description: MicrosoftWordやPowerPointを使用せずにPPSXをODTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Java経由でPPSXをODTに変換する アプリ または無料のオンライン コンバーターを使用 
+description: MicrosoftWordやPowerPointを使用せずにPPSXをODTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsx-to-odt/
 family: total
 platformtag: net

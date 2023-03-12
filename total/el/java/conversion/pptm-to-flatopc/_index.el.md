@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPTM σε FLATOPC μέσω Java ή Online App
-description: Java API για εξαγωγή PPTM σε FLATOPC χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή PPTM σε FLATOPC μέσω Java ή Online App ή με δωρεάν Online Converter 
+description: Java API για εξαγωγή PPTM σε FLATOPC χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pptm-to-flatopc/
 family: total
 platformtag: net

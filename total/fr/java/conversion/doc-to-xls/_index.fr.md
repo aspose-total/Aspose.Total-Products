@@ -1,6 +1,6 @@
 ---
-title: API Java pour convertir DOC en XLS
-description: Convertir DOC en XLS via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: API Java pour convertir DOC en XLS ou avec le convertisseur en ligne gratuit
+description: Convertir DOC en XLS via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/doc-to-xls/
 family: total
 platformtag: net

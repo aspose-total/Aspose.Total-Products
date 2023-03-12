@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPS-ot MARKDOWN formátumba Java segítségével
-description: Konvertálja a PPS-ot MARKDOWN formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPS-ot MARKDOWN formátumba Java segítségével vagy ingyenes online konverterrel
+description: Konvertálja a PPS-ot MARKDOWN formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/pps-to-markdown/
 family: total
 platformtag: net

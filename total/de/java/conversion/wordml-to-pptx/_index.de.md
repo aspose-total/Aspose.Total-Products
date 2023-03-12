@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie WORDML über Java in PPTX oder Online-App
-description: Java-API zum Exportieren von WORDML in PPTX, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Konvertieren Sie WORDML über Java in PPTX oder mit dem kostenlosen Online Converter 
+description: Java-API zum Exportieren von WORDML in PPTX, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/wordml-to-pptx/
 family: total
 platformtag: net

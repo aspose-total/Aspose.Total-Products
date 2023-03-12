@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPTX-ot DOTX-ba Java segítségével vagy Online App
-description: Java API a PPTX exportálásához DOTX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPTX-ot DOTX-ba Java segítségével vagy Online App vagy ingyenes online konverterrel 
+description: Java API a PPTX exportálásához DOTX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/pptx-to-dotx/
 family: total
 platformtag: net

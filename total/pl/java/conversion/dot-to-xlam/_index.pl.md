@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOT na XLAM
-description: Konwertuj DOT na XLAM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOT na XLAM lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOT na XLAM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dot-to-xlam/
 family: total
 platformtag: net

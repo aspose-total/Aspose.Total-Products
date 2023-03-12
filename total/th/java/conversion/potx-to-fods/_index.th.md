@@ -1,6 +1,6 @@
 ---
-title: แปลง POTX เป็นรูปแบบ FODS ผ่าน Java
-description: แปลงรูปแบบ POTX เป็น FODS ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: แปลง POTX เป็นรูปแบบ FODS ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลงรูปแบบ POTX เป็น FODS ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/potx-to-fods/
 family: total
 platformtag: net

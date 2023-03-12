@@ -1,6 +1,6 @@
 ---
-title: Java API لتحويل DOCM إلى XLTX
-description: قم بتحويل DOCM إلى XLTX عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: Java API لتحويل DOCM إلى XLTX أو مع محول مجاني على الإنترنت
+description: قم بتحويل DOCM إلى XLTX عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/docm-to-xltx/
 family: total
 platformtag: net

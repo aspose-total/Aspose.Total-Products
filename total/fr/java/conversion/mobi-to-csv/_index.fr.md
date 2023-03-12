@@ -1,6 +1,6 @@
 ---
-title: API Java pour convertir MOBI en CSV
-description: Convertir MOBI en CSV via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: API Java pour convertir MOBI en CSV ou avec le convertisseur en ligne gratuit
+description: Convertir MOBI en CSV via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/mobi-to-csv/
 family: total
 platformtag: net

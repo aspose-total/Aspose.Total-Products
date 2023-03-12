@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPS σε μορφή DIF μέσω Java
-description: Μετατροπή PPS σε μορφή DIF μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή PPS σε μορφή DIF μέσω Java ή με δωρεάν Online Converter
+description: Μετατροπή PPS σε μορφή DIF μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pps-to-dif/
 family: total
 platformtag: net

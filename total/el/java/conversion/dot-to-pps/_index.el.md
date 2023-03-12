@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή DOT σε PPS μέσω Java ή Online App
-description: Java API για εξαγωγή DOT σε PPS χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή DOT σε PPS μέσω Java ή με δωρεάν Online Converter 
+description: Java API για εξαγωγή DOT σε PPS χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/dot-to-pps/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Převést WORD na POTM přes Java nebo online aplikace
-description: Java API pro export WORD do POTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převést WORD na POTM přes Java nebo pomocí bezplatného online převodníku 
+description: Java API pro export WORD do POTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/word-to-potm/
 family: total
 platformtag: net

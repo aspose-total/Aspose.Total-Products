@@ -1,6 +1,6 @@
 ---
-title: تحويل PPTM إلى DOTX عبر Java أو التطبيق عبر الإنترنت
-description: Java API لتصدير PPTM إلى DOTX دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل PPTM إلى DOTX عبر Java أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت 
+description: Java API لتصدير PPTM إلى DOTX دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pptm-to-dotx/
 family: total
 platformtag: net

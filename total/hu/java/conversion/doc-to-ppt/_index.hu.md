@@ -1,6 +1,6 @@
 ---
-title: A DOC konvertálása PPT-re Java segítségével vagy Online App
-description: Java API a DOC exportálásához PPT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: A DOC konvertálása PPT-re Java segítségével vagy ingyenes online konverterrel 
+description: Java API a DOC exportálásához PPT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-ppt/
 family: total
 platformtag: net

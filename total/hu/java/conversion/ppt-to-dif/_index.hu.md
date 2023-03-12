@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPT-ot DIF formátumba Java segítségével
-description: Konvertálja a PPT-ot DIF formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPT-ot DIF formátumba Java segítségével vagy ingyenes online konverterrel
+description: Konvertálja a PPT-ot DIF formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/ppt-to-dif/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API a DOC konvertálásához XLSX-vé
-description: A DOC konvertálása XLSX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a DOC konvertálásához XLSX-vé vagy ingyenes online konverterrel
+description: A DOC konvertálása XLSX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-xlsx/
 family: total
 platformtag: net

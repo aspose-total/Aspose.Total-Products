@@ -1,6 +1,6 @@
 ---
-title: Konversi POT ke DOC melalui Java atau Aplikasi Daring
-description: Java API untuk Mengekspor POT ke DOC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Konversi POT ke DOC melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
+description: Java API untuk Mengekspor POT ke DOC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/pot-to-doc/
 family: total
 platformtag: net

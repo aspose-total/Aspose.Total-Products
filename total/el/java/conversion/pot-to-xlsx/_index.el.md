@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή POT σε μορφή XLSX μέσω Java
-description: Μετατροπή POT σε μορφή XLSX μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή POT σε μορφή XLSX μέσω Java ή με δωρεάν Online Converter
+description: Μετατροπή POT σε μορφή XLSX μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pot-to-xlsx/
 family: total
 platformtag: net

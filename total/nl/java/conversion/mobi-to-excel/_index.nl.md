@@ -1,6 +1,6 @@
 ---
-title: Java API om MOBI naar EXCEL te converteren
-description: Converteer MOBI naar EXCEL via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Java API om MOBI naar EXCEL te converteren of met gratis Online Converter
+description: Converteer MOBI naar EXCEL via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/mobi-to-excel/
 family: total
 platformtag: net

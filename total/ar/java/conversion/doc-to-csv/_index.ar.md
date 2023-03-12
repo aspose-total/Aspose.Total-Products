@@ -1,6 +1,6 @@
 ---
-title: Java API لتحويل DOC إلى CSV
-description: قم بتحويل DOC إلى CSV عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: Java API لتحويل DOC إلى CSV أو مع محول مجاني على الإنترنت
+description: قم بتحويل DOC إلى CSV عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/doc-to-csv/
 family: total
 platformtag: net

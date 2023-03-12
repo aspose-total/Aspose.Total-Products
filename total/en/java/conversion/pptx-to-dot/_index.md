@@ -1,6 +1,6 @@
 ---
-title: Convert PPTX to DOT via Java or Online App
-description: Java API to Export PPTX to DOT without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTX to DOT via Java or with free Online Converter
+description: Java API to Export PPTX to DOT without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/pptx-to-dot/
 family: total
 platformtag: java

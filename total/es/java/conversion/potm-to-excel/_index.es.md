@@ -1,6 +1,6 @@
 ---
-title: Convierta POTM a formato EXCEL a través de Java
-description: Convierta POTM a formato EXCEL a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: Convierta POTM a formato EXCEL a través de Java o con el convertidor en línea gratuito
+description: Convierta POTM a formato EXCEL a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/potm-to-excel/
 family: total
 platformtag: net

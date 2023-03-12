@@ -1,6 +1,6 @@
 ---
-title: Java経由でDOCXをPOTXに変換する またはオンラインアプリ
-description: MicrosoftWordやPowerPointを使用せずにDOCXをPOTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Java経由でDOCXをPOTXに変換する または無料のオンライン コンバーターを使用 
+description: MicrosoftWordやPowerPointを使用せずにDOCXをPOTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/docx-to-potx/
 family: total
 platformtag: net

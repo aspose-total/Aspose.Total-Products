@@ -1,6 +1,6 @@
 ---
-title: Convert DOTM to POTM via Java or Online App
-description: Java API to Export DOTM to POTM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOTM to POTM via Java or with free Online Converter
+description: Java API to Export DOTM to POTM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/dotm-to-potm/
 family: total
 platformtag: java

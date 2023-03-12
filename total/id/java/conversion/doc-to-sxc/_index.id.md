@@ -1,6 +1,6 @@
 ---
-title: Java API untuk Mengonversi DOC ke SXC
-description: Konversi DOC ke SXC melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Java API untuk Mengonversi DOC ke SXC atau dengan Konverter Online gratis
+description: Konversi DOC ke SXC melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/doc-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod WORD do ODS
-description: Převeďte WORD na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod WORD do ODS nebo pomocí bezplatného online převodníku
+description: Převeďte WORD na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/word-to-ods/
 family: total
 platformtag: net

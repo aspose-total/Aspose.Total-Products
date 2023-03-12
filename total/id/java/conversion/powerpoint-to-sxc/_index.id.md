@@ -1,6 +1,6 @@
 ---
-title: Konversi Format POWERPOINT ke SXC melalui Java
-description: Konversi format POWERPOINT ke SXC melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Konversi Format POWERPOINT ke SXC melalui Java atau dengan Konverter Online gratis
+description: Konversi format POWERPOINT ke SXC melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/powerpoint-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie FLATOPC über Java in PPS oder Online-App
-description: Java-API zum Exportieren von FLATOPC in PPS, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Konvertieren Sie FLATOPC über Java in PPS oder mit dem kostenlosen Online Converter 
+description: Java-API zum Exportieren von FLATOPC in PPS, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/flatopc-to-pps/
 family: total
 platformtag: net

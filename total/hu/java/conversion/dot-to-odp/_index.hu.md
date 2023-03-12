@@ -1,6 +1,6 @@
 ---
-title: A DOT konvertálása ODP-re Java segítségével vagy Online App
-description: Java API a DOT exportálásához ODP-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: A DOT konvertálása ODP-re Java segítségével vagy ingyenes online konverterrel 
+description: Java API a DOT exportálásához ODP-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/dot-to-odp/
 family: total
 platformtag: net

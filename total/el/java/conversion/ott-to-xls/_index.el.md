@@ -1,6 +1,6 @@
 ---
-title: Java API για μετατροπή OTT σε XLS
-description: Μετατροπή OTT σε XLS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Java API για μετατροπή OTT σε XLS ή με δωρεάν Online Converter
+description: Μετατροπή OTT σε XLS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ott-to-xls/
 family: total
 platformtag: net

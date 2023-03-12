@@ -1,6 +1,6 @@
 ---
-title: Java API a WORD konvertálásához XLSB-vé
-description: A WORD konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a WORD konvertálásához XLSB-vé vagy ingyenes online konverterrel
+description: A WORD konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/word-to-xlsb/
 family: total
 platformtag: net

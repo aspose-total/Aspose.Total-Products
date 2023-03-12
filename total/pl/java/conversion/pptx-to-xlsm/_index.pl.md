@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPTX na format XLSM za pomocą Java
-description: Konwertuj PPTX do formatu XLSM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj PPTX na format XLSM za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPTX do formatu XLSM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/pptx-to-xlsm/
 family: total
 platformtag: net

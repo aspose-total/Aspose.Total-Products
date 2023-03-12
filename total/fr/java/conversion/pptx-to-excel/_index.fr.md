@@ -1,6 +1,6 @@
 ---
-title: Convertir PPTX au format EXCEL via Java
-description: Convertissez le format PPTX au format EXCEL via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: Convertir PPTX au format EXCEL via Java ou avec le convertisseur en ligne gratuit
+description: Convertissez le format PPTX au format EXCEL via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/pptx-to-excel/
 family: total
 platformtag: net

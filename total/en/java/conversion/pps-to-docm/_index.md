@@ -1,6 +1,6 @@
 ---
-title: Convert PPS to DOCM via Java or Online App
-description: Java API to Export PPS to DOCM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPS to DOCM via Java or with free Online Converter
+description: Java API to Export PPS to DOCM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/pps-to-docm/
 family: total
 platformtag: java

@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi POWERPOINT sang Định dạng ODS qua Java
-description: Chuyển đổi POWERPOINT sang định dạng ODS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+title: Chuyển đổi POWERPOINT sang Định dạng ODS qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi POWERPOINT sang định dạng ODS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/powerpoint-to-ods/
 family: total
 platformtag: net

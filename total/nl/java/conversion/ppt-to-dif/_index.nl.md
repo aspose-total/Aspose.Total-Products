@@ -1,6 +1,6 @@
 ---
-title: Converteer PPT naar DIF-formaat via Java
-description: Converteer PPT naar DIF-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer PPT naar DIF-formaat via Java of met gratis Online Converter
+description: Converteer PPT naar DIF-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppt-to-dif/
 family: total
 platformtag: net

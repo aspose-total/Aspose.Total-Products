@@ -1,6 +1,6 @@
 ---
-title: Converter PPTX para FLATOPC via Java ou aplicativo on-line
-description: API Java para exportar PPTX para FLATOPC sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+title: Converter PPTX para FLATOPC via Java ou aplicativo on-line ou com o conversor online gratuito ou com o conversor online grátis
+description: API Java para exportar PPTX para FLATOPC sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/pptx-to-flatopc/
 family: total
 platformtag: net

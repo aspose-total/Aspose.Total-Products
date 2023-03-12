@@ -1,6 +1,6 @@
 ---
-title: Java API to Convert MOBI to XLSM
-description: Convert MOBI to XLSM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Java API to Convert MOBI to XLSM or with free Online Converter
+description: Convert MOBI to XLSM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/mobi-to-xlsm/
 family: total
 platformtag: java

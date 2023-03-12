@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod ODT do XLTM
-description: Převeďte ODT na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod ODT do XLTM nebo pomocí bezplatného online převodníku
+description: Převeďte ODT na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/odt-to-xltm/
 family: total
 platformtag: net

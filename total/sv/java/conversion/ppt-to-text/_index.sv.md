@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPT till TEXT via Java eller onlineapp
-description: Java API för att exportera PPT till TEXT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: Konvertera PPT till TEXT via Java app eller med gratis Online Converter 
+description: Java API för att exportera PPT till TEXT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/ppt-to-text/
 family: total
 platformtag: net

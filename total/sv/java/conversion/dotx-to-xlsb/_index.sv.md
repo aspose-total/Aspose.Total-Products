@@ -1,6 +1,6 @@
 ---
-title: Java API för att konvertera DOTX till XLSB
-description: Konvertera DOTX till XLSB via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: Java API för att konvertera DOTX till XLSB eller med gratis Online Converter
+description: Konvertera DOTX till XLSB via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/dotx-to-xlsb/
 family: total
 platformtag: net

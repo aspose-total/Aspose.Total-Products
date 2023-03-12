@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOT na XLTM
-description: Konwertuj DOT na XLTM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOT na XLTM lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOT na XLTM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dot-to-xltm/
 family: total
 platformtag: net

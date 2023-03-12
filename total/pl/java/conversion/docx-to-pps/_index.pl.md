@@ -1,6 +1,6 @@
 ---
-title: Konwertuj DOCX na PPS za pomocą Javy lub Aplikacja internetowa
-description: Java API do eksportu DOCX do PPS bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj DOCX na PPS za pomocą Javy lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu DOCX do PPS bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/docx-to-pps/
 family: total
 platformtag: net

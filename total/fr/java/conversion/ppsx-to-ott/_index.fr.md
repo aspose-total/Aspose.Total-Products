@@ -1,6 +1,6 @@
 ---
-title: Convertir PPSX en OTT via Java ou application en ligne
-description: API Java pour exporter PPSX vers OTT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: Convertir PPSX en OTT via Java ou application en ligne ou avec le convertisseur en ligne gratuit 
+description: API Java pour exporter PPSX vers OTT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/ppsx-to-ott/
 family: total
 platformtag: net

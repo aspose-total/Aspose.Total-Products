@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPT в формат MARKDOWN через Java
-description: Преобразуйте формат PPT в MARKDOWN через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Преобразование PPT в формат MARKDOWN через Java или с помощью бесплатного онлайн-конвертера
+description: Преобразуйте формат PPT в MARKDOWN через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/ppt-to-markdown/
 family: total
 platformtag: net

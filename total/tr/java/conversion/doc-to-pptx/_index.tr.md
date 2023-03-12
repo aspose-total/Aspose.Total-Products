@@ -1,6 +1,6 @@
 ---
-title: Java ile DOC'yi PPTX'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Word veya PowerPoint kullanmadan DOC'yi PPTX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: Java ile DOC'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
+description: Microsoft Word veya PowerPoint kullanmadan DOC'yi PPTX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/doc-to-pptx/
 family: total
 platformtag: net

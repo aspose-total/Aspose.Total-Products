@@ -1,6 +1,6 @@
 ---
-title: API Java pour convertir DOT en TSV
-description: Convertir DOT en TSV via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: API Java pour convertir DOT en TSV ou avec le convertisseur en ligne gratuit
+description: Convertir DOT en TSV via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/dot-to-tsv/
 family: total
 platformtag: net

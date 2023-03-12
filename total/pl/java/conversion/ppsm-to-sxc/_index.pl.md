@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPSM na format SXC za pomocą Java
-description: Konwertuj PPSM do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj PPSM na format SXC za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPSM do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/ppsm-to-sxc/
 family: total
 platformtag: net

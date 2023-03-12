@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi PPSX sang Định dạng XLS qua Java
-description: Chuyển đổi PPSX sang định dạng XLS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+title: Chuyển đổi PPSX sang Định dạng XLS qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi PPSX sang định dạng XLS qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/ppsx-to-xls/
 family: total
 platformtag: net

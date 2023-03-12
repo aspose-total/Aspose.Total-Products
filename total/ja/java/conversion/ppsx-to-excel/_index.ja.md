@@ -1,6 +1,6 @@
 ---
-title: Javaを介してPPSXをEXCEL形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSXをEXCEL形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Javaを介してPPSXをEXCEL形式に変換する または無料のオンライン コンバーターを使用
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSXをEXCEL形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsx-to-excel/
 family: total
 platformtag: net

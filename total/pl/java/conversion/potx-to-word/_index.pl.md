@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POTX na WORD przez Javę
-description: Java API do eksportu POTX do WORD bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POTX na WORD przez Javę lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu POTX do WORD bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. 
 url_ignore: /pl/java/conversion/potx-to-word/
 family: total
 platformtag: net

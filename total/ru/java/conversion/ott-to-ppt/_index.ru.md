@@ -1,6 +1,6 @@
 ---
-title: Преобразование OTT в PPT через Java или онлайн-приложение
-description: Java API для экспорта OTT в PPT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Преобразование OTT в PPT через Java или с помощью бесплатного онлайн-конвертера 
+description: Java API для экспорта OTT в PPT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/ott-to-ppt/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API لتحويل WORD إلى EXCEL
-description: قم بتحويل WORD إلى EXCEL عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: Java API لتحويل WORD إلى EXCEL أو مع محول مجاني على الإنترنت
+description: قم بتحويل WORD إلى EXCEL عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/word-to-excel/
 family: total
 platformtag: net

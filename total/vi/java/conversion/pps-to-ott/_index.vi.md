@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi PPS sang OTT qua Java hoặc Ứng dụng trực tuyến
-description: Java API để xuất PPS sang OTT mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+title: Chuyển đổi PPS sang OTT qua Java hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí 
+description: Java API để xuất PPS sang OTT mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/pps-to-ott/
 family: total
 platformtag: net

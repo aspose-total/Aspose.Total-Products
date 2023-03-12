@@ -1,6 +1,6 @@
 ---
-title: แปลง PPTM เป็น WORDML ผ่าน Java หรือแอพออนไลน์
-description: Java API เพื่อส่งออก PPTM เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: แปลง PPTM เป็น WORDML ผ่าน Java หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี 
+description: Java API เพื่อส่งออก PPTM เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/pptm-to-wordml/
 family: total
 platformtag: net

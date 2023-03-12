@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPTM über Java in das ODS-Format
-description: Konvertieren Sie PPTM über Java in das ODS-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Konvertieren Sie PPTM über Java in das ODS-Format oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie PPTM über Java in das ODS-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/pptm-to-ods/
 family: total
 platformtag: net

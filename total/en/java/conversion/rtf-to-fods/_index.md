@@ -1,6 +1,6 @@
 ---
-title: Java API to Convert RTF to FODS
-description: Convert RTF to FODS via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Java API to Convert RTF to FODS or with free Online Converter
+description: Convert RTF to FODS via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/rtf-to-fods/
 family: total
 platformtag: java

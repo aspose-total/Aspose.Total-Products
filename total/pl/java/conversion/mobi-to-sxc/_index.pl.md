@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji MOBI na SXC
-description: Konwertuj MOBI na SXC za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji MOBI na SXC lub za pomocą bezpłatnego konwertera online
+description: Konwertuj MOBI na SXC za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/mobi-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: API de Java para convertir DOT a EXCEL
-description: Convierta DOT a EXCEL a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: API de Java para convertir DOT a EXCEL o con el convertidor en línea gratuito
+description: Convierta DOT a EXCEL a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/dot-to-excel/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Konvertera PPS till XLSB-format via Java
-description: Konvertera PPS till XLSB-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: Konvertera PPS till XLSB-format via Java eller med gratis Online Converter
+description: Konvertera PPS till XLSB-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/pps-to-xlsb/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPT-ot FLATOPC-ba Java segítségével vagy Online App
-description: Java API a PPT exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPT-ot FLATOPC-ba Java segítségével vagy Online App vagy ingyenes online konverterrel 
+description: Java API a PPT exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/ppt-to-flatopc/
 family: total
 platformtag: net

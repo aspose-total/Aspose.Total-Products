@@ -1,6 +1,6 @@
 ---
-title: Java ile DOCM'yi PPSX'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Word veya PowerPoint kullanmadan DOCM'yi PPSX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: Java ile DOCM'yi PPSX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
+description: Microsoft Word veya PowerPoint kullanmadan DOCM'yi PPSX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/docm-to-ppsx/
 family: total
 platformtag: net

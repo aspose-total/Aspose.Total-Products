@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOTM na FODS
-description: Konwertuj DOTM na FODS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOTM na FODS lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOTM na FODS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dotm-to-fods/
 family: total
 platformtag: net

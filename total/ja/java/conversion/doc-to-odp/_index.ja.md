@@ -1,6 +1,6 @@
 ---
-title: Java経由でDOCをODPに変換する またはオンラインアプリ
-description: MicrosoftWordやPowerPointを使用せずにDOCをODPにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Java経由でDOCをODPに変換する または無料のオンライン コンバーターを使用 
+description: MicrosoftWordやPowerPointを使用せずにDOCをODPにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/doc-to-odp/
 family: total
 platformtag: net

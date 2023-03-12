@@ -1,5 +1,5 @@
 ---
-title: API Java para converter DOC para XLT
+title: API Java para converter DOC para XLT ou com o conversor online gratuito
 description: Converta DOC para XLT via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/doc-to-xlt/
 family: total

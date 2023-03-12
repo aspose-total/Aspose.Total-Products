@@ -1,6 +1,6 @@
 ---
-title: Java API untuk Mengonversi DOT ke XLTM
-description: Konversi DOT ke XLTM melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Java API untuk Mengonversi DOT ke XLTM atau dengan Konverter Online gratis
+description: Konversi DOT ke XLTM melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/dot-to-xltm/
 family: total
 platformtag: net

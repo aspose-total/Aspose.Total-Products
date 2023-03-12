@@ -1,6 +1,6 @@
 ---
-title: تحويل POTX إلى RTF عبر Java أو التطبيق عبر الإنترنت
-description: Java API لتصدير POTX إلى RTF دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل POTX إلى RTF عبر Java أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت 
+description: Java API لتصدير POTX إلى RTF دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/potx-to-rtf/
 family: total
 platformtag: net

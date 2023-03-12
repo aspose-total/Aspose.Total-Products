@@ -1,6 +1,6 @@
 ---
-title: Java API a WORDML konvertálásához XLSB-vé
-description: A WORDML konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a WORDML konvertálásához XLSB-vé vagy ingyenes online konverterrel
+description: A WORDML konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-xlsb/
 family: total
 platformtag: net

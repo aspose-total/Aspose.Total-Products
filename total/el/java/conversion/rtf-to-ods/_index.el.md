@@ -1,6 +1,6 @@
 ---
-title: Java API για μετατροπή RTF σε ODS
-description: Μετατροπή RTF σε ODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Java API για μετατροπή RTF σε ODS ή με δωρεάν Online Converter
+description: Μετατροπή RTF σε ODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/rtf-to-ods/
 family: total
 platformtag: net

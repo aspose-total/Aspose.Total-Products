@@ -1,6 +1,6 @@
 ---
-title: Java経由でPOTXをWORDMLに変換する またはオンラインアプリ
-description: MicrosoftWordやPowerPointを使用せずにPOTXをWORDMLにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Java経由でPOTXをWORDMLに変換する アプリ または無料のオンライン コンバーターを使用 
+description: MicrosoftWordやPowerPointを使用せずにPOTXをWORDMLにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potx-to-wordml/
 family: total
 platformtag: net

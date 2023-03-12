@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPTM na OTT przez Javę
-description: Java API do eksportu PPTM do OTT bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj PPTM na OTT przez Javę lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu PPTM do OTT bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. 
 url_ignore: /pl/java/conversion/pptm-to-ott/
 family: total
 platformtag: net

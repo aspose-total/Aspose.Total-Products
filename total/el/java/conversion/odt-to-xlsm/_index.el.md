@@ -1,6 +1,6 @@
 ---
-title: Java API για μετατροπή ODT σε XLSM
-description: Μετατροπή ODT σε XLSM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Java API για μετατροπή ODT σε XLSM ή με δωρεάν Online Converter
+description: Μετατροπή ODT σε XLSM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/odt-to-xlsm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API a WORDML konvertálásához XLS-vé
-description: A WORDML konvertálása XLS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a WORDML konvertálásához XLS-vé vagy ingyenes online konverterrel
+description: A WORDML konvertálása XLS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java-API zum Konvertieren von OTT in XLAM
-description: Konvertieren Sie OTT über Java in XLAM oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Java-API zum Konvertieren von OTT in XLAM oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie OTT über Java in XLAM oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/ott-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: PPTM'u Java ile XLAM Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPTM'u Java aracılığıyla XLAM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: PPTM'u Java ile XLAM Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan PPTM'u Java aracılığıyla XLAM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptm-to-xlam/
 family: total
 platformtag: net

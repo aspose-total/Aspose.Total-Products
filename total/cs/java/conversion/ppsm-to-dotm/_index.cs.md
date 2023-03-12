@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPSM na DOTM přes Java nebo online aplikace
-description: Java API pro export PPSM do DOTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převeďte PPSM na DOTM přes Java  aplikace nebo pomocí bezplatného online převodníku 
+description: Java API pro export PPSM do DOTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/ppsm-to-dotm/
 family: total
 platformtag: net

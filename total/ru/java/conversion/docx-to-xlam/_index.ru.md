@@ -1,6 +1,6 @@
 ---
-title: Java API для преобразования DOCX в XLAM
-description: Преобразование DOCX в XLAM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Java API для преобразования DOCX в XLAM или с помощью бесплатного онлайн-конвертера
+description: Преобразование DOCX в XLAM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/docx-to-xlam/
 family: total
 platformtag: net

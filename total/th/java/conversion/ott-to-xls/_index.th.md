@@ -1,6 +1,6 @@
 ---
-title: Java API เพื่อแปลง OTT เป็น XLS
-description: แปลง OTT เป็น XLS ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: Java API เพื่อแปลง OTT เป็น XLS หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง OTT เป็น XLS ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/ott-to-xls/
 family: total
 platformtag: net

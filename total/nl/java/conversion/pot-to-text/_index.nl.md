@@ -1,6 +1,6 @@
 ---
-title: Converteer POT naar TEXT via Java of online-app
-description: Java API om POT naar TEXT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer POT naar TEXT via Java -app of met gratis Online Converter 
+description: Java API om POT naar TEXT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pot-to-text/
 family: total
 platformtag: net

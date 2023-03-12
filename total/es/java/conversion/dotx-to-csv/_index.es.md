@@ -1,6 +1,6 @@
 ---
-title: API de Java para convertir DOTX a CSV
-description: Convierta DOTX a CSV a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: API de Java para convertir DOTX a CSV o con el convertidor en línea gratuito
+description: Convierta DOTX a CSV a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/dotx-to-csv/
 family: total
 platformtag: net

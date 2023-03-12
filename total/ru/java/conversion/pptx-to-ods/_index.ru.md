@@ -1,6 +1,6 @@
 ---
-title: Преобразование PPTX в формат ODS через Java
-description: Преобразуйте формат PPTX в ODS через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Преобразование PPTX в формат ODS через Java или с помощью бесплатного онлайн-конвертера
+description: Преобразуйте формат PPTX в ODS через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pptx-to-ods/
 family: total
 platformtag: net

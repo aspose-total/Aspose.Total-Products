@@ -1,6 +1,6 @@
 ---
-title: Convert WORDML to PPSM via Java or Online App
-description: Java API to Export WORDML to PPSM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORDML to PPSM via Java or with free Online Converter
+description: Java API to Export WORDML to PPSM without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/wordml-to-ppsm/
 family: total
 platformtag: java

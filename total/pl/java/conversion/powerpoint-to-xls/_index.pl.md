@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POWERPOINT na format XLS za pomocą Java
-description: Konwertuj POWERPOINT do formatu XLS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POWERPOINT na format XLS za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POWERPOINT do formatu XLS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/powerpoint-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Konvertera DOCX till PPTM via Java eller onlineapp
-description: Java API för att exportera DOCX till PPTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: Konvertera DOCX till PPTM via Java eller med gratis Online Converter 
+description: Java API för att exportera DOCX till PPTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/docx-to-pptm/
 family: total
 platformtag: net

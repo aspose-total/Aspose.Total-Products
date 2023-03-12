@@ -1,6 +1,6 @@
 ---
-title: Java API เพื่อแปลง DOTM เป็น TSV
-description: แปลง DOTM เป็น TSV ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: Java API เพื่อแปลง DOTM เป็น TSV หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง DOTM เป็น TSV ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/dotm-to-tsv/
 family: total
 platformtag: net

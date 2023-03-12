@@ -1,6 +1,6 @@
 ---
-title: Java API a DOC konvertálásához DIF-vé
-description: A DOC konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a DOC konvertálásához DIF-vé vagy ingyenes online konverterrel
+description: A DOC konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-dif/
 family: total
 platformtag: net

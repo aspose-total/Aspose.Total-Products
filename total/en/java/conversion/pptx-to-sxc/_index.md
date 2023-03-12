@@ -1,6 +1,6 @@
 ---
-title: Convert PPTX to SXC Format via Java
-description: Convert PPTX to SXC format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTX to SXC Format via Java or with free Online Converter
+description: Convert PPTX to SXC format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/pptx-to-sxc/
 family: total
 platformtag: java

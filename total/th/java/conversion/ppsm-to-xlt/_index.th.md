@@ -1,6 +1,6 @@
 ---
-title: แปลง PPSM เป็นรูปแบบ XLT ผ่าน Java
-description: แปลงรูปแบบ PPSM เป็น XLT ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: แปลง PPSM เป็นรูปแบบ XLT ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลงรูปแบบ PPSM เป็น XLT ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/ppsm-to-xlt/
 family: total
 platformtag: net

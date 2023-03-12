@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a POWERPOINT-ot TSV formátumba Java segítségével
-description: Konvertálja a POWERPOINT-ot TSV formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a POWERPOINT-ot TSV formátumba Java segítségével vagy ingyenes online konverterrel
+description: Konvertálja a POWERPOINT-ot TSV formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net

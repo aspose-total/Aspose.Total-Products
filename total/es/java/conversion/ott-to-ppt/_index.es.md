@@ -1,6 +1,6 @@
 ---
-title: Convierta OTT a PPT a través de Java o aplicación en línea
-description: API de Java para exportar OTT a PPT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: Convierta OTT a PPT a través de Java o con el convertidor en línea gratuito 
+description: API de Java para exportar OTT a PPT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/ott-to-ppt/
 family: total
 platformtag: net

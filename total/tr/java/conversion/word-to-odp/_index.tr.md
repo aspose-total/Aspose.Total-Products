@@ -1,6 +1,6 @@
 ---
-title: Java ile WORD'yi ODP'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Word veya PowerPoint kullanmadan WORD'yi ODP'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: Java ile WORD'yi ODP'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
+description: Microsoft Word veya PowerPoint kullanmadan WORD'yi ODP'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/word-to-odp/
 family: total
 platformtag: net

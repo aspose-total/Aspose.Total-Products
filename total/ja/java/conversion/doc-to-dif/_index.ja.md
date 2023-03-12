@@ -1,6 +1,6 @@
 ---
-title: DOCをDIFに変換するJavaAPI
-description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOCをDIFに変換する またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: DOCをDIFに変換するJavaAPI または無料のオンライン コンバーターを使用
+description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOCをDIFに変換する またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/doc-to-dif/
 family: total
 platformtag: net

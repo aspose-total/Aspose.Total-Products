@@ -1,6 +1,6 @@
 ---
-title: Chuyển đổi PPT sang Định dạng XLTM qua Java
-description: Chuyển đổi PPT sang định dạng XLTM qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+title: Chuyển đổi PPT sang Định dạng XLTM qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi PPT sang định dạng XLTM qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net

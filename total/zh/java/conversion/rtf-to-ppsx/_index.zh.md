@@ -1,6 +1,6 @@
 ---
-title: 通过 Java 将 RTF 转换为 PPSX 或在线应用程序
-description: 无需使用 Microsoft Word 或 PowerPoint 即可将 RTF 导出为 PPSX 的 Java API 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 或使用免费的在线转换器
+title: 通过 Java 将 RTF 转换为 PPSX 或使用免费的在线转换器 
+description: 无需使用 Microsoft Word 或 PowerPoint 即可将 RTF 导出为 PPSX 的 Java API 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 
 url_ignore: /zh/java/conversion/rtf-to-ppsx/
 family: total
 platformtag: net

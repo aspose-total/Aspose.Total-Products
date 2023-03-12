@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POWERPOINT na DOCX przez Javę
-description: Java API do eksportu POWERPOINT do DOCX bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POWERPOINT na DOCX przez Javę lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu POWERPOINT do DOCX bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. 
 url_ignore: /pl/java/conversion/powerpoint-to-docx/
 family: total
 platformtag: net

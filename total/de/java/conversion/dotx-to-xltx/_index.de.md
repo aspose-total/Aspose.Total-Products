@@ -1,6 +1,6 @@
 ---
-title: Java-API zum Konvertieren von DOTX in XLTX
-description: Konvertieren Sie DOTX über Java in XLTX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Java-API zum Konvertieren von DOTX in XLTX oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie DOTX über Java in XLTX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/dotx-to-xltx/
 family: total
 platformtag: net

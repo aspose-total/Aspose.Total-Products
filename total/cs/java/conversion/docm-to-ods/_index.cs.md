@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod DOCM do ODS
-description: Převeďte DOCM na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod DOCM do ODS nebo pomocí bezplatného online převodníku
+description: Převeďte DOCM na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/docm-to-ods/
 family: total
 platformtag: net

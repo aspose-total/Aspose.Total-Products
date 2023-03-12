@@ -1,6 +1,6 @@
 ---
-title: Java-API zum Konvertieren von WORDML in XLSX
-description: Konvertieren Sie WORDML über Java in XLSX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Java-API zum Konvertieren von WORDML in XLSX oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie WORDML über Java in XLSX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/wordml-to-xlsx/
 family: total
 platformtag: net

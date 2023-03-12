@@ -1,6 +1,6 @@
 ---
-title: API Java per convertire DOC in XLSX
-description: Converti DOC in XLSX tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. o con il convertitore online gratuito
+title: API Java per convertire DOC in XLSX o con il convertitore online gratuito
+description: Converti DOC in XLSX tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
 url_ignore: /it/java/conversion/doc-to-xlsx/
 family: total
 platformtag: net

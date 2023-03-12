@@ -1,6 +1,6 @@
 ---
-title: Java API to Convert DOC to XLAM
-description: Convert DOC to XLAM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Java API to Convert DOC to XLAM or with free Online Converter
+description: Convert DOC to XLAM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/doc-to-xlam/
 family: total
 platformtag: java

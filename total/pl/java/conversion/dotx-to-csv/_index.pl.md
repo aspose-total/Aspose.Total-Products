@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOTX na CSV
-description: Konwertuj DOTX na CSV za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOTX na CSV lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOTX na CSV za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dotx-to-csv/
 family: total
 platformtag: net

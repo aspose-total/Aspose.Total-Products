@@ -1,6 +1,6 @@
 ---
-title: Java API a DOCM konvertálásához DIF-vé
-description: A DOCM konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a DOCM konvertálásához DIF-vé vagy ingyenes online konverterrel
+description: A DOCM konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/docm-to-dif/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: A DOCX konvertálása POTX-re Java segítségével vagy Online App
-description: Java API a DOCX exportálásához POTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: A DOCX konvertálása POTX-re Java segítségével vagy ingyenes online konverterrel 
+description: Java API a DOCX exportálásához POTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/docx-to-potx/
 family: total
 platformtag: net

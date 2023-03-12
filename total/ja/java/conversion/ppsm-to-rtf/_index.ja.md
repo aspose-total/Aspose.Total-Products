@@ -1,6 +1,6 @@
 ---
-title: Java経由でPPSMをRTFに変換する またはオンラインアプリ
-description: MicrosoftWordやPowerPointを使用せずにPPSMをRTFにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Java経由でPPSMをRTFに変換する アプリ または無料のオンライン コンバーターを使用 
+description: MicrosoftWordやPowerPointを使用せずにPPSMをRTFにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsm-to-rtf/
 family: total
 platformtag: net

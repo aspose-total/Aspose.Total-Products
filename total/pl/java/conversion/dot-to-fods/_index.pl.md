@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOT na FODS
-description: Konwertuj DOT na FODS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOT na FODS lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOT na FODS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dot-to-fods/
 family: total
 platformtag: net

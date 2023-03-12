@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή POT σε OTT μέσω Java ή Online App
-description: Java API για εξαγωγή POT σε OTT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή POT σε OTT μέσω Java ή Online App ή με δωρεάν Online Converter 
+description: Java API για εξαγωγή POT σε OTT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pot-to-ott/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod MOBI do FODS
-description: Převeďte MOBI na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod MOBI do FODS nebo pomocí bezplatného online převodníku
+description: Převeďte MOBI na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/mobi-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: POT'u Java ile MHTML Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan POT'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: POT'u Java ile MHTML Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan POT'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pot-to-mhtml/
 family: total
 platformtag: net

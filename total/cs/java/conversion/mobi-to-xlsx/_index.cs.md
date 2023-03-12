@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod MOBI do XLSX
-description: Převeďte MOBI na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod MOBI do XLSX nebo pomocí bezplatného online převodníku
+description: Převeďte MOBI na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/mobi-to-xlsx/
 family: total
 platformtag: net

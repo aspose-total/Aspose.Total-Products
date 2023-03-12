@@ -1,6 +1,6 @@
 ---
-title: Java API เพื่อแปลง DOT เป็น XLAM
-description: แปลง DOT เป็น XLAM ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: Java API เพื่อแปลง DOT เป็น XLAM หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง DOT เป็น XLAM ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/dot-to-xlam/
 family: total
 platformtag: net

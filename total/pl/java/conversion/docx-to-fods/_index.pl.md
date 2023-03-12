@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOCX na FODS
-description: Konwertuj DOCX na FODS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOCX na FODS lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOCX na FODS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/docx-to-fods/
 family: total
 platformtag: net

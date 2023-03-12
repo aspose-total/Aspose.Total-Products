@@ -1,6 +1,6 @@
 ---
-title: PPTX'u Java ile XLSB Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla XLSB formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: PPTX'u Java ile XLSB Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla XLSB formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptx-to-xlsb/
 family: total
 platformtag: net

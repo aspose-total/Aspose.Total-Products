@@ -1,6 +1,6 @@
 ---
-title: Java API a DOCX konvertálásához SXC-vé
-description: A DOCX konvertálása SXC-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a DOCX konvertálásához SXC-vé vagy ingyenes online konverterrel
+description: A DOCX konvertálása SXC-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/docx-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API to Convert DOC to XLTM
-description: Convert DOC to XLTM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Java API to Convert DOC to XLTM or with free Online Converter
+description: Convert DOC to XLTM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/doc-to-xltm/
 family: total
 platformtag: java

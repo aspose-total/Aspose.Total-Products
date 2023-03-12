@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPSX na DOT přes Java nebo online aplikace
-description: Java API pro export PPSX do DOT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převeďte PPSX na DOT přes Java  aplikace nebo pomocí bezplatného online převodníku 
+description: Java API pro export PPSX do DOT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/ppsx-to-dot/
 family: total
 platformtag: net

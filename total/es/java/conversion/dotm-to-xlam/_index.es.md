@@ -1,6 +1,6 @@
 ---
-title: API de Java para convertir DOTM a XLAM
-description: Convierta DOTM a XLAM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: API de Java para convertir DOTM a XLAM o con el convertidor en línea gratuito
+description: Convierta DOTM a XLAM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/dotm-to-xlam/
 family: total
 platformtag: net

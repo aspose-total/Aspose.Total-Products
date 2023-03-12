@@ -1,6 +1,6 @@
 ---
-title: تحويل PPT إلى تنسيق ODS عبر Java
-description: قم بتحويل PPT إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل PPT إلى تنسيق ODS عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPT إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ppt-to-ods/
 family: total
 platformtag: net

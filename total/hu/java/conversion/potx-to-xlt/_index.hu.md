@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a POTX-ot XLT formátumba Java segítségével
-description: Konvertálja a POTX-ot XLT formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a POTX-ot XLT formátumba Java segítségével vagy ingyenes online konverterrel
+description: Konvertálja a POTX-ot XLT formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/potx-to-xlt/
 family: total
 platformtag: net

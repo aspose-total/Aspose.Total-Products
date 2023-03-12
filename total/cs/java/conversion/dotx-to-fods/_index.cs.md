@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod DOTX do FODS
-description: Převeďte DOTX na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod DOTX do FODS nebo pomocí bezplatného online převodníku
+description: Převeďte DOTX na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/dotx-to-fods/
 family: total
 platformtag: net

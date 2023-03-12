@@ -1,6 +1,6 @@
 ---
-title: Konversi Format PPSX ke XLTM melalui Java
-description: Konversi format PPSX ke XLTM melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Konversi Format PPSX ke XLTM melalui Java atau dengan Konverter Online gratis
+description: Konversi format PPSX ke XLTM melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsx-to-xltm/
 family: total
 platformtag: net

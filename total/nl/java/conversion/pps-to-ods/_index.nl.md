@@ -1,6 +1,6 @@
 ---
-title: Converteer PPS naar ODS-formaat via Java
-description: Converteer PPS naar ODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer PPS naar ODS-formaat via Java of met gratis Online Converter
+description: Converteer PPS naar ODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pps-to-ods/
 family: total
 platformtag: net

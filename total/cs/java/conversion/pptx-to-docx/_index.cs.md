@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPTX na DOCX přes Java nebo online aplikace
-description: Java API pro export PPTX do DOCX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převeďte PPTX na DOCX přes Java  aplikace nebo pomocí bezplatného online převodníku 
+description: Java API pro export PPTX do DOCX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/pptx-to-docx/
 family: total
 platformtag: net

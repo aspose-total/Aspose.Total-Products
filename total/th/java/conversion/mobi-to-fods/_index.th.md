@@ -1,6 +1,6 @@
 ---
-title: Java API เพื่อแปลง MOBI เป็น FODS
-description: แปลง MOBI เป็น FODS ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: Java API เพื่อแปลง MOBI เป็น FODS หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง MOBI เป็น FODS ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/mobi-to-fods/
 family: total
 platformtag: net

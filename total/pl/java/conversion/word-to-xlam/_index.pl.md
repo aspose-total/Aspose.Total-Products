@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji WORD na XLAM
-description: Konwertuj WORD na XLAM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji WORD na XLAM lub za pomocą bezpłatnego konwertera online
+description: Konwertuj WORD na XLAM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/word-to-xlam/
 family: total
 platformtag: net

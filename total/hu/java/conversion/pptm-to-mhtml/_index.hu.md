@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPTM-ot MHTML formátumba Java segítségével
-description: Konvertálja a PPTM-ot MHTML formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPTM-ot MHTML formátumba Java segítségével vagy ingyenes online konverterrel
+description: Konvertálja a PPTM-ot MHTML formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/pptm-to-mhtml/
 family: total
 platformtag: net

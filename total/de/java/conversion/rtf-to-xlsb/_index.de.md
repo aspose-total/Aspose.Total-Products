@@ -1,6 +1,6 @@
 ---
-title: Java-API zum Konvertieren von RTF in XLSB
-description: Konvertieren Sie RTF über Java in XLSB oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Java-API zum Konvertieren von RTF in XLSB oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie RTF über Java in XLSB oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/rtf-to-xlsb/
 family: total
 platformtag: net

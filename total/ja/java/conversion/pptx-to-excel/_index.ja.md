@@ -1,6 +1,6 @@
 ---
-title: Javaを介してPPTXをEXCEL形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTXをEXCEL形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Javaを介してPPTXをEXCEL形式に変換する または無料のオンライン コンバーターを使用
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTXをEXCEL形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pptx-to-excel/
 family: total
 platformtag: net

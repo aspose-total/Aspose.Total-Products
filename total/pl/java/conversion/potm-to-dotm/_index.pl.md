@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POTM na DOTM przez Javę
-description: Java API do eksportu POTM do DOTM bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POTM na DOTM przez Javę lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu POTM do DOTM bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. 
 url_ignore: /pl/java/conversion/potm-to-dotm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod DOTM do EXCEL
-description: Převeďte DOTM na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod DOTM do EXCEL nebo pomocí bezplatného online převodníku
+description: Převeďte DOTM na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/dotm-to-excel/
 family: total
 platformtag: net

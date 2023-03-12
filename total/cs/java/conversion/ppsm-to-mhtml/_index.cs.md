@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPSM do formátu MHTML přes Java
-description: Převeďte PPSM do formátu MHTML přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převeďte PPSM do formátu MHTML přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPSM do formátu MHTML přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/ppsm-to-mhtml/
 family: total
 platformtag: net

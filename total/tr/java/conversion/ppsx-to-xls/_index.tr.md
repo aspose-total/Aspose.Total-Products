@@ -1,6 +1,6 @@
 ---
-title: PPSX'u Java ile XLS Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla XLS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: PPSX'u Java ile XLS Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla XLS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppsx-to-xls/
 family: total
 platformtag: net

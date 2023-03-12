@@ -1,6 +1,6 @@
 ---
-title: Преобразование TXT в POWERPOINT через Java или онлайн-приложение
-description: Java API для экспорта TXT в POWERPOINT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Преобразование TXT в POWERPOINT через Java или с помощью бесплатного онлайн-конвертера 
+description: Java API для экспорта TXT в POWERPOINT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/txt-to-powerpoint/
 family: total
 platformtag: net

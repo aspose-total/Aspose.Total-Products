@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod RTF do XLSB
-description: Převeďte RTF na XLSB přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod RTF do XLSB nebo pomocí bezplatného online převodníku
+description: Převeďte RTF na XLSB přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/rtf-to-xlsb/
 family: total
 platformtag: net

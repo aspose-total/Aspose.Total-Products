@@ -1,6 +1,6 @@
 ---
-title: Convert PPTM to OTT via Java or Online App
-description: Java API to Export PPTM to OTT without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTM to OTT via Java or with free Online Converter
+description: Java API to Export PPTM to OTT without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/pptm-to-ott/
 family: total
 platformtag: java

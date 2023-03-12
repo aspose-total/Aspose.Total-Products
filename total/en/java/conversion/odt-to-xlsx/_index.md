@@ -1,6 +1,6 @@
 ---
-title: Java API to Convert ODT to XLSX
-description: Convert ODT to XLSX via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Java API to Convert ODT to XLSX or with free Online Converter
+description: Convert ODT to XLSX via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/odt-to-xlsx/
 family: total
 platformtag: java

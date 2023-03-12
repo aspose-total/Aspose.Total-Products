@@ -1,6 +1,6 @@
 ---
-title: Java API a WORD konvertálásához XLTM-vé
-description: A WORD konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a WORD konvertálásához XLTM-vé vagy ingyenes online konverterrel
+description: A WORD konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/word-to-xltm/
 family: total
 platformtag: net

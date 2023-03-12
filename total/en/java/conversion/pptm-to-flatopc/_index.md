@@ -1,6 +1,6 @@
 ---
-title: Convert PPTM to FLATOPC via Java or Online App
-description: Java API to Export PPTM to FLATOPC without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTM to FLATOPC via Java or with free Online Converter
+description: Java API to Export PPTM to FLATOPC without using Microsoft Word or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/pptm-to-flatopc/
 family: total
 platformtag: java

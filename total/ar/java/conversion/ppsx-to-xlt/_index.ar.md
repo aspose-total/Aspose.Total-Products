@@ -1,6 +1,6 @@
 ---
-title: تحويل PPSX إلى تنسيق XLT عبر Java
-description: قم بتحويل PPSX إلى تنسيق XLT عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل PPSX إلى تنسيق XLT عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPSX إلى تنسيق XLT عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ppsx-to-xlt/
 family: total
 platformtag: net

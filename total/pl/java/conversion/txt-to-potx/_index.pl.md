@@ -1,6 +1,6 @@
 ---
-title: Konwertuj TXT na POTX za pomocą Javy lub Aplikacja internetowa
-description: Java API do eksportu TXT do POTX bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj TXT na POTX za pomocą Javy lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu TXT do POTX bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/txt-to-potx/
 family: total
 platformtag: net

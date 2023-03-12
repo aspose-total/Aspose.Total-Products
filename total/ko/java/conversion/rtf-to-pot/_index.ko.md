@@ -1,6 +1,6 @@
 ---
-title: Java를 통해 RTF를 POT로 변환 또는 온라인 앱
-description: Microsoft Word 또는 PowerPoint를 사용하지 않고 RTF를 POT로 내보내는 Java API 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오. 또는 무료 온라인 변환기 사용
+title: Java를 통해 RTF를 POT로 변환 또는 무료 온라인 변환기 사용 
+description: Microsoft Word 또는 PowerPoint를 사용하지 않고 RTF를 POT로 내보내는 Java API 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오. 
 url_ignore: /ko/java/conversion/rtf-to-pot/
 family: total
 platformtag: net

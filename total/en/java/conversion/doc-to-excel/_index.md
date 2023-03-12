@@ -1,6 +1,6 @@
 ---
-title: Convert DOC to EXCEL via Java or Online App
-description: Convert DOC to EXCEL via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOC to EXCEL via Java or Online App or with free Online Converter
+description: Convert DOC to EXCEL via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/doc-to-excel/
 family: total
 platformtag: java

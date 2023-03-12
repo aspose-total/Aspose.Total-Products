@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOTM na SXC
-description: Konwertuj DOTM na SXC za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOTM na SXC lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOTM na SXC za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dotm-to-sxc/
 family: total
 platformtag: net

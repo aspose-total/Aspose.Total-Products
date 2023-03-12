@@ -1,6 +1,6 @@
 ---
-title: تحويل PPS إلى تنسيق XLTM عبر Java
-description: قم بتحويل PPS إلى تنسيق XLTM عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل PPS إلى تنسيق XLTM عبر Java أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPS إلى تنسيق XLTM عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pps-to-xltm/
 family: total
 platformtag: net

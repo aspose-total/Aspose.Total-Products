@@ -1,5 +1,5 @@
 ---
-title: Converter POT para formato ODS via Java
+title: Converter POT para formato ODS via Java ou com o conversor online gratuito
 description: Converta o formato POT para ODS via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/pot-to-ods/
 family: total

@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPT na format FODS za pomocą Java
-description: Konwertuj PPT do formatu FODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj PPT na format FODS za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPT do formatu FODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/ppt-to-fods/
 family: total
 platformtag: net

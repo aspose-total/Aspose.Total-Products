@@ -1,6 +1,6 @@
 ---
-title: Java-API zum Konvertieren von DOT in DIF
-description: Konvertieren Sie DOT über Java in DIF oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Java-API zum Konvertieren von DOT in DIF oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie DOT über Java in DIF oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/dot-to-dif/
 family: total
 platformtag: net

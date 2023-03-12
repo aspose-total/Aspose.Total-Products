@@ -1,6 +1,6 @@
 ---
-title: PPTX'u Java ile FODS Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla FODS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: PPTX'u Java ile FODS Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla FODS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptx-to-fods/
 family: total
 platformtag: net

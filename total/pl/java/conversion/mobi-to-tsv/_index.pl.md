@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji MOBI na TSV
-description: Konwertuj MOBI na TSV za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji MOBI na TSV lub za pomocą bezpłatnego konwertera online
+description: Konwertuj MOBI na TSV za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/mobi-to-tsv/
 family: total
 platformtag: net

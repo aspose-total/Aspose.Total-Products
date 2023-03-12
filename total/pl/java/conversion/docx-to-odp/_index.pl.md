@@ -1,6 +1,6 @@
 ---
-title: Konwertuj DOCX na ODP za pomocą Javy lub Aplikacja internetowa
-description: Java API do eksportu DOCX do ODP bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj DOCX na ODP za pomocą Javy lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu DOCX do ODP bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/docx-to-odp/
 family: total
 platformtag: net

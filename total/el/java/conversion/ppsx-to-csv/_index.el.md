@@ -1,6 +1,6 @@
 ---
-title: Μετατροπή PPSX σε μορφή CSV μέσω Java
-description: Μετατροπή PPSX σε μορφή CSV μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Μετατροπή PPSX σε μορφή CSV μέσω Java ή με δωρεάν Online Converter
+description: Μετατροπή PPSX σε μορφή CSV μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ppsx-to-csv/
 family: total
 platformtag: net

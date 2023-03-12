@@ -1,6 +1,6 @@
 ---
-title: Java API для преобразования DOT в XLS
-description: Преобразование DOT в XLS через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: Java API для преобразования DOT в XLS или с помощью бесплатного онлайн-конвертера
+description: Преобразование DOT в XLS через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/dot-to-xls/
 family: total
 platformtag: net

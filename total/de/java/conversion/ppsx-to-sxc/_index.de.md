@@ -1,6 +1,6 @@
 ---
-title: Konvertieren Sie PPSX über Java in das SXC-Format
-description: Konvertieren Sie PPSX über Java in das SXC-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Konvertieren Sie PPSX über Java in das SXC-Format oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie PPSX über Java in das SXC-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/ppsx-to-sxc/
 family: total
 platformtag: net

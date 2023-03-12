@@ -1,6 +1,6 @@
 ---
-title: แปลง PPSX เป็นรูปแบบ XLAM ผ่าน Java
-description: แปลงรูปแบบ PPSX เป็น XLAM ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: แปลง PPSX เป็นรูปแบบ XLAM ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลงรูปแบบ PPSX เป็น XLAM ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/ppsx-to-xlam/
 family: total
 platformtag: net

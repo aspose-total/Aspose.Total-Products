@@ -1,6 +1,6 @@
 ---
-title: Convert POTM to MARKDOWN Format via Java
-description: Convert POTM to MARKDOWN format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert POTM to MARKDOWN Format via Java or with free Online Converter
+description: Convert POTM to MARKDOWN format via Java without using using Microsoft Excel or PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/potm-to-markdown/
 family: total
 platformtag: java

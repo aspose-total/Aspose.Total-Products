@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji WORDML na XLSX
-description: Konwertuj WORDML na XLSX za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji WORDML na XLSX lub za pomocą bezpłatnego konwertera online
+description: Konwertuj WORDML na XLSX za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/wordml-to-xlsx/
 family: total
 platformtag: net

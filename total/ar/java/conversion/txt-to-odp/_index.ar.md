@@ -1,6 +1,6 @@
 ---
-title: تحويل TXT إلى ODP عبر Java أو التطبيق عبر الإنترنت
-description: Java API لتصدير TXT إلى ODP دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: تحويل TXT إلى ODP عبر Java أو مع محول مجاني على الإنترنت 
+description: Java API لتصدير TXT إلى ODP دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/txt-to-odp/
 family: total
 platformtag: net

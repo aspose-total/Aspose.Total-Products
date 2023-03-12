@@ -1,6 +1,6 @@
 ---
-title: POTX'u Java ile CSV Formatına Dönüştür
-description: Microsoft Excel veya PowerPoint kullanmadan POTX'u Java aracılığıyla CSV formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: POTX'u Java ile CSV Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya PowerPoint kullanmadan POTX'u Java aracılığıyla CSV formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/potx-to-csv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API to Convert WORDML to XLT
-description: Convert WORDML to XLT via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Java API to Convert WORDML to XLT or with free Online Converter
+description: Convert WORDML to XLT via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /java/conversion/wordml-to-xlt/
 family: total
 platformtag: java

@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji WORD na XLS
-description: Konwertuj WORD na XLS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji WORD na XLS lub za pomocą bezpłatnego konwertera online
+description: Konwertuj WORD na XLS za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/word-to-xls/
 family: total
 platformtag: net

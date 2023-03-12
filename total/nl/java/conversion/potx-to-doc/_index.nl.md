@@ -1,6 +1,6 @@
 ---
-title: Converteer POTX naar DOC via Java of online-app
-description: Java API om POTX naar DOC te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer POTX naar DOC via Java -app of met gratis Online Converter 
+description: Java API om POTX naar DOC te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/potx-to-doc/
 family: total
 platformtag: net

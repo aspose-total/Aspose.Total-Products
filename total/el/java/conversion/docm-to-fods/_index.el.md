@@ -1,6 +1,6 @@
 ---
-title: Java API για μετατροπή DOCM σε FODS
-description: Μετατροπή DOCM σε FODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+title: Java API για μετατροπή DOCM σε FODS ή με δωρεάν Online Converter
+description: Μετατροπή DOCM σε FODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/docm-to-fods/
 family: total
 platformtag: net

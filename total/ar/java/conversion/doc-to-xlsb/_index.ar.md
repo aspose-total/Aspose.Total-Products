@@ -1,6 +1,6 @@
 ---
-title: Java API لتحويل DOC إلى XLSB
-description: قم بتحويل DOC إلى XLSB عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: Java API لتحويل DOC إلى XLSB أو مع محول مجاني على الإنترنت
+description: قم بتحويل DOC إلى XLSB عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/doc-to-xlsb/
 family: total
 platformtag: net

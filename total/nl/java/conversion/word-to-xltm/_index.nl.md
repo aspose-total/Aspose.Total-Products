@@ -1,6 +1,6 @@
 ---
-title: Java API om WORD naar XLTM te converteren
-description: Converteer WORD naar XLTM via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Java API om WORD naar XLTM te converteren of met gratis Online Converter
+description: Converteer WORD naar XLTM via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/word-to-xltm/
 family: total
 platformtag: net

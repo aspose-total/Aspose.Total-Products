@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOTM na XLSB
-description: Konwertuj DOTM na XLSB za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOTM na XLSB lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOTM na XLSB za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/dotm-to-xlsb/
 family: total
 platformtag: net

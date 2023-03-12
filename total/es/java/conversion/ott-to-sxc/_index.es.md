@@ -1,6 +1,6 @@
 ---
-title: API de Java para convertir OTT a SXC
-description: Convierta OTT a SXC a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: API de Java para convertir OTT a SXC o con el convertidor en línea gratuito
+description: Convierta OTT a SXC a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/ott-to-sxc/
 family: total
 platformtag: net

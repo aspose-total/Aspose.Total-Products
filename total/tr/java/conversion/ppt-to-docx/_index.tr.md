@@ -1,6 +1,6 @@
 ---
-title: Java ile PPT'u DOCX'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Word veya PowerPoint kullanmadan PPT'u DOCX'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: Java ile PPT'u DOCX'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile 
+description: Microsoft Word veya PowerPoint kullanmadan PPT'u DOCX'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppt-to-docx/
 family: total
 platformtag: net

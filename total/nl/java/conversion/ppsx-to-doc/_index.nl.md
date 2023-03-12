@@ -1,6 +1,6 @@
 ---
-title: Converteer PPSX naar DOC via Java of online-app
-description: Java API om PPSX naar DOC te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Converteer PPSX naar DOC via Java -app of met gratis Online Converter 
+description: Java API om PPSX naar DOC te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppsx-to-doc/
 family: total
 platformtag: net

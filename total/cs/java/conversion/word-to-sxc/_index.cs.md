@@ -1,6 +1,6 @@
 ---
-title: Java API pro převod WORD do SXC
-description: Převeďte WORD na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Java API pro převod WORD do SXC nebo pomocí bezplatného online převodníku
+description: Převeďte WORD na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/word-to-sxc/
 family: total
 platformtag: net

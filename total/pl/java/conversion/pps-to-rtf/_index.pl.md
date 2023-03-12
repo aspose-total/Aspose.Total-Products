@@ -1,6 +1,6 @@
 ---
-title: Konwertuj PPS na RTF przez Javę
-description: Java API do eksportu PPS do RTF bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj PPS na RTF przez Javę lub za pomocą bezpłatnego konwertera online 
+description: Java API do eksportu PPS do RTF bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na DOC przed integracją kodu. 
 url_ignore: /pl/java/conversion/pps-to-rtf/
 family: total
 platformtag: net

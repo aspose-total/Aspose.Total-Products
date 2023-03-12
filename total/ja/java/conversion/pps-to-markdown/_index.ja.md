@@ -1,6 +1,6 @@
 ---
-title: Javaを介してPPSをMARKDOWN形式に変換する
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSをMARKDOWN形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Javaを介してPPSをMARKDOWN形式に変換する または無料のオンライン コンバーターを使用
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSをMARKDOWN形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pps-to-markdown/
 family: total
 platformtag: net

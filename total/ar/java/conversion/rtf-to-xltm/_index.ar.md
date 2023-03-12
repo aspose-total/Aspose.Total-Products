@@ -1,6 +1,6 @@
 ---
-title: Java API لتحويل RTF إلى XLTM
-description: قم بتحويل RTF إلى XLTM عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: Java API لتحويل RTF إلى XLTM أو مع محول مجاني على الإنترنت
+description: قم بتحويل RTF إلى XLTM عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/rtf-to-xltm/
 family: total
 platformtag: net

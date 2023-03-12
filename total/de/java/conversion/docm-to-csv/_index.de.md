@@ -1,6 +1,6 @@
 ---
-title: Java-API zum Konvertieren von DOCM in CSV
-description: Konvertieren Sie DOCM über Java in CSV oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: Java-API zum Konvertieren von DOCM in CSV oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie DOCM über Java in CSV oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/docm-to-csv/
 family: total
 platformtag: net

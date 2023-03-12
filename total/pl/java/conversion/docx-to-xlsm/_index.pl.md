@@ -1,6 +1,6 @@
 ---
-title: Java API do konwersji DOCX na XLSM
-description: Konwertuj DOCX na XLSM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Java API do konwersji DOCX na XLSM lub za pomocą bezpłatnego konwertera online
+description: Konwertuj DOCX na XLSM za pomocą Javy bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOC na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/docx-to-xlsm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Java API a DOT konvertálásához ODS-vé
-description: A DOT konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Java API a DOT konvertálásához ODS-vé vagy ingyenes online konverterrel
+description: A DOT konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/dot-to-ods/
 family: total
 platformtag: net

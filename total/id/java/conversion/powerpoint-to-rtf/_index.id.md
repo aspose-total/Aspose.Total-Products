@@ -1,6 +1,6 @@
 ---
-title: Konversi POWERPOINT ke RTF melalui Java atau Aplikasi Daring
-description: Java API untuk Mengekspor POWERPOINT ke RTF tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: Konversi POWERPOINT ke RTF melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
+description: Java API untuk Mengekspor POWERPOINT ke RTF tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/powerpoint-to-rtf/
 family: total
 platformtag: net

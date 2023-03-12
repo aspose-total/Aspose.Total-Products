@@ -1,6 +1,6 @@
 ---
-title: Konwertuj POT na format TSV za pomocą Java
-description: Konwertuj POT do formatu TSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: Konwertuj POT na format TSV za pomocą Java lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POT do formatu TSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/pot-to-tsv/
 family: total
 platformtag: net

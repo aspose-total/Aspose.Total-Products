@@ -1,6 +1,6 @@
 ---
-title: Převést WORDML na POT přes Java nebo online aplikace
-description: Java API pro export WORDML do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převést WORDML na POT přes Java nebo pomocí bezplatného online převodníku 
+description: Java API pro export WORDML do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/wordml-to-pot/
 family: total
 platformtag: net

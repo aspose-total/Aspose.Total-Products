@@ -1,6 +1,6 @@
 ---
-title: Convierta POWERPOINT a DOTM a través de Java o aplicación en línea
-description: API de Java para exportar POWERPOINT a DOTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+title: Convierta POWERPOINT a DOTM a través de Java o aplicación en línea o con el convertidor en línea gratuito 
+description: API de Java para exportar POWERPOINT a DOTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/powerpoint-to-dotm/
 family: total
 platformtag: net

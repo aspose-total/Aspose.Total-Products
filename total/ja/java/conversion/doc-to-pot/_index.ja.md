@@ -1,6 +1,6 @@
 ---
-title: Java経由でDOCをPOTに変換する またはオンラインアプリ
-description: MicrosoftWordやPowerPointを使用せずにDOCをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: Java経由でDOCをPOTに変換する または無料のオンライン コンバーターを使用 
+description: MicrosoftWordやPowerPointを使用せずにDOCをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/doc-to-pot/
 family: total
 platformtag: net

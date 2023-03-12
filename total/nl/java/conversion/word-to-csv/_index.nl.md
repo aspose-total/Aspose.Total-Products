@@ -1,6 +1,6 @@
 ---
-title: Java API om WORD naar CSV te converteren
-description: Converteer WORD naar CSV via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
+title: Java API om WORD naar CSV te converteren of met gratis Online Converter
+description: Converteer WORD naar CSV via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/word-to-csv/
 family: total
 platformtag: net

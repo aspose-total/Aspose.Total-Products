@@ -1,6 +1,6 @@
 ---
-title: Konvertálja a PPSM-ot FODS formátumba Java segítségével
-description: Konvertálja a PPSM-ot FODS formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. vagy ingyenes online konverterrel
+title: Konvertálja a PPSM-ot FODS formátumba Java segítségével vagy ingyenes online konverterrel
+description: Konvertálja a PPSM-ot FODS formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/ppsm-to-fods/
 family: total
 platformtag: net

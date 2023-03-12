@@ -1,6 +1,6 @@
 ---
-title: Převeďte PPT do formátu XLSB přes Java
-description: Převeďte PPT do formátu XLSB přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. nebo pomocí bezplatného online převodníku
+title: Převeďte PPT do formátu XLSB přes Java nebo pomocí bezplatného online převodníku
+description: Převeďte PPT do formátu XLSB přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
 url_ignore: /cs/java/conversion/ppt-to-xlsb/
 family: total
 platformtag: net
