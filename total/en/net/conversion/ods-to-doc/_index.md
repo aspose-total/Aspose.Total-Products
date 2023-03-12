@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to DOC with .NET 
-description: Convert ODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert ODS to DOC with .NET or with free Online Converter
+description: Convert ODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/ods-to-doc/
 family: total
 platformtag: net

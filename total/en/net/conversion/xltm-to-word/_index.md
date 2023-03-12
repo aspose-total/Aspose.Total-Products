@@ -1,6 +1,6 @@
 ---
-title: Convert XLTM to WORD with .NET 
-description: Convert XLTM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert XLTM to WORD with .NET or with free Online Converter
+description: Convert XLTM to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/xltm-to-word/
 family: total
 platformtag: net

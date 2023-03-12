@@ -1,6 +1,6 @@
 ---
-title: .NET API to Convert DOCM to DIF 
-description: C# API to Convert DOCM to DIF or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOCM to DIF via .NET or with free Online Converter
+description: C# API to Convert DOCM to DIF or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/docm-to-dif/
 family: total
 platformtag: net

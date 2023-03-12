@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to DOCX with .NET 
-description: Convert FODS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert FODS to DOCX with .NET or with free Online Converter
+description: Convert FODS to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/fods-to-docx/
 family: total
 platformtag: net

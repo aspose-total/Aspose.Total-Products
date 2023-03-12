@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to DOC with .NET 
-description: Convert EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free EXCEL to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert EXCEL to DOC with .NET or with free Online Converter
+description: Convert EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free EXCEL to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/excel-to-doc/
 family: total
 platformtag: net

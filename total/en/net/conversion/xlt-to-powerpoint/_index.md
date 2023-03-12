@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to POWERPOINT with .NET 
-description: Convert XLT to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert XLT to POWERPOINT with .NET or with free Online Converter
+description: Convert XLT to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/xlt-to-powerpoint/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to PPTX with .NET 
-description: Convert TSV to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert TSV to PPTX with .NET or with free Online Converter
+description: Convert TSV to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/tsv-to-pptx/
 family: total
 platformtag: net

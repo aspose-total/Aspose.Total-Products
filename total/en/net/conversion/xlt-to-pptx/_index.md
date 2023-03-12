@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to PPTX with .NET 
-description: Convert XLT to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title:Convert XLT to PPTX with .NET or with free Online Converter
+description: Convert XLT to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/xlt-to-pptx/
 family: total
 platformtag: net
