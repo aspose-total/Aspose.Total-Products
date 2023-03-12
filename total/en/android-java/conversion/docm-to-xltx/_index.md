@@ -1,6 +1,6 @@
 ---
-title: Android API to Convert DOCM to XLTX
-description: Convert DOCM to XLTX in Android via Java without using using Microsoft Word or Microsoft Excel or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Android API to Convert DOCM to XLTX or with free Online Converter 
+description: Convert DOCM to XLTX in Android via Java without using using Microsoft Word or Microsoft Excel or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/docm-to-xltx/
 family: total
 platformtag: android-java
@@ -17,7 +17,7 @@ By using [Aspose.Total for Android via Java](https://products.aspose.com/total/a
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Android API to Convert DOCM to XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Android API to Convert DOCM to XLTX " %}}
 1. Open DOCM file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
