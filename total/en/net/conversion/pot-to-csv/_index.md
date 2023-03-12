@@ -1,6 +1,6 @@
 ---
-title: Convert POT to CSV via C# or Online App 
-description: Convert POT to CSV in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert POT to CSV via C# or with free Online Converter 
+description: Convert POT to CSV in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/pot-to-csv/
 family: total
 platformtag: net

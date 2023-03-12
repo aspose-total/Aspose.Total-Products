@@ -1,6 +1,6 @@
 ---
-title: Convert POWERPOINT to TSV via C# or Online App 
-description: Convert POWERPOINT to TSV in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert POWERPOINT to TSV via C# or with free Online Converter 
+description: Convert POWERPOINT to TSV in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Convert PPTM to XLTM via C# or Online App 
-description: Convert PPTM to XLTM in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTM to XLTM via C# or with free Online Converter 
+description: Convert PPTM to XLTM in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/pptm-to-xltm/
 family: total
 platformtag: net

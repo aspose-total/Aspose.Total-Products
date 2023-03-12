@@ -1,6 +1,6 @@
 ---
-title: Convert PPSM to XLSX via C# or Online App 
-description: Convert PPSM to XLSX in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPSM to XLSX via C# or with free Online Converter 
+description: Convert PPSM to XLSX in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/ppsm-to-xlsx/
 family: total
 platformtag: net

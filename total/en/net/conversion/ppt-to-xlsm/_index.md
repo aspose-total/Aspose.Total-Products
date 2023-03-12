@@ -1,6 +1,6 @@
 ---
-title: Convert PPT to XLSM via C# or Online App 
-description: Convert PPT to XLSM in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPT to XLSM via C# or with free Online Converter 
+description: Convert PPT to XLSM in C# without using Microsoft Excel or Powerpoint or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/ppt-to-xlsm/
 family: total
 platformtag: net
