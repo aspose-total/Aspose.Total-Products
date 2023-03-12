@@ -1,6 +1,6 @@
 ---
-title: Export PPT to OTT on Andorid via Java  
-description: Convert PPT to OTT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export PPT to OTT on Andorid via Java or with free Online Converter  
+description: Convert PPT to OTT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/ppt-to-ott/
 family: total
 platformtag: android-java

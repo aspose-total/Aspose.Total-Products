@@ -1,6 +1,6 @@
 ---
-title: Export PPSX to OTT on Andorid via Java  
-description: Convert PPSX to OTT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export PPSX to OTT on Andorid via Java or with free Online Converter  
+description: Convert PPSX to OTT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/ppsx-to-ott/
 family: total
 platformtag: android-java

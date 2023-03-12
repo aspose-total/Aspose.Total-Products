@@ -1,6 +1,6 @@
 ---
-title: Export POWERPOINT to DOTM on Andorid via Java  
-description: Convert POWERPOINT to DOTM in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export POWERPOINT to DOTM on Andorid via Java or with free Online Converter  
+description: Convert POWERPOINT to DOTM in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/powerpoint-to-dotm/
 family: total
 platformtag: android-java

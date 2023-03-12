@@ -1,6 +1,6 @@
 ---
-title: Export PPSX to DOCM on Andorid via Java  
-description: Convert PPSX to DOCM in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export PPSX to DOCM on Andorid via Java or with free Online Converter  
+description: Convert PPSX to DOCM in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/ppsx-to-docm/
 family: total
 platformtag: android-java

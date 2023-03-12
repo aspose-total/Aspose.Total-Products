@@ -1,6 +1,6 @@
 ---
-title: Export POTX to FLATOPC on Andorid via Java  
-description: Convert POTX to FLATOPC in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export POTX to FLATOPC on Andorid via Java or with free Online Converter  
+description: Convert POTX to FLATOPC in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/potx-to-flatopc/
 family: total
 platformtag: android-java

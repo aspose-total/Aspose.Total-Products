@@ -1,6 +1,6 @@
 ---
-title: Export PPTM to RTF on Andorid via Java  
-description: Convert PPTM to RTF in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export PPTM to RTF on Andorid via Java or with free Online Converter  
+description: Convert PPTM to RTF in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/pptm-to-rtf/
 family: total
 platformtag: android-java

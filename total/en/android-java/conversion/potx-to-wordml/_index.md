@@ -1,6 +1,6 @@
 ---
-title: Export POTX to WORDML on Andorid via Java  
-description: Convert POTX to WORDML in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export POTX to WORDML on Andorid via Java or with free Online Converter  
+description: Convert POTX to WORDML in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/potx-to-wordml/
 family: total
 platformtag: android-java

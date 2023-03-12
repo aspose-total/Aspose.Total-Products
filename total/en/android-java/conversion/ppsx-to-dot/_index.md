@@ -1,6 +1,6 @@
 ---
-title: Export PPSX to DOT on Andorid via Java  
-description: Convert PPSX to DOT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export PPSX to DOT on Andorid via Java or with free Online Converter  
+description: Convert PPSX to DOT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/ppsx-to-dot/
 family: total
 platformtag: android-java

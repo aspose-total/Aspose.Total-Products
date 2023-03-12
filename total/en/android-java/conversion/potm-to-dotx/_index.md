@@ -1,6 +1,6 @@
 ---
-title: Export POTM to DOTX on Andorid via Java  
-description: Convert POTM to DOTX in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export POTM to DOTX on Andorid via Java or with free Online Converter  
+description: Convert POTM to DOTX in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/potm-to-dotx/
 family: total
 platformtag: android-java

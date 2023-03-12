@@ -1,6 +1,6 @@
 ---
-title: Export PPTX to DOT on Andorid via Java  
-description: Convert PPTX to DOT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export PPTX to DOT on Andorid via Java or with free Online Converter  
+description: Convert PPTX to DOT in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/pptx-to-dot/
 family: total
 platformtag: android-java

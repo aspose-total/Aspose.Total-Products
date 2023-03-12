@@ -1,6 +1,6 @@
 ---
-title: Export POT to RTF on Andorid via Java  
-description: Convert POT to RTF in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export POT to RTF on Andorid via Java or with free Online Converter  
+description: Convert POT to RTF in mobile apps without installing any software or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/pot-to-rtf/
 family: total
 platformtag: android-java
