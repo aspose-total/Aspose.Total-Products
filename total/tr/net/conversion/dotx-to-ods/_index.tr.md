@@ -1,6 +1,6 @@
 ---
-title: DOTX'yi ODS'ye Dönüştürmek için .NET API
-description: Microsoft Excel veya Adobe Reader kullanmadan DOTX'yi ODS'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: DOTX'yi ODS'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Adobe Reader kullanmadan DOTX'yi ODS'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/net/conversion/dotx-to-ods/
 family: total
 platformtag: net

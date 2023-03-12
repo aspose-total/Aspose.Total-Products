@@ -1,6 +1,6 @@
 ---
-title: .NET API to Convert ODT to TSV 
-description: C# API to Convert ODT to TSV or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: .NET API to Convert ODT to TSV or with free Online Converter 
+description: C# API to Convert ODT to TSV or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/odt-to-tsv/
 family: total
 platformtag: net

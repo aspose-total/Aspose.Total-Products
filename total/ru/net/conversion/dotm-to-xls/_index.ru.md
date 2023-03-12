@@ -1,6 +1,6 @@
 ---
-title: .NET API для преобразования DOTM в XLS
-description: C# API для преобразования DOTM в XLS или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: .NET API для преобразования DOTM в XLS или с помощью бесплатного онлайн-конвертера
+description: C# API для преобразования DOTM в XLS или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/dotm-to-xls/
 family: total
 platformtag: net

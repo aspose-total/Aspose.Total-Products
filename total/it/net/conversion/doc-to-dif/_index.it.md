@@ -1,6 +1,6 @@
 ---
-title: API .NET per convertire DOC in DIF
-description: API C# per convertire DOC in DIF o App online senza utilizzare Microsoft Excel o Adobe Reader o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+title: API .NET per convertire DOC in DIF o con il convertitore online gratuito
+description: API C# per convertire DOC in DIF o App online senza utilizzare Microsoft Excel o Adobe Reader o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. 
 url_ignore: /it/net/conversion/doc-to-dif/
 family: total
 platformtag: net

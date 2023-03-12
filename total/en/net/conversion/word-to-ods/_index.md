@@ -1,6 +1,6 @@
 ---
-title: .NET API to Convert WORD to ODS 
-description: C# API to Convert WORD to ODS or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: .NET API to Convert WORD to ODS or with free Online Converter 
+description: C# API to Convert WORD to ODS or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/word-to-ods/
 family: total
 platformtag: net

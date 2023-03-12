@@ -1,6 +1,6 @@
 ---
-title: .NET-API zum Konvertieren von WORDML in XLTM
-description: C#-API zum Konvertieren von WORDML in XLTM oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: .NET-API zum Konvertieren von WORDML in XLTM oder mit dem kostenlosen Online Converter
+description: C#-API zum Konvertieren von WORDML in XLTM oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/wordml-to-xltm/
 family: total
 platformtag: net

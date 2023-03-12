@@ -1,6 +1,6 @@
 ---
-title: .NET API do konwersji DOC na SXC
-description: C# API do konwersji DOC na SXC lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: .NET API do konwersji DOC na SXC lub za pomocą bezpłatnego konwertera online
+description: C# API do konwersji DOC na SXC lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. 
 url_ignore: /pl/net/conversion/doc-to-sxc/
 family: total
 platformtag: net

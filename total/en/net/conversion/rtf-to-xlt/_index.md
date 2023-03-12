@@ -1,6 +1,6 @@
 ---
-title: .NET API to Convert RTF to XLT 
-description: C# API to Convert RTF to XLT or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: .NET API to Convert RTF to XLT or with free Online Converter 
+description: C# API to Convert RTF to XLT or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/rtf-to-xlt/
 family: total
 platformtag: net

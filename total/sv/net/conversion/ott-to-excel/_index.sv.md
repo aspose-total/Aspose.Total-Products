@@ -1,6 +1,6 @@
 ---
-title: .NET API för att konvertera OTT till EXCEL
-description: C# API för att konvertera OTT till EXCEL eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: .NET API för att konvertera OTT till EXCEL eller med gratis Online Converter
+description: C# API för att konvertera OTT till EXCEL eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/ott-to-excel/
 family: total
 platformtag: net

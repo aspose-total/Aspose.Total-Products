@@ -1,6 +1,6 @@
 ---
-title: .NET API om DOC naar CSV te converteren
-description: C# API om DOC naar CSV te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+title: .NET API om DOC naar CSV te converteren of met gratis Online Converter
+description: C# API om DOC naar CSV te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/doc-to-csv/
 family: total
 platformtag: net

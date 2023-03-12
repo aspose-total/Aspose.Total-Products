@@ -1,6 +1,6 @@
 ---
-title: .NET API pro převod WORD do DIF
-description: C# API pro převod WORD do DIF bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+title: .NET API pro převod WORD do DIF nebo pomocí bezplatného online převodníku
+description: C# API pro převod WORD do DIF bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
 url_ignore: /cs/net/conversion/word-to-dif/
 family: total
 platformtag: net

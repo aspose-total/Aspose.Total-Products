@@ -1,6 +1,6 @@
 ---
-title: .NET API เพื่อแปลง MOBI เป็น ODS
-description: C# API เพื่อแปลง MOBI เป็น ODS หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+title: .NET API เพื่อแปลง MOBI เป็น ODS หรือด้วยตัวแปลงออนไลน์ฟรี
+description: C# API เพื่อแปลง MOBI เป็น ODS หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/net/conversion/mobi-to-ods/
 family: total
 platformtag: net

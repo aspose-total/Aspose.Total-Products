@@ -1,6 +1,6 @@
 ---
-title: .NET API untuk Mengonversi WORDML ke XLSX
-description: C# API untuk Mengonversi WORDML ke XLSX atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+title: .NET API untuk Mengonversi WORDML ke XLSX atau dengan Konverter Online gratis
+description: C# API untuk Mengonversi WORDML ke XLSX atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/wordml-to-xlsx/
 family: total
 platformtag: net

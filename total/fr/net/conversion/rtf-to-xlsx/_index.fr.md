@@ -1,6 +1,6 @@
 ---
-title: API .NET pour convertir RTF en XLSX
-description: API C# pour convertir RTF en XLSX ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: API .NET pour convertir RTF en XLSX ou avec le convertisseur en ligne gratuit
+description: API C# pour convertir RTF en XLSX ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. 
 url_ignore: /fr/net/conversion/rtf-to-xlsx/
 family: total
 platformtag: net

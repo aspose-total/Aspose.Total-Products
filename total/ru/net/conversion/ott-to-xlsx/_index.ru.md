@@ -1,6 +1,6 @@
 ---
-title: .NET API для преобразования OTT в XLSX
-description: C# API для преобразования OTT в XLSX или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: .NET API для преобразования OTT в XLSX или с помощью бесплатного онлайн-конвертера
+description: C# API для преобразования OTT в XLSX или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/ott-to-xlsx/
 family: total
 platformtag: net

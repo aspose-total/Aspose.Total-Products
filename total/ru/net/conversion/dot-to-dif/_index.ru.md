@@ -1,6 +1,6 @@
 ---
-title: .NET API для преобразования DOT в DIF
-description: C# API для преобразования DOT в DIF или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: .NET API для преобразования DOT в DIF или с помощью бесплатного онлайн-конвертера
+description: C# API для преобразования DOT в DIF или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/dot-to-dif/
 family: total
 platformtag: net

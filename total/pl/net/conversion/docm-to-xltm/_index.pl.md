@@ -1,6 +1,6 @@
 ---
-title: .NET API do konwersji DOCM na XLTM
-description: C# API do konwersji DOCM na XLTM lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+title: .NET API do konwersji DOCM na XLTM lub za pomocą bezpłatnego konwertera online
+description: C# API do konwersji DOCM na XLTM lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. 
 url_ignore: /pl/net/conversion/docm-to-xltm/
 family: total
 platformtag: net

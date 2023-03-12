@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to XLSM via .NET 
-description: Convert WORD to XLSM in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORD to XLSM via .NET or with free Online Converter 
+description: Convert WORD to XLSM in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/word-to-xlsm/
 family: total
 platformtag: net

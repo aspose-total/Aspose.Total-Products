@@ -1,6 +1,6 @@
 ---
-title: .NET API для преобразования DOC в XLAM
-description: C# API для преобразования DOC в XLAM или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+title: .NET API для преобразования DOC в XLAM или с помощью бесплатного онлайн-конвертера
+description: C# API для преобразования DOC в XLAM или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/doc-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: Convert DOCX to XLSB via .NET 
-description: Convert DOCX to XLSB in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOCX to XLSB via .NET or with free Online Converter 
+description: Convert DOCX to XLSB in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/docx-to-xlsb/
 family: total
 platformtag: net

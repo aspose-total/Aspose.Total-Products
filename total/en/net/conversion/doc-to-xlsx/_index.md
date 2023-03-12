@@ -1,6 +1,6 @@
 ---
-title: Convert DOC to XLSX via .NET 
-description: Convert DOC to XLSX in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOC to XLSX via .NET or with free Online Converter 
+description: Convert DOC to XLSX in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/doc-to-xlsx/
 family: total
 platformtag: net

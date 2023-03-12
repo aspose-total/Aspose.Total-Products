@@ -1,6 +1,6 @@
 ---
-title: .NET API a WORDML konvertálásához XLTX-vé
-description: C# API a WORDML konvertálásához XLTX-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+title: .NET API a WORDML konvertálásához XLTX-vé vagy ingyenes online konverterrel
+description: C# API a WORDML konvertálásához XLTX-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
 url_ignore: /hu/net/conversion/wordml-to-xltx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: .NET API to Convert MOBI to XLSB 
-description: C# API to Convert MOBI to XLSB or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: .NET API to Convert MOBI to XLSB or with free Online Converter 
+description: C# API to Convert MOBI to XLSB or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/mobi-to-xlsb/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: .NET API pro převod DOT do XLT
-description: C# API pro převod DOT do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+title: .NET API pro převod DOT do XLT nebo pomocí bezplatného online převodníku
+description: C# API pro převod DOT do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
 url_ignore: /cs/net/conversion/dot-to-xlt/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: API .NET pour convertir WORD en SXC
-description: API C# pour convertir WORD en SXC ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. ou avec le convertisseur en ligne gratuit
+title: API .NET pour convertir WORD en SXC ou avec le convertisseur en ligne gratuit
+description: API C# pour convertir WORD en SXC ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. 
 url_ignore: /fr/net/conversion/word-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: .NET-API zum Konvertieren von DOT in XLSM
-description: C#-API zum Konvertieren von DOT in XLSM oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+title: .NET-API zum Konvertieren von DOT in XLSM oder mit dem kostenlosen Online Converter
+description: C#-API zum Konvertieren von DOT in XLSM oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/dot-to-xlsm/
 family: total
 platformtag: net

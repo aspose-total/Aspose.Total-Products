@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to XLTX via .NET 
-description: Convert WORD to XLTX in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORD to XLTX via .NET or with free Online Converter 
+description: Convert WORD to XLTX in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/word-to-xltx/
 family: total
 platformtag: net

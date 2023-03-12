@@ -1,6 +1,6 @@
 ---
-title: DOTM'yi XLSB'ye Dönüştürmek için .NET API
-description: Microsoft Excel veya Adobe Reader kullanmadan DOTM'yi XLSB'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+title: DOTM'yi XLSB'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Adobe Reader kullanmadan DOTM'yi XLSB'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/net/conversion/dotm-to-xlsb/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: .NET API för att konvertera ODT till DIF
-description: C# API för att konvertera ODT till DIF eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: .NET API för att konvertera ODT till DIF eller med gratis Online Converter
+description: C# API för att konvertera ODT till DIF eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/odt-to-dif/
 family: total
 platformtag: net

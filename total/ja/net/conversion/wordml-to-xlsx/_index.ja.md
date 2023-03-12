@@ -1,6 +1,6 @@
 ---
-title: WORDMLをXLSXに変換する.NETAPI
-description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをXLSXに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+title: WORDMLをXLSXに変換する.NETAPI または無料のオンライン コンバーターを使用
+description: MicrosoftExcelまたはAdobeReaderを使用せずにWORDMLをXLSXに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/wordml-to-xlsx/
 family: total
 platformtag: net

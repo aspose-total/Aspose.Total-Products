@@ -1,6 +1,6 @@
 ---
-title: Convert DOTX to EXCEL via .NET 
-description: Convert DOTX to EXCEL in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOTX to EXCEL via .NET or with free Online Converter 
+description: Convert DOTX to EXCEL in C# without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/dotx-to-excel/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
-title: .NET API a DOC konvertálásához XLTM-vé
-description: C# API a DOC konvertálásához XLTM-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+title: .NET API a DOC konvertálásához XLTM-vé vagy ingyenes online konverterrel
+description: C# API a DOC konvertálásához XLTM-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
 url_ignore: /hu/net/conversion/doc-to-xltm/
 family: total
 platformtag: net

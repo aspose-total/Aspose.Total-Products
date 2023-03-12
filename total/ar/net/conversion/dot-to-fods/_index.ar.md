@@ -1,6 +1,6 @@
 ---
-title: NET API لتحويل DOT إلى FODS
-description: C# API لتحويل DOT إلى FODS أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+title: NET API لتحويل DOT إلى FODS أو مع محول مجاني على الإنترنت
+description: C# API لتحويل DOT إلى FODS أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/net/conversion/dot-to-fods/
 family: total
 platformtag: net

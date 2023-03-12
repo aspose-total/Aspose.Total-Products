@@ -1,6 +1,6 @@
 ---
-title: .NET API to Convert RTF to ODS 
-description: C# API to Convert RTF to ODS or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: .NET API to Convert RTF to ODS or with free Online Converter 
+description: C# API to Convert RTF to ODS or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/rtf-to-ods/
 family: total
 platformtag: net

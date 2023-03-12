@@ -1,6 +1,6 @@
 ---
-title: .NET API om MOBI naar DIF te converteren
-description: C# API om MOBI naar DIF te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+title: .NET API om MOBI naar DIF te converteren of met gratis Online Converter
+description: C# API om MOBI naar DIF te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/mobi-to-dif/
 family: total
 platformtag: net

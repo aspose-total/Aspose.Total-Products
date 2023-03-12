@@ -1,6 +1,6 @@
 ---
-title: .NET API för att konvertera DOCX till ODS
-description: C# API för att konvertera DOCX till ODS eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+title: .NET API för att konvertera DOCX till ODS eller med gratis Online Converter
+description: C# API för att konvertera DOCX till ODS eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/docx-to-ods/
 family: total
 platformtag: net
