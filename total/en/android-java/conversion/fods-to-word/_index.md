@@ -1,6 +1,6 @@
 ---
-title: Export FODS to WORD in Android 
-description: Android API to Convert FODS to WORD without using Microsoft Word or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export FODS to WORD in Android or with free Online Converter 
+description: Android API to Convert FODS to WORD without using Microsoft Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/fods-to-word/
 family: total
 platformtag: android-java

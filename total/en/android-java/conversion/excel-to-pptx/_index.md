@@ -1,6 +1,6 @@
 ---
-title: Export EXCEL to PPTX in Android 
-description: Android API to Convert EXCEL to PPTX without using Microsoft Word or online. Test free EXCEL to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export EXCEL to PPTX in Android or with free Online Converter 
+description: Android API to Convert EXCEL to PPTX without using Microsoft Word or online. Test free EXCEL to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/excel-to-pptx/
 family: total
 platformtag: android-java

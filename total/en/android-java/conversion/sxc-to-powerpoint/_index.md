@@ -1,6 +1,6 @@
 ---
-title: Export SXC to POWERPOINT in Android 
-description: Android API to Convert SXC to POWERPOINT without using Microsoft Word or online. Test free CSV to DOC online converter quickly before integrating the code. or with free Online Converter
+title: Export SXC to POWERPOINT in Android or with free Online Converter 
+description: Android API to Convert SXC to POWERPOINT without using Microsoft Word or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /android-java/conversion/sxc-to-powerpoint/
 family: total
 platformtag: android-java
