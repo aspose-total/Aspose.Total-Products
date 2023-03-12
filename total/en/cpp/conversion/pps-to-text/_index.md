@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPS to TEXT 
-description: Export PPS to TEXT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPS to TEXT or with free Online Converter 
+description: Export PPS to TEXT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pps-to-text/
 family: total
 platformtag: cpp

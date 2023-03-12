@@ -1,6 +1,6 @@
 ---
-title: Convert DOCX to PPSM via C++
-description: Export DOCX to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOCX to PPSM via C++ or with free Online Converter
+description: Export DOCX to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/docx-to-ppsm/
 family: total
 platformtag: cpp

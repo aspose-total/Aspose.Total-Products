@@ -1,6 +1,6 @@
 ---
-title: Convert PPS to XLTX via C++ or Online App 
-description: Export PPS to XLTX in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPS to XLTX via C++ or with free Online Converter 
+description: Export PPS to XLTX in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pps-to-xltx/
 family: total
 platformtag: cpp

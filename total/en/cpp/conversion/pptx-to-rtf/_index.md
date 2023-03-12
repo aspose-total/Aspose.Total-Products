@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPTX to RTF 
-description: Export PPTX to RTF within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPTX to RTF or with free Online Converter 
+description: Export PPTX to RTF within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pptx-to-rtf/
 family: total
 platformtag: cpp

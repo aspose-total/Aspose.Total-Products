@@ -1,6 +1,6 @@
 ---
-title: Convert PPSX to XLSX via C++ or Online App 
-description: Export PPSX to XLSX in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPSX to XLSX via C++ or with free Online Converter 
+description: Export PPSX to XLSX in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/ppsx-to-xlsx/
 family: total
 platformtag: cpp

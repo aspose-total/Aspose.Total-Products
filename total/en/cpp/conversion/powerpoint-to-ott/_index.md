@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POWERPOINT to OTT 
-description: Export POWERPOINT to OTT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POWERPOINT to OTT or with free Online Converter 
+description: Export POWERPOINT to OTT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/powerpoint-to-ott/
 family: total
 platformtag: cpp

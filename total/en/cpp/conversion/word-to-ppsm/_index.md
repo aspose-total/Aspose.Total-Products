@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to PPSM via C++
-description: Export WORD to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORD to PPSM via C++ or with free Online Converter
+description: Export WORD to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/word-to-ppsm/
 family: total
 platformtag: cpp

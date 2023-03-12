@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPSM to WORD 
-description: Export PPSM to WORD within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPSM to WORD or with free Online Converter 
+description: Export PPSM to WORD within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/ppsm-to-word/
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
-title: Convert FLATOPC to POTX via C++
-description: Export FLATOPC to POTX in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert FLATOPC to POTX via C++ or with free Online Converter
+description: Export FLATOPC to POTX in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/flatopc-to-potx/
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POTX to DOTX 
-description: Export POTX to DOTX within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POTX to DOTX or with free Online Converter 
+description: Export POTX to DOTX within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/potx-to-dotx/
 family: total
 platformtag: cpp

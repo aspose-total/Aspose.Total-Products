@@ -1,6 +1,6 @@
 ---
-title: Convert RTF to XLSM in C++
-description: C++ API to Convert RTF to XLSM or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert RTF to XLSM in C++ or with free Online Converter
+description: C++ API to Convert RTF to XLSM or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/rtf-to-xlsm/
 family: total
 platformtag: cpp

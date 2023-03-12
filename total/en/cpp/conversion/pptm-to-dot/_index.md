@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPTM to DOT 
-description: Export PPTM to DOT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPTM to DOT or with free Online Converter 
+description: Export PPTM to DOT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pptm-to-dot/
 family: total
 platformtag: cpp

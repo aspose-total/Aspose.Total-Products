@@ -1,6 +1,6 @@
 ---
-title: Convert ODT to FODS in C++
-description: C++ API to Convert ODT to FODS or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert ODT to FODS in C++ or with free Online Converter
+description: C++ API to Convert ODT to FODS or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/odt-to-fods/
 family: total
 platformtag: cpp

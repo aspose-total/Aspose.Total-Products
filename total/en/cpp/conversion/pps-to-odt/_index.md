@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPS to ODT 
-description: Export PPS to ODT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPS to ODT or with free Online Converter 
+description: Export PPS to ODT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pps-to-odt/
 family: total
 platformtag: cpp

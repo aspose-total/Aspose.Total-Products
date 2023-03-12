@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPT to WORD 
-description: Export PPT to WORD within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPT to WORD or with free Online Converter 
+description: Export PPT to WORD within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/ppt-to-word/
 family: total
 platformtag: cpp

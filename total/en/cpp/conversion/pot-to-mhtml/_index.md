@@ -1,6 +1,6 @@
 ---
-title: Convert POT to MHTML via C++ or Online App 
-description: Export POT to MHTML in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert POT to MHTML via C++ or with free Online Converter 
+description: Export POT to MHTML in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pot-to-mhtml/
 family: total
 platformtag: cpp

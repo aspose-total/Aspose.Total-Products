@@ -1,6 +1,6 @@
 ---
-title: Convert MOBI to SXC in C++
-description: C++ API to Convert MOBI to SXC or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert MOBI to SXC in C++ or with free Online Converter
+description: C++ API to Convert MOBI to SXC or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/mobi-to-sxc/
 family: total
 platformtag: cpp

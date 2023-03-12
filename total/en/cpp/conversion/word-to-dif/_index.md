@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to DIF in C++
-description: C++ API to Convert WORD to DIF or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORD to DIF in C++ or with free Online Converter
+description: C++ API to Convert WORD to DIF or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/word-to-dif/
 family: total
 platformtag: cpp

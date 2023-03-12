@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to PPS via C++
-description: Export TXT to PPS in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert TXT to PPS via C++ or with free Online Converter
+description: Export TXT to PPS in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/txt-to-pps/
 family: total
 platformtag: cpp

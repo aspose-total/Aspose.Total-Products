@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POWERPOINT to FLATOPC 
-description: Export POWERPOINT to FLATOPC within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POWERPOINT to FLATOPC or with free Online Converter 
+description: Export POWERPOINT to FLATOPC within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/powerpoint-to-flatopc/
 family: total
 platformtag: cpp

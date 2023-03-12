@@ -1,6 +1,6 @@
 ---
-title: Convert OTT to PPSM via C++
-description: Export OTT to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert OTT to PPSM via C++ or with free Online Converter
+description: Export OTT to PPSM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/ott-to-ppsm/
 family: total
 platformtag: cpp

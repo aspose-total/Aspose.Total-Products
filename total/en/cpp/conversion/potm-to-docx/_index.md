@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POTM to DOCX 
-description: Export POTM to DOCX within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POTM to DOCX or with free Online Converter 
+description: Export POTM to DOCX within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/potm-to-docx/
 family: total
 platformtag: cpp

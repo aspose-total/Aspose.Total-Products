@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POWERPOINT to DOTM 
-description: Export POWERPOINT to DOTM within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POWERPOINT to DOTM or with free Online Converter 
+description: Export POWERPOINT to DOTM within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/powerpoint-to-dotm/
 family: total
 platformtag: cpp

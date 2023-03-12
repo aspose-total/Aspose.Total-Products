@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPT to WORDML 
-description: Export PPT to WORDML within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPT to WORDML or with free Online Converter 
+description: Export PPT to WORDML within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/ppt-to-wordml/
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
-title: Convert DOT to POWERPOINT via C++
-description: Export DOT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOT to POWERPOINT via C++ or with free Online Converter
+description: Export DOT to POWERPOINT in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/dot-to-powerpoint/
 family: total
 platformtag: cpp

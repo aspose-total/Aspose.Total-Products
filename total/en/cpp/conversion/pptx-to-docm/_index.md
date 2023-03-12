@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert PPTX to DOCM 
-description: Export PPTX to DOCM within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert PPTX to DOCM or with free Online Converter 
+description: Export PPTX to DOCM within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pptx-to-docm/
 family: total
 platformtag: cpp

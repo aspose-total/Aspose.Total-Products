@@ -1,6 +1,6 @@
 ---
-title: Convert POTM to MARKDOWN via C++ or Online App 
-description: Export POTM to MARKDOWN in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert POTM to MARKDOWN via C++ or with free Online Converter 
+description: Export POTM to MARKDOWN in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/potm-to-markdown/
 family: total
 platformtag: cpp

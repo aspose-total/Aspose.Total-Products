@@ -1,6 +1,6 @@
 ---
-title: Convert PPTM to FODS via C++ or Online App 
-description: Export PPTM to FODS in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert PPTM to FODS via C++ or with free Online Converter 
+description: Export PPTM to FODS in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/pptm-to-fods/
 family: total
 platformtag: cpp

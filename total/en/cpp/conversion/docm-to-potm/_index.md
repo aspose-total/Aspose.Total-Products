@@ -1,6 +1,6 @@
 ---
-title: Convert DOCM to POTM via C++
-description: Export DOCM to POTM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOCM to POTM via C++ or with free Online Converter
+description: Export DOCM to POTM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/docm-to-potm/
 family: total
 platformtag: cpp

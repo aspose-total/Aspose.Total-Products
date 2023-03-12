@@ -1,6 +1,6 @@
 ---
-title: Convert WORD to XLTX in C++
-description: C++ API to Convert WORD to XLTX or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORD to XLTX in C++ or with free Online Converter
+description: C++ API to Convert WORD to XLTX or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/word-to-xltx/
 family: total
 platformtag: cpp

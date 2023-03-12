@@ -1,6 +1,6 @@
 ---
-title: Convert ODT to PPSX via C++
-description: Export ODT to PPSX in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert ODT to PPSX via C++ or with free Online Converter
+description: Export ODT to PPSX in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/odt-to-ppsx/
 family: total
 platformtag: cpp

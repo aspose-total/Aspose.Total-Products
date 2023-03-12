@@ -1,6 +1,6 @@
 ---
-title: Convert DOTM to XLSB in C++
-description: C++ API to Convert DOTM to XLSB or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert DOTM to XLSB in C++ or with free Online Converter
+description: C++ API to Convert DOTM to XLSB or Online App without using using Microsoft Word or Microsoft Excel or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/dotm-to-xlsb/
 family: total
 platformtag: cpp

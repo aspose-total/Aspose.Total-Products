@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POTM to ODT 
-description: Export POTM to ODT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POTM to ODT or with free Online Converter 
+description: Export POTM to ODT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/potm-to-odt/
 family: total
 platformtag: cpp

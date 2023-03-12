@@ -1,6 +1,6 @@
 ---
-title: Convert POWERPOINT to TSV via C++ or Online App 
-description: Export POWERPOINT to TSV in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert POWERPOINT to TSV via C++ or with free Online Converter 
+description: Export POWERPOINT to TSV in C++ without using Microsoft Excel or Powerpoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/powerpoint-to-tsv/
 family: total
 platformtag: cpp

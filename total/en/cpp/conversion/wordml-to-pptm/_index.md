@@ -1,6 +1,6 @@
 ---
-title: Convert WORDML to PPTM via C++
-description: Export WORDML to PPTM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: Convert WORDML to PPTM via C++ or with free Online Converter
+description: Export WORDML to PPTM in your C++ applications without using Microsoft Word of PowerPoint or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/wordml-to-pptm/
 family: total
 platformtag: cpp

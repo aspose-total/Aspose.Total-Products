@@ -1,6 +1,6 @@
 ---
-title: C++ API to Convert POTX to ODT 
-description: Export POTX to ODT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. or with free Online Converter
+title: C++ API to Convert POTX to ODT or with free Online Converter 
+description: Export POTX to ODT within your C++ applications or online. Test free POT to CSV online converter quickly before integrating the code. 
 url_ignore: /cpp/conversion/potx-to-odt/
 family: total
 platformtag: cpp
