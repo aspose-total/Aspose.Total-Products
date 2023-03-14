@@ -1,5 +1,5 @@
 ---
-title:Convert XLSX to PPTX with .NET or with free Online Converter
+title: Convert XLSX to PPTX with .NET or with free Online Converter
 description: Convert XLSX to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/xlsx-to-pptx/
 family: total
@@ -43,7 +43,8 @@ document.Save("output.pptx", SaveFormat.Pptx);
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

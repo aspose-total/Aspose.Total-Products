@@ -1,5 +1,5 @@
 ---
-title:Convert FODS to DOC with .NET or with free Online Converter
+title: Convert FODS to DOC with .NET or with free Online Converter
 description: Convert FODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms or online. Test free CSV to DOC online converter quickly before integrating the code. 
 url_ignore: /net/conversion/fods-to-doc/
 family: total
@@ -43,7 +43,8 @@ document.Save("output.doc", SaveFormat.Doc);
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
