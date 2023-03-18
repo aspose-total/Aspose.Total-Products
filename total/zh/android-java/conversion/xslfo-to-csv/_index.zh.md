@@ -48,7 +48,7 @@ otherformats: DIF XLTX XLTM XLSM XLSB XLAM XLT MD TXT FODS EXCEL TSV
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 保护 Android 中的 CSV 文档" %}}
-[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 支持根据您的需要保护您的 CSV 文件。为了保护您的文档，您可以使用 [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) 方法https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)类。
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 支持根据您的需要保护您的 CSV 文件。为了保护您的文档，您可以使用 [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) 方法类。
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-csv.java" >}}
