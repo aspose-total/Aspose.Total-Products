@@ -44,7 +44,8 @@ doc->Save(u"convertedFile.doc", SaveFormat::Doc);
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">
@@ -55,7 +56,7 @@ doc->Save(u"convertedFile.doc", SaveFormat::Doc);
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/tsv-to-doc/">Try our free app for TSV to DOC conversion</a></p>
 </div></div>
 </div></div>
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

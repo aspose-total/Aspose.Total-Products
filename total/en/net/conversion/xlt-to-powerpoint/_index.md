@@ -55,7 +55,7 @@ document.Save("output.pptx", SaveFormat.Pptx);
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/agp/about-file-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
