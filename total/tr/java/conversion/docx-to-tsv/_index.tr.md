@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-tsv/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: TSV
 otherformats: XLSM XLTX SXC XLT ODS TSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 ---

@@ -5,7 +5,7 @@ url_ignore: /fr/net/conversion/docx-to-ods/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: ODS
 otherformats: DIF XLTM ODS XLSM XLAM FODS EXCEL XLSX TSV XLT XLTX XLSB XLS SXC
 ---
@@ -37,7 +37,8 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

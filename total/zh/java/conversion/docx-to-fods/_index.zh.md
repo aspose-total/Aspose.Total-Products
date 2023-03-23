@@ -5,7 +5,7 @@ url_ignore: /zh/java/conversion/docx-to-fods/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: FODS
 otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 ---
@@ -17,7 +17,7 @@ otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="将 DOCX 转换为 FODS 的 C++ API" %}}
 1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类打开 DOCX 文件
-2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOCX 转换为 HTML ) 方法
+2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) 将 DOCX 转换为 HTML 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档
 4. 使用 [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells)) 将文档保存为 FODS 格式方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,36 +62,7 @@ otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="其他转换选项" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xlsm/" name="DOCX 到 XLSM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xlt/" name="DOCX 到 XLT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-ods/" name="DOCX 到 ODS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-tsv/" name="DOCX 到 TSV" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xls/" name="DOCX 到 XLS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xlsb/" name="DOCX 到 XLSB" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-fods/" name="DOCX 到 FODS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-dif/" name="DOCX 到 DIF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xltx/" name="DOCX 到 XLTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xlam/" name="DOCX 到 XLAM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xlsx/" name="DOCX 到 XLSX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-xltm/" name="DOCX 到 XLTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-sxc/" name="DOCX 到 SXC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/docx-to-excel/" name="DOCX 到 EXCEL" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

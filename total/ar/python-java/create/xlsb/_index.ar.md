@@ -22,7 +22,7 @@ informat: XLSB
 - قم بإنشاء كائن فئة [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) جديد به ملفFormatType كمعامل
 - احصل على الوصول إلى [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) المطلوب باستخدام طريقة [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - أدخل البيانات في الخلية التي تم الوصول إليها باستخدام طريقة [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- احفظ المستند كملف .xlsb باستخدام [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) بتمرير الملف بالمسار كمعامل
+- احفظ المستند كملف .xlsb باستخدام [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) بتمرير الملف بالمسار كمعامل
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

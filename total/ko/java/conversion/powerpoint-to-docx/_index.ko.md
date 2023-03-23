@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPTX
-outformat: DOCXX
+outformat: DOCX
 otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ POWERPOINT에서 DOCX 파일 변환을 위해 [Maven](https://repository.aspose.
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ API를 사용하여 워터마크를 사용하여 POWERPOINT 파일을 DOCX로 �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/powerpoint-to-docxm/" name="POWERPOINT 에게 DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/powerpoint-to-text/" name="POWERPOINT 에게 TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/powerpoint-to-docxx/" name="POWERPOINT 에게 DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/powerpoint-to-dotm/" name="POWERPOINT 에게 DOTM" description="" >}}

@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-xltm/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: XLTM
 otherformats: XLTX XLSX DIF EXCEL XLT XLSM TSV ODS XLSB SXC XLAM XLS FODS XLTM
 ---

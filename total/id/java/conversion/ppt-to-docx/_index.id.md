@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPT
-outformat: DOCXX
+outformat: DOCX
 otherformats: WORDML RTF OTT DOCXM DOTX DOTM DOT DOCX TEXT ODT WORD FLATOPC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPT ke DOCX dengan tand
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/ppt-to-docxm/" name="PPT Ke DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/ppt-to-text/" name="PPT Ke TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/ppt-to-docxx/" name="PPT Ke DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/ppt-to-dotm/" name="PPT Ke DOTM" description="" >}}

@@ -22,7 +22,7 @@ Pour un développeur, qui essaie de créer des fichiers XLTX via une application
 - Créer un nouvel objet de classe [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) ayant DossierFormatType comme paramètre
 - Obtenez l'accès au [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) requis en utilisant la méthode [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Insérer des données dans la cellule consultée à l'aide de la méthode [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Enregistrez le document en tant que fichier .xltx à l'aide de [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) en transmettant le fichier avec le chemin comme paramètre
+- Enregistrez le document en tant que fichier .xltx à l'aide de [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) en transmettant le fichier avec le chemin comme paramètre
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

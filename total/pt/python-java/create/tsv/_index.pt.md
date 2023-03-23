@@ -22,7 +22,7 @@ Para um desenvolvedor, quem está tentando criar arquivos TSV via aplicativo Pyt
 - Crie um novo objeto de classe [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) tendo ArquivoFormatType como parâmetro
 - Obtenha o acesso do [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) necessário usando o método [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Insira dados na célula acessada usando o método [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Salve o documento como arquivo .tsv usando [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) passando o arquivo com caminho como parâmetro
+- Salve o documento como arquivo .tsv usando [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) passando o arquivo com caminho como parâmetro
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

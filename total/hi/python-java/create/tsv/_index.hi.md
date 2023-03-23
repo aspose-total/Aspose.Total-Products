@@ -22,7 +22,7 @@ informat: TSV
 - पैरामीटर के रूप में फ़ाइलFormatType वाली नई [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) क्लास ऑब्जेक्ट बनाएं
 - [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) विधि का उपयोग करके आवश्यक [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) तक पहुँच प्राप्त करें
 - [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) विधि का उपयोग करके एक्सेस किए गए सेल में डेटा डालें
-- फ़ाइल को पैरामीटर के रूप में पथ के साथ पास करके [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) का उपयोग करके दस्तावेज़ को .tsv फ़ाइल के रूप में सहेजें
+- फ़ाइल को पैरामीटर के रूप में पथ के साथ पास करके [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) का उपयोग करके दस्तावेज़ को .tsv फ़ाइल के रूप में सहेजें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

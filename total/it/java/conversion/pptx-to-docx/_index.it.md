@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPTX
-outformat: DOCXX
+outformat: DOCX
 otherformats: DOTM ODT TEXT DOCXM DOTX RTF WORD FLATOPC WORDML DOT OTT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Utilizzando l'API, puoi anche eseguire la conversione da file PPTX a DOCX con fi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/net/conversion/pptx-to-docxm/" name="PPTX A DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/net/conversion/pptx-to-text/" name="PPTX A TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/net/conversion/pptx-to-docxx/" name="PPTX A DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/it/net/conversion/pptx-to-dotm/" name="PPTX A DOTM" description="" >}}

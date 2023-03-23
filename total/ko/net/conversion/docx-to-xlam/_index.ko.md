@@ -5,7 +5,7 @@ url_ignore: /ko/net/conversion/docx-to-xlam/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: XLAM
 otherformats: XLSB DIF TSV FODS XLS EXCEL SXC XLSX XLT ODS XLTM XLTX XLAM XLSM
 ---
@@ -37,7 +37,8 @@ otherformats: XLSB DIF TSV FODS XLS EXCEL SXC XLSX XLT ODS XLTM XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

@@ -22,7 +22,7 @@ informat: ODS
 - สร้างคลาสอ็อบเจ็กต์ [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) ใหม่ที่มี ไฟล์FormatType เป็นพารามิเตอร์
 - รับการเข้าถึง [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) ที่ต้องการโดยใช้วิธี [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - แทรกข้อมูลในเซลล์ที่เข้าถึงโดยใช้วิธี [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- บันทึกเอกสารเป็นไฟล์ .ods โดยใช้ [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) โดยส่งไฟล์ที่มีเส้นทางเป็นพารามิเตอร์
+- บันทึกเอกสารเป็นไฟล์ .ods โดยใช้ [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) โดยส่งไฟล์ที่มีเส้นทางเป็นพารามิเตอร์
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

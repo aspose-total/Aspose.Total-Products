@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPSX
-outformat: DOCXX
+outformat: DOCX
 otherformats: RTF DOCX DOTM OTT WORD WORDML DOTX FLATOPC DOT TEXT ODT DOCXM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ Como alternativa, você pode obter um arquivo ZIP em [downloads](https://release
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Usando a API, você também pode realizar a conversão de arquivo PPSX para DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/net/conversion/ppsx-to-docxm/" name="PPSX Para DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/net/conversion/ppsx-to-text/" name="PPSX Para TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/net/conversion/ppsx-to-docxx/" name="PPSX Para DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/net/conversion/ppsx-to-dotm/" name="PPSX Para DOTM" description="" >}}

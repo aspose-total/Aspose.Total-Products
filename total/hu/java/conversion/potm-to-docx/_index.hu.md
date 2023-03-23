@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: POTMM
-outformat: DOCXX
+outformat: DOCX
 otherformats: RTF ODT DOTX DOT FLATOPC DOCXM DOCX WORD WORDML DOTM OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://rele
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Az API segítségével POTM fájlból DOCX-ba konvertálhat vízjellel. Ha vízj
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/potm-to-docxm/" name="POTM Nak nek DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/potm-to-text/" name="POTM Nak nek TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/potm-to-docxx/" name="POTM Nak nek DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/potm-to-dotm/" name="POTM Nak nek DOTM" description="" >}}

@@ -5,7 +5,7 @@ url_ignore: /hu/net/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: JSON
 otherformats: FODS XLTX XLSM XLS XLT XLSB ODS CSV TSV XLTM EXCEL SXC XLAM DIF
 ---

@@ -22,14 +22,14 @@ informat: XLSB
 - 创建以 文件FormatType 作为参数的新 [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) 类对象
 - 使用 [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) 方法获取所需 [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) 的访问权限
 - 使用 [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) 方法在访问的单元格中插入数据
-- 通过传递带有路径的文件作为参数，使用 [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) 将文档保存为 .xlsb 文件
+- 通过传递带有路径的文件作为参数，使用 [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) 将文档保存为 .xlsb 文件
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="创作要求" %}}
 
 - 对于 XLSB 生成，直接从 PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) 引用项目中的 API
-- 或者使用以下 pip 命令```pip install aspose.cells`` 
+- 或者使用以下 pip 命令```pip install aspose.cells``` 
 - 此外，从 [downloads](https://releases.aspose.com/cells/python-java) 部分下载 API 包 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -43,18 +43,8 @@ informat: XLSB
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="其他创建选项" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xls/" name="产生 XLS 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xlsx/" name="创造 XLSX 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/csv/" name="创造 CSV 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xlsb/" name="创造 XLSB 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xlsm/" name="创造 XLSM 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xlt/" name="创造 XLT 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xltx/" name="创造 XLTX 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/xltm/" name="创造 XLTM 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/ods/" name="创造 ODS 文件" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-java/create/tsv/" name="创造 TSV 文件" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

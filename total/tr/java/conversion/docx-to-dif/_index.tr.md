@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-dif/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: DIF
 otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT DIF XLTM TSV
 ---

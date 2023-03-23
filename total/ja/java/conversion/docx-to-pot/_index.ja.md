@@ -5,7 +5,7 @@ url_ignore: /ja/java/conversion/docx-to-pot/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: POT
 otherformats: POWERPOINT PPS POTM PPTX POTX PPSM POT PPT PPSX PPTM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---

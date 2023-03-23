@@ -22,14 +22,14 @@ Python アプリケーションを介して XLTX ファイルを作成しよう�
 - ファイルFormatType をパラメーターとして持つ新しい [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) クラス オブジェクトを作成します。
 - [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) メソッドを使用して、必要な [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) へのアクセスを取得します
 - [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)メソッドを使用してアクセスしたセルにデータを挿入します
-- パラメータとしてパスを指定してファイルを渡すことにより、[save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) を使用してドキュメントを .xltx ファイルとして保存します。
+- パラメータとしてパスを指定してファイルを渡すことにより、[save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) を使用してドキュメントを .xltx ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="作成要件" %}}
 
 - XLTX 生成の場合、プロジェクト内の API を PyPI から直接参照 ([Aspose.Cells](https://pypi.org/project/aspose-cells/))
-- または、次の pip コマンド ```pip install aspose.cells`` を使用します。` 
+- または、次の pip コマンド ```pip install aspose.cells``` を使用します。` 
 - さらに、[downloads](https://releases.aspose.com/cells/python-java) セクションから API パッケージをダウンロードします。 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

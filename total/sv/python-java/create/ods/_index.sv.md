@@ -22,7 +22,7 @@ För en utvecklare, vem försöker skapa ODS-filer via Python-applikationen? [As
 - Skapa nytt [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook)-klassobjekt med FilFormatType som parameter
 - Få tillgång till nödvändig [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) med [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)-metoden
 - Infoga data i den öppnade cellen med [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)-metoden
-- Spara dokumentet som .ods-fil med [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) genom att skicka filen med sökvägen som parameter
+- Spara dokumentet som .ods-fil med [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) genom att skicka filen med sökvägen som parameter
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

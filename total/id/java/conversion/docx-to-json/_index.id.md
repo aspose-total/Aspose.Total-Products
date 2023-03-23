@@ -5,7 +5,7 @@ url_ignore: /id/java/conversion/docx-to-json/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: JSON
 otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 ---

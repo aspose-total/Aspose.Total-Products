@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-sxc/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: SXC
 otherformats: XLAM XLSM DIF XLT SXC XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 ---

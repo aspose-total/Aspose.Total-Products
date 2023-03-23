@@ -5,7 +5,7 @@ url_ignore: /ja/java/conversion/docx-to-powerpoint/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: PPTX
 otherformats: PPS PPSX PPT PPTM POT PPTX POTM PPSM POTX POWERPOINT CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---

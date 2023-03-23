@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-csv/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: CSV
 otherformats: XLAM DIF EXCEL XLSM XLTX ODS XLS XLSX SXC XLT TSV XLTM FODS XLSB
 ---

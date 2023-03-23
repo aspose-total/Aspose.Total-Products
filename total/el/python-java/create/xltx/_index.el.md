@@ -22,7 +22,7 @@ informat: XLTX
 - Δημιουργήστε νέο αντικείμενο κλάσης [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) με παράμετρο ΑρχείοFormatType
 - Αποκτήστε πρόσβαση στο απαιτούμενο [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) χρησιμοποιώντας τη μέθοδο [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Εισαγάγετε δεδομένα στο κελί στο οποίο έχετε πρόσβαση χρησιμοποιώντας τη μέθοδο [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Αποθηκεύστε το έγγραφο ως αρχείο .xltx χρησιμοποιώντας το [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) περνώντας το αρχείο με τη διαδρομή ως παράμετρο
+- Αποθηκεύστε το έγγραφο ως αρχείο .xltx χρησιμοποιώντας το [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) περνώντας το αρχείο με τη διαδρομή ως παράμετρο
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

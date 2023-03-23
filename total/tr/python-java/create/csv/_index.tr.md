@@ -22,7 +22,7 @@ Python uygulaması aracılığıyla CSV dosyaları oluşturmaya çalışan bir g
 - Parametre olarak DosyaFormatType olan yeni [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) sınıfı nesnesi oluşturun
 - [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) yöntemini kullanarak gerekli [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet)'ye erişim sağlayın
 - [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) yöntemini kullanarak erişilen hücreye veri ekleyin
-- Dosyayı parametre olarak yol ile geçirerek [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) kullanarak belgeyi .csv dosyası olarak kaydedin
+- Dosyayı parametre olarak yol ile geçirerek [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) kullanarak belgeyi .csv dosyası olarak kaydedin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

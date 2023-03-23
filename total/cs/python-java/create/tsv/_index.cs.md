@@ -22,7 +22,7 @@ Pro vývojáře, který se snaží vytvářet soubory TSV prostřednictvím apli
 - Vytvořte nový objekt třídy [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) s parametrem SouborFormatType
 - Získejte přístup k požadovanému [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) pomocí metody [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Vložte data do přístupné buňky pomocí metody [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Uložte dokument jako soubor .tsv pomocí [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) předáním souboru s cestou jako parametrem
+- Uložte dokument jako soubor .tsv pomocí [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) předáním souboru s cestou jako parametrem
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

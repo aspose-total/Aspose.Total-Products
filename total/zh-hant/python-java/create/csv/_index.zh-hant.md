@@ -22,14 +22,14 @@ informat: CSV
 - 創建以 文件FormatType 作為參數的新 [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) 類對象
 - 使用 [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) 方法獲取所需 [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) 的訪問權限
 - 使用 [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) 方法在訪問的單元格中插入數據
-- 通過傳遞帶有路徑的文件作為參數，使用 [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) 將文檔保存為 .csv 文件
+- 通過傳遞帶有路徑的文件作為參數，使用 [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) 將文檔保存為 .csv 文件
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="創作要求" %}}
 
 - 對於 CSV 生成，直接從 PyPI ([Aspose.Cells](https://pypi.org/project/aspose-cells/)) 引用項目中的 API
-- 或者使用以下 pip 命令```pip install aspose.cells`` 
+- 或者使用以下 pip 命令```pip install aspose.cells``` 
 - 此外，從 [downloads](https://releases.aspose.com/cells/python-java) 部分下載 API 包 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

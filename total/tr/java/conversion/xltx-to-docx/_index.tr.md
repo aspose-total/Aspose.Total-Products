@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: XLTX
-outformat: DOCXX
+outformat: DOCX
 otherformats: PPTX WORD DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -34,7 +34,7 @@ Workbook book = new Workbook("input.xltx");
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 // load the PDF file using Document class
 Document Document = new Document("pdfOutput.pdf");
-// save Document in DOCXX format
+// save Document in DOCX format
 Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -53,7 +53,7 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Dönüşüm Seçenekleri" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/xltx-to-docxx/" name="XLTX İle DOCXX" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/xltx-to-docxx/" name="XLTX İle DOCX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/xltx-to-pptx/" name="XLTX İle PPTX" description="" >}}
 

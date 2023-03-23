@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-ods/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: ODS
 otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC ODS DIF XLSX XLS TSV XLTM XLTX
 ---

@@ -22,7 +22,7 @@ Voor een ontwikkelaar, die probeert XLTX-bestanden te maken via de Python-toepas
 - Maak een nieuw [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook)-klasseobject met BestandFormatType als parameter
 - Krijg toegang tot de vereiste [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) met behulp van de [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)-methode
 - Gegevens invoegen in de geopende cel met behulp van de [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)-methode
-- Sla het document op als .xltx-bestand met [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) door het bestand met pad als parameter door te geven
+- Sla het document op als .xltx-bestand met [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) door het bestand met pad als parameter door te geven
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

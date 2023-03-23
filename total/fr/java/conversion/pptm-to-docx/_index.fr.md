@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPTM
-outformat: DOCXX
+outformat: DOCX
 otherformats: RTF OTT DOTM WORDML FLATOPC ODT DOCXM TEXT WORD DOTX DOCX DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/pptm-to-docxm/" name="PPTM Pour DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/pptm-to-text/" name="PPTM Pour TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/pptm-to-docxx/" name="PPTM Pour DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/net/conversion/pptm-to-dotm/" name="PPTM Pour DOTM" description="" >}}

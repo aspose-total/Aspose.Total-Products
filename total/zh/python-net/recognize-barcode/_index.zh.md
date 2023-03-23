@@ -57,4 +57,3 @@ description: 使用几行代码在 Python 中扫描各种符号体系的一维�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/recognize-barcode/issn/" name="认出 ISSN" description="ISSN" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/recognize-barcode/itf/" name="认出 ITF" description="ITF-6, ITF-14" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/recognize-barcode/planet/" name="认出 PLANET" description="PLANET" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}

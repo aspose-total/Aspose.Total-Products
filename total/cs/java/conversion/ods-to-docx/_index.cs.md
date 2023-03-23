@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: ODS
-outformat: DOCXX
+outformat: DOCX
 otherformats: DOCX POWERPOINT WORD PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -34,12 +34,13 @@ Workbook book = new Workbook("input.ods");
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 // load the PDF file using Document class
 Document Document = new Document("pdfOutput.pdf");
-// save Document in DOCXX format
+// save Document in DOCX format
 Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">
@@ -51,7 +52,7 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ods-to-docxx/" name="ODS Na DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ods-to-pptx/" name="ODS Na PPTX" description="" >}}

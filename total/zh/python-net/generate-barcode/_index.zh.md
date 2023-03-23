@@ -57,4 +57,3 @@ description: 使用几行代码在 Python 中创建各种符号体系的一维�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/generate-barcode/issn/" name="产生 ISSN" description="ISSN" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/generate-barcode/itf/" name="产生 ITF" description="ITF-6, ITF-14" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/python-net/generate-barcode/planet/" name="产生 PLANET" description="PLANET" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}

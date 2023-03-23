@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPTX
-outformat: DOCXX
+outformat: DOCX
 otherformats: WORD DOCX ODT WORDML DOT DOCXM DOTX DOTM FLATOPC RTF TEXT OTT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ POWERPOINT से DOCX फ़ाइल रूपांतरण के लिए
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ POWERPOINT से DOCX फ़ाइल रूपांतरण के लिए
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/powerpoint-to-docxm/" name="POWERPOINT सेवा DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/powerpoint-to-text/" name="POWERPOINT सेवा TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/powerpoint-to-docxx/" name="POWERPOINT सेवा DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/powerpoint-to-dotm/" name="POWERPOINT सेवा DOTM" description="" >}}

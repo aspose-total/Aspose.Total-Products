@@ -5,7 +5,7 @@ url_ignore: /el/java/conversion/docx-to-ppsm/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: PPSM
 otherformats: PPTX POT POTM PPS PPTM PPT POTX POWERPOINT PPSX PPSM CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
@@ -34,7 +34,8 @@ otherformats: PPTX POT POTM PPS PPTM PPT POTX POWERPOINT PPSX PPSM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

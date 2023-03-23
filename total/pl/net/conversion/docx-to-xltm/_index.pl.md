@@ -5,7 +5,7 @@ url_ignore: /pl/net/conversion/docx-to-xltm/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: XLTM
 otherformats: XLAM FODS XLSB XLSX SXC DIF XLT ODS TSV XLSM XLTM EXCEL XLS XLTX
 ---
@@ -37,7 +37,8 @@ Możesz też pobrać instalator offline MSI lub biblioteki DLL w pliku ZIP ze st
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

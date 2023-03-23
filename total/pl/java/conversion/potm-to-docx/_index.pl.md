@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: POTMM
-outformat: DOCXX
+outformat: DOCX
 otherformats: RTF ODT DOTX DOT FLATOPC DOCXM DOCX WORD WORDML DOTM OTT TEXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Korzystając z API, możesz również wykonać konwersję pliku POTM do DOCX ze 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/potm-to-docxm/" name="POTM W celu DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/potm-to-text/" name="POTM W celu TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/potm-to-docxx/" name="POTM W celu DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/potm-to-dotm/" name="POTM W celu DOTM" description="" >}}

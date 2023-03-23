@@ -22,7 +22,7 @@ informat: XLS
 - Tạo đối tượng lớp [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) mới có Tập tinFormatType làm tham số
 - Nhận quyền truy cập của [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) được yêu cầu bằng phương pháp [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Chèn dữ liệu vào ô đã truy cập bằng phương pháp [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Lưu tài liệu dưới dạng tệp .xls bằng cách sử dụng [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) bằng cách chuyển tệp có đường dẫn làm tham số
+- Lưu tài liệu dưới dạng tệp .xls bằng cách sử dụng [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) bằng cách chuyển tệp có đường dẫn làm tham số
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

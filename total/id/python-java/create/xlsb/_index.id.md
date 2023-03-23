@@ -22,7 +22,7 @@ Untuk seorang pengembang, siapa yang mencoba membuat file XLSB melalui aplikasi 
 - Buat objek kelas [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) baru dengan MengajukanFormatType sebagai parameter
 - Dapatkan akses [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) yang diperlukan menggunakan metode [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Masukkan data ke dalam sel yang diakses menggunakan metode [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Simpan dokumen sebagai file .xlsb menggunakan [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) dengan melewatkan file dengan path sebagai parameter
+- Simpan dokumen sebagai file .xlsb menggunakan [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) dengan melewatkan file dengan path sebagai parameter
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

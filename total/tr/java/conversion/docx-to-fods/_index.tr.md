@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-fods/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: FODS
 otherformats: ODS DIF EXCEL XLT XLS XLSB TSV XLAM XLTM XLSM XLSX XLTX FODS SXC
 ---

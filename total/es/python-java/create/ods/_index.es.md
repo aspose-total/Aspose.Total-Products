@@ -22,7 +22,7 @@ Para un desarrollador, ¿quién intenta crear archivos ODS a través de la aplic
 - Cree un nuevo objeto de clase [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) que tenga ExpedienteFormatType como parámetro
 - Obtenga el acceso de [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet) requerido usando el método [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets)
 - Insertar datos en la celda a la que se accede utilizando el método [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells)
-- Guarde el documento como archivo .ods usando [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) pasando el archivo con la ruta como parámetro
+- Guarde el documento como archivo .ods usando [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) pasando el archivo con la ruta como parámetro
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

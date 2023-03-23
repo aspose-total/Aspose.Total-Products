@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PPSM
-outformat: DOCXX
+outformat: DOCX
 otherformats: OTT WORDML DOTX DOTM DOCX ODT DOCXM TEXT RTF DOT FLATOPC WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -33,7 +33,8 @@ Możesz też pobrać plik ZIP ze strony [downloads](https://releases.aspose.comt
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -71,7 +72,7 @@ Korzystając z API, możesz również wykonać konwersję pliku PPSM do DOCX ze 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/ppsm-to-docxm/" name="PPSM W celu DOCXM" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/ppsm-to-text/" name="PPSM W celu TEXT" description="" >}}
-
+DOCX
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/ppsm-to-docxx/" name="PPSM W celu DOCXX" description="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/ppsm-to-dotm/" name="PPSM W celu DOTM" description="" >}}

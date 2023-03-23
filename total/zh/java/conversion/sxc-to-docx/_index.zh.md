@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: SXC
-outformat: DOCXX
+outformat: DOCX
 otherformats: PPTX WORD POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -19,7 +19,7 @@ otherformats: PPTX WORD POWERPOINT DOCX
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类打开 SXC 文件
 2. 将 SXC 转换为 PDF 并将 SaveFormat 设置为 AUTO
 3. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)类加载转换后的PDF文件
-4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)将文档保存为DOCX格式-) 方法并将 Docx 设置为 SaveFormat
+4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/document/#save-java.lang.String-com.aspose.pdf.SaveFormat-) 将文档保存为DOCX格式 方法并将 Docx 设置为 SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
 您必须直接从基于 [Maven](https://releases.aspose.com/total/java/) 的项目中使用 Aspose.Total for Java并在您的 pom.xml 中包含库。
@@ -34,7 +34,7 @@ Workbook book = new Workbook("input.sxc");
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 // load the PDF file using Document class
 Document Document = new Document("pdfOutput.pdf");
-// save Document in DOCXX format
+// save Document in DOCX format
 Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -52,16 +52,7 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="其他转换选项" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/sxc-to-docxx/" name="SXC 到 DOCXX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/sxc-to-pptx/" name="SXC 到 PPTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/sxc-to-powerpoint/" name="SXC 到 POWERPOINT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/sxc-to-word/" name="SXC 到 WORD" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

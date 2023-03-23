@@ -22,7 +22,7 @@ Egy fejlesztő számára ki próbál CSV fájlokat létrehozni Python alkalmazá
 - Hozzon létre új [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) osztályú objektumot FájlFormatType paraméterrel
 - Hozzáférés a szükséges [Worksheet](https://reference.aspose.com/cells/python/asposecells.api/Worksheet)-hez [getWorksheets().get(index)](https://reference.aspose.com/cells/python/asposecells.api/workbook#Worksheets) módszerrel
 - Szúrjon be adatokat az elért cellába [Worksheet.getCells().get(indexValue).putValue()](https://reference.aspose.com/cells/python/asposecells.api/worksheet#Cells) módszerrel
-- Mentse el a dokumentumot .csv fájlként [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String) használatával úgy, hogy paraméterként adja át az elérési utat
+- Mentse el a dokumentumot .csv fájlként [save()](https://reference.aspose.com/cells/python/asposecells.api/workbook#save(java.lang.String)) használatával úgy, hogy paraméterként adja át az elérési utat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

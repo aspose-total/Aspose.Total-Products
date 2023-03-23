@@ -5,7 +5,7 @@ url_ignore: /ko/java/conversion/docx-to-pptm/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: PPTM
 otherformats: PPTM PPS PPT POTM PPSM POT POWERPOINT PPSX POTX PPTX CSV DIF FODS ODS SXC TSV XLAM XLTM EXCEL XLS XLSB XLSM XLSX XLT XLTM XLTX
 ---
@@ -34,7 +34,8 @@ DOCX에서 PPTM로 파일 변환을 위해 [Maven](https://repository.aspose.com
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">

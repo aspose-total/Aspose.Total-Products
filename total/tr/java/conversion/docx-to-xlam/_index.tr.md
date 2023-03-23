@@ -5,7 +5,7 @@ url_ignore: /tr/java/conversion/docx-to-xlam/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCXX
+informat: DOCX
 outformat: XLAM
 otherformats: XLAM EXCEL XLT XLSM DIF SXC XLTM FODS XLTX XLS ODS TSV XLSX XLSB
 ---
