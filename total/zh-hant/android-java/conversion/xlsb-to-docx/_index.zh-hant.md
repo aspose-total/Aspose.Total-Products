@@ -21,7 +21,7 @@ otherformats: PPTX DOC POWERPOINT WORD
 1. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 類打開 XLSB 文件
 2. 將 XLSB 轉換為 PDF 並將 SaveFormat 設置為 AUTO
 3. 用[Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)類加載轉換後的PDF文件
-4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)將文檔保存為DOCX格式-) 方法
+4. 使用[save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)將文檔保存為DOCX格式 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
@@ -75,16 +75,6 @@ customProperties.remove("Publisher");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/xlsb-to-pptx/" name="XLSB 至 PPTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/xlsb-to-docx/" name="XLSB 至 DOCX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/xlsb-to-powerpoint/" name="XLSB 至 POWERPOINT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/xlsb-to-word/" name="XLSB 至 WORD" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

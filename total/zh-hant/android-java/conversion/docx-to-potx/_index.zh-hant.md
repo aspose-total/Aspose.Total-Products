@@ -19,7 +19,7 @@ otherformats: PPSM POWERPOINT PPT PPTX PPSX PPTM POT PPS POTM ODP
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="如何在 Android 中將 DOCX 轉換為 POTX" %}}
 1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 類打開 DOCX 文件
-2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 將 DOCX 文件轉換為 HTML )) 方法
+2. 使用 [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) 將 DOCX 文件轉換為 HTML 方法
 3. 始化一個新的[Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation)對象
 5. 使用 BufferedReader 從 HTML 文件中提取內容並將內容寫入您的演示文件
 6. 使用 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-) 方法將文檔保存到 POTX
@@ -61,28 +61,6 @@ otherformats: PPSM POWERPOINT PPT PPTX PPSX PPTM POT PPS POTM ODP
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-ppsm/" name="DOCX 至 PPSM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-powerpoint/" name="DOCX 至 POWERPOINT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-ppt/" name="DOCX 至 PPT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-pptx/" name="DOCX 至 PPTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-ppsx/" name="DOCX 至 PPSX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-pptm/" name="DOCX 至 PPTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-pot/" name="DOCX 至 POT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-pps/" name="DOCX 至 PPS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-potm/" name="DOCX 至 POTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-hant/android-java/conversion/docx-to-potx/" name="DOCX 至 POTX" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
-{{< /blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
