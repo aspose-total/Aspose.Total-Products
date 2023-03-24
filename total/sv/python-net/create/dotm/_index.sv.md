@@ -44,15 +44,8 @@ För en utvecklare, vem försöker skapa DOTM-filer via Python-applikationen? [A
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andra skapande alternativ" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/doc/" name="Generera DOC Fil" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/docx/" name="Skapa DOCX Fil" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/dot/" name="Skapa DOT Fil" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/docm/" name="Skapa DOCM Fil" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/dotx/" name="Skapa DOTX Fil" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/dotm/" name="Skapa DOTM Fil" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/python-net/create/rtf/" name="Skapa RTF Fil" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
