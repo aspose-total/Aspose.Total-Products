@@ -47,34 +47,8 @@ Voor een Python-ontwikkelaar, die probeert een VCF naar OTT-conversiefunctie toe
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere conversie-opties" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-doc/" name="VCF Tot DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-docm/" name="VCF Tot DOCM" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-docx/" name="VCF Tot DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-dot/" name="VCF Tot DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-dotm/" name="VCF Tot DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-dotx/" name="VCF Tot DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-odt/" name="VCF Tot ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-ott/" name="VCF Tot OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-rtf/" name="VCF Tot RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-wordml/" name="VCF Tot WORDML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-word/" name="VCF Tot Word" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-emf/" name="VCF Tot EMF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-epub/" name="VCF Tot EPUB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-flatopc/" name="VCF Tot FLATOPC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-md/" name="VCF Tot MD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-pdf/" name="VCF Tot PDF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-ps/" name="VCF Tot PS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-text/" name="VCF Tot TEXT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-bmp/" name="VCF Tot BMP" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-gif/" name="VCF Tot GIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-png/" name="VCF Tot PNG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-tiff/" name="VCF Tot TIFF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-svg/" name="VCF Tot SVG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-jpeg/" name="VCF Tot JPEG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-xps/" name="VCF Tot XPS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/vcf-to-image/" name="VCF Tot IMAGE" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

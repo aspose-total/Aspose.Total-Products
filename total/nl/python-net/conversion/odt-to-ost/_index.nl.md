@@ -47,19 +47,8 @@ Voor een Python-ontwikkelaar, die probeert een ODT naar OST-conversiefunctie toe
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere conversie-opties" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-email/" name="ODT Tot EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-msg/" name="ODT Tot MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-pst/" name="ODT Tot PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-ost/" name="ODT Tot OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-oft/" name="ODT Tot OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-eml/" name="ODT Tot EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-emlx/" name="ODT Tot EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-mbox/" name="ODT Tot MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-ics/" name="ODT Tot ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/odt-to-vcf/" name="ODT Tot VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

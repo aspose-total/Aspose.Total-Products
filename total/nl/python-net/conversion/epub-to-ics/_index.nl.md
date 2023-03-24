@@ -47,19 +47,8 @@ Voor een Python-ontwikkelaar, die probeert een EPUB naar ICS-conversiefunctie to
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere conversie-opties" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-email/" name="EPUB Tot EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-msg/" name="EPUB Tot MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-pst/" name="EPUB Tot PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-ost/" name="EPUB Tot OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-oft/" name="EPUB Tot OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-eml/" name="EPUB Tot EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-emlx/" name="EPUB Tot EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-mbox/" name="EPUB Tot MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-ics/" name="EPUB Tot ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/epub-to-vcf/" name="EPUB Tot VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

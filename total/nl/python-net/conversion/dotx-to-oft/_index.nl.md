@@ -47,19 +47,8 @@ Voor een Python-ontwikkelaar, die probeert een DOTX naar OFT-conversiefunctie to
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere conversie-opties" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-email/" name="DOTX Tot EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-msg/" name="DOTX Tot MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-pst/" name="DOTX Tot PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-ost/" name="DOTX Tot OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-oft/" name="DOTX Tot OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-eml/" name="DOTX Tot EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-emlx/" name="DOTX Tot EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-mbox/" name="DOTX Tot MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-ics/" name="DOTX Tot ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/python-net/conversion/dotx-to-vcf/" name="DOTX Tot VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
