@@ -43,7 +43,7 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Online-omvandlare för XLSX till DOCX</h3>
 
@@ -62,6 +62,6 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/xlsx-to-word/" name="XLSX Till WORD" description="" >}}
 
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
