@@ -44,17 +44,8 @@ informat: TSV
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Các tùy chọn sửa đổi khác" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xls/" name="Cập nhật XLS Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xlsx/" name="Cập nhật XLSX Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/csv/" name="Cập nhật CSV Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xlsb/" name="Cập nhật XLSB Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xlsm/" name="Biến đổi XLSM Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xlt/" name="Cập nhật XLT Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xltx/" name="Cập nhật XLTX Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/xltm/" name="Cập nhật XLTM Tập tin" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/update/tsv/" name="Cập nhật TSV Tập tin" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
