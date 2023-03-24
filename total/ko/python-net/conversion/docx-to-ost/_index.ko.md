@@ -47,19 +47,8 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 OST로 변환 �
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="기타 변환 옵션" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-email/" name="DOCX 에게 EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-msg/" name="DOCX 에게 MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-pst/" name="DOCX 에게 PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-ost/" name="DOCX 에게 OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-oft/" name="DOCX 에게 OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-eml/" name="DOCX 에게 EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-emlx/" name="DOCX 에게 EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-mbox/" name="DOCX 에게 MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-ics/" name="DOCX 에게 ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/conversion/docx-to-vcf/" name="DOCX 에게 VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

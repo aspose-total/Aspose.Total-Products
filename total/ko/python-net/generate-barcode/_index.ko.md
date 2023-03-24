@@ -24,37 +24,5 @@ Barocdes는 이러한 비즈니스를 처리하는 소프트웨어로서 다양�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/agp/other-supported-section title="" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/qr/" name="생성하다 QR" description="QR Code, GS1 QR Code" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/pdf417/" name="생성하다 PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/databar/" name="생성하다 DATABAR" description="GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/datamatrix/" name="생성하다 DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/ean/" name="생성하다 EAN" description="EAN-8, EAN-13, EAN-14" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/upc/" name="생성하다 UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/aztec/" name="생성하다 AZTEC" description="AZTEC" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/codeblock/" name="생성하다 CODEBLOCK" description="CodablockF, GS1 CodablockF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/code128/" name="생성하다 CODE128" description="Code 128, GS1-128" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/code16k/" name="생성하다 CODE16K" description="CODE 16K" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/code32/" name="생성하다 CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/code39/" name="생성하다 CODE39" description="Code 39 Extended, Code 39 Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/code93/" name="생성하다 CODE93" description="Code 93 Extended, Code 93 Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/onecode/" name="생성하다 ONECODE" description="USPS ONECODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/deutschepost/" name="생성하다 DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/dutchkix/" name="생성하다 DUTCHKIX" description="KIX-CODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/italianpost25/" name="생성하다 ITALIANPOST25" description="ITALIAN POST 25" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/rm4scc/" name="생성하다 RM4SCC" description="ROYALMAIL RM4SCC" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/postnet/" name="생성하다 POSTNET" description="POSTNET" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/singaporepost/" name="생성하다 SINGAPOREPOST" description="SINGAPORE POST" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/swisspostparcel/" name="생성하다 SWISSPOSTPARCEL" description="SWISS POST PARCEL" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/dotcode/" name="생성하다 DOTCODE" description="DOTCODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/interleaved2of5/" name="생성하다 INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/datalogic2of5/" name="생성하다 DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/iata2of5/" name="생성하다 IATA2OF5" description="IATA 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/matrix2of5/" name="생성하다 MATRIX2OF5" description="MATRIX 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/standard2of5/" name="생성하다 STANDARD2OF5" description="STANDARD 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/isbn/" name="생성하다 ISBN" description="ISBN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/ismn/" name="생성하다 ISMN" description="ISMN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/issn/" name="생성하다 ISSN" description="ISSN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/itf/" name="생성하다 ITF" description="ITF-6, ITF-14" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/python-net/generate-barcode/planet/" name="생성하다 PLANET" description="PLANET" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
