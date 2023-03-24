@@ -81,7 +81,7 @@ docx.Save("output.docx", Aspose.Words.SaveFormat.Docx);
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>PPTX 到 DOCX 在線轉換器</h3>
 

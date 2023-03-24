@@ -98,7 +98,7 @@ using (Presentation ppsm = new Presentation()){
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>DOCM 到 PPSM 在線轉換器</h3>
 

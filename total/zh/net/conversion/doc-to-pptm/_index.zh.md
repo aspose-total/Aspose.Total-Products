@@ -102,10 +102,11 @@ using (Presentation pptm = new Presentation()){
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>DOC 到 PPTM 在线转换器</h3>
 
@@ -132,29 +133,8 @@ Aspose.Total for .NET 是完整的文档操作 API 包。 API 可轻松集成到
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 DOC 转换为许多其他文件格式，包括下面列出的几种文件格式。" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-ppt/" name="DOC 到 PPT" description="Microsoft PowerPoint 97-2003" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-pptx/" name="DOC 到 PPTX" description="打开 XML 表示格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-pps/" name="DOC 到 PPS" description="幻灯片放映" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-pot/" name="DOC 到 POT" description="Microsoft PowerPoint 模板文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-ppsx/" name="DOC 到 PPSX" description="幻灯片放映" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-pptm/" name="DOC 到 PPTM" description="启用宏的演示文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-ppsm/" name="DOC 到 PPSM" description="启用宏的幻灯片放映" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-potx/" name="DOC 到 POTX" description="Microsoft PowerPoint 模板演示文稿" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-potm/" name="DOC 到 POTM" description="微软 PowerPoint 模板文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/doc-to-odp/" name="DOC 到 ODP" description="OpenDocument 演示格式" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}} 
 
 {{< /blocks/products/pf/main-container >}}
     

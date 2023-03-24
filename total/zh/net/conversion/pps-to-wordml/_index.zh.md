@@ -82,10 +82,11 @@ wordml.Save("output.wordml", Aspose.Words.SaveFormat.Wordml);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>PPS 到 WORDML 在线转换器</h3>
 
@@ -113,32 +114,8 @@ Aspose.Total for .NET 是完整的文档操作 API 包。 API 可轻松集成到
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 PPS 转换为许多其他文件格式，包括下面列出的一些文件格式。" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-doc" name="PPS 转 DOC" description="Microsoft Word 二进制格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-docx" name="PPS 转 DOCX" description="Office 2007+ 文字文档" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-rtf" name="PPS 转 RTF" description="富文本格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-dot" name="PPS 转 DOT" description="Microsoft Word 模板文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-dotx" name="PPS 转 DOTX" description="微软 Word 模板文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-dotm" name="PPS 转 DOTM" description="Microsoft Word 2007+ 模板文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-docm" name="PPS 转 DOCM" description="Microsoft Word 2007 马可文件" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-flatopc" name="PPS 转 FLATOPC" description="Microsoft Word 2003 WordprocessingML 格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-odt" name="PPS 转 ODT" description="OpenDocument 文本文件格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-ott" name="PPS 转 OTT" description="OpenDocument 标准格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-wordml" name="PPS 转 WORDML" description="Microsoft Word 2003 WordprocessingML 格式" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/pps-to-txt" name="PPS 转 TXT" description="文本文件" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}} 
 
 {{< /blocks/products/pf/main-container >}}
     

@@ -43,7 +43,7 @@ doc->Save(u"convertedFile.doc", SaveFormat::Doc);
 <div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>EXCEL 到 DOC 在線轉換器</h3>
 
