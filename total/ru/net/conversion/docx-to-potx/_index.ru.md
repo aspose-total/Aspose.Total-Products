@@ -100,10 +100,11 @@ using (Presentation potx = new Presentation()){
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Онлайн-конвертер DOCX в POTX</h3>
 
@@ -130,28 +131,8 @@ Aspose.Total для .NET — это полный пакет API для рабо�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-ppt/" name="DOCX в PPT" description="Microsoft PowerPoint 97-2003" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-pptx/" name="DOCX в PPTX" description="Формат презентации Open XML" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-pps/" name="DOCX в PPS" description="Слайд-шоу PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-pot/" name="DOCX в POT" description="Файлы шаблонов Microsoft PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-ppsx/" name="DOCX в PPSX" description="Слайд-шоу PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-pptm/" name="DOCX в PPTM" description="Файл презентации с поддержкой макросов" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-ppsm/" name="DOCX в PPSM" description="Слайд-шоу с поддержкой макросов" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-potx/" name="DOCX в POTX" description="Презентация шаблона Microsoft PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-potm/" name="DOCX в POTM" description="Файл шаблона Microsoft PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/docx-to-odp/" name="DOCX в ODP" description="Формат презентации OpenDocument" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}
     

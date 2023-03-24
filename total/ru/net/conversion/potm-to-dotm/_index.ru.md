@@ -80,10 +80,11 @@ dotm.Save("output.dotm", Aspose.Words.SaveFormat.Dotm);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Онлайн-конвертер POTM в DOTM</h3>
 
@@ -112,31 +113,8 @@ Aspose.Total для .NET — это полный пакет API для рабо�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать POTM во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-doc" name="POTM в DOC" description="Двоичный формат Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-docx" name="POTM в DOCX" description="Документ Office 2007+ Words" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-rtf" name="POTM в RTF" description="Расширенный текстовый формат" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-dot" name="POTM в DOT" description="Файлы шаблонов Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-dotx" name="POTM в DOTX" description="Файл шаблона Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-dotm" name="POTM в DOTM" description="Файл шаблона Microsoft Word 2007+" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-docm" name="POTM в DOCM" description="Файл Microsoft Word 2007 Марко" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-flatopc" name="POTM в FLATOPC" description="Формат Microsoft Word 2003 WordprocessingML" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-odt" name="POTM в ODT" description="Формат текстового файла OpenDocument" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-ott" name="POTM в OTT" description="Стандартный формат OpenDocument" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-wordml" name="POTM в WORDML" description="Формат Microsoft Word 2003 WordprocessingML" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/potm-to-txt" name="POTM в TXT" description="Текстовый документ" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}
     

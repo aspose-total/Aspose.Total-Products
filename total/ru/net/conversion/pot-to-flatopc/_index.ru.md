@@ -80,10 +80,11 @@ flatopc.Save("output.flatopc", Aspose.Words.SaveFormat.Flatopc);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Онлайн-конвертер POT в FLATOPC</h3>
 
@@ -112,31 +113,8 @@ Aspose.Total для .NET — это полный пакет API для рабо�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать POT во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-doc" name="POT в DOC" description="Двоичный формат Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-docx" name="POT в DOCX" description="Документ Office 2007+ Words" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-rtf" name="POT в RTF" description="Расширенный текстовый формат" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-dot" name="POT в DOT" description="Файлы шаблонов Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-dotx" name="POT в DOTX" description="Файл шаблона Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-dotm" name="POT в DOTM" description="Файл шаблона Microsoft Word 2007+" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-docm" name="POT в DOCM" description="Файл Microsoft Word 2007 Марко" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-flatopc" name="POT в FLATOPC" description="Формат Microsoft Word 2003 WordprocessingML" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-odt" name="POT в ODT" description="Формат текстового файла OpenDocument" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-ott" name="POT в OTT" description="Стандартный формат OpenDocument" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-wordml" name="POT в WORDML" description="Формат Microsoft Word 2003 WordprocessingML" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/pot-to-txt" name="POT в TXT" description="Текстовый документ" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}
     

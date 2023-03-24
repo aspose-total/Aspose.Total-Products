@@ -100,10 +100,11 @@ using (Presentation pot = new Presentation()){
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Онлайн-конвертер DOTM в POT</h3>
 
@@ -130,28 +131,8 @@ Aspose.Total для .NET — это полный пакет API для рабо�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-ppt/" name="DOTM в PPT" description="Microsoft PowerPoint 97-2003" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-pptx/" name="DOTM в PPTX" description="Формат презентации Open XML" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-pps/" name="DOTM в PPS" description="Слайд-шоу PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-pot/" name="DOTM в POT" description="Файлы шаблонов Microsoft PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-ppsx/" name="DOTM в PPSX" description="Слайд-шоу PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-pptm/" name="DOTM в PPTM" description="Файл презентации с поддержкой макросов" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-ppsm/" name="DOTM в PPSM" description="Слайд-шоу с поддержкой макросов" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-potx/" name="DOTM в POTX" description="Презентация шаблона Microsoft PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-potm/" name="DOTM в POTM" description="Файл шаблона Microsoft PowerPoint" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/dotm-to-odp/" name="DOTM в ODP" description="Формат презентации OpenDocument" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}
     

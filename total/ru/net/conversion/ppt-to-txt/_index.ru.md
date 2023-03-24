@@ -80,10 +80,11 @@ txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0">
+<div class="demobox tc col-md-12 padding-0" align="center">
+<div class="demobox tc col-md-12 padding-0" align="center">
 
 <h3>Онлайн-конвертер PPT в TXT</h3>
 
@@ -112,31 +113,8 @@ Aspose.Total для .NET — это полный пакет API для рабо�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать PPT во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-doc" name="PPT в DOC" description="Двоичный формат Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-docx" name="PPT в DOCX" description="Документ Office 2007+ Words" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-rtf" name="PPT в RTF" description="Расширенный текстовый формат" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-dot" name="PPT в DOT" description="Файлы шаблонов Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-dotx" name="PPT в DOTX" description="Файл шаблона Microsoft Word" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-dotm" name="PPT в DOTM" description="Файл шаблона Microsoft Word 2007+" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-docm" name="PPT в DOCM" description="Файл Microsoft Word 2007 Марко" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-flatopc" name="PPT в FLATOPC" description="Формат Microsoft Word 2003 WordprocessingML" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-odt" name="PPT в ODT" description="Формат текстового файла OpenDocument" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-ott" name="PPT в OTT" description="Стандартный формат OpenDocument" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-wordml" name="PPT в WORDML" description="Формат Microsoft Word 2003 WordprocessingML" >}} 
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/ppt-to-txt" name="PPT в TXT" description="Текстовый документ" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}
     
