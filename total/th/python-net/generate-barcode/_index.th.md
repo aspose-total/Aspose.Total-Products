@@ -24,37 +24,7 @@ Barocdes เป็นสิ่งจำเป็นสำหรับธุร�
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/agp/other-supported-section title="" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/qr/" name="สร้าง QR" description="QR Code, GS1 QR Code" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/pdf417/" name="สร้าง PDF417" description="PDF 417, Micro Pdf417, Macro PDF417" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/databar/" name="สร้าง DATABAR" description="GS1 Databar Expanded, GS1 Databar Expanded Stacked, GS1 DataBar Expanded, GS1 Databar OmniDirectional, GS1 DataBar Stacked, GS1 Databar Stacked OmniDirectional, GS1 DataBar Truncated" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/datamatrix/" name="สร้าง DATAMATRIX" description="Data Matrix, GS1 Data Matrix" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/ean/" name="สร้าง EAN" description="EAN-8, EAN-13, EAN-14" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/upc/" name="สร้าง UPC" description="UPC-A, UPC-E, UPCA GS1 Code 128 Coupon, UPCA GS1 Databar Coupon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/aztec/" name="สร้าง AZTEC" description="AZTEC" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/codeblock/" name="สร้าง CODEBLOCK" description="CodablockF, GS1 CodablockF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/code128/" name="สร้าง CODE128" description="Code 128, GS1-128" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/code16k/" name="สร้าง CODE16K" description="CODE 16K" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/code32/" name="สร้าง CODE32" description="ITALIAN PHARMACODE CODE 32" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/code39/" name="สร้าง CODE39" description="Code 39 Extended, Code 39 Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/code93/" name="สร้าง CODE93" description="Code 93 Extended, Code 93 Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/onecode/" name="สร้าง ONECODE" description="USPS ONECODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/deutschepost/" name="สร้าง DEUTSCHEPOST" description="Deutsche Post Identcode, Deutsche Post Leitcode" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/dutchkix/" name="สร้าง DUTCHKIX" description="KIX-CODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/italianpost25/" name="สร้าง ITALIANPOST25" description="ITALIAN POST 25" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/rm4scc/" name="สร้าง RM4SCC" description="ROYALMAIL RM4SCC" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/postnet/" name="สร้าง POSTNET" description="POSTNET" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/singaporepost/" name="สร้าง SINGAPOREPOST" description="SINGAPORE POST" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/swisspostparcel/" name="สร้าง SWISSPOSTPARCEL" description="SWISS POST PARCEL" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/dotcode/" name="สร้าง DOTCODE" description="DOTCODE" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/interleaved2of5/" name="สร้าง INTERLEAVED2OF5" description="INTERLEAVED 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/datalogic2of5/" name="สร้าง DATALOGIC2OF5" description="DATALOGIC 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/iata2of5/" name="สร้าง IATA2OF5" description="IATA 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/matrix2of5/" name="สร้าง MATRIX2OF5" description="MATRIX 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/standard2of5/" name="สร้าง STANDARD2OF5" description="STANDARD 2 OF 5" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/isbn/" name="สร้าง ISBN" description="ISBN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/ismn/" name="สร้าง ISMN" description="ISMN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/issn/" name="สร้าง ISSN" description="ISSN" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/itf/" name="สร้าง ITF" description="ITF-6, ITF-14" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/python-net/generate-barcode/planet/" name="สร้าง PLANET" description="PLANET" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}} 
+{{< /blocks/products/pf/main-wrap-class >}}
