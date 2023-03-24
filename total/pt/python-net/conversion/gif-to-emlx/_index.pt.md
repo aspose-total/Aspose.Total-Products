@@ -47,19 +47,8 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Outras opções de conversão" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-email/" name="EMLX Para EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-msg/" name="EMLX Para MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-pst/" name="EMLX Para PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-ost/" name="EMLX Para OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-oft/" name="EMLX Para OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-eml/" name="EMLX Para EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-emlx/" name="EMLX Para EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-mbox/" name="EMLX Para MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-ics/" name="EMLX Para ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/gif-to-vcf/" name="EMLX Para VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

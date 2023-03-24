@@ -47,19 +47,8 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Outras opções de conversão" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-email/" name="EMF Para EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-msg/" name="EMF Para MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-pst/" name="EMF Para PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-ost/" name="EMF Para OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-oft/" name="EMF Para OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-eml/" name="EMF Para EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-emlx/" name="EMF Para EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-mbox/" name="EMF Para MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-ics/" name="EMF Para ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pt/python-net/conversion/emf-to-vcf/" name="EMF Para VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
