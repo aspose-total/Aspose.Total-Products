@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a POWERPOINT-ot DOCX-ba Java segítségével vagy Online App vagy ingyenes online konverterrel 
+title: Konvertálja a POWERPOINT-ot DOCX-ba Java segítségével vagy ingyenes online konverterrel 
 description: Java API a POWERPOINT exportálásához DOCX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/powerpoint-to-docx/
 family: total
@@ -54,32 +54,7 @@ Az API segítségével POWERPOINT fájlból DOCX-ba konvertálhat vízjellel. Ha
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-word/" name="POWERPOINT Nak nek WORD" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-dotx/" name="POWERPOINT Nak nek DOTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-odt/" name="POWERPOINT Nak nek ODT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-ott/" name="POWERPOINT Nak nek OTT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-rtf/" name="POWERPOINT Nak nek RTF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-flatopc/" name="POWERPOINT Nak nek FLANak nekPC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-wordml/" name="POWERPOINT Nak nek WORDML" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-docxm/" name="POWERPOINT Nak nek DOCXM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-text/" name="POWERPOINT Nak nek TEXT" description="" >}}
-DOCX
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-docxx/" name="POWERPOINT Nak nek DOCXX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-dotm/" name="POWERPOINT Nak nek DOTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/powerpoint-to-dot/" name="POWERPOINT Nak nek DOT" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
