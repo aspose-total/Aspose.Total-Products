@@ -22,7 +22,7 @@ Converter DOCX para FODS via [Aspose.Total for Java](https://products.aspose.com
 4. Salve o documento no formato FODS usando [Salvar](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://releases.aspose.com/total/java/) e inclua [Aspose.Words for Java](https://docxs.aspose.com/words/java/installation/) e [Aspose.Cells for Java](https://docxs.aspose.com/cells/java/installation/) em seu pom.xml.
+Você pode facilmente usar o Aspose.Total para Java diretamente de um projeto baseado em [Maven](https://releases.aspose.com/total/java/) e inclua [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) e [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) em seu pom.xml.
 
 Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/total/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
