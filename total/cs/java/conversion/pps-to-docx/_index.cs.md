@@ -54,32 +54,7 @@ Pomocí API můžete také provést převod PPS souboru na DOCX s vodoznakem. Ch
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-word/" name="PPS Na WORD" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-dotx/" name="PPS Na DOTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-odt/" name="PPS Na ODT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-ott/" name="PPS Na OTT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-rtf/" name="PPS Na RTF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-flatopc/" name="PPS Na FLANaPC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-wordml/" name="PPS Na WORDML" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-docxm/" name="PPS Na DOCXM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-text/" name="PPS Na TEXT" description="" >}}
-DOCX
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-docxx/" name="PPS Na DOCXX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-dotm/" name="PPS Na DOTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pps-to-dot/" name="PPS Na DOT" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

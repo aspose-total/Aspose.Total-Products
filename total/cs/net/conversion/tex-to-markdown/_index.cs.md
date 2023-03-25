@@ -79,35 +79,8 @@ document.Save("output.markdown", SaveFormat.Markdown);
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-ott/" name="TEX Na OTT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-mhtml/" name="TEX Na MHTML" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-wordml/" name="TEX Na WORDML" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-dot/" name="TEX Na DOT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-odt/" name="TEX Na ODT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-rtf/" name="TEX Na RTF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-ps/" name="TEX Na PS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-flatopc/" name="TEX Na FLANaPC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-pcl/" name="TEX Na PCL" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-markdown/" name="TEX Na MARKDOWN" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-xamlflow/" name="TEX Na XAMLFLOW" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/tex-to-dotx/" name="TEX Na DOTX" description="" >}}
-
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

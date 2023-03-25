@@ -57,36 +57,7 @@ Po převedení MOBI do XLTM vám [Aspose.Cells for C++](https://products.aspose.
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xlsb/" name="MOBI Na XLSB" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xlsx/" name="MOBI Na XLSX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-tsv/" name="MOBI Na TSV" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-ods/" name="MOBI Na ODS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-dif/" name="MOBI Na DIF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xlsm/" name="MOBI Na XLSM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xlam/" name="MOBI Na XLAM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-sxc/" name="MOBI Na SXC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xlt/" name="MOBI Na XLT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-excel/" name="MOBI Na EXCEL" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xls/" name="MOBI Na XLS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-fods/" name="MOBI Na FODS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xltx/" name="MOBI Na XLTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/cpp/conversion/mobi-to-xltm/" name="MOBI Na XLTM" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

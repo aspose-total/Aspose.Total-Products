@@ -33,7 +33,8 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -53,32 +54,7 @@ Pomocí API můžete také provést převod PPTX souboru na DOCM s vodoznakem. C
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-word/" name="PPTX Na WORD" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-dotx/" name="PPTX Na DOTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-odt/" name="PPTX Na ODT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-ott/" name="PPTX Na OTT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-rtf/" name="PPTX Na RTF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-flatopc/" name="PPTX Na FLANaPC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-wordml/" name="PPTX Na WORDML" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-docmm/" name="PPTX Na DOCMM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-text/" name="PPTX Na TEXT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-docmx/" name="PPTX Na DOCMX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-dotm/" name="PPTX Na DOTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/pptx-to-dot/" name="PPTX Na DOT" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

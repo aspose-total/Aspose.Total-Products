@@ -38,7 +38,8 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -58,62 +59,8 @@ V aplikacích pro Android můžete také převést svůj heslem chráněný TXT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-powerpoint/" name="TXT Na POWERPOINT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-potx/" name="TXT Na POTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-ppsx/" name="TXT Na PPSX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-pptx/" name="TXT Na PPTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-pot/" name="TXT Na POT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-pps/" name="TXT Na PPS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-ppt/" name="TXT Na PPT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-potm/" name="TXT Na POTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-ppsm/" name="TXT Na PPSM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-pptm/" name="TXT Na PPTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-csv/" name="TXT Na CSV" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-dif/" name="TXT Na DIF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-fods/" name="TXT Na FODS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-ods/" name="TXT Na ODS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-sxc/" name="TXT Na SXC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-tsv/" name="TXT Na TSV" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xlam/" name="TXT Na XLAM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xltm/" name="TXT Na XLTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-excel/" name="TXT Na EXCEL" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xls/" name="TXT Na XLS" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xlsb/" name="TXT Na XLSB" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xlsm/" name="TXT Na XLSM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xlsx/" name="TXT Na XLSX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xlt/" name="TXT Na XLT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xltm/" name="TXT Na XLTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/android-java/conversion/txt-to-xltx/" name="TXT Na XLTX" description="" >}}
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

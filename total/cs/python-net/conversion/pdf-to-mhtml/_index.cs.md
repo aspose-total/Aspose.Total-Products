@@ -54,20 +54,8 @@ K přidání funkce převodu PDF na MHTML používáme API [Aspose.Words for Pyt
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/word-to-mhtml/" name="WORD Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/doc-to-mhtml/" name="DOC Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/dot-to-mhtml/" name="DOT Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/docx-to-mhtml/" name="DOCX Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/docm-to-mhtml/" name="DOCM Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/dotx-to-mhtml/" name="DOTX Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/dotm-to-mhtml/" name="DOTM Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-mhtml/" name="RTF Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/wordml-to-mhtml/" name="WORDML Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/odt-to-mhtml/" name="ODT Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/ott-to-mhtml/" name="OTT Na MHTML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/pdf-to-mhtml/" name="PDF Na MHTML" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

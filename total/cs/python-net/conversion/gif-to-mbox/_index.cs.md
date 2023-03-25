@@ -47,19 +47,8 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu M
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-email/" name="MBOX Na EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-msg/" name="MBOX Na MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-pst/" name="MBOX Na PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-ost/" name="MBOX Na OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-oft/" name="MBOX Na OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-eml/" name="MBOX Na EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-emlx/" name="MBOX Na EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-mbox/" name="MBOX Na MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-ics/" name="MBOX Na ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/gif-to-vcf/" name="MBOX Na VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

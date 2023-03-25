@@ -47,19 +47,8 @@ Pro vývojáře Pythonu, který se snaží přidat do aplikace funkci převodu R
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-email/" name="RTF Na EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-msg/" name="RTF Na MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-pst/" name="RTF Na PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-ost/" name="RTF Na OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-oft/" name="RTF Na OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-eml/" name="RTF Na EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-emlx/" name="RTF Na EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-mbox/" name="RTF Na MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-ics/" name="RTF Na ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/python-net/conversion/rtf-to-vcf/" name="RTF Na VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -77,7 +77,8 @@ rtf.Save("output.rtf", Aspose.Words.SaveFormat.Rtf);
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">
@@ -101,37 +102,9 @@ rtf.Save("output.rtf", Aspose.Words.SaveFormat.Rtf);
 {{< /blocks/products/pf/agp/i18n/demobox-app >}}
 
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Další pppsmorované konverze" subTitle="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-rtf" name="PPSM Na RTF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-docx" name="PPSM Na DOCX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-rtf" name="PPSM Na RTF" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-dot" name="PPSM Na DOT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-dotx" name="PPSM Na DOTX" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-dotm" name="PPSM Na DOTM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-docm" name="PPSM Na DOCM" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-flatopc" name="PPSM Na FLATOPC" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-odt" name="PPSM Na ODT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-ott" name="PPSM Na OTT" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-wordml" name="PPSM Na WORDML" description="" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/ppsm-to-txt" name="PPSM Na TXT" description="" >}}
-
-
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
 {{< /blocks/products/pf/main-wrap-class >}}
