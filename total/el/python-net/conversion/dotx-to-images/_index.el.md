@@ -54,22 +54,8 @@ outformat: Images
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Άλλες επιλογές μετατροπής" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/word-to-images/" name="WORD Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/doc-to-images/" name="DOC Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/dot-to-images/" name="DOT Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/docx-to-images/" name="DOCX Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/docm-to-images/" name="DOCM Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/dotx-to-images/" name="DOTX Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/dotm-to-images/" name="DOTM Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/rtf-to-images/" name="RTF Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/wordml-to-images/" name="WORDML Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/odt-to-images/" name="ODT Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/ott-to-images/" name="OTT Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/pdf-to-images/" name="PDF Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/html-to-images/" name="HTML Προς την Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/html-to-images/" name="HTML Προς την Images" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

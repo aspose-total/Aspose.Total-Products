@@ -47,19 +47,8 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Άλλες επιλογές μετατροπής" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-email/" name="TIFF Προς την EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-msg/" name="TIFF Προς την MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-pst/" name="TIFF Προς την PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-ost/" name="TIFF Προς την OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-oft/" name="TIFF Προς την OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-eml/" name="TIFF Προς την EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-emlx/" name="TIFF Προς την EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-mbox/" name="TIFF Προς την MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-ics/" name="TIFF Προς την ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-net/conversion/tiff-to-vcf/" name="TIFF Προς την VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

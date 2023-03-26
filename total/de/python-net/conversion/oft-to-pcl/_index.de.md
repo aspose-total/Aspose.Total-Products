@@ -47,34 +47,8 @@ Wer versucht für einen Python-Entwickler, eine OFT-zu-PCL-Konvertierungsfunktio
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere Konvertierungsoptionen" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-doc/" name="OFT Zu DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-docm/" name="OFT Zu DOCM" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-docx/" name="OFT Zu DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-dot/" name="OFT Zu DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-dotm/" name="OFT Zu DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-dotx/" name="OFT Zu DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-odt/" name="OFT Zu ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-ott/" name="OFT Zu OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-rtf/" name="OFT Zu RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-wordml/" name="OFT Zu WORDML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-word/" name="OFT Zu Word" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-emf/" name="OFT Zu EMF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-epub/" name="OFT Zu EPUB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-flatopc/" name="OFT Zu FLATOPC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-md/" name="OFT Zu MD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-pdf/" name="OFT Zu PDF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-ps/" name="OFT Zu PS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-text/" name="OFT Zu TEXT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-bmp/" name="OFT Zu BMP" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-gif/" name="OFT Zu GIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-png/" name="OFT Zu PNG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-tiff/" name="OFT Zu TIFF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-svg/" name="OFT Zu SVG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-jpeg/" name="OFT Zu JPEG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-xps/" name="OFT Zu XPS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/oft-to-image/" name="OFT Zu IMAGE" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -47,34 +47,8 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-doc/" name="PST A DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-docm/" name="PST A DOCM" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-docx/" name="PST A DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-dot/" name="PST A DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-dotm/" name="PST A DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-dotx/" name="PST A DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-odt/" name="PST A ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-ott/" name="PST A OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-rtf/" name="PST A RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-wordml/" name="PST A WORDML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-word/" name="PST A Word" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-emf/" name="PST A EMF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-epub/" name="PST A EPUB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-flatopc/" name="PST A FLATOPC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-md/" name="PST A MD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-pdf/" name="PST A PDF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-ps/" name="PST A PS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-text/" name="PST A TEXT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-bmp/" name="PST A BMP" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-gif/" name="PST A GIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-png/" name="PST A PNG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-tiff/" name="PST A TIFF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-svg/" name="PST A SVG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-jpeg/" name="PST A JPEG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-xps/" name="PST A XPS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/pst-to-image/" name="PST A IMAGE" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

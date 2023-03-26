@@ -47,19 +47,8 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="خيارات التحويل الأخرى" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-email/" name="OTT إلى EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-msg/" name="OTT إلى MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-pst/" name="OTT إلى PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-ost/" name="OTT إلى OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-oft/" name="OTT إلى OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-eml/" name="OTT إلى EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-emlx/" name="OTT إلى EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-mbox/" name="OTT إلى MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-ics/" name="OTT إلى ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/python-net/conversion/ott-to-vcf/" name="OTT إلى VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

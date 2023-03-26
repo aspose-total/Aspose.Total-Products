@@ -52,7 +52,8 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -63,20 +64,9 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Autres options de conversion" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-powerpoint/" name="XLTM Pour PowerPoint" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-ppt/" name="XLTM Pour PPT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-pptx/" name="XLTM Pour PPTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-pps/" name="XLTM Pour PPS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-pot/" name="XLTM Pour POT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-ppsx/" name="XLTM Pour PPSX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-pptm/" name="XLTM Pour PPTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-ppsm/" name="XLTM Pour PPSM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-potx/" name="XLTM Pour POTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/xltm-to-potm/" name="XLTM Pour POTM" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

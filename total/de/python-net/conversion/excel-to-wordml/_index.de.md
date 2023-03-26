@@ -53,7 +53,8 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Cel
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -64,22 +65,8 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Cel
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere Konvertierungsoptionen" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-word/" name="EXCEL Zu WORD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-doc/" name="EXCEL Zu DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-docx/" name="EXCEL Zu DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-docm/" name="EXCEL Zu DOCM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-dot/" name="EXCEL Zu DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-dotm/" name="EXCEL Zu DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-dotx/" name="EXCEL Zu DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-mobi/" name="EXCEL Zu MOBI" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-odt/" name="EXCEL Zu ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-ott/" name="EXCEL Zu OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-rtf/" name="EXCEL Zu RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/excel-to-wordml/" name="EXCEL Zu WORDML" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
-
 {{< /blocks/products/pf/feature-page-wrap >}}

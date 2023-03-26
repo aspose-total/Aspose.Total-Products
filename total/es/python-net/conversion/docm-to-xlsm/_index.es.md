@@ -53,7 +53,8 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -64,25 +65,9 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-excel/" name="DOCM A EXCEL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xls/" name="DOCM A XLS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xlsx/" name="DOCM A XLSX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-csv/" name="DOCM A CSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-dif/" name="DOCM A DIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-fods/" name="DOCM A FODS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-ods/" name="DOCM A ODS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-sxc/" name="DOCM A SXC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-tsv/" name="DOCM A TSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xlam/" name="DOCM A XLAM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xlsb/" name="DOCM A XLSB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xlt/" name="DOCM A XLT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xltm/" name="DOCM A XLTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xltx/" name="DOCM A XLTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/python-net/conversion/docm-to-xlsm/" name="DOCM A XLSM" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

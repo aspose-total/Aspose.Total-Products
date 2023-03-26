@@ -53,7 +53,8 @@ Ini terutama dalam dua langkah. Pertama gunakan API [Aspose.Words for Python via
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -64,25 +65,9 @@ Ini terutama dalam dua langkah. Pertama gunakan API [Aspose.Words for Python via
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi Lainnya" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-excel/" name="OTT Ke EXCEL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xls/" name="OTT Ke XLS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xlsx/" name="OTT Ke XLSX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-csv/" name="OTT Ke CSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-dif/" name="OTT Ke DIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-fods/" name="OTT Ke FODS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-ods/" name="OTT Ke ODS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-sxc/" name="OTT Ke SXC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-tsv/" name="OTT Ke TSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xlam/" name="OTT Ke XLAM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xlsb/" name="OTT Ke XLSB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xlt/" name="OTT Ke XLT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xltm/" name="OTT Ke XLTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xltx/" name="OTT Ke XLTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/ott-to-xlsm/" name="OTT Ke XLSM" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

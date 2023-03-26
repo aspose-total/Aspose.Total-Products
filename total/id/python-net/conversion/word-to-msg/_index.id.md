@@ -47,19 +47,8 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi WORD ke M
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi Lainnya" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-email/" name="WORD Ke EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-msg/" name="WORD Ke MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-pst/" name="WORD Ke PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-ost/" name="WORD Ke OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-oft/" name="WORD Ke OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-eml/" name="WORD Ke EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-emlx/" name="WORD Ke EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-mbox/" name="WORD Ke MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-ics/" name="WORD Ke ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-net/conversion/word-to-vcf/" name="WORD Ke VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

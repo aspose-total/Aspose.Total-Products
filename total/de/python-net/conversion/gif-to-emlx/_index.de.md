@@ -47,19 +47,8 @@ Wer versucht für einen Python-Entwickler, eine EMLX-zu-EMLX-Konvertierungsfunkt
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere Konvertierungsoptionen" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-email/" name="EMLX Zu EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-msg/" name="EMLX Zu MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-pst/" name="EMLX Zu PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-ost/" name="EMLX Zu OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-oft/" name="EMLX Zu OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-eml/" name="EMLX Zu EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-emlx/" name="EMLX Zu EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-mbox/" name="EMLX Zu MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-ics/" name="EMLX Zu ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/gif-to-vcf/" name="EMLX Zu VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a OTT-t SXC-be Python segítségével vagy Online App vagy ingyenes online konverterrel
+title: Konvertálja a OTT-t SXC-be Python segítségével vagy ingyenes online konverterrel
 description: OTT-ből SXC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
@@ -53,7 +53,8 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -64,25 +65,9 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-excel/" name="OTT Nak nek EXCEL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xls/" name="OTT Nak nek XLS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xlsx/" name="OTT Nak nek XLSX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-csv/" name="OTT Nak nek CSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-dif/" name="OTT Nak nek DIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-fods/" name="OTT Nak nek FODS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-ods/" name="OTT Nak nek ODS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-sxc/" name="OTT Nak nek SXC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-tsv/" name="OTT Nak nek TSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xlam/" name="OTT Nak nek XLAM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xlsb/" name="OTT Nak nek XLSB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xlt/" name="OTT Nak nek XLT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xltm/" name="OTT Nak nek XLTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xltx/" name="OTT Nak nek XLTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/ott-to-xlsm/" name="OTT Nak nek XLSM" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -47,34 +47,8 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Autres options de conversion" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-doc/" name="VCF À DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-docm/" name="VCF À DOCM" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-docx/" name="VCF À DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-dot/" name="VCF À DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-dotm/" name="VCF À DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-dotx/" name="VCF À DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-odt/" name="VCF À ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-ott/" name="VCF À OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-rtf/" name="VCF À RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-wordml/" name="VCF À WORDML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-word/" name="VCF À Word" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-emf/" name="VCF À EMF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-epub/" name="VCF À EPUB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-flatopc/" name="VCF À FLATOPC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-md/" name="VCF À MD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-pdf/" name="VCF À PDF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-ps/" name="VCF À PS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-text/" name="VCF À TEXT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-bmp/" name="VCF À BMP" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-gif/" name="VCF À GIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-png/" name="VCF À PNG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-tiff/" name="VCF À TIFF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-svg/" name="VCF À SVG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-jpeg/" name="VCF À JPEG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-xps/" name="VCF À XPS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/fr/python-net/conversion/vcf-to-image/" name="VCF À IMAGE" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

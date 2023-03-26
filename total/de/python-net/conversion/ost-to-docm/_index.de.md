@@ -47,34 +47,8 @@ Wer versucht für einen Python-Entwickler, eine OST-zu-DOCM-Konvertierungsfunkti
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere Konvertierungsoptionen" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-doc/" name="OST Zu DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-docm/" name="OST Zu DOCM" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-docx/" name="OST Zu DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-dot/" name="OST Zu DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-dotm/" name="OST Zu DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-dotx/" name="OST Zu DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-odt/" name="OST Zu ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-ott/" name="OST Zu OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-rtf/" name="OST Zu RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-wordml/" name="OST Zu WORDML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-word/" name="OST Zu Word" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-emf/" name="OST Zu EMF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-epub/" name="OST Zu EPUB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-flatopc/" name="OST Zu FLATOPC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-md/" name="OST Zu MD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-pdf/" name="OST Zu PDF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-ps/" name="OST Zu PS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-text/" name="OST Zu TEXT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-bmp/" name="OST Zu BMP" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-gif/" name="OST Zu GIF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-png/" name="OST Zu PNG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-tiff/" name="OST Zu TIFF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-svg/" name="OST Zu SVG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-jpeg/" name="OST Zu JPEG" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-xps/" name="OST Zu XPS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/ost-to-image/" name="OST Zu IMAGE" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

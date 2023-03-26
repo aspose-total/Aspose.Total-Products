@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a POTM-t EXCEL-be Python segítségével vagy Online App vagy ingyenes online konverterrel
+title: Konvertálja a POTM-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
 description: POTM-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
@@ -52,7 +52,8 @@ Főleg két lépésben. Először is használja az [Aspose.Slides for Python via
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -63,22 +64,9 @@ Főleg két lépésben. Először is használja az [Aspose.Slides for Python via
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-excel/" name="POTM Nak nek Excel" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-xls/" name="POTM Nak nek XLS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-xlsx/" name="POTM Nak nek XLSX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-xlsb/" name="POTM Nak nek XLSB" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-xltx/" name="POTM Nak nek XLTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-xltm/" name="POTM Nak nek XLTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-xlsm/" name="POTM Nak nek XLSM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-csv/" name="POTM Nak nek CSV" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/potm-to-tsv/" name="POTM Nak nek TSV" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
-
-      
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

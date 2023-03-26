@@ -47,19 +47,8 @@ Wer versucht für einen Python-Entwickler, eine IMAGE-zu-OFT-Konvertierungsfunkt
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Andere Konvertierungsoptionen" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-email/" name="IMAGE Zu EMAIL" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-msg/" name="IMAGE Zu MSG" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-pst/" name="IMAGE Zu PST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-ost/" name="IMAGE Zu OST" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-oft/" name="IMAGE Zu OFT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-eml/" name="IMAGE Zu EML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-emlx/" name="IMAGE Zu EMLX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-mbox/" name="IMAGE Zu MBOX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-ics/" name="IMAGE Zu ICS" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/python-net/conversion/image-to-vcf/" name="IMAGE Zu VCF" description="" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -46,19 +46,8 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="अन्य रूपांतरण विकल्प" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-doc/" name="MHTML प्रति DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-docm/" name="MHTML प्रति DOCM" description="" >}},
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-docx/" name="MHTML प्रति DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-dot/" name="MHTML प्रति DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-dotm/" name="MHTML प्रति DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-dotx/" name="MHTML प्रति DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-odt/" name="MHTML प्रति ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-ott/" name="MHTML प्रति OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-rtf/" name="MHTML प्रति RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-wordml/" name="MHTML प्रति WORDML" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/python-net/conversion/mhtml-to-images/" name="MHTML प्रति Images" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

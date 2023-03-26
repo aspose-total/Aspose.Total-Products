@@ -25,7 +25,7 @@ Java üzerinden [Aspose.Total for Android](https://products.aspose.com/total/and
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
-Aspose.Total for Android'i Java aracılığıyla doğrudan [Maven](https://releases.aspose.com/total/java/) üzerinden kolayca kullanabilirsiniz ve Java aracılığıyla [Aspose.Cells for Android](https://docxs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-) yükleyin Java-from-maven-repository) ve [Java üzerinden Android için Aspose.Words](https://docxs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) uygulamalarınızda.
+Aspose.Total for Android'i Java aracılığıyla doğrudan [Maven](https://releases.aspose.com/total/java/) üzerinden kolayca kullanabilirsiniz ve Java aracılığıyla [Aspose.Cells for Android](https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/#install-asposecells-for-android-via-) yükleyin Java-from-maven-repository) ve [Java üzerinden Android için Aspose.Words](https://docs.aspose.com/words/java/install-aspose-words-for-android-via-java/#install- asposewords-for-android-via-java-from-maven-repository) uygulamalarınızda.
 
 Alternatif olarak, [downloads](https://releases.aspose.com/total/androidjava) adresinden bir ZIP dosyası alabilirsiniz.
 {{% /blocks/products/pf/agp/feature-section-col %}}

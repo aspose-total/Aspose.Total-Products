@@ -43,17 +43,8 @@ informat: TSV
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Άλλες επιλογές τροποποίησης" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xls/" name="Εκσυγχρονίζω XLS Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xlsx/" name="Εκσυγχρονίζω XLSX Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/csv/" name="Εκσυγχρονίζω CSV Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xlsb/" name="Εκσυγχρονίζω XLSB Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xlsm/" name="Τροποποιώ XLSM Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xlt/" name="Εκσυγχρονίζω XLT Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xltx/" name="Εκσυγχρονίζω XLTX Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/xltm/" name="Εκσυγχρονίζω XLTM Αρχείο" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/python-java/update/tsv/" name="Εκσυγχρονίζω TSV Αρχείο" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

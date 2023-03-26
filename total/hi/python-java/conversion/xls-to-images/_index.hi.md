@@ -46,19 +46,8 @@ outformat: Image
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="अन्य रूपांतरण विकल्प" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/excel-to-images/" name="EXCEL छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/bmp1-to-images/" name="XLS छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/json-to-images/" name="JSON छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/tsv-to-images/" name="TSV छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlsb-to-images/" name="XLSB छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlsm-to-images/" name="XLSM छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xls-to-images/" name="XLS छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlsx-to-images/" name="XLSX छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xltm-to-images/" name="XLTM छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlt-to-images/" name="XLT छवि के लिए" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xltx-to-images/" name="XLTX छवि के लिए" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

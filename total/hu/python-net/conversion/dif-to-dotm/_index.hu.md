@@ -1,5 +1,5 @@
 ---
-title: Konvertálja a DIF-t DOTM-be Python segítségével vagy Online App vagy ingyenes online konverterrel
+title: Konvertálja a DIF-t DOTM-be Python segítségével vagy ingyenes online konverterrel
 description: DIF-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
 
 family: total
@@ -53,7 +53,8 @@ Főleg két lépésben. Először is használja az [Aspose.Cells for Python via 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
+
+<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
 <div class=container>
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
@@ -64,22 +65,9 @@ Főleg két lépésben. Először is használja az [Aspose.Cells for Python via 
 
 </div></div>
 </div></div>
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-word/" name="DIF Nak nek WORD" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-doc/" name="DIF Nak nek DOC" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-docx/" name="DIF Nak nek DOCX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-docm/" name="DIF Nak nek DOCM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-dot/" name="DIF Nak nek DOT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-dotm/" name="DIF Nak nek DOTM" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-dotx/" name="DIF Nak nek DOTX" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-mobi/" name="DIF Nak nek MOBI" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-odt/" name="DIF Nak nek ODT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-ott/" name="DIF Nak nek OTT" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-rtf/" name="DIF Nak nek RTF" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/python-net/conversion/dif-to-wordml/" name="DIF Nak nek WORDML" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

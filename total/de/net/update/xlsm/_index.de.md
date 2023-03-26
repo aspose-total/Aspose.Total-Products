@@ -44,17 +44,8 @@ Wer versucht als Entwickler, XLSM-Dateien über eine .NET-Anwendung zu aktualisi
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Weitere Modifikationsmöglichkeiten" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xls/" name="Aktualisieren XLS Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xlsx/" name="Aktualisieren XLSX Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/csv/" name="Aktualisieren CSV Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xlsb/" name="Aktualisieren XLSB Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xlsm/" name="Ändern XLSM Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xlt/" name="Aktualisieren XLT Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xltx/" name="Aktualisieren XLTX Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/xltm/" name="Aktualisieren XLTM Datei" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/de/net/update/tsv/" name="Aktualisieren TSV Datei" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

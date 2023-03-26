@@ -43,17 +43,8 @@ Untuk pengembang, siapa yang mencoba memperbarui file XLSX melalui aplikasi Pyth
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Opsi Modifikasi Lainnya" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xls/" name="Memperbarui XLS Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xlsx/" name="Memperbarui XLSX Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/csv/" name="Memperbarui CSV Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xlsb/" name="Memperbarui XLSB Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xlsm/" name="Memodifikasi XLSM Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xlt/" name="Memperbarui XLT Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xltx/" name="Memperbarui XLTX Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/xltm/" name="Memperbarui XLTM Mengajukan" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/python-java/update/tsv/" name="Memperbarui TSV Mengajukan" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

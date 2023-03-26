@@ -46,19 +46,8 @@ Para un desarrollador de Python, que está tratando de agregar una función de c
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Otras opciones de conversión" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/excel-to-images/" name="EXCEL A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/bmp1-to-images/" name="EXCEL A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/json-to-images/" name="JSON A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/tsv-to-images/" name="TSV A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlsb-to-images/" name="XLSB A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlsm-to-images/" name="XLSM A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xls-to-images/" name="XLS A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlsx-to-images/" name="XLSX A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xltm-to-images/" name="XLTM A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xlt-to-images/" name="XLT A la imagen" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-java/conversion/xltx-to-images/" name="XLTX A la imagen" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
