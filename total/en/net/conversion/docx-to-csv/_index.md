@@ -1,6 +1,6 @@
 ---
 title: .NET API to Convert DOCX to CSV or with free Online Converter 
-description: C# API to Convert DOCX to CSV or Online App without using Microsoft Excel or Adobe Reader or online. Test free CSV to DOC online converter quickly before integrating the code. 
+description: C# API to Convert DOCX to CSV or Online App without using Microsoft Excel or Adobe Reader or online. Test free DOCX to CSV online converter quickly before integrating the code. 
 url_ignore: /net/conversion/docx-to-csv/
 family: total
 platformtag: net
@@ -62,6 +62,7 @@ While converting DOCX to CSV, [Aspose.Cells for .NET](https://products.aspose.co
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
   <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
@@ -77,7 +78,7 @@ While converting DOCX to CSV, [Aspose.Cells for .NET](https://products.aspose.co
                           <span itemprop="name"><b>How can I convert DOCX to CSV Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online App for DOCX conversion is integrated above. Firstly, you need to add DOCX file for conversion by drag &amp; drop or click inside the white area to import the document. Then click the "Convert" button. When DOCX to CSV conversion is completed, you can download your converted file. So You will get output CSV files with just one click.</span>
+                          <span itemprop="text">Online App for DOCX conversion is integrated above. Firstly, you need to add DOCX file for conversion by drag &amp; drop or click inside the white area to import the document. Then click the Convert button. When DOCX to CSV conversion is completed, you can download your converted file. So You will get output CSV files with just one click.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -93,7 +94,7 @@ While converting DOCX to CSV, [Aspose.Cells for .NET](https://products.aspose.co
                           <span itemprop="name"><b>Is it safe to convert DOCX to CSV using free Aspose.Total converter?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The download link of CSV files will be available instantly after conversion. We delete uploaded files after 24 hours and the download links will stop working after this time period. No one has access to your files. File conversion (including DOCX)  is absolutely safe. Mainly free app is integrated for the purpose of testing so that one can check the result before integrating the code.</span>
+                          <span itemprop="text">Of course! The download link of CSV files will be available instantly after conversion. We delete uploaded files after 24 hours and the download links will stop working after this time period. No one has access to your files. File conversion (including DOCX) is absolutely safe. Mainly free app is integrated for the purpose of testing so that one can check the result before integrating the code.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -101,7 +102,7 @@ While converting DOCX to CSV, [Aspose.Cells for .NET](https://products.aspose.co
                           <span itemprop="name"><b>What browser should I use to convert DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern browser for this online conversion, for example, Google Chrome, Firefox, Opera, Safari. But in case you are developing a Desktop application. Conversion API will work smooth.</span>
+                          <span itemprop="text">You can use any modern browser for this online conversion, for example, Google Chrome, Firefox, Opera, Safari. But in case you are developing a Desktop application. Aspose.Total DOCX Conversion API will work smooth.</span>
                       </div>
                   </li>
               </ul>
