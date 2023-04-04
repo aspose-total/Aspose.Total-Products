@@ -6,7 +6,7 @@ family: total
 platformtag: Python
 feature: conversion
 informat: WORD
-outformat: Images
+outformat: IMAGE
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert WORD to Images using Python" h2="WORD to JPG, TIFF, BMP, PNG and GIF image conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup>." >}}
@@ -45,7 +45,7 @@ We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/pyth
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{% blocks/products/pf/agp/code-block title="WORD To Images Conversion With Specific Options" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="WORD To Image Conversion With Specific Options" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "fe7c3ff0a8c783e4f0ed6bff199c6800" "convert-word-to-images-via-python.py" >}}
 
@@ -54,22 +54,8 @@ We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/pyth
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/other-supported-section title="Other Conversion Options" subTitle="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/word-to-images/" name="WORD TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/doc-to-images/" name="DOC TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/dot-to-images/" name="DOT TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/docx-to-images/" name="DOCX TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/docm-to-images/" name="DOCM TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/dotx-to-images/" name="DOTX TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/dotm-to-images/" name="DOTM TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/rtf-to-images/" name="RTF TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/wordml-to-images/" name="WORDML TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/odt-to-images/" name="ODT TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/ott-to-images/" name="OTT TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/pdf-to-images/" name="PDF TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/html-to-images/" name="HTML TO Images" description="" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/python-net/conversion/html-to-images/" name="HTML TO Images" description="" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
