@@ -6,7 +6,7 @@ description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Complete Set of File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats using our native APIs for .NET, Java, Android, C++ and other Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Complete Set of File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats using our native APIs for .NET, Java, Android, C++ and other Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Product Family Includes" >}}

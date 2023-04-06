@@ -11,7 +11,7 @@ otherformats: DOCX POWERPOINT DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง XLSM เป็น WORD ผ่าน C# หรือแอพออนไลน์" h2="ส่งออก Excel&reg; XLSM เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="แปลง XLSM เป็น WORD ผ่าน C# หรือแอพออนไลน์" h2="ส่งออก Excel&reg; XLSM เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -11,7 +11,7 @@ otherformats: WORD DOCX PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="แปลง XLT เป็น POWERPOINT ผ่าน C# หรือแอพออนไลน์" h2="ส่งออก Excel&reg; XLT เป็น POWERPOINT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="แปลง XLT เป็น POWERPOINT ผ่าน C# หรือแอพออนไลน์" h2="ส่งออก Excel&reg; XLT เป็น POWERPOINT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

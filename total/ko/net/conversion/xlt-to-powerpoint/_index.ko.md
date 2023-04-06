@@ -11,7 +11,7 @@ otherformats: WORD DOCX PPTX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C#을 통해 XLT를 POWERPOINT로 변환 또는 온라인 앱" h2="엑셀 내보내기&reg; .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 XLT를 POWERPOINT로">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="C#을 통해 XLT를 POWERPOINT로 변환 또는 온라인 앱" h2="엑셀 내보내기&reg; .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 XLT를 POWERPOINT로">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

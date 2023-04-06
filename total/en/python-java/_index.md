@@ -6,7 +6,7 @@ description: Python libraries for Excel spreadsheets parsing, barcode generation
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Automation Solution for Excel, Visio & Barcodes" h2="Manipulate Excel spreadsheets and Visio diagram files as well as generate and recognize barcodes of various symbologies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/total/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Automation Solution for Excel, Visio & Barcodes" h2="Manipulate Excel spreadsheets and Visio diagram files as well as generate and recognize barcodes of various symbologies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/total/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via Java" >}}
 

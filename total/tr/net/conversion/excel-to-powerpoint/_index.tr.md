@@ -11,7 +11,7 @@ otherformats: WORD PPTX DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile EXCEL'yi POWERPOINT'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında EXCEL'den POWERPOINT'ye">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="C# ile EXCEL'yi POWERPOINT'ye dönüştürün" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında EXCEL'den POWERPOINT'ye">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

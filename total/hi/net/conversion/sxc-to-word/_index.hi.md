@@ -11,7 +11,7 @@ otherformats: PPTX DOCX DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="सी # के माध्यम से सीएसवी को डीओसी में कनवर्ट करें या ऑनलाइन ऐप" h2="एक्सेल निर्यात करें&reg; .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर WORD को SXC">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="सी # के माध्यम से सीएसवी को डीओसी में कनवर्ट करें या ऑनलाइन ऐप" h2="एक्सेल निर्यात करें&reg; .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर WORD को SXC">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -6,7 +6,7 @@ description: SQL Server Reporting Services Rendering Extensions for file formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Reporting Services Extensions to Deliver Reports in Office Formats" h2="Export RDL and RDLC reports to Word, Excel, PDF & PowerPoint formats, and Add barcodes to the exported documents." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Reporting Services Extensions to Deliver Reports in Office Formats" h2="Export RDL and RDLC reports to Word, Excel, PDF & PowerPoint formats, and Add barcodes to the exported documents." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 

@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET APIs to create manipulate convert and render any 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats from within .NET applications, without any software dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats from within .NET applications, without any software dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-net.svg" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/total/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for .NET" >}}
 

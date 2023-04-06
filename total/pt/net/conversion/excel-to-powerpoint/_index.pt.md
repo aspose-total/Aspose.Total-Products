@@ -11,7 +11,7 @@ otherformats: WORD PPTX DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Converter EXCEL para POWERPOINT via C#" h2="Exportar Excel&reg; EXCEL para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Converter EXCEL para POWERPOINT via C#" h2="Exportar Excel&reg; EXCEL para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

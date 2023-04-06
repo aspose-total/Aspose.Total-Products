@@ -11,7 +11,7 @@ otherformats: WORD PPTX DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert EXCEL to POWERPOINT via C#" h2="Export Excel&reg; EXCEL to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to POWERPOINT via C#" h2="Export Excel&reg; EXCEL to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 

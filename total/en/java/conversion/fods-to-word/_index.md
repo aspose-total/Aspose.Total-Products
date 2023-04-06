@@ -11,7 +11,7 @@ otherformats: PPTX DOC DOCX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Java API to Export FODS to WORD or online" h2="On Premise Java API to Export FODS to WORD or online without relying on Microsoft Excel&reg;">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Java API to Export FODS to WORD or online" h2="On Premise Java API to Export FODS to WORD or online without relying on Microsoft Excel&reg;">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to WORD via Java API" isGrey="true" %}}

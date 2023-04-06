@@ -6,7 +6,7 @@ description: C++ Libraries read write render and convert multiple document forma
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ APIs for Microsoft Office File Formats, PDF & Barcode" h2="Develop native C++ applications to manipulate Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF formats. Barcode generator & reader also included!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ APIs for Microsoft Office File Formats, PDF & Barcode" h2="Develop native C++ applications to manipulate Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF formats. Barcode generator & reader also included!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 

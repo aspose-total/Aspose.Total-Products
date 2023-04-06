@@ -6,7 +6,7 @@ description: JasperReports exports suite to exports reports to Word Excel PDF an
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extensions to Deliver Reports in Office Formats" h2="Easily export JasperReports to Word, Excel, PDF, PowerPoint and Image formats while adding barcodes to the exported documents." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="JasperReports Extensions to Deliver Reports in Office Formats" h2="Easily export JasperReports to Word, Excel, PDF, PowerPoint and Image formats while adding barcodes to the exported documents." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 

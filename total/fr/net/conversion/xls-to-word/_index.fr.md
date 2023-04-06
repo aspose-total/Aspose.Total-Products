@@ -11,7 +11,7 @@ otherformats: DOCX DOC PPTX POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir XLS en WORD via C# ou application en ligne" h2="Exporter Excel® XLS vers WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convertir XLS en WORD via C# ou application en ligne" h2="Exporter Excel® XLS vers WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -6,7 +6,7 @@ description: Python APIs for Microsoft Word documents, Excel spreadsheets, Power
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python APIs to Automate Microsoft Word, PowerPoint, Outlook and 3D Files" h2="Create, edit or convert documents, spreadsheets, presentations, emails 3D & CAD files using Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python APIs to Automate Microsoft Word, PowerPoint, Outlook and 3D Files" h2="Create, edit or convert documents, spreadsheets, presentations, emails 3D & CAD files using Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 

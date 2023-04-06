@@ -11,7 +11,7 @@ otherformats: DOC PPTX WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert SXC to POWERPOINT via C# or Online App" h2="Export Excel&reg; SXC to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to POWERPOINT via C# or Online App" h2="Export Excel&reg; SXC to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
 {{< blocks/products/pf/main-container >}}
 
 

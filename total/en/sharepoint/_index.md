@@ -6,7 +6,7 @@ description: SharePoint File Format Apps to convert and combine Word Excel PDF P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint Apps to Manipulate Files" h2="Easily Convert and Combine Word, Excel, PowerPoint, PDF,  Outlook and many other formats within Microsoft SharePoint apps." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="SharePoint Apps to Manipulate Files" h2="Easily Convert and Combine Word, Excel, PowerPoint, PDF,  Outlook and many other formats within Microsoft SharePoint apps." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 

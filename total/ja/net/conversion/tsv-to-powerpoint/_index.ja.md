@@ -11,7 +11,7 @@ otherformats: PPTX WORD DOCX DOC
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C＃経由でTSVをPOWERPOINTに変換 またはオンラインアプリ" h2="Excelをエクスポート＆reg; .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでのTSVからPOWERPOINTへ">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="C＃経由でTSVをPOWERPOINTに変換 またはオンラインアプリ" h2="Excelをエクスポート＆reg; .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでのTSVからPOWERPOINTへ">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

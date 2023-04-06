@@ -11,7 +11,7 @@ otherformats: PPTX POWERPOINT WORD DOCX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="A FODS konvertálása DOC formátumba C# segítségével vagy Online App" h2="Exportálás Excel&reg; FODS-ből DOC-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="A FODS konvertálása DOC formátumba C# segítségével vagy Online App" h2="Exportálás Excel&reg; FODS-ből DOC-ba .NET Framework, .NET Core, Mono vagy Xamarin platformokon">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

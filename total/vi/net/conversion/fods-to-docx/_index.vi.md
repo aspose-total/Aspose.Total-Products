@@ -11,7 +11,7 @@ otherformats: DOC POWERPOINT PPTX WORD
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Chuyển đổi FODS sang DOCX qua C# hoặc Ứng dụng trực tuyến" h2="Xuất Excel & reg; FODS sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Chuyển đổi FODS sang DOCX qua C# hoặc Ứng dụng trực tuyến" h2="Xuất Excel & reg; FODS sang DOCX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

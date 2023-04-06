@@ -11,7 +11,7 @@ otherformats: WORD POWERPOINT DOC PPTX
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TSV to DOCX via C++ or online" h2="Export Excel&reg; TSV to DOCX within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert TSV to DOCX via C++ or online" h2="Export Excel&reg; TSV to DOCX within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 

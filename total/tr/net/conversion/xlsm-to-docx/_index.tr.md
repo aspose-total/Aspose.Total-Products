@@ -11,7 +11,7 @@ otherformats: PPTX WORD DOC POWERPOINT
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="C# ile XLSM'yi DOCX'ye dönüştürün veya Çevrimiçi Uygulama" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM'den DOCX'ye">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="C# ile XLSM'yi DOCX'ye dönüştürün veya Çevrimiçi Uygulama" h2="Excel'i Dışa Aktar&reg; .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM'den DOCX'ye">}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

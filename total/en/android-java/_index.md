@@ -6,7 +6,7 @@ description: Android File Format APIs for Word Excel PDF PowerPoint and Emails. 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs to Manipulate File Formats in Mobile Apps" h2="Manipulate Word, Excel, PowerPoint, PDF,  Outlook and a lot more other document formats in mobile apps without installing any software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android APIs to Manipulate File Formats in Mobile Apps" h2="Manipulate Word, Excel, PowerPoint, PDF,  Outlook and a lot more other document formats in mobile apps without installing any software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 

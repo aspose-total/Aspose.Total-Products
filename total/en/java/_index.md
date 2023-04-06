@@ -6,7 +6,7 @@ description: Collection of APIs for Java developers to manipulate files from Wor
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Create, Edit & Convert Files via Java APIs" h2="Manipulate Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD and other document formats from your own Java applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Create, Edit & Convert Files via Java APIs" h2="Manipulate Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD and other document formats from your own Java applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
