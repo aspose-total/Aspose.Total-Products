@@ -54,8 +54,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 <iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=tsv" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/tsv-to-docx/">Try our free app for TSV to WORD conversion</a></p>
 </div></div>
-{{< blocks/products/pf/agp/about-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
