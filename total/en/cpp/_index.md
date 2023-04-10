@@ -1,7 +1,6 @@
 ---
 title: C++ File Format Processing APIs - Aspose 
 weight: 70
-url_ignore: /cpp/ 
 description: C++ Libraries read write render and convert multiple document formats.
 ---
 
