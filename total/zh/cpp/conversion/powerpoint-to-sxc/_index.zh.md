@@ -59,6 +59,53 @@ otherformats: CSV FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>经常问的问题</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>如何在线将 POWERPOINT 转换为 SXC？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">在线 POWERPOINT 转换应用程序位于上方。要开始转换过程，您可以通过将 POWERPOINT 文件拖放到白色区域或在该区域内单击以导入文档来添加 POWERPOINT 文件。之后，单击“转换”按钮。 POWERPOINT 到 SXC 的转换过程完成后，您只需单击一下即可下载转换后的文件。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>转换 POWERPOINT 需要多长时间？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">这个在线转换器的速度很快，但是很大程度上取决于被转换的POWERPOINT文件的大小。只需几秒钟即可将较小的 POWERPOINT 文件渲染为 SXC。如果您计划将转换代码集成到 .NET 应用程序中，速度将取决于您如何针对转换过程优化应用程序。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 POWERPOINT 转换为 SXC 是否安全？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">当然！ SXC 文件的下载链接将在转换后立即可用。我们会在 24 小时后删除上传的文件，下载链接将在这段时间后停止工作。没有人可以访问您的文件。文件转换（包括 POWERPOINT）绝对安全。主要是为了测试目的集成免费应用程序，以便在集成代码之前可以检查结果。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我应该使用什么浏览器来转换 POWERPOINT？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">您可以使用任何现代浏览器进行此在线转换，例如 Google Chrome、Firefox、Opera、Safari。但如果您正在开发桌面应用程序。 Aspose.Total POWERPOINT Conversion API 将工作顺利。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,6 +59,53 @@ API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PPSX belgen
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Sıkça Sorulan Sorular</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>PPSX'yi Çevrimiçi MARKDOWN'e nasıl dönüştürebilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Çevrimiçi PPSX dönüştürme uygulaması yukarıda yer almaktadır. Dönüştürme işlemine başlamak için, PPSX dosyanızı beyaz alana sürükleyip bırakarak veya belgeyi içe aktarmak için alanın içine tıklayarak ekleyebilirsiniz. Ardından, "Dönüştür" düğmesini tıklayın. PPSX'den MARKDOWN'e dönüştürme işlemi tamamlandıktan sonra, dönüştürülen dosyanızı tek bir tıklamayla indirebilirsiniz.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>PPSX'yi dönüştürmek ne kadar sürer?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPSX dosyasının boyutuna bağlıdır. Daha küçük PPSX dosyaları sadece birkaç saniye içinde MARKDOWN'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ücretsiz Aspose.Total dönüştürücü kullanarak PPSX'yi MARKDOWN'e dönüştürmek güvenli midir?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Elbette! MARKDOWN dosyalarının indirme bağlantısı, dönüştürmeden hemen sonra kullanılabilir olacaktır. Yüklenen dosyaları 24 saat sonra siliyoruz ve indirme bağlantıları bu süre sonunda çalışmayı durduracak. Kimsenin dosyalarınıza erişimi yok. Dosya dönüştürme (PPSX dahil) kesinlikle güvenlidir. Temel olarak ücretsiz uygulama, kodu entegre etmeden önce sonucu kontrol edebilmeniz için test amacıyla entegre edilmiştir.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>PPSX'yi dönüştürmek için hangi tarayıcıyı kullanmalıyım?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu çevrimiçi dönüşüm için herhangi bir modern tarayıcıyı kullanabilirsiniz, örneğin Google Chrome, Firefox, Opera, Safari. Ancak bir Masaüstü uygulaması geliştiriyorsanız. Aspose.Total PPSX Conversion API sorunsuz çalışacaktır.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}} 
 {{< /blocks/products/pf/main-wrap-class >}}

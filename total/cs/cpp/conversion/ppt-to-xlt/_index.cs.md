@@ -59,6 +59,53 @@ Pomocí rozhraní API můžete také otevřít dokument chráněný heslem. Poku
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést PPT na XLT Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro převod PPT se nachází výše. Chcete-li zahájit proces převodu, můžete přidat svůj soubor PPT buď přetažením do bílé oblasti, nebo kliknutím do této oblasti a importem dokumentu. Poté klikněte na tlačítko "Převést". Jakmile je proces převodu PPT na XLT dokončen, můžete si převedený soubor stáhnout jediným kliknutím.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod PPT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rychlost tohoto online převodníku je vysoká, ale do značné míry závisí na velikosti převáděného souboru PPT. Menší soubory PPT lze vykreslit do formátu XLT během několika sekund. Pokud plánujete integrovat převodní kód do aplikace .NET, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět PPT na XLT pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Odkaz na stažení souborů XLT bude k dispozici okamžitě po převodu. Nahrané soubory mažeme po 24 hodinách a odkazy ke stažení po uplynutí této doby přestanou fungovat. Nikdo nemá přístup k vašim souborům. Konverze souborů (včetně PPT) je naprosto bezpečná. Za účelem testování je integrována hlavně bezplatná aplikace, takže před integrací kódu lze zkontrolovat výsledek.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu PPT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro tuto online konverzi můžete použít jakýkoli moderní prohlížeč, například Google Chrome, Firefox, Opera, Safari. Ale v případě, že vyvíjíte desktopovou aplikaci. Aspose.Total PPT Conversion API bude fungovat hladce.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
