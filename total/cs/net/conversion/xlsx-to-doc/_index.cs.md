@@ -55,6 +55,53 @@ document.Save("output.doc", SaveFormat.Doc);
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést XLSX na DOC Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro převod XLSX je integrována výše. Chcete-li zahájit proces převodu, můžete buď přetáhnout soubor XLSX, nebo kliknout do určené oblasti a importovat dokument. Dále klikněte na tlačítko "Převést" pro zahájení převodu XLSX na DOC. Po dokončení procesu si můžete snadno stáhnout převedený soubor jediným kliknutím a získat požadovaný výstup ve formátu DOC.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod XLSX?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rychlost tohoto online převodníku je vysoká, ale primárně závisí na velikosti souboru XLSX. Pokud máte malý soubor XLSX, lze jej převést na DOC během několika sekund. Pokud jste navíc integrovali konverzní kód do své aplikace .NET, rychlost procesu převodu závisí na tom, jak dobře jste aplikaci optimalizovali.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět XLSX na DOC pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Po dokončení procesu převodu XLSX na DOC se okamžitě vygeneruje odkaz ke stažení souborů DOC. Upřednostňujeme bezpečnost vašich souborů, proto jsou všechny nahrané soubory po 24 hodinách smazány a odkazy ke stažení po uplynutí této doby přestanou fungovat. Můžete si být jisti, že vaše soubory jsou během procesu převodu v bezpečí, včetně souborů XLSX. Výše uvedená bezplatná aplikace je určena pro testovací účely a umožňuje vám zkontrolovat výsledek před integrací kódu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu XLSX?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro online převod XLSX na DOC máte možnost použít jakýkoli aktuální webový prohlížeč, jako je Google Chrome, Firefox, Opera, Safari. Pokud však vytváříte desktopovou aplikaci, můžete bez problémů integrovat Aspose.Total XLSX Conversion API.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-container >}}

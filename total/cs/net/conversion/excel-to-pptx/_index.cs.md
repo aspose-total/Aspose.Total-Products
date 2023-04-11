@@ -55,6 +55,53 @@ pptxument.Save("output.pptx", SaveFormat.Pptx);
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést EXCEL na PPTX Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro převod EXCEL je integrována výše. Chcete-li zahájit proces převodu, můžete buď přetáhnout soubor EXCEL, nebo kliknout do určené oblasti a importovat dokument. Dále klikněte na tlačítko "Převést" pro zahájení převodu EXCEL na PPTX. Po dokončení procesu si můžete snadno stáhnout převedený soubor jediným kliknutím a získat požadovaný výstup ve formátu PPTX.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod EXCEL?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rychlost tohoto online převodníku je vysoká, ale primárně závisí na velikosti souboru EXCEL. Pokud máte malý soubor EXCEL, lze jej převést na PPTX během několika sekund. Pokud jste navíc integrovali konverzní kód do své aplikace .NET, rychlost procesu převodu závisí na tom, jak dobře jste aplikaci optimalizovali.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět EXCEL na PPTX pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Po dokončení procesu převodu EXCEL na PPTX se okamžitě vygeneruje odkaz ke stažení souborů PPTX. Upřednostňujeme bezpečnost vašich souborů, proto jsou všechny nahrané soubory po 24 hodinách smazány a odkazy ke stažení po uplynutí této doby přestanou fungovat. Můžete si být jisti, že vaše soubory jsou během procesu převodu v bezpečí, včetně souborů EXCEL. Výše uvedená bezplatná aplikace je určena pro testovací účely a umožňuje vám zkontrolovat výsledek před integrací kódu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu EXCEL?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro online převod EXCEL na PPTX máte možnost použít jakýkoli aktuální webový prohlížeč, jako je Google Chrome, Firefox, Opera, Safari. Pokud však vytváříte desktopovou aplikaci, můžete bez problémů integrovat Aspose.Total EXCEL Conversion API.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-container >}}
