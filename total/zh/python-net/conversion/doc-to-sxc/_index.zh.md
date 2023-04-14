@@ -67,6 +67,53 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 </div></div>
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>经常问的问题</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>如何在线将 DOC 转换为 SXC？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">在上方，您会找到一个用于 DOC 转换的集成在线应用程序。开始时，只需将 DOC 文件拖放到指定的白色区域，或在区域内单击以导入文档，即可添加该文件。上传 DOC 文件后，单击“转换”按钮开始 DOC 到 SXC 的转换过程。转换完成后，只需单击一下即可立即下载新转换的 SXC 文件。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>转换 DOC 需要多长时间？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">我们提供的在线转换器运行速度很快，但其性能主要取决于 DOC 文件的大小。只需几秒钟即可将较小的 DOC 文件转换为 SXC。如果您将转换代码集成到 .NET 应用程序中，转换速度将取决于您的应用程序针对此过程的优化程度。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 DOC 转换为 SXC 是否安全？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">当然！此在线转换器可确保您的文件安全，包括 DOC 文件转换。您上传的文件将在 24 小时后删除，并且在此时间段后将无法访问下载链接。请放心，没有人可以访问您的文件。以上免费应用程序用于测试目的，以便您可以在集成代码之前检查结果。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我应该使用什么浏览器来转换 DOC？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">在线 DOC 到 SXC 转换器可用于任何现代浏览器，如 Google Chrome、Firefox、Opera 和 Safari。但是，如果您正在开发桌面应用程序，Aspose.Total DOC Conversion API 可以为您的需求提供流畅可靠的解决方案。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

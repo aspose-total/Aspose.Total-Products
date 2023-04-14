@@ -68,6 +68,53 @@ MOBI'yi DIF'ye dönüştürürken, [Aspose.Cells for .NET](https://products.aspo
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Sıkça Sorulan Sorular</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>MOBI'yi Çevrimiçi DIF'e nasıl dönüştürebilirim?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">MOBI dönüştürme için Çevrimiçi Uygulama yukarıda entegre edilmiştir. Öncelikle, sürükle &amp; ile dönüştürme için MOBI dosyası eklemeniz gerekir. belgeyi içe aktarmak için beyaz alanın içine bırakın veya tıklayın. Ardından Dönüştür düğmesini tıklayın. MOBI'den DIF'e dönüştürme işlemi tamamlandığında, dönüştürülen dosyanızı indirebilirsiniz. Böylece çıktı DIF dosyalarını tek bir tıklamayla alacaksınız.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>MOBI'yi dönüştürmek ne kadar sürer?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu çevrimiçi dönüştürücü hızlı çalışır ancak esas olarak MOBI dosyasının boyutuna bağlıdır. Küçük boyutlu MOBI dosyasını birkaç saniye içinde DIF'e dönüştürebilirsiniz. Ayrıca, dönüştürme kodunu .NET uygulamasına entegre ettiyseniz, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlıdır.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Ücretsiz Aspose.Total dönüştürücü kullanarak MOBI'yi DIF'e dönüştürmek güvenli midir?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Elbette! DIF dosyalarının indirme bağlantısı, dönüştürmeden hemen sonra kullanılabilir olacaktır. Yüklenen dosyaları 24 saat sonra siliyoruz ve indirme bağlantıları bu süre sonunda çalışmayı durduracak. Kimsenin dosyalarınıza erişimi yok. Dosya dönüştürme (MOBI dahil) kesinlikle güvenlidir. Temel olarak ücretsiz uygulama, kodu entegre etmeden önce sonucu kontrol edebilmeniz için test amacıyla entegre edilmiştir.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>MOBI'yi dönüştürmek için hangi tarayıcıyı kullanmalıyım?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Bu çevrimiçi dönüşüm için herhangi bir modern tarayıcıyı kullanabilirsiniz, örneğin Google Chrome, Firefox, Opera, Safari. Ancak bir Masaüstü uygulaması geliştiriyorsanız. Aspose.Total MOBI Conversion API sorunsuz çalışacaktır.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}} 
 {{< /blocks/products/pf/main-wrap-class >}}

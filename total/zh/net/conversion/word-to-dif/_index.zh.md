@@ -68,6 +68,53 @@ otherformats: SXC DIF ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>经常问的问题</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>如何在线将 WORD 转换为 DIF？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">上面集成了用于 WORD 转换的在线应用程序。首先，您需要通过拖拽添加WORD文件进行转换。在白色区域内拖放或单击以导入文档。然后单击转换按钮。 WORD 到 DIF 转换完成后，您可以下载转换后的文件。因此，您只需单击一下即可获得输出 DIF 文件。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>转换 WORD 需要多长时间？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">此在线转换器运行速度很快，但主要取决于 WORD 文件的大小。您可以在几秒钟内将小型 WORD 文件渲染为 DIF。此外，如果您在 .NET 应用程序中集成了转换代码，这取决于您如何针对转换过程优化您的应用程序。</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 WORD 转换为 DIF 是否安全？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">当然！ DIF 文件的下载链接将在转换后立即可用。我们会在 24 小时后删除上传的文件，下载链接将在这段时间后停止工作。没有人可以访问您的文件。文件转换（包括 WORD）绝对安全。主要是为了测试目的集成免费应用程序，以便在集成代码之前可以检查结果。</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>我应该使用什么浏览器来转换 WORD？</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">您可以使用任何现代浏览器进行此在线转换，例如 Google Chrome、Firefox、Opera、Safari。但如果您正在开发桌面应用程序。 Aspose.Total WORD Conversion API 将工作顺利。</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

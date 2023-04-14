@@ -68,6 +68,53 @@ Při převodu DOT na EXCEL vám [Aspose.Cells for .NET](https://products.aspose.
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést DOT na EXCEL Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro převod DOT je integrována výše. Nejprve musíte přidat soubor DOT pro převod přetažením &amp; přetažením nebo kliknutím do bílé oblasti importujte dokument. Poté klikněte na tlačítko Převést. Po dokončení převodu DOT na EXCEL si můžete stáhnout převedený soubor. Takže získáte výstupní soubory EXCEL jediným kliknutím.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod DOT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tento online konvertor funguje rychle, ale hlavně závisí na velikosti souboru DOT. Malý soubor DOT můžete vykreslit na EXCEL během několika sekund. Navíc, pokud jste integrovali konverzní kód do aplikace .NET, záleží na tom, jak jste optimalizovali svou aplikaci pro proces převodu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět DOT na EXCEL pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Odkaz na stažení souborů EXCEL bude k dispozici okamžitě po převodu. Nahrané soubory mažeme po 24 hodinách a odkazy ke stažení po uplynutí této doby přestanou fungovat. Nikdo nemá přístup k vašim souborům. Konverze souborů (včetně DOT) je naprosto bezpečná. Za účelem testování je integrována hlavně bezplatná aplikace, takže před integrací kódu lze zkontrolovat výsledek.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu DOT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro tento online převod můžete použít jakýkoli moderní prohlížeč, například Google Chrome, Firefox, Opera, Safari. Ale v případě, že vyvíjíte desktopovou aplikaci. Aspose.Total DOT Conversion API bude fungovat hladce.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,6 +68,53 @@ Při převodu OTT na FODS vám [Aspose.Cells for .NET](https://products.aspose.c
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést OTT na FODS Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro převod OTT je integrována výše. Nejprve musíte přidat soubor OTT pro převod přetažením &amp; přetažením nebo kliknutím do bílé oblasti importujte dokument. Poté klikněte na tlačítko Převést. Po dokončení převodu OTT na FODS si můžete stáhnout převedený soubor. Takže získáte výstupní soubory FODS jediným kliknutím.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod OTT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tento online konvertor funguje rychle, ale hlavně závisí na velikosti souboru OTT. Malý soubor OTT můžete vykreslit na FODS během několika sekund. Navíc, pokud jste integrovali konverzní kód do aplikace .NET, záleží na tom, jak jste optimalizovali svou aplikaci pro proces převodu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět OTT na FODS pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Odkaz na stažení souborů FODS bude k dispozici okamžitě po převodu. Nahrané soubory mažeme po 24 hodinách a odkazy ke stažení po uplynutí této doby přestanou fungovat. Nikdo nemá přístup k vašim souborům. Konverze souborů (včetně OTT) je naprosto bezpečná. Za účelem testování je integrována hlavně bezplatná aplikace, takže před integrací kódu lze zkontrolovat výsledek.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu OTT?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro tento online převod můžete použít jakýkoli moderní prohlížeč, například Google Chrome, Firefox, Opera, Safari. Ale v případě, že vyvíjíte desktopovou aplikaci. Aspose.Total OTT Conversion API bude fungovat hladce.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
