@@ -60,6 +60,53 @@ V aplikacích pro Android můžete také převést svůj heslem chráněný RTF 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést RTF na PPTX Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro konverzi RTF je pro vaše pohodlí integrována výše. Chcete-li převést soubor RTF na PPTX, jednoduše přidejte svůj soubor RTF přetažením do bílé oblasti nebo kliknutím do oblasti importujte. Poté klikněte na tlačítko „Převést“. Po dokončení převodu RTF na PPTX si můžete stáhnout převedený soubor jediným kliknutím.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod RTF?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru RTF, který chcete převést. Malé soubory RTF lze převést na PPTX během několika sekund. Pokud jste však do své aplikace .NET integrovali konverzní kód, bude rychlost záviset na tom, jak dobře jste aplikaci optimalizovali pro proces převodu.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět RTF na PPTX pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Po převodu bude okamžitě k dispozici odkaz ke stažení vašeho souboru PPTX. Nahrané soubory jsou automaticky smazány po 24 hodinách a odkazy ke stažení se po této době stanou neplatnými. Ujišťujeme vás, že vaše soubory jsou v bezpečí, protože k nim nikdo jiný nemá přístup. Naše služba konverze souborů, která zahrnuje soubory RTF, je zcela bezpečná. Kromě toho je pro účely testování poskytována bezplatná aplikace, která vám umožní potvrdit výsledky před integrací kódu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu RTF?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Moderní webové prohlížeče jako Google Chrome, Firefox, Opera a Safari jsou kompatibilní s tímto online konverzním nástrojem. Pokud však pracujete na desktopové aplikaci, pro hladký chod se doporučuje Aspose.Total RTF Conversion API.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

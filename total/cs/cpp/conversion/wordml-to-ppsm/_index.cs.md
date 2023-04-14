@@ -119,6 +119,53 @@ pres->Save(output.ppsm, Aspose::Slides::Export::SaveFormat::Ppsm);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést WORDML na PPSM Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikaci pro převod WORDML najdete výše. Chcete-li zahájit proces převodu, můžete přidat soubor WORDML buď přetažením, nebo kliknutím do bílé oblasti pro import dokumentu. Po přidání souboru můžete jednoduše kliknout na tlačítko "Převést". Po dokončení převodu WORDML na PPSM si můžete stáhnout převedený soubor jediným kliknutím.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod WORDML?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru WORDML. Malé soubory WORDML lze převést na PPSM během několika sekund. Pokud používáte převodní kód v rámci aplikace .NET, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět WORDML na PPSM pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Poté, co je váš soubor WORDML převeden na PPSM pomocí našeho online převodníku, bude okamžitě k dispozici odkaz ke stažení souboru PPSM. Bezpečnost a soukromí vašich nahraných souborů bereme vážně a mažeme je 24 hodin po dokončení procesu převodu. Ujišťujeme vás, že k vašim souborům nebude mít nikdo přístup. Náš proces převodu, včetně převodu WORDML, je zcela bezpečný. Poskytujeme bezplatnou aplikaci pro testovací účely, abyste si mohli ověřit výsledky před integrací kódu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu WORDML?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro online převod WORDML můžete použít jakýkoli moderní prohlížeč, jako je Google Chrome, Firefox, Opera nebo Safari. Pokud však vyvíjíte desktopovou aplikaci, doporučujeme Aspose.Total WORDML Conversion API pro hladký výkon.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

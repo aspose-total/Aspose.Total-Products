@@ -65,6 +65,53 @@ Je to hlavně ve dvou krocích. Nejprve použijte [Aspose.Words for Python via .
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést DOC na PPTX Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Online aplikace pro převod DOC je k dispozici výše. Chcete-li začít, můžete přidat svůj soubor DOC pro převod buď přetažením, nebo kliknutím do bílé oblasti pro import dokumentu. Jakmile je váš soubor DOC nahrán, klikněte na tlačítko Převést pro zahájení procesu převodu. Po dokončení převodu DOC na PPTX si můžete stáhnout převedený soubor. Jediným kliknutím získáte výstupní soubory PPTX.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod DOC?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tento online převodník DOC pracuje rychle, ale rychlost do značné míry závisí na velikosti souboru DOC. Malé soubory DOC lze převést na PPTX během několika sekund. Pokud jste konverzní kód integrovali do aplikace .NET, bude rychlost procesu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět DOC na PPTX pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Po převodu bude okamžitě k dispozici odkaz ke stažení souboru PPTX. Nahrané soubory jsou smazány po 24 hodinách a odkazy ke stažení po této době již nebudou fungovat. Vaše soubory jsou v bezpečí a nikdo k nim nemá přístup. Bezplatná aplikace je integrována hlavně pro účely testování, takže před integrací kódu můžete ověřit výsledky.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu DOC?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Pro tento online převod DOC na PPTX můžete použít jakýkoli moderní webový prohlížeč, jako je Google Chrome, Firefox, Opera nebo Safari. Pokud však vytváříte desktopovou aplikaci, Aspose.Total DOC Conversion API bude bezproblémově fungovat.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}

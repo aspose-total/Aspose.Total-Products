@@ -55,6 +55,53 @@ API také umožňuje převádět dokumenty WORD chráněné heslem na PPTX. Poku
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
+<div class="col-md-12 tl bg-gray-dark howtolist section">
+  <a class="anchor" name="faqpage"></a>
+  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
+      <div class="col-md-4 howtosectiongfx">
+          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
+      </div>
+      <div class="howtosection col-md-8">
+          <div>
+              <h2>Často kladené otázky</h2>
+              <ul>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak mohu převést WORD na PPTX Online?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Výše integrovaná online aplikace vám umožňuje převádět soubory WORD na PPTX. Chcete-li začít, jednoduše přetáhněte nebo klikněte do bílé oblasti a importujte soubor WORD. Po nahrání souboru klikněte na tlačítko „Převést“. Po dokončení procesu převodu WORD na PPTX si můžete stáhnout převedený soubor jediným kliknutím.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jak dlouho trvá převod WORD?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tento online WORD konvertor pracuje rychle, ale jeho rychlost závisí především na velikosti WORD souboru, který převádíte. Menší soubory WORD lze převést na PPTX během několika sekund. Pokud jste konverzní kód integrovali do své aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                      </div>
+                  </li>
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Je bezpečné převádět WORD na PPTX pomocí bezplatného převodníku Aspose.Total?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Samozřejmě! Po dokončení převodu bude okamžitě k dispozici odkaz ke stažení vašeho souboru PPTX. Vaše nahrané soubory budou po 24 hodinách smazány a odkazy ke stažení po uplynutí této doby přestanou fungovat. Vaše soubory jsou v bezpečí a nikdo k nim nemá přístup. Integrovaná aplikace je zdarma hlavně pro testovací účely, takže si můžete ověřit výsledky před integrací kódu.</span>
+                      </div>
+                  </li>                 
+                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
+                      <div>
+                          <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu WORD?</b></span>
+                      </div>
+                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                          <span itemprop="text">Tento online převod můžete provést pomocí jakéhokoli moderního prohlížeče, jako je Google Chrome, Firefox, Opera nebo Safari. Pokud však vytváříte desktopovou aplikaci, Aspose.Total WORD Conversion API nabízí bezproblémový provoz.</span>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 {{< blocks/products/pf/agp/about-autogen-total >}}
 {{< /blocks/products/pf/main-wrap-class >}}
