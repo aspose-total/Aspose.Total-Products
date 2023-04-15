@@ -1,7 +1,6 @@
 ---
-title: Java API to Export PDF to PS
+title: Export PDF to PS with Java
 description: Convert PDF to PS using on premise Java API
-url_ignore: /java/conversion/pdf-to-ps/
 family: total
 platformtag: java
 feature: conversion
@@ -10,17 +9,21 @@ outformat: PS
 otherformats: DOTX MARKDOWN RTF DOTM XAMLFLOW ODT PCL OTT WORDML FLATOPC DOCM MHTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Transform PDF to PS via Java" h2="On Premise Java API to Render PDF to PS without using any third party application" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PDF to PS via Java" h2="Java API to Transform PDF to PostScript without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PDF to PS by using two simple steps. First you need to render PDF file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to PS. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+There are various reasons for converting a PDF file to PostScript. One reason is printing: some printers and print servers may not be compatible with PDF files, so converting them to PostScript can ensure that the file can be printed on any PostScript-compatible printer. In pre-press, PostScript files are often preferred because they provide more control over the layout and formatting of a document. Converting a PDF file to PostScript can make it easier to adjust the layout and formatting of a document before it goes to print. In some cases, there may be issues with a PDF file that make it difficult to print or view correctly. Converting the file to PostScript can help diagnose and troubleshoot any problems with the file. Additionally, PostScript files are often used for long-term archiving of printed documents, so converting a PDF file to PostScript can ensure that the document is preserved in a format that will be readable in the future. <br><br>
+
+It is possible to convert PDF to PostScript by following two simple steps. The first step involves rendering the PDF file to DOC using a tool such as Aspose.PDF for Java. The second step is to use a powerful Document Processing API like Aspose.Words for Java to convert the DOC file to PS. Both of these APIs are available as part of the [Aspose.Total for Java](https://products.aspose.com/total/java/).<br><br>
+
+[Aspose.PDF for Java](https://products.aspose.com/pdf/java/) is a reliable tool that allows for the rendering of PDF files to DOC format. This can be useful in situations where a PDF file needs to be converted to a format that is more easily editable or compatible with certain printers.Once the PDF file has been converted to DOC format, Aspose.Words for Java can be used to convert it to PostScript. [Aspose.Words for Java](https://products.aspose.com/words/java/) is a powerful document processing API that allows for the conversion of various document formats to other formats such as PDF, HTML, and EPUB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Java API to Convert PDF to PS" %}}
-1. Open PDF file using [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert PDF to PS via Java" %}}
+1. Load PDF file using [Aspose.PDF.Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) class
 2. Convert PDF to DOC by using [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) method
-3. Load DOC file by using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class of Aspose.Words  
+3. Load DOC file using [Aspose.Words.Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class  
 4. Save the document to PS format using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) method and set PS as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -47,7 +50,8 @@ outputDocument.save("output.ps", SaveFormat.PS);
 {{% blocks/products/pf/feature-page-section  h2="Open Password Protected PDF Document via Java" %}}
 While converting PDF to PS, even if your document is password protected, you can still open it using PDF Manipulation API [Aspose.PDF for Java](https://docs.aspose.com/pdf/java/installation/). In order to open the encrypted file, you need to create a [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) object and open the PDF using the owner’s password. 
 {{% blocks/products/pf/feature-page-code %}}
-```cs// open encrypted document
+```java
+// open encrypted document
 Document document = new Document("input.pdf", "password");
 // save PDF as a DOC 
 document.save("DocOutput.doc", SaveFormat.DOC);
@@ -55,7 +59,7 @@ document.save("DocOutput.doc", SaveFormat.DOC);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Save PS Document to a Database via Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Save PS Document to Database as ByteArray via Java" %}}
 While saving your input document to PS file format, you can also save your document to database instead of a file system. You may need to implement storing and retrieving Document objects to and from a database. This would be necessary if you were implementing any type of content management system. In order to save your PS to database it is often necessary to serialize the document to obtain a byte array. This can be done using [Aspose.Words for Java](https://products.aspose.com/words/Java/) API. After getting your byte array, you can store it in the database using SQL statement. 
 {{% blocks/products/pf/feature-page-code %}}
 ```java
