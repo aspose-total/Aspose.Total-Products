@@ -19,7 +19,7 @@ otherformats: POWERPOINT XAML POT OTP PPSM PPSX PPTM PPT PPS POTX SWF POTM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="TEX을 SWF로 변환하는 .NET API" %}}
 1. [문서](https://reference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 TEX 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 TEX을 PPTX로 변환
+2. [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 TEX을 PPTX로 변환
 3. [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) 클래스를 이용하여 PPTX 파일 불러오기
 4. [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) 메서드를 사용하여 문서를 SWF 형식으로 저장하고 'Swf'를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

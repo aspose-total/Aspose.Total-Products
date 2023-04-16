@@ -19,9 +19,9 @@ otherformats: DOT DOCX DOTX RTF TEXT GIF PCL SVG DOCM WORDML EPUB TIFF PNG ODT J
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MSG을 JPEG로 변환하는 C# API" %}}
 1. [MailMessage](https://reference.aspose.com/msg/net/aspose.msg/mailmessage) 클래스를 사용하여 MSG 파일을 엽니다.
-2. [저장](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) 방법을 사용하여 MSG을 HTML로 변환합니다.
+2. [Save](https://reference.aspose.com/msg/net/aspose.msg.mailmessage/save/methods/3) 방법을 사용하여 MSG을 HTML로 변환합니다.
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 HTML 로드
-4. [저장](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 JPEG 형식으로 저장하고 Jpeg를 SaveFormat으로 설정합니다.
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 JPEG 형식으로 저장하고 Jpeg를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

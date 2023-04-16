@@ -19,7 +19,7 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="DOTX를 XLS로 변환하는 .NET API" %}}
 1. [Document](https://reference.aspose.com/words/net/aspose.words/Document) 클래스를 사용하여 DOTX 파일을 엽니다.
-2. [저장](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4) 메서드를 사용하여 DOTX를 HTML로 변환
+2. [Save](https://reference.aspose.com/words/net/aspose.words.Document/save/methods/4) 메서드를 사용하여 DOTX를 HTML로 변환
 3. [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스를 사용하여 HTML 문서 로드
 4. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 메서드를 사용하여 문서를 XLS 형식으로 저장하고 'XLS'를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

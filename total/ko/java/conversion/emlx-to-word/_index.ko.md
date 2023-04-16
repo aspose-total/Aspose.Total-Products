@@ -17,9 +17,9 @@ otherformats: PDF WORDML WORD ODT EMF DOTM FLATOPC DOC PS SVG GIF PNG TEXT OTT R
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="이메일을 WORD로 변환하는 방법" %}}
 1. [MailMessage](https://reference.aspose.com/email/java/com.aspose.email/mailmessage) 클래스를 사용하여 EMLX 파일을 엽니다.
-2. [저장](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)을 사용하여 EMLX을 HTML로 변환합니다.)) 방법
+2. [save](https://reference.aspose.com/email/java/com.aspose.email/MailMessage#save(java.io.OutputStream,%20com.aspose.emlx.SaveOptions)을 사용하여 EMLX을 HTML로 변환합니다.)) 방법
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 HTML 로드
-4. [저장](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 문서를 WORD 형식으로 저장합니다.)) 메서드 및 WORD를 SaveFormat으로 설정
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 문서를 WORD 형식으로 저장합니다.)) 메서드 및 WORD를 SaveFormat으로 설정
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://releases.aspose.com/total/java/) 기반 프로젝트에서 직접 Java용 Aspose.Total을 사용해야 합니다. pom.xml에 라이브러리를 포함합니다.

@@ -19,9 +19,9 @@ otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 JSON 형식을 WORD으로 변환" %}}
 1. 새 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 개체를 만들고 파일에서 유효한 JSON 데이터를 읽습니다.
-2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 클래스와 [저장](https://reference.aspose.com/)을 사용하여 JSON 파일을 워크시트로 가져옵니다. cells/net/aspose.cells.workbook/save/methods/4) PDF로
+2. [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 클래스와 [Save](https://reference.aspose.com/)을 사용하여 JSON 파일을 워크시트로 가져옵니다. cells/net/aspose.cells.workbook/save/methods/4) PDF로
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 PDF 문서 로드
-4. [저장](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) 방법을 사용하여 문서를 WORD 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) 방법을 사용하여 문서를 WORD 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

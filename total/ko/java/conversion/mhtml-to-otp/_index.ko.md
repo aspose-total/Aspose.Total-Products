@@ -17,7 +17,7 @@ otherformats: OTP PPS XAML POTX POT PPSX PPTM POWERPOINT POTM PPSM SWF PPT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="MHTML을 OTP로 변환하는 Java API" %}}
 1. [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 MHTML 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 메소드를 사용하여 MHTML을 PPTX로 변환
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 메소드를 사용하여 MHTML을 PPTX로 변환
 3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPTX 문서를 로드합니다.
 4. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 메소드를 사용하여 문서를 OTP 형식으로 저장하고 `OTP`를 SaveFormat으로
 {{% /blocks/products/pf/agp/feature-section-col %}}

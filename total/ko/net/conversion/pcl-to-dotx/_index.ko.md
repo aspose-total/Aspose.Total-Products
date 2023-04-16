@@ -19,7 +19,7 @@ otherformats: DOT OTT DOTM ODT RTF FLATOPC XAMLFLOW WORDML MARKDOWN PS MHTML DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="PCL을 DOTX으로 변환하는 C# API" %}}
 1. [문서](https://reference.aspose.com/pdf/net/aspose.pdf/document) 클래스를 사용하여 PCL 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 PCL을 문서로 변환
+2. [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) 방법을 사용하여 PCL을 문서로 변환
 3. Aspose.Words의 [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 Doc 파일을 로드합니다.
 4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 DOTX 형식으로 저장하고 Dotx을 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

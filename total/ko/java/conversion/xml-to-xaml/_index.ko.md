@@ -17,7 +17,7 @@ otherformats: PPS POWERPOINT POTX SWF PPSM POTM PPTM PPSX OTP PPT XAML POT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="XML을 XAML로 변환하는 Java API" %}}
 1. [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 사용하여 XML 파일을 엽니다.
-2. [저장](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 메소드를 사용하여 XML을 PPTX로 변환
+2. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-int-) 메소드를 사용하여 XML을 PPTX로 변환
 3. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPTX 문서를 로드합니다.
 4. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-) 메소드를 사용하여 문서를 XAML 형식으로 저장하고 ` Xaml`를 SaveFormat으로
 {{% /blocks/products/pf/agp/feature-section-col %}}

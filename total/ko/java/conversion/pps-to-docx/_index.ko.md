@@ -17,7 +17,7 @@ otherformats: DOCXM TEXT DOCX RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java를 통해 PPS을 DOCX로 변환 또는 온라인 앱하는 방법" %}}
 1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PPS 파일을 엽니다.
-2. [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 PPS을 HTML로 변환합니다. ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
+2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 PPS을 HTML로 변환합니다. ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 변환된 HTML 파일을 로드합니다.
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int)) 메서드를 사용하여 문서를 DOCX 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

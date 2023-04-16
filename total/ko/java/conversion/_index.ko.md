@@ -13,7 +13,7 @@ description: 몇 줄의 Java 코드로 Microsoft Office Word, Excel, PowerPoint,
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="워드를 엑셀로 변환" %}}
-Total API는 Microsoft Word 형식의 상호 변환은 물론 Word를 Excel, PDF, HTML, 이미지, EPUB, Markdown 및 XPS로 변환하는 기능도 지원합니다. 변환 과정은 간단합니다. **Word to Excel** 변환의 경우를 생각해 봅시다. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 Microsoft Word 파일을 로드하고 [Save method](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). 다음으로 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 변환된 HTML 문서를 열고 [저장](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 메서드.
+Total API는 Microsoft Word 형식의 상호 변환은 물론 Word를 Excel, PDF, HTML, 이미지, EPUB, Markdown 및 XPS로 변환하는 기능도 지원합니다. 변환 과정은 간단합니다. **Word to Excel** 변환의 경우를 생각해 봅시다. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 Microsoft Word 파일을 로드하고 [Save method](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)). 다음으로 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 변환된 HTML 문서를 열고 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 메서드.
  개발자는 [Word를 PDF로](https://products.aspose.com/words/java/conversion/word-to-pdf/)로 변환할 수도 있습니다.
 
 
@@ -42,7 +42,7 @@ API는 PDF를 JPEG2000, EMZ, WMZ, TGA, PSD, DXF, WMF, SVGZ, APNG, DICOM, Powerpo
 
 {{% blocks/products/pf/feature-page-section  h2="PowerPoint를 Excel 파일로 변환" %}}
 
-Microsoft PowerPoint 파일을 Excel Word, MHTML, 주요 Aspose.Total for Java API와 관련된 관련 하위 API를 포함한 다른 파일로 변환합니다. PowerPoint 파일을 Excel 문서로 변환하는 과정, [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PowerPoint 파일을 로드하고 **PowerPoint를 HTML로** 변환 [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) 메서드를 사용합니다. 다음으로 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 변환된 HTML 문서를 로드하고 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 메서드. **PowerPoint에서 Word로** 변환을 위한 코드도 나열됩니다.
+Microsoft PowerPoint 파일을 Excel Word, MHTML, 주요 Aspose.Total for Java API와 관련된 관련 하위 API를 포함한 다른 파일로 변환합니다. PowerPoint 파일을 Excel 문서로 변환하는 과정, [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 PowerPoint 파일을 로드하고 **PowerPoint를 HTML로** 변환 [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) 메서드를 사용합니다. 다음으로 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 변환된 HTML 문서를 로드하고 [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/#save(java.lang.String,%20com.aspose.cells.SaveOptions)) 메서드. **PowerPoint에서 Word로** 변환을 위한 코드도 나열됩니다.
 
 {{% blocks/products/pf/feature-page-code h3="자바 파워포인트를 엑셀로 변환" %}}
 

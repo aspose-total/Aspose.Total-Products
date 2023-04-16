@@ -17,7 +17,7 @@ otherformats: WORD DOT RTF DOTX ODT OTT WORDML DOTM TEXT FLATOPC DOTMX DOTMM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Java를 통해 POTX을 DOTM로 변환 또는 온라인 앱하는 방법" %}}
 1. [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스를 사용하여 POTX 파일을 엽니다.
-2. [저장](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POTX을 HTML로 변환합니다. ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
+2. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides)을 사용하여 POTX을 HTML로 변환합니다. ISaveOptions-) 메서드 및 Html을 SaveFormat으로 설정
 3. [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument) 클래스를 사용하여 변환된 HTML 파일을 로드합니다.
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,int)) 메서드를 사용하여 문서를 DOTM 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}

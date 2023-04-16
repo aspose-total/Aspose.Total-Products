@@ -19,7 +19,7 @@ otherformats: EPUB FLATOPC PCL WORDML DOTX PS DOCM RTF DOC WORD MOBI ODT DOT OTT
 1. 새 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 개체를 만들고 파일에서 유효한 JSON 데이터를 읽습니다.
 2. [JsonUtility](https://reference.aspose.com/cells/java/com.aspose.cells/JsonUtility) 클래스와 [Save](https://reference.aspose.com/)를 사용하여 JSON 파일을 워크시트로 가져옵니다. cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) PDF로
 3. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 PDF 문서 로드
-4. [저장](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 문서를 RTF 형식으로 저장합니다.)) 방법
+4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 문서를 RTF 형식으로 저장합니다.)) 방법
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://releases.aspose.com/total/java/) 기반 프로젝트에서 직접 Java용 Aspose.Total을 쉽게 사용할 수 있습니다. pom.xml에 라이브러리를 포함합니다.

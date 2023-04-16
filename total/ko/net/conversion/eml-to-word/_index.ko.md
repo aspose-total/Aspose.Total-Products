@@ -19,9 +19,9 @@ otherformats: DOC ODT PNG TIFF PDF WORD EMF JPEG TEXT DOT WORDML RTF OTT EPUB MD
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="EML을 WORD로 변환하는 C# API" %}}
 1. [MailMessage](https://reference.aspose.com/eml/net/aspose.eml/mailmessage) 클래스를 사용하여 EML 파일을 엽니다.
-2. [저장](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) 방법을 사용하여 EML을 HTML로 변환합니다.
+2. [Save](https://reference.aspose.com/eml/net/aspose.eml.mailmessage/save/methods/3) 방법을 사용하여 EML을 HTML로 변환합니다.
 3. [Document](https://reference.aspose.com/words/net/aspose.words/document) 클래스를 사용하여 HTML 로드
-4. [저장](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 WORD 형식으로 저장하고 Word를 SaveFormat으로 설정합니다.
+4. [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) 방법을 사용하여 문서를 WORD 형식으로 저장하고 Word를 SaveFormat으로 설정합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

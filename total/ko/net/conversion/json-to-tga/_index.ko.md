@@ -19,9 +19,9 @@ otherformats: EMZ PSD IMAGE TGA DXF WMZ WMF JPEG2000 SVGZ DICOM
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="C#을 통해 JSON 형식을 TGA로 변환" %}}
 1. 새 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 개체를 만들고 파일에서 JSON 데이터 읽기
-2. [저장](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 방법을 사용하여 JSON을 JPEG로 변환
+2. [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 방법을 사용하여 JSON을 JPEG로 변환
 3. [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image) 클래스를 사용하여 JPEG 문서를 로드합니다.
-4. [저장](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) 방법을 사용하여 문서를 TGA 형식으로 저장합니다.
+4. [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) 방법을 사용하여 문서를 TGA 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

@@ -19,7 +19,7 @@ XLTX를 DOC로 렌더링하는 것은 2단계 프로세스입니다. 먼저 [Asp
 1. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 XLTX 파일 열기
 2. XLTX를 PDF로 변환하고 SaveFormat을 AUTO로 설정
 3. [문서](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document) 클래스를 이용하여 변환된 PDF 파일을 불러옵니다.
-4. [저장](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 DOC 형식으로 저장합니다.-) 메서드 및 Doc을 SaveFormat으로 설정
+4. [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions)을 사용하여 문서를 DOC 형식으로 저장합니다 메서드 및 Doc을 SaveFormat으로 설정
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
 [Maven](https://releases.aspose.com/total/java/) 기반 프로젝트에서 직접 Java용 Aspose.Total을 사용해야 합니다. pom.xml에 라이브러리를 포함합니다.
