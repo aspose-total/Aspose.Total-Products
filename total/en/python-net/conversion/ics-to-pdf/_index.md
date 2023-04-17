@@ -10,7 +10,7 @@ outformat: PDF
 otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS RTF TEXT WORD WORDML BMP GIF IMAGE JPEG TIFF PNG SVG XPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert ICS to PDF using Python" h2="ICS to PDF conversion in your Python Applications without installing Microsoft Word<sup>&reg;</sup> or Outlook." >}}
+{{< blocks/products/pf/feature-page-header h1="Convert ICS to PDF using Python" h2="ICS to PDF conversion in Python Apps without installing Microsoft Word<sup>&reg;</sup> or Outlook" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -19,7 +19,7 @@ For a Python developer, who is trying to add a ICS to PDF conversion feature wit
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert ICS to PDF in Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert ICS to PDF in Python?" %}}
 
 - Open the source ICS file using MailMessage.load class
 - Call the `save` method while specifying output HTML file path and relevant HTML Save options as parameter. So your ICS file is converted to HTML at the specified path
