@@ -83,7 +83,7 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM CSV E
                           <span itemprop="name"><b>轉換 POT 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">這個在線轉換器的速度很快，但是很大程度上取決於被轉換的POT文件的大小。只需幾秒鐘即可將較小的 POT 文件渲染為 XLT。如果您計劃將轉換代碼集成到 .NET 應用程序中，速度將取決於您如何針對轉換過程優化應用程序。</span>
+                          <span itemprop="text">這個在線轉換器的速度很快，但是很大程度上取決於被轉換的POT文件的大小。只需幾秒鐘即可將較小的 POT 文件渲染為 XLT。如果您計劃將轉換代碼集成到 C++ 應用程序中，速度將取決於您如何針對轉換過程優化應用程序。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

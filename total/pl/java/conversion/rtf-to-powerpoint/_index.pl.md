@@ -79,7 +79,7 @@ Interfejs API umożliwia również konwersję dokumentów RTF chronionych hasłe
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ten internetowy konwerter RTF działa szybko, ale jego szybkość zależy przede wszystkim od rozmiaru konwertowanego pliku RTF. Mniejsze pliki RTF można przekonwertować na format POWERPOINT w zaledwie kilka sekund. Jeśli zintegrowałeś kod konwersji ze swoją aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
+                          <span itemprop="text">Ten internetowy konwerter RTF działa szybko, ale jego szybkość zależy przede wszystkim od rozmiaru konwertowanego pliku RTF. Mniejsze pliki RTF można przekonwertować na format POWERPOINT w zaledwie kilka sekund. Jeśli zintegrowałeś kod konwersji ze swoją aplikacją Java, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

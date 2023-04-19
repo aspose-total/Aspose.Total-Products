@@ -86,7 +86,7 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML MARKDOWN EXCEL 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل POT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف POT. إذا كان ملف POT صغير الحجم ، فيمكن إتمام التحويل إلى MARKDOWN في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف POT. إذا كان ملف POT صغير الحجم ، فيمكن إتمام التحويل إلى MARKDOWN في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق Java ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

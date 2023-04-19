@@ -78,7 +78,7 @@ Med hjälp av API:t kan du också utföra POTM-fil till OTT-konvertering med vat
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online-omvandlare är designad för att ge snabb och effektiv POTM till OTT-konvertering. Hastigheten på konverteringsprocessen kan variera beroende på storleken på POTM-filen. Små POTM-filer kan konverteras till OTT på bara några sekunder. Men om du integrerar konverteringskoden i en .NET-applikation kan konverteringshastigheten bero på hur väl du har optimerat din applikation. Hur som helst är vårt POTM till OTT-konverteringsverktyg utrustat med den senaste tekniken som säkerställer bästa möjliga prestanda och utskriftskvalitet.</span>
+                          <span itemprop="text">Denna online-omvandlare är designad för att ge snabb och effektiv POTM till OTT-konvertering. Hastigheten på konverteringsprocessen kan variera beroende på storleken på POTM-filen. Små POTM-filer kan konverteras till OTT på bara några sekunder. Men om du integrerar konverteringskoden i en Java-applikation kan konverteringshastigheten bero på hur väl du har optimerat din applikation. Hur som helst är vårt POTM till OTT-konverteringsverktyg utrustat med den senaste tekniken som säkerställer bästa möjliga prestanda och utskriftskvalitet.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

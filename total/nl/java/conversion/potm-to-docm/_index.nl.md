@@ -78,7 +78,7 @@ Met behulp van de API kunt u ook een POTM-bestand naar DOCM-conversie met waterm
                           <span itemprop="name"><b>Hoe lang duurt het om POTM te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Deze online converter is ontworpen om snelle en efficiënte POTM naar DOCM-conversie te bieden. De snelheid van het conversieproces kan variëren, afhankelijk van de grootte van het POTM-bestand. Kleine POTM-bestanden kunnen in slechts enkele seconden naar DOCM worden geconverteerd. Als u de conversiecode echter integreert in een .NET-toepassing, kan de conversiesnelheid afhangen van hoe goed u uw toepassing hebt geoptimaliseerd. In ieder geval is onze POTM naar DOCM-conversietool uitgerust met de modernste technologie die zorgt voor de best mogelijke prestaties en uitvoerkwaliteit.</span>
+                          <span itemprop="text">Deze online converter is ontworpen om snelle en efficiënte POTM naar DOCM-conversie te bieden. De snelheid van het conversieproces kan variëren, afhankelijk van de grootte van het POTM-bestand. Kleine POTM-bestanden kunnen in slechts enkele seconden naar DOCM worden geconverteerd. Als u de conversiecode echter integreert in een Java-toepassing, kan de conversiesnelheid afhangen van hoe goed u uw toepassing hebt geoptimaliseerd. In ieder geval is onze POTM naar DOCM-conversietool uitgerust met de modernste technologie die zorgt voor de best mogelijke prestaties en uitvoerkwaliteit.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

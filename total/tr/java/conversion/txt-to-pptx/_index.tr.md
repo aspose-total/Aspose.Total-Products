@@ -79,7 +79,7 @@ API ayrıca parola korumalı TXT belgelerini PPTX'ye dönüştürmenize olanak t
                           <span itemprop="name"><b>TXT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi TXT dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz TXT dosyasının boyutuna bağlıdır. Daha küçük TXT dosyaları sadece birkaç saniye içinde PPTX'e dönüştürülebilir. Dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi TXT dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz TXT dosyasının boyutuna bağlıdır. Daha küçük TXT dosyaları sadece birkaç saniye içinde PPTX'e dönüştürülebilir. Dönüştürme kodunu Java uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

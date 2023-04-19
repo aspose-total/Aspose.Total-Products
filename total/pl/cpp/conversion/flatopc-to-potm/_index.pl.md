@@ -143,7 +143,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja FLATOPC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online zależy w dużej mierze od rozmiaru konwertowanego pliku FLATOPC. Małe pliki FLATOPC można przekonwertować na format POTM w ciągu zaledwie kilku sekund. Jeśli używasz kodu konwersji w aplikacji .NET, szybkość konwersji będzie zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
+                          <span itemprop="text">Szybkość tego konwertera online zależy w dużej mierze od rozmiaru konwertowanego pliku FLATOPC. Małe pliki FLATOPC można przekonwertować na format POTM w ciągu zaledwie kilku sekund. Jeśli używasz kodu konwersji w aplikacji C++, szybkość konwersji będzie zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

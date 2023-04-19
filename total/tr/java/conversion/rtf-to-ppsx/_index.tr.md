@@ -79,7 +79,7 @@ API ayrıca parola korumalı RTF belgelerini PPSX'ye dönüştürmenize olanak t
                           <span itemprop="name"><b>RTF'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi RTF dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz RTF dosyasının boyutuna bağlıdır. Daha küçük RTF dosyaları sadece birkaç saniye içinde PPSX'e dönüştürülebilir. Dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi RTF dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz RTF dosyasının boyutuna bağlıdır. Daha küçük RTF dosyaları sadece birkaç saniye içinde PPSX'e dönüştürülebilir. Dönüştürme kodunu Java uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

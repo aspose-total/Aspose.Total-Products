@@ -79,7 +79,7 @@ APIを使用すると、パスワードで保護されたDOTMドキュメント�
                           <span itemprop="name"><b>DOTM の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン DOTM コンバーターは高速に動作しますが、速度は主に変換する DOTM ファイルのサイズによって異なります。小さい DOTM ファイルは、わずか数秒で POTM に変換できます。変換コードを .NET アプリケーションに統合した場合、変換プロセスの速度は、アプリケーションをどの程度最適化したかによって異なります。</span>
+                          <span itemprop="text">このオンライン DOTM コンバーターは高速に動作しますが、速度は主に変換する DOTM ファイルのサイズによって異なります。小さい DOTM ファイルは、わずか数秒で POTM に変換できます。変換コードを Java アプリケーションに統合した場合、変換プロセスの速度は、アプリケーションをどの程度最適化したかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

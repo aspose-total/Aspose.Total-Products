@@ -143,7 +143,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
                           <span itemprop="name"><b>Quanto tempo leva para converter TXT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo TXT que está sendo convertido. Pequenos arquivos TXT podem ser convertidos em PPT em apenas alguns segundos. Se você estiver usando o código de conversão em um aplicativo .NET, a velocidade de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo TXT que está sendo convertido. Pequenos arquivos TXT podem ser convertidos em PPT em apenas alguns segundos. Se você estiver usando o código de conversão em um aplicativo C++, a velocidade de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ otherformats: PPTX PPTM POWERPOINT PPSX PPS POTX POT PPSM PPT POTM CSV DIF FODS 
                           <span itemprop="name"><b>转换 DOC 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线 DOC 转换器运行速度很快，但其速度主要取决于您要转换的 DOC 文件的大小。只需几秒钟即可将较小的 DOC 文件转换为 POT。如果您已将转换代码集成到您的 .NET 应用程序中，则转换过程的速度将取决于您对应用程序的优化程度。</span>
+                          <span itemprop="text">此在线 DOC 转换器运行速度很快，但其速度主要取决于您要转换的 DOC 文件的大小。只需几秒钟即可将较小的 DOC 文件转换为 POT。如果您已将转换代码集成到您的 Java 应用程序中，则转换过程的速度将取决于您对应用程序的优化程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

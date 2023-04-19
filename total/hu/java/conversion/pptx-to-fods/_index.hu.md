@@ -86,7 +86,7 @@ A PPTX fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimen
                           <span itemprop="name"><b>Mennyi ideig tart a PPTX konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagymértékben függ a PPTX fájl méretétől. Ha a PPTX fájl kicsi, a FODS formátumú átalakítás néhány másodpercen belül befejeződik. Ezenkívül, ha integrálta a konverziós kódot egy .NET-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást erre a célra.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagymértékben függ a PPTX fájl méretétől. Ha a PPTX fájl kicsi, a FODS formátumú átalakítás néhány másodpercen belül befejeződik. Ezenkívül, ha integrálta a konverziós kódot egy Java-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást erre a célra.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

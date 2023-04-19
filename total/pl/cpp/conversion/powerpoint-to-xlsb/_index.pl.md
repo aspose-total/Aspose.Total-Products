@@ -83,7 +83,7 @@ Korzystając z interfejsu API, możesz również otworzyć dokument chroniony ha
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online jest duża, ale w dużej mierze zależy od rozmiaru konwertowanego pliku POWERPOINT. Mniejsze pliki POWERPOINT można renderować do formatu XLSB w zaledwie kilka sekund. Jeśli planujesz zintegrować kod konwersji w aplikacji .NET, szybkość będzie zależała od tego, jak zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
+                          <span itemprop="text">Szybkość tego konwertera online jest duża, ale w dużej mierze zależy od rozmiaru konwertowanego pliku POWERPOINT. Mniejsze pliki POWERPOINT można renderować do formatu XLSB w zaledwie kilka sekund. Jeśli planujesz zintegrować kod konwersji w aplikacji C++, szybkość będzie zależała od tego, jak zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

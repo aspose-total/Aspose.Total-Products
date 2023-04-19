@@ -85,7 +85,7 @@ Po zakończeniu konwersji OTT na XLAM będziesz mógł natychmiast pobrać przek
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jeśli chodzi o użycie konwertera OTT na XLAM, szybkość procesu konwersji będzie zależeć w dużej mierze od rozmiaru pliku OTT. W przypadku mniejszych plików konwersję można przeprowadzić w ciągu zaledwie kilku sekund, co czyni ją niezwykle szybką i wydajną. Jednak konwersja większych plików może potrwać nieco dłużej.<br />
 
-Jeśli planujesz zintegrować kod konwersji OTT na XLAM ze swoją aplikacją .NET, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików OTT do formatu XLAM.</span>
+Jeśli planujesz zintegrować kod konwersji OTT na XLAM ze swoją aplikacją C++, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików OTT do formatu XLAM.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

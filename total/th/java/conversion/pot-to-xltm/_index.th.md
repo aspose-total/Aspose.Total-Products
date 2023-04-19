@@ -86,7 +86,7 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
                           <span itemprop="name"><b>การแปลง POT ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ POT เป็นส่วนใหญ่ หากไฟล์ POT มีขนาดเล็ก การแปลงเป็น XLTM สามารถทำได้ภายในไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับจุดประสงค์นี้ได้ดีเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ POT เป็นส่วนใหญ่ หากไฟล์ POT มีขนาดเล็ก การแปลงเป็น XLTM สามารถทำได้ภายในไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลงภายในแอปพลิเคชัน Java ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับจุดประสงค์นี้ได้ดีเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

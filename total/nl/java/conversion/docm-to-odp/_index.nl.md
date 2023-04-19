@@ -79,7 +79,7 @@ Met de API kunt u ook met een wachtwoord beveiligde DOCM-documentn naar ODP conv
                           <span itemprop="name"><b>Hoe lang duurt het om DOCM te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Deze online DOCM-converter werkt snel, maar de snelheid hangt voornamelijk af van de grootte van het DOCM-bestand dat u converteert. Kleinere DOCM-bestanden kunnen in slechts enkele seconden naar ODP worden geconverteerd. Als u de conversiecode in uw .NET-applicatie heeft geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed u uw applicatie heeft geoptimaliseerd.</span>
+                          <span itemprop="text">Deze online DOCM-converter werkt snel, maar de snelheid hangt voornamelijk af van de grootte van het DOCM-bestand dat u converteert. Kleinere DOCM-bestanden kunnen in slechts enkele seconden naar ODP worden geconverteerd. Als u de conversiecode in uw Java-applicatie heeft geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed u uw applicatie heeft geoptimaliseerd.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

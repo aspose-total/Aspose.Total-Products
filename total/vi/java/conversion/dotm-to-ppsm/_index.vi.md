@@ -79,7 +79,7 @@ API cũng cho phép bạn chuyển đổi các tài liệu DOTM được bảo v
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi DOTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Trình chuyển đổi DOTM trực tuyến này hoạt động nhanh chóng nhưng tốc độ của nó phụ thuộc chủ yếu vào kích thước của tệp DOTM mà bạn đang chuyển đổi. Các tệp DOTM nhỏ hơn có thể được chuyển đổi thành PPSM chỉ trong vài giây. Nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng .NET của mình, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
+                          <span itemprop="text">Trình chuyển đổi DOTM trực tuyến này hoạt động nhanh chóng nhưng tốc độ của nó phụ thuộc chủ yếu vào kích thước của tệp DOTM mà bạn đang chuyển đổi. Các tệp DOTM nhỏ hơn có thể được chuyển đổi thành PPSM chỉ trong vài giây. Nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng Java của mình, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

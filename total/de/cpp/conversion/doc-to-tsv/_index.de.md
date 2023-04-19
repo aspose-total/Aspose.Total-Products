@@ -85,7 +85,7 @@ Sobald die DOC-zu-TSV-Konvertierung abgeschlossen ist, können Sie Ihre konverti
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Bei der Verwendung des DOC-zu-TSV-Konverters hängt die Geschwindigkeit des Konvertierungsprozesses weitgehend von der Größe Ihrer DOC-Datei ab. Bei kleineren Dateien kann die Konvertierung in nur wenigen Sekunden abgeschlossen werden, was sie unglaublich schnell und effizient macht. Bei größeren Dateien kann die Konvertierung jedoch etwas länger dauern.<br />
 
-Wenn Sie planen, den DOC-zu-TSV-Konvertierungscode in Ihre .NET-Anwendung zu integrieren, hängt die Geschwindigkeit und Effizienz des Konvertierungsprozesses auch davon ab, wie gut Sie Ihre Anwendung optimiert haben. Indem Sie sicherstellen, dass Ihre Anwendung für den Konvertierungsprozess optimiert ist, können Sie dazu beitragen, dass Ihre DOC-Dateien schnell und genau in das TSV-Format konvertiert werden.</span>
+Wenn Sie planen, den DOC-zu-TSV-Konvertierungscode in Ihre C++-Anwendung zu integrieren, hängt die Geschwindigkeit und Effizienz des Konvertierungsprozesses auch davon ab, wie gut Sie Ihre Anwendung optimiert haben. Indem Sie sicherstellen, dass Ihre Anwendung für den Konvertierungsprozess optimiert ist, können Sie dazu beitragen, dass Ihre DOC-Dateien schnell und genau in das TSV-Format konvertiert werden.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

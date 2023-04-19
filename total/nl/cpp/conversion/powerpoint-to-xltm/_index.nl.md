@@ -83,7 +83,7 @@ Met behulp van de API kunt u ook het met een wachtwoord beveiligde document open
                           <span itemprop="name"><b>Hoe lang duurt het om POWERPOINT te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter is hoog, maar hangt grotendeels af van de grootte van het POWERPOINT-bestand dat wordt geconverteerd. Kleinere POWERPOINT-bestanden kunnen in slechts enkele seconden naar XLTM worden omgezet. Als u van plan bent de conversiecode te integreren in een .NET-toepassing, hangt de snelheid af van hoe u uw toepassing hebt geoptimaliseerd voor het conversieproces.</span>
+                          <span itemprop="text">De snelheid van deze online converter is hoog, maar hangt grotendeels af van de grootte van het POWERPOINT-bestand dat wordt geconverteerd. Kleinere POWERPOINT-bestanden kunnen in slechts enkele seconden naar XLTM worden omgezet. Als u van plan bent de conversiecode te integreren in een C++-toepassing, hangt de snelheid af van hoe u uw toepassing hebt geoptimaliseerd voor het conversieproces.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

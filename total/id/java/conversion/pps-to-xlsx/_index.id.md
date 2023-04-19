@@ -86,7 +86,7 @@ Saat mengonversi file PPS ke XLSX, Anda juga dapat menambahkan tanda air ke form
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi PPS?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file PPS. Jika file PPS berukuran kecil, konversi ke XLSX dapat diselesaikan dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi dalam aplikasi .NET, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi untuk tujuan ini.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file PPS. Jika file PPS berukuran kecil, konversi ke XLSX dapat diselesaikan dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi dalam aplikasi Java, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi untuk tujuan ini.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

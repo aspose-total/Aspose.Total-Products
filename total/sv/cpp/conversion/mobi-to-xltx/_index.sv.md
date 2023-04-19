@@ -85,7 +85,7 @@ När MOBI till XLTX-konverteringen är klar kommer du att kunna ladda ner din ko
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">När det gäller att använda MOBI till XLTX-omvandlaren kommer hastigheten på konverteringsprocessen till stor del att bero på storleken på din MOBI-fil. För mindre filer kan konverteringen slutföras på bara några sekunder, vilket gör den otroligt snabb och effektiv. Det kan dock ta lite längre tid att konvertera större filer.<br />
 
-Om du planerar att integrera MOBI till XLTX-konverteringskoden i din .NET-applikation, kommer hastigheten och effektiviteten i konverteringsprocessen också att bero på hur väl du har optimerat din applikation. Genom att se till att din applikation är optimerad för konverteringsprocessen kan du hjälpa till att säkerställa att dina MOBI-filer konverteras till XLTX-format snabbt och korrekt.</span>
+Om du planerar att integrera MOBI till XLTX-konverteringskoden i din C++-applikation, kommer hastigheten och effektiviteten i konverteringsprocessen också att bero på hur väl du har optimerat din applikation. Genom att se till att din applikation är optimerad för konverteringsprocessen kan du hjälpa till att säkerställa att dina MOBI-filer konverteras till XLTX-format snabbt och korrekt.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ API cũng cho phép bạn chuyển đổi các tài liệu DOCM được bảo v
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Trình chuyển đổi DOCM trực tuyến này hoạt động nhanh chóng nhưng tốc độ của nó phụ thuộc chủ yếu vào kích thước của tệp DOCM mà bạn đang chuyển đổi. Các tệp DOCM nhỏ hơn có thể được chuyển đổi thành PPT chỉ trong vài giây. Nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng .NET của mình, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
+                          <span itemprop="text">Trình chuyển đổi DOCM trực tuyến này hoạt động nhanh chóng nhưng tốc độ của nó phụ thuộc chủ yếu vào kích thước của tệp DOCM mà bạn đang chuyển đổi. Các tệp DOCM nhỏ hơn có thể được chuyển đổi thành PPT chỉ trong vài giây. Nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng Java của mình, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

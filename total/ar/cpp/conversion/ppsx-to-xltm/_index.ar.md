@@ -83,7 +83,7 @@ otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX CSV DIF XL
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPSX؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPSX الذي يتم تحويله. يمكن تحويل ملفات PPSX الأصغر إلى XLTM في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPSX الذي يتم تحويله. يمكن تحويل ملفات PPSX الأصغر إلى XLTM في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق C++ ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

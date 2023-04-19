@@ -143,7 +143,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
                           <span itemprop="name"><b>Mennyi ideig tart a DOC konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálandó DOC fájl méretétől. A kisméretű DOC fájlok néhány másodperc alatt POTM formátumba konvertálhatók. Ha a konverziós kódot egy .NET-alkalmazáson belül használja, a konverziós sebesség attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálandó DOC fájl méretétől. A kisméretű DOC fájlok néhány másodperc alatt POTM formátumba konvertálhatók. Ha a konverziós kódot egy C++-alkalmazáson belül használja, a konverziós sebesség attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

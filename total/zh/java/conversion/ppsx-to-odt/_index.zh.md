@@ -77,7 +77,7 @@ otherformats: DOT ODT RTF TEXT DOTX WORD FLATOPC ODTM OTT DOTM ODTX WORDML
                           <span itemprop="name"><b>转换 PPSX 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线转换器旨在提供快速高效的 PPSX 到 ODT 转换。转换过程的速度可能因 PPSX 文件的大小而异。只需几秒钟即可将小尺寸 PPSX 文件转换为 ODT。但是，如果您将转换代码集成到 .NET 应用程序中，则转换速度可能取决于您对应用程序的优化程度。无论如何，我们的 PPSX 到 ODT 转换工具配备了最先进的技术，可确保最佳性能和输出质量。</span>
+                          <span itemprop="text">此在线转换器旨在提供快速高效的 PPSX 到 ODT 转换。转换过程的速度可能因 PPSX 文件的大小而异。只需几秒钟即可将小尺寸 PPSX 文件转换为 ODT。但是，如果您将转换代码集成到 Java 应用程序中，则转换速度可能取决于您对应用程序的优化程度。无论如何，我们的 PPSX 到 ODT 转换工具配备了最先进的技术，可确保最佳性能和输出质量。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

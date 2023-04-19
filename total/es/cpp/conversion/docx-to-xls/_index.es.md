@@ -85,7 +85,7 @@ Una vez que se complete la conversión de DOCX a XLS, podrá descargar su archiv
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Cuando se trata de usar el convertidor de DOCX a XLS, la velocidad del proceso de conversión dependerá en gran medida del tamaño de su archivo DOCX. Para archivos más pequeños, la conversión se puede completar en solo unos segundos, lo que la hace increíblemente rápida y eficiente. Sin embargo, los archivos más grandes pueden tardar un poco más en convertirse.<br />
 
-Si planea integrar el código de conversión de DOCX a XLS en su aplicación .NET, la velocidad y la eficiencia del proceso de conversión también dependerán de qué tan bien haya optimizado su aplicación. Al asegurarse de que su aplicación esté optimizada para el proceso de conversión, puede asegurarse de que sus archivos DOCX se conviertan a formato XLS de forma rápida y precisa.</span>
+Si planea integrar el código de conversión de DOCX a XLS en su aplicación C++, la velocidad y la eficiencia del proceso de conversión también dependerán de qué tan bien haya optimizado su aplicación. Al asegurarse de que su aplicación esté optimizada para el proceso de conversión, puede asegurarse de que sus archivos DOCX se conviertan a formato XLS de forma rápida y precisa.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -137,7 +137,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
                           <span itemprop="name"><b>How long does it take to convert DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter depends largely on the size of the DOCX file being converted. Small DOCX files can be converted to PPT in just a few seconds. If you are using the conversion code within a .NET application, the conversion speed will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">The speed of this online converter depends largely on the size of the DOCX file being converted. Small DOCX files can be converted to PPT in just a few seconds. If you are using the conversion code within a C++ application, the conversion speed will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -84,7 +84,7 @@ otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
                           <span itemprop="name"><b>การแปลง PPSM ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้เร็ว แต่ส่วนใหญ่ขึ้นอยู่กับขนาดของไฟล์ PPSM ที่กำลังแปลง ไฟล์ PPSM ที่เล็กลงสามารถแปลงเป็น ODS ได้ในเวลาเพียงไม่กี่วินาที หากคุณวางแผนที่จะรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงอย่างไร</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้เร็ว แต่ส่วนใหญ่ขึ้นอยู่กับขนาดของไฟล์ PPSM ที่กำลังแปลง ไฟล์ PPSM ที่เล็กลงสามารถแปลงเป็น ODS ได้ในเวลาเพียงไม่กี่วินาที หากคุณวางแผนที่จะรวมรหัสการแปลงภายในแอปพลิเคชัน C++ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงอย่างไร</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

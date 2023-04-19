@@ -86,7 +86,7 @@ Tijdens het converteren van een PPSX-bestand naar EXCEL, kunt u ook een watermer
                           <span itemprop="name"><b>Hoe lang duurt het om PPSX te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter is grotendeels afhankelijk van de grootte van het PPSX-bestand. Als het PPSX-bestand klein is, kan de conversie naar EXCEL binnen enkele seconden worden voltooid. Bovendien, als u de conversiecode in een .NET-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed u uw toepassing voor dit doel heeft geoptimaliseerd.</span>
+                          <span itemprop="text">De snelheid van deze online converter is grotendeels afhankelijk van de grootte van het PPSX-bestand. Als het PPSX-bestand klein is, kan de conversie naar EXCEL binnen enkele seconden worden voltooid. Bovendien, als u de conversiecode in een Java-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed u uw toepassing voor dit doel heeft geoptimaliseerd.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ Po zakończeniu konwersji RTF na XLSX będziesz mógł natychmiast pobrać przek
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jeśli chodzi o użycie konwertera RTF na XLSX, szybkość procesu konwersji będzie zależeć w dużej mierze od rozmiaru pliku RTF. W przypadku mniejszych plików konwersję można przeprowadzić w ciągu zaledwie kilku sekund, co czyni ją niezwykle szybką i wydajną. Jednak konwersja większych plików może potrwać nieco dłużej.<br />
 
-Jeśli planujesz zintegrować kod konwersji RTF na XLSX ze swoją aplikacją .NET, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików RTF do formatu XLSX.</span>
+Jeśli planujesz zintegrować kod konwersji RTF na XLSX ze swoją aplikacją C++, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików RTF do formatu XLSX.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

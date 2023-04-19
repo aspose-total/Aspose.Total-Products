@@ -79,7 +79,7 @@ API ayrıca parola korumalı DOC belgelerini PPTX'ye dönüştürmenize olanak t
                           <span itemprop="name"><b>DOC'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi DOC dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz DOC dosyasının boyutuna bağlıdır. Daha küçük DOC dosyaları sadece birkaç saniye içinde PPTX'e dönüştürülebilir. Dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi DOC dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz DOC dosyasının boyutuna bağlıdır. Daha küçük DOC dosyaları sadece birkaç saniye içinde PPTX'e dönüştürülebilir. Dönüştürme kodunu Java uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

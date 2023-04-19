@@ -79,7 +79,7 @@ otherformats: PPS PPT PPTM PPSM PPTX POTM PPSX POWERPOINT POTX POT CSV DIF FODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل DOTM؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يعمل محول DOTM عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف DOTM الذي تقوم بتحويله. يمكن تحويل ملفات DOTM الأصغر إلى POT في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
+                          <span itemprop="text">يعمل محول DOTM عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف DOTM الذي تقوم بتحويله. يمكن تحويل ملفات DOTM الأصغر إلى POT في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق Java الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

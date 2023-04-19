@@ -80,7 +80,7 @@ dot->Save(u"output.dot");
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir PPS ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de conversion PPS en DOT à l'aide de ce convertisseur en ligne dépend en grande partie de la taille du fichier PPS. Les fichiers PPS plus petits peuvent être convertis en DOT en quelques secondes seulement. De plus, si vous avez intégré le code de conversion dans votre application .NET, la vitesse de conversion dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
+                          <span itemprop="text">La vitesse de conversion PPS en DOT à l'aide de ce convertisseur en ligne dépend en grande partie de la taille du fichier PPS. Les fichiers PPS plus petits peuvent être convertis en DOT en quelques secondes seulement. De plus, si vous avez intégré le code de conversion dans votre application C++, la vitesse de conversion dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -96,7 +96,7 @@ dot->Save(u"output.dot");
                           <span itemprop="name"><b>Quel navigateur dois-je utiliser pour convertir PPS ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Le convertisseur PPS en DOT en ligne est compatible avec tous les navigateurs Web modernes, y compris Google Chrome, Firefox, Opera et Safari, entre autres. Toutefois, si vous travaillez sur une application de bureau, vous pouvez envisager d'utiliser l'API Aspose.Total PPS Conversion, spécialement conçue pour une intégration transparente avec les applications .NET. Cette API offre une conversion à grande vitesse et des fonctionnalités avancées qui peuvent améliorer les performances de votre application. De plus, il prend en charge une large gamme de formats de fichiers, ce qui en fait une solution polyvalente pour tous vos besoins de conversion. Que vous choisissiez d'utiliser le convertisseur en ligne ou l'API, vous pouvez être assuré que vos fichiers sont en sécurité tout au long du processus de conversion.</span>
+                          <span itemprop="text">Le convertisseur PPS en DOT en ligne est compatible avec tous les navigateurs Web modernes, y compris Google Chrome, Firefox, Opera et Safari, entre autres. Toutefois, si vous travaillez sur une application de bureau, vous pouvez envisager d'utiliser l'API Aspose.Total PPS Conversion, spécialement conçue pour une intégration transparente avec les applications C++. Cette API offre une conversion à grande vitesse et des fonctionnalités avancées qui peuvent améliorer les performances de votre application. De plus, il prend en charge une large gamme de formats de fichiers, ce qui en fait une solution polyvalente pour tous vos besoins de conversion. Que vous choisissiez d'utiliser le convertisseur en ligne ou l'API, vous pouvez être assuré que vos fichiers sont en sécurité tout au long du processus de conversion.</span>
                       </div>
                   </li>
               </ul>

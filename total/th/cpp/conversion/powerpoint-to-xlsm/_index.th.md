@@ -84,7 +84,7 @@ otherformats: MARKDOWN FODS XLTM DIF TSV ODS XLAM EXCEL MHTML XLSX SXC XLTX CSV 
                           <span itemprop="name"><b>การแปลง POWERPOINT ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้เร็ว แต่ส่วนใหญ่ขึ้นอยู่กับขนาดของไฟล์ POWERPOINT ที่กำลังแปลง ไฟล์ POWERPOINT ที่เล็กลงสามารถแปลงเป็น XLSM ได้ในเวลาเพียงไม่กี่วินาที หากคุณวางแผนที่จะรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงอย่างไร</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้เร็ว แต่ส่วนใหญ่ขึ้นอยู่กับขนาดของไฟล์ POWERPOINT ที่กำลังแปลง ไฟล์ POWERPOINT ที่เล็กลงสามารถแปลงเป็น XLSM ได้ในเวลาเพียงไม่กี่วินาที หากคุณวางแผนที่จะรวมรหัสการแปลงภายในแอปพลิเคชัน C++ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงอย่างไร</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

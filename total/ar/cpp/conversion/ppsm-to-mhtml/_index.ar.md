@@ -83,7 +83,7 @@ otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF CSV ODS TS
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPSM؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPSM الذي يتم تحويله. يمكن تحويل ملفات PPSM الأصغر إلى MHTML في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPSM الذي يتم تحويله. يمكن تحويل ملفات PPSM الأصغر إلى MHTML في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق C++ ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

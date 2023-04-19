@@ -90,7 +90,7 @@ The RTF to SXC converter works quickly and efficiently, so your conversion shoul
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Although the online RTF to SXC converter is designed to work quickly and efficiently, the speed of the conversion process may depend on the size of your RTF file. Generally, smaller RTF files can be rendered to SXC format in just a few seconds, while larger files may take a bit longer.<br />
 
-If you're looking to integrate the RTF to SXC conversion process within a .NET application, the speed and efficiency of the conversion will depend on how well you've optimized your application. It's important to ensure that your application is well-designed and streamlined for the conversion process, as this can help to minimize processing time and ensure that the conversion runs smoothly. Overall, by optimizing your application and using the RTF to SXC converter, you can enjoy fast and efficient RTF to SXC conversion with ease.</span>
+If you're looking to integrate the RTF to SXC conversion process within a Java application, the speed and efficiency of the conversion will depend on how well you've optimized your application. It's important to ensure that your application is well-designed and streamlined for the conversion process, as this can help to minimize processing time and ensure that the conversion runs smoothly. Overall, by optimizing your application and using the RTF to SXC converter, you can enjoy fast and efficient RTF to SXC conversion with ease.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

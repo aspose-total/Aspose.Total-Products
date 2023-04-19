@@ -85,7 +85,7 @@ Assim que a conversão de WORD para XLSX estiver concluída, você poderá baixa
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Quando se trata de usar o conversor WORD para XLSX, a velocidade do processo de conversão dependerá muito do tamanho do seu arquivo WORD. Para arquivos menores, a conversão pode ser concluída em apenas alguns segundos, tornando-a incrivelmente rápida e eficiente. No entanto, arquivos maiores podem demorar um pouco mais para serem convertidos.<br />
 
-Se você planeja integrar o código de conversão de WORD para XLSX em seu aplicativo .NET, a velocidade e a eficiência do processo de conversão também dependerão de quão bem você otimizou seu aplicativo. Ao garantir que seu aplicativo seja otimizado para o processo de conversão, você pode ajudar a garantir que seus arquivos WORD sejam convertidos para o formato XLSX com rapidez e precisão.</span>
+Se você planeja integrar o código de conversão de WORD para XLSX em seu aplicativo C++, a velocidade e a eficiência do processo de conversão também dependerão de quão bem você otimizou seu aplicativo. Ao garantir que seu aplicativo seja otimizado para o processo de conversão, você pode ajudar a garantir que seus arquivos WORD sejam convertidos para o formato XLSX com rapidez e precisão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

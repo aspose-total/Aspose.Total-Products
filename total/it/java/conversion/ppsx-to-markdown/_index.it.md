@@ -86,7 +86,7 @@ Durante la conversione del file PPSX in MARKDOWN, puoi anche aggiungere una fili
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPSX. Se il file PPSX è di piccole dimensioni, la conversione in MARKDOWN può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione .NET, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPSX. Se il file PPSX è di piccole dimensioni, la conversione in MARKDOWN può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione Java, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

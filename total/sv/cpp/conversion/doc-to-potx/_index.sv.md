@@ -143,7 +143,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera DOC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på DOC-filen som konverteras. Små DOC-filer kan konverteras till POTX på bara några sekunder. Om du använder konverteringskoden i en .NET-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på DOC-filen som konverteras. Små DOC-filer kan konverteras till POTX på bara några sekunder. Om du använder konverteringskoden i en C++-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

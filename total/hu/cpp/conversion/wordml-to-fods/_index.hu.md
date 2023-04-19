@@ -85,7 +85,7 @@ Miután a WORDML-ből FODS-be konvertálás befejeződött, egyetlen kattintáss
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">A WORDML-FODS konverter használatakor az átalakítási folyamat sebessége nagymértékben függ a WORDML-fájl méretétől. Kisebb fájlok esetén az átalakítás néhány másodperc alatt elvégezhető, így hihetetlenül gyors és hatékony. A nagyobb fájlok konvertálása azonban némileg tovább tarthat.<br />
 
-Ha a WORDML–FODS konverziós kódot tervezi integrálni .NET-alkalmazásába, az átalakítási folyamat sebessége és hatékonysága attól is függ, hogy mennyire optimalizálta az alkalmazást. Ha gondoskodik arról, hogy alkalmazása optimalizálva legyen a konverziós folyamathoz, segíthet abban, hogy WORDML-fájljait gyorsan és pontosan konvertálja FODS formátumba.</span>
+Ha a WORDML–FODS konverziós kódot tervezi integrálni C++-alkalmazásába, az átalakítási folyamat sebessége és hatékonysága attól is függ, hogy mennyire optimalizálta az alkalmazást. Ha gondoskodik arról, hogy alkalmazása optimalizálva legyen a konverziós folyamathoz, segíthet abban, hogy WORDML-fájljait gyorsan és pontosan konvertálja FODS formátumba.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

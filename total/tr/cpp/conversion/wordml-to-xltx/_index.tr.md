@@ -85,7 +85,7 @@ WORDML'den XLTX'e dönüştürme işlemi tamamlandıktan sonra, dönüştürüle
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">WORDML'den XLTX'e dönüştürücüyü kullanmaya gelince, dönüştürme işleminin hızı büyük ölçüde WORDML dosyanızın boyutuna bağlı olacaktır. Daha küçük dosyalar için dönüştürme yalnızca birkaç saniyede tamamlanabilir, bu da onu inanılmaz derecede hızlı ve verimli hale getirir. Ancak, daha büyük dosyaların dönüştürülmesi biraz daha uzun sürebilir.<br />
 
-WORDML'den XLTX'e dönüştürme kodunu .NET uygulamanıza entegre etmeyi planlıyorsanız, dönüştürme işleminin hızı ve verimliliği, uygulamanızı ne kadar iyi optimize ettiğinize de bağlı olacaktır. Uygulamanızın dönüştürme işlemi için optimize edilmesini sağlayarak, WORDML dosyalarınızın hızlı ve doğru bir şekilde XLTX formatına dönüştürülmesini sağlamaya yardımcı olabilirsiniz.</span>
+WORDML'den XLTX'e dönüştürme kodunu C++ uygulamanıza entegre etmeyi planlıyorsanız, dönüştürme işleminin hızı ve verimliliği, uygulamanızı ne kadar iyi optimize ettiğinize de bağlı olacaktır. Uygulamanızın dönüştürme işlemi için optimize edilmesini sağlayarak, WORDML dosyalarınızın hızlı ve doğru bir şekilde XLTX formatına dönüştürülmesini sağlamaya yardımcı olabilirsiniz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

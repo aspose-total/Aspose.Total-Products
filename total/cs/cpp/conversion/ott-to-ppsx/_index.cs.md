@@ -143,7 +143,7 @@ pres->Save(output.ppsx, Aspose::Slides::Export::SaveFormat::Ppsx);
                           <span itemprop="name"><b>Jak dlouho trvá převod OTT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru OTT. Malé soubory OTT lze převést na PPSX během několika sekund. Pokud používáte převodní kód v rámci aplikace .NET, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru OTT. Malé soubory OTT lze převést na PPSX během několika sekund. Pokud používáte převodní kód v rámci aplikace C++, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

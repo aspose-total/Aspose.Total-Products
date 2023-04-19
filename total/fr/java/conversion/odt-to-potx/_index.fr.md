@@ -79,7 +79,7 @@ L'API vous permet également de convertir des documents ODT protégés par mot d
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir ODT ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ce convertisseur ODT en ligne fonctionne rapidement, mais sa vitesse dépend principalement de la taille du fichier ODT que vous convertissez. Les fichiers ODT plus petits peuvent être convertis en POTX en quelques secondes seulement. Si vous avez intégré le code de conversion dans votre application .NET, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application.</span>
+                          <span itemprop="text">Ce convertisseur ODT en ligne fonctionne rapidement, mais sa vitesse dépend principalement de la taille du fichier ODT que vous convertissez. Les fichiers ODT plus petits peuvent être convertis en POTX en quelques secondes seulement. Si vous avez intégré le code de conversion dans votre application Java, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

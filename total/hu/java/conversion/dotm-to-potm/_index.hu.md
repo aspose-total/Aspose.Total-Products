@@ -79,7 +79,7 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOTM dokumentumokat konv
                           <span itemprop="name"><b>Mennyi ideig tart a DOTM konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ez az online DOTM konverter gyorsan működik, de sebessége elsősorban a konvertálandó DOTM fájl méretétől függ. A kisebb DOTM fájlok néhány másodperc alatt POTM formátumba konvertálhatók. Ha integrálta a konverziós kódot .NET-alkalmazásába, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
+                          <span itemprop="text">Ez az online DOTM konverter gyorsan működik, de sebessége elsősorban a konvertálandó DOTM fájl méretétől függ. A kisebb DOTM fájlok néhány másodperc alatt POTM formátumba konvertálhatók. Ha integrálta a konverziós kódot Java-alkalmazásába, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

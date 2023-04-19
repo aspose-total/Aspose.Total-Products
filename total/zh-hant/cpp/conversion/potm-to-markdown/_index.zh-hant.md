@@ -83,7 +83,7 @@ otherformats: SXC XLTM XLAM ODS DIF FODS MHTML XLT TSV XLSX XLS XLSM XLTX EXCEL 
                           <span itemprop="name"><b>轉換 POTM 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">這個在線轉換器的速度很快，但是很大程度上取決於被轉換的POTM文件的大小。只需幾秒鐘即可將較小的 POTM 文件渲染為 MARKDOWN。如果您計劃將轉換代碼集成到 .NET 應用程序中，速度將取決於您如何針對轉換過程優化應用程序。</span>
+                          <span itemprop="text">這個在線轉換器的速度很快，但是很大程度上取決於被轉換的POTM文件的大小。只需幾秒鐘即可將較小的 POTM 文件渲染為 MARKDOWN。如果您計劃將轉換代碼集成到 C++ 應用程序中，速度將取決於您如何針對轉換過程優化應用程序。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

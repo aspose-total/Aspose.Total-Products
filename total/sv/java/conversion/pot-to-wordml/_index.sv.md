@@ -78,7 +78,7 @@ Med hjälp av API:t kan du också utföra POT-fil till WORDML-konvertering med v
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online-omvandlare är designad för att ge snabb och effektiv POT till WORDML-konvertering. Hastigheten på konverteringsprocessen kan variera beroende på storleken på POT-filen. Små POT-filer kan konverteras till WORDML på bara några sekunder. Men om du integrerar konverteringskoden i en .NET-applikation kan konverteringshastigheten bero på hur väl du har optimerat din applikation. Hur som helst är vårt POT till WORDML-konverteringsverktyg utrustat med den senaste tekniken som säkerställer bästa möjliga prestanda och utskriftskvalitet.</span>
+                          <span itemprop="text">Denna online-omvandlare är designad för att ge snabb och effektiv POT till WORDML-konvertering. Hastigheten på konverteringsprocessen kan variera beroende på storleken på POT-filen. Små POT-filer kan konverteras till WORDML på bara några sekunder. Men om du integrerar konverteringskoden i en Java-applikation kan konverteringshastigheten bero på hur väl du har optimerat din applikation. Hur som helst är vårt POT till WORDML-konverteringsverktyg utrustat med den senaste tekniken som säkerställer bästa möjliga prestanda och utskriftskvalitet.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

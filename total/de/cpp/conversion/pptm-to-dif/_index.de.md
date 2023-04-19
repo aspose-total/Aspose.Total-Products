@@ -83,7 +83,7 @@ Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer 
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters ist schnell, hängt jedoch weitgehend von der Größe der zu konvertierenden PPTM-Datei ab. Kleinere PPTM-Dateien können in wenigen Sekunden in DIF gerendert werden. Wenn Sie den Konvertierungscode in eine .NET-Anwendung integrieren möchten, hängt die Geschwindigkeit davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters ist schnell, hängt jedoch weitgehend von der Größe der zu konvertierenden PPTM-Datei ab. Kleinere PPTM-Dateien können in wenigen Sekunden in DIF gerendert werden. Wenn Sie den Konvertierungscode in eine C++-Anwendung integrieren möchten, hängt die Geschwindigkeit davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

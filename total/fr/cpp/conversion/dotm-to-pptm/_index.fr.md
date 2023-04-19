@@ -143,7 +143,7 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir DOTM ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier DOTM à convertir. Les petits fichiers DOTM peuvent être convertis en PPTM en quelques secondes seulement. Si vous utilisez le code de conversion dans une application .NET, la vitesse de conversion dépendra de la façon dont vous avez optimisé votre application.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier DOTM à convertir. Les petits fichiers DOTM peuvent être convertis en PPTM en quelques secondes seulement. Si vous utilisez le code de conversion dans une application C++, la vitesse de conversion dépendra de la façon dont vous avez optimisé votre application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

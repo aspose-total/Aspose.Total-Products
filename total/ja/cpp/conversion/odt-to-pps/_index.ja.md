@@ -144,7 +144,7 @@ pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);
                           <span itemprop="name"><b>ODT の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、変換する ODT ファイルのサイズに大きく依存します。小さな ODT ファイルは、わずか数秒で PPS に変換できます。 .NET アプリケーション内で変換コードを使用している場合、変換速度はアプリケーションの最適化の程度によって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、変換する ODT ファイルのサイズに大きく依存します。小さな ODT ファイルは、わずか数秒で PPS に変換できます。 C++ アプリケーション内で変換コードを使用している場合、変換速度はアプリケーションの最適化の程度によって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

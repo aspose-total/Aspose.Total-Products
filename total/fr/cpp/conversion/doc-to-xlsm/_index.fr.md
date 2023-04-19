@@ -85,7 +85,7 @@ Une fois la conversion DOC en XLSM terminée, vous pourrez télécharger votre f
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Lorsqu'il s'agit d'utiliser le convertisseur DOC en XLSM, la vitesse du processus de conversion dépendra en grande partie de la taille de votre fichier DOC. Pour les fichiers plus petits, la conversion peut être effectuée en quelques secondes seulement, ce qui la rend incroyablement rapide et efficace. Cependant, les fichiers plus volumineux peuvent prendre un peu plus de temps à convertir.<br />
 
-Si vous envisagez d'intégrer le code de conversion DOC en XLSM dans votre application .NET, la vitesse et l'efficacité du processus de conversion dépendront également de la qualité de l'optimisation de votre application. En vous assurant que votre application est optimisée pour le processus de conversion, vous pouvez vous assurer que vos fichiers DOC sont convertis au format XLSM rapidement et avec précision.</span>
+Si vous envisagez d'intégrer le code de conversion DOC en XLSM dans votre application C++, la vitesse et l'efficacité du processus de conversion dépendront également de la qualité de l'optimisation de votre application. En vous assurant que votre application est optimisée pour le processus de conversion, vous pouvez vous assurer que vos fichiers DOC sont convertis au format XLSM rapidement et avec précision.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ API:et låter dig också konvertera lösenordsskyddade DOCM-dokument till POT. O
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online DOCM-omvandlare fungerar snabbt, men dess hastighet beror främst på storleken på DOCM-filen du konverterar. Mindre DOCM-filer kan konverteras till POT på bara några sekunder. Om du har integrerat konverteringskoden i din .NET-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Denna online DOCM-omvandlare fungerar snabbt, men dess hastighet beror främst på storleken på DOCM-filen du konverterar. Mindre DOCM-filer kan konverteras till POT på bara några sekunder. Om du har integrerat konverteringskoden i din Java-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

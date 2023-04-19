@@ -78,7 +78,7 @@ Using the API, you can also perform PPTM file to WORD conversion with watermark.
                           <span itemprop="name"><b>How long does it take to convert PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online converter is designed to provide fast and efficient PPTM to WORD conversion. The speed of the conversion process may vary depending on the size of the PPTM file. Small size PPTM files can be converted to WORD in just a few seconds. However, if you are integrating the conversion code within a .NET application, the conversion speed may depend on how well you have optimized your application. In any case, our PPTM to WORD conversion tool is equipped with state-of-the-art technology that ensures the best possible performance and output quality.</span>
+                          <span itemprop="text">This online converter is designed to provide fast and efficient PPTM to WORD conversion. The speed of the conversion process may vary depending on the size of the PPTM file. Small size PPTM files can be converted to WORD in just a few seconds. However, if you are integrating the conversion code within a Java application, the conversion speed may depend on how well you have optimized your application. In any case, our PPTM to WORD conversion tool is equipped with state-of-the-art technology that ensures the best possible performance and output quality.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -86,7 +86,7 @@ Tijdens het converteren van een POT-bestand naar XLS, kunt u ook een watermerk t
                           <span itemprop="name"><b>Hoe lang duurt het om POT te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter is grotendeels afhankelijk van de grootte van het POT-bestand. Als het POT-bestand klein is, kan de conversie naar XLS binnen enkele seconden worden voltooid. Bovendien, als u de conversiecode in een .NET-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed u uw toepassing voor dit doel heeft geoptimaliseerd.</span>
+                          <span itemprop="text">De snelheid van deze online converter is grotendeels afhankelijk van de grootte van het POT-bestand. Als het POT-bestand klein is, kan de conversie naar XLS binnen enkele seconden worden voltooid. Bovendien, als u de conversiecode in een Java-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed u uw toepassing voor dit doel heeft geoptimaliseerd.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

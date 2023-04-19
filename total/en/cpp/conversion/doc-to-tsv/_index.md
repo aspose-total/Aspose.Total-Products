@@ -78,7 +78,7 @@ Once the DOC to TSV conversion is complete, you'll be able to download your conv
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">When it comes to using the DOC to TSV converter, the speed of the conversion process will depend largely on the size of your DOC file. For smaller files, the conversion can be completed in just a few seconds, making it incredibly fast and efficient. However, larger files may take a bit longer to convert.<br />
 
-If you're planning to integrate the DOC to TSV conversion code into your .NET application, the speed and efficiency of the conversion process will also depend on how well you've optimized your application. By ensuring that your application is optimized for the conversion process, you can help ensure that your DOC files are converted to TSV format quickly and accurately.</span>
+If you're planning to integrate the DOC to TSV conversion code into your C++ application, the speed and efficiency of the conversion process will also depend on how well you've optimized your application. By ensuring that your application is optimized for the conversion process, you can help ensure that your DOC files are converted to TSV format quickly and accurately.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

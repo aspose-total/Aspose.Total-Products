@@ -83,7 +83,7 @@ Pomocí rozhraní API můžete také otevřít dokument chráněný heslem. Poku
                           <span itemprop="name"><b>Jak dlouho trvá převod PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je vysoká, ale do značné míry závisí na velikosti převáděného souboru PPT. Menší soubory PPT lze vykreslit do formátu XLSX během několika sekund. Pokud plánujete integrovat převodní kód do aplikace .NET, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je vysoká, ale do značné míry závisí na velikosti převáděného souboru PPT. Menší soubory PPT lze vykreslit do formátu XLSX během několika sekund. Pokud plánujete integrovat převodní kód do aplikace C++, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

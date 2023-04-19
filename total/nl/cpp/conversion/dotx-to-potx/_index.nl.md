@@ -143,7 +143,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
                           <span itemprop="name"><b>Hoe lang duurt het om DOTX te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter hangt grotendeels af van de grootte van het DOTX-bestand dat wordt geconverteerd. Kleine DOTX-bestanden kunnen in slechts enkele seconden naar POTX worden geconverteerd. Als u de conversiecode binnen een .NET-toepassing gebruikt, hangt de conversiesnelheid af van hoe goed u uw toepassing hebt geoptimaliseerd.</span>
+                          <span itemprop="text">De snelheid van deze online converter hangt grotendeels af van de grootte van het DOTX-bestand dat wordt geconverteerd. Kleine DOTX-bestanden kunnen in slechts enkele seconden naar POTX worden geconverteerd. Als u de conversiecode binnen een C++-toepassing gebruikt, hangt de conversiesnelheid af van hoe goed u uw toepassing hebt geoptimaliseerd.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ Po zakończeniu konwersji DOCM na SXC będziesz mógł natychmiast pobrać przek
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jeśli chodzi o użycie konwertera DOCM na SXC, szybkość procesu konwersji będzie zależeć w dużej mierze od rozmiaru pliku DOCM. W przypadku mniejszych plików konwersję można przeprowadzić w ciągu zaledwie kilku sekund, co czyni ją niezwykle szybką i wydajną. Jednak konwersja większych plików może potrwać nieco dłużej.<br />
 
-Jeśli planujesz zintegrować kod konwersji DOCM na SXC ze swoją aplikacją .NET, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików DOCM do formatu SXC.</span>
+Jeśli planujesz zintegrować kod konwersji DOCM na SXC ze swoją aplikacją C++, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików DOCM do formatu SXC.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

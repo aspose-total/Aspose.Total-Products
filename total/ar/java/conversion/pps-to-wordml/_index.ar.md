@@ -78,7 +78,7 @@ otherformats: TEXT WORDMLM DOTM ODT WORDML DOTX DOT FLATOPC WORDMLX WORD OTT RTF
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPS؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم تصميم هذا المحول عبر الإنترنت لتوفير تحويل سريع وفعال من PPS إلى WORDML. قد تختلف سرعة عملية التحويل حسب حجم ملف PPS. يمكن تحويل ملفات PPS صغيرة الحجم إلى WORDML في بضع ثوانٍ فقط. ومع ذلك ، إذا كنت تقوم بدمج كود التحويل في تطبيق .NET ، فقد تعتمد سرعة التحويل على مدى جودة تطبيقك. على أي حال ، فإن أداة تحويل PPS إلى WORDML الخاصة بنا مجهزة بأحدث التقنيات التي تضمن أفضل أداء وجودة إخراج ممكنة.</span>
+                          <span itemprop="text">تم تصميم هذا المحول عبر الإنترنت لتوفير تحويل سريع وفعال من PPS إلى WORDML. قد تختلف سرعة عملية التحويل حسب حجم ملف PPS. يمكن تحويل ملفات PPS صغيرة الحجم إلى WORDML في بضع ثوانٍ فقط. ومع ذلك ، إذا كنت تقوم بدمج كود التحويل في تطبيق Java ، فقد تعتمد سرعة التحويل على مدى جودة تطبيقك. على أي حال ، فإن أداة تحويل PPS إلى WORDML الخاصة بنا مجهزة بأحدث التقنيات التي تضمن أفضل أداء وجودة إخراج ممكنة.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

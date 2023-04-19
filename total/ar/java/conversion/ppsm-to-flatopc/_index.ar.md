@@ -78,7 +78,7 @@ otherformats: OTT DOT DOTX WORDML ODT FLATOPCM FLATOPC DOTM FLATOPCX TEXT WORD R
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPSM؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم تصميم هذا المحول عبر الإنترنت لتوفير تحويل سريع وفعال من PPSM إلى FLATOPC. قد تختلف سرعة عملية التحويل حسب حجم ملف PPSM. يمكن تحويل ملفات PPSM صغيرة الحجم إلى FLATOPC في بضع ثوانٍ فقط. ومع ذلك ، إذا كنت تقوم بدمج كود التحويل في تطبيق .NET ، فقد تعتمد سرعة التحويل على مدى جودة تطبيقك. على أي حال ، فإن أداة تحويل PPSM إلى FLATOPC الخاصة بنا مجهزة بأحدث التقنيات التي تضمن أفضل أداء وجودة إخراج ممكنة.</span>
+                          <span itemprop="text">تم تصميم هذا المحول عبر الإنترنت لتوفير تحويل سريع وفعال من PPSM إلى FLATOPC. قد تختلف سرعة عملية التحويل حسب حجم ملف PPSM. يمكن تحويل ملفات PPSM صغيرة الحجم إلى FLATOPC في بضع ثوانٍ فقط. ومع ذلك ، إذا كنت تقوم بدمج كود التحويل في تطبيق Java ، فقد تعتمد سرعة التحويل على مدى جودة تطبيقك. على أي حال ، فإن أداة تحويل PPSM إلى FLATOPC الخاصة بنا مجهزة بأحدث التقنيات التي تضمن أفضل أداء وجودة إخراج ممكنة.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

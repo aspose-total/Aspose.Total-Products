@@ -80,7 +80,7 @@ text->Save(u"output.text");
                           <span itemprop="name"><b>POTX の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターを使用した POTX から TEXT への変換の速度は、POTX ファイルのサイズに大きく依存します。小さい POTX ファイルは、わずか数秒で TEXT に変換できます。さらに、.NET アプリケーション内に変換コードを統合した場合、変換の速度は、変換プロセス用にアプリケーションをどの程度最適化したかによって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターを使用した POTX から TEXT への変換の速度は、POTX ファイルのサイズに大きく依存します。小さい POTX ファイルは、わずか数秒で TEXT に変換できます。さらに、C++ アプリケーション内に変換コードを統合した場合、変換の速度は、変換プロセス用にアプリケーションをどの程度最適化したかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -96,7 +96,7 @@ text->Save(u"output.text");
                           <span itemprop="name"><b>POTX を変換するには、どのブラウザを使用すればよいですか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">オンラインの POTX から TEXT へのコンバーターは、Google Chrome、Firefox、Opera、Safari など、最新の Web ブラウザーと互換性があります。ただし、デスクトップ アプリケーションで作業している場合は、.NET アプリケーションとのシームレスな統合のために特別に設計された Aspose.Total POTX Conversion API の使用を検討することをお勧めします。この API は、アプリケーションのパフォーマンスを向上させる高速変換と高度な機能を提供します。さらに、幅広いファイル形式をサポートしているため、あらゆる変換ニーズに対応する多目的なソリューションとなっています。オンライン コンバーターと API のどちらを使用する場合でも、変換プロセス全体を通してファイルが安全に保護されていることを確認できます。</span>
+                          <span itemprop="text">オンラインの POTX から TEXT へのコンバーターは、Google Chrome、Firefox、Opera、Safari など、最新の Web ブラウザーと互換性があります。ただし、デスクトップ アプリケーションで作業している場合は、C++ アプリケーションとのシームレスな統合のために特別に設計された Aspose.Total POTX Conversion API の使用を検討することをお勧めします。この API は、アプリケーションのパフォーマンスを向上させる高速変換と高度な機能を提供します。さらに、幅広いファイル形式をサポートしているため、あらゆる変換ニーズに対応する多目的なソリューションとなっています。オンライン コンバーターと API のどちらを使用する場合でも、変換プロセス全体を通してファイルが安全に保護されていることを確認できます。</span>
                       </div>
                   </li>
               </ul>

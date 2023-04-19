@@ -85,7 +85,7 @@ MOBI 到 XLTX 的转换完成后，您只需单击一下即可立即下载转换
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">在使用 MOBI 到 XLTX 转换器时，转换过程的速度在很大程度上取决于 MOBI 文件的大小。对于较小的文件，只需几秒钟即可完成转换，速度和效率令人难以置信。但是，较大的文件可能需要更长的时间才能转换。<br />
 
-如果您计划将 MOBI 到 XLTX 转换代码集成到您的 .NET 应用程序中，转换过程的速度和效率也将取决于您对应用程序的优化程度。通过确保您的应用程序针对转换过程进行了优化，您可以帮助确保将 MOBI 文件快速准确地转换为 XLTX 格式。</span>
+如果您计划将 MOBI 到 XLTX 转换代码集成到您的 C++ 应用程序中，转换过程的速度和效率也将取决于您对应用程序的优化程度。通过确保您的应用程序针对转换过程进行了优化，您可以帮助确保将 MOBI 文件快速准确地转换为 XLTX 格式。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

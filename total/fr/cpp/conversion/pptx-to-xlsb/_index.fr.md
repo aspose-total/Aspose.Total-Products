@@ -83,7 +83,7 @@ Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir PPTX ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne est rapide, mais elle dépend en grande partie de la taille du fichier PPTX à convertir. Les fichiers PPTX plus petits peuvent être rendus au format XLSB en quelques secondes seulement. Si vous envisagez d'intégrer le code de conversion dans une application .NET, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne est rapide, mais elle dépend en grande partie de la taille du fichier PPTX à convertir. Les fichiers PPTX plus petits peuvent être rendus au format XLSB en quelques secondes seulement. Si vous envisagez d'intégrer le code de conversion dans une application C++, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

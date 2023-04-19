@@ -83,7 +83,7 @@ Menggunakan API, Anda juga dapat membuka dokumen yang dilindungi kata sandi. Jik
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini cepat, tetapi sebagian besar bergantung pada ukuran file POTM yang sedang dikonversi. File POTM yang lebih kecil dapat dirender ke MARKDOWN hanya dalam beberapa detik. Jika Anda berencana untuk mengintegrasikan kode konversi dalam aplikasi .NET, kecepatannya akan tergantung pada bagaimana Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
+                          <span itemprop="text">Kecepatan konverter online ini cepat, tetapi sebagian besar bergantung pada ukuran file POTM yang sedang dikonversi. File POTM yang lebih kecil dapat dirender ke MARKDOWN hanya dalam beberapa detik. Jika Anda berencana untuk mengintegrasikan kode konversi dalam aplikasi C++, kecepatannya akan tergantung pada bagaimana Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

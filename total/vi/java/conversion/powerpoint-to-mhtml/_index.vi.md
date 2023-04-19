@@ -86,7 +86,7 @@ Trong khi chuyển đổi tệp POWERPOINT sang MHTML, bạn cũng có thể th�
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp POWERPOINT. Nếu tệp POWERPOINT có kích thước nhỏ, quá trình chuyển đổi sang MHTML có thể hoàn tất trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi trong ứng dụng .NET, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình cho mục đích này.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp POWERPOINT. Nếu tệp POWERPOINT có kích thước nhỏ, quá trình chuyển đổi sang MHTML có thể hoàn tất trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi trong ứng dụng Java, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình cho mục đích này.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

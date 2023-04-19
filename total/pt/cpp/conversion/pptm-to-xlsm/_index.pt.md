@@ -83,7 +83,7 @@ Usando a API, você também pode abrir o documento protegido por senha. Se o doc
                           <span itemprop="name"><b>Quanto tempo leva para converter PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online é rápida, mas depende muito do tamanho do arquivo PPTM que está sendo convertido. Arquivos PPTM menores podem ser renderizados para XLSM em apenas alguns segundos. Se você planeja integrar o código de conversão em um aplicativo .NET, a velocidade dependerá de como você otimizou seu aplicativo para o processo de conversão.</span>
+                          <span itemprop="text">A velocidade deste conversor online é rápida, mas depende muito do tamanho do arquivo PPTM que está sendo convertido. Arquivos PPTM menores podem ser renderizados para XLSM em apenas alguns segundos. Se você planeja integrar o código de conversão em um aplicativo C++, a velocidade dependerá de como você otimizou seu aplicativo para o processo de conversão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

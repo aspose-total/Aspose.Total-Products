@@ -86,7 +86,7 @@ Saat mengonversi file PPSX ke MHTML, Anda juga dapat menambahkan tanda air ke fo
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file PPSX. Jika file PPSX berukuran kecil, konversi ke MHTML dapat diselesaikan dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi dalam aplikasi .NET, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi untuk tujuan ini.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file PPSX. Jika file PPSX berukuran kecil, konversi ke MHTML dapat diselesaikan dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi dalam aplikasi Java, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi untuk tujuan ini.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ While converting POTM file to SXC, you can also add watermark to your output SXC
                           <span itemprop="name"><b>How long does it take to convert POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is largely dependent on the size of the POTM file. If the POTM file is small in size, the conversion to SXC can be completed within a few seconds. Additionally, if you have integrated the conversion code within a .NET application, the speed of the conversion process will depend on how well you have optimized your application for this purpose.</span>
+                          <span itemprop="text">The speed of this online converter is largely dependent on the size of the POTM file. If the POTM file is small in size, the conversion to SXC can be completed within a few seconds. Additionally, if you have integrated the conversion code within a Java application, the speed of the conversion process will depend on how well you have optimized your application for this purpose.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

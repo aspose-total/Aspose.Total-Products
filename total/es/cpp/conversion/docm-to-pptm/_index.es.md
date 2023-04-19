@@ -143,7 +143,7 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo DOCM que se convierte. Los archivos DOCM pequeños se pueden convertir a PPTM en solo unos segundos. Si está utilizando el código de conversión dentro de una aplicación .NET, la velocidad de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo DOCM que se convierte. Los archivos DOCM pequeños se pueden convertir a PPTM en solo unos segundos. Si está utilizando el código de conversión dentro de una aplicación C++, la velocidad de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

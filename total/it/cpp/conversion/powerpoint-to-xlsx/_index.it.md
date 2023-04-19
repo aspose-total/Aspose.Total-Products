@@ -83,7 +83,7 @@ Utilizzando l'API, puoi anche aprire il documento protetto da password. Se il do
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online è elevata, ma dipende in gran parte dalla dimensione del file POWERPOINT da convertire. I file POWERPOINT più piccoli possono essere trasformati in XLSX in pochi secondi. Se si prevede di integrare il codice di conversione all'interno di un'applicazione .NET, la velocità dipenderà da come è stata ottimizzata l'applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online è elevata, ma dipende in gran parte dalla dimensione del file POWERPOINT da convertire. I file POWERPOINT più piccoli possono essere trasformati in XLSX in pochi secondi. Se si prevede di integrare il codice di conversione all'interno di un'applicazione C++, la velocità dipenderà da come è stata ottimizzata l'applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

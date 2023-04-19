@@ -143,7 +143,7 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire FLATOPC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file FLATOPC da convertire. Piccoli file FLATOPC possono essere convertiti in PPTM in pochi secondi. Se si utilizza il codice di conversione all'interno di un'applicazione .NET, la velocità di conversione dipenderà dall'ottimizzazione dell'applicazione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file FLATOPC da convertire. Piccoli file FLATOPC possono essere convertiti in PPTM in pochi secondi. Se si utilizza il codice di conversione all'interno di un'applicazione C++, la velocità di conversione dipenderà dall'ottimizzazione dell'applicazione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

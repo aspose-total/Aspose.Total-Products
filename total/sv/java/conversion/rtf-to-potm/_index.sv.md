@@ -79,7 +79,7 @@ API:et låter dig också konvertera lösenordsskyddade RTF-dokument till POTM. O
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online RTF-omvandlare fungerar snabbt, men dess hastighet beror främst på storleken på RTF-filen du konverterar. Mindre RTF-filer kan konverteras till POTM på bara några sekunder. Om du har integrerat konverteringskoden i din .NET-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Denna online RTF-omvandlare fungerar snabbt, men dess hastighet beror främst på storleken på RTF-filen du konverterar. Mindre RTF-filer kan konverteras till POTM på bara några sekunder. Om du har integrerat konverteringskoden i din Java-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

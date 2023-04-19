@@ -86,7 +86,7 @@ Ao converter o arquivo POTX para XLAM, você também pode adicionar marca d'águ
                           <span itemprop="name"><b>Quanto tempo leva para converter POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo POTX. Se o arquivo POTX for pequeno, a conversão para XLAM pode ser concluída em alguns segundos. Além disso, se você integrou o código de conversão em um aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo para essa finalidade.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo POTX. Se o arquivo POTX for pequeno, a conversão para XLAM pode ser concluída em alguns segundos. Além disso, se você integrou o código de conversão em um aplicativo Java, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo para essa finalidade.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

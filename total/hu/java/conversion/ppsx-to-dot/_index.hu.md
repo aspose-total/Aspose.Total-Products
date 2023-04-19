@@ -78,7 +78,7 @@ Az API segítségével PPSX fájlból DOT-ba konvertálhat vízjellel. Ha vízje
                           <span itemprop="name"><b>Mennyi ideig tart a PPSX konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ez az online konverter gyors és hatékony PPSX-DOT konvertálást biztosít. A konvertálási folyamat sebessége a PPSX fájl méretétől függően változhat. A kis méretű PPSX fájlok néhány másodperc alatt DOT formátumba konvertálhatók. Ha azonban a konverziós kódot egy .NET-alkalmazásba integrálja, a konverziós sebesség attól függhet, hogy mennyire optimalizálta az alkalmazást. Mindenesetre a PPSX-DOT konvertáló eszközünk a legmodernebb technológiával van felszerelve, amely biztosítja a lehető legjobb teljesítményt és kimeneti minőséget.</span>
+                          <span itemprop="text">Ez az online konverter gyors és hatékony PPSX-DOT konvertálást biztosít. A konvertálási folyamat sebessége a PPSX fájl méretétől függően változhat. A kis méretű PPSX fájlok néhány másodperc alatt DOT formátumba konvertálhatók. Ha azonban a konverziós kódot egy Java-alkalmazásba integrálja, a konverziós sebesség attól függhet, hogy mennyire optimalizálta az alkalmazást. Mindenesetre a PPSX-DOT konvertáló eszközünk a legmodernebb technológiával van felszerelve, amely biztosítja a lehető legjobb teljesítményt és kimeneti minőséget.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

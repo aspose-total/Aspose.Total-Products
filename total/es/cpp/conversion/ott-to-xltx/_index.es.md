@@ -85,7 +85,7 @@ Una vez que se complete la conversión de OTT a XLTX, podrá descargar su archiv
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Cuando se trata de usar el convertidor de OTT a XLTX, la velocidad del proceso de conversión dependerá en gran medida del tamaño de su archivo OTT. Para archivos más pequeños, la conversión se puede completar en solo unos segundos, lo que la hace increíblemente rápida y eficiente. Sin embargo, los archivos más grandes pueden tardar un poco más en convertirse.<br />
 
-Si planea integrar el código de conversión de OTT a XLTX en su aplicación .NET, la velocidad y la eficiencia del proceso de conversión también dependerán de qué tan bien haya optimizado su aplicación. Al asegurarse de que su aplicación esté optimizada para el proceso de conversión, puede asegurarse de que sus archivos OTT se conviertan a formato XLTX de forma rápida y precisa.</span>
+Si planea integrar el código de conversión de OTT a XLTX en su aplicación C++, la velocidad y la eficiencia del proceso de conversión también dependerán de qué tan bien haya optimizado su aplicación. Al asegurarse de que su aplicación esté optimizada para el proceso de conversión, puede asegurarse de que sus archivos OTT se conviertan a formato XLTX de forma rápida y precisa.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

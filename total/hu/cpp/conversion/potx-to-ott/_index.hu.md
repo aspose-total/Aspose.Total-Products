@@ -80,7 +80,7 @@ ott->Save(u"output.ott");
                           <span itemprop="name"><b>Mennyi ideig tart a POTX konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A POTX-OTT konvertálás sebessége ezzel az online konverterrel nagymértékben függ a POTX fájl méretétől. A kisebb POTX fájlok néhány másodperc alatt OTT formátumba konvertálhatók. Ezenkívül, ha integrálta a konverziós kódot a .NET-alkalmazásába, az átalakítás sebessége attól függ, hogy mennyire optimalizálta az alkalmazást a konverziós folyamathoz.</span>
+                          <span itemprop="text">A POTX-OTT konvertálás sebessége ezzel az online konverterrel nagymértékben függ a POTX fájl méretétől. A kisebb POTX fájlok néhány másodperc alatt OTT formátumba konvertálhatók. Ezenkívül, ha integrálta a konverziós kódot a C++-alkalmazásába, az átalakítás sebessége attól függ, hogy mennyire optimalizálta az alkalmazást a konverziós folyamathoz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -96,7 +96,7 @@ ott->Save(u"output.ott");
                           <span itemprop="name"><b>Milyen böngészőt használjak a POTX konvertálásához?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Az online POTX-OTT konverter kompatibilis minden modern webböngészővel, beleértve többek között a Google Chrome-ot, a Firefoxot, az Operát és a Safarit. Ha azonban asztali alkalmazáson dolgozik, érdemes megfontolni az Aspose.Total POTX Conversion API használatát, amelyet kifejezetten a .NET-alkalmazásokkal való zökkenőmentes integrációra terveztek. Ez az API nagy sebességű konverziót és speciális funkciókat kínál, amelyek javíthatják az alkalmazás teljesítményét. Ezenkívül a fájlformátumok széles skáláját támogatja, így sokoldalú megoldást kínál minden konverziós igényére. Akár az online konvertert, akár az API-t választja, biztos lehet benne, hogy fájljai biztonságban vannak a konverziós folyamat során.</span>
+                          <span itemprop="text">Az online POTX-OTT konverter kompatibilis minden modern webböngészővel, beleértve többek között a Google Chrome-ot, a Firefoxot, az Operát és a Safarit. Ha azonban asztali alkalmazáson dolgozik, érdemes megfontolni az Aspose.Total POTX Conversion API használatát, amelyet kifejezetten a C++-alkalmazásokkal való zökkenőmentes integrációra terveztek. Ez az API nagy sebességű konverziót és speciális funkciókat kínál, amelyek javíthatják az alkalmazás teljesítményét. Ezenkívül a fájlformátumok széles skáláját támogatja, így sokoldalú megoldást kínál minden konverziós igényére. Akár az online konvertert, akár az API-t választja, biztos lehet benne, hogy fájljai biztonságban vannak a konverziós folyamat során.</span>
                       </div>
                   </li>
               </ul>

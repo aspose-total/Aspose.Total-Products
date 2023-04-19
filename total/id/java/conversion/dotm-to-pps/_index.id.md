@@ -79,7 +79,7 @@ API juga memungkinkan Anda untuk mengonversi dokumen DOTM yang dilindungi kata s
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi DOTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Konverter DOTM online ini bekerja dengan cepat, tetapi kecepatannya terutama bergantung pada ukuran file DOTM yang Anda konversi. File DOTM yang lebih kecil dapat dikonversi ke PPS hanya dalam beberapa detik. Jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi .NET Anda, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda.</span>
+                          <span itemprop="text">Konverter DOTM online ini bekerja dengan cepat, tetapi kecepatannya terutama bergantung pada ukuran file DOTM yang Anda konversi. File DOTM yang lebih kecil dapat dikonversi ke PPS hanya dalam beberapa detik. Jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi Java Anda, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

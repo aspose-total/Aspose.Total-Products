@@ -143,7 +143,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
                           <span itemprop="name"><b>Quanto tempo leva para converter OTT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo OTT que está sendo convertido. Pequenos arquivos OTT podem ser convertidos em PPTX em apenas alguns segundos. Se você estiver usando o código de conversão em um aplicativo .NET, a velocidade de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo OTT que está sendo convertido. Pequenos arquivos OTT podem ser convertidos em PPTX em apenas alguns segundos. Se você estiver usando o código de conversão em um aplicativo C++, a velocidade de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -86,7 +86,7 @@ A PPT fájl MARKDOWN formátumba konvertálásakor vízjelet is hozzáadhat a ki
                           <span itemprop="name"><b>Mennyi ideig tart a PPT konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagymértékben függ a PPT fájl méretétől. Ha a PPT fájl kicsi, a MARKDOWN formátumú átalakítás néhány másodpercen belül befejeződik. Ezenkívül, ha integrálta a konverziós kódot egy .NET-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást erre a célra.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagymértékben függ a PPT fájl méretétől. Ha a PPT fájl kicsi, a MARKDOWN formátumú átalakítás néhány másodpercen belül befejeződik. Ezenkívül, ha integrálta a konverziós kódot egy Java-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást erre a célra.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

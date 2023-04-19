@@ -78,7 +78,7 @@ Az API segítségével PPT fájlból DOC-ba konvertálhat vízjellel. Ha vízjel
                           <span itemprop="name"><b>Mennyi ideig tart a PPT konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ez az online konverter gyors és hatékony PPT-DOC konvertálást biztosít. A konvertálási folyamat sebessége a PPT fájl méretétől függően változhat. A kis méretű PPT fájlok néhány másodperc alatt DOC formátumba konvertálhatók. Ha azonban a konverziós kódot egy .NET-alkalmazásba integrálja, a konverziós sebesség attól függhet, hogy mennyire optimalizálta az alkalmazást. Mindenesetre a PPT-DOC konvertáló eszközünk a legmodernebb technológiával van felszerelve, amely biztosítja a lehető legjobb teljesítményt és kimeneti minőséget.</span>
+                          <span itemprop="text">Ez az online konverter gyors és hatékony PPT-DOC konvertálást biztosít. A konvertálási folyamat sebessége a PPT fájl méretétől függően változhat. A kis méretű PPT fájlok néhány másodperc alatt DOC formátumba konvertálhatók. Ha azonban a konverziós kódot egy Java-alkalmazásba integrálja, a konverziós sebesség attól függhet, hogy mennyire optimalizálta az alkalmazást. Mindenesetre a PPT-DOC konvertáló eszközünk a legmodernebb technológiával van felszerelve, amely biztosítja a lehető legjobb teljesítményt és kimeneti minőséget.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

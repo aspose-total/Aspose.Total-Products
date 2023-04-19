@@ -85,7 +85,7 @@ WORDML から DIF への変換が完了すると、変換されたファイル�
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">WORDML から DIF へのコンバーターを使用する場合、変換プロセスの速度は WORDML ファイルのサイズに大きく依存します。小さなファイルの場合、変換はわずか数秒で完了するため、非常に高速で効率的です。ただし、ファイルが大きいほど、変換に時間がかかる場合があります。<br />
 
-WORDML から DIF への変換コードを .NET アプリケーションに統合することを計画している場合、変換プロセスの速度と効率は、アプリケーションをどの程度最適化したかによっても異なります。アプリケーションが変換プロセス用に最適化されていることを確認することで、WORDML ファイルを DIF 形式に迅速かつ正確に変換することができます。</span>
+WORDML から DIF への変換コードを C++ アプリケーションに統合することを計画している場合、変換プロセスの速度と効率は、アプリケーションをどの程度最適化したかによっても異なります。アプリケーションが変換プロセス用に最適化されていることを確認することで、WORDML ファイルを DIF 形式に迅速かつ正確に変換することができます。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

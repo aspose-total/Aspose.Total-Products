@@ -79,7 +79,7 @@ L'API consente inoltre di convertire Documenti DOTX protetti da password in POWE
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire DOTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Questo convertitore DOTX online funziona rapidamente, ma la sua velocità dipende principalmente dalla dimensione del file DOTX che stai convertendo. I file DOTX più piccoli possono essere convertiti in POWERPOINT in pochi secondi. Se hai integrato il codice di conversione nella tua applicazione .NET, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione.</span>
+                          <span itemprop="text">Questo convertitore DOTX online funziona rapidamente, ma la sua velocità dipende principalmente dalla dimensione del file DOTX che stai convertendo. I file DOTX più piccoli possono essere convertiti in POWERPOINT in pochi secondi. Se hai integrato il codice di conversione nella tua applicazione Java, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

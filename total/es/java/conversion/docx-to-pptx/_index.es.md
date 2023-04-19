@@ -79,7 +79,7 @@ La API también le permite convertir Documentos DOCX protegidos con contraseña 
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este convertidor DOCX en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo DOCX que está convirtiendo. Los archivos DOCX más pequeños se pueden convertir a PPTX en solo unos segundos. Si ha integrado el código de conversión en su aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
+                          <span itemprop="text">Este convertidor DOCX en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo DOCX que está convirtiendo. Los archivos DOCX más pequeños se pueden convertir a PPTX en solo unos segundos. Si ha integrado el código de conversión en su aplicación Java, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

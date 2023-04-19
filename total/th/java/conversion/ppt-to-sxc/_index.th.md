@@ -86,7 +86,7 @@ otherformats: SXC TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKD
                           <span itemprop="name"><b>การแปลง PPT ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPT เป็นส่วนใหญ่ หากไฟล์ PPT มีขนาดเล็ก การแปลงเป็น SXC สามารถทำได้ภายในไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับจุดประสงค์นี้ได้ดีเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPT เป็นส่วนใหญ่ หากไฟล์ PPT มีขนาดเล็ก การแปลงเป็น SXC สามารถทำได้ภายในไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลงภายในแอปพลิเคชัน Java ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับจุดประสงค์นี้ได้ดีเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

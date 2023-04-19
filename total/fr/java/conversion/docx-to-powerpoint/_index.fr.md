@@ -79,7 +79,7 @@ L'API vous permet également de convertir des documents DOCX protégés par mot 
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir DOCX ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ce convertisseur DOCX en ligne fonctionne rapidement, mais sa vitesse dépend principalement de la taille du fichier DOCX que vous convertissez. Les fichiers DOCX plus petits peuvent être convertis en POWERPOINT en quelques secondes seulement. Si vous avez intégré le code de conversion dans votre application .NET, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application.</span>
+                          <span itemprop="text">Ce convertisseur DOCX en ligne fonctionne rapidement, mais sa vitesse dépend principalement de la taille du fichier DOCX que vous convertissez. Les fichiers DOCX plus petits peuvent être convertis en POWERPOINT en quelques secondes seulement. Si vous avez intégré le code de conversion dans votre application Java, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -86,7 +86,7 @@ Al convertir un archivo PPT a MHTML, también puede agregar una marca de agua a 
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo PPT. Si el archivo PPT es de tamaño pequeño, la conversión a MHTML se puede completar en unos pocos segundos. Además, si ha integrado el código de conversión dentro de una aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación para este propósito.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo PPT. Si el archivo PPT es de tamaño pequeño, la conversión a MHTML se puede completar en unos pocos segundos. Además, si ha integrado el código de conversión dentro de una aplicación Java, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación para este propósito.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

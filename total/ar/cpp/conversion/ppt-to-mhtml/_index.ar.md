@@ -83,7 +83,7 @@ otherformats: EXCEL XLSX XLSB FODS DIF ODS XLT MARKDOWN SXC XLTM XLTX XLAM CSV T
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPT الذي يتم تحويله. يمكن تحويل ملفات PPT الأصغر إلى MHTML في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPT الذي يتم تحويله. يمكن تحويل ملفات PPT الأصغر إلى MHTML في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق C++ ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -78,7 +78,7 @@ otherformats: RTF FLATOPCM WORDML WORD ODT TEXT FLATOPC DOTX DOTM DOT OTT FLATOP
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم تصميم هذا المحول عبر الإنترنت لتوفير تحويل سريع وفعال من PPT إلى FLATOPC. قد تختلف سرعة عملية التحويل حسب حجم ملف PPT. يمكن تحويل ملفات PPT صغيرة الحجم إلى FLATOPC في بضع ثوانٍ فقط. ومع ذلك ، إذا كنت تقوم بدمج كود التحويل في تطبيق .NET ، فقد تعتمد سرعة التحويل على مدى جودة تطبيقك. على أي حال ، فإن أداة تحويل PPT إلى FLATOPC الخاصة بنا مجهزة بأحدث التقنيات التي تضمن أفضل أداء وجودة إخراج ممكنة.</span>
+                          <span itemprop="text">تم تصميم هذا المحول عبر الإنترنت لتوفير تحويل سريع وفعال من PPT إلى FLATOPC. قد تختلف سرعة عملية التحويل حسب حجم ملف PPT. يمكن تحويل ملفات PPT صغيرة الحجم إلى FLATOPC في بضع ثوانٍ فقط. ومع ذلك ، إذا كنت تقوم بدمج كود التحويل في تطبيق Java ، فقد تعتمد سرعة التحويل على مدى جودة تطبيقك. على أي حال ، فإن أداة تحويل PPT إلى FLATOPC الخاصة بنا مجهزة بأحدث التقنيات التي تضمن أفضل أداء وجودة إخراج ممكنة.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

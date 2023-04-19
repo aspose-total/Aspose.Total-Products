@@ -24,7 +24,7 @@ By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can 
 4. Save the document to MHTML format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a5dc7de23f7ceba76a05dc1d49f51502e) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Automation APIs" %}}
 Install via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total.Cpp```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/cpp).
@@ -79,7 +79,7 @@ Using the API, you can also open the password-protected document. If your input 
                           <span itemprop="name"><b>How long does it take to convert PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is fast, but it largely depends on the size of the PPTM file being converted. Smaller PPTM files can be rendered to MHTML in just a few seconds. If you plan to integrate the conversion code within a .NET application, the speed will depend on how you have optimized your application for the conversion process.</span>
+                          <span itemprop="text">The speed of this online converter is fast, but it largely depends on the size of the PPTM file being converted. Smaller PPTM files can be rendered to MHTML in just a few seconds. If you plan to integrate the conversion code within a C++ application, the speed will depend on how you have optimized your application for the conversion process.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

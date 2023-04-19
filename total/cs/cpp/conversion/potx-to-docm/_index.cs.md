@@ -80,7 +80,7 @@ docm->Save(u"output.docm");
                           <span itemprop="name"><b>Jak dlouho trvá převod POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost převodu POTX na DOCM pomocí tohoto online převodníku do značné míry závisí na velikosti souboru POTX. Menší soubory POTX lze převést na DOCM během několika sekund. Navíc, pokud jste integrovali konverzní kód do své aplikace .NET, bude rychlost převodu záviset na tom, jak dobře jste optimalizovali svou aplikaci pro proces převodu.</span>
+                          <span itemprop="text">Rychlost převodu POTX na DOCM pomocí tohoto online převodníku do značné míry závisí na velikosti souboru POTX. Menší soubory POTX lze převést na DOCM během několika sekund. Navíc, pokud jste integrovali konverzní kód do své aplikace C++, bude rychlost převodu záviset na tom, jak dobře jste optimalizovali svou aplikaci pro proces převodu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -96,7 +96,7 @@ docm->Save(u"output.docm");
                           <span itemprop="name"><b>Jaký prohlížeč mám použít k převodu POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online převodník POTX na DOCM je kompatibilní s jakýmkoli moderním webovým prohlížečem, včetně Google Chrome, Firefox, Opera a Safari. Pokud však pracujete na desktopové aplikaci, možná budete chtít zvážit použití Aspose.Total POTX Conversion API, které je speciálně navrženo pro bezproblémovou integraci s aplikacemi .NET. Toto rozhraní API nabízí vysokorychlostní převod a pokročilé funkce, které mohou zvýšit výkon vaší aplikace. Kromě toho podporuje širokou škálu formátů souborů, což z něj činí všestranné řešení pro všechny vaše potřeby převodu. Ať už se rozhodnete použít online převodník nebo rozhraní API, můžete si být jisti, že vaše soubory jsou v průběhu procesu převodu v bezpečí.</span>
+                          <span itemprop="text">Online převodník POTX na DOCM je kompatibilní s jakýmkoli moderním webovým prohlížečem, včetně Google Chrome, Firefox, Opera a Safari. Pokud však pracujete na desktopové aplikaci, možná budete chtít zvážit použití Aspose.Total POTX Conversion API, které je speciálně navrženo pro bezproblémovou integraci s aplikacemi C++. Toto rozhraní API nabízí vysokorychlostní převod a pokročilé funkce, které mohou zvýšit výkon vaší aplikace. Kromě toho podporuje širokou škálu formátů souborů, což z něj činí všestranné řešení pro všechny vaše potřeby převodu. Ať už se rozhodnete použít online převodník nebo rozhraní API, můžete si být jisti, že vaše soubory jsou v průběhu procesu převodu v bezpečí.</span>
                       </div>
                   </li>
               </ul>

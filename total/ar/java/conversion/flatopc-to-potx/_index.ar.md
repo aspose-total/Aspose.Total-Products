@@ -79,7 +79,7 @@ otherformats: PPTX POTM POTX POWERPOINT PPTM PPT POT PPSX PPS PPSM CSV DIF FODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل FLATOPC؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يعمل محول FLATOPC عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف FLATOPC الذي تقوم بتحويله. يمكن تحويل ملفات FLATOPC الأصغر إلى POTX في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
+                          <span itemprop="text">يعمل محول FLATOPC عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف FLATOPC الذي تقوم بتحويله. يمكن تحويل ملفات FLATOPC الأصغر إلى POTX في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق Java الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

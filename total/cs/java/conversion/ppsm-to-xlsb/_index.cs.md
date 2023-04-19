@@ -86,7 +86,7 @@ Při převodu souboru PPSM na XLSB můžete také přidat vodoznak do výstupní
                           <span itemprop="name"><b>Jak dlouho trvá převod PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je do značné míry závislá na velikosti souboru PPSM. Pokud je soubor PPSM malý, převod na XLSB může být dokončen během několika sekund. Pokud jste navíc integrovali konverzní kód do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci pro tento účel optimalizovali.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je do značné míry závislá na velikosti souboru PPSM. Pokud je soubor PPSM malý, převod na XLSB může být dokončen během několika sekund. Pokud jste navíc integrovali konverzní kód do aplikace Java, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci pro tento účel optimalizovali.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

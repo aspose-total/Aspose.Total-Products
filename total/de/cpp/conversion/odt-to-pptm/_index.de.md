@@ -143,7 +143,7 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von ODT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der zu konvertierenden ODT-Datei ab. Kleine ODT-Dateien können in wenigen Sekunden in PPTM konvertiert werden. Wenn Sie den Konvertierungscode innerhalb einer .NET-Anwendung verwenden, hängt die Konvertierungsgeschwindigkeit davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der zu konvertierenden ODT-Datei ab. Kleine ODT-Dateien können in wenigen Sekunden in PPTM konvertiert werden. Wenn Sie den Konvertierungscode innerhalb einer C++-Anwendung verwenden, hängt die Konvertierungsgeschwindigkeit davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

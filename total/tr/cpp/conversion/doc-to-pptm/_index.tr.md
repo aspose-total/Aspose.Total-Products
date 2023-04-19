@@ -143,7 +143,7 @@ pres->Save(output.pptm, Aspose::Slides::Export::SaveFormat::Pptm);
                           <span itemprop="name"><b>DOC'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürülmekte olan DOC dosyasının boyutuna bağlıdır. Küçük DOC dosyaları sadece birkaç saniye içinde PPTM'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasında kullanıyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürülmekte olan DOC dosyasının boyutuna bağlıdır. Küçük DOC dosyaları sadece birkaç saniye içinde PPTM'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasında kullanıyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

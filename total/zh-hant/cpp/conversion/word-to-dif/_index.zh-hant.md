@@ -85,7 +85,7 @@ WORD 到 DIF 的轉換完成後，您只需單擊一下即可立即下載轉換�
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">在使用 WORD 到 DIF 轉換器時，轉換過程的速度在很大程度上取決於 WORD 文件的大小。對於較小的文件，只需幾秒鐘即可完成轉換，速度和效率令人難以置信。但是，較大的文件可能需要更長的時間才能轉換。<br />
 
-如果您計劃將 WORD 到 DIF 轉換代碼集成到您的 .NET 應用程序中，轉換過程的速度和效率也將取決於您對應用程序的優化程度。通過確保您的應用程序針對轉換過程進行了優化，您可以幫助確保將 WORD 文件快速準確地轉換為 DIF 格式。</span>
+如果您計劃將 WORD 到 DIF 轉換代碼集成到您的 C++ 應用程序中，轉換過程的速度和效率也將取決於您對應用程序的優化程度。通過確保您的應用程序針對轉換過程進行了優化，您可以幫助確保將 WORD 文件快速準確地轉換為 DIF 格式。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

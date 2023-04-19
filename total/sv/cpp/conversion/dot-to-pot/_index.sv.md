@@ -143,7 +143,7 @@ pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera DOT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på DOT-filen som konverteras. Små DOT-filer kan konverteras till POT på bara några sekunder. Om du använder konverteringskoden i en .NET-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på DOT-filen som konverteras. Små DOT-filer kan konverteras till POT på bara några sekunder. Om du använder konverteringskoden i en C++-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

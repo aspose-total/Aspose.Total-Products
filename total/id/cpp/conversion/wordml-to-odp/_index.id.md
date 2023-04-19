@@ -143,7 +143,7 @@ pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi WORDML?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file WORDML yang sedang dikonversi. File WORDML kecil dapat diubah menjadi ODP hanya dalam beberapa detik. Jika Anda menggunakan kode konversi dalam aplikasi .NET, kecepatan konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file WORDML yang sedang dikonversi. File WORDML kecil dapat diubah menjadi ODP hanya dalam beberapa detik. Jika Anda menggunakan kode konversi dalam aplikasi C++, kecepatan konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

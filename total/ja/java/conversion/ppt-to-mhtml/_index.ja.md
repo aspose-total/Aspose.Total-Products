@@ -86,7 +86,7 @@ PPTファイルをMHTMLに変換するときに、出力MHTMLファイル形式�
                           <span itemprop="name"><b>PPT の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、PPT ファイルのサイズに大きく依存します。 PPT ファイルのサイズが小さい場合、MHTML への変換は数秒で完了します。さらに、.NET アプリケーション内に変換コードを統合した場合、変換プロセスの速度は、この目的のためにアプリケーションをどの程度最適化したかによって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、PPT ファイルのサイズに大きく依存します。 PPT ファイルのサイズが小さい場合、MHTML への変換は数秒で完了します。さらに、Java アプリケーション内に変換コードを統合した場合、変換プロセスの速度は、この目的のためにアプリケーションをどの程度最適化したかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

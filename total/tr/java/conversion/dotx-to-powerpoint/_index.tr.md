@@ -79,7 +79,7 @@ API ayrıca parola korumalı DOTX belgelerini POWERPOINT'ye dönüştürmenize o
                           <span itemprop="name"><b>DOTX'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi DOTX dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz DOTX dosyasının boyutuna bağlıdır. Daha küçük DOTX dosyaları sadece birkaç saniye içinde POWERPOINT'e dönüştürülebilir. Dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi DOTX dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz DOTX dosyasının boyutuna bağlıdır. Daha küçük DOTX dosyaları sadece birkaç saniye içinde POWERPOINT'e dönüştürülebilir. Dönüştürme kodunu Java uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

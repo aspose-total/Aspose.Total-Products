@@ -79,7 +79,7 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORDML được bảo
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi WORDML?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Trình chuyển đổi WORDML trực tuyến này hoạt động nhanh chóng nhưng tốc độ của nó phụ thuộc chủ yếu vào kích thước của tệp WORDML mà bạn đang chuyển đổi. Các tệp WORDML nhỏ hơn có thể được chuyển đổi thành PPSX chỉ trong vài giây. Nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng .NET của mình, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
+                          <span itemprop="text">Trình chuyển đổi WORDML trực tuyến này hoạt động nhanh chóng nhưng tốc độ của nó phụ thuộc chủ yếu vào kích thước của tệp WORDML mà bạn đang chuyển đổi. Các tệp WORDML nhỏ hơn có thể được chuyển đổi thành PPSX chỉ trong vài giây. Nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng Java của mình, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

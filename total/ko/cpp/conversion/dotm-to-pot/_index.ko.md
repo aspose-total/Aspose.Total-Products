@@ -143,7 +143,7 @@ pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);
                           <span itemprop="name"><b>DOTM를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 변환기의 속도는 변환되는 DOTM 파일의 크기에 크게 좌우됩니다. 작은 DOTM 파일은 단 몇 초 만에 POT로 변환할 수 있습니다. .NET 애플리케이션 내에서 변환 코드를 사용하는 경우 변환 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
+                          <span itemprop="text">이 온라인 변환기의 속도는 변환되는 DOTM 파일의 크기에 크게 좌우됩니다. 작은 DOTM 파일은 단 몇 초 만에 POT로 변환할 수 있습니다. C++ 애플리케이션 내에서 변환 코드를 사용하는 경우 변환 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

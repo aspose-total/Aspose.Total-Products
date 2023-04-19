@@ -86,7 +86,7 @@ otherformats: XLSB ODS XLSX XLS XLTX EXCEL TSV DIF XLAM MARKDOWN XLTM XLSM SXC X
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل POWERPOINT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف POWERPOINT. إذا كان ملف POWERPOINT صغير الحجم ، فيمكن إتمام التحويل إلى XLSX في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف POWERPOINT. إذا كان ملف POWERPOINT صغير الحجم ، فيمكن إتمام التحويل إلى XLSX في غضون ثوان قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق Java ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك لهذا الغرض.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

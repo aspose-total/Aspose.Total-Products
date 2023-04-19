@@ -83,7 +83,7 @@ Med hjälp av API:et kan du också öppna det lösenordsskyddade dokumentet. Om 
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna online-omvandlare är snabb, men den beror till stor del på storleken på PPSM-filen som konverteras. Mindre PPSM-filer kan renderas till ODS på bara några sekunder. Om du planerar att integrera konverteringskoden i en .NET-applikation kommer hastigheten att bero på hur du har optimerat din applikation för konverteringsprocessen.</span>
+                          <span itemprop="text">Hastigheten på denna online-omvandlare är snabb, men den beror till stor del på storleken på PPSM-filen som konverteras. Mindre PPSM-filer kan renderas till ODS på bara några sekunder. Om du planerar att integrera konverteringskoden i en C++-applikation kommer hastigheten att bero på hur du har optimerat din applikation för konverteringsprocessen.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

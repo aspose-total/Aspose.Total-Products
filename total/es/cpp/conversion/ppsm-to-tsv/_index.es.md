@@ -83,7 +83,7 @@ Usando la API, también puede abrir el documento protegido por contraseña. Si s
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea es rápida, pero depende en gran medida del tamaño del archivo PPSM que se convierte. Los archivos PPSM más pequeños se pueden convertir en TSV en solo unos segundos. Si planea integrar el código de conversión dentro de una aplicación .NET, la velocidad dependerá de cómo haya optimizado su aplicación para el proceso de conversión.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea es rápida, pero depende en gran medida del tamaño del archivo PPSM que se convierte. Los archivos PPSM más pequeños se pueden convertir en TSV en solo unos segundos. Si planea integrar el código de conversión dentro de una aplicación C++, la velocidad dependerá de cómo haya optimizado su aplicación para el proceso de conversión.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

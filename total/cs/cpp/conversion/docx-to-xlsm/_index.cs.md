@@ -85,7 +85,7 @@ Po dokončení převodu DOCX na XLSM si budete moci svůj převedený soubor oka
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Pokud jde o použití převodníku DOCX na XLSM, rychlost procesu převodu bude do značné míry záviset na velikosti vašeho souboru DOCX. U menších souborů lze převod dokončit během několika sekund, díky čemuž je neuvěřitelně rychlý a efektivní. Převod větších souborů však může trvat o něco déle.<br />
 
-Pokud plánujete integraci převodního kódu DOCX na XLSM do vaší aplikace .NET, bude rychlost a efektivita procesu převodu záviset také na tom, jak dobře jste aplikaci optimalizovali. Zajištěním, že je vaše aplikace optimalizována pro proces převodu, můžete zajistit, že vaše soubory DOCX budou převedeny do formátu XLSM rychle a přesně.</span>
+Pokud plánujete integraci převodního kódu DOCX na XLSM do vaší aplikace C++, bude rychlost a efektivita procesu převodu záviset také na tom, jak dobře jste aplikaci optimalizovali. Zajištěním, že je vaše aplikace optimalizována pro proces převodu, můžete zajistit, že vaše soubory DOCX budou převedeny do formátu XLSM rychle a přesně.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -83,7 +83,7 @@ Sử dụng API, bạn cũng có thể mở tài liệu được bảo vệ bằ
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này rất nhanh nhưng phần lớn phụ thuộc vào kích thước của tệp PPSX được chuyển đổi. Các tệp PPSX nhỏ hơn có thể được hiển thị thành XLSX chỉ trong vài giây. Nếu bạn dự định tích hợp mã chuyển đổi trong ứng dụng .NET, tốc độ sẽ phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này rất nhanh nhưng phần lớn phụ thuộc vào kích thước của tệp PPSX được chuyển đổi. Các tệp PPSX nhỏ hơn có thể được hiển thị thành XLSX chỉ trong vài giây. Nếu bạn dự định tích hợp mã chuyển đổi trong ứng dụng C++, tốc độ sẽ phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

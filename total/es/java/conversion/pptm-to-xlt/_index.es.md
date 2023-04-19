@@ -86,7 +86,7 @@ Al convertir un archivo PPTM a XLT, también puede agregar una marca de agua a s
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo PPTM. Si el archivo PPTM es de tamaño pequeño, la conversión a XLT se puede completar en unos pocos segundos. Además, si ha integrado el código de conversión dentro de una aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación para este propósito.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo PPTM. Si el archivo PPTM es de tamaño pequeño, la conversión a XLT se puede completar en unos pocos segundos. Además, si ha integrado el código de conversión dentro de una aplicación Java, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación para este propósito.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -143,7 +143,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
                           <span itemprop="name"><b>Jak dlouho trvá převod RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru RTF. Malé soubory RTF lze převést na POTM během několika sekund. Pokud používáte převodní kód v rámci aplikace .NET, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru RTF. Malé soubory RTF lze převést na POTM během několika sekund. Pokud používáte převodní kód v rámci aplikace C++, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

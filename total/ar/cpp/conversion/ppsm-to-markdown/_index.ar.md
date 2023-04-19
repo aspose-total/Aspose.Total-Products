@@ -83,7 +83,7 @@ otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL CSV MHTML FODS ODS XLAM TSV XLTM 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPSM؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPSM الذي يتم تحويله. يمكن تحويل ملفات PPSM الأصغر إلى MARKDOWN في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف PPSM الذي يتم تحويله. يمكن تحويل ملفات PPSM الأصغر إلى MARKDOWN في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق C++ ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

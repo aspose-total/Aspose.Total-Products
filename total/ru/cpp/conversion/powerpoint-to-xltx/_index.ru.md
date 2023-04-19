@@ -83,7 +83,7 @@ otherformats: XLSX XLS MARKDOWN XLSB SXC EXCEL DIF XLT CSV TSV XLAM MHTML FODS X
                           <span itemprop="name"><b>Сколько времени занимает конвертация POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Скорость этого онлайн-конвертера высокая, но она во многом зависит от размера конвертируемого POWERPOINT-файла. Небольшие файлы POWERPOINT можно преобразовать в XLTX всего за несколько секунд. Если вы планируете интегрировать код преобразования в приложение .NET, скорость будет зависеть от того, как вы оптимизировали свое приложение для процесса преобразования.</span>
+                          <span itemprop="text">Скорость этого онлайн-конвертера высокая, но она во многом зависит от размера конвертируемого POWERPOINT-файла. Небольшие файлы POWERPOINT можно преобразовать в XLTX всего за несколько секунд. Если вы планируете интегрировать код преобразования в приложение C++, скорость будет зависеть от того, как вы оптимизировали свое приложение для процесса преобразования.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

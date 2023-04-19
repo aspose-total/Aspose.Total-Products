@@ -86,7 +86,7 @@ Podczas konwertowania pliku POTM do SXC możesz również dodać znak wodny do w
                           <span itemprop="name"><b>Jak długo trwa konwersja POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku POTM. Jeśli plik POTM ma mały rozmiar, konwersja do formatu SXC może zostać zakończona w ciągu kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji w aplikacji .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację do tego celu.</span>
+                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku POTM. Jeśli plik POTM ma mały rozmiar, konwersja do formatu SXC może zostać zakończona w ciągu kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji w aplikacji Java, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację do tego celu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

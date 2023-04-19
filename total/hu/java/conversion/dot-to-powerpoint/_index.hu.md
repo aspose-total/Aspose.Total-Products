@@ -79,7 +79,7 @@ Az API azt is lehetővé teszi, hogy jelszóval védett DOT dokumentumokat konve
                           <span itemprop="name"><b>Mennyi ideig tart a DOT konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ez az online DOT konverter gyorsan működik, de sebessége elsősorban a konvertálandó DOT fájl méretétől függ. A kisebb DOT fájlok néhány másodperc alatt POWERPOINT formátumba konvertálhatók. Ha integrálta a konverziós kódot .NET-alkalmazásába, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
+                          <span itemprop="text">Ez az online DOT konverter gyorsan működik, de sebessége elsősorban a konvertálandó DOT fájl méretétől függ. A kisebb DOT fájlok néhány másodperc alatt POWERPOINT formátumba konvertálhatók. Ha integrálta a konverziós kódot Java-alkalmazásába, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

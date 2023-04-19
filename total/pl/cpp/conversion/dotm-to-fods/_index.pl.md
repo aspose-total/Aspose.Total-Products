@@ -85,7 +85,7 @@ Po zakończeniu konwersji DOTM na FODS będziesz mógł natychmiast pobrać prze
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jeśli chodzi o użycie konwertera DOTM na FODS, szybkość procesu konwersji będzie zależeć w dużej mierze od rozmiaru pliku DOTM. W przypadku mniejszych plików konwersję można przeprowadzić w ciągu zaledwie kilku sekund, co czyni ją niezwykle szybką i wydajną. Jednak konwersja większych plików może potrwać nieco dłużej.<br />
 
-Jeśli planujesz zintegrować kod konwersji DOTM na FODS ze swoją aplikacją .NET, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików DOTM do formatu FODS.</span>
+Jeśli planujesz zintegrować kod konwersji DOTM na FODS ze swoją aplikacją C++, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików DOTM do formatu FODS.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

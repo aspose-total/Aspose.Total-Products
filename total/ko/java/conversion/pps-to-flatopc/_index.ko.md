@@ -78,7 +78,7 @@ API를 사용하여 워터마크를 사용하여 PPS 파일을 FLATOPC로 변환
                           <span itemprop="name"><b>PPS를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 변환기는 빠르고 효율적인 PPS를 FLATOPC로 변환하도록 설계되었습니다. 변환 프로세스의 속도는 PPS 파일의 크기에 따라 다를 수 있습니다. 작은 크기의 PPS 파일은 단 몇 초 만에 FLATOPC로 변환할 수 있습니다. 그러나 .NET 애플리케이션 내에서 변환 코드를 통합하는 경우 변환 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라질 수 있습니다. 어쨌든 당사의 PPS to FLATOPC 변환 도구에는 최상의 성능과 출력 품질을 보장하는 최첨단 기술이 탑재되어 있습니다.</span>
+                          <span itemprop="text">이 온라인 변환기는 빠르고 효율적인 PPS를 FLATOPC로 변환하도록 설계되었습니다. 변환 프로세스의 속도는 PPS 파일의 크기에 따라 다를 수 있습니다. 작은 크기의 PPS 파일은 단 몇 초 만에 FLATOPC로 변환할 수 있습니다. 그러나 Java 애플리케이션 내에서 변환 코드를 통합하는 경우 변환 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라질 수 있습니다. 어쨌든 당사의 PPS to FLATOPC 변환 도구에는 최상의 성능과 출력 품질을 보장하는 최첨단 기술이 탑재되어 있습니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ Zodra de DOCX naar CSV-conversie is voltooid, kunt u uw geconverteerde bestand d
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Als het gaat om het gebruik van de DOCX naar CSV-converter, hangt de snelheid van het conversieproces grotendeels af van de grootte van uw DOCX-bestand. Voor kleinere bestanden kan de conversie in slechts enkele seconden worden voltooid, wat het ongelooflijk snel en efficiënt maakt. Het kan echter iets langer duren om grotere bestanden te converteren.<br />
 
-Als u van plan bent de conversiecode van DOCX naar CSV in uw .NET-toepassing te integreren, hangt de snelheid en efficiëntie van het conversieproces ook af van hoe goed u uw toepassing hebt geoptimaliseerd. Door ervoor te zorgen dat uw applicatie is geoptimaliseerd voor het conversieproces, kunt u ervoor zorgen dat uw DOCX-bestanden snel en nauwkeurig worden geconverteerd naar CSV-indeling.</span>
+Als u van plan bent de conversiecode van DOCX naar CSV in uw C++-toepassing te integreren, hangt de snelheid en efficiëntie van het conversieproces ook af van hoe goed u uw toepassing hebt geoptimaliseerd. Door ervoor te zorgen dat uw applicatie is geoptimaliseerd voor het conversieproces, kunt u ervoor zorgen dat uw DOCX-bestanden snel en nauwkeurig worden geconverteerd naar CSV-indeling.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

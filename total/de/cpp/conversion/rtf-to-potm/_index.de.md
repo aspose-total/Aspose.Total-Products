@@ -143,7 +143,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der zu konvertierenden RTF-Datei ab. Kleine RTF-Dateien können in wenigen Sekunden in POTM konvertiert werden. Wenn Sie den Konvertierungscode innerhalb einer .NET-Anwendung verwenden, hängt die Konvertierungsgeschwindigkeit davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der zu konvertierenden RTF-Datei ab. Kleine RTF-Dateien können in wenigen Sekunden in POTM konvertiert werden. Wenn Sie den Konvertierungscode innerhalb einer C++-Anwendung verwenden, hängt die Konvertierungsgeschwindigkeit davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

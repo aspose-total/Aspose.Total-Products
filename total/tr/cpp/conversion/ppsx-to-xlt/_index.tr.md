@@ -83,7 +83,7 @@ API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PPSX belgen
                           <span itemprop="name"><b>PPSX'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPSX dosyasının boyutuna bağlıdır. Daha küçük PPSX dosyaları sadece birkaç saniye içinde XLT'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPSX dosyasının boyutuna bağlıdır. Daha küçük PPSX dosyaları sadece birkaç saniye içinde XLT'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

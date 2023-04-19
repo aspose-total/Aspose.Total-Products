@@ -80,7 +80,7 @@ text->Save(u"output.text");
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit der PPSX-zu-TEXT-Konvertierung mit diesem Online-Konverter hängt weitgehend von der Größe der PPSX-Datei ab. Kleinere PPSX-Dateien können in wenigen Sekunden in TEXT konvertiert werden. Wenn Sie den Konvertierungscode in Ihre .NET-Anwendung integriert haben, hängt die Konvertierungsgeschwindigkeit außerdem davon ab, wie gut Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit der PPSX-zu-TEXT-Konvertierung mit diesem Online-Konverter hängt weitgehend von der Größe der PPSX-Datei ab. Kleinere PPSX-Dateien können in wenigen Sekunden in TEXT konvertiert werden. Wenn Sie den Konvertierungscode in Ihre C++-Anwendung integriert haben, hängt die Konvertierungsgeschwindigkeit außerdem davon ab, wie gut Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -96,7 +96,7 @@ text->Save(u"output.text");
                           <span itemprop="name"><b>Welchen Browser sollte ich verwenden, um PPSX zu konvertieren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Der Online-PPSX-zu-TEXT-Konverter ist mit jedem modernen Webbrowser kompatibel, einschließlich Google Chrome, Firefox, Opera und Safari. Wenn Sie jedoch an einer Desktop-Anwendung arbeiten, sollten Sie die Verwendung der Aspose.Total PPSX Conversion API in Betracht ziehen, die speziell für die nahtlose Integration mit .NET-Anwendungen entwickelt wurde. Diese API bietet Hochgeschwindigkeitskonvertierung und erweiterte Funktionen, die die Leistung Ihrer Anwendung verbessern können. Darüber hinaus unterstützt es eine Vielzahl von Dateiformaten, was es zu einer vielseitigen Lösung für alle Ihre Konvertierungsanforderungen macht. Unabhängig davon, ob Sie den Online-Konverter oder die API verwenden, können Sie sicher sein, dass Ihre Dateien während des gesamten Konvertierungsprozesses sicher und geschützt sind.</span>
+                          <span itemprop="text">Der Online-PPSX-zu-TEXT-Konverter ist mit jedem modernen Webbrowser kompatibel, einschließlich Google Chrome, Firefox, Opera und Safari. Wenn Sie jedoch an einer Desktop-Anwendung arbeiten, sollten Sie die Verwendung der Aspose.Total PPSX Conversion API in Betracht ziehen, die speziell für die nahtlose Integration mit C++-Anwendungen entwickelt wurde. Diese API bietet Hochgeschwindigkeitskonvertierung und erweiterte Funktionen, die die Leistung Ihrer Anwendung verbessern können. Darüber hinaus unterstützt es eine Vielzahl von Dateiformaten, was es zu einer vielseitigen Lösung für alle Ihre Konvertierungsanforderungen macht. Unabhängig davon, ob Sie den Online-Konverter oder die API verwenden, können Sie sicher sein, dass Ihre Dateien während des gesamten Konvertierungsprozesses sicher und geschützt sind.</span>
                       </div>
                   </li>
               </ul>

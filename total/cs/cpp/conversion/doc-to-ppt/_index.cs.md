@@ -143,7 +143,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
                           <span itemprop="name"><b>Jak dlouho trvá převod DOC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru DOC. Malé soubory DOC lze převést na PPT během několika sekund. Pokud používáte převodní kód v rámci aplikace .NET, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku závisí do značné míry na velikosti převáděného souboru DOC. Malé soubory DOC lze převést na PPT během několika sekund. Pokud používáte převodní kód v rámci aplikace C++, bude rychlost převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

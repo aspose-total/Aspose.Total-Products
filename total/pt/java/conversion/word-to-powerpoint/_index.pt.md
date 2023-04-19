@@ -79,7 +79,7 @@ A API também permite converter documentos WORD protegidos por senha em POWERPOI
                           <span itemprop="name"><b>Quanto tempo leva para converter WORD?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este conversor WORD online funciona rapidamente, mas sua velocidade depende principalmente do tamanho do arquivo WORD que você está convertendo. Arquivos WORD menores podem ser convertidos em POWERPOINT em apenas alguns segundos. Se você integrou o código de conversão em seu aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
+                          <span itemprop="text">Este conversor WORD online funciona rapidamente, mas sua velocidade depende principalmente do tamanho do arquivo WORD que você está convertendo. Arquivos WORD menores podem ser convertidos em POWERPOINT em apenas alguns segundos. Se você integrou o código de conversão em seu aplicativo Java, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

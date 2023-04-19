@@ -86,7 +86,7 @@ Durante la conversione del file PPT in XLSX, puoi anche aggiungere una filigrana
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPT. Se il file PPT è di piccole dimensioni, la conversione in XLSX può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione .NET, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPT. Se il file PPT è di piccole dimensioni, la conversione in XLSX può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione Java, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -83,7 +83,7 @@ API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PPT belgeni
                           <span itemprop="name"><b>PPT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPT dosyasının boyutuna bağlıdır. Daha küçük PPT dosyaları sadece birkaç saniye içinde XLTX'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPT dosyasının boyutuna bağlıdır. Daha küçük PPT dosyaları sadece birkaç saniye içinde XLTX'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

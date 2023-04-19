@@ -79,7 +79,7 @@ La API también le permite convertir Documentos DOT protegidos con contraseña a
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir DOT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este convertidor DOT en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo DOT que está convirtiendo. Los archivos DOT más pequeños se pueden convertir a ODP en solo unos segundos. Si ha integrado el código de conversión en su aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
+                          <span itemprop="text">Este convertidor DOT en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo DOT que está convirtiendo. Los archivos DOT más pequeños se pueden convertir a ODP en solo unos segundos. Si ha integrado el código de conversión en su aplicación Java, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

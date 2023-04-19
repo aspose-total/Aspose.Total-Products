@@ -79,7 +79,7 @@ otherformats: PPT PPTM PPTX POT PPS POTM PPSX POWERPOINT PPSM POTX CSV DIF FODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل WORD؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يعمل محول WORD عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف WORD الذي تقوم بتحويله. يمكن تحويل ملفات WORD الأصغر إلى PPS في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
+                          <span itemprop="text">يعمل محول WORD عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف WORD الذي تقوم بتحويله. يمكن تحويل ملفات WORD الأصغر إلى PPS في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق Java الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

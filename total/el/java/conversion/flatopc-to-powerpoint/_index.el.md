@@ -79,7 +79,7 @@ otherformats: POT POTM PPTM PPTX PPSM PPSX POTX PPT POWERPOINT PPS CSV DIF FODS 
                           <span itemprop="name"><b>Πόσος χρόνος χρειάζεται για τη μετατροπή FLATOPC;</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Αυτός ο διαδικτυακός μετατροπέας FLATOPC λειτουργεί γρήγορα, αλλά η ταχύτητά του εξαρτάται κυρίως από το μέγεθος του αρχείου FLATOPC που μετατρέπετε. Τα μικρότερα αρχεία FLATOPC μπορούν να μετατραπούν σε POWERPOINT μέσα σε λίγα δευτερόλεπτα. Εάν έχετε ενσωματώσει τον κώδικα μετατροπής στην εφαρμογή σας .NET, η ταχύτητα της διαδικασίας μετατροπής θα εξαρτηθεί από το πόσο καλά έχετε βελτιστοποιήσει την εφαρμογή σας.</span>
+                          <span itemprop="text">Αυτός ο διαδικτυακός μετατροπέας FLATOPC λειτουργεί γρήγορα, αλλά η ταχύτητά του εξαρτάται κυρίως από το μέγεθος του αρχείου FLATOPC που μετατρέπετε. Τα μικρότερα αρχεία FLATOPC μπορούν να μετατραπούν σε POWERPOINT μέσα σε λίγα δευτερόλεπτα. Εάν έχετε ενσωματώσει τον κώδικα μετατροπής στην εφαρμογή σας Java, η ταχύτητα της διαδικασίας μετατροπής θα εξαρτηθεί από το πόσο καλά έχετε βελτιστοποιήσει την εφαρμογή σας.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

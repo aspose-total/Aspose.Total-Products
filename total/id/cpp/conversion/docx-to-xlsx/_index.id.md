@@ -85,7 +85,7 @@ Setelah konversi DOCX ke XLSX selesai, Anda dapat mengunduh file yang dikonversi
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Saat menggunakan konverter DOCX ke XLSX, kecepatan proses konversi akan sangat bergantung pada ukuran file DOCX Anda. Untuk file yang lebih kecil, konversi dapat diselesaikan hanya dalam beberapa detik, membuatnya sangat cepat dan efisien. Namun, file yang lebih besar mungkin membutuhkan waktu lebih lama untuk dikonversi.<br />
 
-Jika Anda berencana untuk mengintegrasikan kode konversi DOCX ke XLSX ke dalam aplikasi .NET, kecepatan dan efisiensi proses konversi juga akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi. Dengan memastikan bahwa aplikasi Anda dioptimalkan untuk proses konversi, Anda dapat membantu memastikan bahwa file DOCX Anda dikonversi ke format XLSX dengan cepat dan akurat.</span>
+Jika Anda berencana untuk mengintegrasikan kode konversi DOCX ke XLSX ke dalam aplikasi C++, kecepatan dan efisiensi proses konversi juga akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi. Dengan memastikan bahwa aplikasi Anda dioptimalkan untuk proses konversi, Anda dapat membantu memastikan bahwa file DOCX Anda dikonversi ke format XLSX dengan cepat dan akurat.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

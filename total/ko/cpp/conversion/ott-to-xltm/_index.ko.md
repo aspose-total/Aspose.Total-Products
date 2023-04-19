@@ -85,7 +85,7 @@ OTT에서 XLTM로 변환이 완료되면 클릭 한 번으로 변환된 파일�
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">OTT to XLTM 변환기를 사용할 때 변환 프로세스의 속도는 주로 OTT 파일의 크기에 따라 달라집니다. 작은 파일의 경우 단 몇 초 만에 변환을 완료할 수 있으므로 매우 빠르고 효율적입니다. 그러나 더 큰 파일은 변환하는 데 시간이 조금 더 걸릴 수 있습니다.<br />
 
-OTT에서 XLTM로의 변환 코드를 .NET 애플리케이션에 통합하려는 경우 변환 프로세스의 속도와 효율성은 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다. 응용 프로그램이 변환 프로세스에 최적화되어 있는지 확인하면 OTT 파일을 XLTM 형식으로 빠르고 정확하게 변환할 수 있습니다.</span>
+OTT에서 XLTM로의 변환 코드를 C++ 애플리케이션에 통합하려는 경우 변환 프로세스의 속도와 효율성은 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다. 응용 프로그램이 변환 프로세스에 최적화되어 있는지 확인하면 OTT 파일을 XLTM 형식으로 빠르고 정확하게 변환할 수 있습니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

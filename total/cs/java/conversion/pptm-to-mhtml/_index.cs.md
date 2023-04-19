@@ -86,7 +86,7 @@ Při převodu souboru PPTM na MHTML můžete také přidat vodoznak do výstupn�
                           <span itemprop="name"><b>Jak dlouho trvá převod PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je do značné míry závislá na velikosti souboru PPTM. Pokud je soubor PPTM malý, převod na MHTML může být dokončen během několika sekund. Pokud jste navíc integrovali konverzní kód do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci pro tento účel optimalizovali.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je do značné míry závislá na velikosti souboru PPTM. Pokud je soubor PPTM malý, převod na MHTML může být dokončen během několika sekund. Pokud jste navíc integrovali konverzní kód do aplikace Java, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci pro tento účel optimalizovali.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ Using the API, you can also perform DOCM file to PPS conversion with watermark. 
                           <span itemprop="name"><b>How long does it take to convert DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online DOCM converter works quickly, but its speed depends primarily on the size of the DOCM file you are converting. Smaller DOCM files can be converted to PPS in just a few seconds. If you have integrated the conversion code into your .NET application, the speed of the conversion process will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">This online DOCM converter works quickly, but its speed depends primarily on the size of the DOCM file you are converting. Smaller DOCM files can be converted to PPS in just a few seconds. If you have integrated the conversion code into your Java application, the speed of the conversion process will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

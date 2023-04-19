@@ -79,7 +79,7 @@ otherformats: PPSX PPTX POT POTM POTX PPTM PPSM PPS PPT POWERPOINT CSV DIF FODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل DOCM؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يعمل محول DOCM عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف DOCM الذي تقوم بتحويله. يمكن تحويل ملفات DOCM الأصغر إلى PPT في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
+                          <span itemprop="text">يعمل محول DOCM عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف DOCM الذي تقوم بتحويله. يمكن تحويل ملفات DOCM الأصغر إلى PPT في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق Java الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

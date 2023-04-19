@@ -79,7 +79,7 @@ API juga memungkinkan Anda untuk mengonversi dokumen ODT yang dilindungi kata sa
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi ODT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Konverter ODT online ini bekerja dengan cepat, tetapi kecepatannya terutama bergantung pada ukuran file ODT yang Anda konversi. File ODT yang lebih kecil dapat dikonversi ke POTX hanya dalam beberapa detik. Jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi .NET Anda, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda.</span>
+                          <span itemprop="text">Konverter ODT online ini bekerja dengan cepat, tetapi kecepatannya terutama bergantung pada ukuran file ODT yang Anda konversi. File ODT yang lebih kecil dapat dikonversi ke POTX hanya dalam beberapa detik. Jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi Java Anda, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

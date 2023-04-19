@@ -79,7 +79,7 @@ otherformats: POWERPOINT PPT POTM PPTM PPSX PPTX PPS PPSM POTX POT CSV DIF FODS 
                           <span itemprop="name"><b>转换 RTF 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线 RTF 转换器运行速度很快，但其速度主要取决于您要转换的 RTF 文件的大小。只需几秒钟即可将较小的 RTF 文件转换为 PPSX。如果您已将转换代码集成到您的 .NET 应用程序中，则转换过程的速度将取决于您对应用程序的优化程度。</span>
+                          <span itemprop="text">此在线 RTF 转换器运行速度很快，但其速度主要取决于您要转换的 RTF 文件的大小。只需几秒钟即可将较小的 RTF 文件转换为 PPSX。如果您已将转换代码集成到您的 Java 应用程序中，则转换过程的速度将取决于您对应用程序的优化程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

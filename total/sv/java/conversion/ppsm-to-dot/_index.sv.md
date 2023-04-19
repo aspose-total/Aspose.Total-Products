@@ -78,7 +78,7 @@ Med hjälp av API:t kan du också utföra PPSM-fil till DOT-konvertering med vat
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online-omvandlare är designad för att ge snabb och effektiv PPSM till DOT-konvertering. Hastigheten på konverteringsprocessen kan variera beroende på storleken på PPSM-filen. Små PPSM-filer kan konverteras till DOT på bara några sekunder. Men om du integrerar konverteringskoden i en .NET-applikation kan konverteringshastigheten bero på hur väl du har optimerat din applikation. Hur som helst är vårt PPSM till DOT-konverteringsverktyg utrustat med den senaste tekniken som säkerställer bästa möjliga prestanda och utskriftskvalitet.</span>
+                          <span itemprop="text">Denna online-omvandlare är designad för att ge snabb och effektiv PPSM till DOT-konvertering. Hastigheten på konverteringsprocessen kan variera beroende på storleken på PPSM-filen. Små PPSM-filer kan konverteras till DOT på bara några sekunder. Men om du integrerar konverteringskoden i en Java-applikation kan konverteringshastigheten bero på hur väl du har optimerat din applikation. Hur som helst är vårt PPSM till DOT-konverteringsverktyg utrustat med den senaste tekniken som säkerställer bästa möjliga prestanda och utskriftskvalitet.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

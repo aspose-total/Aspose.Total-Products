@@ -78,7 +78,7 @@ APIを使用して、透かしを使用してPOTXファイルからODTへの変�
                           <span itemprop="name"><b>POTX の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターは、高速で効率的な POTX から ODT への変換を提供するように設計されています。変換プロセスの速度は、POTX ファイルのサイズによって異なる場合があります。小さなサイズの POTX ファイルは、わずか数秒で ODT に変換できます。ただし、.NET アプリケーション内に変換コードを統合している場合、変換速度は、アプリケーションをどれだけ最適化したかに依存する場合があります。いずれにせよ、当社の POTX から ODT への変換ツールには、可能な限り最高のパフォーマンスと出力品質を保証する最先端の技術が搭載されています。</span>
+                          <span itemprop="text">このオンライン コンバーターは、高速で効率的な POTX から ODT への変換を提供するように設計されています。変換プロセスの速度は、POTX ファイルのサイズによって異なる場合があります。小さなサイズの POTX ファイルは、わずか数秒で ODT に変換できます。ただし、Java アプリケーション内に変換コードを統合している場合、変換速度は、アプリケーションをどれだけ最適化したかに依存する場合があります。いずれにせよ、当社の POTX から ODT への変換ツールには、可能な限り最高のパフォーマンスと出力品質を保証する最先端の技術が搭載されています。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

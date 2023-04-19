@@ -86,7 +86,7 @@ Saat mengonversi file PPSM ke XLAM, Anda juga dapat menambahkan tanda air ke for
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file PPSM. Jika file PPSM berukuran kecil, konversi ke XLAM dapat diselesaikan dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi dalam aplikasi .NET, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi untuk tujuan ini.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file PPSM. Jika file PPSM berukuran kecil, konversi ke XLAM dapat diselesaikan dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi dalam aplikasi Java, kecepatan proses konversi akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi untuk tujuan ini.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

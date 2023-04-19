@@ -86,7 +86,7 @@ Using the API, you can also perform DOTX file to PPS conversion with watermark. 
                           <span itemprop="name"><b>How long does it take to convert DOTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online DOTX converter works quickly, but its speed depends primarily on the size of the DOTX file you are converting. Smaller DOTX files can be converted to PPS in just a few seconds. If you have integrated the conversion code into your .NET application, the speed of the conversion process will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">This online DOTX converter works quickly, but its speed depends primarily on the size of the DOTX file you are converting. Smaller DOTX files can be converted to PPS in just a few seconds. If you have integrated the conversion code into your Java application, the speed of the conversion process will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

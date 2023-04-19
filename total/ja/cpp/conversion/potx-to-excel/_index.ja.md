@@ -83,7 +83,7 @@ APIを使用して、パスワードで保護されたドキュメントを開�
                           <span itemprop="name"><b>POTX の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は高速ですが、変換する POTX ファイルのサイズに大きく依存します。小さい POTX ファイルは、わずか数秒で EXCEL にレンダリングできます。変換コードを .NET アプリケーションに統合する場合、速度は変換プロセス用にアプリケーションをどのように最適化したかによって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は高速ですが、変換する POTX ファイルのサイズに大きく依存します。小さい POTX ファイルは、わずか数秒で EXCEL にレンダリングできます。変換コードを C++ アプリケーションに統合する場合、速度は変換プロセス用にアプリケーションをどのように最適化したかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

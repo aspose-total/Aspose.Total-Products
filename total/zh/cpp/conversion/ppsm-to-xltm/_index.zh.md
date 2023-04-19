@@ -83,7 +83,7 @@ otherformats: XLSM XLT CSV XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF SX
                           <span itemprop="name"><b>转换 PPSM 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">这个在线转换器的速度很快，但是很大程度上取决于被转换的PPSM文件的大小。只需几秒钟即可将较小的 PPSM 文件渲染为 XLTM。如果您计划将转换代码集成到 .NET 应用程序中，速度将取决于您如何针对转换过程优化应用程序。</span>
+                          <span itemprop="text">这个在线转换器的速度很快，但是很大程度上取决于被转换的PPSM文件的大小。只需几秒钟即可将较小的 PPSM 文件渲染为 XLTM。如果您计划将转换代码集成到 C++ 应用程序中，速度将取决于您如何针对转换过程优化应用程序。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

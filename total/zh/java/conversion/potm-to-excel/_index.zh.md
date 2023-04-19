@@ -86,7 +86,7 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
                           <span itemprop="name"><b>转换 POTM 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线转换器的速度在很大程度上取决于 POTM 文件的大小。如果 POTM 文件较小，转换成 EXCEL 可以在几秒钟内完成。此外，如果您已将转换代码集成到 .NET 应用程序中，则转换过程的速度将取决于您为此目的优化应用程序的程度。</span>
+                          <span itemprop="text">此在线转换器的速度在很大程度上取决于 POTM 文件的大小。如果 POTM 文件较小，转换成 EXCEL 可以在几秒钟内完成。此外，如果您已将转换代码集成到 Java 应用程序中，则转换过程的速度将取决于您为此目的优化应用程序的程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

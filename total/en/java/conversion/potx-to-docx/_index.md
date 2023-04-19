@@ -78,7 +78,7 @@ Using the API, you can also perform POTX file to DOCX conversion with watermark.
                           <span itemprop="name"><b>How long does it take to convert POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online converter is designed to provide fast and efficient POTX to DOCX conversion. The speed of the conversion process may vary depending on the size of the POTX file. Small size POTX files can be converted to DOCX in just a few seconds. However, if you are integrating the conversion code within a .NET application, the conversion speed may depend on how well you have optimized your application. In any case, our POTX to DOCX conversion tool is equipped with state-of-the-art technology that ensures the best possible performance and output quality.</span>
+                          <span itemprop="text">This online converter is designed to provide fast and efficient POTX to DOCX conversion. The speed of the conversion process may vary depending on the size of the POTX file. Small size POTX files can be converted to DOCX in just a few seconds. However, if you are integrating the conversion code within a Java application, the conversion speed may depend on how well you have optimized your application. In any case, our POTX to DOCX conversion tool is equipped with state-of-the-art technology that ensures the best possible performance and output quality.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

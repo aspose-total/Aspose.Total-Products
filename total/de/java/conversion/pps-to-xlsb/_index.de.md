@@ -86,7 +86,7 @@ Beim Konvertieren der PPS-Datei in XLSB können Sie Ihrem Ausgabe-XLSB-Dateiform
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von PPS?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der PPS-Datei ab. Wenn die PPS-Datei klein ist, kann die Konvertierung in XLSB innerhalb weniger Sekunden abgeschlossen werden. Wenn Sie den Konvertierungscode außerdem in eine .NET-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung für diesen Zweck optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der PPS-Datei ab. Wenn die PPS-Datei klein ist, kann die Konvertierung in XLSB innerhalb weniger Sekunden abgeschlossen werden. Wenn Sie den Konvertierungscode außerdem in eine Java-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung für diesen Zweck optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

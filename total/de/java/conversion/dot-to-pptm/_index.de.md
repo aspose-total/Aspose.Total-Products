@@ -79,7 +79,7 @@ Mit der API können Sie auch passwortgeschützte DOT-Dokumente in PPTM konvertie
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von DOT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Dieser Online-DOT-Konverter arbeitet schnell, aber seine Geschwindigkeit hängt hauptsächlich von der Größe der DOT-Datei ab, die Sie konvertieren. Kleinere DOT-Dateien können in wenigen Sekunden in PPTM konvertiert werden. Wenn Sie den Konvertierungscode in Ihre .NET-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
+                          <span itemprop="text">Dieser Online-DOT-Konverter arbeitet schnell, aber seine Geschwindigkeit hängt hauptsächlich von der Größe der DOT-Datei ab, die Sie konvertieren. Kleinere DOT-Dateien können in wenigen Sekunden in PPTM konvertiert werden. Wenn Sie den Konvertierungscode in Ihre Java-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

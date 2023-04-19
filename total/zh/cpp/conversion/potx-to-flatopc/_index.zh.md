@@ -81,7 +81,7 @@ flatopc->Save(u"output.flatopc");
                           <span itemprop="name"><b>转换 POTX 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">使用此在线转换器将 POTX 转换为 FLATOPC 的速度在很大程度上取决于 POTX 文件的大小。只需几秒钟即可将较小的 POTX 文件转换为 FLATOPC。此外，如果您在 .NET 应用程序中集成了转换代码，则转换速度将取决于您针对转换过程优化应用程序的程度。</span>
+                          <span itemprop="text">使用此在线转换器将 POTX 转换为 FLATOPC 的速度在很大程度上取决于 POTX 文件的大小。只需几秒钟即可将较小的 POTX 文件转换为 FLATOPC。此外，如果您在 C++ 应用程序中集成了转换代码，则转换速度将取决于您针对转换过程优化应用程序的程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -97,7 +97,7 @@ flatopc->Save(u"output.flatopc");
                           <span itemprop="name"><b>我应该使用什么浏览器来转换 POTX？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">在线 POTX 到 FLATOPC 转换器与任何现代网络浏览器兼容，包括 Google Chrome、Firefox、Opera 和 Safari 等。但是，如果您在桌面应用程序上工作，您可能需要考虑使用 Aspose.Total POTX Conversion API，它专为与 .NET 应用程序无缝集成而设计。此 API 提供高速转换和高级功能，可增强您的应用程序的性能。此外，它支持范围广泛的文件格式，使其成为满足您所有转换需求的多功能解决方案。无论您选择使用在线转换器还是 API，您都可以放心，您的文件在整个转换过程中都是安全可靠的。</span>
+                          <span itemprop="text">在线 POTX 到 FLATOPC 转换器与任何现代网络浏览器兼容，包括 Google Chrome、Firefox、Opera 和 Safari 等。但是，如果您在桌面应用程序上工作，您可能需要考虑使用 Aspose.Total POTX Conversion API，它专为与 C++ 应用程序无缝集成而设计。此 API 提供高速转换和高级功能，可增强您的应用程序的性能。此外，它支持范围广泛的文件格式，使其成为满足您所有转换需求的多功能解决方案。无论您选择使用在线转换器还是 API，您都可以放心，您的文件在整个转换过程中都是安全可靠的。</span>
                       </div>
                   </li>
               </ul>

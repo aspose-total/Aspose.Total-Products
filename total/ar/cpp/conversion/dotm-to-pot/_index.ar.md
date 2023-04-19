@@ -143,7 +143,7 @@ pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل DOTM؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت بشكل كبير على حجم ملف DOTM الذي يتم تحويله. يمكن تحويل ملفات DOTM الصغيرة إلى POT في بضع ثوانٍ فقط. إذا كنت تستخدم رمز التحويل داخل تطبيق .NET ، فستعتمد سرعة التحويل على مدى جودة تطبيقك.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت بشكل كبير على حجم ملف DOTM الذي يتم تحويله. يمكن تحويل ملفات DOTM الصغيرة إلى POT في بضع ثوانٍ فقط. إذا كنت تستخدم رمز التحويل داخل تطبيق C++ ، فستعتمد سرعة التحويل على مدى جودة تطبيقك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

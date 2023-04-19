@@ -85,7 +85,7 @@ DOCM'den XLT'e dönüştürme işlemi tamamlandıktan sonra, dönüştürülen d
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">DOCM'den XLT'e dönüştürücüyü kullanmaya gelince, dönüştürme işleminin hızı büyük ölçüde DOCM dosyanızın boyutuna bağlı olacaktır. Daha küçük dosyalar için dönüştürme yalnızca birkaç saniyede tamamlanabilir, bu da onu inanılmaz derecede hızlı ve verimli hale getirir. Ancak, daha büyük dosyaların dönüştürülmesi biraz daha uzun sürebilir.<br />
 
-DOCM'den XLT'e dönüştürme kodunu .NET uygulamanıza entegre etmeyi planlıyorsanız, dönüştürme işleminin hızı ve verimliliği, uygulamanızı ne kadar iyi optimize ettiğinize de bağlı olacaktır. Uygulamanızın dönüştürme işlemi için optimize edilmesini sağlayarak, DOCM dosyalarınızın hızlı ve doğru bir şekilde XLT formatına dönüştürülmesini sağlamaya yardımcı olabilirsiniz.</span>
+DOCM'den XLT'e dönüştürme kodunu C++ uygulamanıza entegre etmeyi planlıyorsanız, dönüştürme işleminin hızı ve verimliliği, uygulamanızı ne kadar iyi optimize ettiğinize de bağlı olacaktır. Uygulamanızın dönüştürme işlemi için optimize edilmesini sağlayarak, DOCM dosyalarınızın hızlı ve doğru bir şekilde XLT formatına dönüştürülmesini sağlamaya yardımcı olabilirsiniz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

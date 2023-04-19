@@ -85,7 +85,7 @@ Po dokončení převodu DOCX na ODS si budete moci svůj převedený soubor okam
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Pokud jde o použití převodníku DOCX na ODS, rychlost procesu převodu bude do značné míry záviset na velikosti vašeho souboru DOCX. U menších souborů lze převod dokončit během několika sekund, díky čemuž je neuvěřitelně rychlý a efektivní. Převod větších souborů však může trvat o něco déle.<br />
 
-Pokud plánujete integraci převodního kódu DOCX na ODS do vaší aplikace .NET, bude rychlost a efektivita procesu převodu záviset také na tom, jak dobře jste aplikaci optimalizovali. Zajištěním, že je vaše aplikace optimalizována pro proces převodu, můžete zajistit, že vaše soubory DOCX budou převedeny do formátu ODS rychle a přesně.</span>
+Pokud plánujete integraci převodního kódu DOCX na ODS do vaší aplikace C++, bude rychlost a efektivita procesu převodu záviset také na tom, jak dobře jste aplikaci optimalizovali. Zajištěním, že je vaše aplikace optimalizována pro proces převodu, můžete zajistit, že vaše soubory DOCX budou převedeny do formátu ODS rychle a přesně.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ API ayrıca parola korumalı OTT belgelerini ODP'ye dönüştürmenize olanak ta
                           <span itemprop="name"><b>OTT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi OTT dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz OTT dosyasının boyutuna bağlıdır. Daha küçük OTT dosyaları sadece birkaç saniye içinde ODP'e dönüştürülebilir. Dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi OTT dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz OTT dosyasının boyutuna bağlıdır. Daha küçük OTT dosyaları sadece birkaç saniye içinde ODP'e dönüştürülebilir. Dönüştürme kodunu Java uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

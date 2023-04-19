@@ -86,7 +86,7 @@ otherformats: XLS TSV DIF EXCEL XLTX XLSB XLSM XLT FODS XLAM SXC XLSX MARKDOWN M
                           <span itemprop="name"><b>Сколько времени занимает конвертация POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Скорость этого онлайн-конвертера во многом зависит от размера файла POWERPOINT. Если файл POWERPOINT небольшого размера, преобразование в EXCEL может быть выполнено в течение нескольких секунд. Кроме того, если вы интегрировали код преобразования в приложение .NET, скорость процесса преобразования будет зависеть от того, насколько хорошо вы оптимизировали свое приложение для этой цели.</span>
+                          <span itemprop="text">Скорость этого онлайн-конвертера во многом зависит от размера файла POWERPOINT. Если файл POWERPOINT небольшого размера, преобразование в EXCEL может быть выполнено в течение нескольких секунд. Кроме того, если вы интегрировали код преобразования в приложение Java, скорость процесса преобразования будет зависеть от того, насколько хорошо вы оптимизировали свое приложение для этой цели.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

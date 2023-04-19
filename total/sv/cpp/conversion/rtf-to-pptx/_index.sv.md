@@ -143,7 +143,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på RTF-filen som konverteras. Små RTF-filer kan konverteras till PPTX på bara några sekunder. Om du använder konverteringskoden i en .NET-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på RTF-filen som konverteras. Små RTF-filer kan konverteras till PPTX på bara några sekunder. Om du använder konverteringskoden i en C++-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

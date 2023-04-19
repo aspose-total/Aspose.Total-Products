@@ -85,7 +85,7 @@ Khi quá trình chuyển đổi DOT sang ODS hoàn tất, bạn sẽ có thể t
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Khi nói đến việc sử dụng trình chuyển đổi DOT sang ODS, tốc độ của quá trình chuyển đổi sẽ phụ thuộc phần lớn vào kích thước tệp DOT của bạn. Đối với các tệp nhỏ hơn, quá trình chuyển đổi có thể được hoàn thành chỉ trong vài giây, khiến quá trình này cực kỳ nhanh và hiệu quả. Tuy nhiên, các tệp lớn hơn có thể mất nhiều thời gian hơn để chuyển đổi.<br />
 
-Nếu bạn dự định tích hợp mã chuyển đổi DOT sang ODS vào ứng dụng .NET của mình, thì tốc độ và hiệu quả của quá trình chuyển đổi cũng sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình. Bằng cách đảm bảo rằng ứng dụng của bạn được tối ưu hóa cho quá trình chuyển đổi, bạn có thể giúp đảm bảo rằng các tệp DOT của mình được chuyển đổi sang định dạng ODS một cách nhanh chóng và chính xác.</span>
+Nếu bạn dự định tích hợp mã chuyển đổi DOT sang ODS vào ứng dụng C++ của mình, thì tốc độ và hiệu quả của quá trình chuyển đổi cũng sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình. Bằng cách đảm bảo rằng ứng dụng của bạn được tối ưu hóa cho quá trình chuyển đổi, bạn có thể giúp đảm bảo rằng các tệp DOT của mình được chuyển đổi sang định dạng ODS một cách nhanh chóng và chính xác.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

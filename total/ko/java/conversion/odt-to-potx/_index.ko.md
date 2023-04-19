@@ -79,7 +79,7 @@ API를 사용하면 암호로 보호된 ODT 문서를 POTX로 변환할 수도 �
                           <span itemprop="name"><b>ODT를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 ODT 변환기는 빠르게 작동하지만 속도는 주로 변환하는 ODT 파일의 크기에 따라 달라집니다. 더 작은 ODT 파일은 단 몇 초 만에 POTX로 변환할 수 있습니다. 변환 코드를 .NET 애플리케이션에 통합한 경우 변환 프로세스의 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
+                          <span itemprop="text">이 온라인 ODT 변환기는 빠르게 작동하지만 속도는 주로 변환하는 ODT 파일의 크기에 따라 달라집니다. 더 작은 ODT 파일은 단 몇 초 만에 POTX로 변환할 수 있습니다. 변환 코드를 Java 애플리케이션에 통합한 경우 변환 프로세스의 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

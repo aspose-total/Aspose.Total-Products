@@ -79,7 +79,7 @@ Using the API, you can also perform RTF file to ODP conversion with watermark. I
                           <span itemprop="name"><b>How long does it take to convert RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online RTF converter works quickly, but its speed depends primarily on the size of the RTF file you are converting. Smaller RTF files can be converted to ODP in just a few seconds. If you have integrated the conversion code into your .NET application, the speed of the conversion process will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">This online RTF converter works quickly, but its speed depends primarily on the size of the RTF file you are converting. Smaller RTF files can be converted to ODP in just a few seconds. If you have integrated the conversion code into your Java application, the speed of the conversion process will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

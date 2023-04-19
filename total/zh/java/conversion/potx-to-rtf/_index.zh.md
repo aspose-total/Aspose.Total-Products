@@ -77,7 +77,7 @@ otherformats: RTF DOTM FLATOPC WORDML WORD TEXT ODT RTFM RTFX DOT DOTX OTT
                           <span itemprop="name"><b>转换 POTX 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线转换器旨在提供快速高效的 POTX 到 RTF 转换。转换过程的速度可能因 POTX 文件的大小而异。只需几秒钟即可将小尺寸 POTX 文件转换为 RTF。但是，如果您将转换代码集成到 .NET 应用程序中，则转换速度可能取决于您对应用程序的优化程度。无论如何，我们的 POTX 到 RTF 转换工具配备了最先进的技术，可确保最佳性能和输出质量。</span>
+                          <span itemprop="text">此在线转换器旨在提供快速高效的 POTX 到 RTF 转换。转换过程的速度可能因 POTX 文件的大小而异。只需几秒钟即可将小尺寸 POTX 文件转换为 RTF。但是，如果您将转换代码集成到 Java 应用程序中，则转换速度可能取决于您对应用程序的优化程度。无论如何，我们的 POTX 到 RTF 转换工具配备了最先进的技术，可确保最佳性能和输出质量。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

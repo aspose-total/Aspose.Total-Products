@@ -143,7 +143,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera OTT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på OTT-filen som konverteras. Små OTT-filer kan konverteras till PPT på bara några sekunder. Om du använder konverteringskoden i en .NET-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på OTT-filen som konverteras. Små OTT-filer kan konverteras till PPT på bara några sekunder. Om du använder konverteringskoden i en C++-applikation kommer konverteringshastigheten att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

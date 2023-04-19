@@ -143,7 +143,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
                           <span itemprop="name"><b>DOTX'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürülmekte olan DOTX dosyasının boyutuna bağlıdır. Küçük DOTX dosyaları sadece birkaç saniye içinde POTX'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasında kullanıyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürülmekte olan DOTX dosyasının boyutuna bağlıdır. Küçük DOTX dosyaları sadece birkaç saniye içinde POTX'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasında kullanıyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

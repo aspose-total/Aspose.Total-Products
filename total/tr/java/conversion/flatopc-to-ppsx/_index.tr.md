@@ -79,7 +79,7 @@ API ayrıca parola korumalı FLATOPC belgelerini PPSX'ye dönüştürmenize olan
                           <span itemprop="name"><b>FLATOPC'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi FLATOPC dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz FLATOPC dosyasının boyutuna bağlıdır. Daha küçük FLATOPC dosyaları sadece birkaç saniye içinde PPSX'e dönüştürülebilir. Dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi FLATOPC dönüştürücü hızlı çalışır, ancak hızı öncelikle dönüştürdüğünüz FLATOPC dosyasının boyutuna bağlıdır. Daha küçük FLATOPC dosyaları sadece birkaç saniye içinde PPSX'e dönüştürülebilir. Dönüştürme kodunu Java uygulamanıza entegre ettiyseniz, dönüştürme işleminin hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

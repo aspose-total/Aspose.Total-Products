@@ -83,7 +83,7 @@ API'yi kullanarak parola korumalı belgeyi de açabilirsiniz. Giriş PPTM belgen
                           <span itemprop="name"><b>PPTM'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPTM dosyasının boyutuna bağlıdır. Daha küçük PPTM dosyaları sadece birkaç saniye içinde TSV'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı hızlıdır, ancak büyük ölçüde dönüştürülmekte olan PPTM dosyasının boyutuna bağlıdır. Daha küçük PPTM dosyaları sadece birkaç saniye içinde TSV'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

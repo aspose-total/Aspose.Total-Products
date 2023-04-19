@@ -79,7 +79,7 @@ Az API azt is lehetővé teszi, hogy jelszóval védett ODT dokumentumokat konve
                           <span itemprop="name"><b>Mennyi ideig tart a ODT konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ez az online ODT konverter gyorsan működik, de sebessége elsősorban a konvertálandó ODT fájl méretétől függ. A kisebb ODT fájlok néhány másodperc alatt POT formátumba konvertálhatók. Ha integrálta a konverziós kódot .NET-alkalmazásába, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
+                          <span itemprop="text">Ez az online ODT konverter gyorsan működik, de sebessége elsősorban a konvertálandó ODT fájl méretétől függ. A kisebb ODT fájlok néhány másodperc alatt POT formátumba konvertálhatók. Ha integrálta a konverziós kódot Java-alkalmazásába, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

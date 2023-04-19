@@ -85,7 +85,7 @@ Miután a DOTX-ből ODS-be konvertálás befejeződött, egyetlen kattintással 
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">A DOTX-ODS konverter használatakor az átalakítási folyamat sebessége nagymértékben függ a DOTX-fájl méretétől. Kisebb fájlok esetén az átalakítás néhány másodperc alatt elvégezhető, így hihetetlenül gyors és hatékony. A nagyobb fájlok konvertálása azonban némileg tovább tarthat.<br />
 
-Ha a DOTX–ODS konverziós kódot tervezi integrálni .NET-alkalmazásába, az átalakítási folyamat sebessége és hatékonysága attól is függ, hogy mennyire optimalizálta az alkalmazást. Ha gondoskodik arról, hogy alkalmazása optimalizálva legyen a konverziós folyamathoz, segíthet abban, hogy DOTX-fájljait gyorsan és pontosan konvertálja ODS formátumba.</span>
+Ha a DOTX–ODS konverziós kódot tervezi integrálni C++-alkalmazásába, az átalakítási folyamat sebessége és hatékonysága attól is függ, hogy mennyire optimalizálta az alkalmazást. Ha gondoskodik arról, hogy alkalmazása optimalizálva legyen a konverziós folyamathoz, segíthet abban, hogy DOTX-fájljait gyorsan és pontosan konvertálja ODS formátumba.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

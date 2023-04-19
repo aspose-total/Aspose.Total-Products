@@ -85,7 +85,7 @@ DOC'den DIF'e dönüştürme işlemi tamamlandıktan sonra, dönüştürülen do
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">DOC'den DIF'e dönüştürücüyü kullanmaya gelince, dönüştürme işleminin hızı büyük ölçüde DOC dosyanızın boyutuna bağlı olacaktır. Daha küçük dosyalar için dönüştürme yalnızca birkaç saniyede tamamlanabilir, bu da onu inanılmaz derecede hızlı ve verimli hale getirir. Ancak, daha büyük dosyaların dönüştürülmesi biraz daha uzun sürebilir.<br />
 
-DOC'den DIF'e dönüştürme kodunu .NET uygulamanıza entegre etmeyi planlıyorsanız, dönüştürme işleminin hızı ve verimliliği, uygulamanızı ne kadar iyi optimize ettiğinize de bağlı olacaktır. Uygulamanızın dönüştürme işlemi için optimize edilmesini sağlayarak, DOC dosyalarınızın hızlı ve doğru bir şekilde DIF formatına dönüştürülmesini sağlamaya yardımcı olabilirsiniz.</span>
+DOC'den DIF'e dönüştürme kodunu C++ uygulamanıza entegre etmeyi planlıyorsanız, dönüştürme işleminin hızı ve verimliliği, uygulamanızı ne kadar iyi optimize ettiğinize de bağlı olacaktır. Uygulamanızın dönüştürme işlemi için optimize edilmesini sağlayarak, DOC dosyalarınızın hızlı ve doğru bir şekilde DIF formatına dönüştürülmesini sağlamaya yardımcı olabilirsiniz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

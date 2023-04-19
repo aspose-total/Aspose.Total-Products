@@ -79,7 +79,7 @@ La API también le permite convertir Documentos RTF protegidos con contraseña a
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este convertidor RTF en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo RTF que está convirtiendo. Los archivos RTF más pequeños se pueden convertir a POT en solo unos segundos. Si ha integrado el código de conversión en su aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
+                          <span itemprop="text">Este convertidor RTF en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo RTF que está convirtiendo. Los archivos RTF más pequeños se pueden convertir a POT en solo unos segundos. Si ha integrado el código de conversión en su aplicación Java, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ Interfejs API umożliwia również konwersję dokumentów DOTM chronionych hasł
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja DOTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ten internetowy konwerter DOTM działa szybko, ale jego szybkość zależy przede wszystkim od rozmiaru konwertowanego pliku DOTM. Mniejsze pliki DOTM można przekonwertować na format ODP w zaledwie kilka sekund. Jeśli zintegrowałeś kod konwersji ze swoją aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
+                          <span itemprop="text">Ten internetowy konwerter DOTM działa szybko, ale jego szybkość zależy przede wszystkim od rozmiaru konwertowanego pliku DOTM. Mniejsze pliki DOTM można przekonwertować na format ODP w zaledwie kilka sekund. Jeśli zintegrowałeś kod konwersji ze swoją aplikacją Java, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

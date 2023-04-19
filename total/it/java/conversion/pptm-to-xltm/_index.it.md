@@ -86,7 +86,7 @@ Durante la conversione del file PPTM in XLTM, puoi anche aggiungere una filigran
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPTM. Se il file PPTM è di piccole dimensioni, la conversione in XLTM può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione .NET, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPTM. Se il file PPTM è di piccole dimensioni, la conversione in XLTM può essere completata in pochi secondi. Inoltre, se hai integrato il codice di conversione all'interno di un'applicazione Java, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione per questo scopo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ API:et låter dig också konvertera lösenordsskyddade DOC-dokument till ODP. Om
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera DOC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Denna online DOC-omvandlare fungerar snabbt, men dess hastighet beror främst på storleken på DOC-filen du konverterar. Mindre DOC-filer kan konverteras till ODP på bara några sekunder. Om du har integrerat konverteringskoden i din .NET-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation.</span>
+                          <span itemprop="text">Denna online DOC-omvandlare fungerar snabbt, men dess hastighet beror främst på storleken på DOC-filen du konverterar. Mindre DOC-filer kan konverteras till ODP på bara några sekunder. Om du har integrerat konverteringskoden i din Java-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

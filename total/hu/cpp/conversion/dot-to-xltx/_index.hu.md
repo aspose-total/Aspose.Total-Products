@@ -85,7 +85,7 @@ Miután a DOT-ből XLTX-be konvertálás befejeződött, egyetlen kattintással 
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">A DOT-XLTX konverter használatakor az átalakítási folyamat sebessége nagymértékben függ a DOT-fájl méretétől. Kisebb fájlok esetén az átalakítás néhány másodperc alatt elvégezhető, így hihetetlenül gyors és hatékony. A nagyobb fájlok konvertálása azonban némileg tovább tarthat.<br />
 
-Ha a DOT–XLTX konverziós kódot tervezi integrálni .NET-alkalmazásába, az átalakítási folyamat sebessége és hatékonysága attól is függ, hogy mennyire optimalizálta az alkalmazást. Ha gondoskodik arról, hogy alkalmazása optimalizálva legyen a konverziós folyamathoz, segíthet abban, hogy DOT-fájljait gyorsan és pontosan konvertálja XLTX formátumba.</span>
+Ha a DOT–XLTX konverziós kódot tervezi integrálni C++-alkalmazásába, az átalakítási folyamat sebessége és hatékonysága attól is függ, hogy mennyire optimalizálta az alkalmazást. Ha gondoskodik arról, hogy alkalmazása optimalizálva legyen a konverziós folyamathoz, segíthet abban, hogy DOT-fájljait gyorsan és pontosan konvertálja XLTX formátumba.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

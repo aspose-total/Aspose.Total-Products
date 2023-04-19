@@ -78,7 +78,7 @@ Met behulp van de API kunt u ook een PPS-bestand naar DOTM-conversie met waterme
                           <span itemprop="name"><b>Hoe lang duurt het om PPS te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Deze online converter is ontworpen om snelle en efficiënte PPS naar DOTM-conversie te bieden. De snelheid van het conversieproces kan variëren, afhankelijk van de grootte van het PPS-bestand. Kleine PPS-bestanden kunnen in slechts enkele seconden naar DOTM worden geconverteerd. Als u de conversiecode echter integreert in een .NET-toepassing, kan de conversiesnelheid afhangen van hoe goed u uw toepassing hebt geoptimaliseerd. In ieder geval is onze PPS naar DOTM-conversietool uitgerust met de modernste technologie die zorgt voor de best mogelijke prestaties en uitvoerkwaliteit.</span>
+                          <span itemprop="text">Deze online converter is ontworpen om snelle en efficiënte PPS naar DOTM-conversie te bieden. De snelheid van het conversieproces kan variëren, afhankelijk van de grootte van het PPS-bestand. Kleine PPS-bestanden kunnen in slechts enkele seconden naar DOTM worden geconverteerd. Als u de conversiecode echter integreert in een Java-toepassing, kan de conversiesnelheid afhangen van hoe goed u uw toepassing hebt geoptimaliseerd. In ieder geval is onze PPS naar DOTM-conversietool uitgerust met de modernste technologie die zorgt voor de best mogelijke prestaties en uitvoerkwaliteit.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -84,7 +84,7 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT CSV MHTML SXC DIF XLSX EX
                           <span itemprop="name"><b>การแปลง POTX ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้เร็ว แต่ส่วนใหญ่ขึ้นอยู่กับขนาดของไฟล์ POTX ที่กำลังแปลง ไฟล์ POTX ที่เล็กลงสามารถแปลงเป็น ODS ได้ในเวลาเพียงไม่กี่วินาที หากคุณวางแผนที่จะรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงอย่างไร</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้เร็ว แต่ส่วนใหญ่ขึ้นอยู่กับขนาดของไฟล์ POTX ที่กำลังแปลง ไฟล์ POTX ที่เล็กลงสามารถแปลงเป็น ODS ได้ในเวลาเพียงไม่กี่วินาที หากคุณวางแผนที่จะรวมรหัสการแปลงภายในแอปพลิเคชัน C++ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงอย่างไร</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

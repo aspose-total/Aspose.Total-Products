@@ -79,7 +79,7 @@ La API también le permite convertir documentos WORDML protegidos con contraseñ
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir WORDML?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este convertidor WORDML en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo WORDML que está convirtiendo. Los archivos WORDML más pequeños se pueden convertir a POWERPOINT en solo unos segundos. Si ha integrado el código de conversión en su aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
+                          <span itemprop="text">Este convertidor WORDML en línea funciona rápidamente, pero su velocidad depende principalmente del tamaño del archivo WORDML que está convirtiendo. Los archivos WORDML más pequeños se pueden convertir a POWERPOINT en solo unos segundos. Si ha integrado el código de conversión en su aplicación Java, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

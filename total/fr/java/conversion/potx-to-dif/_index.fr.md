@@ -86,7 +86,7 @@ Lors de la conversion du fichier POTX en DIF, vous pouvez également ajouter un 
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir POTX ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier POTX. Si le fichier POTX est de petite taille, la conversion en DIF peut être effectuée en quelques secondes. De plus, si vous avez intégré le code de conversion dans une application .NET, la vitesse du processus de conversion dépendra de la façon dont vous avez optimisé votre application à cette fin.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier POTX. Si le fichier POTX est de petite taille, la conversion en DIF peut être effectuée en quelques secondes. De plus, si vous avez intégré le code de conversion dans une application Java, la vitesse du processus de conversion dépendra de la façon dont vous avez optimisé votre application à cette fin.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

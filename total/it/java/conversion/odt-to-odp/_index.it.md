@@ -79,7 +79,7 @@ L'API consente inoltre di convertire documenti ODT protetti da password in ODP. 
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire ODT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Questo convertitore ODT online funziona rapidamente, ma la sua velocità dipende principalmente dalla dimensione del file ODT che stai convertendo. I file ODT più piccoli possono essere convertiti in ODP in pochi secondi. Se hai integrato il codice di conversione nella tua applicazione .NET, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione.</span>
+                          <span itemprop="text">Questo convertitore ODT online funziona rapidamente, ma la sua velocità dipende principalmente dalla dimensione del file ODT che stai convertendo. I file ODT più piccoli possono essere convertiti in ODP in pochi secondi. Se hai integrato il codice di conversione nella tua applicazione Java, la velocità del processo di conversione dipenderà da quanto bene hai ottimizzato la tua applicazione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

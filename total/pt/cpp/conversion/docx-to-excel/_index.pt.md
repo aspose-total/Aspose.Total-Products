@@ -85,7 +85,7 @@ Assim que a conversão de DOCX para EXCEL estiver concluída, você poderá baix
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Quando se trata de usar o conversor DOCX para EXCEL, a velocidade do processo de conversão dependerá muito do tamanho do seu arquivo DOCX. Para arquivos menores, a conversão pode ser concluída em apenas alguns segundos, tornando-a incrivelmente rápida e eficiente. No entanto, arquivos maiores podem demorar um pouco mais para serem convertidos.<br />
 
-Se você planeja integrar o código de conversão de DOCX para EXCEL em seu aplicativo .NET, a velocidade e a eficiência do processo de conversão também dependerão de quão bem você otimizou seu aplicativo. Ao garantir que seu aplicativo seja otimizado para o processo de conversão, você pode ajudar a garantir que seus arquivos DOCX sejam convertidos para o formato EXCEL com rapidez e precisão.</span>
+Se você planeja integrar o código de conversão de DOCX para EXCEL em seu aplicativo C++, a velocidade e a eficiência do processo de conversão também dependerão de quão bem você otimizou seu aplicativo. Ao garantir que seu aplicativo seja otimizado para o processo de conversão, você pode ajudar a garantir que seus arquivos DOCX sejam convertidos para o formato EXCEL com rapidez e precisão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

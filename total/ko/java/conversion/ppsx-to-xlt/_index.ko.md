@@ -86,7 +86,7 @@ PPSX 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
                           <span itemprop="name"><b>PPSX를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 변환기의 속도는 PPSX 파일의 크기에 크게 좌우됩니다. PPSX 파일의 크기가 작으면 몇 초 안에 XLT로 변환을 완료할 수 있습니다. 또한 변환 코드를 .NET 응용 프로그램에 통합한 경우 변환 프로세스의 속도는 이 목적을 위해 응용 프로그램을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
+                          <span itemprop="text">이 온라인 변환기의 속도는 PPSX 파일의 크기에 크게 좌우됩니다. PPSX 파일의 크기가 작으면 몇 초 안에 XLT로 변환을 완료할 수 있습니다. 또한 변환 코드를 Java 응용 프로그램에 통합한 경우 변환 프로세스의 속도는 이 목적을 위해 응용 프로그램을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

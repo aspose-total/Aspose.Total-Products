@@ -86,7 +86,7 @@ Using the API, you can also perform DOTM file to POTX conversion with watermark.
                           <span itemprop="name"><b>How long does it take to convert DOTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online DOTM converter works quickly, but its speed depends primarily on the size of the DOTM file you are converting. Smaller DOTM files can be converted to POTX in just a few seconds. If you have integrated the conversion code into your .NET application, the speed of the conversion process will depend on how well you have optimized your application.</span>
+                          <span itemprop="text">This online DOTM converter works quickly, but its speed depends primarily on the size of the DOTM file you are converting. Smaller DOTM files can be converted to POTX in just a few seconds. If you have integrated the conversion code into your Java application, the speed of the conversion process will depend on how well you have optimized your application.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

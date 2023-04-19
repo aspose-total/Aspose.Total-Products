@@ -86,7 +86,7 @@ Medan du konverterar PPT-fil till XLSB kan du också lägga till vattenstämpel 
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på PPT-filen. Om PPT-filen är liten kan konverteringen till XLSB slutföras inom några sekunder. Dessutom, om du har integrerat konverteringskoden i en .NET-applikation, kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation för detta ändamål.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare beror till stor del på storleken på PPT-filen. Om PPT-filen är liten kan konverteringen till XLSB slutföras inom några sekunder. Dessutom, om du har integrerat konverteringskoden i en Java-applikation, kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation för detta ändamål.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

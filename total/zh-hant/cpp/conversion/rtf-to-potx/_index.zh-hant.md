@@ -144,7 +144,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
                           <span itemprop="name"><b>轉換 RTF 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於正在轉換的 RTF 文件的大小。只需幾秒鐘即可將小型 RTF 文件轉換為 POTX。如果您在 .NET 應用程序中使用轉換代碼，轉換速度將取決於您對應用程序的優化程度。</span>
+                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於正在轉換的 RTF 文件的大小。只需幾秒鐘即可將小型 RTF 文件轉換為 POTX。如果您在 C++ 應用程序中使用轉換代碼，轉換速度將取決於您對應用程序的優化程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

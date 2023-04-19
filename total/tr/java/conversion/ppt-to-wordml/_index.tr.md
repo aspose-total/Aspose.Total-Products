@@ -78,7 +78,7 @@ API'yi kullanarak, filigranlı PPT dosyasını WORDML'ye dönüştürme işlemin
                           <span itemprop="name"><b>PPT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücü, hızlı ve verimli PPT'den WORDML'e dönüştürme sağlamak için tasarlanmıştır. Dönüştürme işleminin hızı PPT dosyasının boyutuna göre değişiklik gösterebilir. Küçük boyutlu PPT dosyaları sadece birkaç saniye içinde WORDML'e dönüştürülebilir. Ancak, dönüştürme kodunu bir .NET uygulamasına entegre ediyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olabilir. Her durumda, PPT'den WORDML'e dönüştürme aracımız, mümkün olan en iyi performansı ve çıktı kalitesini sağlayan en son teknoloji ile donatılmıştır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücü, hızlı ve verimli PPT'den WORDML'e dönüştürme sağlamak için tasarlanmıştır. Dönüştürme işleminin hızı PPT dosyasının boyutuna göre değişiklik gösterebilir. Küçük boyutlu PPT dosyaları sadece birkaç saniye içinde WORDML'e dönüştürülebilir. Ancak, dönüştürme kodunu bir Java uygulamasına entegre ediyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olabilir. Her durumda, PPT'den WORDML'e dönüştürme aracımız, mümkün olan en iyi performansı ve çıktı kalitesini sağlayan en son teknoloji ile donatılmıştır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

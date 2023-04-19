@@ -86,7 +86,7 @@ POT dosyasını DIF'ye dönüştürürken, çıktı DIF dosya biçiminize de fil
                           <span itemprop="name"><b>POT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, büyük ölçüde POT dosyasının boyutuna bağlıdır. POT dosyasının boyutu küçükse, DIF'e dönüştürme işlemi birkaç saniye içinde tamamlanabilir. Ayrıca, dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızı bu amaç için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, büyük ölçüde POT dosyasının boyutuna bağlıdır. POT dosyasının boyutu küçükse, DIF'e dönüştürme işlemi birkaç saniye içinde tamamlanabilir. Ayrıca, dönüştürme kodunu bir Java uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızı bu amaç için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

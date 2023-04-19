@@ -144,7 +144,7 @@ pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);
                           <span itemprop="name"><b>轉換 TXT 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於正在轉換的 TXT 文件的大小。只需幾秒鐘即可將小型 TXT 文件轉換為 PPS。如果您在 .NET 應用程序中使用轉換代碼，轉換速度將取決於您對應用程序的優化程度。</span>
+                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於正在轉換的 TXT 文件的大小。只需幾秒鐘即可將小型 TXT 文件轉換為 PPS。如果您在 C++ 應用程序中使用轉換代碼，轉換速度將取決於您對應用程序的優化程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -79,7 +79,7 @@ otherformats: PPSX PPTX PPT PPTM PPS POWERPOINT POT POTX POTM PPSM CSV DIF FODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل TXT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يعمل محول TXT عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف TXT الذي تقوم بتحويله. يمكن تحويل ملفات TXT الأصغر إلى ODP في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
+                          <span itemprop="text">يعمل محول TXT عبر الإنترنت بسرعة ، لكن سرعته تعتمد بشكل أساسي على حجم ملف TXT الذي تقوم بتحويله. يمكن تحويل ملفات TXT الأصغر إلى ODP في بضع ثوانٍ فقط. إذا قمت بدمج كود التحويل في تطبيق Java الخاص بك ، فستعتمد سرعة عملية التحويل على مدى جودة تطبيقك.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

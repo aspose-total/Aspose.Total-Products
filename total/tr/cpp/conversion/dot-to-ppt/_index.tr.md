@@ -143,7 +143,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
                           <span itemprop="name"><b>DOT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürülmekte olan DOT dosyasının boyutuna bağlıdır. Küçük DOT dosyaları sadece birkaç saniye içinde PPT'e dönüştürülebilir. Dönüştürme kodunu bir .NET uygulamasında kullanıyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürülmekte olan DOT dosyasının boyutuna bağlıdır. Küçük DOT dosyaları sadece birkaç saniye içinde PPT'e dönüştürülebilir. Dönüştürme kodunu bir C++ uygulamasında kullanıyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

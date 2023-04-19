@@ -79,7 +79,7 @@ A API também permite converter Documentos RTF protegidos por senha em PPT. Se o
                           <span itemprop="name"><b>Quanto tempo leva para converter RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Este conversor RTF online funciona rapidamente, mas sua velocidade depende principalmente do tamanho do arquivo RTF que você está convertendo. Arquivos RTF menores podem ser convertidos em PPT em apenas alguns segundos. Se você integrou o código de conversão em seu aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
+                          <span itemprop="text">Este conversor RTF online funciona rapidamente, mas sua velocidade depende principalmente do tamanho do arquivo RTF que você está convertendo. Arquivos RTF menores podem ser convertidos em PPT em apenas alguns segundos. Se você integrou o código de conversão em seu aplicativo Java, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

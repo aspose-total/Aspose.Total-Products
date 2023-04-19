@@ -143,7 +143,7 @@ pres->Save(output.odp, Aspose::Slides::Export::SaveFormat::Odp);
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir FLATOPC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo FLATOPC que se convierte. Los archivos FLATOPC pequeños se pueden convertir a ODP en solo unos segundos. Si está utilizando el código de conversión dentro de una aplicación .NET, la velocidad de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo FLATOPC que se convierte. Los archivos FLATOPC pequeños se pueden convertir a ODP en solo unos segundos. Si está utilizando el código de conversión dentro de una aplicación C++, la velocidad de conversión dependerá de qué tan bien haya optimizado su aplicación.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

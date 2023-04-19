@@ -83,7 +83,7 @@ Az API segítségével a jelszóval védett dokumentumot is megnyithatja. Ha a b
                           <span itemprop="name"><b>Mennyi ideig tart a POTX konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége gyors, de nagyban függ a konvertálandó POTX fájl méretétől. A kisebb POTX-fájlok néhány másodperc alatt SXC-formátumba renderelhetők. Ha a konverziós kódot egy .NET-alkalmazásba kívánja integrálni, a sebesség attól függ, hogyan optimalizálta az alkalmazást a konverziós folyamathoz.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége gyors, de nagyban függ a konvertálandó POTX fájl méretétől. A kisebb POTX-fájlok néhány másodperc alatt SXC-formátumba renderelhetők. Ha a konverziós kódot egy C++-alkalmazásba kívánja integrálni, a sebesség attól függ, hogyan optimalizálta az alkalmazást a konverziós folyamathoz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -86,7 +86,7 @@ Beim Konvertieren der POT-Datei in ODS können Sie Ihrem Ausgabe-ODS-Dateiformat
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der POT-Datei ab. Wenn die POT-Datei klein ist, kann die Konvertierung in ODS innerhalb weniger Sekunden abgeschlossen werden. Wenn Sie den Konvertierungscode außerdem in eine .NET-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung für diesen Zweck optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der POT-Datei ab. Wenn die POT-Datei klein ist, kann die Konvertierung in ODS innerhalb weniger Sekunden abgeschlossen werden. Wenn Sie den Konvertierungscode außerdem in eine Java-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses davon ab, wie gut Sie Ihre Anwendung für diesen Zweck optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

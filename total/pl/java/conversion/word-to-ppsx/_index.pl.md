@@ -79,7 +79,7 @@ Interfejs API umożliwia również konwersję dokumentów WORD chronionych hasł
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja WORD?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ten internetowy konwerter WORD działa szybko, ale jego szybkość zależy przede wszystkim od rozmiaru konwertowanego pliku WORD. Mniejsze pliki WORD można przekonwertować na format PPSX w zaledwie kilka sekund. Jeśli zintegrowałeś kod konwersji ze swoją aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
+                          <span itemprop="text">Ten internetowy konwerter WORD działa szybko, ale jego szybkość zależy przede wszystkim od rozmiaru konwertowanego pliku WORD. Mniejsze pliki WORD można przekonwertować na format PPSX w zaledwie kilka sekund. Jeśli zintegrowałeś kod konwersji ze swoją aplikacją Java, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

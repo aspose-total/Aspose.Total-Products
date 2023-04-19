@@ -86,7 +86,7 @@ Podczas konwertowania pliku POT do DIF możesz również dodać znak wodny do wy
                           <span itemprop="name"><b>Jak długo trwa konwersja POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku POT. Jeśli plik POT ma mały rozmiar, konwersja do formatu DIF może zostać zakończona w ciągu kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji w aplikacji .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację do tego celu.</span>
+                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku POT. Jeśli plik POT ma mały rozmiar, konwersja do formatu DIF może zostać zakończona w ciągu kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji w aplikacji Java, szybkość procesu konwersji będzie zależała od tego, jak dobrze zoptymalizowałeś swoją aplikację do tego celu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -83,7 +83,7 @@ otherformats: XLSB XLS XLT SXC XLTX MHTML DIF CSV XLSX XLSM TSV EXCEL MARKDOWN O
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل POTX؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف POTX الذي يتم تحويله. يمكن تحويل ملفات POTX الأصغر إلى XLTM في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">سرعة هذا المحول عبر الإنترنت سريعة ، لكنها تعتمد إلى حد كبير على حجم ملف POTX الذي يتم تحويله. يمكن تحويل ملفات POTX الأصغر إلى XLTM في بضع ثوانٍ فقط. إذا كنت تخطط لدمج كود التحويل في تطبيق C++ ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -144,7 +144,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
                           <span itemprop="name"><b>การแปลง ODT ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ ODT ที่กำลังแปลงเป็นสำคัญ ไฟล์ ODT ขนาดเล็กสามารถแปลงเป็น POTX ได้ในเวลาเพียงไม่กี่วินาที หากคุณกำลังใช้รหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วในการแปลงจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ ODT ที่กำลังแปลงเป็นสำคัญ ไฟล์ ODT ขนาดเล็กสามารถแปลงเป็น POTX ได้ในเวลาเพียงไม่กี่วินาที หากคุณกำลังใช้รหัสการแปลงภายในแอปพลิเคชัน C++ ความเร็วในการแปลงจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

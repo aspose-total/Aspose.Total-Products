@@ -85,7 +85,7 @@ While converting PPSM file to ODS, you can also add watermark to your output ODS
                           <span itemprop="name"><b>How long does it take to convert PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is largely dependent on the size of the PPSM file. If the PPSM file is small in size, the conversion to ODS can be completed within a few seconds. Additionally, if you have integrated the conversion code within a .NET application, the speed of the conversion process will depend on how well you have optimized your application for this purpose.</span>
+                          <span itemprop="text">The speed of this online converter is largely dependent on the size of the PPSM file. If the PPSM file is small in size, the conversion to ODS can be completed within a few seconds. Additionally, if you have integrated the conversion code within a Java application, the speed of the conversion process will depend on how well you have optimized your application for this purpose.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -78,7 +78,7 @@ Pomocí API můžete také provést převod PPSM souboru na DOCX s vodoznakem. C
                           <span itemprop="name"><b>Jak dlouho trvá převod PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tento online převodník je navržen tak, aby poskytoval rychlou a efektivní konverzi PPSM na DOCX. Rychlost procesu převodu se může lišit v závislosti na velikosti souboru PPSM. Malé soubory PPSM lze převést na DOCX během několika sekund. Pokud však konverzní kód integrujete do aplikace .NET, může rychlost konverze záviset na tom, jak dobře jste aplikaci optimalizovali. V každém případě je náš nástroj pro převod PPSM na DOCX vybaven nejmodernější technologií, která zajišťuje nejlepší možný výkon a kvalitu výstupu.</span>
+                          <span itemprop="text">Tento online převodník je navržen tak, aby poskytoval rychlou a efektivní konverzi PPSM na DOCX. Rychlost procesu převodu se může lišit v závislosti na velikosti souboru PPSM. Malé soubory PPSM lze převést na DOCX během několika sekund. Pokud však konverzní kód integrujete do aplikace Java, může rychlost konverze záviset na tom, jak dobře jste aplikaci optimalizovali. V každém případě je náš nástroj pro převod PPSM na DOCX vybaven nejmodernější technologií, která zajišťuje nejlepší možný výkon a kvalitu výstupu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

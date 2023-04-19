@@ -85,7 +85,7 @@ Using the API, you can also perform PPTX file to WORDML conversion with watermar
                           <span itemprop="name"><b>How long does it take to convert PPTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This online converter is designed to provide fast and efficient PPTX to WORDML conversion. The speed of the conversion process may vary depending on the size of the PPTX file. Small size PPTX files can be converted to WORDML in just a few seconds. However, if you are integrating the conversion code within a .NET application, the conversion speed may depend on how well you have optimized your application. In any case, our PPTX to WORDML conversion tool is equipped with state-of-the-art technology that ensures the best possible performance and output quality.</span>
+                          <span itemprop="text">This online converter is designed to provide fast and efficient PPTX to WORDML conversion. The speed of the conversion process may vary depending on the size of the PPTX file. Small size PPTX files can be converted to WORDML in just a few seconds. However, if you are integrating the conversion code within a Java application, the conversion speed may depend on how well you have optimized your application. In any case, our PPTX to WORDML conversion tool is equipped with state-of-the-art technology that ensures the best possible performance and output quality.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

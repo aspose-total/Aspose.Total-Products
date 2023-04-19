@@ -143,7 +143,7 @@ pres->Save(output.potx, Aspose::Slides::Export::SaveFormat::Potx);
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phụ thuộc phần lớn vào kích thước của tệp DOCX được chuyển đổi. Các tệp DOCX nhỏ có thể được chuyển đổi thành POTX chỉ trong vài giây. Nếu bạn đang sử dụng mã chuyển đổi trong ứng dụng .NET, tốc độ chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phụ thuộc phần lớn vào kích thước của tệp DOCX được chuyển đổi. Các tệp DOCX nhỏ có thể được chuyển đổi thành POTX chỉ trong vài giây. Nếu bạn đang sử dụng mã chuyển đổi trong ứng dụng C++, tốc độ chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

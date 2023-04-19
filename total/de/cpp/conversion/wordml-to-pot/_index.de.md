@@ -143,7 +143,7 @@ pres->Save(output.pot, Aspose::Slides::Export::SaveFormat::Pot);
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von WORDML?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der zu konvertierenden WORDML-Datei ab. Kleine WORDML-Dateien können in wenigen Sekunden in POT konvertiert werden. Wenn Sie den Konvertierungscode innerhalb einer .NET-Anwendung verwenden, hängt die Konvertierungsgeschwindigkeit davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der zu konvertierenden WORDML-Datei ab. Kleine WORDML-Dateien können in wenigen Sekunden in POT konvertiert werden. Wenn Sie den Konvertierungscode innerhalb einer C++-Anwendung verwenden, hängt die Konvertierungsgeschwindigkeit davon ab, wie gut Sie Ihre Anwendung optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

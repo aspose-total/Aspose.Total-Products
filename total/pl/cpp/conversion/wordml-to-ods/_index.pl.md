@@ -85,7 +85,7 @@ Po zakończeniu konwersji WORDML na ODS będziesz mógł natychmiast pobrać prz
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jeśli chodzi o użycie konwertera WORDML na ODS, szybkość procesu konwersji będzie zależeć w dużej mierze od rozmiaru pliku WORDML. W przypadku mniejszych plików konwersję można przeprowadzić w ciągu zaledwie kilku sekund, co czyni ją niezwykle szybką i wydajną. Jednak konwersja większych plików może potrwać nieco dłużej.<br />
 
-Jeśli planujesz zintegrować kod konwersji WORDML na ODS ze swoją aplikacją .NET, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików WORDML do formatu ODS.</span>
+Jeśli planujesz zintegrować kod konwersji WORDML na ODS ze swoją aplikacją C++, szybkość i wydajność procesu konwersji będzie również zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację. Zapewniając optymalizację aplikacji pod kątem procesu konwersji, możesz zapewnić szybką i dokładną konwersję plików WORDML do formatu ODS.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -144,7 +144,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
                           <span itemprop="name"><b>OTT の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、変換する OTT ファイルのサイズに大きく依存します。小さな OTT ファイルは、わずか数秒で POTM に変換できます。 .NET アプリケーション内で変換コードを使用している場合、変換速度はアプリケーションの最適化の程度によって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、変換する OTT ファイルのサイズに大きく依存します。小さな OTT ファイルは、わずか数秒で POTM に変換できます。 C++ アプリケーション内で変換コードを使用している場合、変換速度はアプリケーションの最適化の程度によって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

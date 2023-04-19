@@ -144,7 +144,7 @@ pres->Save(output.ppt, Aspose::Slides::Export::SaveFormat::Ppt);
                           <span itemprop="name"><b>การแปลง DOTM ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ DOTM ที่กำลังแปลงเป็นสำคัญ ไฟล์ DOTM ขนาดเล็กสามารถแปลงเป็น PPT ได้ในเวลาเพียงไม่กี่วินาที หากคุณกำลังใช้รหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วในการแปลงจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ DOTM ที่กำลังแปลงเป็นสำคัญ ไฟล์ DOTM ขนาดเล็กสามารถแปลงเป็น PPT ได้ในเวลาเพียงไม่กี่วินาที หากคุณกำลังใช้รหัสการแปลงภายในแอปพลิเคชัน C++ ความเร็วในการแปลงจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

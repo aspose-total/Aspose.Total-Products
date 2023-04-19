@@ -79,7 +79,7 @@ API také umožňuje převádět dokumenty ODT chráněné heslem na PPTM. Pokud
                           <span itemprop="name"><b>Jak dlouho trvá převod ODT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tento online ODT konvertor pracuje rychle, ale jeho rychlost závisí především na velikosti ODT souboru, který převádíte. Menší soubory ODT lze převést na PPTM během několika sekund. Pokud jste konverzní kód integrovali do své aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
+                          <span itemprop="text">Tento online ODT konvertor pracuje rychle, ale jeho rychlost závisí především na velikosti ODT souboru, který převádíte. Menší soubory ODT lze převést na PPTM během několika sekund. Pokud jste konverzní kód integrovali do své aplikace Java, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci optimalizovali.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

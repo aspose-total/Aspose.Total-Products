@@ -85,7 +85,7 @@ Une fois la conversion WORDML en XLTX terminée, vous pourrez télécharger votr
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Lorsqu'il s'agit d'utiliser le convertisseur WORDML en XLTX, la vitesse du processus de conversion dépendra en grande partie de la taille de votre fichier WORDML. Pour les fichiers plus petits, la conversion peut être effectuée en quelques secondes seulement, ce qui la rend incroyablement rapide et efficace. Cependant, les fichiers plus volumineux peuvent prendre un peu plus de temps à convertir.<br />
 
-Si vous envisagez d'intégrer le code de conversion WORDML en XLTX dans votre application .NET, la vitesse et l'efficacité du processus de conversion dépendront également de la qualité de l'optimisation de votre application. En vous assurant que votre application est optimisée pour le processus de conversion, vous pouvez vous assurer que vos fichiers WORDML sont convertis au format XLTX rapidement et avec précision.</span>
+Si vous envisagez d'intégrer le code de conversion WORDML en XLTX dans votre application C++, la vitesse et l'efficacité du processus de conversion dépendront également de la qualité de l'optimisation de votre application. En vous assurant que votre application est optimisée pour le processus de conversion, vous pouvez vous assurer que vos fichiers WORDML sont convertis au format XLTX rapidement et avec précision.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

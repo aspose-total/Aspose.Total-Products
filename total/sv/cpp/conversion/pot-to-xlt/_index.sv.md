@@ -83,7 +83,7 @@ Med hjälp av API:et kan du också öppna det lösenordsskyddade dokumentet. Om 
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna online-omvandlare är snabb, men den beror till stor del på storleken på POT-filen som konverteras. Mindre POT-filer kan renderas till XLT på bara några sekunder. Om du planerar att integrera konverteringskoden i en .NET-applikation kommer hastigheten att bero på hur du har optimerat din applikation för konverteringsprocessen.</span>
+                          <span itemprop="text">Hastigheten på denna online-omvandlare är snabb, men den beror till stor del på storleken på POT-filen som konverteras. Mindre POT-filer kan renderas till XLT på bara några sekunder. Om du planerar att integrera konverteringskoden i en C++-applikation kommer hastigheten att bero på hur du har optimerat din applikation för konverteringsprocessen.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

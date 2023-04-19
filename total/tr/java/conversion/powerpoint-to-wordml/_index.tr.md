@@ -78,7 +78,7 @@ API'yi kullanarak, filigranlı POWERPOINT dosyasını WORDML'ye dönüştürme i
                           <span itemprop="name"><b>POWERPOINT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücü, hızlı ve verimli POWERPOINT'den WORDML'e dönüştürme sağlamak için tasarlanmıştır. Dönüştürme işleminin hızı POWERPOINT dosyasının boyutuna göre değişiklik gösterebilir. Küçük boyutlu POWERPOINT dosyaları sadece birkaç saniye içinde WORDML'e dönüştürülebilir. Ancak, dönüştürme kodunu bir .NET uygulamasına entegre ediyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olabilir. Her durumda, POWERPOINT'den WORDML'e dönüştürme aracımız, mümkün olan en iyi performansı ve çıktı kalitesini sağlayan en son teknoloji ile donatılmıştır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücü, hızlı ve verimli POWERPOINT'den WORDML'e dönüştürme sağlamak için tasarlanmıştır. Dönüştürme işleminin hızı POWERPOINT dosyasının boyutuna göre değişiklik gösterebilir. Küçük boyutlu POWERPOINT dosyaları sadece birkaç saniye içinde WORDML'e dönüştürülebilir. Ancak, dönüştürme kodunu bir Java uygulamasına entegre ediyorsanız dönüştürme hızı, uygulamanızı ne kadar iyi optimize ettiğinize bağlı olabilir. Her durumda, POWERPOINT'den WORDML'e dönüştürme aracımız, mümkün olan en iyi performansı ve çıktı kalitesini sağlayan en son teknoloji ile donatılmıştır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

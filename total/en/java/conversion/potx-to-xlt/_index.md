@@ -85,7 +85,7 @@ While converting POTX file to XLT, you can also add watermark to your output XLT
                           <span itemprop="name"><b>How long does it take to convert POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is largely dependent on the size of the POTX file. If the POTX file is small in size, the conversion to XLT can be completed within a few seconds. Additionally, if you have integrated the conversion code within a .NET application, the speed of the conversion process will depend on how well you have optimized your application for this purpose.</span>
+                          <span itemprop="text">The speed of this online converter is largely dependent on the size of the POTX file. If the POTX file is small in size, the conversion to XLT can be completed within a few seconds. Additionally, if you have integrated the conversion code within a Java application, the speed of the conversion process will depend on how well you have optimized your application for this purpose.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

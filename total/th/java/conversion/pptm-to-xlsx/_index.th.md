@@ -86,7 +86,7 @@ otherformats: XLTM TSV MARKDOWN EXCEL XLSM XLSB XLAM XLTX FODS SXC XLT MHTML DIF
                           <span itemprop="name"><b>การแปลง PPTM ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPTM เป็นส่วนใหญ่ หากไฟล์ PPTM มีขนาดเล็ก การแปลงเป็น XLSX สามารถทำได้ภายในไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับจุดประสงค์นี้ได้ดีเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPTM เป็นส่วนใหญ่ หากไฟล์ PPTM มีขนาดเล็ก การแปลงเป็น XLSX สามารถทำได้ภายในไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลงภายในแอปพลิเคชัน Java ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าคุณได้เพิ่มประสิทธิภาพแอปพลิเคชันของคุณสำหรับจุดประสงค์นี้ได้ดีเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

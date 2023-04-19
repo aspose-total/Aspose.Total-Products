@@ -143,7 +143,7 @@ pres->Save(output.pptx, Aspose::Slides::Export::SaveFormat::Pptx);
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online zależy w dużej mierze od rozmiaru konwertowanego pliku DOCM. Małe pliki DOCM można przekonwertować na format PPTX w ciągu zaledwie kilku sekund. Jeśli używasz kodu konwersji w aplikacji .NET, szybkość konwersji będzie zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
+                          <span itemprop="text">Szybkość tego konwertera online zależy w dużej mierze od rozmiaru konwertowanego pliku DOCM. Małe pliki DOCM można przekonwertować na format PPTX w ciągu zaledwie kilku sekund. Jeśli używasz kodu konwersji w aplikacji C++, szybkość konwersji będzie zależeć od tego, jak dobrze zoptymalizowałeś swoją aplikację.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
