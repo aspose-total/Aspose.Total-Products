@@ -85,7 +85,7 @@ Androidアプリケーション内でパスワードで保護されたWORDMLをP
                           <span itemprop="name"><b>WORDML の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、変換する WORDML ファイルのサイズに大きく依存します。小さな WORDML ファイルは、わずか数秒で PPS に変換できます。ただし、変換コードを .NET アプリケーションに統合した場合、速度は変換プロセス用にアプリケーションをどれだけ最適化したかに依存します。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、変換する WORDML ファイルのサイズに大きく依存します。小さな WORDML ファイルは、わずか数秒で PPS に変換できます。ただし、変換コードを Android App アプリケーションに統合した場合、速度は変換プロセス用にアプリケーションをどれだけ最適化したかに依存します。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

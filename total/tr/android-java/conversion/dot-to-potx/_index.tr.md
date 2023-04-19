@@ -84,7 +84,7 @@ Ayrıca Android uygulamalarınızda şifre korumalı DOT'nizi POTX'ye dönüşt�
                           <span itemprop="name"><b>DOT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz DOT dosyasının boyutuna bağlıdır. Küçük DOT dosyaları sadece birkaç saniye içinde POTX'e dönüştürülebilir. Ancak, dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz DOT dosyasının boyutuna bağlıdır. Küçük DOT dosyaları sadece birkaç saniye içinde POTX'e dönüştürülebilir. Ancak, dönüştürme kodunu Android App uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

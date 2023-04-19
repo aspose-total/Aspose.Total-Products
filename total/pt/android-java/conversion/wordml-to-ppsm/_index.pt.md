@@ -84,7 +84,7 @@ Você também pode converter seu WORDML protegido por senha para PPSM em seus ap
                           <span itemprop="name"><b>Quanto tempo leva para converter WORDML?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo WORDML que você deseja converter. Pequenos arquivos WORDML podem ser convertidos em PPSM em apenas alguns segundos. No entanto, se você integrou o código de conversão em seu aplicativo .NET, a velocidade dependerá de quão bem você otimizou seu aplicativo para o processo de conversão.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo WORDML que você deseja converter. Pequenos arquivos WORDML podem ser convertidos em PPSM em apenas alguns segundos. No entanto, se você integrou o código de conversão em seu aplicativo Android App, a velocidade dependerá de quão bem você otimizou seu aplicativo para o processo de conversão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

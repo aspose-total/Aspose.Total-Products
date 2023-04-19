@@ -84,7 +84,7 @@ V aplikacích pro Android můžete také převést svůj heslem chráněný RTF 
                           <span itemprop="name"><b>Jak dlouho trvá převod RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru RTF, který chcete převést. Malé soubory RTF lze převést na POTM během několika sekund. Pokud jste však do své aplikace .NET integrovali konverzní kód, bude rychlost záviset na tom, jak dobře jste aplikaci optimalizovali pro proces převodu.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru RTF, který chcete převést. Malé soubory RTF lze převést na POTM během několika sekund. Pokud jste však do své aplikace Android App integrovali konverzní kód, bude rychlost záviset na tom, jak dobře jste aplikaci optimalizovali pro proces převodu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -101,7 +101,7 @@ Durante el proceso de conversión, el archivo EXCEL se transformará en un archi
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Una de las características clave de este conversor de EXCEL a DOC en línea es su rápida velocidad de conversión. Sin embargo, la velocidad del proceso de conversión depende principalmente del tamaño del archivo EXCEL que desea convertir. Si está trabajando con un archivo EXCEL de tamaño pequeño, puede esperar que el proceso de conversión se complete en solo unos segundos.<br />
 
-Además, si ha integrado el código de conversión dentro de una aplicación .NET, la velocidad del proceso de conversión dependerá de cómo haya optimizado su aplicación. Si su aplicación está bien optimizada y ha sido diseñada para manejar el proceso de conversión de manera eficiente, entonces la velocidad de conversión será más rápida. Por otro lado, si su aplicación no está optimizada para este propósito, el proceso de conversión puede tardar más en completarse.</span>
+Además, si ha integrado el código de conversión dentro de una aplicación Android App, la velocidad del proceso de conversión dependerá de cómo haya optimizado su aplicación. Si su aplicación está bien optimizada y ha sido diseñada para manejar el proceso de conversión de manera eficiente, entonces la velocidad de conversión será más rápida. Por otro lado, si su aplicación no está optimizada para este propósito, el proceso de conversión puede tardar más en completarse.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

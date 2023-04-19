@@ -81,7 +81,7 @@ dotmument.save("output.dotm",SaveFormat.Dotm);
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini dipengaruhi oleh ukuran file POT, dengan file POT yang lebih kecil biasanya diubah menjadi DOTM hanya dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi POT ke dalam aplikasi .NET, kecepatan proses konversi akan bergantung pada seberapa baik aplikasi Anda dioptimalkan untuk tugas ini.</span>
+                          <span itemprop="text">Kecepatan konverter online ini dipengaruhi oleh ukuran file POT, dengan file POT yang lebih kecil biasanya diubah menjadi DOTM hanya dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi POT ke dalam aplikasi Android App, kecepatan proses konversi akan bergantung pada seberapa baik aplikasi Anda dioptimalkan untuk tugas ini.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

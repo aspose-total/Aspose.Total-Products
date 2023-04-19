@@ -81,7 +81,7 @@ textument.save("output.text",SaveFormat.Text);
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera PPTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare påverkas av storleken på PPTX-filen, med mindre PPTX-filer som vanligtvis konverteras till TEXT på bara några sekunder. Dessutom, om du har integrerat PPTX-konverteringskoden i en .NET-applikation, kommer hastigheten på konverteringsprocessen att bero på hur väl din applikation är optimerad för denna uppgift.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare påverkas av storleken på PPTX-filen, med mindre PPTX-filer som vanligtvis konverteras till TEXT på bara några sekunder. Dessutom, om du har integrerat PPTX-konverteringskoden i en Android App-applikation, kommer hastigheten på konverteringsprocessen att bero på hur väl din applikation är optimerad för denna uppgift.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

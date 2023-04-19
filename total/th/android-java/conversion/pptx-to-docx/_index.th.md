@@ -82,7 +82,7 @@ document.save("output.docx",SaveFormat.Docxx);
                           <span itemprop="name"><b>การแปลง PPTX ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPTX โดยไฟล์ PPTX ที่มีขนาดเล็กมักจะแปลงเป็น DOCX ในเวลาเพียงไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลง PPTX ไว้ในแอปพลิเคชัน .NET ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าแอปพลิเคชันของคุณได้รับการปรับให้เหมาะสมสำหรับงานนี้มากน้อยเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPTX โดยไฟล์ PPTX ที่มีขนาดเล็กมักจะแปลงเป็น DOCX ในเวลาเพียงไม่กี่วินาที นอกจากนี้ หากคุณรวมรหัสการแปลง PPTX ไว้ในแอปพลิเคชัน Android App ความเร็วของกระบวนการแปลงจะขึ้นอยู่กับว่าแอปพลิเคชันของคุณได้รับการปรับให้เหมาะสมสำหรับงานนี้มากน้อยเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ While converting PPT file to XLS, you can also add watermark to your output XLS 
                           <span itemprop="name"><b>How long does it take to convert PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter largely depends on the size of the PPT file you want to convert. Smaller files can be converted to XLS in just a few seconds. Additionally, if you plan to integrate the conversion code within a .NET application, the speed will depend on how you have optimized your application for the conversion process.</span>
+                          <span itemprop="text">The speed of this online converter largely depends on the size of the PPT file you want to convert. Smaller files can be converted to XLS in just a few seconds. Additionally, if you plan to integrate the conversion code within a Android App application, the speed will depend on how you have optimized your application for the conversion process.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

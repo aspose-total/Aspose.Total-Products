@@ -84,7 +84,7 @@ Sie können Ihr passwortgeschütztes DOCX auch in Ihren Android-Anwendungen in P
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der DOCX-Datei ab, die Sie konvertieren möchten. Kleine DOCX-Dateien können in wenigen Sekunden in PPTM konvertiert werden. Wenn Sie den Konvertierungscode jedoch in Ihre .NET-Anwendung integriert haben, hängt die Geschwindigkeit davon ab, wie gut Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der DOCX-Datei ab, die Sie konvertieren möchten. Kleine DOCX-Dateien können in wenigen Sekunden in PPTM konvertiert werden. Wenn Sie den Konvertierungscode jedoch in Ihre Android App-Anwendung integriert haben, hängt die Geschwindigkeit davon ab, wie gut Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

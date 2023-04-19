@@ -80,7 +80,7 @@ document.save("output.doc",SaveFormat.Doc);
                           <span itemprop="name"><b>How long does it take to convert PPS?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is influenced by the size of the PPS file, with smaller PPS files typically converting to DOC in just a few seconds. Additionally, if you have integrated the PPS conversion code into a .NET application, the speed of the conversion process will depend on how well your application is optimized for this task.</span>
+                          <span itemprop="text">The speed of this online converter is influenced by the size of the PPS file, with smaller PPS files typically converting to DOC in just a few seconds. Additionally, if you have integrated the PPS conversion code into a Android App application, the speed of the conversion process will depend on how well your application is optimized for this task.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

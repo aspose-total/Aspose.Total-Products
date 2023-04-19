@@ -84,7 +84,7 @@ U kunt uw met een wachtwoord beveiligde WORD ook converteren naar POWERPOINT bin
                           <span itemprop="name"><b>Hoe lang duurt het om WORD te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter hangt grotendeels af van de grootte van het WORD-bestand dat u wilt converteren. Kleine WORD-bestanden kunnen in slechts enkele seconden naar POWERPOINT worden geconverteerd. Als u de conversiecode echter in uw .NET-toepassing heeft geïntegreerd, hangt de snelheid af van hoe goed u uw toepassing voor het conversieproces hebt geoptimaliseerd.</span>
+                          <span itemprop="text">De snelheid van deze online converter hangt grotendeels af van de grootte van het WORD-bestand dat u wilt converteren. Kleine WORD-bestanden kunnen in slechts enkele seconden naar POWERPOINT worden geconverteerd. Als u de conversiecode echter in uw Android App-toepassing heeft geïntegreerd, hangt de snelheid af van hoe goed u uw toepassing voor het conversieproces hebt geoptimaliseerd.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

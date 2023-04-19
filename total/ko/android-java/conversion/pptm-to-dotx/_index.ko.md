@@ -81,7 +81,7 @@ dotxument.save("output.dotx",SaveFormat.Dotx);
                           <span itemprop="name"><b>PPTM를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 변환기의 속도는 PPTM 파일의 크기에 영향을 받습니다. 더 작은 PPTM 파일은 일반적으로 단 몇 초 안에 DOTX로 변환됩니다. 또한 PPTM 변환 코드를 .NET 응용 프로그램에 통합한 경우 변환 프로세스의 속도는 응용 프로그램이 이 작업에 얼마나 잘 최적화되어 있는지에 따라 달라집니다.</span>
+                          <span itemprop="text">이 온라인 변환기의 속도는 PPTM 파일의 크기에 영향을 받습니다. 더 작은 PPTM 파일은 일반적으로 단 몇 초 안에 DOTX로 변환됩니다. 또한 PPTM 변환 코드를 Android App 응용 프로그램에 통합한 경우 변환 프로세스의 속도는 응용 프로그램이 이 작업에 얼마나 잘 최적화되어 있는지에 따라 달라집니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

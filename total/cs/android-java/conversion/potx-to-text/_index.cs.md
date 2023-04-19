@@ -81,7 +81,7 @@ textument.save("output.text",SaveFormat.Text);
                           <span itemprop="name"><b>Jak dlouho trvá převod POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru POTX, přičemž menší soubory POTX se obvykle převedou na TEXT během několika sekund. Kromě toho, pokud jste integrovali převodní kód POTX do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru POTX, přičemž menší soubory POTX se obvykle převedou na TEXT během několika sekund. Kromě toho, pokud jste integrovali převodní kód POTX do aplikace Android App, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ A jelszóval védett DOCM-ját PPTX-vé is konvertálhatja Android-alkalmazásai
                           <span itemprop="name"><b>Mennyi ideig tart a DOCM konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt DOCM fájl méretétől. A kisméretű DOCM fájlok néhány másodperc alatt PPTX formátumba konvertálhatók. Ha azonban integrálta a konverziós kódot .NET-alkalmazásába, a sebesség attól függ, hogy mennyire optimalizálta az alkalmazást a konverziós folyamathoz.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt DOCM fájl méretétől. A kisméretű DOCM fájlok néhány másodperc alatt PPTX formátumba konvertálhatók. Ha azonban integrálta a konverziós kódot Android App-alkalmazásába, a sebesség attól függ, hogy mennyire optimalizálta az alkalmazást a konverziós folyamathoz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

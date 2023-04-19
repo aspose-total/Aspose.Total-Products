@@ -85,7 +85,7 @@ otherformats: PPTX PPS POWERPOINT PPSM POTM POT PPT PPSX POTX ODP CSV DIF FODS O
                           <span itemprop="name"><b>การแปลง DOCM ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ DOCM ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ DOCM ขนาดเล็กสามารถแปลงเป็น PPTM ได้ในเวลาเพียงไม่กี่วินาที อย่างไรก็ตาม หากคุณรวมรหัสการแปลงเข้ากับแอปพลิเคชัน .NET ของคุณ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงได้ดีเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ DOCM ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ DOCM ขนาดเล็กสามารถแปลงเป็น PPTM ได้ในเวลาเพียงไม่กี่วินาที อย่างไรก็ตาม หากคุณรวมรหัสการแปลงเข้ากับแอปพลิเคชัน Android App ของคุณ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงได้ดีเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

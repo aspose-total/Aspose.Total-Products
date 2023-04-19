@@ -92,7 +92,7 @@ Durante la conversione del file POTM in FODS, puoi anche aggiungere una filigran
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file POTM che desideri convertire. I file più piccoli possono essere convertiti in FODS in pochi secondi. Inoltre, se prevedi di integrare il codice di conversione all'interno di un'applicazione .NET, la velocità dipenderà da come hai ottimizzato l'applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file POTM che desideri convertire. I file più piccoli possono essere convertiti in FODS in pochi secondi. Inoltre, se prevedi di integrare il codice di conversione all'interno di un'applicazione Android App, la velocità dipenderà da come hai ottimizzato l'applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

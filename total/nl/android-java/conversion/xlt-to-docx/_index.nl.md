@@ -101,7 +101,7 @@ Tijdens het conversieproces wordt het XLT-bestand omgezet in een DOCX-bestand. D
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Een van de belangrijkste kenmerken van deze online XLT naar DOCX-converter is de hoge conversiesnelheid. De snelheid van het conversieproces is echter voornamelijk afhankelijk van de grootte van het XLT-bestand dat u wilt converteren. Als u met een klein XLT-bestand werkt, kunt u verwachten dat het conversieproces in slechts enkele seconden is voltooid.<br />
 
-Bovendien, als u de conversiecode in een .NET-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe u uw toepassing hebt geoptimaliseerd. Als uw applicatie goed is geoptimaliseerd en is ontworpen om het conversieproces efficiënt af te handelen, zal de conversiesnelheid hoger zijn. Aan de andere kant, als uw applicatie niet is geoptimaliseerd voor dit doel, kan het conversieproces langer duren.</span>
+Bovendien, als u de conversiecode in een Android App-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe u uw toepassing hebt geoptimaliseerd. Als uw applicatie goed is geoptimaliseerd en is ontworpen om het conversieproces efficiënt af te handelen, zal de conversiesnelheid hoger zijn. Aan de andere kant, als uw applicatie niet is geoptimaliseerd voor dit doel, kan het conversieproces langer duren.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

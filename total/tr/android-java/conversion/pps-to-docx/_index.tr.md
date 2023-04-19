@@ -81,7 +81,7 @@ document.save("output.docx",SaveFormat.Docxx);
                           <span itemprop="name"><b>PPS'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPS dosyasının boyutundan etkilenir ve daha küçük PPS dosyaları genellikle birkaç saniye içinde DOCX'e dönüştürülür. Ayrıca, PPS dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPS dosyasının boyutundan etkilenir ve daha küçük PPS dosyaları genellikle birkaç saniye içinde DOCX'e dönüştürülür. Ayrıca, PPS dönüştürme kodunu bir Android App uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -83,7 +83,7 @@ odtument.save("output.odt",SaveFormat.Odt);
                           <span itemprop="name"><b>转换 POWERPOINT 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线转换器的速度受 POWERPOINT 文件大小的影响，较小的 POWERPOINT 文件通常只需几秒钟即可转换为 ODT。此外，如果您已将 POWERPOINT 转换代码集成到 .NET 应用程序中，则转换过程的速度将取决于您的应用程序针对此任务的优化程度。</span>
+                          <span itemprop="text">此在线转换器的速度受 POWERPOINT 文件大小的影响，较小的 POWERPOINT 文件通常只需几秒钟即可转换为 ODT。此外，如果您已将 POWERPOINT 转换代码集成到 Android App 应用程序中，则转换过程的速度将取决于您的应用程序针对此任务的优化程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

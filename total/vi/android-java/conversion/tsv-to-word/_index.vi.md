@@ -101,7 +101,7 @@ Trong quá trình chuyển đổi, tệp TSV sẽ được chuyển thành tệp
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Một trong những tính năng chính của trình chuyển đổi TSV sang WORD trực tuyến này là tốc độ chuyển đổi nhanh. Tuy nhiên, tốc độ của quá trình chuyển đổi chủ yếu phụ thuộc vào kích thước của tệp TSV mà bạn muốn chuyển đổi. Nếu đang làm việc với tệp TSV có kích thước nhỏ, bạn có thể mong đợi quá trình chuyển đổi hoàn tất chỉ sau vài giây.<br />
 
-Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi trong ứng dụng .NET, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình. Nếu ứng dụng của bạn được tối ưu hóa tốt và được thiết kế để xử lý quá trình chuyển đổi một cách hiệu quả thì tốc độ chuyển đổi sẽ nhanh hơn. Mặt khác, nếu ứng dụng của bạn không được tối ưu hóa cho mục đích này, quá trình chuyển đổi có thể mất nhiều thời gian hơn để hoàn tất.</span>
+Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi trong ứng dụng Android App, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình. Nếu ứng dụng của bạn được tối ưu hóa tốt và được thiết kế để xử lý quá trình chuyển đổi một cách hiệu quả thì tốc độ chuyển đổi sẽ nhanh hơn. Mặt khác, nếu ứng dụng của bạn không được tối ưu hóa cho mục đích này, quá trình chuyển đổi có thể mất nhiều thời gian hơn để hoàn tất.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

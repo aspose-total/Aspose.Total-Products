@@ -84,7 +84,7 @@ Ayrıca Android uygulamalarınızda şifre korumalı DOCX'nizi PPS'ye dönüşt�
                           <span itemprop="name"><b>DOCX'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz DOCX dosyasının boyutuna bağlıdır. Küçük DOCX dosyaları sadece birkaç saniye içinde PPS'e dönüştürülebilir. Ancak, dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz DOCX dosyasının boyutuna bağlıdır. Küçük DOCX dosyaları sadece birkaç saniye içinde PPS'e dönüştürülebilir. Ancak, dönüştürme kodunu Android App uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

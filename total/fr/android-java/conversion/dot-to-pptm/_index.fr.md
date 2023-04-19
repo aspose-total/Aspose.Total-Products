@@ -84,7 +84,7 @@ Vous pouvez également convertir votre DOT protégé par mot de passe en PPTM da
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir DOT ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier DOT que vous souhaitez convertir. Les petits fichiers DOT peuvent être convertis en PPTM en quelques secondes seulement. Cependant, si vous avez intégré le code de conversion dans votre application .NET, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier DOT que vous souhaitez convertir. Les petits fichiers DOT peuvent être convertis en PPTM en quelques secondes seulement. Cependant, si vous avez intégré le code de conversion dans votre application Android App, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

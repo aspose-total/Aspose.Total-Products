@@ -80,7 +80,7 @@ document.save("output.dotx",SaveFormat.Dotx);
                           <span itemprop="name"><b>How long does it take to convert POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is influenced by the size of the POWERPOINT file, with smaller POWERPOINT files typically converting to DOTX in just a few seconds. Additionally, if you have integrated the POWERPOINT conversion code into a .NET application, the speed of the conversion process will depend on how well your application is optimized for this task.</span>
+                          <span itemprop="text">The speed of this online converter is influenced by the size of the POWERPOINT file, with smaller POWERPOINT files typically converting to DOTX in just a few seconds. Additionally, if you have integrated the POWERPOINT conversion code into a Android App application, the speed of the conversion process will depend on how well your application is optimized for this task.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

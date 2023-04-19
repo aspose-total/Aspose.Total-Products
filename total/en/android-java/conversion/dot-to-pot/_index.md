@@ -87,7 +87,7 @@ In order to add a watermark to your POT document, you can first export DOT to HT
                           <span itemprop="name"><b>How long does it take to convert DOT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter largely depends on the size of the DOT file you want to convert. Small DOT files can be converted to POT in just a few seconds. However, if you have integrated the conversion code into your .NET application, the speed will depend on how well you have optimized your application for the conversion process.</span>
+                          <span itemprop="text">The speed of this online converter largely depends on the size of the DOT file you want to convert. Small DOT files can be converted to POT in just a few seconds. However, if you have integrated the conversion code into your Android App application, the speed will depend on how well you have optimized your application for the conversion process.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

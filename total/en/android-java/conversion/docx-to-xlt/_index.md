@@ -89,7 +89,7 @@ The app will quickly process your file and convert it into a high-quality XLT fo
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">If you're looking for a fast and efficient way to convert your DOCX files to XLT format, this online converter is a great option. However, the speed of the conversion process can vary depending on the size of your DOCX file. If you're working with a small file, you can expect the conversion to take only a few seconds.<br />
 
-If you're using the converter within a .NET application, the speed of the conversion process will depend on how well you've optimized your application. To get the best performance from the converter, you'll want to make sure that your application is running smoothly and efficiently. This can involve optimizing your code, reducing the amount of memory your application uses, and making sure that your application is running on a fast and reliable server.</span>
+If you're using the converter within a Android App application, the speed of the conversion process will depend on how well you've optimized your application. To get the best performance from the converter, you'll want to make sure that your application is running smoothly and efficiently. This can involve optimizing your code, reducing the amount of memory your application uses, and making sure that your application is running on a fast and reliable server.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

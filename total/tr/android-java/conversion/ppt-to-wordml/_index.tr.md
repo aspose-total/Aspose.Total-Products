@@ -81,7 +81,7 @@ wordmlument.save("output.wordml",SaveFormat.WordML);
                           <span itemprop="name"><b>PPT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPT dosyasının boyutundan etkilenir ve daha küçük PPT dosyaları genellikle birkaç saniye içinde WORDML'e dönüştürülür. Ayrıca, PPT dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPT dosyasının boyutundan etkilenir ve daha küçük PPT dosyaları genellikle birkaç saniye içinde WORDML'e dönüştürülür. Ayrıca, PPT dönüştürme kodunu bir Android App uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -92,7 +92,7 @@ Ao converter o arquivo POTM para MHTML, você também pode adicionar marca d'ág
                           <span itemprop="name"><b>Quanto tempo leva para converter POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo POTM que você deseja converter. Arquivos menores podem ser convertidos em MHTML em apenas alguns segundos. Além disso, se você planeja integrar o código de conversão em um aplicativo .NET, a velocidade dependerá de como você otimizou seu aplicativo para o processo de conversão.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo POTM que você deseja converter. Arquivos menores podem ser convertidos em MHTML em apenas alguns segundos. Além disso, se você planeja integrar o código de conversão em um aplicativo Android App, a velocidade dependerá de como você otimizou seu aplicativo para o processo de conversão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

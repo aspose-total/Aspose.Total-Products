@@ -81,7 +81,7 @@ rtfument.save("output.rtf",SaveFormat.Rtf);
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online è influenzata dalla dimensione del file PPSX, con file PPSX più piccoli che in genere vengono convertiti in RTF in pochi secondi. Inoltre, se hai integrato il codice di conversione PPSX in un'applicazione .NET, la velocità del processo di conversione dipenderà dall'ottimizzazione dell'applicazione per questa attività.</span>
+                          <span itemprop="text">La velocità di questo convertitore online è influenzata dalla dimensione del file PPSX, con file PPSX più piccoli che in genere vengono convertiti in RTF in pochi secondi. Inoltre, se hai integrato il codice di conversione PPSX in un'applicazione Android App, la velocità del processo di conversione dipenderà dall'ottimizzazione dell'applicazione per questa attività.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

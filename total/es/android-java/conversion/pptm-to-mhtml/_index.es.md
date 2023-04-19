@@ -92,7 +92,7 @@ Al convertir un archivo PPTM a MHTML, también puede agregar una marca de agua a
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo PPTM que desea convertir. Los archivos más pequeños se pueden convertir a MHTML en solo unos segundos. Además, si planea integrar el código de conversión dentro de una aplicación .NET, la velocidad dependerá de cómo haya optimizado su aplicación para el proceso de conversión.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo PPTM que desea convertir. Los archivos más pequeños se pueden convertir a MHTML en solo unos segundos. Además, si planea integrar el código de conversión dentro de una aplicación Android App, la velocidad dependerá de cómo haya optimizado su aplicación para el proceso de conversión.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

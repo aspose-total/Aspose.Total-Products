@@ -84,7 +84,7 @@ Możesz także przekonwertować chroniony hasłem DOCM na PPT w swoich aplikacja
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku DOCM, który chcesz przekonwertować. Małe pliki DOCM można przekonwertować na format PPT w ciągu zaledwie kilku sekund. Jeśli jednak zintegrowałeś kod konwersji z aplikacją .NET, szybkość będzie zależeć od tego, jak dobrze zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
+                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku DOCM, który chcesz przekonwertować. Małe pliki DOCM można przekonwertować na format PPT w ciągu zaledwie kilku sekund. Jeśli jednak zintegrowałeś kod konwersji z aplikacją Android App, szybkość będzie zależeć od tego, jak dobrze zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

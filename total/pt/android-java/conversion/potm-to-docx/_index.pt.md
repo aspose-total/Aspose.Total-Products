@@ -81,7 +81,7 @@ document.save("output.docx",SaveFormat.Docxx);
                           <span itemprop="name"><b>Quanto tempo leva para converter POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online é influenciada pelo tamanho do arquivo POTM, com arquivos POTM menores normalmente convertendo para DOCX em apenas alguns segundos. Além disso, se você integrou o código de conversão POTM em um aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem seu aplicativo está otimizado para essa tarefa.</span>
+                          <span itemprop="text">A velocidade deste conversor online é influenciada pelo tamanho do arquivo POTM, com arquivos POTM menores normalmente convertendo para DOCX em apenas alguns segundos. Além disso, se você integrou o código de conversão POTM em um aplicativo Android App, a velocidade do processo de conversão dependerá de quão bem seu aplicativo está otimizado para essa tarefa.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

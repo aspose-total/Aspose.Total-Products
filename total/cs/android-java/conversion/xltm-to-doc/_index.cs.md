@@ -101,7 +101,7 @@ Během procesu převodu bude soubor XLTM transformován na soubor DOC. Konverzn�
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jednou z klíčových vlastností tohoto online převodníku XLTM na DOC je jeho vysoká rychlost konverze. Rychlost procesu převodu však primárně závisí na velikosti souboru XLTM, který chcete převést. Pokud pracujete s malým souborem XLTM, můžete očekávat, že proces převodu bude dokončen během několika sekund.<br />
 
-Pokud jste navíc integrovali kód převodu do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak jste aplikaci optimalizovali. Pokud je vaše aplikace dobře optimalizovaná a byla navržena tak, aby proces převodu zvládla efektivně, bude rychlost převodu vyšší. Na druhou stranu, pokud vaše aplikace není pro tento účel optimalizována, může dokončení procesu převodu trvat déle.</span>
+Pokud jste navíc integrovali kód převodu do aplikace Android App, bude rychlost procesu převodu záviset na tom, jak jste aplikaci optimalizovali. Pokud je vaše aplikace dobře optimalizovaná a byla navržena tak, aby proces převodu zvládla efektivně, bude rychlost převodu vyšší. Na druhou stranu, pokud vaše aplikace není pro tento účel optimalizována, může dokončení procesu převodu trvat déle.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

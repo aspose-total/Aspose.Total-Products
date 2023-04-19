@@ -92,7 +92,7 @@ Beim Konvertieren der PPSM-Datei in XLSM können Sie Ihrem Ausgabe-XLSM-Dateifor
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der PPSM-Datei ab, die Sie konvertieren möchten. Kleinere Dateien können in wenigen Sekunden in XLSM konvertiert werden. Wenn Sie außerdem planen, den Konvertierungscode in eine .NET-Anwendung zu integrieren, hängt die Geschwindigkeit davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der PPSM-Datei ab, die Sie konvertieren möchten. Kleinere Dateien können in wenigen Sekunden in XLSM konvertiert werden. Wenn Sie außerdem planen, den Konvertierungscode in eine Android App-Anwendung zu integrieren, hängt die Geschwindigkeit davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -84,7 +84,7 @@ Android 애플리케이션 내에서 비밀번호로 보호된 RTF를 POWERPOINT
                           <span itemprop="name"><b>RTF를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 변환기의 속도는 변환하려는 RTF 파일의 크기에 따라 크게 달라집니다. 작은 RTF 파일은 단 몇 초 만에 POWERPOINT로 변환할 수 있습니다. 그러나 변환 코드를 .NET 애플리케이션에 통합한 경우 속도는 변환 프로세스를 위해 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
+                          <span itemprop="text">이 온라인 변환기의 속도는 변환하려는 RTF 파일의 크기에 따라 크게 달라집니다. 작은 RTF 파일은 단 몇 초 만에 POWERPOINT로 변환할 수 있습니다. 그러나 변환 코드를 Android App 애플리케이션에 통합한 경우 속도는 변환 프로세스를 위해 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

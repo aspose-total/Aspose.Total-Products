@@ -81,7 +81,7 @@ document.save("output.docx",SaveFormat.Docxx);
                           <span itemprop="name"><b>PPTM'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPTM dosyasının boyutundan etkilenir ve daha küçük PPTM dosyaları genellikle birkaç saniye içinde DOCX'e dönüştürülür. Ayrıca, PPTM dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPTM dosyasının boyutundan etkilenir ve daha küçük PPTM dosyaları genellikle birkaç saniye içinde DOCX'e dönüştürülür. Ayrıca, PPTM dönüştürme kodunu bir Android App uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

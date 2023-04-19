@@ -84,7 +84,7 @@ Puoi anche convertire il tuo ODT protetto da password in PPSX all'interno delle 
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire ODT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file ODT che desideri convertire. Piccoli file ODT possono essere convertiti in PPSX in pochi secondi. Tuttavia, se hai integrato il codice di conversione nella tua applicazione .NET, la velocità dipenderà da quanto bene hai ottimizzato la tua applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file ODT che desideri convertire. Piccoli file ODT possono essere convertiti in PPSX in pochi secondi. Tuttavia, se hai integrato il codice di conversione nella tua applicazione Android App, la velocità dipenderà da quanto bene hai ottimizzato la tua applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

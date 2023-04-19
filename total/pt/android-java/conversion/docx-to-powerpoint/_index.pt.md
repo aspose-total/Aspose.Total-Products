@@ -84,7 +84,7 @@ Você também pode converter seu DOCX protegido por senha para POWERPOINT em seu
                           <span itemprop="name"><b>Quanto tempo leva para converter DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo DOCX que você deseja converter. Pequenos arquivos DOCX podem ser convertidos em POWERPOINT em apenas alguns segundos. No entanto, se você integrou o código de conversão em seu aplicativo .NET, a velocidade dependerá de quão bem você otimizou seu aplicativo para o processo de conversão.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo DOCX que você deseja converter. Pequenos arquivos DOCX podem ser convertidos em POWERPOINT em apenas alguns segundos. No entanto, se você integrou o código de conversão em seu aplicativo Android App, a velocidade dependerá de quão bem você otimizou seu aplicativo para o processo de conversão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

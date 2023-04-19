@@ -81,7 +81,7 @@ textument.save("output.text",SaveFormat.Text);
                           <span itemprop="name"><b>POTX'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, POTX dosyasının boyutundan etkilenir ve daha küçük POTX dosyaları genellikle birkaç saniye içinde TEXT'e dönüştürülür. Ayrıca, POTX dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, POTX dosyasının boyutundan etkilenir ve daha küçük POTX dosyaları genellikle birkaç saniye içinde TEXT'e dönüştürülür. Ayrıca, POTX dönüştürme kodunu bir Android App uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

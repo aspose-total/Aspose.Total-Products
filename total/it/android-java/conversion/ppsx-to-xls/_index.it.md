@@ -92,7 +92,7 @@ Durante la conversione del file PPSX in XLS, puoi anche aggiungere una filigrana
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPSX che desideri convertire. I file più piccoli possono essere convertiti in XLS in pochi secondi. Inoltre, se prevedi di integrare il codice di conversione all'interno di un'applicazione .NET, la velocità dipenderà da come hai ottimizzato l'applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file PPSX che desideri convertire. I file più piccoli possono essere convertiti in XLS in pochi secondi. Inoltre, se prevedi di integrare il codice di conversione all'interno di un'applicazione Android App, la velocità dipenderà da come hai ottimizzato l'applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

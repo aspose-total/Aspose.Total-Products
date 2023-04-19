@@ -84,7 +84,7 @@ Vous pouvez également convertir votre DOTM protégé par mot de passe en PPSX d
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir DOTM ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier DOTM que vous souhaitez convertir. Les petits fichiers DOTM peuvent être convertis en PPSX en quelques secondes seulement. Cependant, si vous avez intégré le code de conversion dans votre application .NET, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier DOTM que vous souhaitez convertir. Les petits fichiers DOTM peuvent être convertis en PPSX en quelques secondes seulement. Cependant, si vous avez intégré le code de conversion dans votre application Android App, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

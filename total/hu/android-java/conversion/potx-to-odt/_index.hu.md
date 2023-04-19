@@ -81,7 +81,7 @@ odtument.save("output.odt",SaveFormat.Odt);
                           <span itemprop="name"><b>Mennyi ideig tart a POTX konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebességét a POTX-fájl mérete befolyásolja, a kisebb POTX-fájlok általában néhány másodperc alatt konvertálódnak ODT-formátumba. Ezenkívül, ha integrálta a POTX konverziós kódot egy .NET-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy az alkalmazás mennyire van optimalizálva erre a feladatra.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebességét a POTX-fájl mérete befolyásolja, a kisebb POTX-fájlok általában néhány másodperc alatt konvertálódnak ODT-formátumba. Ezenkívül, ha integrálta a POTX konverziós kódot egy Android App-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy az alkalmazás mennyire van optimalizálva erre a feladatra.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

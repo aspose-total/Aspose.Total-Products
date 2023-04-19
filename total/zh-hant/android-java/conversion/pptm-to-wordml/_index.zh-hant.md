@@ -81,7 +81,7 @@ wordmlument.save("output.wordml",SaveFormat.WordML);
                           <span itemprop="name"><b>轉換 PPTM 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在線轉換器的速度受 PPTM 文件大小的影響，較小的 PPTM 文件通常只需幾秒鐘即可轉換為 WORDML。此外，如果您已將 PPTM 轉換代碼集成到 .NET 應用程序中，則轉換過程的速度將取決於您的應用程序針對此任務的優化程度。</span>
+                          <span itemprop="text">此在線轉換器的速度受 PPTM 文件大小的影響，較小的 PPTM 文件通常只需幾秒鐘即可轉換為 WORDML。此外，如果您已將 PPTM 轉換代碼集成到 Android App 應用程序中，則轉換過程的速度將取決於您的應用程序針對此任務的優化程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

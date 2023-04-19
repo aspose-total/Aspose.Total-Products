@@ -92,7 +92,7 @@ A PPTX fájl XLT formátumba konvertálásakor vízjelet is hozzáadhat a kimene
                           <span itemprop="name"><b>Mennyi ideig tart a PPTX konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt PPTX fájl méretétől. A kisebb fájlok néhány másodperc alatt XLT formátumba konvertálhatók. Ezenkívül, ha a konverziós kódot egy .NET-alkalmazásba kívánja integrálni, a sebesség attól függ, hogyan optimalizálta az alkalmazást a konverziós folyamathoz.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt PPTX fájl méretétől. A kisebb fájlok néhány másodperc alatt XLT formátumba konvertálhatók. Ezenkívül, ha a konverziós kódot egy Android App-alkalmazásba kívánja integrálni, a sebesség attól függ, hogyan optimalizálta az alkalmazást a konverziós folyamathoz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

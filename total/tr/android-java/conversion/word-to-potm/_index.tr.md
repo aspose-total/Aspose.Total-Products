@@ -84,7 +84,7 @@ Ayrıca Android uygulamalarınızda şifre korumalı WORD'nizi POTM'ye dönüşt
                           <span itemprop="name"><b>WORD'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz WORD dosyasının boyutuna bağlıdır. Küçük WORD dosyaları sadece birkaç saniye içinde POTM'e dönüştürülebilir. Ancak, dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz WORD dosyasının boyutuna bağlıdır. Küçük WORD dosyaları sadece birkaç saniye içinde POTM'e dönüştürülebilir. Ancak, dönüştürme kodunu Android App uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

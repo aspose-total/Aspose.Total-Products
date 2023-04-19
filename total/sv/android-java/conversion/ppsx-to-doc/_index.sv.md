@@ -81,7 +81,7 @@ document.save("output.doc",SaveFormat.Doc);
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlinekonverterare påverkas av storleken på PPSX-filen, med mindre PPSX-filer som vanligtvis konverteras till DOC på bara några sekunder. Dessutom, om du har integrerat PPSX-konverteringskoden i en .NET-applikation, kommer hastigheten på konverteringsprocessen att bero på hur väl din applikation är optimerad för denna uppgift.</span>
+                          <span itemprop="text">Hastigheten på denna onlinekonverterare påverkas av storleken på PPSX-filen, med mindre PPSX-filer som vanligtvis konverteras till DOC på bara några sekunder. Dessutom, om du har integrerat PPSX-konverteringskoden i en Android App-applikation, kommer hastigheten på konverteringsprocessen att bero på hur väl din applikation är optimerad för denna uppgift.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

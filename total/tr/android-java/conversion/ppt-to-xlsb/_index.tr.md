@@ -93,7 +93,7 @@ PPT dosyasını XLSB'ye dönüştürürken, çıktı XLSB dosya biçiminize fili
                           <span itemprop="name"><b>PPT'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz PPT dosyasının boyutuna bağlıdır. Daha küçük dosyalar sadece birkaç saniye içinde XLSB'e dönüştürülebilir. Ayrıca, dönüştürme kodunu bir .NET uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz PPT dosyasının boyutuna bağlıdır. Daha küçük dosyalar sadece birkaç saniye içinde XLSB'e dönüştürülebilir. Ayrıca, dönüştürme kodunu bir Android App uygulamasına entegre etmeyi planlıyorsanız, hız, uygulamanızı dönüştürme işlemi için nasıl optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -97,7 +97,7 @@ otherformats: XLTM XLSX ODS SXC DIF CSV XLSB XLT FODS XLS XLSM XLTX XLAM EXCEL
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">如果您正在寻找一种快速有效的方式将 DOCX 文件转换为 TSV 格式，那么此在线转换器是一个不错的选择。但是，转换过程的速度会因 DOCX 文件的大小而异。如果您处理的是小文件，则转换只需几秒钟。<br />
 
-如果您在 .NET 应用程序中使用转换器，转换过程的速度将取决于您对应用程序的优化程度。要从转换器获得最佳性能，您需要确保您的应用程序平稳高效地运行。这可能涉及优化您的代码、减少您的应用程序使用的内存量，以及确保您的应用程序在快速可靠的服务器上运行。</span>
+如果您在 Android App 应用程序中使用转换器，转换过程的速度将取决于您对应用程序的优化程度。要从转换器获得最佳性能，您需要确保您的应用程序平稳高效地运行。这可能涉及优化您的代码、减少您的应用程序使用的内存量，以及确保您的应用程序在快速可靠的服务器上运行。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

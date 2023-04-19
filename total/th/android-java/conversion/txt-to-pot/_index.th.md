@@ -85,7 +85,7 @@ otherformats: PPTX PPSM PPSX PPT POTX PPS POTM POWERPOINT PPTM ODP CSV DIF FODS 
                           <span itemprop="name"><b>การแปลง TXT ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ TXT ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ TXT ขนาดเล็กสามารถแปลงเป็น POT ได้ในเวลาเพียงไม่กี่วินาที อย่างไรก็ตาม หากคุณรวมรหัสการแปลงเข้ากับแอปพลิเคชัน .NET ของคุณ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงได้ดีเพียงใด</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ TXT ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ TXT ขนาดเล็กสามารถแปลงเป็น POT ได้ในเวลาเพียงไม่กี่วินาที อย่างไรก็ตาม หากคุณรวมรหัสการแปลงเข้ากับแอปพลิเคชัน Android App ของคุณ ความเร็วจะขึ้นอยู่กับว่าคุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลงได้ดีเพียงใด</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

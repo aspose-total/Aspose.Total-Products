@@ -96,7 +96,7 @@ Az alkalmazás gyorsan feldolgozza a fájlt, és kiváló minőségű XLT formá
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Ha gyors és hatékony módot keres RTF-fájlok XLT formátumba konvertálására, ez az online konverter nagyszerű lehetőség. Az átalakítási folyamat sebessége azonban a RTF-fájl méretétől függően változhat. Ha kis fájllal dolgozik, az átalakítás csak néhány másodpercet vesz igénybe.<br />
 
-Ha a konvertert egy .NET-alkalmazáson belül használja, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást. A konverter legjobb teljesítményének elérése érdekében meg kell győződnie arról, hogy az alkalmazás zökkenőmentesen és hatékonyan fut. Ez magában foglalhatja a kód optimalizálását, az alkalmazás által használt memória mennyiségének csökkentését, valamint annak biztosítását, hogy az alkalmazás gyors és megbízható szerveren fusson.</span>
+Ha a konvertert egy Android App-alkalmazáson belül használja, az átalakítási folyamat sebessége attól függ, hogy mennyire optimalizálta az alkalmazást. A konverter legjobb teljesítményének elérése érdekében meg kell győződnie arról, hogy az alkalmazás zökkenőmentesen és hatékonyan fut. Ez magában foglalhatja a kód optimalizálását, az alkalmazás által használt memória mennyiségének csökkentését, valamint annak biztosítását, hogy az alkalmazás gyors és megbízható szerveren fusson.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

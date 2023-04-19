@@ -92,7 +92,7 @@ Saat mengonversi file POTM ke MHTML, Anda juga dapat menambahkan tanda air ke fo
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file POTM yang ingin Anda konversi. File yang lebih kecil dapat diubah menjadi MHTML hanya dalam beberapa detik. Selain itu, jika Anda berencana untuk mengintegrasikan kode konversi dalam aplikasi .NET, kecepatannya akan bergantung pada cara Anda mengoptimalkan aplikasi untuk proses konversi.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file POTM yang ingin Anda konversi. File yang lebih kecil dapat diubah menjadi MHTML hanya dalam beberapa detik. Selain itu, jika Anda berencana untuk mengintegrasikan kode konversi dalam aplikasi Android App, kecepatannya akan bergantung pada cara Anda mengoptimalkan aplikasi untuk proses konversi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

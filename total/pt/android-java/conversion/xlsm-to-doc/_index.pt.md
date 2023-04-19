@@ -101,7 +101,7 @@ Durante o processo de conversão, o arquivo XLSM será transformado em um arquiv
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Uma das principais características deste conversor online de XLSM para DOC é sua rápida velocidade de conversão. No entanto, a velocidade do processo de conversão depende principalmente do tamanho do arquivo XLSM que você deseja converter. Se você estiver trabalhando com um arquivo XLSM de tamanho pequeno, pode esperar que o processo de conversão seja concluído em apenas alguns segundos.<br />
 
-Além disso, se você integrou o código de conversão em um aplicativo .NET, a velocidade do processo de conversão dependerá de como você otimizou seu aplicativo. Se seu aplicativo for bem otimizado e tiver sido projetado para lidar com o processo de conversão com eficiência, a velocidade de conversão será mais rápida. Por outro lado, se seu aplicativo não for otimizado para essa finalidade, o processo de conversão pode demorar mais para ser concluído.</span>
+Além disso, se você integrou o código de conversão em um aplicativo Android App, a velocidade do processo de conversão dependerá de como você otimizou seu aplicativo. Se seu aplicativo for bem otimizado e tiver sido projetado para lidar com o processo de conversão com eficiência, a velocidade de conversão será mais rápida. Por outro lado, se seu aplicativo não for otimizado para essa finalidade, o processo de conversão pode demorar mais para ser concluído.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

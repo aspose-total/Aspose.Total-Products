@@ -96,7 +96,7 @@ La aplicación procesará rápidamente su archivo y lo convertirá a un formato 
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Si está buscando una forma rápida y eficiente de convertir sus archivos RTF a formato FODS, este convertidor en línea es una gran opción. Sin embargo, la velocidad del proceso de conversión puede variar según el tamaño de su archivo RTF. Si está trabajando con un archivo pequeño, puede esperar que la conversión tarde solo unos segundos.<br />
 
-Si está utilizando el convertidor dentro de una aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación. Para obtener el mejor rendimiento del convertidor, querrá asegurarse de que su aplicación funcione sin problemas y de manera eficiente. Esto puede implicar optimizar su código, reducir la cantidad de memoria que usa su aplicación y asegurarse de que su aplicación se ejecute en un servidor rápido y confiable.</span>
+Si está utilizando el convertidor dentro de una aplicación Android App, la velocidad del proceso de conversión dependerá de qué tan bien haya optimizado su aplicación. Para obtener el mejor rendimiento del convertidor, querrá asegurarse de que su aplicación funcione sin problemas y de manera eficiente. Esto puede implicar optimizar su código, reducir la cantidad de memoria que usa su aplicación y asegurarse de que su aplicación se ejecute en un servidor rápido y confiable.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

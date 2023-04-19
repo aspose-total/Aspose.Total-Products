@@ -102,7 +102,7 @@ customProperties.remove("Publisher");
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">此在线 EXCEL 到 DOC 转换器的主要特点之一是其转换速度快。但是，转换过程的速度主要取决于您要转换的 EXCEL 文件的大小。如果您正在处理小尺寸的 EXCEL 文件，您可以期望在几秒钟内完成转换过程。<br />
 
-此外，如果您已将转换代码集成到 .NET 应用程序中，则转换过程的速度将取决于您优化应用程序的方式。如果您的应用程序经过良好优化，并且设计用于高效处理转换过程，那么转换速度会更快。另一方面，如果您的应用程序没有为此目的进行优化，则转换过程可能需要更长的时间才能完成。</span>
+此外，如果您已将转换代码集成到 Android App 应用程序中，则转换过程的速度将取决于您优化应用程序的方式。如果您的应用程序经过良好优化，并且设计用于高效处理转换过程，那么转换速度会更快。另一方面，如果您的应用程序没有为此目的进行优化，则转换过程可能需要更长的时间才能完成。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

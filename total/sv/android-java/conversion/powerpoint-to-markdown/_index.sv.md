@@ -92,7 +92,7 @@ När du konverterar POWERPOINT-fil till MARKDOWN kan du också lägga till vatte
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlineomvandlare beror till stor del på storleken på POWERPOINT-filen du vill konvertera. Mindre filer kan konverteras till MARKDOWN på bara några sekunder. Dessutom, om du planerar att integrera konverteringskoden i en .NET-applikation, kommer hastigheten att bero på hur du har optimerat din applikation för konverteringsprocessen.</span>
+                          <span itemprop="text">Hastigheten på denna onlineomvandlare beror till stor del på storleken på POWERPOINT-filen du vill konvertera. Mindre filer kan konverteras till MARKDOWN på bara några sekunder. Dessutom, om du planerar att integrera konverteringskoden i en Android App-applikation, kommer hastigheten att bero på hur du har optimerat din applikation för konverteringsprocessen.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

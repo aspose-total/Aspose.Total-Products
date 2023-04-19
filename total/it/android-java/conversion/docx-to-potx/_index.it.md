@@ -84,7 +84,7 @@ Puoi anche convertire il tuo DOCX protetto da password in POTX all'interno delle
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire DOCX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file DOCX che desideri convertire. Piccoli file DOCX possono essere convertiti in POTX in pochi secondi. Tuttavia, se hai integrato il codice di conversione nella tua applicazione .NET, la velocità dipenderà da quanto bene hai ottimizzato la tua applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file DOCX che desideri convertire. Piccoli file DOCX possono essere convertiti in POTX in pochi secondi. Tuttavia, se hai integrato il codice di conversione nella tua applicazione Android App, la velocità dipenderà da quanto bene hai ottimizzato la tua applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

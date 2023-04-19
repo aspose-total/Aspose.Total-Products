@@ -84,7 +84,7 @@ otherformats: ODP POTM POWERPOINT PPTX PPTM PPSM PPS PPSX POT POTX CSV DIF FODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل ODT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف ODT الذي تريد تحويله. يمكن تحويل ملفات ODT الصغيرة إلى PPT في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف ODT الذي تريد تحويله. يمكن تحويل ملفات ODT الصغيرة إلى PPT في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق Android App الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

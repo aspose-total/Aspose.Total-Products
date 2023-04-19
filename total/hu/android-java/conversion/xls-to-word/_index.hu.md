@@ -101,7 +101,7 @@ Az átalakítási folyamat során a XLS fájl WORD fájllá alakul. A konvertál
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Ennek az online XLS–WORD konverternek az egyik legfontosabb jellemzője a gyors konverziós sebesség. Az átalakítási folyamat sebessége azonban elsősorban a konvertálni kívánt XLS fájl méretétől függ. Ha kis méretű XLS-fájllal dolgozik, akkor az átalakítási folyamat néhány másodpercen belül befejeződik.<br />
 
-Ezenkívül, ha integrálta a konverziós kódot egy .NET-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogyan optimalizálta az alkalmazást. Ha az alkalmazás jól optimalizált, és a konverziós folyamat hatékony kezelésére lett kialakítva, akkor a konverziós sebesség gyorsabb lesz. Másrészt, ha az alkalmazás nincs erre a célra optimalizálva, a konverziós folyamat tovább tarthat.</span>
+Ezenkívül, ha integrálta a konverziós kódot egy Android App-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogyan optimalizálta az alkalmazást. Ha az alkalmazás jól optimalizált, és a konverziós folyamat hatékony kezelésére lett kialakítva, akkor a konverziós sebesség gyorsabb lesz. Másrészt, ha az alkalmazás nincs erre a célra optimalizálva, a konverziós folyamat tovább tarthat.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

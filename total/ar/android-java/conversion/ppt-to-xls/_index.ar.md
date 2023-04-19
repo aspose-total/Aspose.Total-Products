@@ -92,7 +92,7 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف PPT الذي تريد تحويله. يمكن تحويل الملفات الأصغر إلى XLS في بضع ثوانٍ فقط. بالإضافة إلى ذلك ، إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف PPT الذي تريد تحويله. يمكن تحويل الملفات الأصغر إلى XLS في بضع ثوانٍ فقط. بالإضافة إلى ذلك ، إذا كنت تخطط لدمج كود التحويل في تطبيق Android App ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

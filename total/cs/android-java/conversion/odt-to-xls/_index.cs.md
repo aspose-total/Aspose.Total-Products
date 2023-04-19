@@ -96,7 +96,7 @@ Aplikace váš soubor rychle zpracuje a převede do vysoce kvalitního formátu 
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Pokud hledáte rychlý a efektivní způsob, jak převést soubory ODT do formátu XLS, tento online převodník je skvělou volbou. Rychlost procesu převodu se však může lišit v závislosti na velikosti vašeho souboru ODT. Pokud pracujete s malým souborem, můžete očekávat, že převod bude trvat jen několik sekund.<br />
 
-Pokud používáte převodník v rámci aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci optimalizovali. Chcete-li z převodníku získat co nejlepší výkon, budete se chtít ujistit, že vaše aplikace běží hladce a efektivně. To může zahrnovat optimalizaci vašeho kódu, snížení množství paměti, kterou vaše aplikace využívá, a zajištění, že vaše aplikace běží na rychlém a spolehlivém serveru.</span>
+Pokud používáte převodník v rámci aplikace Android App, bude rychlost procesu převodu záviset na tom, jak dobře jste aplikaci optimalizovali. Chcete-li z převodníku získat co nejlepší výkon, budete se chtít ujistit, že vaše aplikace běží hladce a efektivně. To může zahrnovat optimalizaci vašeho kódu, snížení množství paměti, kterou vaše aplikace využívá, a zajištění, že vaše aplikace běží na rychlém a spolehlivém serveru.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

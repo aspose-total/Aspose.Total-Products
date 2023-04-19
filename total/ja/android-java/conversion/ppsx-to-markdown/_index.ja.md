@@ -92,7 +92,7 @@ PPSXファイルをMARKDOWNに変換するときに、出力MARKDOWNファイル
                           <span itemprop="name"><b>PPSX の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、変換する PPSX ファイルのサイズに大きく依存します。小さなファイルは、わずか数秒で MARKDOWN に変換できます。さらに、.NET アプリケーション内に変換コードを統合する場合、速度は、変換プロセス用にアプリケーションをどのように最適化したかによって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、変換する PPSX ファイルのサイズに大きく依存します。小さなファイルは、わずか数秒で MARKDOWN に変換できます。さらに、Android App アプリケーション内に変換コードを統合する場合、速度は、変換プロセス用にアプリケーションをどのように最適化したかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

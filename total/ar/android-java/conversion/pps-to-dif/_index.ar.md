@@ -92,7 +92,7 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML CSV TSV XLTM MARKDOWN 
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPS؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف PPS الذي تريد تحويله. يمكن تحويل الملفات الأصغر إلى DIF في بضع ثوانٍ فقط. بالإضافة إلى ذلك ، إذا كنت تخطط لدمج كود التحويل في تطبيق .NET ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف PPS الذي تريد تحويله. يمكن تحويل الملفات الأصغر إلى DIF في بضع ثوانٍ فقط. بالإضافة إلى ذلك ، إذا كنت تخطط لدمج كود التحويل في تطبيق Android App ، فستعتمد السرعة على كيفية تحسين تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

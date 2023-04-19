@@ -81,7 +81,7 @@ dotument.save("output.dot",SaveFormat.Dot);
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل PPSX؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تتأثر سرعة هذا المحول عبر الإنترنت بحجم ملف PPSX ، حيث يتم تحويل ملفات PPSX الأصغر عادةً إلى DOT في بضع ثوانٍ فقط. بالإضافة إلى ذلك ، إذا قمت بدمج رمز تحويل PPSX في تطبيق .NET ، فستعتمد سرعة عملية التحويل على مدى تحسين تطبيقك لهذه المهمة.</span>
+                          <span itemprop="text">تتأثر سرعة هذا المحول عبر الإنترنت بحجم ملف PPSX ، حيث يتم تحويل ملفات PPSX الأصغر عادةً إلى DOT في بضع ثوانٍ فقط. بالإضافة إلى ذلك ، إذا قمت بدمج رمز تحويل PPSX في تطبيق Android App ، فستعتمد سرعة عملية التحويل على مدى تحسين تطبيقك لهذه المهمة.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

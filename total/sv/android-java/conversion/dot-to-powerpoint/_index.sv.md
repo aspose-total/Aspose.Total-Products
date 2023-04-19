@@ -84,7 +84,7 @@ Du kan också konvertera din lösenordsskyddade DOT till POWERPOINT i dina Andro
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera DOT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlineomvandlare beror till stor del på storleken på DOT-filen du vill konvertera. Små DOT-filer kan konverteras till POWERPOINT på bara några sekunder. Men om du har integrerat konverteringskoden i din .NET-applikation kommer hastigheten att bero på hur väl du har optimerat din applikation för konverteringsprocessen.</span>
+                          <span itemprop="text">Hastigheten på denna onlineomvandlare beror till stor del på storleken på DOT-filen du vill konvertera. Små DOT-filer kan konverteras till POWERPOINT på bara några sekunder. Men om du har integrerat konverteringskoden i din Android App-applikation kommer hastigheten att bero på hur väl du har optimerat din applikation för konverteringsprocessen.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

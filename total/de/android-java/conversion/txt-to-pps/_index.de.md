@@ -84,7 +84,7 @@ Sie können Ihr passwortgeschütztes TXT auch in Ihren Android-Anwendungen in PP
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von TXT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der TXT-Datei ab, die Sie konvertieren möchten. Kleine TXT-Dateien können in wenigen Sekunden in PPS konvertiert werden. Wenn Sie den Konvertierungscode jedoch in Ihre .NET-Anwendung integriert haben, hängt die Geschwindigkeit davon ab, wie gut Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der TXT-Datei ab, die Sie konvertieren möchten. Kleine TXT-Dateien können in wenigen Sekunden in PPS konvertiert werden. Wenn Sie den Konvertierungscode jedoch in Ihre Android App-Anwendung integriert haben, hängt die Geschwindigkeit davon ab, wie gut Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

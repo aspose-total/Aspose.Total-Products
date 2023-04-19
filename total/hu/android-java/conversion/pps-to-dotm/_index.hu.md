@@ -81,7 +81,7 @@ dotmument.save("output.dotm",SaveFormat.Dotm);
                           <span itemprop="name"><b>Mennyi ideig tart a PPS konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebességét a PPS-fájl mérete befolyásolja, a kisebb PPS-fájlok általában néhány másodperc alatt konvertálódnak DOTM-formátumba. Ezenkívül, ha integrálta a PPS konverziós kódot egy .NET-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy az alkalmazás mennyire van optimalizálva erre a feladatra.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebességét a PPS-fájl mérete befolyásolja, a kisebb PPS-fájlok általában néhány másodperc alatt konvertálódnak DOTM-formátumba. Ezenkívül, ha integrálta a PPS konverziós kódot egy Android App-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy az alkalmazás mennyire van optimalizálva erre a feladatra.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

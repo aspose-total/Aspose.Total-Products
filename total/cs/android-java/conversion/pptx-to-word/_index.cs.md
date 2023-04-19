@@ -81,7 +81,7 @@ wordument.save("output.wordx",SaveFormat.Wordx);
                           <span itemprop="name"><b>Jak dlouho trvá převod PPTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru PPTX, přičemž menší soubory PPTX se obvykle převedou na WORD během několika sekund. Kromě toho, pokud jste integrovali převodní kód PPTX do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru PPTX, přičemž menší soubory PPTX se obvykle převedou na WORD během několika sekund. Kromě toho, pokud jste integrovali převodní kód PPTX do aplikace Android App, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

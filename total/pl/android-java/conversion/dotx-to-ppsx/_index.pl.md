@@ -84,7 +84,7 @@ Możesz także przekonwertować chroniony hasłem DOTX na PPSX w swoich aplikacj
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja DOTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku DOTX, który chcesz przekonwertować. Małe pliki DOTX można przekonwertować na format PPSX w ciągu zaledwie kilku sekund. Jeśli jednak zintegrowałeś kod konwersji z aplikacją .NET, szybkość będzie zależeć od tego, jak dobrze zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
+                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku DOTX, który chcesz przekonwertować. Małe pliki DOTX można przekonwertować na format PPSX w ciągu zaledwie kilku sekund. Jeśli jednak zintegrowałeś kod konwersji z aplikacją Android App, szybkość będzie zależeć od tego, jak dobrze zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -96,7 +96,7 @@ Sau khi chuyển đổi RTF sang SXC, [Aspose.Cells for Android via Java](https:
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Nếu bạn đang tìm kiếm một cách nhanh chóng và hiệu quả để chuyển đổi các tệp RTF của mình sang định dạng SXC, thì trình chuyển đổi trực tuyến này là một lựa chọn tuyệt vời. Tuy nhiên, tốc độ của quá trình chuyển đổi có thể khác nhau tùy thuộc vào kích thước tệp RTF của bạn. Nếu đang làm việc với một tệp nhỏ, bạn có thể mong đợi quá trình chuyển đổi chỉ mất vài giây.<br />
 
-Nếu bạn đang sử dụng trình chuyển đổi trong ứng dụng .NET, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình. Để có được hiệu suất tốt nhất từ trình chuyển đổi, bạn sẽ muốn đảm bảo rằng ứng dụng của mình đang chạy trơn tru và hiệu quả. Điều này có thể liên quan đến việc tối ưu hóa mã của bạn, giảm dung lượng bộ nhớ mà ứng dụng của bạn sử dụng và đảm bảo rằng ứng dụng của bạn đang chạy trên một máy chủ nhanh và đáng tin cậy.</span>
+Nếu bạn đang sử dụng trình chuyển đổi trong ứng dụng Android App, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình. Để có được hiệu suất tốt nhất từ trình chuyển đổi, bạn sẽ muốn đảm bảo rằng ứng dụng của mình đang chạy trơn tru và hiệu quả. Điều này có thể liên quan đến việc tối ưu hóa mã của bạn, giảm dung lượng bộ nhớ mà ứng dụng của bạn sử dụng và đảm bảo rằng ứng dụng của bạn đang chạy trên một máy chủ nhanh và đáng tin cậy.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

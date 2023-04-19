@@ -80,7 +80,7 @@ document.save("output.odt",SaveFormat.Odt);
                           <span itemprop="name"><b>How long does it take to convert PPTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter is influenced by the size of the PPTX file, with smaller PPTX files typically converting to ODT in just a few seconds. Additionally, if you have integrated the PPTX conversion code into a .NET application, the speed of the conversion process will depend on how well your application is optimized for this task.</span>
+                          <span itemprop="text">The speed of this online converter is influenced by the size of the PPTX file, with smaller PPTX files typically converting to ODT in just a few seconds. Additionally, if you have integrated the PPTX conversion code into a Android App application, the speed of the conversion process will depend on how well your application is optimized for this task.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -84,7 +84,7 @@ otherformats: POTX PPSM PPS POTM POWERPOINT PPTX ODP POT PPT PPSX CSV DIF FODS O
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل WORDML؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف WORDML الذي تريد تحويله. يمكن تحويل ملفات WORDML الصغيرة إلى PPTM في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف WORDML الذي تريد تحويله. يمكن تحويل ملفات WORDML الصغيرة إلى PPTM في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق Android App الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -81,7 +81,7 @@ ottument.save("output.ott",SaveFormat.Ott);
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters wird von der Größe der POWERPOINT-Datei beeinflusst, wobei kleinere POWERPOINT-Dateien normalerweise in nur wenigen Sekunden in OTT konvertiert werden. Wenn Sie den POWERPOINT-Konvertierungscode in eine .NET-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses außerdem davon ab, wie gut Ihre Anwendung für diese Aufgabe optimiert ist.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters wird von der Größe der POWERPOINT-Datei beeinflusst, wobei kleinere POWERPOINT-Dateien normalerweise in nur wenigen Sekunden in OTT konvertiert werden. Wenn Sie den POWERPOINT-Konvertierungscode in eine Android App-Anwendung integriert haben, hängt die Geschwindigkeit des Konvertierungsprozesses außerdem davon ab, wie gut Ihre Anwendung für diese Aufgabe optimiert ist.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

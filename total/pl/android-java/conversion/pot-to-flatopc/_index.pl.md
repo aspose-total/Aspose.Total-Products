@@ -81,7 +81,7 @@ flatopcument.save("output.flatopc",SaveFormat.FlatOpc);
                           <span itemprop="name"><b>Jak długo trwa konwersja POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku POT, przy czym mniejsze pliki POT są zwykle konwertowane do formatu FLATOPC w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji POT z aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
+                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku POT, przy czym mniejsze pliki POT są zwykle konwertowane do formatu FLATOPC w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji POT z aplikacją Android App, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

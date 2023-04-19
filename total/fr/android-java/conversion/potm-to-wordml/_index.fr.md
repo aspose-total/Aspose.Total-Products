@@ -81,7 +81,7 @@ wordmlument.save("output.wordml",SaveFormat.WordML);
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir POTM ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne est influencée par la taille du fichier POTM, les fichiers POTM plus petits étant généralement convertis en WORDML en quelques secondes seulement. De plus, si vous avez intégré le code de conversion POTM dans une application .NET, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application pour cette tâche.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne est influencée par la taille du fichier POTM, les fichiers POTM plus petits étant généralement convertis en WORDML en quelques secondes seulement. De plus, si vous avez intégré le code de conversion POTM dans une application Android App, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application pour cette tâche.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

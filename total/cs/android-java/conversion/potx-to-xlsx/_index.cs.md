@@ -92,7 +92,7 @@ Při převodu souboru POTX na XLSX můžete také přidat vodoznak do výstupní
                           <span itemprop="name"><b>Jak dlouho trvá převod POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru POTX, který chcete převést. Menší soubory lze převést na XLSX během několika sekund. Pokud navíc plánujete integrovat převodní kód do aplikace .NET, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru POTX, který chcete převést. Menší soubory lze převést na XLSX během několika sekund. Pokud navíc plánujete integrovat převodní kód do aplikace Android App, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

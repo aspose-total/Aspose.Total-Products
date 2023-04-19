@@ -96,7 +96,7 @@ Aplikacja szybko przetworzy Twój plik i przekonwertuje go na wysokiej jakości 
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Jeśli szukasz szybkiego i wydajnego sposobu na konwersję plików DOT do formatu DIF, ten konwerter online jest świetną opcją. Jednak szybkość procesu konwersji może się różnić w zależności od rozmiaru pliku DOT. Jeśli pracujesz z małym plikiem, możesz oczekiwać, że konwersja zajmie tylko kilka sekund.<br />
 
-Jeśli używasz konwertera w aplikacji .NET, szybkość procesu konwersji będzie zależeć od tego, jak dobrze zoptymalizowałeś aplikację. Aby uzyskać najlepszą wydajność konwertera, należy upewnić się, że aplikacja działa płynnie i wydajnie. Może to obejmować optymalizację kodu, zmniejszenie ilości pamięci używanej przez aplikację oraz upewnienie się, że aplikacja działa na szybkim i niezawodnym serwerze.</span>
+Jeśli używasz konwertera w aplikacji Android App, szybkość procesu konwersji będzie zależeć od tego, jak dobrze zoptymalizowałeś aplikację. Aby uzyskać najlepszą wydajność konwertera, należy upewnić się, że aplikacja działa płynnie i wydajnie. Może to obejmować optymalizację kodu, zmniejszenie ilości pamięci używanej przez aplikację oraz upewnienie się, że aplikacja działa na szybkim i niezawodnym serwerze.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

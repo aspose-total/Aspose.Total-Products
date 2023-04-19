@@ -81,7 +81,7 @@ rtfument.save("output.rtf",SaveFormat.Rtf);
                           <span itemprop="name"><b>Hoe lang duurt het om PPS te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter wordt beïnvloed door de grootte van het PPS-bestand, waarbij kleinere PPS-bestanden doorgaans in slechts enkele seconden naar RTF worden geconverteerd. Bovendien, als u de PPS-conversiecode in een .NET-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed uw toepassing is geoptimaliseerd voor deze taak.</span>
+                          <span itemprop="text">De snelheid van deze online converter wordt beïnvloed door de grootte van het PPS-bestand, waarbij kleinere PPS-bestanden doorgaans in slechts enkele seconden naar RTF worden geconverteerd. Bovendien, als u de PPS-conversiecode in een Android App-toepassing hebt geïntegreerd, hangt de snelheid van het conversieproces af van hoe goed uw toepassing is geoptimaliseerd voor deze taak.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

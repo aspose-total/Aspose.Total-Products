@@ -92,7 +92,7 @@ Trong khi chuyển đổi tệp POT sang XLTM, bạn cũng có thể thêm hình
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp POT mà bạn muốn chuyển đổi. Các tệp nhỏ hơn có thể được chuyển đổi thành XLTM chỉ trong vài giây. Ngoài ra, nếu bạn dự định tích hợp mã chuyển đổi trong ứng dụng .NET, tốc độ sẽ phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp POT mà bạn muốn chuyển đổi. Các tệp nhỏ hơn có thể được chuyển đổi thành XLTM chỉ trong vài giây. Ngoài ra, nếu bạn dự định tích hợp mã chuyển đổi trong ứng dụng Android App, tốc độ sẽ phụ thuộc vào cách bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

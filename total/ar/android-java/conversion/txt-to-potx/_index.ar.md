@@ -84,7 +84,7 @@ otherformats: PPTM PPTX PPT POTM POWERPOINT ODP POT PPS PPSM PPSX CSV DIF FODS O
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل TXT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف TXT الذي تريد تحويله. يمكن تحويل ملفات TXT الصغيرة إلى POTX في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف TXT الذي تريد تحويله. يمكن تحويل ملفات TXT الصغيرة إلى POTX في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق Android App الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -85,7 +85,7 @@ otherformats: POTX POWERPOINT POTM POT PPTM PPT PPSX PPSM ODP PPTX
                           <span itemprop="name"><b>轉換 DOCX 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於您要轉換的 DOCX 文件的大小。只需幾秒鐘即可將小型 DOCX 文件轉換為 PPS。但是，如果您已將轉換代碼集成到您的 .NET 應用程序中，則速度將取決於您針對轉換過程優化應用程序的程度。</span>
+                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於您要轉換的 DOCX 文件的大小。只需幾秒鐘即可將小型 DOCX 文件轉換為 PPS。但是，如果您已將轉換代碼集成到您的 Android App 應用程序中，則速度將取決於您針對轉換過程優化應用程序的程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -102,7 +102,7 @@ Dönüştürme işlemi sırasında XLSM dosyası bir DOC dosyasına dönüştür
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Bu çevrimiçi XLSM'den DOC'e dönüştürücünün temel özelliklerinden biri, hızlı dönüştürme hızıdır. Ancak dönüştürme işleminin hızı öncelikle dönüştürmek istediğiniz XLSM dosyasının boyutuna bağlıdır. Küçük boyutlu bir XLSM dosyasıyla çalışıyorsanız dönüştürme işleminin yalnızca birkaç saniye içinde tamamlanmasını bekleyebilirsiniz.<br />
 
-Ayrıca, dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızı nasıl optimize ettiğinize bağlı olacaktır. Uygulamanız iyi optimize edilmişse ve dönüştürme sürecini verimli bir şekilde işlemek için tasarlanmışsa, dönüştürme hızı daha hızlı olacaktır. Öte yandan, uygulamanız bu amaç için optimize edilmemişse, dönüştürme işleminin tamamlanması daha uzun sürebilir.</span>
+Ayrıca, dönüştürme kodunu bir Android App uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızı nasıl optimize ettiğinize bağlı olacaktır. Uygulamanız iyi optimize edilmişse ve dönüştürme sürecini verimli bir şekilde işlemek için tasarlanmışsa, dönüştürme hızı daha hızlı olacaktır. Öte yandan, uygulamanız bu amaç için optimize edilmemişse, dönüştürme işleminin tamamlanması daha uzun sürebilir.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

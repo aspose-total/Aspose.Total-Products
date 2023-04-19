@@ -92,7 +92,7 @@ Podczas konwersji pliku POTM do XLSM możesz również dodać znak wodny do wyj�
                           <span itemprop="name"><b>Ile czasu zajmuje konwersja POTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku POTM, który chcesz przekonwertować. Mniejsze pliki można przekonwertować na format XLSM w ciągu zaledwie kilku sekund. Dodatkowo, jeśli planujesz zintegrować kod konwersji w aplikacji .NET, szybkość będzie zależała od tego, jak zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
+                          <span itemprop="text">Szybkość tego konwertera online w dużej mierze zależy od rozmiaru pliku POTM, który chcesz przekonwertować. Mniejsze pliki można przekonwertować na format XLSM w ciągu zaledwie kilku sekund. Dodatkowo, jeśli planujesz zintegrować kod konwersji w aplikacji Android App, szybkość będzie zależała od tego, jak zoptymalizowałeś aplikację pod kątem procesu konwersji.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

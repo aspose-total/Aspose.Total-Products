@@ -96,7 +96,7 @@ DOT를 SXC로 변환한 후 [Aspose.Cells for Android via Java](https://products
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">DOT 파일을 SXC 형식으로 변환하는 빠르고 효율적인 방법을 찾고 있다면 이 온라인 변환기가 훌륭한 옵션입니다. 그러나 변환 프로세스의 속도는 DOT 파일의 크기에 따라 다를 수 있습니다. 작은 파일로 작업하는 경우 변환하는 데 몇 초밖에 걸리지 않습니다.<br />
 
-.NET 애플리케이션 내에서 변환기를 사용하는 경우 변환 프로세스의 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다. 변환기에서 최상의 성능을 얻으려면 응용 프로그램이 원활하고 효율적으로 실행되고 있는지 확인해야 합니다. 여기에는 코드 최적화, 애플리케이션이 사용하는 메모리 양 감소, 애플리케이션이 빠르고 안정적인 서버에서 실행되도록 하는 것이 포함될 수 있습니다.</span>
+Android App 애플리케이션 내에서 변환기를 사용하는 경우 변환 프로세스의 속도는 애플리케이션을 얼마나 잘 최적화했는지에 따라 달라집니다. 변환기에서 최상의 성능을 얻으려면 응용 프로그램이 원활하고 효율적으로 실행되고 있는지 확인해야 합니다. 여기에는 코드 최적화, 애플리케이션이 사용하는 메모리 양 감소, 애플리케이션이 빠르고 안정적인 서버에서 실행되도록 하는 것이 포함될 수 있습니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

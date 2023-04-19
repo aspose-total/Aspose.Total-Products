@@ -92,7 +92,7 @@ A PPTM fájl XLSB formátumba konvertálásakor vízjelet is hozzáadhat a kimen
                           <span itemprop="name"><b>Mennyi ideig tart a PPTM konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt PPTM fájl méretétől. A kisebb fájlok néhány másodperc alatt XLSB formátumba konvertálhatók. Ezenkívül, ha a konverziós kódot egy .NET-alkalmazásba kívánja integrálni, a sebesség attól függ, hogyan optimalizálta az alkalmazást a konverziós folyamathoz.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt PPTM fájl méretétől. A kisebb fájlok néhány másodperc alatt XLSB formátumba konvertálhatók. Ezenkívül, ha a konverziós kódot egy Android App-alkalmazásba kívánja integrálni, a sebesség attól függ, hogyan optimalizálta az alkalmazást a konverziós folyamathoz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

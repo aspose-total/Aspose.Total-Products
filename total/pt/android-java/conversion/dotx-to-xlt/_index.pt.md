@@ -96,7 +96,7 @@ O aplicativo processará rapidamente seu arquivo e o converterá em um formato X
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Se você está procurando uma maneira rápida e eficiente de converter seus arquivos DOTX para o formato XLT, este conversor online é uma ótima opção. No entanto, a velocidade do processo de conversão pode variar dependendo do tamanho do seu arquivo DOTX. Se você estiver trabalhando com um arquivo pequeno, pode esperar que a conversão leve apenas alguns segundos.<br />
 
-Se você estiver usando o conversor em um aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo. Para obter o melhor desempenho do conversor, certifique-se de que seu aplicativo esteja sendo executado sem problemas e com eficiência. Isso pode envolver a otimização de seu código, reduzindo a quantidade de memória que seu aplicativo usa e certificando-se de que seu aplicativo esteja sendo executado em um servidor rápido e confiável.</span>
+Se você estiver usando o conversor em um aplicativo Android App, a velocidade do processo de conversão dependerá de quão bem você otimizou seu aplicativo. Para obter o melhor desempenho do conversor, certifique-se de que seu aplicativo esteja sendo executado sem problemas e com eficiência. Isso pode envolver a otimização de seu código, reduzindo a quantidade de memória que seu aplicativo usa e certificando-se de que seu aplicativo esteja sendo executado em um servidor rápido e confiável.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

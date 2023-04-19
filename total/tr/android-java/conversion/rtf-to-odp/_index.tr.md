@@ -84,7 +84,7 @@ Ayrıca Android uygulamalarınızda şifre korumalı RTF'nizi ODP'ye dönüştü
                           <span itemprop="name"><b>RTF'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz RTF dosyasının boyutuna bağlıdır. Küçük RTF dosyaları sadece birkaç saniye içinde ODP'e dönüştürülebilir. Ancak, dönüştürme kodunu .NET uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı büyük ölçüde dönüştürmek istediğiniz RTF dosyasının boyutuna bağlıdır. Küçük RTF dosyaları sadece birkaç saniye içinde ODP'e dönüştürülebilir. Ancak, dönüştürme kodunu Android App uygulamanıza entegre ettiyseniz, hız, uygulamanızı dönüştürme işlemi için ne kadar iyi optimize ettiğinize bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

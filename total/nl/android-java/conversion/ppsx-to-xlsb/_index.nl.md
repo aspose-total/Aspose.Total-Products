@@ -92,7 +92,7 @@ Tijdens het converteren van een PPSX-bestand naar XLSB, kunt u ook een watermerk
                           <span itemprop="name"><b>Hoe lang duurt het om PPSX te converteren?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">De snelheid van deze online converter hangt grotendeels af van de grootte van het PPSX-bestand dat u wilt converteren. Kleinere bestanden kunnen in slechts enkele seconden naar XLSB worden geconverteerd. Bovendien, als u van plan bent om de conversiecode te integreren in een .NET-toepassing, hangt de snelheid af van hoe u uw toepassing hebt geoptimaliseerd voor het conversieproces.</span>
+                          <span itemprop="text">De snelheid van deze online converter hangt grotendeels af van de grootte van het PPSX-bestand dat u wilt converteren. Kleinere bestanden kunnen in slechts enkele seconden naar XLSB worden geconverteerd. Bovendien, als u van plan bent om de conversiecode te integreren in een Android App-toepassing, hangt de snelheid af van hoe u uw toepassing hebt geoptimaliseerd voor het conversieproces.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

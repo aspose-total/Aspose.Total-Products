@@ -81,7 +81,7 @@ dotmument.save("output.dotm",SaveFormat.Dotm);
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này bị ảnh hưởng bởi kích thước của tệp PPT, với các tệp PPT nhỏ hơn thường chuyển đổi thành DOTM chỉ trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi PPT vào ứng dụng .NET, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ ứng dụng của bạn được tối ưu hóa cho tác vụ này.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này bị ảnh hưởng bởi kích thước của tệp PPT, với các tệp PPT nhỏ hơn thường chuyển đổi thành DOTM chỉ trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi PPT vào ứng dụng Android App, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ ứng dụng của bạn được tối ưu hóa cho tác vụ này.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

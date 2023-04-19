@@ -92,7 +92,7 @@ Při převodu souboru POT na DIF můžete také přidat vodoznak do výstupního
                           <span itemprop="name"><b>Jak dlouho trvá převod POT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru POT, který chcete převést. Menší soubory lze převést na DIF během několika sekund. Pokud navíc plánujete integrovat převodní kód do aplikace .NET, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru POT, který chcete převést. Menší soubory lze převést na DIF během několika sekund. Pokud navíc plánujete integrovat převodní kód do aplikace Android App, bude rychlost záviset na tom, jak jste aplikaci optimalizovali pro proces převodu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

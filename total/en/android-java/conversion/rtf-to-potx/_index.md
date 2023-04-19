@@ -80,7 +80,7 @@ In order to add a watermark to your POTX document, you can first export RTF to H
                           <span itemprop="name"><b>How long does it take to convert RTF?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">The speed of this online converter largely depends on the size of the RTF file you want to convert. Small RTF files can be converted to POTX in just a few seconds. However, if you have integrated the conversion code into your .NET application, the speed will depend on how well you have optimized your application for the conversion process.</span>
+                          <span itemprop="text">The speed of this online converter largely depends on the size of the RTF file you want to convert. Small RTF files can be converted to POTX in just a few seconds. However, if you have integrated the conversion code into your Android App application, the speed will depend on how well you have optimized your application for the conversion process.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

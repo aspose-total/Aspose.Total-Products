@@ -92,7 +92,7 @@ Beim Konvertieren der POWERPOINT-Datei in ODS können Sie Ihrem Ausgabe-ODS-Date
                           <span itemprop="name"><b>Wie lange dauert die Konvertierung von POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der POWERPOINT-Datei ab, die Sie konvertieren möchten. Kleinere Dateien können in wenigen Sekunden in ODS konvertiert werden. Wenn Sie außerdem planen, den Konvertierungscode in eine .NET-Anwendung zu integrieren, hängt die Geschwindigkeit davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
+                          <span itemprop="text">Die Geschwindigkeit dieses Online-Konverters hängt weitgehend von der Größe der POWERPOINT-Datei ab, die Sie konvertieren möchten. Kleinere Dateien können in wenigen Sekunden in ODS konvertiert werden. Wenn Sie außerdem planen, den Konvertierungscode in eine Android App-Anwendung zu integrieren, hängt die Geschwindigkeit davon ab, wie Sie Ihre Anwendung für den Konvertierungsprozess optimiert haben.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

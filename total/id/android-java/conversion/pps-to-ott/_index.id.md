@@ -81,7 +81,7 @@ ottument.save("output.ott",SaveFormat.Ott);
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi PPS?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini dipengaruhi oleh ukuran file PPS, dengan file PPS yang lebih kecil biasanya diubah menjadi OTT hanya dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi PPS ke dalam aplikasi .NET, kecepatan proses konversi akan bergantung pada seberapa baik aplikasi Anda dioptimalkan untuk tugas ini.</span>
+                          <span itemprop="text">Kecepatan konverter online ini dipengaruhi oleh ukuran file PPS, dengan file PPS yang lebih kecil biasanya diubah menjadi OTT hanya dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi PPS ke dalam aplikasi Android App, kecepatan proses konversi akan bergantung pada seberapa baik aplikasi Anda dioptimalkan untuk tugas ini.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -84,7 +84,7 @@ otherformats: ODP PPS PPSM POTX POWERPOINT PPSX PPT PPTM PPTX POT CSV DIF FODS O
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل OTT؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف OTT الذي تريد تحويله. يمكن تحويل ملفات OTT الصغيرة إلى POTM في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق .NET الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
+                          <span itemprop="text">تعتمد سرعة هذا المحول عبر الإنترنت إلى حد كبير على حجم ملف OTT الذي تريد تحويله. يمكن تحويل ملفات OTT الصغيرة إلى POTM في بضع ثوانٍ فقط. ومع ذلك ، إذا قمت بدمج كود التحويل في تطبيق Android App الخاص بك ، فستعتمد السرعة على مدى جودة تطبيقك لعملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

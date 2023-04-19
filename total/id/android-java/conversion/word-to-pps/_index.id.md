@@ -84,7 +84,7 @@ Anda juga dapat mengonversi WORD yang dilindungi kata sandi ke PPS dalam aplikas
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi WORD?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file WORD yang ingin Anda konversi. File WORD kecil dapat diubah menjadi PPS hanya dalam beberapa detik. Namun, jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi .NET Anda, kecepatannya akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file WORD yang ingin Anda konversi. File WORD kecil dapat diubah menjadi PPS hanya dalam beberapa detik. Namun, jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi Android App Anda, kecepatannya akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

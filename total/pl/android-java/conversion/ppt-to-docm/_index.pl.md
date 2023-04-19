@@ -81,7 +81,7 @@ docmument.save("output.docm",SaveFormat.Docmm);
                           <span itemprop="name"><b>Jak długo trwa konwersja PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku PPT, przy czym mniejsze pliki PPT są zwykle konwertowane do formatu DOCM w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji PPT z aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
+                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku PPT, przy czym mniejsze pliki PPT są zwykle konwertowane do formatu DOCM w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji PPT z aplikacją Android App, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

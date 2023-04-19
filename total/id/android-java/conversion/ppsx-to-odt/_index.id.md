@@ -81,7 +81,7 @@ odtument.save("output.odt",SaveFormat.Odt);
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini dipengaruhi oleh ukuran file PPSX, dengan file PPSX yang lebih kecil biasanya diubah menjadi ODT hanya dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi PPSX ke dalam aplikasi .NET, kecepatan proses konversi akan bergantung pada seberapa baik aplikasi Anda dioptimalkan untuk tugas ini.</span>
+                          <span itemprop="text">Kecepatan konverter online ini dipengaruhi oleh ukuran file PPSX, dengan file PPSX yang lebih kecil biasanya diubah menjadi ODT hanya dalam beberapa detik. Selain itu, jika Anda telah mengintegrasikan kode konversi PPSX ke dalam aplikasi Android App, kecepatan proses konversi akan bergantung pada seberapa baik aplikasi Anda dioptimalkan untuk tugas ini.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

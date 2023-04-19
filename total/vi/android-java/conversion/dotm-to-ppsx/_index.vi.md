@@ -84,7 +84,7 @@ Bạn cũng có thể chuyển đổi DOTM được bảo vệ bằng mật kh�
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi DOTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp DOTM mà bạn muốn chuyển đổi. Các tệp DOTM nhỏ có thể được chuyển đổi thành PPSX chỉ trong vài giây. Tuy nhiên, nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng .NET của mình, thì tốc độ sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này phần lớn phụ thuộc vào kích thước của tệp DOTM mà bạn muốn chuyển đổi. Các tệp DOTM nhỏ có thể được chuyển đổi thành PPSX chỉ trong vài giây. Tuy nhiên, nếu bạn đã tích hợp mã chuyển đổi vào ứng dụng Android App của mình, thì tốc độ sẽ phụ thuộc vào mức độ bạn đã tối ưu hóa ứng dụng của mình cho quá trình chuyển đổi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -102,7 +102,7 @@ customProperties.remove("Publisher");
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">此在線 XLSX 到 DOC 轉換器的主要特點之一是其轉換速度快。但是，轉換過程的速度主要取決於您要轉換的 XLSX 文件的大小。如果您正在處理小尺寸的 XLSX 文件，您可以期望在幾秒鐘內完成轉換過程。<br />
 
-此外，如果您已將轉換代碼集成到 .NET 應用程序中，則轉換過程的速度將取決於您優化應用程序的方式。如果您的應用程序經過良好優化，並且設計用於高效處理轉換過程，那麼轉換速度會更快。另一方面，如果您的應用程序沒有為此目的進行優化，則轉換過程可能需要更長的時間才能完成。</span>
+此外，如果您已將轉換代碼集成到 Android App 應用程序中，則轉換過程的速度將取決於您優化應用程序的方式。如果您的應用程序經過良好優化，並且設計用於高效處理轉換過程，那麼轉換速度會更快。另一方面，如果您的應用程序沒有為此目的進行優化，則轉換過程可能需要更長的時間才能完成。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

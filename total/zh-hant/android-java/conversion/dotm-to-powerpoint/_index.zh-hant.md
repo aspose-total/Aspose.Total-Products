@@ -85,7 +85,7 @@ otherformats: PPS PPSM PPSX PPTM PPTX PPT POTM ODP POT POTX
                           <span itemprop="name"><b>轉換 DOTM 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於您要轉換的 DOTM 文件的大小。只需幾秒鐘即可將小型 DOTM 文件轉換為 POWERPOINT。但是，如果您已將轉換代碼集成到您的 .NET 應用程序中，則速度將取決於您針對轉換過程優化應用程序的程度。</span>
+                          <span itemprop="text">此在線轉換器的速度在很大程度上取決於您要轉換的 DOTM 文件的大小。只需幾秒鐘即可將小型 DOTM 文件轉換為 POWERPOINT。但是，如果您已將轉換代碼集成到您的 Android App 應用程序中，則速度將取決於您針對轉換過程優化應用程序的程度。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

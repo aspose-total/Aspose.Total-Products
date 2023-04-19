@@ -101,7 +101,7 @@ Pendant le processus de conversion, le fichier XLS sera transformé en un fichie
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">L'une des principales caractéristiques de ce convertisseur XLS en DOCX en ligne est sa vitesse de conversion rapide. Cependant, la vitesse du processus de conversion dépend principalement de la taille du fichier XLS que vous souhaitez convertir. Si vous travaillez avec un fichier XLS de petite taille, vous pouvez vous attendre à ce que le processus de conversion soit terminé en quelques secondes seulement.<br />
 
-De plus, si vous avez intégré le code de conversion dans une application .NET, la vitesse du processus de conversion dépendra de la façon dont vous avez optimisé votre application. Si votre application est bien optimisée et a été conçue pour gérer efficacement le processus de conversion, la vitesse de conversion sera plus rapide. D'autre part, si votre application n'est pas optimisée à cette fin, le processus de conversion peut prendre plus de temps.</span>
+De plus, si vous avez intégré le code de conversion dans une application Android App, la vitesse du processus de conversion dépendra de la façon dont vous avez optimisé votre application. Si votre application est bien optimisée et a été conçue pour gérer efficacement le processus de conversion, la vitesse de conversion sera plus rapide. D'autre part, si votre application n'est pas optimisée à cette fin, le processus de conversion peut prendre plus de temps.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

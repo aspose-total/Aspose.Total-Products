@@ -92,7 +92,7 @@ Lors de la conversion du fichier PPSX en CSV, vous pouvez également ajouter un 
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir PPSX ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier PPSX que vous souhaitez convertir. Les fichiers plus petits peuvent être convertis en CSV en quelques secondes seulement. De plus, si vous envisagez d'intégrer le code de conversion dans une application .NET, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne dépend en grande partie de la taille du fichier PPSX que vous souhaitez convertir. Les fichiers plus petits peuvent être convertis en CSV en quelques secondes seulement. De plus, si vous envisagez d'intégrer le code de conversion dans une application Android App, la vitesse dépendra de la façon dont vous avez optimisé votre application pour le processus de conversion.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

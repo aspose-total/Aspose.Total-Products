@@ -84,7 +84,7 @@ Puoi anche convertire il tuo WORD protetto da password in POWERPOINT all'interno
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire WORD?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file WORD che desideri convertire. Piccoli file WORD possono essere convertiti in POWERPOINT in pochi secondi. Tuttavia, se hai integrato il codice di conversione nella tua applicazione .NET, la velocità dipenderà da quanto bene hai ottimizzato la tua applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file WORD che desideri convertire. Piccoli file WORD possono essere convertiti in POWERPOINT in pochi secondi. Tuttavia, se hai integrato il codice di conversione nella tua applicazione Android App, la velocità dipenderà da quanto bene hai ottimizzato la tua applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

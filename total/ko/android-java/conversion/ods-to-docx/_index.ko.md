@@ -101,7 +101,7 @@ customProperties.remove("Publisher");
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">이 온라인 ODS to DOCX 변환기의 주요 기능 중 하나는 빠른 변환 속도입니다. 그러나 변환 프로세스의 속도는 주로 변환하려는 ODS 파일의 크기에 따라 달라집니다. 작은 크기의 ODS 파일로 작업하는 경우 단 몇 초 만에 변환 프로세스가 완료될 것으로 예상할 수 있습니다.<br />
 
-또한 변환 코드를 .NET 응용 프로그램에 통합한 경우 변환 프로세스의 속도는 응용 프로그램을 어떻게 최적화했는지에 따라 달라집니다. 응용 프로그램이 잘 최적화되고 변환 프로세스를 효율적으로 처리하도록 설계된 경우 변환 속도가 빨라집니다. 반면에 응용 프로그램이 이 목적에 맞게 최적화되지 않은 경우 변환 프로세스를 완료하는 데 시간이 더 오래 걸릴 수 있습니다.</span>
+또한 변환 코드를 Android App 응용 프로그램에 통합한 경우 변환 프로세스의 속도는 응용 프로그램을 어떻게 최적화했는지에 따라 달라집니다. 응용 프로그램이 잘 최적화되고 변환 프로세스를 효율적으로 처리하도록 설계된 경우 변환 속도가 빨라집니다. 반면에 응용 프로그램이 이 목적에 맞게 최적화되지 않은 경우 변환 프로세스를 완료하는 데 시간이 더 오래 걸릴 수 있습니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

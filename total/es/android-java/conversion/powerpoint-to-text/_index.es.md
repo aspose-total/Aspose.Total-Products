@@ -81,7 +81,7 @@ textument.save("output.text",SaveFormat.Text);
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea está influenciada por el tamaño del archivo POWERPOINT, y los archivos POWERPOINT más pequeños generalmente se convierten a TEXT en solo unos segundos. Además, si ha integrado el código de conversión POWERPOINT en una aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien esté optimizada su aplicación para esta tarea.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea está influenciada por el tamaño del archivo POWERPOINT, y los archivos POWERPOINT más pequeños generalmente se convierten a TEXT en solo unos segundos. Además, si ha integrado el código de conversión POWERPOINT en una aplicación Android App, la velocidad del proceso de conversión dependerá de qué tan bien esté optimizada su aplicación para esta tarea.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -92,7 +92,7 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF CSV XLTX XLSB FODS XLSX MHTML XLTM XLSM
                           <span itemprop="name"><b>转换 PPSM 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线转换器的速度在很大程度上取决于您要转换的 PPSM 文件的大小。只需几秒钟即可将较小的文件转换为 XLT。此外，如果您计划将转换代码集成到 .NET 应用程序中，速度将取决于您如何针对转换过程优化应用程序。</span>
+                          <span itemprop="text">此在线转换器的速度在很大程度上取决于您要转换的 PPSM 文件的大小。只需几秒钟即可将较小的文件转换为 XLT。此外，如果您计划将转换代码集成到 Android App 应用程序中，速度将取决于您如何针对转换过程优化应用程序。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

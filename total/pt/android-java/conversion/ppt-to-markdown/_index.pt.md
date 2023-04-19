@@ -92,7 +92,7 @@ Ao converter o arquivo PPT para MARKDOWN, você também pode adicionar marca d'�
                           <span itemprop="name"><b>Quanto tempo leva para converter PPT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo PPT que você deseja converter. Arquivos menores podem ser convertidos em MARKDOWN em apenas alguns segundos. Além disso, se você planeja integrar o código de conversão em um aplicativo .NET, a velocidade dependerá de como você otimizou seu aplicativo para o processo de conversão.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo PPT que você deseja converter. Arquivos menores podem ser convertidos em MARKDOWN em apenas alguns segundos. Além disso, se você planeja integrar o código de conversão em um aplicativo Android App, a velocidade dependerá de como você otimizou seu aplicativo para o processo de conversão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

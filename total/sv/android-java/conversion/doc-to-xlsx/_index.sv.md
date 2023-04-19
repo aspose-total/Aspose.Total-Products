@@ -96,7 +96,7 @@ Appen kommer snabbt att bearbeta din fil och konvertera den till ett högkvalita
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Om du letar efter ett snabbt och effektivt sätt att konvertera dina DOC-filer till XLSX-format, är denna onlinekonverterare ett utmärkt alternativ. Men hastigheten på konverteringsprocessen kan variera beroende på storleken på din DOC-fil. Om du arbetar med en liten fil kan du förvänta dig att konverteringen bara tar några sekunder.<br />
 
-Om du använder omvandlaren i en .NET-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation. För att få bästa möjliga prestanda från omvandlaren, vill du se till att din applikation körs smidigt och effektivt. Detta kan innebära att optimera din kod, minska mängden minne som din applikation använder och se till att din applikation körs på en snabb och pålitlig server.</span>
+Om du använder omvandlaren i en Android App-applikation kommer hastigheten på konverteringsprocessen att bero på hur väl du har optimerat din applikation. För att få bästa möjliga prestanda från omvandlaren, vill du se till att din applikation körs smidigt och effektivt. Detta kan innebära att optimera din kod, minska mängden minne som din applikation använder och se till att din applikation körs på en snabb och pålitlig server.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -81,7 +81,7 @@ wordument.save("output.wordx",SaveFormat.Wordx);
                           <span itemprop="name"><b>PPTM の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、PPTM ファイルのサイズに影響されます。小さな PPTM ファイルは通常、わずか数秒で WORD に変換されます。さらに、PPTM 変換コードを .NET アプリケーションに統合した場合、変換プロセスの速度は、アプリケーションがこのタスクに対してどの程度最適化されているかによって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、PPTM ファイルのサイズに影響されます。小さな PPTM ファイルは通常、わずか数秒で WORD に変換されます。さらに、PPTM 変換コードを Android App アプリケーションに統合した場合、変換プロセスの速度は、アプリケーションがこのタスクに対してどの程度最適化されているかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -81,7 +81,7 @@ odtument.save("output.odt",SaveFormat.Odt);
                           <span itemprop="name"><b>PPTX'yi dönüştürmek ne kadar sürer?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPTX dosyasının boyutundan etkilenir ve daha küçük PPTX dosyaları genellikle birkaç saniye içinde ODT'e dönüştürülür. Ayrıca, PPTX dönüştürme kodunu bir .NET uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
+                          <span itemprop="text">Bu çevrimiçi dönüştürücünün hızı, PPTX dosyasının boyutundan etkilenir ve daha küçük PPTX dosyaları genellikle birkaç saniye içinde ODT'e dönüştürülür. Ayrıca, PPTX dönüştürme kodunu bir Android App uygulamasına entegre ettiyseniz dönüştürme işleminin hızı, uygulamanızın bu görev için ne kadar iyi optimize edildiğine bağlı olacaktır.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

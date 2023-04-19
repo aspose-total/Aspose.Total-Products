@@ -81,7 +81,7 @@ flatopcument.save("output.flatopc",SaveFormat.FlatOpc);
                           <span itemprop="name"><b>Jak dlouho trvá převod POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru POWERPOINT, přičemž menší soubory POWERPOINT se obvykle převedou na FLATOPC během několika sekund. Kromě toho, pokud jste integrovali převodní kód POWERPOINT do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru POWERPOINT, přičemž menší soubory POWERPOINT se obvykle převedou na FLATOPC během několika sekund. Kromě toho, pokud jste integrovali převodní kód POWERPOINT do aplikace Android App, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

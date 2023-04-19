@@ -92,7 +92,7 @@ Durante la conversione del file POWERPOINT in XLSM, puoi anche aggiungere una fi
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file POWERPOINT che desideri convertire. I file più piccoli possono essere convertiti in XLSM in pochi secondi. Inoltre, se prevedi di integrare il codice di conversione all'interno di un'applicazione .NET, la velocità dipenderà da come hai ottimizzato l'applicazione per il processo di conversione.</span>
+                          <span itemprop="text">La velocità di questo convertitore online dipende in gran parte dalla dimensione del file POWERPOINT che desideri convertire. I file più piccoli possono essere convertiti in XLSM in pochi secondi. Inoltre, se prevedi di integrare il codice di conversione all'interno di un'applicazione Android App, la velocità dipenderà da come hai ottimizzato l'applicazione per il processo di conversione.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

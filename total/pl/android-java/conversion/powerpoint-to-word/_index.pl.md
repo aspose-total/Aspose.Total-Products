@@ -81,7 +81,7 @@ wordument.save("output.wordx",SaveFormat.Wordx);
                           <span itemprop="name"><b>Jak długo trwa konwersja POWERPOINT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku POWERPOINT, przy czym mniejsze pliki POWERPOINT są zwykle konwertowane do formatu WORD w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji POWERPOINT z aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
+                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku POWERPOINT, przy czym mniejsze pliki POWERPOINT są zwykle konwertowane do formatu WORD w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji POWERPOINT z aplikacją Android App, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

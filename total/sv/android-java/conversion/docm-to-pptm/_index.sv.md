@@ -84,7 +84,7 @@ Du kan också konvertera din lösenordsskyddade DOCM till PPTM i dina Android-ap
                           <span itemprop="name"><b>Hur lång tid tar det att konvertera DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Hastigheten på denna onlineomvandlare beror till stor del på storleken på DOCM-filen du vill konvertera. Små DOCM-filer kan konverteras till PPTM på bara några sekunder. Men om du har integrerat konverteringskoden i din .NET-applikation kommer hastigheten att bero på hur väl du har optimerat din applikation för konverteringsprocessen.</span>
+                          <span itemprop="text">Hastigheten på denna onlineomvandlare beror till stor del på storleken på DOCM-filen du vill konvertera. Små DOCM-filer kan konverteras till PPTM på bara några sekunder. Men om du har integrerat konverteringskoden i din Android App-applikation kommer hastigheten att bero på hur väl du har optimerat din applikation för konverteringsprocessen.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

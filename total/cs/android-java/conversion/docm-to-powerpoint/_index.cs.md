@@ -84,7 +84,7 @@ V aplikacích pro Android můžete také převést svůj heslem chráněný DOCM
                           <span itemprop="name"><b>Jak dlouho trvá převod DOCM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru DOCM, který chcete převést. Malé soubory DOCM lze převést na POWERPOINT během několika sekund. Pokud jste však do své aplikace .NET integrovali konverzní kód, bude rychlost záviset na tom, jak dobře jste aplikaci optimalizovali pro proces převodu.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku do značné míry závisí na velikosti souboru DOCM, který chcete převést. Malé soubory DOCM lze převést na POWERPOINT během několika sekund. Pokud jste však do své aplikace Android App integrovali konverzní kód, bude rychlost záviset na tom, jak dobře jste aplikaci optimalizovali pro proces převodu.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

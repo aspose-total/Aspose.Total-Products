@@ -81,7 +81,7 @@ docmument.save("output.docm",SaveFormat.Docmm);
                           <span itemprop="name"><b>Jak dlouho trvá převod PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru PPSX, přičemž menší soubory PPSX se obvykle převedou na DOCM během několika sekund. Kromě toho, pokud jste integrovali převodní kód PPSX do aplikace .NET, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
+                          <span itemprop="text">Rychlost tohoto online převodníku je ovlivněna velikostí souboru PPSX, přičemž menší soubory PPSX se obvykle převedou na DOCM během několika sekund. Kromě toho, pokud jste integrovali převodní kód PPSX do aplikace Android App, bude rychlost procesu převodu záviset na tom, jak dobře je vaše aplikace pro tento úkol optimalizována.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

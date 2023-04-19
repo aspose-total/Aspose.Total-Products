@@ -81,7 +81,7 @@ rtfument.save("output.rtf",SaveFormat.Rtf);
                           <span itemprop="name"><b>Mất bao lâu để chuyển đổi PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này bị ảnh hưởng bởi kích thước của tệp PPSM, với các tệp PPSM nhỏ hơn thường chuyển đổi thành RTF chỉ trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi PPSM vào ứng dụng .NET, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ ứng dụng của bạn được tối ưu hóa cho tác vụ này.</span>
+                          <span itemprop="text">Tốc độ của trình chuyển đổi trực tuyến này bị ảnh hưởng bởi kích thước của tệp PPSM, với các tệp PPSM nhỏ hơn thường chuyển đổi thành RTF chỉ trong vài giây. Ngoài ra, nếu bạn đã tích hợp mã chuyển đổi PPSM vào ứng dụng Android App, tốc độ của quá trình chuyển đổi sẽ phụ thuộc vào mức độ ứng dụng của bạn được tối ưu hóa cho tác vụ này.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

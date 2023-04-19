@@ -92,7 +92,7 @@ PPSM 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
                           <span itemprop="name"><b>PPSM를 변환하는 데 얼마나 걸립니까?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">이 온라인 변환기의 속도는 변환하려는 PPSM 파일의 크기에 따라 크게 달라집니다. 더 작은 파일은 단 몇 초 만에 CSV로 변환할 수 있습니다. 또한 변환 코드를 .NET 응용 프로그램에 통합하려는 경우 속도는 응용 프로그램을 변환 프로세스에 맞게 최적화한 방법에 따라 달라집니다.</span>
+                          <span itemprop="text">이 온라인 변환기의 속도는 변환하려는 PPSM 파일의 크기에 따라 크게 달라집니다. 더 작은 파일은 단 몇 초 만에 CSV로 변환할 수 있습니다. 또한 변환 코드를 Android App 응용 프로그램에 통합하려는 경우 속도는 응용 프로그램을 변환 프로세스에 맞게 최적화한 방법에 따라 달라집니다.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

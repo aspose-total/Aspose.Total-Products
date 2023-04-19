@@ -101,7 +101,7 @@ Under konverteringsprocessen kommer XLTM-filen att omvandlas till en POWERPOINT-
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">En av nyckelfunktionerna i denna online XLTM till POWERPOINT-omvandlare är dess snabba omvandlingshastighet. Men hastigheten på konverteringsprocessen beror främst på storleken på XLTM-filen som du vill konvertera. Om du arbetar med en liten XLTM-fil kan du förvänta dig att konverteringsprocessen ska slutföras på bara några sekunder.<br />
 
-Om du dessutom har integrerat konverteringskoden i en .NET-applikation kommer hastigheten på konverteringsprocessen att bero på hur du har optimerat din applikation. Om din applikation är väloptimerad och har utformats för att hantera konverteringsprocessen effektivt, blir konverteringshastigheten snabbare. Å andra sidan, om din applikation inte är optimerad för detta ändamål, kan konverteringsprocessen ta längre tid att slutföra.</span>
+Om du dessutom har integrerat konverteringskoden i en Android App-applikation kommer hastigheten på konverteringsprocessen att bero på hur du har optimerat din applikation. Om din applikation är väloptimerad och har utformats för att hantera konverteringsprocessen effektivt, blir konverteringshastigheten snabbare. Å andra sidan, om din applikation inte är optimerad för detta ändamål, kan konverteringsprocessen ta längre tid att slutföra.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

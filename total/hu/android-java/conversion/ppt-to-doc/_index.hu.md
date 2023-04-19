@@ -81,7 +81,7 @@ document.save("output.doc",SaveFormat.Doc);
                           <span itemprop="name"><b>Mennyi ideig tart a PPT konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebességét a PPT-fájl mérete befolyásolja, a kisebb PPT-fájlok általában néhány másodperc alatt konvertálódnak DOC-formátumba. Ezenkívül, ha integrálta a PPT konverziós kódot egy .NET-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy az alkalmazás mennyire van optimalizálva erre a feladatra.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebességét a PPT-fájl mérete befolyásolja, a kisebb PPT-fájlok általában néhány másodperc alatt konvertálódnak DOC-formátumba. Ezenkívül, ha integrálta a PPT konverziós kódot egy Android App-alkalmazásba, az átalakítási folyamat sebessége attól függ, hogy az alkalmazás mennyire van optimalizálva erre a feladatra.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

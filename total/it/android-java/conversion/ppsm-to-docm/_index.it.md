@@ -81,7 +81,7 @@ docmument.save("output.docm",SaveFormat.Docmm);
                           <span itemprop="name"><b>Quanto tempo ci vuole per convertire PPSM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocità di questo convertitore online è influenzata dalla dimensione del file PPSM, con file PPSM più piccoli che in genere vengono convertiti in DOCM in pochi secondi. Inoltre, se hai integrato il codice di conversione PPSM in un'applicazione .NET, la velocità del processo di conversione dipenderà dall'ottimizzazione dell'applicazione per questa attività.</span>
+                          <span itemprop="text">La velocità di questo convertitore online è influenzata dalla dimensione del file PPSM, con file PPSM più piccoli che in genere vengono convertiti in DOCM in pochi secondi. Inoltre, se hai integrato il codice di conversione PPSM in un'applicazione Android App, la velocità del processo di conversione dipenderà dall'ottimizzazione dell'applicazione per questa attività.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

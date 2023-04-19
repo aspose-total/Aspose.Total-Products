@@ -97,7 +97,7 @@ During the conversion process, the SXC file will be transformed into a DOCX file
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">One of the key features of this online SXC to DOCX converter is its fast conversion speed. However, the speed of the conversion process is primarily dependent on the size of the SXC file that you wish to convert. If you are working with a small size SXC file, you can expect the conversion process to be completed in just a few seconds.<br />
 
-In addition, if you have integrated the conversion code within a .NET application, the speed of the conversion process will depend on how you have optimized your application. If your application is well-optimized and has been designed to handle the conversion process efficiently, then the conversion speed will be faster. On the other hand, if your application is not optimized for this purpose, the conversion process may take longer to complete.</span>
+In addition, if you have integrated the conversion code within a Android App application, the speed of the conversion process will depend on how you have optimized your application. If your application is well-optimized and has been designed to handle the conversion process efficiently, then the conversion speed will be faster. On the other hand, if your application is not optimized for this purpose, the conversion process may take longer to complete.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

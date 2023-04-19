@@ -81,7 +81,7 @@ dotxument.save("output.dotx",SaveFormat.Dotx);
                           <span itemprop="name"><b>Quanto tempo leva para converter PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online é influenciada pelo tamanho do arquivo PPTM, com arquivos PPTM menores normalmente convertendo para DOTX em apenas alguns segundos. Além disso, se você integrou o código de conversão PPTM em um aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem seu aplicativo está otimizado para essa tarefa.</span>
+                          <span itemprop="text">A velocidade deste conversor online é influenciada pelo tamanho do arquivo PPTM, com arquivos PPTM menores normalmente convertendo para DOTX em apenas alguns segundos. Além disso, se você integrou o código de conversão PPTM em um aplicativo Android App, a velocidade do processo de conversão dependerá de quão bem seu aplicativo está otimizado para essa tarefa.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

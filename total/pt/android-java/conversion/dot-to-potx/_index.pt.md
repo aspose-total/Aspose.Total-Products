@@ -84,7 +84,7 @@ Você também pode converter seu DOT protegido por senha para POTX em seus aplic
                           <span itemprop="name"><b>Quanto tempo leva para converter DOT?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo DOT que você deseja converter. Pequenos arquivos DOT podem ser convertidos em POTX em apenas alguns segundos. No entanto, se você integrou o código de conversão em seu aplicativo .NET, a velocidade dependerá de quão bem você otimizou seu aplicativo para o processo de conversão.</span>
+                          <span itemprop="text">A velocidade deste conversor online depende muito do tamanho do arquivo DOT que você deseja converter. Pequenos arquivos DOT podem ser convertidos em POTX em apenas alguns segundos. No entanto, se você integrou o código de conversão em seu aplicativo Android App, a velocidade dependerá de quão bem você otimizou seu aplicativo para o processo de conversão.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

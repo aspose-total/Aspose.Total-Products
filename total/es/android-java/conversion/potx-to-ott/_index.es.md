@@ -81,7 +81,7 @@ ottument.save("output.ott",SaveFormat.Ott);
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir POTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea está influenciada por el tamaño del archivo POTX, y los archivos POTX más pequeños generalmente se convierten a OTT en solo unos segundos. Además, si ha integrado el código de conversión POTX en una aplicación .NET, la velocidad del proceso de conversión dependerá de qué tan bien esté optimizada su aplicación para esta tarea.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea está influenciada por el tamaño del archivo POTX, y los archivos POTX más pequeños generalmente se convierten a OTT en solo unos segundos. Además, si ha integrado el código de conversión POTX en una aplicación Android App, la velocidad del proceso de conversión dependerá de qué tan bien esté optimizada su aplicación para esta tarea.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -93,7 +93,7 @@ otherformats: TSV XLSM MHTML MARKDOWN XLAM XLTX FODS XLS XLT ODS XLSX XLTM SXC C
                           <span itemprop="name"><b>การแปลง PPS ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPS ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ขนาดเล็กสามารถแปลงเป็น XLSB ได้ในเวลาเพียงไม่กี่วินาที นอกจากนี้ หากคุณวางแผนที่จะผสานรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วจะขึ้นอยู่กับวิธีที่คุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลง</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ PPS ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ขนาดเล็กสามารถแปลงเป็น XLSB ได้ในเวลาเพียงไม่กี่วินาที นอกจากนี้ หากคุณวางแผนที่จะผสานรวมรหัสการแปลงภายในแอปพลิเคชัน Android App ความเร็วจะขึ้นอยู่กับวิธีที่คุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลง</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

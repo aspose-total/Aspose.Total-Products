@@ -84,7 +84,7 @@ También puede convertir su DOC protegido por contraseña a POTM dentro de sus a
                           <span itemprop="name"><b>¿Cuánto tiempo lleva convertir DOC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo DOC que desea convertir. Los archivos DOC pequeños se pueden convertir a POTM en solo unos segundos. Sin embargo, si ha integrado el código de conversión en su aplicación .NET, la velocidad dependerá de qué tan bien haya optimizado su aplicación para el proceso de conversión.</span>
+                          <span itemprop="text">La velocidad de este convertidor en línea depende en gran medida del tamaño del archivo DOC que desea convertir. Los archivos DOC pequeños se pueden convertir a POTM en solo unos segundos. Sin embargo, si ha integrado el código de conversión en su aplicación Android App, la velocidad dependerá de qué tan bien haya optimizado su aplicación para el proceso de conversión.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

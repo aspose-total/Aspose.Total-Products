@@ -96,7 +96,7 @@ De app verwerkt uw bestand snel en converteert het naar een hoogwaardig XLTX-for
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Als u op zoek bent naar een snelle en efficiënte manier om uw RTF-bestanden naar XLTX-formaat te converteren, dan is deze online converter een geweldige optie. De snelheid van het conversieproces kan echter variëren, afhankelijk van de grootte van uw RTF-bestand. Als u met een klein bestand werkt, kunt u verwachten dat de conversie slechts enkele seconden duurt.<br />
 
-Als u de converter binnen een .NET-toepassing gebruikt, hangt de snelheid van het conversieproces af van hoe goed u uw toepassing hebt geoptimaliseerd. Om de beste prestaties uit de converter te halen, moet u ervoor zorgen dat uw applicatie soepel en efficiënt werkt. Dit kan inhouden dat u uw code optimaliseert, de hoeveelheid geheugen die uw toepassing gebruikt vermindert en ervoor zorgt dat uw toepassing op een snelle en betrouwbare server draait.</span>
+Als u de converter binnen een Android App-toepassing gebruikt, hangt de snelheid van het conversieproces af van hoe goed u uw toepassing hebt geoptimaliseerd. Om de beste prestaties uit de converter te halen, moet u ervoor zorgen dat uw applicatie soepel en efficiënt werkt. Dit kan inhouden dat u uw code optimaliseert, de hoeveelheid geheugen die uw toepassing gebruikt vermindert en ervoor zorgt dat uw toepassing op een snelle en betrouwbare server draait.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

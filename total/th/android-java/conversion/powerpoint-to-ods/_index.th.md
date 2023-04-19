@@ -93,7 +93,7 @@ otherformats: FODS XLAM TSV CSV XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
                           <span itemprop="name"><b>การแปลง POWERPOINT ใช้เวลานานเท่าไหร่?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ POWERPOINT ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ขนาดเล็กสามารถแปลงเป็น ODS ได้ในเวลาเพียงไม่กี่วินาที นอกจากนี้ หากคุณวางแผนที่จะผสานรวมรหัสการแปลงภายในแอปพลิเคชัน .NET ความเร็วจะขึ้นอยู่กับวิธีที่คุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลง</span>
+                          <span itemprop="text">ความเร็วของตัวแปลงออนไลน์นี้ขึ้นอยู่กับขนาดของไฟล์ POWERPOINT ที่คุณต้องการแปลงเป็นส่วนใหญ่ ไฟล์ขนาดเล็กสามารถแปลงเป็น ODS ได้ในเวลาเพียงไม่กี่วินาที นอกจากนี้ หากคุณวางแผนที่จะผสานรวมรหัสการแปลงภายในแอปพลิเคชัน Android App ความเร็วจะขึ้นอยู่กับวิธีที่คุณปรับแอปพลิเคชันของคุณให้เหมาะสมสำหรับกระบวนการแปลง</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

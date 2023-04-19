@@ -81,7 +81,7 @@ ottument.save("output.ott",SaveFormat.Ott);
                           <span itemprop="name"><b>Quanto tempo leva para converter PPTX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">A velocidade deste conversor online é influenciada pelo tamanho do arquivo PPTX, com arquivos PPTX menores normalmente convertendo para OTT em apenas alguns segundos. Além disso, se você integrou o código de conversão PPTX em um aplicativo .NET, a velocidade do processo de conversão dependerá de quão bem seu aplicativo está otimizado para essa tarefa.</span>
+                          <span itemprop="text">A velocidade deste conversor online é influenciada pelo tamanho do arquivo PPTX, com arquivos PPTX menores normalmente convertendo para OTT em apenas alguns segundos. Além disso, se você integrou o código de conversão PPTX em um aplicativo Android App, a velocidade do processo de conversão dependerá de quão bem seu aplicativo está otimizado para essa tarefa.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

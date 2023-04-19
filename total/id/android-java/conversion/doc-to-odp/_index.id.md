@@ -84,7 +84,7 @@ Anda juga dapat mengonversi DOC yang dilindungi kata sandi ke ODP dalam aplikasi
                           <span itemprop="name"><b>Berapa lama waktu yang diperlukan untuk mengonversi DOC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file DOC yang ingin Anda konversi. File DOC kecil dapat diubah menjadi ODP hanya dalam beberapa detik. Namun, jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi .NET Anda, kecepatannya akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
+                          <span itemprop="text">Kecepatan konverter online ini sangat bergantung pada ukuran file DOC yang ingin Anda konversi. File DOC kecil dapat diubah menjadi ODP hanya dalam beberapa detik. Namun, jika Anda telah mengintegrasikan kode konversi ke dalam aplikasi Android App Anda, kecepatannya akan bergantung pada seberapa baik Anda mengoptimalkan aplikasi Anda untuk proses konversi.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

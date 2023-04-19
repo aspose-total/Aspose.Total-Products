@@ -96,7 +96,7 @@ otherformats: XLTM TSV XLT XLSX EXCEL ODS XLS XLAM CSV XLTX XLSM XLSB DIF SXC
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">如果您正在尋找一種快速有效的方式將 WORD 文件轉換為 FODS 格式，那麼此在線轉換器是一個不錯的選擇。但是，轉換過程的速度會因 WORD 文件的大小而異。如果您處理的是小文件，則轉換只需幾秒鐘。<br />
 
-如果您在 .NET 應用程序中使用轉換器，轉換過程的速度將取決於您對應用程序的優化程度。要從轉換器獲得最佳性能，您需要確保您的應用程序平穩高效地運行。這可能涉及優化您的代碼、減少您的應用程序使用的內存量，以及確保您的應用程序在快速可靠的服務器上運行。</span>
+如果您在 Android App 應用程序中使用轉換器，轉換過程的速度將取決於您對應用程序的優化程度。要從轉換器獲得最佳性能，您需要確保您的應用程序平穩高效地運行。這可能涉及優化您的代碼、減少您的應用程序使用的內存量，以及確保您的應用程序在快速可靠的服務器上運行。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

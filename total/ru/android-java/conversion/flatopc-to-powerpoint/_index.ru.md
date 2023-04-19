@@ -84,7 +84,7 @@ otherformats: PPT POT PPTX POTM POTX ODP PPSX PPS PPTM PPSM CSV DIF FODS ODS SXC
                           <span itemprop="name"><b>Сколько времени занимает конвертация FLATOPC?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Скорость этого онлайн-конвертера во многом зависит от размера файла FLATOPC, который вы хотите преобразовать. Небольшие файлы FLATOPC можно преобразовать в POWERPOINT всего за несколько секунд. Однако, если вы интегрировали код преобразования в свое приложение .NET, скорость будет зависеть от того, насколько хорошо вы оптимизировали свое приложение для процесса преобразования.</span>
+                          <span itemprop="text">Скорость этого онлайн-конвертера во многом зависит от размера файла FLATOPC, который вы хотите преобразовать. Небольшие файлы FLATOPC можно преобразовать в POWERPOINT всего за несколько секунд. Однако, если вы интегрировали код преобразования в свое приложение Android App, скорость будет зависеть от того, насколько хорошо вы оптимизировали свое приложение для процесса преобразования.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

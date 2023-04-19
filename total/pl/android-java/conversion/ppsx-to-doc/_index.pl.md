@@ -81,7 +81,7 @@ document.save("output.doc",SaveFormat.Doc);
                           <span itemprop="name"><b>Jak długo trwa konwersja PPSX?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku PPSX, przy czym mniejsze pliki PPSX są zwykle konwertowane do formatu DOC w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji PPSX z aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
+                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku PPSX, przy czym mniejsze pliki PPSX są zwykle konwertowane do formatu DOC w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji PPSX z aplikacją Android App, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

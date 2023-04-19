@@ -81,7 +81,7 @@ docmument.save("output.docm",SaveFormat.Docmm);
                           <span itemprop="name"><b>Combien de temps faut-il pour convertir PPTM ?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">La vitesse de ce convertisseur en ligne est influencée par la taille du fichier PPTM, les fichiers PPTM plus petits étant généralement convertis en DOCM en quelques secondes seulement. De plus, si vous avez intégré le code de conversion PPTM dans une application .NET, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application pour cette tâche.</span>
+                          <span itemprop="text">La vitesse de ce convertisseur en ligne est influencée par la taille du fichier PPTM, les fichiers PPTM plus petits étant généralement convertis en DOCM en quelques secondes seulement. De plus, si vous avez intégré le code de conversion PPTM dans une application Android App, la vitesse du processus de conversion dépendra de la qualité de l'optimisation de votre application pour cette tâche.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

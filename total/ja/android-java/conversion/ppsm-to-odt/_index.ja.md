@@ -81,7 +81,7 @@ odtument.save("output.odt",SaveFormat.Odt);
                           <span itemprop="name"><b>PPSM の変換にはどのくらいの時間がかかりますか?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">このオンライン コンバーターの速度は、PPSM ファイルのサイズに影響されます。小さな PPSM ファイルは通常、わずか数秒で ODT に変換されます。さらに、PPSM 変換コードを .NET アプリケーションに統合した場合、変換プロセスの速度は、アプリケーションがこのタスクに対してどの程度最適化されているかによって異なります。</span>
+                          <span itemprop="text">このオンライン コンバーターの速度は、PPSM ファイルのサイズに影響されます。小さな PPSM ファイルは通常、わずか数秒で ODT に変換されます。さらに、PPSM 変換コードを Android App アプリケーションに統合した場合、変換プロセスの速度は、アプリケーションがこのタスクに対してどの程度最適化されているかによって異なります。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

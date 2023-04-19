@@ -81,7 +81,7 @@ dotument.save("output.dot",SaveFormat.Dot);
                           <span itemprop="name"><b>Jak długo trwa konwersja PPTM?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku PPTM, przy czym mniejsze pliki PPTM są zwykle konwertowane do formatu DOT w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji PPTM z aplikacją .NET, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
+                          <span itemprop="text">Na szybkość tego konwertera online ma wpływ rozmiar pliku PPTM, przy czym mniejsze pliki PPTM są zwykle konwertowane do formatu DOT w ciągu zaledwie kilku sekund. Dodatkowo, jeśli zintegrowałeś kod konwersji PPTM z aplikacją Android App, szybkość procesu konwersji będzie zależała od tego, jak dobrze Twoja aplikacja jest zoptymalizowana do tego zadania.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

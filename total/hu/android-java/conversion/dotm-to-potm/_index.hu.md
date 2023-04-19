@@ -85,7 +85,7 @@ A jelszóval védett DOTM-ját POTM-vé is konvertálhatja Android-alkalmazásai
                           <span itemprop="name"><b>Mennyi ideig tart a DOTM konvertálása?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt DOTM fájl méretétől. A kisméretű DOTM fájlok néhány másodperc alatt POTM formátumba konvertálhatók. Ha azonban integrálta a konverziós kódot .NET-alkalmazásába, a sebesség attól függ, hogy mennyire optimalizálta az alkalmazást a konverziós folyamathoz.</span>
+                          <span itemprop="text">Ennek az online konverternek a sebessége nagyban függ a konvertálni kívánt DOTM fájl méretétől. A kisméretű DOTM fájlok néhány másodperc alatt POTM formátumba konvertálhatók. Ha azonban integrálta a konverziós kódot Android App-alkalmazásába, a sebesség attól függ, hogy mennyire optimalizálta az alkalmazást a konverziós folyamathoz.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
