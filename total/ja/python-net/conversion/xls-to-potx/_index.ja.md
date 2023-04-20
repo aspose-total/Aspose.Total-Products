@@ -1,6 +1,6 @@
 ---
 title: Python を使用して XLS を POTX に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの XLS から POTX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの XLS から POTX への変換 またはオンライン。コードを統合する前に、無料の XLS から POTX へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

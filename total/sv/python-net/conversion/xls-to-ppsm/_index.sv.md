@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLS till PPSM med Python eller med gratis Online Converter
-description: XLS till PPSM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLS till PPSM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLS till PPSM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

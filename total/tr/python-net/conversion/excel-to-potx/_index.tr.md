@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak EXCEL'yi POTX'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda EXCEL'den POTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda EXCEL'den POTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz EXCEL'den POTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

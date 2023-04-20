@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLSM till POTX med Python eller med gratis Online Converter
-description: XLSM till POTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLSM till POTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLSM till POTX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

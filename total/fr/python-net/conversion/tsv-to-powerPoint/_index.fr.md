@@ -1,6 +1,6 @@
 ---
 title: Convertir TSV en POWERPOINT en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion TSV en POWERPOINT dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion TSV en POWERPOINT dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne TSV vers POWERPOINT gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

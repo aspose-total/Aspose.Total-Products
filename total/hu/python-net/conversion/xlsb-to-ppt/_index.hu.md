@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSB-t PPT-be Python segítségével vagy ingyenes online konverterrel
-description: XLSB-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSB-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSB-PPT online konvertert. 
 
 family: total
 platformtag: Python

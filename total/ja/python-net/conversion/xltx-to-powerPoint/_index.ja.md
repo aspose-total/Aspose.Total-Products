@@ -1,6 +1,6 @@
 ---
 title: Python を使用して XLTX を POWERPOINT に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの XLTX から POWERPOINT への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの XLTX から POWERPOINT への変換 またはオンライン。コードを統合する前に、無料の XLTX から POWERPOINT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

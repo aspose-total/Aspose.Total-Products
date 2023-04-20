@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLTX in POTX mit Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLTX in POTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLTX in POTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLTX-zu-POTX-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi XLSM sang PPSX bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi XLSM sang PPSX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi XLSM sang PPSX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến XLSM sang PPSX miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

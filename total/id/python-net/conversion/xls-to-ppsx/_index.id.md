@@ -1,6 +1,6 @@
 ---
 title: Konversikan XLS ke PPSX menggunakan Python atau dengan Konverter Online gratis
-description: Konversi XLS ke PPSX di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi XLS ke PPSX di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online XLS ke PPSX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

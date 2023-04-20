@@ -1,6 +1,6 @@
 ---
 title: Converter XLTX para POT usando Python ou com o conversor online gratuito
-description: Conversão de XLTX para POT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de XLTX para POT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de XLTX para POT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLS till PPTX med Python eller med gratis Online Converter
-description: XLS till PPTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLS till PPTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLS till PPTX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

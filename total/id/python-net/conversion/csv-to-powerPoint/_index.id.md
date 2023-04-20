@@ -1,6 +1,6 @@
 ---
 title: Konversikan CSV ke POWERPOINT menggunakan Python atau dengan Konverter Online gratis
-description: Konversi CSV ke POWERPOINT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi CSV ke POWERPOINT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POWERPOINT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

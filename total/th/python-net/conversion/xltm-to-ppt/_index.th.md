@@ -1,6 +1,6 @@
 ---
 title: แปลง XLTM เป็น PPT โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง XLTM เป็น PPT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง XLTM เป็น PPT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง XLTM เป็น PPT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

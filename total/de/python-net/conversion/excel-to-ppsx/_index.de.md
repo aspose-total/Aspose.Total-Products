@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie EXCEL in PPSX mit Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von EXCEL in PPSX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von EXCEL in PPSX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen EXCEL-zu-PPSX-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

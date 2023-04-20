@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLS σε POWERPOINT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLS σε POWERPOINT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLS σε POWERPOINT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLS σε POWERPOINT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

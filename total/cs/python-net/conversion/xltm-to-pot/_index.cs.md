@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLTM na POT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLTM na POT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLTM na POT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLTM na POT. 
 
 family: total
 platformtag: Python

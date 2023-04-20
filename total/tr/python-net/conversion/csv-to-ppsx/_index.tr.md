@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak CSV'yi PPSX'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda CSV'den PPSX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda CSV'den PPSX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den PPSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konversikan XLS ke PPT menggunakan Python atau dengan Konverter Online gratis
-description: Konversi XLS ke PPT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi XLS ke PPT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online XLS ke PPT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

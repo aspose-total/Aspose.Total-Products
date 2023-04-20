@@ -1,6 +1,6 @@
 ---
 title: Converter XLSM para POWERPOINT usando Python ou com o conversor online gratuito
-description: Conversão de XLSM para POWERPOINT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de XLSM para POWERPOINT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de XLSM para POWERPOINT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLSX σε PPTM χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLSX σε PPTM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLSX σε PPTM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLSX σε PPTM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

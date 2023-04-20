@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSM-t PPT-be Python segítségével vagy ingyenes online konverterrel
-description: XLSM-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSM-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSM-PPT online konvertert. 
 
 family: total
 platformtag: Python

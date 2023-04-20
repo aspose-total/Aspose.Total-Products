@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLTX σε POT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLTX σε POT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLTX σε POT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLTX σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

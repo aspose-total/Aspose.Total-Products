@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLSX na POWERPOINT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLSX na POWERPOINT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLSX na POWERPOINT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSX na POWERPOINT. 
 
 family: total
 platformtag: Python

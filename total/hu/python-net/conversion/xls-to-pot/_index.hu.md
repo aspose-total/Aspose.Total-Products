@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLS-t POT-be Python segítségével vagy ingyenes online konverterrel
-description: XLS-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLS-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLS-POT online konvertert. 
 
 family: total
 platformtag: Python

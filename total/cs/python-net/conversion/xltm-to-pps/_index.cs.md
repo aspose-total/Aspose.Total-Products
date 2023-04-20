@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLTM na PPS pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLTM na PPS ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLTM na PPS ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLTM na PPS. 
 
 family: total
 platformtag: Python

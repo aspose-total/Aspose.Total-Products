@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLTM-t PPSM-be Python segítségével vagy ingyenes online konverterrel
-description: XLTM-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLTM-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTM-PPSM online konvertert. 
 
 family: total
 platformtag: Python

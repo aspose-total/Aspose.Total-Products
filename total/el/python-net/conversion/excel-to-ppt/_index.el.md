@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή EXCEL σε PPT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή EXCEL σε PPT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή EXCEL σε PPT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα EXCEL σε PPT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

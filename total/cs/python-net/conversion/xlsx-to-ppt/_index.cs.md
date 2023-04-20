@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLSX na PPT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLSX na PPT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLSX na PPT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSX na PPT. 
 
 family: total
 platformtag: Python

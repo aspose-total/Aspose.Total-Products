@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a CSV-t POTX-be Python segítségével vagy ingyenes online konverterrel
-description: CSV-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: CSV-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POTX online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Преобразование XLTX в POWERPOINT с помощью Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование XLTX в POWERPOINT в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование XLTX в POWERPOINT в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер XLTX в POWERPOINT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

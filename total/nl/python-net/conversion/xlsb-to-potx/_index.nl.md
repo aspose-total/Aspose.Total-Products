@@ -1,6 +1,6 @@
 ---
 title: Converteer XLSB naar POTX met behulp van Python of met gratis Online Converter
-description: XLSB naar POTX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLSB naar POTX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLSB naar POTX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

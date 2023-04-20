@@ -1,6 +1,6 @@
 ---
 title: Převeďte CSV na POT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod CSV na POT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod CSV na POT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  CSV na POT. 
 
 family: total
 platformtag: Python
@@ -107,7 +107,7 @@ Pokud potřebujete převést soubory CSV na soubory POT v rámci aplikace .NET, 
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                           <span itemprop="text">Když použijete výše uvedený online převodník CSV na POT, můžete si být jisti, že odkaz ke stažení převedeného souboru POT budete mít k dispozici okamžitě po dokončení procesu převodu. Můžete jednoduše kliknout na tlačítko "Stáhnout" a stáhnout převedený soubor POT do počítače.<br />
 
-Vaše soukromí a bezpečnost bereme vážně, a proto všechny nahrané soubory po 24 hodinách smažeme. Po uplynutí této doby přestanou odkazy ke stažení fungovat a nikdo nebude mít přístup k vašim souborům. Můžete si být jisti, že vaše soubory jsou v bezpečí, když používáte náš převodník CSV na POT.
+Vaše soukromí a bezpečnost bereme vážně, a proto všechny nahrané soubory po 24 hodinách smažeme. Po uplynutí této doby přestanou odkazy ke stažení fungovat a nikdo nebude mít přístup k vašim souborům. Můžete si být jisti, že vaše soubory jsou v bezpečí, když používáte náš převodník  CSV na POT.
 <br />
 A konečně, integrovaná bezplatná aplikace je pro testovací účely. To vám umožní otestovat proces převodu CSV na POT a zkontrolovat výsledky před integrací kódu do vaší vlastní aplikace. Věříme, že se jedná o důležitý krok k zajištění toho, aby proces konverze vyhovoval vašim potřebám a požadavkům.</span>
                       </div>

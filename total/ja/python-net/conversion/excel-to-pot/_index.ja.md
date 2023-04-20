@@ -1,6 +1,6 @@
 ---
 title: Python を使用して EXCEL を POT に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの EXCEL から POT への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの EXCEL から POT への変換 またはオンライン。コードを統合する前に、無料の EXCEL から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

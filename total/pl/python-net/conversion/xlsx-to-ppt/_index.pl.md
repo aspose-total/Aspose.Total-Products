@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLSX na PPT za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLSX na PPT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLSX na PPT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLSX na PPT przed integracją kodu. 
 
 family: total
 platformtag: Python

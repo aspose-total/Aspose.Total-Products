@@ -1,6 +1,6 @@
 ---
 title: แปลง XLSX เป็น PPTX โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง XLSX เป็น PPTX ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง XLSX เป็น PPTX ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง XLSX เป็น PPTX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

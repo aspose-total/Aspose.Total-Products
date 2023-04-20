@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a EXCEL-t PPTX-be Python segítségével vagy ingyenes online konverterrel
-description: EXCEL-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: EXCEL-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-PPTX online konvertert. 
 
 family: total
 platformtag: Python

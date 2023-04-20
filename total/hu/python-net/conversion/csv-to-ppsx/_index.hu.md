@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a CSV-t PPSX-be Python segítségével vagy ingyenes online konverterrel
-description: CSV-ből PPSX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: CSV-ből PPSX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-PPSX online konvertert. 
 
 family: total
 platformtag: Python

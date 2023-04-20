@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a EXCEL-t PPS-be Python segítségével vagy ingyenes online konverterrel
-description: EXCEL-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: EXCEL-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-PPS online konvertert. 
 
 family: total
 platformtag: Python

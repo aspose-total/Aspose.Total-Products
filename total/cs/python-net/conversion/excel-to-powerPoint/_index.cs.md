@@ -1,6 +1,6 @@
 ---
 title: Převeďte EXCEL na POWERPOINT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod EXCEL na POWERPOINT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod EXCEL na POWERPOINT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  EXCEL na POWERPOINT. 
 
 family: total
 platformtag: Python

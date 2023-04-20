@@ -1,6 +1,6 @@
 ---
 title: Convertir XLSM en PPS en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion XLSM en PPS dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion XLSM en PPS dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne XLSM vers PPS gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

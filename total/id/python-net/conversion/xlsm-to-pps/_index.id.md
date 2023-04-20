@@ -1,6 +1,6 @@
 ---
 title: Konversikan XLSM ke PPS menggunakan Python atau dengan Konverter Online gratis
-description: Konversi XLSM ke PPS di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi XLSM ke PPS di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online XLSM ke PPS gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

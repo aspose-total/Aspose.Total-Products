@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLTX-t PPT-be Python segítségével vagy ingyenes online konverterrel
-description: XLTX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLTX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTX-PPT online konvertert. 
 
 family: total
 platformtag: Python

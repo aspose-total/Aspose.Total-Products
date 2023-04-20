@@ -1,6 +1,6 @@
 ---
 title: Převeďte CSV na PPSM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod CSV na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod CSV na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  CSV na PPSM. 
 
 family: total
 platformtag: Python

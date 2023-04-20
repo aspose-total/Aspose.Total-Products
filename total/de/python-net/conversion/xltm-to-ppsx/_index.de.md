@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLTM in PPSX mit Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLTM in PPSX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLTM in PPSX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLTM-zu-PPSX-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

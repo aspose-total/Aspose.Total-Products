@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSX-t PPTM-be Python segítségével vagy ingyenes online konverterrel
-description: XLSX-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSX-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSX-PPTM online konvertert. 
 
 family: total
 platformtag: Python

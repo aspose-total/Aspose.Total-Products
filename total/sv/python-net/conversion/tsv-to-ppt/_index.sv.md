@@ -1,6 +1,6 @@
 ---
 title: Konvertera TSV till PPT med Python eller med gratis Online Converter
-description: TSV till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: TSV till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis TSV till PPT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

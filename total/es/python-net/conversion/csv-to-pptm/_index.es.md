@@ -1,6 +1,6 @@
 ---
 title: Convierte CSV a PPTM usando Python o con el convertidor en línea gratuito
-description: Conversión de CSV a PPTM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de CSV a PPTM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a PPTM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSB-t PPTM-be Python segítségével vagy ingyenes online konverterrel
-description: XLSB-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSB-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSB-PPTM online konvertert. 
 
 family: total
 platformtag: Python

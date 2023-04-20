@@ -1,6 +1,6 @@
 ---
 title: Konwertuj TSV na PPSX za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja TSV na PPSX w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja TSV na PPSX w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online TSV na PPSX przed integracją kodu. 
 
 family: total
 platformtag: Python

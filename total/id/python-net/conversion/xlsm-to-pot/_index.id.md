@@ -1,6 +1,6 @@
 ---
 title: Konversikan XLSM ke POT menggunakan Python atau dengan Konverter Online gratis
-description: Konversi XLSM ke POT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi XLSM ke POT di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online XLSM ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

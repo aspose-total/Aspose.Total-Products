@@ -1,6 +1,6 @@
 ---
 title: Převeďte EXCEL na PPSM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod EXCEL na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod EXCEL na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  EXCEL na PPSM. 
 
 family: total
 platformtag: Python

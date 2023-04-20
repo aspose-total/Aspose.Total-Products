@@ -1,6 +1,6 @@
 ---
 title: Convierte TSV a PPSM usando Python o con el convertidor en línea gratuito
-description: Conversión de TSV a PPSM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de TSV a PPSM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de TSV a PPSM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

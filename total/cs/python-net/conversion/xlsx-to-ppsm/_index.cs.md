@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLSX na PPSM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLSX na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLSX na PPSM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSX na PPSM. 
 
 family: total
 platformtag: Python

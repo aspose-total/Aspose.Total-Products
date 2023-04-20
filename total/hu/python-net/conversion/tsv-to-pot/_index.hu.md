@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a TSV-t POT-be Python segítségével vagy ingyenes online konverterrel
-description: TSV-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: TSV-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TSV-POT online konvertert. 
 
 family: total
 platformtag: Python

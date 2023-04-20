@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSB-t PPS-be Python segítségével vagy ingyenes online konverterrel
-description: XLSB-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSB-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSB-PPS online konvertert. 
 
 family: total
 platformtag: Python

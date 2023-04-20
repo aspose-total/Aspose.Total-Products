@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή TSV σε POT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή TSV σε POT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή TSV σε POT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα TSV σε POT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

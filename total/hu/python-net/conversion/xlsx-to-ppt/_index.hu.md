@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSX-t PPT-be Python segítségével vagy ingyenes online konverterrel
-description: XLSX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSX-PPT online konvertert. 
 
 family: total
 platformtag: Python

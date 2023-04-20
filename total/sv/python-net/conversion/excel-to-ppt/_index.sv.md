@@ -1,6 +1,6 @@
 ---
 title: Konvertera EXCEL till PPT med Python eller med gratis Online Converter
-description: EXCEL till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: EXCEL till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis EXCEL till PPT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python
