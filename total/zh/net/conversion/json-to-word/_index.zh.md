@@ -8,6 +8,7 @@ feature: conversion
 informat: JSON
 outformat: DOC
 otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
+keywords: JSON转Word，文档转换，导出JSON，保存JSON为DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="通过 C# 将 JSON 格式转换为 WORD" h2="无需使用 Microsoft<sup>&reg;</sup> Word 即可将 JSON 解析为 WORD 的 C# API" >}}
@@ -19,7 +20,7 @@ otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="通过 C# 将 JSON 格式转换为 WORD" %}}
 1. 创建一个新的 [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) 对象并从文件中读取有效的 JSON 数据
-2. 使用 [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://reference.aspose.com/) 将 JSON 文件导入工作表cells/net/aspose.cells.workbook/save/methods/4) 以 PDF 格式
+2. 使用 [JsonUtility](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility) 类和 [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) 将 JSON 文件导入工作表 以 PDF 格式
 3. 用[Document](https://reference.aspose.com/words/net/aspose.words/document)类加载PDF文档
 4. 使用 [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) 方法将文档保存为 WORD 格式
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -8,6 +8,7 @@ feature: conversion
 informat: JSON
 outformat: DOC
 otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
+keywords: JSON в Word, преобразование документов, экспорт JSON, сохранение JSON как DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Преобразование формата JSON в WORD через C#" h2="C# API для преобразования JSON в WORD без использования Microsoft<sup>&reg;</sup> Word" >}}
