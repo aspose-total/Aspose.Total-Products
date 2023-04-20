@@ -1,6 +1,6 @@
 ---
 title: Converteer XLSX naar ODT met behulp van Python of met gratis Online Converter
-description: XLSX naar ODT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLSX naar ODT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLSX naar ODT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

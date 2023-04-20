@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLAM till WORD med Python eller med gratis Online Converter
-description: XLAM till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLAM till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLAM till WORD online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

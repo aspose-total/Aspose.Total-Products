@@ -1,6 +1,6 @@
 ---
 title: Converter SXC para WORD usando Python ou com o conversor online gratuito
-description: Conversão de SXC para WORD em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de SXC para WORD em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de SXC para WORD rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

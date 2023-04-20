@@ -1,6 +1,6 @@
 ---
 title: Converter TSV para ODT usando Python ou com o conversor online gratuito
-description: Conversão de TSV para ODT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de TSV para ODT em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de TSV para ODT rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

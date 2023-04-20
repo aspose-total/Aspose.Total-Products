@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie FODS mit Python in ODT oder mit dem kostenlosen Online Converter
-description: Konvertierung von FODS in ODT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von FODS in ODT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen FODS-zu-ODT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konversikan XLSX ke RTF menggunakan Python atau dengan Konverter Online gratis
-description: Konversi XLSX ke RTF di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi XLSX ke RTF di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online XLSX ke RTF gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

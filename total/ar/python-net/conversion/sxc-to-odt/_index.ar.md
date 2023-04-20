@@ -1,6 +1,6 @@
 ---
 title: تحويل SXC إلى ODT باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل SXC إلى ODT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل SXC إلى ODT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول SXC إلى ODT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

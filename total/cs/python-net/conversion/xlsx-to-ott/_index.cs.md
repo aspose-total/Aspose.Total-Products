@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLSX na OTT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLSX na OTT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLSX na OTT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSX na OTT. 
 
 family: total
 platformtag: Python

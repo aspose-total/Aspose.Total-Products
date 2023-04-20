@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak SXC'yi RTF'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda SXC'den RTF'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda SXC'den RTF'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz SXC'den RTF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

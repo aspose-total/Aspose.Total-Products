@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLT na WORDML pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLT na WORDML ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLT na WORDML ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLT na WORDML. 
 
 family: total
 platformtag: Python

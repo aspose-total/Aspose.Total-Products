@@ -1,6 +1,6 @@
 ---
 title: แปลง XLAM เป็น ODT โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง XLAM เป็น ODT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง XLAM เป็น ODT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง XLAM เป็น ODT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

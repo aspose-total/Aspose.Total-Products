@@ -1,6 +1,6 @@
 ---
 title: Převeďte CSV na DOTM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod CSV na DOTM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod CSV na DOTM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  CSV na DOTM. 
 
 family: total
 platformtag: Python

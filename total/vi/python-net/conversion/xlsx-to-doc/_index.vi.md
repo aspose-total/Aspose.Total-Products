@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi XLSX sang DOC bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi XLSX sang DOC trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi XLSX sang DOC trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến XLSX sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

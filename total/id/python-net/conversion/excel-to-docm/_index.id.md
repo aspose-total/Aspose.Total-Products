@@ -1,6 +1,6 @@
 ---
 title: Konversikan EXCEL ke DOCM menggunakan Python atau dengan Konverter Online gratis
-description: Konversi EXCEL ke DOCM di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi EXCEL ke DOCM di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online EXCEL ke DOCM gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

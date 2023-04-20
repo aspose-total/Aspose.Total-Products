@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a SXC-t DOT-be Python segítségével vagy ingyenes online konverterrel
-description: SXC-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: SXC-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes SXC-DOT online konvertert. 
 
 family: total
 platformtag: Python

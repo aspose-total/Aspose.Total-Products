@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak XLT'yi RTF'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda XLT'den RTF'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda XLT'den RTF'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz XLT'den RTF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLT na DOC pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLT na DOC ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLT na DOC ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLT na DOC. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLTM σε ODT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLTM σε ODT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLTM σε ODT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLTM σε ODT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converter ODS para DOTX usando Python ou com o conversor online gratuito
-description: Conversão de ODS para DOTX em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de ODS para DOTX em seus aplicativos Python sem usar o Microsoft Office ou on-line. Teste o conversor online gratuito de ODS para DOTX rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

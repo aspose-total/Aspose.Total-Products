@@ -1,6 +1,6 @@
 ---
 title: Python を使用して XLSM を DOTX に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの XLSM から DOTX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの XLSM から DOTX への変換 またはオンライン。コードを統合する前に、無料の XLSM から DOTX へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

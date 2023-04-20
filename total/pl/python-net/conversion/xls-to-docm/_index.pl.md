@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLS na DOCM za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLS na DOCM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLS na DOCM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLS na DOCM przed integracją kodu. 
 
 family: total
 platformtag: Python

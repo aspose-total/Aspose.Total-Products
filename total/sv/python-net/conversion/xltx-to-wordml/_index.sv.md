@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLTX till WORDML med Python eller med gratis Online Converter
-description: XLTX till WORDML-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLTX till WORDML-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLTX till WORDML online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

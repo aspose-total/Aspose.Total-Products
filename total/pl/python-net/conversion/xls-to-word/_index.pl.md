@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLS na WORD za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLS na WORD w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLS na WORD w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLS na WORD przed integracją kodu. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLSX mit Python in DOT oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLSX in DOT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLSX in DOT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLSX-zu-DOT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

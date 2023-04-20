@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLTM-t WORDML-be Python segítségével vagy ingyenes online konverterrel
-description: XLTM-ből WORDML-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLTM-ből WORDML-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTM-WORDML online konvertert. 
 
 family: total
 platformtag: Python

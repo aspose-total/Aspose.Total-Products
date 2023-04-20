@@ -1,6 +1,6 @@
 ---
 title: Konwertuj EXCEL na ODT za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja EXCEL na ODT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja EXCEL na ODT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online EXCEL na ODT przed integracją kodu. 
 
 family: total
 platformtag: Python

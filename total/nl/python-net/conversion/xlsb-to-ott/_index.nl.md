@@ -1,6 +1,6 @@
 ---
 title: Converteer XLSB naar OTT met behulp van Python of met gratis Online Converter
-description: XLSB naar OTT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLSB naar OTT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLSB naar OTT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

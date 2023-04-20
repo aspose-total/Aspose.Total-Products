@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie EXCEL mit Python in DOCX oder mit dem kostenlosen Online Converter
-description: Konvertierung von EXCEL in DOCX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von EXCEL in DOCX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen EXCEL-zu-DOCX-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

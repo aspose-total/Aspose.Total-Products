@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLTX σε DOT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLTX σε DOT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLTX σε DOT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLTX σε DOT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

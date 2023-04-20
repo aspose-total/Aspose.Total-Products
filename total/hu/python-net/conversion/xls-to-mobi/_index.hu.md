@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLS-t MOBI-be Python segítségével vagy ingyenes online konverterrel
-description: XLS-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLS-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLS-MOBI online konvertert. 
 
 family: total
 platformtag: Python

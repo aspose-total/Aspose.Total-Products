@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLT σε WORDML χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLT σε WORDML στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLT σε WORDML στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLT σε WORDML πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

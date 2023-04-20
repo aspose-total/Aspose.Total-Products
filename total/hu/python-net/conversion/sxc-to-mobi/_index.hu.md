@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a SXC-t MOBI-be Python segítségével vagy ingyenes online konverterrel
-description: SXC-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: SXC-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes SXC-MOBI online konvertert. 
 
 family: total
 platformtag: Python

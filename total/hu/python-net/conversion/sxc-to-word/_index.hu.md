@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a SXC-t WORD-be Python segítségével vagy ingyenes online konverterrel
-description: SXC-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: SXC-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes SXC-WORD online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLTX till ODT med Python eller med gratis Online Converter
-description: XLTX till ODT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLTX till ODT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLTX till ODT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLS na DOCX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLS na DOCX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLS na DOCX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLS na DOCX. 
 
 family: total
 platformtag: Python

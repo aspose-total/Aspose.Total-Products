@@ -1,6 +1,6 @@
 ---
 title: แปลง ODS เป็น WORDML โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง ODS เป็น WORDML ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง ODS เป็น WORDML ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง ODS เป็น WORDML ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

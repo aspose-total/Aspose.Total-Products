@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLTM till WORD med Python eller med gratis Online Converter
-description: XLTM till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLTM till WORD-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLTM till WORD online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DIF-t DOT-be Python segítségével vagy ingyenes online konverterrel
-description: DIF-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DIF-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DIF-DOT online konvertert. 
 
 family: total
 platformtag: Python

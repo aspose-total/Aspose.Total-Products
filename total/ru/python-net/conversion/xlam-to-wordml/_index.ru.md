@@ -1,6 +1,6 @@
 ---
 title: Преобразование XLAM в WORDML с помощью Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование XLAM в WORDML в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование XLAM в WORDML в ваших приложениях Python без использования Microsoft Office или онлайн. Быстро протестируйте бесплатный онлайн-конвертер XLAM в WORDML, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

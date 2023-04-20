@@ -1,6 +1,6 @@
 ---
 title: Konvertera FODS till MOBI med Python eller med gratis Online Converter
-description: FODS till MOBI-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: FODS till MOBI-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis FODS till MOBI online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

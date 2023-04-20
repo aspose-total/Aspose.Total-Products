@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLT na DOTX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLT na DOTX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLT na DOTX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLT na DOTX. 
 
 family: total
 platformtag: Python

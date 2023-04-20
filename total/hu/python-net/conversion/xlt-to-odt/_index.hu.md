@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLT-t ODT-be Python segítségével vagy ingyenes online konverterrel
-description: XLT-ből ODT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLT-ből ODT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLT-ODT online konvertert. 
 
 family: total
 platformtag: Python

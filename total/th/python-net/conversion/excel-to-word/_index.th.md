@@ -1,6 +1,6 @@
 ---
 title: แปลง EXCEL เป็น WORD โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง EXCEL เป็น WORD ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง EXCEL เป็น WORD ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง EXCEL เป็น WORD ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

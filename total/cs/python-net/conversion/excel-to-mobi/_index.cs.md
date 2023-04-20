@@ -1,6 +1,6 @@
 ---
 title: Převeďte EXCEL na MOBI pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod EXCEL na MOBI ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod EXCEL na MOBI ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  EXCEL na MOBI. 
 
 family: total
 platformtag: Python

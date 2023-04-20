@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLT na DOT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLT na DOT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLT na DOT ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLT na DOT. 
 
 family: total
 platformtag: Python

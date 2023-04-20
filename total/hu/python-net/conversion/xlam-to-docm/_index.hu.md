@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLAM-t DOCM-be Python segítségével vagy ingyenes online konverterrel
-description: XLAM-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLAM-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLAM-DOCM online konvertert. 
 
 family: total
 platformtag: Python

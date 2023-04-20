@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLSM till RTF med Python eller med gratis Online Converter
-description: XLSM till RTF-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLSM till RTF-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLSM till RTF online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

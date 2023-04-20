@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLAM mit Python in ODT oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLAM in ODT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLAM in ODT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLAM-zu-ODT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

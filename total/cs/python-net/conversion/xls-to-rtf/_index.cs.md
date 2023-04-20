@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLS na RTF pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLS na RTF ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLS na RTF ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLS na RTF. 
 
 family: total
 platformtag: Python

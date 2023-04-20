@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak ODS'yi MOBI'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda ODS'den MOBI'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda ODS'den MOBI'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODS'den MOBI'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

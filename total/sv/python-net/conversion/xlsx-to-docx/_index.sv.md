@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLSX till DOCX med Python eller med gratis Online Converter
-description: XLSX till DOCX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLSX till DOCX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLSX till DOCX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

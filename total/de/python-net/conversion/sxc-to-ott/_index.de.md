@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie SXC mit Python in OTT oder mit dem kostenlosen Online Converter
-description: Konvertierung von SXC in OTT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von SXC in OTT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen SXC-zu-OTT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

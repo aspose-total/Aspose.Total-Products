@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a SXC-t DOTX-be Python segítségével vagy ingyenes online konverterrel
-description: SXC-ből DOTX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: SXC-ből DOTX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes SXC-DOTX online konvertert. 
 
 family: total
 platformtag: Python

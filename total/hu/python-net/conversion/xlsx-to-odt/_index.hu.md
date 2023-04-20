@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSX-t ODT-be Python segítségével vagy ingyenes online konverterrel
-description: XLSX-ből ODT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSX-ből ODT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSX-ODT online konvertert. 
 
 family: total
 platformtag: Python

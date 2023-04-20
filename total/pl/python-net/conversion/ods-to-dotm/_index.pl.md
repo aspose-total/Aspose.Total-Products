@@ -1,6 +1,6 @@
 ---
 title: Konwertuj ODS na DOTM za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja ODS na DOTM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja ODS na DOTM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online ODS na DOTM przed integracją kodu. 
 
 family: total
 platformtag: Python

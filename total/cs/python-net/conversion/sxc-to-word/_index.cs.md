@@ -1,6 +1,6 @@
 ---
 title: Převeďte SXC na WORD pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod SXC na WORD ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod SXC na WORD ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  SXC na WORD. 
 
 family: total
 platformtag: Python

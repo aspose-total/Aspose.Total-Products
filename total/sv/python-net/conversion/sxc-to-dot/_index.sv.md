@@ -1,6 +1,6 @@
 ---
 title: Konvertera SXC till DOT med Python eller med gratis Online Converter
-description: SXC till DOT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: SXC till DOT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis SXC till DOT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

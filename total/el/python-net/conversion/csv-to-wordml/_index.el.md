@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή CSV σε WORDML χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή CSV σε WORDML στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή CSV σε WORDML στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε WORDML πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

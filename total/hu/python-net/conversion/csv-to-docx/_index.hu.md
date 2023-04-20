@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a CSV-t DOCX-be Python segítségével vagy ingyenes online konverterrel
-description: CSV-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: CSV-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOCX online konvertert. 
 
 family: total
 platformtag: Python

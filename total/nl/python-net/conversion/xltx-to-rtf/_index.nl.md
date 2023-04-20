@@ -1,6 +1,6 @@
 ---
 title: Converteer XLTX naar RTF met behulp van Python of met gratis Online Converter
-description: XLTX naar RTF-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLTX naar RTF-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLTX naar RTF online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

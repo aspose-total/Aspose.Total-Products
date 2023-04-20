@@ -1,6 +1,6 @@
 ---
 title: Konwertuj FODS na DOC za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja FODS na DOC w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja FODS na DOC w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online FODS na DOC przed integracją kodu. 
 
 family: total
 platformtag: Python

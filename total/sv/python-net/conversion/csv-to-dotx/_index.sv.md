@@ -1,6 +1,6 @@
 ---
 title: Konvertera CSV till DOTX med Python eller med gratis Online Converter
-description: CSV till DOTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: CSV till DOTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till DOTX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLAM-t MOBI-be Python segítségével vagy ingyenes online konverterrel
-description: XLAM-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLAM-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLAM-MOBI online konvertert. 
 
 family: total
 platformtag: Python

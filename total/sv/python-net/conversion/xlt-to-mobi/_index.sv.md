@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLT till MOBI med Python eller med gratis Online Converter
-description: XLT till MOBI-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: XLT till MOBI-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis XLT till MOBI online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

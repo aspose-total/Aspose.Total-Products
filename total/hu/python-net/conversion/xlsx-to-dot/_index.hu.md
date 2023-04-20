@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSX-t DOT-be Python segítségével vagy ingyenes online konverterrel
-description: XLSX-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSX-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSX-DOT online konvertert. 
 
 family: total
 platformtag: Python

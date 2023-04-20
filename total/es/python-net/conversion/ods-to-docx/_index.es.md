@@ -1,6 +1,6 @@
 ---
 title: Convierte ODS a DOCX usando Python o con el convertidor en línea gratuito
-description: Conversión de ODS a DOCX en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de ODS a DOCX en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de ODS a DOCX rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

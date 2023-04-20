@@ -1,6 +1,6 @@
 ---
 title: Converteer CSV naar WORDML met behulp van Python of met gratis Online Converter
-description: CSV naar WORDML-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: CSV naar WORDML-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar WORDML online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

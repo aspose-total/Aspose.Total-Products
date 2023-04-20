@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLTX-t WORDML-be Python segítségével vagy ingyenes online konverterrel
-description: XLTX-ből WORDML-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLTX-ből WORDML-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTX-WORDML online konvertert. 
 
 family: total
 platformtag: Python

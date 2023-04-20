@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή TSV σε DOCX χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή TSV σε DOCX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή TSV σε DOCX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα TSV σε DOCX πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

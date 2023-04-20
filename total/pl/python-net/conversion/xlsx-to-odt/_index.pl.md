@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLSX na ODT za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLSX na ODT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLSX na ODT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLSX na ODT przed integracją kodu. 
 
 family: total
 platformtag: Python

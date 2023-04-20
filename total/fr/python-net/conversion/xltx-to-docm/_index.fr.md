@@ -1,6 +1,6 @@
 ---
 title: Convertir XLTX en DOCM en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion XLTX en DOCM dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion XLTX en DOCM dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne XLTX vers DOCM gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

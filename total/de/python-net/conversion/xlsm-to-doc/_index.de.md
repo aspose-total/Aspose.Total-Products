@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLSM mit Python in DOC oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLSM in DOC in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLSM in DOC in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLSM-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

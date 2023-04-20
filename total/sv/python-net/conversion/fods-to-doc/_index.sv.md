@@ -1,6 +1,6 @@
 ---
 title: Konvertera FODS till DOC med Python eller med gratis Online Converter
-description: FODS till DOC-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: FODS till DOC-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis FODS till DOC online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

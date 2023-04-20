@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi XLSM sang DOCX bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi XLSM sang DOCX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi XLSM sang DOCX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến XLSM sang DOCX miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

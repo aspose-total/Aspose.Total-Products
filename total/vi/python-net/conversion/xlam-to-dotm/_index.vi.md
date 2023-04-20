@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi XLAM sang DOTM bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi XLAM sang DOTM trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi XLAM sang DOTM trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến XLAM sang DOTM miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

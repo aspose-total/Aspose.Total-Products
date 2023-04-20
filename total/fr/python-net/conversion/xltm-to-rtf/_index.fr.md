@@ -1,6 +1,6 @@
 ---
 title: Convertir XLTM en RTF en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion XLTM en RTF dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion XLTM en RTF dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne XLTM vers RTF gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

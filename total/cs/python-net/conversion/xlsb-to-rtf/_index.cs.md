@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLSB na RTF pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod XLSB na RTF ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod XLSB na RTF ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSB na RTF. 
 
 family: total
 platformtag: Python

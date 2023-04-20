@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLT mit Python in WORD oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLT in WORD in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLT in WORD in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLT-zu-WORD-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

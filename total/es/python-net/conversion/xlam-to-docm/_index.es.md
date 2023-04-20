@@ -1,6 +1,6 @@
 ---
 title: Convierte XLAM a DOCM usando Python o con el convertidor en línea gratuito
-description: Conversión de XLAM a DOCM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de XLAM a DOCM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de XLAM a DOCM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

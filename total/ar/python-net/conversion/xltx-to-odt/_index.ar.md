@@ -1,6 +1,6 @@
 ---
 title: تحويل XLTX إلى ODT باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل XLTX إلى ODT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل XLTX إلى ODT في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول XLTX إلى ODT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLS-t OTT-be Python segítségével vagy ingyenes online konverterrel
-description: XLS-ből OTT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLS-ből OTT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLS-OTT online konvertert. 
 
 family: total
 platformtag: Python

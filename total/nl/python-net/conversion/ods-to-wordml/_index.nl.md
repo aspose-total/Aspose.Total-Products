@@ -1,6 +1,6 @@
 ---
 title: Converteer ODS naar WORDML met behulp van Python of met gratis Online Converter
-description: ODS naar WORDML-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: ODS naar WORDML-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis ODS naar WORDML online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

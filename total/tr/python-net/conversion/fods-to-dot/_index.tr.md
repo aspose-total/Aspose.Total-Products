@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak FODS'yi DOT'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda FODS'den DOT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda FODS'den DOT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz FODS'den DOT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

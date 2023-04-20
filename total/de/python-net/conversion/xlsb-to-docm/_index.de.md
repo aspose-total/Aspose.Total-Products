@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLSB mit Python in DOCM oder mit dem kostenlosen Online Converter
-description: Konvertierung von XLSB in DOCM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von XLSB in DOCM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen XLSB-zu-DOCM-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

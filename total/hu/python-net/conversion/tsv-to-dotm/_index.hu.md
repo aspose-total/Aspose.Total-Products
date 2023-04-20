@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a TSV-t DOTM-be Python segítségével vagy ingyenes online konverterrel
-description: TSV-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: TSV-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TSV-DOTM online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převeďte DIF na DOTM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DIF na DOTM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DIF na DOTM ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DIF na DOTM. 
 
 family: total
 platformtag: Python

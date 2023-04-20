@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie EXCEL mit Python in DOTM oder mit dem kostenlosen Online Converter
-description: Konvertierung von EXCEL in DOTM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von EXCEL in DOTM in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen EXCEL-zu-DOTM-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

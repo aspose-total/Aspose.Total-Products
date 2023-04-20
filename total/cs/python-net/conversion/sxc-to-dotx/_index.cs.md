@@ -1,6 +1,6 @@
 ---
 title: Převeďte SXC na DOTX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod SXC na DOTX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod SXC na DOTX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  SXC na DOTX. 
 
 family: total
 platformtag: Python

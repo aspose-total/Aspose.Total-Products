@@ -1,6 +1,6 @@
 ---
 title: Konvertera TSV till DOT med Python eller med gratis Online Converter
-description: TSV till DOT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: TSV till DOT-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis TSV till DOT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSX-t MOBI-be Python segítségével vagy ingyenes online konverterrel
-description: XLSX-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSX-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSX-MOBI online konvertert. 
 
 family: total
 platformtag: Python

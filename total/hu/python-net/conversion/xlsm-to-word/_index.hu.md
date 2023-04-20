@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSM-t WORD-be Python segítségével vagy ingyenes online konverterrel
-description: XLSM-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSM-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSM-WORD online konvertert. 
 
 family: total
 platformtag: Python

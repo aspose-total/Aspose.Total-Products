@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLTM na DOTX za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLTM na DOTX w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLTM na DOTX w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLTM na DOTX przed integracją kodu. 
 
 family: total
 platformtag: Python

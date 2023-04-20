@@ -1,6 +1,6 @@
 ---
 title: Convierte XLSX a WORD usando Python o con el convertidor en línea gratuito
-description: Conversión de XLSX a WORD en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de XLSX a WORD en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de XLSX a WORD rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

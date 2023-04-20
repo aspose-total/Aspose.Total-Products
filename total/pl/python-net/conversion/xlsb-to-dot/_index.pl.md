@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLSB na DOT za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLSB na DOT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLSB na DOT w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLSB na DOT przed integracją kodu. 
 
 family: total
 platformtag: Python

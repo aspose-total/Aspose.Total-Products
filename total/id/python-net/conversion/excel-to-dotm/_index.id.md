@@ -1,6 +1,6 @@
 ---
 title: Konversikan EXCEL ke DOTM menggunakan Python atau dengan Konverter Online gratis
-description: Konversi EXCEL ke DOTM di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi EXCEL ke DOTM di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online EXCEL ke DOTM gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

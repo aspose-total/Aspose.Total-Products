@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODS-t DOCX-be Python segítségével vagy ingyenes online konverterrel
-description: ODS-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: ODS-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODS-DOCX online konvertert. 
 
 family: total
 platformtag: Python

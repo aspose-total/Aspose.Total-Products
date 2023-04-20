@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLSB-t WORDML-be Python segítségével vagy ingyenes online konverterrel
-description: XLSB-ből WORDML-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLSB-ből WORDML-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSB-WORDML online konvertert. 
 
 family: total
 platformtag: Python

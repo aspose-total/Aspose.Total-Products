@@ -1,6 +1,6 @@
 ---
 title: Converti DIF in RTF usando Python o con il convertitore online gratuito
-description: Conversione da DIF a RTF nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da DIF a RTF nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da DIF a RTF prima di integrare il codice. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DIF-t DOCM-be Python segítségével vagy ingyenes online konverterrel
-description: DIF-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DIF-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DIF-DOCM online konvertert. 
 
 family: total
 platformtag: Python

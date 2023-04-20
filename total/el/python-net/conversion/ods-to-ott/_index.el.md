@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή ODS σε OTT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή ODS σε OTT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή ODS σε OTT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODS σε OTT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

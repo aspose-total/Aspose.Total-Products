@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLS na WORDML za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja XLS na WORDML w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja XLS na WORDML w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online XLS na WORDML przed integracją kodu. 
 
 family: total
 platformtag: Python

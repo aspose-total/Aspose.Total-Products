@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLTM-t MOBI-be Python segítségével vagy ingyenes online konverterrel
-description: XLTM-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLTM-ből MOBI-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTM-MOBI online konvertert. 
 
 family: total
 platformtag: Python

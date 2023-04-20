@@ -1,6 +1,6 @@
 ---
 title: تحويل XLS إلى DOC باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل XLS إلى DOC في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل XLS إلى DOC في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول XLS إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLS σε RTF χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLS σε RTF στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLS σε RTF στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLS σε RTF πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

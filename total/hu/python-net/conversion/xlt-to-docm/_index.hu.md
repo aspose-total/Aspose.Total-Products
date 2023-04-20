@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a XLT-t DOCM-be Python segítségével vagy ingyenes online konverterrel
-description: XLT-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: XLT-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLT-DOCM online konvertert. 
 
 family: total
 platformtag: Python

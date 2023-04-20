@@ -1,6 +1,6 @@
 ---
 title: Converteer XLTX naar DOTX met behulp van Python of met gratis Online Converter
-description: XLTX naar DOTX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLTX naar DOTX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLTX naar DOTX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konversikan XLSM ke DOTM menggunakan Python atau dengan Konverter Online gratis
-description: Konversi XLSM ke DOTM di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi XLSM ke DOTM di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online XLSM ke DOTM gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

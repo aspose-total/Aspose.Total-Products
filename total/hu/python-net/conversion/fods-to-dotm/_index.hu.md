@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a FODS-t DOTM-be Python segítségével vagy ingyenes online konverterrel
-description: FODS-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: FODS-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes FODS-DOTM online konvertert. 
 
 family: total
 platformtag: Python

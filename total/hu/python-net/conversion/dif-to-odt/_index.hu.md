@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DIF-t ODT-be Python segítségével vagy ingyenes online konverterrel
-description: DIF-ből ODT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DIF-ből ODT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DIF-ODT online konvertert. 
 
 family: total
 platformtag: Python

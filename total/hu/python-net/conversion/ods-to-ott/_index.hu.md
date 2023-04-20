@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODS-t OTT-be Python segítségével vagy ingyenes online konverterrel
-description: ODS-ből OTT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: ODS-ből OTT-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODS-OTT online konvertert. 
 
 family: total
 platformtag: Python

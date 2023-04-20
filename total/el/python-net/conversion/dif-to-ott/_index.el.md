@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DIF σε OTT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή DIF σε OTT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DIF σε OTT στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DIF σε OTT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer FODS naar DOTM met behulp van Python of met gratis Online Converter
-description: FODS naar DOTM-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: FODS naar DOTM-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis FODS naar DOTM online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

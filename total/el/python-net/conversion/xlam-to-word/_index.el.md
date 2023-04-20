@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLAM σε WORD χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή XLAM σε WORD στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή XLAM σε WORD στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLAM σε WORD πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

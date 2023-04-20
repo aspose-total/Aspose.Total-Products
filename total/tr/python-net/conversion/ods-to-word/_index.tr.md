@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak ODS'yi WORD'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda ODS'den WORD'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda ODS'den WORD'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODS'den WORD'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

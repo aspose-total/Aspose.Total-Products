@@ -1,6 +1,6 @@
 ---
 title: Převeďte DIF na WORD pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DIF na WORD ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DIF na WORD ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DIF na WORD. 
 
 family: total
 platformtag: Python

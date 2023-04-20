@@ -1,6 +1,6 @@
 ---
 title: Python を使用して EXCEL を WORD に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの EXCEL から WORD への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの EXCEL から WORD への変換 またはオンライン。コードを統合する前に、無料の EXCEL から WORD へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

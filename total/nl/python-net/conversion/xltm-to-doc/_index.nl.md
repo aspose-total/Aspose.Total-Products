@@ -1,6 +1,6 @@
 ---
 title: Converteer XLTM naar DOC met behulp van Python of met gratis Online Converter
-description: XLTM naar DOC-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLTM naar DOC-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLTM naar DOC online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer EXCEL naar WORD met behulp van Python of met gratis Online Converter
-description: EXCEL naar WORD-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: EXCEL naar WORD-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis EXCEL naar WORD online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

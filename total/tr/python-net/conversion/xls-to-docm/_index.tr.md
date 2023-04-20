@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak XLS'yi DOCM'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda XLS'den DOCM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda XLS'den DOCM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz XLS'den DOCM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: แปลง XLSX เป็น DOTM โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง XLSX เป็น DOTM ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง XLSX เป็น DOTM ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง XLSX เป็น DOTM ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

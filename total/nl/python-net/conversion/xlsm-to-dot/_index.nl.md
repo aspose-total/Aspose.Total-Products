@@ -1,6 +1,6 @@
 ---
 title: Converteer XLSM naar DOT met behulp van Python of met gratis Online Converter
-description: XLSM naar DOT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLSM naar DOT-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLSM naar DOT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

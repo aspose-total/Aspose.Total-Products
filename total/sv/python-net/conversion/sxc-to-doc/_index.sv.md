@@ -1,6 +1,6 @@
 ---
 title: Konvertera SXC till DOC med Python eller med gratis Online Converter
-description: SXC till DOC-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: SXC till DOC-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis SXC till DOC online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

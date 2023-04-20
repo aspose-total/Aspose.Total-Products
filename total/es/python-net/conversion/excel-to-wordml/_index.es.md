@@ -1,6 +1,6 @@
 ---
 title: Convierte EXCEL a WORDML usando Python o con el convertidor en línea gratuito
-description: Conversión de EXCEL a WORDML en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de EXCEL a WORDML en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de EXCEL a WORDML rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer XLS naar WORD met behulp van Python of met gratis Online Converter
-description: XLS naar WORD-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: XLS naar WORD-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis XLS naar WORD online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

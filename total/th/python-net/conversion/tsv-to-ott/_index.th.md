@@ -1,6 +1,6 @@
 ---
 title: แปลง TSV เป็น OTT โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง TSV เป็น OTT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง TSV เป็น OTT ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง TSV เป็น OTT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

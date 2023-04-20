@@ -1,6 +1,6 @@
 ---
 title: Konvertera CSV till DOTM med Python eller med gratis Online Converter
-description: CSV till DOTM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: CSV till DOTM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till DOTM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

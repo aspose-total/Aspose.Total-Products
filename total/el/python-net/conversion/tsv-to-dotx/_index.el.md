@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή TSV σε DOTX χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή TSV σε DOTX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή TSV σε DOTX στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα TSV σε DOTX πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python
