@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POWERPOINT na FODS za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj POWERPOINT do FODS w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj POWERPOINT do FODS w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POWERPOINT na FODS przed integracją kodu.
 
 family: total
 platformtag: cpp

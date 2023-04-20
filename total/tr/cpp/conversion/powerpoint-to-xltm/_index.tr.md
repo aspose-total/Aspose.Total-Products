@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT'u C++ ile XLTM'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C++'da XLTM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C++'da XLTM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den XLTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

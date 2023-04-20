@@ -1,6 +1,6 @@
 ---
 title: Convertir PPTX en XLSM via C++ ou application en ligne ou avec le convertisseur en ligne gratuit
-description: Exporter PPTX vers XLSM en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exporter PPTX vers XLSM en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne PPTX vers XLSM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in MHTML tramite C++ o App online o con il convertitore online gratuito
-description: Esporta POTM in MHTML in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta POTM in MHTML in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POTM a MHTML prima di integrare il codice.
 
 family: total
 platformtag: cpp

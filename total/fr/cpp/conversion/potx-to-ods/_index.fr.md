@@ -1,6 +1,6 @@
 ---
 title: Convertir POTX en ODS via C++ ou application en ligne ou avec le convertisseur en ligne gratuit
-description: Exporter POTX vers ODS en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exporter POTX vers ODS en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POTX vers ODS gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

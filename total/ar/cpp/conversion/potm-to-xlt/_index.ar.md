@@ -1,6 +1,6 @@
 ---
 title: تحويل POTM إلى XLT عبر C++ أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت
-description: قم بتصدير POTM إلى XLT في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير POTM إلى XLT في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POTM إلى XLT على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

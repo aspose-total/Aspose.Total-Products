@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTX na XLT za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj POTX do XLT w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj POTX do XLT w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POTX na XLT przed integracją kodu.
 
 family: total
 platformtag: cpp

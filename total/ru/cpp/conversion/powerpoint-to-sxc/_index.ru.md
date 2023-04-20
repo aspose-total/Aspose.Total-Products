@@ -1,6 +1,6 @@
 ---
 title: Конвертировать POWERPOINT в SXC через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
-description: Экспорт POWERPOINT в SXC на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт POWERPOINT в SXC на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POWERPOINT в SXC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

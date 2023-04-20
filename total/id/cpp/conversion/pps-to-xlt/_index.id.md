@@ -1,6 +1,6 @@
 ---
 title: Konversi PPS ke XLT melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPS ke XLT dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPS ke XLT dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPS ke XLT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

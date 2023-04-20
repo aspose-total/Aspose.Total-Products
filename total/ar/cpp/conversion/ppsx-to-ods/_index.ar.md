@@ -1,6 +1,6 @@
 ---
 title: تحويل PPSX إلى ODS عبر C++ أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت
-description: قم بتصدير PPSX إلى ODS في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير PPSX إلى ODS في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول PPSX إلى ODS على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

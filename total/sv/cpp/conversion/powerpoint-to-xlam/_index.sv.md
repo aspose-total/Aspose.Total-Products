@@ -1,6 +1,6 @@
 ---
 title: Konvertera POWERPOINT till XLAM via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera POWERPOINT till XLAM i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera POWERPOINT till XLAM i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POWERPOINT till XLAM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

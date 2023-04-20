@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTX till XLSB via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera POTX till XLSB i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera POTX till XLSB i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POTX till XLSB online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konversi PPS ke MARKDOWN melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPS ke MARKDOWN dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPS ke MARKDOWN dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPS ke MARKDOWN gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

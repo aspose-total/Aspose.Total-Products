@@ -1,6 +1,6 @@
 ---
 title: Convierta PPTX a CSV a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte PPTX a CSV en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPTX a CSV en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPTX a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

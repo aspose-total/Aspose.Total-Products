@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPS über C++ in XLS oder Online-App oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPS in C++ in XLS, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPS in C++ in XLS, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPS-zu-XLS-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converteer POTX naar DIF via C++ of online-app of met gratis Online Converter
-description: Exporteer POTX naar DIF in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POTX naar DIF in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POTX naar DIF online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

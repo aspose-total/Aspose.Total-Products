@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-ot TSV-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a POTX-ot TSV-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POTX-ot TSV-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-TSV online konvertert.
 
 family: total
 platformtag: cpp

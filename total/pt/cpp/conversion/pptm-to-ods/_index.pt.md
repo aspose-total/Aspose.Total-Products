@@ -1,6 +1,6 @@
 ---
 title: Converter PPTM para ODS via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte PPTM para ODS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPTM para ODS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTM para ODS rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

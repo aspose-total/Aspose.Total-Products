@@ -1,6 +1,6 @@
 ---
 title: แปลง PPTX เป็น MARKDOWN ผ่าน C++ หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: ส่งออก PPTX เป็น MARKDOWN ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: ส่งออก PPTX เป็น MARKDOWN ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง PPTX เป็น MARKDOWN ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

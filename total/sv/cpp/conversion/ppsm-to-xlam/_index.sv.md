@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSM till XLAM via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera PPSM till XLAM i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPSM till XLAM i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPSM till XLAM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

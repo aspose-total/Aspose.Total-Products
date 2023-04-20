@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPSX na CSV za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPSX do CSV w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPSX do CSV w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPSX na CSV przed integracją kodu.
 
 family: total
 platformtag: cpp

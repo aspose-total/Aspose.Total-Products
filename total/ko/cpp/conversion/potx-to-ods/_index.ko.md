@@ -1,6 +1,6 @@
 ---
 title: C++를 통해 POTX을 ODS로 변환 또는 온라인 앱 또는 무료 온라인 변환기 사용
-description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C++에서 POTX을 ODS로 내보내기 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오.
+description: Microsoft Excel 또는 Powerpoint를 사용하지 않고 C++에서 POTX을 ODS로 내보내기 또는 온라인. 코드를 통합하기 전에 무료 POTX to ODS 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp

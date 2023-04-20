@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot XLSX-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPTX-ot XLSX-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPTX-ot XLSX-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-XLSX online konvertert.
 
 family: total
 platformtag: cpp

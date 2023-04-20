@@ -1,6 +1,6 @@
 ---
 title: Converti PPSX in XLSX tramite C++ o App online o con il convertitore online gratuito
-description: Esporta PPSX in XLSX in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta PPSX in XLSX in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPSX a XLSX prima di integrare il codice.
 
 family: total
 platformtag: cpp

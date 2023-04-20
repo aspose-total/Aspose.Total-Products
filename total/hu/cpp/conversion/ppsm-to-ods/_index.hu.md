@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-ot ODS-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPSM-ot ODS-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPSM-ot ODS-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-ODS online konvertert.
 
 family: total
 platformtag: cpp

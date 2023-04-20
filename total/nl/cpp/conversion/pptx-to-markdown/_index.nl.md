@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTX naar MARKDOWN via C++ of online-app of met gratis Online Converter
-description: Exporteer PPTX naar MARKDOWN in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPTX naar MARKDOWN in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPTX naar MARKDOWN online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konversi POT ke MHTML melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor POT ke MHTML dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POT ke MHTML dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke MHTML gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

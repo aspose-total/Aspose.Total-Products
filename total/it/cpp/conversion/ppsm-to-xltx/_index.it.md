@@ -1,6 +1,6 @@
 ---
 title: Converti PPSM in XLTX tramite C++ o App online o con il convertitore online gratuito
-description: Esporta PPSM in XLTX in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta PPSM in XLTX in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPSM a XLTX prima di integrare il codice.
 
 family: total
 platformtag: cpp

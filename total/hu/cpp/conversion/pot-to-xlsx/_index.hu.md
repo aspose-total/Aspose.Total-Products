@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POT-ot XLSX-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a POT-ot XLSX-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POT-ot XLSX-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-XLSX online konvertert.
 
 family: total
 platformtag: cpp

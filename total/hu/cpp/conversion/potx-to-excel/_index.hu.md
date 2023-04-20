@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-ot EXCEL-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a POTX-ot EXCEL-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POTX-ot EXCEL-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-EXCEL online konvertert.
 
 family: total
 platformtag: cpp

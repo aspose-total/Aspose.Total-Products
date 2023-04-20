@@ -1,6 +1,6 @@
 ---
 title: Konversi POWERPOINT ke CSV melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor POWERPOINT ke CSV dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POWERPOINT ke CSV dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POWERPOINT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

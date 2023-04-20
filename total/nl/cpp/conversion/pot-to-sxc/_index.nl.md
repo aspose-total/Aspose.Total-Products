@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar SXC via C++ of online-app of met gratis Online Converter
-description: Exporteer POT naar SXC in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POT naar SXC in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar SXC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

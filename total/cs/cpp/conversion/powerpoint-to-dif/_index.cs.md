@@ -1,6 +1,6 @@
 ---
 title: Převeďte POWERPOINT do DIF přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POWERPOINT do DIF v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POWERPOINT do DIF v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na DIF.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPT sang MARKDOWN qua C++ hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất PPT sang MARKDOWN bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất PPT sang MARKDOWN bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPT sang MARKDOWN miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

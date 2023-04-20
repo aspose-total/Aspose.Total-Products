@@ -1,6 +1,6 @@
 ---
 title: POT'u C++ ile XLS'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Powerpoint kullanmadan POT'u C++'da XLS'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Excel veya Powerpoint kullanmadan POT'u C++'da XLS'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den XLS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

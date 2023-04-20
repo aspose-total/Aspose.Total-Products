@@ -1,6 +1,6 @@
 ---
 title: Convierta PPSX a SXC a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte PPSX a SXC en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPSX a SXC en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPSX a SXC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

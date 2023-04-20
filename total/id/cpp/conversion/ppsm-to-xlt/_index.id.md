@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSM ke XLT melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPSM ke XLT dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPSM ke XLT dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPSM ke XLT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

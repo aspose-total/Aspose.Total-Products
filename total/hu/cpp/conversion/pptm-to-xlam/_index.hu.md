@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTM-ot XLAM-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPTM-ot XLAM-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPTM-ot XLAM-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-XLAM online konvertert.
 
 family: total
 platformtag: cpp

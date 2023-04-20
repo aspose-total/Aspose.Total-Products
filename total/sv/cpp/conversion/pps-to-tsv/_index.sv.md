@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPS till TSV via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera PPS till TSV i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPS till TSV i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPS till TSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

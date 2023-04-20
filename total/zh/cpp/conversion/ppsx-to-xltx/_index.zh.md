@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 将 PPSX 转换为 XLTX 或在线应用程序 或使用免费的在线转换器
-description: 在 C++ 中将 PPSX 导出为 XLTX，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
+description: 在 C++ 中将 PPSX 导出为 XLTX，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 PPSX 到 XLTX 在线转换器。
 
 family: total
 platformtag: cpp

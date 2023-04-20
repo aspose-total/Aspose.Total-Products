@@ -1,6 +1,6 @@
 ---
 title: แปลง POTM เป็น XLT ผ่าน C++ หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: ส่งออก POTM เป็น XLT ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: ส่งออก POTM เป็น XLT ใน C++ โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง POTM เป็น XLT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

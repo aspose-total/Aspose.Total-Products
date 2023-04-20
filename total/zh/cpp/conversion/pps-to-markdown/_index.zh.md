@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 将 PPS 转换为 MARKDOWN 或在线应用程序 或使用免费的在线转换器
-description: 在 C++ 中将 PPS 导出为 MARKDOWN，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
+description: 在 C++ 中将 PPS 导出为 MARKDOWN，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 PPS 到 MARKDOWN 在线转换器。
 
 family: total
 platformtag: cpp

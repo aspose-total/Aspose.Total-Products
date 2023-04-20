@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-ot MARKDOWN-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPT-ot MARKDOWN-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPT-ot MARKDOWN-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-MARKDOWN online konvertert.
 
 family: total
 platformtag: cpp

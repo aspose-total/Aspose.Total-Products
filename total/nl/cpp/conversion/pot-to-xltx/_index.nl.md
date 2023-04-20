@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar XLTX via C++ of online-app of met gratis Online Converter
-description: Exporteer POT naar XLTX in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POT naar XLTX in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar XLTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

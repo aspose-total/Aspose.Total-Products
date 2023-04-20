@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 将 PPTM 转换为 XLAM 或在线应用程序 或使用免费的在线转换器
-description: 在 C++ 中将 PPTM 导出为 XLAM，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
+description: 在 C++ 中将 PPTM 导出为 XLAM，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 PPTM 到 XLAM 在线转换器。
 
 family: total
 platformtag: cpp

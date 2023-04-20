@@ -1,6 +1,6 @@
 ---
 title: Converti PPTX in TSV tramite C++ o App online o con il convertitore online gratuito
-description: Esporta PPTX in TSV in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta PPTX in TSV in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPTX a TSV prima di integrare il codice.
 
 family: total
 platformtag: cpp

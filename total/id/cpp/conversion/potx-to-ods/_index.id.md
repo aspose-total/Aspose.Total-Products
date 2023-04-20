@@ -1,6 +1,6 @@
 ---
 title: Konversi POTX ke ODS melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor POTX ke ODS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POTX ke ODS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POTX ke ODS gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

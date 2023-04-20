@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSM σε MARKDOWN μέσω C++ ή Online App ή με δωρεάν Online Converter
-description: Εξαγωγή PPSM σε MARKDOWN σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή PPSM σε MARKDOWN σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSM σε MARKDOWN πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converteer POWERPOINT naar MHTML via C++ of online-app of met gratis Online Converter
-description: Exporteer POWERPOINT naar MHTML in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POWERPOINT naar MHTML in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POWERPOINT naar MHTML online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

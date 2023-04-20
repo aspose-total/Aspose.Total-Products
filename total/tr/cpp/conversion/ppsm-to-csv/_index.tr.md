@@ -1,6 +1,6 @@
 ---
 title: PPSM'u C++ ile CSV'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C++'da CSV'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C++'da CSV'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

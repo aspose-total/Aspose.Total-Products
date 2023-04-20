@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTM till XLT via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera PPTM till XLT i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPTM till XLT i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPTM till XLT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSX naar XLTM via C++ of online-app of met gratis Online Converter
-description: Exporteer PPSX naar XLTM in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPSX naar XLTM in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPSX naar XLTM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

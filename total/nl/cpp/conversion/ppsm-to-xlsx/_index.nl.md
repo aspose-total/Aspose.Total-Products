@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSM naar XLSX via C++ of online-app of met gratis Online Converter
-description: Exporteer PPSM naar XLSX in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPSM naar XLSX in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPSM naar XLSX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

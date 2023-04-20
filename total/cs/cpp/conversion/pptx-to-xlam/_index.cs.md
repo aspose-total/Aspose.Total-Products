@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX do XLAM přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte PPTX do XLAM v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPTX do XLAM v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na XLAM.
 
 family: total
 platformtag: cpp

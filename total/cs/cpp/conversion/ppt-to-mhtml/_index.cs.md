@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPT do MHTML přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte PPT do MHTML v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPT do MHTML v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na MHTML.
 
 family: total
 platformtag: cpp

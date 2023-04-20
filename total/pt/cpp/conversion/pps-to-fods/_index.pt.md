@@ -1,6 +1,6 @@
 ---
 title: Converter PPS para FODS via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte PPS para FODS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPS para FODS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPS para FODS rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

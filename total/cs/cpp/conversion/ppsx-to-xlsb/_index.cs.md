@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSX do XLSB přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte PPSX do XLSB v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPSX do XLSB v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na XLSB.
 
 family: total
 platformtag: cpp

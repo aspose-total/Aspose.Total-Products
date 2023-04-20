@@ -1,6 +1,6 @@
 ---
 title: Konversi POT ke XLS melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor POT ke XLS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POT ke XLS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke XLS gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converter PPS para CSV via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte PPS para CSV em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPS para CSV em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPS para CSV rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

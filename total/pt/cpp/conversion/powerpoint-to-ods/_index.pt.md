@@ -1,6 +1,6 @@
 ---
 title: Converter POWERPOINT para ODS via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte POWERPOINT para ODS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POWERPOINT para ODS em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POWERPOINT para ODS rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

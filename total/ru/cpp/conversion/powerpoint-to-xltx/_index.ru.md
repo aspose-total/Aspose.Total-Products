@@ -1,6 +1,6 @@
 ---
 title: Конвертировать POWERPOINT в XLTX через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
-description: Экспорт POWERPOINT в XLTX на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт POWERPOINT в XLTX на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POWERPOINT в XLTX, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: 通過 C++ 將 PPS 轉換為 XLS 或在線應用程序 或使用免費的在線轉換器
-description: 在 C++ 中將 PPS 導出為 XLS，而不使用 Microsoft Excel 或 Powerpoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 在 C++ 中將 PPS 導出為 XLS，而不使用 Microsoft Excel 或 Powerpoint 或在線。在集成代碼之前快速測試免費的 PPS 到 XLS 在線轉換器。
 
 family: total
 platformtag: cpp

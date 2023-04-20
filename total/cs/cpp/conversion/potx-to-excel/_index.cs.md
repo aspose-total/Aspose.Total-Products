@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX do EXCEL přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POTX do EXCEL v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POTX do EXCEL v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na EXCEL.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converti PPT in DIF tramite C++ o App online o con il convertitore online gratuito
-description: Esporta PPT in DIF in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta PPT in DIF in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPT a DIF prima di integrare il codice.
 
 family: total
 platformtag: cpp

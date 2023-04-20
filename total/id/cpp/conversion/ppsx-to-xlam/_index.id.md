@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSX ke XLAM melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPSX ke XLAM dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPSX ke XLAM dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPSX ke XLAM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

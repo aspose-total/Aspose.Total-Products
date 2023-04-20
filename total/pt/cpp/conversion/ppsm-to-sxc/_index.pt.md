@@ -1,6 +1,6 @@
 ---
 title: Converter PPSM para SXC via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte PPSM para SXC em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPSM para SXC em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPSM para SXC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

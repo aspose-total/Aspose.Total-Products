@@ -1,6 +1,6 @@
 ---
 title: Konversi POTM ke EXCEL melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor POTM ke EXCEL dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POTM ke EXCEL dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POTM ke EXCEL gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta POWERPOINT a XLSB a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte POWERPOINT a XLSB en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte POWERPOINT a XLSB en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a XLSB rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

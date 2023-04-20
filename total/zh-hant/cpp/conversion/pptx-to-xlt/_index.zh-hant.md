@@ -1,6 +1,6 @@
 ---
 title: 通過 C++ 將 PPTX 轉換為 XLT 或在線應用程序 或使用免費的在線轉換器
-description: 在 C++ 中將 PPTX 導出為 XLT，而不使用 Microsoft Excel 或 Powerpoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 在 C++ 中將 PPTX 導出為 XLT，而不使用 Microsoft Excel 或 Powerpoint 或在線。在集成代碼之前快速測試免費的 PPTX 到 XLT 在線轉換器。
 
 family: total
 platformtag: cpp

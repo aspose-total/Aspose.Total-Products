@@ -1,6 +1,6 @@
 ---
 title: Конвертировать PPS в MARKDOWN через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
-description: Экспорт PPS в MARKDOWN на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт PPS в MARKDOWN на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPS в MARKDOWN, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

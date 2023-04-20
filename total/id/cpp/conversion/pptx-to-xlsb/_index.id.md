@@ -1,6 +1,6 @@
 ---
 title: Konversi PPTX ke XLSB melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPTX ke XLSB dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPTX ke XLSB dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPTX ke XLSB gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

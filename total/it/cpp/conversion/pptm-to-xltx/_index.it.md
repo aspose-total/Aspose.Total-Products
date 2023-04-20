@@ -1,6 +1,6 @@
 ---
 title: Converti PPTM in XLTX tramite C++ o App online o con il convertitore online gratuito
-description: Esporta PPTM in XLTX in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta PPTM in XLTX in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPTM a XLTX prima di integrare il codice.
 
 family: total
 platformtag: cpp

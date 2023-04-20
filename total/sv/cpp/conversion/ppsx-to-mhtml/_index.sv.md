@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSX till MHTML via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera PPSX till MHTML i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPSX till MHTML i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPSX till MHTML online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

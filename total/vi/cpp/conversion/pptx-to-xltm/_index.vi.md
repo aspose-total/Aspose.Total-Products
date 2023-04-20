@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTX sang XLTM qua C++ hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất PPTX sang XLTM bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất PPTX sang XLTM bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPTX sang XLTM miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

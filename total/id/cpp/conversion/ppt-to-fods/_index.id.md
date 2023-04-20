@@ -1,6 +1,6 @@
 ---
 title: Konversi PPT ke FODS melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPT ke FODS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPT ke FODS dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPT ke FODS gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

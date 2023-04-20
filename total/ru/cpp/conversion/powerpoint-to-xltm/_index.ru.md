@@ -1,6 +1,6 @@
 ---
 title: Конвертировать POWERPOINT в XLTM через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
-description: Экспорт POWERPOINT в XLTM на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт POWERPOINT в XLTM на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POWERPOINT в XLTM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta PPSX a XLAM a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte PPSX a XLAM en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPSX a XLAM en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPSX a XLAM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převeďte POT do ODS přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POT do ODS v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POT do ODS v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na ODS.
 
 family: total
 platformtag: cpp

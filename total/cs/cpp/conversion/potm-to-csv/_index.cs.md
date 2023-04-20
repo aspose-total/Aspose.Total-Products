@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTM do CSV přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POTM do CSV v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POTM do CSV v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTM na CSV.
 
 family: total
 platformtag: cpp

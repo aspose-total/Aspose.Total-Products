@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar XLS via C++ of online-app of met gratis Online Converter
-description: Exporteer POTM naar XLS in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POTM naar XLS in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POTM naar XLS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: تحويل POTM إلى MARKDOWN عبر C++ أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت
-description: قم بتصدير POTM إلى MARKDOWN في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير POTM إلى MARKDOWN في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POTM إلى MARKDOWN على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na XLTX za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPS do XLTX w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPS do XLTX w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPS na XLTX przed integracją kodu.
 
 family: total
 platformtag: cpp

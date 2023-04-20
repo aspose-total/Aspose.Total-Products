@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in XLS tramite C++ o App online o con il convertitore online gratuito
-description: Esporta POTM in XLS in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta POTM in XLS in C++ senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POTM a XLS prima di integrare il codice.
 
 family: total
 platformtag: cpp

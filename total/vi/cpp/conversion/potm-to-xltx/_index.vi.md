@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POTM sang XLTX qua C++ hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất POTM sang XLTX bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất POTM sang XLTX bằng C++ mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POTM sang XLTX miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

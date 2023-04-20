@@ -1,6 +1,6 @@
 ---
 title: PPT'u C++ ile SXC'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C++'da SXC'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C++'da SXC'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPT'den SXC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

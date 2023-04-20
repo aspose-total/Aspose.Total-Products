@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTM-ot CSV-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPTM-ot CSV-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPTM-ot CSV-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-CSV online konvertert.
 
 family: total
 platformtag: cpp

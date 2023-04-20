@@ -1,6 +1,6 @@
 ---
 title: Konversi PPTM ke XLSB melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPTM ke XLSB dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPTM ke XLSB dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPTM ke XLSB gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

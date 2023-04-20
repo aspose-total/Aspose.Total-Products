@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX do DIF přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte PPTX do DIF v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPTX do DIF v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na DIF.
 
 family: total
 platformtag: cpp

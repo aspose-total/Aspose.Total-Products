@@ -1,6 +1,6 @@
 ---
 title: Конвертировать POTX в MHTML через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
-description: Экспорт POTX в MHTML на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт POTX в MHTML на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POTX в MHTML, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

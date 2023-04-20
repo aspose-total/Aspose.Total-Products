@@ -1,6 +1,6 @@
 ---
 title: Převeďte POWERPOINT do TSV přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POWERPOINT do TSV v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POWERPOINT do TSV v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na TSV.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POWERPOINT σε EXCEL μέσω C++ ή Online App ή με δωρεάν Online Converter
-description: Εξαγωγή POWERPOINT σε EXCEL σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή POWERPOINT σε EXCEL σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POWERPOINT σε EXCEL πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

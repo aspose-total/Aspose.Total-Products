@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPS σε XLSX μέσω C++ ή Online App ή με δωρεάν Online Converter
-description: Εξαγωγή PPS σε XLSX σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή PPS σε XLSX σε C++ χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPS σε XLSX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPT na XLSX za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPT do XLSX w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPT do XLSX w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPT na XLSX przed integracją kodu.
 
 family: total
 platformtag: cpp

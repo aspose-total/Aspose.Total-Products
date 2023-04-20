@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till MHTML via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera PPTX till MHTML i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPTX till MHTML i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPTX till MHTML online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

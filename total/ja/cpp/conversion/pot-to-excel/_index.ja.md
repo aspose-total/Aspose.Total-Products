@@ -1,6 +1,6 @@
 ---
 title: C++を介してPOTをEXCELに変換する またはオンラインアプリ または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOTをEXCELにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOTをEXCELにエクスポートする またはオンライン。コードを統合する前に、無料の POT から EXCEL へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

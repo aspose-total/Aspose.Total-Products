@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar MARKDOWN via C++ of online-app of met gratis Online Converter
-description: Exporteer POT naar MARKDOWN in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POT naar MARKDOWN in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar MARKDOWN online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na XLS za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj POT do XLS w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj POT do XLS w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na XLS przed integracją kodu.
 
 family: total
 platformtag: cpp

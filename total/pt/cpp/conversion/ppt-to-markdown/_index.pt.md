@@ -1,6 +1,6 @@
 ---
 title: Converter PPT para MARKDOWN via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte PPT para MARKDOWN em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPT para MARKDOWN em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPT para MARKDOWN rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

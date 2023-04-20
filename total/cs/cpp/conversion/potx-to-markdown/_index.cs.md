@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX do MARKDOWN přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POTX do MARKDOWN v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POTX do MARKDOWN v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na MARKDOWN.
 
 family: total
 platformtag: cpp

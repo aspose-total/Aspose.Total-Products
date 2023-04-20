@@ -1,6 +1,6 @@
 ---
 title: Converteer PPT naar TSV via C++ of online-app of met gratis Online Converter
-description: Exporteer PPT naar TSV in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPT naar TSV in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPT naar TSV online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSM ke DIF melalui C++ atau Aplikasi Daring atau dengan Konverter Online gratis
-description: Ekspor PPSM ke DIF dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPSM ke DIF dalam C++ tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPSM ke DIF gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

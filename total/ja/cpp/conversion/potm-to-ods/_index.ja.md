@@ -1,6 +1,6 @@
 ---
 title: C++を介してPOTMをODSに変換する またはオンラインアプリ または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOTMをODSにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOTMをODSにエクスポートする またはオンライン。コードを統合する前に、無料の POTM から ODS へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

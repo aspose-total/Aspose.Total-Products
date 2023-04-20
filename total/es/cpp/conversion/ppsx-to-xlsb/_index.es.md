@@ -1,6 +1,6 @@
 ---
 title: Convierta PPSX a XLSB a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte PPSX a XLSB en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPSX a XLSB en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPSX a XLSB rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

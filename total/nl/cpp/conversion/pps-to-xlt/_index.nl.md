@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar XLT via C++ of online-app of met gratis Online Converter
-description: Exporteer PPS naar XLT in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPS naar XLT in C++ zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPS naar XLT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

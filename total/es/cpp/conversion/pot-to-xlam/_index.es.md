@@ -1,6 +1,6 @@
 ---
 title: Convierta POT a XLAM a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte POT a XLAM en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte POT a XLAM en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a XLAM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

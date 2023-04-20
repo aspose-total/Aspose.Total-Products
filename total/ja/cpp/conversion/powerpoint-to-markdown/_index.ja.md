@@ -1,6 +1,6 @@
 ---
 title: C++を介してPOWERPOINTをMARKDOWNに変換する またはオンラインアプリ または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOWERPOINTをMARKDOWNにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftExcelまたはPowerpointを使用せずにC++でPOWERPOINTをMARKDOWNにエクスポートする またはオンライン。コードを統合する前に、無料の POWERPOINT から MARKDOWN へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

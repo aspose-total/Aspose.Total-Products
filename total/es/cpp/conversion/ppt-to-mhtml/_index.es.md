@@ -1,6 +1,6 @@
 ---
 title: Convierta PPT a MHTML a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte PPT a MHTML en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPT a MHTML en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPT a MHTML rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

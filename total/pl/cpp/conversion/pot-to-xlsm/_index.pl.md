@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na XLSM za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj POT do XLSM w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj POT do XLSM w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na XLSM przed integracją kodu.
 
 family: total
 platformtag: cpp

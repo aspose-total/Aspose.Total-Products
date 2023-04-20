@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-ot SXC-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPSM-ot SXC-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPSM-ot SXC-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-SXC online konvertert.
 
 family: total
 platformtag: cpp

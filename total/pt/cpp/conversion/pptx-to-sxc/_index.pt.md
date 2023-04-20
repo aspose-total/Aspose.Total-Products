@@ -1,6 +1,6 @@
 ---
 title: Converter PPTX para SXC via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte PPTX para SXC em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPTX para SXC em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTX para SXC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

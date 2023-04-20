@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 将 POT 转换为 CSV 或在线应用程序 或使用免费的在线转换器
-description: 在 C++ 中将 POT 导出为 CSV，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
+description: 在 C++ 中将 POT 导出为 CSV，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的  POT 到 CSV 在线转换器。
 
 family: total
 platformtag: cpp
@@ -43,7 +43,7 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费的 POT 到 CSV 在线转换器</h3>
+<h3>免费的  POT 到 CSV 在线转换器</h3>
 
 <iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=pot" id="child-iframe" width="80%"></iframe>
 
@@ -75,7 +75,7 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
                           <span itemprop="name"><b>如何在线将 POT 转换为 CSV？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">在线 POT 转换应用程序位于上方。要开始转换过程，您可以通过将 POT 文件拖放到白色区域或在该区域内单击以导入文档来添加 POT 文件。之后，单击“转换”按钮。 POT 到 CSV 的转换过程完成后，您只需单击一下即可下载转换后的文件。</span>
+                          <span itemprop="text">在线 POT 转换应用程序位于上方。要开始转换过程，您可以通过将 POT 文件拖放到白色区域或在该区域内单击以导入文档来添加 POT 文件。之后，单击“转换”按钮。  POT 到 CSV 的转换过程完成后，您只需单击一下即可下载转换后的文件。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

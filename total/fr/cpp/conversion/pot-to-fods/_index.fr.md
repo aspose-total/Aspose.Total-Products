@@ -1,6 +1,6 @@
 ---
 title: Convertir POT en FODS via C++ ou application en ligne ou avec le convertisseur en ligne gratuit
-description: Exporter POT vers FODS en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exporter POT vers FODS en C++ sans utiliser Microsoft Excel ou Powerpoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers FODS gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

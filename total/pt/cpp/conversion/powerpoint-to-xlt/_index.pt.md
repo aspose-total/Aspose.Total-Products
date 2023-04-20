@@ -1,6 +1,6 @@
 ---
 title: Converter POWERPOINT para XLT via C++ ou aplicativo on-line ou com o conversor online grátis
-description: Exporte POWERPOINT para XLT em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POWERPOINT para XLT em C++ sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POWERPOINT para XLT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

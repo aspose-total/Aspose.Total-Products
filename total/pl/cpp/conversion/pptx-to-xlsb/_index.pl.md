@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTX na XLSB za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPTX do XLSB w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPTX do XLSB w C++ bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPTX na XLSB przed integracją kodu.
 
 family: total
 platformtag: cpp

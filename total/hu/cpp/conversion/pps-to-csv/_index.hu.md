@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-ot CSV-vé a C++ segítségével vagy ingyenes online konverterrel
-description: Exportálja a PPS-ot CSV-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPS-ot CSV-be C++-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-CSV online konvertert.
 
 family: total
 platformtag: cpp

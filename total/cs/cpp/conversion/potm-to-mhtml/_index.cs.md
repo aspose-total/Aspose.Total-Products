@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTM do MHTML přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POTM do MHTML v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POTM do MHTML v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTM na MHTML.
 
 family: total
 platformtag: cpp

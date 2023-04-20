@@ -1,6 +1,6 @@
 ---
 title: تحويل PPSX إلى SXC عبر C++ أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت
-description: قم بتصدير PPSX إلى SXC في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير PPSX إلى SXC في C++ بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول PPSX إلى SXC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

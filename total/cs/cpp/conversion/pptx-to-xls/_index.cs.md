@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX do XLS přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte PPTX do XLS v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPTX do XLS v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na XLS.
 
 family: total
 platformtag: cpp

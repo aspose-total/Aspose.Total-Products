@@ -1,6 +1,6 @@
 ---
 title: Convierta PPS a MARKDOWN a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte PPS a MARKDOWN en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPS a MARKDOWN en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPS a MARKDOWN rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

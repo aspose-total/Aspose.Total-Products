@@ -1,6 +1,6 @@
 ---
 title: Конвертировать PPSM в MHTML через C++ или онлайн-приложение или с помощью бесплатного онлайн-конвертера
-description: Экспорт PPSM в MHTML на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт PPSM в MHTML на C++ без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPSM в MHTML, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

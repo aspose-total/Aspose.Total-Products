@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPT till FODS via C++ eller onlineapp eller med gratis Online Converter
-description: Exportera PPT till FODS i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPT till FODS i C++ utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPT till FODS online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

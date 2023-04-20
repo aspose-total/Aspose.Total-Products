@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX do XLTX přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte POTX do XLTX v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POTX do XLTX v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na XLTX.
 
 family: total
 platformtag: cpp

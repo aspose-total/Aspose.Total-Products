@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPTM über C++ in EXCEL oder Online-App oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPTM in C++ in EXCEL, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPTM in C++ in EXCEL, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPTM-zu-EXCEL-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

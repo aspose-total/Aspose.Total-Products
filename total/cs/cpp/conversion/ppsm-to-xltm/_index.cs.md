@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSM do XLTM přes C++ nebo online aplikace nebo pomocí bezplatného online převodníku
-description: Exportujte PPSM do XLTM v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPSM do XLTM v C++ bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na XLTM.
 
 family: total
 platformtag: cpp

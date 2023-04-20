@@ -1,6 +1,6 @@
 ---
 title: Convierta POTM a XLSX a través de C++ o aplicación en línea o con el convertidor en línea gratuito
-description: Exporte POTM a XLSX en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte POTM a XLSX en C++ sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POTM a XLSX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
