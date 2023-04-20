@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von POWERPOINT in DOC oder mit dem kostenlosen Online Converter
-description: Exportieren Sie POWERPOINT in DOC innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie POWERPOINT in DOC innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POWERPOINT-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

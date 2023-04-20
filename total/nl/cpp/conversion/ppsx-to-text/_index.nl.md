@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPSX naar TEXT te converteren of met gratis Online Converter
-description: Exporteer PPSX naar TEXT binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPSX naar TEXT binnen uw C++-toepassingen of online. Test de gratis PPSX naar TEXT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

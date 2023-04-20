@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPTX DOTM formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPTX-ot DOTM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPTX-ot DOTM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-DOTM online konvertert.
 
 family: total
 platformtag: cpp

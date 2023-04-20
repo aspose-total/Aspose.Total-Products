@@ -1,6 +1,6 @@
 ---
 title: PPSM'u RTF'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda PPSM'u RTF'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda PPSM'u RTF'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den RTF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

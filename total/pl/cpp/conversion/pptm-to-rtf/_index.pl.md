@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPTM na RTF lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPTM do RTF w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPTM do RTF w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPTM na RTF przed integracją kodu.
 
 family: total
 platformtag: cpp

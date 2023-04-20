@@ -1,6 +1,6 @@
 ---
 title: POTX'u DOTM'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda POTX'u DOTM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda POTX'u DOTM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTX'den DOTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

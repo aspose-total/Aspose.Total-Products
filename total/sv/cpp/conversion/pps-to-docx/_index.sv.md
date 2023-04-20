@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera PPS till DOCX eller med gratis Online Converter
-description: Exportera PPS till DOCX i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPS till DOCX i dina C++-applikationer eller online. Testa gratis PPS till DOCX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

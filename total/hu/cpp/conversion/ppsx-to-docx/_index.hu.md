@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPSX DOCX formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPSX-ot DOCX-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPSX-ot DOCX-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-DOCX online konvertert.
 
 family: total
 platformtag: cpp

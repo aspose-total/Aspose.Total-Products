@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPTM naar DOTX te converteren of met gratis Online Converter
-description: Exporteer PPTM naar DOTX binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPTM naar DOTX binnen uw C++-toepassingen of online. Test de gratis PPTM naar DOTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera POT till WORDML eller med gratis Online Converter
-description: Exportera POT till WORDML i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera POT till WORDML i dina C++-applikationer eller online. Testa gratis POT till WORDML online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

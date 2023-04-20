@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPT na DOTM lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPT do DOTM w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPT do DOTM w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPT na DOTM przed integracją kodu.
 
 family: total
 platformtag: cpp

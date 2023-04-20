@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir PPSX a DOCM o con el convertidor en línea gratuito
-description: Exporte PPSX a DOCM dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPSX a DOCM dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de PPSX a DOCM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

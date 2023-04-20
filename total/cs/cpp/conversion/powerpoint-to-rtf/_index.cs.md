@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod POWERPOINT na RTF nebo pomocí bezplatného online převodníku
-description: Exportujte POWERPOINT do RTF v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POWERPOINT do RTF v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na RTF.
 
 family: total
 platformtag: cpp

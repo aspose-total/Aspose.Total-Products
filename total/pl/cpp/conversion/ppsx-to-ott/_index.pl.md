@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPSX na OTT lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPSX do OTT w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPSX do OTT w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPSX na OTT przed integracją kodu.
 
 family: total
 platformtag: cpp

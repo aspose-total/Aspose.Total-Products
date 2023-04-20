@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von PPT in TEXT oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPT in TEXT innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPT in TEXT innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen PPT-zu-TEXT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

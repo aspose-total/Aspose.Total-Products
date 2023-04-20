@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi PPTX ke DOTX atau dengan Konverter Online gratis
-description: Ekspor PPTX ke DOTX dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPTX ke DOTX dalam aplikasi C++ Anda atau daring. Uji konverter online PPTX ke DOTX gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

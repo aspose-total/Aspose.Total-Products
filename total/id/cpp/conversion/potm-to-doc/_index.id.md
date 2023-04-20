@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi POTM ke DOC atau dengan Konverter Online gratis
-description: Ekspor POTM ke DOC dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POTM ke DOC dalam aplikasi C++ Anda atau daring. Uji konverter online POTM ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

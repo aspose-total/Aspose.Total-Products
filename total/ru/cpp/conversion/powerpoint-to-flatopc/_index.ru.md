@@ -1,6 +1,6 @@
 ---
 title: C++ API для преобразования POWERPOINT в FLATOPC или с помощью бесплатного онлайн-конвертера
-description: Экспорт POWERPOINT в FLATOPC в ваших приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспорт POWERPOINT в FLATOPC в ваших приложениях C++ или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POWERPOINT в FLATOPC, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

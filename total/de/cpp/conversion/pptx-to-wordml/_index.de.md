@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von PPTX in WORDML oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPTX in WORDML innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPTX in WORDML innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen PPTX-zu-WORDML-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

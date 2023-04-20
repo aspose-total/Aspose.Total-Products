@@ -1,6 +1,6 @@
 ---
 title: C++ API om POT naar DOCM te converteren of met gratis Online Converter
-description: Exporteer POT naar DOCM binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POT naar DOCM binnen uw C++-toepassingen of online. Test de gratis POT naar DOCM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

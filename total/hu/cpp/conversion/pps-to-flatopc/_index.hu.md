@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPS FLATOPC formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPS-ot FLATOPC-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPS-ot FLATOPC-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-FLATOPC online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi POTX ke RTF atau dengan Konverter Online gratis
-description: Ekspor POTX ke RTF dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POTX ke RTF dalam aplikasi C++ Anda atau daring. Uji konverter online POTX ke RTF gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

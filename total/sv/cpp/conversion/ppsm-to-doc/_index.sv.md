@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera PPSM till DOC eller med gratis Online Converter
-description: Exportera PPSM till DOC i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPSM till DOC i dina C++-applikationer eller online. Testa gratis PPSM till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

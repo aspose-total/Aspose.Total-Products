@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPS DOTM formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPS-ot DOTM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPS-ot DOTM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-DOTM online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir PPTX a FLATOPC o con el convertidor en línea gratuito
-description: Exporte PPTX a FLATOPC dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPTX a FLATOPC dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de PPTX a FLATOPC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

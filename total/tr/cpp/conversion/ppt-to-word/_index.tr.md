@@ -1,6 +1,6 @@
 ---
 title: PPT'u WORD'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda PPT'u WORD'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda PPT'u WORD'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPT'den WORD'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

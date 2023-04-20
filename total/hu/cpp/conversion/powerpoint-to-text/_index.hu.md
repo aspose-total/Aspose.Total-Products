@@ -1,6 +1,6 @@
 ---
 title: C++ API a POWERPOINT TEXT formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POWERPOINT-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POWERPOINT-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-TEXT online konvertert.
 
 family: total
 platformtag: cpp

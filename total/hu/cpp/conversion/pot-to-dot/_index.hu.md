@@ -1,6 +1,6 @@
 ---
 title: C++ API a POT DOT formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POT-ot DOT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POT-ot DOT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-DOT online konvertert.
 
 family: total
 platformtag: cpp

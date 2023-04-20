@@ -1,6 +1,6 @@
 ---
 title: API C++ pour convertir PPTM en OTT ou avec le convertisseur en ligne gratuit
-description: Exportez PPTM vers OTT dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez PPTM vers OTT dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne PPTM vers OTT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPT naar FLATOPC te converteren of met gratis Online Converter
-description: Exporteer PPT naar FLATOPC binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPT naar FLATOPC binnen uw C++-toepassingen of online. Test de gratis PPT naar FLATOPC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

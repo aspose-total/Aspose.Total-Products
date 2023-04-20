@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPTX TEXT formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPTX-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPTX-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-TEXT online konvertert.
 
 family: total
 platformtag: cpp

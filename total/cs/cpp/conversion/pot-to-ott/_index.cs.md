@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod POT na OTT nebo pomocí bezplatného online převodníku
-description: Exportujte POT do OTT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POT do OTT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na OTT.
 
 family: total
 platformtag: cpp

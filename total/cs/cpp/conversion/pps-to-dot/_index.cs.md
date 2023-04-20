@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPS na DOT nebo pomocí bezplatného online převodníku
-description: Exportujte PPS do DOT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPS do DOT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na DOT.
 
 family: total
 platformtag: cpp

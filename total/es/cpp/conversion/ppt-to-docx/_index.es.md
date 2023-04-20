@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir PPT a DOCX o con el convertidor en línea gratuito
-description: Exporte PPT a DOCX dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPT a DOCX dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de PPT a DOCX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

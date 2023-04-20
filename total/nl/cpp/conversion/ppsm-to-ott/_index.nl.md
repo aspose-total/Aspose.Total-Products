@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPSM naar OTT te converteren of met gratis Online Converter
-description: Exporteer PPSM naar OTT binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPSM naar OTT binnen uw C++-toepassingen of online. Test de gratis PPSM naar OTT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

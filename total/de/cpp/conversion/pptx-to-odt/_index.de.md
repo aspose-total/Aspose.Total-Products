@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von PPTX in ODT oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPTX in ODT innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPTX in ODT innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen PPTX-zu-ODT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

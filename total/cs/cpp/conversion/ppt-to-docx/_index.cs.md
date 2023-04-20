@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPT na DOCX nebo pomocí bezplatného online převodníku
-description: Exportujte PPT do DOCX v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPT do DOCX v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na DOCX.
 
 family: total
 platformtag: cpp

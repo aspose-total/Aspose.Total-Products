@@ -1,6 +1,6 @@
 ---
 title: PPTM'u DOTM'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda PPTM'u DOTM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda PPTM'u DOTM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTM'den DOTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPSX na ODT nebo pomocí bezplatného online převodníku
-description: Exportujte PPSX do ODT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPSX do ODT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na ODT.
 
 family: total
 platformtag: cpp

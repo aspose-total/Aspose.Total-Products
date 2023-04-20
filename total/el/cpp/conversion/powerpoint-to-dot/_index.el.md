@@ -1,6 +1,6 @@
 ---
 title: C++ API για Μετατροπή POWERPOINT σε DOT ή με δωρεάν Online Converter
-description: Εξαγωγή POWERPOINT σε DOT στις εφαρμογές σας C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή POWERPOINT σε DOT στις εφαρμογές σας C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POWERPOINT σε DOT πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

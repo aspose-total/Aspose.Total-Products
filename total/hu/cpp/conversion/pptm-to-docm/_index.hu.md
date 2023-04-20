@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPTM DOCM formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPTM-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPTM-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-DOCM online konvertert.
 
 family: total
 platformtag: cpp

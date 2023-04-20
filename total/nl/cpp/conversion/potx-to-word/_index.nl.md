@@ -1,6 +1,6 @@
 ---
 title: C++ API om POTX naar WORD te converteren of met gratis Online Converter
-description: Exporteer POTX naar WORD binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POTX naar WORD binnen uw C++-toepassingen of online. Test de gratis POTX naar WORD online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: PPSX'u OTT'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda PPSX'u OTT'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda PPSX'u OTT'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSX'den OTT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji POWERPOINT na DOTX lub za pomocą bezpłatnego konwertera online
-description: Eksportuj POWERPOINT do DOTX w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj POWERPOINT do DOTX w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POWERPOINT na DOTX przed integracją kodu.
 
 family: total
 platformtag: cpp

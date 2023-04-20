@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi PPT ke WORDML atau dengan Konverter Online gratis
-description: Ekspor PPT ke WORDML dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPT ke WORDML dalam aplikasi C++ Anda atau daring. Uji konverter online PPT ke WORDML gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

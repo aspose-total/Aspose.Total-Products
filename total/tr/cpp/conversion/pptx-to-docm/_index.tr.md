@@ -1,6 +1,6 @@
 ---
 title: PPTX'u DOCM'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda PPTX'u DOCM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda PPTX'u DOCM'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTX'den DOCM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

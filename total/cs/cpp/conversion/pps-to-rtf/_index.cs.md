@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPS na RTF nebo pomocí bezplatného online převodníku
-description: Exportujte PPS do RTF v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPS do RTF v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na RTF.
 
 family: total
 platformtag: cpp

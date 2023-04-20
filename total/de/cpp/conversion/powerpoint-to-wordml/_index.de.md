@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von POWERPOINT in WORDML oder mit dem kostenlosen Online Converter
-description: Exportieren Sie POWERPOINT in WORDML innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie POWERPOINT in WORDML innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POWERPOINT-zu-WORDML-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter POWERPOINT em ODT ou com o conversor online grátis
-description: Exporte POWERPOINT para ODT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POWERPOINT para ODT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POWERPOINT para ODT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

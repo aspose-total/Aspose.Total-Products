@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter POTX em TEXT ou com o conversor online grátis
-description: Exporte POTX para TEXT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POTX para TEXT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POTX para TEXT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod POTX na WORDML nebo pomocí bezplatného online převodníku
-description: Exportujte POTX do WORDML v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POTX do WORDML v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na WORDML.
 
 family: total
 platformtag: cpp

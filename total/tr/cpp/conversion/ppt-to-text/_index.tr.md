@@ -1,6 +1,6 @@
 ---
 title: PPT'u TEXT'a Dönüştürmek için C++ API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: C++ uygulamalarınızda PPT'u TEXT'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: C++ uygulamalarınızda PPT'u TEXT'a aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPT'den TEXT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

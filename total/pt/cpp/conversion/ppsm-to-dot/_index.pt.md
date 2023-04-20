@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter PPSM em DOT ou com o conversor online grátis
-description: Exporte PPSM para DOT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPSM para DOT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de PPSM para DOT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

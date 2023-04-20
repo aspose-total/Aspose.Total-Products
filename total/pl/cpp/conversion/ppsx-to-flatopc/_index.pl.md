@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPSX na FLATOPC lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPSX do FLATOPC w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPSX do FLATOPC w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPSX na FLATOPC przed integracją kodu.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPTM naar FLATOPC te converteren of met gratis Online Converter
-description: Exporteer PPTM naar FLATOPC binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPTM naar FLATOPC binnen uw C++-toepassingen of online. Test de gratis PPTM naar FLATOPC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

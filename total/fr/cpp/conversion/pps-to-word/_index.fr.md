@@ -1,6 +1,6 @@
 ---
 title: API C++ pour convertir PPS en WORD ou avec le convertisseur en ligne gratuit
-description: Exportez PPS vers WORD dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez PPS vers WORD dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne PPS vers WORD gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

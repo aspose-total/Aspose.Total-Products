@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPT na RTF lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPT do RTF w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPT do RTF w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPT na RTF przed integracją kodu.
 
 family: total
 platformtag: cpp

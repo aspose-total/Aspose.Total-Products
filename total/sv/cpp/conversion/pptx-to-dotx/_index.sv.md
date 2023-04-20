@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera PPTX till DOTX eller med gratis Online Converter
-description: Exportera PPTX till DOTX i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPTX till DOTX i dina C++-applikationer eller online. Testa gratis PPTX till DOTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

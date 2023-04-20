@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPS na WORDML lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPS do WORDML w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPS do WORDML w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPS na WORDML przed integracją kodu.
 
 family: total
 platformtag: cpp

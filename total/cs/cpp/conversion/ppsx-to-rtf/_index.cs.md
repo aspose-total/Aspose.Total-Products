@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPSX na RTF nebo pomocí bezplatného online převodníku
-description: Exportujte PPSX do RTF v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPSX do RTF v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na RTF.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPSM na DOTX nebo pomocí bezplatného online převodníku
-description: Exportujte PPSM do DOTX v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPSM do DOTX v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na DOTX.
 
 family: total
 platformtag: cpp

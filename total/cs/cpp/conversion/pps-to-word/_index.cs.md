@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPS na WORD nebo pomocí bezplatného online převodníku
-description: Exportujte PPS do WORD v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPS do WORD v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na WORD.
 
 family: total
 platformtag: cpp

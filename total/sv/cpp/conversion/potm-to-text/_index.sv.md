@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera POTM till TEXT eller med gratis Online Converter
-description: Exportera POTM till TEXT i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera POTM till TEXT i dina C++-applikationer eller online. Testa gratis POTM till TEXT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

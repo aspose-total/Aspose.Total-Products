@@ -1,6 +1,6 @@
 ---
 title: C++ API لتحويل PPTM إلى WORDML أو مع محول مجاني على الإنترنت
-description: قم بتصدير PPTM إلى WORDML داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير PPTM إلى WORDML داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول PPTM إلى WORDML على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

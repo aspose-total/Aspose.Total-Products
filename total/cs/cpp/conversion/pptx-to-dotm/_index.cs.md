@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPTX na DOTM nebo pomocí bezplatného online převodníku
-description: Exportujte PPTX do DOTM v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPTX do DOTM v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na DOTM.
 
 family: total
 platformtag: cpp

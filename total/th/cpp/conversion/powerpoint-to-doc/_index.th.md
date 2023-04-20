@@ -1,6 +1,6 @@
 ---
 title: C++ API เพื่อแปลง POWERPOINT เป็น DOC หรือด้วยตัวแปลงออนไลน์ฟรี
-description: ส่งออก POWERPOINT เป็น DOC ภายในแอปพลิเคชัน C++ ของคุณ หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: ส่งออก POWERPOINT เป็น DOC ภายในแอปพลิเคชัน C++ ของคุณ หรือทางออนไลน์ ทดสอบตัวแปลง POWERPOINT เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

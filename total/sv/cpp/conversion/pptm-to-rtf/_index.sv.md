@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera PPTM till RTF eller med gratis Online Converter
-description: Exportera PPTM till RTF i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPTM till RTF i dina C++-applikationer eller online. Testa gratis PPTM till RTF online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

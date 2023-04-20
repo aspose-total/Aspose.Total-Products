@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPSM DOCM formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPSM-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPSM-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-DOCM online konvertert.
 
 family: total
 platformtag: cpp

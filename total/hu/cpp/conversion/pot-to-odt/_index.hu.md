@@ -1,6 +1,6 @@
 ---
 title: C++ API a POT ODT formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POT-ot ODT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POT-ot ODT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-ODT online konvertert.
 
 family: total
 platformtag: cpp

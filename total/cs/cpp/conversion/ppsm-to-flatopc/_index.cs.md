@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPSM na FLATOPC nebo pomocí bezplatného online převodníku
-description: Exportujte PPSM do FLATOPC v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPSM do FLATOPC v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na FLATOPC.
 
 family: total
 platformtag: cpp

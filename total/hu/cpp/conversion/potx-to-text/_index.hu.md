@@ -1,6 +1,6 @@
 ---
 title: C++ API a POTX TEXT formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POTX-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POTX-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-TEXT online konvertert.
 
 family: total
 platformtag: cpp

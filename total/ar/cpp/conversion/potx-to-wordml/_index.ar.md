@@ -1,6 +1,6 @@
 ---
 title: C++ API لتحويل POTX إلى WORDML أو مع محول مجاني على الإنترنت
-description: قم بتصدير POTX إلى WORDML داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير POTX إلى WORDML داخل تطبيقات C++ الخاصة بك أو عبر الإنترنت. اختبر محول POTX إلى WORDML على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

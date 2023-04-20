@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter PPSM em RTF ou com o conversor online grátis
-description: Exporte PPSM para RTF em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPSM para RTF em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de PPSM para RTF rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

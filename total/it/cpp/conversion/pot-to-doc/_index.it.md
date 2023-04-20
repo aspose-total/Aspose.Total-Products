@@ -1,6 +1,6 @@
 ---
 title: API C++ per convertire POT in DOC o con il convertitore online gratuito
-description: Esporta POT in DOC all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta POT in DOC all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POT a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp

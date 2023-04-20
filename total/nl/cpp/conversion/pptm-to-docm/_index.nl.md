@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPTM naar DOCM te converteren of met gratis Online Converter
-description: Exporteer PPTM naar DOCM binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPTM naar DOCM binnen uw C++-toepassingen of online. Test de gratis PPTM naar DOCM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

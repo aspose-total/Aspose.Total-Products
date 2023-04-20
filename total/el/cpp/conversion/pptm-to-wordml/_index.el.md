@@ -1,6 +1,6 @@
 ---
 title: C++ API για Μετατροπή PPTM σε WORDML ή με δωρεάν Online Converter
-description: Εξαγωγή PPTM σε WORDML στις εφαρμογές σας C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή PPTM σε WORDML στις εφαρμογές σας C++ ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPTM σε WORDML πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

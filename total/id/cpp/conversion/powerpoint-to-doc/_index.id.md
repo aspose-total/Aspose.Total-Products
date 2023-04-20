@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi POWERPOINT ke DOC atau dengan Konverter Online gratis
-description: Ekspor POWERPOINT ke DOC dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor POWERPOINT ke DOC dalam aplikasi C++ Anda atau daring. Uji konverter online POWERPOINT ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

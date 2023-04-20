@@ -1,6 +1,6 @@
 ---
 title: C++ API om POT naar TEXT te converteren of met gratis Online Converter
-description: Exporteer POT naar TEXT binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POT naar TEXT binnen uw C++-toepassingen of online. Test de gratis POT naar TEXT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

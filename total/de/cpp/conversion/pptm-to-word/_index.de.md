@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von PPTM in WORD oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPTM in WORD innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPTM in WORD innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen PPTM-zu-WORD-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

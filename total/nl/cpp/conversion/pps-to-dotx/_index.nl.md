@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPS naar DOTX te converteren of met gratis Online Converter
-description: Exporteer PPS naar DOTX binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPS naar DOTX binnen uw C++-toepassingen of online. Test de gratis PPS naar DOTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

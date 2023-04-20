@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPS naar OTT te converteren of met gratis Online Converter
-description: Exporteer PPS naar OTT binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPS naar OTT binnen uw C++-toepassingen of online. Test de gratis PPS naar OTT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

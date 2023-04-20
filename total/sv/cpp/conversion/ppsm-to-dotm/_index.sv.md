@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera PPSM till DOTM eller med gratis Online Converter
-description: Exportera PPSM till DOTM i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPSM till DOTM i dina C++-applikationer eller online. Testa gratis PPSM till DOTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

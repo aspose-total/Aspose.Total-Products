@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir POWERPOINT a WORD o con el convertidor en línea gratuito
-description: Exporte POWERPOINT a WORD dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte POWERPOINT a WORD dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a WORD rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

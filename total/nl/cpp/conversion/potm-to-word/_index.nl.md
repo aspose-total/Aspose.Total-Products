@@ -1,6 +1,6 @@
 ---
 title: C++ API om POTM naar WORD te converteren of met gratis Online Converter
-description: Exporteer POTM naar WORD binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer POTM naar WORD binnen uw C++-toepassingen of online. Test de gratis POTM naar WORD online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter POT em ODT ou com o conversor online grátis
-description: Exporte POT para ODT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POT para ODT em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para ODT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

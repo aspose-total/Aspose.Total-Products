@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi PPT ke ODT atau dengan Konverter Online gratis
-description: Ekspor PPT ke ODT dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPT ke ODT dalam aplikasi C++ Anda atau daring. Uji konverter online PPT ke ODT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

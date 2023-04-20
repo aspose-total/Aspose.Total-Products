@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von PPTX in WORD oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPTX in WORD innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPTX in WORD innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen PPTX-zu-WORD-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

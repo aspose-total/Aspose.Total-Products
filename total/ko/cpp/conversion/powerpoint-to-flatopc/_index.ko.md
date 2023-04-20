@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT를 FLATOPC로 변환하는 C++ API 또는 무료 온라인 변환기 사용
-description: C++ 애플리케이션 내에서 POWERPOINT을 FLATOPC로 내보내기 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오.
+description: C++ 애플리케이션 내에서 POWERPOINT을 FLATOPC로 내보내기 또는 온라인. 코드를 통합하기 전에 무료 POWERPOINT to FLATOPC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp

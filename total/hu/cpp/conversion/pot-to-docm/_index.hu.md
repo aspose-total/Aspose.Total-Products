@@ -1,6 +1,6 @@
 ---
 title: C++ API a POT DOCM formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POT-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POT-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-DOCM online konvertert.
 
 family: total
 platformtag: cpp

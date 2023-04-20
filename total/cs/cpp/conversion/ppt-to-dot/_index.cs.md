@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod PPT na DOT nebo pomocí bezplatného online převodníku
-description: Exportujte PPT do DOT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte PPT do DOT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na DOT.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir PPSM a TEXT o con el convertidor en línea gratuito
-description: Exporte PPSM a TEXT dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPSM a TEXT dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de PPSM a TEXT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

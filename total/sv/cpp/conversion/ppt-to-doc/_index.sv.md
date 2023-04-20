@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera PPT till DOC eller med gratis Online Converter
-description: Exportera PPT till DOC i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera PPT till DOC i dina C++-applikationer eller online. Testa gratis PPT till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

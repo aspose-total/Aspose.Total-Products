@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi PPS ke DOT atau dengan Konverter Online gratis
-description: Ekspor PPS ke DOT dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPS ke DOT dalam aplikasi C++ Anda atau daring. Uji konverter online PPS ke DOT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

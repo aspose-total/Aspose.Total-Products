@@ -1,6 +1,6 @@
 ---
 title: C++ API a POTX DOCM formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POTX-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POTX-ot DOCM-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-DOCM online konvertert.
 
 family: total
 platformtag: cpp

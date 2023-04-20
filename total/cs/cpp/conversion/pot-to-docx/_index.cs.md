@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod POT na DOCX nebo pomocí bezplatného online převodníku
-description: Exportujte POT do DOCX v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POT do DOCX v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na DOCX.
 
 family: total
 platformtag: cpp

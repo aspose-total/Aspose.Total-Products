@@ -1,6 +1,6 @@
 ---
 title: C++ API a POTM WORDML formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POTM-ot WORDML-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POTM-ot WORDML-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-WORDML online konvertert.
 
 family: total
 platformtag: cpp

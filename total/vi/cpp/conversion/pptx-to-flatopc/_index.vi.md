@@ -1,6 +1,6 @@
 ---
 title: API C++ để chuyển đổi PPTX sang FLATOPC hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất PPTX sang FLATOPC trong các ứng dụng C++ của bạn hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất PPTX sang FLATOPC trong các ứng dụng C++ của bạn hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPTX sang FLATOPC miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

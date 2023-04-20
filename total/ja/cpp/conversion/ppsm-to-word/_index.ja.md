@@ -1,6 +1,6 @@
 ---
 title: PPSMをWORDに変換するC++API または無料のオンライン コンバーターを使用
-description: C++アプリケーション内でPPSMをWORDにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: C++アプリケーション内でPPSMをWORDにエクスポートする またはオンライン。コードを統合する前に、無料の PPSM から WORD へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

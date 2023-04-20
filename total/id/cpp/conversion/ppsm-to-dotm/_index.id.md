@@ -1,6 +1,6 @@
 ---
 title: C++ API untuk Mengonversi PPSM ke DOTM atau dengan Konverter Online gratis
-description: Ekspor PPSM ke DOTM dalam aplikasi C++ Anda atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor PPSM ke DOTM dalam aplikasi C++ Anda atau daring. Uji konverter online PPSM ke DOTM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

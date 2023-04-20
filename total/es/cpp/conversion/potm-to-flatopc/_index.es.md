@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir POTM a FLATOPC o con el convertidor en línea gratuito
-description: Exporte POTM a FLATOPC dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte POTM a FLATOPC dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POTM a FLATOPC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

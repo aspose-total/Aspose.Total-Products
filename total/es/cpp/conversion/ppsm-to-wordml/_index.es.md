@@ -1,6 +1,6 @@
 ---
 title: API de C++ para convertir PPSM a WORDML o con el convertidor en línea gratuito
-description: Exporte PPSM a WORDML dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte PPSM a WORDML dentro de sus aplicaciones C++ o en línea. Pruebe el convertidor en línea gratuito de PPSM a WORDML rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod POT na TEXT nebo pomocí bezplatného online převodníku
-description: Exportujte POT do TEXT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POT do TEXT v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na TEXT.
 
 family: total
 platformtag: cpp

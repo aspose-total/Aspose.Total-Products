@@ -1,6 +1,6 @@
 ---
 title: C++-API zum Konvertieren von PPSM in ODT oder mit dem kostenlosen Online Converter
-description: Exportieren Sie PPSM in ODT innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie PPSM in ODT innerhalb Ihrer C++-Anwendungen oder online. Testen Sie schnell den kostenlosen PPSM-zu-ODT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

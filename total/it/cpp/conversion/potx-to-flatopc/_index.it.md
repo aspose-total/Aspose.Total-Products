@@ -1,6 +1,6 @@
 ---
 title: API C++ per convertire POTX in FLATOPC o con il convertitore online gratuito
-description: Esporta POTX in FLATOPC all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta POTX in FLATOPC all'interno delle tue applicazioni C++ o in linea. Prova rapidamente il convertitore online gratuito da POTX a FLATOPC prima di integrare il codice.
 
 family: total
 platformtag: cpp

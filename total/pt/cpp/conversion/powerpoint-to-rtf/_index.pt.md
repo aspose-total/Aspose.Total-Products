@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter POWERPOINT em RTF ou com o conversor online grátis
-description: Exporte POWERPOINT para RTF em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POWERPOINT para RTF em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POWERPOINT para RTF rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

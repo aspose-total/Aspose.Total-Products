@@ -1,6 +1,6 @@
 ---
 title: API C++ pour convertir POTX en DOTM ou avec le convertisseur en ligne gratuit
-description: Exportez POTX vers DOTM dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez POTX vers DOTM dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POTX vers DOTM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

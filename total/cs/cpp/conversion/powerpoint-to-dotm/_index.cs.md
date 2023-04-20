@@ -1,6 +1,6 @@
 ---
 title: C++ API pro převod POWERPOINT na DOTM nebo pomocí bezplatného online převodníku
-description: Exportujte POWERPOINT do DOTM v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte POWERPOINT do DOTM v rámci vašich aplikací C++ nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na DOTM.
 
 family: total
 platformtag: cpp

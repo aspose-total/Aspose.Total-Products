@@ -1,6 +1,6 @@
 ---
 title: C++ API om PPSM naar DOCX te converteren of met gratis Online Converter
-description: Exporteer PPSM naar DOCX binnen uw C++-toepassingen of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer PPSM naar DOCX binnen uw C++-toepassingen of online. Test de gratis PPSM naar DOCX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

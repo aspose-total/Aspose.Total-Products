@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter PPSX em DOTM ou com o conversor online grátis
-description: Exporte PPSX para DOTM em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte PPSX para DOTM em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de PPSX para DOTM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

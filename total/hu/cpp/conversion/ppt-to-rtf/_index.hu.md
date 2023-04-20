@@ -1,6 +1,6 @@
 ---
 title: C++ API a PPT RTF formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a PPT-ot RTF-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a PPT-ot RTF-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-RTF online konvertert.
 
 family: total
 platformtag: cpp

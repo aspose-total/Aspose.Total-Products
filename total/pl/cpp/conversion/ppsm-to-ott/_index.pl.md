@@ -1,6 +1,6 @@
 ---
 title: C++ API do konwersji PPSM na OTT lub za pomocą bezpłatnego konwertera online
-description: Eksportuj PPSM do OTT w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj PPSM do OTT w swoich aplikacjach C++ lub online. Szybko przetestuj darmowy konwerter online PPSM na OTT przed integracją kodu.
 
 family: total
 platformtag: cpp

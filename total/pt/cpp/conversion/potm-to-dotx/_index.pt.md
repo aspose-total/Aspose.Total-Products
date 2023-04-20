@@ -1,6 +1,6 @@
 ---
 title: API C++ para converter POTM em DOTX ou com o conversor online grátis
-description: Exporte POTM para DOTX em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte POTM para DOTX em seus aplicativos C++ ou on-line. Teste o conversor online gratuito de POTM para DOTX rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

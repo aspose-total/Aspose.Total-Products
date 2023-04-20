@@ -1,6 +1,6 @@
 ---
 title: API C++ pour convertir POT en FLATOPC ou avec le convertisseur en ligne gratuit
-description: Exportez POT vers FLATOPC dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez POT vers FLATOPC dans vos applications C++ ou en ligne. Testez rapidement le convertisseur en ligne POT vers FLATOPC gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

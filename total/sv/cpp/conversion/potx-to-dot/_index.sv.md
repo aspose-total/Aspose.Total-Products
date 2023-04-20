@@ -1,6 +1,6 @@
 ---
 title: C++ API för att konvertera POTX till DOT eller med gratis Online Converter
-description: Exportera POTX till DOT i dina C++-applikationer eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera POTX till DOT i dina C++-applikationer eller online. Testa gratis POTX till DOT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

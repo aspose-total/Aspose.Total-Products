@@ -1,6 +1,6 @@
 ---
 title: C++ API a POTM TEXT formátumba konvertálásához vagy ingyenes online konverterrel
-description: Exportálja a POTM-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportálja a POTM-ot TEXT-ba a C++ alkalmazásaiban vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-TEXT online konvertert.
 
 family: total
 platformtag: cpp
