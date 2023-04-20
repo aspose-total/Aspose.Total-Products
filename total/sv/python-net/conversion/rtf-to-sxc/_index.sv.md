@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till SXC med Python eller med gratis Online Converter
-description: RTF till SXC-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: RTF till SXC-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis RTF till SXC online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

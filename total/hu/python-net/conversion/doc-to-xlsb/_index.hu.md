@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t XLSB-be Python segítségével vagy ingyenes online konverterrel
-description: DOC-ből XLSB-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOC-ből XLSB-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-XLSB online konvertert. 
 
 family: total
 platformtag: Python

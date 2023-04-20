@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOTM na FODS pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOTM na FODS ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOTM na FODS ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na FODS. 
 
 family: total
 platformtag: Python

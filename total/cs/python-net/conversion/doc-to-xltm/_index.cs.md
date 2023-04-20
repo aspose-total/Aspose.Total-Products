@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOC na XLTM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOC na XLTM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOC na XLTM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLTM. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertera ODT till SXC med Python eller med gratis Online Converter
-description: ODT till SXC-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: ODT till SXC-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis ODT till SXC online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

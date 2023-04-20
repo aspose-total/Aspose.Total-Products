@@ -1,6 +1,6 @@
 ---
 title: Konwertuj RTF na XLT za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja RTF na XLT w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja RTF na XLT w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online RTF na XLT przed integracją kodu. 
 
 family: total
 platformtag: Python

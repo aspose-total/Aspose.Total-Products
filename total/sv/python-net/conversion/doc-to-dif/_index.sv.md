@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOC till DIF med Python eller med gratis Online Converter
-description: DOC till DIF-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: DOC till DIF-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis DOC till DIF online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

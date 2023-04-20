@@ -1,6 +1,6 @@
 ---
 title: Konversikan OTT ke XLTX menggunakan Python atau dengan Konverter Online gratis
-description: Konversi OTT ke XLTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi OTT ke XLTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online OTT ke XLTX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

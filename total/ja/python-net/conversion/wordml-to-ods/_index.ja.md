@@ -1,6 +1,6 @@
 ---
 title: Python を使用して WORDML を ODS に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や Excel を使用せずに、Python アプリケーションで WORDML から ODS への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や Excel を使用せずに、Python アプリケーションで WORDML から ODS への変換 またはオンライン。コードを統合する前に、無料の WORDML から ODS へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

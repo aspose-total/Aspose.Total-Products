@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t CSV-be Python segítségével vagy ingyenes online konverterrel
-description: OTT-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: OTT-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-CSV online konvertert. 
 
 family: total
 platformtag: Python

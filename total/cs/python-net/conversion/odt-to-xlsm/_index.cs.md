@@ -1,6 +1,6 @@
 ---
 title: Převeďte ODT na XLSM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod ODT na XLSM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod ODT na XLSM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLSM. 
 
 family: total
 platformtag: Python

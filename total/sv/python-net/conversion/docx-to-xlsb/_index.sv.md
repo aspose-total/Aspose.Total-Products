@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCX till XLSB med Python eller med gratis Online Converter
-description: DOCX till XLSB-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: DOCX till XLSB-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis DOCX till XLSB online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

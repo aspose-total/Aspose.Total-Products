@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t TSV-be Python segítségével vagy ingyenes online konverterrel
-description: RTF-ből TSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: RTF-ből TSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-TSV online konvertert. 
 
 family: total
 platformtag: Python

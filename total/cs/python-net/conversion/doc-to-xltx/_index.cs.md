@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOC na XLTX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOC na XLTX ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOC na XLTX ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLTX. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Convierte WORDML a XLSM usando Python o con el convertidor en línea gratuito
-description: Conversión de WORDML a XLSM en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de WORDML a XLSM en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de WORDML a XLSM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

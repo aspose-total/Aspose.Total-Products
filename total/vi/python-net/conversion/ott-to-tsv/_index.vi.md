@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi OTT sang TSV bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi OTT sang TSV trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi OTT sang TSV trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến OTT sang TSV miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

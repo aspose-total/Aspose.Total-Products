@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MOBI-t DIF-be Python segítségével vagy ingyenes online konverterrel
-description: MOBI-ből DIF-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: MOBI-ből DIF-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-DIF online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till EXCEL med Python eller med gratis Online Converter
-description: OTT till EXCEL-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: OTT till EXCEL-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis OTT till EXCEL online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

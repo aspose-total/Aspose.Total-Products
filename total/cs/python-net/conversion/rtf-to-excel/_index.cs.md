@@ -1,6 +1,6 @@
 ---
 title: Převeďte RTF na EXCEL pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod RTF na EXCEL ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod RTF na EXCEL ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na EXCEL. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOTX na XLSM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOTX na XLSM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOTX na XLSM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na XLSM. 
 
 family: total
 platformtag: Python

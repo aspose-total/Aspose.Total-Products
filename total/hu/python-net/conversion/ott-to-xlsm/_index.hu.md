@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t XLSM-be Python segítségével vagy ingyenes online konverterrel
-description: OTT-ből XLSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: OTT-ből XLSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-XLSM online konvertert. 
 
 family: total
 platformtag: Python

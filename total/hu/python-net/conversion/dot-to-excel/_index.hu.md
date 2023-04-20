@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: DOT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

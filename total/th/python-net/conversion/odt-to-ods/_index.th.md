@@ -1,6 +1,6 @@
 ---
 title: แปลง ODT เป็น ODS โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง ODT เป็น ODS ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง ODT เป็น ODS ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง ODT เป็น ODS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

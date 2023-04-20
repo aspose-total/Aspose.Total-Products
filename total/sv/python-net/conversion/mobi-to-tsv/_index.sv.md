@@ -1,6 +1,6 @@
 ---
 title: Konvertera MOBI till TSV med Python eller med gratis Online Converter
-description: MOBI till TSV-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: MOBI till TSV-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis MOBI till TSV online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

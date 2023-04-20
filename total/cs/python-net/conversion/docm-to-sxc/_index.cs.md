@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOCM na SXC pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOCM na SXC ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOCM na SXC ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na SXC. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak DOTX'yi ODS'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan DOTX'den ODS'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan DOTX'den ODS'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTX'den ODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

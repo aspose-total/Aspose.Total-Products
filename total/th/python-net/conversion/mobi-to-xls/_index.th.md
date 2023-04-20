@@ -1,6 +1,6 @@
 ---
 title: แปลง MOBI เป็น XLS โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง MOBI เป็น XLS ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง MOBI เป็น XLS ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง MOBI เป็น XLS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

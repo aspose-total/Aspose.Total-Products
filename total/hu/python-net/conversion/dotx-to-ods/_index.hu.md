@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t ODS-be Python segítségével vagy ingyenes online konverterrel
-description: DOTX-ből ODS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTX-ből ODS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-ODS online konvertert. 
 
 family: total
 platformtag: Python

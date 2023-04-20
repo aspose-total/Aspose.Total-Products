@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOTM na XLSB za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOTM na XLSB w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOTM na XLSB w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online DOTM na XLSB przed integracją kodu. 
 
 family: total
 platformtag: Python

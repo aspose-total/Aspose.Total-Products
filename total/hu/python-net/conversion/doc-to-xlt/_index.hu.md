@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t XLT-be Python segítségével vagy ingyenes online konverterrel
-description: DOC-ből XLT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOC-ből XLT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-XLT online konvertert. 
 
 family: total
 platformtag: Python

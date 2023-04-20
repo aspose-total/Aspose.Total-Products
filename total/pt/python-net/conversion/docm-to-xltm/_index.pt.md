@@ -1,6 +1,6 @@
 ---
 title: Converter DOCM para XLTM usando Python ou com o conversor online gratuito
-description: Conversão de DOCM para XLTM em seus aplicativos Python sem usar o Microsoft Word ou Excel ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de DOCM para XLTM em seus aplicativos Python sem usar o Microsoft Word ou Excel ou on-line. Teste o conversor online gratuito de DOCM para XLTM rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

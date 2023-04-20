@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCX σε XLSM χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή DOCX σε XLSM στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOCX σε XLSM στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCX σε XLSM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

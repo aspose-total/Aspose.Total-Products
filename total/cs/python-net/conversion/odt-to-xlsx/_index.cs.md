@@ -1,6 +1,6 @@
 ---
 title: Převeďte ODT na XLSX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod ODT na XLSX ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod ODT na XLSX ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLSX. 
 
 family: total
 platformtag: Python

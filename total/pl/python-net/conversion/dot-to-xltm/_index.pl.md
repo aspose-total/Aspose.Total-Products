@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOT na XLTM za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOT na XLTM w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOT na XLTM w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online DOT na XLTM przed integracją kodu. 
 
 family: total
 platformtag: Python

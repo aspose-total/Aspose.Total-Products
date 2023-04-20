@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: DOC-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOC-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

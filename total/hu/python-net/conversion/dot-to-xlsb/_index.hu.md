@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t XLSB-be Python segítségével vagy ingyenes online konverterrel
-description: DOT-ből XLSB-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOT-ből XLSB-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-XLSB online konvertert. 
 
 family: total
 platformtag: Python

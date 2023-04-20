@@ -1,6 +1,6 @@
 ---
 title: Konwertuj OTT na DIF za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja OTT na DIF w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja OTT na DIF w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online OTT na DIF przed integracją kodu. 
 
 family: total
 platformtag: Python

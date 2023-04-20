@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCM na TSV za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOCM na TSV w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOCM na TSV w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online DOCM na TSV przed integracją kodu. 
 
 family: total
 platformtag: Python

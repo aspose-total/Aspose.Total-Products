@@ -1,6 +1,6 @@
 ---
 title: Convertir DOCM en SXC en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion DOCM en SXC dans vos applications Python sans utiliser Microsoft Word ou Excel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion DOCM en SXC dans vos applications Python sans utiliser Microsoft Word ou Excel ou en ligne. Testez rapidement le convertisseur en ligne DOCM vers SXC gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

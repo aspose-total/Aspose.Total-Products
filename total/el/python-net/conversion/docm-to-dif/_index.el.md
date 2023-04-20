@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCM σε DIF χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή DOCM σε DIF στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOCM σε DIF στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCM σε DIF πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

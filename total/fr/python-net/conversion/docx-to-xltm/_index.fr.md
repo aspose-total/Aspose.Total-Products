@@ -1,6 +1,6 @@
 ---
 title: Convertir DOCX en XLTM en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion DOCX en XLTM dans vos applications Python sans utiliser Microsoft Word ou Excel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion DOCX en XLTM dans vos applications Python sans utiliser Microsoft Word ou Excel ou en ligne. Testez rapidement le convertisseur en ligne DOCX vers XLTM gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

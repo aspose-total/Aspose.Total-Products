@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak DOT'yi SXC'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan DOT'den SXC'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan DOT'den SXC'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOT'den SXC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t SXC-be Python segítségével vagy ingyenes online konverterrel
-description: DOCX-ből SXC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOCX-ből SXC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-SXC online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie WORDML in XLSB mit Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von WORDML in XLSB in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder Excel oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von WORDML in XLSB in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder Excel oder online. Testen Sie schnell den kostenlosen WORDML-zu-XLSB-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

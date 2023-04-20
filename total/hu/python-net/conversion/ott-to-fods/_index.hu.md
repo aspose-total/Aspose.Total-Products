@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t FODS-be Python segítségével vagy ingyenes online konverterrel
-description: OTT-ből FODS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: OTT-ből FODS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-FODS online konvertert. 
 
 family: total
 platformtag: Python

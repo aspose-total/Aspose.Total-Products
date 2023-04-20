@@ -1,6 +1,6 @@
 ---
 title: Converteer DOCX naar SXC met behulp van Python of met gratis Online Converter
-description: DOCX naar SXC-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOCX naar SXC-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis DOCX naar SXC online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

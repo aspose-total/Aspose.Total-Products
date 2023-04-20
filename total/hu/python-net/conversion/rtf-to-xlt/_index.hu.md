@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t XLT-be Python segítségével vagy ingyenes online konverterrel
-description: RTF-ből XLT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: RTF-ből XLT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-XLT online konvertert. 
 
 family: total
 platformtag: Python

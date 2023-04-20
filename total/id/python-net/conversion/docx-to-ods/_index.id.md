@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOCX ke ODS menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOCX ke ODS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCX ke ODS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOCX ke ODS gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

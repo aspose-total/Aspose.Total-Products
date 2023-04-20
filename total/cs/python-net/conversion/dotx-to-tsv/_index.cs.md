@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOTX na TSV pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOTX na TSV ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOTX na TSV ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na TSV. 
 
 family: total
 platformtag: Python

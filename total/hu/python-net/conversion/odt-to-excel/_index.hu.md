@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODT-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: ODT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: ODT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

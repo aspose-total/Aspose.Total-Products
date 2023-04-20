@@ -1,6 +1,6 @@
 ---
 title: Python を使用して WORD を XLAM に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や Excel を使用せずに、Python アプリケーションで WORD から XLAM への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や Excel を使用せずに、Python アプリケーションで WORD から XLAM への変換 またはオンライン。コードを統合する前に、無料の WORD から XLAM へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

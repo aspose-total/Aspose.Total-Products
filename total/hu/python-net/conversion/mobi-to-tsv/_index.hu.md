@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MOBI-t TSV-be Python segítségével vagy ingyenes online konverterrel
-description: MOBI-ből TSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: MOBI-ből TSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-TSV online konvertert. 
 
 family: total
 platformtag: Python

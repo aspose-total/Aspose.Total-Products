@@ -1,6 +1,6 @@
 ---
 title: Konvertera ODT till XLSM med Python eller med gratis Online Converter
-description: ODT till XLSM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: ODT till XLSM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis ODT till XLSM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

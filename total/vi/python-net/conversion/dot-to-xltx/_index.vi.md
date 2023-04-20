@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOT sang XLTX bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOT sang XLTX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi DOT sang XLTX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến DOT sang XLTX miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

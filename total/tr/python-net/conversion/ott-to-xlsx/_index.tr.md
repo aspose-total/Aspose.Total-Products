@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak OTT'yi XLSX'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan OTT'den XLSX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan OTT'den XLSX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz OTT'den XLSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

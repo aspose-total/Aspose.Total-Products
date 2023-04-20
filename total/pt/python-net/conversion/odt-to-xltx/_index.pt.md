@@ -1,6 +1,6 @@
 ---
 title: Converter ODT para XLTX usando Python ou com o conversor online gratuito
-description: Conversão de ODT para XLTX em seus aplicativos Python sem usar o Microsoft Word ou Excel ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de ODT para XLTX em seus aplicativos Python sem usar o Microsoft Word ou Excel ou on-line. Teste o conversor online gratuito de ODT para XLTX rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

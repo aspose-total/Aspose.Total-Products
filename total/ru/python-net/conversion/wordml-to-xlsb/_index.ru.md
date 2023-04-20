@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в XLSB с помощью Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование WORDML в XLSB в ваших приложениях Python без использования Microsoft Word или Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование WORDML в XLSB в ваших приложениях Python без использования Microsoft Word или Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORDML в XLSB, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

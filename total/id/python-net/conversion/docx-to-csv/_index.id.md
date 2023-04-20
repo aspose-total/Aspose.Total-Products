@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOCX ke CSV menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOCX ke CSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCX ke CSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOCX ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

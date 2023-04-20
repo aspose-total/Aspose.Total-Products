@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t XLTX-be Python segítségével vagy ingyenes online konverterrel
-description: OTT-ből XLTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: OTT-ből XLTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-XLTX online konvertert. 
 
 family: total
 platformtag: Python

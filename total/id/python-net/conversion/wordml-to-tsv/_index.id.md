@@ -1,6 +1,6 @@
 ---
 title: Konversikan WORDML ke TSV menggunakan Python atau dengan Konverter Online gratis
-description: Konversi WORDML ke TSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi WORDML ke TSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online WORDML ke TSV gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

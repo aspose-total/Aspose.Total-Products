@@ -1,6 +1,6 @@
 ---
 title: 使用 Python 將 OTT 轉換為 XLTX 或使用免費的在線轉換器
-description: 在不使用 Microsoft Word 或 Excel 的 Python 應用程序中將 OTT 轉換為 XLTX 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
+description: 在不使用 Microsoft Word 或 Excel 的 Python 應用程序中將 OTT 轉換為 XLTX 或在線。在集成代碼之前快速測試免費的 OTT 到 XLTX 在線轉換器。 
 
 family: total
 platformtag: Python

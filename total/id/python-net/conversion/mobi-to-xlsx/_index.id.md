@@ -1,6 +1,6 @@
 ---
 title: Konversikan MOBI ke XLSX menggunakan Python atau dengan Konverter Online gratis
-description: Konversi MOBI ke XLSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi MOBI ke XLSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online MOBI ke XLSX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCM-t CSV-be Python segítségével vagy ingyenes online konverterrel
-description: DOCM-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOCM-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-CSV online konvertert. 
 
 family: total
 platformtag: Python

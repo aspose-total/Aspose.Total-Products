@@ -1,6 +1,6 @@
 ---
 title: Převeďte ODT na XLT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod ODT na XLT ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod ODT na XLT ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLT. 
 
 family: total
 platformtag: Python

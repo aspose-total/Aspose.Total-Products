@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCM إلى FODS باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل DOCM إلى FODS في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل DOCM إلى FODS في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول DOCM إلى FODS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCM-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: DOCM-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOCM-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

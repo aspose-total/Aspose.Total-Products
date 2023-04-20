@@ -1,6 +1,6 @@
 ---
 title: تحويل OTT إلى XLT باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل OTT إلى XLT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل OTT إلى XLT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول OTT إلى XLT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

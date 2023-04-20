@@ -1,6 +1,6 @@
 ---
 title: Převeďte WORD na ODS pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod WORD na ODS ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod WORD na ODS ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na ODS. 
 
 family: total
 platformtag: Python

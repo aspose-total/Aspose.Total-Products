@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOC na XLSB pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOC na XLSB ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOC na XLSB ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLSB. 
 
 family: total
 platformtag: Python

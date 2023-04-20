@@ -1,6 +1,6 @@
 ---
 title: Konvertera WORD till XLSM med Python eller med gratis Online Converter
-description: WORD till XLSM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: WORD till XLSM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis WORD till XLSM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converti DOC in XLS usando Python o con il convertitore online gratuito
-description: Conversione da DOC a XLS nelle tue applicazioni Python senza utilizzare Microsoft Word o Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da DOC a XLS nelle tue applicazioni Python senza utilizzare Microsoft Word o Excel o in linea. Prova rapidamente il convertitore online gratuito da DOC a XLS prima di integrare il codice. 
 
 family: total
 platformtag: Python

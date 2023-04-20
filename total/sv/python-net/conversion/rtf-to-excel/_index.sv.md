@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till EXCEL med Python eller med gratis Online Converter
-description: RTF till EXCEL-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: RTF till EXCEL-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis RTF till EXCEL online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

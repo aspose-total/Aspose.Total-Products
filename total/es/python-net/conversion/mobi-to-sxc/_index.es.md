@@ -1,6 +1,6 @@
 ---
 title: Convierte MOBI a SXC usando Python o con el convertidor en línea gratuito
-description: Conversión de MOBI a SXC en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de MOBI a SXC en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de MOBI a SXC rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

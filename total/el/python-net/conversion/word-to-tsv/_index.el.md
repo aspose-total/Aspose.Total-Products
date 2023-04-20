@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή WORD σε TSV χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή WORD σε TSV στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή WORD σε TSV στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORD σε TSV πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTM σε XLAM χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή DOTM σε XLAM στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOTM σε XLAM στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε XLAM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

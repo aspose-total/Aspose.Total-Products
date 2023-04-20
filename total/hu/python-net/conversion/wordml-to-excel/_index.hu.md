@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORDML-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: WORDML-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: WORDML-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Convierte ODT a XLT usando Python o con el convertidor en línea gratuito
-description: Conversión de ODT a XLT en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de ODT a XLT en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de ODT a XLT rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

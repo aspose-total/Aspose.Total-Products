@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOTM ke FODS menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOTM ke FODS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOTM ke FODS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOTM ke FODS gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

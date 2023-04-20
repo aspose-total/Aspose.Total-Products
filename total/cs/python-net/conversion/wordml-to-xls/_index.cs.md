@@ -1,6 +1,6 @@
 ---
 title: Převeďte WORDML na XLS pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod WORDML na XLS ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod WORDML na XLS ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na XLS. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převeďte MOBI na XLT pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod MOBI na XLT ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod MOBI na XLT ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLT. 
 
 family: total
 platformtag: Python

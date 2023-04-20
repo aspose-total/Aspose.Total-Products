@@ -1,6 +1,6 @@
 ---
 title: Python を使用して DOCX を DIF に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や Excel を使用せずに、Python アプリケーションで DOCX から DIF への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や Excel を使用せずに、Python アプリケーションで DOCX から DIF への変換 またはオンライン。コードを統合する前に、無料の DOCX から DIF へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOCM ke XLTX menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOCM ke XLTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCM ke XLTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOCM ke XLTX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: แปลง OTT เป็น XLSM โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง OTT เป็น XLSM ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง OTT เป็น XLSM ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง OTT เป็น XLSM ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

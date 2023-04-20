@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOTX ke EXCEL menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOTX ke EXCEL dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOTX ke EXCEL dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOTX ke EXCEL gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

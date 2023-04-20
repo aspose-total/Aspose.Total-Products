@@ -1,6 +1,6 @@
 ---
 title: Převeďte DOCX na XLSM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOCX na XLSM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOCX na XLSM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na XLSM. 
 
 family: total
 platformtag: Python

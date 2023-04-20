@@ -1,6 +1,6 @@
 ---
 title: Converteer DOCM naar EXCEL met behulp van Python of met gratis Online Converter
-description: DOCM naar EXCEL-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOCM naar EXCEL-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis DOCM naar EXCEL online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

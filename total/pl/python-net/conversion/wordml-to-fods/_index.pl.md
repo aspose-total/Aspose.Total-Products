@@ -1,6 +1,6 @@
 ---
 title: Konwertuj WORDML na FODS za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja WORDML na FODS w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja WORDML na FODS w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online WORDML na FODS przed integracją kodu. 
 
 family: total
 platformtag: Python

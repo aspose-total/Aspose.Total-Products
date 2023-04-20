@@ -1,6 +1,6 @@
 ---
 title: Converteer DOT naar XLSX met behulp van Python of met gratis Online Converter
-description: DOT naar XLSX-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOT naar XLSX-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis DOT naar XLSX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

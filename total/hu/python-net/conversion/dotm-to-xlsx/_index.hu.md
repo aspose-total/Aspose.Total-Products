@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t XLSX-be Python segítségével vagy ingyenes online konverterrel
-description: DOTM-ből XLSX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTM-ből XLSX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-XLSX online konvertert. 
 
 family: total
 platformtag: Python

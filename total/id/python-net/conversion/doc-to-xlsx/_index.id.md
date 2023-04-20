@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOC ke XLSX menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOC ke XLSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOC ke XLSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOC ke XLSX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

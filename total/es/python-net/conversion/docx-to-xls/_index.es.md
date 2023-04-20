@@ -1,6 +1,6 @@
 ---
 title: Convierte DOCX a XLS usando Python o con el convertidor en línea gratuito
-description: Conversión de DOCX a XLS en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de DOCX a XLS en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de DOCX a XLS rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

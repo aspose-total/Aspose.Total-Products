@@ -1,6 +1,6 @@
 ---
 title: Convierte DOCX a XLTX usando Python o con el convertidor en línea gratuito
-description: Conversión de DOCX a XLTX en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de DOCX a XLTX en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de DOCX a XLTX rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

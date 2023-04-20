@@ -1,6 +1,6 @@
 ---
 title: Převeďte MOBI na EXCEL pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod MOBI na EXCEL ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod MOBI na EXCEL ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na EXCEL. 
 
 family: total
 platformtag: Python

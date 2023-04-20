@@ -1,6 +1,6 @@
 ---
 title: Konvertera WORD till FODS med Python eller med gratis Online Converter
-description: WORD till FODS-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: WORD till FODS-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis WORD till FODS online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

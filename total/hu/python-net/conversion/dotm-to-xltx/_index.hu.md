@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t XLTX-be Python segítségével vagy ingyenes online konverterrel
-description: DOTM-ből XLTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTM-ből XLTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-XLTX online konvertert. 
 
 family: total
 platformtag: Python

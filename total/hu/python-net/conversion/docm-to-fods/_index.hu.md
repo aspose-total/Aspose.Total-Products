@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCM-t FODS-be Python segítségével vagy ingyenes online konverterrel
-description: DOCM-ből FODS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOCM-ből FODS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-FODS online konvertert. 
 
 family: total
 platformtag: Python

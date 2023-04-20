@@ -1,6 +1,6 @@
 ---
 title: Konversikan WORD ke XLT menggunakan Python atau dengan Konverter Online gratis
-description: Konversi WORD ke XLT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi WORD ke XLT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online WORD ke XLT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

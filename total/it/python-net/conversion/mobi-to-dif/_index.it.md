@@ -1,6 +1,6 @@
 ---
 title: Converti MOBI in DIF usando Python o con il convertitore online gratuito
-description: Conversione da MOBI a DIF nelle tue applicazioni Python senza utilizzare Microsoft Word o Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da MOBI a DIF nelle tue applicazioni Python senza utilizzare Microsoft Word o Excel o in linea. Prova rapidamente il convertitore online gratuito da MOBI a DIF prima di integrare il codice. 
 
 family: total
 platformtag: Python

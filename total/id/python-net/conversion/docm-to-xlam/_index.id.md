@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOCM ke XLAM menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOCM ke XLAM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCM ke XLAM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOCM ke XLAM gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

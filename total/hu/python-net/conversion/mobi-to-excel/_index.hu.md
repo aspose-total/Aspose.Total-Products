@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MOBI-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: MOBI-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: MOBI-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

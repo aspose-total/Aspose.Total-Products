@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCM na XLSX za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOCM na XLSX w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOCM na XLSX w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online DOCM na XLSX przed integracją kodu. 
 
 family: total
 platformtag: Python

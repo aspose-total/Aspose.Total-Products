@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t CSV-be Python segítségével vagy ingyenes online konverterrel
-description: RTF-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: RTF-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-CSV online konvertert. 
 
 family: total
 platformtag: Python

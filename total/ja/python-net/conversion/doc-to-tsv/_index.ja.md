@@ -1,6 +1,6 @@
 ---
 title: Python を使用して DOC を TSV に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や Excel を使用せずに、Python アプリケーションで DOC から TSV への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や Excel を使用せずに、Python アプリケーションで DOC から TSV への変換 またはオンライン。コードを統合する前に、無料の DOC から TSV へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

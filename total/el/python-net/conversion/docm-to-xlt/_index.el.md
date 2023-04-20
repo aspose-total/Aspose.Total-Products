@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCM σε XLT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή DOCM σε XLT στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOCM σε XLT στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCM σε XLT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

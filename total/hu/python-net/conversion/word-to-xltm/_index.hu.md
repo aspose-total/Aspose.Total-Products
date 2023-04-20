@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORD-t XLTM-be Python segítségével vagy ingyenes online konverterrel
-description: WORD-ből XLTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: WORD-ből XLTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-XLTM online konvertert. 
 
 family: total
 platformtag: Python

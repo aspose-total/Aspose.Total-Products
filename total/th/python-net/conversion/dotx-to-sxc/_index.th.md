@@ -1,6 +1,6 @@
 ---
 title: แปลง DOTX เป็น SXC โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง DOTX เป็น SXC ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง DOTX เป็น SXC ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Word หรือ Excel หรือทางออนไลน์ ทดสอบตัวแปลง DOTX เป็น SXC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

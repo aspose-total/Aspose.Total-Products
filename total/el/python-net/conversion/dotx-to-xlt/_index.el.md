@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTX σε XLT χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή DOTX σε XLT στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOTX σε XLT στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTX σε XLT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: تحويل MOBI إلى XLAM باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل MOBI إلى XLAM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل MOBI إلى XLAM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول MOBI إلى XLAM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj OTT na EXCEL za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja OTT na EXCEL w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja OTT na EXCEL w aplikacjach Pythona bez użycia Microsoft Word lub Excel lub online. Szybko przetestuj darmowy konwerter online OTT na EXCEL przed integracją kodu. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer OTT naar XLT met behulp van Python of met gratis Online Converter
-description: OTT naar XLT-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: OTT naar XLT-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis OTT naar XLT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

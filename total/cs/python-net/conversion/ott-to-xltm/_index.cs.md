@@ -1,6 +1,6 @@
 ---
 title: Převeďte OTT na XLTM pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod OTT na XLTM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod OTT na XLTM ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na XLTM. 
 
 family: total
 platformtag: Python

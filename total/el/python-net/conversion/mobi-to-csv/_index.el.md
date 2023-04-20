@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή MOBI σε CSV χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή MOBI σε CSV στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή MOBI σε CSV στις εφαρμογές Python σας χωρίς τη χρήση Microsoft Word ή Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα MOBI σε CSV πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

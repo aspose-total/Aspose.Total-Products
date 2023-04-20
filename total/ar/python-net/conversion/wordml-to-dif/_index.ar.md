@@ -1,6 +1,6 @@
 ---
 title: تحويل WORDML إلى DIF باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل WORDML إلى DIF في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل WORDML إلى DIF في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول WORDML إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer DOT naar XLT met behulp van Python of met gratis Online Converter
-description: DOT naar XLT-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOT naar XLT-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis DOT naar XLT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

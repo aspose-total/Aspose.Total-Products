@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOC till XLT med Python eller med gratis Online Converter
-description: DOC till XLT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: DOC till XLT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis DOC till XLT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

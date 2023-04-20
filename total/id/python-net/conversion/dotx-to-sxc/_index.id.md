@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOTX ke SXC menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOTX ke SXC dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOTX ke SXC dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOTX ke SXC gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

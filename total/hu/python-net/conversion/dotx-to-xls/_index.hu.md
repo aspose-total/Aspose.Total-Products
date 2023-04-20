@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t XLS-be Python segítségével vagy ingyenes online konverterrel
-description: DOTX-ből XLS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTX-ből XLS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-XLS online konvertert. 
 
 family: total
 platformtag: Python

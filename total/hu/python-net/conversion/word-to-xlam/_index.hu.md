@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORD-t XLAM-be Python segítségével vagy ingyenes online konverterrel
-description: WORD-ből XLAM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: WORD-ből XLAM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-XLAM online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertera MOBI till XLTX med Python eller med gratis Online Converter
-description: MOBI till XLTX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: MOBI till XLTX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller Excel eller online. Testa gratis MOBI till XLTX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

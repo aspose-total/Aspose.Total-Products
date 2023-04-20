@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar XLSX met behulp van Python of met gratis Online Converter
-description: WORDML naar XLSX-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: WORDML naar XLSX-conversie in uw Python-toepassingen zonder Microsoft Word of Excel te gebruiken of online. Test snel de gratis WORDML naar XLSX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

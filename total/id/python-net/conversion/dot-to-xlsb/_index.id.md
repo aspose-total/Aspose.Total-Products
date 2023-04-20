@@ -1,6 +1,6 @@
 ---
 title: Konversikan DOT ke XLSB menggunakan Python atau dengan Konverter Online gratis
-description: Konversi DOT ke XLSB dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOT ke XLSB dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online DOT ke XLSB gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

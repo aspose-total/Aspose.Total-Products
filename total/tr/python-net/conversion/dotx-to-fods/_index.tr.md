@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak DOTX'yi FODS'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan DOTX'den FODS'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya Excel kullanmadan DOTX'den FODS'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTX'den FODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

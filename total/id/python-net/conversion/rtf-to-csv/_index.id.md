@@ -1,6 +1,6 @@
 ---
 title: Konversikan RTF ke CSV menggunakan Python atau dengan Konverter Online gratis
-description: Konversi RTF ke CSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi RTF ke CSV dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau Excel atau daring. Uji konverter online RTF ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCX إلى EXCEL باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل DOCX إلى EXCEL في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل DOCX إلى EXCEL في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول DOCX إلى EXCEL على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

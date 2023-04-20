@@ -1,6 +1,6 @@
 ---
 title: Convierte DOC a TSV usando Python o con el convertidor en línea gratuito
-description: Conversión de DOC a TSV en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de DOC a TSV en sus aplicaciones de Python sin usar Microsoft Word o Excel o en línea. Pruebe el convertidor en línea gratuito de DOC a TSV rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

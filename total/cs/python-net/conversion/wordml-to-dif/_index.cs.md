@@ -1,6 +1,6 @@
 ---
 title: Převeďte WORDML na DIF pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod WORDML na DIF ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod WORDML na DIF ve vašich aplikacích Python bez použití Microsoft Word nebo Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na DIF. 
 
 family: total
 platformtag: Python

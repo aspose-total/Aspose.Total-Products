@@ -1,6 +1,6 @@
 ---
 title: تحويل WORD إلى ODS باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل WORD إلى ODS في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل WORD إلى ODS في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو Excel أو عبر الإنترنت. اختبر محول WORD إلى ODS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python
