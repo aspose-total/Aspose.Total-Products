@@ -1,6 +1,6 @@
 ---
 title: 在 Python 中將 PPTM 轉換為 DOTM 或使用免費的在線轉換器
-description: 在 Python 應用程序中將 PPTM 轉換為 DOTM，而無需使用 Microsoft Word 或 PowerPoint 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
+description: 在 Python 應用程序中將 PPTM 轉換為 DOTM，而無需使用 Microsoft Word 或 PowerPoint 或在線。在集成代碼之前快速測試免費的 PPTM 到 DOTM 在線轉換器。 
 
 family: total
 platformtag: Python

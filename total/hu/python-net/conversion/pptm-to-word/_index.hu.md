@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTM-t WORD-be Pythonban vagy ingyenes online konverterrel
-description: PPTM-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPTM-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-WORD online konvertert. 
 
 family: total
 platformtag: Python

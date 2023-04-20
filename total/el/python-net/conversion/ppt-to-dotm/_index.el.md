@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPT σε DOTM στην Python ή με δωρεάν Online Converter
-description: Μετατροπή PPT σε DOTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPT σε DOTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPT σε DOTM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

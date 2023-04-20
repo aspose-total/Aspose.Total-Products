@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPT na DOCX w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPT do DOCX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPT do DOCX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPT na DOCX przed integracją kodu. 
 
 family: total
 platformtag: Python

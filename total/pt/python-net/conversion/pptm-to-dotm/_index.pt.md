@@ -1,6 +1,6 @@
 ---
 title: Converter PPTM para DOTM em Python ou com o conversor online gratuito
-description: Conversão de PPTM para DOTM em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de PPTM para DOTM em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de PPTM para DOTM rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

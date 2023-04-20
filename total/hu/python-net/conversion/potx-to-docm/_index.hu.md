@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-t DOCM-be Pythonban vagy ingyenes online konverterrel
-description: POTX-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POTX-ből DOCM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-DOCM online konvertert. 
 
 family: total
 platformtag: Python

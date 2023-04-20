@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-t DOCX-be Pythonban vagy ingyenes online konverterrel
-description: PPTX-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPTX-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-DOCX online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converti PPT in DOC in Python o con il convertitore online gratuito
-description: Conversione da PPT a DOC nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da PPT a DOC nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPT a DOC prima di integrare il codice. 
 
 family: total
 platformtag: Python

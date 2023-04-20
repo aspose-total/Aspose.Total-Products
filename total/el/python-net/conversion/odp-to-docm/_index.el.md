@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή ODP σε DOCM στην Python ή με δωρεάν Online Converter
-description: Μετατροπή ODP σε DOCM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή ODP σε DOCM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODP σε DOCM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

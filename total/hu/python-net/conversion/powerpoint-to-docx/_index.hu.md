@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-t DOCX-be Pythonban vagy ingyenes online konverterrel
-description: POWERPOINT-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POWERPOINT-ből DOCX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-DOCX online konvertert. 
 
 family: total
 platformtag: Python

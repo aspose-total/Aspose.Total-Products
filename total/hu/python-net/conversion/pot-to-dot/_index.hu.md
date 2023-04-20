@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POT-t DOT-be Pythonban vagy ingyenes online konverterrel
-description: POT-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POT-ből DOT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-DOT online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konversi POT ke DOT dengan Python atau dengan Konverter Online gratis
-description: Konversi POT ke DOT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi POT ke DOT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke DOT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

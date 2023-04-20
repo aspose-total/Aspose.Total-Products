@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTX naar DOC in Python of met gratis Online Converter
-description: PPTX naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPTX naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis PPTX naar DOC online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

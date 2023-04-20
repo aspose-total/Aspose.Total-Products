@@ -1,6 +1,6 @@
 ---
 title: Converti POTX in DOCM in Python o con il convertitore online gratuito
-description: Conversione da POTX a DOCM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da POTX a DOCM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POTX a DOCM prima di integrare il codice. 
 
 family: total
 platformtag: Python

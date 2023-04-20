@@ -1,6 +1,6 @@
 ---
 title: Convertir POWERPOINT a WORD en Python o con el convertidor en línea gratuito
-description: Conversión de POWERPOINT a WORD en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de POWERPOINT a WORD en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a WORD rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

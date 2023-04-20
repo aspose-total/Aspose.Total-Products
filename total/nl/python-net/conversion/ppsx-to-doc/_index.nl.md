@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSX naar DOC in Python of met gratis Online Converter
-description: PPSX naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPSX naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis PPSX naar DOC online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

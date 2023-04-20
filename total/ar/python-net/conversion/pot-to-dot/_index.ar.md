@@ -1,6 +1,6 @@
 ---
 title: تحويل POT إلى DOT في Python أو مع محول مجاني على الإنترنت
-description: تحويل POT إلى DOT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل POT إلى DOT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى DOT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

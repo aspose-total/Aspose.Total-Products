@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTM naar DOC in Python of met gratis Online Converter
-description: PPTM naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPTM naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis PPTM naar DOC online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-t WORD-be Pythonban vagy ingyenes online konverterrel
-description: PPSX-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPSX-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-WORD online konvertert. 
 
 family: total
 platformtag: Python

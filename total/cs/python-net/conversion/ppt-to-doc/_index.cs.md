@@ -1,6 +1,6 @@
 ---
 title: Převést PPT na DOC v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPT na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPT na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na DOC. 
 
 family: total
 platformtag: Python

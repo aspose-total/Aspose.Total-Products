@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-t DOC-be Pythonban vagy ingyenes online konverterrel
-description: PPSM-ből DOC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPSM-ből DOC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-DOC online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POT σε DOTM στην Python ή με δωρεάν Online Converter
-description: Μετατροπή POT σε DOTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POT σε DOTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε DOTM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

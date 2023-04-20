@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POTM σε DOCX στην Python ή με δωρεάν Online Converter
-description: Μετατροπή POTM σε DOCX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POTM σε DOCX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POTM σε DOCX πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

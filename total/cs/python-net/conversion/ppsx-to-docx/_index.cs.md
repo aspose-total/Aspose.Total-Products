@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na DOCX v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPSX na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPSX na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na DOCX. 
 
 family: total
 platformtag: Python

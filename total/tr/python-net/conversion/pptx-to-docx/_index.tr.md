@@ -1,6 +1,6 @@
 ---
 title: Python'da PPTX'yi DOCX'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPTX'den DOCX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPTX'den DOCX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTX'den DOCX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Convertir PPTM en DOCX en Python ou avec le convertisseur en ligne gratuit
-description: Conversion PPTM en DOCX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion PPTM en DOCX dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne PPTM vers DOCX gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

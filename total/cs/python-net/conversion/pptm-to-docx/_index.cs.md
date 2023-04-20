@@ -1,6 +1,6 @@
 ---
 title: Převést PPTM na DOCX v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPTM na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPTM na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTM na DOCX. 
 
 family: total
 platformtag: Python

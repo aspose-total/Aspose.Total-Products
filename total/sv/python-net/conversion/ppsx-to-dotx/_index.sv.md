@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSX till DOTX i Python eller med gratis Online Converter
-description: PPSX till DOTX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: PPSX till DOTX-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis PPSX till DOTX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

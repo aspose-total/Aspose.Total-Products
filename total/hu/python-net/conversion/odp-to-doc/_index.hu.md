@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODP-t DOC-be Pythonban vagy ingyenes online konverterrel
-description: ODP-ből DOC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: ODP-ből DOC-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODP-DOC online konvertert. 
 
 family: total
 platformtag: Python

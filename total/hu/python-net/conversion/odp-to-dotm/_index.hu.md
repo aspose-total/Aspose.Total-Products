@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODP-t DOTM-be Pythonban vagy ingyenes online konverterrel
-description: ODP-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: ODP-ből DOTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODP-DOTM online konvertert. 
 
 family: total
 platformtag: Python

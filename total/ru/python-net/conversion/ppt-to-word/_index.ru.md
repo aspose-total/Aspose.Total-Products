@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPT в WORD в Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование PPT в WORD в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование PPT в WORD в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPT в WORD, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

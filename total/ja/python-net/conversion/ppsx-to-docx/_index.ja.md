@@ -1,6 +1,6 @@
 ---
 title: Python で PPSX を DOCX に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPSX から DOCX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで PPSX から DOCX への変換 またはオンライン。コードを統合する前に、無料の PPSX から DOCX へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

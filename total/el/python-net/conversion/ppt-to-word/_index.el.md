@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPT σε WORD στην Python ή με δωρεάν Online Converter
-description: Μετατροπή PPT σε WORD στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPT σε WORD στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPT σε WORD πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

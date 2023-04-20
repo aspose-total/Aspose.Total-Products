@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTM-t DOTX-be Pythonban vagy ingyenes online konverterrel
-description: PPTM-ből DOTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPTM-ből DOTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-DOTX online konvertert. 
 
 family: total
 platformtag: Python

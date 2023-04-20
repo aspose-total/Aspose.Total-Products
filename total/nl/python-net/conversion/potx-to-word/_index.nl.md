@@ -1,6 +1,6 @@
 ---
 title: Converteer POTX naar WORD in Python of met gratis Online Converter
-description: POTX naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: POTX naar WORD-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis POTX naar WORD online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

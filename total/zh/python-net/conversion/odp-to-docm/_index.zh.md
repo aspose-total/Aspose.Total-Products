@@ -1,6 +1,6 @@
 ---
 title: 在 Python 中将 ODP 转换为 DOCM 或使用免费的在线转换器
-description: 在 Python 应用程序中将 ODP 转换为 DOCM，而无需使用 Microsoft Word 或 PowerPoint 或在线。在集成代码之前快速测试免费的 CSV 到 POT 在线转换器。 
+description: 在 Python 应用程序中将 ODP 转换为 DOCM，而无需使用 Microsoft Word 或 PowerPoint 或在线。在集成代码之前快速测试免费的 ODP 到 DOCM 在线转换器。 
 
 family: total
 platformtag: Python

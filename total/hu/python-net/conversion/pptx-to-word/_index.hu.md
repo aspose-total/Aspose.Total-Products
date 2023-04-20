@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-t WORD-be Pythonban vagy ingyenes online konverterrel
-description: PPTX-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPTX-ből WORD-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-WORD online konvertert. 
 
 family: total
 platformtag: Python

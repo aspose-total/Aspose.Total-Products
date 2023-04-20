@@ -1,6 +1,6 @@
 ---
 title: Převést POWERPOINT na RTF v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod POWERPOINT na RTF ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod POWERPOINT na RTF ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na RTF. 
 
 family: total
 platformtag: Python

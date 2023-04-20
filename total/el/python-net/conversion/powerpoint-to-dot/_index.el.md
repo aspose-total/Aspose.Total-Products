@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POWERPOINT σε DOT στην Python ή με δωρεάν Online Converter
-description: Μετατροπή POWERPOINT σε DOT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POWERPOINT σε DOT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POWERPOINT σε DOT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

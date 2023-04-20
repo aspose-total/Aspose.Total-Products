@@ -1,6 +1,6 @@
 ---
 title: Konversi POWERPOINT ke DOTX dengan Python atau dengan Konverter Online gratis
-description: Konversi POWERPOINT ke DOTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi POWERPOINT ke DOTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POWERPOINT ke DOTX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

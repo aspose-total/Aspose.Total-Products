@@ -1,6 +1,6 @@
 ---
 title: Převést PPSM na DOC v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPSM na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPSM na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na DOC. 
 
 family: total
 platformtag: Python

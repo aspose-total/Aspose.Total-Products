@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTX till DOTM i Python eller med gratis Online Converter
-description: POTX till DOTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: POTX till DOTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POTX till DOTM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

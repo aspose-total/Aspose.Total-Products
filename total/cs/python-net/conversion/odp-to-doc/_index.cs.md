@@ -1,6 +1,6 @@
 ---
 title: Převést ODP na DOC v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod ODP na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod ODP na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODP na DOC. 
 
 family: total
 platformtag: Python

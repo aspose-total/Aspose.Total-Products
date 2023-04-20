@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTM naar RTF in Python of met gratis Online Converter
-description: PPTM naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPTM naar RTF-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis PPTM naar RTF online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

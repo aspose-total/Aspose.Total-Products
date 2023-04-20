@@ -1,6 +1,6 @@
 ---
 title: Convertir ODP en WORD en Python ou avec le convertisseur en ligne gratuit
-description: Conversion ODP en WORD dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion ODP en WORD dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne ODP vers WORD gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

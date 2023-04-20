@@ -1,6 +1,6 @@
 ---
 title: 在 Python 中将 PPSM 转换为 DOC 或使用免费的在线转换器
-description: 在 Python 应用程序中将 PPSM 转换为 DOC，而无需使用 Microsoft Word 或 PowerPoint 或在线。在集成代码之前快速测试免费的 CSV 到 POT 在线转换器。 
+description: 在 Python 应用程序中将 PPSM 转换为 DOC，而无需使用 Microsoft Word 或 PowerPoint 或在线。在集成代码之前快速测试免费的 PPSM 到 DOC 在线转换器。 
 
 family: total
 platformtag: Python

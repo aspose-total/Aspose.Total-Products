@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPT sang DOCX bằng Python hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPT sang DOCX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi PPT sang DOCX trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPT sang DOCX miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

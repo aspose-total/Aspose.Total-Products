@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTM в DOTM в Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование POTM в DOTM в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование POTM в DOTM в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POTM в DOTM, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

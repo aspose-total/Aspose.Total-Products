@@ -1,6 +1,6 @@
 ---
 title: Převést PPTX na DOCX v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPTX na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPTX na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na DOCX. 
 
 family: total
 platformtag: Python

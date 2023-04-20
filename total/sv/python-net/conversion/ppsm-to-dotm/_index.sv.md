@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSM till DOTM i Python eller med gratis Online Converter
-description: PPSM till DOTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: PPSM till DOTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis PPSM till DOTM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

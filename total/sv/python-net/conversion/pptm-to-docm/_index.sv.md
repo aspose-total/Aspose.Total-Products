@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTM till DOCM i Python eller med gratis Online Converter
-description: PPTM till DOCM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: PPTM till DOCM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis PPTM till DOCM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar DOC in Python of met gratis Online Converter
-description: POT naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: POT naar DOC-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis POT naar DOC online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTM sang DOTM bằng Python hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPTM sang DOTM trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi PPTM sang DOTM trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPTM sang DOTM miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

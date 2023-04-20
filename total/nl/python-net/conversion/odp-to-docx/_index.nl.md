@@ -1,6 +1,6 @@
 ---
 title: Converteer ODP naar DOCX in Python of met gratis Online Converter
-description: ODP naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: ODP naar DOCX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis ODP naar DOCX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

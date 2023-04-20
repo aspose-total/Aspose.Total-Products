@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POTM sang WORD bằng Python hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi POTM sang WORD trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi POTM sang WORD trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến POTM sang WORD miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na DOTM v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPSX na DOTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPSX na DOTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na DOTM. 
 
 family: total
 platformtag: Python

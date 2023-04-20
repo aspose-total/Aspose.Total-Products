@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POWERPOINT σε RTF στην Python ή με δωρεάν Online Converter
-description: Μετατροπή POWERPOINT σε RTF στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POWERPOINT σε RTF στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POWERPOINT σε RTF πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

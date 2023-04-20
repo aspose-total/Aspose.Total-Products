@@ -1,6 +1,6 @@
 ---
 title: Python'da PPSM'yi DOCM'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPSM'den DOCM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPSM'den DOCM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den DOCM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

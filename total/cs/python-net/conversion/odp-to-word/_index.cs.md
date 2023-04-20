@@ -1,6 +1,6 @@
 ---
 title: Převést ODP na WORD v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod ODP na WORD ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod ODP na WORD ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODP na WORD. 
 
 family: total
 platformtag: Python

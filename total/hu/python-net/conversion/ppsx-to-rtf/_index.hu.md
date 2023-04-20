@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-t RTF-be Pythonban vagy ingyenes online konverterrel
-description: PPSX-ből RTF-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPSX-ből RTF-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-RTF online konvertert. 
 
 family: total
 platformtag: Python

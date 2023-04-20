@@ -1,6 +1,6 @@
 ---
 title: Konvertera ODP till RTF i Python eller med gratis Online Converter
-description: ODP till RTF-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: ODP till RTF-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis ODP till RTF online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

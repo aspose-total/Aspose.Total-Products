@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTX в DOC в Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование POTX в DOC в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование POTX в DOC в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POTX в DOC, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

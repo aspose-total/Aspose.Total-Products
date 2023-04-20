@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POTX in DOT in Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von POTX in DOT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von POTX in DOT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen POTX-zu-DOT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

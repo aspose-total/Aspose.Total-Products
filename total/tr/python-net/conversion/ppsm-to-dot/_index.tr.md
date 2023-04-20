@@ -1,6 +1,6 @@
 ---
 title: Python'da PPSM'yi DOT'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPSM'den DOT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan PPSM'den DOT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den DOT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

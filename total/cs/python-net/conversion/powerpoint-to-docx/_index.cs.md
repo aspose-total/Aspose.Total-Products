@@ -1,6 +1,6 @@
 ---
 title: Převést POWERPOINT na DOCX v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod POWERPOINT na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod POWERPOINT na DOCX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na DOCX. 
 
 family: total
 platformtag: Python

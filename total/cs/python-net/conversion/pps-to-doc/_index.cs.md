@@ -1,6 +1,6 @@
 ---
 title: Převést PPS na DOC v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPS na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPS na DOC ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na DOC. 
 
 family: total
 platformtag: Python

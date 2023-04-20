@@ -1,6 +1,6 @@
 ---
 title: Python で POWERPOINT を WORD に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで POWERPOINT から WORD への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで POWERPOINT から WORD への変換 またはオンライン。コードを統合する前に、無料の POWERPOINT から WORD へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

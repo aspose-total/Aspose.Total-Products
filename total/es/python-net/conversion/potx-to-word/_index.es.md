@@ -1,6 +1,6 @@
 ---
 title: Convertir POTX a WORD en Python o con el convertidor en línea gratuito
-description: Conversión de POTX a WORD en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de POTX a WORD en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POTX a WORD rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

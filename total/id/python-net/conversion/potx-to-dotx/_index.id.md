@@ -1,6 +1,6 @@
 ---
 title: Konversi POTX ke DOTX dengan Python atau dengan Konverter Online gratis
-description: Konversi POTX ke DOTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi POTX ke DOTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POTX ke DOTX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

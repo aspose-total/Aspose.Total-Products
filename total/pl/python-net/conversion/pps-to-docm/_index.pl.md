@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na DOCM w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPS do DOCM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPS do DOCM w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPS na DOCM przed integracją kodu. 
 
 family: total
 platformtag: Python
