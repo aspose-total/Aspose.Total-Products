@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi OTT sang PPT qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất OTT sang PPT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất OTT sang PPT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến OTT sang PPT miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

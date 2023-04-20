@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t XLAM-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOTX konvertálásához XLAM-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOTX konvertálásához XLAM-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-XLAM online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converter DOCX para DIF em C++ ou com o conversor online grátis
-description: API C++ para converter DOCX para DIF ou aplicativo on-line sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: API C++ para converter DOCX para DIF ou aplicativo on-line sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de DOCX para DIF rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: C++でDOCMをXLTMに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCMをXLTMに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOCMをXLTMに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の DOCM から XLTM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

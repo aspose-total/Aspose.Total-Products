@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi C++'da EXCEL'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan DOCM'yi EXCEL'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan DOCM'yi EXCEL'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCM'den EXCEL'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

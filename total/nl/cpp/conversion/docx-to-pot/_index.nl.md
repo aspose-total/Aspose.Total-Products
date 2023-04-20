@@ -1,6 +1,6 @@
 ---
 title: Converteer DOCX naar POT via C++ of met gratis Online Converter
-description: Exporteer DOCX naar POT in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer DOCX naar POT in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOCX naar POT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

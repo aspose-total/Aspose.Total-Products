@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na PPSM přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOCM do PPSM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOCM do PPSM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na PPSM.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till XLS i C++ eller med gratis Online Converter
-description: C++ API för att konvertera RTF till XLS eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: C++ API för att konvertera RTF till XLS eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis RTF till XLS online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

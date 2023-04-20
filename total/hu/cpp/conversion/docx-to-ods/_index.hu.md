@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t ODS-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOCX konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOCX konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-ODS online konvertert.
 
 family: total
 platformtag: cpp

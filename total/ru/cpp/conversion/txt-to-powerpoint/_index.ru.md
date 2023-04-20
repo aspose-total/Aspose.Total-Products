@@ -1,6 +1,6 @@
 ---
 title: Преобразование TXT в POWERPOINT через C++ или с помощью бесплатного онлайн-конвертера
-description: Экспортируйте TXT в POWERPOINT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспортируйте TXT в POWERPOINT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер TXT в POWERPOINT, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

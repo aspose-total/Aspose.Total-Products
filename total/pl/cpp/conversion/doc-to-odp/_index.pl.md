@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOC na ODP za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj DOC do ODP w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj DOC do ODP w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na ODP przed integracją kodu.
 
 family: total
 platformtag: cpp

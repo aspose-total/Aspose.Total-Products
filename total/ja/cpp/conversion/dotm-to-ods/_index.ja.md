@@ -1,6 +1,6 @@
 ---
 title: C++でDOTMをODSに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOTMをODSに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOTMをODSに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の DOTM から ODS へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

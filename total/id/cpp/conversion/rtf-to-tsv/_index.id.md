@@ -1,6 +1,6 @@
 ---
 title: Konversi RTF ke TSV di C++ atau dengan Konverter Online gratis
-description: C++ API untuk Mengonversi RTF ke TSV atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: C++ API untuk Mengonversi RTF ke TSV atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online RTF ke TSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

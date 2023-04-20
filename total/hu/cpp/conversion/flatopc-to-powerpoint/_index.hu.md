@@ -1,6 +1,6 @@
 ---
 title: A FLATOPC konvertálása POWERPOINT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon FLATOPC-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon FLATOPC-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes FLATOPC-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

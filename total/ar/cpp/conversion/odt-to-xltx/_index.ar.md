@@ -1,6 +1,6 @@
 ---
 title: تحويل ODT إلى XLTX في C++ أو مع محول مجاني على الإنترنت
-description: C++ API لتحويل ODT إلى XLTX أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: C++ API لتحويل ODT إلى XLTX أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول ODT إلى XLTX على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převést OTT na ODS v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod OTT do ODS nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod OTT do ODS nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na ODS.
 
 family: total
 platformtag: cpp

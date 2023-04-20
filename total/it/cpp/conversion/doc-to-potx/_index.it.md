@@ -1,6 +1,6 @@
 ---
 title: Converti DOC in POTX tramite C++ o con il convertitore online gratuito
-description: Esporta DOC in POTX nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta DOC in POTX nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOC a POTX prima di integrare il codice.
 
 family: total
 platformtag: cpp

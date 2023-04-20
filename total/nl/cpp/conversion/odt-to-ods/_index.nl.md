@@ -1,6 +1,6 @@
 ---
 title: Converteer ODT naar ODS in C++ of met gratis Online Converter
-description: C++ API om ODT naar ODS te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: C++ API om ODT naar ODS te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis ODT naar ODS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

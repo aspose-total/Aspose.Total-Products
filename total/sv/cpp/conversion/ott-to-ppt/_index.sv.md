@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till PPT via C++ eller med gratis Online Converter
-description: Exportera OTT till PPT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera OTT till PPT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis OTT till PPT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

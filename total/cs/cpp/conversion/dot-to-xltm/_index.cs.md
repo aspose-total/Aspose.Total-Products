@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na XLTM v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod DOT do XLTM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod DOT do XLTM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na XLTM.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertera TXT till PPTM via C++ eller med gratis Online Converter
-description: Exportera TXT till PPTM i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera TXT till PPTM i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis TXT till PPTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

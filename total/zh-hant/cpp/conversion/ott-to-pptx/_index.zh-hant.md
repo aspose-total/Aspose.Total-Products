@@ -1,6 +1,6 @@
 ---
 title: 通過 C++ 將 OTT 轉換為 PPTX 或使用免費的在線轉換器
-description: 在您的 C++ 應用程序中將 OTT 導出為 PPTX，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 在您的 C++ 應用程序中將 OTT 導出為 PPTX，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 OTT 到 PPTX 在線轉換器。
 
 family: total
 platformtag: cpp

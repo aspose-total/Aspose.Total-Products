@@ -1,6 +1,6 @@
 ---
 title: Convertir WORD en EXCEL en C++ ou avec le convertisseur en ligne gratuit
-description: API C++ pour convertir WORD en EXCEL ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: API C++ pour convertir WORD en EXCEL ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne WORD vers EXCEL gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

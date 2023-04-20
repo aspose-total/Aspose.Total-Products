@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTM naar PPS via C++ of met gratis Online Converter
-description: Exporteer DOTM naar PPS in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer DOTM naar PPS in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOTM naar PPS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converter DOTM para XLAM em C++ ou com o conversor online grátis
-description: API C++ para converter DOTM para XLAM ou aplicativo on-line sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: API C++ para converter DOTM para XLAM ou aplicativo on-line sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de DOTM para XLAM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

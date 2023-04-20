@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MOBI-t EXCEL-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a MOBI konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a MOBI konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-EXCEL online konvertert.
 
 family: total
 platformtag: cpp

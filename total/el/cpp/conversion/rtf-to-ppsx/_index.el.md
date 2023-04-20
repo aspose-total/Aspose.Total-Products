@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή RTF σε PPSX μέσω C++ ή με δωρεάν Online Converter
-description: Εξαγωγή RTF σε PPSX στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή RTF σε PPSX στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα RTF σε PPSX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

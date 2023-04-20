@@ -1,6 +1,6 @@
 ---
 title: 通過 C++ 將 WORDML 轉換為 ODP 或使用免費的在線轉換器
-description: 在您的 C++ 應用程序中將 WORDML 導出為 ODP，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 在您的 C++ 應用程序中將 WORDML 導出為 ODP，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 WORDML 到 ODP 在線轉換器。
 
 family: total
 platformtag: cpp

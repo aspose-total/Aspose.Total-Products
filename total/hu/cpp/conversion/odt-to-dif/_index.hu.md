@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODT-t DIF-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a ODT konvertálásához DIF-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a ODT konvertálásához DIF-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-DIF online konvertert.
 
 family: total
 platformtag: cpp

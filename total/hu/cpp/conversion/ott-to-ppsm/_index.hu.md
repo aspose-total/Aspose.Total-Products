@@ -1,6 +1,6 @@
 ---
 title: A OTT konvertálása PPSM-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon OTT-t PPSM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon OTT-t PPSM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-PPSM online konvertert.
 
 family: total
 platformtag: cpp

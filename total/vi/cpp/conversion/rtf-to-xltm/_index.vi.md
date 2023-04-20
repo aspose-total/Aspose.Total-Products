@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi RTF sang XLTM trong C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: C++ API để chuyển đổi RTF sang XLTM mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: C++ API để chuyển đổi RTF sang XLTM mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến RTF sang XLTM miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

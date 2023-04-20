@@ -1,6 +1,6 @@
 ---
 title: แปลง DOT เป็น FODS ใน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C++ API เพื่อแปลง DOT เป็น FODS หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: C++ API เพื่อแปลง DOT เป็น FODS หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง DOT เป็น FODS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi C++'da FODS'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan DOCM'yi FODS'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan DOCM'yi FODS'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCM'den FODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى XLT في C++ أو مع محول مجاني على الإنترنت
-description: C++ API لتحويل DOT إلى XLT أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: C++ API لتحويل DOT إلى XLT أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOT إلى XLT على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

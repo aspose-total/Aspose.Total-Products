@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar ODS in C++ of met gratis Online Converter
-description: C++ API om WORDML naar ODS te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: C++ API om WORDML naar ODS te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis WORDML naar ODS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

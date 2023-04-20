@@ -1,6 +1,6 @@
 ---
 title: Converti DOTX in POT tramite C++ o con il convertitore online gratuito
-description: Esporta DOTX in POT nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta DOTX in POT nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOTX a POT prima di integrare il codice.
 
 family: total
 platformtag: cpp

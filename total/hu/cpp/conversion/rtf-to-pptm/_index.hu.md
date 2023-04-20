@@ -1,6 +1,6 @@
 ---
 title: A RTF konvertálása PPTM-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon RTF-t PPTM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon RTF-t PPTM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-PPTM online konvertert.
 
 family: total
 platformtag: cpp

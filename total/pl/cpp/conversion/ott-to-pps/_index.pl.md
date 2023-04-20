@@ -1,6 +1,6 @@
 ---
 title: Konwertuj OTT na PPS za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj OTT do PPS w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj OTT do PPS w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online OTT na PPS przed integracją kodu.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na TSV v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod WORDML do TSV nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod WORDML do TSV nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na TSV.
 
 family: total
 platformtag: cpp

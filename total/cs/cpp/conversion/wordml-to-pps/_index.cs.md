@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPS přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte WORDML do PPS ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte WORDML do PPS ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na PPS.
 
 family: total
 platformtag: cpp

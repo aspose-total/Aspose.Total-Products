@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCM-t DIF-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOCM konvertálásához DIF-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOCM konvertálásához DIF-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-DIF online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi C++ ile POWERPOINT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOCM'yi POWERPOINT'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOCM'yi POWERPOINT'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCM'den POWERPOINT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

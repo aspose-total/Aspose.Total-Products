@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na DIF v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod DOT do DIF nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod DOT do DIF nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na DIF.
 
 family: total
 platformtag: cpp

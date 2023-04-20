@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t XLS-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a RTF konvertálásához XLS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a RTF konvertálásához XLS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-XLS online konvertert.
 
 family: total
 platformtag: cpp

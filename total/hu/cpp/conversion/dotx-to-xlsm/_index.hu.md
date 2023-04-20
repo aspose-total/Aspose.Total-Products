@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t XLSM-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOTX konvertálásához XLSM-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOTX konvertálásához XLSM-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-XLSM online konvertert.
 
 family: total
 platformtag: cpp

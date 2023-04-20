@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na ODP přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOT do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOT do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na ODP.
 
 family: total
 platformtag: cpp

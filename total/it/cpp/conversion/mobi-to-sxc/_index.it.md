@@ -1,6 +1,6 @@
 ---
 title: Converti MOBI in SXC in C++ o con il convertitore online gratuito
-description: API C++ per convertire MOBI in SXC o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: API C++ per convertire MOBI in SXC o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da MOBI a SXC prima di integrare il codice.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konversi WORDML ke XLT di C++ atau dengan Konverter Online gratis
-description: C++ API untuk Mengonversi WORDML ke XLT atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: C++ API untuk Mengonversi WORDML ke XLT atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online WORDML ke XLT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

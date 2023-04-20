@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi OTT sang XLAM trong C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: C++ API để chuyển đổi OTT sang XLAM mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: C++ API để chuyển đổi OTT sang XLAM mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến OTT sang XLAM miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

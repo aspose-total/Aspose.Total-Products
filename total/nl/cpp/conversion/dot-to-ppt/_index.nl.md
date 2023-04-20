@@ -1,6 +1,6 @@
 ---
 title: Converteer DOT naar PPT via C++ of met gratis Online Converter
-description: Exporteer DOT naar PPT in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer DOT naar PPT in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOT naar PPT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

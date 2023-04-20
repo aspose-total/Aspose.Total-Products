@@ -1,6 +1,6 @@
 ---
 title: Convertir OTT a CSV en C++ o con el convertidor en línea gratuito
-description: API de C++ para convertir OTT a CSV o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: API de C++ para convertir OTT a CSV o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de OTT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

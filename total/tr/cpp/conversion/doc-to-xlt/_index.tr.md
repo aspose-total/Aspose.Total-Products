@@ -1,6 +1,6 @@
 ---
 title: DOC'yi C++'da XLT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan DOC'yi XLT'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan DOC'yi XLT'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOC'den XLT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

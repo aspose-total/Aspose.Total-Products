@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى ODS في C++ أو مع محول مجاني على الإنترنت
-description: C++ API لتحويل DOT إلى ODS أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: C++ API لتحويل DOT إلى ODS أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOT إلى ODS على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

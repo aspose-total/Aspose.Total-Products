@@ -1,6 +1,6 @@
 ---
 title: Converteer DOC naar PPTM via C++ of met gratis Online Converter
-description: Exporteer DOC naar PPTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer DOC naar PPTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOC naar PPTM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

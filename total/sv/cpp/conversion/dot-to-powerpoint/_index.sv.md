@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOT till POWERPOINT via C++ eller med gratis Online Converter
-description: Exportera DOT till POWERPOINT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera DOT till POWERPOINT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOT till POWERPOINT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

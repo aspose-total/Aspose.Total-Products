@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t SXC-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a RTF konvertálásához SXC-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a RTF konvertálásához SXC-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-SXC online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta WORDML a POWERPOINT a través de C++ o con el convertidor en línea gratuito
-description: Exporte WORDML a POWERPOINT en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte WORDML a POWERPOINT en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de WORDML a POWERPOINT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

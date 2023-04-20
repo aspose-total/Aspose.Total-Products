@@ -1,6 +1,6 @@
 ---
 title: C++を介してWORDをPPSに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでWORDをPPSにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでWORDをPPSにエクスポートする またはオンライン。コードを統合する前に、無料の WORD から PPS へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na PPSM přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOT do PPSM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOT do PPSM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na PPSM.
 
 family: total
 platformtag: cpp

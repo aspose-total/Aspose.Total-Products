@@ -1,6 +1,6 @@
 ---
 title: Converter OTT para POTM via C++ ou com o conversor online grátis
-description: Exporte OTT para POTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte OTT para POTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de OTT para POTM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

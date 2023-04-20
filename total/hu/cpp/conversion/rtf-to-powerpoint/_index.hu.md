@@ -1,6 +1,6 @@
 ---
 title: A RTF konvertálása POWERPOINT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon RTF-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon RTF-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

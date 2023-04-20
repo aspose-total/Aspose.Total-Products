@@ -1,6 +1,6 @@
 ---
 title: DOCX'yi C++ ile PPTM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOCX'yi PPTM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOCX'yi PPTM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCX'den PPTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

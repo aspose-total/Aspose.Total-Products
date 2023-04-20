@@ -1,6 +1,6 @@
 ---
 title: Konwertuj WORDML na XLTX w C++ lub za pomocą bezpłatnego konwertera online
-description: C++ API do konwersji WORDML na XLTX lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: C++ API do konwersji WORDML na XLTX lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online WORDML na XLTX przed integracją kodu.
 
 family: total
 platformtag: cpp

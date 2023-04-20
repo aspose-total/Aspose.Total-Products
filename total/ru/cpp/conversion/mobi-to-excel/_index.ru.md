@@ -1,6 +1,6 @@
 ---
 title: Преобразование MOBI в EXCEL на C++ или с помощью бесплатного онлайн-конвертера
-description: C++ API для преобразования MOBI в EXCEL или онлайн-приложение без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: C++ API для преобразования MOBI в EXCEL или онлайн-приложение без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер MOBI в EXCEL, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCX till POWERPOINT via C++ eller med gratis Online Converter
-description: Exportera DOCX till POWERPOINT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera DOCX till POWERPOINT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOCX till POWERPOINT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

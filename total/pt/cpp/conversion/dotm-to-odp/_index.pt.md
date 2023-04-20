@@ -1,6 +1,6 @@
 ---
 title: Converter DOTM para ODP via C++ ou com o conversor online grátis
-description: Exporte DOTM para ODP em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte DOTM para ODP em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de DOTM para ODP rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

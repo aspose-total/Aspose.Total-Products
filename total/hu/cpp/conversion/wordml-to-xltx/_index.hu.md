@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORDML-t XLTX-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a WORDML konvertálásához XLTX-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a WORDML konvertálásához XLTX-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-XLTX online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converteer WORD naar POTX via C++ of met gratis Online Converter
-description: Exporteer WORD naar POTX in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer WORD naar POTX in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis WORD naar POTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTX إلى PPSM عبر C++ أو مع محول مجاني على الإنترنت
-description: قم بتصدير DOTX إلى PPSM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير DOTX إلى PPSM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOTX إلى PPSM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

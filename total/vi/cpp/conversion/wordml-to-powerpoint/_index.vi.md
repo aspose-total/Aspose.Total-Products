@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi WORDML sang POWERPOINT qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất WORDML sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất WORDML sang POWERPOINT trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến WORDML sang POWERPOINT miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

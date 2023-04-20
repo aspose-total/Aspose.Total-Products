@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTX en ODP via C++ ou avec le convertisseur en ligne gratuit
-description: Exportez DOTX vers ODP dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez DOTX vers ODP dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne DOTX vers ODP gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

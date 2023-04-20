@@ -1,6 +1,6 @@
 ---
 title: A DOCX konvertálása PPSX-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOCX-t PPSX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOCX-t PPSX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-PPSX online konvertert.
 
 family: total
 platformtag: cpp

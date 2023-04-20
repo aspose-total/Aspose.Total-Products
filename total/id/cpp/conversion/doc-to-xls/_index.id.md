@@ -1,6 +1,6 @@
 ---
 title: Konversi DOC ke XLS di C++ atau dengan Konverter Online gratis
-description: C++ API untuk Mengonversi DOC ke XLS atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: C++ API untuk Mengonversi DOC ke XLS atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOC ke XLS gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: 在 C++ 中將 WORDML 轉換為 XLTM 或使用免費的在線轉換器
-description: 無需使用 Microsoft Word 或 Microsoft Excel 即可將 WORDML 轉換為 XLTM 的 C++ API 或在線應用程序 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 無需使用 Microsoft Word 或 Microsoft Excel 即可將 WORDML 轉換為 XLTM 的 C++ API 或在線應用程序 或在線。在集成代碼之前快速測試免費的 WORDML 到 XLTM 在線轉換器。
 
 family: total
 platformtag: cpp

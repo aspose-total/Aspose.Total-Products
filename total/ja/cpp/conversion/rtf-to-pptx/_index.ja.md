@@ -1,6 +1,6 @@
 ---
 title: C++を介してRTFをPPTXに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでRTFをPPTXにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでRTFをPPTXにエクスポートする またはオンライン。コードを統合する前に、無料の RTF から PPTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

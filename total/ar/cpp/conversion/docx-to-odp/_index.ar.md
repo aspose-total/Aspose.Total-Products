@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCX إلى ODP عبر C++ أو مع محول مجاني على الإنترنت
-description: قم بتصدير DOCX إلى ODP في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير DOCX إلى ODP في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOCX إلى ODP على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

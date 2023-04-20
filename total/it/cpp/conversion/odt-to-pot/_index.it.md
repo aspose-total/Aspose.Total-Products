@@ -1,6 +1,6 @@
 ---
 title: Converti ODT in POT tramite C++ o con il convertitore online gratuito
-description: Esporta ODT in POT nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta ODT in POT nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da ODT a POT prima di integrare il codice.
 
 family: total
 platformtag: cpp

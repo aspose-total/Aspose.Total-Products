@@ -1,6 +1,6 @@
 ---
 title: A DOCM konvertálása POT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOCM-t POT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOCM-t POT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-POT online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: แปลง WORD เป็น EXCEL ใน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C++ API เพื่อแปลง WORD เป็น EXCEL หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: C++ API เพื่อแปลง WORD เป็น EXCEL หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง WORD เป็น EXCEL ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

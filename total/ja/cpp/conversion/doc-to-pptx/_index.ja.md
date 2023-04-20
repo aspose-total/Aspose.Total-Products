@@ -1,6 +1,6 @@
 ---
 title: C++を介してDOCをPPTXに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOCをPPTXにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOCをPPTXにエクスポートする またはオンライン。コードを統合する前に、無料の DOC から PPTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

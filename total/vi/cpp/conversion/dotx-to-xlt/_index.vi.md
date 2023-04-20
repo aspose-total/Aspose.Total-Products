@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOTX sang XLT trong C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: C++ API để chuyển đổi DOTX sang XLT mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: C++ API để chuyển đổi DOTX sang XLT mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến DOTX sang XLT miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

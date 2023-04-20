@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCX σε ODS σε C++ ή με δωρεάν Online Converter
-description: C++ API για μετατροπή DOCX σε ODS ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: C++ API για μετατροπή DOCX σε ODS ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCX σε ODS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

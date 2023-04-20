@@ -1,6 +1,6 @@
 ---
 title: DOTM'yi C++'da XLSX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan DOTM'yi XLSX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan DOTM'yi XLSX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTM'den XLSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

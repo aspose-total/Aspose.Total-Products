@@ -1,6 +1,6 @@
 ---
 title: C++を介してOTTをPOWERPOINTに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでOTTをPOWERPOINTにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでOTTをPOWERPOINTにエクスポートする またはオンライン。コードを統合する前に、無料の OTT から POWERPOINT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

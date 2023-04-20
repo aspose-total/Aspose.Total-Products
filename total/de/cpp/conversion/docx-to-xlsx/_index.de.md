@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOCX in XLSX in C++ oder mit dem kostenlosen Online Converter
-description: C++-API zum Konvertieren von DOCX in XLSX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: C++-API zum Konvertieren von DOCX in XLSX oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen DOCX-zu-XLSX-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

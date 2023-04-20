@@ -1,6 +1,6 @@
 ---
 title: A FLATOPC konvertálása PPTM-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon FLATOPC-t PPTM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon FLATOPC-t PPTM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes FLATOPC-PPTM online konvertert.
 
 family: total
 platformtag: cpp

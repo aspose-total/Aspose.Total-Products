@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na PPT přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOT do PPT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOT do PPT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na PPT.
 
 family: total
 platformtag: cpp

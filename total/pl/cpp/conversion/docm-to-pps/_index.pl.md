@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCM na PPS za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj DOCM do PPS w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj DOCM do PPS w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOCM na PPS przed integracją kodu.
 
 family: total
 platformtag: cpp

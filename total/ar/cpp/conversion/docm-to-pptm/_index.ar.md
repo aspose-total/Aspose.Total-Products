@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCM إلى PPTM عبر C++ أو مع محول مجاني على الإنترنت
-description: قم بتصدير DOCM إلى PPTM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير DOCM إلى PPTM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOCM إلى PPTM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

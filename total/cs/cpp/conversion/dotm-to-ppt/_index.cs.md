@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na PPT přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOTM do PPT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOTM do PPT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na PPT.
 
 family: total
 platformtag: cpp

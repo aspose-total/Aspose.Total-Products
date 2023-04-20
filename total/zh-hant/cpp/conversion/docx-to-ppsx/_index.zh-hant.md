@@ -1,6 +1,6 @@
 ---
 title: 通過 C++ 將 DOCX 轉換為 PPSX 或使用免費的在線轉換器
-description: 在您的 C++ 應用程序中將 DOCX 導出為 PPSX，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 在您的 C++ 應用程序中將 DOCX 導出為 PPSX，而無需使用 Microsoft Word of PowerPoint 或在線。在集成代碼之前快速測試免費的 DOCX 到 PPSX 在線轉換器。
 
 family: total
 platformtag: cpp

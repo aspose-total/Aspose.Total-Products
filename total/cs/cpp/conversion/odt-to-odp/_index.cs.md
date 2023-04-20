@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na ODP přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte ODT do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte ODT do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na ODP.
 
 family: total
 platformtag: cpp

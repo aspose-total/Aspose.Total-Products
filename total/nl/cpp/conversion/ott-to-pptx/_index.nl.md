@@ -1,6 +1,6 @@
 ---
 title: Converteer OTT naar PPTX via C++ of met gratis Online Converter
-description: Exporteer OTT naar PPTX in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer OTT naar PPTX in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis OTT naar PPTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

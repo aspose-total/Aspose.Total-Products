@@ -1,6 +1,6 @@
 ---
 title: Konversi WORDML ke POTM melalui C++ atau dengan Konverter Online gratis
-description: Ekspor WORDML ke POTM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor WORDML ke POTM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online WORDML ke POTM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

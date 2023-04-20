@@ -1,6 +1,6 @@
 ---
 title: Converter DOT para PPS via C++ ou com o conversor online grátis
-description: Exporte DOT para PPS em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte DOT para PPS em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de DOT para PPS rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

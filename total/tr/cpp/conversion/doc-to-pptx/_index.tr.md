@@ -1,6 +1,6 @@
 ---
 title: DOC'yi C++ ile PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOC'yi PPTX'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOC'yi PPTX'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOC'den PPTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

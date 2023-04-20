@@ -1,6 +1,6 @@
 ---
 title: Convierta WORD a PPTX a través de C++ o con el convertidor en línea gratuito
-description: Exporte WORD a PPTX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte WORD a PPTX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de WORD a PPTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

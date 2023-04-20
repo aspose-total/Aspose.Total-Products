@@ -1,6 +1,6 @@
 ---
 title: แปลง RTF เป็น XLAM ใน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C++ API เพื่อแปลง RTF เป็น XLAM หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: C++ API เพื่อแปลง RTF เป็น XLAM หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง RTF เป็น XLAM ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

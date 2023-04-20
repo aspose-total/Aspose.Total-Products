@@ -1,6 +1,6 @@
 ---
 title: Konversi WORD ke POT melalui C++ atau dengan Konverter Online gratis
-description: Ekspor WORD ke POT di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor WORD ke POT di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online WORD ke POT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

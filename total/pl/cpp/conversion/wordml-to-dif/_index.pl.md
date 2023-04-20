@@ -1,6 +1,6 @@
 ---
 title: Konwertuj WORDML na DIF w C++ lub za pomocą bezpłatnego konwertera online
-description: C++ API do konwersji WORDML na DIF lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: C++ API do konwersji WORDML na DIF lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online WORDML na DIF przed integracją kodu.
 
 family: total
 platformtag: cpp

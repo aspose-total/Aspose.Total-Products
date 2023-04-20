@@ -1,6 +1,6 @@
 ---
 title: Convertir WORD a XLSB en C++ o con el convertidor en línea gratuito
-description: API de C++ para convertir WORD a XLSB o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: API de C++ para convertir WORD a XLSB o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de WORD a XLSB rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

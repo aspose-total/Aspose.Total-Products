@@ -1,6 +1,6 @@
 ---
 title: Converti DOCX in PPS tramite C++ o con il convertitore online gratuito
-description: Esporta DOCX in PPS nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: Esporta DOCX in PPS nelle tue applicazioni C++ senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOCX a PPS prima di integrare il codice.
 
 family: total
 platformtag: cpp

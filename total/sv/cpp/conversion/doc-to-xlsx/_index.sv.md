@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOC till XLSX i C++ eller med gratis Online Converter
-description: C++ API för att konvertera DOC till XLSX eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: C++ API för att konvertera DOC till XLSX eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOC till XLSX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

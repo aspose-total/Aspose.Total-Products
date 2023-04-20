@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCM till XLAM i C++ eller med gratis Online Converter
-description: C++ API för att konvertera DOCM till XLAM eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: C++ API för att konvertera DOCM till XLAM eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCM till XLAM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

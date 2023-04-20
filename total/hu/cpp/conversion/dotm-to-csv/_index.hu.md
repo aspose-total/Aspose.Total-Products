@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t CSV-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOTM konvertálásához CSV-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOTM konvertálásához CSV-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-CSV online konvertert.
 
 family: total
 platformtag: cpp

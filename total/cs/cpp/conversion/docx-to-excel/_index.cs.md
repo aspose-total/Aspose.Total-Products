@@ -1,6 +1,6 @@
 ---
 title: Převést DOCX na EXCEL v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod DOCX do EXCEL nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod DOCX do EXCEL nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na EXCEL.
 
 family: total
 platformtag: cpp

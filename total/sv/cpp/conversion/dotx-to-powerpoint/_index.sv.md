@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOTX till POWERPOINT via C++ eller med gratis Online Converter
-description: Exportera DOTX till POWERPOINT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera DOTX till POWERPOINT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOTX till POWERPOINT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

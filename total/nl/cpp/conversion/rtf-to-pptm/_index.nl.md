@@ -1,6 +1,6 @@
 ---
 title: Converteer RTF naar PPTM via C++ of met gratis Online Converter
-description: Exporteer RTF naar PPTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer RTF naar PPTM in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis RTF naar PPTM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

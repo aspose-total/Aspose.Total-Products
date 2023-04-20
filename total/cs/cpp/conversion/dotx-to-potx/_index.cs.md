@@ -1,6 +1,6 @@
 ---
 title: Převést DOTX na POTX přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOTX do POTX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOTX do POTX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na POTX.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converter DOTM para PPTM via C++ ou com o conversor online grátis
-description: Exporte DOTM para PPTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte DOTM para PPTM em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de DOTM para PPTM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

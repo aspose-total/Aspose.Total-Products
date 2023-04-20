@@ -1,6 +1,6 @@
 ---
 title: Converti DOTX in XLSB in C++ o con il convertitore online gratuito
-description: API C++ per convertire DOTX in XLSB o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice.
+description: API C++ per convertire DOTX in XLSB o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOTX a XLSB prima di integrare il codice.
 
 family: total
 platformtag: cpp

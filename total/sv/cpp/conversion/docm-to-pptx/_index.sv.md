@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCM till PPTX via C++ eller med gratis Online Converter
-description: Exportera DOCM till PPTX i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera DOCM till PPTX i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOCM till PPTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na PPTX přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOCM do PPTX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOCM do PPTX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na PPTX.
 
 family: total
 platformtag: cpp

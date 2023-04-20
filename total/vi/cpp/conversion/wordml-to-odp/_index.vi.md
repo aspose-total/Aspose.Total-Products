@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi WORDML sang ODP qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất WORDML sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất WORDML sang ODP trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến WORDML sang ODP miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

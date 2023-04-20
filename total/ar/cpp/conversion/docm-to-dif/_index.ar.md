@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCM إلى DIF في C++ أو مع محول مجاني على الإنترنت
-description: C++ API لتحويل DOCM إلى DIF أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: C++ API لتحويل DOCM إلى DIF أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOCM إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

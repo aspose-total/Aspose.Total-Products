@@ -1,6 +1,6 @@
 ---
 title: Convertir MOBI en XLAM en C++ ou avec le convertisseur en ligne gratuit
-description: API C++ pour convertir MOBI en XLAM ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: API C++ pour convertir MOBI en XLAM ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne MOBI vers XLAM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

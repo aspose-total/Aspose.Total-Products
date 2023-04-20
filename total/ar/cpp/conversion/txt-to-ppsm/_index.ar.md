@@ -1,6 +1,6 @@
 ---
 title: تحويل TXT إلى PPSM عبر C++ أو مع محول مجاني على الإنترنت
-description: قم بتصدير TXT إلى PPSM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير TXT إلى PPSM في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول TXT إلى PPSM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

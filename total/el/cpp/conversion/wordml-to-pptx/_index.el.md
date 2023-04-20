@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή WORDML σε PPTX μέσω C++ ή με δωρεάν Online Converter
-description: Εξαγωγή WORDML σε PPTX στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή WORDML σε PPTX στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORDML σε PPTX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

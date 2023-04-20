@@ -1,6 +1,6 @@
 ---
 title: Converter RTF para POWERPOINT via C++ ou com o conversor online grátis
-description: Exporte RTF para POWERPOINT em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte RTF para POWERPOINT em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de RTF para POWERPOINT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

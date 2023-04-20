@@ -1,6 +1,6 @@
 ---
 title: C++でDOTをXLAMに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOTをXLAMに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにDOTをXLAMに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の DOT から XLAM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

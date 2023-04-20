@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOC sang PPSM qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất DOC sang PPSM trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất DOC sang PPSM trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến DOC sang PPSM miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

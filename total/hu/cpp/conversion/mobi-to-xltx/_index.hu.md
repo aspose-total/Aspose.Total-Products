@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MOBI-t XLTX-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a MOBI konvertálásához XLTX-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a MOBI konvertálásához XLTX-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-XLTX online konvertert.
 
 family: total
 platformtag: cpp

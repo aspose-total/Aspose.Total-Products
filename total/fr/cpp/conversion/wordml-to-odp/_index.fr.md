@@ -1,6 +1,6 @@
 ---
 title: Convertir WORDML en ODP via C++ ou avec le convertisseur en ligne gratuit
-description: Exportez WORDML vers ODP dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez WORDML vers ODP dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne WORDML vers ODP gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

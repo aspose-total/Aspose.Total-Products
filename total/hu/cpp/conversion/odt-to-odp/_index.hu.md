@@ -1,6 +1,6 @@
 ---
 title: A ODT konvertálása ODP-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon ODT-t ODP-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon ODT-t ODP-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-ODP online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta FLATOPC a POWERPOINT a través de C++ o con el convertidor en línea gratuito
-description: Exporte FLATOPC a POWERPOINT en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte FLATOPC a POWERPOINT en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de FLATOPC a POWERPOINT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

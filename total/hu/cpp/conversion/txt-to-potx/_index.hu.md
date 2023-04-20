@@ -1,6 +1,6 @@
 ---
 title: A TXT konvertálása POTX-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon TXT-t POTX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon TXT-t POTX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-POTX online konvertert.
 
 family: total
 platformtag: cpp

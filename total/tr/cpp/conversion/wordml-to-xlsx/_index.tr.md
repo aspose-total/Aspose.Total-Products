@@ -1,6 +1,6 @@
 ---
 title: WORDML'yi C++'da XLSX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan WORDML'yi XLSX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan WORDML'yi XLSX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORDML'den XLSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

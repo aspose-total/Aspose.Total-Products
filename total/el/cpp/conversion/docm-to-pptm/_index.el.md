@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCM σε PPTM μέσω C++ ή με δωρεάν Online Converter
-description: Εξαγωγή DOCM σε PPTM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή DOCM σε PPTM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCM σε PPTM πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

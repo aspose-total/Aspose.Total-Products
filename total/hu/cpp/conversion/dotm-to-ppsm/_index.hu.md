@@ -1,6 +1,6 @@
 ---
 title: A DOTM konvertálása PPSM-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOTM-t PPSM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOTM-t PPSM-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-PPSM online konvertert.
 
 family: total
 platformtag: cpp

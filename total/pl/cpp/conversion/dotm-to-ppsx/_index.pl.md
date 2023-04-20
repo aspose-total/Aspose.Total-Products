@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOTM na PPSX za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj DOTM do PPSX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj DOTM do PPSX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOTM na PPSX przed integracją kodu.
 
 family: total
 platformtag: cpp

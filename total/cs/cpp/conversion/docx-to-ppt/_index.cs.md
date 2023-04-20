@@ -1,6 +1,6 @@
 ---
 title: Převést DOCX na PPT přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOCX do PPT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOCX do PPT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na PPT.
 
 family: total
 platformtag: cpp

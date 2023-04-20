@@ -1,6 +1,6 @@
 ---
 title: Konwertuj OTT na XLT w C++ lub za pomocą bezpłatnego konwertera online
-description: C++ API do konwersji OTT na XLT lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: C++ API do konwersji OTT na XLT lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online OTT na XLT przed integracją kodu.
 
 family: total
 platformtag: cpp

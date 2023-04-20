@@ -1,6 +1,6 @@
 ---
 title: Převést MOBI na XLTM v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod MOBI do XLTM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod MOBI do XLTM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLTM.
 
 family: total
 platformtag: cpp

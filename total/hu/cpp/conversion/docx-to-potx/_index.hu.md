@@ -1,6 +1,6 @@
 ---
 title: A DOCX konvertálása POTX-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOCX-t POTX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOCX-t POTX-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-POTX online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta DOT a PPSX a través de C++ o con el convertidor en línea gratuito
-description: Exporte DOT a PPSX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte DOT a PPSX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOT a PPSX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

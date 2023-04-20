@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t XLTM-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOCX konvertálásához XLTM-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOCX konvertálásához XLTM-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-XLTM online konvertert.
 
 family: total
 platformtag: cpp

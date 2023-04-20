@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t XLSB-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a OTT konvertálásához XLSB-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a OTT konvertálásához XLSB-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-XLSB online konvertert.
 
 family: total
 platformtag: cpp

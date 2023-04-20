@@ -1,6 +1,6 @@
 ---
 title: Konvertera WORDML till PPT via C++ eller med gratis Online Converter
-description: Exportera WORDML till PPT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera WORDML till PPT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis WORDML till PPT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

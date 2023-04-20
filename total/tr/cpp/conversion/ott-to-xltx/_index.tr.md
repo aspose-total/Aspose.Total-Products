@@ -1,6 +1,6 @@
 ---
 title: OTT'yi C++'da XLTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan OTT'yi XLTX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan OTT'yi XLTX'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz OTT'den XLTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

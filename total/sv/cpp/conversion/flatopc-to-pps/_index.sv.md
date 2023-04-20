@@ -1,6 +1,6 @@
 ---
 title: Konvertera FLATOPC till PPS via C++ eller med gratis Online Converter
-description: Exportera FLATOPC till PPS i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera FLATOPC till PPS i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis FLATOPC till PPS online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

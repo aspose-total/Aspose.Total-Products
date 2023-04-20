@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na XLT v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod DOC do XLT nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod DOC do XLT nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLT.
 
 family: total
 platformtag: cpp

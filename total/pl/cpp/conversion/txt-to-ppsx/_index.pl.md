@@ -1,6 +1,6 @@
 ---
 title: Konwertuj TXT na PPSX za pomocą C++ lub za pomocą bezpłatnego konwertera online
-description: Eksportuj TXT do PPSX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: Eksportuj TXT do PPSX w aplikacjach C++ bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online TXT na PPSX przed integracją kodu.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTM σε DIF σε C++ ή με δωρεάν Online Converter
-description: C++ API για μετατροπή DOTM σε DIF ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: C++ API για μετατροπή DOTM σε DIF ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε DIF πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: A WORDML konvertálása PPT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon WORDML-t PPT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon WORDML-t PPT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-PPT online konvertert.
 
 family: total
 platformtag: cpp

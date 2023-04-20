@@ -1,6 +1,6 @@
 ---
 title: Converteer MOBI naar FODS in C++ of met gratis Online Converter
-description: C++ API om MOBI naar FODS te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: C++ API om MOBI naar FODS te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis MOBI naar FODS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

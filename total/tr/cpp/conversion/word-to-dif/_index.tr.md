@@ -1,6 +1,6 @@
 ---
 title: WORD'yi C++'da DIF'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi DIF'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi DIF'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORD'den DIF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

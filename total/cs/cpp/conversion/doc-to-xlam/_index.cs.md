@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na XLAM v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod DOC do XLAM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod DOC do XLAM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLAM.
 
 family: total
 platformtag: cpp

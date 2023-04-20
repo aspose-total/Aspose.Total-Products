@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na ODP přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte WORDML do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte WORDML do ODP ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na ODP.
 
 family: total
 platformtag: cpp

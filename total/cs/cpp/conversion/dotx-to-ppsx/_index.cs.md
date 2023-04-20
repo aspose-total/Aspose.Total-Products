@@ -1,6 +1,6 @@
 ---
 title: Převést DOTX na PPSX přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOTX do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOTX do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na PPSX.
 
 family: total
 platformtag: cpp

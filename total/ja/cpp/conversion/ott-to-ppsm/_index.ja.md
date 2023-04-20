@@ -1,6 +1,6 @@
 ---
 title: C++を介してOTTをPPSMに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでOTTをPPSMにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでOTTをPPSMにエクスポートする またはオンライン。コードを統合する前に、無料の OTT から PPSM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

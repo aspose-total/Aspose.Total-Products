@@ -1,6 +1,6 @@
 ---
 title: C++を介してODTをPPTXに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでODTをPPTXにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでODTをPPTXにエクスポートする またはオンライン。コードを統合する前に、無料の ODT から PPTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj RTF na XLAM w C++ lub za pomocą bezpłatnego konwertera online
-description: C++ API do konwersji RTF na XLAM lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu.
+description: C++ API do konwersji RTF na XLAM lub Aplikacja internetowa bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online RTF na XLAM przed integracją kodu.
 
 family: total
 platformtag: cpp

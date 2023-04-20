@@ -1,6 +1,6 @@
 ---
 title: Converteer FLATOPC naar PPSX via C++ of met gratis Online Converter
-description: Exporteer FLATOPC naar PPSX in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer FLATOPC naar PPSX in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis FLATOPC naar PPSX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

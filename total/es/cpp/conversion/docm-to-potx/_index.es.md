@@ -1,6 +1,6 @@
 ---
 title: Convierta DOCM a POTX a través de C++ o con el convertidor en línea gratuito
-description: Exporte DOCM a POTX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte DOCM a POTX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOCM a POTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

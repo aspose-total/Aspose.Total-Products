@@ -1,6 +1,6 @@
 ---
 title: Converteer RTF naar ODP via C++ of met gratis Online Converter
-description: Exporteer RTF naar ODP in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: Exporteer RTF naar ODP in uw C++-toepassingen zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis RTF naar ODP online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

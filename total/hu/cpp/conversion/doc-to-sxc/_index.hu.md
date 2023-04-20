@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t SXC-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOC konvertálásához SXC-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOC konvertálásához SXC-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-SXC online konvertert.
 
 family: total
 platformtag: cpp

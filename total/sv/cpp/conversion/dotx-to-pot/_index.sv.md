@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOTX till POT via C++ eller med gratis Online Converter
-description: Exportera DOTX till POT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: Exportera DOTX till POT i dina C++-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOTX till POT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

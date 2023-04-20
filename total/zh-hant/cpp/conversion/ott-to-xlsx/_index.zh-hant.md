@@ -1,6 +1,6 @@
 ---
 title: 在 C++ 中將 OTT 轉換為 XLSX 或使用免費的在線轉換器
-description: 無需使用 Microsoft Word 或 Microsoft Excel 即可將 OTT 轉換為 XLSX 的 C++ API 或在線應用程序 或在線。在集成代碼之前快速測試免費的 POT 到 CSV 在線轉換器。
+description: 無需使用 Microsoft Word 或 Microsoft Excel 即可將 OTT 轉換為 XLSX 的 C++ API 或在線應用程序 或在線。在集成代碼之前快速測試免費的 OTT 到 XLSX 在線轉換器。
 
 family: total
 platformtag: cpp

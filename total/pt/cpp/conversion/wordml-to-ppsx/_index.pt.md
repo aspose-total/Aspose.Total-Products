@@ -1,6 +1,6 @@
 ---
 title: Converter WORDML para PPSX via C++ ou com o conversor online grátis
-description: Exporte WORDML para PPSX em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código.
+description: Exporte WORDML para PPSX em seus aplicativos C++ sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de WORDML para PPSX rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

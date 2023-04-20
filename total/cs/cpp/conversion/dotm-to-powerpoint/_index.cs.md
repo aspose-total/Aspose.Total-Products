@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na POWERPOINT přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOTM do POWERPOINT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOTM do POWERPOINT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na POWERPOINT.
 
 family: total
 platformtag: cpp

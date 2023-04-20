@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na EXCEL v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod RTF do EXCEL nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod RTF do EXCEL nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na EXCEL.
 
 family: total
 platformtag: cpp

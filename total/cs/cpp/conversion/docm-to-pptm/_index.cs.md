@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na PPTM přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOCM do PPTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOCM do PPTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na PPTM.
 
 family: total
 platformtag: cpp

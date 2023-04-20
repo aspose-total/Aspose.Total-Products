@@ -1,6 +1,6 @@
 ---
 title: Převést MOBI na XLAM v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod MOBI do XLAM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod MOBI do XLAM nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLAM.
 
 family: total
 platformtag: cpp

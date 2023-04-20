@@ -1,6 +1,6 @@
 ---
 title: DOTM'yi C++ ile ODP'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOTM'yi ODP'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda DOTM'yi ODP'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTM'den ODP'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

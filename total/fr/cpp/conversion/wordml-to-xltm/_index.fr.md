@@ -1,6 +1,6 @@
 ---
 title: Convertir WORDML en XLTM en C++ ou avec le convertisseur en ligne gratuit
-description: API C++ pour convertir WORDML en XLTM ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: API C++ pour convertir WORDML en XLTM ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne WORDML vers XLTM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

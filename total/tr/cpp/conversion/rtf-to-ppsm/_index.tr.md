@@ -1,6 +1,6 @@
 ---
 title: RTF'yi C++ ile PPSM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda RTF'yi PPSM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda RTF'yi PPSM'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz RTF'den PPSM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

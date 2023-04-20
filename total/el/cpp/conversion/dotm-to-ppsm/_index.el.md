@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTM σε PPSM μέσω C++ ή με δωρεάν Online Converter
-description: Εξαγωγή DOTM σε PPSM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: Εξαγωγή DOTM σε PPSM στις εφαρμογές σας C++ χωρίς χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε PPSM πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

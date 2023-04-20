@@ -1,6 +1,6 @@
 ---
 title: แปลง DOTX เป็น PPSX ผ่าน C++ หรือด้วยตัวแปลงออนไลน์ฟรี
-description: ส่งออก DOTX เป็น PPSX ในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word ของ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: ส่งออก DOTX เป็น PPSX ในแอปพลิเคชัน C++ ของคุณโดยไม่ต้องใช้ Microsoft Word ของ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง DOTX เป็น PPSX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

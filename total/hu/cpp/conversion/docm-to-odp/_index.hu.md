@@ -1,6 +1,6 @@
 ---
 title: A DOCM konvertálása ODP-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOCM-t ODP-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOCM-t ODP-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-ODP online konvertert.
 
 family: total
 platformtag: cpp

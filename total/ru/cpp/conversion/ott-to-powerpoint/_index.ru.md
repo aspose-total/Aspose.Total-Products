@@ -1,6 +1,6 @@
 ---
 title: Преобразование OTT в POWERPOINT через C++ или с помощью бесплатного онлайн-конвертера
-description: Экспортируйте OTT в POWERPOINT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспортируйте OTT в POWERPOINT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер OTT в POWERPOINT, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta DOCX a PPTX a través de C++ o con el convertidor en línea gratuito
-description: Exporte DOCX a PPTX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte DOCX a PPTX en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOCX a PPTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

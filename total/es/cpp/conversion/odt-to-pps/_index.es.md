@@ -1,6 +1,6 @@
 ---
 title: Convierta ODT a PPS a través de C++ o con el convertidor en línea gratuito
-description: Exporte ODT a PPS en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte ODT a PPS en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de ODT a PPS rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORD-t ODS-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a WORD konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a WORD konvertálásához ODS-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-ODS online konvertert.
 
 family: total
 platformtag: cpp

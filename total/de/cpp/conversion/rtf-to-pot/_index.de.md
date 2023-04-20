@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie RTF über C++ in POT oder mit dem kostenlosen Online Converter
-description: Exportieren Sie RTF in POT in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie RTF in POT in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen RTF-zu-POT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

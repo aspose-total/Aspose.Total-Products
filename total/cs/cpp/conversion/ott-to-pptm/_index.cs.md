@@ -1,6 +1,6 @@
 ---
 title: Převést OTT na PPTM přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte OTT do PPTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte OTT do PPTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na PPTM.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converteer ODT naar SXC in C++ of met gratis Online Converter
-description: C++ API om ODT naar SXC te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: C++ API om ODT naar SXC te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis ODT naar SXC online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

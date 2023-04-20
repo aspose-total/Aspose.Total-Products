@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORDML-t EXCEL-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a WORDML konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a WORDML konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-EXCEL online konvertert.
 
 family: total
 platformtag: cpp

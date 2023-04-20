@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOTM till XLSM i C++ eller med gratis Online Converter
-description: C++ API för att konvertera DOTM till XLSM eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden.
+description: C++ API för att konvertera DOTM till XLSM eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOTM till XLSM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

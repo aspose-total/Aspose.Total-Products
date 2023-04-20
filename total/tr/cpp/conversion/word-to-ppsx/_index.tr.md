@@ -1,6 +1,6 @@
 ---
 title: WORD'yi C++ ile PPSX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda WORD'yi PPSX'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan C++ uygulamalarınızda WORD'yi PPSX'ye aktarın veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORD'den PPSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

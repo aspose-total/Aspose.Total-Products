@@ -1,6 +1,6 @@
 ---
 title: Convertir ODT a XLSX en C++ o con el convertidor en línea gratuito
-description: API de C++ para convertir ODT a XLSX o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: API de C++ para convertir ODT a XLSX o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de ODT a XLSX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

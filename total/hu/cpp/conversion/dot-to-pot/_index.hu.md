@@ -1,6 +1,6 @@
 ---
 title: A DOT konvertálása POT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOT-t POT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOT-t POT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-POT online konvertert.
 
 family: total
 platformtag: cpp

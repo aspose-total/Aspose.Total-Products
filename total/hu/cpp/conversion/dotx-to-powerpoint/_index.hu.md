@@ -1,6 +1,6 @@
 ---
 title: A DOTX konvertálása POWERPOINT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon DOTX-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon DOTX-t POWERPOINT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

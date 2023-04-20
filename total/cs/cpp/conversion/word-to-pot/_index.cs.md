@@ -1,6 +1,6 @@
 ---
 title: Převést WORD na POT přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte WORD do POT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte WORD do POT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na POT.
 
 family: total
 platformtag: cpp

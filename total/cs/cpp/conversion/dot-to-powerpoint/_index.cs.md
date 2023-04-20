@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na POWERPOINT přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte DOT do POWERPOINT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte DOT do POWERPOINT ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na POWERPOINT.
 
 family: total
 platformtag: cpp

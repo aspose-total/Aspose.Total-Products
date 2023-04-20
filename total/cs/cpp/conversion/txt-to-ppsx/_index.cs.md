@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na PPSX přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte TXT do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte TXT do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  TXT na PPSX.
 
 family: total
 platformtag: cpp

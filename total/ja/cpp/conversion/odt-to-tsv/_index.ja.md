@@ -1,6 +1,6 @@
 ---
 title: C++でODTをTSVに変換する または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずにODTをTSVに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずにODTをTSVに変換するC++API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の ODT から TSV へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

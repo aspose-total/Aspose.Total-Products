@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOTM über C++ in POTM oder mit dem kostenlosen Online Converter
-description: Exportieren Sie DOTM in POTM in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie DOTM in POTM in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen DOTM-zu-POTM-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

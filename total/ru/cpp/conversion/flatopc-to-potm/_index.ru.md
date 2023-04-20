@@ -1,6 +1,6 @@
 ---
 title: Преобразование FLATOPC в POTM через C++ или с помощью бесплатного онлайн-конвертера
-description: Экспортируйте FLATOPC в POTM в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспортируйте FLATOPC в POTM в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер FLATOPC в POTM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

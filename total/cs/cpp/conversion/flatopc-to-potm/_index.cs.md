@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na POTM přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte FLATOPC do POTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte FLATOPC do POTM ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  FLATOPC na POTM.
 
 family: total
 platformtag: cpp

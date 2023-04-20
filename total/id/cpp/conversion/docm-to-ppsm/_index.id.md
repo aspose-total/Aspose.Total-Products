@@ -1,6 +1,6 @@
 ---
 title: Konversi DOCM ke PPSM melalui C++ atau dengan Konverter Online gratis
-description: Ekspor DOCM ke PPSM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: Ekspor DOCM ke PPSM di aplikasi C++ Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online DOCM ke PPSM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

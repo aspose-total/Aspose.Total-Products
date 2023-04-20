@@ -1,6 +1,6 @@
 ---
 title: Konversi DOCM ke XLSX di C++ atau dengan Konverter Online gratis
-description: C++ API untuk Mengonversi DOCM ke XLSX atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
+description: C++ API untuk Mengonversi DOCM ke XLSX atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOCM ke XLSX gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

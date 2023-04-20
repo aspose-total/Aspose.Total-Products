@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na EXCEL v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod WORDML do EXCEL nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod WORDML do EXCEL nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na EXCEL.
 
 family: total
 platformtag: cpp

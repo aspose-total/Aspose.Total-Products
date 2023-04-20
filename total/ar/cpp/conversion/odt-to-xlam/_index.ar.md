@@ -1,6 +1,6 @@
 ---
 title: تحويل ODT إلى XLAM في C++ أو مع محول مجاني على الإنترنت
-description: C++ API لتحويل ODT إلى XLAM أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: C++ API لتحويل ODT إلى XLAM أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول ODT إلى XLAM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

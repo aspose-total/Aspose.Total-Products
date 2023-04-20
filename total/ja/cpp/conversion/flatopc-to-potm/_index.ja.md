@@ -1,6 +1,6 @@
 ---
 title: C++を介してFLATOPCをPOTMに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでFLATOPCをPOTMにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでFLATOPCをPOTMにエクスポートする またはオンライン。コードを統合する前に、無料の FLATOPC から POTM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

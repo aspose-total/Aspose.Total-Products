@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOT über C++ in PPSM oder mit dem kostenlosen Online Converter
-description: Exportieren Sie DOT in PPSM in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie DOT in PPSM in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen DOT-zu-PPSM-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOCM sang PPS qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất DOCM sang PPS trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất DOCM sang PPS trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến DOCM sang PPS miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

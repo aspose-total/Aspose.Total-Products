@@ -1,6 +1,6 @@
 ---
 title: تحويل RTF إلى POTX عبر C++ أو مع محول مجاني على الإنترنت
-description: قم بتصدير RTF إلى POTX في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتصدير RTF إلى POTX في تطبيقات C++ دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول RTF إلى POTX على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

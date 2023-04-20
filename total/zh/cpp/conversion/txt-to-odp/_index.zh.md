@@ -1,6 +1,6 @@
 ---
 title: 通过 C++ 将 TXT 转换为 ODP 或使用免费的在线转换器
-description: 在您的 C++ 应用程序中将 TXT 导出为 ODP，而无需使用 Microsoft Word of PowerPoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。
+description: 在您的 C++ 应用程序中将 TXT 导出为 ODP，而无需使用 Microsoft Word of PowerPoint 或在线。在集成代码之前快速测试免费的 TXT 到 ODP 在线转换器。
 
 family: total
 platformtag: cpp

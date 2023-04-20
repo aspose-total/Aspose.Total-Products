@@ -1,6 +1,6 @@
 ---
 title: Convertir RTF en PPSM via C++ ou avec le convertisseur en ligne gratuit
-description: Exportez RTF vers PPSM dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code.
+description: Exportez RTF vers PPSM dans vos applications C++ sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne RTF vers PPSM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

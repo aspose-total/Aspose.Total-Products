@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTX naar DIF in C++ of met gratis Online Converter
-description: C++ API om DOTX naar DIF te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert.
+description: C++ API om DOTX naar DIF te converteren of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOTX naar DIF online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

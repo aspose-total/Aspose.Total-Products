@@ -1,6 +1,6 @@
 ---
 title: A OTT konvertálása POT-re C++ segítségével vagy ingyenes online konverterrel
-description: Exportáljon OTT-t POT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: Exportáljon OTT-t POT-be C++-alkalmazásaiban Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-POT online konvertert.
 
 family: total
 platformtag: cpp

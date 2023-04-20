@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na PPSX přes C++ nebo pomocí bezplatného online převodníku
-description: Exportujte RTF do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: Exportujte RTF do PPSX ve svých aplikacích C++ bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na PPSX.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na TSV v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod DOCM do TSV nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod DOCM do TSV nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na TSV.
 
 family: total
 platformtag: cpp

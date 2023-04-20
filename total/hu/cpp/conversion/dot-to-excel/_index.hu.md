@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t EXCEL-vé C++-ban vagy ingyenes online konverterrel
-description: C++ API a DOT konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert.
+description: C++ API a DOT konvertálásához EXCEL-vé Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-EXCEL online konvertert.
 
 family: total
 platformtag: cpp

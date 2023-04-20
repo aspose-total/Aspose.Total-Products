@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в XLTM на C++ или с помощью бесплатного онлайн-конвертера
-description: C++ API для преобразования WORDML в XLTM или онлайн-приложение без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: C++ API для преобразования WORDML в XLTM или онлайн-приложение без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORDML в XLTM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

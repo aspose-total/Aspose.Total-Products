@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi WORD sang POTX qua C++ hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Xuất WORD sang POTX trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã.
+description: Xuất WORD sang POTX trong các ứng dụng C++ của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến WORD sang POTX miễn phí trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

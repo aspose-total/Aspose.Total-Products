@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na XLSB v C++ nebo pomocí bezplatného online převodníku
-description: C++ API pro převod ODT do XLSB nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV.
+description: C++ API pro převod ODT do XLSB nebo online aplikace bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLSB.
 
 family: total
 platformtag: cpp

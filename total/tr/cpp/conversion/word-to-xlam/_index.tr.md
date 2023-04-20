@@ -1,6 +1,6 @@
 ---
 title: WORD'yi C++'da XLAM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi XLAM'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi XLAM'ye dönüştürmek için C++ API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORD'den XLAM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

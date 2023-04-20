@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie WORD über C++ in ODP oder mit dem kostenlosen Online Converter
-description: Exportieren Sie WORD in ODP in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
+description: Exportieren Sie WORD in ODP in Ihren C++-Anwendungen, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen WORD-zu-ODP-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convierta ODT a PPSM a través de C++ o con el convertidor en línea gratuito
-description: Exporte ODT a PPSM en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código.
+description: Exporte ODT a PPSM en sus aplicaciones C++ sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de ODT a PPSM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

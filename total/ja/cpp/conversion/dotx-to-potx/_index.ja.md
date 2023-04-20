@@ -1,6 +1,6 @@
 ---
 title: C++を介してDOTXをPOTXに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOTXをPOTXにエクスポートする またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにC++アプリケーションでDOTXをPOTXにエクスポートする またはオンライン。コードを統合する前に、無料の DOTX から POTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

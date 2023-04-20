@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTX σε XLS σε C++ ή με δωρεάν Online Converter
-description: C++ API για μετατροπή DOTX σε XLS ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα.
+description: C++ API για μετατροπή DOTX σε XLS ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTX σε XLS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

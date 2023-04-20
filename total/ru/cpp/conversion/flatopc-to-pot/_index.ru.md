@@ -1,6 +1,6 @@
 ---
 title: Преобразование FLATOPC в POT через C++ или с помощью бесплатного онлайн-конвертера
-description: Экспортируйте FLATOPC в POT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код.
+description: Экспортируйте FLATOPC в POT в свои приложения C++ без использования Microsoft Word of PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер FLATOPC в POT, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp
