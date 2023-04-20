@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTM na XLS pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod POTM na XLS ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod POTM na XLS ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTM na XLS. 
 
 family: total
 platformtag: Python

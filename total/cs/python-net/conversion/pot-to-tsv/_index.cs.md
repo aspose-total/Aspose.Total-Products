@@ -1,6 +1,6 @@
 ---
 title: Převeďte POT na TSV pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod POT na TSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod POT na TSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na TSV. 
 
 family: total
 platformtag: Python

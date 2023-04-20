@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSM σε XLSM χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή PPSM σε XLSM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPSM σε XLSM στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSM σε XLSM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

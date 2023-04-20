@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX na CSV pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPTX na CSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPTX na CSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na CSV. 
 
 family: total
 platformtag: Python

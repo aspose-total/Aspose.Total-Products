@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: PPT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak PPSX'yi EXCEL'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda PPSX'den EXCEL'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda PPSX'den EXCEL'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSX'den EXCEL'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

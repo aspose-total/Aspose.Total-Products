@@ -1,6 +1,6 @@
 ---
 title: Converti PPTM in XLSM usando Python o con il convertitore online gratuito
-description: Conversione da PPTM a XLSM nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da PPTM a XLSM nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da PPTM a XLSM prima di integrare il codice. 
 
 family: total
 platformtag: Python

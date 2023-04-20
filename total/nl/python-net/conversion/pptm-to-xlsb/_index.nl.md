@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTM naar XLSB met behulp van Python of met gratis Online Converter
-description: PPTM naar XLSB-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPTM naar XLSB-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis PPTM naar XLSB online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

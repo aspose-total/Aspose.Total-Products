@@ -1,6 +1,6 @@
 ---
 title: Konversikan PPTX ke XLSX menggunakan Python atau dengan Konverter Online gratis
-description: Konversi PPTX ke XLSX di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi PPTX ke XLSX di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online PPTX ke XLSX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

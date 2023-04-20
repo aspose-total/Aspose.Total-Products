@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTX na CSV za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPTX na CSV w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPTX na CSV w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online PPTX na CSV przed integracją kodu. 
 
 family: total
 platformtag: Python

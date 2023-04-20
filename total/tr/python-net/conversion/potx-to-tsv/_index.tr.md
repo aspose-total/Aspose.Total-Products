@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak POTX'yi TSV'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda POTX'den TSV'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda POTX'den TSV'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTX'den TSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

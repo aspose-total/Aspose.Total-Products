@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in XLSB usando Python o con il convertitore online gratuito
-description: Conversione da POTM a XLSB nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da POTM a XLSB nelle tue applicazioni Python senza utilizzare Microsoft Office o in linea. Prova rapidamente il convertitore online gratuito da POTM a XLSB prima di integrare il codice. 
 
 family: total
 platformtag: Python

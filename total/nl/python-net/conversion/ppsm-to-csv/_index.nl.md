@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSM naar CSV met behulp van Python of met gratis Online Converter
-description: PPSM naar CSV-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPSM naar CSV-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis PPSM naar CSV online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

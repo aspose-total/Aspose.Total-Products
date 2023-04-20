@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na XLS za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPS na XLS w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPS na XLS w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online PPS na XLS przed integracją kodu. 
 
 family: total
 platformtag: Python

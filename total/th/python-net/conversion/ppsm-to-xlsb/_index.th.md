@@ -1,6 +1,6 @@
 ---
 title: แปลง PPSM เป็น XLSB โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง PPSM เป็น XLSB ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง PPSM เป็น XLSB ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง PPSM เป็น XLSB ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

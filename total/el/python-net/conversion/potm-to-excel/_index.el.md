@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POTM σε EXCEL χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή POTM σε EXCEL στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POTM σε EXCEL στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POTM σε EXCEL πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

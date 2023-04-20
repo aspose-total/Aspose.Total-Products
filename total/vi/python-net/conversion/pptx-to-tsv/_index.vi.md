@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTX sang TSV bằng Python hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPTX sang TSV trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang POT miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: Chuyển đổi PPTX sang TSV trong các ứng dụng Python của bạn mà không cần sử dụng Microsoft Office hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPTX sang TSV miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 
 family: total
 platformtag: Python

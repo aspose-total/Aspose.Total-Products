@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POT σε XLS χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή POT σε XLS στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POT σε XLS στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε XLS πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

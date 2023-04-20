@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-t XLS-be Python segítségével vagy ingyenes online konverterrel
-description: PPS-ből XLS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPS-ből XLS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-XLS online konvertert. 
 
 family: total
 platformtag: Python

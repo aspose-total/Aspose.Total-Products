@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-t XLSM-be Python segítségével vagy ingyenes online konverterrel
-description: POTX-ből XLSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POTX-ből XLSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-XLSM online konvertert. 
 
 family: total
 platformtag: Python

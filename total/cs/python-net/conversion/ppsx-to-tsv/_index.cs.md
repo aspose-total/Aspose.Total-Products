@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSX na TSV pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPSX na TSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPSX na TSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na TSV. 
 
 family: total
 platformtag: Python

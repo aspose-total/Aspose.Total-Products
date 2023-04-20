@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSX σε CSV χρησιμοποιώντας Python ή με δωρεάν Online Converter
-description: Μετατροπή PPSX σε CSV στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPSX σε CSV στις εφαρμογές Python σας χωρίς τη χρήση του Microsoft Office ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSX σε CSV πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

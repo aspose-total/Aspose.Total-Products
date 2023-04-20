@@ -1,6 +1,6 @@
 ---
 title: แปลง POTX เป็น EXCEL โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง POTX เป็น EXCEL ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง POTX เป็น EXCEL ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง POTX เป็น EXCEL ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

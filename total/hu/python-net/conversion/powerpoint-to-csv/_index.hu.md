@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-t CSV-be Python segítségével vagy ingyenes online konverterrel
-description: POWERPOINT-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POWERPOINT-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-CSV online konvertert. 
 
 family: total
 platformtag: Python

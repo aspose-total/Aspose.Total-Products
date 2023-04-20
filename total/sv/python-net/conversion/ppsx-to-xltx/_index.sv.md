@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSX till XLTX med Python eller med gratis Online Converter
-description: PPSX till XLTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: PPSX till XLTX-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis PPSX till XLTX online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar XLSB met behulp van Python of met gratis Online Converter
-description: PPS naar XLSB-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPS naar XLSB-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis PPS naar XLSB online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

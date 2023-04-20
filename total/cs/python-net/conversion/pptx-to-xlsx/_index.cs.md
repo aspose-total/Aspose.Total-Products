@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX na XLSX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPTX na XLSX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPTX na XLSX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na XLSX. 
 
 family: total
 platformtag: Python

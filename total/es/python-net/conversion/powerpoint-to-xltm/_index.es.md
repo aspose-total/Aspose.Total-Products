@@ -1,6 +1,6 @@
 ---
 title: Convierte POWERPOINT a XLTM usando Python o con el convertidor en línea gratuito
-description: Conversión de POWERPOINT a XLTM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de POWERPOINT a XLTM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a XLTM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

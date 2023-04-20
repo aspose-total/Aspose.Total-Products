@@ -1,6 +1,6 @@
 ---
 title: Convierte PPT a XLTX usando Python o con el convertidor en línea gratuito
-description: Conversión de PPT a XLTX en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de PPT a XLTX en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de PPT a XLTX rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

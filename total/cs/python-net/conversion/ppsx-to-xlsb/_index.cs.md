@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSX na XLSB pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPSX na XLSB ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPSX na XLSB ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na XLSB. 
 
 family: total
 platformtag: Python

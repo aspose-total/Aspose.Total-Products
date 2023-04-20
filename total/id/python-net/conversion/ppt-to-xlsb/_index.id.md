@@ -1,6 +1,6 @@
 ---
 title: Konversikan PPT ke XLSB menggunakan Python atau dengan Konverter Online gratis
-description: Konversi PPT ke XLSB di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi PPT ke XLSB di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online PPT ke XLSB gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

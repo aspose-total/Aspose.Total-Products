@@ -1,6 +1,6 @@
 ---
 title: Convertir POTX en XLSX en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion POTX en XLSX dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion POTX en XLSX dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne POTX vers XLSX gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

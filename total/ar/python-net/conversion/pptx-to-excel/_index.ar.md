@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTX إلى EXCEL باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل PPTX إلى EXCEL في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل PPTX إلى EXCEL في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول PPTX إلى EXCEL على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

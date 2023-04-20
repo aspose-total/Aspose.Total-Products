@@ -1,6 +1,6 @@
 ---
 title: Convierte PPT a XLSM usando Python o con el convertidor en línea gratuito
-description: Conversión de PPT a XLSM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de PPT a XLSM en sus aplicaciones de Python sin usar Microsoft Office o en línea. Pruebe el convertidor en línea gratuito de PPT a XLSM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

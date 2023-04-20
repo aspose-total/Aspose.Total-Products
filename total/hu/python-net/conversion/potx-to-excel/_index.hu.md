@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: POTX-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POTX-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

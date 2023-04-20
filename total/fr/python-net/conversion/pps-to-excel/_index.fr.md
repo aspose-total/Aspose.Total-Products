@@ -1,6 +1,6 @@
 ---
 title: Convertir PPS en EXCEL en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion PPS en EXCEL dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion PPS en EXCEL dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne PPS vers EXCEL gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

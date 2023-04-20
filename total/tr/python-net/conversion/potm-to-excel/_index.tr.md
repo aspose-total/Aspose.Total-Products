@@ -1,6 +1,6 @@
 ---
 title: Python kullanarak POTM'yi EXCEL'e dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Office kullanmadan Python uygulamalarınızda POTM'den EXCEL'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Office kullanmadan Python uygulamalarınızda POTM'den EXCEL'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTM'den EXCEL'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

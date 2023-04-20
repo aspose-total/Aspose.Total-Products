@@ -1,6 +1,6 @@
 ---
 title: 使用 Python 将 PPTX 转换为 CSV 或使用免费的在线转换器
-description: 在不使用 Microsoft Office 的情况下在 Python 应用程序中将 PPTX 转换为 CSV 或在线。在集成代码之前快速测试免费的 CSV 到 POT 在线转换器。 
+description: 在不使用 Microsoft Office 的情况下在 Python 应用程序中将 PPTX 转换为 CSV 或在线。在集成代码之前快速测试免费的 PPTX 到 CSV 在线转换器。 
 
 family: total
 platformtag: Python

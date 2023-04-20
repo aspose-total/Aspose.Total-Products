@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till TSV med Python eller med gratis Online Converter
-description: PPTX till TSV-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: PPTX till TSV-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis PPTX till TSV online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar XLTX met behulp van Python of met gratis Online Converter
-description: POTM naar XLTX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: POTM naar XLTX-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis POTM naar XLTX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

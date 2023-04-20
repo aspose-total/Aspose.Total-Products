@@ -1,6 +1,6 @@
 ---
 title: แปลง PPTX เป็น XLTX โดยใช้ Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง PPTX เป็น XLTX ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง PPTX เป็น XLTX ในแอปพลิเคชัน Python โดยไม่ต้องใช้ Microsoft Office หรือทางออนไลน์ ทดสอบตัวแปลง PPTX เป็น XLTX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Python を使用して POT を XLSX に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの POT から XLSX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの POT から XLSX への変換 またはオンライン。コードを統合する前に、無料の POT から XLSX へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

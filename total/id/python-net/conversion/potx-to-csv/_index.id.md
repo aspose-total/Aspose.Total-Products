@@ -1,6 +1,6 @@
 ---
 title: Konversikan POTX ke CSV menggunakan Python atau dengan Konverter Online gratis
-description: Konversi POTX ke CSV di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi POTX ke CSV di aplikasi Python Anda tanpa menggunakan Microsoft Office atau daring. Uji konverter online POTX ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

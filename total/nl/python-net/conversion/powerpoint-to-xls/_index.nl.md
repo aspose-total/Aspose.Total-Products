@@ -1,6 +1,6 @@
 ---
 title: Converteer POWERPOINT naar XLS met behulp van Python of met gratis Online Converter
-description: POWERPOINT naar XLS-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: POWERPOINT naar XLS-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis POWERPOINT naar XLS online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

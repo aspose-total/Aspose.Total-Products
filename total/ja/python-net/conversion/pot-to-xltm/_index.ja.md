@@ -1,6 +1,6 @@
 ---
 title: Python を使用して POT を XLTM に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Office を使用しない Python アプリケーションでの POT から XLTM への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Office を使用しない Python アプリケーションでの POT から XLTM への変換 またはオンライン。コードを統合する前に、無料の POT から XLTM へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

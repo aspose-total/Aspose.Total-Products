@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-t XLSM-be Python segítségével vagy ingyenes online konverterrel
-description: POWERPOINT-ből XLSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POWERPOINT-ből XLSM-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-XLSM online konvertert. 
 
 family: total
 platformtag: Python

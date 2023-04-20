@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPT till CSV med Python eller med gratis Online Converter
-description: PPT till CSV-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: PPT till CSV-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis PPT till CSV online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

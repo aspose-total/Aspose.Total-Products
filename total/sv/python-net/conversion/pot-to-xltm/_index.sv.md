@@ -1,6 +1,6 @@
 ---
 title: Konvertera POT till XLTM med Python eller med gratis Online Converter
-description: POT till XLTM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: POT till XLTM-konvertering i dina Python-applikationer utan att använda Microsoft Office eller online. Testa gratis POT till XLTM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

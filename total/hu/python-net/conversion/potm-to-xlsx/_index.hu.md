@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-t XLSX-be Python segítségével vagy ingyenes online konverterrel
-description: POTM-ből XLSX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POTM-ből XLSX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-XLSX online konvertert. 
 
 family: total
 platformtag: Python

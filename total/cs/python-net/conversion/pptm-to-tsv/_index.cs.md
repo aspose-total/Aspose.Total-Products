@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTM na TSV pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod PPTM na TSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod PPTM na TSV ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTM na TSV. 
 
 family: total
 platformtag: Python

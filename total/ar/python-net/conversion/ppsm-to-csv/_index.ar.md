@@ -1,6 +1,6 @@
 ---
 title: تحويل PPSM إلى CSV باستخدام Python أو مع محول مجاني على الإنترنت
-description: تحويل PPSM إلى CSV في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل PPSM إلى CSV في تطبيقات Python الخاصة بك دون استخدام Microsoft Office أو عبر الإنترنت. اختبر محول PPSM إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

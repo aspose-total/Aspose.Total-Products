@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-t CSV-be Python segítségével vagy ingyenes online konverterrel
-description: PPTX-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPTX-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-CSV online konvertert. 
 
 family: total
 platformtag: Python

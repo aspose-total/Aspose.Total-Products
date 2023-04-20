@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTM na EXCEL za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPTM na EXCEL w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPTM na EXCEL w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online PPTM na EXCEL przed integracją kodu. 
 
 family: total
 platformtag: Python

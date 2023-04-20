@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-t XLSX-be Python segítségével vagy ingyenes online konverterrel
-description: PPSM-ből XLSX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPSM-ből XLSX-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-XLSX online konvertert. 
 
 family: total
 platformtag: Python

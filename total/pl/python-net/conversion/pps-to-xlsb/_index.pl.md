@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na XLSB za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPS na XLSB w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPS na XLSB w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online PPS na XLSB przed integracją kodu. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX na XLSX pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod POTX na XLSX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod POTX na XLSX ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na XLSX. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POT-t CSV-be Python segítségével vagy ingyenes online konverterrel
-description: POT-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POT-ből CSV-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
 
 family: total
 platformtag: Python

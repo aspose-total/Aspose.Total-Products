@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-t XLS-be Python segítségével vagy ingyenes online konverterrel
-description: POWERPOINT-ből XLS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POWERPOINT-ből XLS-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-XLS online konvertert. 
 
 family: total
 platformtag: Python

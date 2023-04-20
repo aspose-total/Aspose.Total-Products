@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX na EXCEL pomocí Pythonu nebo pomocí bezplatného online převodníku
-description: Převod POTX na EXCEL ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod POTX na EXCEL ve vašich aplikacích Python bez použití Microsoft Office nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na EXCEL. 
 
 family: total
 platformtag: Python

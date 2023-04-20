@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPS in XLTX mit Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von PPS in XLTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von PPS in XLTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Office oder online. Testen Sie schnell den kostenlosen PPS-zu-XLTX-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

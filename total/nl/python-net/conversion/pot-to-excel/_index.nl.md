@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar EXCEL met behulp van Python of met gratis Online Converter
-description: POT naar EXCEL-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: POT naar EXCEL-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis POT naar EXCEL online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

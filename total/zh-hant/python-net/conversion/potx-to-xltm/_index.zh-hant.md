@@ -1,6 +1,6 @@
 ---
 title: 使用 Python 將 POTX 轉換為 XLTM 或使用免費的在線轉換器
-description: 在不使用 Microsoft Office 的情況下在 Python 應用程序中將 POTX 轉換為 XLTM 或在線。在集成代碼之前快速測試免費的 CSV 到 POT 在線轉換器。 
+description: 在不使用 Microsoft Office 的情況下在 Python 應用程序中將 POTX 轉換為 XLTM 或在線。在集成代碼之前快速測試免費的 POTX 到 XLTM 在線轉換器。 
 
 family: total
 platformtag: Python

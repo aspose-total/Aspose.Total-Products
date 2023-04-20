@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: POWERPOINT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: POWERPOINT-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

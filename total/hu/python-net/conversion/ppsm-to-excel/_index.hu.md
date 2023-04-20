@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-t EXCEL-be Python segítségével vagy ingyenes online konverterrel
-description: PPSM-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: PPSM-ből EXCEL-be konvertálás a Python-alkalmazásokban Microsoft Office használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-EXCEL online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Convertir PPTX en XLSB en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion PPTX en XLSB dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion PPTX en XLSB dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne PPTX vers XLSB gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

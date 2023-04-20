@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar TSV met behulp van Python of met gratis Online Converter
-description: PPS naar TSV-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: PPS naar TSV-conversie in uw Python-applicaties zonder Microsoft Office te gebruiken of online. Test snel de gratis PPS naar TSV online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

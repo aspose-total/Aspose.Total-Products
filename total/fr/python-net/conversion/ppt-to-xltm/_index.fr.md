@@ -1,6 +1,6 @@
 ---
 title: Convertir PPT en XLTM en utilisant Python ou avec le convertisseur en ligne gratuit
-description: Conversion PPT en XLTM dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion PPT en XLTM dans vos applications Python sans utiliser Microsoft Office ou en ligne. Testez rapidement le convertisseur en ligne PPT vers XLTM gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTX na XLSM za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja PPTX na XLSM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja PPTX na XLSM w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online PPTX na XLSM przed integracją kodu. 
 
 family: total
 platformtag: Python

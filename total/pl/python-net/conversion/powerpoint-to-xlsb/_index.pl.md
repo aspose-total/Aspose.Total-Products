@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POWERPOINT na XLSB za pomocą Pythona lub za pomocą bezpłatnego konwertera online
-description: Konwersja POWERPOINT na XLSB w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja POWERPOINT na XLSB w aplikacjach Pythona bez użycia pakietu Microsoft Office lub online. Szybko przetestuj darmowy konwerter online POWERPOINT na XLSB przed integracją kodu. 
 
 family: total
 platformtag: Python
