@@ -1,6 +1,6 @@
 ---
 title: Convertir ODT a PPS en Python o con el convertidor en línea gratuito
-description: Conversión de ODT a PPS en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de ODT a PPS en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de ODT a PPS rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

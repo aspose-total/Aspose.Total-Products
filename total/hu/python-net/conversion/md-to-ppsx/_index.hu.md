@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MD-t PPSX-be Pythonban vagy ingyenes online konverterrel
-description: MD-ből PPSX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: MD-ből PPSX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MD-PPSX online konvertert. 
 
 family: total
 platformtag: Python

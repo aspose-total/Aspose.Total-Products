@@ -1,6 +1,6 @@
 ---
 title: Python'da DOT'yi PPTM'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOT'den PPTM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOT'den PPTM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOT'den PPTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

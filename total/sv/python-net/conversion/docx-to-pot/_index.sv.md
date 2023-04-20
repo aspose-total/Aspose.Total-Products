@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCX till POT i Python eller med gratis Online Converter
-description: DOCX till POT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: DOCX till POT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOCX till POT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

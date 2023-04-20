@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODT-t PPT-be Pythonban vagy ingyenes online konverterrel
-description: ODT-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: ODT-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-PPT online konvertert. 
 
 family: total
 platformtag: Python

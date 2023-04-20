@@ -1,6 +1,6 @@
 ---
 title: Преобразование OTT в POT в Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование OTT в POT в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование OTT в POT в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер OTT в POT, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t PPT-be Pythonban vagy ingyenes online konverterrel
-description: DOTX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-PPT online konvertert. 
 
 family: total
 platformtag: Python

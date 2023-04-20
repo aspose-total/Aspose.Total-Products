@@ -1,6 +1,6 @@
 ---
 title: Převést OTT na PPSM v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod OTT na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod OTT na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na PPSM. 
 
 family: total
 platformtag: Python

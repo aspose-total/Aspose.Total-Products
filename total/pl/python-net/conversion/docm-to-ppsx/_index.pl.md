@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCM na PPSX w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOCM do PPSX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOCM do PPSX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOCM na PPSX przed integracją kodu. 
 
 family: total
 platformtag: Python

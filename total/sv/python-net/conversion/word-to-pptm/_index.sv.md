@@ -1,6 +1,6 @@
 ---
 title: Konvertera WORD till PPTM i Python eller med gratis Online Converter
-description: WORD till PPTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: WORD till PPTM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis WORD till PPTM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

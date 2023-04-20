@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t POTM-be Pythonban vagy ingyenes online konverterrel
-description: DOTM-ből POTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTM-ből POTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-POTM online konvertert. 
 
 family: total
 platformtag: Python

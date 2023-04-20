@@ -1,6 +1,6 @@
 ---
 title: Python で RTF を ODP に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで RTF から ODP への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで RTF から ODP への変換 またはオンライン。コードを統合する前に、無料の RTF から ODP へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

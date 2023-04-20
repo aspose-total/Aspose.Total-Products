@@ -1,6 +1,6 @@
 ---
 title: Python'da TXT'yi POTX'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan TXT'den POTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan TXT'den POTX'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz TXT'den POTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

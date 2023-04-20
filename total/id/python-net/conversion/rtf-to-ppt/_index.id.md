@@ -1,6 +1,6 @@
 ---
 title: Konversi RTF ke PPT dengan Python atau dengan Konverter Online gratis
-description: Konversi RTF ke PPT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi RTF ke PPT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online RTF ke PPT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

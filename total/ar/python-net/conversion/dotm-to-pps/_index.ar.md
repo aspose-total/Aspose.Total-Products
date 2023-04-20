@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTM إلى PPS في Python أو مع محول مجاني على الإنترنت
-description: تحويل DOTM إلى PPS في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل DOTM إلى PPS في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول DOTM إلى PPS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

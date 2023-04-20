@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOC σε POWERPOINT στην Python ή με δωρεάν Online Converter
-description: Μετατροπή DOC σε POWERPOINT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOC σε POWERPOINT στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOC σε POWERPOINT πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

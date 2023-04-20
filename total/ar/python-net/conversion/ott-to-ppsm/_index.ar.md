@@ -1,6 +1,6 @@
 ---
 title: تحويل OTT إلى PPSM في Python أو مع محول مجاني على الإنترنت
-description: تحويل OTT إلى PPSM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل OTT إلى PPSM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول OTT إلى PPSM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

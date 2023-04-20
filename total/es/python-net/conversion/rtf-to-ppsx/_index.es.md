@@ -1,6 +1,6 @@
 ---
 title: Convertir RTF a PPSX en Python o con el convertidor en línea gratuito
-description: Conversión de RTF a PPSX en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de RTF a PPSX en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de RTF a PPSX rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

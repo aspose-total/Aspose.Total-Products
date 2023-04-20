@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na PPTX v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod RTF na PPTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod RTF na PPTX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na PPTX. 
 
 family: total
 platformtag: Python

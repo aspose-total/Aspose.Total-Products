@@ -1,6 +1,6 @@
 ---
 title: แปลง ODT เป็น PPSX ใน Python หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง ODT เป็น PPSX ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น POT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: การแปลง ODT เป็น PPSX ในแอปพลิเคชัน Python ของคุณโดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง ODT เป็น PPSX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 
 family: total
 platformtag: Python

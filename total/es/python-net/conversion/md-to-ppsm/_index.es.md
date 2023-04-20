@@ -1,6 +1,6 @@
 ---
 title: Convertir MD a PPSM en Python o con el convertidor en línea gratuito
-description: Conversión de MD a PPSM en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de MD a PPSM en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de MD a PPSM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

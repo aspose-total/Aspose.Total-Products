@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTX إلى POT في Python أو مع محول مجاني على الإنترنت
-description: تحويل DOTX إلى POT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل DOTX إلى POT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول DOTX إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

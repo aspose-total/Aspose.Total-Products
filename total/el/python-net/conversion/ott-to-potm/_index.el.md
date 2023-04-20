@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή OTT σε POTM στην Python ή με δωρεάν Online Converter
-description: Μετατροπή OTT σε POTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή OTT σε POTM στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα OTT σε POTM πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

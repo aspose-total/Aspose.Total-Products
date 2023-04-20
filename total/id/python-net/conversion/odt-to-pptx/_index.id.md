@@ -1,6 +1,6 @@
 ---
 title: Konversi ODT ke PPTX dengan Python atau dengan Konverter Online gratis
-description: Konversi ODT ke PPTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi ODT ke PPTX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online ODT ke PPTX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

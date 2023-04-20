@@ -1,6 +1,6 @@
 ---
 title: تحويل TXT إلى PPSX في Python أو مع محول مجاني على الإنترنت
-description: تحويل TXT إلى PPSX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل TXT إلى PPSX في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول TXT إلى PPSX على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

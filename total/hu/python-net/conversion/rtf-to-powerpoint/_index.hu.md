@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t POWERPOINT-be Pythonban vagy ingyenes online konverterrel
-description: RTF-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: RTF-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-POWERPOINT online konvertert. 
 
 family: total
 platformtag: Python

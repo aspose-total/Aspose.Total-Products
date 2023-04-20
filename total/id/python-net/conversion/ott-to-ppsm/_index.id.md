@@ -1,6 +1,6 @@
 ---
 title: Konversi OTT ke PPSM dengan Python atau dengan Konverter Online gratis
-description: Konversi OTT ke PPSM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi OTT ke PPSM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online OTT ke PPSM gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

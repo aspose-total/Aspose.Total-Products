@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a MD-t POTX-be Pythonban vagy ingyenes online konverterrel
-description: MD-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: MD-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MD-POTX online konvertert. 
 
 family: total
 platformtag: Python

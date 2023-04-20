@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie RTF in POT in Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von RTF in POT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von RTF in POT in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen RTF-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

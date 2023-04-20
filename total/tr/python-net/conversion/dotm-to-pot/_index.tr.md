@@ -1,6 +1,6 @@
 ---
 title: Python'da DOTM'yi POT'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOTM'den POT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan DOTM'den POT'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTM'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

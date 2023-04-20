@@ -1,6 +1,6 @@
 ---
 title: Python'da WORD'yi POTM'e Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan WORD'den POTM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Python uygulamalarınızda Microsoft Word veya PowerPoint kullanmadan WORD'den POTM'e dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORD'den POTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 
 family: total
 platformtag: Python

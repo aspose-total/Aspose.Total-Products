@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTM σε POTX στην Python ή με δωρεάν Online Converter
-description: Μετατροπή DOTM σε POTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOTM σε POTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε POTX πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

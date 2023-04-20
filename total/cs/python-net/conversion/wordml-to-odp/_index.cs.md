@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na ODP v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod WORDML na ODP ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod WORDML na ODP ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na ODP. 
 
 family: total
 platformtag: Python

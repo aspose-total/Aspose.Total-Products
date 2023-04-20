@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na POTM v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOCM na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOCM na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na POTM. 
 
 family: total
 platformtag: Python

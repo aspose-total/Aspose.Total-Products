@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na ODP v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOTM na ODP ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOTM na ODP ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na ODP. 
 
 family: total
 platformtag: Python

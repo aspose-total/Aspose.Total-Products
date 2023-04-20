@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCM na POT w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOCM do POT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOCM do POT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOCM na POT przed integracją kodu. 
 
 family: total
 platformtag: Python

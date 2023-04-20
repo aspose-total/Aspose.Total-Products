@@ -1,6 +1,6 @@
 ---
 title: Преобразование MD в PPTX в Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование MD в PPTX в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование MD в PPTX в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер MD в PPTX, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

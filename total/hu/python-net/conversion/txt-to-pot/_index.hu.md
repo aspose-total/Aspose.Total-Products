@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a TXT-t POT-be Pythonban vagy ingyenes online konverterrel
-description: TXT-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: TXT-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-POT online konvertert. 
 
 family: total
 platformtag: Python

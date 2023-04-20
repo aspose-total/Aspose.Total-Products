@@ -1,6 +1,6 @@
 ---
 title: Python で WORDML を PPSM に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORDML から PPSM への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORDML から PPSM への変換 またはオンライン。コードを統合する前に、無料の WORDML から PPSM へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

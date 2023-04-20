@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCX إلى POWERPOINT في Python أو مع محول مجاني على الإنترنت
-description: تحويل DOCX إلى POWERPOINT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل DOCX إلى POWERPOINT في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول DOCX إلى POWERPOINT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

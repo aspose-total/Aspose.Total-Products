@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOT till PPT i Python eller med gratis Online Converter
-description: DOT till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: DOT till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOT till PPT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

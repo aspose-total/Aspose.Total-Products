@@ -1,6 +1,6 @@
 ---
 title: Konvertera ODT till PPSM i Python eller med gratis Online Converter
-description: ODT till PPSM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: ODT till PPSM-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis ODT till PPSM online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

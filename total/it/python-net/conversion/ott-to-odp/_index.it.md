@@ -1,6 +1,6 @@
 ---
 title: Converti OTT in ODP in Python o con il convertitore online gratuito
-description: Conversione da OTT a ODP nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da OTT a ODP nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da OTT a ODP prima di integrare il codice. 
 
 family: total
 platformtag: Python

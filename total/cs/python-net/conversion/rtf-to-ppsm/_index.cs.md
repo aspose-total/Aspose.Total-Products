@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na PPSM v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod RTF na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod RTF na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na PPSM. 
 
 family: total
 platformtag: Python

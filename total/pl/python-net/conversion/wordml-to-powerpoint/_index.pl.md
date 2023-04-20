@@ -1,6 +1,6 @@
 ---
 title: Konwertuj WORDML na POWERPOINT w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja WORDML do POWERPOINT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja WORDML do POWERPOINT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online WORDML na POWERPOINT przed integracją kodu. 
 
 family: total
 platformtag: Python

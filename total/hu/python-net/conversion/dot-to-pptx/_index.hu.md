@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t PPTX-be Pythonban vagy ingyenes online konverterrel
-description: DOT-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOT-ből PPTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-PPTX online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Python で WORD を POTX に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORD から POTX への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで WORD から POTX への変換 またはオンライン。コードを統合する前に、無料の WORD から POTX へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

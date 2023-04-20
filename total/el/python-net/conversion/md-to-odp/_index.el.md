@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή MD σε ODP στην Python ή με δωρεάν Online Converter
-description: Μετατροπή MD σε ODP στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή MD σε ODP στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα MD σε ODP πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

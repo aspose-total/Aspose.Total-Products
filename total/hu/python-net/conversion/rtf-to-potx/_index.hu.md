@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t POTX-be Pythonban vagy ingyenes online konverterrel
-description: RTF-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: RTF-ből POTX-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-POTX online konvertert. 
 
 family: total
 platformtag: Python

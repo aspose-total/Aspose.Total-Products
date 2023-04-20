@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в PPTM в Python или с помощью бесплатного онлайн-конвертера
-description: Преобразование WORDML в PPTM в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в POT, прежде чем интегрировать код. 
+description: Преобразование WORDML в PPTM в ваших приложениях Python без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORDML в PPTM, прежде чем интегрировать код. 
 
 family: total
 platformtag: Python

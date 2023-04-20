@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή WORDML σε PPTX στην Python ή με δωρεάν Online Converter
-description: Μετατροπή WORDML σε PPTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή WORDML σε PPTX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORDML σε PPTX πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

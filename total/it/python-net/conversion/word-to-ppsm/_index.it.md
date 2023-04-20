@@ -1,6 +1,6 @@
 ---
 title: Converti WORD in PPSM in Python o con il convertitore online gratuito
-description: Conversione da WORD a PPSM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da WORD a PPSM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da WORD a PPSM prima di integrare il codice. 
 
 family: total
 platformtag: Python

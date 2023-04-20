@@ -1,6 +1,6 @@
 ---
 title: Converti TXT in POTX in Python o con il convertitore online gratuito
-description: Conversione da TXT a POTX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da TXT a POTX nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da TXT a POTX prima di integrare il codice. 
 
 family: total
 platformtag: Python

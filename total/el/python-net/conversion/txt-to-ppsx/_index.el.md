@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή TXT σε PPSX στην Python ή με δωρεάν Online Converter
-description: Μετατροπή TXT σε PPSX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή TXT σε PPSX στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα TXT σε PPSX πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

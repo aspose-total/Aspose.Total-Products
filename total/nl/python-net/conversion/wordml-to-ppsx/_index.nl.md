@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar PPSX in Python of met gratis Online Converter
-description: WORDML naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: WORDML naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis WORDML naar PPSX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

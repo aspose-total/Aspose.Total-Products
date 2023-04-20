@@ -1,6 +1,6 @@
 ---
 title: Converteer OTT naar PPSM in Python of met gratis Online Converter
-description: OTT naar PPSM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: OTT naar PPSM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis OTT naar PPSM online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

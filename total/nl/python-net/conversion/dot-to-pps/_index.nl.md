@@ -1,6 +1,6 @@
 ---
 title: Converteer DOT naar PPS in Python of met gratis Online Converter
-description: DOT naar PPS-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOT naar PPS-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOT naar PPS online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

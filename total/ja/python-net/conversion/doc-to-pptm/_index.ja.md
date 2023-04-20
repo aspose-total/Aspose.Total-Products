@@ -1,6 +1,6 @@
 ---
 title: Python で DOC を PPTM に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOC から PPTM への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOC から PPTM への変換 またはオンライン。コードを統合する前に、無料の DOC から PPTM へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer DOT naar POTX in Python of met gratis Online Converter
-description: DOT naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOT naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOT naar POTX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

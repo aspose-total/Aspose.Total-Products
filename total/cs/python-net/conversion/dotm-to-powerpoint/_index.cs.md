@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na POWERPOINT v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOTM na POWERPOINT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOTM na POWERPOINT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na POWERPOINT. 
 
 family: total
 platformtag: Python

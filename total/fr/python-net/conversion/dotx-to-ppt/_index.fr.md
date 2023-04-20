@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTX en PPT en Python ou avec le convertisseur en ligne gratuit
-description: Conversion DOTX en PPT dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers POT gratuit avant d'intégrer le code. 
+description: Conversion DOTX en PPT dans vos applications Python sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne DOTX vers PPT gratuit avant d'intégrer le code. 
 
 family: total
 platformtag: Python

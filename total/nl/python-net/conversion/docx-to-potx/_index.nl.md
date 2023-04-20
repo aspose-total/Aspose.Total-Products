@@ -1,6 +1,6 @@
 ---
 title: Converteer DOCX naar POTX in Python of met gratis Online Converter
-description: DOCX naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOCX naar POTX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOCX naar POTX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

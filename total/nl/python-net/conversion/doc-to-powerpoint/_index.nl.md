@@ -1,6 +1,6 @@
 ---
 title: Converteer DOC naar POWERPOINT in Python of met gratis Online Converter
-description: DOC naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOC naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOC naar POWERPOINT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

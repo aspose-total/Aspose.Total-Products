@@ -1,6 +1,6 @@
 ---
 title: Converteer DOCM naar PPT in Python of met gratis Online Converter
-description: DOCM naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOCM naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOCM naar PPT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

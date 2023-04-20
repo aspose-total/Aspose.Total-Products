@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t PPT-be Pythonban vagy ingyenes online konverterrel
-description: DOCX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOCX-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-PPT online konvertert. 
 
 family: total
 platformtag: Python

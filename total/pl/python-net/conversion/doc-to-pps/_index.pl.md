@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOC na PPS w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOC do PPS w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja DOC do PPS w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na PPS przed integracją kodu. 
 
 family: total
 platformtag: Python

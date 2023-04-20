@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie WORDML in POTX in Python oder mit dem kostenlosen Online Converter
-description: Konvertierung von WORDML in POTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-POT-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertierung von WORDML in POTX in Ihren Python-Anwendungen ohne Verwendung von Microsoft Word oder PowerPoint oder online. Testen Sie schnell den kostenlosen WORDML-zu-POTX-Online-Konverter, bevor Sie den Code integrieren. 
 
 family: total
 platformtag: Python

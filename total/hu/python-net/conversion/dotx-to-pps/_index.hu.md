@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t PPS-be Pythonban vagy ingyenes online konverterrel
-description: DOTX-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOTX-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-PPS online konvertert. 
 
 family: total
 platformtag: Python

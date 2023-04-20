@@ -1,6 +1,6 @@
 ---
 title: Konversi TXT ke PPSM dengan Python atau dengan Konverter Online gratis
-description: Konversi TXT ke PPSM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi TXT ke PPSM dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online TXT ke PPSM gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

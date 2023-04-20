@@ -1,6 +1,6 @@
 ---
 title: Konwertuj TXT na POWERPOINT w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja TXT do POWERPOINT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja TXT do POWERPOINT w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online TXT na POWERPOINT przed integracją kodu. 
 
 family: total
 platformtag: Python

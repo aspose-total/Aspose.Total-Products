@@ -1,6 +1,6 @@
 ---
 title: Konwertuj RTF na PPTX w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja RTF do PPTX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja RTF do PPTX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online RTF na PPTX przed integracją kodu. 
 
 family: total
 platformtag: Python

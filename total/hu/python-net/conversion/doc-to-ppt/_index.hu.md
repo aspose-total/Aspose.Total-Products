@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t PPT-be Pythonban vagy ingyenes online konverterrel
-description: DOC-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOC-ből PPT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-PPT online konvertert. 
 
 family: total
 platformtag: Python

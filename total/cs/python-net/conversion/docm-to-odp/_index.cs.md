@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na ODP v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod DOCM na ODP ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod DOCM na ODP ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na ODP. 
 
 family: total
 platformtag: Python

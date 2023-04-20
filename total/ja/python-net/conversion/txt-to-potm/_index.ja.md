@@ -1,6 +1,6 @@
 ---
 title: Python で TXT を POTM に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで TXT から POTM への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで TXT から POTM への変換 またはオンライン。コードを統合する前に、無料の TXT から POTM へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

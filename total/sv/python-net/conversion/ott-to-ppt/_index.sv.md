@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till PPT i Python eller med gratis Online Converter
-description: OTT till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: OTT till PPT-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis OTT till PPT online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

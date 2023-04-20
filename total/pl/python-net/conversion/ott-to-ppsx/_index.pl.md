@@ -1,6 +1,6 @@
 ---
 title: Konwertuj OTT na PPSX w Pythonie lub za pomocą bezpłatnego konwertera online
-description: Konwersja OTT do PPSX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na POT przed integracją kodu. 
+description: Konwersja OTT do PPSX w aplikacjach Pythona bez użycia Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online OTT na PPSX przed integracją kodu. 
 
 family: total
 platformtag: Python

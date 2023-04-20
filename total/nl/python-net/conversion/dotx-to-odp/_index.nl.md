@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTX naar ODP in Python of met gratis Online Converter
-description: DOTX naar ODP-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOTX naar ODP-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOTX naar ODP online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Převést MD na PPSM v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod MD na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod MD na PPSM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MD na PPSM. 
 
 family: total
 platformtag: Python

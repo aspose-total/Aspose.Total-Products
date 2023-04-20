@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t ODP-be Pythonban vagy ingyenes online konverterrel
-description: DOT-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOT-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-ODP online konvertert. 
 
 family: total
 platformtag: Python

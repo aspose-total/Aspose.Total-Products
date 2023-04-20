@@ -1,6 +1,6 @@
 ---
 title: Konversi DOCX ke PPSX dengan Python atau dengan Konverter Online gratis
-description: Konversi DOCX ke PPSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCX ke PPSX dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online DOCX ke PPSX gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

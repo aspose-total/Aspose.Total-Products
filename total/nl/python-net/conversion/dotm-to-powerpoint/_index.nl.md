@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTM naar POWERPOINT in Python of met gratis Online Converter
-description: DOTM naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOTM naar POWERPOINT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOTM naar POWERPOINT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer WORD naar PPT in Python of met gratis Online Converter
-description: WORD naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: WORD naar PPT-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis WORD naar PPT online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

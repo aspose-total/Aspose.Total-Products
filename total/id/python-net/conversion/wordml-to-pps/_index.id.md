@@ -1,6 +1,6 @@
 ---
 title: Konversi WORDML ke PPS dengan Python atau dengan Konverter Online gratis
-description: Konversi WORDML ke PPS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi WORDML ke PPS dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online WORDML ke PPS gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

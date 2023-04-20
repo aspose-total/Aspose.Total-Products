@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na POTM v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod TXT na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod TXT na POTM ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  TXT na POTM. 
 
 family: total
 platformtag: Python

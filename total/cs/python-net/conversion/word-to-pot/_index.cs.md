@@ -1,6 +1,6 @@
 ---
 title: Převést WORD na POT v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod WORD na POT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod WORD na POT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na POT. 
 
 family: total
 platformtag: Python

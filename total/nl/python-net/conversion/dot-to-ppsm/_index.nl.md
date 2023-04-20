@@ -1,6 +1,6 @@
 ---
 title: Converteer DOT naar PPSM in Python of met gratis Online Converter
-description: DOT naar PPSM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: DOT naar PPSM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis DOT naar PPSM online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

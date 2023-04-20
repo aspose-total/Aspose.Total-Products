@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t POWERPOINT-be Pythonban vagy ingyenes online konverterrel
-description: DOT-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOT-ből POWERPOINT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-POWERPOINT online konvertert. 
 
 family: total
 platformtag: Python

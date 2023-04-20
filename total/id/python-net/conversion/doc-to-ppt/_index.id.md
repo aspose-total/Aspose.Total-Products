@@ -1,6 +1,6 @@
 ---
 title: Konversi DOC ke PPT dengan Python atau dengan Konverter Online gratis
-description: Konversi DOC ke PPT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOC ke PPT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online DOC ke PPT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

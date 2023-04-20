@@ -1,6 +1,6 @@
 ---
 title: Converter TXT para PPTM em Python ou com o conversor online gratuito
-description: Conversão de TXT para PPTM em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de CSV para POT rapidamente antes de integrar o código. 
+description: Conversão de TXT para PPTM em seus aplicativos Python sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de TXT para PPTM rapidamente antes de integrar o código. 
 
 family: total
 platformtag: Python

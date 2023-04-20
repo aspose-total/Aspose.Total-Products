@@ -1,6 +1,6 @@
 ---
 title: Converti MD in POTM in Python o con il convertitore online gratuito
-description: Conversione da MD a POTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da MD a POTM nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da MD a POTM prima di integrare il codice. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t POT-be Pythonban vagy ingyenes online konverterrel
-description: DOCX-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOCX-ből POT-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-POT online konvertert. 
 
 family: total
 platformtag: Python

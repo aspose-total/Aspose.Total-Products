@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTM إلى POTM في Python أو مع محول مجاني على الإنترنت
-description: تحويل DOTM إلى POTM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: تحويل DOTM إلى POTM في تطبيقات Python الخاصة بك دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول DOTM إلى POTM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 
 family: total
 platformtag: Python

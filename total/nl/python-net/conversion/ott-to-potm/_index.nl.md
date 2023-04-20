@@ -1,6 +1,6 @@
 ---
 title: Converteer OTT naar POTM in Python of met gratis Online Converter
-description: OTT naar POTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: OTT naar POTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis OTT naar POTM online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOT σε ODP στην Python ή με δωρεάν Online Converter
-description: Μετατροπή DOT σε ODP στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε POT πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOT σε ODP στις εφαρμογές Python σας χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOT σε ODP πριν ενσωματώσετε τον κώδικα. 
 
 family: total
 platformtag: Python

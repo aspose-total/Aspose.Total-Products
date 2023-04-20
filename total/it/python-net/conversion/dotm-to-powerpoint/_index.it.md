@@ -1,6 +1,6 @@
 ---
 title: Converti DOTM in POWERPOINT in Python o con il convertitore online gratuito
-description: Conversione da DOTM a POWERPOINT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a POT prima di integrare il codice. 
+description: Conversione da DOTM a POWERPOINT nelle tue applicazioni Python senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOTM a POWERPOINT prima di integrare il codice. 
 
 family: total
 platformtag: Python

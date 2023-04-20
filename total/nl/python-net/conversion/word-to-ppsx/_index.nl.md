@@ -1,6 +1,6 @@
 ---
 title: Converteer WORD naar PPSX in Python of met gratis Online Converter
-description: WORD naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: WORD naar PPSX-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis WORD naar PPSX online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

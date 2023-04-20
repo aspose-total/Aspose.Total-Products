@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t POTM-be Pythonban vagy ingyenes online konverterrel
-description: RTF-ből POTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: RTF-ből POTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-POTM online konvertert. 
 
 family: total
 platformtag: Python

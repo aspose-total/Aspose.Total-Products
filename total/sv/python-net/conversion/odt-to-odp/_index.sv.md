@@ -1,6 +1,6 @@
 ---
 title: Konvertera ODT till ODP i Python eller med gratis Online Converter
-description: ODT till ODP-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis CSV till POT online-omvandlare snabbt innan du integrerar koden. 
+description: ODT till ODP-konvertering i dina Python-applikationer utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis ODT till ODP online-omvandlare snabbt innan du integrerar koden. 
 
 family: total
 platformtag: Python

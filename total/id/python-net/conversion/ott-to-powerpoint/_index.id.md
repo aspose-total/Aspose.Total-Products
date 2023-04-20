@@ -1,6 +1,6 @@
 ---
 title: Konversi OTT ke POWERPOINT dengan Python atau dengan Konverter Online gratis
-description: Konversi OTT ke POWERPOINT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online CSV ke POT gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi OTT ke POWERPOINT dalam aplikasi Python Anda tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online OTT ke POWERPOINT gratis dengan cepat sebelum mengintegrasikan kode. 
 
 family: total
 platformtag: Python

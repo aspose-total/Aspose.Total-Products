@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTX a PPSM en Python o con el convertidor en línea gratuito
-description: Conversión de DOTX a PPSM en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a POT rápidamente antes de integrar el código. 
+description: Conversión de DOTX a PPSM en sus aplicaciones de Python sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOTX a PPSM rápidamente antes de integrar el código. 
 
 family: total
 platformtag: Python

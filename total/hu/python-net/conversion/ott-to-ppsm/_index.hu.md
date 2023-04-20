@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t PPSM-be Pythonban vagy ingyenes online konverterrel
-description: OTT-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: OTT-ből PPSM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-PPSM online konvertert. 
 
 family: total
 platformtag: Python

@@ -1,6 +1,6 @@
 ---
 title: Converteer MD naar PPTM in Python of met gratis Online Converter
-description: MD naar PPTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis CSV naar POT online converter voordat u de code integreert. 
+description: MD naar PPTM-conversie in uw Python-toepassingen zonder Microsoft Word of PowerPoint of online. Test snel de gratis MD naar PPTM online converter voordat u de code integreert. 
 
 family: total
 platformtag: Python

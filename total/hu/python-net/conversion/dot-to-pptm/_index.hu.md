@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t PPTM-be Pythonban vagy ingyenes online konverterrel
-description: DOT-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: DOT-ből PPTM-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-PPTM online konvertert. 
 
 family: total
 platformtag: Python

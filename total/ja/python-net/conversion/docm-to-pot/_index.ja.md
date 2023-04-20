@@ -1,6 +1,6 @@
 ---
 title: Python で DOCM を POT に変換する または無料のオンライン コンバーターを使用
-description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCM から POT への変換 またはオンライン。コードを統合する前に、無料の CSV から POT へのオンライン コンバーターをすばやくテストします。 
+description: Microsoft Word や PowerPoint を使用せずに、Python アプリケーションで DOCM から POT への変換 またはオンライン。コードを統合する前に、無料の DOCM から POT へのオンライン コンバーターをすばやくテストします。 
 
 family: total
 platformtag: Python

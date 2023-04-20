@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na PPSX v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod ODT na PPSX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod ODT na PPSX ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na PPSX. 
 
 family: total
 platformtag: Python

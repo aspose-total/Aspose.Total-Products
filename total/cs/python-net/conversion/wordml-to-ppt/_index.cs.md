@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPT v Pythonu nebo pomocí bezplatného online převodníku
-description: Převod WORDML na PPT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na POT. 
+description: Převod WORDML na PPT ve vašich aplikacích Python bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na PPT. 
 
 family: total
 platformtag: Python

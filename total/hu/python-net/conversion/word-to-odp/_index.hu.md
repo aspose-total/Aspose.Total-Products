@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORD-t ODP-be Pythonban vagy ingyenes online konverterrel
-description: WORD-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: WORD-ből ODP-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-ODP online konvertert. 
 
 family: total
 platformtag: Python

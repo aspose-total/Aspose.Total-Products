@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t PPS-be Pythonban vagy ingyenes online konverterrel
-description: OTT-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-POT online konvertert. 
+description: OTT-ből PPS-be konvertálás a Python-alkalmazásokban Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-PPS online konvertert. 
 
 family: total
 platformtag: Python
