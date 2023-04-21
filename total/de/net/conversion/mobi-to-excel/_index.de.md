@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von MOBI in EXCEL oder mit dem kostenlosen Online Converter
-description: C#-API zum Konvertieren von MOBI in EXCEL oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
+description: C#-API zum Konvertieren von MOBI in EXCEL oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen MOBI-zu-EXCEL-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/mobi-to-excel/
 family: total
 platformtag: net

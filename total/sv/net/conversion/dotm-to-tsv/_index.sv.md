@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera DOTM till TSV eller med gratis Online Converter
-description: C# API för att konvertera DOTM till TSV eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
+description: C# API för att konvertera DOTM till TSV eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis DOTM till TSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/dotm-to-tsv/
 family: total
 platformtag: net

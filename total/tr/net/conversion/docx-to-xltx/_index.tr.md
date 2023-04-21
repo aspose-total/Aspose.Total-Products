@@ -1,6 +1,6 @@
 ---
 title: DOCX'yi XLTX'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Adobe Reader kullanmadan DOCX'yi XLTX'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya Adobe Reader kullanmadan DOCX'yi XLTX'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCX'den XLTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/net/conversion/docx-to-xltx/
 family: total
 platformtag: net

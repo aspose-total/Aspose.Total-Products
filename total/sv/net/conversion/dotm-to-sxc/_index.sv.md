@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera DOTM till SXC eller med gratis Online Converter
-description: C# API för att konvertera DOTM till SXC eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
+description: C# API för att konvertera DOTM till SXC eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis DOTM till SXC online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/dotm-to-sxc/
 family: total
 platformtag: net

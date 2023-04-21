@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل DOTX إلى FODS أو مع محول مجاني على الإنترنت
-description: C# API لتحويل DOTX إلى FODS أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: C# API لتحويل DOTX إلى FODS أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول DOTX إلى FODS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/net/conversion/dotx-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API a DOTX konvertálásához XLT-vé vagy ingyenes online konverterrel
-description: C# API a DOTX konvertálásához XLT-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a DOTX konvertálásához XLT-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-XLT online konvertert. 
 url_ignore: /hu/net/conversion/dotx-to-xlt/
 family: total
 platformtag: net

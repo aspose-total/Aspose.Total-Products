@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi WORDML ke TSV atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi WORDML ke TSV atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi WORDML ke TSV atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online WORDML ke TSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/wordml-to-tsv/
 family: total
 platformtag: net

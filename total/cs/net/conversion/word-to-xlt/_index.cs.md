@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod WORD do XLT nebo pomocí bezplatného online převodníku
-description: C# API pro převod WORD do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod WORD do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na XLT. 
 url_ignore: /cs/net/conversion/word-to-xlt/
 family: total
 platformtag: net

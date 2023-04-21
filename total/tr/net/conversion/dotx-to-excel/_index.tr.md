@@ -1,6 +1,6 @@
 ---
 title: DOTX'yi EXCEL'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Adobe Reader kullanmadan DOTX'yi EXCEL'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya Adobe Reader kullanmadan DOTX'yi EXCEL'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTX'den EXCEL'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/net/conversion/dotx-to-excel/
 family: total
 platformtag: net

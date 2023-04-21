@@ -1,6 +1,6 @@
 ---
 title: API .NET para convertir DOCM a SXC o con el convertidor en línea gratuito
-description: API de C# para convertir DOCM a SXC o aplicación en línea sin usar Microsoft Excel o Adobe Reader o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. 
+description: API de C# para convertir DOCM a SXC o aplicación en línea sin usar Microsoft Excel o Adobe Reader o en línea. Pruebe el convertidor en línea gratuito de DOCM a SXC rápidamente antes de integrar el código. 
 url_ignore: /es/net/conversion/docm-to-sxc/
 family: total
 platformtag: net

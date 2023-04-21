@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von DOCM in XLSX oder mit dem kostenlosen Online Converter
-description: C#-API zum Konvertieren von DOCM in XLSX oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
+description: C#-API zum Konvertieren von DOCM in XLSX oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen DOCM-zu-XLSX-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/docm-to-xlsx/
 family: total
 platformtag: net

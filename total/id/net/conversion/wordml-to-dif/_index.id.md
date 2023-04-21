@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi WORDML ke DIF atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi WORDML ke DIF atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi WORDML ke DIF atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online WORDML ke DIF gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/wordml-to-dif/
 family: total
 platformtag: net

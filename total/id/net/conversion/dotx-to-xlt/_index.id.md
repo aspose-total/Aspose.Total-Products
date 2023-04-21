@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi DOTX ke XLT atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi DOTX ke XLT atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi DOTX ke XLT atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online DOTX ke XLT gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/dotx-to-xlt/
 family: total
 platformtag: net

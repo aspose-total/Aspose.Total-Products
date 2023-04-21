@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOT do CSV nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOT do CSV bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOT do CSV bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na CSV. 
 url_ignore: /cs/net/conversion/dot-to-csv/
 family: total
 platformtag: net

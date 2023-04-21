@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования ODT в XLTM или с помощью бесплатного онлайн-конвертера
-description: C# API для преобразования ODT в XLTM или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
+description: C# API для преобразования ODT в XLTM или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер ODT в XLTM, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/odt-to-xltm/
 family: total
 platformtag: net

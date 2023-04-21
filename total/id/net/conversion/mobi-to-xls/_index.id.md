@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi MOBI ke XLS atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi MOBI ke XLS atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi MOBI ke XLS atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online MOBI ke XLS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/mobi-to-xls/
 family: total
 platformtag: net

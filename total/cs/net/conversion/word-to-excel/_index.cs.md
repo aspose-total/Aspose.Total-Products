@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod WORD do EXCEL nebo pomocí bezplatného online převodníku
-description: C# API pro převod WORD do EXCEL bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod WORD do EXCEL bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na EXCEL. 
 url_ignore: /cs/net/conversion/word-to-excel/
 family: total
 platformtag: net

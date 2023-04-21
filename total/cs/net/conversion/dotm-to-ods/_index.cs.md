@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOTM do ODS nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOTM do ODS bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOTM do ODS bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na ODS. 
 url_ignore: /cs/net/conversion/dotm-to-ods/
 family: total
 platformtag: net

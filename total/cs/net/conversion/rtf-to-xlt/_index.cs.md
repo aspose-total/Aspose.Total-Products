@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod RTF do XLT nebo pomocí bezplatného online převodníku
-description: C# API pro převod RTF do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod RTF do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na XLT. 
 url_ignore: /cs/net/conversion/rtf-to-xlt/
 family: total
 platformtag: net

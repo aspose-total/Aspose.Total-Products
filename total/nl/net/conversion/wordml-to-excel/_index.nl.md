@@ -1,6 +1,6 @@
 ---
 title: .NET API om WORDML naar EXCEL te converteren of met gratis Online Converter
-description: C# API om WORDML naar EXCEL te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
+description: C# API om WORDML naar EXCEL te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis WORDML naar EXCEL online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/wordml-to-excel/
 family: total
 platformtag: net

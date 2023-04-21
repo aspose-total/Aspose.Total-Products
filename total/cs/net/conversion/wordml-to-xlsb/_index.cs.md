@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod WORDML do XLSB nebo pomocí bezplatného online převodníku
-description: C# API pro převod WORDML do XLSB bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod WORDML do XLSB bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na XLSB. 
 url_ignore: /cs/net/conversion/wordml-to-xlsb/
 family: total
 platformtag: net

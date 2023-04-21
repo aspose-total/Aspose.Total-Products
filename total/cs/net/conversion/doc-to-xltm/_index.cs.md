@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOC do XLTM nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOC do XLTM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOC do XLTM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLTM. 
 url_ignore: /cs/net/conversion/doc-to-xltm/
 family: total
 platformtag: net

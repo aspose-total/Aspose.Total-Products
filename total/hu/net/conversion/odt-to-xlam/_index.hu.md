@@ -1,6 +1,6 @@
 ---
 title: .NET API a ODT konvertálásához XLAM-vé vagy ingyenes online konverterrel
-description: C# API a ODT konvertálásához XLAM-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a ODT konvertálásához XLAM-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-XLAM online konvertert. 
 url_ignore: /hu/net/conversion/odt-to-xlam/
 family: total
 platformtag: net

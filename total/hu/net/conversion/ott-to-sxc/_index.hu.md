@@ -1,6 +1,6 @@
 ---
 title: .NET API a OTT konvertálásához SXC-vé vagy ingyenes online konverterrel
-description: C# API a OTT konvertálásához SXC-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a OTT konvertálásához SXC-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-SXC online konvertert. 
 url_ignore: /hu/net/conversion/ott-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API để chuyển đổi DOT sang XLS hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: C# API để chuyển đổi DOT sang XLS hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: C# API để chuyển đổi DOT sang XLS hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến DOT sang XLS miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 url_ignore: /vi/net/conversion/dot-to-xls/
 family: total
 platformtag: net

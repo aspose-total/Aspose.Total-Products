@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera DOT till XLAM eller med gratis Online Converter
-description: C# API för att konvertera DOT till XLAM eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
+description: C# API för att konvertera DOT till XLAM eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis DOT till XLAM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/dot-to-xlam/
 family: total
 platformtag: net

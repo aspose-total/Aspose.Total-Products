@@ -1,6 +1,6 @@
 ---
 title: .NET API om ODT naar XLSM te converteren of met gratis Online Converter
-description: C# API om ODT naar XLSM te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
+description: C# API om ODT naar XLSM te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis ODT naar XLSM online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/odt-to-xlsm/
 family: total
 platformtag: net

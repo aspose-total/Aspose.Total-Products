@@ -1,6 +1,6 @@
 ---
 title: .NET API a DOT konvertálásához TSV-vé vagy ingyenes online konverterrel
-description: C# API a DOT konvertálásához TSV-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a DOT konvertálásához TSV-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-TSV online konvertert. 
 url_ignore: /hu/net/conversion/dot-to-tsv/
 family: total
 platformtag: net

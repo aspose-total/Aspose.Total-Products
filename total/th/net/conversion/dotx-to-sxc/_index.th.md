@@ -1,6 +1,6 @@
 ---
 title: .NET API เพื่อแปลง DOTX เป็น SXC หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C# API เพื่อแปลง DOTX เป็น SXC หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: C# API เพื่อแปลง DOTX เป็น SXC หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง DOTX เป็น SXC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/net/conversion/dotx-to-sxc/
 family: total
 platformtag: net

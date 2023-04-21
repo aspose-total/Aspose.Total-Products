@@ -1,6 +1,6 @@
 ---
 title: .NET API เพื่อแปลง OTT เป็น XLSM หรือด้วยตัวแปลงออนไลน์ฟรี
-description: C# API เพื่อแปลง OTT เป็น XLSM หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: C# API เพื่อแปลง OTT เป็น XLSM หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Excel หรือ Adobe Reader หรือทางออนไลน์ ทดสอบตัวแปลง OTT เป็น XLSM ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/net/conversion/ott-to-xlsm/
 family: total
 platformtag: net

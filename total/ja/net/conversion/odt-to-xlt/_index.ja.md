@@ -1,6 +1,6 @@
 ---
 title: ODTをXLTに変換する.NETAPI または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをXLTに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはAdobeReaderを使用せずにODTをXLTに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の ODT から XLT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/odt-to-xlt/
 family: total
 platformtag: net

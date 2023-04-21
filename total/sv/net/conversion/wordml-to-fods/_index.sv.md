@@ -1,6 +1,6 @@
 ---
 title: .NET API för att konvertera WORDML till FODS eller med gratis Online Converter
-description: C# API för att konvertera WORDML till FODS eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. 
+description: C# API för att konvertera WORDML till FODS eller onlineapp utan att använda Microsoft Excel eller Adobe Reader eller online. Testa gratis WORDML till FODS online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/net/conversion/wordml-to-fods/
 family: total
 platformtag: net

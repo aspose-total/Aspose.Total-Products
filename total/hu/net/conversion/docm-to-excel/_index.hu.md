@@ -1,6 +1,6 @@
 ---
 title: .NET API a DOCM konvertálásához EXCEL-vé vagy ingyenes online konverterrel
-description: C# API a DOCM konvertálásához EXCEL-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a DOCM konvertálásához EXCEL-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-EXCEL online konvertert. 
 url_ignore: /hu/net/conversion/docm-to-excel/
 family: total
 platformtag: net

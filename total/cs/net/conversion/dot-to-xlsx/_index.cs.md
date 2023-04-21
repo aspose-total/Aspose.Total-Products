@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOT do XLSX nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOT do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOT do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na XLSX. 
 url_ignore: /cs/net/conversion/dot-to-xlsx/
 family: total
 platformtag: net

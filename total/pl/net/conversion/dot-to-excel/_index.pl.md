@@ -1,6 +1,6 @@
 ---
 title: .NET API do konwersji DOT na EXCEL lub za pomocą bezpłatnego konwertera online
-description: C# API do konwersji DOT na EXCEL lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. 
+description: C# API do konwersji DOT na EXCEL lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online DOT na EXCEL przed integracją kodu. 
 url_ignore: /pl/net/conversion/dot-to-excel/
 family: total
 platformtag: net

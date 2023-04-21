@@ -1,6 +1,6 @@
 ---
 title: DOCMをEXCELに変換する.NETAPI または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCMをEXCELに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはAdobeReaderを使用せずにDOCMをEXCELに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の DOCM から EXCEL へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/docm-to-excel/
 family: total
 platformtag: net

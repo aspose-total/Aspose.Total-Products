@@ -1,6 +1,6 @@
 ---
 title: WORD'yi XLTM'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Adobe Reader kullanmadan WORD'yi XLTM'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya Adobe Reader kullanmadan WORD'yi XLTM'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORD'den XLTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/net/conversion/word-to-xltm/
 family: total
 platformtag: net

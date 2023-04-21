@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod MOBI do FODS nebo pomocí bezplatného online převodníku
-description: C# API pro převod MOBI do FODS bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod MOBI do FODS bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na FODS. 
 url_ignore: /cs/net/conversion/mobi-to-fods/
 family: total
 platformtag: net

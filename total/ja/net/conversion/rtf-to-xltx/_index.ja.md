@@ -1,6 +1,6 @@
 ---
 title: RTFをXLTXに変換する.NETAPI または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはAdobeReaderを使用せずにRTFをXLTXに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはAdobeReaderを使用せずにRTFをXLTXに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の RTF から XLTX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/rtf-to-xltx/
 family: total
 platformtag: net

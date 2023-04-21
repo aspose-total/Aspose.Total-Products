@@ -1,6 +1,6 @@
 ---
 title: .NET API om DOTM naar XLT te converteren of met gratis Online Converter
-description: C# API om DOTM naar XLT te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
+description: C# API om DOTM naar XLT te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis DOTM naar XLT online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/dotm-to-xlt/
 family: total
 platformtag: net

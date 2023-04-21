@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi DOCX ke DIF atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi DOCX ke DIF atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi DOCX ke DIF atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online DOCX ke DIF gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/docx-to-dif/
 family: total
 platformtag: net

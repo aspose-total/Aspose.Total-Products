@@ -1,6 +1,6 @@
 ---
 title: .NET API om DOCM naar XLTX te converteren of met gratis Online Converter
-description: C# API om DOCM naar XLTX te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
+description: C# API om DOCM naar XLTX te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis DOCM naar XLTX online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/docm-to-xltx/
 family: total
 platformtag: net

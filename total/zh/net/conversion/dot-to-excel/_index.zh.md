@@ -1,6 +1,6 @@
 ---
 title: .NET API 将 DOT 转换为 EXCEL 或使用免费的在线转换器
-description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOT 转换为 EXCEL 的 C# API 或在线应用程序 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 
+description: 无需使用 Microsoft Excel 或 Adobe Reader 即可将 DOT 转换为 EXCEL 的 C# API 或在线应用程序 或在线。在集成代码之前快速测试免费的 DOT 到 EXCEL 在线转换器。 
 url_ignore: /zh/net/conversion/dot-to-excel/
 family: total
 platformtag: net

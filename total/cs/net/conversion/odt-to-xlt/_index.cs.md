@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod ODT do XLT nebo pomocí bezplatného online převodníku
-description: C# API pro převod ODT do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod ODT do XLT bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLT. 
 url_ignore: /cs/net/conversion/odt-to-xlt/
 family: total
 platformtag: net

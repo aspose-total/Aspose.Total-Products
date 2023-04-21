@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod MOBI do XLAM nebo pomocí bezplatného online převodníku
-description: C# API pro převod MOBI do XLAM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod MOBI do XLAM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLAM. 
 url_ignore: /cs/net/conversion/mobi-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOCM do CSV nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOCM do CSV bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOCM do CSV bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na CSV. 
 url_ignore: /cs/net/conversion/docm-to-csv/
 family: total
 platformtag: net

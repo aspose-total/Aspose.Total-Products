@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi ODT ke SXC atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi ODT ke SXC atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi ODT ke SXC atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online ODT ke SXC gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/odt-to-sxc/
 family: total
 platformtag: net

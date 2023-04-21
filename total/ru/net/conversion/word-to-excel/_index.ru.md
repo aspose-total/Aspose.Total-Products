@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования WORD в EXCEL или с помощью бесплатного онлайн-конвертера
-description: C# API для преобразования WORD в EXCEL или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
+description: C# API для преобразования WORD в EXCEL или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORD в EXCEL, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/word-to-excel/
 family: total
 platformtag: net

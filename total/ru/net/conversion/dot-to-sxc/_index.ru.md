@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования DOT в SXC или с помощью бесплатного онлайн-конвертера
-description: C# API для преобразования DOT в SXC или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
+description: C# API для преобразования DOT в SXC или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOT в SXC, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/dot-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi OTT ke EXCEL atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi OTT ke EXCEL atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi OTT ke EXCEL atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online OTT ke EXCEL gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/ott-to-excel/
 family: total
 platformtag: net

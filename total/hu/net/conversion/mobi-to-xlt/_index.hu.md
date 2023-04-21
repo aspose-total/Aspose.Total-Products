@@ -1,6 +1,6 @@
 ---
 title: .NET API a MOBI konvertálásához XLT-vé vagy ingyenes online konverterrel
-description: C# API a MOBI konvertálásához XLT-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a MOBI konvertálásához XLT-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-XLT online konvertert. 
 url_ignore: /hu/net/conversion/mobi-to-xlt/
 family: total
 platformtag: net

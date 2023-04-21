@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von WORD in FODS oder mit dem kostenlosen Online Converter
-description: C#-API zum Konvertieren von WORD in FODS oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
+description: C#-API zum Konvertieren von WORD in FODS oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen WORD-zu-FODS-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/word-to-fods/
 family: total
 platformtag: net

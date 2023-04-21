@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod ODT do XLAM nebo pomocí bezplatného online převodníku
-description: C# API pro převod ODT do XLAM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod ODT do XLAM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLAM. 
 url_ignore: /cs/net/conversion/odt-to-xlam/
 family: total
 platformtag: net

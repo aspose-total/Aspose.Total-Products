@@ -1,6 +1,6 @@
 ---
 title: .NET API a WORDML konvertálásához XLS-vé vagy ingyenes online konverterrel
-description: C# API a WORDML konvertálásához XLS-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a WORDML konvertálásához XLS-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-XLS online konvertert. 
 url_ignore: /hu/net/conversion/wordml-to-xls/
 family: total
 platformtag: net

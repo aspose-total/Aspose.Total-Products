@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod MOBI do XLS nebo pomocí bezplatného online převodníku
-description: C# API pro převod MOBI do XLS bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod MOBI do XLS bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLS. 
 url_ignore: /cs/net/conversion/mobi-to-xls/
 family: total
 platformtag: net

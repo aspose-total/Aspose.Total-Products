@@ -1,6 +1,6 @@
 ---
 title: .NET API do konwersji OTT na XLAM lub za pomocą bezpłatnego konwertera online
-description: C# API do konwersji OTT na XLAM lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. 
+description: C# API do konwersji OTT na XLAM lub Aplikacja internetowa bez użycia Microsoft Excel lub Adobe Reader lub online. Szybko przetestuj darmowy konwerter online OTT na XLAM przed integracją kodu. 
 url_ignore: /pl/net/conversion/ott-to-xlam/
 family: total
 platformtag: net

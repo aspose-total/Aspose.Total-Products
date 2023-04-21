@@ -1,6 +1,6 @@
 ---
 title: .NET API om ODT naar CSV te converteren of met gratis Online Converter
-description: C# API om ODT naar CSV te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
+description: C# API om ODT naar CSV te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis ODT naar CSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/odt-to-csv/
 family: total
 platformtag: net

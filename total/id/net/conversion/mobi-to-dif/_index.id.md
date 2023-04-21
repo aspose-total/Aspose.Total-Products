@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi MOBI ke DIF atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi MOBI ke DIF atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi MOBI ke DIF atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online MOBI ke DIF gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/mobi-to-dif/
 family: total
 platformtag: net

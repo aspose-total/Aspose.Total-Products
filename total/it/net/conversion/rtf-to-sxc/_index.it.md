@@ -1,6 +1,6 @@
 ---
 title: API .NET per convertire RTF in SXC o con il convertitore online gratuito
-description: API C# per convertire RTF in SXC o App online senza utilizzare Microsoft Excel o Adobe Reader o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. 
+description: API C# per convertire RTF in SXC o App online senza utilizzare Microsoft Excel o Adobe Reader o in linea. Prova rapidamente il convertitore online gratuito da RTF a SXC prima di integrare il codice. 
 url_ignore: /it/net/conversion/rtf-to-sxc/
 family: total
 platformtag: net

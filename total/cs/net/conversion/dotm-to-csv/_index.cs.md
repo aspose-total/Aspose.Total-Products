@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOTM do CSV nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOTM do CSV bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOTM do CSV bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na CSV. 
 url_ignore: /cs/net/conversion/dotm-to-csv/
 family: total
 platformtag: net

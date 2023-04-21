@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir DOCX en XLS ou avec le convertisseur en ligne gratuit
-description: API C# pour convertir DOCX en XLS ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. 
+description: API C# pour convertir DOCX en XLS ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne DOCX vers XLS gratuit avant d'intégrer le code. 
 url_ignore: /fr/net/conversion/docx-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi RTF ke XLT atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi RTF ke XLT atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi RTF ke XLT atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online RTF ke XLT gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/rtf-to-xlt/
 family: total
 platformtag: net

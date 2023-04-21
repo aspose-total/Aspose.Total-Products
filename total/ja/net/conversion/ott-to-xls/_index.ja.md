@@ -1,6 +1,6 @@
 ---
 title: OTTをXLSに変換する.NETAPI または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをXLSに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをXLSに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の OTT から XLS へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/ott-to-xls/
 family: total
 platformtag: net

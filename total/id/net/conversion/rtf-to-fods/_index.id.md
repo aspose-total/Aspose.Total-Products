@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi RTF ke FODS atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi RTF ke FODS atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi RTF ke FODS atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online RTF ke FODS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/rtf-to-fods/
 family: total
 platformtag: net

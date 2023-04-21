@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل DOCM إلى XLTX أو مع محول مجاني على الإنترنت
-description: C# API لتحويل DOCM إلى XLTX أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: C# API لتحويل DOCM إلى XLTX أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول DOCM إلى XLTX على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/net/conversion/docm-to-xltx/
 family: total
 platformtag: net

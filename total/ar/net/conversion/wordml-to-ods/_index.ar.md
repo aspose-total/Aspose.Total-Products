@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل WORDML إلى ODS أو مع محول مجاني على الإنترنت
-description: C# API لتحويل WORDML إلى ODS أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: C# API لتحويل WORDML إلى ODS أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول WORDML إلى ODS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/net/conversion/wordml-to-ods/
 family: total
 platformtag: net

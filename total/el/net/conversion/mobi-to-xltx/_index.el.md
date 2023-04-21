@@ -1,6 +1,6 @@
 ---
 title: .NET API για μετατροπή MOBI σε XLTX ή με δωρεάν Online Converter
-description: C# API για μετατροπή MOBI σε XLTX ή Online App χωρίς χρήση Microsoft Excel ή Adobe Reader ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. 
+description: C# API για μετατροπή MOBI σε XLTX ή Online App χωρίς χρήση Microsoft Excel ή Adobe Reader ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα MOBI σε XLTX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/net/conversion/mobi-to-xltx/
 family: total
 platformtag: net

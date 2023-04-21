@@ -1,6 +1,6 @@
 ---
 title: DOCX를 TSV로 변환하는 .NET API 또는 무료 온라인 변환기 사용
-description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 DOCX를 TSV로 변환하는 C# API 또는 온라인 앱 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오. 
+description: Microsoft Excel 또는 Adobe Reader를 사용하지 않고 DOCX를 TSV로 변환하는 C# API 또는 온라인 앱 또는 온라인. 코드를 통합하기 전에 무료 DOCX to TSV 온라인 변환기를 빠르게 테스트하십시오. 
 url_ignore: /ko/net/conversion/docx-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API om WORD naar TSV te converteren of met gratis Online Converter
-description: C# API om WORD naar TSV te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. 
+description: C# API om WORD naar TSV te converteren of online-app zonder Microsoft Excel of Adobe Reader te gebruiken of online. Test de gratis WORD naar TSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/net/conversion/word-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von RTF in XLTM oder mit dem kostenlosen Online Converter
-description: C#-API zum Konvertieren von RTF in XLTM oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
+description: C#-API zum Konvertieren von RTF in XLTM oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen RTF-zu-XLTM-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/rtf-to-xltm/
 family: total
 platformtag: net

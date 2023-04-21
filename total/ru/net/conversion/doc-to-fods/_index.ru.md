@@ -1,6 +1,6 @@
 ---
 title: .NET API для преобразования DOC в FODS или с помощью бесплатного онлайн-конвертера
-description: C# API для преобразования DOC в FODS или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. 
+description: C# API для преобразования DOC в FODS или онлайн-приложение без использования Microsoft Excel или Adobe Reader или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOC в FODS, прежде чем интегрировать код. 
 url_ignore: /ru/net/conversion/doc-to-fods/
 family: total
 platformtag: net

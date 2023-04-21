@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod WORD do XLSX nebo pomocí bezplatného online převodníku
-description: C# API pro převod WORD do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod WORD do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na XLSX. 
 url_ignore: /cs/net/conversion/word-to-xlsx/
 family: total
 platformtag: net

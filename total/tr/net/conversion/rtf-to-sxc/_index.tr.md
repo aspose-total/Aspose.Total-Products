@@ -1,6 +1,6 @@
 ---
 title: RTF'yi SXC'ye Dönüştürmek için .NET API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya Adobe Reader kullanmadan RTF'yi SXC'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya Adobe Reader kullanmadan RTF'yi SXC'ye dönüştürmek için C# API'si veya çevrimiçi. Kodu entegre etmeden önce ücretsiz RTF'den SXC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/net/conversion/rtf-to-sxc/
 family: total
 platformtag: net

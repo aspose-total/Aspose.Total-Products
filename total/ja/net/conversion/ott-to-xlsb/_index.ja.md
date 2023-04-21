@@ -1,6 +1,6 @@
 ---
 title: OTTをXLSBに変換する.NETAPI または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをXLSBに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはAdobeReaderを使用せずにOTTをXLSBに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の OTT から XLSB へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/ott-to-xlsb/
 family: total
 platformtag: net

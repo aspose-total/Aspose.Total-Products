@@ -1,6 +1,6 @@
 ---
 title: RTFをTSVに変換する.NETAPI または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはAdobeReaderを使用せずにRTFをTSVに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはAdobeReaderを使用せずにRTFをTSVに変換するC＃API またはオンラインアプリ またはオンライン。コードを統合する前に、無料の RTF から TSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/net/conversion/rtf-to-tsv/
 family: total
 platformtag: net

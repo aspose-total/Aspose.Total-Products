@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter DOCM para EXCEL ou com o conversor online grátis
-description: API C# para converter DOCM para EXCEL ou aplicativo on-line sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: API C# para converter DOCM para EXCEL ou aplicativo on-line sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de DOCM para EXCEL rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/docm-to-excel/
 family: total
 platformtag: net

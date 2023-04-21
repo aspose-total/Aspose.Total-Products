@@ -1,6 +1,6 @@
 ---
 title: .NET API để chuyển đổi DOTM sang XLSX hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: C# API để chuyển đổi DOTM sang XLSX hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. 
+description: C# API để chuyển đổi DOTM sang XLSX hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Excel hoặc Adobe Reader hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến DOTM sang XLSX miễn phí một cách nhanh chóng trước khi tích hợp mã. 
 url_ignore: /vi/net/conversion/dotm-to-xlsx/
 family: total
 platformtag: net

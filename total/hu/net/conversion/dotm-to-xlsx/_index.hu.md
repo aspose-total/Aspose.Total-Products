@@ -1,6 +1,6 @@
 ---
 title: .NET API a DOTM konvertálásához XLSX-vé vagy ingyenes online konverterrel
-description: C# API a DOTM konvertálásához XLSX-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. 
+description: C# API a DOTM konvertálásához XLSX-vé vagy Online App Microsoft Excel vagy Adobe Reader használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-XLSX online konvertert. 
 url_ignore: /hu/net/conversion/dotm-to-xlsx/
 family: total
 platformtag: net

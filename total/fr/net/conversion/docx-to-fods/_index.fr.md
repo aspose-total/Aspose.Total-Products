@@ -1,6 +1,6 @@
 ---
 title: API .NET pour convertir DOCX en FODS ou avec le convertisseur en ligne gratuit
-description: API C# pour convertir DOCX en FODS ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code. 
+description: API C# pour convertir DOCX en FODS ou application en ligne sans utiliser Microsoft Excel ou Adobe Reader ou en ligne. Testez rapidement le convertisseur en ligne DOCX vers FODS gratuit avant d'intégrer le code. 
 url_ignore: /fr/net/conversion/docx-to-fods/
 family: total
 platformtag: net

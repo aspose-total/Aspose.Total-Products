@@ -1,6 +1,6 @@
 ---
 title: NET API لتحويل DOT إلى DIF أو مع محول مجاني على الإنترنت
-description: C# API لتحويل DOT إلى DIF أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: C# API لتحويل DOT إلى DIF أو التطبيق عبر الإنترنت بدون استخدام Microsoft Excel أو Adobe Reader أو عبر الإنترنت. اختبر محول DOT إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/net/conversion/dot-to-dif/
 family: total
 platformtag: net

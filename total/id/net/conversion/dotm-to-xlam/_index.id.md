@@ -1,6 +1,6 @@
 ---
 title: .NET API untuk Mengonversi DOTM ke XLAM atau dengan Konverter Online gratis
-description: C# API untuk Mengonversi DOTM ke XLAM atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
+description: C# API untuk Mengonversi DOTM ke XLAM atau Aplikasi Daring tanpa menggunakan Microsoft Excel atau Adobe Reader atau daring. Uji konverter online DOTM ke XLAM gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/net/conversion/dotm-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOTX do XLTM nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOTX do XLTM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOTX do XLTM bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na XLTM. 
 url_ignore: /cs/net/conversion/dotx-to-xltm/
 family: total
 platformtag: net

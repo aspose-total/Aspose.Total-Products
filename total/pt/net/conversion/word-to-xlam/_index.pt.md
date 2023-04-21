@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter WORD para XLAM ou com o conversor online grátis
-description: API C# para converter WORD para XLAM ou aplicativo on-line sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: API C# para converter WORD para XLAM ou aplicativo on-line sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de WORD para XLAM rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/word-to-xlam/
 family: total
 platformtag: net

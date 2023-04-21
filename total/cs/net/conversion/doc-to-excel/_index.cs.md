@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOC do EXCEL nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOC do EXCEL bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOC do EXCEL bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na EXCEL. 
 url_ignore: /cs/net/conversion/doc-to-excel/
 family: total
 platformtag: net

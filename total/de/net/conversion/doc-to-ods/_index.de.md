@@ -1,6 +1,6 @@
 ---
 title: .NET-API zum Konvertieren von DOC in ODS oder mit dem kostenlosen Online Converter
-description: C#-API zum Konvertieren von DOC in ODS oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
+description: C#-API zum Konvertieren von DOC in ODS oder Online-App ohne Verwendung von Microsoft Excel oder Adobe Reader oder online. Testen Sie schnell den kostenlosen DOC-zu-ODS-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/net/conversion/doc-to-ods/
 family: total
 platformtag: net

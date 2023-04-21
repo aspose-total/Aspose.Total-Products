@@ -1,6 +1,6 @@
 ---
 title: API .NET para converter WORDML para SXC ou com o conversor online grátis
-description: API C# para converter WORDML para SXC ou aplicativo on-line sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: API C# para converter WORDML para SXC ou aplicativo on-line sem usar o Microsoft Excel ou Adobe Reader ou on-line. Teste o conversor online gratuito de WORDML para SXC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/wordml-to-sxc/
 family: total
 platformtag: net

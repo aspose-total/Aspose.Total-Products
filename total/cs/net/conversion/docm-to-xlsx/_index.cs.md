@@ -1,6 +1,6 @@
 ---
 title: .NET API pro převod DOCM do XLSX nebo pomocí bezplatného online převodníku
-description: C# API pro převod DOCM do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. 
+description: C# API pro převod DOCM do XLSX bez použití Microsoft Excel nebo Adobe Reader nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na XLSX. 
 url_ignore: /cs/net/conversion/docm-to-xlsx/
 family: total
 platformtag: net
