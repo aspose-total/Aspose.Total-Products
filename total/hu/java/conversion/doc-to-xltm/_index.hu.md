@@ -1,6 +1,6 @@
 ---
 title: Java API a DOC konvertálásához XLTM-vé vagy ingyenes online konverterrel
-description: A DOC konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOC konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-XLTM online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-xltm/
 family: total
 platformtag: net

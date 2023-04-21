@@ -1,6 +1,6 @@
 ---
 title: Java API om ODT naar XLSB te converteren of met gratis Online Converter
-description: Converteer ODT naar XLSB via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer ODT naar XLSB via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis ODT naar XLSB online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/odt-to-xlsb/
 family: total
 platformtag: net

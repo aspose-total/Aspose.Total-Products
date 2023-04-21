@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera WORD till XLS eller med gratis Online Converter
-description: Konvertera WORD till XLS via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera WORD till XLS via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis WORD till XLS online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/word-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل DOT إلى SXC أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOT إلى SXC عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل DOT إلى SXC عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOT إلى SXC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/dot-to-sxc/
 family: total
 platformtag: net

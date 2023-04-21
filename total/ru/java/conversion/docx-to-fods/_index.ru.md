@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования DOCX в FODS или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOCX в FODS через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразование DOCX в FODS через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOCX в FODS, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/docx-to-fods/
 family: total
 platformtag: net

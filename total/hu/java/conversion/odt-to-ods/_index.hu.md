@@ -1,6 +1,6 @@
 ---
 title: Java API a ODT konvertálásához ODS-vé vagy ingyenes online konverterrel
-description: A ODT konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A ODT konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-ODS online konvertert. 
 url_ignore: /hu/java/conversion/odt-to-ods/
 family: total
 platformtag: net

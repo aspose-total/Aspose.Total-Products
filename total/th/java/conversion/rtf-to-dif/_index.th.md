@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง RTF เป็น DIF หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง RTF เป็น DIF ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: แปลง RTF เป็น DIF ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง RTF เป็น DIF ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/rtf-to-dif/
 family: total
 platformtag: net

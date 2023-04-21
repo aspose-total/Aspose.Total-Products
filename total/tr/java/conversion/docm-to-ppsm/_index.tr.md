@@ -1,6 +1,6 @@
 ---
 title: Java ile DOCM'yi PPSM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan DOCM'yi PPSM'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan DOCM'yi PPSM'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCM'den PPSM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/docm-to-ppsm/
 family: total
 platformtag: net

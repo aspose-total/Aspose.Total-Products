@@ -1,6 +1,6 @@
 ---
 title: A DOCX konvertálása POWERPOINT-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOCX exportálásához POWERPOINT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOCX exportálásához POWERPOINT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-POWERPOINT online konvertert. 
 url_ignore: /hu/java/conversion/docx-to-powerpoint/
 family: total
 platformtag: net

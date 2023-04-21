@@ -1,6 +1,6 @@
 ---
 title: Converti DOCX in POTM tramite Java o con il convertitore online gratuito 
-description: API Java per esportare DOCX in POTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: API Java per esportare DOCX in POTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOCX a POTM prima di integrare il codice. 
 url_ignore: /it/java/conversion/docx-to-potm/
 family: total
 platformtag: net

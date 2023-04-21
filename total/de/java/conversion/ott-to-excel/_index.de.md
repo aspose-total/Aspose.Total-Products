@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von OTT in EXCEL oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie OTT über Java in EXCEL oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie OTT über Java in EXCEL oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen OTT-zu-EXCEL-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/ott-to-excel/
 family: total
 platformtag: net

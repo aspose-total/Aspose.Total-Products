@@ -1,6 +1,6 @@
 ---
 title: Java API a DOCM konvertálásához CSV-vé vagy ingyenes online konverterrel
-description: A DOCM konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOCM konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-CSV online konvertert. 
 url_ignore: /hu/java/conversion/docm-to-csv/
 family: total
 platformtag: net

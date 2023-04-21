@@ -1,6 +1,6 @@
 ---
 title: Java API a DOCX konvertálásához XLTX-vé vagy ingyenes online konverterrel
-description: A DOCX konvertálása XLTX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOCX konvertálása XLTX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-XLTX online konvertert. 
 url_ignore: /hu/java/conversion/docx-to-xltx/
 family: total
 platformtag: net

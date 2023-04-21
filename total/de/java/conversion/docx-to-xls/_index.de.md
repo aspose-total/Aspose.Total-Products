@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von DOCX in XLS oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie DOCX über Java in XLS oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie DOCX über Java in XLS oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen DOCX-zu-XLS-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/docx-to-xls/
 family: total
 platformtag: net

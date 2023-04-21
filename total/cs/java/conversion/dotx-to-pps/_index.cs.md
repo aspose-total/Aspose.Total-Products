@@ -1,6 +1,6 @@
 ---
 title: Převést DOTX na PPS přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOTX do PPS bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOTX do PPS bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na PPS. 
 url_ignore: /cs/java/conversion/dotx-to-pps/
 family: total
 platformtag: net

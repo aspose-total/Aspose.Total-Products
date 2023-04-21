@@ -1,6 +1,6 @@
 ---
 title: ODT'yi XLSM'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLSM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLSM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODT'den XLSM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/odt-to-xlsm/
 family: total
 platformtag: net

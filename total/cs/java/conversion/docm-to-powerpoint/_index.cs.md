@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na POWERPOINT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOCM do POWERPOINT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOCM do POWERPOINT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na POWERPOINT. 
 url_ignore: /cs/java/conversion/docm-to-powerpoint/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPS přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export WORDML do PPS bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export WORDML do PPS bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na PPS. 
 url_ignore: /cs/java/conversion/wordml-to-pps/
 family: total
 platformtag: net

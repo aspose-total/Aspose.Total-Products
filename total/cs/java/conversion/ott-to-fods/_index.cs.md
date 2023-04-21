@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod OTT do FODS nebo pomocí bezplatného online převodníku
-description: Převeďte OTT na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte OTT na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na FODS. 
 url_ignore: /cs/java/conversion/ott-to-fods/
 family: total
 platformtag: net

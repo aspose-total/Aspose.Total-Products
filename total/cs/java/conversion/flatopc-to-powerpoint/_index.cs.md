@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na POWERPOINT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export FLATOPC do POWERPOINT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export FLATOPC do POWERPOINT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  FLATOPC na POWERPOINT. 
 url_ignore: /cs/java/conversion/flatopc-to-powerpoint/
 family: total
 platformtag: net

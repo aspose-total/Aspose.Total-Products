@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do FODS nebo pomocí bezplatného online převodníku
-description: Převeďte DOC na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOC na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na FODS. 
 url_ignore: /cs/java/conversion/doc-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: A DOT konvertálása PPSX-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOT exportálásához PPSX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOT exportálásához PPSX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-PPSX online konvertert. 
 url_ignore: /hu/java/conversion/dot-to-ppsx/
 family: total
 platformtag: net

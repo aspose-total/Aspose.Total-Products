@@ -1,6 +1,6 @@
 ---
 title: Java ile TXT'yi PPSX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan TXT'yi PPSX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan TXT'yi PPSX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz TXT'den PPSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/txt-to-ppsx/
 family: total
 platformtag: net

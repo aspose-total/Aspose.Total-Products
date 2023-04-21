@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOTをPPSXに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOTをPPSXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOTをPPSXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOT から PPSX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/dot-to-ppsx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: API Java para converter OTT para ODS ou com o conversor online gratuito
-description: Converta OTT para ODS via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta OTT para ODS via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de OTT para ODS rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/ott-to-ods/
 family: total
 platformtag: net

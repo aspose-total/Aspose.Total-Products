@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOCMをPPSXに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOCMをPPSXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOCMをPPSXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOCM から PPSX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/docm-to-ppsx/
 family: total
 platformtag: net

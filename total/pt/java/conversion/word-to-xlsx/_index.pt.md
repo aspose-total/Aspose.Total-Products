@@ -1,6 +1,6 @@
 ---
 title: API Java para converter WORD para XLSX ou com o conversor online gratuito
-description: Converta WORD para XLSX via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta WORD para XLSX via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de WORD para XLSX rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/word-to-xlsx/
 family: total
 platformtag: net

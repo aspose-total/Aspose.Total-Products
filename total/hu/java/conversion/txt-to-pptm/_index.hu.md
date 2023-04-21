@@ -1,6 +1,6 @@
 ---
 title: A TXT konvertálása PPTM-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a TXT exportálásához PPTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a TXT exportálásához PPTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-PPTM online konvertert. 
 url_ignore: /hu/java/conversion/txt-to-pptm/
 family: total
 platformtag: net

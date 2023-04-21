@@ -1,6 +1,6 @@
 ---
 title: WORDML'yi XLTX'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi XLTX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi XLTX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORDML'den XLTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/wordml-to-xltx/
 family: total
 platformtag: net

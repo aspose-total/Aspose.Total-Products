@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOTXをPOTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOTXをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOTXをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOTX から POT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/dotx-to-pot/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: DOTMをXLTMに変換するJavaAPI または無料のオンライン コンバーターを使用
-description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOTMをXLTMに変換する またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOTMをXLTMに変換する またはオンラインアプリ またはオンライン。コードを統合する前に、無料の DOTM から XLTM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/dotm-to-xltm/
 family: total
 platformtag: net

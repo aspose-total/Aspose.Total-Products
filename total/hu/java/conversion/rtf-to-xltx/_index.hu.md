@@ -1,6 +1,6 @@
 ---
 title: Java API a RTF konvertálásához XLTX-vé vagy ingyenes online konverterrel
-description: A RTF konvertálása XLTX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A RTF konvertálása XLTX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-XLTX online konvertert. 
 url_ignore: /hu/java/conversion/rtf-to-xltx/
 family: total
 platformtag: net

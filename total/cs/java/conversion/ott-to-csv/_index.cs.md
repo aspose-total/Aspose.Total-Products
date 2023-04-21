@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod OTT do CSV nebo pomocí bezplatného online převodníku
-description: Převeďte OTT na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte OTT na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na CSV. 
 url_ignore: /cs/java/conversion/ott-to-csv/
 family: total
 platformtag: net

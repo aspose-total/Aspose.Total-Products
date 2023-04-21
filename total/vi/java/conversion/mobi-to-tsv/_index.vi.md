@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi MOBI sang TSV hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi MOBI sang TSV qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi MOBI sang TSV qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến MOBI sang TSV miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/mobi-to-tsv/
 family: total
 platformtag: net

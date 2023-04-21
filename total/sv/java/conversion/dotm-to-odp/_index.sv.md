@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOTM till ODP via Java eller med gratis Online Converter 
-description: Java API för att exportera DOTM till ODP utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera DOTM till ODP utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOTM till ODP online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/dotm-to-odp/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: A OTT konvertálása POTM-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a OTT exportálásához POTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a OTT exportálásához POTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-POTM online konvertert. 
 url_ignore: /hu/java/conversion/ott-to-potm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konversi RTF ke POTX melalui Java atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor RTF ke POTX tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor RTF ke POTX tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online RTF ke POTX gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/rtf-to-potx/
 family: total
 platformtag: net

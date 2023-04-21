@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή DOTM σε CSV ή με δωρεάν Online Converter
-description: Μετατροπή DOTM σε CSV μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOTM σε CSV μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/dotm-to-csv/
 family: total
 platformtag: net

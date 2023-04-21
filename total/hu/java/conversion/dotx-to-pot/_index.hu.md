@@ -1,6 +1,6 @@
 ---
 title: A DOTX konvertálása POT-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOTX exportálásához POT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOTX exportálásához POT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-POT online konvertert. 
 url_ignore: /hu/java/conversion/dotx-to-pot/
 family: total
 platformtag: net

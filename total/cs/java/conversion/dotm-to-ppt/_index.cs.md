@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na PPT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOTM do PPT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOTM do PPT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na PPT. 
 url_ignore: /cs/java/conversion/dotm-to-ppt/
 family: total
 platformtag: net

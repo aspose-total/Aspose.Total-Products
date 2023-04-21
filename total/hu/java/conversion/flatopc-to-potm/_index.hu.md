@@ -1,6 +1,6 @@
 ---
 title: A FLATOPC konvertálása POTM-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a FLATOPC exportálásához POTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a FLATOPC exportálásához POTM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes FLATOPC-POTM online konvertert. 
 url_ignore: /hu/java/conversion/flatopc-to-potm/
 family: total
 platformtag: net

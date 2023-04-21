@@ -1,6 +1,6 @@
 ---
 title: Java ile DOCX'yi POWERPOINT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan DOCX'yi POWERPOINT'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan DOCX'yi POWERPOINT'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCX'den POWERPOINT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/docx-to-powerpoint/
 family: total
 platformtag: net

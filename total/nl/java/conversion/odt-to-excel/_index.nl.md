@@ -1,6 +1,6 @@
 ---
 title: Java API om ODT naar EXCEL te converteren of met gratis Online Converter
-description: Converteer ODT naar EXCEL via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer ODT naar EXCEL via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis ODT naar EXCEL online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/odt-to-excel/
 family: total
 platformtag: net

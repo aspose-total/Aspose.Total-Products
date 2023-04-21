@@ -1,6 +1,6 @@
 ---
 title: Convierta DOC a PPTM a través de Java o con el convertidor en línea gratuito 
-description: API de Java para exportar DOC a PPTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar DOC a PPTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOC a PPTM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/doc-to-pptm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir RTF en TSV ou avec le convertisseur en ligne gratuit
-description: Convertir RTF en TSV via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: Convertir RTF en TSV via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne RTF vers TSV gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/rtf-to-tsv/
 family: total
 platformtag: net

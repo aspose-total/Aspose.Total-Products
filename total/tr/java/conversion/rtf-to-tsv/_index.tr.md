@@ -1,6 +1,6 @@
 ---
 title: RTF'yi TSV'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla RTF'yi TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla RTF'yi TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz RTF'den TSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/rtf-to-tsv/
 family: total
 platformtag: net

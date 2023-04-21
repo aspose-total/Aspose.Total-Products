@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir OTT en DIF ou avec le convertisseur en ligne gratuit
-description: Convertir OTT en DIF via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: Convertir OTT en DIF via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne OTT vers DIF gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/ott-to-dif/
 family: total
 platformtag: net

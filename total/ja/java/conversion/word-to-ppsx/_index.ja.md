@@ -1,6 +1,6 @@
 ---
 title: Java経由でWORDをPPSXに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにWORDをPPSXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにWORDをPPSXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の WORD から PPSX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/word-to-ppsx/
 family: total
 platformtag: net

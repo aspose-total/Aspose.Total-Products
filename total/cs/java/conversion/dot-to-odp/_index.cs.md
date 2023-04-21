@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na ODP přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOT do ODP bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOT do ODP bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na ODP. 
 url_ignore: /cs/java/conversion/dot-to-odp/
 family: total
 platformtag: net

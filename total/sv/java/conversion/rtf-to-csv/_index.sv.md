@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera RTF till CSV eller med gratis Online Converter
-description: Konvertera RTF till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera RTF till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis RTF till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/rtf-to-csv/
 family: total
 platformtag: net

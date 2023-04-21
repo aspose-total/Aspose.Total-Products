@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod OTT do XLTM nebo pomocí bezplatného online převodníku
-description: Převeďte OTT na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte OTT na XLTM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na XLTM. 
 url_ignore: /cs/java/conversion/ott-to-xltm/
 family: total
 platformtag: net

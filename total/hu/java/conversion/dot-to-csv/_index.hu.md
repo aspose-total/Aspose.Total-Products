@@ -1,6 +1,6 @@
 ---
 title: Java API a DOT konvertálásához CSV-vé vagy ingyenes online konverterrel
-description: A DOT konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOT konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-CSV online konvertert. 
 url_ignore: /hu/java/conversion/dot-to-csv/
 family: total
 platformtag: net

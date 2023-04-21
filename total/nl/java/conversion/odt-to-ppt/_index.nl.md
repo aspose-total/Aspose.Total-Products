@@ -1,6 +1,6 @@
 ---
 title: Converteer ODT naar PPT via Java of met gratis Online Converter 
-description: Java API om ODT naar PPT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om ODT naar PPT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis ODT naar PPT online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/odt-to-ppt/
 family: total
 platformtag: net

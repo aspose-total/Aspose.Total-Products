@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOT ke EXCEL atau dengan Konverter Online gratis
-description: Konversi DOT ke EXCEL melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOT ke EXCEL melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOT ke EXCEL gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/dot-to-excel/
 family: total
 platformtag: net

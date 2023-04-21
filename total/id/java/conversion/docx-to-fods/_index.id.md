@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOCX ke FODS atau dengan Konverter Online gratis
-description: Konversi DOCX ke FODS melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCX ke FODS melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOCX ke FODS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/docx-to-fods/
 family: total
 platformtag: net

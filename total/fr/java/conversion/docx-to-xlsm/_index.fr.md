@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir DOCX en XLSM ou avec le convertisseur en ligne gratuit
-description: Convertir DOCX en XLSM via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: Convertir DOCX en XLSM via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne DOCX vers XLSM gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/docx-to-xlsm/
 family: total
 platformtag: net

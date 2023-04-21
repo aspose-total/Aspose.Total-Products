@@ -1,6 +1,6 @@
 ---
 title: Konversi DOCM ke PPTX melalui Java atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor DOCM ke PPTX tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor DOCM ke PPTX tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online DOCM ke PPTX gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/docm-to-pptx/
 family: total
 platformtag: net

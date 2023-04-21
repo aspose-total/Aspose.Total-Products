@@ -1,6 +1,6 @@
 ---
 title: Java API a MOBI konvertálásához TSV-vé vagy ingyenes online konverterrel
-description: A MOBI konvertálása TSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A MOBI konvertálása TSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-TSV online konvertert. 
 url_ignore: /hu/java/conversion/mobi-to-tsv/
 family: total
 platformtag: net

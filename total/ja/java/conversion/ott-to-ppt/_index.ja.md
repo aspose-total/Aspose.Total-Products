@@ -1,6 +1,6 @@
 ---
 title: Java経由でOTTをPPTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにOTTをPPTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにOTTをPPTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の OTT から PPT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ott-to-ppt/
 family: total
 platformtag: net

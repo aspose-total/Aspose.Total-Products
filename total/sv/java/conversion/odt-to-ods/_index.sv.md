@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera ODT till ODS eller med gratis Online Converter
-description: Konvertera ODT till ODS via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera ODT till ODS via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis ODT till ODS online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/odt-to-ods/
 family: total
 platformtag: net

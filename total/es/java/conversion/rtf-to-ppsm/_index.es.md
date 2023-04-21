@@ -1,6 +1,6 @@
 ---
 title: Convierta RTF a PPSM a través de Java o con el convertidor en línea gratuito 
-description: API de Java para exportar RTF a PPSM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar RTF a PPSM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de RTF a PPSM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/rtf-to-ppsm/
 family: total
 platformtag: net

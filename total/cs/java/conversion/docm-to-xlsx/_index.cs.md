@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOCM do XLSX nebo pomocí bezplatného online převodníku
-description: Převeďte DOCM na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOCM na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na XLSX. 
 url_ignore: /cs/java/conversion/docm-to-xlsx/
 family: total
 platformtag: net

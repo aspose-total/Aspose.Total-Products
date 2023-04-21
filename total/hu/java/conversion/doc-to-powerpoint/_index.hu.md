@@ -1,6 +1,6 @@
 ---
 title: A DOC konvertálása POWERPOINT-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOC exportálásához POWERPOINT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOC exportálásához POWERPOINT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-POWERPOINT online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-powerpoint/
 family: total
 platformtag: net

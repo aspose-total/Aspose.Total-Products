@@ -1,6 +1,6 @@
 ---
 title: A WORD konvertálása PPT-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a WORD exportálásához PPT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a WORD exportálásához PPT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-PPT online konvertert. 
 url_ignore: /hu/java/conversion/word-to-ppt/
 family: total
 platformtag: net

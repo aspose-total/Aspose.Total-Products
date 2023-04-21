@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOCX ke XLSX atau dengan Konverter Online gratis
-description: Konversi DOCX ke XLSX melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCX ke XLSX melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOCX ke XLSX gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/docx-to-xlsx/
 family: total
 platformtag: net

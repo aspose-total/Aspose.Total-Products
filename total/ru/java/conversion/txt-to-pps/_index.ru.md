@@ -1,6 +1,6 @@
 ---
 title: Преобразование TXT в PPS через Java или с помощью бесплатного онлайн-конвертера 
-description: Java API для экспорта TXT в PPS без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Java API для экспорта TXT в PPS без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер TXT в PPS, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/txt-to-pps/
 family: total
 platformtag: net

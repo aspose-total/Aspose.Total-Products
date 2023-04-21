@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir DOCM a DIF o con el convertidor en línea gratuito
-description: Convierta DOCM a DIF a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta DOCM a DIF a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de DOCM a DIF rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/docm-to-dif/
 family: total
 platformtag: net

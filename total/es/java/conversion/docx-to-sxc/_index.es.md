@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir DOCX a SXC o con el convertidor en línea gratuito
-description: Convierta DOCX a SXC a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta DOCX a SXC a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de DOCX a SXC rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/docx-to-sxc/
 family: total
 platformtag: net

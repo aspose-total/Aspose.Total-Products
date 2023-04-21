@@ -1,6 +1,6 @@
 ---
 title: A RTF konvertálása POTX-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a RTF exportálásához POTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a RTF exportálásához POTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-POTX online konvertert. 
 url_ignore: /hu/java/conversion/rtf-to-potx/
 family: total
 platformtag: net

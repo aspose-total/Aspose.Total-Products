@@ -1,6 +1,6 @@
 ---
 title: Java経由でWORDをODPに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにWORDをODPにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにWORDをODPにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の WORD から ODP へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/word-to-odp/
 family: total
 platformtag: net

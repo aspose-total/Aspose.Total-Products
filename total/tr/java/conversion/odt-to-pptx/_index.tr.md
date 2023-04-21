@@ -1,6 +1,6 @@
 ---
 title: Java ile ODT'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan ODT'yi PPTX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan ODT'yi PPTX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODT'den PPTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/odt-to-pptx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na PPTX přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export TXT do PPTX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export TXT do PPTX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  TXT na PPTX. 
 url_ignore: /cs/java/conversion/txt-to-pptx/
 family: total
 platformtag: net

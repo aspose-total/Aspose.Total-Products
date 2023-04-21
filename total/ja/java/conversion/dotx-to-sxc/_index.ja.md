@@ -1,6 +1,6 @@
 ---
 title: DOTXをSXCに変換するJavaAPI または無料のオンライン コンバーターを使用
-description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOTXをSXCに変換する またはオンラインアプリ またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやMicrosoftExcelを使用せずに、Java経由でDOTXをSXCに変換する またはオンラインアプリ またはオンライン。コードを統合する前に、無料の DOTX から SXC へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/dotx-to-sxc/
 family: total
 platformtag: net

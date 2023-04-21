@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod RTF do XLTX nebo pomocí bezplatného online převodníku
-description: Převeďte RTF na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte RTF na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na XLTX. 
 url_ignore: /cs/java/conversion/rtf-to-xltx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API om RTF naar XLT te converteren of met gratis Online Converter
-description: Converteer RTF naar XLT via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer RTF naar XLT via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis RTF naar XLT online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/rtf-to-xlt/
 family: total
 platformtag: net

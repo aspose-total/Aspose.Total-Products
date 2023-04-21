@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل WORDML إلى DIF أو مع محول مجاني على الإنترنت
-description: قم بتحويل WORDML إلى DIF عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل WORDML إلى DIF عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول WORDML إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/wordml-to-dif/
 family: total
 platformtag: net

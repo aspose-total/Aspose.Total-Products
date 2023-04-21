@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOT do XLSX nebo pomocí bezplatného online převodníku
-description: Převeďte DOT na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOT na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na XLSX. 
 url_ignore: /cs/java/conversion/dot-to-xlsx/
 family: total
 platformtag: net

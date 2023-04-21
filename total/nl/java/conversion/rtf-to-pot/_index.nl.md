@@ -1,6 +1,6 @@
 ---
 title: Converteer RTF naar POT via Java of met gratis Online Converter 
-description: Java API om RTF naar POT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om RTF naar POT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis RTF naar POT online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/rtf-to-pot/
 family: total
 platformtag: net

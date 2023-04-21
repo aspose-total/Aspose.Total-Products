@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir ODT a XLTM o con el convertidor en línea gratuito
-description: Convierta ODT a XLTM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta ODT a XLTM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de ODT a XLTM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/odt-to-xltm/
 family: total
 platformtag: net

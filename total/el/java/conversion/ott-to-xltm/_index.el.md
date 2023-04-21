@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή OTT σε XLTM ή με δωρεάν Online Converter
-description: Μετατροπή OTT σε XLTM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή OTT σε XLTM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα OTT σε XLTM πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ott-to-xltm/
 family: total
 platformtag: net

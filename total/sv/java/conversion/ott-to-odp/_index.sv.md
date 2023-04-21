@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till ODP via Java eller med gratis Online Converter 
-description: Java API för att exportera OTT till ODP utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera OTT till ODP utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis OTT till ODP online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/ott-to-odp/
 family: total
 platformtag: net

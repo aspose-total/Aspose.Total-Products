@@ -1,6 +1,6 @@
 ---
 title: Java API a RTF konvertálásához FODS-vé vagy ingyenes online konverterrel
-description: A RTF konvertálása FODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A RTF konvertálása FODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-FODS online konvertert. 
 url_ignore: /hu/java/conversion/rtf-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi DOT sang XLTX hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOT sang XLTX qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi DOT sang XLTX qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến DOT sang XLTX miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/dot-to-xltx/
 family: total
 platformtag: net

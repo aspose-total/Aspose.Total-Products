@@ -1,6 +1,6 @@
 ---
 title: Java経由でOTTをPPSMに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにOTTをPPSMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにOTTをPPSMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の OTT から PPSM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ott-to-ppsm/
 family: total
 platformtag: net

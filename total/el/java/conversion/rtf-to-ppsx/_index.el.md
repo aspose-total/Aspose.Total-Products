@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή RTF σε PPSX μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή RTF σε PPSX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή RTF σε PPSX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα RTF σε PPSX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/rtf-to-ppsx/
 family: total
 platformtag: net

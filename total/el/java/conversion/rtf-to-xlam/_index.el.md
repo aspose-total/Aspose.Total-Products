@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή RTF σε XLAM ή με δωρεάν Online Converter
-description: Μετατροπή RTF σε XLAM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή RTF σε XLAM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα RTF σε XLAM πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/rtf-to-xlam/
 family: total
 platformtag: net

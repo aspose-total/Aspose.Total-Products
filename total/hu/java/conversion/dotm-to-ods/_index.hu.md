@@ -1,6 +1,6 @@
 ---
 title: Java API a DOTM konvertálásához ODS-vé vagy ingyenes online konverterrel
-description: A DOTM konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOTM konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-ODS online konvertert. 
 url_ignore: /hu/java/conversion/dotm-to-ods/
 family: total
 platformtag: net

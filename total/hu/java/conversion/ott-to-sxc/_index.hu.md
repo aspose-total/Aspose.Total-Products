@@ -1,6 +1,6 @@
 ---
 title: Java API a OTT konvertálásához SXC-vé vagy ingyenes online konverterrel
-description: A OTT konvertálása SXC-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A OTT konvertálása SXC-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-SXC online konvertert. 
 url_ignore: /hu/java/conversion/ott-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar PPT via Java of met gratis Online Converter 
-description: Java API om WORDML naar PPT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om WORDML naar PPT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis WORDML naar PPT online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/wordml-to-ppt/
 family: total
 platformtag: net

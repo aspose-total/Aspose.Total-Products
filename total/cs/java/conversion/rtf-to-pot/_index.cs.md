@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na POT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export RTF do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export RTF do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na POT. 
 url_ignore: /cs/java/conversion/rtf-to-pot/
 family: total
 platformtag: net

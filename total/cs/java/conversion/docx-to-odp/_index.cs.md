@@ -1,6 +1,6 @@
 ---
 title: Převést DOCX na ODP přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOCX do ODP bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOCX do ODP bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na ODP. 
 url_ignore: /cs/java/conversion/docx-to-odp/
 family: total
 platformtag: net

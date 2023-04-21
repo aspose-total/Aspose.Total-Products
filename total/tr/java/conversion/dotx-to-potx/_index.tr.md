@@ -1,6 +1,6 @@
 ---
 title: Java ile DOTX'yi POTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan DOTX'yi POTX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan DOTX'yi POTX'ye Dışa Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTX'den POTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/dotx-to-potx/
 family: total
 platformtag: net

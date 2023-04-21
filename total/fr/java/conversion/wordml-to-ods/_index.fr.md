@@ -1,6 +1,6 @@
 ---
 title: API Java pour convertir WORDML en ODS ou avec le convertisseur en ligne gratuit
-description: Convertir WORDML en ODS via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: Convertir WORDML en ODS via Java ou application en ligne sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne WORDML vers ODS gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/wordml-to-ods/
 family: total
 platformtag: net

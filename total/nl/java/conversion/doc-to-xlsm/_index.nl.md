@@ -1,6 +1,6 @@
 ---
 title: Java API om DOC naar XLSM te converteren of met gratis Online Converter
-description: Converteer DOC naar XLSM via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer DOC naar XLSM via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOC naar XLSM online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/doc-to-xlsm/
 family: total
 platformtag: net

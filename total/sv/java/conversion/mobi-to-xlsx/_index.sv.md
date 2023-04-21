@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera MOBI till XLSX eller med gratis Online Converter
-description: Konvertera MOBI till XLSX via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera MOBI till XLSX via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis MOBI till XLSX online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/mobi-to-xlsx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API a WORD konvertálásához DIF-vé vagy ingyenes online konverterrel
-description: A WORD konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A WORD konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-DIF online konvertert. 
 url_ignore: /hu/java/conversion/word-to-dif/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: A DOC konvertálása PPS-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOC exportálásához PPS-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOC exportálásához PPS-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-PPS online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-pps/
 family: total
 platformtag: net

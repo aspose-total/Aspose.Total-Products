@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOCXをPOWERPOINTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOCXをPOWERPOINTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOCXをPOWERPOINTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOCX から POWERPOINT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/docx-to-powerpoint/
 family: total
 platformtag: net

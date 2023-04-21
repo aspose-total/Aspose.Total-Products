@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir RTF a XLAM o con el convertidor en línea gratuito
-description: Convierta RTF a XLAM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta RTF a XLAM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de RTF a XLAM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/rtf-to-xlam/
 family: total
 platformtag: net

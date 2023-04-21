@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง OTT เป็น XLTX หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง OTT เป็น XLTX ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: แปลง OTT เป็น XLTX ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง OTT เป็น XLTX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/ott-to-xltx/
 family: total
 platformtag: net

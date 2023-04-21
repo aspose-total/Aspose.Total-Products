@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von DOTX in DIF oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie DOTX über Java in DIF oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie DOTX über Java in DIF oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen DOTX-zu-DIF-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/dotx-to-dif/
 family: total
 platformtag: net

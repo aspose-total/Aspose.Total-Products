@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل DOTM إلى XLS أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOTM إلى XLS عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل DOTM إلى XLS عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOTM إلى XLS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/dotm-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi OTT ke DIF atau dengan Konverter Online gratis
-description: Konversi OTT ke DIF melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi OTT ke DIF melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online OTT ke DIF gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ott-to-dif/
 family: total
 platformtag: net

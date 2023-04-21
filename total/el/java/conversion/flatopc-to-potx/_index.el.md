@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή FLATOPC σε POTX μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή FLATOPC σε POTX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή FLATOPC σε POTX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα FLATOPC σε POTX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/flatopc-to-potx/
 family: total
 platformtag: net

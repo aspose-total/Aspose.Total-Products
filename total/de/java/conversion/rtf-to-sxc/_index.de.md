@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von RTF in SXC oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie RTF über Java in SXC oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie RTF über Java in SXC oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen RTF-zu-SXC-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/rtf-to-sxc/
 family: total
 platformtag: net

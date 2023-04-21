@@ -1,6 +1,6 @@
 ---
 title: Java API a MOBI konvertálásához EXCEL-vé vagy ingyenes online konverterrel
-description: A MOBI konvertálása EXCEL-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A MOBI konvertálása EXCEL-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-EXCEL online konvertert. 
 url_ignore: /hu/java/conversion/mobi-to-excel/
 family: total
 platformtag: net

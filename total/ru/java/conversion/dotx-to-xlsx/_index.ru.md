@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования DOTX в XLSX или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOTX в XLSX через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразование DOTX в XLSX через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOTX в XLSX, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/dotx-to-xlsx/
 family: total
 platformtag: net

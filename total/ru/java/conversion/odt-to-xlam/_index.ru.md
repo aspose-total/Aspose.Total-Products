@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования ODT в XLAM или с помощью бесплатного онлайн-конвертера
-description: Преобразование ODT в XLAM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразование ODT в XLAM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер ODT в XLAM, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/odt-to-xlam/
 family: total
 platformtag: net

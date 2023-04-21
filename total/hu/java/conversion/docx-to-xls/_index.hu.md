@@ -1,6 +1,6 @@
 ---
 title: Java API a DOCX konvertálásához XLS-vé vagy ingyenes online konverterrel
-description: A DOCX konvertálása XLS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOCX konvertálása XLS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-XLS online konvertert. 
 url_ignore: /hu/java/conversion/docx-to-xls/
 family: total
 platformtag: net

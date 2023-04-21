@@ -1,6 +1,6 @@
 ---
 title: Java API om ODT naar XLTX te converteren of met gratis Online Converter
-description: Converteer ODT naar XLTX via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer ODT naar XLTX via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis ODT naar XLTX online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/odt-to-xltx/
 family: total
 platformtag: net

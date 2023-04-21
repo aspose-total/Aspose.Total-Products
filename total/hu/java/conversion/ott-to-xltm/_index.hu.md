@@ -1,6 +1,6 @@
 ---
 title: Java API a OTT konvertálásához XLTM-vé vagy ingyenes online konverterrel
-description: A OTT konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A OTT konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-XLTM online konvertert. 
 url_ignore: /hu/java/conversion/ott-to-xltm/
 family: total
 platformtag: net

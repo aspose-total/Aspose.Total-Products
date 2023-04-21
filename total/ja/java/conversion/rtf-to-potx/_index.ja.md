@@ -1,6 +1,6 @@
 ---
 title: Java経由でRTFをPOTXに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにRTFをPOTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにRTFをPOTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の RTF から POTX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/rtf-to-potx/
 family: total
 platformtag: net

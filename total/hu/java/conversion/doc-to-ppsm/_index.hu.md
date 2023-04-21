@@ -1,6 +1,6 @@
 ---
 title: A DOC konvertálása PPSM-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOC exportálásához PPSM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOC exportálásához PPSM-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-PPSM online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-ppsm/
 family: total
 platformtag: net

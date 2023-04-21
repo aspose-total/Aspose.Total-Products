@@ -1,6 +1,6 @@
 ---
 title: WORDML'yi ODS'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi ODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla WORDML'yi ODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORDML'den ODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/wordml-to-ods/
 family: total
 platformtag: net

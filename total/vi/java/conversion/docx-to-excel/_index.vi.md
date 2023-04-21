@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi DOCX sang EXCEL hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOCX sang EXCEL qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi DOCX sang EXCEL qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến DOCX sang EXCEL miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/docx-to-excel/
 family: total
 platformtag: net

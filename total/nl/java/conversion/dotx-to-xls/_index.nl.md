@@ -1,6 +1,6 @@
 ---
 title: Java API om DOTX naar XLS te converteren of met gratis Online Converter
-description: Converteer DOTX naar XLS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer DOTX naar XLS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOTX naar XLS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/dotx-to-xls/
 family: total
 platformtag: net

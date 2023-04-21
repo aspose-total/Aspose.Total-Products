@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOC ke DIF atau dengan Konverter Online gratis
-description: Konversi DOC ke DIF melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOC ke DIF melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOC ke DIF gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/doc-to-dif/
 family: total
 platformtag: net

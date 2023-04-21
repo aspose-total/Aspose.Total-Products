@@ -1,6 +1,6 @@
 ---
 title: Java API om DOTM naar FODS te converteren of met gratis Online Converter
-description: Converteer DOTM naar FODS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer DOTM naar FODS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOTM naar FODS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/dotm-to-fods/
 family: total
 platformtag: net

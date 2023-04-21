@@ -1,6 +1,6 @@
 ---
 title: تحويل WORD إلى POTM عبر Java أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير WORD إلى POTM دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير WORD إلى POTM دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول WORD إلى POTM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/word-to-potm/
 family: total
 platformtag: net

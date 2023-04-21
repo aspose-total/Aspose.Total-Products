@@ -1,6 +1,6 @@
 ---
 title: Java API a ODT konvertálásához XLTX-vé vagy ingyenes online konverterrel
-description: A ODT konvertálása XLTX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A ODT konvertálása XLTX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-XLTX online konvertert. 
 url_ignore: /hu/java/conversion/odt-to-xltx/
 family: total
 platformtag: net

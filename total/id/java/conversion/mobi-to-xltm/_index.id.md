@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi MOBI ke XLTM atau dengan Konverter Online gratis
-description: Konversi MOBI ke XLTM melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi MOBI ke XLTM melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online MOBI ke XLTM gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/mobi-to-xltm/
 family: total
 platformtag: net

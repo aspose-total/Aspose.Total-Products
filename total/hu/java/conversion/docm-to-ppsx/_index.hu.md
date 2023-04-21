@@ -1,6 +1,6 @@
 ---
 title: A DOCM konvertálása PPSX-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a DOCM exportálásához PPSX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a DOCM exportálásához PPSX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-PPSX online konvertert. 
 url_ignore: /hu/java/conversion/docm-to-ppsx/
 family: total
 platformtag: net

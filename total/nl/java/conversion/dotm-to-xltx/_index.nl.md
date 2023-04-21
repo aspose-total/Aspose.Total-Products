@@ -1,6 +1,6 @@
 ---
 title: Java API om DOTM naar XLTX te converteren of met gratis Online Converter
-description: Converteer DOTM naar XLTX via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer DOTM naar XLTX via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOTM naar XLTX online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/dotm-to-xltx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل MOBI إلى DIF أو مع محول مجاني على الإنترنت
-description: قم بتحويل MOBI إلى DIF عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل MOBI إلى DIF عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول MOBI إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/mobi-to-dif/
 family: total
 platformtag: net

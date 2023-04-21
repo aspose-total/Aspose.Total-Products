@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования RTF в XLSM или с помощью бесплатного онлайн-конвертера
-description: Преобразование RTF в XLSM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразование RTF в XLSM через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер RTF в XLSM, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/rtf-to-xlsm/
 family: total
 platformtag: net

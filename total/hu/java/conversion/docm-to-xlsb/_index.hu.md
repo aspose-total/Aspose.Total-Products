@@ -1,6 +1,6 @@
 ---
 title: Java API a DOCM konvertálásához XLSB-vé vagy ingyenes online konverterrel
-description: A DOCM konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOCM konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCM-XLSB online konvertert. 
 url_ignore: /hu/java/conversion/docm-to-xlsb/
 family: total
 platformtag: net

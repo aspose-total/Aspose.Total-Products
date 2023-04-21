@@ -1,6 +1,6 @@
 ---
 title: A TXT konvertálása PPT-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a TXT exportálásához PPT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a TXT exportálásához PPT-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-PPT online konvertert. 
 url_ignore: /hu/java/conversion/txt-to-ppt/
 family: total
 platformtag: net

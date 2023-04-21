@@ -1,6 +1,6 @@
 ---
 title: Java API om WORD naar XLTX te converteren of met gratis Online Converter
-description: Converteer WORD naar XLTX via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer WORD naar XLTX via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis WORD naar XLTX online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/word-to-xltx/
 family: total
 platformtag: net

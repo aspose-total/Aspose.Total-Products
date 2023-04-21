@@ -1,6 +1,6 @@
 ---
 title: A WORDML konvertálása PPS-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a WORDML exportálásához PPS-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a WORDML exportálásához PPS-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-PPS online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-pps/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést OTT na POTM přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export OTT do POTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export OTT do POTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na POTM. 
 url_ignore: /cs/java/conversion/ott-to-potm/
 family: total
 platformtag: net

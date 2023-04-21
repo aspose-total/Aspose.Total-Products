@@ -1,6 +1,6 @@
 ---
 title: Java API a DOTM konvertálásához XLT-vé vagy ingyenes online konverterrel
-description: A DOTM konvertálása XLT-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOTM konvertálása XLT-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-XLT online konvertert. 
 url_ignore: /hu/java/conversion/dotm-to-xlt/
 family: total
 platformtag: net

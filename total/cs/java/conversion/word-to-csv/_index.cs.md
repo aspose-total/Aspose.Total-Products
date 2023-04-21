@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod WORD do CSV nebo pomocí bezplatného online převodníku
-description: Převeďte WORD na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte WORD na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na CSV. 
 url_ignore: /cs/java/conversion/word-to-csv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOTX ke XLAM atau dengan Konverter Online gratis
-description: Konversi DOTX ke XLAM melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOTX ke XLAM melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOTX ke XLAM gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/dotx-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل ODT إلى XLSX أو مع محول مجاني على الإنترنت
-description: قم بتحويل ODT إلى XLSX عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل ODT إلى XLSX عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول ODT إلى XLSX على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/odt-to-xlsx/
 family: total
 platformtag: net

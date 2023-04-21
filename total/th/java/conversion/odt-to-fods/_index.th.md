@@ -1,6 +1,6 @@
 ---
 title: Java API เพื่อแปลง ODT เป็น FODS หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง ODT เป็น FODS ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: แปลง ODT เป็น FODS ผ่าน Java หรือแอพออนไลน์ โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง ODT เป็น FODS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/odt-to-fods/
 family: total
 platformtag: net

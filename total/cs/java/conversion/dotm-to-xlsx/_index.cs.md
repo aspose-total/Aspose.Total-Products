@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOTM do XLSX nebo pomocí bezplatného online převodníku
-description: Převeďte DOTM na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOTM na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na XLSX. 
 url_ignore: /cs/java/conversion/dotm-to-xlsx/
 family: total
 platformtag: net

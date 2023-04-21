@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOCM till CSV eller med gratis Online Converter
-description: Konvertera DOCM till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera DOCM till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCM till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/docm-to-csv/
 family: total
 platformtag: net

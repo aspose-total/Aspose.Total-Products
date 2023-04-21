@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till PPTM via Java eller med gratis Online Converter 
-description: Java API för att exportera RTF till PPTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera RTF till PPTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis RTF till PPTM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/rtf-to-pptm/
 family: total
 platformtag: net

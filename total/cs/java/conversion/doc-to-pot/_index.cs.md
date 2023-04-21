@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na POT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOC do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOC do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na POT. 
 url_ignore: /cs/java/conversion/doc-to-pot/
 family: total
 platformtag: net

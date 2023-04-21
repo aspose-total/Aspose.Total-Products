@@ -1,6 +1,6 @@
 ---
 title: تحويل WORD إلى POTX عبر Java أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير WORD إلى POTX دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير WORD إلى POTX دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول WORD إلى POTX على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/word-to-potx/
 family: total
 platformtag: net

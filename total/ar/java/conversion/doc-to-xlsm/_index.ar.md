@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل DOC إلى XLSM أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOC إلى XLSM عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل DOC إلى XLSM عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOC إلى XLSM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/doc-to-xlsm/
 family: total
 platformtag: net

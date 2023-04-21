@@ -1,6 +1,6 @@
 ---
 title: Java API a WORD konvertálásához XLAM-vé vagy ingyenes online konverterrel
-description: A WORD konvertálása XLAM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A WORD konvertálása XLAM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-XLAM online konvertert. 
 url_ignore: /hu/java/conversion/word-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod WORDML do XLTX nebo pomocí bezplatného online převodníku
-description: Převeďte WORDML na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte WORDML na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na XLTX. 
 url_ignore: /cs/java/conversion/wordml-to-xltx/
 family: total
 platformtag: net

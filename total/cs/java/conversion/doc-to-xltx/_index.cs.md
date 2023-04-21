@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do XLTX nebo pomocí bezplatného online převodníku
-description: Převeďte DOC na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOC na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLTX. 
 url_ignore: /cs/java/conversion/doc-to-xltx/
 family: total
 platformtag: net

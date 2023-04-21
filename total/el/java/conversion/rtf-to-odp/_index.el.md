@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή RTF σε ODP μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή RTF σε ODP χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή RTF σε ODP χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα RTF σε ODP πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/rtf-to-odp/
 family: total
 platformtag: net

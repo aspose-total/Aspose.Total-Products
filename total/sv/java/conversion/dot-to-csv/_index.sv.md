@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOT till CSV eller med gratis Online Converter
-description: Konvertera DOT till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera DOT till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOT till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/dot-to-csv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOCM till XLAM eller med gratis Online Converter
-description: Konvertera DOCM till XLAM via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera DOCM till XLAM via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCM till XLAM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/docm-to-xlam/
 family: total
 platformtag: net

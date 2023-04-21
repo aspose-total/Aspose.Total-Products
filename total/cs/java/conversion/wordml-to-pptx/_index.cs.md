@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPTX přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export WORDML do PPTX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export WORDML do PPTX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na PPTX. 
 url_ignore: /cs/java/conversion/wordml-to-pptx/
 family: total
 platformtag: net

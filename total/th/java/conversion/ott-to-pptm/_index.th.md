@@ -1,6 +1,6 @@
 ---
 title: แปลง OTT เป็น PPTM ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี 
-description: Java API เพื่อส่งออก OTT ไปยัง PPTM โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: Java API เพื่อส่งออก OTT ไปยัง PPTM โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง OTT เป็น PPTM ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/ott-to-pptm/
 family: total
 platformtag: net

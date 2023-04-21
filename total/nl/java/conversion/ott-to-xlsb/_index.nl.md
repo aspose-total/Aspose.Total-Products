@@ -1,6 +1,6 @@
 ---
 title: Java API om OTT naar XLSB te converteren of met gratis Online Converter
-description: Converteer OTT naar XLSB via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer OTT naar XLSB via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis OTT naar XLSB online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ott-to-xlsb/
 family: total
 platformtag: net

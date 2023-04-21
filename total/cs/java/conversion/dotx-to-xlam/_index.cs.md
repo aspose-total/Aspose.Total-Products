@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOTX do XLAM nebo pomocí bezplatného online převodníku
-description: Převeďte DOTX na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOTX na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na XLAM. 
 url_ignore: /cs/java/conversion/dotx-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή FLATOPC σε PPSX μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή FLATOPC σε PPSX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή FLATOPC σε PPSX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα FLATOPC σε PPSX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/flatopc-to-ppsx/
 family: total
 platformtag: net

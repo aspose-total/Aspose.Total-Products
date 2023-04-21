@@ -1,6 +1,6 @@
 ---
 title: Java API a WORDML konvertálásához XLAM-vé vagy ingyenes online konverterrel
-description: A WORDML konvertálása XLAM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A WORDML konvertálása XLAM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-XLAM online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-xlam/
 family: total
 platformtag: net

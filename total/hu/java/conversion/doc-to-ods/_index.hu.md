@@ -1,6 +1,6 @@
 ---
 title: Java API a DOC konvertálásához ODS-vé vagy ingyenes online konverterrel
-description: A DOC konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOC konvertálása ODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-ODS online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-ods/
 family: total
 platformtag: net

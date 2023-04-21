@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCX till PPT via Java eller med gratis Online Converter 
-description: Java API för att exportera DOCX till PPT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera DOCX till PPT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis DOCX till PPT online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/docx-to-ppt/
 family: total
 platformtag: net

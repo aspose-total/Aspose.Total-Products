@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na POT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOT do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOT do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na POT. 
 url_ignore: /cs/java/conversion/dot-to-pot/
 family: total
 platformtag: net

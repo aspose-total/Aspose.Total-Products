@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOC ke XLS atau dengan Konverter Online gratis
-description: Konversi DOC ke XLS melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOC ke XLS melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOC ke XLS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/doc-to-xls/
 family: total
 platformtag: net

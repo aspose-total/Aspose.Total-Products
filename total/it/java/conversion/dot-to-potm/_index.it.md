@@ -1,6 +1,6 @@
 ---
 title: Converti DOT in POTM tramite Java o con il convertitore online gratuito 
-description: API Java per esportare DOT in POTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: API Java per esportare DOT in POTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOT a POTM prima di integrare il codice. 
 url_ignore: /it/java/conversion/dot-to-potm/
 family: total
 platformtag: net

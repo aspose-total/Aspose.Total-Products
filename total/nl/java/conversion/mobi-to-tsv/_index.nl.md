@@ -1,6 +1,6 @@
 ---
 title: Java API om MOBI naar TSV te converteren of met gratis Online Converter
-description: Converteer MOBI naar TSV via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer MOBI naar TSV via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis MOBI naar TSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/mobi-to-tsv/
 family: total
 platformtag: net

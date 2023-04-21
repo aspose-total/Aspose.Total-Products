@@ -1,6 +1,6 @@
 ---
 title: Converter FLATOPC para PPT via Java  ou com o conversor online grátis ou com o conversor online gratuito
-description: API Java para exportar FLATOPC para PPT sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
+description: API Java para exportar FLATOPC para PPT sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de FLATOPC para PPT rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/flatopc-to-ppt/
 family: total
 platformtag: net

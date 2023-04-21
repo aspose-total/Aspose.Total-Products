@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi ODT sang PPTM qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí 
-description: Java API để xuất ODT sang PPTM mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Java API để xuất ODT sang PPTM mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến ODT sang PPTM miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/odt-to-pptm/
 family: total
 platformtag: net

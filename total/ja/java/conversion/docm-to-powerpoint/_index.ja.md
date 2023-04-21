@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOCMをPOWERPOINTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOCMをPOWERPOINTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOCMをPOWERPOINTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOCM から POWERPOINT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/docm-to-powerpoint/
 family: total
 platformtag: net

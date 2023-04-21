@@ -1,6 +1,6 @@
 ---
 title: Java経由でWORDをPOTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにWORDをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにWORDをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の WORD から POT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/word-to-pot/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή MOBI σε XLSB ή με δωρεάν Online Converter
-description: Μετατροπή MOBI σε XLSB μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή MOBI σε XLSB μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα MOBI σε XLSB πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/mobi-to-xlsb/
 family: total
 platformtag: net

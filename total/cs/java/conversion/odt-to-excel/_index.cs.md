@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod ODT do EXCEL nebo pomocí bezplatného online převodníku
-description: Převeďte ODT na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte ODT na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na EXCEL. 
 url_ignore: /cs/java/conversion/odt-to-excel/
 family: total
 platformtag: net

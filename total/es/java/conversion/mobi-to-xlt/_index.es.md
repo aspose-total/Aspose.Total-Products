@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir MOBI a XLT o con el convertidor en línea gratuito
-description: Convierta MOBI a XLT a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta MOBI a XLT a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de MOBI a XLT rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/mobi-to-xlt/
 family: total
 platformtag: net

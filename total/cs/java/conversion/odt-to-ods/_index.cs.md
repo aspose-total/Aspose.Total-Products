@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod ODT do ODS nebo pomocí bezplatného online převodníku
-description: Převeďte ODT na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte ODT na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na ODS. 
 url_ignore: /cs/java/conversion/odt-to-ods/
 family: total
 platformtag: net

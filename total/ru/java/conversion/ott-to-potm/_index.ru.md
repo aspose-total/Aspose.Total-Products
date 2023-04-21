@@ -1,6 +1,6 @@
 ---
 title: Преобразование OTT в POTM через Java или с помощью бесплатного онлайн-конвертера 
-description: Java API для экспорта OTT в POTM без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Java API для экспорта OTT в POTM без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер OTT в POTM, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/ott-to-potm/
 family: total
 platformtag: net

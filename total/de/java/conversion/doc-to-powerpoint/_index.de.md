@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOC über Java in POWERPOINT oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von DOC in POWERPOINT, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von DOC in POWERPOINT, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen DOC-zu-POWERPOINT-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/doc-to-powerpoint/
 family: total
 platformtag: net

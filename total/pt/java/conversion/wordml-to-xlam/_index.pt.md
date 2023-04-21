@@ -1,6 +1,6 @@
 ---
 title: API Java para converter WORDML para XLAM ou com o conversor online gratuito
-description: Converta WORDML para XLAM via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta WORDML para XLAM via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de WORDML para XLAM rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/wordml-to-xlam/
 family: total
 platformtag: net

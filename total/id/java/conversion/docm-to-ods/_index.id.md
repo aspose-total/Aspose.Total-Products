@@ -1,6 +1,6 @@
 ---
 title: Java API untuk Mengonversi DOCM ke ODS atau dengan Konverter Online gratis
-description: Konversi DOCM ke ODS melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi DOCM ke ODS melalui Java atau Aplikasi Daring tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOCM ke ODS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/docm-to-ods/
 family: total
 platformtag: net

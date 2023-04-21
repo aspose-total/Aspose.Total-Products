@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do ODS nebo pomocí bezplatného online převodníku
-description: Převeďte DOC na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOC na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na ODS. 
 url_ignore: /cs/java/conversion/doc-to-ods/
 family: total
 platformtag: net

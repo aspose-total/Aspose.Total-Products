@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOTXをODPに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOTXをODPにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOTXをODPにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOTX から ODP へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/dotx-to-odp/
 family: total
 platformtag: net

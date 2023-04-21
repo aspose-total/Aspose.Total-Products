@@ -1,6 +1,6 @@
 ---
 title: Преобразование ODT в PPT через Java или с помощью бесплатного онлайн-конвертера 
-description: Java API для экспорта ODT в PPT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Java API для экспорта ODT в PPT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер ODT в PPT, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/odt-to-ppt/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie WORD über Java in PPSM oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von WORD in PPSM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von WORD in PPSM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen WORD-zu-PPSM-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/word-to-ppsm/
 family: total
 platformtag: net

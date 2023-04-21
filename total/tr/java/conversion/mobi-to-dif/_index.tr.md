@@ -1,6 +1,6 @@
 ---
 title: MOBI'yi DIF'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla MOBI'yi DIF'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla MOBI'yi DIF'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz MOBI'den DIF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/mobi-to-dif/
 family: total
 platformtag: net

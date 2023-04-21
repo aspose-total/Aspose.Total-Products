@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOCX do EXCEL nebo pomocí bezplatného online převodníku
-description: Převeďte DOCX na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOCX na EXCEL přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na EXCEL. 
 url_ignore: /cs/java/conversion/docx-to-excel/
 family: total
 platformtag: net

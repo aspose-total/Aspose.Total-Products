@@ -1,6 +1,6 @@
 ---
 title: Converteer WORD naar PPSX via Java of met gratis Online Converter 
-description: Java API om WORD naar PPSX te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om WORD naar PPSX te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis WORD naar PPSX online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/word-to-ppsx/
 family: total
 platformtag: net

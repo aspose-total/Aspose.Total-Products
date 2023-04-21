@@ -1,6 +1,6 @@
 ---
 title: Java API a WORDML konvertálásához XLTM-vé vagy ingyenes online konverterrel
-description: A WORDML konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A WORDML konvertálása XLTM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-XLTM online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-xltm/
 family: total
 platformtag: net

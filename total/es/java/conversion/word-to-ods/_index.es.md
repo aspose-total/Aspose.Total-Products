@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir WORD a ODS o con el convertidor en línea gratuito
-description: Convierta WORD a ODS a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta WORD a ODS a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de WORD a ODS rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/word-to-ods/
 family: total
 platformtag: net

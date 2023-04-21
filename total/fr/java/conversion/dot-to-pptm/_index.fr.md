@@ -1,6 +1,6 @@
 ---
 title: Convertir DOT en PPTM via Java ou avec le convertisseur en ligne gratuit 
-description: API Java pour exporter DOT vers PPTM sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: API Java pour exporter DOT vers PPTM sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne DOT vers PPTM gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/dot-to-pptm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API a DOT konvertálásához DIF-vé vagy ingyenes online konverterrel
-description: A DOT konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOT konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-DIF online konvertert. 
 url_ignore: /hu/java/conversion/dot-to-dif/
 family: total
 platformtag: net

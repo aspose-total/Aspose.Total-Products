@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na POTM přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export ODT do POTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export ODT do POTM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na POTM. 
 url_ignore: /cs/java/conversion/odt-to-potm/
 family: total
 platformtag: net

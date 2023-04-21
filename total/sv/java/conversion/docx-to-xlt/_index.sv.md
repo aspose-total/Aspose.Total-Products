@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOCX till XLT eller med gratis Online Converter
-description: Konvertera DOCX till XLT via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera DOCX till XLT via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCX till XLT online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/docx-to-xlt/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java経由でWORDMLをPPTXに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにWORDMLをPPTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにWORDMLをPPTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の WORDML から PPTX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/wordml-to-pptx/
 family: total
 platformtag: net

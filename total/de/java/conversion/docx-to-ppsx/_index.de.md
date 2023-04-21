@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOCX über Java in PPSX oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von DOCX in PPSX, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von DOCX in PPSX, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen DOCX-zu-PPSX-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/docx-to-ppsx/
 family: total
 platformtag: net

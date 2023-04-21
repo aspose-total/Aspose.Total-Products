@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do SXC nebo pomocí bezplatného online převodníku
-description: Převeďte DOC na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOC na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na SXC. 
 url_ignore: /cs/java/conversion/doc-to-sxc/
 family: total
 platformtag: net

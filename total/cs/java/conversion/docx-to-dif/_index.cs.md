@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOCX do DIF nebo pomocí bezplatného online převodníku
-description: Převeďte DOCX na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOCX na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na DIF. 
 url_ignore: /cs/java/conversion/docx-to-dif/
 family: total
 platformtag: net

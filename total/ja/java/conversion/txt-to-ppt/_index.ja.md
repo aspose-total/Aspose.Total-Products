@@ -1,6 +1,6 @@
 ---
 title: Java経由でTXTをPPTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにTXTをPPTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにTXTをPPTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の TXT から PPT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/txt-to-ppt/
 family: total
 platformtag: net

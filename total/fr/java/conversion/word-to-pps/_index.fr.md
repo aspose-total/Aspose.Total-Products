@@ -1,6 +1,6 @@
 ---
 title: Convertir WORD en PPS via Java ou avec le convertisseur en ligne gratuit 
-description: API Java pour exporter WORD vers PPS sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: API Java pour exporter WORD vers PPS sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne WORD vers PPS gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/word-to-pps/
 family: total
 platformtag: net

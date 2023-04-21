@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na PPSX přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOC do PPSX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOC do PPSX bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na PPSX. 
 url_ignore: /cs/java/conversion/doc-to-ppsx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést DOT na PPSM přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOT do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOT do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na PPSM. 
 url_ignore: /cs/java/conversion/dot-to-ppsm/
 family: total
 platformtag: net

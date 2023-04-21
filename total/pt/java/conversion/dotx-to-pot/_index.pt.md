@@ -1,6 +1,6 @@
 ---
 title: Converter DOTX para POT via Java  ou com o conversor online grátis ou com o conversor online gratuito
-description: API Java para exportar DOTX para POT sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
+description: API Java para exportar DOTX para POT sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de DOTX para POT rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/dotx-to-pot/
 family: total
 platformtag: net

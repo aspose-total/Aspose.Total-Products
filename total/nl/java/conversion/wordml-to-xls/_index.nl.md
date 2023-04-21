@@ -1,6 +1,6 @@
 ---
 title: Java API om WORDML naar XLS te converteren of met gratis Online Converter
-description: Converteer WORDML naar XLS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer WORDML naar XLS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis WORDML naar XLS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/wordml-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOTM do SXC nebo pomocí bezplatného online převodníku
-description: Převeďte DOTM na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOTM na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na SXC. 
 url_ignore: /cs/java/conversion/dotm-to-sxc/
 family: total
 platformtag: net

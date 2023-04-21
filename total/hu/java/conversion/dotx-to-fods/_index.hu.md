@@ -1,6 +1,6 @@
 ---
 title: Java API a DOTX konvertálásához FODS-vé vagy ingyenes online konverterrel
-description: A DOTX konvertálása FODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOTX konvertálása FODS-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-FODS online konvertert. 
 url_ignore: /hu/java/conversion/dotx-to-fods/
 family: total
 platformtag: net

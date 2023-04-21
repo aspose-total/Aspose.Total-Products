@@ -1,6 +1,6 @@
 ---
 title: ODT'yi XLTX'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLTX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla ODT'yi XLTX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODT'den XLTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/odt-to-xltx/
 family: total
 platformtag: net

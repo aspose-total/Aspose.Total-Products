@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na PPSM přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export DOCM do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export DOCM do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na PPSM. 
 url_ignore: /cs/java/conversion/docm-to-ppsm/
 family: total
 platformtag: net

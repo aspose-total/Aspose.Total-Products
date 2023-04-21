@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod WORD do XLSM nebo pomocí bezplatného online převodníku
-description: Převeďte WORD na XLSM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte WORD na XLSM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na XLSM. 
 url_ignore: /cs/java/conversion/word-to-xlsm/
 family: total
 platformtag: net

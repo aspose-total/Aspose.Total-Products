@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi MOBI sang FODS hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi MOBI sang FODS qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi MOBI sang FODS qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến MOBI sang FODS miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/mobi-to-fods/
 family: total
 platformtag: net

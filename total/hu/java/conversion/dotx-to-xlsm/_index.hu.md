@@ -1,6 +1,6 @@
 ---
 title: Java API a DOTX konvertálásához XLSM-vé vagy ingyenes online konverterrel
-description: A DOTX konvertálása XLSM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOTX konvertálása XLSM-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-XLSM online konvertert. 
 url_ignore: /hu/java/conversion/dotx-to-xlsm/
 family: total
 platformtag: net

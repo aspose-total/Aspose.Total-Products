@@ -1,6 +1,6 @@
 ---
 title: Converter OTT para PPTX via Java  ou com o conversor online grátis ou com o conversor online gratuito
-description: API Java para exportar OTT para PPTX sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
+description: API Java para exportar OTT para PPTX sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de OTT para PPTX rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/ott-to-pptx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOT do CSV nebo pomocí bezplatného online převodníku
-description: Převeďte DOT na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOT na CSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na CSV. 
 url_ignore: /cs/java/conversion/dot-to-csv/
 family: total
 platformtag: net

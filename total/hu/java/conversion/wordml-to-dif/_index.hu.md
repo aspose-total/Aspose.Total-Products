@@ -1,6 +1,6 @@
 ---
 title: Java API a WORDML konvertálásához DIF-vé vagy ingyenes online konverterrel
-description: A WORDML konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A WORDML konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-DIF online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-dif/
 family: total
 platformtag: net

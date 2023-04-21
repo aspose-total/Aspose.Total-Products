@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή ODT σε SXC ή με δωρεάν Online Converter
-description: Μετατροπή ODT σε SXC μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή ODT σε SXC μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODT σε SXC πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/odt-to-sxc/
 family: total
 platformtag: net

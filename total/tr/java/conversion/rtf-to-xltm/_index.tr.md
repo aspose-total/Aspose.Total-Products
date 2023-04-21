@@ -1,6 +1,6 @@
 ---
 title: RTF'yi XLTM'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla RTF'yi XLTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla RTF'yi XLTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz RTF'den XLTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/rtf-to-xltm/
 family: total
 platformtag: net

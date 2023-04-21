@@ -1,6 +1,6 @@
 ---
 title: Java経由でFLATOPCをPOTに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにFLATOPCをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにFLATOPCをPOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の FLATOPC から POT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/flatopc-to-pot/
 family: total
 platformtag: net

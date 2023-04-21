@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie TXT über Java in POTM oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von TXT in POTM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von TXT in POTM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen TXT-zu-POTM-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/txt-to-potm/
 family: total
 platformtag: net

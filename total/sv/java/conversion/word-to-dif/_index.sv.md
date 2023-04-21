@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera WORD till DIF eller med gratis Online Converter
-description: Konvertera WORD till DIF via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera WORD till DIF via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis WORD till DIF online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/word-to-dif/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java-API zum Konvertieren von DOTM in XLT oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie DOTM über Java in XLT oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie DOTM über Java in XLT oder Online-App, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen DOTM-zu-XLT-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/dotm-to-xlt/
 family: total
 platformtag: net

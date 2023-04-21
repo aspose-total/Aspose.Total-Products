@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi DOCX sang XLTM hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOCX sang XLTM qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi DOCX sang XLTM qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến DOCX sang XLTM miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/docx-to-xltm/
 family: total
 platformtag: net

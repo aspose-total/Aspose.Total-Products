@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera DOCM till XLS eller med gratis Online Converter
-description: Konvertera DOCM till XLS via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera DOCM till XLS via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCM till XLS online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/docm-to-xls/
 family: total
 platformtag: net

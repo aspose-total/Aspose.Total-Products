@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod WORDML do XLS nebo pomocí bezplatného online převodníku
-description: Převeďte WORDML na XLS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte WORDML na XLS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na XLS. 
 url_ignore: /cs/java/conversion/wordml-to-xls/
 family: total
 platformtag: net

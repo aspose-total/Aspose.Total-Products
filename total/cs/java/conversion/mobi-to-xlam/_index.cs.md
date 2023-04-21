@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod MOBI do XLAM nebo pomocí bezplatného online převodníku
-description: Převeďte MOBI na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte MOBI na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLAM. 
 url_ignore: /cs/java/conversion/mobi-to-xlam/
 family: total
 platformtag: net

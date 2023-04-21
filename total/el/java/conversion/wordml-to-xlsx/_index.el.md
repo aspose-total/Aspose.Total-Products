@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή WORDML σε XLSX ή με δωρεάν Online Converter
-description: Μετατροπή WORDML σε XLSX μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή WORDML σε XLSX μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORDML σε XLSX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/wordml-to-xlsx/
 family: total
 platformtag: net

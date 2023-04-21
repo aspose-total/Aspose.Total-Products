@@ -1,6 +1,6 @@
 ---
 title: API Java para converter DOC para EXCEL ou com o conversor online gratuito
-description: Converta DOC para EXCEL via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta DOC para EXCEL via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de DOC para EXCEL rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/doc-to-excel/
 family: total
 platformtag: net

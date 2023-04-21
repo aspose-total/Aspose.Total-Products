@@ -1,6 +1,6 @@
 ---
 title: Java API a RTF konvertálásához SXC-vé vagy ingyenes online konverterrel
-description: A RTF konvertálása SXC-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A RTF konvertálása SXC-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-SXC online konvertert. 
 url_ignore: /hu/java/conversion/rtf-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOCをPPTMに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOCをPPTMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOCをPPTMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOC から PPTM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/doc-to-pptm/
 family: total
 platformtag: net

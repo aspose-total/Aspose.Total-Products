@@ -1,6 +1,6 @@
 ---
 title: Java API a MOBI konvertálásához XLSX-vé vagy ingyenes online konverterrel
-description: A MOBI konvertálása XLSX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A MOBI konvertálása XLSX-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes MOBI-XLSX online konvertert. 
 url_ignore: /hu/java/conversion/mobi-to-xlsx/
 family: total
 platformtag: net

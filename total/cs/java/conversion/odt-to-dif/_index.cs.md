@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod ODT do DIF nebo pomocí bezplatného online převodníku
-description: Převeďte ODT na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte ODT na DIF přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na DIF. 
 url_ignore: /cs/java/conversion/odt-to-dif/
 family: total
 platformtag: net

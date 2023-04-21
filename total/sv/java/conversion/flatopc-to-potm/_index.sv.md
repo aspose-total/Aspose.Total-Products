@@ -1,6 +1,6 @@
 ---
 title: Konvertera FLATOPC till POTM via Java eller med gratis Online Converter 
-description: Java API för att exportera FLATOPC till POTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera FLATOPC till POTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis FLATOPC till POTM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/flatopc-to-potm/
 family: total
 platformtag: net

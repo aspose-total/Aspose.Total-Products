@@ -1,6 +1,6 @@
 ---
 title: Java API để chuyển đổi OTT sang XLAM hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi OTT sang XLAM qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi OTT sang XLAM qua Java hoặc Ứng dụng trực tuyến mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến OTT sang XLAM miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/ott-to-xlam/
 family: total
 platformtag: net

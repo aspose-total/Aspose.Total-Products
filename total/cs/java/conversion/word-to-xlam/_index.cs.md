@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod WORD do XLAM nebo pomocí bezplatného online převodníku
-description: Převeďte WORD na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte WORD na XLAM přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na XLAM. 
 url_ignore: /cs/java/conversion/word-to-xlam/
 family: total
 platformtag: net

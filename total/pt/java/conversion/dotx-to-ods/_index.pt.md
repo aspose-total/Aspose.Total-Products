@@ -1,6 +1,6 @@
 ---
 title: API Java para converter DOTX para ODS ou com o conversor online gratuito
-description: Converta DOTX para ODS via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta DOTX para ODS via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de DOTX para ODS rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/dotx-to-ods/
 family: total
 platformtag: net

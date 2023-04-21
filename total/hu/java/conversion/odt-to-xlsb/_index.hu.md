@@ -1,6 +1,6 @@
 ---
 title: Java API a ODT konvertálásához XLSB-vé vagy ingyenes online konverterrel
-description: A ODT konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A ODT konvertálása XLSB-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-XLSB online konvertert. 
 url_ignore: /hu/java/conversion/odt-to-xlsb/
 family: total
 platformtag: net

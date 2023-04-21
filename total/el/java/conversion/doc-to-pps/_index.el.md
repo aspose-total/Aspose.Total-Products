@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOC σε PPS μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή DOC σε PPS χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή DOC σε PPS χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOC σε PPS πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/doc-to-pps/
 family: total
 platformtag: net

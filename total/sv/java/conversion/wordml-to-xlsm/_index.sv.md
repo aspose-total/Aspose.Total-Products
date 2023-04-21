@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera WORDML till XLSM eller med gratis Online Converter
-description: Konvertera WORDML till XLSM via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera WORDML till XLSM via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis WORDML till XLSM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/wordml-to-xlsm/
 family: total
 platformtag: net

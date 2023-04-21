@@ -1,6 +1,6 @@
 ---
 title: Java API om DOCX naar EXCEL te converteren of met gratis Online Converter
-description: Converteer DOCX naar EXCEL via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer DOCX naar EXCEL via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOCX naar EXCEL online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/docx-to-excel/
 family: total
 platformtag: net

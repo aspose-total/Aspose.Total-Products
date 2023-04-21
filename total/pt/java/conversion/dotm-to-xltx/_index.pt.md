@@ -1,6 +1,6 @@
 ---
 title: API Java para converter DOTM para XLTX ou com o conversor online gratuito
-description: Converta DOTM para XLTX via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta DOTM para XLTX via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de DOTM para XLTX rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/dotm-to-xltx/
 family: total
 platformtag: net

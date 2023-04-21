@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTX إلى PPT عبر Java أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير DOTX إلى PPT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير DOTX إلى PPT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول DOTX إلى PPT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/dotx-to-ppt/
 family: total
 platformtag: net

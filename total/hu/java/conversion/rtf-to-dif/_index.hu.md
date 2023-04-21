@@ -1,6 +1,6 @@
 ---
 title: Java API a RTF konvertálásához DIF-vé vagy ingyenes online konverterrel
-description: A RTF konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A RTF konvertálása DIF-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-DIF online konvertert. 
 url_ignore: /hu/java/conversion/rtf-to-dif/
 family: total
 platformtag: net

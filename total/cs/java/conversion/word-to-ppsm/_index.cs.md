@@ -1,6 +1,6 @@
 ---
 title: Převést WORD na PPSM přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export WORD do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export WORD do PPSM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na PPSM. 
 url_ignore: /cs/java/conversion/word-to-ppsm/
 family: total
 platformtag: net

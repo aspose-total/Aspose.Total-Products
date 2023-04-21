@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTM naar PPSX via Java of met gratis Online Converter 
-description: Java API om DOTM naar PPSX te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om DOTM naar PPSX te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOTM naar PPSX online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/dotm-to-ppsx/
 family: total
 platformtag: net

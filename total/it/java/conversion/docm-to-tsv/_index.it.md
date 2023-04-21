@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire DOCM in TSV o con il convertitore online gratuito
-description: Converti DOCM in TSV tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: Converti DOCM in TSV tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOCM a TSV prima di integrare il codice. 
 url_ignore: /it/java/conversion/docm-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOT do FODS nebo pomocí bezplatného online převodníku
-description: Převeďte DOT na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOT na FODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na FODS. 
 url_ignore: /cs/java/conversion/dot-to-fods/
 family: total
 platformtag: net

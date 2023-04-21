@@ -1,6 +1,6 @@
 ---
 title: تحويل OTT إلى PPSM عبر Java أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير OTT إلى PPSM دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير OTT إلى PPSM دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول OTT إلى PPSM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ott-to-ppsm/
 family: total
 platformtag: net

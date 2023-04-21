@@ -1,6 +1,6 @@
 ---
 title: Konvertera TXT till PPTM via Java eller med gratis Online Converter 
-description: Java API för att exportera TXT till PPTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera TXT till PPTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis TXT till PPTM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/txt-to-pptm/
 family: total
 platformtag: net

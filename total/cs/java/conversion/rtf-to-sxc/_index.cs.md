@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod RTF do SXC nebo pomocí bezplatného online převodníku
-description: Převeďte RTF na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte RTF na SXC přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na SXC. 
 url_ignore: /cs/java/conversion/rtf-to-sxc/
 family: total
 platformtag: net

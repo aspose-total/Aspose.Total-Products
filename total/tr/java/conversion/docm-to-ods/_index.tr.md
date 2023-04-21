@@ -1,6 +1,6 @@
 ---
 title: DOCM'yi ODS'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCM'yi ODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOCM'yi ODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOCM'den ODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/docm-to-ods/
 family: total
 platformtag: net

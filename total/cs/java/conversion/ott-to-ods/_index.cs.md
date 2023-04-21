@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod OTT do ODS nebo pomocí bezplatného online převodníku
-description: Převeďte OTT na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte OTT na ODS přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na ODS. 
 url_ignore: /cs/java/conversion/ott-to-ods/
 family: total
 platformtag: net

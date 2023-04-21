@@ -1,6 +1,6 @@
 ---
 title: Java API om DOC naar TSV te converteren of met gratis Online Converter
-description: Converteer DOC naar TSV via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer DOC naar TSV via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOC naar TSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/doc-to-tsv/
 family: total
 platformtag: net

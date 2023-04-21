@@ -1,6 +1,6 @@
 ---
 title: A WORD konvertálása PPTX-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a WORD exportálásához PPTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a WORD exportálásához PPTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-PPTX online konvertert. 
 url_ignore: /hu/java/conversion/word-to-pptx/
 family: total
 platformtag: net

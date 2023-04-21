@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل ODT إلى DIF أو مع محول مجاني على الإنترنت
-description: قم بتحويل ODT إلى DIF عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل ODT إلى DIF عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول ODT إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/odt-to-dif/
 family: total
 platformtag: net

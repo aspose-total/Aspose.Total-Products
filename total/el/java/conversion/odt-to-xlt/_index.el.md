@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή ODT σε XLT ή με δωρεάν Online Converter
-description: Μετατροπή ODT σε XLT μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή ODT σε XLT μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODT σε XLT πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/odt-to-xlt/
 family: total
 platformtag: net

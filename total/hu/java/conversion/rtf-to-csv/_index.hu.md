@@ -1,6 +1,6 @@
 ---
 title: Java API a RTF konvertálásához CSV-vé vagy ingyenes online konverterrel
-description: A RTF konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A RTF konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-CSV online konvertert. 
 url_ignore: /hu/java/conversion/rtf-to-csv/
 family: total
 platformtag: net

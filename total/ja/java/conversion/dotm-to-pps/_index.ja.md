@@ -1,6 +1,6 @@
 ---
 title: Java経由でDOTMをPPSに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにDOTMをPPSにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにDOTMをPPSにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の DOTM から PPS へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/dotm-to-pps/
 family: total
 platformtag: net

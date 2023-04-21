@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в POWERPOINT через Java или с помощью бесплатного онлайн-конвертера 
-description: Java API для экспорта DOT в POWERPOINT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Java API для экспорта DOT в POWERPOINT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOT в POWERPOINT, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/dot-to-powerpoint/
 family: total
 platformtag: net

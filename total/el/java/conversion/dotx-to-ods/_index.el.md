@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή DOTX σε ODS ή με δωρεάν Online Converter
-description: Μετατροπή DOTX σε ODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOTX σε ODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTX σε ODS πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/dotx-to-ods/
 family: total
 platformtag: net

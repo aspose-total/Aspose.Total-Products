@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή DOT σε FODS ή με δωρεάν Online Converter
-description: Μετατροπή DOT σε FODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή DOT σε FODS μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOT σε FODS πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/dot-to-fods/
 family: total
 platformtag: net

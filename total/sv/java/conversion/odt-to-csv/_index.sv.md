@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera ODT till CSV eller med gratis Online Converter
-description: Konvertera ODT till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera ODT till CSV via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis ODT till CSV online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/odt-to-csv/
 family: total
 platformtag: net

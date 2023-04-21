@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera RTF till EXCEL eller med gratis Online Converter
-description: Konvertera RTF till EXCEL via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera RTF till EXCEL via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis RTF till EXCEL online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/rtf-to-excel/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOTX do XLTX nebo pomocí bezplatného online převodníku
-description: Převeďte DOTX na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOTX na XLTX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na XLTX. 
 url_ignore: /cs/java/conversion/dotx-to-xltx/
 family: total
 platformtag: net

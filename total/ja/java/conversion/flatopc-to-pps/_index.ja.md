@@ -1,6 +1,6 @@
 ---
 title: Java経由でFLATOPCをPPSに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにFLATOPCをPPSにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにFLATOPCをPPSにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の FLATOPC から PPS へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/flatopc-to-pps/
 family: total
 platformtag: net

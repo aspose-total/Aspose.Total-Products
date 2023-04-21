@@ -1,6 +1,6 @@
 ---
 title: Java API για μετατροπή WORD σε XLAM ή με δωρεάν Online Converter
-description: Μετατροπή WORD σε XLAM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή WORD σε XLAM μέσω Java ή Online App χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORD σε XLAM πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/word-to-xlam/
 family: total
 platformtag: net

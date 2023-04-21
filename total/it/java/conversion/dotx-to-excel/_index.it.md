@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire DOTX in EXCEL o con il convertitore online gratuito
-description: Converti DOTX in EXCEL tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: Converti DOTX in EXCEL tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOTX a EXCEL prima di integrare il codice. 
 url_ignore: /it/java/conversion/dotx-to-excel/
 family: total
 platformtag: net

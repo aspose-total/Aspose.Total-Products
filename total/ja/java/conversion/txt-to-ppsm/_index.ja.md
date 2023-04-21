@@ -1,6 +1,6 @@
 ---
 title: Java経由でTXTをPPSMに変換する または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにTXTをPPSMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにTXTをPPSMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の TXT から PPSM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/txt-to-ppsm/
 family: total
 platformtag: net

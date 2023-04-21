@@ -1,6 +1,6 @@
 ---
 title: Convertir TXT en POWERPOINT via Java ou avec le convertisseur en ligne gratuit 
-description: API Java pour exporter TXT vers POWERPOINT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: API Java pour exporter TXT vers POWERPOINT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne TXT vers POWERPOINT gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/txt-to-powerpoint/
 family: total
 platformtag: net

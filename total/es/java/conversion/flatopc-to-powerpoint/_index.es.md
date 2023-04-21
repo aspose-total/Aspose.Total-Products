@@ -1,6 +1,6 @@
 ---
 title: Convierta FLATOPC a POWERPOINT a través de Java o con el convertidor en línea gratuito 
-description: API de Java para exportar FLATOPC a POWERPOINT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar FLATOPC a POWERPOINT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de FLATOPC a POWERPOINT rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/flatopc-to-powerpoint/
 family: total
 platformtag: net

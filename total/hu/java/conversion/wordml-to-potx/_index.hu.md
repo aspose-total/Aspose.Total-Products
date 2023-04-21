@@ -1,6 +1,6 @@
 ---
 title: A WORDML konvertálása POTX-re Java segítségével vagy ingyenes online konverterrel 
-description: Java API a WORDML exportálásához POTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a WORDML exportálásához POTX-be Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-POTX online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-potx/
 family: total
 platformtag: net

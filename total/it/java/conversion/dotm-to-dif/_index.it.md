@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire DOTM in DIF o con il convertitore online gratuito
-description: Converti DOTM in DIF tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: Converti DOTM in DIF tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOTM a DIF prima di integrare il codice. 
 url_ignore: /it/java/conversion/dotm-to-dif/
 family: total
 platformtag: net

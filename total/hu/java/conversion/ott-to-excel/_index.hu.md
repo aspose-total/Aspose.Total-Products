@@ -1,6 +1,6 @@
 ---
 title: Java API a OTT konvertálásához EXCEL-vé vagy ingyenes online konverterrel
-description: A OTT konvertálása EXCEL-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A OTT konvertálása EXCEL-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-EXCEL online konvertert. 
 url_ignore: /hu/java/conversion/ott-to-excel/
 family: total
 platformtag: net

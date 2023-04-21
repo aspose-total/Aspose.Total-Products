@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do TSV nebo pomocí bezplatného online převodníku
-description: Převeďte DOC na TSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOC na TSV přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na TSV. 
 url_ignore: /cs/java/conversion/doc-to-tsv/
 family: total
 platformtag: net

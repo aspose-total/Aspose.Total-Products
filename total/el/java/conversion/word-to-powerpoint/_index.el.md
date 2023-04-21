@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή WORD σε POWERPOINT μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή WORD σε POWERPOINT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή WORD σε POWERPOINT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORD σε POWERPOINT πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/word-to-powerpoint/
 family: total
 platformtag: net

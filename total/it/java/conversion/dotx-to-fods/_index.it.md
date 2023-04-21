@@ -1,6 +1,6 @@
 ---
 title: API Java per convertire DOTX in FODS o con il convertitore online gratuito
-description: Converti DOTX in FODS tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: Converti DOTX in FODS tramite Java o App online senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOTX a FODS prima di integrare il codice. 
 url_ignore: /it/java/conversion/dotx-to-fods/
 family: total
 platformtag: net

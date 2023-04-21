@@ -1,6 +1,6 @@
 ---
 title: Java API a DOC konvertálásához CSV-vé vagy ingyenes online konverterrel
-description: A DOC konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A DOC konvertálása CSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-CSV online konvertert. 
 url_ignore: /hu/java/conversion/doc-to-csv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java API для преобразования MOBI в SXC или с помощью бесплатного онлайн-конвертера
-description: Преобразование MOBI в SXC через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразование MOBI в SXC через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер MOBI в SXC, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/mobi-to-sxc/
 family: total
 platformtag: net

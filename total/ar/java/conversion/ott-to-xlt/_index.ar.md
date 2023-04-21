@@ -1,6 +1,6 @@
 ---
 title: Java API لتحويل OTT إلى XLT أو مع محول مجاني على الإنترنت
-description: قم بتحويل OTT إلى XLT عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل OTT إلى XLT عبر Java أو التطبيق عبر الإنترنت دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول OTT إلى XLT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ott-to-xlt/
 family: total
 platformtag: net

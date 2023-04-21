@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na POT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export TXT do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export TXT do POT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  TXT na POT. 
 url_ignore: /cs/java/conversion/txt-to-pot/
 family: total
 platformtag: net

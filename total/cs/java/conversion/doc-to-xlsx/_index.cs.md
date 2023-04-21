@@ -1,6 +1,6 @@
 ---
 title: Java API pro převod DOC do XLSX nebo pomocí bezplatného online převodníku
-description: Převeďte DOC na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte DOC na XLSX přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na XLSX. 
 url_ignore: /cs/java/conversion/doc-to-xlsx/
 family: total
 platformtag: net

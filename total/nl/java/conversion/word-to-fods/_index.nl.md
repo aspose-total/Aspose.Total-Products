@@ -1,6 +1,6 @@
 ---
 title: Java API om WORD naar FODS te converteren of met gratis Online Converter
-description: Converteer WORD naar FODS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer WORD naar FODS via Java of online-app zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis WORD naar FODS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/word-to-fods/
 family: total
 platformtag: net

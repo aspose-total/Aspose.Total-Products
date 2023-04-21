@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTX en PPSX via Java ou avec le convertisseur en ligne gratuit 
-description: API Java pour exporter DOTX vers PPSX sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: API Java pour exporter DOTX vers PPSX sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne DOTX vers PPSX gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/dotx-to-ppsx/
 family: total
 platformtag: net

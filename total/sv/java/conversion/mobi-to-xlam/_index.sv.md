@@ -1,6 +1,6 @@
 ---
 title: Java API för att konvertera MOBI till XLAM eller med gratis Online Converter
-description: Konvertera MOBI till XLAM via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera MOBI till XLAM via Java eller onlineapp utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis MOBI till XLAM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/mobi-to-xlam/
 family: total
 platformtag: net

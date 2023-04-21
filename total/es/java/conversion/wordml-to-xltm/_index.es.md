@@ -1,6 +1,6 @@
 ---
 title: API de Java para convertir WORDML a XLTM o con el convertidor en línea gratuito
-description: Convierta WORDML a XLTM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta WORDML a XLTM a través de Java o aplicación en línea sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de WORDML a XLTM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/wordml-to-xltm/
 family: total
 platformtag: net

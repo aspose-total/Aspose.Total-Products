@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na POWERPOINT přes Java nebo pomocí bezplatného online převodníku 
-description: Java API pro export RTF do POWERPOINT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export RTF do POWERPOINT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na POWERPOINT. 
 url_ignore: /cs/java/conversion/rtf-to-powerpoint/
 family: total
 platformtag: net

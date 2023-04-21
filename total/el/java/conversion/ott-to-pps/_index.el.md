@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή OTT σε PPS μέσω Java ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή OTT σε PPS χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή OTT σε PPS χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα OTT σε PPS πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ott-to-pps/
 family: total
 platformtag: net

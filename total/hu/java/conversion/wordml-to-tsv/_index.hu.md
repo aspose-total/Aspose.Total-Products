@@ -1,6 +1,6 @@
 ---
 title: Java API a WORDML konvertálásához TSV-vé vagy ingyenes online konverterrel
-description: A WORDML konvertálása TSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: A WORDML konvertálása TSV-vé Java segítségével vagy Online App Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-TSV online konvertert. 
 url_ignore: /hu/java/conversion/wordml-to-tsv/
 family: total
 platformtag: net

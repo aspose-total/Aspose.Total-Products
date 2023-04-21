@@ -1,6 +1,6 @@
 ---
 title: Konvertera TXT till PPT via Java eller med gratis Online Converter 
-description: Java API för att exportera TXT till PPT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera TXT till PPT utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis TXT till PPT online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/txt-to-ppt/
 family: total
 platformtag: net

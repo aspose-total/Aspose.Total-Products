@@ -1,6 +1,6 @@
 ---
 title: DOTM'yi CSV'ye Dönüştürmek için Java API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOTM'yi CSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla DOTM'yi CSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTM'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/dotm-to-csv/
 family: total
 platformtag: net
