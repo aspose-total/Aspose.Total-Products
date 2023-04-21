@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na format MHTML za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPS do formatu MHTML za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj PPS do formatu MHTML za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPS na MHTML przed integracją kodu. 
 url_ignore: /pl/java/conversion/pps-to-mhtml/
 family: total
 platformtag: net

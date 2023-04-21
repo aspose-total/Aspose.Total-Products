@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-ot XLAM formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a PPS-ot XLAM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a PPS-ot XLAM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-XLAM online konvertert. 
 url_ignore: /hu/java/conversion/pps-to-xlam/
 family: total
 platformtag: net

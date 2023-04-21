@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPTX ke DIF melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPTX ke DIF melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPTX ke DIF melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPTX ke DIF gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/pptx-to-dif/
 family: total
 platformtag: net

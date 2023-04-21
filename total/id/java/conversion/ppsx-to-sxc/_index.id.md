@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPSX ke SXC melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPSX ke SXC melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPSX ke SXC melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPSX ke SXC gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsx-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTをXLAM形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTをXLAM形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTをXLAM形式に変換する またはオンライン。コードを統合する前に、無料の POT から XLAM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pot-to-xlam/
 family: total
 platformtag: net

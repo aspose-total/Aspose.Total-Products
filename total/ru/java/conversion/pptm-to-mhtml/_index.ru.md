@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTM в формат MHTML через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразуйте формат PPTM в MHTML через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразуйте формат PPTM в MHTML через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTM в MHTML, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pptm-to-mhtml/
 family: total
 platformtag: net

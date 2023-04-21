@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na format SXC za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPS do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj PPS do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPS na SXC przed integracją kodu. 
 url_ignore: /pl/java/conversion/pps-to-sxc/
 family: total
 platformtag: net

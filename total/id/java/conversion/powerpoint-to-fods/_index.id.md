@@ -1,6 +1,6 @@
 ---
 title: Konversi Format POWERPOINT ke FODS melalui Java atau dengan Konverter Online gratis
-description: Konversi format POWERPOINT ke FODS melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format POWERPOINT ke FODS melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POWERPOINT ke FODS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/powerpoint-to-fods/
 family: total
 platformtag: net

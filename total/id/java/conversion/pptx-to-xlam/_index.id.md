@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPTX ke XLAM melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPTX ke XLAM melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPTX ke XLAM melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPTX ke XLAM gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/pptx-to-xlam/
 family: total
 platformtag: net

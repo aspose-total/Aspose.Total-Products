@@ -1,6 +1,6 @@
 ---
 title: PPSX'u Java ile EXCEL Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla EXCEL formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla EXCEL formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSX'den EXCEL'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppsx-to-excel/
 family: total
 platformtag: net

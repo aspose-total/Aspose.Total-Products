@@ -1,6 +1,6 @@
 ---
 title: تحويل POTX إلى تنسيق XLSM عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POTX إلى تنسيق XLSM عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POTX إلى تنسيق XLSM عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POTX إلى XLSM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/potx-to-xlsm/
 family: total
 platformtag: net

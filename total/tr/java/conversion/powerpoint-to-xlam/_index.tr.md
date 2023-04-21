@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT'u Java ile XLAM Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan POWERPOINT'u Java aracılığıyla XLAM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan POWERPOINT'u Java aracılığıyla XLAM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den XLAM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/powerpoint-to-xlam/
 family: total
 platformtag: net

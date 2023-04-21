@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSM till ODS-format via Java eller med gratis Online Converter
-description: Konvertera PPSM till ODS-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera PPSM till ODS-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis PPSM till ODS online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/ppsm-to-ods/
 family: total
 platformtag: net

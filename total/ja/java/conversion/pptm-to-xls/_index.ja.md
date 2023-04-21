@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPTMをXLS形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTMをXLS形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTMをXLS形式に変換する またはオンライン。コードを統合する前に、無料の PPTM から XLS へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pptm-to-xls/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: แปลง PPTX เป็นรูปแบบ XLS ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลงรูปแบบ PPTX เป็น XLS ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: แปลงรูปแบบ PPTX เป็น XLS ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง PPTX เป็น XLS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/pptx-to-xls/
 family: total
 platformtag: net

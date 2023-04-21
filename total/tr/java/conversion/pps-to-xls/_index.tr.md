@@ -1,6 +1,6 @@
 ---
 title: PPS'u Java ile XLS Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPS'u Java aracılığıyla XLS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPS'u Java aracılığıyla XLS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPS'den XLS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pps-to-xls/
 family: total
 platformtag: net

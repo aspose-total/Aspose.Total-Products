@@ -1,6 +1,6 @@
 ---
 title: Konversi Format POT ke EXCEL melalui Java atau dengan Konverter Online gratis
-description: Konversi format POT ke EXCEL melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format POT ke EXCEL melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke EXCEL gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/pot-to-excel/
 family: total
 platformtag: net

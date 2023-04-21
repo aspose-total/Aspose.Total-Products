@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOWERPOINTをTSV形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをTSV形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをTSV形式に変換する またはオンライン。コードを統合する前に、無料の POWERPOINT から TSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/powerpoint-to-tsv/
 family: total
 platformtag: net

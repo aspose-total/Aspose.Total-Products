@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPSX ke ODS melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPSX ke ODS melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPSX ke ODS melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPSX ke ODS gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsx-to-ods/
 family: total
 platformtag: net

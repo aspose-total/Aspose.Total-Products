@@ -1,6 +1,6 @@
 ---
 title: Convierta PPTM a formato TSV a través de Java o con el convertidor en línea gratuito
-description: Convierta PPTM a formato TSV a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta PPTM a formato TSV a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de PPTM a TSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/pptm-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPSX na format XLS za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPSX do formatu XLS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj PPSX do formatu XLS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPSX na XLS przed integracją kodu. 
 url_ignore: /pl/java/conversion/ppsx-to-xls/
 family: total
 platformtag: net

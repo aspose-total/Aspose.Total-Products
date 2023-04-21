@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPTM σε μορφή XLS μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή PPTM σε μορφή XLS μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPTM σε μορφή XLS μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPTM σε XLS πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pptm-to-xls/
 family: total
 platformtag: net

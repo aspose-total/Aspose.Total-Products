@@ -1,6 +1,6 @@
 ---
 title: Konvertera POWERPOINT till XLSX-format via Java eller med gratis Online Converter
-description: Konvertera POWERPOINT till XLSX-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera POWERPOINT till XLSX-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POWERPOINT till XLSX online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/powerpoint-to-xlsx/
 family: total
 platformtag: net

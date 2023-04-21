@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot MHTML formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a PPTX-ot MHTML formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a PPTX-ot MHTML formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-MHTML online konvertert. 
 url_ignore: /hu/java/conversion/pptx-to-mhtml/
 family: total
 platformtag: net

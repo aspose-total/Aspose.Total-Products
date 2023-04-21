@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POT-ot XLS formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POT-ot XLS formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POT-ot XLS formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-XLS online konvertert. 
 url_ignore: /hu/java/conversion/pot-to-xls/
 family: total
 platformtag: net

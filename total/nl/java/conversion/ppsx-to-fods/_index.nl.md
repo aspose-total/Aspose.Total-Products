@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSX naar FODS-formaat via Java of met gratis Online Converter
-description: Converteer PPSX naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer PPSX naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis PPSX naar FODS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppsx-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: PPT'u Java ile XLS Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPT'u Java aracılığıyla XLS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPT'u Java aracılığıyla XLS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPT'den XLS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppt-to-xls/
 family: total
 platformtag: net

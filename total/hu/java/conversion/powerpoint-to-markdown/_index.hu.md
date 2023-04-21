@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-ot MARKDOWN formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POWERPOINT-ot MARKDOWN formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POWERPOINT-ot MARKDOWN formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-MARKDOWN online konvertert. 
 url_ignore: /hu/java/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net

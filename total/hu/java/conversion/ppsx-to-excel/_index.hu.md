@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-ot EXCEL formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a PPSX-ot EXCEL formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a PPSX-ot EXCEL formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-EXCEL online konvertert. 
 url_ignore: /hu/java/conversion/ppsx-to-excel/
 family: total
 platformtag: net

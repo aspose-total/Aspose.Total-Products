@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSX do formátu DIF přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPSX do formátu DIF přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPSX do formátu DIF přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na DIF. 
 url_ignore: /cs/java/conversion/ppsx-to-dif/
 family: total
 platformtag: net

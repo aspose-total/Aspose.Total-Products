@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POWERPOINT na format ODS za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POWERPOINT do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj POWERPOINT do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POWERPOINT na ODS przed integracją kodu. 
 url_ignore: /pl/java/conversion/powerpoint-to-ods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: تحويل POTM إلى تنسيق MARKDOWN عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POTM إلى تنسيق MARKDOWN عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POTM إلى تنسيق MARKDOWN عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POTM إلى MARKDOWN على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/potm-to-markdown/
 family: total
 platformtag: net

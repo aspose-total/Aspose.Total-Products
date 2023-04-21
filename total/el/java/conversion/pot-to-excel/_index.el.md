@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POT σε μορφή EXCEL μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή POT σε μορφή EXCEL μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POT σε μορφή EXCEL μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε EXCEL πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pot-to-excel/
 family: total
 platformtag: net

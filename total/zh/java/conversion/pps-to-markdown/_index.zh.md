@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 将 PPS 转换为 MARKDOWN 或在线应用程序 格式 或使用免费的在线转换器
-description: 通过 Java 将 PPS 转换为 MARKDOWN 或在线应用程序 格式，而不使用 Microsoft Excel 或 PowerPoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 
+description: 通过 Java 将 PPS 转换为 MARKDOWN 或在线应用程序 格式，而不使用 Microsoft Excel 或 PowerPoint 或在线。在集成代码之前快速测试免费的 PPS 到 MARKDOWN 在线转换器。 
 url_ignore: /zh/java/conversion/pps-to-markdown/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na format SXC za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POTM do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj POTM do formatu SXC za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POTM na SXC przed integracją kodu. 
 url_ignore: /pl/java/conversion/potm-to-sxc/
 family: total
 platformtag: net

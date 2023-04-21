@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar TSV-formaat via Java of met gratis Online Converter
-description: Converteer POTM naar TSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer POTM naar TSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POTM naar TSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/potm-to-tsv/
 family: total
 platformtag: net

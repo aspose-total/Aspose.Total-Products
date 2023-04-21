@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPT σε μορφή XLSX μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή PPT σε μορφή XLSX μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPT σε μορφή XLSX μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPT σε XLSX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ppt-to-xlsx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: PPTX'u Java ile MHTML Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTX'den MHTML'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptx-to-mhtml/
 family: total
 platformtag: net

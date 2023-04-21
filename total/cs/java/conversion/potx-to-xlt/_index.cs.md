@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX do formátu XLT přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POTX do formátu XLT přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte POTX do formátu XLT přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na XLT. 
 url_ignore: /cs/java/conversion/potx-to-xlt/
 family: total
 platformtag: net

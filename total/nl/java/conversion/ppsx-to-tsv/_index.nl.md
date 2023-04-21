@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSX naar TSV-formaat via Java of met gratis Online Converter
-description: Converteer PPSX naar TSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer PPSX naar TSV-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis PPSX naar TSV online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppsx-to-tsv/
 family: total
 platformtag: net

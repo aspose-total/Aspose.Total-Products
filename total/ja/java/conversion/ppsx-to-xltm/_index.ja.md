@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPSXをXLTM形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSXをXLTM形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSXをXLTM形式に変換する またはオンライン。コードを統合する前に、無料の PPSX から XLTM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsx-to-xltm/
 family: total
 platformtag: net

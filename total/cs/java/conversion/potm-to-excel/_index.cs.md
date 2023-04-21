@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTM do formátu EXCEL přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POTM do formátu EXCEL přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte POTM do formátu EXCEL přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTM na EXCEL. 
 url_ignore: /cs/java/conversion/potm-to-excel/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: PPSX'u Java ile MHTML Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPSX'u Java aracılığıyla MHTML formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSX'den MHTML'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppsx-to-mhtml/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSM в формат XLS через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразуйте формат PPSM в XLS через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразуйте формат PPSM в XLS через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPSM в XLS, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/ppsm-to-xls/
 family: total
 platformtag: net

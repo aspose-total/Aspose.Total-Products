@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-ot XLTM formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a PPT-ot XLTM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a PPT-ot XLTM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-XLTM online konvertert. 
 url_ignore: /hu/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net

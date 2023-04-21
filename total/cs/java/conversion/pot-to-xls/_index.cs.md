@@ -1,6 +1,6 @@
 ---
 title: Převeďte POT do formátu XLS přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POT do formátu XLS přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte POT do formátu XLS přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na XLS. 
 url_ignore: /cs/java/conversion/pot-to-xls/
 family: total
 platformtag: net

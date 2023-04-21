@@ -1,6 +1,6 @@
 ---
 title: Konversi Format POTX ke CSV melalui Java atau dengan Konverter Online gratis
-description: Konversi format POTX ke CSV melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format POTX ke CSV melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POTX ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/potx-to-csv/
 family: total
 platformtag: net

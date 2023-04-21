@@ -1,6 +1,6 @@
 ---
 title: Converter PPTM para formato SXC via Java ou com o conversor online gratuito
-description: Converta o formato PPTM para SXC via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta o formato PPTM para SXC via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de PPTM para SXC rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/pptm-to-sxc/
 family: total
 platformtag: net

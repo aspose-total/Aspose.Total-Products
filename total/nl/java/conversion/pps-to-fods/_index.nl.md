@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar FODS-formaat via Java of met gratis Online Converter
-description: Converteer PPS naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer PPS naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis PPS naar FODS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pps-to-fods/
 family: total
 platformtag: net

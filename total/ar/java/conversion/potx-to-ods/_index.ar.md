@@ -1,6 +1,6 @@
 ---
 title: تحويل POTX إلى تنسيق ODS عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POTX إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POTX إلى تنسيق ODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POTX إلى ODS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/potx-to-ods/
 family: total
 platformtag: net

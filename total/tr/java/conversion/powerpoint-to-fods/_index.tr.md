@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT'u Java ile FODS Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan POWERPOINT'u Java aracılığıyla FODS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan POWERPOINT'u Java aracılığıyla FODS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den FODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/powerpoint-to-fods/
 family: total
 platformtag: net

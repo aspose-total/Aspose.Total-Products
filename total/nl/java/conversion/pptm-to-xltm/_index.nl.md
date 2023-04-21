@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTM naar XLTM-formaat via Java of met gratis Online Converter
-description: Converteer PPTM naar XLTM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer PPTM naar XLTM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis PPTM naar XLTM online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pptm-to-xltm/
 family: total
 platformtag: net

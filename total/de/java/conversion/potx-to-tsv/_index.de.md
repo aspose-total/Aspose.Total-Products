@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POTX über Java in das TSV-Format oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie POTX über Java in das TSV-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie POTX über Java in das TSV-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POTX-zu-TSV-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/potx-to-tsv/
 family: total
 platformtag: net

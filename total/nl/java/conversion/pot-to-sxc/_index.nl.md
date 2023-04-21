@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar SXC-formaat via Java of met gratis Online Converter
-description: Converteer POT naar SXC-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer POT naar SXC-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar SXC online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pot-to-sxc/
 family: total
 platformtag: net

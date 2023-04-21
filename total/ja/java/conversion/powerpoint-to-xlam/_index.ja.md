@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOWERPOINTをXLAM形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをXLAM形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをXLAM形式に変換する またはオンライン。コードを統合する前に、無料の POWERPOINT から XLAM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/powerpoint-to-xlam/
 family: total
 platformtag: net

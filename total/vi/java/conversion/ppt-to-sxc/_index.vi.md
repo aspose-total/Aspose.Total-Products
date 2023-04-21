@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPT sang Định dạng SXC qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPT sang định dạng SXC qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi PPT sang định dạng SXC qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPT sang SXC miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/ppt-to-sxc/
 family: total
 platformtag: net

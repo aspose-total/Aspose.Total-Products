@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPSM sang Định dạng CSV qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPSM sang định dạng CSV qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi PPSM sang định dạng CSV qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPSM sang CSV miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/ppsm-to-csv/
 family: total
 platformtag: net

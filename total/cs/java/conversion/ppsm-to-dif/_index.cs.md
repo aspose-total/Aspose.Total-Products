@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSM do formátu DIF přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPSM do formátu DIF přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPSM do formátu DIF přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na DIF. 
 url_ignore: /cs/java/conversion/ppsm-to-dif/
 family: total
 platformtag: net

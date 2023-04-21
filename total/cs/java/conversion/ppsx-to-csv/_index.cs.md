@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSX do formátu CSV přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPSX do formátu CSV přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPSX do formátu CSV přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na CSV. 
 url_ignore: /cs/java/conversion/ppsx-to-csv/
 family: total
 platformtag: net

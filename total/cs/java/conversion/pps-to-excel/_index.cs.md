@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPS do formátu EXCEL přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPS do formátu EXCEL přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPS do formátu EXCEL přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na EXCEL. 
 url_ignore: /cs/java/conversion/pps-to-excel/
 family: total
 platformtag: net

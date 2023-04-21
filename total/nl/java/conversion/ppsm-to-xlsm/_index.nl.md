@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSM naar XLSM-formaat via Java of met gratis Online Converter
-description: Converteer PPSM naar XLSM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer PPSM naar XLSM-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis PPSM naar XLSM online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppsm-to-xlsm/
 family: total
 platformtag: net

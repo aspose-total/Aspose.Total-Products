@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTM sang Định dạng XLSB qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPTM sang định dạng XLSB qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi PPTM sang định dạng XLSB qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPTM sang XLSB miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/pptm-to-xlsb/
 family: total
 platformtag: net

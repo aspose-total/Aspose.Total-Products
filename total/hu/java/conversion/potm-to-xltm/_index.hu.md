@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-ot XLTM formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POTM-ot XLTM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POTM-ot XLTM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-XLTM online konvertert. 
 url_ignore: /hu/java/conversion/potm-to-xltm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertera POT till XLT-format via Java eller med gratis Online Converter
-description: Konvertera POT till XLT-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera POT till XLT-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till XLT online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/pot-to-xlt/
 family: total
 platformtag: net

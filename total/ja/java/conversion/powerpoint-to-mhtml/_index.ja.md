@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOWERPOINTをMHTML形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをMHTML形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOWERPOINTをMHTML形式に変換する またはオンライン。コードを統合する前に、無料の POWERPOINT から MHTML へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: net

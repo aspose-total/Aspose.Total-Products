@@ -1,6 +1,6 @@
 ---
 title: تحويل POTX إلى تنسيق MARKDOWN عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POTX إلى تنسيق MARKDOWN عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POTX إلى تنسيق MARKDOWN عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POTX إلى MARKDOWN على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/potx-to-markdown/
 family: total
 platformtag: net

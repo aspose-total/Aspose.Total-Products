@@ -1,6 +1,6 @@
 ---
 title: Convierta POWERPOINT a formato DIF a través de Java o con el convertidor en línea gratuito
-description: Convierta POWERPOINT a formato DIF a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta POWERPOINT a formato DIF a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a DIF rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/powerpoint-to-dif/
 family: total
 platformtag: net

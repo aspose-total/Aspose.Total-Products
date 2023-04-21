@@ -1,6 +1,6 @@
 ---
 title: PPS'u Java ile XLTM Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPS'u Java aracılığıyla XLTM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPS'u Java aracılığıyla XLTM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPS'den XLTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pps-to-xltm/
 family: total
 platformtag: net

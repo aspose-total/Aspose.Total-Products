@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPT über Java in das XLS-Format oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie PPT über Java in das XLS-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie PPT über Java in das XLS-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPT-zu-XLS-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/ppt-to-xls/
 family: total
 platformtag: net

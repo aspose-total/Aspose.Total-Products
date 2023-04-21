@@ -1,6 +1,6 @@
 ---
 title: แปลง PPTM เป็นรูปแบบ FODS ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลงรูปแบบ PPTM เป็น FODS ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: แปลงรูปแบบ PPTM เป็น FODS ผ่าน Java โดยไม่ต้องใช้ Microsoft Excel หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง PPTM เป็น FODS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/pptm-to-fods/
 family: total
 platformtag: net

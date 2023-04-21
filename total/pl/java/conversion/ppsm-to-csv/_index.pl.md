@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPSM na format CSV za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPSM do formatu CSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj PPSM do formatu CSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPSM na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/ppsm-to-csv/
 family: total
 platformtag: net

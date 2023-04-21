@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX do formátu MARKDOWN přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPTX do formátu MARKDOWN přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPTX do formátu MARKDOWN přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na MARKDOWN. 
 url_ignore: /cs/java/conversion/pptx-to-markdown/
 family: total
 platformtag: net

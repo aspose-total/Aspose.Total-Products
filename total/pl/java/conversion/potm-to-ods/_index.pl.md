@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na format ODS za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POTM do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj POTM do formatu ODS za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POTM na ODS przed integracją kodu. 
 url_ignore: /pl/java/conversion/potm-to-ods/
 family: total
 platformtag: net

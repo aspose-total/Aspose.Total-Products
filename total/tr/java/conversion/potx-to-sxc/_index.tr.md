@@ -1,6 +1,6 @@
 ---
 title: POTX'u Java ile SXC Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan POTX'u Java aracılığıyla SXC formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan POTX'u Java aracılığıyla SXC formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTX'den SXC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/potx-to-sxc/
 family: total
 platformtag: net

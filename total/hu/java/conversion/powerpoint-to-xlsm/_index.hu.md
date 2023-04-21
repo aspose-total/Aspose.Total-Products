@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-ot XLSM formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POWERPOINT-ot XLSM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POWERPOINT-ot XLSM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-XLSM online konvertert. 
 url_ignore: /hu/java/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: net

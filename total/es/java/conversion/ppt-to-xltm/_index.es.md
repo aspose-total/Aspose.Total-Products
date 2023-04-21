@@ -1,6 +1,6 @@
 ---
 title: Convierta PPT a formato XLTM a través de Java o con el convertidor en línea gratuito
-description: Convierta PPT a formato XLTM a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta PPT a formato XLTM a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de PPT a XLTM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net

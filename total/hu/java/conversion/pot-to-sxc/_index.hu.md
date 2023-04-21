@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POT-ot SXC formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POT-ot SXC formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POT-ot SXC formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-SXC online konvertert. 
 url_ignore: /hu/java/conversion/pot-to-sxc/
 family: total
 platformtag: net

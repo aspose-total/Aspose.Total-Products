@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar EXCEL-formaat via Java of met gratis Online Converter
-description: Converteer POTM naar EXCEL-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer POTM naar EXCEL-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POTM naar EXCEL online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/potm-to-excel/
 family: total
 platformtag: net

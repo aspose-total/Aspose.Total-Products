@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPT na format XLAM za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPT do formatu XLAM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj PPT do formatu XLAM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPT na XLAM przed integracją kodu. 
 url_ignore: /pl/java/conversion/ppt-to-xlam/
 family: total
 platformtag: net

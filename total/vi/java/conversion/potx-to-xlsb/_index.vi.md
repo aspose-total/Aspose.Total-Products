@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POTX sang Định dạng XLSB qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi POTX sang định dạng XLSB qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi POTX sang định dạng XLSB qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POTX sang XLSB miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/potx-to-xlsb/
 family: total
 platformtag: net

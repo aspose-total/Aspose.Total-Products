@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPT sang Định dạng XLSX qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPT sang định dạng XLSX qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Chuyển đổi PPT sang định dạng XLSX qua Java mà không cần sử dụng Microsoft Excel hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPT sang XLSX miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/ppt-to-xlsx/
 family: total
 platformtag: net

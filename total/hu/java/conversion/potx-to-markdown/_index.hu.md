@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-ot MARKDOWN formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POTX-ot MARKDOWN formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POTX-ot MARKDOWN formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-MARKDOWN online konvertert. 
 url_ignore: /hu/java/conversion/potx-to-markdown/
 family: total
 platformtag: net

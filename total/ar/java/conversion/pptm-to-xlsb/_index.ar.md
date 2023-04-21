@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTM إلى تنسيق XLSB عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل PPTM إلى تنسيق XLSB عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل PPTM إلى تنسيق XLSB عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول PPTM إلى XLSB على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pptm-to-xlsb/
 family: total
 platformtag: net

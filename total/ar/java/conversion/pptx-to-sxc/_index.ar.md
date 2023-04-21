@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTX إلى تنسيق SXC عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل PPTX إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل PPTX إلى تنسيق SXC عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول PPTX إلى SXC على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pptx-to-sxc/
 family: total
 platformtag: net

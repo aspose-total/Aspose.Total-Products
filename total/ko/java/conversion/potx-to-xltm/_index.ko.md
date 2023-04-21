@@ -1,6 +1,6 @@
 ---
 title: Java를 통해 POTX을 XLTM 형식으로 변환 또는 무료 온라인 변환기 사용
-description: Microsoft Excel 또는 PowerPoint를 사용하지 않고 Java를 통해 POTX를 XLTM 형식으로 변환 또는 온라인. 코드를 통합하기 전에 무료 POT to CSV 온라인 변환기를 빠르게 테스트하십시오. 
+description: Microsoft Excel 또는 PowerPoint를 사용하지 않고 Java를 통해 POTX를 XLTM 형식으로 변환 또는 온라인. 코드를 통합하기 전에 무료 POTX to XLTM 온라인 변환기를 빠르게 테스트하십시오. 
 url_ignore: /ko/java/conversion/potx-to-xltm/
 family: total
 platformtag: net

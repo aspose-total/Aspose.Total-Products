@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPTをFODS形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTをFODS形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTをFODS形式に変換する またはオンライン。コードを統合する前に、無料の PPT から FODS へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppt-to-fods/
 family: total
 platformtag: net

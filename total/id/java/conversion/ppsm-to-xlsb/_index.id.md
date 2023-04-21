@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPSM ke XLSB melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPSM ke XLSB melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPSM ke XLSB melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPSM ke XLSB gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsm-to-xlsb/
 family: total
 platformtag: net

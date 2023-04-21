@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPSX ke MHTML melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPSX ke MHTML melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPSX ke MHTML melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPSX ke MHTML gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsx-to-mhtml/
 family: total
 platformtag: net

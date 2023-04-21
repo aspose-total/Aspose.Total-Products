@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPSをFODS形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSをFODS形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSをFODS形式に変換する またはオンライン。コードを統合する前に、無料の PPS から FODS へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pps-to-fods/
 family: total
 platformtag: net

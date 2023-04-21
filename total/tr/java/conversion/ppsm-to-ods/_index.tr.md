@@ -1,6 +1,6 @@
 ---
 title: PPSM'u Java ile ODS Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPSM'u Java aracılığıyla ODS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPSM'u Java aracılığıyla ODS formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den ODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppsm-to-ods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTM в формат MARKDOWN через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразуйте формат PPTM в MARKDOWN через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразуйте формат PPTM в MARKDOWN через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTM в MARKDOWN, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pptm-to-markdown/
 family: total
 platformtag: net

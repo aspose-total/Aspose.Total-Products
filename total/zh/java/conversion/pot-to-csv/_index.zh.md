@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 将 POT 转换为 CSV 或在线应用程序 格式 或使用免费的在线转换器
-description: 通过 Java 将 POT 转换为 CSV 或在线应用程序 格式，而不使用 Microsoft Excel 或 PowerPoint 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 
+description: 通过 Java 将 POT 转换为 CSV 或在线应用程序 格式，而不使用 Microsoft Excel 或 PowerPoint 或在线。在集成代码之前快速测试免费的  POT 到 CSV 在线转换器。 
 url_ignore: /zh/java/conversion/pot-to-csv/
 family: total
 platformtag: net
@@ -39,7 +39,7 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费的 POT 到 CSV 在线转换器</h3>
+<h3>免费的  POT 到 CSV 在线转换器</h3>
 
 <iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=pot" id="child-iframe" width="80%"></iframe>
 
@@ -78,7 +78,7 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
                           <span itemprop="name"><b>如何在线将 POT 转换为 CSV？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">上面集成了 POT 转换的在线应用程序。要开始转换过程，您可以将 POT 文件拖放到白色区域或单击它以导入文档。添加文件后，只需单击“转换”按钮。 POT 到 CSV 转换完成后，您可以下载转换后的文件。只需单击一下，您就会收到输出的 CSV 文件。</span>
+                          <span itemprop="text">上面集成了 POT 转换的在线应用程序。要开始转换过程，您可以将 POT 文件拖放到白色区域或单击它以导入文档。添加文件后，只需单击“转换”按钮。  POT 到 CSV 转换完成后，您可以下载转换后的文件。只需单击一下，您就会收到输出的 CSV 文件。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -94,7 +94,7 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
                           <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 POT 转换为 CSV 是否安全？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">当然！ POT 到 CSV 的转换完成后，转换后的 CSV 文件的下载链接将立即可用。请注意，我们会在 24 小时后自动删除所有上传的文件，并且下载链接在此时间段后将不再有效。您的文件是完全安全和私密的，因为没有其他人可以访问它们。我们的文件转换服务，包括 POT 转换，使用起来绝对安全。我们提供此免费应用程序主要用于测试目的，以便您可以在集成代码之前评估结果。</span>
+                          <span itemprop="text">当然！  POT 到 CSV 的转换完成后，转换后的 CSV 文件的下载链接将立即可用。请注意，我们会在 24 小时后自动删除所有上传的文件，并且下载链接在此时间段后将不再有效。您的文件是完全安全和私密的，因为没有其他人可以访问它们。我们的文件转换服务，包括 POT 转换，使用起来绝对安全。我们提供此免费应用程序主要用于测试目的，以便您可以在集成代码之前评估结果。</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

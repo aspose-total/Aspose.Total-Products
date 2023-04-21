@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPT do formátu XLSM přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPT do formátu XLSM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPT do formátu XLSM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na XLSM. 
 url_ignore: /cs/java/conversion/ppt-to-xlsm/
 family: total
 platformtag: net

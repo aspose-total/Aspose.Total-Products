@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX do formátu XLAM přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPTX do formátu XLAM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPTX do formátu XLAM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na XLAM. 
 url_ignore: /cs/java/conversion/pptx-to-xlam/
 family: total
 platformtag: net

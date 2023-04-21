@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTM do formátu XLSX přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPTM do formátu XLSX přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPTM do formátu XLSX přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTM na XLSX. 
 url_ignore: /cs/java/conversion/pptm-to-xlsx/
 family: total
 platformtag: net

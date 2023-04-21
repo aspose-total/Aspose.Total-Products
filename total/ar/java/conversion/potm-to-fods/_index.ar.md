@@ -1,6 +1,6 @@
 ---
 title: تحويل POTM إلى تنسيق FODS عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POTM إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POTM إلى تنسيق FODS عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POTM إلى FODS على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/potm-to-fods/
 family: total
 platformtag: net

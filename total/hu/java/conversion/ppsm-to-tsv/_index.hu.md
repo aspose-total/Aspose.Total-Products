@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-ot TSV formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a PPSM-ot TSV formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a PPSM-ot TSV formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-TSV online konvertert. 
 url_ignore: /hu/java/conversion/ppsm-to-tsv/
 family: total
 platformtag: net

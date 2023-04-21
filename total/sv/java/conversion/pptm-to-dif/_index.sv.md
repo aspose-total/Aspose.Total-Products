@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTM till DIF-format via Java eller med gratis Online Converter
-description: Konvertera PPTM till DIF-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera PPTM till DIF-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis PPTM till DIF online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/pptm-to-dif/
 family: total
 platformtag: net

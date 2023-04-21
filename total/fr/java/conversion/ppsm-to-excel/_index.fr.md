@@ -1,6 +1,6 @@
 ---
 title: Convertir PPSM au format EXCEL via Java ou avec le convertisseur en ligne gratuit
-description: Convertissez le format PPSM au format EXCEL via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: Convertissez le format PPSM au format EXCEL via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne PPSM vers EXCEL gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/ppsm-to-excel/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPTM na format CSV za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPTM do formatu CSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj PPTM do formatu CSV za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online PPTM na CSV przed integracją kodu. 
 url_ignore: /pl/java/conversion/pptm-to-csv/
 family: total
 platformtag: net

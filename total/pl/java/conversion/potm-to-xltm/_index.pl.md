@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na format XLTM za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POTM do formatu XLTM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj POTM do formatu XLTM za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POTM na XLTM przed integracją kodu. 
 url_ignore: /pl/java/conversion/potm-to-xltm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTX إلى تنسيق EXCEL عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل PPTX إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل PPTX إلى تنسيق EXCEL عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول PPTX إلى EXCEL على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pptx-to-excel/
 family: total
 platformtag: net

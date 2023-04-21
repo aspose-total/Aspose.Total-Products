@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na format XLSB za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POTM do formatu XLSB za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj POTM do formatu XLSB za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POTM na XLSB przed integracją kodu. 
 url_ignore: /pl/java/conversion/potm-to-xlsb/
 family: total
 platformtag: net

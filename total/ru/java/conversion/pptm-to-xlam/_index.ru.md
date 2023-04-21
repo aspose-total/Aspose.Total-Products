@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTM в формат XLAM через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразуйте формат PPTM в XLAM через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразуйте формат PPTM в XLAM через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTM в XLAM, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pptm-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSX σε μορφή XLSB μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή PPSX σε μορφή XLSB μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPSX σε μορφή XLSB μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSX σε XLSB πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ppsx-to-xlsb/
 family: total
 platformtag: net

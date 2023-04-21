@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPTをMARKDOWN形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTをMARKDOWN形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTをMARKDOWN形式に変換する またはオンライン。コードを統合する前に、無料の PPT から MARKDOWN へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppt-to-markdown/
 family: total
 platformtag: net

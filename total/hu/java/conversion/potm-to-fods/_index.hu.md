@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-ot FODS formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a POTM-ot FODS formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a POTM-ot FODS formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-FODS online konvertert. 
 url_ignore: /hu/java/conversion/potm-to-fods/
 family: total
 platformtag: net

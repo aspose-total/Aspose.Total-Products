@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSM do formátu SXC přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPSM do formátu SXC přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte PPSM do formátu SXC přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na SXC. 
 url_ignore: /cs/java/conversion/ppsm-to-sxc/
 family: total
 platformtag: net

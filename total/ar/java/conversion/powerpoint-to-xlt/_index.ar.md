@@ -1,6 +1,6 @@
 ---
 title: تحويل POWERPOINT إلى تنسيق XLT عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POWERPOINT إلى تنسيق XLT عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POWERPOINT إلى تنسيق XLT عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POWERPOINT إلى XLT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/powerpoint-to-xlt/
 family: total
 platformtag: net

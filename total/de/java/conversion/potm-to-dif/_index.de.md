@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POTM über Java in das DIF-Format oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie POTM über Java in das DIF-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie POTM über Java in das DIF-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POTM-zu-DIF-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/potm-to-dif/
 family: total
 platformtag: net

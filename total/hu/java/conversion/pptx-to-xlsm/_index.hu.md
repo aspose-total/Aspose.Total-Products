@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot XLSM formátumba Java segítségével vagy ingyenes online konverterrel
-description: Konvertálja a PPTX-ot XLSM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Konvertálja a PPTX-ot XLSM formátumba Java segítségével Microsoft Excel vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-XLSM online konvertert. 
 url_ignore: /hu/java/conversion/pptx-to-xlsm/
 family: total
 platformtag: net

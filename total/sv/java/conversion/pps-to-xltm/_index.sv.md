@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPS till XLTM-format via Java eller med gratis Online Converter
-description: Konvertera PPS till XLTM-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Konvertera PPS till XLTM-format via Java utan att använda Microsoft Excel eller PowerPoint eller online. Testa gratis PPS till XLTM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/pps-to-xltm/
 family: total
 platformtag: net

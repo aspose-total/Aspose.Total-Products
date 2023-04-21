@@ -1,6 +1,6 @@
 ---
 title: Convertir PPT au format ODS via Java ou avec le convertisseur en ligne gratuit
-description: Convertissez le format PPT au format ODS via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: Convertissez le format PPT au format ODS via Java sans utiliser Microsoft Excel ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne PPT vers ODS gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/ppt-to-ods/
 family: total
 platformtag: net

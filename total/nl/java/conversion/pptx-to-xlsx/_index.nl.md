@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTX naar XLSX-formaat via Java of met gratis Online Converter
-description: Converteer PPTX naar XLSX-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer PPTX naar XLSX-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis PPTX naar XLSX online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pptx-to-xlsx/
 family: total
 platformtag: net

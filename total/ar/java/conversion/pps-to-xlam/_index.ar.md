@@ -1,6 +1,6 @@
 ---
 title: تحويل PPS إلى تنسيق XLAM عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل PPS إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل PPS إلى تنسيق XLAM عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول PPS إلى XLAM على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pps-to-xlam/
 family: total
 platformtag: net

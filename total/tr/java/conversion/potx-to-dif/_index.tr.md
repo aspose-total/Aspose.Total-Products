@@ -1,6 +1,6 @@
 ---
 title: POTX'u Java ile DIF Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan POTX'u Java aracılığıyla DIF formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan POTX'u Java aracılığıyla DIF formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTX'den DIF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/potx-to-dif/
 family: total
 platformtag: net

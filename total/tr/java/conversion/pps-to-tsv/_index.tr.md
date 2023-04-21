@@ -1,6 +1,6 @@
 ---
 title: PPS'u Java ile TSV Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPS'u Java aracılığıyla TSV formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPS'u Java aracılığıyla TSV formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPS'den TSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pps-to-tsv/
 family: total
 platformtag: net

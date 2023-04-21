@@ -1,6 +1,6 @@
 ---
 title: POTM'u Java ile XLT Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan POTM'u Java aracılığıyla XLT formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan POTM'u Java aracılığıyla XLT formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTM'den XLT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/potm-to-xlt/
 family: total
 platformtag: net

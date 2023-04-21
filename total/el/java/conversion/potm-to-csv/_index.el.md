@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POTM σε μορφή CSV μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή POTM σε μορφή CSV μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POTM σε μορφή CSV μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POTM σε CSV πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/potm-to-csv/
 family: total
 platformtag: net

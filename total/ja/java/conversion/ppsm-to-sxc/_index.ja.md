@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPSMをSXC形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSMをSXC形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPSMをSXC形式に変換する またはオンライン。コードを統合する前に、無料の PPSM から SXC へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsm-to-sxc/
 family: total
 platformtag: net

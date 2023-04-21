@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTMをXLTM形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをXLTM形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをXLTM形式に変換する またはオンライン。コードを統合する前に、無料の POTM から XLTM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potm-to-xltm/
 family: total
 platformtag: net

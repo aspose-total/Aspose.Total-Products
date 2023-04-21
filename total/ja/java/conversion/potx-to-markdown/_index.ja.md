@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTXをMARKDOWN形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTXをMARKDOWN形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTXをMARKDOWN形式に変換する またはオンライン。コードを統合する前に、無料の POTX から MARKDOWN へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potx-to-markdown/
 family: total
 platformtag: net

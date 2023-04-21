@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPSM über Java in das MARKDOWN-Format oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie PPSM über Java in das MARKDOWN-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Konvertieren Sie PPSM über Java in das MARKDOWN-Format, ohne Microsoft Excel oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPSM-zu-MARKDOWN-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/ppsm-to-markdown/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konversi Format PPT ke XLTM melalui Java atau dengan Konverter Online gratis
-description: Konversi format PPT ke XLTM melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Konversi format PPT ke XLTM melalui Java tanpa menggunakan Microsoft Excel atau PowerPoint atau daring. Uji konverter online PPT ke XLTM gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppt-to-xltm/
 family: total
 platformtag: net

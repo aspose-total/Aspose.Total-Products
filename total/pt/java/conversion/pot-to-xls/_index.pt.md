@@ -1,6 +1,6 @@
 ---
 title: Converter POT para formato XLS via Java ou com o conversor online gratuito
-description: Converta o formato POT para XLS via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta o formato POT para XLS via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para XLS rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/pot-to-xls/
 family: total
 platformtag: net

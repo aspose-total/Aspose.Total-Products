@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPPTXをXLT形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTXをXLT形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPPTXをXLT形式に変換する またはオンライン。コードを統合する前に、無料の PPTX から XLT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pptx-to-xlt/
 family: total
 platformtag: net

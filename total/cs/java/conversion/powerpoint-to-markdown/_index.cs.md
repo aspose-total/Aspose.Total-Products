@@ -1,6 +1,6 @@
 ---
 title: Převeďte POWERPOINT do formátu MARKDOWN přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POWERPOINT do formátu MARKDOWN přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte POWERPOINT do formátu MARKDOWN přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na MARKDOWN. 
 url_ignore: /cs/java/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net

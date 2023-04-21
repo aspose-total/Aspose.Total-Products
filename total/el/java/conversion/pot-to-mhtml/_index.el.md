@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POT σε μορφή MHTML μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή POT σε μορφή MHTML μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή POT σε μορφή MHTML μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε MHTML πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pot-to-mhtml/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter PPSM para formato FODS via Java ou com o conversor online gratuito
-description: Converta o formato PPSM para FODS via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. ou com o conversor online grátis
+description: Converta o formato PPSM para FODS via Java sem usar o Microsoft Excel ou PowerPoint ou on-line. Teste o conversor online gratuito de PPSM para FODS rapidamente antes de integrar o código. ou com o conversor online grátis
 url_ignore: /pt/java/conversion/ppsm-to-fods/
 family: total
 platformtag: net

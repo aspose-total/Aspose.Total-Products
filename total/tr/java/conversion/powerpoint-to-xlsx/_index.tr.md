@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT'u Java ile XLSX Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan POWERPOINT'u Java aracılığıyla XLSX formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan POWERPOINT'u Java aracılığıyla XLSX formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den XLSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/powerpoint-to-xlsx/
 family: total
 platformtag: net

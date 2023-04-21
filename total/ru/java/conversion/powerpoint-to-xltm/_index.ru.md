@@ -1,6 +1,6 @@
 ---
 title: Преобразование POWERPOINT в формат XLTM через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразуйте формат POWERPOINT в XLTM через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразуйте формат POWERPOINT в XLTM через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POWERPOINT в XLTM, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/powerpoint-to-xltm/
 family: total
 platformtag: net

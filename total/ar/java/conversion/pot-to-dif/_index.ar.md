@@ -1,6 +1,6 @@
 ---
 title: تحويل POT إلى تنسيق DIF عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POT إلى تنسيق DIF عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: قم بتحويل POT إلى تنسيق DIF عبر Java دون استخدام Microsoft Excel أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pot-to-dif/
 family: total
 platformtag: net

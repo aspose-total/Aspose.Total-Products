@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в формат XLSX через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразуйте формат PPTX в XLSX через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Преобразуйте формат PPTX в XLSX через Java без использования Microsoft Excel или PowerPoint. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTX в XLSX, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pptx-to-xlsx/
 family: total
 platformtag: net

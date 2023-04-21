@@ -1,6 +1,6 @@
 ---
 title: Převeďte POT do formátu XLTM přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POT do formátu XLTM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Převeďte POT do formátu XLTM přes Java bez použití Microsoft Excel nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na XLTM. 
 url_ignore: /cs/java/conversion/pot-to-xltm/
 family: total
 platformtag: net

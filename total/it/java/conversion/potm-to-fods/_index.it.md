@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in formato FODS tramite Java o con il convertitore online gratuito
-description: Converti POTM in formato FODS tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: Converti POTM in formato FODS tramite Java senza utilizzare Microsoft Excel o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POTM a FODS prima di integrare il codice. 
 url_ignore: /it/java/conversion/potm-to-fods/
 family: total
 platformtag: net

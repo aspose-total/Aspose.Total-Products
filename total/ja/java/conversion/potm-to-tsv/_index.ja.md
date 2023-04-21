@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTMをTSV形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをTSV形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをTSV形式に変換する またはオンライン。コードを統合する前に、無料の POTM から TSV へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potm-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Convierta PPS a formato CSV a través de Java o con el convertidor en línea gratuito
-description: Convierta PPS a formato CSV a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: Convierta PPS a formato CSV a través de Java sin usar Microsoft Excel o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de PPS a CSV rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/pps-to-csv/
 family: total
 platformtag: net

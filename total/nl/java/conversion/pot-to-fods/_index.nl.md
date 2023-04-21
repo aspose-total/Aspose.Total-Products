@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar FODS-formaat via Java of met gratis Online Converter
-description: Converteer POT naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Converteer POT naar FODS-formaat via Java zonder Microsoft Excel of PowerPoint te gebruiken of online. Test de gratis POT naar FODS online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/pot-to-fods/
 family: total
 platformtag: net

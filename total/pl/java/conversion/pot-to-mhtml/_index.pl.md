@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na format MHTML za pomocą Java lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POT do formatu MHTML za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na CSV przed integracją kodu. 
+description: Konwertuj POT do formatu MHTML za pomocą Javy bez używania programu Microsoft Excel lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online POT na MHTML przed integracją kodu. 
 url_ignore: /pl/java/conversion/pot-to-mhtml/
 family: total
 platformtag: net

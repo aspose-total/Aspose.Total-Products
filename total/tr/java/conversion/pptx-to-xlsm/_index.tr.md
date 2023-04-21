@@ -1,6 +1,6 @@
 ---
 title: PPTX'u Java ile XLSM Formatına Dönüştür veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla XLSM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Excel veya PowerPoint kullanmadan PPTX'u Java aracılığıyla XLSM formatına dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTX'den XLSM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptx-to-xlsm/
 family: total
 platformtag: net

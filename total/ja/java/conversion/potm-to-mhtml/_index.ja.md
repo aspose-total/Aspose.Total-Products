@@ -1,6 +1,6 @@
 ---
 title: Javaを介してPOTMをMHTML形式に変換する または無料のオンライン コンバーターを使用
-description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをMHTML形式に変換する またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftExcelまたはPowerPointを使用せずにJava経由でPOTMをMHTML形式に変換する またはオンライン。コードを統合する前に、無料の POTM から MHTML へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potm-to-mhtml/
 family: total
 platformtag: net

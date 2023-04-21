@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSM σε μορφή XLSM μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή PPSM σε μορφή XLSM μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Μετατροπή PPSM σε μορφή XLSM μέσω Java χωρίς χρήση Microsoft Excel ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSM σε XLSM πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ppsm-to-xlsm/
 family: total
 platformtag: net
