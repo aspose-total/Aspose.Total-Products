@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのODTにPPSMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSMをODTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSMをODTに変換する またはオンライン。コードを統合する前に、無料の PPSM から ODT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

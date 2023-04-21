@@ -1,6 +1,6 @@
 ---
 title: Exportar POT para TEXT no Andorid via Java ou com o conversor online gratuito
-description: Converta POT para TEXT em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta POT para TEXT em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de POT para TEXT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

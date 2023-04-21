@@ -1,6 +1,6 @@
 ---
 title: Exportar PPTX a OTT en Andorid a través de Java o con el convertidor en línea gratuito
-description: Convierta PPTX a OTT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta PPTX a OTT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de PPTX a OTT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

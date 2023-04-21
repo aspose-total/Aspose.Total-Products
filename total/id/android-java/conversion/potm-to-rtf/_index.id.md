@@ -1,6 +1,6 @@
 ---
 title: Ekspor POTM ke RTF di Andorid melalui Java atau dengan Konverter Online gratis
-description: Konversi POTM ke RTF di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi POTM ke RTF di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online POTM ke RTF gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

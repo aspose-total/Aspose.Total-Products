@@ -1,6 +1,6 @@
 ---
 title: Export PPT do TEXT na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPT na TEXT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPT na TEXT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na TEXT.
 
 family: total
 platformtag: cpp

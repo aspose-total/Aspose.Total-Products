@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u WORD'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTM'den WORD'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

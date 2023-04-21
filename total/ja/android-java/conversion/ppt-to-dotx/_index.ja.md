@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOTXにPPTをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOTXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOTXに変換する またはオンライン。コードを統合する前に、無料の PPT から DOTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Xuất PPSM sang WORD trên Andorid qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi PPSM sang WORD trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi PPSM sang WORD trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPSM sang WORD miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

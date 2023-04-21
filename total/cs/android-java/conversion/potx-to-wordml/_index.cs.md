@@ -1,6 +1,6 @@
 ---
 title: Export POTX do WORDML na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POTX na WORDML v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POTX na WORDML v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na WORDML.
 
 family: total
 platformtag: cpp

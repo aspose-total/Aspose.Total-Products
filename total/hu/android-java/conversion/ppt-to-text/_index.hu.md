@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPT-ot TEXT-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPT-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPT-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-TEXT online konvertert.
 
 family: total
 platformtag: cpp

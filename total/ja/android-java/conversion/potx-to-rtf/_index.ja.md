@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのRTFにPOTXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOTXをRTFに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOTXをRTFに変換する またはオンライン。コードを統合する前に、無料の POTX から RTF へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

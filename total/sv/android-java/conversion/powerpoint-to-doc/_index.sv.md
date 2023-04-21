@@ -1,6 +1,6 @@
 ---
 title: Exportera POWERPOINT till DOC på Andorid via Java eller med gratis Online Converter
-description: Konvertera POWERPOINT till DOC i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera POWERPOINT till DOC i mobilappar utan att installera någon programvara eller online. Testa gratis POWERPOINT till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

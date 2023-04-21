@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή POWERPOINT σε WORDML στο Andorid μέσω Java ή με δωρεάν Online Converter
-description: Μετατρέψτε το POWERPOINT σε WORDML σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατρέψτε το POWERPOINT σε WORDML σε εφαρμογές για κινητά χωρίς εγκατάσταση λογισμικού ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POWERPOINT σε WORDML πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

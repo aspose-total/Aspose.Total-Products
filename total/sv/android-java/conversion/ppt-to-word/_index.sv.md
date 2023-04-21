@@ -1,6 +1,6 @@
 ---
 title: Exportera PPT till WORD på Andorid via Java eller med gratis Online Converter
-description: Konvertera PPT till WORD i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera PPT till WORD i mobilappar utan att installera någon programvara eller online. Testa gratis PPT till WORD online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

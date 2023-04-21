@@ -1,6 +1,6 @@
 ---
 title: Esporta PPT in TEXT su Andorid tramite Java o con il convertitore online gratuito
-description: Converti PPT in TEXT nelle app mobili senza installare alcun software o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti PPT in TEXT nelle app mobili senza installare alcun software o in linea. Prova rapidamente il convertitore online gratuito da PPT a TEXT prima di integrare il codice.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Eksportuj POTM do DOT na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POTM na DOT w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj POTM na DOT w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online POTM na DOT przed integracją kodu.
 
 family: total
 platformtag: cpp

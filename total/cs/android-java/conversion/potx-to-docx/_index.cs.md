@@ -1,6 +1,6 @@
 ---
 title: Export POTX do DOCX na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POTX na DOCX v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POTX na DOCX v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na DOCX.
 
 family: total
 platformtag: cpp

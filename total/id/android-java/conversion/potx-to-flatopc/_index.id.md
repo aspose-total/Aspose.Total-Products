@@ -1,6 +1,6 @@
 ---
 title: Ekspor POTX ke FLATOPC di Andorid melalui Java atau dengan Konverter Online gratis
-description: Konversi POTX ke FLATOPC di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi POTX ke FLATOPC di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online POTX ke FLATOPC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exporteer POWERPOINT naar DOTM op Andorid via Java of met gratis Online Converter
-description: Converteer POWERPOINT naar DOTM in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer POWERPOINT naar DOTM in mobiele apps zonder software te installeren of online. Test de gratis POWERPOINT naar DOTM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

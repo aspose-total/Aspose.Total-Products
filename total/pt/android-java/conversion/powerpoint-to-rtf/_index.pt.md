@@ -1,6 +1,6 @@
 ---
 title: Exportar POWERPOINT para RTF no Andorid via Java ou com o conversor online gratuito
-description: Converta POWERPOINT para RTF em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta POWERPOINT para RTF em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de POWERPOINT para RTF rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

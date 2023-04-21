@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPSX-ot FLATOPC-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPSX-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPSX-ot FLATOPC-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-FLATOPC online konvertert.
 
 family: total
 platformtag: cpp

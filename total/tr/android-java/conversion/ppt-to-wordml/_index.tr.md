@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de PPT'u WORDML'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u WORDML'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPT'u WORDML'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPT'den WORDML'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

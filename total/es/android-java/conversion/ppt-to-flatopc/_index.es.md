@@ -1,6 +1,6 @@
 ---
 title: Exportar PPT a FLATOPC en Andorid a través de Java o con el convertidor en línea gratuito
-description: Convierta PPT a FLATOPC en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta PPT a FLATOPC en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de PPT a FLATOPC rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportar PPSM para DOT no Andorid via Java ou com o conversor online gratuito
-description: Converta PPSM para DOT em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta PPSM para DOT em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de PPSM para DOT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

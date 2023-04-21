@@ -1,6 +1,6 @@
 ---
 title: Eksportuj PPT do OTT na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPT na OTT w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj PPT na OTT w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online PPT na OTT przed integracją kodu.
 
 family: total
 platformtag: cpp

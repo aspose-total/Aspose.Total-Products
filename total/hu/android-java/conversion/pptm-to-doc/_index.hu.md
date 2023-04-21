@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPTM-ot DOC-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPTM-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPTM-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-DOC online konvertert.
 
 family: total
 platformtag: cpp

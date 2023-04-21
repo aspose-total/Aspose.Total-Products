@@ -1,6 +1,6 @@
 ---
 title: Esporta PPSX in DOCX su Andorid tramite Java o con il convertitore online gratuito
-description: Converti PPSX in DOCX nelle app mobili senza installare alcun software o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti PPSX in DOCX nelle app mobili senza installare alcun software o in linea. Prova rapidamente il convertitore online gratuito da PPSX a DOCX prima di integrare il codice.
 
 family: total
 platformtag: cpp

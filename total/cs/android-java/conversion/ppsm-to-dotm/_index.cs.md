@@ -1,6 +1,6 @@
 ---
 title: Export PPSM do DOTM na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPSM na DOTM v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPSM na DOTM v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na DOTM.
 
 family: total
 platformtag: cpp

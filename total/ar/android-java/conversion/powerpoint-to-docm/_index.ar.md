@@ -1,6 +1,6 @@
 ---
 title: تصدير POWERPOINT إلى DOCM على Andorid عبر Java أو مع محول مجاني على الإنترنت
-description: قم بتحويل POWERPOINT إلى DOCM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل POWERPOINT إلى DOCM في تطبيقات الأجهزة المحمولة دون تثبيت أي برنامج أو عبر الإنترنت. اختبر محول POWERPOINT إلى DOCM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

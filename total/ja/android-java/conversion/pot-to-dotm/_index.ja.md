@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOTMにPOTをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOTをDOTMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOTをDOTMに変換する またはオンライン。コードを統合する前に、無料の POT から DOTM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

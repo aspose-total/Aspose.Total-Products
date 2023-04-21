@@ -1,6 +1,6 @@
 ---
 title: Ekspor PPSX ke WORDML di Andorid melalui Java atau dengan Konverter Online gratis
-description: Konversi PPSX ke WORDML di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi PPSX ke WORDML di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online PPSX ke WORDML gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

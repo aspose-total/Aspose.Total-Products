@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u OTT'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u OTT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u OTT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTM'den OTT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

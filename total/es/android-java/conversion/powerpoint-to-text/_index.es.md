@@ -1,6 +1,6 @@
 ---
 title: Exportar POWERPOINT a TEXT en Andorid a través de Java o con el convertidor en línea gratuito
-description: Convierta POWERPOINT a TEXT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta POWERPOINT a TEXT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a TEXT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOCXにPOTXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOTXをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOTXをDOCXに変換する またはオンライン。コードを統合する前に、無料の POTX から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

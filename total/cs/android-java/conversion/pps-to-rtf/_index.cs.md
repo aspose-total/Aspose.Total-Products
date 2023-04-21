@@ -1,6 +1,6 @@
 ---
 title: Export PPS do RTF na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPS na RTF v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPS na RTF v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na RTF.
 
 family: total
 platformtag: cpp

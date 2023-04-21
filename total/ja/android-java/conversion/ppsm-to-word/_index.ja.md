@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのWORDにPPSMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSMをWORDに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSMをWORDに変換する またはオンライン。コードを統合する前に、無料の PPSM から WORD へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

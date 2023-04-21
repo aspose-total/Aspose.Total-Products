@@ -1,6 +1,6 @@
 ---
 title: Export PPS do OTT na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPS na OTT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPS na OTT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na OTT.
 
 family: total
 platformtag: cpp

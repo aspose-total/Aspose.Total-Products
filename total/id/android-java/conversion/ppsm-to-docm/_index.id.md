@@ -1,6 +1,6 @@
 ---
 title: Ekspor PPSM ke DOCM di Andorid melalui Java atau dengan Konverter Online gratis
-description: Konversi PPSM ke DOCM di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi PPSM ke DOCM di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online PPSM ke DOCM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

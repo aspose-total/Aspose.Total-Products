@@ -1,6 +1,6 @@
 ---
 title: Export PPSX do DOT na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPSX na DOT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPSX na DOT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na DOT.
 
 family: total
 platformtag: cpp

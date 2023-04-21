@@ -1,6 +1,6 @@
 ---
 title: Export POTX do TEXT na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POTX na TEXT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POTX na TEXT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na TEXT.
 
 family: total
 platformtag: cpp

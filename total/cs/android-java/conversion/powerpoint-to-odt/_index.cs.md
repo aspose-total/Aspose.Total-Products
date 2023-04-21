@@ -1,6 +1,6 @@
 ---
 title: Export POWERPOINT do ODT na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POWERPOINT na ODT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POWERPOINT na ODT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na ODT.
 
 family: total
 platformtag: cpp

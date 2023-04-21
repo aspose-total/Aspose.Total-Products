@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPT-ot DOCM-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPT-ot DOCM-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPT-ot DOCM-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-DOCM online konvertert.
 
 family: total
 platformtag: cpp

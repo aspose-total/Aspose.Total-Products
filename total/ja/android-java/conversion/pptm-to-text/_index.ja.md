@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのTEXTにPPTMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPTMをTEXTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPTMをTEXTに変換する またはオンライン。コードを統合する前に、無料の PPTM から TEXT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

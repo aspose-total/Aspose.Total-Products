@@ -1,6 +1,6 @@
 ---
 title: Exportera PPSM till DOC på Andorid via Java eller med gratis Online Converter
-description: Konvertera PPSM till DOC i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera PPSM till DOC i mobilappar utan att installera någon programvara eller online. Testa gratis PPSM till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

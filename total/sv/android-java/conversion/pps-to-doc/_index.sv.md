@@ -1,6 +1,6 @@
 ---
 title: Exportera PPS till DOC på Andorid via Java eller med gratis Online Converter
-description: Konvertera PPS till DOC i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera PPS till DOC i mobilappar utan att installera någon programvara eller online. Testa gratis PPS till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

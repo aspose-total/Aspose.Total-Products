@@ -1,6 +1,6 @@
 ---
 title: Ekspor PPTM ke ODT di Andorid melalui Java atau dengan Konverter Online gratis
-description: Konversi PPTM ke ODT di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi PPTM ke ODT di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online PPTM ke ODT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

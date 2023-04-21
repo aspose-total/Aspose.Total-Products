@@ -1,6 +1,6 @@
 ---
 title: Eksportuj PPT do FLATOPC na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPT na FLATOPC w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj PPT na FLATOPC w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online PPT na FLATOPC przed integracją kodu.
 
 family: total
 platformtag: cpp

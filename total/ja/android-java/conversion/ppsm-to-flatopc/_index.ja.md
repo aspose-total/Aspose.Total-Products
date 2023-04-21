@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのFLATOPCにPPSMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSMをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSMをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の PPSM から FLATOPC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

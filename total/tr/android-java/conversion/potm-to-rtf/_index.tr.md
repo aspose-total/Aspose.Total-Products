@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de POTM'u RTF'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u RTF'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda POTM'u RTF'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTM'den RTF'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

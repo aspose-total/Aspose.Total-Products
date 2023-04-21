@@ -1,6 +1,6 @@
 ---
 title: Eksportuj POWERPOINT do DOC na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POWERPOINT na DOC w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj POWERPOINT na DOC w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online POWERPOINT na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp

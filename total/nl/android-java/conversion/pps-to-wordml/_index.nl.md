@@ -1,6 +1,6 @@
 ---
 title: Exporteer PPS naar WORDML op Andorid via Java of met gratis Online Converter
-description: Converteer PPS naar WORDML in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer PPS naar WORDML in mobiele apps zonder software te installeren of online. Test de gratis PPS naar WORDML online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

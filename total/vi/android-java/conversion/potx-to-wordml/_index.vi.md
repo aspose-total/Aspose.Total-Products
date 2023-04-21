@@ -1,6 +1,6 @@
 ---
 title: Xuất POTX sang WORDML trên Andorid qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi POTX sang WORDML trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi POTX sang WORDML trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến POTX sang WORDML miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

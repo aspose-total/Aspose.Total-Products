@@ -1,6 +1,6 @@
 ---
 title: Xuất POWERPOINT sang DOT trên Andorid qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi POWERPOINT sang DOT trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi POWERPOINT sang DOT trong ứng dụng di động mà không cần cài đặt bất kỳ phần mềm nào hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến POWERPOINT sang DOT miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

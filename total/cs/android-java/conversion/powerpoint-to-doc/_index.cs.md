@@ -1,6 +1,6 @@
 ---
 title: Export POWERPOINT do DOC na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POWERPOINT na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POWERPOINT na DOC v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na DOC.
 
 family: total
 platformtag: cpp

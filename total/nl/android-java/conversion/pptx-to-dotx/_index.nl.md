@@ -1,6 +1,6 @@
 ---
 title: Exporteer PPTX naar DOTX op Andorid via Java of met gratis Online Converter
-description: Converteer PPTX naar DOTX in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer PPTX naar DOTX in mobiele apps zonder software te installeren of online. Test de gratis PPTX naar DOTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

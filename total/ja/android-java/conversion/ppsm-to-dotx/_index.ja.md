@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOTXにPPSMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSMをDOTXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSMをDOTXに変換する またはオンライン。コードを統合する前に、無料の PPSM から DOTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

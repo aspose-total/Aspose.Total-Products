@@ -1,6 +1,6 @@
 ---
 title: Eksportuj POTX do DOCX na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POTX na DOCX w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj POTX na DOCX w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online POTX na DOCX przed integracją kodu.
 
 family: total
 platformtag: cpp

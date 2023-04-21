@@ -1,6 +1,6 @@
 ---
 title: Exportera PPTM till DOTM på Andorid via Java eller med gratis Online Converter
-description: Konvertera PPTM till DOTM i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera PPTM till DOTM i mobilappar utan att installera någon programvara eller online. Testa gratis PPTM till DOTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

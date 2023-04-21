@@ -1,6 +1,6 @@
 ---
 title: Java를 통해 Andorid의 FLATOPC로 PPSX 내보내기 또는 무료 온라인 변환기 사용
-description: 소프트웨어를 설치하지 않고 모바일 앱에서 PPSX을 FLATOPC로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
+description: 소프트웨어를 설치하지 않고 모바일 앱에서 PPSX을 FLATOPC로 변환 또는 온라인. 코드를 통합하기 전에 무료 PPSX to FLATOPC 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp

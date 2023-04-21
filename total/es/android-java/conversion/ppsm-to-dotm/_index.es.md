@@ -1,6 +1,6 @@
 ---
 title: Exportar PPSM a DOTM en Andorid a través de Java o con el convertidor en línea gratuito
-description: Convierta PPSM a DOTM en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta PPSM a DOTM en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de PPSM a DOTM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのWORDMLにPOTをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOTをWORDMLに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOTをWORDMLに変換する またはオンライン。コードを統合する前に、無料の POT から WORDML へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

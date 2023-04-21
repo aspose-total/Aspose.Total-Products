@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de PPTM'u TEXT'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u TEXT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u TEXT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTM'den TEXT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

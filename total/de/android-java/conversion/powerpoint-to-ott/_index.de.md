@@ -1,6 +1,6 @@
 ---
 title: Exportieren Sie POWERPOINT nach OTT auf Andorid über Java oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie POWERPOINT in OTT in mobilen Apps, ohne Software zu installieren oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Konvertieren Sie POWERPOINT in OTT in mobilen Apps, ohne Software zu installieren oder online. Testen Sie schnell den kostenlosen POWERPOINT-zu-OTT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

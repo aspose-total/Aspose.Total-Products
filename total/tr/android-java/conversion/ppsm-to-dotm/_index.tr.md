@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de PPSM'u DOTM'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSM'u DOTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSM'u DOTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den DOTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

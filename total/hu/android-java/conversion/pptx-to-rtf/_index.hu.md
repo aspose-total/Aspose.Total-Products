@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPTX-ot RTF-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPTX-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPTX-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-RTF online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportera PPSX till WORD på Andorid via Java eller med gratis Online Converter
-description: Konvertera PPSX till WORD i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera PPSX till WORD i mobilappar utan att installera någon programvara eller online. Testa gratis PPSX till WORD online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

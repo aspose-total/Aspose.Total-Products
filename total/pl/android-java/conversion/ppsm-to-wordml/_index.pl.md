@@ -1,6 +1,6 @@
 ---
 title: Eksportuj PPSM do WORDML na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPSM na WORDML w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj PPSM na WORDML w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online PPSM na WORDML przed integracją kodu.
 
 family: total
 platformtag: cpp

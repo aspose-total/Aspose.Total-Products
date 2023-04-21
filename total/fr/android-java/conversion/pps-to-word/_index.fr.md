@@ -1,6 +1,6 @@
 ---
 title: Exporter PPS vers WORD sur Andorid via Java ou avec le convertisseur en ligne gratuit
-description: Convertissez PPS en WORD dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertissez PPS en WORD dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne PPS vers WORD gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

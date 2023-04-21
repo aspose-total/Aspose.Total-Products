@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのFLATOPCにPOTMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOTMをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOTMをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の POTM から FLATOPC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

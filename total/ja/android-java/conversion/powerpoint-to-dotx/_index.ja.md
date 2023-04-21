@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOTXにPOWERPOINTをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOWERPOINTをDOTXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOWERPOINTをDOTXに変換する またはオンライン。コードを統合する前に、無料の POWERPOINT から DOTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

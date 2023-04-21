@@ -1,6 +1,6 @@
 ---
 title: Exportálja a POT-ot DOC-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a POT-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a POT-ot DOC-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-DOC online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 将 PPTX 导出到 Andorid 上的 WORDML 或使用免费的在线转换器
-description: 在移动应用程序中将 PPTX 转换为 WORDML，无需安装任何软件 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
+description: 在移动应用程序中将 PPTX 转换为 WORDML，无需安装任何软件 或在线。在集成代码之前快速测试免费的 PPTX 到 WORDML 在线转换器。
 
 family: total
 platformtag: cpp

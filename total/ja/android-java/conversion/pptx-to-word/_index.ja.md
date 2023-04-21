@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのWORDにPPTXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPTXをWORDに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPTXをWORDに変換する またはオンライン。コードを統合する前に、無料の PPTX から WORD へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

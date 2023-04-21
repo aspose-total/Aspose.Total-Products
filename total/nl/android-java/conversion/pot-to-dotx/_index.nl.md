@@ -1,6 +1,6 @@
 ---
 title: Exporteer POT naar DOTX op Andorid via Java of met gratis Online Converter
-description: Converteer POT naar DOTX in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer POT naar DOTX in mobiele apps zonder software te installeren of online. Test de gratis POT naar DOTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

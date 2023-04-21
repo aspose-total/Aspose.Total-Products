@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPSX-ot DOTM-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPSX-ot DOTM-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPSX-ot DOTM-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-DOTM online konvertert.
 
 family: total
 platformtag: cpp

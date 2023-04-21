@@ -1,6 +1,6 @@
 ---
 title: Exportera POTM till DOTX på Andorid via Java eller med gratis Online Converter
-description: Konvertera POTM till DOTX i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera POTM till DOTX i mobilappar utan att installera någon programvara eller online. Testa gratis POTM till DOTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

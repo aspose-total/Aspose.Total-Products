@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 将 POWERPOINT 导出到 Andorid 上的 DOCM 或使用免费的在线转换器
-description: 在移动应用程序中将 POWERPOINT 转换为 DOCM，无需安装任何软件 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
+description: 在移动应用程序中将 POWERPOINT 转换为 DOCM，无需安装任何软件 或在线。在集成代码之前快速测试免费的 POWERPOINT 到 DOCM 在线转换器。
 
 family: total
 platformtag: cpp

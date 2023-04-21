@@ -1,6 +1,6 @@
 ---
 title: Export PPT do WORD na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPT na WORD v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPT na WORD v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na WORD.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPS-ot TEXT-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPS-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPS-ot TEXT-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-TEXT online konvertert.
 
 family: total
 platformtag: cpp

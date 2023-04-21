@@ -1,6 +1,6 @@
 ---
 title: Exportar PPSX para FLATOPC no Andorid via Java ou com o conversor online gratuito
-description: Converta PPSX para FLATOPC em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta PPSX para FLATOPC em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de PPSX para FLATOPC rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

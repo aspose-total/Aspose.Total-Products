@@ -1,6 +1,6 @@
 ---
 title: Exporter POTM vers DOTM sur Andorid via Java ou avec le convertisseur en ligne gratuit
-description: Convertissez POTM en DOTM dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertissez POTM en DOTM dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne POTM vers DOTM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

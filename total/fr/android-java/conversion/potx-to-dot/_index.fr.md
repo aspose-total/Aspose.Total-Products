@@ -1,6 +1,6 @@
 ---
 title: Exporter POTX vers DOT sur Andorid via Java ou avec le convertisseur en ligne gratuit
-description: Convertissez POTX en DOT dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertissez POTX en DOT dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne POTX vers DOT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

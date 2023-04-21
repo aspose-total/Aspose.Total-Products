@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOCにPPTXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPTXをDOCに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPTXをDOCに変換する またはオンライン。コードを統合する前に、無料の PPTX から DOC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

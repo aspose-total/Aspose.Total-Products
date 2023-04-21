@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de PPTM'u WORDML'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u WORDML'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPTM'u WORDML'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTM'den WORDML'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

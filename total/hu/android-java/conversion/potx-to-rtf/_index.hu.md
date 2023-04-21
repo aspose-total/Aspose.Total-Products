@@ -1,6 +1,6 @@
 ---
 title: Exportálja a POTX-ot RTF-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a POTX-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a POTX-ot RTF-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-RTF online konvertert.
 
 family: total
 platformtag: cpp

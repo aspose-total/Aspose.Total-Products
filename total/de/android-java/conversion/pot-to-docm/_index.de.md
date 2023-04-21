@@ -1,6 +1,6 @@
 ---
 title: Exportieren Sie POT nach DOCM auf Andorid über Java oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie POT in DOCM in mobilen Apps, ohne Software zu installieren oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Konvertieren Sie POT in DOCM in mobilen Apps, ohne Software zu installieren oder online. Testen Sie schnell den kostenlosen POT-zu-DOCM-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

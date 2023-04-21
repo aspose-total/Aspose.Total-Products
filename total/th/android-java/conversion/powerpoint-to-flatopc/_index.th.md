@@ -1,6 +1,6 @@
 ---
 title: ส่งออก POWERPOINT เป็น FLATOPC บน Andorid ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง POWERPOINT เป็น FLATOPC ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง POWERPOINT เป็น FLATOPC ในแอพมือถือโดยไม่ต้องติดตั้งซอฟต์แวร์ใดๆ หรือทางออนไลน์ ทดสอบตัวแปลง POWERPOINT เป็น FLATOPC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

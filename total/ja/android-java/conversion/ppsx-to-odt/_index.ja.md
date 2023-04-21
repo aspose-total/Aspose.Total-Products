@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのODTにPPSXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSXをODTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSXをODTに変換する またはオンライン。コードを統合する前に、無料の PPSX から ODT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

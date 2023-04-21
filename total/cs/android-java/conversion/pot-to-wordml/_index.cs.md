@@ -1,6 +1,6 @@
 ---
 title: Export POT do WORDML na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POT na WORDML v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POT na WORDML v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na WORDML.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportera PPS till WORD på Andorid via Java eller med gratis Online Converter
-description: Konvertera PPS till WORD i mobilappar utan att installera någon programvara eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera PPS till WORD i mobilappar utan att installera någon programvara eller online. Testa gratis PPS till WORD online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

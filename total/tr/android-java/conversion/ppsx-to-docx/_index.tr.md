@@ -1,6 +1,6 @@
 ---
 title: Java aracılığıyla Andorid'de PPSX'u DOCX'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSX'u DOCX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Herhangi bir yazılım yüklemeden mobil uygulamalarda PPSX'u DOCX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSX'den DOCX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのWORDにPPTMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPTMをWORDに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPTMをWORDに変換する またはオンライン。コードを統合する前に、無料の PPTM から WORD へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

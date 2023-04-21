@@ -1,6 +1,6 @@
 ---
 title: Eksportuj POT do DOCM na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj POT na DOCM w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj POT na DOCM w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online POT na DOCM przed integracją kodu.
 
 family: total
 platformtag: cpp

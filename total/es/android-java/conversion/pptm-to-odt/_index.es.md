@@ -1,6 +1,6 @@
 ---
 title: Exportar PPTM a ODT en Andorid a través de Java o con el convertidor en línea gratuito
-description: Convierta PPTM a ODT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta PPTM a ODT en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de PPTM a ODT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exporteer PPS naar DOT op Andorid via Java of met gratis Online Converter
-description: Converteer PPS naar DOT in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer PPS naar DOT in mobiele apps zonder software te installeren of online. Test de gratis PPS naar DOT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportálja a PPTX-ot ODT-ba Andoridon Java-n keresztül vagy ingyenes online konverterrel
-description: Konvertálja a PPTX-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a PPTX-ot ODT-ba mobilalkalmazásokban szoftver telepítése nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-ODT online konvertert.
 
 family: total
 platformtag: cpp

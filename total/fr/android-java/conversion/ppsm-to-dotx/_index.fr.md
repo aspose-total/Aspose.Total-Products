@@ -1,6 +1,6 @@
 ---
 title: Exporter PPSM vers DOTX sur Andorid via Java ou avec le convertisseur en ligne gratuit
-description: Convertissez PPSM en DOTX dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertissez PPSM en DOTX dans les applications mobiles sans installer de logiciel ou en ligne. Testez rapidement le convertisseur en ligne PPSM vers DOTX gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

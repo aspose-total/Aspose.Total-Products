@@ -1,6 +1,6 @@
 ---
 title: 通過 Java 將 PPTM 導出到 Andorid 上的 DOC 或使用免費的在線轉換器
-description: 在移動應用程序中將 PPTM 轉換為 DOC，無需安裝任何軟件 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+description: 在移動應用程序中將 PPTM 轉換為 DOC，無需安裝任何軟件 或在線。在集成代碼之前快速測試免費的 PPTM 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp

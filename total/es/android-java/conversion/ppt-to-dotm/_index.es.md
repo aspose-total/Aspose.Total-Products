@@ -1,6 +1,6 @@
 ---
 title: Exportar PPT a DOTM en Andorid a través de Java o con el convertidor en línea gratuito
-description: Convierta PPT a DOTM en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta PPT a DOTM en aplicaciones móviles sin instalar ningún software o en línea. Pruebe el convertidor en línea gratuito de PPT a DOTM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

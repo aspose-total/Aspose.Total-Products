@@ -1,6 +1,6 @@
 ---
 title: Export POTM do DOCX na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POTM na DOCX v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POTM na DOCX v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTM na DOCX.
 
 family: total
 platformtag: cpp

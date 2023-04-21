@@ -1,6 +1,6 @@
 ---
 title: Exportar PPTX para DOCM no Andorid via Java ou com o conversor online gratuito
-description: Converta PPTX para DOCM em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta PPTX para DOCM em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de PPTX para DOCM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

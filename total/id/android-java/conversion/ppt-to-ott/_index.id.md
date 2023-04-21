@@ -1,6 +1,6 @@
 ---
 title: Ekspor PPT ke OTT di Andorid melalui Java atau dengan Konverter Online gratis
-description: Konversi PPT ke OTT di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi PPT ke OTT di aplikasi seluler tanpa menginstal perangkat lunak apa pun atau daring. Uji konverter online PPT ke OTT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

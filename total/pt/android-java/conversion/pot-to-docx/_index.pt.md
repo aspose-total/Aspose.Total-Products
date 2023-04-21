@@ -1,6 +1,6 @@
 ---
 title: Exportar POT para DOCX no Andorid via Java ou com o conversor online gratuito
-description: Converta POT para DOCX em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta POT para DOCX em aplicativos móveis sem instalar nenhum software ou on-line. Teste o conversor online gratuito de POT para DOCX rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

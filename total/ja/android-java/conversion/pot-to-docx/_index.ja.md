@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOCXにPOTをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPOTをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPOTをDOCXに変換する またはオンライン。コードを統合する前に、無料の POT から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

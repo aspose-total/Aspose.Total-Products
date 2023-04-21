@@ -1,6 +1,6 @@
 ---
 title: Exporteer POTX naar WORD op Andorid via Java of met gratis Online Converter
-description: Converteer POTX naar WORD in mobiele apps zonder software te installeren of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer POTX naar WORD in mobiele apps zonder software te installeren of online. Test de gratis POTX naar WORD online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

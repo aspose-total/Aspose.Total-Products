@@ -1,6 +1,6 @@
 ---
 title: Export PPT do DOCM na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte PPT na DOCM v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte PPT na DOCM v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na DOCM.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのTEXTにPPSMをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSMをTEXTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSMをTEXTに変換する またはオンライン。コードを統合する前に、無料の PPSM から TEXT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

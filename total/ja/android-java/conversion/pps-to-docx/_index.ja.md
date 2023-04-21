@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOCXにPPSをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSをDOCXに変換する またはオンライン。コードを統合する前に、無料の PPS から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

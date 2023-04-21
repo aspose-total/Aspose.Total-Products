@@ -1,6 +1,6 @@
 ---
 title: Eksportuj PPSX do WORD na Androidzie przez Javę lub za pomocą bezpłatnego konwertera online
-description: Konwertuj PPSX na WORD w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj PPSX na WORD w aplikacjach mobilnych bez instalowania żadnego oprogramowania lub online. Szybko przetestuj darmowy konwerter online PPSX na WORD przed integracją kodu.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのDOCMにPPTをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOCMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPTをDOCMに変換する またはオンライン。コードを統合する前に、無料の PPT から DOCM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

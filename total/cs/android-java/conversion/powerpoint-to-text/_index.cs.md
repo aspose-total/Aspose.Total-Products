@@ -1,6 +1,6 @@
 ---
 title: Export POWERPOINT do TEXT na Andorid přes Java nebo pomocí bezplatného online převodníku
-description: Převeďte POWERPOINT na TEXT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte POWERPOINT na TEXT v mobilních aplikacích bez instalace jakéhokoli softwaru nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na TEXT.
 
 family: total
 platformtag: cpp

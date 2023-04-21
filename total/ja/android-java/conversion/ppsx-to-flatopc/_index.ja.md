@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのFLATOPCにPPSXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSXをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSXをFLATOPCに変換する またはオンライン。コードを統合する前に、無料の PPSX から FLATOPC へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

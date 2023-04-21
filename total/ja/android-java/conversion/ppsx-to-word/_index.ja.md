@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのWORDにPPSXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSXをWORDに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSXをWORDに変換する またはオンライン。コードを統合する前に、無料の PPSX から WORD へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

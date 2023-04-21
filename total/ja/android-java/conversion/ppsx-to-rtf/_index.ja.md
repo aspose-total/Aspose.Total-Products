@@ -1,6 +1,6 @@
 ---
 title: Java経由でAndoridのRTFにPPSXをエクスポートする または無料のオンライン コンバーターを使用
-description: ソフトウェアをインストールせずにモバイルアプリでPPSXをRTFに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: ソフトウェアをインストールせずにモバイルアプリでPPSXをRTFに変換する またはオンライン。コードを統合する前に、無料の PPSX から RTF へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp
