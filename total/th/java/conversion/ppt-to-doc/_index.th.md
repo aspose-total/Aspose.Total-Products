@@ -1,6 +1,6 @@
 ---
 title: แปลง PPT เป็น DOC ผ่าน Java หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี 
-description: Java API เพื่อส่งออก PPT เป็น DOC โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: Java API เพื่อส่งออก PPT เป็น DOC โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง PPT เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/ppt-to-doc/
 family: total
 platformtag: net

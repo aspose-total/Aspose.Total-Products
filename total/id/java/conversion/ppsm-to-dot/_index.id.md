@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSM ke DOT melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor PPSM ke DOT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor PPSM ke DOT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online PPSM ke DOT gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsm-to-dot/
 family: total
 platformtag: net

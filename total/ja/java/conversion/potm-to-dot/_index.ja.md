@@ -1,6 +1,6 @@
 ---
 title: Java経由でPOTMをDOTに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPOTMをDOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPOTMをDOTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POTM から DOT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potm-to-dot/
 family: total
 platformtag: net

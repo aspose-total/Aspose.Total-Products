@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-ot WORDML-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPSX exportálásához WORDML-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPSX exportálásához WORDML-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-WORDML online konvertert. 
 url_ignore: /hu/java/conversion/ppsx-to-wordml/
 family: total
 platformtag: net

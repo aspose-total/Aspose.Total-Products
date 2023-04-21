@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPSM über Java in DOTX oder Online-App oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von PPSM nach DOTX, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von PPSM nach DOTX, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPSM-zu-DOTX-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/ppsm-to-dotx/
 family: total
 platformtag: net

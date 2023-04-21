@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POWERPOINT sang DOC qua Java hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí 
-description: Java API để xuất POWERPOINT sang DOC mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Java API để xuất POWERPOINT sang DOC mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POWERPOINT sang DOC miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/powerpoint-to-doc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPTMをWORDに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPTMをWORDにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPTMをWORDにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPTM から WORD へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pptm-to-word/
 family: total
 platformtag: net

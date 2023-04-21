@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSMをDOCMに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSMをDOCMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSMをDOCMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPSM から DOCM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsm-to-docm/
 family: total
 platformtag: net

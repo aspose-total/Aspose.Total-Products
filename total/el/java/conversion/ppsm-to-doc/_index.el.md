@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSM σε DOC μέσω Java ή Online App ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή PPSM σε DOC χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή PPSM σε DOC χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSM σε DOC πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/ppsm-to-doc/
 family: total
 platformtag: net

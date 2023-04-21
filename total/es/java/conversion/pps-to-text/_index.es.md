@@ -1,6 +1,6 @@
 ---
 title: Convierta PPS a TEXT a través de Java o aplicación en línea o con el convertidor en línea gratuito 
-description: API de Java para exportar PPS a TEXT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar PPS a TEXT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de PPS a TEXT rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/pps-to-text/
 family: total
 platformtag: net

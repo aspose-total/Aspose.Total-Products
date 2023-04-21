@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-ot DOCX-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPSX exportálásához DOCX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPSX exportálásához DOCX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-DOCX online konvertert. 
 url_ignore: /hu/java/conversion/ppsx-to-docx/
 family: total
 platformtag: net

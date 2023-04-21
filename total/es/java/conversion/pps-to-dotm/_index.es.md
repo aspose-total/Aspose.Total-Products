@@ -1,6 +1,6 @@
 ---
 title: Convierta PPS a DOTM a través de Java o aplicación en línea o con el convertidor en línea gratuito 
-description: API de Java para exportar PPS a DOTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar PPS a DOTM sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de PPS a DOTM rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/pps-to-dotm/
 family: total
 platformtag: net

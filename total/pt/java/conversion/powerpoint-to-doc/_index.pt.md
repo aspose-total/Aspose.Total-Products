@@ -1,6 +1,6 @@
 ---
 title: Converter POWERPOINT para DOC via Java ou aplicativo on-line ou com o conversor online gratuito ou com o conversor online grátis
-description: API Java para exportar POWERPOINT para DOC sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
+description: API Java para exportar POWERPOINT para DOC sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POWERPOINT para DOC rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/powerpoint-to-doc/
 family: total
 platformtag: net

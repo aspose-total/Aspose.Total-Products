@@ -1,6 +1,6 @@
 ---
 title: Konversi POTX ke DOTM melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor POTX ke DOTM tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor POTX ke DOTM tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POTX ke DOTM gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/potx-to-dotm/
 family: total
 platformtag: net

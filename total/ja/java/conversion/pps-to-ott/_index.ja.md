@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSをOTTに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSをOTTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSをOTTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPS から OTT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pps-to-ott/
 family: total
 platformtag: net

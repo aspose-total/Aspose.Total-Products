@@ -1,6 +1,6 @@
 ---
 title: Convierta POWERPOINT a WORD a través de Java o aplicación en línea o con el convertidor en línea gratuito 
-description: API de Java para exportar POWERPOINT a WORD sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar POWERPOINT a WORD sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POWERPOINT a WORD rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/powerpoint-to-word/
 family: total
 platformtag: net

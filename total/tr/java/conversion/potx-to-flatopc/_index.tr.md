@@ -1,6 +1,6 @@
 ---
 title: Java ile POTX'u FLATOPC'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan POTX'u FLATOPC'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan POTX'u FLATOPC'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTX'den FLATOPC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/potx-to-flatopc/
 family: total
 platformtag: net

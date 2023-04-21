@@ -1,6 +1,6 @@
 ---
 title: Konversi POTM ke WORDML melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor POTM ke WORDML tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor POTM ke WORDML tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POTM ke WORDML gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/potm-to-wordml/
 family: total
 platformtag: net

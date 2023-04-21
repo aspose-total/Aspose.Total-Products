@@ -1,6 +1,6 @@
 ---
 title: Převeďte POWERPOINT na ODT přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export POWERPOINT do ODT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export POWERPOINT do ODT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POWERPOINT na ODT. 
 url_ignore: /cs/java/conversion/powerpoint-to-odt/
 family: total
 platformtag: net

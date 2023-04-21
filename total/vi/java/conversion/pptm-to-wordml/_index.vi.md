@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTM sang WORDML qua Java hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí 
-description: Java API để xuất PPTM sang WORDML mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Java API để xuất PPTM sang WORDML mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến PPTM sang WORDML miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/pptm-to-wordml/
 family: total
 platformtag: net

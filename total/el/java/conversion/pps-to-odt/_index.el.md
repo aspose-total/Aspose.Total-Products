@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPS σε ODT μέσω Java ή Online App ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή PPS σε ODT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή PPS σε ODT χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPS σε ODT πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pps-to-odt/
 family: total
 platformtag: net

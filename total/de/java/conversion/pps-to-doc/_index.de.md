@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPS über Java in DOC oder Online-App oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von PPS nach DOC, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von PPS nach DOC, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPS-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/pps-to-doc/
 family: total
 platformtag: net

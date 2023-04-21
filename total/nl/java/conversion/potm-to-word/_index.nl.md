@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar WORD via Java -app of met gratis Online Converter 
-description: Java API om POTM naar WORD te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om POTM naar WORD te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POTM naar WORD online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/potm-to-word/
 family: total
 platformtag: net

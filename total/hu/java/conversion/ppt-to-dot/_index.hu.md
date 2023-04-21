@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-ot DOT-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPT exportálásához DOT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPT exportálásához DOT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-DOT online konvertert. 
 url_ignore: /hu/java/conversion/ppt-to-dot/
 family: total
 platformtag: net

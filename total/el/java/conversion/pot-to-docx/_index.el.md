@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POT σε DOCX μέσω Java ή Online App ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή POT σε DOCX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή POT σε DOCX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε DOCX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pot-to-docx/
 family: total
 platformtag: net

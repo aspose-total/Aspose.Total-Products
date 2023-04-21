@@ -1,6 +1,6 @@
 ---
 title: Java経由でPOTXをOTTに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPOTXをOTTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPOTXをOTTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POTX から OTT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potx-to-ott/
 family: total
 platformtag: net

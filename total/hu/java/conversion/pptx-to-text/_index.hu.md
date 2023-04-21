@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot TEXT-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPTX exportálásához TEXT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPTX exportálásához TEXT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-TEXT online konvertert. 
 url_ignore: /hu/java/conversion/pptx-to-text/
 family: total
 platformtag: net

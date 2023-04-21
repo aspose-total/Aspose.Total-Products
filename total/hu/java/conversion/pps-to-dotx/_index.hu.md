@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-ot DOTX-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPS exportálásához DOTX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPS exportálásához DOTX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-DOTX online konvertert. 
 url_ignore: /hu/java/conversion/pps-to-dotx/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java経由でPOWERPOINTをWORDMLに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPOWERPOINTをWORDMLにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPOWERPOINTをWORDMLにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POWERPOINT から WORDML へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/powerpoint-to-wordml/
 family: total
 platformtag: net

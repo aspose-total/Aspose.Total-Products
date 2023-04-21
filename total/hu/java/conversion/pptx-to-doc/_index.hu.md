@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot DOC-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPTX exportálásához DOC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPTX exportálásához DOC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-DOC online konvertert. 
 url_ignore: /hu/java/conversion/pptx-to-doc/
 family: total
 platformtag: net

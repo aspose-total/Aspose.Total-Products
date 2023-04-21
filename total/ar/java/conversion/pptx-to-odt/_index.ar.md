@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTX إلى ODT عبر Java أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير PPTX إلى ODT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير PPTX إلى ODT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول PPTX إلى ODT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pptx-to-odt/
 family: total
 platformtag: net

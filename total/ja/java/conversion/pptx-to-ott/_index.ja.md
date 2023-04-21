@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPTXをOTTに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPTXをOTTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPTXをOTTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPTX から OTT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pptx-to-ott/
 family: total
 platformtag: net

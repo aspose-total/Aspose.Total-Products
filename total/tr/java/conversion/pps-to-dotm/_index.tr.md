@@ -1,6 +1,6 @@
 ---
 title: Java ile PPS'u DOTM'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan PPS'u DOTM'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan PPS'u DOTM'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPS'den DOTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pps-to-dotm/
 family: total
 platformtag: net

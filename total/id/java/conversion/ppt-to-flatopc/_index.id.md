@@ -1,6 +1,6 @@
 ---
 title: Konversi PPT ke FLATOPC melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor PPT ke FLATOPC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor PPT ke FLATOPC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online PPT ke FLATOPC gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppt-to-flatopc/
 family: total
 platformtag: net

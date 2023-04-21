@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPT till WORD via Java app eller med gratis Online Converter 
-description: Java API för att exportera PPT till WORD utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera PPT till WORD utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis PPT till WORD online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/ppt-to-word/
 family: total
 platformtag: net

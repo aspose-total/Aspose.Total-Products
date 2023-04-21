@@ -1,6 +1,6 @@
 ---
 title: Java ile PPTX'u DOTM'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan PPTX'u DOTM'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan PPTX'u DOTM'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTX'den DOTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptx-to-dotm/
 family: total
 platformtag: net

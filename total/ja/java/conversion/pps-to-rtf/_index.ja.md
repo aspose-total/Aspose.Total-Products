@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSをRTFに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSをRTFにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSをRTFにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPS から RTF へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pps-to-rtf/
 family: total
 platformtag: net

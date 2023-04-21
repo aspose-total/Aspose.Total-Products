@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POT über Java in FLATOPC oder Online-App oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von POT nach FLATOPC, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von POT nach FLATOPC, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-FLATOPC-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/pot-to-flatopc/
 family: total
 platformtag: net

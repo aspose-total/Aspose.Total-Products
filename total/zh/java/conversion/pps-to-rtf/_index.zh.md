@@ -1,6 +1,6 @@
 ---
 title: 通过 Java 将 PPS 转换为 RTF 应用程序 或使用免费的在线转换器 
-description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPS 导出为 RTF 的 Java API 或在线。在集成代码之前快速测试免费的 POT 到 CSV 在线转换器。 
+description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPS 导出为 RTF 的 Java API 或在线。在集成代码之前快速测试免费的 PPS 到 RTF 在线转换器。 
 url_ignore: /zh/java/conversion/pps-to-rtf/
 family: total
 platformtag: net

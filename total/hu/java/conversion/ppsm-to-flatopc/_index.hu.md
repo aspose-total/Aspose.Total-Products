@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSM-ot FLATOPC-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPSM exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPSM exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSM-FLATOPC online konvertert. 
 url_ignore: /hu/java/conversion/ppsm-to-flatopc/
 family: total
 platformtag: net

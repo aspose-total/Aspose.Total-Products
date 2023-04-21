@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPS till WORDML via Java app eller med gratis Online Converter 
-description: Java API för att exportera PPS till WORDML utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera PPS till WORDML utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis PPS till WORDML online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/pps-to-wordml/
 family: total
 platformtag: net

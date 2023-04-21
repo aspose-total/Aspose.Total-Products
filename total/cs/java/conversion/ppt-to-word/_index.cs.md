@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPT na WORD přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPT do WORD bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPT do WORD bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na WORD. 
 url_ignore: /cs/java/conversion/ppt-to-word/
 family: total
 platformtag: net

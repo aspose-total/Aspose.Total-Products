@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-ot DOCX-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPT exportálásához DOCX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPT exportálásához DOCX-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-DOCX online konvertert. 
 url_ignore: /hu/java/conversion/ppt-to-docx/
 family: total
 platformtag: net

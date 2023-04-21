@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-ot WORD-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a POTX exportálásához WORD-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a POTX exportálásához WORD-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-WORD online konvertert. 
 url_ignore: /hu/java/conversion/potx-to-word/
 family: total
 platformtag: net

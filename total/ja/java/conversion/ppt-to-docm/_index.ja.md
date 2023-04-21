@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPTをDOCMに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPTをDOCMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPTをDOCMにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPT から DOCM へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppt-to-docm/
 family: total
 platformtag: net

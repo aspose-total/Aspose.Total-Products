@@ -1,6 +1,6 @@
 ---
 title: Konvertera POWERPOINT till DOTM via Java app eller med gratis Online Converter 
-description: Java API för att exportera POWERPOINT till DOTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera POWERPOINT till DOTM utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POWERPOINT till DOTM online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/powerpoint-to-dotm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konversi PPT ke DOCX melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor PPT ke DOCX tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor PPT ke DOCX tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online PPT ke DOCX gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppt-to-docx/
 family: total
 platformtag: net

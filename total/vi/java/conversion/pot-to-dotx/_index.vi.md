@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POT sang DOTX qua Java hoặc Ứng dụng trực tuyến hoặc với Trình chuyển đổi trực tuyến miễn phí 
-description: Java API để xuất POT sang DOTX mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang CSV miễn phí trước khi tích hợp mã. 
+description: Java API để xuất POT sang DOTX mà không cần sử dụng Microsoft Word hoặc PowerPoint hoặc trực tuyến. Kiểm tra nhanh trình chuyển đổi trực tuyến POT sang DOTX miễn phí trước khi tích hợp mã. 
 url_ignore: /vi/java/conversion/pot-to-dotx/
 family: total
 platformtag: net

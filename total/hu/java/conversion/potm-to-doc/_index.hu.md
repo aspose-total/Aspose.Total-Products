@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-ot DOC-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a POTM exportálásához DOC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a POTM exportálásához DOC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-DOC online konvertert. 
 url_ignore: /hu/java/conversion/potm-to-doc/
 family: total
 platformtag: net

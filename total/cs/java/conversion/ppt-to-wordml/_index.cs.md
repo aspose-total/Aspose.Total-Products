@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPT na WORDML přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPT do WORDML bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPT do WORDML bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na WORDML. 
 url_ignore: /cs/java/conversion/ppt-to-wordml/
 family: total
 platformtag: net

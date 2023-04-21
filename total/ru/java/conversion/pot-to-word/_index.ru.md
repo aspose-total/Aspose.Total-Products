@@ -1,6 +1,6 @@
 ---
 title: Конвертировать POT в WORD через Java -приложение или с помощью бесплатного онлайн-конвертера 
-description: Java API для экспорта POT в WORD без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Java API для экспорта POT в WORD без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в WORD, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pot-to-word/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPTM über Java in DOTM oder Online-App oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von PPTM nach DOTM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von PPTM nach DOTM, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPTM-zu-DOTM-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/pptm-to-dotm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSMをWORDに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSMをWORDにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSMをWORDにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPSM から WORD へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsm-to-word/
 family: total
 platformtag: net

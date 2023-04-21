@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSX till WORD via Java app eller med gratis Online Converter 
-description: Java API för att exportera PPSX till WORD utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera PPSX till WORD utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis PPSX till WORD online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/ppsx-to-word/
 family: total
 platformtag: net

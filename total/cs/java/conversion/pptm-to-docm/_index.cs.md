@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTM na DOCM přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPTM do DOCM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPTM do DOCM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTM na DOCM. 
 url_ignore: /cs/java/conversion/pptm-to-docm/
 family: total
 platformtag: net

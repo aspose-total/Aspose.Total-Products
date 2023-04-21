@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPS na DOT přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPS do DOT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPS do DOT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na DOT. 
 url_ignore: /cs/java/conversion/pps-to-dot/
 family: total
 platformtag: net

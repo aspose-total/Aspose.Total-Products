@@ -1,6 +1,6 @@
 ---
 title: تحويل PPSM إلى DOT عبر Java أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير PPSM إلى DOT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير PPSM إلى DOT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول PPSM إلى DOT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ppsm-to-dot/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: แปลง PPTM เป็น DOT ผ่าน Java หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี 
-description: Java API เพื่อส่งออก PPTM เป็น DOT โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: Java API เพื่อส่งออก PPTM เป็น DOT โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง PPTM เป็น DOT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/pptm-to-dot/
 family: total
 platformtag: net

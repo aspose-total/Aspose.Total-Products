@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot ODT-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPTX exportálásához ODT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPTX exportálásához ODT-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-ODT online konvertert. 
 url_ignore: /hu/java/conversion/pptx-to-odt/
 family: total
 platformtag: net

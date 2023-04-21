@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSMをDOTXに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSMをDOTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSMをDOTXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPSM から DOTX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppsm-to-dotx/
 family: total
 platformtag: net

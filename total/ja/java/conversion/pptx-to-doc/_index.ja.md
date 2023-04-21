@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPTXをDOCに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPTXをDOCにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPTXをDOCにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPTX から DOC へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pptx-to-doc/
 family: total
 platformtag: net

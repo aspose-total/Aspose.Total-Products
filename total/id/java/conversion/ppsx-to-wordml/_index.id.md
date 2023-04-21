@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSX ke WORDML melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor PPSX ke WORDML tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor PPSX ke WORDML tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online PPSX ke WORDML gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/ppsx-to-wordml/
 family: total
 platformtag: net

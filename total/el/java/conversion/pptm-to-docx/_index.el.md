@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPTM σε DOCX μέσω Java ή Online App ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή PPTM σε DOCX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή PPTM σε DOCX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPTM σε DOCX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/pptm-to-docx/
 family: total
 platformtag: net

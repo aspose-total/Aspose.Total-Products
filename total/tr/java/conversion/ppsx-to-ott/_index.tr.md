@@ -1,6 +1,6 @@
 ---
 title: Java ile PPSX'u OTT'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan PPSX'u OTT'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan PPSX'u OTT'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSX'den OTT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/ppsx-to-ott/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konversi PPS ke OTT melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor PPS ke OTT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor PPS ke OTT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online PPS ke OTT gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/pps-to-ott/
 family: total
 platformtag: net

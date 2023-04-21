@@ -1,6 +1,6 @@
 ---
 title: Converti PPT in DOTM tramite Java o App online o con il convertitore online gratuito 
-description: API Java per esportare PPT in DOTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da POT a CSV prima di integrare il codice. 
+description: API Java per esportare PPT in DOTM senza utilizzare Microsoft Word o PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da PPT a DOTM prima di integrare il codice. 
 url_ignore: /it/java/conversion/ppt-to-dotm/
 family: total
 platformtag: net

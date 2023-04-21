@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSM na FLATOPC přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPSM do FLATOPC bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPSM do FLATOPC bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSM na FLATOPC. 
 url_ignore: /cs/java/conversion/ppsm-to-flatopc/
 family: total
 platformtag: net

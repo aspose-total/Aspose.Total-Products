@@ -1,6 +1,6 @@
 ---
 title: แปลง POWERPOINT เป็น WORDML ผ่าน Java หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี 
-description: Java API เพื่อส่งออก POWERPOINT เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: Java API เพื่อส่งออก POWERPOINT เป็น WORDML โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POWERPOINT เป็น WORDML ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/powerpoint-to-wordml/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter PPT para RTF via Java ou aplicativo on-line ou com o conversor online gratuito ou com o conversor online grátis
-description: API Java para exportar PPT para RTF sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
+description: API Java para exportar PPT para RTF sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de PPT para RTF rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/ppt-to-rtf/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POTM σε DOTX μέσω Java ή Online App ή με δωρεάν Online Converter 
-description: Java API για εξαγωγή POTM σε DOTX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POT σε CSV πριν ενσωματώσετε τον κώδικα. 
+description: Java API για εξαγωγή POTM σε DOTX χωρίς χρήση Microsoft Word ή PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POTM σε DOTX πριν ενσωματώσετε τον κώδικα. 
 url_ignore: /el/java/conversion/potm-to-dotx/
 family: total
 platformtag: net

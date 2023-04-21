@@ -1,6 +1,6 @@
 ---
 title: Převeďte POT na DOCM přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export POT do DOCM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export POT do DOCM bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na DOCM. 
 url_ignore: /cs/java/conversion/pot-to-docm/
 family: total
 platformtag: net

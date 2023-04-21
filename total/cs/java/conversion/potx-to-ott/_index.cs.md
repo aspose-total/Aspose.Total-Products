@@ -1,6 +1,6 @@
 ---
 title: Převeďte POTX na OTT přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export POTX do OTT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export POTX do OTT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na OTT. 
 url_ignore: /cs/java/conversion/potx-to-ott/
 family: total
 platformtag: net

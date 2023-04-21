@@ -1,6 +1,6 @@
 ---
 title: Konversi POTM ke DOC melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor POTM ke DOC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor POTM ke DOC tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POTM ke DOC gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/potm-to-doc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-ot RTF-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a POTM exportálásához RTF-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a POTM exportálásához RTF-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-RTF online konvertert. 
 url_ignore: /hu/java/conversion/potm-to-rtf/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPT na DOT přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPT do DOT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPT do DOT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na DOT. 
 url_ignore: /cs/java/conversion/ppt-to-dot/
 family: total
 platformtag: net

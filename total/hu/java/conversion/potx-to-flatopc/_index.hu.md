@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTX-ot FLATOPC-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a POTX exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a POTX exportálásához FLATOPC-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTX-FLATOPC online konvertert. 
 url_ignore: /hu/java/conversion/potx-to-flatopc/
 family: total
 platformtag: net

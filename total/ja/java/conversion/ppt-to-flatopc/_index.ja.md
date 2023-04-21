@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPTをFLATOPCに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPTをFLATOPCにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPTをFLATOPCにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPT から FLATOPC へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/ppt-to-flatopc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-ot DOCM-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPT exportálásához DOCM-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPT exportálásához DOCM-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-DOCM online konvertert. 
 url_ignore: /hu/java/conversion/ppt-to-docm/
 family: total
 platformtag: net

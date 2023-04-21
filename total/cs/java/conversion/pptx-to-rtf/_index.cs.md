@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPTX na RTF přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPTX do RTF bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPTX do RTF bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na RTF. 
 url_ignore: /cs/java/conversion/pptx-to-rtf/
 family: total
 platformtag: net

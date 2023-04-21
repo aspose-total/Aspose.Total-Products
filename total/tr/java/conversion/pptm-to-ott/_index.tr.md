@@ -1,6 +1,6 @@
 ---
 title: Java ile PPTM'u OTT'ye dönüştürün veya Çevrimiçi Uygulama veya ücretsiz Çevrimiçi Dönüştürücü ile 
-description: Microsoft Word veya PowerPoint kullanmadan PPTM'u OTT'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POT'den CSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
+description: Microsoft Word veya PowerPoint kullanmadan PPTM'u OTT'a Aktarmak için Java API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTM'den OTT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. 
 url_ignore: /tr/java/conversion/pptm-to-ott/
 family: total
 platformtag: net

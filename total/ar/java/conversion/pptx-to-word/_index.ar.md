@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTX إلى WORD عبر Java أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير PPTX إلى WORD دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير PPTX إلى WORD دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول PPTX إلى WORD على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/pptx-to-word/
 family: total
 platformtag: net

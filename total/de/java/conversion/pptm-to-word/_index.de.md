@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPTM über Java in WORD oder Online-App oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von PPTM nach WORD, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von PPTM nach WORD, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPTM-zu-WORD-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/pptm-to-word/
 family: total
 platformtag: net

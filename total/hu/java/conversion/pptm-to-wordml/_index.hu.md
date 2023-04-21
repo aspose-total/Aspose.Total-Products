@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTM-ot WORDML-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPTM exportálásához WORDML-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPTM exportálásához WORDML-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTM-WORDML online konvertert. 
 url_ignore: /hu/java/conversion/pptm-to-wordml/
 family: total
 platformtag: net

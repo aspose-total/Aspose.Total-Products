@@ -1,6 +1,6 @@
 ---
 title: Convierta PPSM a TEXT a través de Java o aplicación en línea o con el convertidor en línea gratuito 
-description: API de Java para exportar PPSM a TEXT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de POT a CSV rápidamente antes de integrar el código. 
+description: API de Java para exportar PPSM a TEXT sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de PPSM a TEXT rápidamente antes de integrar el código. 
 url_ignore: /es/java/conversion/ppsm-to-text/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Convertir PPSM en ODT via Java ou application en ligne ou avec le convertisseur en ligne gratuit 
-description: API Java pour exporter PPSM vers ODT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne POT vers CSV gratuit avant d'intégrer le code. 
+description: API Java pour exporter PPSM vers ODT sans utiliser Microsoft Word ou PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne PPSM vers ODT gratuit avant d'intégrer le code. 
 url_ignore: /fr/java/conversion/ppsm-to-odt/
 family: total
 platformtag: net

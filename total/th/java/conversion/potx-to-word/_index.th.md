@@ -1,6 +1,6 @@
 ---
 title: แปลง POTX เป็น WORD ผ่าน Java หรือแอพออนไลน์ หรือด้วยตัวแปลงออนไลน์ฟรี 
-description: Java API เพื่อส่งออก POTX เป็น WORD โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POT เป็น CSV ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
+description: Java API เพื่อส่งออก POTX เป็น WORD โดยไม่ต้องใช้ Microsoft Word หรือ PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง POTX เป็น WORD ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด 
 url_ignore: /th/java/conversion/potx-to-word/
 family: total
 platformtag: net

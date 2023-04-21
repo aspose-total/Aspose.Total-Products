@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSをDOCXに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSをDOCXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSをDOCXにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPS から DOCX へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pps-to-docx/
 family: total
 platformtag: net

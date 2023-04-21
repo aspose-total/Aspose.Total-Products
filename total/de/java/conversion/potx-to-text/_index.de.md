@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POTX über Java in TEXT oder Online-App oder mit dem kostenlosen Online Converter 
-description: Java-API zum Exportieren von POTX nach TEXT, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POT-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. 
+description: Java-API zum Exportieren von POTX nach TEXT, ohne Microsoft Word oder PowerPoint zu verwenden oder online. Testen Sie schnell den kostenlosen POTX-zu-TEXT-Online-Konverter, bevor Sie den Code integrieren. 
 url_ignore: /de/java/conversion/potx-to-text/
 family: total
 platformtag: net

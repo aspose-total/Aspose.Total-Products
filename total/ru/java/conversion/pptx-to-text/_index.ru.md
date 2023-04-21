@@ -1,6 +1,6 @@
 ---
 title: Конвертировать PPTX в TEXT через Java -приложение или с помощью бесплатного онлайн-конвертера 
-description: Java API для экспорта PPTX в TEXT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в CSV, прежде чем интегрировать код. 
+description: Java API для экспорта PPTX в TEXT без использования Microsoft Word или PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTX в TEXT, прежде чем интегрировать код. 
 url_ignore: /ru/java/conversion/pptx-to-text/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Java経由でPOTXをODTに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPOTXをODTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPOTXをODTにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POTX から ODT へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/potx-to-odt/
 family: total
 platformtag: net

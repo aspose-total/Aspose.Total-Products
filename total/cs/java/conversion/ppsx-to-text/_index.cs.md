@@ -1,6 +1,6 @@
 ---
 title: Převeďte PPSX na TEXT přes Java  aplikace nebo pomocí bezplatného online převodníku 
-description: Java API pro export PPSX do TEXT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník POT na CSV. 
+description: Java API pro export PPSX do TEXT bez použití Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na TEXT. 
 url_ignore: /cs/java/conversion/ppsx-to-text/
 family: total
 platformtag: net

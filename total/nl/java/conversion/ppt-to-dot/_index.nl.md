@@ -1,6 +1,6 @@
 ---
 title: Converteer PPT naar DOT via Java -app of met gratis Online Converter 
-description: Java API om PPT naar DOT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis POT naar CSV online converter snel voordat u de code integreert. 
+description: Java API om PPT naar DOT te exporteren zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis PPT naar DOT online converter snel voordat u de code integreert. 
 url_ignore: /nl/java/conversion/ppt-to-dot/
 family: total
 platformtag: net

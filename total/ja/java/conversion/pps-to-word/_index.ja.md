@@ -1,6 +1,6 @@
 ---
 title: Java経由でPPSをWORDに変換する アプリ または無料のオンライン コンバーターを使用 
-description: MicrosoftWordやPowerPointを使用せずにPPSをWORDにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の POT から CSV へのオンライン コンバーターをすばやくテストします。 
+description: MicrosoftWordやPowerPointを使用せずにPPSをWORDにエクスポートするJavaAPI またはオンライン。コードを統合する前に、無料の PPS から WORD へのオンライン コンバーターをすばやくテストします。 
 url_ignore: /ja/java/conversion/pps-to-word/
 family: total
 platformtag: net

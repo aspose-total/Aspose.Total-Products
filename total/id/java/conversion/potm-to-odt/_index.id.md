@@ -1,6 +1,6 @@
 ---
 title: Konversi POTM ke ODT melalui Java atau Aplikasi Daring atau dengan Konverter Online gratis 
-description: Java API untuk Mengekspor POTM ke ODT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POT ke CSV gratis dengan cepat sebelum mengintegrasikan kode. 
+description: Java API untuk Mengekspor POTM ke ODT tanpa menggunakan Microsoft Word atau PowerPoint atau daring. Uji konverter online POTM ke ODT gratis dengan cepat sebelum mengintegrasikan kode. 
 url_ignore: /id/java/conversion/potm-to-odt/
 family: total
 platformtag: net

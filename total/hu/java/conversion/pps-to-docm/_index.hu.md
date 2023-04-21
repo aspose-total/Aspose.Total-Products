@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-ot DOCM-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a PPS exportálásához DOCM-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a PPS exportálásához DOCM-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-DOCM online konvertert. 
 url_ignore: /hu/java/conversion/pps-to-docm/
 family: total
 platformtag: net

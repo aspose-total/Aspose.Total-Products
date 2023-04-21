@@ -1,6 +1,6 @@
 ---
 title: تحويل PPSX إلى DOT عبر Java أو التطبيق عبر الإنترنت أو مع محول مجاني على الإنترنت 
-description: Java API لتصدير PPSX إلى DOT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول POT إلى CSV على الإنترنت مجانًا بسرعة قبل دمج الكود. 
+description: Java API لتصدير PPSX إلى DOT دون استخدام Microsoft Word أو PowerPoint أو عبر الإنترنت. اختبر محول PPSX إلى DOT على الإنترنت مجانًا بسرعة قبل دمج الكود. 
 url_ignore: /ar/java/conversion/ppsx-to-dot/
 family: total
 platformtag: net

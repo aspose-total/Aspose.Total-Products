@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-ot WORD-ba Java segítségével vagy ingyenes online konverterrel 
-description: Java API a POWERPOINT exportálásához WORD-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POT-CSV online konvertert. 
+description: Java API a POWERPOINT exportálásához WORD-ba Microsoft Word vagy PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-WORD online konvertert. 
 url_ignore: /hu/java/conversion/powerpoint-to-word/
 family: total
 platformtag: net

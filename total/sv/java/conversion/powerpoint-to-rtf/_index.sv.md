@@ -1,6 +1,6 @@
 ---
 title: Konvertera POWERPOINT till RTF via Java app eller med gratis Online Converter 
-description: Java API för att exportera POWERPOINT till RTF utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POT till CSV online-omvandlare snabbt innan du integrerar koden. 
+description: Java API för att exportera POWERPOINT till RTF utan att använda Microsoft Word eller PowerPoint eller online. Testa gratis POWERPOINT till RTF online-omvandlare snabbt innan du integrerar koden. 
 url_ignore: /sv/java/conversion/powerpoint-to-rtf/
 family: total
 platformtag: net

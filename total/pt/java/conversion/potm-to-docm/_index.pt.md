@@ -1,6 +1,6 @@
 ---
 title: Converter POTM para DOCM via Java ou aplicativo on-line ou com o conversor online gratuito ou com o conversor online grátis
-description: API Java para exportar POTM para DOCM sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POT para CSV rapidamente antes de integrar o código. 
+description: API Java para exportar POTM para DOCM sem usar o Microsoft Word ou PowerPoint ou on-line. Teste o conversor online gratuito de POTM para DOCM rapidamente antes de integrar o código. 
 url_ignore: /pt/java/conversion/potm-to-docm/
 family: total
 platformtag: net
