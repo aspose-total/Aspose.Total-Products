@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPT σε XLSM μέσω C# ή Online App
-description: Μετατροπή PPT σε XLSM σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+description: Μετατροπή PPT σε XLSM σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPT σε XLSM πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/ppt-to-xlsm/
 family: total
 platformtag: net

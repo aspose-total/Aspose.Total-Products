@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTM в XLSB через C# или онлайн-приложение
-description: Преобразование POTM в XLSB на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование POTM в XLSB на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POTM в XLSB, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/potm-to-xlsb/
 family: total
 platformtag: net

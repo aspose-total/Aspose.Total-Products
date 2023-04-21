@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POWERPOINT-ot XLT-vé a C# segítségével vagy Online App
-description: Konvertálja a POWERPOINT-ot XLT-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a POWERPOINT-ot XLT-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POWERPOINT-XLT online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/powerpoint-to-xlt/
 family: total
 platformtag: net

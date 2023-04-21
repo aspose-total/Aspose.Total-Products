@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTX na MARKDOWN za pomocą C# lub Aplikacja internetowa
-description: Konwertuj POTX na MARKDOWN w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POTX na MARKDOWN w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POTX na MARKDOWN przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/potx-to-markdown/
 family: total
 platformtag: net

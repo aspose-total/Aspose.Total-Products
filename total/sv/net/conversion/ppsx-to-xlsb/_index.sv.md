@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPSX till XLSB via C# eller onlineapp
-description: Konvertera PPSX till XLSB i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPSX till XLSB i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPSX till XLSB online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/ppsx-to-xlsb/
 family: total
 platformtag: net

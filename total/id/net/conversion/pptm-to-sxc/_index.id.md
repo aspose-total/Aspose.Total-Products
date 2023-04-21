@@ -1,6 +1,6 @@
 ---
 title: Konversi PPTM ke SXC melalui C# atau Aplikasi Daring
-description: Konversi PPTM ke SXC dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPTM ke SXC dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPTM ke SXC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pptm-to-sxc/
 family: total
 platformtag: net

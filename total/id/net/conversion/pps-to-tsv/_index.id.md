@@ -1,6 +1,6 @@
 ---
 title: Konversi PPS ke TSV melalui C# atau Aplikasi Daring
-description: Konversi PPS ke TSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPS ke TSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPS ke TSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pps-to-tsv/
 family: total
 platformtag: net

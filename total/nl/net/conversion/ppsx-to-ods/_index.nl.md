@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSX naar ODS via C# of online-app
-description: Converteer PPSX naar ODS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPSX naar ODS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPSX naar ODS online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppsx-to-ods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: C＃を介してPOWERPOINTをMHTMLに変換する またはオンラインアプリ
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをMHTMLに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOWERPOINTをMHTMLに変換する またはオンライン。コードを統合する前に、無料の POWERPOINT から MHTML へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/powerpoint-to-mhtml/
 family: total
 platformtag: net

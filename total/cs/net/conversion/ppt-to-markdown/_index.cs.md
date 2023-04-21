@@ -1,6 +1,6 @@
 ---
 title: Převést PPT na MARKDOWN přes C# nebo online aplikace
-description: Převeďte PPT na MARKDOWN v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPT na MARKDOWN v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPT na MARKDOWN. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/ppt-to-markdown/
 family: total
 platformtag: net

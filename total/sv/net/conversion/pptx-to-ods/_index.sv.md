@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till ODS via C# eller onlineapp
-description: Konvertera PPTX till ODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPTX till ODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPTX till ODS online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pptx-to-ods/
 family: total
 platformtag: net

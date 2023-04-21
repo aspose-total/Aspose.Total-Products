@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPT-ot XLAM-vé a C# segítségével vagy Online App
-description: Konvertálja a PPT-ot XLAM-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPT-ot XLAM-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPT-XLAM online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/ppt-to-xlam/
 family: total
 platformtag: net

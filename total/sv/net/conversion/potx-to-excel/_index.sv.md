@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTX till EXCEL via C# eller onlineapp
-description: Konvertera POTX till EXCEL i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera POTX till EXCEL i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POTX till EXCEL online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/potx-to-excel/
 family: total
 platformtag: net

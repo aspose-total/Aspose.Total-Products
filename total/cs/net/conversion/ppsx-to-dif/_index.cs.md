@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na DIF přes C# nebo online aplikace
-description: Převeďte PPSX na DIF v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPSX na DIF v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na DIF. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/ppsx-to-dif/
 family: total
 platformtag: net

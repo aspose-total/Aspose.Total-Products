@@ -1,6 +1,6 @@
 ---
 title: Converti PPSM in FODS tramite C# o App online
-description: Converti PPSM in FODS in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti PPSM in FODS in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da PPSM a FODS prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/ppsm-to-fods/
 family: total
 platformtag: net

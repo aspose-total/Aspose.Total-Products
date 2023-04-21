@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till XLSB via C# eller onlineapp
-description: Konvertera PPTX till XLSB i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPTX till XLSB i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPTX till XLSB online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pptx-to-xlsb/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή POWERPOINT σε MARKDOWN μέσω C# ή Online App
-description: Μετατροπή POWERPOINT σε MARKDOWN σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+description: Μετατροπή POWERPOINT σε MARKDOWN σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα POWERPOINT σε MARKDOWN πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/powerpoint-to-markdown/
 family: total
 platformtag: net

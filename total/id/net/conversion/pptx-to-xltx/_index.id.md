@@ -1,6 +1,6 @@
 ---
 title: Konversi PPTX ke XLTX melalui C# atau Aplikasi Daring
-description: Konversi PPTX ke XLTX dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPTX ke XLTX dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPTX ke XLTX gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pptx-to-xltx/
 family: total
 platformtag: net

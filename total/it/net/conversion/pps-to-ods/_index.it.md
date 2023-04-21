@@ -1,6 +1,6 @@
 ---
 title: Converti PPS in ODS tramite C# o App online
-description: Converti PPS in ODS in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti PPS in ODS in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da PPS a ODS prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/pps-to-ods/
 family: total
 platformtag: net

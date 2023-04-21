@@ -1,6 +1,6 @@
 ---
 title: C＃を介してPPSMをXLSBに変換する またはオンラインアプリ
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSMをXLSBに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPSMをXLSBに変換する またはオンライン。コードを統合する前に、無料の PPSM から XLSB へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/ppsm-to-xlsb/
 family: total
 platformtag: net

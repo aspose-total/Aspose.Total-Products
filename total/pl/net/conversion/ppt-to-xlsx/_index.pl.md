@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPT na XLSX za pomocą C# lub Aplikacja internetowa
-description: Konwertuj PPT na XLSX w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPT na XLSX w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPT na XLSX przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/ppt-to-xlsx/
 family: total
 platformtag: net

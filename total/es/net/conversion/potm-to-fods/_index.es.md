@@ -1,6 +1,6 @@
 ---
 title: Convierta POTM a FODS a través de C# o aplicación en línea
-description: Convierta POTM a FODS en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta POTM a FODS en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POTM a FODS rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/potm-to-fods/
 family: total
 platformtag: net

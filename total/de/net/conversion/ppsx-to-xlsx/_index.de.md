@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie PPSX über C# in XLSX oder Online-App
-description: Konvertieren Sie PPSX in C# in XLSX, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie PPSX in C# in XLSX, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen PPSX-zu-XLSX-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/ppsx-to-xlsx/
 family: total
 platformtag: net

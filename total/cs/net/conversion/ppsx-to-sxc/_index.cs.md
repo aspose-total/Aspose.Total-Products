@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na SXC přes C# nebo online aplikace
-description: Převeďte PPSX na SXC v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPSX na SXC v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na SXC. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/ppsx-to-sxc/
 family: total
 platformtag: net

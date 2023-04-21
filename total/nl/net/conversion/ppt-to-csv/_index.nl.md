@@ -1,6 +1,6 @@
 ---
 title: Converteer PPT naar CSV via C# of online-app
-description: Converteer PPT naar CSV in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPT naar CSV in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPT naar CSV online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppt-to-csv/
 family: total
 platformtag: net

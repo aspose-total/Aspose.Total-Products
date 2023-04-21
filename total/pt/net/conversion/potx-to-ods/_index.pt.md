@@ -1,6 +1,6 @@
 ---
 title: Converter POTX para ODS via C# ou aplicativo on-line
-description: Converter POTX para ODS em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter POTX para ODS em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POTX para ODS rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/potx-to-ods/
 family: total
 platformtag: net

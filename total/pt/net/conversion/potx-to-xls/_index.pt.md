@@ -1,6 +1,6 @@
 ---
 title: Converter POTX para XLS via C# ou aplicativo on-line
-description: Converter POTX para XLS em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter POTX para XLS em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POTX para XLS rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/potx-to-xls/
 family: total
 platformtag: net

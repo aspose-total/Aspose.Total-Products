@@ -1,6 +1,6 @@
 ---
 title: تحويل PPSX إلى SXC عبر C# أو التطبيق عبر الإنترنت
-description: قم بتحويل PPSX إلى SXC في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPSX إلى SXC في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول PPSX إلى SXC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/ppsx-to-sxc/
 family: total
 platformtag: net

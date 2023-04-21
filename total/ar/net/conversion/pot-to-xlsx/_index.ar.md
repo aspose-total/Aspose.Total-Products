@@ -1,6 +1,6 @@
 ---
 title: تحويل POT إلى XLSX عبر C# أو التطبيق عبر الإنترنت
-description: قم بتحويل POT إلى XLSX في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+description: قم بتحويل POT إلى XLSX في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POT إلى XLSX على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/pot-to-xlsx/
 family: total
 platformtag: net

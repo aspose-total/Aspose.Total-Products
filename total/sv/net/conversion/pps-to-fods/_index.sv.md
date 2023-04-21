@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPS till FODS via C# eller onlineapp
-description: Konvertera PPS till FODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPS till FODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPS till FODS online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pps-to-fods/
 family: total
 platformtag: net

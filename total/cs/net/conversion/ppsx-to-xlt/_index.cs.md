@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na XLT přes C# nebo online aplikace
-description: Převeďte PPSX na XLT v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPSX na XLT v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na XLT. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/ppsx-to-xlt/
 family: total
 platformtag: net

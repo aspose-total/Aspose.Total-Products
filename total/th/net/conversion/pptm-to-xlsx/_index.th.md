@@ -1,6 +1,6 @@
 ---
 title: แปลง PPTM เป็น XLSX ผ่าน C# หรือแอพออนไลน์
-description: แปลง PPTM เป็น XLSX ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง PPTM เป็น XLSX ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง PPTM เป็น XLSX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/net/conversion/pptm-to-xlsx/
 family: total
 platformtag: net

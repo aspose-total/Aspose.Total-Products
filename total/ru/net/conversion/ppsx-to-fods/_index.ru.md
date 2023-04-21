@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSX в FODS через C# или онлайн-приложение
-description: Преобразование PPSX в FODS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPSX в FODS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPSX в FODS, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsx-to-fods/
 family: total
 platformtag: net

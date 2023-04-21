@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na XLSB za pomocą C# lub Aplikacja internetowa
-description: Konwertuj POT na XLSB w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POT na XLSB w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na XLSB przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/pot-to-xlsb/
 family: total
 platformtag: net

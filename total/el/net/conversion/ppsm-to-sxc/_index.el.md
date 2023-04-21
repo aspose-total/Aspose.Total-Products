@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSM σε SXC μέσω C# ή Online App
-description: Μετατροπή PPSM σε SXC σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+description: Μετατροπή PPSM σε SXC σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSM σε SXC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/ppsm-to-sxc/
 family: total
 platformtag: net

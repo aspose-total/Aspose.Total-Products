@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPTM σε ODS μέσω C# ή Online App
-description: Μετατροπή PPTM σε ODS σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+description: Μετατροπή PPTM σε ODS σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPTM σε ODS πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/pptm-to-ods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést POT na FODS přes C# nebo online aplikace
-description: Převeďte POT na FODS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte POT na FODS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na FODS. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pot-to-fods/
 family: total
 platformtag: net

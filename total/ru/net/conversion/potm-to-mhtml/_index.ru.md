@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTM в MHTML через C# или онлайн-приложение
-description: Преобразование POTM в MHTML на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование POTM в MHTML на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POTM в MHTML, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/potm-to-mhtml/
 family: total
 platformtag: net

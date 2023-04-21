@@ -1,6 +1,6 @@
 ---
 title: Převést PPSX na XLS přes C# nebo online aplikace
-description: Převeďte PPSX na XLS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPSX na XLS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPSX na XLS. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/ppsx-to-xls/
 family: total
 platformtag: net

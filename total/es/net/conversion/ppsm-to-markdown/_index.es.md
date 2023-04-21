@@ -1,6 +1,6 @@
 ---
 title: Convierta PPSM a MARKDOWN a través de C# o aplicación en línea
-description: Convierta PPSM a MARKDOWN en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta PPSM a MARKDOWN en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPSM a MARKDOWN rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/ppsm-to-markdown/
 family: total
 platformtag: net

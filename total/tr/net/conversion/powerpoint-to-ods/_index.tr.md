@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT'u C# ile ODS'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta ODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta ODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den ODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/powerpoint-to-ods/
 family: total
 platformtag: net

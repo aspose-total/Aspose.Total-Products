@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в CSV через C# или онлайн-приложение
-description: Преобразование PPTX в CSV на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPTX в CSV на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTX в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pptx-to-csv/
 family: total
 platformtag: net

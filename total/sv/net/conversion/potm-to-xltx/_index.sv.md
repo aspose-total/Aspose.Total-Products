@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTM till XLTX via C# eller onlineapp
-description: Konvertera POTM till XLTX i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera POTM till XLTX i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POTM till XLTX online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/potm-to-xltx/
 family: total
 platformtag: net

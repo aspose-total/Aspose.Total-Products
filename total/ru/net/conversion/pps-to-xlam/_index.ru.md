@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPS в XLAM через C# или онлайн-приложение
-description: Преобразование PPS в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPS в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPS в XLAM, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pps-to-xlam/
 family: total
 platformtag: net

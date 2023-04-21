@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar XLSX via C# of online-app
-description: Converteer PPS naar XLSX in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPS naar XLSX in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPS naar XLSX online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/pps-to-xlsx/
 family: total
 platformtag: net

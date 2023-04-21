@@ -1,6 +1,6 @@
 ---
 title: Convierta PPTM a XLT a través de C# o aplicación en línea
-description: Convierta PPTM a XLT en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta PPTM a XLT en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPTM a XLT rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/pptm-to-xlt/
 family: total
 platformtag: net

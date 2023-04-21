@@ -1,6 +1,6 @@
 ---
 title: PPSM'u C# ile XLT'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C#'ta XLT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C#'ta XLT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den XLT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/ppsm-to-xlt/
 family: total
 platformtag: net

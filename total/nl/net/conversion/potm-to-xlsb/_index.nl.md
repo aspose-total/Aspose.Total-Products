@@ -1,6 +1,6 @@
 ---
 title: Converteer POTM naar XLSB via C# of online-app
-description: Converteer POTM naar XLSB in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer POTM naar XLSB in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POTM naar XLSB online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/potm-to-xlsb/
 family: total
 platformtag: net

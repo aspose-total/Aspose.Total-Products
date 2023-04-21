@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPTX sang MARKDOWN qua C# hoặc Ứng dụng trực tuyến
-description: Chuyển đổi PPTX sang MARKDOWN trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi PPTX sang MARKDOWN trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPTX sang MARKDOWN miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/pptx-to-markdown/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Convierta POT a EXCEL a través de C# o aplicación en línea
-description: Convierta POT a EXCEL en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta POT a EXCEL en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a EXCEL rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/pot-to-excel/
 family: total
 platformtag: net

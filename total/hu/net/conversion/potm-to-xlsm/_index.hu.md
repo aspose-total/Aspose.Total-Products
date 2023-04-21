@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-ot XLSM-vé a C# segítségével vagy Online App
-description: Konvertálja a POTM-ot XLSM-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a POTM-ot XLSM-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-XLSM online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/potm-to-xlsm/
 family: total
 platformtag: net

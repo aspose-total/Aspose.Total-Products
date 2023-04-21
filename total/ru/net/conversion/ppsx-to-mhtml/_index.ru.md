@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSX в MHTML через C# или онлайн-приложение
-description: Преобразование PPSX в MHTML на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPSX в MHTML на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPSX в MHTML, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsx-to-mhtml/
 family: total
 platformtag: net

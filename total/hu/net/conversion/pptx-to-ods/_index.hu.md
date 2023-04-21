@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot ODS-vé a C# segítségével vagy Online App
-description: Konvertálja a PPTX-ot ODS-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPTX-ot ODS-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-ODS online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/pptx-to-ods/
 family: total
 platformtag: net

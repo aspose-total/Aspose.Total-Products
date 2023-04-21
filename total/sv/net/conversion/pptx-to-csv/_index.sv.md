@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPTX till CSV via C# eller onlineapp
-description: Konvertera PPTX till CSV i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPTX till CSV i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPTX till CSV online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pptx-to-csv/
 family: total
 platformtag: net

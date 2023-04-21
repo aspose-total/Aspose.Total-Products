@@ -1,6 +1,6 @@
 ---
 title: PPS'u C# ile XLSX'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan PPS'u C#'ta XLSX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PPS'u C#'ta XLSX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPS'den XLSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/pps-to-xlsx/
 family: total
 platformtag: net

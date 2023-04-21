@@ -1,6 +1,6 @@
 ---
 title: Converteer PPSM naar MHTML via C# of online-app
-description: Converteer PPSM naar MHTML in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPSM naar MHTML in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPSM naar MHTML online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppsm-to-mhtml/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converti POT in MARKDOWN tramite C# o App online
-description: Converti POT in MARKDOWN in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti POT in MARKDOWN in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da POT a MARKDOWN prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/pot-to-markdown/
 family: total
 platformtag: net

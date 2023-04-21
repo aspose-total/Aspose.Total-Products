@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPT na XLAM za pomocą C# lub Aplikacja internetowa
-description: Konwertuj PPT na XLAM w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPT na XLAM w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPT na XLAM przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/ppt-to-xlam/
 family: total
 platformtag: net

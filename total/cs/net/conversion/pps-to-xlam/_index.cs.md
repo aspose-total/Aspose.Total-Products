@@ -1,6 +1,6 @@
 ---
 title: Převést PPS na XLAM přes C# nebo online aplikace
-description: Převeďte PPS na XLAM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPS na XLAM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na XLAM. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pps-to-xlam/
 family: total
 platformtag: net

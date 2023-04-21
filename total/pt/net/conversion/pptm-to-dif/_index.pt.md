@@ -1,6 +1,6 @@
 ---
 title: Converter PPTM para DIF via C# ou aplicativo on-line
-description: Converter PPTM para DIF em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPTM para DIF em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTM para DIF rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pptm-to-dif/
 family: total
 platformtag: net

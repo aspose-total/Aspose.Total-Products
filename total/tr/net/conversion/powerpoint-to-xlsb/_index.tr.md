@@ -1,6 +1,6 @@
 ---
 title: POWERPOINT'u C# ile XLSB'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta XLSB'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan POWERPOINT'u C#'ta XLSB'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POWERPOINT'den XLSB'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/powerpoint-to-xlsb/
 family: total
 platformtag: net

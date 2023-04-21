@@ -1,6 +1,6 @@
 ---
 title: C＃を介してPOTXをTSVに変換する またはオンラインアプリ
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTXをTSVに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTXをTSVに変換する またはオンライン。コードを統合する前に、無料の POTX から TSV へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/potx-to-tsv/
 family: total
 platformtag: net

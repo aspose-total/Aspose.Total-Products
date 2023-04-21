@@ -1,6 +1,6 @@
 ---
 title: Convierta PPS a XLS a través de C# o aplicación en línea
-description: Convierta PPS a XLS en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta PPS a XLS en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de PPS a XLS rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/pps-to-xls/
 family: total
 platformtag: net

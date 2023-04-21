@@ -1,6 +1,6 @@
 ---
 title: Konversi PPT ke ODS melalui C# atau Aplikasi Daring
-description: Konversi PPT ke ODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPT ke ODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPT ke ODS gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/ppt-to-ods/
 family: total
 platformtag: net

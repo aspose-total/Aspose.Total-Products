@@ -1,6 +1,6 @@
 ---
 title: Converter POTM para TSV via C# ou aplicativo on-line
-description: Converter POTM para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter POTM para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POTM para TSV rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/potm-to-tsv/
 family: total
 platformtag: net

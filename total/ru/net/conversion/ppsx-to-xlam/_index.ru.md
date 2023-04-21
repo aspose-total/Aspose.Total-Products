@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSX в XLAM через C# или онлайн-приложение
-description: Преобразование PPSX в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPSX в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPSX в XLAM, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsx-to-xlam/
 family: total
 platformtag: net

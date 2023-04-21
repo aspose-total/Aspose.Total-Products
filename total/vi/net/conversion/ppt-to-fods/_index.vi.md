@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi PPT sang FODS qua C# hoặc Ứng dụng trực tuyến
-description: Chuyển đổi PPT sang FODS trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi PPT sang FODS trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến PPT sang FODS miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/ppt-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter PPTM para XLS via C# ou aplicativo on-line
-description: Converter PPTM para XLS em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPTM para XLS em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTM para XLS rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pptm-to-xls/
 family: total
 platformtag: net

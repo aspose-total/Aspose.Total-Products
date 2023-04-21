@@ -1,6 +1,6 @@
 ---
 title: Converteer POWERPOINT naar XLAM via C# of online-app
-description: Converteer POWERPOINT naar XLAM in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer POWERPOINT naar XLAM in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POWERPOINT naar XLAM online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/powerpoint-to-xlam/
 family: total
 platformtag: net

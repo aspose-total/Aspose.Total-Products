@@ -1,6 +1,6 @@
 ---
 title: Konversi POTX ke DIF melalui C# atau Aplikasi Daring
-description: Konversi POTX ke DIF dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi POTX ke DIF dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POTX ke DIF gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/potx-to-dif/
 family: total
 platformtag: net

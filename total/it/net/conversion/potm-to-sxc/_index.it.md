@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in SXC tramite C# o App online
-description: Converti POTM in SXC in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti POTM in SXC in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da POTM a SXC prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/potm-to-sxc/
 family: total
 platformtag: net

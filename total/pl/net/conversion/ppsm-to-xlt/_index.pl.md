@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPSM na XLT za pomocą C# lub Aplikacja internetowa
-description: Konwertuj PPSM na XLT w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPSM na XLT w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPSM na XLT przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/ppsm-to-xlt/
 family: total
 platformtag: net

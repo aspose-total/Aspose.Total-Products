@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPT в XLSM через C# или онлайн-приложение
-description: Преобразование PPT в XLSM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPT в XLSM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPT в XLSM, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppt-to-xlsm/
 family: total
 platformtag: net

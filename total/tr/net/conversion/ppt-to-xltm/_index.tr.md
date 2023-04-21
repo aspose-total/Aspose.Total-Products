@@ -1,6 +1,6 @@
 ---
 title: PPT'u C# ile XLTM'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta XLTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PPT'u C#'ta XLTM'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPT'den XLTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/ppt-to-xltm/
 family: total
 platformtag: net

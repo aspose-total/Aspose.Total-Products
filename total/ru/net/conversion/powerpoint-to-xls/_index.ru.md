@@ -1,6 +1,6 @@
 ---
 title: Преобразование POWERPOINT в XLS через C# или онлайн-приложение
-description: Преобразование POWERPOINT в XLS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование POWERPOINT в XLS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POWERPOINT в XLS, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/powerpoint-to-xls/
 family: total
 platformtag: net

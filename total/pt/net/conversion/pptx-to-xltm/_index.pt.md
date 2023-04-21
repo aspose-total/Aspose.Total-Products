@@ -1,6 +1,6 @@
 ---
 title: Converter PPTX para XLTM via C# ou aplicativo on-line
-description: Converter PPTX para XLTM em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPTX para XLTM em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTX para XLTM rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pptx-to-xltm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-ot MHTML-vé a C# segítségével vagy Online App
-description: Konvertálja a PPS-ot MHTML-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPS-ot MHTML-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-MHTML online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/pps-to-mhtml/
 family: total
 platformtag: net

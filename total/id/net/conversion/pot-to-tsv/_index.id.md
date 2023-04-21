@@ -1,6 +1,6 @@
 ---
 title: Konversi POT ke TSV melalui C# atau Aplikasi Daring
-description: Konversi POT ke TSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi POT ke TSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POT ke TSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pot-to-tsv/
 family: total
 platformtag: net

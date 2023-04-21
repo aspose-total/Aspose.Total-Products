@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в XLAM через C# или онлайн-приложение
-description: Преобразование PPTX в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPTX в XLAM на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTX в XLAM, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pptx-to-xlam/
 family: total
 platformtag: net

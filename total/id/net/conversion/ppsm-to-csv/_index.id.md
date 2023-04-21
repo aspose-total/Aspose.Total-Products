@@ -1,6 +1,6 @@
 ---
 title: Konversi PPSM ke CSV melalui C# atau Aplikasi Daring
-description: Konversi PPSM ke CSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPSM ke CSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPSM ke CSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/ppsm-to-csv/
 family: total
 platformtag: net

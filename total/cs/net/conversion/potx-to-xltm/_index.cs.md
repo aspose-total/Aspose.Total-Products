@@ -1,6 +1,6 @@
 ---
 title: Převést POTX na XLTM přes C# nebo online aplikace
-description: Převeďte POTX na XLTM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte POTX na XLTM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POTX na XLTM. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/potx-to-xltm/
 family: total
 platformtag: net

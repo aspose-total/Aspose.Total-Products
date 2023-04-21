@@ -1,6 +1,6 @@
 ---
 title: Converteer PPT naar ODS via C# of online-app
-description: Converteer PPT naar ODS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPT naar ODS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPT naar ODS online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppt-to-ods/
 family: total
 platformtag: net

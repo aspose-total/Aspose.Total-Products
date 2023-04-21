@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTX till FODS via C# eller onlineapp
-description: Konvertera POTX till FODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera POTX till FODS i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POTX till FODS online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/potx-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: แปลง POWERPOINT เป็น XLTM ผ่าน C# หรือแอพออนไลน์
-description: แปลง POWERPOINT เป็น XLTM ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง POWERPOINT เป็น XLTM ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง POWERPOINT เป็น XLTM ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/net/conversion/powerpoint-to-xltm/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter PPSX para TSV via C# ou aplicativo on-line
-description: Converter PPSX para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPSX para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPSX para TSV rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/ppsx-to-tsv/
 family: total
 platformtag: net

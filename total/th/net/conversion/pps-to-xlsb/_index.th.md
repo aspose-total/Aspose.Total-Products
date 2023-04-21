@@ -1,6 +1,6 @@
 ---
 title: แปลง PPS เป็น XLSB ผ่าน C# หรือแอพออนไลน์
-description: แปลง PPS เป็น XLSB ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง PPS เป็น XLSB ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง PPS เป็น XLSB ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/net/conversion/pps-to-xlsb/
 family: total
 platformtag: net

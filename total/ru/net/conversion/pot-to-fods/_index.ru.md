@@ -1,6 +1,6 @@
 ---
 title: Преобразование POT в FODS через C# или онлайн-приложение
-description: Преобразование POT в FODS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование POT в FODS на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в FODS, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pot-to-fods/
 family: total
 platformtag: net

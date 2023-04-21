@@ -1,6 +1,6 @@
 ---
 title: Konversi PPT ke TSV melalui C# atau Aplikasi Daring
-description: Konversi PPT ke TSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPT ke TSV dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPT ke TSV gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/ppt-to-tsv/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POTM na XLS za pomocą C# lub Aplikacja internetowa
-description: Konwertuj POTM na XLS w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POTM na XLS w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POTM na XLS przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/potm-to-xls/
 family: total
 platformtag: net

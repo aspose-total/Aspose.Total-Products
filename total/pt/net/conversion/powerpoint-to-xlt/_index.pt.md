@@ -1,6 +1,6 @@
 ---
 title: Converter POWERPOINT para XLT via C# ou aplicativo on-line
-description: Converter POWERPOINT para XLT em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter POWERPOINT para XLT em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de POWERPOINT para XLT rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/powerpoint-to-xlt/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést PPTM na XLAM přes C# nebo online aplikace
-description: Převeďte PPTM na XLAM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPTM na XLAM v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTM na XLAM. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pptm-to-xlam/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converti PPSM in TSV tramite C# o App online
-description: Converti PPSM in TSV in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti PPSM in TSV in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da PPSM a TSV prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/ppsm-to-tsv/
 family: total
 platformtag: net

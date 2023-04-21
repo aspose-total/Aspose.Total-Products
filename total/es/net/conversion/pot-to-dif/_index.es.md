@@ -1,6 +1,6 @@
 ---
 title: Convierta POT a DIF a través de C# o aplicación en línea
-description: Convierta POT a DIF en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta POT a DIF en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a DIF rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/pot-to-dif/
 family: total
 platformtag: net

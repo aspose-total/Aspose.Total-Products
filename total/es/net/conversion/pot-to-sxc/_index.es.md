@@ -1,6 +1,6 @@
 ---
 title: Convierta POT a SXC a través de C# o aplicación en línea
-description: Convierta POT a SXC en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
+description: Convierta POT a SXC en C# sin usar Microsoft Excel o Powerpoint o en línea. Pruebe el convertidor en línea gratuito de POT a SXC rápidamente antes de integrar el código. o con el convertidor en línea gratuito
 url_ignore: /es/net/conversion/pot-to-sxc/
 family: total
 platformtag: net

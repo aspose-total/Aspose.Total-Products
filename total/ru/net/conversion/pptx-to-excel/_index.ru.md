@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPTX в EXCEL через C# или онлайн-приложение
-description: Преобразование PPTX в EXCEL на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPTX в EXCEL на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPTX в EXCEL, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pptx-to-excel/
 family: total
 platformtag: net

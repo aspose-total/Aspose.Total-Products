@@ -1,6 +1,6 @@
 ---
 title: Преобразование POTX в CSV через C# или онлайн-приложение
-description: Преобразование POTX в CSV на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование POTX в CSV на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POTX в CSV, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/potx-to-csv/
 family: total
 platformtag: net

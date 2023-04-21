@@ -1,6 +1,6 @@
 ---
 title: Converti POTX in XLTX tramite C# o App online
-description: Converti POTX in XLTX in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti POTX in XLTX in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da POTX a XLTX prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/potx-to-xltx/
 family: total
 platformtag: net

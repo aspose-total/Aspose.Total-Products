@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-ot XLTM-vé a C# segítségével vagy Online App
-description: Konvertálja a PPSX-ot XLTM-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPSX-ot XLTM-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-XLTM online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/ppsx-to-xltm/
 family: total
 platformtag: net

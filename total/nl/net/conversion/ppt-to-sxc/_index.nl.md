@@ -1,6 +1,6 @@
 ---
 title: Converteer PPT naar SXC via C# of online-app
-description: Converteer PPT naar SXC in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPT naar SXC in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPT naar SXC online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppt-to-sxc/
 family: total
 platformtag: net

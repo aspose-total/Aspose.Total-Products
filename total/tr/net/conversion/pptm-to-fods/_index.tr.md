@@ -1,6 +1,6 @@
 ---
 title: PPTM'u C# ile FODS'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan PPTM'u C#'ta FODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PPTM'u C#'ta FODS'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPTM'den FODS'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/pptm-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést POT na XLS přes C# nebo online aplikace
-description: Převeďte POT na XLS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte POT na XLS v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  POT na XLS. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pot-to-xls/
 family: total
 platformtag: net

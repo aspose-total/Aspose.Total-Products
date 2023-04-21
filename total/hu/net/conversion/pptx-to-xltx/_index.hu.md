@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPTX-ot XLTX-vé a C# segítségével vagy Online App
-description: Konvertálja a PPTX-ot XLTX-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPTX-ot XLTX-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPTX-XLTX online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/pptx-to-xltx/
 family: total
 platformtag: net

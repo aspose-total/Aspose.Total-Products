@@ -1,6 +1,6 @@
 ---
 title: Konvertera POTX till XLSM via C# eller onlineapp
-description: Konvertera POTX till XLSM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera POTX till XLSM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POTX till XLSM online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/potx-to-xlsm/
 family: total
 platformtag: net

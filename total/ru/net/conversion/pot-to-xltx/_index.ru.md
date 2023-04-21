@@ -1,6 +1,6 @@
 ---
 title: Преобразование POT в XLTX через C# или онлайн-приложение
-description: Преобразование POT в XLTX на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование POT в XLTX на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер POT в XLTX, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/pot-to-xltx/
 family: total
 platformtag: net

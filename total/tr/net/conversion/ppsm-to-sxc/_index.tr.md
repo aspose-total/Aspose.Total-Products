@@ -1,6 +1,6 @@
 ---
 title: PPSM'u C# ile SXC'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C#'ta SXC'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan PPSM'u C#'ta SXC'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz PPSM'den SXC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/ppsm-to-sxc/
 family: total
 platformtag: net

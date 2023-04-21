@@ -1,6 +1,6 @@
 ---
 title: Converteer PPT naar XLTM via C# of online-app
-description: Converteer PPT naar XLTM in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPT naar XLTM in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPT naar XLTM online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/ppt-to-xltm/
 family: total
 platformtag: net

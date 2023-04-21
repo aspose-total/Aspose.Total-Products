@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar XLSX via C# of online-app
-description: Converteer POT naar XLSX in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer POT naar XLSX in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar XLSX online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/pot-to-xlsx/
 family: total
 platformtag: net

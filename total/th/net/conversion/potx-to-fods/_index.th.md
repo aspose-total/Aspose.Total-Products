@@ -1,6 +1,6 @@
 ---
 title: แปลง POTX เป็น FODS ผ่าน C# หรือแอพออนไลน์
-description: แปลง POTX เป็น FODS ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
+description: แปลง POTX เป็น FODS ใน C# โดยไม่ต้องใช้ Microsoft Excel หรือ Powerpoint หรือทางออนไลน์ ทดสอบตัวแปลง POTX เป็น FODS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด หรือด้วยตัวแปลงออนไลน์ฟรี
 url_ignore: /th/net/conversion/potx-to-fods/
 family: total
 platformtag: net

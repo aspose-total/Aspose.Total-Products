@@ -1,6 +1,6 @@
 ---
 title: Преобразование PPSM в XLSB через C# или онлайн-приложение
-description: Преобразование PPSM в XLSB на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование PPSM в XLSB на C# без использования Microsoft Excel или Powerpoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер PPSM в XLSB, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ppsm-to-xlsb/
 family: total
 platformtag: net

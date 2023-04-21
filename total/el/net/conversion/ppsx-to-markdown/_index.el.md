@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή PPSX σε MARKDOWN μέσω C# ή Online App
-description: Μετατροπή PPSX σε MARKDOWN σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
+description: Μετατροπή PPSX σε MARKDOWN σε C# χωρίς χρήση Microsoft Excel ή Powerpoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα PPSX σε MARKDOWN πριν ενσωματώσετε τον κώδικα. ή με δωρεάν Online Converter
 url_ignore: /el/net/conversion/ppsx-to-markdown/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converteer POTX naar XLSB via C# of online-app
-description: Converteer POTX naar XLSB in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer POTX naar XLSB in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POTX naar XLSB online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/potx-to-xlsb/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converteer PPTX naar FODS via C# of online-app
-description: Converteer PPTX naar FODS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPTX naar FODS in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPTX naar FODS online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/pptx-to-fods/
 family: total
 platformtag: net

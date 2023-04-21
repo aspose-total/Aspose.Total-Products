@@ -1,6 +1,6 @@
 ---
 title: 通过 C# 将 POWERPOINT 转换为 SXC 或在线应用程序
-description: 在 C# 中将 POWERPOINT 转换为 SXC，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
+description: 在 C# 中将 POWERPOINT 转换为 SXC，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 POWERPOINT 到 SXC 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/powerpoint-to-sxc/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converteer POT naar MHTML via C# of online-app
-description: Converteer POT naar MHTML in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer POT naar MHTML in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POT naar MHTML online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/pot-to-mhtml/
 family: total
 platformtag: net

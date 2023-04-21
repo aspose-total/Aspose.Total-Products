@@ -1,6 +1,6 @@
 ---
 title: Konversi PPT ke FODS melalui C# atau Aplikasi Daring
-description: Konversi PPT ke FODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPT ke FODS dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPT ke FODS gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/ppt-to-fods/
 family: total
 platformtag: net

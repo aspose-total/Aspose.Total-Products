@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPS till XLTM via C# eller onlineapp
-description: Konvertera PPS till XLTM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPS till XLTM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPS till XLTM online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/pps-to-xltm/
 family: total
 platformtag: net

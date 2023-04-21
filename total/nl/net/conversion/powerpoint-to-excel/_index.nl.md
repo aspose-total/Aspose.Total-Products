@@ -1,6 +1,6 @@
 ---
 title: Converteer POWERPOINT naar EXCEL via C# of online-app
-description: Converteer POWERPOINT naar EXCEL in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer POWERPOINT naar EXCEL in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis POWERPOINT naar EXCEL online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/powerpoint-to-excel/
 family: total
 platformtag: net

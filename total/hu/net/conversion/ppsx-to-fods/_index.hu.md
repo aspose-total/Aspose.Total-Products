@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPSX-ot FODS-vé a C# segítségével vagy Online App
-description: Konvertálja a PPSX-ot FODS-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPSX-ot FODS-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPSX-FODS online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/ppsx-to-fods/
 family: total
 platformtag: net

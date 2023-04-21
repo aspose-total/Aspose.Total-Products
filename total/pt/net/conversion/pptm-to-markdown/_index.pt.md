@@ -1,6 +1,6 @@
 ---
 title: Converter PPTM para MARKDOWN via C# ou aplicativo on-line
-description: Converter PPTM para MARKDOWN em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPTM para MARKDOWN em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPTM para MARKDOWN rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pptm-to-markdown/
 family: total
 platformtag: net

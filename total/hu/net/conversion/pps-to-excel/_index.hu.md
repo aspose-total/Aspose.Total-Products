@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a PPS-ot EXCEL-vé a C# segítségével vagy Online App
-description: Konvertálja a PPS-ot EXCEL-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a PPS-ot EXCEL-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes PPS-EXCEL online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/pps-to-excel/
 family: total
 platformtag: net

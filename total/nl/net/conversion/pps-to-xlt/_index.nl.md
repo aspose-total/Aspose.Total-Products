@@ -1,6 +1,6 @@
 ---
 title: Converteer PPS naar XLT via C# of online-app
-description: Converteer PPS naar XLT in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert. of met gratis Online Converter
+description: Converteer PPS naar XLT in C# zonder Microsoft Excel of Powerpoint te gebruiken of online. Test de gratis PPS naar XLT online converter snel voordat u de code integreert. of met gratis Online Converter
 url_ignore: /nl/net/conversion/pps-to-xlt/
 family: total
 platformtag: net

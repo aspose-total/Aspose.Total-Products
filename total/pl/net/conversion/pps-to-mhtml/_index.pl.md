@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPS na MHTML za pomocą C# lub Aplikacja internetowa
-description: Konwertuj PPS na MHTML w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPS na MHTML w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPS na MHTML przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/pps-to-mhtml/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převést PPS na MARKDOWN přes C# nebo online aplikace
-description: Převeďte PPS na MARKDOWN v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPS na MARKDOWN v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPS na MARKDOWN. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pps-to-markdown/
 family: total
 platformtag: net

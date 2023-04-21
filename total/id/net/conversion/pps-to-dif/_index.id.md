@@ -1,6 +1,6 @@
 ---
 title: Konversi PPS ke DIF melalui C# atau Aplikasi Daring
-description: Konversi PPS ke DIF dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi PPS ke DIF dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online PPS ke DIF gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/pps-to-dif/
 family: total
 platformtag: net

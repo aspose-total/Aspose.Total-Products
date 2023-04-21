@@ -1,6 +1,6 @@
 ---
 title: 通过 C# 将 PPSX 转换为 XLTM 或在线应用程序
-description: 在 C# 中将 PPSX 转换为 XLTM，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
+description: 在 C# 中将 PPSX 转换为 XLTM，而不使用 Microsoft Excel 或 Powerpoint 或在线。在集成代码之前快速测试免费的 PPSX 到 XLTM 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/ppsx-to-xltm/
 family: total
 platformtag: net

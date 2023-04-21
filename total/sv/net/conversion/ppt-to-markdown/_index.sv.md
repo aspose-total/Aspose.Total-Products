@@ -1,6 +1,6 @@
 ---
 title: Konvertera PPT till MARKDOWN via C# eller onlineapp
-description: Konvertera PPT till MARKDOWN i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera PPT till MARKDOWN i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis PPT till MARKDOWN online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/ppt-to-markdown/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: C＃を介してPPTXをXLSBに変換する またはオンラインアプリ
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLSBに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLSBに変換する またはオンライン。コードを統合する前に、無料の PPTX から XLSB へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/pptx-to-xlsb/
 family: total
 platformtag: net

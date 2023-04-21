@@ -1,6 +1,6 @@
 ---
 title: C＃を介してPOTをXLTに変換する またはオンラインアプリ
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをXLTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPOTをXLTに変換する またはオンライン。コードを統合する前に、無料の POT から XLT へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/pot-to-xlt/
 family: total
 platformtag: net

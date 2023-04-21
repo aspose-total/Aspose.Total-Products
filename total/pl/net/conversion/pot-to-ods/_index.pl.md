@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na ODS za pomocą C# lub Aplikacja internetowa
-description: Konwertuj POT na ODS w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POT na ODS w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na ODS przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/pot-to-ods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter PPS para SXC via C# ou aplicativo on-line
-description: Converter PPS para SXC em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPS para SXC em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPS para SXC rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pps-to-sxc/
 family: total
 platformtag: net

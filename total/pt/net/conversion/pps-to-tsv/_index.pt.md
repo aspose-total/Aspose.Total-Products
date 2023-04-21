@@ -1,6 +1,6 @@
 ---
 title: Converter PPS para TSV via C# ou aplicativo on-line
-description: Converter PPS para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código. ou com o conversor online gratuito
+description: Converter PPS para TSV em C# sem usar o Microsoft Excel ou Powerpoint ou on-line. Teste o conversor online gratuito de PPS para TSV rapidamente antes de integrar o código. ou com o conversor online gratuito
 url_ignore: /pt/net/conversion/pps-to-tsv/
 family: total
 platformtag: net

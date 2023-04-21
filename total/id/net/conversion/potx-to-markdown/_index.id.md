@@ -1,6 +1,6 @@
 ---
 title: Konversi POTX ke MARKDOWN melalui C# atau Aplikasi Daring
-description: Konversi POTX ke MARKDOWN dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
+description: Konversi POTX ke MARKDOWN dalam C# tanpa menggunakan Microsoft Excel atau Powerpoint atau daring. Uji konverter online POTX ke MARKDOWN gratis dengan cepat sebelum mengintegrasikan kode. atau dengan Konverter Online gratis
 url_ignore: /id/net/conversion/potx-to-markdown/
 family: total
 platformtag: net

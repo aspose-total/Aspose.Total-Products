@@ -1,6 +1,6 @@
 ---
 title: Konwertuj POT na FODS za pomocą C# lub Aplikacja internetowa
-description: Konwertuj POT na FODS w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj POT na FODS w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online POT na FODS przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/pot-to-fods/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converti POTM in ODS tramite C# o App online
-description: Converti POTM in ODS in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice. o con il convertitore online gratuito
+description: Converti POTM in ODS in C# senza utilizzare Microsoft Excel o Powerpoint o in linea. Prova rapidamente il convertitore online gratuito da POTM a ODS prima di integrare il codice. o con il convertitore online gratuito
 url_ignore: /it/net/conversion/potm-to-ods/
 family: total
 platformtag: net

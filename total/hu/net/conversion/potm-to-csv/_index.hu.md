@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a POTM-ot CSV-vé a C# segítségével vagy Online App
-description: Konvertálja a POTM-ot CSV-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert. vagy ingyenes online konverterrel
+description: Konvertálja a POTM-ot CSV-vé C#-ban Microsoft Excel vagy Powerpoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes POTM-CSV online konvertert. vagy ingyenes online konverterrel
 url_ignore: /hu/net/conversion/potm-to-csv/
 family: total
 platformtag: net

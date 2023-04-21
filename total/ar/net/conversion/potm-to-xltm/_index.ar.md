@@ -1,6 +1,6 @@
 ---
 title: تحويل POTM إلى XLTM عبر C# أو التطبيق عبر الإنترنت
-description: قم بتحويل POTM إلى XLTM في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+description: قم بتحويل POTM إلى XLTM في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول POTM إلى XLTM على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/potm-to-xltm/
 family: total
 platformtag: net

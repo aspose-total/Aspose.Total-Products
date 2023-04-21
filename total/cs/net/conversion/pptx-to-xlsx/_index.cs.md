@@ -1,6 +1,6 @@
 ---
 title: Převést PPTX na XLSX přes C# nebo online aplikace
-description: Převeďte PPTX na XLSX v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC. nebo pomocí bezplatného online převodníku
+description: Převeďte PPTX na XLSX v C# bez použití Microsoft Excel nebo Powerpoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  PPTX na XLSX. nebo pomocí bezplatného online převodníku
 url_ignore: /cs/net/conversion/pptx-to-xlsx/
 family: total
 platformtag: net

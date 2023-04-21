@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie POTX über C# in CSV oder Online-App
-description: Konvertieren Sie POTX in C# in CSV, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
+description: Konvertieren Sie POTX in C# in CSV, ohne Microsoft Excel oder Powerpoint zu verwenden oder online. Testen Sie schnell den kostenlosen POTX-zu-CSV-Online-Konverter, bevor Sie den Code integrieren. oder mit dem kostenlosen Online Converter
 url_ignore: /de/net/conversion/potx-to-csv/
 family: total
 platformtag: net

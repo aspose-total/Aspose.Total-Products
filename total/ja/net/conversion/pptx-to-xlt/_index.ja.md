@@ -1,6 +1,6 @@
 ---
 title: C＃を介してPPTXをXLTに変換する またはオンラインアプリ
-description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLTに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
+description: Microsoft ExcelまたはPowerpointを使用せずにC＃でPPTXをXLTに変換する またはオンライン。コードを統合する前に、無料の PPTX から XLT へのオンライン コンバーターをすばやくテストします。 または無料のオンライン コンバーターを使用
 url_ignore: /ja/net/conversion/pptx-to-xlt/
 family: total
 platformtag: net

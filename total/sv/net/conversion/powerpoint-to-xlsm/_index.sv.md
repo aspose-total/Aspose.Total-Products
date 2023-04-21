@@ -1,6 +1,6 @@
 ---
 title: Konvertera POWERPOINT till XLSM via C# eller onlineapp
-description: Konvertera POWERPOINT till XLSM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
+description: Konvertera POWERPOINT till XLSM i C# utan att använda Microsoft Excel eller Powerpoint eller online. Testa gratis POWERPOINT till XLSM online-omvandlare snabbt innan du integrerar koden. eller med gratis Online Converter
 url_ignore: /sv/net/conversion/powerpoint-to-xlsm/
 family: total
 platformtag: net

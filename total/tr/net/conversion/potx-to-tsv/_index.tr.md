@@ -1,6 +1,6 @@
 ---
 title: POTX'u C# ile TSV'ye dönüştürün veya Çevrimiçi Uygulama
-description: Microsoft Excel veya Powerpoint kullanmadan POTX'u C#'ta TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
+description: Microsoft Excel veya Powerpoint kullanmadan POTX'u C#'ta TSV'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz POTX'den TSV'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin. veya ücretsiz Çevrimiçi Dönüştürücü ile
 url_ignore: /tr/net/conversion/potx-to-tsv/
 family: total
 platformtag: net

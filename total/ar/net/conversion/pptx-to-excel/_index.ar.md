@@ -1,6 +1,6 @@
 ---
 title: تحويل PPTX إلى EXCEL عبر C# أو التطبيق عبر الإنترنت
-description: قم بتحويل PPTX إلى EXCEL في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
+description: قم بتحويل PPTX إلى EXCEL في C# بدون استخدام Microsoft Excel أو Powerpoint أو عبر الإنترنت. اختبر محول PPTX إلى EXCEL على الإنترنت مجانًا بسرعة قبل دمج الكود. أو مع محول مجاني على الإنترنت
 url_ignore: /ar/net/conversion/pptx-to-excel/
 family: total
 platformtag: net

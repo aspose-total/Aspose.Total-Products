@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi POT sang XLSM qua C# hoặc Ứng dụng trực tuyến
-description: Chuyển đổi POT sang XLSM trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
+description: Chuyển đổi POT sang XLSM trong C# mà không cần sử dụng Microsoft Excel hoặc Powerpoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến POT sang XLSM miễn phí một cách nhanh chóng trước khi tích hợp mã. hoặc với Trình chuyển đổi trực tuyến miễn phí
 url_ignore: /vi/net/conversion/pot-to-xlsm/
 family: total
 platformtag: net

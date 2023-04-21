@@ -1,6 +1,6 @@
 ---
 title: Konwertuj PPSX na XLT za pomocą C# lub Aplikacja internetowa
-description: Konwertuj PPSX na XLT w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu. lub za pomocą bezpłatnego konwertera online
+description: Konwertuj PPSX na XLT w C# bez użycia Microsoft Excel lub Powerpoint lub online. Szybko przetestuj darmowy konwerter online PPSX na XLT przed integracją kodu. lub za pomocą bezpłatnego konwertera online
 url_ignore: /pl/net/conversion/ppsx-to-xlt/
 family: total
 platformtag: net
