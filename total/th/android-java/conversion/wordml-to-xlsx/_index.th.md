@@ -1,6 +1,6 @@
 ---
 title: Android API เพื่อแปลง WORDML เป็น XLSX หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง WORDML เป็น XLSX ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง WORDML เป็น XLSX ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง WORDML เป็น XLSX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

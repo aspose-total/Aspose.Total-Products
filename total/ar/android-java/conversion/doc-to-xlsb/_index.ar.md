@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل DOC إلى XLSB أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOC إلى XLSB في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل DOC إلى XLSB في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOC إلى XLSB على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

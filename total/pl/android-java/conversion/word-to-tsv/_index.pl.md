@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji WORD na TSV lub za pomocą bezpłatnego konwertera online
-description: Konwertuj WORD na TSV w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj WORD na TSV w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online WORD na TSV przed integracją kodu.
 
 family: total
 platformtag: cpp

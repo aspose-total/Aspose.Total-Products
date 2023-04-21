@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji WORDML na XLSM lub za pomocą bezpłatnego konwertera online
-description: Konwertuj WORDML na XLSM w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj WORDML na XLSM w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online WORDML na XLSM przed integracją kodu.
 
 family: total
 platformtag: cpp

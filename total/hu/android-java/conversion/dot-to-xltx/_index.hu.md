@@ -1,6 +1,6 @@
 ---
 title: Android API a DOT konvertálásához XLTX-vé vagy ingyenes online konverterrel
-description: Konvertálja a DOT-t XLTX-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a DOT-t XLTX-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-XLTX online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: API Android per convertire DOCM in CSV o con il convertitore online gratuito
-description: Converti DOCM in CSV in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti DOCM in CSV in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOCM a CSV prima di integrare il codice.
 
 family: total
 platformtag: cpp

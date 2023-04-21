@@ -1,6 +1,6 @@
 ---
 title: API de Android para convertir RTF a XLS o con el convertidor en línea gratuito
-description: Convierta RTF a XLS en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta RTF a XLS en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de RTF a XLS rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

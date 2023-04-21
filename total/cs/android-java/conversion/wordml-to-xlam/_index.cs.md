@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod WORDML na XLAM nebo pomocí bezplatného online převodníku
-description: Převeďte WORDML na XLAM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte WORDML na XLAM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na XLAM.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования WORDML в XLSB или с помощью бесплатного онлайн-конвертера
-description: Преобразование WORDML в XLSB в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование WORDML в XLSB в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORDML в XLSB, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

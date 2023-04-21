@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera MOBI till CSV eller med gratis Online Converter
-description: Konvertera MOBI till CSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera MOBI till CSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis MOBI till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

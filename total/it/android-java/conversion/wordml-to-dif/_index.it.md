@@ -1,6 +1,6 @@
 ---
 title: API Android per convertire WORDML in DIF o con il convertitore online gratuito
-description: Converti WORDML in DIF in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti WORDML in DIF in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da WORDML a DIF prima di integrare il codice.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования MOBI в XLSX или с помощью бесплатного онлайн-конвертера
-description: Преобразование MOBI в XLSX в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование MOBI в XLSX в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер MOBI в XLSX, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

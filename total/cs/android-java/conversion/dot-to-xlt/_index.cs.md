@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOT na XLT nebo pomocí bezplatného online převodníku
-description: Převeďte DOT na XLT v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOT na XLT v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na XLT.
 
 family: total
 platformtag: cpp

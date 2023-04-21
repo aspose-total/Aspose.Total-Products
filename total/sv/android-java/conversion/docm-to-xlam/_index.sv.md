@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOCM till XLAM eller med gratis Online Converter
-description: Konvertera DOCM till XLAM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOCM till XLAM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCM till XLAM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

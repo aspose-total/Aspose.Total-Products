@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOTX na EXCEL nebo pomocí bezplatného online převodníku
-description: Převeďte DOTX na EXCEL v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOTX na EXCEL v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na EXCEL.
 
 family: total
 platformtag: cpp

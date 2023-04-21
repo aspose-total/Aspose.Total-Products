@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji ODT na DIF lub za pomocą bezpłatnego konwertera online
-description: Konwertuj ODT na DIF w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj ODT na DIF w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online ODT na DIF przed integracją kodu.
 
 family: total
 platformtag: cpp

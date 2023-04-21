@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji DOCX na XLTX lub za pomocą bezpłatnego konwertera online
-description: Konwertuj DOCX na XLTX w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj DOCX na XLTX w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOCX na XLTX przed integracją kodu.
 
 family: total
 platformtag: cpp

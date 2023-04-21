@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή DOTM σε ODS ή με δωρεάν Online Converter
-description: Μετατροπή DOTM σε ODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOTM σε ODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε ODS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

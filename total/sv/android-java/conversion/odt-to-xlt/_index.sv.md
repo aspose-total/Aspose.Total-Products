@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera ODT till XLT eller med gratis Online Converter
-description: Konvertera ODT till XLT i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera ODT till XLT i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis ODT till XLT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API a OTT konvertálásához FODS-vé vagy ingyenes online konverterrel
-description: Konvertálja a OTT-t FODS-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a OTT-t FODS-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-FODS online konvertert.
 
 family: total
 platformtag: cpp

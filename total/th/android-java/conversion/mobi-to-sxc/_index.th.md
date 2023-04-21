@@ -1,6 +1,6 @@
 ---
 title: Android API เพื่อแปลง MOBI เป็น SXC หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง MOBI เป็น SXC ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง MOBI เป็น SXC ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง MOBI เป็น SXC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

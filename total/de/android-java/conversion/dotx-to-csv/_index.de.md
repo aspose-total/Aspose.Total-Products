@@ -1,6 +1,6 @@
 ---
 title: Android-API zum Konvertieren von DOTX in CSV oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie DOTX in CSV in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Konvertieren Sie DOTX in CSV in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen DOTX-zu-CSV-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

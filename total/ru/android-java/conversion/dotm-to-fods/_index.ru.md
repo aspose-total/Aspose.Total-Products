@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования DOTM в FODS или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOTM в FODS в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOTM в FODS в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOTM в FODS, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

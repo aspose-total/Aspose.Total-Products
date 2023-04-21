@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOCX till FODS eller med gratis Online Converter
-description: Konvertera DOCX till FODS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOCX till FODS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCX till FODS online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

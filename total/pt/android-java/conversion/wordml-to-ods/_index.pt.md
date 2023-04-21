@@ -1,6 +1,6 @@
 ---
 title: API Android para converter WORDML para ODS ou com o conversor online gratuito
-description: Converta WORDML para ODS no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta WORDML para ODS no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de WORDML para ODS rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

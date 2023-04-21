@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji DOTX na XLSX lub za pomocą bezpłatnego konwertera online
-description: Konwertuj DOTX na XLSX w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj DOTX na XLSX w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOTX na XLSX przed integracją kodu.
 
 family: total
 platformtag: cpp

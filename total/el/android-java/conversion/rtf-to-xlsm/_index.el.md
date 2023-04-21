@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή RTF σε XLSM ή με δωρεάν Online Converter
-description: Μετατροπή RTF σε XLSM στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή RTF σε XLSM στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα RTF σε XLSM πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

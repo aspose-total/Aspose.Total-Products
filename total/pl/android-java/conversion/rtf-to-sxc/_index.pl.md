@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji RTF na SXC lub za pomocą bezpłatnego konwertera online
-description: Konwertuj RTF na SXC w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj RTF na SXC w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online RTF na SXC przed integracją kodu.
 
 family: total
 platformtag: cpp

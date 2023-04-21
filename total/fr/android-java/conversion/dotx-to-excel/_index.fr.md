@@ -1,6 +1,6 @@
 ---
 title: API Android pour convertir DOTX en EXCEL ou avec le convertisseur en ligne gratuit
-description: Convertir DOTX en EXCEL dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertir DOTX en EXCEL dans Android via Java sans utiliser Microsoft Word ou Microsoft Excel ou en ligne. Testez rapidement le convertisseur en ligne DOTX vers EXCEL gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

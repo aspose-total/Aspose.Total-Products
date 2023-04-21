@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή MOBI σε XLTX ή με δωρεάν Online Converter
-description: Μετατροπή MOBI σε XLTX στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή MOBI σε XLTX στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα MOBI σε XLTX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

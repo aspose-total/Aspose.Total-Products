@@ -1,6 +1,6 @@
 ---
 title: Android API a DOCX konvertálásához TSV-vé vagy ingyenes online konverterrel
-description: Konvertálja a DOCX-t TSV-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a DOCX-t TSV-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-TSV online konvertert.
 
 family: total
 platformtag: cpp

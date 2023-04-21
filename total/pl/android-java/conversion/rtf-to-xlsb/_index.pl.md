@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji RTF na XLSB lub za pomocą bezpłatnego konwertera online
-description: Konwertuj RTF na XLSB w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj RTF na XLSB w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online RTF na XLSB przed integracją kodu.
 
 family: total
 platformtag: cpp

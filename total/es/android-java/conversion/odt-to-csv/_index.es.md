@@ -1,6 +1,6 @@
 ---
 title: API de Android para convertir ODT a CSV o con el convertidor en línea gratuito
-description: Convierta ODT a CSV en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta ODT a CSV en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de ODT a CSV rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

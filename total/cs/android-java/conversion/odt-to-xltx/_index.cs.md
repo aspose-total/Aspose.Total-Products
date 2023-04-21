@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod ODT na XLTX nebo pomocí bezplatného online převodníku
-description: Převeďte ODT na XLTX v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte ODT na XLTX v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLTX.
 
 family: total
 platformtag: cpp

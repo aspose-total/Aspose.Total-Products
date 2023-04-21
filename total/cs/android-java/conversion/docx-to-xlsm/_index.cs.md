@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOCX na XLSM nebo pomocí bezplatného online převodníku
-description: Převeďte DOCX na XLSM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOCX na XLSM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na XLSM.
 
 family: total
 platformtag: cpp

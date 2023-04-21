@@ -1,6 +1,6 @@
 ---
 title: Android API om MOBI naar XLAM te converteren of met gratis Online Converter
-description: Converteer MOBI naar XLAM in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer MOBI naar XLAM in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis MOBI naar XLAM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

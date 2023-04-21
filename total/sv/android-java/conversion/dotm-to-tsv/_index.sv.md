@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOTM till TSV eller med gratis Online Converter
-description: Konvertera DOTM till TSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOTM till TSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOTM till TSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

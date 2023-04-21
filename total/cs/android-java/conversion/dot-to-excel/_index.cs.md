@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOT na EXCEL nebo pomocí bezplatného online převodníku
-description: Převeďte DOT na EXCEL v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOT na EXCEL v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOT na EXCEL.
 
 family: total
 platformtag: cpp

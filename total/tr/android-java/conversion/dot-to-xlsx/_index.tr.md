@@ -1,6 +1,6 @@
 ---
 title: DOT'yi XLSX'ye Dönüştürmek için Android API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOT'yi XLSX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOT'yi XLSX'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOT'den XLSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

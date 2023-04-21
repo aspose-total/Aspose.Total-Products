@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل DOTX إلى XLSM أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOTX إلى XLSM في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل DOTX إلى XLSM في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOTX إلى XLSM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

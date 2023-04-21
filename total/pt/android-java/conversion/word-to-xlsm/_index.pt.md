@@ -1,6 +1,6 @@
 ---
 title: API Android para converter WORD para XLSM ou com o conversor online gratuito
-description: Converta WORD para XLSM no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta WORD para XLSM no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de WORD para XLSM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

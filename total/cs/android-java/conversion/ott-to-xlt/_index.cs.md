@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod OTT na XLT nebo pomocí bezplatného online převodníku
-description: Převeďte OTT na XLT v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte OTT na XLT v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na XLT.
 
 family: total
 platformtag: cpp

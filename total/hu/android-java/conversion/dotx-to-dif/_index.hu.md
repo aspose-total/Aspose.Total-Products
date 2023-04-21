@@ -1,6 +1,6 @@
 ---
 title: Android API a DOTX konvertálásához DIF-vé vagy ingyenes online konverterrel
-description: Konvertálja a DOTX-t DIF-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a DOTX-t DIF-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-DIF online konvertert.
 
 family: total
 platformtag: cpp

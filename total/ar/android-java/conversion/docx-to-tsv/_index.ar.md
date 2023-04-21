@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل DOCX إلى TSV أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOCX إلى TSV في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل DOCX إلى TSV في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOCX إلى TSV على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

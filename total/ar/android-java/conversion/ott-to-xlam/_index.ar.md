@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل OTT إلى XLAM أو مع محول مجاني على الإنترنت
-description: قم بتحويل OTT إلى XLAM في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل OTT إلى XLAM في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول OTT إلى XLAM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

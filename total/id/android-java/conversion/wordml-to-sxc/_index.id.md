@@ -1,6 +1,6 @@
 ---
 title: Android API untuk Mengonversi WORDML ke SXC atau dengan Konverter Online gratis
-description: Konversi WORDML ke SXC di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi WORDML ke SXC di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online WORDML ke SXC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

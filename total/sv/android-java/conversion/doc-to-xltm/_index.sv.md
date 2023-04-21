@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOC till XLTM eller med gratis Online Converter
-description: Konvertera DOC till XLTM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOC till XLTM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOC till XLTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования DOTM в EXCEL или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOTM в EXCEL в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOTM в EXCEL в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOTM в EXCEL, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

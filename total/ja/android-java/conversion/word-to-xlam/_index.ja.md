@@ -1,6 +1,6 @@
 ---
 title: WORDをXLAMに変換するAndroidAPI または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでWORDをXLAMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでWORDをXLAMに変換する またはオンライン。コードを統合する前に、無料の WORD から XLAM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

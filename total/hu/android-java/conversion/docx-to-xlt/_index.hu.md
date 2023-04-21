@@ -1,6 +1,6 @@
 ---
 title: Android API a DOCX konvertálásához XLT-vé vagy ingyenes online konverterrel
-description: Konvertálja a DOCX-t XLT-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a DOCX-t XLT-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-XLT online konvertert.
 
 family: total
 platformtag: cpp

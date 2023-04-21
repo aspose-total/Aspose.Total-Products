@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOCX na XLAM nebo pomocí bezplatného online převodníku
-description: Převeďte DOCX na XLAM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOCX na XLAM v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na XLAM.
 
 family: total
 platformtag: cpp

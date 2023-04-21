@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή WORD σε FODS ή με δωρεάν Online Converter
-description: Μετατροπή WORD σε FODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή WORD σε FODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORD σε FODS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

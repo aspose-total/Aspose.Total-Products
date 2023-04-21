@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل DOC إلى DIF أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOC إلى DIF في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل DOC إلى DIF في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOC إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

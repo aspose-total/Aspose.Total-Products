@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod ODT na XLSB nebo pomocí bezplatného online převodníku
-description: Převeďte ODT na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte ODT na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na XLSB.
 
 family: total
 platformtag: cpp

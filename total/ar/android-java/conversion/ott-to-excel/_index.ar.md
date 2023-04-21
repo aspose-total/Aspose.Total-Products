@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل OTT إلى EXCEL أو مع محول مجاني على الإنترنت
-description: قم بتحويل OTT إلى EXCEL في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل OTT إلى EXCEL في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول OTT إلى EXCEL على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod WORD na XLSB nebo pomocí bezplatného online převodníku
-description: Převeďte WORD na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte WORD na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na XLSB.
 
 family: total
 platformtag: cpp

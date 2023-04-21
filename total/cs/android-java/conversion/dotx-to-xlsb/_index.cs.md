@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOTX na XLSB nebo pomocí bezplatného online převodníku
-description: Převeďte DOTX na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOTX na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na XLSB.
 
 family: total
 platformtag: cpp

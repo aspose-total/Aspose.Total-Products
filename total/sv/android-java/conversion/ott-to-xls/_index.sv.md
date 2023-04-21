@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera OTT till XLS eller med gratis Online Converter
-description: Konvertera OTT till XLS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera OTT till XLS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis OTT till XLS online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

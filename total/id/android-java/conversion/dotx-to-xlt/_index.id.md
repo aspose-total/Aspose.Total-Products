@@ -1,6 +1,6 @@
 ---
 title: Android API untuk Mengonversi DOTX ke XLT atau dengan Konverter Online gratis
-description: Konversi DOTX ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOTX ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOTX ke XLT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

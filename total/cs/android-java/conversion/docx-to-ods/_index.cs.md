@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOCX na ODS nebo pomocí bezplatného online převodníku
-description: Převeďte DOCX na ODS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOCX na ODS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na ODS.
 
 family: total
 platformtag: cpp

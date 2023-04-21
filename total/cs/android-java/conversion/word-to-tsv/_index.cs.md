@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod WORD na TSV nebo pomocí bezplatného online převodníku
-description: Převeďte WORD na TSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte WORD na TSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na TSV.
 
 family: total
 platformtag: cpp

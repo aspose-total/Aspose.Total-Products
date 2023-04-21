@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования OTT в XLTM или с помощью бесплатного онлайн-конвертера
-description: Преобразование OTT в XLTM в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование OTT в XLTM в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер OTT в XLTM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API untuk Mengonversi RTF ke XLT atau dengan Konverter Online gratis
-description: Konversi RTF ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi RTF ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online RTF ke XLT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

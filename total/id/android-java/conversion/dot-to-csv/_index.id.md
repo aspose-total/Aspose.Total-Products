@@ -1,6 +1,6 @@
 ---
 title: Android API untuk Mengonversi DOT ke CSV atau dengan Konverter Online gratis
-description: Konversi DOT ke CSV di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOT ke CSV di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOT ke CSV gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

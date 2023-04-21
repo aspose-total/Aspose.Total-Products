@@ -1,6 +1,6 @@
 ---
 title: Android-API zum Konvertieren von WORDML in XLTX oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie WORDML in XLTX in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Konvertieren Sie WORDML in XLTX in Android über Java, ohne Microsoft Word oder Microsoft Excel zu verwenden oder online. Testen Sie schnell den kostenlosen WORDML-zu-XLTX-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOTM till XLS eller med gratis Online Converter
-description: Konvertera DOTM till XLS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOTM till XLS i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOTM till XLS online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

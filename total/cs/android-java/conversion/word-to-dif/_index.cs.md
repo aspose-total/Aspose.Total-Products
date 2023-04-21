@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod WORD na DIF nebo pomocí bezplatného online převodníku
-description: Převeďte WORD na DIF v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte WORD na DIF v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na DIF.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή DOCM σε XLTX ή με δωρεάν Online Converter
-description: Μετατροπή DOCM σε XLTX στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOCM σε XLTX στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCM σε XLTX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

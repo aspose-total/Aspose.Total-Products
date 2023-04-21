@@ -1,6 +1,6 @@
 ---
 title: Android API a WORDML konvertálásához EXCEL-vé vagy ingyenes online konverterrel
-description: Konvertálja a WORDML-t EXCEL-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a WORDML-t EXCEL-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-EXCEL online konvertert.
 
 family: total
 platformtag: cpp

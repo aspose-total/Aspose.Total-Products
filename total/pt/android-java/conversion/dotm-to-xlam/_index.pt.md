@@ -1,6 +1,6 @@
 ---
 title: API Android para converter DOTM para XLAM ou com o conversor online gratuito
-description: Converta DOTM para XLAM no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta DOTM para XLAM no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de DOTM para XLAM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

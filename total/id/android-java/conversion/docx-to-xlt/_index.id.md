@@ -1,6 +1,6 @@
 ---
 title: Android API untuk Mengonversi DOCX ke XLT atau dengan Konverter Online gratis
-description: Konversi DOCX ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOCX ke XLT di Android melalui Java tanpa menggunakan Microsoft Word atau Microsoft Excel atau daring. Uji konverter online DOCX ke XLT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

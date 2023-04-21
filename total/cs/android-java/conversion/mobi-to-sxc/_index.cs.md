@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod MOBI na SXC nebo pomocí bezplatného online převodníku
-description: Převeďte MOBI na SXC v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte MOBI na SXC v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na SXC.
 
 family: total
 platformtag: cpp

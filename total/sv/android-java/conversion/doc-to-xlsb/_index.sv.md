@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOC till XLSB eller med gratis Online Converter
-description: Konvertera DOC till XLSB i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOC till XLSB i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOC till XLSB online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

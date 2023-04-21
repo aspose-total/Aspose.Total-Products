@@ -1,6 +1,6 @@
 ---
 title: API de Android para convertir DOCM a XLSB o con el convertidor en línea gratuito
-description: Convierta DOCM a XLSB en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta DOCM a XLSB en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de DOCM a XLSB rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

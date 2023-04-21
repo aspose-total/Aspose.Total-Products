@@ -1,6 +1,6 @@
 ---
 title: Android API om WORD naar DIF te converteren of met gratis Online Converter
-description: Converteer WORD naar DIF in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer WORD naar DIF in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis WORD naar DIF online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

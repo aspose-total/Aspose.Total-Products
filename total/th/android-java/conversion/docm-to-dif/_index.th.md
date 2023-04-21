@@ -1,6 +1,6 @@
 ---
 title: Android API เพื่อแปลง DOCM เป็น DIF หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง DOCM เป็น DIF ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง DOCM เป็น DIF ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง DOCM เป็น DIF ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

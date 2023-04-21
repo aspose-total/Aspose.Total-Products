@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOTX till TSV eller med gratis Online Converter
-description: Konvertera DOTX till TSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOTX till TSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOTX till TSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

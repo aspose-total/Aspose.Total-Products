@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή DOTX σε ODS ή με δωρεάν Online Converter
-description: Μετατροπή DOTX σε ODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOTX σε ODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTX σε ODS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

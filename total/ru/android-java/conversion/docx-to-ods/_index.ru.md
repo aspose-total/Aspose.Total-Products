@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования DOCX в ODS или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOCX в ODS в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOCX в ODS в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOCX в ODS, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

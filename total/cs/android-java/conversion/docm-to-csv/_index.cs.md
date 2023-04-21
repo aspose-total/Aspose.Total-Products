@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOCM na CSV nebo pomocí bezplatného online převodníku
-description: Převeďte DOCM na CSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOCM na CSV v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na CSV.
 
 family: total
 platformtag: cpp

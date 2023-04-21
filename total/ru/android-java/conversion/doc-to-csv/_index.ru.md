@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования DOC в CSV или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOC в CSV в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOC в CSV в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOC в CSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

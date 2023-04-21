@@ -1,6 +1,6 @@
 ---
 title: API de Android para convertir OTT a ODS o con el convertidor en línea gratuito
-description: Convierta OTT a ODS en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta OTT a ODS en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de OTT a ODS rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API เพื่อแปลง DOTX เป็น FODS หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง DOTX เป็น FODS ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง DOTX เป็น FODS ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง DOTX เป็น FODS ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

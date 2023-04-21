@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod RTF na SXC nebo pomocí bezplatného online převodníku
-description: Převeďte RTF na SXC v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte RTF na SXC v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na SXC.
 
 family: total
 platformtag: cpp

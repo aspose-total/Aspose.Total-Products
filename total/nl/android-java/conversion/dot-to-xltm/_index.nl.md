@@ -1,6 +1,6 @@
 ---
 title: Android API om DOT naar XLTM te converteren of met gratis Online Converter
-description: Converteer DOT naar XLTM in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer DOT naar XLTM in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOT naar XLTM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera WORDML till CSV eller med gratis Online Converter
-description: Konvertera WORDML till CSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera WORDML till CSV i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis WORDML till CSV online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

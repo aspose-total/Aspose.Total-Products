@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOCX till EXCEL eller med gratis Online Converter
-description: Konvertera DOCX till EXCEL i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOCX till EXCEL i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOCX till EXCEL online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

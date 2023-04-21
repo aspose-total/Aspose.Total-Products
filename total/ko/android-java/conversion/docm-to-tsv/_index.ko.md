@@ -1,6 +1,6 @@
 ---
 title: DOCM를 TSV로 변환하는 Android API 또는 무료 온라인 변환기 사용
-description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 Android에서 DOCM를 TSV로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
+description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java를 통해 Android에서 DOCM를 TSV로 변환 또는 온라인. 코드를 통합하기 전에 무료 DOCM to TSV 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: cpp

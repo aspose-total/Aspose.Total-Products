@@ -1,6 +1,6 @@
 ---
 title: Android API เพื่อแปลง OTT เป็น XLTX หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง OTT เป็น XLTX ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง OTT เป็น XLTX ใน Android ผ่าน Java โดยไม่ต้องใช้ Microsoft Word หรือ Microsoft Excel หรือทางออนไลน์ ทดสอบตัวแปลง OTT เป็น XLTX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

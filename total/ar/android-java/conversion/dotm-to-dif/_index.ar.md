@@ -1,6 +1,6 @@
 ---
 title: Android API لتحويل DOTM إلى DIF أو مع محول مجاني على الإنترنت
-description: قم بتحويل DOTM إلى DIF في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل DOTM إلى DIF في Android عبر Java دون استخدام Microsoft Word أو Microsoft Excel أو عبر الإنترنت. اختبر محول DOTM إلى DIF على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

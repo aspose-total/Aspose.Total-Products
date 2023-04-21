@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera RTF till DIF eller med gratis Online Converter
-description: Konvertera RTF till DIF i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera RTF till DIF i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis RTF till DIF online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

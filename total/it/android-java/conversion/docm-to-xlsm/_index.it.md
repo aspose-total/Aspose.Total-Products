@@ -1,6 +1,6 @@
 ---
 title: API Android per convertire DOCM in XLSM o con il convertitore online gratuito
-description: Converti DOCM in XLSM in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti DOCM in XLSM in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da DOCM a XLSM prima di integrare il codice.
 
 family: total
 platformtag: cpp

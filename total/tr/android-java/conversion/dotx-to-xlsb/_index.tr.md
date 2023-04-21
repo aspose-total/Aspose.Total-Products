@@ -1,6 +1,6 @@
 ---
 title: DOTX'yi XLSB'ye Dönüştürmek için Android API veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOTX'yi XLSB'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word veya Microsoft Excel kullanmadan Java aracılığıyla Android'de DOTX'yi XLSB'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTX'den XLSB'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

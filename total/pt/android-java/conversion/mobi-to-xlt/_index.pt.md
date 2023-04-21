@@ -1,6 +1,6 @@
 ---
 title: API Android para converter MOBI para XLT ou com o conversor online gratuito
-description: Converta MOBI para XLT no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta MOBI para XLT no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de MOBI para XLT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

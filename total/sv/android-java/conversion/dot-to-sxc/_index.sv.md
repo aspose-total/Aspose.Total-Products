@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOT till SXC eller med gratis Online Converter
-description: Konvertera DOT till SXC i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOT till SXC i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOT till SXC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

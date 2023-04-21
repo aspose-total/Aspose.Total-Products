@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования DOT в XLAM или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOT в XLAM в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOT в XLAM в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOT в XLAM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

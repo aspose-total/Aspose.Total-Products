@@ -1,6 +1,6 @@
 ---
 title: API de Android para convertir DOCM a EXCEL o con el convertidor en línea gratuito
-description: Convierta DOCM a EXCEL en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta DOCM a EXCEL en Android a través de Java sin usar Microsoft Word o Microsoft Excel o en línea. Pruebe el convertidor en línea gratuito de DOCM a EXCEL rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

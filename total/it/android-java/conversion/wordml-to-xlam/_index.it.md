@@ -1,6 +1,6 @@
 ---
 title: API Android per convertire WORDML in XLAM o con il convertitore online gratuito
-description: Converti WORDML in XLAM in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti WORDML in XLAM in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da WORDML a XLAM prima di integrare il codice.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API a DOC konvertálásához XLAM-vé vagy ingyenes online konverterrel
-description: Konvertálja a DOC-t XLAM-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Konvertálja a DOC-t XLAM-vé Androidon Java segítségével Microsoft Word vagy Microsoft Excel használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-XLAM online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: API Android để chuyển đổi DOT sang XLTX hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOT sang XLTX trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi DOT sang XLTX trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến DOT sang XLTX miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

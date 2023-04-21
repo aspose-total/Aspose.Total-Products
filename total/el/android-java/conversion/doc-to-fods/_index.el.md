@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή DOC σε FODS ή με δωρεάν Online Converter
-description: Μετατροπή DOC σε FODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOC σε FODS στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOC σε FODS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

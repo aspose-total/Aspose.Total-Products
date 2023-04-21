@@ -1,6 +1,6 @@
 ---
 title: API Android để chuyển đổi MOBI sang TSV hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi MOBI sang TSV trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi MOBI sang TSV trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến MOBI sang TSV miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

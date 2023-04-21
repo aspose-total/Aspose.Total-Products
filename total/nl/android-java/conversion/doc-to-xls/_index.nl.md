@@ -1,6 +1,6 @@
 ---
 title: Android API om DOC naar XLS te converteren of met gratis Online Converter
-description: Converteer DOC naar XLS in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer DOC naar XLS in Android via Java zonder Microsoft Word of Microsoft Excel te gebruiken of online. Test de gratis DOC naar XLS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

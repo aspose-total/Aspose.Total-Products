@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod MOBI na XLS nebo pomocí bezplatného online převodníku
-description: Převeďte MOBI na XLS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte MOBI na XLS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  MOBI na XLS.
 
 family: total
 platformtag: cpp

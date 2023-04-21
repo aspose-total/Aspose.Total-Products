@@ -1,6 +1,6 @@
 ---
 title: API Android per convertire WORD in XLT o con il convertitore online gratuito
-description: Converti WORD in XLT in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti WORD in XLT in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da WORD a XLT prima di integrare il codice.
 
 family: total
 platformtag: cpp

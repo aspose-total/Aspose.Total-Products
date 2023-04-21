@@ -1,6 +1,6 @@
 ---
 title: API Android para converter RTF para FODS ou com o conversor online gratuito
-description: Converta RTF para FODS no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converta RTF para FODS no Android via Java sem usar o Microsoft Word ou o Microsoft Excel ou on-line. Teste o conversor online gratuito de RTF para FODS rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

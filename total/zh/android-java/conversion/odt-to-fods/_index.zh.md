@@ -1,6 +1,6 @@
 ---
 title: Android API 将 ODT 转换为 FODS 或使用免费的在线转换器
-description: 在不使用 Microsoft Word 或 Microsoft Excel 的情况下，通过 Java 在 Android 中将 ODT 转换为 FODS 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
+description: 在不使用 Microsoft Word 或 Microsoft Excel 的情况下，通过 Java 在 Android 中将 ODT 转换为 FODS 或在线。在集成代码之前快速测试免费的 ODT 到 FODS 在线转换器。
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API 將 OTT 轉換為 CSV 或使用免費的在線轉換器
-description: 在不使用 Microsoft Word 或 Microsoft Excel 的情況下，通過 Java 在 Android 中將 OTT 轉換為 CSV 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+description: 在不使用 Microsoft Word 或 Microsoft Excel 的情況下，通過 Java 在 Android 中將 OTT 轉換為 CSV 或在線。在集成代碼之前快速測試免費的 OTT 到 CSV 在線轉換器。
 
 family: total
 platformtag: cpp

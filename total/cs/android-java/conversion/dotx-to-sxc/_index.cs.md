@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOTX na SXC nebo pomocí bezplatného online převodníku
-description: Převeďte DOTX na SXC v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOTX na SXC v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTX na SXC.
 
 family: total
 platformtag: cpp

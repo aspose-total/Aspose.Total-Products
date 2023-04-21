@@ -1,6 +1,6 @@
 ---
 title: WORDMLをXLTMに変換するAndroidAPI または無料のオンライン コンバーターを使用
-description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでWORDMLをXLTMに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordまたはMicrosoftExcelを使用せずに、Javaを介してAndroidでWORDMLをXLTMに変換する またはオンライン。コードを統合する前に、無料の WORDML から XLTM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod OTT na DIF nebo pomocí bezplatného online převodníku
-description: Převeďte OTT na DIF v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte OTT na DIF v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na DIF.
 
 family: total
 platformtag: cpp

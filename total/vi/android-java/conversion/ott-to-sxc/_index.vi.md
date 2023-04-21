@@ -1,6 +1,6 @@
 ---
 title: API Android để chuyển đổi OTT sang SXC hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi OTT sang SXC trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi OTT sang SXC trong Android qua Java mà không cần sử dụng Microsoft Word hoặc Microsoft Excel hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến OTT sang SXC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

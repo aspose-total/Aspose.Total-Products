@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod DOTM na XLSB nebo pomocí bezplatného online převodníku
-description: Převeďte DOTM na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte DOTM na XLSB v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na XLSB.
 
 family: total
 platformtag: cpp

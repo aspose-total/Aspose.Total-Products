@@ -1,6 +1,6 @@
 ---
 title: API Android per convertire ODT in TSV o con il convertitore online gratuito
-description: Converti ODT in TSV in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti ODT in TSV in Android tramite Java senza utilizzare Microsoft Word o Microsoft Excel o in linea. Prova rapidamente il convertitore online gratuito da ODT a TSV prima di integrare il codice.
 
 family: total
 platformtag: cpp

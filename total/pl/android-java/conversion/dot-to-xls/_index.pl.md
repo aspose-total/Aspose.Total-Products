@@ -1,6 +1,6 @@
 ---
 title: Android API do konwersji DOT na XLS lub za pomocą bezpłatnego konwertera online
-description: Konwertuj DOT na XLS w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj DOT na XLS w Androidzie przez Javę bez używania Microsoft Word lub Microsoft Excel lub online. Szybko przetestuj darmowy konwerter online DOT na XLS przed integracją kodu.
 
 family: total
 platformtag: cpp

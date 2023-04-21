@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования WORDML в TSV или с помощью бесплатного онлайн-конвертера
-description: Преобразование WORDML в TSV в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование WORDML в TSV в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORDML в TSV, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod RTF na ODS nebo pomocí bezplatného online převodníku
-description: Převeďte RTF na ODS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte RTF na ODS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na ODS.
 
 family: total
 platformtag: cpp

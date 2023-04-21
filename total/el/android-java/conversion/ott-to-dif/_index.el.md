@@ -1,6 +1,6 @@
 ---
 title: Android API για μετατροπή OTT σε DIF ή με δωρεάν Online Converter
-description: Μετατροπή OTT σε DIF στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή OTT σε DIF στο Android μέσω Java χωρίς χρήση του Microsoft Word ή του Microsoft Excel ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα OTT σε DIF πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

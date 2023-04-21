@@ -1,6 +1,6 @@
 ---
 title: Android API для преобразования DOTX в XLTM или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOTX в XLTM в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOTX в XLTM в Android через Java без использования Microsoft Word или Microsoft Excel или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOTX в XLTM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

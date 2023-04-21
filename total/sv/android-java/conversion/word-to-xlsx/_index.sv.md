@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera WORD till XLSX eller med gratis Online Converter
-description: Konvertera WORD till XLSX i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera WORD till XLSX i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis WORD till XLSX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

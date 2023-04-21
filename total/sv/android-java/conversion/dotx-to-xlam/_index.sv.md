@@ -1,6 +1,6 @@
 ---
 title: Android API för att konvertera DOTX till XLAM eller med gratis Online Converter
-description: Konvertera DOTX till XLAM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera DOTX till XLAM i Android via Java utan att använda Microsoft Word eller Microsoft Excel eller online. Testa gratis DOTX till XLAM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

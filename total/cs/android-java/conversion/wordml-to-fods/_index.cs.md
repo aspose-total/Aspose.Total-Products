@@ -1,6 +1,6 @@
 ---
 title: Android API pro převod WORDML na FODS nebo pomocí bezplatného online převodníku
-description: Převeďte WORDML na FODS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte WORDML na FODS v Androidu přes Java bez použití Microsoft Word nebo Microsoft Excel nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na FODS.
 
 family: total
 platformtag: cpp
