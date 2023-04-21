@@ -1,6 +1,6 @@
 ---
 title: Eksportuj XLSB do DOCX w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji XLSB na DOCX bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji XLSB na DOCX bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online XLSB na DOCX przed integracją kodu.
 
 family: total
 platformtag: cpp

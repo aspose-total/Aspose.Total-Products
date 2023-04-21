@@ -1,6 +1,6 @@
 ---
 title: Export XLT do DOC v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod XLT na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod XLT na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník   XLT na DOC.
 
 family: total
 platformtag: cpp

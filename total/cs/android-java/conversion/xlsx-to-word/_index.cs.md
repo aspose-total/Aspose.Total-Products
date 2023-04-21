@@ -1,6 +1,6 @@
 ---
 title: Export XLSX do WORD v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod XLSX na WORD bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod XLSX na WORD bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSX na WORD.
 
 family: total
 platformtag: cpp

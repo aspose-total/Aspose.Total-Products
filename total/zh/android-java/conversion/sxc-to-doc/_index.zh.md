@@ -1,6 +1,6 @@
 ---
 title: 在 Android 中将 SXC 导出为 DOC 或使用免费的在线转换器
-description: 无需使用 Microsoft Word 即可将 SXC 转换为 DOC 的 Android API 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
+description: 无需使用 Microsoft Word 即可将 SXC 转换为 DOC 的 Android API 或在线。在集成代码之前快速测试免费的  SXC 到 DOC 在线转换器。
 
 family: total
 platformtag: cpp
@@ -13,7 +13,7 @@ otherformats: WORD POWERPOINT DOCX PPTX
 {{< blocks/products/pf/feature-page-header h1="通过 Java 在 Android 上将 SXC 渲染为 DOC 或在线应用程序" h2="在您的 Android 应用程序中将 SXC 转换为 DOC，而无需使用 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一个强大的文件自动化 API 包。通过使用它的两个 API，您可以在 Android 应用程序中集成 SXC 到 DOC 的转换功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 将 SXC 导出为 PDF。之后，通过使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以将 PDF 转换为 DOC。 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一个强大的文件自动化 API 包。通过使用它的两个 API，您可以在 Android 应用程序中集成  SXC 到 DOC 的转换功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 将 SXC 导出为 PDF。之后，通过使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以将 PDF 转换为 DOC。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -51,7 +51,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免费的 SXC 到 DOC 在线转换器</h3>
+<h3>免费的  SXC 到 DOC 在线转换器</h3>
 
 <iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=sxc" id="child-iframe" width="80%"></iframe>
 
@@ -91,7 +91,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>如何在线将 SXC 转换为 DOC？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">上面集成了用于 SXC 转换的在线应用程序。要开始 SXC 到 DOC 的转换过程，第一步是导入 SXC 文件。这可以通过两种方式完成：您可以将 SXC 文件拖放到转换工具中，或者您可以在工具的白色区域内单击以浏览您的计算机并选择要转换的 SXC 文件。成功导入 SXC 文件后，您需要单击“转换”按钮开始转换过程。 <br />
+                          <span itemprop="text">上面集成了用于 SXC 转换的在线应用程序。要开始  SXC 到 DOC 的转换过程，第一步是导入 SXC 文件。这可以通过两种方式完成：您可以将 SXC 文件拖放到转换工具中，或者您可以在工具的白色区域内单击以浏览您的计算机并选择要转换的 SXC 文件。成功导入 SXC 文件后，您需要单击“转换”按钮开始转换过程。 <br />
 在转换过程中，SXC 文件将转换为 DOC 文件。转换工具会发挥它的魔力，当过程完成后，您将能够下载新转换的 DOC 文件。这意味着您只需单击一下即可轻松获得输出 DOC 文件，而无需任何复杂的软件或技术知识。</span>
                       </div>
                   </li>
@@ -100,7 +100,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>转换 SXC 需要多长时间？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在线 SXC 到 DOC 转换器的主要特点之一是其转换速度快。但是，转换过程的速度主要取决于您要转换的 SXC 文件的大小。如果您正在处理小尺寸的 SXC 文件，您可以期望在几秒钟内完成转换过程。<br />
+                          <span itemprop="text">此在线  SXC 到 DOC 转换器的主要特点之一是其转换速度快。但是，转换过程的速度主要取决于您要转换的 SXC 文件的大小。如果您正在处理小尺寸的 SXC 文件，您可以期望在几秒钟内完成转换过程。<br />
 
 此外，如果您已将转换代码集成到 Android App 应用程序中，则转换过程的速度将取决于您优化应用程序的方式。如果您的应用程序经过良好优化，并且设计用于高效处理转换过程，那么转换速度会更快。另一方面，如果您的应用程序没有为此目的进行优化，则转换过程可能需要更长的时间才能完成。</span>
                       </div>
@@ -110,7 +110,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 SXC 转换为 DOC 是否安全？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">当然！ DOC 文件的下载链接将在转换后立即可用。在我们的 SXC 到 DOC 转换器中，我们非常重视您的隐私和安全。我们了解您的文件包含敏感信息和个人信息，因此我们采取了多项措施来确保您的文件安全无虞。<br />
+                          <span itemprop="text">当然！ DOC 文件的下载链接将在转换后立即可用。在我们的  SXC 到 DOC 转换器中，我们非常重视您的隐私和安全。我们了解您的文件包含敏感信息和个人信息，因此我们采取了多项措施来确保您的文件安全无虞。<br />
 
 首先，我们会在 24 小时后自动删除所有上传的文件。这意味着一旦转换过程完成并且您下载了转换后的文件，我们将从我们的服务器中删除原始 SXC 文件和生成的 DOC 文件。此外，您的文件的下载链接将在 24 小时后停止工作，确保您的文件在此时间段后无法被任何人访问。<br />
 
@@ -122,7 +122,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>我应该使用什么浏览器来转换 SXC？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">这个在线 SXC 到 DOC 转换器可以通过任何现代浏览器访问，例如 Google Chrome、Firefox、Opera 或 Safari。这意味着您可以在任何具有互联网连接的设备上轻松使用此工具，而无需任何专业软件或技术知识。<br />
+                          <span itemprop="text">这个在线  SXC 到 DOC 转换器可以通过任何现代浏览器访问，例如 Google Chrome、Firefox、Opera 或 Safari。这意味着您可以在任何具有互联网连接的设备上轻松使用此工具，而无需任何专业软件或技术知识。<br />
 
 但是，如果您正在开发桌面应用程序并且需要将 SXC 文件转换为 DOC 文件，我们建议使用 Aspose.Total SXC Conversion API。此 API 提供了一种在桌面应用程序中将 SXC 文件转换为 DOC 文件的流畅且高效的方法。 Aspose.Total SXC Conversion API 旨在易于使用和集成到您的应用程序中，它提供快速可靠的转换过程。</span>
                       </div>

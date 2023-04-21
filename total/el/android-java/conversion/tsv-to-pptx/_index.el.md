@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή TSV σε PPTX στο Android ή με δωρεάν Online Converter
-description: Android API για μετατροπή TSV σε PPTX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Android API για μετατροπή TSV σε PPTX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα TSV σε PPTX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

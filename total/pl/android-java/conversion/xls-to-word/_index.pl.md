@@ -1,6 +1,6 @@
 ---
 title: Eksportuj XLS do WORD w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji XLS na WORD bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji XLS na WORD bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online XLS na WORD przed integracją kodu.
 
 family: total
 platformtag: cpp

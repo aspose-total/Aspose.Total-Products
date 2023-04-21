@@ -1,6 +1,6 @@
 ---
 title: Ekspor XLS ke POWERPOINT di Android atau dengan Konverter Online gratis
-description: Android API untuk Mengonversi XLS ke POWERPOINT tanpa menggunakan Microsoft Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Android API untuk Mengonversi XLS ke POWERPOINT tanpa menggunakan Microsoft Word atau daring. Uji konverter online XLS ke POWERPOINT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

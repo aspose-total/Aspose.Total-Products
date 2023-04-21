@@ -1,6 +1,6 @@
 ---
 title: CSV exporteren naar POWERPOINT in Android of met gratis Online Converter
-description: Android API om CSV naar POWERPOINT te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Android API om CSV naar POWERPOINT te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar POWERPOINT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

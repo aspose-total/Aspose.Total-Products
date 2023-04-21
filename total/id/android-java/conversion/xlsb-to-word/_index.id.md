@@ -1,6 +1,6 @@
 ---
 title: Ekspor XLSB ke WORD di Android atau dengan Konverter Online gratis
-description: Android API untuk Mengonversi XLSB ke WORD tanpa menggunakan Microsoft Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Android API untuk Mengonversi XLSB ke WORD tanpa menggunakan Microsoft Word atau daring. Uji konverter online XLSB ke WORD gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportera XLTM till DOCX i Android eller med gratis Online Converter
-description: Android API för att konvertera XLTM till DOCX utan att använda Microsoft Word eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Android API för att konvertera XLTM till DOCX utan att använda Microsoft Word eller online. Testa gratis XLTM till DOCX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

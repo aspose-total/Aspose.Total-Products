@@ -1,6 +1,6 @@
 ---
 title: Esporta XLSB in DOCX in Android o con il convertitore online gratuito
-description: API Android per convertire XLSB in DOCX senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: API Android per convertire XLSB in DOCX senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da XLSB a DOCX prima di integrare il codice.
 
 family: total
 platformtag: cpp

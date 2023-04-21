@@ -1,6 +1,6 @@
 ---
 title: Xuất TSV sang DOCX trong Android hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: API Android để chuyển đổi TSV sang DOCX mà không cần sử dụng Microsoft Word hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: API Android để chuyển đổi TSV sang DOCX mà không cần sử dụng Microsoft Word hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến TSV sang DOCX miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή XLS σε DOCX στο Android ή με δωρεάν Online Converter
-description: Android API για μετατροπή XLS σε DOCX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Android API για μετατροπή XLS σε DOCX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLS σε DOCX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

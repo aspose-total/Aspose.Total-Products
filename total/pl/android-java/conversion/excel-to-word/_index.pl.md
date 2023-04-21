@@ -1,6 +1,6 @@
 ---
 title: Eksportuj EXCEL do WORD w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji EXCEL na WORD bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online EXCEL na DOC przed integracją kodu.
+description: Android API do konwersji EXCEL na WORD bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online EXCEL na WORD przed integracją kodu.
 
 family: total
 platformtag: cpp

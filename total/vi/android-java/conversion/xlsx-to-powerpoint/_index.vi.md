@@ -1,6 +1,6 @@
 ---
 title: Xuất XLSX sang POWERPOINT trong Android hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: API Android để chuyển đổi XLSX sang POWERPOINT mà không cần sử dụng Microsoft Word hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: API Android để chuyển đổi XLSX sang POWERPOINT mà không cần sử dụng Microsoft Word hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến XLSX sang POWERPOINT miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

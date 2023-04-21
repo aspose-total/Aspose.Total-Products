@@ -1,6 +1,6 @@
 ---
 title: Exporter SXC vers WORD dans Android ou avec le convertisseur en ligne gratuit
-description: API Android pour convertir SXC en WORD sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: API Android pour convertir SXC en WORD sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne SXC vers WORD gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

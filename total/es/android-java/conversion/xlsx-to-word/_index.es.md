@@ -1,6 +1,6 @@
 ---
 title: Exportar XLSX a WORD en Android o con el convertidor en línea gratuito
-description: API de Android para convertir XLSX a WORD sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: API de Android para convertir XLSX a WORD sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de XLSX a WORD rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

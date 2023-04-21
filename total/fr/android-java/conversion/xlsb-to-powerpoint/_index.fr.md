@@ -1,6 +1,6 @@
 ---
 title: Exporter XLSB vers POWERPOINT dans Android ou avec le convertisseur en ligne gratuit
-description: API Android pour convertir XLSB en POWERPOINT sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: API Android pour convertir XLSB en POWERPOINT sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne XLSB vers POWERPOINT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

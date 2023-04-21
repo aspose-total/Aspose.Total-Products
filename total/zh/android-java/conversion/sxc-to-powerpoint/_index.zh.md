@@ -1,6 +1,6 @@
 ---
 title: 在 Android 中将 SXC 导出为 POWERPOINT 或使用免费的在线转换器
-description: 无需使用 Microsoft Word 即可将 SXC 转换为 POWERPOINT 的 Android API 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。
+description: 无需使用 Microsoft Word 即可将 SXC 转换为 POWERPOINT 的 Android API 或在线。在集成代码之前快速测试免费的 SXC 到 POWERPOINT 在线转换器。
 
 family: total
 platformtag: cpp

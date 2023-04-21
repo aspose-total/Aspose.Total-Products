@@ -1,6 +1,6 @@
 ---
 title: 在 Android 中將 CSV 導出為 DOC 或使用免費的在線轉換器
-description: 無需使用 Microsoft Word 即可將 CSV 轉換為 DOC 的 Android API 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+description: 無需使用 Microsoft Word 即可將 CSV 轉換為 DOC 的 Android API 或在線。在集成代碼之前快速測試免費的  CSV 到 DOC 在線轉換器。
 
 family: total
 platformtag: cpp
@@ -13,7 +13,7 @@ otherformats: POWERPOINT PPTX DOCX WORD
 {{< blocks/products/pf/feature-page-header h1="通過 Java 在 Android 上將 CSV 渲染為 DOC 或在線應用程序" h2="在您的 Android 應用程序中將 CSV 轉換為 DOC，而無需使用 Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一個強大的文件自動化 API 包。通過使用它的兩個 API，您可以在 Android 應用程序中集成 CSV 到 DOC 的轉換功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 將 CSV 導出為 PDF。之後，通過使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以將 PDF 轉換為 DOC。 
+[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) 是一個強大的文件自動化 API 包。通過使用它的兩個 API，您可以在 Android 應用程序中集成  CSV 到 DOC 的轉換功能。在第一步中，您可以使用 [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) 將 CSV 導出為 PDF。之後，通過使用 [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)，您可以將 PDF 轉換為 DOC。 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -51,7 +51,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 <div class=row>
 <div class="demobox tc col-md-12 padding-0" align="center">
 
-<h3>免費的 CSV 到 DOC 在線轉換器</h3>
+<h3>免費的  CSV 到 DOC 在線轉換器</h3>
 
 <iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=csv" id="child-iframe" width="80%"></iframe>
 
@@ -91,7 +91,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>如何在線將 CSV 轉換為 DOC？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">上面集成了用於 CSV 轉換的在線應用程序。要開始 CSV 到 DOC 的轉換過程，第一步是導入 CSV 文件。這可以通過兩種方式完成：您可以將 CSV 文件拖放到轉換工具中，或者您可以在工具的白色區域內單擊以瀏覽您的計算機並選擇要轉換的 CSV 文件。成功導入 CSV 文件後，您需要單擊“轉換”按鈕開始轉換過程。 <br />
+                          <span itemprop="text">上面集成了用於 CSV 轉換的在線應用程序。要開始  CSV 到 DOC 的轉換過程，第一步是導入 CSV 文件。這可以通過兩種方式完成：您可以將 CSV 文件拖放到轉換工具中，或者您可以在工具的白色區域內單擊以瀏覽您的計算機並選擇要轉換的 CSV 文件。成功導入 CSV 文件後，您需要單擊“轉換”按鈕開始轉換過程。 <br />
 在轉換過程中，CSV 文件將轉換為 DOC 文件。轉換工具會發揮它的魔力，當過程完成後，您將能夠下載新轉換的 DOC 文件。這意味著您只需單擊一下即可輕鬆獲得輸出 DOC 文件，而無需任何復雜的軟件或技術知識。</span>
                       </div>
                   </li>
@@ -100,7 +100,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>轉換 CSV 需要多長時間？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">此在線 CSV 到 DOC 轉換器的主要特點之一是其轉換速度快。但是，轉換過程的速度主要取決於您要轉換的 CSV 文件的大小。如果您正在處理小尺寸的 CSV 文件，您可以期望在幾秒鐘內完成轉換過程。<br />
+                          <span itemprop="text">此在線  CSV 到 DOC 轉換器的主要特點之一是其轉換速度快。但是，轉換過程的速度主要取決於您要轉換的 CSV 文件的大小。如果您正在處理小尺寸的 CSV 文件，您可以期望在幾秒鐘內完成轉換過程。<br />
 
 此外，如果您已將轉換代碼集成到 Android App 應用程序中，則轉換過程的速度將取決於您優化應用程序的方式。如果您的應用程序經過良好優化，並且設計用於高效處理轉換過程，那麼轉換速度會更快。另一方面，如果您的應用程序沒有為此目的進行優化，則轉換過程可能需要更長的時間才能完成。</span>
                       </div>
@@ -110,7 +110,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>使用免費的 Aspose.Total 轉換器將 CSV 轉換為 DOC 是否安全？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">當然！ DOC 文件的下載鏈接將在轉換後立即可用。在我們的 CSV 到 DOC 轉換器中，我們非常重視您的隱私和安全。我們了解您的文件包含敏感信息和個人信息，這就是為什麼我們採取了多項措施來確保您的文件安全可靠。<br />
+                          <span itemprop="text">當然！ DOC 文件的下載鏈接將在轉換後立即可用。在我們的  CSV 到 DOC 轉換器中，我們非常重視您的隱私和安全。我們了解您的文件包含敏感信息和個人信息，這就是為什麼我們採取了多項措施來確保您的文件安全可靠。<br />
 
 首先，我們會在 24 小時後自動刪除所有上傳的文件。這意味著一旦轉換過程完成並且您下載了轉換後的文件，我們將從我們的服務器中刪除原始 CSV 文件和生成的 DOC 文件。此外，您文件的下載鏈接將在 24 小時後停止工作，確保您的文件在此時間段後無法被任何人訪問。<br />
 
@@ -122,7 +122,7 @@ customProperties.remove("Publisher");
                           <span itemprop="name"><b>我應該使用什麼瀏覽器來轉換 CSV？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">這個在線 CSV 到 DOC 轉換器可以通過任何現代瀏覽器訪問，例如 Google Chrome、Firefox、Opera 或 Safari。這意味著您可以在任何具有互聯網連接的設備上輕鬆使用此工具，而無需任何專業軟件或技術知識。<br />
+                          <span itemprop="text">這個在線  CSV 到 DOC 轉換器可以通過任何現代瀏覽器訪問，例如 Google Chrome、Firefox、Opera 或 Safari。這意味著您可以在任何具有互聯網連接的設備上輕鬆使用此工具，而無需任何專業軟件或技術知識。<br />
 
 但是，如果您正在開發桌面應用程序並且需要將 CSV 文件轉換為 DOC 文件，我們建議使用 Aspose.Total CSV Conversion API。此 API 提供了一種在桌面應用程序中將 CSV 文件轉換為 DOC 文件的流暢且高效的方法。 Aspose.Total CSV Conversion API 旨在易於使用和集成到您的應用程序中，它提供快速可靠的轉換過程。</span>
                       </div>

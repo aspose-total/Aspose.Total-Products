@@ -1,6 +1,6 @@
 ---
 title: Exportieren Sie XLTM in WORD in Android oder mit dem kostenlosen Online Converter
-description: Android-API zum Konvertieren von XLTM in WORD ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Android-API zum Konvertieren von XLTM in WORD ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen XLTM-zu-WORD-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportar XLSM para POWERPOINT no Android ou com o conversor online gratuito
-description: API do Android para converter XLSM para POWERPOINT sem usar o Microsoft Word ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: API do Android para converter XLSM para POWERPOINT sem usar o Microsoft Word ou on-line. Teste o conversor online gratuito de XLSM para POWERPOINT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

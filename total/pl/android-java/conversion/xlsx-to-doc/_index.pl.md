@@ -1,6 +1,6 @@
 ---
 title: Eksportuj XLSX do DOC w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji XLSX na DOC bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji XLSX na DOC bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online XLSX na DOC przed integracją kodu.
 
 family: total
 platformtag: cpp

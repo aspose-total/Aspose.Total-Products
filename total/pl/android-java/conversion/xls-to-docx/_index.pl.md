@@ -1,6 +1,6 @@
 ---
 title: Eksportuj XLS do DOCX w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji XLS na DOCX bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji XLS na DOCX bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online XLS na DOCX przed integracją kodu.
 
 family: total
 platformtag: cpp

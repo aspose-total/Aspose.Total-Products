@@ -1,6 +1,6 @@
 ---
 title: Android'de XLTM'yi POWERPOINT'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word kullanmadan XLTM'yi POWERPOINT'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word kullanmadan XLTM'yi POWERPOINT'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz XLTM'den POWERPOINT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

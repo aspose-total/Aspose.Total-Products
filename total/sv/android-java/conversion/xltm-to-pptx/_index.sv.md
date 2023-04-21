@@ -1,6 +1,6 @@
 ---
 title: Exportera XLTM till PPTX i Android eller med gratis Online Converter
-description: Android API för att konvertera XLTM till PPTX utan att använda Microsoft Word eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Android API för att konvertera XLTM till PPTX utan att använda Microsoft Word eller online. Testa gratis XLTM till PPTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

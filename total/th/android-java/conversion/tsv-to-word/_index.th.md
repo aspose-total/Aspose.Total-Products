@@ -1,6 +1,6 @@
 ---
 title: ส่งออก TSV เป็น WORD ใน Android หรือด้วยตัวแปลงออนไลน์ฟรี
-description: Android API เพื่อแปลง TSV เป็น WORD โดยไม่ต้องใช้ Microsoft Word หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: Android API เพื่อแปลง TSV เป็น WORD โดยไม่ต้องใช้ Microsoft Word หรือทางออนไลน์ ทดสอบตัวแปลง TSV เป็น WORD ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

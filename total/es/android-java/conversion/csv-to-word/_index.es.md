@@ -1,6 +1,6 @@
 ---
 title: Exportar CSV a WORD en Android o con el convertidor en línea gratuito
-description: API de Android para convertir CSV a WORD sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: API de Android para convertir CSV a WORD sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de CSV a WORD rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

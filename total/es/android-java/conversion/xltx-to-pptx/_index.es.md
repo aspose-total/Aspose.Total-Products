@@ -1,6 +1,6 @@
 ---
 title: Exportar XLTX a PPTX en Android o con el convertidor en línea gratuito
-description: API de Android para convertir XLTX a PPTX sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: API de Android para convertir XLTX a PPTX sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de XLTX a PPTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

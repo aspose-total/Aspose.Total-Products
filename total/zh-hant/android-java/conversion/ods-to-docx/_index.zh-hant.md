@@ -1,6 +1,6 @@
 ---
 title: 在 Android 中將 ODS 導出為 DOCX 或使用免費的在線轉換器
-description: 無需使用 Microsoft Word 即可將 ODS 轉換為 DOCX 的 Android API 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+description: 無需使用 Microsoft Word 即可將 ODS 轉換為 DOCX 的 Android API 或在線。在集成代碼之前快速測試免費的 ODS 到 DOCX 在線轉換器。
 
 family: total
 platformtag: cpp

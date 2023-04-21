@@ -1,6 +1,6 @@
 ---
 title: Exporter EXCEL vers DOCX dans Android ou avec le convertisseur en ligne gratuit
-description: API Android pour convertir EXCEL en DOCX sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne EXCEL vers DOC gratuit avant d'intégrer le code.
+description: API Android pour convertir EXCEL en DOCX sans utiliser Microsoft Word ou en ligne. Testez rapidement le convertisseur en ligne EXCEL vers DOCX gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

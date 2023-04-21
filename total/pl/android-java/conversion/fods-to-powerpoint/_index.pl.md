@@ -1,6 +1,6 @@
 ---
 title: Eksportuj FODS do POWERPOINT w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji FODS na POWERPOINT bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji FODS na POWERPOINT bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online FODS na POWERPOINT przed integracją kodu.
 
 family: total
 platformtag: cpp

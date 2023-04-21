@@ -1,6 +1,6 @@
 ---
 title: Export EXCEL do PPTX v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod EXCEL na PPTX bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník EXCEL na DOC.
+description: Android API pro převod EXCEL na PPTX bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  EXCEL na PPTX.
 
 family: total
 platformtag: cpp

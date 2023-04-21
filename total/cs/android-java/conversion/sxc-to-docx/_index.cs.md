@@ -1,6 +1,6 @@
 ---
 title: Export SXC do DOCX v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod SXC na DOCX bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod SXC na DOCX bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  SXC na DOCX.
 
 family: total
 platformtag: cpp

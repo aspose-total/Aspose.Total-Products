@@ -1,6 +1,6 @@
 ---
 title: تصدير XLT إلى POWERPOINT في Android أو مع محول مجاني على الإنترنت
-description: Android API لتحويل XLT إلى POWERPOINT دون استخدام Microsoft Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: Android API لتحويل XLT إلى POWERPOINT دون استخدام Microsoft Word أو عبر الإنترنت. اختبر محول XLT إلى POWERPOINT على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

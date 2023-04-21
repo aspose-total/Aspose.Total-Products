@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή XLS σε WORD στο Android ή με δωρεάν Online Converter
-description: Android API για μετατροπή XLS σε WORD χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Android API για μετατροπή XLS σε WORD χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLS σε WORD πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

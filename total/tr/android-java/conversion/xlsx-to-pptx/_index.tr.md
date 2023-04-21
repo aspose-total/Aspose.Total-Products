@@ -1,6 +1,6 @@
 ---
 title: Android'de XLSX'yi PPTX'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word kullanmadan XLSX'yi PPTX'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word kullanmadan XLSX'yi PPTX'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz XLSX'den PPTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Android'de FODS'yi DOC'a aktarın veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word kullanmadan FODS'yi DOC'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word kullanmadan FODS'yi DOC'ye dönüştürmek için Android API veya çevrimiçi. Kodu entegre etmeden önce ücretsiz FODS'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

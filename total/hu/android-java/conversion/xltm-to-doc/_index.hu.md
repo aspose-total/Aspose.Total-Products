@@ -1,6 +1,6 @@
 ---
 title: XLTM exportálása DOC formátumba Androidon vagy ingyenes online konverterrel
-description: Android API a XLTM konvertálásához DOC formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Android API a XLTM konvertálásához DOC formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTM-DOC online konvertert.
 
 family: total
 platformtag: cpp

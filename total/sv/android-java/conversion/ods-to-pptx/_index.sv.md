@@ -1,6 +1,6 @@
 ---
 title: Exportera ODS till PPTX i Android eller med gratis Online Converter
-description: Android API för att konvertera ODS till PPTX utan att använda Microsoft Word eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Android API för att konvertera ODS till PPTX utan att använda Microsoft Word eller online. Testa gratis ODS till PPTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή XLSB σε PPTX στο Android ή με δωρεάν Online Converter
-description: Android API για μετατροπή XLSB σε PPTX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Android API για μετατροπή XLSB σε PPTX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLSB σε PPTX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

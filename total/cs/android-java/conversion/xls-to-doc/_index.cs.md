@@ -1,6 +1,6 @@
 ---
 title: Export XLS do DOC v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod XLS na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod XLS na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník   XLS na DOC.
 
 family: total
 platformtag: cpp

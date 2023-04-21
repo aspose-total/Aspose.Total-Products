@@ -1,6 +1,6 @@
 ---
 title: Exportar TSV para DOCX no Android ou com o conversor online gratuito
-description: API do Android para converter TSV para DOCX sem usar o Microsoft Word ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: API do Android para converter TSV para DOCX sem usar o Microsoft Word ou on-line. Teste o conversor online gratuito de TSV para DOCX rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

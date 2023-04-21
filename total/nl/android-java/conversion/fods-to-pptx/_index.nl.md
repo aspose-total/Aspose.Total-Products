@@ -1,6 +1,6 @@
 ---
 title: FODS exporteren naar PPTX in Android of met gratis Online Converter
-description: Android API om FODS naar PPTX te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Android API om FODS naar PPTX te converteren zonder Microsoft Word te gebruiken of online. Test de gratis FODS naar PPTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

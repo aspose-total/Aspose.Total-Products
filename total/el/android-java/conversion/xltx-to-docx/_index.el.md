@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή XLTX σε DOCX στο Android ή με δωρεάν Online Converter
-description: Android API για μετατροπή XLTX σε DOCX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Android API για μετατροπή XLTX σε DOCX χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLTX σε DOCX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

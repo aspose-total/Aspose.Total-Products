@@ -1,6 +1,6 @@
 ---
 title: AndroidのDOCXにEXCELをエクスポートする または無料のオンライン コンバーターを使用
-description: MicrosoftWordを使用せずにEXCELをDOCXに変換するAndroidAPI またはオンライン。コードを統合する前に、無料の EXCEL から DOC へのオンライン コンバーターをすばやくテストします。
+description: MicrosoftWordを使用せずにEXCELをDOCXに変換するAndroidAPI またはオンライン。コードを統合する前に、無料の EXCEL から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

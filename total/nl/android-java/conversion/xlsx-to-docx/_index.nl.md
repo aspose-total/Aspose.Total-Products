@@ -1,6 +1,6 @@
 ---
 title: XLSX exporteren naar DOCX in Android of met gratis Online Converter
-description: Android API om XLSX naar DOCX te converteren zonder Microsoft Word te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Android API om XLSX naar DOCX te converteren zonder Microsoft Word te gebruiken of online. Test de gratis XLSX naar DOCX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

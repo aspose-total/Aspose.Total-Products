@@ -1,6 +1,6 @@
 ---
 title: TSV exportálása PPTX formátumba Androidon vagy ingyenes online konverterrel
-description: Android API a TSV konvertálásához PPTX formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: Android API a TSV konvertálásához PPTX formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TSV-PPTX online konvertert.
 
 family: total
 platformtag: cpp

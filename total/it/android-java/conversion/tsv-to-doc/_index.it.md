@@ -1,6 +1,6 @@
 ---
 title: Esporta TSV in DOC in Android o con il convertitore online gratuito
-description: API Android per convertire TSV in DOC senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: API Android per convertire TSV in DOC senza utilizzare Microsoft Word o in linea. Prova rapidamente il convertitore online gratuito da TSV a DOC prima di integrare il codice.
 
 family: total
 platformtag: cpp

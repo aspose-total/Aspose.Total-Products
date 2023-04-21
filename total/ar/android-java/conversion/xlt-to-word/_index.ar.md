@@ -1,6 +1,6 @@
 ---
 title: تصدير XLT إلى WORD في Android أو مع محول مجاني على الإنترنت
-description: Android API لتحويل XLT إلى WORD دون استخدام Microsoft Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: Android API لتحويل XLT إلى WORD دون استخدام Microsoft Word أو عبر الإنترنت. اختبر محول XLT إلى WORD على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

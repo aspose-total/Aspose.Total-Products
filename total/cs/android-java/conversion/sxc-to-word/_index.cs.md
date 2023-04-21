@@ -1,6 +1,6 @@
 ---
 title: Export SXC do WORD v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod SXC na WORD bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod SXC na WORD bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  SXC na WORD.
 
 family: total
 platformtag: cpp

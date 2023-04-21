@@ -1,6 +1,6 @@
 ---
 title: Exportieren Sie XLTX in WORD in Android oder mit dem kostenlosen Online Converter
-description: Android-API zum Konvertieren von XLTX in WORD ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Android-API zum Konvertieren von XLTX in WORD ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen XLTX-zu-WORD-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

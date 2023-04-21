@@ -1,6 +1,6 @@
 ---
 title: Eksportuj XLSM do DOCX w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji XLSM na DOCX bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji XLSM na DOCX bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online XLSM na DOCX przed integracją kodu.
 
 family: total
 platformtag: cpp

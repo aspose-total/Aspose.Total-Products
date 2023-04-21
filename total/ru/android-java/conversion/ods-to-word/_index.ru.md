@@ -1,6 +1,6 @@
 ---
 title: Экспорт ODS в WORD на Android или с помощью бесплатного онлайн-конвертера
-description: Android API для преобразования ODS в WORD без использования Microsoft Word или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Android API для преобразования ODS в WORD без использования Microsoft Word или онлайн. Быстро протестируйте бесплатный онлайн-конвертер ODS в WORD, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

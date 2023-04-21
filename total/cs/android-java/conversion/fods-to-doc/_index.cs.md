@@ -1,6 +1,6 @@
 ---
 title: Export FODS do DOC v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod FODS na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod FODS na DOC bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník   FODS na DOC.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Εξαγωγή XLTM σε DOC στο Android ή με δωρεάν Online Converter
-description: Android API για μετατροπή XLTM σε DOC χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Android API για μετατροπή XLTM σε DOC χωρίς χρήση του Microsoft Word ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLTM σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

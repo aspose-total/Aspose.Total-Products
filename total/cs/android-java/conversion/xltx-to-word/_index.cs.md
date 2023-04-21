@@ -1,6 +1,6 @@
 ---
 title: Export XLTX do WORD v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod XLTX na WORD bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod XLTX na WORD bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLTX na WORD.
 
 family: total
 platformtag: cpp

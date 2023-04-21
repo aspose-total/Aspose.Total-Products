@@ -1,6 +1,6 @@
 ---
 title: Ekspor ODS ke DOC di Android atau dengan Konverter Online gratis
-description: Android API untuk Mengonversi ODS ke DOC tanpa menggunakan Microsoft Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Android API untuk Mengonversi ODS ke DOC tanpa menggunakan Microsoft Word atau daring. Uji konverter online ODS ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

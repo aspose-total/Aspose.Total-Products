@@ -1,6 +1,6 @@
 ---
 title: Eksportuj ODS do POWERPOINT w Androidzie lub za pomocą bezpłatnego konwertera online
-description: Android API do konwersji ODS na POWERPOINT bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Android API do konwersji ODS na POWERPOINT bez użycia Microsoft Word lub online. Szybko przetestuj darmowy konwerter online ODS na POWERPOINT przed integracją kodu.
 
 family: total
 platformtag: cpp

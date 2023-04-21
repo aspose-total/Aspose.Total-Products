@@ -1,6 +1,6 @@
 ---
 title: Export XLTM do POWERPOINT v Androidu nebo pomocí bezplatného online převodníku
-description: Android API pro převod XLTM na POWERPOINT bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Android API pro převod XLTM na POWERPOINT bez použití aplikace Microsoft Word nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLTM na POWERPOINT.
 
 family: total
 platformtag: cpp

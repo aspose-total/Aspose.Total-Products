@@ -1,6 +1,6 @@
 ---
 title: EXCEL exportálása DOCX formátumba Androidon vagy ingyenes online konverterrel
-description: Android API a EXCEL konvertálásához DOCX formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOC online konvertert.
+description: Android API a EXCEL konvertálásához DOCX formátumba Microsoft Word használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOCX online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Exportieren Sie XLT in POWERPOINT in Android oder mit dem kostenlosen Online Converter
-description: Android-API zum Konvertieren von XLT in POWERPOINT ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Android-API zum Konvertieren von XLT in POWERPOINT ohne Verwendung von Microsoft Word oder online. Testen Sie schnell den kostenlosen XLT-zu-POWERPOINT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

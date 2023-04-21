@@ -1,6 +1,6 @@
 ---
 title: Ekspor XLTX ke DOC di Android atau dengan Konverter Online gratis
-description: Android API untuk Mengonversi XLTX ke DOC tanpa menggunakan Microsoft Word atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Android API untuk Mengonversi XLTX ke DOC tanpa menggunakan Microsoft Word atau daring. Uji konverter online XLTX ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

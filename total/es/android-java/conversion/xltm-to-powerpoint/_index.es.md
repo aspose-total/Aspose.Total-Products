@@ -1,6 +1,6 @@
 ---
 title: Exportar XLTM a POWERPOINT en Android o con el convertidor en línea gratuito
-description: API de Android para convertir XLTM a POWERPOINT sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: API de Android para convertir XLTM a POWERPOINT sin usar Microsoft Word o en línea. Pruebe el convertidor en línea gratuito de XLTM a POWERPOINT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp
