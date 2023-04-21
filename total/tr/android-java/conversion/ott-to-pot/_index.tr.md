@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de OTT'yi POT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda OTT'den POT'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda OTT'den POT'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz OTT'den POT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

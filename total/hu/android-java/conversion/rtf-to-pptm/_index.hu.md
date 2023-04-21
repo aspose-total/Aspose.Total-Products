@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t PPTM-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: RTF konvertálás PPTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: RTF konvertálás PPTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-PPTM online konvertert.
 
 family: total
 platformtag: cpp

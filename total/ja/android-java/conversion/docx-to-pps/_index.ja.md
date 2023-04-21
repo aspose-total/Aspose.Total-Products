@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでDOCXをPPSに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCXからPPSに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOCXからPPSに変換 またはオンライン。コードを統合する前に、無料の DOCX から PPS へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

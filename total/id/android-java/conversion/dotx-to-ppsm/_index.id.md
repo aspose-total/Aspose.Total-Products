@@ -1,6 +1,6 @@
 ---
 title: Konversi DOTX ke PPSM di Android melalui Java atau dengan Konverter Online gratis
-description: Konversi DOTX ke PPSM di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOTX ke PPSM di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online DOTX ke PPSM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie WORD in PPTX in Android über Java oder mit dem kostenlosen Online Converter
-description: WORD-zu-PPTX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: WORD-zu-PPTX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen WORD-zu-PPTX-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

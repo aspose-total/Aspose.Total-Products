@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODT-t POWERPOINT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: ODT konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: ODT konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

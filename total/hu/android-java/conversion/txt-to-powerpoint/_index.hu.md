@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a TXT-t POWERPOINT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: TXT konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: TXT konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

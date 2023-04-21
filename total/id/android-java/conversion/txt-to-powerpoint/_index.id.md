@@ -1,6 +1,6 @@
 ---
 title: Konversi TXT ke POWERPOINT di Android melalui Java atau dengan Konverter Online gratis
-description: Konversi TXT ke POWERPOINT di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi TXT ke POWERPOINT di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online TXT ke POWERPOINT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Convertir OTT en PPTX dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion OTT en PPTX dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion OTT en PPTX dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne OTT vers PPTX gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTX إلى POTM في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOTX لتحويل POTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOTX لتحويل POTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOTX إلى POTM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

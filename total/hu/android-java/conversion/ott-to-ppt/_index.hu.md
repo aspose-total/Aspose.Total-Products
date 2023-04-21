@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t PPT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: OTT konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: OTT konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-PPT online konvertert.
 
 family: total
 platformtag: cpp

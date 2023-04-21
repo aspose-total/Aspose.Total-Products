@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでOTTをPPSに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでOTTからPPSに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでOTTからPPSに変換 またはオンライン。コードを統合する前に、無料の OTT から PPS へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

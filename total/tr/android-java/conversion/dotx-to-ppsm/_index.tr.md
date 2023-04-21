@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de DOTX'yi PPSM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOTX'den PPSM'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOTX'den PPSM'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOTX'den PPSM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

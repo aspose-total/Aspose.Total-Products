@@ -1,6 +1,6 @@
 ---
 title: Converti TXT in ODP in Android tramite Java o con il convertitore online gratuito
-description: Conversione da TXT a ODP nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Conversione da TXT a ODP nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da TXT a ODP prima di integrare il codice.
 
 family: total
 platformtag: cpp

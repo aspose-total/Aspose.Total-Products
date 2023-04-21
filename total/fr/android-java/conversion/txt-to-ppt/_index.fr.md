@@ -1,6 +1,6 @@
 ---
 title: Convertir TXT en PPT dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion TXT en PPT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion TXT en PPT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne TXT vers PPT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

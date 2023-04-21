@@ -1,6 +1,6 @@
 ---
 title: Převést OTT na POT v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod OTT na POT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod OTT na POT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  OTT na POT.
 
 family: total
 platformtag: cpp

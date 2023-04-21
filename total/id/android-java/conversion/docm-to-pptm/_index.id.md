@@ -1,6 +1,6 @@
 ---
 title: Konversi DOCM ke PPTM di Android melalui Java atau dengan Konverter Online gratis
-description: Konversi DOCM ke PPTM di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOCM ke PPTM di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online DOCM ke PPTM gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

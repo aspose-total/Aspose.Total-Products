@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCM till POTX i Android via Java eller med gratis Online Converter
-description: DOCM till POTX-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: DOCM till POTX-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis DOCM till POTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

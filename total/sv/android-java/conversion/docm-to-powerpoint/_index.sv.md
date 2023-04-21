@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCM till POWERPOINT i Android via Java eller med gratis Online Converter
-description: DOCM till POWERPOINT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: DOCM till POWERPOINT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis DOCM till POWERPOINT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t ODP-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOC konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOC konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-ODP online konvertert.
 
 family: total
 platformtag: cpp

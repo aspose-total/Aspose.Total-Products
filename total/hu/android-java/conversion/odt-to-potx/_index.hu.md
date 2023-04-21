@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a ODT-t POTX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: ODT konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: ODT konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODT-POTX online konvertert.
 
 family: total
 platformtag: cpp

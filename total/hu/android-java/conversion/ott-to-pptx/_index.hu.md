@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a OTT-t PPTX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: OTT konvertálás PPTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: OTT konvertálás PPTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes OTT-PPTX online konvertert.
 
 family: total
 platformtag: cpp

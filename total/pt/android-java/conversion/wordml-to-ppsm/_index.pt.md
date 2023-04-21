@@ -1,6 +1,6 @@
 ---
 title: Converter WORDML para PPSM no Android via Java ou com o conversor online gratuito
-description: Conversão de WORDML para PPSM em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Conversão de WORDML para PPSM em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de WORDML para PPSM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

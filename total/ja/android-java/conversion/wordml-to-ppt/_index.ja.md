@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでWORDMLをPPTに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDMLからPPTに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDMLからPPTに変換 またはオンライン。コードを統合する前に、無料の WORDML から PPT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

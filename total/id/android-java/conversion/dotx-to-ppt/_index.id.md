@@ -1,6 +1,6 @@
 ---
 title: Konversi DOTX ke PPT di Android melalui Java atau dengan Konverter Online gratis
-description: Konversi DOTX ke PPT di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOTX ke PPT di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online DOTX ke PPT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

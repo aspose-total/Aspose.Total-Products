@@ -1,6 +1,6 @@
 ---
 title: Converter DOT para POWERPOINT no Android via Java ou com o conversor online gratuito
-description: Conversão de DOT para POWERPOINT em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Conversão de DOT para POWERPOINT em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de DOT para POWERPOINT rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

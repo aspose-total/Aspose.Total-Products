@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar POTM in Android via Java of met gratis Online Converter
-description: WORDML naar POTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: WORDML naar POTM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis WORDML naar POTM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

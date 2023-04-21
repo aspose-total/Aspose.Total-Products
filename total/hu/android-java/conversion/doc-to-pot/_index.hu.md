@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t POT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOC konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOC konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-POT online konvertert.
 
 family: total
 platformtag: cpp

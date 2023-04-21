@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى PPSM في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOT لتحويل PPSM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOT لتحويل PPSM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOT إلى PPSM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

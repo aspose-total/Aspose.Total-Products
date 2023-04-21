@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOCM in POT in Android über Java oder mit dem kostenlosen Online Converter
-description: DOCM-zu-POT-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: DOCM-zu-POT-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen DOCM-zu-POT-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

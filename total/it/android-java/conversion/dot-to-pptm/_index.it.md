@@ -1,6 +1,6 @@
 ---
 title: Converti DOT in PPTM in Android tramite Java o con il convertitore online gratuito
-description: Conversione da DOT a PPTM nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Conversione da DOT a PPTM nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da DOT a PPTM prima di integrare il codice.
 
 family: total
 platformtag: cpp

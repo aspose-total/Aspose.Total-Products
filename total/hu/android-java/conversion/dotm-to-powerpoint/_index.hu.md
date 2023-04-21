@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t POWERPOINT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOTM konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOTM konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na POTX v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod FLATOPC na POTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod FLATOPC na POTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  FLATOPC na POTX.
 
 family: total
 platformtag: cpp

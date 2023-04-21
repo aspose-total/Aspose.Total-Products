@@ -1,6 +1,6 @@
 ---
 title: Converter WORD para PPTM no Android via Java ou com o conversor online gratuito
-description: Conversão de WORD para PPTM em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Conversão de WORD para PPTM em seus telefones Android sem usar o Microsoft Word do PowerPoint ou on-line. Teste o conversor online gratuito de WORD para PPTM rapidamente antes de integrar o código.
 
 family: total
 platformtag: cpp

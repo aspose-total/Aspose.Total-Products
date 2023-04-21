@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na POTX v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod RTF na POTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod RTF na POTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na POTX.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Преобразование OTT в PPS в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование OTT в PPS на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование OTT в PPS на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер OTT в PPS, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

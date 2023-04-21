@@ -1,6 +1,6 @@
 ---
 title: Convierta OTT a PPTM en Android a través de Java o con el convertidor en línea gratuito
-description: Conversión de OTT a PPTM en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Conversión de OTT a PPTM en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de OTT a PPTM rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

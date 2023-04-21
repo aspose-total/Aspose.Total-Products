@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na PPSM v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod DOC na PPSM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod DOC na PPSM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na PPSM.
 
 family: total
 platformtag: cpp

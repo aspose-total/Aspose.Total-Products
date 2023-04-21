@@ -1,6 +1,6 @@
 ---
 title: Převést DOCM na PPT v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod DOCM na PPT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod DOCM na PPT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCM na PPT.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOTX na POTX w Androidzie przez Java lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOTX do POTX w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwersja DOTX do POTX w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOTX na POTX przed integracją kodu.
 
 family: total
 platformtag: cpp

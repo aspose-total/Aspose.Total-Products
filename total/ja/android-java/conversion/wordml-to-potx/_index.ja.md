@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでWORDMLをPOTXに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDMLからPOTXに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDMLからPOTXに変換 またはオンライン。コードを統合する前に、無料の WORDML から POTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

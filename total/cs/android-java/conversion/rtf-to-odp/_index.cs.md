@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na ODP v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod RTF na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod RTF na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na ODP.
 
 family: total
 platformtag: cpp

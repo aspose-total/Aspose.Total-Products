@@ -1,6 +1,6 @@
 ---
 title: Convertir RTF en PPS dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion RTF en PPS dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion RTF en PPS dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne RTF vers PPS gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

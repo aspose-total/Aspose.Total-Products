@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOCM sang ODP trong Android qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOCM sang ODP trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi DOCM sang ODP trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến DOCM sang ODP miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

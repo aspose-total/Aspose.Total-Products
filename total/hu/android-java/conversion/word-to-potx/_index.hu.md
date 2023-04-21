@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORD-t POTX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: WORD konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: WORD konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-POTX online konvertert.
 
 family: total
 platformtag: cpp

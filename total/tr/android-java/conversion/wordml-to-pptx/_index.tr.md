@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de WORDML'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda WORDML'den PPTX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda WORDML'den PPTX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz WORDML'den PPTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

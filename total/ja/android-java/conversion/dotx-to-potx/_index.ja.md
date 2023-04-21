@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでDOTXをPOTXに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOTXからPOTXに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOTXからPOTXに変換 またはオンライン。コードを統合する前に、無料の DOTX から POTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

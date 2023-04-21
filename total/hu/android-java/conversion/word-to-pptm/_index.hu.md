@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORD-t PPTM-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: WORD konvertálás PPTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: WORD konvertálás PPTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORD-PPTM online konvertert.
 
 family: total
 platformtag: cpp

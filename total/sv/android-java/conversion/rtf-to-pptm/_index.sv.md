@@ -1,6 +1,6 @@
 ---
 title: Konvertera RTF till PPTM i Android via Java eller med gratis Online Converter
-description: RTF till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: RTF till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis RTF till PPTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

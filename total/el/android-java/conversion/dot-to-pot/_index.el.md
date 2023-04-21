@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOT σε POT στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή DOT σε POT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOT σε POT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOT σε POT πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

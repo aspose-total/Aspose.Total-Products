@@ -1,6 +1,6 @@
 ---
 title: Converteer TXT naar PPS in Android via Java of met gratis Online Converter
-description: TXT naar PPS-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: TXT naar PPS-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis TXT naar PPS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

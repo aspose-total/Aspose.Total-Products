@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t PPSX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: RTF konvertálás PPSX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: RTF konvertálás PPSX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-PPSX online konvertert.
 
 family: total
 platformtag: cpp

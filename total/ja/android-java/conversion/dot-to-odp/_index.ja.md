@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでDOTをODPに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOTからODPに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでDOTからODPに変換 またはオンライン。コードを統合する前に、無料の DOT から ODP へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

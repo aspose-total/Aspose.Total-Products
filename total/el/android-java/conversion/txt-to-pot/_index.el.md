@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή TXT σε POT στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή TXT σε POT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή TXT σε POT στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα TXT σε POT πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

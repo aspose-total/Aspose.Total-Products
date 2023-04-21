@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de DOT'yi PPTM'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOT'den PPTM'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda DOT'den PPTM'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz DOT'den PPTM'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

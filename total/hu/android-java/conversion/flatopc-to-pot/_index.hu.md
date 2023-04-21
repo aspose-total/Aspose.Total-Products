@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a FLATOPC-t POT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: FLATOPC konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: FLATOPC konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes FLATOPC-POT online konvertert.
 
 family: total
 platformtag: cpp

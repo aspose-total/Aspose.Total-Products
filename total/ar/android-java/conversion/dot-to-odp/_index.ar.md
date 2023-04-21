@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى ODP في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOT لتحويل ODP في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOT لتحويل ODP في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOT إلى ODP على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

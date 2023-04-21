@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi DOC sang PPTM trong Android qua Java hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi DOC sang PPTM trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi DOC sang PPTM trong Điện thoại Android của bạn mà không cần sử dụng Microsoft Word của PowerPoint hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến DOC sang PPTM miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: cpp

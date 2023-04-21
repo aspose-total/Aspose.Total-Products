@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na ODP v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod ODT na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod ODT na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na ODP.
 
 family: total
 platformtag: cpp

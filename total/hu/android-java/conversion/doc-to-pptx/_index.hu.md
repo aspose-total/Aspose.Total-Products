@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t PPTX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOC konvertálás PPTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOC konvertálás PPTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-PPTX online konvertert.
 
 family: total
 platformtag: cpp

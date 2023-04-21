@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t ODP-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOTM konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOTM konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-ODP online konvertert.
 
 family: total
 platformtag: cpp

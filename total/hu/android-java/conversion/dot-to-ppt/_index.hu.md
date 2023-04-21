@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t PPT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOT konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOT konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-PPT online konvertert.
 
 family: total
 platformtag: cpp

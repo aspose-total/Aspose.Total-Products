@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTX-t POTM-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOTX konvertálás POTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOTX konvertálás POTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTX-POTM online konvertert.
 
 family: total
 platformtag: cpp

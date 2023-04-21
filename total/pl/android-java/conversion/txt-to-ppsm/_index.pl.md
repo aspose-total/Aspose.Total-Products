@@ -1,6 +1,6 @@
 ---
 title: Konwertuj TXT na PPSM w Androidzie przez Java lub za pomocą bezpłatnego konwertera online
-description: Konwersja TXT do PPSM w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwersja TXT do PPSM w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online TXT na PPSM przed integracją kodu.
 
 family: total
 platformtag: cpp

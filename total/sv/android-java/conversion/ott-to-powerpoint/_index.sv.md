@@ -1,6 +1,6 @@
 ---
 title: Konvertera OTT till POWERPOINT i Android via Java eller med gratis Online Converter
-description: OTT till POWERPOINT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: OTT till POWERPOINT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis OTT till POWERPOINT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

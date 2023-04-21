@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie WORDML in POTX in Android über Java oder mit dem kostenlosen Online Converter
-description: WORDML-zu-POTX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: WORDML-zu-POTX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen WORDML-zu-POTX-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

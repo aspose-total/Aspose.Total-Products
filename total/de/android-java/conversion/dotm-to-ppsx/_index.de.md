@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOTM in PPSX in Android über Java oder mit dem kostenlosen Online Converter
-description: DOTM-zu-PPSX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: DOTM-zu-PPSX-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen DOTM-zu-PPSX-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

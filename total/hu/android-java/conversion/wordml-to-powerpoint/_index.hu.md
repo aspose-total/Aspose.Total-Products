@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORDML-t POWERPOINT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: WORDML konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: WORDML konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

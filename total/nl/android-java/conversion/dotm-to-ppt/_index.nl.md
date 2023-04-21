@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTM naar PPT in Android via Java of met gratis Online Converter
-description: DOTM naar PPT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: DOTM naar PPT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOTM naar PPT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

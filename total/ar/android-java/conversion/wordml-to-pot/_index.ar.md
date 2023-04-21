@@ -1,6 +1,6 @@
 ---
 title: تحويل WORDML إلى POT في Android عبر Java أو مع محول مجاني على الإنترنت
-description: WORDML لتحويل POT في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: WORDML لتحويل POT في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول WORDML إلى POT على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

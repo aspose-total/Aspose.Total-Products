@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでWORDをPPTに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDからPPTに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでWORDからPPTに変換 またはオンライン。コードを統合する前に、無料の WORD から PPT へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

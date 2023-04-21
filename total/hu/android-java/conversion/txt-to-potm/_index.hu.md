@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a TXT-t POTM-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: TXT konvertálás POTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: TXT konvertálás POTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-POTM online konvertert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Преобразование FLATOPC в POWERPOINT в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование FLATOPC в POWERPOINT на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование FLATOPC в POWERPOINT на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер FLATOPC в POWERPOINT, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

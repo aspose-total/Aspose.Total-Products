@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή ODT σε POTM στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή ODT σε POTM στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή ODT σε POTM στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODT σε POTM πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

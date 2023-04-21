@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORDML-t ODP-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: WORDML konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: WORDML konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-ODP online konvertert.
 
 family: total
 platformtag: cpp

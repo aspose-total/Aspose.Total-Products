@@ -1,6 +1,6 @@
 ---
 title: Converteer DOC naar PPSM in Android via Java of met gratis Online Converter
-description: DOC naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: DOC naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOC naar PPSM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

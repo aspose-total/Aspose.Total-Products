@@ -1,6 +1,6 @@
 ---
 title: Convierta DOC a POTX en Android a través de Java o con el convertidor en línea gratuito
-description: Conversión de DOC a POTX en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Conversión de DOC a POTX en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOC a POTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

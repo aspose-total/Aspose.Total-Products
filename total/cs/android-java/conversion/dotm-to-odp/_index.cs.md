@@ -1,6 +1,6 @@
 ---
 title: Převést DOTM na ODP v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod DOTM na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod DOTM na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOTM na ODP.
 
 family: total
 platformtag: cpp

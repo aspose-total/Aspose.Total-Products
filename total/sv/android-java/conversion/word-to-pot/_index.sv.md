@@ -1,6 +1,6 @@
 ---
 title: Konvertera WORD till POT i Android via Java eller med gratis Online Converter
-description: WORD till POT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: WORD till POT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis WORD till POT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de ODT'yi PPSX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda ODT'den PPSX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda ODT'den PPSX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODT'den PPSX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

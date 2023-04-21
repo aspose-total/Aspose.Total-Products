@@ -1,6 +1,6 @@
 ---
 title: Преобразование ODT в POWERPOINT в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование ODT в POWERPOINT на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование ODT в POWERPOINT на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер ODT в POWERPOINT, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

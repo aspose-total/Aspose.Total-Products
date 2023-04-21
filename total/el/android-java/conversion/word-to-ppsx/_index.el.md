@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή WORD σε PPSX στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή WORD σε PPSX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή WORD σε PPSX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα WORD σε PPSX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

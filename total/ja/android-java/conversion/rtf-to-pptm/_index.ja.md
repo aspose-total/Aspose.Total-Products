@@ -1,6 +1,6 @@
 ---
 title: Javaを介してAndroidでRTFをPPTMに変換する または無料のオンライン コンバーターを使用
-description: Microsoft WordofPowerPointを使用せずにAndroidフォンでRTFからPPTMに変換 またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: Microsoft WordofPowerPointを使用せずにAndroidフォンでRTFからPPTMに変換 またはオンライン。コードを統合する前に、無料の RTF から PPTM へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: cpp

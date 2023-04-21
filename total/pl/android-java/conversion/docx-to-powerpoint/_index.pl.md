@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOCX na POWERPOINT w Androidzie przez Java lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOCX do POWERPOINT w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwersja DOCX do POWERPOINT w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOCX na POWERPOINT przed integracją kodu.
 
 family: total
 platformtag: cpp

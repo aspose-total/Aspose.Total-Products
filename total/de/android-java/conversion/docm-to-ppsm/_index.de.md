@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie DOCM in PPSM in Android über Java oder mit dem kostenlosen Online Converter
-description: DOCM-zu-PPSM-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: DOCM-zu-PPSM-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen DOCM-zu-PPSM-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

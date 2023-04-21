@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOTM σε PPTX στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή DOTM σε PPTX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOTM σε PPTX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOTM σε PPTX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

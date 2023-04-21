@@ -1,6 +1,6 @@
 ---
 title: Convertir FLATOPC en POT dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion FLATOPC en POT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion FLATOPC en POT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne FLATOPC vers POT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

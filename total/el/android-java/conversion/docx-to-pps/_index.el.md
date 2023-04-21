@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή DOCX σε PPS στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή DOCX σε PPS στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή DOCX σε PPS στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα DOCX σε PPS πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

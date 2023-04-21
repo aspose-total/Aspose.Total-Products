@@ -1,6 +1,6 @@
 ---
 title: تحويل RTF إلى PPSX في Android عبر Java أو مع محول مجاني على الإنترنت
-description: RTF لتحويل PPSX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: RTF لتحويل PPSX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول RTF إلى PPSX على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

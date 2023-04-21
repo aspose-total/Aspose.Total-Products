@@ -1,6 +1,6 @@
 ---
 title: Convertir ODT en POWERPOINT dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion ODT en POWERPOINT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion ODT en POWERPOINT dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne ODT vers POWERPOINT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

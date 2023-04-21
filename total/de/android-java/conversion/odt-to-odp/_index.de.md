@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie ODT in ODP in Android über Java oder mit dem kostenlosen Online Converter
-description: ODT-zu-ODP-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: ODT-zu-ODP-Konvertierung in Ihren Android-Telefonen ohne Verwendung von Microsoft Word of PowerPoint oder online. Testen Sie schnell den kostenlosen ODT-zu-ODP-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: cpp

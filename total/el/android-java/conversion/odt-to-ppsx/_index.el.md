@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή ODT σε PPSX στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή ODT σε PPSX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή ODT σε PPSX στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODT σε PPSX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

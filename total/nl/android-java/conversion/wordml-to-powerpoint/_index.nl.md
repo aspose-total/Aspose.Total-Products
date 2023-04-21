@@ -1,6 +1,6 @@
 ---
 title: Converteer WORDML naar POWERPOINT in Android via Java of met gratis Online Converter
-description: WORDML naar POWERPOINT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: WORDML naar POWERPOINT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis WORDML naar POWERPOINT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a FLATOPC-t PPSM-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: FLATOPC konvertálás PPSM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: FLATOPC konvertálás PPSM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes FLATOPC-PPSM online konvertert.
 
 family: total
 platformtag: cpp

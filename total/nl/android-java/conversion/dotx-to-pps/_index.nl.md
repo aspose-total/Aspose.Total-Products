@@ -1,6 +1,6 @@
 ---
 title: Converteer DOTX naar PPS in Android via Java of met gratis Online Converter
-description: DOTX naar PPS-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: DOTX naar PPS-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis DOTX naar PPS online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

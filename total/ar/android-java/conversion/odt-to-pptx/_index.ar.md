@@ -1,6 +1,6 @@
 ---
 title: تحويل ODT إلى PPTX في Android عبر Java أو مع محول مجاني على الإنترنت
-description: ODT لتحويل PPTX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: ODT لتحويل PPTX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول ODT إلى PPTX على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

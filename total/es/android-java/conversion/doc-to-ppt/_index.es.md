@@ -1,6 +1,6 @@
 ---
 title: Convierta DOC a PPT en Android a través de Java o con el convertidor en línea gratuito
-description: Conversión de DOC a PPT en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Conversión de DOC a PPT en sus teléfonos Android sin usar Microsoft Word o PowerPoint o en línea. Pruebe el convertidor en línea gratuito de DOC a PPT rápidamente antes de integrar el código.
 
 family: total
 platformtag: cpp

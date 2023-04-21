@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORDML в PPT в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование WORDML в PPT на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование WORDML в PPT на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORDML в PPT, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

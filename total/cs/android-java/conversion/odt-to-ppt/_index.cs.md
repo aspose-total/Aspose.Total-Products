@@ -1,6 +1,6 @@
 ---
 title: Převést ODT na PPT v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod ODT na PPT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod ODT na PPT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODT na PPT.
 
 family: total
 platformtag: cpp

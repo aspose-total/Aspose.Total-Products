@@ -1,6 +1,6 @@
 ---
 title: Converteer ODT naar PPSM in Android via Java of met gratis Online Converter
-description: ODT naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: ODT naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis ODT naar PPSM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

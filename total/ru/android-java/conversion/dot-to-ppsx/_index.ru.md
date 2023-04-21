@@ -1,6 +1,6 @@
 ---
 title: Преобразование DOT в PPSX в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование DOT в PPSX на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование DOT в PPSX на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер DOT в PPSX, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

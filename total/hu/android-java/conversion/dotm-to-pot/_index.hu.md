@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t POT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOTM konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOTM konvertálás POT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-POT online konvertert.
 
 family: total
 platformtag: cpp

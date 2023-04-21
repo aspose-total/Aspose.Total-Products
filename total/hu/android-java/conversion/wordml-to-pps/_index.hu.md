@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a WORDML-t PPS-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: WORDML konvertálás PPS-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: WORDML konvertálás PPS-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes WORDML-PPS online konvertert.
 
 family: total
 platformtag: cpp

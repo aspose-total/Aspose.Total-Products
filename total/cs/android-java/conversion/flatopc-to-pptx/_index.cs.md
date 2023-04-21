@@ -1,6 +1,6 @@
 ---
 title: Převést FLATOPC na PPTX v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod FLATOPC na PPTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod FLATOPC na PPTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  FLATOPC na PPTX.
 
 family: total
 platformtag: cpp

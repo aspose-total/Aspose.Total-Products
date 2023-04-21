@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOCX till PPTM i Android via Java eller med gratis Online Converter
-description: DOCX till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: DOCX till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis DOCX till PPTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

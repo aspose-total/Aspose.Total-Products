@@ -1,6 +1,6 @@
 ---
 title: Konversi RTF ke PPTX di Android melalui Java atau dengan Konverter Online gratis
-description: Konversi RTF ke PPTX di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi RTF ke PPTX di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online RTF ke PPTX gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

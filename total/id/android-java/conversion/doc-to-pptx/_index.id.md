@@ -1,6 +1,6 @@
 ---
 title: Konversi DOC ke PPTX di Android melalui Java atau dengan Konverter Online gratis
-description: Konversi DOC ke PPTX di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi DOC ke PPTX di Ponsel Android Anda tanpa menggunakan Microsoft Word dari PowerPoint atau daring. Uji konverter online DOC ke PPTX gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: cpp

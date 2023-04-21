@@ -1,6 +1,6 @@
 ---
 title: Преобразование RTF в PPTX в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование RTF в PPTX на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование RTF в PPTX на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер RTF в PPTX, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

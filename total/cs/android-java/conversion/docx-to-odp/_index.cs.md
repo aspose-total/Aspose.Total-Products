@@ -1,6 +1,6 @@
 ---
 title: Převést DOCX na ODP v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod DOCX na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod DOCX na ODP ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOCX na ODP.
 
 family: total
 platformtag: cpp

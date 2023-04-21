@@ -1,6 +1,6 @@
 ---
 title: Převést RTF na PPT v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod RTF na PPT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod RTF na PPT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  RTF na PPT.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de FLATOPC'yi PPTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda FLATOPC'den PPTX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda FLATOPC'den PPTX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz FLATOPC'den PPTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

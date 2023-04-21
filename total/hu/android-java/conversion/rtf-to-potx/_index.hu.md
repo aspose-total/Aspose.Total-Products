@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a RTF-t POTX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: RTF konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: RTF konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes RTF-POTX online konvertert.
 
 family: total
 platformtag: cpp

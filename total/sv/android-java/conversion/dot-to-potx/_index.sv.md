@@ -1,6 +1,6 @@
 ---
 title: Konvertera DOT till POTX i Android via Java eller med gratis Online Converter
-description: DOT till POTX-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: DOT till POTX-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis DOT till POTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

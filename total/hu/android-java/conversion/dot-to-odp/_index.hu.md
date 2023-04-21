@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOT-t ODP-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOT konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOT konvertálás ODP-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOT-ODP online konvertert.
 
 family: total
 platformtag: cpp

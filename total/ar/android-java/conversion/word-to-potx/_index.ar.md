@@ -1,6 +1,6 @@
 ---
 title: تحويل WORD إلى POTX في Android عبر Java أو مع محول مجاني على الإنترنت
-description: WORD لتحويل POTX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: WORD لتحويل POTX في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول WORD إلى POTX على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

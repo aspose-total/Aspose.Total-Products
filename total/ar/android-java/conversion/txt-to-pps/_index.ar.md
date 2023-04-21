@@ -1,6 +1,6 @@
 ---
 title: تحويل TXT إلى PPS في Android عبر Java أو مع محول مجاني على الإنترنت
-description: TXT لتحويل PPS في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: TXT لتحويل PPS في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول TXT إلى PPS على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Converteer FLATOPC naar PPTX in Android via Java of met gratis Online Converter
-description: FLATOPC naar PPTX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: FLATOPC naar PPTX-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis FLATOPC naar PPTX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

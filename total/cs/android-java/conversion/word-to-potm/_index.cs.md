@@ -1,6 +1,6 @@
 ---
 title: Převést WORD na POTM v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod WORD na POTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod WORD na POTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORD na POTM.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCM إلى POTM في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOCM لتحويل POTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOCM لتحويل POTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOCM إلى POTM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

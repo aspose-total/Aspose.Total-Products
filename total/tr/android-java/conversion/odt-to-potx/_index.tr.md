@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de ODT'yi POTX'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda ODT'den POTX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda ODT'den POTX'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz ODT'den POTX'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

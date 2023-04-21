@@ -1,6 +1,6 @@
 ---
 title: Convertir DOT en PPSX dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion DOT en PPSX dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion DOT en PPSX dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne DOT vers PPSX gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: Преобразование WORD в PPTM в Android через Java или с помощью бесплатного онлайн-конвертера
-description: Преобразование WORD в PPTM на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код.
+description: Преобразование WORD в PPTM на ваших телефонах Android без использования Microsoft Word of PowerPoint или онлайн. Быстро протестируйте бесплатный онлайн-конвертер WORD в PPTM, прежде чем интегрировать код.
 
 family: total
 platformtag: cpp

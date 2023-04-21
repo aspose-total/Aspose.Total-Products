@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a TXT-t PPS-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: TXT konvertálás PPS-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: TXT konvertálás PPS-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TXT-PPS online konvertert.
 
 family: total
 platformtag: cpp

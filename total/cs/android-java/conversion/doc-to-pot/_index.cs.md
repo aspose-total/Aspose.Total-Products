@@ -1,6 +1,6 @@
 ---
 title: Převést DOC na POT v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod DOC na POT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod DOC na POT ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  DOC na POT.
 
 family: total
 platformtag: cpp

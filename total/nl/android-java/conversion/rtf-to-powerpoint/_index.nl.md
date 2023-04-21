@@ -1,6 +1,6 @@
 ---
 title: Converteer RTF naar POWERPOINT in Android via Java of met gratis Online Converter
-description: RTF naar POWERPOINT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: RTF naar POWERPOINT-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis RTF naar POWERPOINT online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

@@ -1,6 +1,6 @@
 ---
 title: 在 Android 中通過 Java 將 DOC 轉換為 PPSM 或使用免費的在線轉換器
-description: 在您的 Android 手機中將 DOC 轉換為 PPSM，而無需使用 Microsoft Word 的 PowerPoint 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+description: 在您的 Android 手機中將 DOC 轉換為 PPSM，而無需使用 Microsoft Word 的 PowerPoint 或在線。在集成代碼之前快速測試免費的 DOC 到 PPSM 在線轉換器。
 
 family: total
 platformtag: cpp

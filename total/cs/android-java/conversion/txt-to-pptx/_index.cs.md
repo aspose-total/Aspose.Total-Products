@@ -1,6 +1,6 @@
 ---
 title: Převést TXT na PPTX v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod TXT na PPTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod TXT na PPTX ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  TXT na PPTX.
 
 family: total
 platformtag: cpp

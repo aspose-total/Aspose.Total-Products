@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOC-t PPT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOC konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOC konvertálás PPT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOC-PPT online konvertert.
 
 family: total
 platformtag: cpp

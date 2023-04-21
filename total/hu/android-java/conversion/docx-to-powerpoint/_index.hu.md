@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t POWERPOINT-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOCX konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOCX konvertálás POWERPOINT-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-POWERPOINT online konvertert.
 
 family: total
 platformtag: cpp

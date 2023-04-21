@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t POTX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOCX konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOCX konvertálás POTX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-POTX online konvertert.
 
 family: total
 platformtag: cpp

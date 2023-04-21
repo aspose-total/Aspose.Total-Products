@@ -1,6 +1,6 @@
 ---
 title: Java ile Android'de TXT'yi PPT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda TXT'den PPT'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: Microsoft Word of PowerPoint kullanmadan Android Telefonlarınızda TXT'den PPT'ye dönüştürme veya çevrimiçi. Kodu entegre etmeden önce ücretsiz TXT'den PPT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: cpp

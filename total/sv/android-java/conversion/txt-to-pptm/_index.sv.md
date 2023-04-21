@@ -1,6 +1,6 @@
 ---
 title: Konvertera TXT till PPTM i Android via Java eller med gratis Online Converter
-description: TXT till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: TXT till PPTM-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis TXT till PPTM online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

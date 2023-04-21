@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOTM-t PPSX-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOTM konvertálás PPSX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOTM konvertálás PPSX-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOTM-PPSX online konvertert.
 
 family: total
 platformtag: cpp

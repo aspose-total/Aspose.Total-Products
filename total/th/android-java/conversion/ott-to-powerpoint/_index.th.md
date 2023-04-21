@@ -1,6 +1,6 @@
 ---
 title: แปลง OTT เป็น POWERPOINT ใน Android ผ่าน Java หรือด้วยตัวแปลงออนไลน์ฟรี
-description: การแปลง OTT เป็น POWERPOINT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: การแปลง OTT เป็น POWERPOINT ในโทรศัพท์ Android ของคุณโดยไม่ต้องใช้ Microsoft Word of PowerPoint หรือทางออนไลน์ ทดสอบตัวแปลง OTT เป็น POWERPOINT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: cpp

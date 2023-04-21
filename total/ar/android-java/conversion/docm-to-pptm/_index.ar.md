@@ -1,6 +1,6 @@
 ---
 title: تحويل DOCM إلى PPTM في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOCM لتحويل PPTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOCM لتحويل PPTM في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOCM إلى PPTM على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

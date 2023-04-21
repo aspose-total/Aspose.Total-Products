@@ -1,6 +1,6 @@
 ---
 title: Converteer WORD naar PPSM in Android via Java of met gratis Online Converter
-description: WORD naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: WORD naar PPSM-conversie in uw Android-telefoons zonder Microsoft Word of PowerPoint te gebruiken of online. Test de gratis WORD naar PPSM online converter snel voordat u de code integreert.
 
 family: total
 platformtag: cpp

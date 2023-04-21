@@ -1,6 +1,6 @@
 ---
 title: تحويل DOT إلى PPS في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOT لتحويل PPS في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOT لتحويل PPS في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOT إلى PPS على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

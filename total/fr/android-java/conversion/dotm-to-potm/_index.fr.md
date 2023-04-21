@@ -1,6 +1,6 @@
 ---
 title: Convertir DOTM en POTM dans Android via Java ou avec le convertisseur en ligne gratuit
-description: Conversion DOTM en POTM dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Conversion DOTM en POTM dans vos téléphones Android sans utiliser Microsoft Word de PowerPoint ou en ligne. Testez rapidement le convertisseur en ligne DOTM vers POTM gratuit avant d'intégrer le code.
 
 family: total
 platformtag: cpp

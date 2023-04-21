@@ -1,6 +1,6 @@
 ---
 title: Converti WORDML in PPSX in Android tramite Java o con il convertitore online gratuito
-description: Conversione da WORDML a PPSX nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Conversione da WORDML a PPSX nei tuoi telefoni Android senza utilizzare Microsoft Word di PowerPoint o in linea. Prova rapidamente il convertitore online gratuito da WORDML a PPSX prima di integrare il codice.
 
 family: total
 platformtag: cpp

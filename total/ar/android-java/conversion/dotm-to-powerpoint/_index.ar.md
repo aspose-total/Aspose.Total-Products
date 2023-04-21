@@ -1,6 +1,6 @@
 ---
 title: تحويل DOTM إلى POWERPOINT في Android عبر Java أو مع محول مجاني على الإنترنت
-description: DOTM لتحويل POWERPOINT في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: DOTM لتحويل POWERPOINT في هواتف Android الخاصة بك دون استخدام Microsoft Word of PowerPoint أو عبر الإنترنت. اختبر محول DOTM إلى POWERPOINT على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: cpp

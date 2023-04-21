@@ -1,6 +1,6 @@
 ---
 title: Konwertuj DOC na POTM w Androidzie przez Java lub za pomocą bezpłatnego konwertera online
-description: Konwersja DOC do POTM w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwersja DOC do POTM w telefonach z systemem Android bez korzystania z programu Microsoft Word lub PowerPoint lub online. Szybko przetestuj darmowy konwerter online DOC na POTM przed integracją kodu.
 
 family: total
 platformtag: cpp

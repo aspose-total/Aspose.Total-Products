@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή RTF σε PPSM στο Android μέσω Java ή με δωρεάν Online Converter
-description: Μετατροπή RTF σε PPSM στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή RTF σε PPSM στα τηλέφωνά σας Android χωρίς τη χρήση του Microsoft Word του PowerPoint ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα RTF σε PPSM πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: cpp

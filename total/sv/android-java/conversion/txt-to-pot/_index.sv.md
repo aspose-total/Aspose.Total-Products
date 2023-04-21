@@ -1,6 +1,6 @@
 ---
 title: Konvertera TXT till POT i Android via Java eller med gratis Online Converter
-description: TXT till POT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: TXT till POT-konvertering i dina Android-telefoner utan att använda Microsoft Word i PowerPoint eller online. Testa gratis TXT till POT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: cpp

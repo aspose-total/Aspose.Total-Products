@@ -1,6 +1,6 @@
 ---
 title: Konvertálja a DOCX-t PPTM-vé Androidon Java segítségével vagy ingyenes online konverterrel
-description: DOCX konvertálás PPTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: DOCX konvertálás PPTM-re az Android telefonokon Microsoft Word of PowerPoint használata nélkül vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes DOCX-PPTM online konvertert.
 
 family: total
 platformtag: cpp

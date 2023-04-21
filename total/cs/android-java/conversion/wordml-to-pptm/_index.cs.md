@@ -1,6 +1,6 @@
 ---
 title: Převést WORDML na PPTM v Androidu přes Java nebo pomocí bezplatného online převodníku
-description: Převod WORDML na PPTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převod WORDML na PPTM ve vašich telefonech Android bez použití aplikace Microsoft Word nebo PowerPoint nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  WORDML na PPTM.
 
 family: total
 platformtag: cpp
