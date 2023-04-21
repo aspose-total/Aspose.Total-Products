@@ -1,6 +1,6 @@
 ---
 title: 使用 .NET 将 FODS 转换为 DOC 
-description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将 FODS 转换为 DOC 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
+description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将 FODS 转换为 DOC 或在线。在集成代码之前快速测试免费的 FODS 到 DOC 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/fods-to-doc/
 family: total
 platformtag: net

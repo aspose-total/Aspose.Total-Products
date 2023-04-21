@@ -1,6 +1,6 @@
 ---
 title: تحويل XLTM إلى DOCX باستخدام .NET أو مع محول مجاني على الإنترنت
-description: قم بتحويل ملف XLTM إلى DOCX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل ملف XLTM إلى DOCX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول XLTM إلى DOCX على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: net

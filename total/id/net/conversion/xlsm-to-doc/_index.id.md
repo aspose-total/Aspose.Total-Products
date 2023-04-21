@@ -1,6 +1,6 @@
 ---
 title: Konversi XLSM ke DOC dengan .NET atau dengan Konverter Online gratis
-description: Konversi XLSM ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi XLSM ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online XLSM ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

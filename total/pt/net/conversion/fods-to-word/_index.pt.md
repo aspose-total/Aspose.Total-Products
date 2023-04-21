@@ -1,6 +1,6 @@
 ---
 title: Converter FODS para WORD com .NET ou com o conversor online gratuito
-description: Converter FODS para WORD em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converter FODS para WORD em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de FODS para WORD rapidamente antes de integrar o código.
 
 family: total
 platformtag: net

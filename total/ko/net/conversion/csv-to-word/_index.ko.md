@@ -1,6 +1,6 @@
 ---
 title: .NET을 사용하여 CSV를 WORD로 변환 또는 무료 온라인 변환기 사용
-description: .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 CSV를 WORD로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to DOC 온라인 변환기를 빠르게 테스트하십시오.
+description: .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 CSV를 WORD로 변환 또는 온라인. 코드를 통합하기 전에 무료 CSV to WORD 온라인 변환기를 빠르게 테스트하십시오.
 
 family: total
 platformtag: net

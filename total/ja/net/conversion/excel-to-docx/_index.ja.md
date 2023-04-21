@@ -1,6 +1,6 @@
 ---
 title: .NETを使用してEXCELをDOCXに変換する または無料のオンライン コンバーターを使用
-description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをDOCXに変換する またはオンライン。コードを統合する前に、無料の EXCEL から DOC へのオンライン コンバーターをすばやくテストします。
+description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをDOCXに変換する またはオンライン。コードを統合する前に、無料の EXCEL から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: net

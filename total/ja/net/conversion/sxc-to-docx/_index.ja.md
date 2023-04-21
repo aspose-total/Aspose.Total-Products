@@ -1,6 +1,6 @@
 ---
 title: .NETを使用してSXCをDOCXに変換する または無料のオンライン コンバーターを使用
-description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでSXCをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでSXCをDOCXに変換する またはオンライン。コードを統合する前に、無料の SXC から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: net

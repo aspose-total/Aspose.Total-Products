@@ -1,6 +1,6 @@
 ---
 title: Converti CSV in WORD con .NET o con il convertitore online gratuito
-description: Converti CSV in WORD su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti CSV in WORD su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da CSV a WORD prima di integrare il codice.
 
 family: total
 platformtag: net

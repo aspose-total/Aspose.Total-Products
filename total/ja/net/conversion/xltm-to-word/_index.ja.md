@@ -1,6 +1,6 @@
 ---
 title: .NETを使用してXLTMをWORDに変換する または無料のオンライン コンバーターを使用
-description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをWORDに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでXLTMをWORDに変換する またはオンライン。コードを統合する前に、無料の XLTM から WORD へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: net

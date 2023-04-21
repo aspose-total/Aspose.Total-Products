@@ -1,6 +1,6 @@
 ---
 title: تحويل XLSM إلى DOC باستخدام .NET أو مع محول مجاني على الإنترنت
-description: قم بتحويل ملف XLSM إلى DOC على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل ملف XLSM إلى DOC على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول XLSM إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: net

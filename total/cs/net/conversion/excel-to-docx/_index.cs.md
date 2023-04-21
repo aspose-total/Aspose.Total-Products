@@ -1,6 +1,6 @@
 ---
 title: Převeďte EXCEL na DOCX pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte EXCEL na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník EXCEL na DOC.
+description: Převeďte EXCEL na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  EXCEL na DOCX.
 
 family: total
 platformtag: net

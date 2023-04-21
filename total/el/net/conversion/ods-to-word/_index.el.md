@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή ODS σε WORD με .NET ή με δωρεάν Online Converter
-description: Μετατροπή ODS σε WORD σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή ODS σε WORD σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα ODS σε WORD πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net

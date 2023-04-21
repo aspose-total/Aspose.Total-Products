@@ -1,6 +1,6 @@
 ---
 title: .NETを使用してODSをDOCXに変換する または無料のオンライン コンバーターを使用
-description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでODSをDOCXに変換する またはオンライン。コードを統合する前に、無料の CSV から DOC へのオンライン コンバーターをすばやくテストします。
+description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでODSをDOCXに変換する またはオンライン。コードを統合する前に、無料の ODS から DOCX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: net

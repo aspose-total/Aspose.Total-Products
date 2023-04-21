@@ -1,6 +1,6 @@
 ---
 title: .NET ile XLT'yi WORD'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLT'yi WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLT'yi WORD'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz XLT'den WORD'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: net

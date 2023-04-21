@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή EXCEL σε DOCX με .NET ή με δωρεάν Online Converter
-description: Μετατροπή EXCEL σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα EXCEL σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή EXCEL σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα EXCEL σε DOCX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter XLTM para POWERPOINT com .NET ou com o conversor online gratuito
-description: Converter XLTM para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converter XLTM para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de XLTM para POWERPOINT rapidamente antes de integrar o código.
 
 family: total
 platformtag: net

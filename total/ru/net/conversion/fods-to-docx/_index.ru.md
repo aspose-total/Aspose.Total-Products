@@ -1,6 +1,6 @@
 ---
 title: Преобразование FODS в DOCX с помощью .NET 
-description: Преобразование FODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование FODS в DOCX на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер FODS в DOCX, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/fods-to-docx/
 family: total
 platformtag: net

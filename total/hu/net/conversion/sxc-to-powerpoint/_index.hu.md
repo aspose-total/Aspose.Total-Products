@@ -1,6 +1,6 @@
 ---
 title: A SXC konvertálása POWERPOINT formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A SXC konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A SXC konvertálása POWERPOINT formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes SXC-POWERPOINT online konvertert.
 
 family: total
 platformtag: net

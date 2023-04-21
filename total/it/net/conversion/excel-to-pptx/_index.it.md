@@ -1,6 +1,6 @@
 ---
 title: Converti EXCEL in PPTX con .NET o con il convertitore online gratuito
-description: Converti EXCEL in PPTX su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da EXCEL a DOC prima di integrare il codice.
+description: Converti EXCEL in PPTX su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da EXCEL a PPTX prima di integrare il codice.
 
 family: total
 platformtag: net

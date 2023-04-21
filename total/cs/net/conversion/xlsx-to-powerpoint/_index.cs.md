@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLSX na POWERPOINT pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte XLSX na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte XLSX na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLSX na POWERPOINT.
 
 family: total
 platformtag: net

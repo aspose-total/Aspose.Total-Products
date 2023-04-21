@@ -1,6 +1,6 @@
 ---
 title: Konwertuj ODS na WORD za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj ODS na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj ODS na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online ODS na WORD przed integracją kodu.
 
 family: total
 platformtag: net

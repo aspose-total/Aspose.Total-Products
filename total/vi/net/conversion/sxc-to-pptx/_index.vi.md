@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi SXC sang PPTX với .NET hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi SXC sang PPTX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi SXC sang PPTX trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến SXC sang PPTX miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converter XLTX para WORD com .NET ou com o conversor online gratuito
-description: Converter XLTX para WORD em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converter XLTX para WORD em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de XLTX para WORD rapidamente antes de integrar o código.
 
 family: total
 platformtag: net

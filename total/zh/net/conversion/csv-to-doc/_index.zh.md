@@ -1,6 +1,6 @@
 ---
 title: 使用 .NET 将 CSV 转换为 DOC 
-description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将 CSV 转换为 DOC 或在线。在集成代码之前快速测试免费的 CSV 到 DOC 在线转换器。 或使用免费的在线转换器
+description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将 CSV 转换为 DOC 或在线。在集成代码之前快速测试免费的  CSV 到 DOC 在线转换器。 或使用免费的在线转换器
 url_ignore: /zh/net/conversion/csv-to-doc/
 family: total
 platformtag: net
@@ -27,7 +27,7 @@ otherformats: WORD POWERPOINT PPTX DOCX
                           <span itemprop="name"><b>如何在线将 CSV 转换为 DOC？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">上面集成了用于 CSV 转换的在线应用程序。要开始转换过程，您可以拖放 CSV 文件或在指定区域内单击以导入文档。接下来，单击“转换”按钮以启动 CSV 到 DOC 的转换。该过程完成后，您只需单击一下即可轻松下载转换后的文件，以 DOC 格式获得所需的输出。</span>
+                          <span itemprop="text">上面集成了用于 CSV 转换的在线应用程序。要开始转换过程，您可以拖放 CSV 文件或在指定区域内单击以导入文档。接下来，单击“转换”按钮以启动  CSV 到 DOC 的转换。该过程完成后，您只需单击一下即可轻松下载转换后的文件，以 DOC 格式获得所需的输出。</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -43,7 +43,7 @@ otherformats: WORD POWERPOINT PPTX DOCX
                           <span itemprop="name"><b>使用免费的 Aspose.Total 转换器将 CSV 转换为 DOC 是否安全？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">当然！ CSV 到 DOC 的转换过程完成后，会立即生成 DOC 文件的下载链接。我们将您文件的安全放在首位，这就是为什么所有上传的文件都会在 24 小时后被删除，并且下载链接会在该时间段后停止工作。您可以确信您的文件在转换过程中是安全的，包括 CSV 文件。以上免费应用程序用于测试目的，允许您在集成代码之前检查结果。</span>
+                          <span itemprop="text">当然！  CSV 到 DOC 的转换过程完成后，会立即生成 DOC 文件的下载链接。我们将您文件的安全放在首位，这就是为什么所有上传的文件都会在 24 小时后被删除，并且下载链接会在该时间段后停止工作。您可以确信您的文件在转换过程中是安全的，包括 CSV 文件。以上免费应用程序用于测试目的，允许您在集成代码之前检查结果。</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -51,7 +51,7 @@ otherformats: WORD POWERPOINT PPTX DOCX
                           <span itemprop="name"><b>我应该使用什么浏览器来转换 CSV？</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">您可以灵活地使用任何最新的网络浏览器进行 CSV 到 DOC 的在线转换，例如 Google Chrome、Firefox、Opera、Safari。但是，如果您正在构建桌面应用程序，则可以无缝集成 Aspose.Total CSV Conversion API。</span>
+                          <span itemprop="text">您可以灵活地使用任何最新的网络浏览器进行  CSV 到 DOC 的在线转换，例如 Google Chrome、Firefox、Opera、Safari。但是，如果您正在构建桌面应用程序，则可以无缝集成 Aspose.Total CSV Conversion API。</span>
                       </div>
                   </li>
               </ul>

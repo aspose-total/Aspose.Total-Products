@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLSM σε DOC με .NET ή με δωρεάν Online Converter
-description: Μετατροπή XLSM σε DOC σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή XLSM σε DOC σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLSM σε DOC πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net

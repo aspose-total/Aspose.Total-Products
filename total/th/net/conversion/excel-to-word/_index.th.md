@@ -1,6 +1,6 @@
 ---
 title: แปลง EXCEL เป็น WORD ด้วย .NET หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง EXCEL เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง EXCEL เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง EXCEL เป็น WORD บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง EXCEL เป็น WORD ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: net

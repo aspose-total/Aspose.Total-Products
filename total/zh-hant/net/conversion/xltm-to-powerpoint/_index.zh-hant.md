@@ -1,6 +1,6 @@
 ---
 title: 使用 .NET 將 XLTM 轉換為 POWERPOINT 或使用免費的在線轉換器
-description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上將 XLTM 轉換為 POWERPOINT 或在線。在集成代碼之前快速測試免費的 CSV 到 DOC 在線轉換器。
+description: 在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上將 XLTM 轉換為 POWERPOINT 或在線。在集成代碼之前快速測試免費的 XLTM 到 POWERPOINT 在線轉換器。
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konversi EXCEL ke WORD dengan .NET atau dengan Konverter Online gratis
-description: Konversi EXCEL ke WORD di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online EXCEL ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi EXCEL ke WORD di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online EXCEL ke WORD gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

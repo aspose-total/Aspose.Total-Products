@@ -1,6 +1,6 @@
 ---
 title: Konversi SXC ke POWERPOINT dengan .NET atau dengan Konverter Online gratis
-description: Konversi SXC ke POWERPOINT di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi SXC ke POWERPOINT di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online SXC ke POWERPOINT gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

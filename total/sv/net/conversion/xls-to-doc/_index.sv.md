@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLS till DOC med .NET eller med gratis Online Converter
-description: Konvertera XLS till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLS till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLS till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

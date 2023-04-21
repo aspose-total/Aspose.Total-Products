@@ -1,6 +1,6 @@
 ---
 title: Konversi FODS ke DOC dengan .NET atau dengan Konverter Online gratis
-description: Konversi FODS ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi FODS ke DOC di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online FODS ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

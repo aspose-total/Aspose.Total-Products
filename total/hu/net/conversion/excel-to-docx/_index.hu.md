@@ -1,6 +1,6 @@
 ---
 title: A EXCEL konvertálása DOCX formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A EXCEL konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOC online konvertert.
+description: A EXCEL konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOCX online konvertert.
 
 family: total
 platformtag: net

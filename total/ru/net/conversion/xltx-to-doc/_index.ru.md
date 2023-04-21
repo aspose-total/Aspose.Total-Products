@@ -1,6 +1,6 @@
 ---
 title: Преобразование XLTX в DOC с помощью .NET 
-description: Преобразование XLTX в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLTX в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер XLTX в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/xltx-to-doc/
 family: total
 platformtag: net

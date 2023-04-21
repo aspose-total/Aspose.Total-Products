@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi FODS sang POWERPOINT với .NET hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi FODS sang POWERPOINT trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi FODS sang POWERPOINT trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến FODS sang POWERPOINT miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: net

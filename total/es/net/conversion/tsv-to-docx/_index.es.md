@@ -1,6 +1,6 @@
 ---
 title: Convierta TSV a DOCX con .NET o con el convertidor en línea gratuito
-description: Convierta TSV a DOCX en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta TSV a DOCX en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de TSV a DOCX rápidamente antes de integrar el código.
 
 family: total
 platformtag: net

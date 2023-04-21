@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLSM till DOCX med .NET eller med gratis Online Converter
-description: Konvertera XLSM till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLSM till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLSM till DOCX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

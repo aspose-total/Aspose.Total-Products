@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLTM till PPTX med .NET eller med gratis Online Converter
-description: Konvertera XLTM till PPTX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLTM till PPTX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLTM till PPTX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

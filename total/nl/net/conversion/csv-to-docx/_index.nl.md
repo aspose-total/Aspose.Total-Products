@@ -1,6 +1,6 @@
 ---
 title: Converteer CSV naar DOCX met .NET of met gratis Online Converter
-description: Converteer CSV naar DOCX op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer CSV naar DOCX op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis CSV naar DOCX online converter snel voordat u de code integreert.
 
 family: total
 platformtag: net

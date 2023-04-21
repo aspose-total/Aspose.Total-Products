@@ -1,6 +1,6 @@
 ---
 title: Convierta XLSM a PPTX con .NET o con el convertidor en línea gratuito
-description: Convierta XLSM a PPTX en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta XLSM a PPTX en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de XLSM a PPTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: net

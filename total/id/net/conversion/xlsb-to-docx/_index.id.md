@@ -1,6 +1,6 @@
 ---
 title: Konversi XLSB ke DOCX dengan .NET atau dengan Konverter Online gratis
-description: Konversi XLSB ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi XLSB ke DOCX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online XLSB ke DOCX gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

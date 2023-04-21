@@ -1,6 +1,6 @@
 ---
 title: Převeďte SXC na WORD pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte SXC na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte SXC na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  SXC na WORD.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převeďte ODS na PPTX pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte ODS na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte ODS na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  ODS na PPTX.
 
 family: total
 platformtag: net

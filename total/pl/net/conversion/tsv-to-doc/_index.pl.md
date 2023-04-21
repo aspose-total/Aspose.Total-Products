@@ -1,6 +1,6 @@
 ---
 title: Konwertuj TSV na DOC za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj TSV na DOC na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj TSV na DOC na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online TSV na DOC przed integracją kodu.
 
 family: total
 platformtag: net

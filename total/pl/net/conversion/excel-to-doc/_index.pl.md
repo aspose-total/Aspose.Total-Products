@@ -71,7 +71,7 @@ document.Save("output.doc", SaveFormat.Doc);
                           <span itemprop="name"><b>Jak mogę przekonwertować EXCEL na DOC Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Aplikacja online do konwersji EXCEL jest zintegrowana powyżej. Aby rozpocząć proces konwersji, możesz przeciągnąć i upuścić plik EXCEL lub kliknąć wewnątrz wyznaczonego obszaru, aby zaimportować dokument. Następnie kliknij przycisk „Konwertuj”, aby rozpocząć konwersję EXCEL na DOC. Po zakończeniu procesu możesz łatwo pobrać przekonwertowany plik jednym kliknięciem, uzyskując żądany wynik w formacie DOC.</span>
+                          <span itemprop="text">Aplikacja online do konwersji EXCEL jest zintegrowana powyżej. Aby rozpocząć proces konwersji, możesz przeciągnąć i upuścić plik EXCEL lub kliknąć wewnątrz wyznaczonego obszaru, aby zaimportować dokument. Następnie kliknij przycisk „Konwertuj”, aby rozpocząć konwersję  EXCEL na DOC. Po zakończeniu procesu możesz łatwo pobrać przekonwertowany plik jednym kliknięciem, uzyskując żądany wynik w formacie DOC.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

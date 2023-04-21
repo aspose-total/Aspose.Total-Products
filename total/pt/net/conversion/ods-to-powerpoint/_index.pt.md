@@ -1,6 +1,6 @@
 ---
 title: Converter ODS para POWERPOINT com .NET ou com o conversor online gratuito
-description: Converter ODS para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converter ODS para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de ODS para POWERPOINT rapidamente antes de integrar o código.
 
 family: total
 platformtag: net

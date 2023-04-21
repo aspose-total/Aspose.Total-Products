@@ -1,6 +1,6 @@
 ---
 title: A XLSB konvertálása DOC formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A XLSB konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A XLSB konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSB-DOC online konvertert.
 
 family: total
 platformtag: net

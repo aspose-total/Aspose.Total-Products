@@ -1,6 +1,6 @@
 ---
 title: แปลง SXC เป็น DOC ด้วย .NET หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง SXC เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง SXC เป็น DOC บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง SXC เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: net

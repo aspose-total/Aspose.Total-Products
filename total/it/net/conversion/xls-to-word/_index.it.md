@@ -1,6 +1,6 @@
 ---
 title: Converti XLS in WORD con .NET o con il convertitore online gratuito
-description: Converti XLS in WORD su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da CSV a DOC prima di integrare il codice.
+description: Converti XLS in WORD su piattaforme .NET Framework, .NET Core, Mono o Xamarin o in linea. Prova rapidamente il convertitore online gratuito da XLS a WORD prima di integrare il codice.
 
 family: total
 platformtag: net

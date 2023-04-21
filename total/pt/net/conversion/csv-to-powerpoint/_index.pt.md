@@ -1,6 +1,6 @@
 ---
 title: Converter CSV para POWERPOINT com .NET ou com o conversor online gratuito
-description: Converter CSV para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para DOC rapidamente antes de integrar o código.
+description: Converter CSV para POWERPOINT em plataformas .NET Framework, .NET Core, Mono ou Xamarin ou on-line. Teste o conversor online gratuito de CSV para POWERPOINT rapidamente antes de integrar o código.
 
 family: total
 platformtag: net

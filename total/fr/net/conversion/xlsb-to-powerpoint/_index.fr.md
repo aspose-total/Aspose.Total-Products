@@ -1,6 +1,6 @@
 ---
 title: Convertir XLSB en POWERPOINT avec .NET ou avec le convertisseur en ligne gratuit
-description: Convertir XLSB en POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertir XLSB en POWERPOINT sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne XLSB vers POWERPOINT gratuit avant d'intégrer le code.
 
 family: total
 platformtag: net

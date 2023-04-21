@@ -1,6 +1,6 @@
 ---
 title: .NETを使用してEXCELをPPTXに変換する または無料のオンライン コンバーターを使用
-description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをPPTXに変換する またはオンライン。コードを統合する前に、無料の EXCEL から DOC へのオンライン コンバーターをすばやくテストします。
+description: .NET Framework、.NET Core、Mono、またはXamarinプラットフォームでEXCELをPPTXに変換する またはオンライン。コードを統合する前に、無料の EXCEL から PPTX へのオンライン コンバーターをすばやくテストします。
 
 family: total
 platformtag: net

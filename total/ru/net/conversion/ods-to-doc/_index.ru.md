@@ -1,6 +1,6 @@
 ---
 title: Преобразование ODS в DOC с помощью .NET 
-description: Преобразование ODS в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование ODS в DOC на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер ODS в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/ods-to-doc/
 family: total
 platformtag: net

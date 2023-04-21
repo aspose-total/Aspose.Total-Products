@@ -1,6 +1,6 @@
 ---
 title: Convertir TSV en WORD avec .NET ou avec le convertisseur en ligne gratuit
-description: Convertir TSV en WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne CSV vers DOC gratuit avant d'intégrer le code.
+description: Convertir TSV en WORD sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin ou en ligne. Testez rapidement le convertisseur en ligne TSV vers WORD gratuit avant d'intégrer le code.
 
 family: total
 platformtag: net

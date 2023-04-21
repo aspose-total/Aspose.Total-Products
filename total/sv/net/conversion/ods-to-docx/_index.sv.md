@@ -1,6 +1,6 @@
 ---
 title: Konvertera ODS till DOCX med .NET eller med gratis Online Converter
-description: Konvertera ODS till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera ODS till DOCX på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis ODS till DOCX online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

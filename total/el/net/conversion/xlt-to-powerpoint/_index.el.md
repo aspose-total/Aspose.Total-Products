@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLT σε POWERPOINT με .NET ή με δωρεάν Online Converter
-description: Μετατροπή XLT σε POWERPOINT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή XLT σε POWERPOINT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLT σε POWERPOINT πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Конвертируйте XLTM в POWERPOINT с помощью .NET 
-description: Преобразование XLTM в POWERPOINT на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование XLTM в POWERPOINT на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер XLTM в POWERPOINT, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/xltm-to-powerpoint/
 family: total
 platformtag: net

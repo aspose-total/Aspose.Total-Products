@@ -1,6 +1,6 @@
 ---
 title: Převeďte CSV na POWERPOINT pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte CSV na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte CSV na POWERPOINT na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  CSV na POWERPOINT.
 
 family: total
 platformtag: net

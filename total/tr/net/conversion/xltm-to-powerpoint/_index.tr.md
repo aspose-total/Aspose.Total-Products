@@ -1,6 +1,6 @@
 ---
 title: .NET ile XLTM'yi POWERPOINT'ye dönüştürün veya ücretsiz Çevrimiçi Dönüştürücü ile
-description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLTM'yi POWERPOINT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz CSV'den DOC'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
+description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLTM'yi POWERPOINT'ye dönüştürün veya çevrimiçi. Kodu entegre etmeden önce ücretsiz XLTM'den POWERPOINT'e çevrimiçi dönüştürücüyü hızlı bir şekilde test edin.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: تحويل XLSX إلى POWERPOINT باستخدام .NET أو مع محول مجاني على الإنترنت
-description: قم بتحويل ملف XLSX إلى POWERPOINT على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+description: قم بتحويل ملف XLSX إلى POWERPOINT على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin أو عبر الإنترنت. اختبر محول XLSX إلى POWERPOINT على الإنترنت مجانًا بسرعة قبل دمج الكود.
 
 family: total
 platformtag: net

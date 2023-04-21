@@ -1,6 +1,6 @@
 ---
 title: Konwertuj EXCEL na WORD za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj EXCEL na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Przetestuj szybko darmowy konwerter online EXCEL na DOC przed integracją kodu.
+description: Konwertuj EXCEL na WORD na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Przetestuj szybko darmowy konwerter online EXCEL na WORD przed integracją kodu.
 
 family: total
 platformtag: net

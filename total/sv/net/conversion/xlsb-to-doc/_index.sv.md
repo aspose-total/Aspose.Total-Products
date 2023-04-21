@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLSB till DOC med .NET eller med gratis Online Converter
-description: Konvertera XLSB till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLSB till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLSB till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

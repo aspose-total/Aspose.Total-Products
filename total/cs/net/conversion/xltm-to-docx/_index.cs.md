@@ -1,6 +1,6 @@
 ---
 title: Převeďte XLTM na DOCX pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte XLTM na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte XLTM na DOCX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  XLTM na DOCX.
 
 family: total
 platformtag: net

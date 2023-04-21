@@ -1,6 +1,6 @@
 ---
 title: Convierta FODS a POWERPOINT con .NET o con el convertidor en línea gratuito
-description: Convierta FODS a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta FODS a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de FODS a POWERPOINT rápidamente antes de integrar el código.
 
 family: total
 platformtag: net

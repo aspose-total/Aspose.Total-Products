@@ -1,6 +1,6 @@
 ---
 title: Konvertieren Sie XLT in WORD mit .NET oder mit dem kostenlosen Online Converter
-description: Konvertieren Sie XLT in WORD auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen oder online. Testen Sie schnell den kostenlosen CSV-zu-DOC-Online-Konverter, bevor Sie den Code integrieren.
+description: Konvertieren Sie XLT in WORD auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen oder online. Testen Sie schnell den kostenlosen XLT-zu-WORD-Online-Konverter, bevor Sie den Code integrieren.
 
 family: total
 platformtag: net

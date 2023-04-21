@@ -1,6 +1,6 @@
 ---
 title: Преобразование EXCEL в WORD с помощью .NET 
-description: Преобразование EXCEL в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер EXCEL в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование EXCEL в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin или онлайн. Быстро протестируйте бесплатный онлайн-конвертер EXCEL в WORD, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/excel-to-word/
 family: total
 platformtag: net

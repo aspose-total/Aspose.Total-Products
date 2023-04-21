@@ -1,6 +1,6 @@
 ---
 title: Konversi XLSX ke WORD dengan .NET atau dengan Konverter Online gratis
-description: Konversi XLSX ke WORD di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi XLSX ke WORD di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online XLSX ke WORD gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

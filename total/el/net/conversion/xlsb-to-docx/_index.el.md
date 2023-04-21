@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLSB σε DOCX με .NET ή με δωρεάν Online Converter
-description: Μετατροπή XLSB σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή XLSB σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLSB σε DOCX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net

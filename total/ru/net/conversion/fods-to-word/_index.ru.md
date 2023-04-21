@@ -1,6 +1,6 @@
 ---
 title: Преобразование FODS в WORD с помощью .NET 
-description: Преобразование FODS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование FODS в WORD на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер FODS в WORD, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/fods-to-word/
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Převeďte FODS na WORD pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte FODS na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte FODS na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  FODS na WORD.
 
 family: total
 platformtag: net

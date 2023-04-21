@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLTX till DOC med .NET eller med gratis Online Converter
-description: Konvertera XLTX till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLTX till DOC på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLTX till DOC online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

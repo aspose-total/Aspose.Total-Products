@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLTX na POWERPOINT za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj XLTX na POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj XLTX na POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online XLTX na POWERPOINT przed integracją kodu.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Converteer ODS naar WORD met .NET of met gratis Online Converter
-description: Converteer ODS naar WORD op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis CSV naar DOC online converter snel voordat u de code integreert.
+description: Converteer ODS naar WORD op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms of online. Test de gratis ODS naar WORD online converter snel voordat u de code integreert.
 
 family: total
 platformtag: net

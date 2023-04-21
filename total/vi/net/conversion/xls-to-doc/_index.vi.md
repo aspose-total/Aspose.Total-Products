@@ -1,6 +1,6 @@
 ---
 title: Chuyển đổi XLS sang DOC với .NET hoặc với Trình chuyển đổi trực tuyến miễn phí
-description: Chuyển đổi XLS sang DOC trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến CSV sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
+description: Chuyển đổi XLS sang DOC trên Nền tảng .NET Framework, .NET Core, Mono hoặc Xamarin hoặc trực tuyến. Kiểm tra trình chuyển đổi trực tuyến XLS sang DOC miễn phí một cách nhanh chóng trước khi tích hợp mã.
 
 family: total
 platformtag: net

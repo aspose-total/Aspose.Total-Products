@@ -1,6 +1,6 @@
 ---
 title: Převeďte TSV na PPTX pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte TSV na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte TSV na PPTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  TSV na PPTX.
 
 family: total
 platformtag: net

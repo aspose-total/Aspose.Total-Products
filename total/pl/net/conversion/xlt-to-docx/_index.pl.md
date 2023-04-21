@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLT na DOCX za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj XLT na DOCX na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj XLT na DOCX na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online XLT na DOCX przed integracją kodu.
 
 family: total
 platformtag: net

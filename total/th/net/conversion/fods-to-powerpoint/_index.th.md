@@ -1,6 +1,6 @@
 ---
 title: แปลง FODS เป็น POWERPOINT ด้วย .NET หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง FODS เป็น POWERPOINT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง FODS เป็น POWERPOINT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง FODS เป็น POWERPOINT ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertera EXCEL till WORD med .NET eller med gratis Online Converter
-description: Konvertera EXCEL till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis EXCEL till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera EXCEL till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis EXCEL till WORD online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

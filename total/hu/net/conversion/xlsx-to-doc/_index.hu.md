@@ -1,6 +1,6 @@
 ---
 title: A XLSX konvertálása DOC formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A XLSX konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A XLSX konvertálása DOC formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLSX-DOC online konvertert.
 
 family: total
 platformtag: net

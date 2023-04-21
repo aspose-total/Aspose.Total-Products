@@ -1,6 +1,6 @@
 ---
 title: A EXCEL konvertálása WORD formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A EXCEL konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-DOC online konvertert.
+description: A EXCEL konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes EXCEL-WORD online konvertert.
 
 family: total
 platformtag: net

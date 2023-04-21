@@ -1,6 +1,6 @@
 ---
 title: Konwertuj EXCEL na DOCX za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj EXCEL na DOCX na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Przetestuj szybko darmowy konwerter online EXCEL na DOC przed integracją kodu.
+description: Konwertuj EXCEL na DOCX na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Przetestuj szybko darmowy konwerter online EXCEL na DOCX przed integracją kodu.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: แปลง XLSX เป็น DOCX ด้วย .NET หรือด้วยตัวแปลงออนไลน์ฟรี
-description: แปลง XLSX เป็น DOCX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง CSV เป็น DOC ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
+description: แปลง XLSX เป็น DOCX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms หรือทางออนไลน์ ทดสอบตัวแปลง XLSX เป็น DOCX ออนไลน์ฟรีอย่างรวดเร็วก่อนที่จะรวมโค้ด
 
 family: total
 platformtag: net

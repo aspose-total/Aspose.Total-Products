@@ -1,6 +1,6 @@
 ---
 title: Convierta SXC a DOC con .NET o con el convertidor en línea gratuito
-description: Convierta SXC a DOC en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta SXC a DOC en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de SXC a DOC rápidamente antes de integrar el código.
 
 family: total
 platformtag: net

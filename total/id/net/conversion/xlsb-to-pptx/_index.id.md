@@ -1,6 +1,6 @@
 ---
 title: Konversi XLSB ke PPTX dengan .NET atau dengan Konverter Online gratis
-description: Konversi XLSB ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online CSV ke DOC gratis dengan cepat sebelum mengintegrasikan kode.
+description: Konversi XLSB ke PPTX di .NET Framework, .NET Core, Mono atau Platform Xamarin atau daring. Uji konverter online XLSB ke PPTX gratis dengan cepat sebelum mengintegrasikan kode.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLT till POWERPOINT med .NET eller med gratis Online Converter
-description: Konvertera XLT till POWERPOINT på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLT till POWERPOINT på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLT till POWERPOINT online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

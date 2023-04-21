@@ -1,6 +1,6 @@
 ---
 title: Převeďte CSV na WORD pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte CSV na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte CSV na WORD na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  CSV na WORD.
 
 family: total
 platformtag: net

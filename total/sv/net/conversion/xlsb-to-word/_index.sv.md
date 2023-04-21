@@ -1,6 +1,6 @@
 ---
 title: Konvertera XLSB till WORD med .NET eller med gratis Online Converter
-description: Konvertera XLSB till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis CSV till DOC online-omvandlare snabbt innan du integrerar koden.
+description: Konvertera XLSB till WORD på .NET Framework, .NET Core, Mono eller Xamarin-plattformar eller online. Testa gratis XLSB till WORD online-omvandlare snabbt innan du integrerar koden.
 
 family: total
 platformtag: net

@@ -1,6 +1,6 @@
 ---
 title: A ODS konvertálása WORD formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A ODS konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A ODS konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes ODS-WORD online konvertert.
 
 family: total
 platformtag: net

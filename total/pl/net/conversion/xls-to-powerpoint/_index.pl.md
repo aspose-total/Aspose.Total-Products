@@ -1,6 +1,6 @@
 ---
 title: Konwertuj XLS na POWERPOINT za pomocą .NET lub za pomocą bezpłatnego konwertera online
-description: Konwertuj XLS na POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online CSV na DOC przed integracją kodu.
+description: Konwertuj XLS na POWERPOINT na platformach .NET Framework, .NET Core, Mono lub Xamarin lub online. Szybko przetestuj darmowy konwerter online XLS na POWERPOINT przed integracją kodu.
 
 family: total
 platformtag: net

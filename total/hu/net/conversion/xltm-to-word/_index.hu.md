@@ -1,6 +1,6 @@
 ---
 title: A XLTM konvertálása WORD formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A XLTM konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A XLTM konvertálása WORD formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLTM-WORD online konvertert.
 
 family: total
 platformtag: net

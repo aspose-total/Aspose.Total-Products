@@ -1,6 +1,6 @@
 ---
 title: Převeďte CSV na DOC pomocí .NET nebo pomocí bezplatného online převodníku
-description: Převeďte CSV na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník CSV na DOC.
+description: Převeďte CSV na DOC na platformách .NET Framework, .NET Core, Mono nebo Xamarin nebo online. Před integrací kódu rychle otestujte bezplatný online převodník  CSV na DOC.
 
 family: total
 platformtag: net
@@ -73,7 +73,7 @@ document.Save("output.doc", SaveFormat.Doc);
                           <span itemprop="name"><b>Jak mohu převést CSV na DOC Online?</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Online aplikace pro převod CSV je integrována výše. Chcete-li zahájit proces převodu, můžete buď přetáhnout soubor CSV, nebo kliknout do určené oblasti a importovat dokument. Dále klikněte na tlačítko "Převést" pro zahájení převodu CSV na DOC. Po dokončení procesu si můžete snadno stáhnout převedený soubor jediným kliknutím a získat požadovaný výstup ve formátu DOC.</span>
+                          <span itemprop="text">Online aplikace pro převod CSV je integrována výše. Chcete-li zahájit proces převodu, můžete buď přetáhnout soubor CSV, nebo kliknout do určené oblasti a importovat dokument. Dále klikněte na tlačítko "Převést" pro zahájení převodu  CSV na DOC. Po dokončení procesu si můžete snadno stáhnout převedený soubor jediným kliknutím a získat požadovaný výstup ve formátu DOC.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">

@@ -1,6 +1,6 @@
 ---
 title: A XLT konvertálása PPTX formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A XLT konvertálása PPTX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A XLT konvertálása PPTX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes XLT-PPTX online konvertert.
 
 family: total
 platformtag: net

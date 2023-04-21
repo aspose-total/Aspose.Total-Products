@@ -1,6 +1,6 @@
 ---
 title: A TSV konvertálása DOCX formátumba .NET segítségével vagy ingyenes online konverterrel
-description: A TSV konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes CSV-DOC online konvertert.
+description: A TSV konvertálása DOCX formátumba .NET Framework, .NET Core, Mono vagy Xamarin platformokon vagy online. A kód integrálása előtt gyorsan tesztelje az ingyenes TSV-DOCX online konvertert.
 
 family: total
 platformtag: net

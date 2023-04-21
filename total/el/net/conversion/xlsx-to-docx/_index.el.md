@@ -1,6 +1,6 @@
 ---
 title: Μετατροπή XLSX σε DOCX με .NET ή με δωρεάν Online Converter
-description: Μετατροπή XLSX σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα CSV σε DOC πριν ενσωματώσετε τον κώδικα.
+description: Μετατροπή XLSX σε DOCX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin ή διαδικτυακά. Δοκιμάστε γρήγορα τον δωρεάν διαδικτυακό μετατροπέα XLSX σε DOCX πριν ενσωματώσετε τον κώδικα.
 
 family: total
 platformtag: net

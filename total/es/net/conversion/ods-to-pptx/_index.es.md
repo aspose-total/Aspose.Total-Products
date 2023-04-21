@@ -1,6 +1,6 @@
 ---
 title: Convierta ODS a PPTX con .NET o con el convertidor en línea gratuito
-description: Convierta ODS a PPTX en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta ODS a PPTX en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de ODS a PPTX rápidamente antes de integrar el código.
 
 family: total
 platformtag: net

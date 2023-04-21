@@ -1,6 +1,6 @@
 ---
 title: Convierta TSV a POWERPOINT con .NET o con el convertidor en línea gratuito
-description: Convierta TSV a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de CSV a DOC rápidamente antes de integrar el código.
+description: Convierta TSV a POWERPOINT en plataformas .NET Framework, .NET Core, Mono o Xamarin o en línea. Pruebe el convertidor en línea gratuito de TSV a POWERPOINT rápidamente antes de integrar el código.
 
 family: total
 platformtag: net

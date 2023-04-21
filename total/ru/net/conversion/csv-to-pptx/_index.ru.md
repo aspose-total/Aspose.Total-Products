@@ -1,6 +1,6 @@
 ---
 title: Преобразование CSV в PPTX с помощью .NET 
-description: Преобразование CSV в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в DOC, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
+description: Преобразование CSV в PPTX на платформах .NET Framework, .NET Core, Mono или Xamarin. или онлайн. Быстро протестируйте бесплатный онлайн-конвертер CSV в PPTX, прежде чем интегрировать код. или с помощью бесплатного онлайн-конвертера
 url_ignore: /ru/net/conversion/csv-to-pptx/
 family: total
 platformtag: net
