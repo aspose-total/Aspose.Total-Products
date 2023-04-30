@@ -1,5 +1,5 @@
 ---
-title: Convert DOTM to EXCEL via Java or Online App or with free Online Converter
+title: Convert DOTM to EXCEL via Java or with free Online Converter
 description: Convert DOTM to EXCEL via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free DOTM to EXCEL online converter quickly before integrating the code. 
 url_ignore: /java/conversion/dotm-to-excel/
 family: total
@@ -17,7 +17,7 @@ You can converting DOTM to EXCEL via [Aspose.Total for Java](https://products.as
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOTM to EXCEL via Java or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOTM to EXCEL via Java" %}}
 1. Open DOTM file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOTM to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class

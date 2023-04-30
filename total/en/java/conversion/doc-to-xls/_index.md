@@ -1,5 +1,5 @@
 ---
-title: Convert DOC to XLS via Java or Online App or with free Online Converter
+title: Convert DOC to XLS via Java or with free Online Converter
 description: Convert DOC to XLS via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free DOC to XLS online converter quickly before integrating the code. 
 url_ignore: /java/conversion/doc-to-xls/
 family: total
@@ -17,7 +17,7 @@ You can converting DOC to XLS via [Aspose.Total for Java](https://products.aspos
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOC to XLS via Java or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOC to XLS via Java" %}}
 1. Open DOC file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOC to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class

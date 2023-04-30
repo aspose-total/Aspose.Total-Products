@@ -1,5 +1,5 @@
 ---
-title: Convert DOC to XLSM via Java or Online App or with free Online Converter
+title: Convert DOC to XLSM via Java or with free Online Converter
 description: Convert DOC to XLSM via Java or Online App without using using Microsoft Word or Microsoft Excel or online. Test free DOC to XLSM online converter quickly before integrating the code. 
 url_ignore: /java/conversion/doc-to-xlsm/
 family: total
@@ -17,7 +17,7 @@ You can converting DOC to XLSM via [Aspose.Total for Java](https://products.aspo
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOC to XLSM via Java or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOC to XLSM via Java" %}}
 1. Open DOC file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOC to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
