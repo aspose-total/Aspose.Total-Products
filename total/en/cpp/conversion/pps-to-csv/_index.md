@@ -17,7 +17,7 @@ By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to CSV via C++ or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to CSV via C++" %}}
 1. Open PPS file using [Presentation](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation) class reference
 2. Convert PPS to HTML by using [Save](https://reference.aspose.com/slides/cpp/class/aspose.slides.presentation#a06fe2a156063c8c3e5ada2713bb697ba) method
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
