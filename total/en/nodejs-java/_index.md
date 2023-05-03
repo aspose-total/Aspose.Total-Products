@@ -5,7 +5,7 @@ description: Process Excel Spreadsheets and Visio Documents via Node.js API. Uti
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel and Visio Files as well as Barcode Processing APIs" h2="Manipulate Excel Spreadsheets as well as Read, Write, Create and Export Visio Files via Node.js API. Moreover, Scan and Generate BarCodes with ease." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-nodejs-java.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel and Visio Files as well as Barcode Processing APIs" h2="Manipulate Excel Spreadsheets as well as Read, Write, Create and Export Visio Files via Node.js API. Moreover, Scan and Generate BarCodes with ease." logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/headers/aspose_total-for-node-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
