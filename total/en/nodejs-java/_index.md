@@ -9,7 +9,7 @@ description: Process Excel Spreadsheets and Visio Documents via Node.js API. Uti
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-node-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Node.js via Java is a complete package for Excel Spreadsheet manipulation as well as Viso documents processing. Developers can create, manipulate, render and convert Excel Files via Nodejs as well as load, read, write and export Visio formats including  VDX, VSDX, VTX, VSX and more formats. Developers can easily integrate Node API for Barcode recognition and generation.
