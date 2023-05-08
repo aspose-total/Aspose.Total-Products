@@ -1,25 +1,25 @@
 ---
-title: تحويل CSV إلى PPTX باستخدام Java أو مع محول مجاني على الإنترنت
-description: Java API لتصدير CSV إلى PPTX أو عبر الإنترنت باستخدام Excel أو Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
-url_ignore: /ar/java/conversion/csv-to-pptx/
+title: تحويل CSV إلى OTT باستخدام Java أو مع محول مجاني على الإنترنت
+description: Java API لتصدير CSV إلى OTT أو عبر الإنترنت باستخدام Excel أو Word أو عبر الإنترنت. اختبر محول CSV إلى DOC على الإنترنت مجانًا بسرعة قبل دمج الكود.
+
 family: total
 platformtag: net
 feature: conversion
 informat: CSV
-outformat: PPTX
-otherformats: POWERPOINT PPTX PPT WORD
+outformat: OTT
+otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير CSV إلى PPTX أو عبر الإنترنت" h2="في Premise Java API لتصدير CSV إلى PPTX أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Java API لتصدير CSV إلى OTT أو عبر الإنترنت" h2="في Premise Java API لتصدير CSV إلى OTT أو عبر الإنترنت دون الاعتماد على Microsoft Excel & reg ؛" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-يعتبر تحويل CSV إلى PPTX عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند CSV المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى PPTX. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
+يعتبر تحويل CSV إلى OTT عملية من خطوتين. ستستخدم أولاً واجهة برمجة تطبيقات [Aspose.Cells for Java](https://products.aspose.com/cells/java) لتحويل مستند CSV المحدد إلى PDF ، ثم باستخدام [Aspose.Pdf for Java](https://products.aspose.com/pdf/java) API ، يمكنك بسهولة تحويل مستند PDF إلى OTT. تأتي كلتا واجهات برمجة التطبيقات ضمن مجموعة مكتبات أتمتة تنسيق الملفات [Aspose.Total for Java](https://products.aspose.com/total/java/).
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل CSV إلى PPTX عبر Java API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل CSV إلى OTT عبر Java API" %}}
 1. افتح ملف CSV باستخدام فئة [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
 2. تحويل CSV إلى PDF وتعيين SaveFormat على AUTO
 3. قم بتحميل ملف PDF المحول باستخدام فئة [Document](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document)
-4. احفظ المستند بتنسيق PPTX باستخدام [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة وتعيين Pptx كـ SaveFormat
+4. احفظ المستند بتنسيق OTT باستخدام [save](https://reference.aspose.com/pdf/java/com.aspose.pdf/Document#save-java.lang.String-com.aspose.pdf.SaveOptions-) طريقة وتعيين Docx كـ SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
 يجب عليك استخدام Aspose.Total for Java مباشرة من مشروع قائم على [Maven](https://releases.aspose.com/total/java/) وتضمين مكتبات في ملفك pom.xml.
@@ -33,9 +33,9 @@ Workbook book = new Workbook("input.csv");
 // save CSV as PDF
 book.save("pdfOutput.pdf", com.aspose.cells.SaveFormat.AUTO);
 // load the PDF file using Document class
-Document document = new Document("pdfOutput.pdf");
-// save document in PPTX format
-document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);  
+Document Document = new Document("pdfOutput.pdf");
+// save Document in OTT format
+Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);  
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -45,10 +45,10 @@ document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 <div class=row>
 <div class="demobox tc col-md-12 padding-0">
 
-<h3>محول عبر الإنترنت لـ CSV إلى PPTX</h3>
+<h3>محول عبر الإنترنت لـ CSV إلى OTT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=csv" id="child-iframe" width="80%"></iframe>
-<p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-pptx/">جرب تطبيقنا المجاني لتحويل CSV إلى PPTX</a></p>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=csv" id="child-iframe" width="80%"></iframe>
+<p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/csv-to-docx/">جرب تطبيقنا المجاني لتحويل CSV إلى OTT</a></p>
 </div></div>
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -65,10 +65,10 @@ document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
               <ul>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>كيف يمكنني تحويل CSV إلى PPTX Online؟</b></span>
+                          <span itemprop="name"><b>كيف يمكنني تحويل CSV إلى OTT Online؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">تم دمج التطبيق عبر الإنترنت لتحويل CSV أعلاه. تتضمن عملية التحويل إضافة ملف CSV إما عن طريق سحبه وإفلاته في المنطقة البيضاء أو النقر داخل المنطقة لاستيراد الملف. بمجرد إضافة الملف ، ما عليك سوى النقر فوق الزر "تحويل" لبدء عملية التحويل. بمجرد الانتهاء ، يمكنك تنزيل ملف PPTX المحول حديثًا بنقرة واحدة فقط.</span>
+                          <span itemprop="text">تم دمج التطبيق عبر الإنترنت لتحويل CSV أعلاه. تتضمن عملية التحويل إضافة ملف CSV إما عن طريق سحبه وإفلاته في المنطقة البيضاء أو النقر داخل المنطقة لاستيراد الملف. بمجرد إضافة الملف ، ما عليك سوى النقر فوق الزر "تحويل" لبدء عملية التحويل. بمجرد الانتهاء ، يمكنك تنزيل ملف OTT المحول حديثًا بنقرة واحدة فقط.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -76,15 +76,15 @@ document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
                           <span itemprop="name"><b>كم من الوقت يستغرق تحويل CSV؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">يتم تحديد سرعة هذا المحول عبر الإنترنت إلى حد كبير من خلال حجم ملف CSV الذي يتم تحويله. يمكن تحويل ملفات CSV الأصغر إلى PPTX في غضون ثوانٍ قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق Java ، فإن كفاءة التطبيق ستؤثر أيضًا على عملية التحويل.</span>
+                          <span itemprop="text">يتم تحديد سرعة هذا المحول عبر الإنترنت إلى حد كبير من خلال حجم ملف CSV الذي يتم تحويله. يمكن تحويل ملفات CSV الأصغر إلى OTT في غضون ثوانٍ قليلة. بالإضافة إلى ذلك ، إذا قمت بدمج كود التحويل في تطبيق Java ، فإن كفاءة التطبيق ستؤثر أيضًا على عملية التحويل.</span>
                       </div>
                   </li>
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
                       <div>
-                          <span itemprop="name"><b>هل من الآمن تحويل CSV إلى PPTX باستخدام محول Aspose.Total المجاني؟</b></span>
+                          <span itemprop="name"><b>هل من الآمن تحويل CSV إلى OTT باستخدام محول Aspose.Total المجاني؟</b></span>
                       </div>
                       <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">بالطبع! بعد اكتمال عملية التحويل ، سيتم توفير رابط تنزيل ملف PPTX على الفور. يتم حذف الملفات التي تم تحميلها تلقائيًا بعد 24 ساعة ، ولن تكون روابط التنزيل نشطة بعد ذلك الإطار الزمني. يمكنك التأكد من أن ملفاتك آمنة وأن تحويل الملفات ، بما في ذلك CSV ، آمن تمامًا. تم دمج التطبيق المجاني بشكل أساسي لأغراض الاختبار ، مما يتيح لك التحقق من النتائج قبل دمج الكود في مشروعك.</span>
+                          <span itemprop="text">بالطبع! بعد اكتمال عملية التحويل ، سيتم توفير رابط تنزيل ملف OTT على الفور. يتم حذف الملفات التي تم تحميلها تلقائيًا بعد 24 ساعة ، ولن تكون روابط التنزيل نشطة بعد ذلك الإطار الزمني. يمكنك التأكد من أن ملفاتك آمنة وأن تحويل الملفات ، بما في ذلك CSV ، آمن تمامًا. تم دمج التطبيق المجاني بشكل أساسي لأغراض الاختبار ، مما يتيح لك التحقق من النتائج قبل دمج الكود في مشروعك.</span>
                       </div>
                   </li>                 
                   <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
