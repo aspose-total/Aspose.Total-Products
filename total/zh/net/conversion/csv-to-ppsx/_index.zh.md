@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: CSV
 outformat: PPSX
-otherformats: WORD POWERPOINT DOC DOCX
+otherformats: PowerPoint PPT POT PPS POT PPSX PPTM PPSM POTX POTM
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
