@@ -47,6 +47,10 @@ Export RDL reports to Word, Excel, PowerPoint and other formats from SQL Server 
 Export reports to Word, Excel, PowerPoint and other formats from JasperReports or JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-node-via-java.svg" productLink="/total/nodejs-java" >}}
+Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCodes of various symbologies using Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
