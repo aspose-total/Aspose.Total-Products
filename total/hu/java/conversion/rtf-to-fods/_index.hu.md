@@ -15,7 +15,7 @@ otherformats: ODS XLS TSV XLSM FODS SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 A RTF konvertálása FODS-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával RTF-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t FODS-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a RTF konvertálásához FODS-vé" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API a RTF konvertálásához FODS-vé" %}}
 1. Nyissa meg a RTF-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
 2. A [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével konvertálja a RTF-t HTML-vé. ) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával

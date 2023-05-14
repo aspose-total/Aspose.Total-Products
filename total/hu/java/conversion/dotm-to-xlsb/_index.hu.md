@@ -15,7 +15,7 @@ otherformats: TSV XLAM SXC XLSB EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 A DOTM konvertálása XLSB-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával DOTM-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLSB-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a DOTM konvertálásához XLSB-vé" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API a DOTM konvertálásához XLSB-vé" %}}
 1. Nyissa meg a DOTM-fájlt a [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument) osztály használatával
 2. A [Save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) segítségével konvertálja a DOTM-t HTML-vé. ) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával

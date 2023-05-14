@@ -15,7 +15,7 @@ otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 Mengonversi DOT ke XLAM melalui [Aspose.Total for Java](https://products.aspose.com/total/java/) adalah proses dua langkah sederhana. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Java](https://products.aspose.com/words/java/), Anda dapat mengekspor DOT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java/), Anda dapat mengonversi HTML ke XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi DOT ke XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API untuk Mengonversi DOT ke XLAM" %}}
 1. Buka file DOT menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Konversi DOT ke HTML dengan menggunakan [Simpan](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
 3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

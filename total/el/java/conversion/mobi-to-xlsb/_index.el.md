@@ -15,7 +15,7 @@ otherformats: XLSB XLSX TSV XLAM XLT XLSM SXC XLTX XLS FODS ODS XLTM DIF EXCEL
 Η μετατροπή MOBI σε XLSB μέσω [Aspose.Total for Java](https://products.aspose.com/total/java/) είναι μια απλή διαδικασία δύο βημάτων. Χρησιμοποιώντας το πλούσιο σε χαρακτηριστικά, το API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Java](https://products.aspose.com/words/java/), μπορείτε να εξάγετε το MOBI σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή MOBI σε XLSB" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API για μετατροπή MOBI σε XLSB" %}}
 1. Ανοίξτε το αρχείο MOBI χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Μετατρέψτε το MOBI σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

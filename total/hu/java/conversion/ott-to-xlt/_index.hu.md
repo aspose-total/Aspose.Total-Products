@@ -15,7 +15,7 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 A OTT konvertálása XLT-vé az [Aspose.Total for Java](https://products.aspose.com/total/java/) egy egyszerű kétlépéses folyamat. A funkciókban gazdag, dokumentumkezelési és -konverziós API [Aspose.Words for Java](https://products.aspose.com/words/java/) használatával OTT-t HTML-be exportálhat. Ezt követően az [Aspose.Cells for Java](https://products.aspose.com/cells/java/) használatával konvertálhatja a HTML-t XLT-vé.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API a OTT konvertálásához XLT-vé" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API a OTT konvertálásához XLT-vé" %}}
 1. Nyissa meg a OTT-fájlt a [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) osztály használatával
 2. A [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) segítségével konvertálja a OTT-t HTML-vé. ) módszerrel
 3. Töltsön be HTML-dokumentumot a [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) osztály használatával

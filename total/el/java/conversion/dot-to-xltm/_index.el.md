@@ -15,7 +15,7 @@ otherformats: XLSB XLTM FODS XLAM XLTX TSV ODS XLT XLS XLSM SXC XLSX EXCEL DIF
 Η μετατροπή DOT σε XLTM μέσω [Aspose.Total for Java](https://products.aspose.com/total/java/) είναι μια απλή διαδικασία δύο βημάτων. Χρησιμοποιώντας το πλούσιο σε χαρακτηριστικά, το API χειρισμού εγγράφων και μετατροπής [Aspose.Words για Java](https://products.aspose.com/words/java/), μπορείτε να εξάγετε το DOT σε HTML. Μετά από αυτό, χρησιμοποιώντας το [Aspose.Cells για Java](https://products.aspose.com/cells/java/), μπορείτε να μετατρέψετε HTML σε XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API για μετατροπή DOT σε XLTM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API για μετατροπή DOT σε XLTM" %}}
 1. Ανοίξτε το αρχείο DOT χρησιμοποιώντας την κλάση [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Μετατρέψτε το DOT σε HTML χρησιμοποιώντας το [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) μέθοδος
 3. Φορτώστε το έγγραφο HTML χρησιμοποιώντας την τάξη [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

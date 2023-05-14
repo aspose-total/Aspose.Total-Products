@@ -15,7 +15,7 @@ otherformats: XLTX XLAM XLSM XLT FODS XLSB XLS DIF XLSX TSV XLTM ODS SXC EXCEL
 Das Konvertieren von RTF in XLT über [Aspose.Total for Java](https://products.aspose.com/total/java/) ist ein einfacher zweistufiger Prozess. Durch die Verwendung der funktionsreichen Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) können Sie RTF in HTML exportieren. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in XLT konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von RTF in XLT" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java-API zum Konvertieren von RTF in XLT" %}}
 1. Öffnen Sie die RTF-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 2. Konvertieren Sie RTF in HTML mit [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).

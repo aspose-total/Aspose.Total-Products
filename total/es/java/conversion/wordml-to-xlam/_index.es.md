@@ -15,7 +15,7 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 Convertir WORDML a XLAM a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de documentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar WORDML a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir WORDML a XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir WORDML a XLAM" %}}
 1. Abra el archivo WORDML usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta WORDML a HTML usando [Guardar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Cargue el documento HTML utilizando la clase [Libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

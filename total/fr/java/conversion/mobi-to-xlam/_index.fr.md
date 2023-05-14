@@ -15,7 +15,7 @@ otherformats: SXC DIF XLT EXCEL XLTX XLSM XLAM XLTM ODS FODS XLSX XLSB TSV XLS
 La conversion de MOBI en XLAM via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de mobiuments riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter MOBI vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir MOBI en XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java pour convertir MOBI en XLAM" %}}
 1. Ouvrez le fichier MOBI à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convertissez MOBI en HTML en utilisant [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) méthode
 3. Chargez le mobiument HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

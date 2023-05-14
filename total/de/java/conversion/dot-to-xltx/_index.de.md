@@ -15,7 +15,7 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS XLTX EXCEL XLSX SXC TSV XLSB
 Das Konvertieren von DOT in XLTX über [Aspose.Total for Java](https://products.aspose.com/total/java/) ist ein einfacher zweistufiger Prozess. Durch die Verwendung der funktionsreichen Dokumentbearbeitungs- und Konvertierungs-API [Aspose.Words for Java](https://products.aspose.com/words/java/) können Sie DOT in HTML exportieren. Danach können Sie mit [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML in XLTX konvertieren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++-API zum Konvertieren von DOT in XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java-API zum Konvertieren von DOT in XLTX" %}}
 1. Öffnen Sie die DOT-Datei mit der Klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 2. Konvertieren Sie DOT in HTML mit [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) Methode
 3. Laden Sie das HTML-Dokument mithilfe der Klasse [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).

@@ -15,7 +15,7 @@ otherformats: FODS SXC XLAM DIF TSV XLSB XLSM EXCEL ODS XLTM XLSX XLT XLTX XLS
 Convertir DOTM a CSV a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de dotmumentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar DOTM a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOTM a CSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir DOTM a CSV" %}}
 
 1. Abra el archivo DOTM usando la clase [Dotmumento](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. Convierta DOTM a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions)) método

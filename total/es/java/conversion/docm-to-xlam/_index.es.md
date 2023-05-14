@@ -15,7 +15,7 @@ otherformats: DIF ODS XLAM XLSM TSV FODS EXCEL SXC XLTM XLSX XLSB XLS XLTX XLT
 Convertir DOCM a XLAM a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de documents rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar DOCM a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLAM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir DOCM a XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir DOCM a XLAM" %}}
 1. Abra el archivo DOCM usando la clase [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta DOCM a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Cargue el document HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

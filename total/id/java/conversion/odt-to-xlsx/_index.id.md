@@ -15,7 +15,7 @@ otherformats: XLS XLSB XLSM XLTM ODS XLT FODS EXCEL XLAM XLTX SXC XLSX DIF TSV
 Mengonversi ODT ke XLSX melalui [Aspose.Total for Java](https://products.aspose.com/total/java/) adalah proses dua langkah sederhana. Dengan menggunakan API konversi dan manipulasi dokumen yang kaya fitur [Aspose.Words for Java](https://products.aspose.com/words/java/), Anda dapat mengekspor ODT ke HTML. Setelah itu, dengan menggunakan [Aspose.Cells for Java](https://products.aspose.com/cells/java/), Anda dapat mengonversi HTML ke XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API untuk Mengonversi ODT ke XLSX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API untuk Mengonversi ODT ke XLSX" %}}
 1. Buka file ODT menggunakan kelas [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Konversi ODT ke HTML dengan menggunakan [Simpan](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metode
 3. Muat dokumen HTML dengan menggunakan kelas [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

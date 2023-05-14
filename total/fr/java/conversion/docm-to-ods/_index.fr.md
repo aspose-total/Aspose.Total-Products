@@ -15,7 +15,7 @@ otherformats: FODS XLSX DIF XLSM XLTX TSV SXC XLTM ODS XLSB XLAM EXCEL XLT XLS
 La conversion de DOCM en ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de document riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter DOCM vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir DOCM en ODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java pour convertir DOCM en ODS" %}}
 1. Ouvrez le fichier DOCM à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convertissez DOCM en HTML en utilisant [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) méthode
 3. Chargez le documentHTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

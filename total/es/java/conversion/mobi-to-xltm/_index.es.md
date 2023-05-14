@@ -15,7 +15,7 @@ otherformats: EXCEL DIF XLS XLTM TSV XLTX XLSM FODS XLSX XLAM ODS SXC XLSB XLT
 Convertir MOBI a XLTM a través de [Aspose.Total for Java](https://products.aspose.com/total/java/) es un proceso simple de dos pasos. Mediante el uso de la API de conversión y manipulación de mobiumentos rica en funciones [Aspose.Words for Java](https://products.aspose.com/words/java/), puede exportar MOBI a HTML. Después de eso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puede convertir HTML a XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API de C++ para convertir MOBI a XLTM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API de Java para convertir MOBI a XLTM" %}}
 1. Abra el archivo MOBI usando la clase [Documento](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convierta MOBI a HTML usando [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) método
 3. Cargue el mobiumento HTML utilizando la clase [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

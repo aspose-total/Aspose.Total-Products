@@ -15,7 +15,7 @@ otherformats: FODS SXC XLSB ODS XLSX XLT TSV XLTX DIF EXCEL XLTM XLAM XLS XLSM
 La conversion de WORDML en XLSB via [Aspose.Total for Java](https://products.aspose.com/total/java/) est un processus simple en deux étapes. En utilisant l'API de manipulation et de conversion de documents riche en fonctionnalités [Aspose.Words for Java](https://products.aspose.com/words/java/), vous pouvez exporter WORDML vers HTML. Après cela, en utilisant [Aspose.Cells for Java](https://products.aspose.com/cells/java/), vous pouvez convertir HTML en XLSB.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ pour convertir WORDML en XLSB" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java pour convertir WORDML en XLSB" %}}
 1. Ouvrez le fichier WORDML à l'aide de la classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Convertissez WORDML en HTML en utilisant [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) méthode
 3. Chargez le document HTML à l'aide de la classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
