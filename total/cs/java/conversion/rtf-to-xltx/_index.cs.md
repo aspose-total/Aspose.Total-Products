@@ -15,7 +15,7 @@ otherformats: XLTM ODS XLAM XLS XLSB FODS XLT XLTX TSV XLSM XLSX SXC EXCEL DIF
 Převod RTF na XLTX prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat RTF do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod RTF do XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API pro převod RTF do XLTX" %}}
 1. Otevřete soubor RTF pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Převeďte RTF do HTML pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

@@ -15,7 +15,7 @@ otherformats: SXC ODS TSV XLSB XLTX XLS FODS XLSM XLTM XLT XLSX EXCEL DIF XLAM
 Převod DOCM na SXC prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOCM do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod DOCM do SXC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API pro převod DOCM do SXC" %}}
 1. Otevřete soubor DOCM pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Převeďte DOCM do HTML pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

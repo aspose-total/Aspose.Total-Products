@@ -15,7 +15,7 @@ otherformats: XLSM XLS XLSX SXC TSV XLTX EXCEL ODS DIF XLTM XLT FODS XLAM XLSB
 Převod DOT na DIF prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOT do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod DOT do DIF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API pro převod DOT do DIF" %}}
 1. Otevřete soubor DOT pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Převeďte DOT do HTML pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

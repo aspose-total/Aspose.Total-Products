@@ -15,7 +15,7 @@ otherformats: XLSM DIF XLS XLSX XLTM EXCEL ODS TSV XLAM FODS XLSB SXC XLT XLTX
 Převod DOTX na DIF prostřednictvím [Aspose.Total for Java](https://products.aspose.com/total/java/) je jednoduchý dvoufázový proces. Pomocí rozhraní API pro manipulaci s dokumenty a konverzi [Aspose.Words for Java](https://products.aspose.com/words/java/) můžete exportovat DOTX do HTML. Poté můžete pomocí [Aspose.Cells for Java](https://products.aspose.com/cells/java/) převést HTML na DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API pro převod DOTX do DIF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API pro převod DOTX do DIF" %}}
 1. Otevřete soubor DOTX pomocí třídy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Převeďte DOTX do HTML pomocí [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) metoda
 3. Načtěte dokument HTML pomocí třídy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
