@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: EPUB
-outformat: PPT
+outformat: POWERPOINT
 otherformats: POTX PPSM OTP POT PPSX SWF POTM XAML ODP PPTM PPT PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

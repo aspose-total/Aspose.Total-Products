@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: MD
-outformat: PPT
+outformat: POWERPOINT
 otherformats: PPSM ODP POT PPT SWF PPSX POTX OTP POTM PPTM XAML PPS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

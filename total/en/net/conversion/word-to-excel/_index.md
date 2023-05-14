@@ -5,8 +5,8 @@ url_ignore: /net/conversion/word-to-excel/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
-outformat: XLSX
+informat: WORD
+outformat: EXCEL
 otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

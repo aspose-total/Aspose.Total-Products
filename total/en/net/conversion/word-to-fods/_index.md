@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-fods/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: EXCEL XLTX SXC XLTM TSV XLAM XLSX XLT XLSM XLSB CSV ODS DIF XLS
 ---

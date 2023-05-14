@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-xlsm/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSM
 otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---

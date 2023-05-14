@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-csv/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: CSV
 otherformats: XLTX XLAM XLT XLSX XLTM FODS SXC XLSB TSV DIF ODS EXCEL XLSM XLS
 ---

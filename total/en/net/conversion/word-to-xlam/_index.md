@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-xlam/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: XLSM XLSB XLTX XLSX ODS XLT TSV CSV SXC DIF FODS XLS EXCEL XLTM
 ---

@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-sxc/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: SXC
 otherformats: XLS DIF XLSB TSV FODS XLSM EXCEL XLT CSV XLSX XLTM XLAM XLTX ODS
 ---

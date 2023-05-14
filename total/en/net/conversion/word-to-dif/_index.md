@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-dif/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---

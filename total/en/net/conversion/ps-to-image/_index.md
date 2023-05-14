@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: PS
-outformat: JPEG2000
+outformat: IMAGE
 otherformats: DXF PSD WMZ SVGZ TGA  JPEG2000 WMF EMZ APNG DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

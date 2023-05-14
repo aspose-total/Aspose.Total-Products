@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-ods/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: CSV SXC XLTX EXCEL TSV XLS DIF FODS XLTM XLSX XLSB XLT XLAM XLSM
 ---

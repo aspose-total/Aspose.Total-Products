@@ -5,7 +5,7 @@ url_ignore: /net/conversion/word-to-json/
 family: total
 platformtag: net
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 ---
