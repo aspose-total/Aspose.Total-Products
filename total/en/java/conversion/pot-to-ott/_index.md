@@ -17,7 +17,7 @@ otherformats: DOTM WORD DOT DOCX TEXT DOC WORDML DOTX ODT FLATOPC DOCM RTF
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert POT to OTT via Java or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POT to OTT via Java" %}}
 1. Open POT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert POT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method and set Html as SaveFormat
 3. Load the converted HTML file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class

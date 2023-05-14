@@ -17,14 +17,14 @@ otherformats: XLSX XLTX EXCEL SXC XLT CSV DIF TSV XLS ODS XLTM XLSM XLSB FODS
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert DOC to XLAM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API to Convert DOC to XLAM" %}}
 1. Open DOC file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOC to HTML by using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
 4. Save the document to XLAM format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with C++ File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

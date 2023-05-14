@@ -17,7 +17,7 @@ Often times developers have to convert DOCX file to PPSM programmatically. By us
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert DOCX to PPSM via Java or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert DOCX to PPSM via Java" %}}
 1. Open DOCX file using [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) class
 2. Convert DOCX file to HTML by using [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 3. Initialize a new [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) object

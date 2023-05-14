@@ -17,7 +17,7 @@ You can convert POT file to MHTML via [Aspose.Total for Java](https://products.a
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert POT to MHTML via Java or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POT to MHTML via Java" %}}
 1. Open POT file using [Presentation](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) class
 2. Convert POT to HTML by using [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.lang.String-int-com.aspose.slides.ISaveOptions-) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) class
