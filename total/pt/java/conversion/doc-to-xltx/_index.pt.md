@@ -15,7 +15,7 @@ otherformats: XLTX SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 Converter DOC para XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de documentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar DOC para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLTX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter DOC para XLTX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java para converter DOC para XLTX" %}}
 1. Abra o arquivo DOC usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converta DOC para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Carregue o documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

@@ -15,7 +15,7 @@ otherformats: XLAM XLTX XLSX TSV XLT EXCEL ODS FODS SXC DIF XLTM XLS XLSM XLSB
 Het converteren van DOTX naar ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor Documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u DOTX naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar ODS converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om DOTX naar ODS te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API om DOTX naar ODS te converteren" %}}
 1. Open het DOTX-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converteer DOTX naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-Document met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse

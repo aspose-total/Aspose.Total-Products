@@ -15,7 +15,7 @@ otherformats: XLS SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 Het converteren van DOC naar XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u DOC naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLS converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om DOC naar XLS te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API om DOC naar XLS te converteren" %}}
 1. Open het DOC-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converteer DOC naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-document met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse

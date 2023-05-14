@@ -15,7 +15,7 @@ otherformats: XLAM ODS TSV XLT FODS XLSB DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将 DOTX 转换为 XLSB 是一个简单的两步过程。通过使用功能丰富的文档操作和转换 API [Aspose.Words for Java](https://products.aspose.com/words/java/)，您可以将 DOTX 导出为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)，您可以将 HTML 转换为 XLSB。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="将 DOTX 转换为 XLSB 的 C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="将 DOTX 转换为 XLSB 的 Java API" %}}
 1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类打开 DOTX 文件
 2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOTX 转换为 HTML ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档

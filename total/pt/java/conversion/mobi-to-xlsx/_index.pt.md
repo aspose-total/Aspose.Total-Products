@@ -15,7 +15,7 @@ otherformats: DIF XLSX TSV EXCEL XLSM XLS XLTM XLTX FODS XLT XLAM ODS SXC XLSB
 Converter MOBI para XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de mobiumentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar MOBI para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para XLSX.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter MOBI para XLSX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java para converter MOBI para XLSX" %}}
 1. Abra o arquivo MOBI usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converta MOBI para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Carregue o mobiumento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

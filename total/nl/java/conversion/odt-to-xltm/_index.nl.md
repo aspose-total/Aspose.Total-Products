@@ -15,7 +15,7 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 Het converteren van ODT naar XLTM via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u ODT naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar XLTM converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om ODT naar XLTM te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API om ODT naar XLTM te converteren" %}}
 1. Open het ODT-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converteer ODT naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-document met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse

@@ -15,7 +15,7 @@ otherformats: FODS XLS EXCEL XLAM SXC XLT XLSM ODS XLTX XLSX XLSB DIF TSV XLTM
 Преобразование DOTM в SXC с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать DOTM в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования DOTM в SXC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API для преобразования DOTM в SXC" %}}
 1. Откройте файл DOTM, используя класс [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument).
 2. Преобразуйте DOTM в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).

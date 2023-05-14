@@ -15,7 +15,7 @@ otherformats: XLSM SXC ODS FODS XLS EXCEL TSV XLTX XLSB XLTM XLSX XLT XLAM DIF
 La conversione di DOCM in FODS tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei document ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare DOCM in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire DOCM in FODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire DOCM in FODS" %}}
 1. Aprire il file DOCM utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
 2. Converti DOCM in HTML utilizzando [Salva](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Caricare il document HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/java/com.aspose.cells/Workbook)

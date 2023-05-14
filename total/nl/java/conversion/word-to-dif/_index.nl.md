@@ -15,7 +15,7 @@ otherformats: DIF XLTX XLS XLAM XLT XLSX FODS EXCEL TSV SXC ODS XLSM XLTM XLSB
 Het converteren van WORD naar DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u WORD naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar DIF converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om WORD naar DIF te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API om WORD naar DIF te converteren" %}}
 1. Open het WORD-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converteer WORD naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-document met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse

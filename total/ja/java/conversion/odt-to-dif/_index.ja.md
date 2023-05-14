@@ -15,7 +15,7 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を介してODTをDIFに変換するのは、単純な2ステップのプロセスです。機能豊富なドキュメント操作および変換API[Aspose.Wordsfor Java](https://products.aspose.com/words/java/)を使用することにより、ODTをHTMLにエクスポートできます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをDIFに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="ODTをDIFに変換するC++API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ODTをDIFに変換するJavaAPI" %}}
 1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してODTファイルを開きます
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してODTをHTMLに変換します) 方法
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします

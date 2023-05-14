@@ -15,7 +15,7 @@ otherformats: XLTM XLSX XLT FODS EXCEL TSV XLTX XLSM XLSB XLS SXC ODS XLAM DIF
 [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla ODT'yi XLSM'ye dönüştürmek, iki adımlı basit bir işlemdir. Zengin özelliklere sahip, belge işleme ve dönüştürme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak ODT'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi XLSM'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="ODT'yi XLSM'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ODT'yi XLSM'ye Dönüştürmek için Java API" %}}
 1. ODT dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak ODT'yi HTML'ye dönüştürün yöntem
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin

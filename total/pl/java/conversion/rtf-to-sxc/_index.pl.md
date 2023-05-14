@@ -15,7 +15,7 @@ otherformats: FODS XLAM ODS TSV XLSB XLSM XLTX EXCEL XLS XLTM DIF SXC XLSX XLT
 Konwersja RTF do SXC za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) to prosty, dwuetapowy proces. Korzystając z bogatego w funkcje interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/), możesz eksportować RTF do HTML. Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na SXC.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji RTF na SXC" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API do konwersji RTF na SXC" %}}
 1. Otwórz plik RTF za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Przekonwertuj RTF na HTML za pomocą [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
 3. Załaduj dokument HTML za pomocą klasy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

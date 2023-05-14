@@ -15,7 +15,7 @@ otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 通过 [Aspose.Total for Java](https://products.aspose.com/total/java/) 将 DOT 转换为 XLAM 是一个简单的两步过程。通过使用功能丰富的文档操作和转换 API [Aspose.Words for Java](https://products.aspose.com/words/java/)，您可以将 DOT 导出为 HTML。之后，通过使用 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)，您可以将 HTML 转换为 XLAM。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="将 DOT 转换为 XLAM 的 C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="将 DOT 转换为 XLAM 的 Java API" %}}
 1. 使用 [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 类打开 DOT 文件
 2. 使用 [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) 将 DOT 转换为 HTML ) 方法
 3. 使用 [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 类加载 HTML 文档

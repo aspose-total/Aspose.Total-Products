@@ -15,7 +15,7 @@ otherformats: ODS DIF EXCEL XLSB XLTM FODS XLAM TSV XLSX XLS XLSM SXC XLTX XLT
 Konwersja ODT do XLS za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) to prosty, dwuetapowy proces. Korzystając z bogatego w funkcje interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/), możesz eksportować ODT do HTML. Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji ODT na XLS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API do konwersji ODT na XLS" %}}
 1. Otwórz plik ODT za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Przekonwertuj ODT na HTML za pomocą [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
 3. Załaduj dokument HTML za pomocą klasy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

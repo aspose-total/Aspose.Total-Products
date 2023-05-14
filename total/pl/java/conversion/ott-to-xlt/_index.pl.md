@@ -15,7 +15,7 @@ otherformats: EXCEL XLT XLSM XLSX SXC XLS ODS TSV XLAM FODS XLTM DIF XLTX XLSB
 Konwersja OTT do XLT za pomocą [Aspose.Total for Java](https://products.aspose.com/total/java/) to prosty, dwuetapowy proces. Korzystając z bogatego w funkcje interfejsu API do manipulacji i konwersji dokumentów [Aspose.Words for Java](https://products.aspose.com/words/java/), możesz eksportować OTT do HTML. Następnie, używając [Aspose.Cells for Java](https://products.aspose.com/cells/java/), możesz przekonwertować HTML na XLT.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API do konwersji OTT na XLT" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API do konwersji OTT na XLT" %}}
 1. Otwórz plik OTT za pomocą klasy [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Przekonwertuj OTT na HTML za pomocą [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metoda
 3. Załaduj dokument HTML za pomocą klasy [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

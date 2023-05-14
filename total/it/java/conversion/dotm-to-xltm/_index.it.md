@@ -15,7 +15,7 @@ otherformats: SXC FODS XLAM XLSB XLSM XLTX TSV ODS XLS XLSX XLTM DIF EXCEL XLT
 La conversione di DOTM in XLTM tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei dotmumenti ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare DOTM in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in XLTM.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire DOTM in XLTM" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire DOTM in XLTM" %}}
 1. Aprire il file DOTM utilizzando la classe [Dotmument](https://apiference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. Converti DOTM in HTML utilizzando [Salva](https://apiference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Caricare il dotmumento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/java/com.aspose.cells/Workbook)

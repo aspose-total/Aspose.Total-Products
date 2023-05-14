@@ -15,7 +15,7 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL TSV DIF
 Converter RTF para TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) é um processo simples de duas etapas. Usando a API de conversão e manipulação de Documentos rica em recursos [Aspose.Words for Java](https://products.aspose.com/words/java/), você pode exportar RTF para HTML. Depois disso, usando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), você pode converter HTML para TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ para converter RTF para TSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java para converter RTF para TSV" %}}
 1. Abra o arquivo RTF usando a classe [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converta RTF para HTML usando [Salvar](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) método
 3. Carregue o Documento HTML usando a classe [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

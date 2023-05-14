@@ -15,7 +15,7 @@ otherformats: XLSM DIF XLS XLSX XLTM EXCEL ODS TSV XLAM FODS XLSB SXC XLT XLTX
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を介してDOTXをDIFに変換するのは、単純な2ステップのプロセスです。機能豊富なドキュメント操作および変換API[Aspose.Wordsfor Java](https://products.aspose.com/words/java/)を使用することにより、DOTXをHTMLにエクスポートできます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをDIFに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTXをDIFに変換するC++API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOTXをDIFに変換するJavaAPI" %}}
 1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してDOTXファイルを開きます
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOTXをHTMLに変換します) 方法
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします

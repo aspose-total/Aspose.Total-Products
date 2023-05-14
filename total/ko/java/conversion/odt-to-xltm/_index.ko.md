@@ -15,7 +15,7 @@ otherformats: XLT XLSX FODS XLSM XLTX DIF XLS ODS EXCEL XLTM TSV SXC XLSB XLAM
 [Aspose.Total for Java](https://products.aspose.com/total/java/)를 통해 ODT를 XLTM로 변환하는 것은 간단한 2단계 프로세스입니다. 기능이 풍부한 문서 조작 및 변환 API [Aspose.Words for Java](https://products.aspose.com/words/java/)를 사용하여 ODT를 HTML로 내보낼 수 있습니다. 그 후 [Aspose.Cells for Java](https://products.aspose.com/cells/java/)를 사용하여 HTML을 XLTM로 변환할 수 있습니다.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="ODT를 XLTM로 변환하는 C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ODT를 XLTM로 변환하는 Java API" %}}
 1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) 클래스를 사용하여 ODT 파일을 엽니다.
 2. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)을 사용하여 ODT를 HTML로 변환합니다. ) 방법
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 클래스를 사용하여 HTML 문서 로드

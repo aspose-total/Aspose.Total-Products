@@ -15,7 +15,7 @@ otherformats: ODS XLS TSV XLSM XLSX EXCEL SXC XLAM XLTM XLT XLSB XLTX FODS DIF
 Het converteren van WORDML naar FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is een eenvoudig proces in twee stappen. Door gebruik te maken van de veelzijdige API voor documentmanipulatie en conversie [Aspose.Words for Java](https://products.aspose.com/words/java/), kunt u WORDML naar HTML exporteren. Daarna kunt u met [Aspose.Cells for Java](https://products.aspose.com/cells/java/) HTML naar FODS converteren.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API om WORDML naar FODS te converteren" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API om WORDML naar FODS te converteren" %}}
 1. Open het WORDML-bestand met de klasse [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Converteer WORDML naar HTML met behulp van [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) methode:
 3. Laad HTML-document met behulp van [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) klasse

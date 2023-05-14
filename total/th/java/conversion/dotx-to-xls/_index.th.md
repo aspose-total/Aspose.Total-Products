@@ -15,7 +15,7 @@ otherformats: XLAM ODS TSV XLT FODS XLS DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 การแปลง DOTX เป็น XLS ผ่าน [Aspose.Total for Java](https://products.aspose.com/total/java/) เป็นกระบวนการสองขั้นตอนง่ายๆ เมื่อใช้ API การจัดการเอกสารและการแปลงที่มีคุณลักษณะหลากหลาย [Aspose.Words for Java](https://products.aspose.com/words/java/) คุณจะส่งออก DOTX เป็น HTML ได้ หลังจากนั้น เมื่อใช้ [Aspose.Cells for Java](https://products.aspose.com/cells/java/) คุณจะแปลง HTML เป็น XLS ได้
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API เพื่อแปลง DOTX เป็น XLS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API เพื่อแปลง DOTX เป็น XLS" %}}
 1. เปิดไฟล์ DOTX โดยใช้คลาส [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. แปลง DOTX เป็น HTML โดยใช้ [บันทึก](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) กระบวนการ
 3. โหลดเอกสาร HTML โดยใช้คลาส [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

@@ -15,7 +15,7 @@ otherformats: FODS XLSB XLS XLAM EXCEL XLSX ODS TSV SXC DIF XLTX XLTM XLSM XLT
 La conversione di MOBI in CSV tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei mobiumenti ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare MOBI in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in CSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire MOBI in CSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire MOBI in CSV" %}}
 1. Aprire il file MOBI utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
 2. Converti MOBI in HTML utilizzando [Salva](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Caricare il mobiumento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/java/com.aspose.cells/Workbook)

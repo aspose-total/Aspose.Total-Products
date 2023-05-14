@@ -15,7 +15,7 @@ otherformats: XLS SXC TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla DOC'yi SXC'ye dönüştürmek, iki adımlı basit bir işlemdir. Zengin özelliklere sahip, belge işleme ve dönüştürme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak DOC'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi SXC'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOC'yi SXC'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOC'yi SXC'ye Dönüştürmek için Java API" %}}
 1. DOC dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOC'yi HTML'ye dönüştürün yöntem
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin

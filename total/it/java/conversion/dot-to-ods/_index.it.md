@@ -15,7 +15,7 @@ otherformats: EXCEL XLT SXC XLTM XLS XLSB XLAM ODS DIF FODS XLSX XLTX XLSM TSV
 La conversione di DOT in ODS tramite [Aspose.Total for Java](https://products.aspose.com/total/java/) è un semplice processo in due fasi. Utilizzando l'API di conversione e manipolazione dei Documenti ricca di funzionalità [Aspose.Words per Java](https://products.aspose.com/words/java/), puoi esportare DOT in HTML. Successivamente, utilizzando [Aspose.Cells for Java](https://products.aspose.com/cells/java/), puoi convertire HTML in ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="API C++ per convertire DOT in ODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="API Java per convertire DOT in ODS" %}}
 1. Aprire il file DOT utilizzando la classe [Document](https://apiference.aspose.com/words/java/com.aspose.words/Document)
 2. Converti DOT in HTML utilizzando [Salva](https://apiference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metodo
 3. Caricare il Documento HTML utilizzando la classe [Workbook](https://apiference.aspose.com/cells/java/com.aspose.cells/Workbook)

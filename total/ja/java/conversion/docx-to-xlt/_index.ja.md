@@ -15,7 +15,7 @@ otherformats: XLT SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 [Aspose.Total for Java](https://products.aspose.com/total/java/)を介してDOCXをXLTに変換するのは、単純な2ステップのプロセスです。機能豊富なドキュメント操作および変換API[Aspose.Wordsfor Java](https://products.aspose.com/words/java/)を使用することにより、DOCXをHTMLにエクスポートできます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/java/)を使用して、HTMLをXLTに変換できます。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOCXをXLTに変換するC++API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOCXをXLTに変換するJavaAPI" %}}
 1. [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)クラスを使用してDOCXファイルを開きます
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してDOCXをHTMLに変換します) 方法
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)クラスを使用してHTMLドキュメントをロードします

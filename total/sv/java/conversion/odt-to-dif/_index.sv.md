@@ -15,7 +15,7 @@ otherformats: ODS XLTM TSV XLTX XLSX XLS XLSM FODS XLSB DIF XLT EXCEL XLAM SXC
 Att konvertera ODT till DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) är en enkel process i två steg. Genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Java](https://products.aspose.com/words/java/), kan du exportera ODT till HTML. Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till DIF.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera ODT till DIF" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API för att konvertera ODT till DIF" %}}
 1. Öppna ODT-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Konvertera ODT till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

@@ -15,7 +15,7 @@ otherformats: EXCEL DIF XLAM SXC XLT XLSM ODS XLTX XLTM XLS TSV XLSX XLSB FODS
 Преобразование OTT в XLS с помощью [Aspose.Total для Java](https://products.aspose.com/total/java/) — это простой двухэтапный процесс. Используя многофункциональный API для обработки и преобразования документов [Aspose.Words for Java](https://products.aspose.com/words/java/), вы можете экспортировать OTT в HTML. После этого, используя [Aspose.Cells for Java](https://products.aspose.com/cells/java/), вы можете конвертировать HTML в XLS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API для преобразования OTT в XLS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API для преобразования OTT в XLS" %}}
 1. Откройте файл OTT, используя класс [Document](https://reference.aspose.com/words/java/com.aspose.words/Document).
 2. Преобразуйте OTT в HTML, используя [Сохранить](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) метод
 3. Загрузите HTML-документ с помощью класса [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).

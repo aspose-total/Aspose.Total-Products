@@ -15,7 +15,7 @@ otherformats: SXC XLSX XLT XLAM XLSB ODS XLS XLTX EXCEL TSV DIF XLTM XLSM FODS
 Att konvertera DOTX till TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) är en enkel process i två steg. Genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Java](https://products.aspose.com/words/java/), kan du exportera DOTX till HTML. Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till TSV.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera DOTX till TSV" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API för att konvertera DOTX till TSV" %}}
 1. Öppna DOTX-filen med klassen [Document](https://reference.aspose.com/words/java/com.aspose.words/Document)
 2. Konvertera DOTX till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)

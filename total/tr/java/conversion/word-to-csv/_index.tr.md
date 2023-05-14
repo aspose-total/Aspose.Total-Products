@@ -15,7 +15,7 @@ otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla WORD'yi CSV'ye dönüştürmek, iki adımlı basit bir işlemdir. Zengin özelliklere sahip, belge işleme ve dönüştürme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak WORD'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi CSV'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="WORD'yi CSV'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="WORD'yi CSV'ye Dönüştürmek için Java API" %}}
 1. WORD dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak WORD'yi HTML'ye dönüştürün yöntem
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin

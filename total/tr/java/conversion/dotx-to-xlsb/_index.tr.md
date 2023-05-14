@@ -15,7 +15,7 @@ otherformats: XLAM ODS TSV XLT FODS XLSB DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 [Aspose.Total for Java](https://products.aspose.com/total/java/) aracılığıyla DOTX'yi XLSB'ye dönüştürmek, iki adımlı basit bir işlemdir. Zengin özelliklere sahip, belge işleme ve dönüştürme API'sini [Aspose.Words for Java](https://products.aspose.com/words/java/) kullanarak DOTX'yi HTML'ye aktarabilirsiniz. Bundan sonra, [Aspose.Cells for Java](https://products.aspose.com/cells/java/) kullanarak HTML'yi XLSB'ye dönüştürebilirsiniz.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTX'yi XLSB'ye Dönüştürmek için C++ API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="DOTX'yi XLSB'ye Dönüştürmek için Java API" %}}
 1. DOTX dosyasını [Document](https://reference.aspose.com/words/java/com.aspose.words/Document) sınıfını kullanarak açın
 2. [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions) kullanarak DOTX'yi HTML'ye dönüştürün yöntem
 3. [Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıfını kullanarak HTML belgesini yükleyin

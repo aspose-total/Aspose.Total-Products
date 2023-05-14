@@ -15,7 +15,7 @@ otherformats: XLT TSV DIF XLSM FODS EXCEL XLSX XLS XLTX ODS SXC XLSB XLTM XLAM
 Att konvertera DOTM till FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) är en enkel process i två steg. Genom att använda funktionsrika, dokumentmanipulerings- och konverterings-API [Aspose.Words for Java](https://products.aspose.com/words/java/), kan du exportera DOTM till HTML. Efter det, genom att använda [Aspose.Cells for Java](https://products.aspose.com/cells/java/), kan du konvertera HTML till FODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API för att konvertera DOTM till FODS" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java API för att konvertera DOTM till FODS" %}}
 1. Öppna DOTM-filen med klassen [Dotmument](https://reference.aspose.com/words/java/com.aspose.words/Dotmument)
 2. Konvertera DOTM till HTML genom att använda [Save](https://reference.aspose.com/words/java/com.aspose.words/Dotmument#save(java.lang.String,com.aspose.words.SaveOptions) ) metod
 3. Ladda HTML-dokument genom att använda klassen [Arbetsbok](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)
