@@ -5,7 +5,7 @@ description: قم بتحويل ملف EXCEL إلى DOC على الأنظمة ا�
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---

@@ -5,8 +5,8 @@ description: Converti EXCEL in WORD su piattaforme .NET Framework, .NET Core, Mo
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

@@ -5,7 +5,7 @@ description: แปลง EXCEL เป็น DOC บน .NET Framework, .NET Cor
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---

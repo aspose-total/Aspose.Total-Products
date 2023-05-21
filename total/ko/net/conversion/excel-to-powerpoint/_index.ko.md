@@ -5,8 +5,8 @@ description: .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 EXCE
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD PPTX DOCX DOC
 ---
 

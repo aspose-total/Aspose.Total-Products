@@ -5,8 +5,8 @@ description: A EXCEL konvertálása POWERPOINT formátumba .NET Framework, .NET 
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD PPTX DOCX DOC
 ---
 

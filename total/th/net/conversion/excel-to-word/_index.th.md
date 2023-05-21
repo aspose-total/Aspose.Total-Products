@@ -5,8 +5,8 @@ description: แปลง EXCEL เป็น WORD บน .NET Framework, .NET Co
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

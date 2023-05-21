@@ -5,8 +5,8 @@ description: Chuyển đổi EXCEL sang WORD trên Nền tảng .NET Framework, 
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

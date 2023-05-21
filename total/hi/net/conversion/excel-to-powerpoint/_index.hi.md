@@ -5,8 +5,8 @@ description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफ�
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD PPTX DOCX DOC
 ---
 

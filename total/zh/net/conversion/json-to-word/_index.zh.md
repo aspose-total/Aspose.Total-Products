@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: JSON
-outformat: DOC
+outformat: WORD
 otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
 keywords: JSON转Word，文档转换，导出JSON，保存JSON为DOCX
 ---

@@ -5,7 +5,7 @@ description: قم بتحويل ملف EXCEL إلى PPTX على الأنظمة ا
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---

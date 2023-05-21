@@ -5,7 +5,7 @@ description: A EXCEL konvertálása PPTX formátumba .NET Framework, .NET Core, 
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---

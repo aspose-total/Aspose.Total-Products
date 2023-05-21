@@ -5,8 +5,8 @@ description: قم بتحويل ملف EXCEL إلى POWERPOINT على الأنظ�
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD PPTX DOCX DOC
 ---
 

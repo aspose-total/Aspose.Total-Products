@@ -5,8 +5,8 @@ description: Konvertera EXCEL till WORD på .NET Framework, .NET Core, Mono elle
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

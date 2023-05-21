@@ -5,7 +5,7 @@ url_ignore: /ru/net/conversion/excel-to-docx/
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---

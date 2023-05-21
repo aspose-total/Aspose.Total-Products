@@ -5,8 +5,8 @@ description: Μετατροπή EXCEL σε POWERPOINT σε πλατφόρμες 
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD PPTX DOCX DOC
 ---
 

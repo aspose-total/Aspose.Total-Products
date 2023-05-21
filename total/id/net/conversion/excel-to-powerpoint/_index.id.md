@@ -5,8 +5,8 @@ description: Konversi EXCEL ke POWERPOINT di .NET Framework, .NET Core, Mono ata
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD PPTX DOCX DOC
 ---
 

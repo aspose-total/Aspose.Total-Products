@@ -5,8 +5,8 @@ description: A EXCEL konvertálása WORD formátumba .NET Framework, .NET Core, 
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

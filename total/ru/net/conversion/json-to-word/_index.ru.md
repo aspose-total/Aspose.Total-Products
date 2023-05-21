@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: JSON
-outformat: DOC
+outformat: WORD
 otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF WORD PCL
 keywords: JSON в Word, преобразование документов, экспорт JSON, сохранение JSON как DOCX
 ---

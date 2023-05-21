@@ -5,7 +5,7 @@ description: Μετατροπή EXCEL σε DOC σε πλατφόρμες .NET Fr
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---

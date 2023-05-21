@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: XSLFO
-outformat: JPEG2000
+outformat: IMAGE
 otherformats: DXF IMAGE TGA JPEG2000 SVGZ EMZ WMF  PSD WMZ DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

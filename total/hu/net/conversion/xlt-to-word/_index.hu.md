@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: XLT
-outformat: DOC
+outformat: WORD
 otherformats: DOC DOCX POWERPOINT PPTX
 ---
 

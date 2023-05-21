@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: XLSB
-outformat: DOC
+outformat: WORD
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 

@@ -5,8 +5,8 @@ url_ignore: /ja/net/conversion/docm-to-excel/
 family: total
 platformtag: net
 feature: conversion
-informat: DOCMM
-outformat: XLSX
+informat: DOCM
+outformat: EXCEL
 otherformats: XLTM EXCEL XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

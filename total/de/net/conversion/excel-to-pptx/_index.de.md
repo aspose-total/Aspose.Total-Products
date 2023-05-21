@@ -5,7 +5,7 @@ description: Konvertieren Sie EXCEL in PPTX auf .NET Framework-, .NET Core-, Mon
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD POWERPOINT DOCX
 ---

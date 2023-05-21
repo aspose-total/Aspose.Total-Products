@@ -5,8 +5,8 @@ url_ignore: /ru/net/conversion/excel-to-word/
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

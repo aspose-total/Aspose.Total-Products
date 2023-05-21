@@ -5,7 +5,7 @@ description: A EXCEL konvertálása DOC formátumba .NET Framework, .NET Core, M
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---

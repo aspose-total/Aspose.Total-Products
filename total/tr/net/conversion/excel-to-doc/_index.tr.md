@@ -5,7 +5,7 @@ description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında EXCEL
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---

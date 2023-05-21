@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: CSV
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: DOC PPTX DOCX WORD
 ---
 

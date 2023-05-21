@@ -5,8 +5,8 @@ description: Μετατροπή EXCEL σε WORD σε πλατφόρμες .NET F
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT DOCX PPTX DOC
 ---
 

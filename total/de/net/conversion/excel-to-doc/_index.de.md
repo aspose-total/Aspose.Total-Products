@@ -5,7 +5,7 @@ description: Konvertieren Sie EXCEL in DOC auf .NET Framework-, .NET Core-, Mono
 family: total
 platformtag: net
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD POWERPOINT DOCX
 ---
