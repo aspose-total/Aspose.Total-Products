@@ -1,0 +1,260 @@
+---
+title: Node.js API για έγγραφα Excel, αρχεία Visio και επεξεργασία γραμμωτού κώδικα
+weight: 50
+description: Επεξεργαστείτε τα υπολογιστικά φύλλα του Excel και τα έγγραφα του Visio μέσω του Node.js API. Χρησιμοποιήστε το Nodejs για να αναγνωρίσετε και να δημιουργήσετε 1D, 2D και ταχυδρομικούς κώδικες.
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Αρχεία Node.js Excel και Visio καθώς και API επεξεργασίας γραμμωτού κώδικα" h2="Χειριστείτε υπολογιστικά φύλλα του Excel καθώς και ανάγνωση, εγγραφή, δημιουργία και εξαγωγή αρχείων Visio μέσω του Node.js API. Επιπλέον, σαρώστε και δημιουργήστε γραμμικούς κώδικες με ευκολία." logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/headers/aspose_total-for-node-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-node-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+
+{{< blocks/products/pf/total/overview >}}
+Το Aspose.Total για Node.js μέσω Java είναι ένα πλήρες πακέτο για χειρισμό υπολογιστικών φύλλων Excel καθώς και επεξεργασία εγγράφων Viso. Οι προγραμματιστές μπορούν να δημιουργούν, να χειρίζονται, να αποδίδουν και να μετατρέπουν αρχεία Excel μέσω του Nodejs, καθώς και να φορτώνουν, να διαβάζουν, να γράφουν και να εξάγουν μορφές Visio, συμπεριλαμβανομένων των VDX, VSDX, VTX, VSX και άλλων μορφών. Οι προγραμματιστές μπορούν εύκολα να ενσωματώσουν το Node API για αναγνώριση και δημιουργία γραμμωτού κώδικα.
+{{< /blocks/products/pf/total/overview >}}
+
+{{< blocks/products/pf/total/products description="Το Aspose.Total για το Node.js μέσω Java περιλαμβάνει τα ακόλουθα API:" >}}
+
+{{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
+Εργαστείτε με φύλλα εργασίας χρησιμοποιώντας το Excel Node.js API για τη δημιουργία, ενημέρωση, απόδοση και μετατροπή υπολογιστικών φύλλων Excel χωρίς να απαιτείται Microsoft Excel. Επιπλέον, φύλλα εργασίας στυλ στο πιο αναλυτικό επίπεδο, δημιουργία γραφημάτων, αξιόπιστη μηχανή υπολογισμού τύπων και πολλά άλλα.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
+Ένα προσαρμόσιμο API δημιουργίας γραμμικού κώδικα και σαρωτή Node.js για την επεξεργασία κοινών γραμμωτών κωδίκων 1D, 2D και ταχυδρομικών από εικόνες σε οποιαδήποτε γωνία. Το API υποστηρίζει διάφορες συμβολολογίες, όπως EAN, PDF 417, Code 128, Code 93, Code 39, QR Code και άλλα.
+{{< /blocks/products/pf/total/product-item >}}
+
+{{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
+Node.js Visio API για επεξεργασία και εξαγωγή μορφών του Microsoft Visio, συμπεριλαμβανομένων των VSDX, VDX, VSX, VTX και άλλων. Οι προγραμματιστές μπορούν εύκολα να φορτώσουν, να διαβάσουν, να γράψουν, να προστατεύσουν, να εξάγουν και να εκτυπώσουν εγγενείς μορφές Visio, καθώς και να ενημερώσουν τα στοιχεία του διαγράμματος για εξαγωγή στην επιθυμητή μορφή, συμπεριλαμβανομένων εικόνων ή μορφών σταθερής διάταξης, όπως XPS ή PDF.
+{{< /blocks/products/pf/total/product-item >}}
+
+<!--<p></p>-->
+<h2 class="pr-ft">
+ <a class="anchor" id="features" name="features">
+ </a>
+ Προηγμένες δυνατότητες του Aspose.Total για Node.js μέσω Java API
+</h2>
+    <div class="col-lg-4">
+    <em class="fa fa-support ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Δημιουργία Συγκεντρωτικών πινάκων, γραφημάτων, sparklines &amp; Μορφοποίηση υπό όρους
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Ανανεώστε τα υπάρχοντα γραφήματα &amp; μετατρέψτε γραφήματα σε εικόνες ή PDF
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Δημιουργία &amp; χειραγώγηση σχολίων &amp; υπερσυνδέσμους
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Ορίστε σύνθετους τύπους &amp; υπολογισμός αποτελεσμάτων μέσω API
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Ορίστε προστασία σε βιβλίο εργασίας, φύλλο εργασίας, κελί, στήλη ή γραμμή
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Δημιουργία &amp; χειρισμός ονομασμένων περιοχών
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Συμπληρώστε φύλλα εργασίας χρησιμοποιώντας Έξυπνους δείκτες
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Χειριστείτε και ανανεώστε τους Συγκεντρωτικούς Πίνακες μέσω API
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Μετατροπή φύλλων εργασίας σε PDF, XPS &amp; Μορφές SVG
+    </p>
+   </div>
+  <div class="col-lg-4">
+                <em class='fa fa-print ico-blue fa-2x col-lg-2'>
+                </em>
+                <p class="col-lg-10">
+                    Δημιουργήστε και σαρώστε 60+ τύπους γραμμωτού κώδικα
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
+                </em>
+                <p class="col-lg-10">
+                    Προσαρμογή λεζάντας γραμμικού κώδικα &amp; στυλ γραμματοσειράς
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
+                </em>
+                <p class="col-lg-10">
+                    Εκτελέστε επικύρωση αθροίσματος ελέγχου
+                </p>
+            </div>
+<div class="col-lg-4">
+    <em class="fa fa-plus ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Δημιουργήστε διαγράμματα από την αρχή
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-eye ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Διαβάστε πολλές μορφές Visio
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Διαβάστε τις ιδιότητες διαφορετικών αντικειμένων
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Γράψτε διάφορες μορφές Visio
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Χειρισμός ιδιοτήτων εγγράφου
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Εκτυπώστε διαγράμματα με υψηλή πιστότητα
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Προστασία ή κατάργηση προστασίας διαγραμμάτων &amp; σχήματα
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Εξαγωγή διαγραμμάτων σε διαφορετικές μορφές
+    </p>
+   </div>
+<div class="col-lg-12">
+ <h2 class="h2title">
+  Επεξεργαστείτε πλήθος μορφών Excel και Visio
+ </h2>
+ <p>
+  Με το Aspose.Total για Node.js μέσω Java, μπορεί κανείς να αναπτύξει ένα ευέλικτο σύστημα αναφοράς εγγράφων ικανό να χειρίζεται πολλές μορφές υπολογιστικών φύλλων καθώς και λύση για το χειρισμό και την εξαγωγή εγγράφων Visio. 
+ </p>
+ <p>
+  Το Aspose.Total για Node.js μέσω Java υποστηρίζει επί του παρόντος τους ακόλουθους τύπους αρχείων.
+ </p>
+ <ul class="unstyled">
+  
+  <li>
+   Υπολογιστικά φύλλα του Microsoft Excel
+  </li>
+  <li>
+   Έγγραφα του Microsoft Visio
+  </li>
+  <li>
+    1D, 2D και ταχυδρομικοί γραμμωτοί κώδικες
+  </li>
+ </ul>
+</div>
+<!--Feature-section Start-->
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/total/products >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Βραζιλία" >}}
+Κατά την υλοποίησή μας, μπορούσαμε να αντιληφθούμε ότι αγγίξαμε μόνο ένα κλάσμα από αυτά που μπορεί να κάνει το Aspose.Total. Η ευκολία χρήσης του API δίνει στους προγραμματιστές ικανοποίηση για την «ολοκλήρωση της δουλειάς» με τον απλό και καθαρό κώδικα του και η στιβαρότητα του τελικού προϊόντος κάνει τους πελάτες μας χαρούμενους.
+{{< /blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Ρικ Γκουντ | ZIVVER, Ολλανδία" >}}
+Δοκιμάσαμε πολλές άλλες δωρεάν και επί πληρωμή λύσεις, αλλά όλες είχαν περιορισμούς που ήταν πολύ μεγάλοι για την περίπτωσή μας. Τα περισσότερα από τα προβλήματα με τις λύσεις μας προέκυψαν κατά τη μετατροπή αρχείων του Microsoft Office σε PDF. Μόνο ο Aspose αποδείχθηκε ότι το έκανε τέλεια κάθε φορά.
+{{< /blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Αντρέου Γκαρσία | Fermator, Ισπανία" >}}
+Μπορούμε να πούμε μόνο ένα πράγμα: εξαιρετικό προϊόν και εξαιρετική εξυπηρέτηση. Μερικές φορές, μπορείτε να βρείτε ένα καλό προϊόν με έλλειψη φροντίδας πελατών. Αυτό δεν ισχύει για τον Aspose.
+{{< /blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote poster="Θωμάς | Εγγραφείτε και μοιραστείτε, Γερμανία" >}}
+Το Aspose.Total είναι μια ισχυρή σουίτα για την επεξεργασία σχεδόν όλων των ειδών εγγράφων με υψηλή ταχύτητα και εξαιρετική ποιότητα. Μειώνει αποτελεσματικά την προσπάθεια προγραμματισμού.
+{{< /blocks/products/pf/testimonials-quote >}}
+{{< /blocks/products/pf/testimonials >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/total/nodejsjava/" >}} 
+{{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="http://aspose.github.io/" >}} 
+{{< blocks/products/pf/slr-element name="Aspose API References" href="https://reference.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}} 
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/total/7" >}} 
+{{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/total/" >}} 
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί το Aspose.Total για το Node.js μέσω Java;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}} 
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
+
+    {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

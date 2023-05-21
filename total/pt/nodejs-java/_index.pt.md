@@ -1,200 +1,200 @@
 ---
-title: Node.js API for Excel Documents, Visio Files and Barcode Processing
+title: API Node.js para documentos Excel, arquivos Visio e processamento de código de barras
 weight: 50
-description: Process Excel Spreadsheets and Visio Documents via Node.js API. Utilize Nodejs to recognize and generate 1D, 2D and Postal Barcodes.
+description: Processe planilhas do Excel e documentos do Visio por meio da API Node.js. Utilize Nodejs para reconhecer e gerar códigos de barras 1D, 2D e postais.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel and Visio Files as well as Barcode Processing APIs" h2="Manipulate Excel Spreadsheets as well as Read, Write, Create and Export Visio Files via Node.js API. Moreover, Scan and Generate BarCodes with ease." logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/headers/aspose_total-for-node-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Arquivos Node.js Excel e Visio, bem como APIs de processamento de código de barras" h2="Manipule planilhas do Excel, bem como leia, escreva, crie e exporte arquivos do Visio por meio da API Node.js. Além disso, digitalize e gere códigos de barras com facilidade." logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/headers/aspose_total-for-node-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-node-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
 
 {{< blocks/products/pf/total/overview >}}
-Aspose.Total for Node.js via Java is a complete package for Excel Spreadsheet manipulation as well as Viso documents processing. Developers can create, manipulate, render and convert Excel Files via Nodejs as well as load, read, write and export Visio formats including  VDX, VSDX, VTX, VSX and more formats. Developers can easily integrate Node API for Barcode recognition and generation.
+Aspose.Total para Node.js via Java é um pacote completo para manipulação de planilhas Excel, bem como processamento de documentos Viso. Os desenvolvedores podem criar, manipular, renderizar e converter arquivos do Excel via Nodejs, bem como carregar, ler, gravar e exportar formatos do Visio, incluindo VDX, VSDX, VTX, VSX e outros formatos. Os desenvolvedores podem integrar facilmente a API Node para reconhecimento e geração de código de barras.
 {{< /blocks/products/pf/total/overview >}}
 
-{{< blocks/products/pf/total/products description="Aspose.Total for Node.js via Java includes the following APIs:" >}}
+{{< blocks/products/pf/total/products description="Aspose.Total para Node.js via Java inclui as seguintes APIs:" >}}
 
 {{< blocks/products/pf/total/product-item href="/cells/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productName="Aspose.Cells for Node.js via Java">}}
-Work with worksheets using the Excel Node.js API to create, update, render & convert Excel spreadsheets without requiring Microsoft Excel. Moreover, style worksheets to the most granular level, chart creation, reliable formula calculation engine and more.
+Trabalhe com planilhas usando a API Node.js do Excel para criar, atualizar, renderizar e converter planilhas do Excel sem precisar do Microsoft Excel. Além disso, planilhas de estilo para o nível mais granular, criação de gráficos, mecanismo de cálculo de fórmula confiável e muito mais.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/barcode/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-nodejs-java.svg" productName="Aspose.BarCode for Node.js via Java">}}
-A customizable Node.js barcode generator and scanner API to process common 1D, 2D and postal barcodes from images at any angle. API supports various symbologies including EAN, PDF 417, Code 128, Code 93, Code 39, QR Code and more.
+Um gerador de código de barras Node.js personalizável e API de scanner para processar códigos de barras 1D, 2D e postais comuns de imagens em qualquer ângulo. A API suporta várias simbologias, incluindo EAN, PDF 417, Código 128, Código 93, Código 39, Código QR e muito mais.
 {{< /blocks/products/pf/total/product-item >}}
 
 {{< blocks/products/pf/total/product-item href="/diagram/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productName="Aspose.Diagram for Node.js via Java">}}
-Node.js Visio API to process and export Microsoft Visio formats including VSDX, VDX, VSX, VTX and more. Developers can easily load, read, write, protect, export and print native Visio formats as well as update the diagram elements to export into desired format including images or fixed-layout formats like  XPS or PDF.
+API Node.js Visio para processar e exportar formatos Microsoft Visio, incluindo VSDX, VDX, VSX, VTX e muito mais. Os desenvolvedores podem facilmente carregar, ler, gravar, proteger, exportar e imprimir formatos nativos do Visio, bem como atualizar os elementos do diagrama para exportar para o formato desejado, incluindo imagens ou formatos de layout fixo como XPS ou PDF.
 {{< /blocks/products/pf/total/product-item >}}
 
 <!--<p></p>-->
 <h2 class="pr-ft">
  <a class="anchor" id="features" name="features">
  </a>
- Advanced Features of Aspose.Total for Node.js via Java APIs
+ Recursos avançados do Aspose.Total para Node.js por meio de APIs Java
 </h2>
     <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create Pivot Tables, charts, sparklines &amp; conditional formatting
+     Crie Tabelas Dinâmicas, gráficos, sparklines &amp; formatação condicional
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Refresh existing charts &amp; convert charts to images or PDF
+     Atualizar gráficos e gráficos existentes converter gráficos em imagens ou PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create &amp; manipulate comments &amp; hyperlinks
+     Criar &amp; manipular comentários &amp; hiperlinks
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set complex formulas &amp; calculate results via API
+     Defina fórmulas complexas &amp; calcular resultados via API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set protection on workbook, worksheet, cell, column or row
+     Definir proteção na pasta de trabalho, planilha, célula, coluna ou linha
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create &amp; manipulate named ranges
+     Criar &amp; manipular intervalos nomeados
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Populate worksheets using Smart Markers
+     Preencher planilhas usando marcadores inteligentes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate and refresh Pivot Tables via API
+     Manipular e atualizar tabelas dinâmicas via API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert worksheets to PDF, XPS &amp; SVG formats
+     Converta planilhas em PDF, XPS &amp; formatos SVG
     </p>
    </div>
-<div class="col-lg-4">
+  <div class="col-lg-4">
                 <em class='fa fa-print ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href=''https://docs.aspose.com/barcode/'>Generate and Scan 60+ barcode types</a>
+                    Gere e digitalize mais de 60 tipos de códigos de barras
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-barcode ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/nodejsjava/set-barcode-text/nodejsjava/barcode-types/'>Customize barcode caption &amp; font styles</a>
+                    Personalize a legenda e a legenda do código de barras; estilos de fonte
                 </p>
             </div>
             <div class="col-lg-4">
                 <em class='fa fa-exchange ico-blue fa-2x col-lg-2'>
                 </em>
                 <p class="col-lg-10">
-                    <a href='https://docs.aspose.com/barcode/nodejsjava/barcode-reading-settings/'>Perform Checksum Validation</a>
+                    Executar validação de soma de verificação
                 </p>
             </div>
 <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create diagrams from scratch
+     Crie diagramas do zero
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-eye ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read multiple Visio formats
+     Leia vários formatos do Visio
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read the properties of different objects
+     Leia as propriedades de diferentes objetos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Write various Visio formats
+     Escreva vários formatos do Visio
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate document properties
+     Manipular as propriedades do documento
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Print diagrams with high fidelity
+     Imprima diagramas com alta fidelidade
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Protect or unprotect diagrams &amp; shapes
+     Proteger ou desproteger diagramas &amp; formas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export diagrams to different formats
+     Exportar diagramas para diferentes formatos
     </p>
    </div>
 <div class="col-lg-12">
  <h2 class="h2title">
-  Process Multitude of Excel and Visio Formats
+  Processar uma infinidade de formatos Excel e Visio
  </h2>
  <p>
-  With Aspose.Total for Node.js via Java, one can develop a versatile document reporting system capable of handling multiple spreadsheet formats as well as solution for handling and exporting Visio documents. 
+  Com o Aspose.Total para Node.js via Java, pode-se desenvolver um sistema de relatórios de documentos versátil capaz de lidar com vários formatos de planilhas, bem como uma solução para lidar e exportar documentos do Visio. 
  </p>
  <p>
-  Aspose.Total for Node.js via Java currently supports the following file types.
+  Aspose.Total para Node.js via Java suporta atualmente os seguintes tipos de arquivo.
  </p>
  <ul class="unstyled">
   
   <li>
-   Microsoft Excel spreadsheets
+   planilhas do Microsoft Excel
   </li>
   <li>
-   Microsoft Visio documents
+   Documentos do Microsoft Visio
   </li>
   <li>
-    1D, 2D and Postal Barcodes
+    Códigos de barras 1D, 2D e postais
   </li>
  </ul>
 </div>
@@ -205,46 +205,46 @@ Node.js Visio API to process and export Microsoft Visio formats including VSDX, 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Total APIs." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
-{{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brazil" >}}
-During our implementation, we could sense that we touched only a fraction of what Aspose.Total is capable of. The API’s ease of use give the developers satisfaction for “getting work done” with it’s simple and clean code, and the end product’s robustness makes our customers happy.
+{{< blocks/products/pf/testimonials title="O que as pessoas estão dizendo" subTitle="Não acredite apenas em nossa palavra. Veja o que os usuários têm a dizer sobre as APIs do Aspose.Total." caseStudiesLink="https://releases.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials-quote poster="Igor Klafke | W3K Tecnologia, Brasil" >}}
+Durante nossa implementação, pudemos sentir que tocamos apenas uma fração do que o Aspose.Total é capaz. A facilidade de uso da API dá aos desenvolvedores a satisfação de “fazer o trabalho” com seu código simples e limpo, e a robustez do produto final deixa nossos clientes satisfeitos.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Netherlands" >}}
-We tried several other free and paid solutions, but all of them had limitations that were too great for our use-case. Most of the problems with our solutions arose in converting Microsoft Office files to PDF. Only Aspose proved to do this perfectly every time.
+{{< blocks/products/pf/testimonials-quote poster="Rick Goud | ZIVVER, Holanda" >}}
+Tentamos várias outras soluções gratuitas e pagas, mas todas tinham limitações muito grandes para o nosso caso de uso. A maioria dos problemas com nossas soluções surgiu na conversão de arquivos do Microsoft Office para PDF. Apenas Aspose provou fazer isso perfeitamente todas as vezes.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote poster="Andreu Garcia | Fermator, Spain" >}}
-We can only say one thing: excellent product and excellent service. Sometimes, you can find a good product with a lack of customer care. This is not the case for Aspose.
+{{< blocks/products/pf/testimonials-quote poster="André Garcia | Fermator, Espanha" >}}
+Só podemos dizer uma coisa: excelente produto e excelente atendimento. Às vezes, você pode encontrar um bom produto com falta de atendimento ao cliente. Este não é o caso do Aspose.
 {{< /blocks/products/pf/testimonials-quote >}}
-{{< blocks/products/pf/testimonials-quote poster="Thomas | Join and Share, Germany" >}}
-Aspose.Total is a powerful suite to process nearly all kinds of documents in high speed and great quality. It effectively reduces the programming effort.
+{{< blocks/products/pf/testimonials-quote poster="Thomas | Junte-se e Compartilhe, Alemanha" >}}
+Aspose.Total é uma suíte poderosa para processar quase todos os tipos de documentos em alta velocidade e grande qualidade. Ele efetivamente reduz o esforço de programação.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/total/nodejsjava/" >}} 
-{{< blocks/products/pf/slr-element name="Source Code" href="http://aspose.github.io/" >}} 
+{{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/total/nodejsjava/" >}} 
+{{< blocks/products/pf/slr-element name="Código fonte" href="http://aspose.github.io/" >}} 
 {{< blocks/products/pf/slr-element name="Aspose API References" href="https://reference.aspose.com/" >}} 
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}} 
+{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/total/7" >}} 
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}} 
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/total/" >}} 
+{{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/total/7" >}} 
+{{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}} 
+{{< blocks/products/pf/slr-element name="blog" href="https://blog.aspose.com/category/total/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total for Node.js via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Total para Node.js via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}} 
+{{< blocks/products/pf/slr-element name="Histórias de sucesso" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total oferece soluções individuais para outras plataformas." >}}
 
     {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
     {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
