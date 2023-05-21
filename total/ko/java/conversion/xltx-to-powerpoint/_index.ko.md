@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: XLTX
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: POWERPOINT PPTX WORD POWERPOINTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

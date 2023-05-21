@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: MOBI
-outformat: XLSX
+outformat: EXCEL
 otherformats: XLTM DIF FODS XLTX SXC TSV XLSB XLAM XLSX XLS XLT XLSM EXCEL ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
