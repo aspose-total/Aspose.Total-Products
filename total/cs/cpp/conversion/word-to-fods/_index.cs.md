@@ -5,7 +5,7 @@ description: C++ API pro převod WORD do FODS nebo online aplikace bez použití
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: EXCEL XLSM XLSX XLSB SXC TSV XLTX DIF XLTM XLS XLT XLAM ODS CSV
 ---

@@ -5,7 +5,7 @@ description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi DIF'ye dön
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: XLSB FODS ODS SXC XLTX XLAM XLTM XLSX XLSM EXCEL XLS TSV CSV XLT
 ---

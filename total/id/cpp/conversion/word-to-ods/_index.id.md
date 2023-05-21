@@ -5,7 +5,7 @@ description: C++ API untuk Mengonversi WORD ke ODS atau Aplikasi Daring tanpa me
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: CSV XLT XLSB EXCEL DIF XLSM XLS XLAM XLSX FODS XLTM XLTX SXC TSV
 ---

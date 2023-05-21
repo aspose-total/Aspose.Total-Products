@@ -5,7 +5,7 @@ description: C++ API a WORD konvertálásához ODS-vé Microsoft Word vagy Micro
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: CSV XLT XLSB EXCEL DIF XLSM XLS XLAM XLSX FODS XLTM XLTX SXC TSV
 ---

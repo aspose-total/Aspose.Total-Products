@@ -5,7 +5,7 @@ description: C++ API för att konvertera WORD till ODS eller onlineapp utan att 
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: CSV XLT XLSB EXCEL DIF XLSM XLS XLAM XLSX FODS XLTM XLTX SXC TSV
 ---

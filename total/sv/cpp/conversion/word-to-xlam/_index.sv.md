@@ -5,7 +5,7 @@ description: C++ API för att konvertera WORD till XLAM eller onlineapp utan att
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: SXC XLTX XLSB XLT XLSX XLSM TSV FODS DIF XLTM XLS EXCEL ODS CSV
 ---

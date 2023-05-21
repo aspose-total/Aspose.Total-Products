@@ -5,7 +5,7 @@ description: 在 C++ 应用程序中将 EXCEL 转换为 DOCX 或在线。在集�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---

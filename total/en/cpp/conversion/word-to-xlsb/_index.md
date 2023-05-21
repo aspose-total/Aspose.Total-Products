@@ -5,7 +5,7 @@ url_ignore: /cpp/conversion/word-to-xlsb/
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSB
 otherformats: XLAM DIF XLSX SXC XLTM XLT TSV XLS FODS EXCEL ODS CSV XLSM XLTX
 ---

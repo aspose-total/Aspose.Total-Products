@@ -5,7 +5,7 @@ description: API C++ para converter WORD para SXC ou aplicativo on-line sem usar
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: SXC
 otherformats: XLSM XLT XLSX ODS XLAM EXCEL DIF CSV TSV XLTM XLSB XLS XLTX FODS
 ---

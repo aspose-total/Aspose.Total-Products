@@ -5,7 +5,7 @@ description: Converteer EXCEL naar PPTX binnen C++-toepassingen of online. Test 
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---

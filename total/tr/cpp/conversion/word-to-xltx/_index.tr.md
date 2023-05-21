@@ -5,7 +5,7 @@ description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi XLTX'ye dö
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTX
 otherformats: XLSX XLSM XLS XLT CSV TSV EXCEL XLSB SXC FODS DIF ODS XLTM XLAM
 ---

@@ -5,7 +5,7 @@ description: C++ API untuk Mengonversi WORD ke FODS atau Aplikasi Daring tanpa m
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: EXCEL XLSM XLSX XLSB SXC TSV XLTX DIF XLTM XLS XLT XLAM ODS CSV
 ---

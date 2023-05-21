@@ -5,7 +5,7 @@ description: C++ API для преобразования WORD в XLT или он
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLT
 otherformats: XLSB XLS XLSX SXC TSV XLTX XLAM XLSM FODS CSV DIF XLTM EXCEL ODS
 ---

@@ -5,7 +5,7 @@ description: MicrosoftExcelまたはWordを使用せずにC++でWORDをJSONに�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

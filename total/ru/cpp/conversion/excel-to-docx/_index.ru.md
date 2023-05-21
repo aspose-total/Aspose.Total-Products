@@ -5,7 +5,7 @@ description: Преобразование EXCEL в DOCX в приложения�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---

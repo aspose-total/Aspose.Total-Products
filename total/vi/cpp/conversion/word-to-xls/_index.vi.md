@@ -5,7 +5,7 @@ description: C++ API để chuyển đổi WORD sang XLS mà không cần sử d
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLS
 otherformats: XLSX FODS TSV XLSM SXC XLSB EXCEL CSV XLAM DIF XLTX XLT XLTM ODS
 ---

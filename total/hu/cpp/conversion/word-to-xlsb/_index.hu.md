@@ -5,7 +5,7 @@ description: C++ API a WORD konvertálásához XLSB-vé Microsoft Word vagy Micr
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSB
 otherformats: XLAM DIF XLSX SXC XLTM XLT TSV XLS FODS EXCEL ODS CSV XLSM XLTX
 ---

@@ -5,7 +5,7 @@ description: C++ API untuk Mengonversi WORD ke XLSX atau Aplikasi Daring tanpa m
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSX
 otherformats: XLAM EXCEL SXC XLTX XLSM XLS CSV XLTM DIF XLSB TSV XLT FODS ODS
 ---

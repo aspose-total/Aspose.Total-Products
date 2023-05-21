@@ -5,7 +5,7 @@ description: C++ uygulamaları içinde EXCEL'yi PPTX'ye dönüştürün veya çe
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---

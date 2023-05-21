@@ -5,7 +5,7 @@ description: C++ API để chuyển đổi WORD sang XLSB mà không cần sử 
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSB
 otherformats: XLAM DIF XLSX SXC XLTM XLT TSV XLS FODS EXCEL ODS CSV XLSM XLTX
 ---

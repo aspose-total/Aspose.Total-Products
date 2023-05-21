@@ -5,7 +5,7 @@ description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi FODS'ye dö
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: EXCEL XLSM XLSX XLSB SXC TSV XLTX DIF XLTM XLS XLT XLAM ODS CSV
 ---

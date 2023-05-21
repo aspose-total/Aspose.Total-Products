@@ -5,8 +5,8 @@ description: 在 C++ 应用程序中将 EXCEL 转换为 POWERPOINT 或在线。�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: DOC PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,7 +5,7 @@ description: C++ API do konwersji WORD na CSV lub Aplikacja internetowa bez uży
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: CSV
 otherformats: XLSB XLSX XLSM XLS XLTM ODS XLAM FODS SXC EXCEL XLT DIF XLTX TSV
 ---

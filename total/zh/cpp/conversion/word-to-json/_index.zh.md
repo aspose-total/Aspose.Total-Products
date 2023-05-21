@@ -5,7 +5,7 @@ description: 在 C++ 中将 WORD 导出为 JSON，而不使用 Microsoft Excel �
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

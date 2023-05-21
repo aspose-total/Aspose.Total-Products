@@ -5,7 +5,7 @@ description: C++ API a WORD konvertálásához XLT-vé Microsoft Word vagy Micro
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLT
 otherformats: XLSB XLS XLSX SXC TSV XLTX XLAM XLSM FODS CSV DIF XLTM EXCEL ODS
 ---

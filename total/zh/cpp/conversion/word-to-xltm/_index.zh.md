@@ -5,7 +5,7 @@ description: 无需使用 Microsoft Word 或 Microsoft Excel 即可将 WORD 转�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTM
 otherformats: FODS XLS DIF ODS XLAM SXC XLSB CSV XLSX TSV XLSM EXCEL XLTX XLT
 ---

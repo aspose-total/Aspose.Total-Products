@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: XLTX
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: PPTX WORD DOCX DOC
 ---
 

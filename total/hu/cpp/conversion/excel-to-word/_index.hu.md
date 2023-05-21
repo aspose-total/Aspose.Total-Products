@@ -5,8 +5,8 @@ description: A EXCEL konvertálása WORD formátumba a C++ alkalmazásokon belü
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,7 +5,7 @@ description: C++-API zum Konvertieren von WORD in XLS oder Online-App, ohne Micr
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLS
 otherformats: XLSX FODS TSV XLSM SXC XLSB EXCEL CSV XLAM DIF XLTX XLT XLTM ODS
 ---

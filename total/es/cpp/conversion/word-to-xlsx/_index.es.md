@@ -5,7 +5,7 @@ description: API de C++ para convertir WORD a XLSX o aplicación en línea sin u
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSX
 otherformats: XLAM EXCEL SXC XLTX XLSM XLS CSV XLTM DIF XLSB TSV XLT FODS ODS
 ---

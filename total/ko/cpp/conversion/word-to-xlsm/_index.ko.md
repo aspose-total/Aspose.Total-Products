@@ -5,7 +5,7 @@ description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 WORD�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSM
 otherformats: XLSX DIF EXCEL SXC XLSB ODS FODS XLTX XLS XLT TSV XLTM CSV XLAM
 ---

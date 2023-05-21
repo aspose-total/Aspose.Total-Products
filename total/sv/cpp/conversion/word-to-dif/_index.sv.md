@@ -5,7 +5,7 @@ description: C++ API för att konvertera WORD till DIF eller onlineapp utan att 
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: XLSB FODS ODS SXC XLTX XLAM XLTM XLSX XLSM EXCEL XLS TSV CSV XLT
 ---

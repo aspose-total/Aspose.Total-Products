@@ -5,7 +5,7 @@ description: แปลง EXCEL เป็น DOC ภายในแอปพล�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---

@@ -5,7 +5,7 @@ description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi XLAM'ye dö
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: SXC XLTX XLSB XLT XLSX XLSM TSV FODS DIF XLTM XLS EXCEL ODS CSV
 ---

@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: TEX
-outformat: CSV
+outformat: EXCEL
 otherformats: XLT ODS XLTM MD FODS DIF SXC CSV XLAM XLSB XLSM TXT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

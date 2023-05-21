@@ -5,7 +5,7 @@ description: MicrosoftWordまたはMicrosoftExcelを使用せずにWORDをXLTM�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTM
 otherformats: FODS XLS DIF ODS XLAM SXC XLSB CSV XLSX TSV XLSM EXCEL XLTX XLT
 ---

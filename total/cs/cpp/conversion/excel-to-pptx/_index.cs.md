@@ -5,7 +5,7 @@ description: Převeďte EXCEL na PPTX v aplikacích C++ nebo online. Před integ
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---

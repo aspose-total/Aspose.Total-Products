@@ -5,7 +5,7 @@ description: Exportálja a WORD-t JSON-ba C++-ban Microsoft Excel vagy Word hasz
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

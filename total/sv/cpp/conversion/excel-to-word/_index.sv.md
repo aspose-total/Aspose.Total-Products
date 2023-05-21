@@ -5,8 +5,8 @@ description: Konvertera EXCEL till WORD inom C++-applikationer eller online. Tes
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

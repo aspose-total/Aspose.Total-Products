@@ -5,7 +5,7 @@ description: C++ API untuk Mengonversi WORD ke SXC atau Aplikasi Daring tanpa me
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: SXC
 otherformats: XLSM XLT XLSX ODS XLAM EXCEL DIF CSV TSV XLTM XLSB XLS XLTX FODS
 ---

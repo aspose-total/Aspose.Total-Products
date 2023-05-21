@@ -5,7 +5,7 @@ description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi XLTM'ye dö
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTM
 otherformats: FODS XLS DIF ODS XLAM SXC XLSB CSV XLSX TSV XLSM EXCEL XLTX XLT
 ---

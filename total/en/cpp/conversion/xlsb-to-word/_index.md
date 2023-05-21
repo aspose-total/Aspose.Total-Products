@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: XLSB
-outformat: DOC
+outformat: WORD
 otherformats: DOCX PPTX DOC POWERPOINT
 ---
 

@@ -5,8 +5,8 @@ description: Převeďte EXCEL na POWERPOINT v aplikacích C++ nebo online. Před
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: DOC PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,7 +5,7 @@ description: C++ API для преобразования WORD в XLSM или о�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSM
 otherformats: XLSX DIF EXCEL SXC XLSB ODS FODS XLTX XLS XLT TSV XLTM CSV XLAM
 ---

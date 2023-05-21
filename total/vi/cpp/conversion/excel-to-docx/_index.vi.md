@@ -5,7 +5,7 @@ description: Chuyển đổi EXCEL sang DOCX trong các ứng dụng C++ hoặc 
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---

@@ -5,8 +5,8 @@ description: Konversi EXCEL ke POWERPOINT dalam aplikasi C++ atau daring. Uji ko
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: DOC PPTX DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

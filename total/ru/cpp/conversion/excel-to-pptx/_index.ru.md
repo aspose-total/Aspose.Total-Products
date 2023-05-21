@@ -5,7 +5,7 @@ description: Преобразование EXCEL в PPTX в приложения�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---

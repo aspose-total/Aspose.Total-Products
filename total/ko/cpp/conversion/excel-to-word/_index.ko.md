@@ -5,8 +5,8 @@ description: C++ 애플리케이션 내에서 EXCEL를 WORD로 변환 또는 온
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

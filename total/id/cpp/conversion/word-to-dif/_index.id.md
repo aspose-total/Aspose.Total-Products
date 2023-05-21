@@ -5,7 +5,7 @@ description: C++ API untuk Mengonversi WORD ke DIF atau Aplikasi Daring tanpa me
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: XLSB FODS ODS SXC XLTX XLAM XLTM XLSX XLSM EXCEL XLS TSV CSV XLT
 ---

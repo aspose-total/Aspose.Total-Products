@@ -5,7 +5,7 @@ description: A EXCEL konvertálása PPTX formátumba a C++ alkalmazásokon belü
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---

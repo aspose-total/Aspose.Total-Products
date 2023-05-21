@@ -5,8 +5,8 @@ description: Microsoft Word veya Microsoft Excel kullanmadan WORD'yi EXCEL'ye d√
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
-outformat: XLSX
+informat: WORD
+outformat: EXCEL
 otherformats: DIF ODS XLS XLTM TSV CSV XLSM XLSB XLAM XLT FODS XLTX SXC XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: JSON
-outformat: DOC
+outformat: WORD
 otherformats: PS PCL DOCM WORDML FLATOPC OTT ODT MOBI CHM DOC DOT DOTX EPUB RTF
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

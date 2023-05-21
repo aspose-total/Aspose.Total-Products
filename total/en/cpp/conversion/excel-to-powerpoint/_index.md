@@ -5,8 +5,8 @@ url_ignore: /cpp/conversion/excel-to-powerpoint/
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: DOC PPTX DOCX WORD
 ---
 

@@ -5,7 +5,7 @@ description: MicrosoftWordまたはMicrosoftExcelを使用せずにWORDをDIFに
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: XLSB FODS ODS SXC XLTX XLAM XLTM XLSX XLSM EXCEL XLS TSV CSV XLT
 ---

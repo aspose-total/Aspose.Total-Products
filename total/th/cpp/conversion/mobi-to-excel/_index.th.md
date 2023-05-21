@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: MOBI
-outformat: XLSX
+outformat: EXCEL
 otherformats: XLAM XLSM XLSB XLTX FODS DIF XLSX SXC XLT CSV XLS TSV XLTM ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

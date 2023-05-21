@@ -5,7 +5,7 @@ description: MicrosoftWordまたはMicrosoftExcelを使用せずにWORDをODSに
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: CSV XLT XLSB EXCEL DIF XLSM XLS XLAM XLSX FODS XLTM XLTX SXC TSV
 ---

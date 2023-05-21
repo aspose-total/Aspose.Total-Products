@@ -5,7 +5,7 @@ description: C++ API لتحويل WORD إلى TSV أو التطبيق عبر ا�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: TSV
 otherformats: XLSX DIF EXCEL XLTM XLAM XLTX XLSM XLS CSV XLT XLSB FODS SXC ODS
 ---

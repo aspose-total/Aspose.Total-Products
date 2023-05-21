@@ -5,7 +5,7 @@ description: Převeďte EXCEL na DOC v aplikacích C++ nebo online. Před integr
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---

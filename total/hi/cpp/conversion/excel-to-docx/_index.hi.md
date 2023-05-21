@@ -5,7 +5,7 @@ description: C++ अनुप्रयोगों के भीतर EXCEL क
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD DOC PPTX POWERPOINT
 ---

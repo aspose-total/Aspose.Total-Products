@@ -5,7 +5,7 @@ description: A EXCEL konvertálása DOC formátumba a C++ alkalmazásokon belül
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---

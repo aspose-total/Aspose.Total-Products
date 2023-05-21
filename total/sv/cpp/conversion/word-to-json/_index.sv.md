@@ -5,7 +5,7 @@ description: Exportera WORD till JSON i C++ utan att använda Microsoft Excel el
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

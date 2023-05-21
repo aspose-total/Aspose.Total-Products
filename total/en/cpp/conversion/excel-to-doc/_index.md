@@ -5,7 +5,7 @@ url_ignore: /cpp/conversion/excel-to-doc/
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---

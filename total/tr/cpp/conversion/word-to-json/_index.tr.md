@@ -5,7 +5,7 @@ description: Microsoft Excel veya Word kullanmadan WORD'yi C++'da JSON'a aktarı
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

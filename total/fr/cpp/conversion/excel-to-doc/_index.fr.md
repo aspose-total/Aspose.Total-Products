@@ -5,7 +5,7 @@ description: Convertir EXCEL en DOC dans les applications C++ ou en ligne. Teste
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX POWERPOINT DOCX WORD
 ---

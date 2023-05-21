@@ -5,8 +5,8 @@ description: 在 C++ 应用程序中将 EXCEL 转换为 WORD 或在线。在集�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOC PPTX POWERPOINT DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

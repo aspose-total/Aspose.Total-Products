@@ -5,7 +5,7 @@ description: Konversi EXCEL ke PPTX dalam aplikasi C++ atau daring. Uji konverte
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC WORD DOCX POWERPOINT
 ---
