@@ -5,8 +5,8 @@ url_ignore: /android-java/conversion/excel-to-powerpoint/
 family: total
 platformtag: android-java
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD DOC DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,7 +5,7 @@ description: Převeďte WORD na CSV v Androidu přes Java bez použití Microsof
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: CSV
 otherformats: XLAM XLS EXCEL XLTX ODS XLT XLSB XLSX TSV SXC DIF XLSM XLTM FODS
 ---

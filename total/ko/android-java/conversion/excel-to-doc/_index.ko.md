@@ -5,7 +5,7 @@ description: Microsoft Word를 사용하지 않고 EXCEL를 DOC로 변환하는 
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD DOCX POWERPOINT
 ---

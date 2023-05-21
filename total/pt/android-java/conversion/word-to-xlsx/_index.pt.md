@@ -5,7 +5,7 @@ description: Converta WORD para XLSX no Android via Java sem usar o Microsoft Wo
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSX
 otherformats: SXC XLAM XLT TSV FODS CSV DIF XLTX XLSM ODS XLSB XLS EXCEL XLTM
 ---

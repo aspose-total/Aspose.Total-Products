@@ -5,7 +5,7 @@ description: Converti WORD in SXC in Android tramite Java senza utilizzare Micro
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: SXC
 otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 ---

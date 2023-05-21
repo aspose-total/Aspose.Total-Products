@@ -5,8 +5,8 @@ description: API de Android para convertir EXCEL a POWERPOINT sin usar Microsoft
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD DOC DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

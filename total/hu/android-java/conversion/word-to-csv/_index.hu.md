@@ -5,7 +5,7 @@ description: Konvertálja a WORD-t CSV-vé Androidon Java segítségével Micros
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: CSV
 otherformats: XLAM XLS EXCEL XLTX ODS XLT XLSB XLSX TSV SXC DIF XLSM XLTM FODS
 ---

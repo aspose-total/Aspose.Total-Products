@@ -5,7 +5,7 @@ description: Преобразование WORD в DIF в Android через Java
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: XLT XLTM ODS XLSX CSV TSV XLAM XLSM EXCEL XLSB SXC XLTX FODS XLS
 ---

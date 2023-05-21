@@ -5,7 +5,7 @@ description: माइक्रोसॉफ्ट वर्ड या माइ�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: XLSB FODS SXC XLT XLS DIF TSV CSV XLTM XLSM XLSX EXCEL XLTX ODS
 ---

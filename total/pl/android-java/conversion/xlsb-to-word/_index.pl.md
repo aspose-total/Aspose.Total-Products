@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: XLSB
-outformat: DOC
+outformat: WORD
 otherformats: DOC PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,8 +5,8 @@ description: Konwertuj WORD na EXCEL w Androidzie przez Javę bez używania Micr
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
-outformat: XLSX
+informat: WORD
+outformat: EXCEL
 otherformats: DIF XLS XLTM TSV XLT ODS XLSB XLSX FODS CSV XLSM XLTX SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

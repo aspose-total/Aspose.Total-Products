@@ -5,7 +5,7 @@ url_ignore: /android-java/conversion/word-to-xlam/
 family: total
 platformtag: android-java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: XLSB FODS SXC XLT XLS DIF TSV CSV XLTM XLSM XLSX EXCEL XLTX ODS
 ---

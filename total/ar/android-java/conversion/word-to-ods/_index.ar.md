@@ -5,7 +5,7 @@ description: قم بتحويل WORD إلى ODS في Android عبر Java دون �
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: DIF XLSX XLTM XLTX XLAM XLS SXC XLSB FODS CSV EXCEL TSV XLSM XLT
 ---

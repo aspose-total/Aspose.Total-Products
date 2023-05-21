@@ -5,8 +5,8 @@ description: माइक्रोसॉफ्ट वर्ड का उपय�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

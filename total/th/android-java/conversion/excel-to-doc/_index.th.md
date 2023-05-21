@@ -5,7 +5,7 @@ description: Android API เพื่อแปลง EXCEL เป็น DOC โ�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD DOCX POWERPOINT
 ---

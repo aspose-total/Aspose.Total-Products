@@ -5,7 +5,7 @@ description: Microsoft Word kullanmadan EXCEL'yi PPTX'ye dönüştürmek için A
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---

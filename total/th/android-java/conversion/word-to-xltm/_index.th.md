@@ -5,7 +5,7 @@ description: แปลง WORD เป็น XLTM ใน Android ผ่าน Jav
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTM
 otherformats: CSV ODS TSV XLAM SXC XLSM XLTX XLSX EXCEL XLSB XLS DIF FODS XLT
 ---

@@ -5,7 +5,7 @@ url_ignore: /android-java/conversion/word-to-sxc/
 family: total
 platformtag: android-java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: SXC
 otherformats: DIF XLS CSV XLSX ODS XLTM XLSM XLSB XLAM FODS TSV EXCEL XLT XLTX
 ---

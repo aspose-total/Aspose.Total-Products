@@ -5,7 +5,7 @@ description: Android API a EXCEL konvertálásához PPTX formátumba Microsoft W
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---

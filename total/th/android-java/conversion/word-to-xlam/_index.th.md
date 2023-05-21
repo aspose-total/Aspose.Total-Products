@@ -5,7 +5,7 @@ description: แปลง WORD เป็น XLAM ใน Android ผ่าน Jav
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: XLSB FODS SXC XLT XLS DIF TSV CSV XLTM XLSM XLSX EXCEL XLTX ODS
 ---

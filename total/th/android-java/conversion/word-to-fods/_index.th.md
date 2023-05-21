@@ -5,7 +5,7 @@ description: แปลง WORD เป็น FODS ใน Android ผ่าน Jav
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: XLTM TSV XLT XLSX EXCEL ODS XLS XLAM CSV XLTX XLSM XLSB DIF SXC
 ---

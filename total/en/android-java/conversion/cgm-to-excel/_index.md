@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: CGM
-outformat: CSV
+outformat: EXCEL
 otherformats: FODS CSV DIF XLSB XLTM MD ODS XLAM TSV XLTX XLT SXC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

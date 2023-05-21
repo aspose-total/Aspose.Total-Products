@@ -5,8 +5,8 @@ description: 在不使用 Microsoft Word 或 Microsoft Excel 的情况下，通�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
-outformat: XLSX
+informat: WORD
+outformat: EXCEL
 otherformats: DIF XLS XLTM TSV XLT ODS XLSB XLSX FODS CSV XLSM XLTX SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

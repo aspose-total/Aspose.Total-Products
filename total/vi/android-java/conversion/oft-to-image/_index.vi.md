@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: OFT
-outformat: PNG
+outformat: IMAGE
 otherformats: BMP RTF OTT GIF DOCX TIFF WORDML PS DOTX DOC EMF TEXT ODT EPUB FLATOPC DOTM JPEG DOT XPS PNG PDF MD DOCM PCL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

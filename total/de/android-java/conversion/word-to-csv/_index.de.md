@@ -5,7 +5,7 @@ description: Konvertieren Sie WORD in CSV in Android über Java, ohne Microsoft 
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: CSV
 otherformats: XLAM XLS EXCEL XLTX ODS XLT XLSB XLSX TSV SXC DIF XLSM XLTM FODS
 ---

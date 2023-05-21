@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: JSON
-outformat: DOC
+outformat: WORD
 otherformats: DOT PS RTF MOBI EPUB WORDML DOTX CHM OTT PCL DOCM FLATOPC DOC ODT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

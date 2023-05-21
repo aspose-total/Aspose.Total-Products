@@ -5,7 +5,7 @@ description: Android API για μετατροπή EXCEL σε PPTX χωρίς χ
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---

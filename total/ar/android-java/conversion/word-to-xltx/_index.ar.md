@@ -5,7 +5,7 @@ description: قم بتحويل WORD إلى XLTX في Android عبر Java دون 
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTX
 otherformats: XLSB SXC XLT XLSM EXCEL CSV XLS TSV FODS DIF ODS XLAM XLSX XLTM
 ---

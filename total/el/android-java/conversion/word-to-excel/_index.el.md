@@ -5,8 +5,8 @@ description: Μετατροπή WORD σε EXCEL στο Android μέσω Java χ�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
-outformat: XLSX
+informat: WORD
+outformat: EXCEL
 otherformats: DIF XLS XLTM TSV XLT ODS XLSB XLSX FODS CSV XLSM XLTX SXC XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

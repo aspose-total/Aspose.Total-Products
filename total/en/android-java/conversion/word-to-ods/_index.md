@@ -5,7 +5,7 @@ url_ignore: /android-java/conversion/word-to-ods/
 family: total
 platformtag: android-java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: DIF XLSX XLTM XLTX XLAM XLS SXC XLSB FODS CSV EXCEL TSV XLSM XLT
 ---

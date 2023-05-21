@@ -5,7 +5,7 @@ description: Konvertieren Sie WORD in FODS in Android über Java, ohne Microsoft
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: XLTM TSV XLT XLSX EXCEL ODS XLS XLAM CSV XLTX XLSM XLSB DIF SXC
 ---

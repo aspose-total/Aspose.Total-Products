@@ -5,7 +5,7 @@ description: Microsoft Word 또는 Excel을 사용하지 않고 Java를 통해 A
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

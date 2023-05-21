@@ -5,7 +5,7 @@ description: API Android pour convertir EXCEL en PPTX sans utiliser Microsoft Wo
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---

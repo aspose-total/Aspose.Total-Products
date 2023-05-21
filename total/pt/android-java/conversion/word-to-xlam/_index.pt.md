@@ -5,7 +5,7 @@ description: Converta WORD para XLAM no Android via Java sem usar o Microsoft Wo
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: XLSB FODS SXC XLT XLS DIF TSV CSV XLTM XLSM XLSX EXCEL XLTX ODS
 ---

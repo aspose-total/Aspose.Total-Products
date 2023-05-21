@@ -5,7 +5,7 @@ description: Konvertera WORD till XLS i Android via Java utan att använda Micro
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLS
 otherformats: EXCEL SXC XLAM XLSX DIF XLT XLSM FODS ODS TSV XLSB CSV XLTM XLTX
 ---

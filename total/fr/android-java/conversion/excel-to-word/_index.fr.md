@@ -5,8 +5,8 @@ description: API Android pour convertir EXCEL en WORD sans utiliser Microsoft Wo
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

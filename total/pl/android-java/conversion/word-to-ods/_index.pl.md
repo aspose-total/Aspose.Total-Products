@@ -5,7 +5,7 @@ description: Konwertuj WORD na ODS w Androidzie przez Javę bez używania Micros
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: DIF XLSX XLTM XLTX XLAM XLS SXC XLSB FODS CSV EXCEL TSV XLSM XLT
 ---

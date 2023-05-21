@@ -5,7 +5,7 @@ description: MicrosoftWordを使用せずにEXCELをPPTXに変換するAndroidAP
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---

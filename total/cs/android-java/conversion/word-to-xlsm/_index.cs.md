@@ -5,7 +5,7 @@ description: Převeďte WORD na XLSM v Androidu přes Java bez použití Microso
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSM
 otherformats: EXCEL FODS XLSB TSV XLAM XLTX XLT XLTM XLS SXC CSV ODS DIF XLSX
 ---

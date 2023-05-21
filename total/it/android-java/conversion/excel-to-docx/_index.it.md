@@ -5,7 +5,7 @@ description: API Android per convertire EXCEL in DOCX senza utilizzare Microsoft
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---

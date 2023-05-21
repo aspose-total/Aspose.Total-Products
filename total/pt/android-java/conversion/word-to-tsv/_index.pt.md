@@ -5,7 +5,7 @@ description: Converta WORD para TSV no Android via Java sem usar o Microsoft Wor
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: TSV
 otherformats: XLT XLTX XLSB ODS DIF XLAM CSV XLSX XLS XLSM XLTM SXC EXCEL FODS
 ---

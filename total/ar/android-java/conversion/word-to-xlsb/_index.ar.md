@@ -5,7 +5,7 @@ description: قم بتحويل WORD إلى XLSB في Android عبر Java دون 
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSB
 otherformats: XLTX ODS EXCEL XLS XLTM DIF SXC XLAM FODS XLT TSV XLSX XLSM CSV
 ---

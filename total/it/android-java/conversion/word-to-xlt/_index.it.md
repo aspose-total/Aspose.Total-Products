@@ -5,7 +5,7 @@ description: Converti WORD in XLT in Android tramite Java senza utilizzare Micro
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLT
 otherformats: XLSX XLAM CSV EXCEL TSV FODS DIF SXC XLTX ODS XLSM XLS XLTM XLSB
 ---

@@ -5,7 +5,7 @@ description: 在不使用 Microsoft Word 或 Microsoft Excel 的情况下，通�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSB
 otherformats: XLTX ODS EXCEL XLS XLTM DIF SXC XLAM FODS XLT TSV XLSX XLSM CSV
 ---

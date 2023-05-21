@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: OFT
-outformat: PNG
+outformat: IMAGE
 otherformats: BMP RTF OTT GIF DOCX TIFF WORDML PS DOTX DOC EMF TEXT ODT EPUB FLATOPC DOTM JPEG DOT XPS PNG PDF MD DOCM PCL
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

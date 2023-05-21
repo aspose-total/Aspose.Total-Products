@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: DOCM
-outformat: XLSX
+outformat: EXCEL
 otherformats: XLSM XLT CSV XLSX XLTM DIF XLTX XLAM XLSB ODS FODS XLS SXC TSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,7 +5,7 @@ description: Microsoft Word kullanmadan EXCEL'yi DOCX'ye dönüştürmek için A
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---

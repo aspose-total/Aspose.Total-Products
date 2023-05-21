@@ -5,7 +5,7 @@ description: Microsoft Word 또는 Microsoft Excel을 사용하지 않고 Java�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTX
 otherformats: XLSB SXC XLT XLSM EXCEL CSV XLS TSV FODS DIF ODS XLAM XLSX XLTM
 ---

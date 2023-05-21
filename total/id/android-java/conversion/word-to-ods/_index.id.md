@@ -5,7 +5,7 @@ description: Konversi WORD ke ODS di Android melalui Java tanpa menggunakan Micr
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: DIF XLSX XLTM XLTX XLAM XLS SXC XLSB FODS CSV EXCEL TSV XLSM XLT
 ---

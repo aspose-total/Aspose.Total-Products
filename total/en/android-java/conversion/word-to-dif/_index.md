@@ -5,7 +5,7 @@ url_ignore: /android-java/conversion/word-to-dif/
 family: total
 platformtag: android-java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: XLT XLTM ODS XLSX CSV TSV XLAM XLSM EXCEL XLSB SXC XLTX FODS XLS
 ---

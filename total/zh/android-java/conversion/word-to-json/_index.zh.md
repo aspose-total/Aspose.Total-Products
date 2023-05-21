@@ -5,7 +5,7 @@ description: 在不使用 Microsoft Word 或 Excel 的情况下，通过 Java �
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

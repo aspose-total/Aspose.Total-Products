@@ -5,7 +5,7 @@ description: 无需使用 Microsoft Word 即可将 EXCEL 转换为 PPTX 的 Andr
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: PPTX
 otherformats: DOC DOCX WORD POWERPOINT
 ---

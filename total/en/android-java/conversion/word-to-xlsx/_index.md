@@ -5,7 +5,7 @@ url_ignore: /android-java/conversion/word-to-xlsx/
 family: total
 platformtag: android-java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSX
 otherformats: SXC XLAM XLT TSV FODS CSV DIF XLTX XLSM ODS XLSB XLS EXCEL XLTM
 ---

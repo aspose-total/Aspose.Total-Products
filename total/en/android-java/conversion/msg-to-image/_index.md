@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: MSG
-outformat: PNG
+outformat: IMAGE
 otherformats: PDF EPUB OTT RTF DOC EMF SVG DOCM TIFF DOCX DOTM ODT MD GIF PNG DOT XPS DOTX FLATOPC JPEG BMP WORDML PS PCL
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

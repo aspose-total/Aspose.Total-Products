@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: XLTX
-outformat: DOC
+outformat: WORD
 otherformats: PPTX POWERPOINT DOC DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

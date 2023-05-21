@@ -5,7 +5,7 @@ description: Android API pro převod EXCEL na DOC bez použití aplikace Microso
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD DOCX POWERPOINT
 ---

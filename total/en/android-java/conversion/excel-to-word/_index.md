@@ -5,8 +5,8 @@ url_ignore: /android-java/conversion/excel-to-word/
 family: total
 platformtag: android-java
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

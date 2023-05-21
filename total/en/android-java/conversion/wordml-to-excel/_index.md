@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: WORDML
-outformat: XLSX
+outformat: EXCEL
 otherformats: TSV XLS XLTX FODS XLTM XLSX CSV DIF SXC XLAM ODS XLSM XLSB XLT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

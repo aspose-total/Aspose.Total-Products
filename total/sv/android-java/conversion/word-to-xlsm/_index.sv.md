@@ -5,7 +5,7 @@ description: Konvertera WORD till XLSM i Android via Java utan att använda Micr
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSM
 otherformats: EXCEL FODS XLSB TSV XLAM XLTX XLT XLTM XLS SXC CSV ODS DIF XLSX
 ---

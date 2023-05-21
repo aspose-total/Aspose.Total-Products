@@ -5,7 +5,7 @@ url_ignore: /android-java/conversion/excel-to-docx/
 family: total
 platformtag: android-java
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---

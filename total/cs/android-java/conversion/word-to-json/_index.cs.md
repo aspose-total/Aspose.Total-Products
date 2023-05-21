@@ -5,7 +5,7 @@ description: Analyzujte formát WORD na formát JSON v Androidu přes Java bez p
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

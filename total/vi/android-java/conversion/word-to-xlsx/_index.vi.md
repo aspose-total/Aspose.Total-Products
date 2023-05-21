@@ -5,7 +5,7 @@ description: Chuyển đổi WORD sang XLSX trong Android qua Java mà không c�
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLSX
 otherformats: SXC XLAM XLT TSV FODS CSV DIF XLTX XLSM ODS XLSB XLS EXCEL XLTM
 ---

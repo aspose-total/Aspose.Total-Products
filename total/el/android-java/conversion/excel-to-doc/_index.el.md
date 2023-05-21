@@ -5,7 +5,7 @@ description: Android API για μετατροπή EXCEL σε DOC χωρίς χ�
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD DOCX POWERPOINT
 ---

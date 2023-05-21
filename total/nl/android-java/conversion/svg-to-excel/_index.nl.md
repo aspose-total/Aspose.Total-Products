@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: SVG
-outformat: CSV
+outformat: EXCEL
 otherformats: XLT TXT TSV ODS XLSM DIF SXC FODS XLSB XLAM MD CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

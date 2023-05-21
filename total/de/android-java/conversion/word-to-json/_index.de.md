@@ -5,7 +5,7 @@ description: Analysieren Sie WORD in das JSON-Format in Android über Java, ohne
 family: total
 platformtag: cpp
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

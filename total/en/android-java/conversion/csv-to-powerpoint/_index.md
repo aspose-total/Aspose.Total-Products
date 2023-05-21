@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: CSV
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: DOC WORD PPTX DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

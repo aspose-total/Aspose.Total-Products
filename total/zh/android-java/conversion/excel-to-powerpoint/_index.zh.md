@@ -5,8 +5,8 @@ description: 无需使用 Microsoft Word 即可将 EXCEL 转换为 POWERPOINT �
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: WORD DOC DOCX PPTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

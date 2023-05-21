@@ -5,7 +5,7 @@ description: Android API a EXCEL konvertálásához DOCX formátumba Microsoft W
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOCX
 otherformats: WORD POWERPOINT PPTX DOC
 ---

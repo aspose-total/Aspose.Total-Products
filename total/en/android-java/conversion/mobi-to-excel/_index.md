@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: MOBI
-outformat: XLSX
+outformat: EXCEL
 otherformats: ODS XLSB DIF XLT XLSX XLAM SXC FODS XLTM XLTX TSV XLS XLSM CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

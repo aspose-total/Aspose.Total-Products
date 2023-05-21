@@ -5,7 +5,7 @@ description: MicrosoftWordを使用せずにEXCELをDOCに変換するAndroidAPI
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
+informat: EXCEL
 outformat: DOC
 otherformats: PPTX WORD DOCX POWERPOINT
 ---

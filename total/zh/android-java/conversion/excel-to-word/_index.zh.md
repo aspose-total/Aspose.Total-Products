@@ -5,8 +5,8 @@ description: 无需使用 Microsoft Word 即可将 EXCEL 转换为 WORD 的 Andr
 family: total
 platformtag: cpp
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: DOCX PPTX POWERPOINT DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

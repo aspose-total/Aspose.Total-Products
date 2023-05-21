@@ -6,7 +6,7 @@ family: total
 platformtag: cpp
 feature: conversion
 informat: XLS
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: PPTX DOC DOCX WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: SVG
-outformat: PPT
+outformat: POWERPOINT
 otherformats: PPSX PPSM PPS POTM XAML OTP ODP PPTM SWF POTX PPT POT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

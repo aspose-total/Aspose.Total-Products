@@ -6,7 +6,7 @@ family: total
 platformtag: android-java
 feature: conversion
 informat: PDF
-outformat: PPT
+outformat: POWERPOINT
 otherformats: PPT ODP PPSX SWF XAML POTM PPS POT POTX PPTM PPSM OTP
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
