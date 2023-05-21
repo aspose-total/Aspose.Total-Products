@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-xlam/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLAM
 otherformats: CSV XLS ODS XLSB FODS XLT XLSX DIF XLTM XLTX XLSM EXCEL SXC TSV
 ---

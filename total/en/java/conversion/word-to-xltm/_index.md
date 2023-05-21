@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-xltm/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLTM
 otherformats: XLSB XLS XLAM EXCEL DIF CSV FODS SXC XLTX XLT XLSM TSV ODS XLSX
 ---

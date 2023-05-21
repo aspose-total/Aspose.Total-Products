@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: EXCEL
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: PPTX POWERPOINTX POWERPOINT WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

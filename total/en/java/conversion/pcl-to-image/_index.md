@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: PCL
-outformat: JPEG2000
+outformat: IMAGE
 otherformats: EMZ  SVGZ PSD JPEG2000 WMF WMZ APNG DXF TGA DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

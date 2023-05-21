@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: SVG
-outformat: PPT
+outformat: POWERPOINT
 otherformats: POTX OTP XAML POWERPOINT POTM PPSX PPSM PPTM POT PPS SWF PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

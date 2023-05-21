@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-xls/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: XLS
 otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---

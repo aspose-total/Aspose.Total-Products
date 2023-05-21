@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-sxc/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: SXC
 otherformats: CSV XLTX XLAM XLS FODS XLT XLSM TSV DIF EXCEL ODS XLSX XLTM XLSB
 ---

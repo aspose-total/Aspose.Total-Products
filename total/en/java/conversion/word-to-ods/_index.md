@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-ods/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: ODS
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

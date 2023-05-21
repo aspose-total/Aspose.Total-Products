@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: OFT
-outformat: PNG
+outformat: IMAGE
 otherformats: PDF DOTX DOTM DOC TEXT OTT TIFF PCL RTF EPUB SVG PNG WORDML DOCM IMAGE FLATOPC ODT XPS PS GIF DOT EMF MD DOCX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-csv/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: CSV
 otherformats: XLSX XLSM XLT SXC XLS XLTM FODS XLSB DIF XLTX XLAM EXCEL TSV ODS
 ---

@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: FODS
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: DOC WORD PPTX DOCX
 ---
 

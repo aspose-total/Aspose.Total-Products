@@ -5,8 +5,8 @@ url_ignore: /java/conversion/excel-to-powerpoint/
 family: total
 platformtag: java
 feature: conversion
-informat: CSV
-outformat: PPTX
+informat: EXCEL
+outformat: POWERPOINT
 otherformats: PPTX DOCX DOC WORD
 ---
 

@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: MD
-outformat: PPT
+outformat: POWERPOINT
 otherformats: OTP POTM PPT ODP PPS POTX PPSM XAML POT PPSX SWF PPTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

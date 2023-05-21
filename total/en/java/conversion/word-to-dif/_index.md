@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-dif/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: DIF
 otherformats: CSV XLTX XLS XLAM XLT XLSX FODS EXCEL TSV SXC ODS XLSM XLTM XLSB
 ---

@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-json/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: JSON
 otherformats: SXC XLSX XLS DIF XLSB XLT XLAM TSV XLTM XLSM EXCEL XLTX FODS CSV
 ---

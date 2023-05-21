@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: RTF
-outformat: XLSX
+outformat: EXCEL
 otherformats: XLS CSV XLSM XLT ODS XLSX XLTX SXC TSV DIF XLAM XLTM XLSB FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

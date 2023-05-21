@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: SXC
-outformat: PPTX
+outformat: POWERPOINT
 otherformats: PPTX WORD DOC DOCX
 ---
 

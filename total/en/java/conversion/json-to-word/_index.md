@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: JSON
-outformat: DOC
+outformat: WORD
 otherformats: EPUB PCL WordML CHM RTF MOBI DOT ODT PS FLATOPC DOTX OTT DOCM DOC
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

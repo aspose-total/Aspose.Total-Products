@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: XLTX
-outformat: DOC
+outformat: WORD
 otherformats: DOC DOCX PPTX POWERPOINT
 ---
 

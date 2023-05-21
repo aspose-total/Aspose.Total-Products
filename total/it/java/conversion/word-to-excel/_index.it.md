@@ -6,7 +6,7 @@ family: total
 platformtag: net
 feature: conversion
 informat: WORD
-outformat: XLSX
+outformat: EXCEL
 otherformats: SXC EXCEL ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

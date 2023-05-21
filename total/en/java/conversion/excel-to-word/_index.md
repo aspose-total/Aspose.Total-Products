@@ -5,8 +5,8 @@ url_ignore: /java/conversion/excel-to-word/
 family: total
 platformtag: java
 feature: conversion
-informat: CSV
-outformat: DOC
+informat: EXCEL
+outformat: WORD
 otherformats: POWERPOINT PPTX DOC DOCX
 ---
 

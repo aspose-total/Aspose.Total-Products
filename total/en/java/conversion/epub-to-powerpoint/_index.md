@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: EPUB
-outformat: PPT
+outformat: POWERPOINT
 otherformats: POTX PPS XAML SWF POTM POT PPT PPSM PPTM ODP OTP PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

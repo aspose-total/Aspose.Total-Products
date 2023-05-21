@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: OFT
-outformat: PNG
+outformat: IMAGE
 otherformats: PDF DOTX DOTM DOC TEXT OTT TIFF PCL RTF EPUB SVG PNG WORDML DOCM BMP FLATOPC ODT XPS PS GIF DOT EMF MD DOCX
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

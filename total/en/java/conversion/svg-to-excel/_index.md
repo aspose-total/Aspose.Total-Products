@@ -6,7 +6,7 @@ family: total
 platformtag: java
 feature: conversion
 informat: SVG
-outformat: CSV
+outformat: EXCEL
 otherformats: TXT MD TSV XLTX XLAM XLSB CSV DIF XLSM XLTM SXC ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

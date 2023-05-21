@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-fods/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: FODS
 otherformats: XLTM XLS CSV XLT TSV XLAM EXCEL SXC ODS XLSM XLSX DIF XLSB XLTX
 ---

@@ -5,7 +5,7 @@ url_ignore: /java/conversion/word-to-tsv/
 family: total
 platformtag: java
 feature: conversion
-informat: DOC
+informat: WORD
 outformat: TSV
 otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC CSV XLSX DIF XLT
 ---
