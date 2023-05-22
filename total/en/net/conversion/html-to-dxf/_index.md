@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: DXF
-otherformats: APNG TGA IMAGE SVGZ EMZ WMF JPEG2000 PSD WMZ DICOM WORD
+otherformats: APNG TGA IMAGE SVGZ EMZ WMF JPEG2000 PSD WMZ DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to DXF via C#" h2="Export HTML to DXF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}

@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: DICOM
-otherformats: WMZ TGA SVGZ APNG WMF EMZ DXF PSD JPEG2000 IMAGE WORD 
+otherformats: WMZ TGA SVGZ APNG WMF EMZ DXF PSD JPEG2000 IMAGE
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to DICOM via C#" h2="Export HTML to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}

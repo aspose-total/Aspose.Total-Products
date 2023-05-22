@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: TGA
-otherformats: WMZ DXF IMAGE JPEG2000 EMZ SVGZ WMF APNG PSD DICOM WORD
+otherformats: WMZ DXF IMAGE JPEG2000 EMZ SVGZ WMF APNG PSD DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to TGA via C#" h2="Export HTML to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}

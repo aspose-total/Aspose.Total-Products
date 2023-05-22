@@ -6,7 +6,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: WORD
-otherformats: IMAGE DXF SVGZ JPEG2000 EMZ PSD WMF WMZ  TGA DICOM
+otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Web Scraping via C#" h2="Extract data from web pages within .NET applications and convert HTML to Microsoft Word files." >}}
@@ -26,7 +26,7 @@ otherformats: IMAGE DXF SVGZ JPEG2000 EMZ PSD WMF WMZ  TGA DICOM
 
 <h2 class="heading-border">Using Aspose.HTML as a Web Scrapping API</h2>
 
-<p>With the help of the [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, a child API of [Aspose.Total for .NET](https://products.aspose.com/total/net/), you can effortlessly develop your own applications that involve analyzing and extracting information from HTML documents. The API offers a robust toolset that facilitates this process.</p><br />
+<p>With the help of the Aspose.HTML for .NET API, a child API of Aspose.Total for .NET, you can effortlessly develop your own applications that involve analyzing and extracting information from HTML documents. The API offers a robust toolset that facilitates this process.</p><br />
 
 <p>When building a scraper, data selectors play a crucial role in identifying and extracting the desired information from HTML files. Typically, these selectors utilize XPath, CSS selectors, or a combination of both to locate the specific data elements within the HTML structure. These selectors act as a means to navigate through the document and pinpoint the data you intend to extract.</p>
 
@@ -43,7 +43,7 @@ otherformats: IMAGE DXF SVGZ JPEG2000 EMZ PSD WMF WMZ  TGA DICOM
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Extract Data using C#?" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Extract Web Data using C#?" %}}
 
 1. Utilize the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) constructor to initialize an HTML document from a URL
 2. Use the [QuerySelectorAll(selector)](https://reference.aspose.com/html/net/aspose.html.dom/document/queryselectorall/) method to specify a selector and retrieve all elements that match the selector.
@@ -65,7 +65,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Using Aspose.Words for HTML to Word Conversion" %}}
-<p>If you need to programmatically convert HTML files to Word format, [Aspose.Words for .NET](https://products.aspose.com/words/net/), another child API of Aspose.Total provides a simple and efficient solution. With just a few lines of C# code, developers can easily convert HTML to Word using this modern document-processing API.</p><br />
+<p>If you need to programmatically convert HTML files to Word format, Aspose.Words for .NET, another child API of Aspose.Total provides a simple and efficient solution. With just a few lines of C# code, developers can easily convert HTML to Word using this modern document-processing API.</p><br />
 
 <p>Aspose.Words for .NET offers high-speed conversion of HTML to Word, ensuring excellent quality results. You can even test the HTML to Word conversion directly in a browser. This powerful C# library supports conversion of HTML files to various popular formats.</p><br />
 

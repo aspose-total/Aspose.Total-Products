@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: JPEG2000
-otherformats: EMZ JPEG2000 PSD WMF TGA SVGZ WMZ DXF APNG DICOM WORD
+otherformats: EMZ JPEG2000 PSD WMF TGA SVGZ WMZ DXF APNG DICOM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to IMAGE via C#" h2="Export HTML to IMAGE within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
