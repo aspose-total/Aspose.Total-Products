@@ -4,7 +4,7 @@ description: Scrape website web pages as well as export HTML to Microsoft Word d
 family: total
 platformtag: net
 feature: conversion
-informat: HTML
+informat: WEB
 outformat: WORD
 otherformats: 
 ---
