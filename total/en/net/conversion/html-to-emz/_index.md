@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: EMZ
-otherformats: PSD DXF TGA  SVGZ IMAGE WMZ JPEG2000 APNG WMF DICOM
+otherformats: PSD DXF TGA  SVGZ IMAGE WMZ JPEG2000 APNG WMF DICOM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to EMZ via C#" h2="Export HTML to EMZ within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}

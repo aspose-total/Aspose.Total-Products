@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: SVGZ
-otherformats: EMZ JPEG2000 PSD WMF TGA IMAGE WMZ DXF APNG DICOM
+otherformats: EMZ JPEG2000 PSD WMF TGA IMAGE WMZ DXF APNG DICOM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to SVGZ via C#" h2="Export HTML to SVGZ within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}

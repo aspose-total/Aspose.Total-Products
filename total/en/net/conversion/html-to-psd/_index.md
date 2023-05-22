@@ -7,7 +7,7 @@ platformtag: net
 feature: conversion
 informat: HTML
 outformat: PSD
-otherformats: EMZ SVGZ IMAGE APNG WMF WMZ  TGA DXF JPEG2000 DICOM
+otherformats: EMZ SVGZ IMAGE APNG WMF WMZ  TGA DXF JPEG2000 DICOM WORD
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to PSD via C#" h2="Export HTML to PSD within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
