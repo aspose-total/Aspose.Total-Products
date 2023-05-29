@@ -6,7 +6,7 @@ platformtag: net
 feature: conversion
 informat: WEB
 outformat: WORD
-otherformats: 
+otherformats: EXCEL POWERPOINT PDF IMAGES
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Web Scraping via C#" h2="Extract data from web pages within .NET applications and convert HTML to Microsoft Word files." >}}
