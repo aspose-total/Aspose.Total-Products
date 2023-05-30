@@ -22,7 +22,7 @@ otherformats: DOT WORD WORDML WORDMLX RTF DOTM TEXT WORDMLM FLATOPC ODT OTT DOTX
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))メソッドを使用してドキュメントをWORDML形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-PPTからWORDMLファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
+PPTからWORDMLファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.Total for Javaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

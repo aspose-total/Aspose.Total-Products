@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOC PS ODT DOCM DOTX EPUB OTT WORD PCL CHM FLATOPC WORDML RTF MOBI
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでJSON形式をDOTに変換する" h2="Microsoft <sup>＆reg; </ sup> Wordを使用せずに、Androidアプリケーション内でJSONをDOTに解析します" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでJSON形式をDOTに変換する" h2="Microsoft <sup>&reg;</sup> Wordを使用せずに、Androidアプリケーション内でJSONをDOTに解析します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 AndroidアプリケーションでJSONをDOTに2段階のプロセスで変換できます。まず、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、JSONをPDFに解析できます。 2番目のステップでは、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用してPDFをDOTに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 

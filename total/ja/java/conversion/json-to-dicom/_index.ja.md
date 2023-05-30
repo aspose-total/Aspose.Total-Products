@@ -22,7 +22,7 @@ otherformats: DICOM DXF WMF TGA SVGZ EMZ IMAGE JPEG2000 PSD WMZ
 4. [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBaseを使用してドキュメントをDICOM形式で保存します-) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
+[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.Total for Javaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

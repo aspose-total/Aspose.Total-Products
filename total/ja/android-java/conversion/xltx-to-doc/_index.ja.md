@@ -10,7 +10,7 @@ outformat: DOC
 otherformats: WORD PPTX DOCX POWERPOINT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のDOCにXLTXをレンダリングする またはオンラインアプリ" h2="Microsoft <sup>＆reg; </ sup> Excelを使用せずに、Androidアプリケーション内でXLTXをDOCに変換する" >}}
+{{< blocks/products/pf/feature-page-header h1="Java経由でAndroid上のDOCにXLTXをレンダリングする またはオンラインアプリ" h2="Microsoft <sup>&reg;</sup> Excelを使用せずに、Androidアプリケーション内でXLTXをDOCに変換する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)は、強力なファイル自動化APIのパッケージです。 2つのAPIを使用することで、Androidアプリケーション内でXLTXからDOCへの変換機能を統合できます。最初のステップでは、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用してXLTXをPDFにエクスポートできます。その後、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用して、PDFをDOCに変換できます。 

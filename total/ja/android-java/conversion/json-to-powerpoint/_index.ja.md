@@ -10,7 +10,7 @@ outformat: POWERPOINT
 otherformats: POT PPSM OTP ODP PPTM PPT PPS PPSX POTM POTX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidでJSON形式をPOWERPOINTに変換する" h2="Microsoft <sup>＆reg; </ sup> PowerPointを使用せずに、AndroidアプリケーションでJSON形式をPOWERPOINTに解析する" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidでJSON形式をPOWERPOINTに変換する" h2="Microsoft <sup>&reg;</sup> PowerPointを使用せずに、AndroidアプリケーションでJSON形式をPOWERPOINTに解析する" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 AndroidアプリケーションでJSON形式をPOWERPOINTに2段階のプロセスで変換できます。まず、[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用すると、JSONをPPTXに解析できます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPOWERPOINTに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 

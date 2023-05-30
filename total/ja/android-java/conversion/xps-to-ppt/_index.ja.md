@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: OTP XAML PPTM PPS SWF PPSM PPSX POT ODP POTX POWERPOINT POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でXPSをPPTに変換する" h2="Microsoft <sup>＆reg; </ sup>PowerPointまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを使用せずに、Androidアプリケーション内でXPSをPPTに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でXPSをPPTに変換する" h2="Microsoft <sup>&reg;</sup>PowerPointまたはAdobe<sup>&reg;</sup> Acrobat Readerを使用せずに、Androidアプリケーション内でXPSをPPTに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2つの簡単な手順を使用して、Androidアプリケーション内にXPSからPPTへの変換機能を統合できます。最初のステップでは、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してXPSをPPTXにエクスポートできます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPPTに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 

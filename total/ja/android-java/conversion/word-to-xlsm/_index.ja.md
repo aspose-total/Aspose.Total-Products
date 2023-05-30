@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: EXCEL FODS XLSB TSV XLAM XLTX XLT XLTM XLS SXC CSV ODS DIF XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでWORDをXLSMに変換する またはオンラインアプリ" h2="Microsoft <sup>＆reg; </ sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのXLSMにWORDをエクスポートする" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでWORDをXLSMに変換する またはオンラインアプリ" h2="Microsoft <sup>&reg;</sup>WordまたはMicrosoft<sup>＆reg; </sup>Excelを使用せずにJava経由でAndroidのXLSMにWORDをエクスポートする" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)を使用すると、Androidアプリケーション内でWORDからXLSMへの変換機能を統合できます。まず、機能豊富なドキュメント操作および変換API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用して、WORDをHTMLに変換できます。その後、[Aspose.Cells for Java](https://products.aspose.com/cells/android-java/)を使用して、HTMLをXLSMに変換できます。 

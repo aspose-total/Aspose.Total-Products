@@ -10,7 +10,7 @@ outformat: TXT
 otherformats: TSV XLT XLTX DIF XLAM SXC MD XLSB XLSM EXCEL FODS CSV
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPCLをTXTにレンダリングする" h2="Microsoft <sup>＆reg; </ sup>ExcelまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でPCLをTXTに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPCLをTXTにレンダリングする" h2="Microsoft <sup>&reg;</sup>ExcelまたはAdobe<sup>&reg;</sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でPCLをTXTに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2ステップのプロセスでAndroidアプリケーション内にPCLからTXTへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用すると、PCLをXLSXに変換できます。次に、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、XLSXをTXTに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 

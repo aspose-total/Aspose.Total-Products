@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: XLTX CSV DIF TSV TXT XLTM SXC XLSM FODS XLT EXCEL XLAM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPDFをODSにレンダリングする" h2="Microsoft <sup>＆reg; </ sup>ExcelまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でPDFをODSに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPDFをODSにレンダリングする" h2="Microsoft <sup>&reg;</sup>ExcelまたはAdobe<sup>&reg;</sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でPDFをODSに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2ステップのプロセスでAndroidアプリケーション内にPDFからODSへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用すると、PDFをXLSXに変換できます。次に、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、XLSXをODSに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 

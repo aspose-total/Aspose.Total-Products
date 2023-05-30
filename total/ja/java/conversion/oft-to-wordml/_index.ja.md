@@ -22,7 +22,7 @@ otherformats: RTF MD DOC EPUB PNG TEXT FLATOPC DOTM PS JPEG XPS TIFF ODT SVG PCL
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)を使用してドキュメントをWORDML形式で保存します))メソッドとWORDMLをSaveFormatとして設定します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.TotalforJavaを使用する必要がありますそして、pom.xmlにライブラリを含めます。
+[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.Total for Javaを使用する必要がありますそして、pom.xmlにライブラリを含めます。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -19,10 +19,10 @@ otherformats: DICOM EMZ TGA IMAGE SVGZ JPEG2000 WMF WMZ PSD DXF
 1. しい[Workbook](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)オブジェクトを作成し、JSONファイルを開きます
 2. [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)を使用してJSONをJPEGとして保存します) 方法
 3. [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image)クラスを使用してJPEGドキュメントをロードします
-4. [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBaseを使用してドキュメントをIMAGE形式で保存します-) 方法
+4. [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase)を使用してドキュメントをIMAGE形式で保存します- 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
+[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.Total for Javaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

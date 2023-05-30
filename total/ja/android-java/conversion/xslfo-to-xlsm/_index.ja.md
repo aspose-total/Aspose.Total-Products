@@ -10,7 +10,7 @@ outformat: XLSM
 otherformats: XLTX TXT EXCEL XLT CSV XLAM XLTM XLSB TSV ODS DIF FODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでXSLFOをXLSMにレンダリングする" h2="Microsoft <sup>＆reg; </ sup>ExcelまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でXSLFOをXLSMに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでXSLFOをXLSMにレンダリングする" h2="Microsoft <sup>&reg;</sup>ExcelまたはAdobe<sup>&reg;</sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でXSLFOをXLSMに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2ステップのプロセスでAndroidアプリケーション内にXSLFOからXLSMへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用すると、XSLFOをXLSXに変換できます。次に、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、XLSXをXLSMに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 

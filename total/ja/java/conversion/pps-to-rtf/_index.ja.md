@@ -22,7 +22,7 @@ otherformats: RTFM RTFX DOTM FLATOPC OTT RTF ODT WORD TEXT DOT WORDML DOTX
 4. [save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,int))メソッドを使用してドキュメントをRTF形式で保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-PPSからRTFファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
+PPSからRTFファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.Total for Javaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

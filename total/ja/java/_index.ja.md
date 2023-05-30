@@ -284,7 +284,7 @@ Aspose.Totalは、ほぼすべての種類のドキュメントを高速かつ�
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/total/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Aspose.TotalforJavaを選ぶ理由" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Aspose.Total for Javaを選ぶ理由" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}} 
 {{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
 {{< /blocks/products/pf/slr-tab >}}

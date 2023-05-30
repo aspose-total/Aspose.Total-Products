@@ -5,7 +5,7 @@ description: Microsoft Office Word、Excel、PowerPoint、Outlook、PDF、HTML�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaによるファイル形式の変換" h2="他のソフトウェアを使用せずに、Microsoft <sup>＆reg; </ sup> Officeドキュメント、PDF、画像、HTML、およびその他の複数のファイルを変換します。" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaによるファイル形式の変換" h2="他のソフトウェアを使用せずに、Microsoft <sup>&reg;</sup> Officeドキュメント、PDF、画像、HTML、およびその他の複数のファイルを変換します。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Java Total Library]（https://products.aspose.com/total/java/）は、ドキュメント操作ソリューションをゼロから開発したり、既存のアプリケーションを拡張してドキュメント管理を簡単に処理したりすることを高速化します。 APIは、Microsoft Officeドキュメントを作成、編集、変換するだけでなく、PDF、HTML、画像TIFF、JPG、PNG、BMP、SVG、電子メールファイル、ビデオ形式、3D、CADなどを処理します。これは、Java J2SE、J2EE、J2MEアプリケーション内にソフトウェアの依存関係がないドキュメント管理および操作ソリューションAPIのコレクションです。プログラマーは、Javaベースのアプリケーション内で最も一般的な形式を簡単に作成、更新、レンダリング、印刷、および変換できます。

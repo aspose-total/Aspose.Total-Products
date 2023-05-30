@@ -10,7 +10,7 @@ outformat: POTM
 otherformats: XAML PPT PPTM SWF POT POWERPOINT PPSX OTP POTX PPS ODP PPSM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でEPUBをPOTMに変換する" h2="Microsoft <sup>＆reg; </ sup>PowerPointまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを使用せずに、Androidアプリケーション内でEPUBをPOTMに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でEPUBをPOTMに変換する" h2="Microsoft <sup>&reg;</sup>PowerPointまたはAdobe<sup>&reg;</sup> Acrobat Readerを使用せずに、Androidアプリケーション内でEPUBをPOTMに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2つの簡単な手順を使用して、Androidアプリケーション内にEPUBからPOTMへの変換機能を統合できます。最初のステップでは、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してEPUBをPPTXにエクスポートできます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPOTMに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 

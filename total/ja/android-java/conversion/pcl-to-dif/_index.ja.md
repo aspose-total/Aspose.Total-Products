@@ -10,7 +10,7 @@ outformat: DIF
 otherformats: XLAM XLSM XLSB TXT CSV XLTM XLT SXC FODS EXCEL MD ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPCLをDIFにレンダリングする" h2="Microsoft <sup>＆reg; </ sup>ExcelまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でPCLをDIFに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroidでPCLをDIFにレンダリングする" h2="Microsoft <sup>&reg;</sup>ExcelまたはAdobe<sup>&reg;</sup> Acrobat Readerを必要とせずに、Androidアプリケーション内でPCLをDIFに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2ステップのプロセスでAndroidアプリケーション内にPCLからDIFへの変換機能を統合できます。まず、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用すると、PCLをXLSXに変換できます。次に、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、XLSXをDIFに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 

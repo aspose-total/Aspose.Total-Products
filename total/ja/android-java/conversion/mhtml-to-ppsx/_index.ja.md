@@ -10,7 +10,7 @@ outformat: PPSX
 otherformats: POTM POT PPSM OTP POWERPOINT SWF PPTM POTX XAML PPS ODP PPT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でMHTMLをPPSXに変換する" h2="Microsoft <sup>＆reg; </ sup>PowerPointまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを使用せずに、Androidアプリケーション内でMHTMLをPPSXに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でMHTMLをPPSXに変換する" h2="Microsoft <sup>&reg;</sup>PowerPointまたはAdobe<sup>&reg;</sup> Acrobat Readerを使用せずに、Androidアプリケーション内でMHTMLをPPSXに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2つの簡単な手順を使用して、Androidアプリケーション内にMHTMLからPPSXへの変換機能を統合できます。最初のステップでは、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してMHTMLをPPTXにエクスポートできます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPPSXに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 

@@ -10,7 +10,7 @@ outformat: PPS
 otherformats: PPSM POTM ODP OTP XAML SWF POTX POT POWERPOINT PPTM PPT PPSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でEPUBをPPSに変換する" h2="Microsoft <sup>＆reg; </ sup>PowerPointまたはAdobe<sup>＆reg; </ sup> Acrobat Readerを使用せずに、Androidアプリケーション内でEPUBをPPSに変換します" >}}
+{{< blocks/products/pf/feature-page-header h1="Javaを介してAndroid上でEPUBをPPSに変換する" h2="Microsoft <sup>&reg;</sup>PowerPointまたはAdobe<sup>&reg;</sup> Acrobat Readerを使用せずに、Androidアプリケーション内でEPUBをPPSに変換します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 2つの簡単な手順を使用して、Androidアプリケーション内にEPUBからPPSへの変換機能を統合できます。最初のステップでは、[Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/)を使用してEPUBをPPTXにエクスポートできます。その後、[Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)を使用して、PPTXをPPSに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)パッケージに含まれています。 

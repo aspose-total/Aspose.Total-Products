@@ -40,7 +40,7 @@ otherformats: SVGZ WMZ JPEG2000 TGA DICOM IMAGE EMZ DXF PSD WMF
 {{< gist "aspose-com-gists" "05eb9605b16ab5de85e0ecb2d7e80b3f" "set-layout-and-parse-json-to-image.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}/com.aspose.imaging
+{{% /blocks/products/pf/feature-page-section %}}
 {{% blocks/products/pf/feature-page-section  h2="通过 Java 将 JSON 格式转换为带水印的 WMZ" %}}
 使用 API，您还可以在 WMZ 文档中将 JSON 转换为带有水印的 WMZ。为了添加水印，您可以先将 JSON 转换为 JPEG 并在其中添加水印。为了添加水印，使用 [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) 类加载图像文件，创建 [Graphics](https) 的对象://apireference.aspose.com/imaging/java/com.aspose.imaging/Graphics)类并用Image对象初始化，创建一个新的[Matrix](https://reference.aspose.com/imaging/java/ com.aspose.imaging/Matrix) 对象并将平移和变换设置为所需的角度，并使用 [Graphics.drawString](https://reference.aspose.com/imaging/java/com.aspose.imaging/Graphics# 添加水印drawString-java.lang.String-com.aspose.imaging.Font-com.aspose.imaging.Brush-float-float-) 方法。在图像中添加水印后，您可以将 JPEG 保存为 WMZ 格式。 
 {{% blocks/products/pf/feature-page-code %}}

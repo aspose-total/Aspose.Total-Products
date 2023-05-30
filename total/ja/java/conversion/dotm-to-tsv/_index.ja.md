@@ -22,7 +22,7 @@ otherformats: XLSM TSV XLSX SXC EXCEL XLAM XLSB XLT DIF FODS XLS XLTX XLTM ODS
 4. [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells))を使用して、ドキュメントをTSV形式で保存します。 SaveOptions))メソッド
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.TotalforJavaを簡単に使用できます[Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/)と[Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/)を含めますあなたのpom.xmlの。
+[Maven](https://releases.aspose.com/total/java/)ベースのプロジェクトから直接Aspose.Total for Javaを簡単に使用できます[Aspose.Words for Java](https://dotms.aspose.com/words/java/installation/)と[Aspose.Cells for Java](https://dotms.aspose.com/cells/java/installation/)を含めますあなたのpom.xmlの。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}

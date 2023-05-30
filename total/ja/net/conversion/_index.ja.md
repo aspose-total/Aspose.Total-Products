@@ -5,7 +5,7 @@ description: Microsoft Word、Excel、PowerPoint、Outlook、PDF、HTML、3D画�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C＃によるファイル形式の変換 .NET" h2="Microsoft <sup>＆reg; </ sup> Officeファイル、PDF、画像、HTML、およびその他のさまざまな形式を、他のソフトウェアを使用せずに変換します。" >}}
+{{< blocks/products/pf/feature-page-header h1="C＃によるファイル形式の変換 .NET" h2="Microsoft <sup>&reg;</sup> Officeファイル、PDF、画像、HTML、およびその他のさまざまな形式を、他のソフトウェアを使用せずに変換します。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [.NETトータルライブラリ](https://products.aspose.com/total/net/) ドキュメント管理ソリューションをゼロから開発するか、既存のアプリケーションを拡張してドキュメント操作を簡単に処理できるようにします。 APIは、Microsoft Officeドキュメントを管理するだけでなく、PDF、HTML、画像TIFF、JPG、PNG、BMPおよびSVG、電子メールファイル、ビデオ形式、GISデータ形式なども処理します。これは、ソフトウェアに依存することなく、ドキュメント管理および操作ソリューションAPIの完全なセットです。プログラマーは、.NETベースのアプリケーション内で最も一般的な形式を簡単に作成、更新、レンダリング、印刷、および変換できます。

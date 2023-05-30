@@ -10,7 +10,7 @@ outformat: OTT
 otherformats: DOC RTF PS PCL CHM MOBI WORD FLATOPC DOTX ODT DOCM WORDML EPUB DOT
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでJSON形式をOTTに変換する" h2="Microsoft <sup>＆reg; </ sup> Wordを使用せずに、Androidアプリケーション内でJSONをOTTに解析します" >}}
+{{< blocks/products/pf/feature-page-header h1="AndroidアプリケーションでJSON形式をOTTに変換する" h2="Microsoft <sup>&reg;</sup> Wordを使用せずに、Androidアプリケーション内でJSONをOTTに解析します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 AndroidアプリケーションでJSONをOTTに2段階のプロセスで変換できます。まず、強力なスプレッドシート処理API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/)を使用して、JSONをPDFに解析できます。 2番目のステップでは、ワードプロセッシングAPI [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/)を使用してPDFをOTTに変換できます。どちらのAPIも、[Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/)製品ファミリーに分類されます。 

@@ -12,7 +12,7 @@ otherformats: PPS PPT PPTM PPSM PPTX POTM PPSX POWERPOINT POTX POT CSV DIF FODS 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Java経由でDOTMをPOTに変換する またはオンラインアプリ" h2="Microsoft<sup>＆reg;</sup> PowerPointまたはWordを使用せずに、Java J2SE、J2EE、J2MEアプリケーション内でオンプレミスのJavaAPIを使用することによるDOTMからPOTへの変換" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-多くの場合、開発者はプログラムでDOTMファイルをPOTに変換する必要があります。 FileAutomationJavaライブラリ[Aspose.TotalforJava](https://products.aspose.com/total/java/)を使用すると、いくつかの簡単な手順でレンダリングプロセスを自動化できます。 [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してDOTMファイルをロードし、HTMLに変換できます。その後、強力なPowerPoint操作Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、POTとして保存できます。 。
+多くの場合、開発者はプログラムでDOTMファイルをPOTに変換する必要があります。 FileAutomationJavaライブラリ[Aspose.Total for Java](https://products.aspose.com/total/java/)を使用すると、いくつかの簡単な手順でレンダリングプロセスを自動化できます。 [Aspose.Words for Java](https://products.aspose.com/words/java/)を使用してDOTMファイルをロードし、HTMLに変換できます。その後、強力なPowerPoint操作Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/)を使用して、新しいプレゼンテーションを作成し、その中にHTMLコンテンツを書き込んで、POTとして保存できます。 。
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{< blocks/products/pf/agp/feature-section >}}
 {{% blocks/products/pf/agp/feature-section-col title="Javaを介してDOTMをPOTに変換する方法" %}}
@@ -23,7 +23,7 @@ otherformats: PPS PPT PPTM PPSM PPTX POTM PPSX POWERPOINT POTX POT CSV DIF FODS 
 6. [save](https://reference.aspose.com/slides/java/com.aspose.slides/Presentation#save-java.io.OutputStream-int-)メソッドを使用してドキュメントをPOTに保存します
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-DOTMからPOTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.TotalforJavaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
+DOTMからPOTファイルへの変換では、[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose)から直接Aspose.Total for Javaを簡単に使用できます。 / aspose-total)ベースのプロジェクトであり、pom.xmlにライブラリを含めます。
 
 または、[ダウンロード](https://releases.aspose.com/total/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
