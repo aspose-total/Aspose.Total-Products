@@ -41,7 +41,7 @@ otherformats: FODS DIF XLTM XLAM ODS EXCEL XLSX XLT XLSM TSV SXC XLS XLSB XLTX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOT เป็น XLAM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dot เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

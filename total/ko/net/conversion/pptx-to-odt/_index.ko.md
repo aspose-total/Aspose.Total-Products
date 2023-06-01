@@ -85,7 +85,7 @@ odt.Save("output.odt", Aspose.Words.SaveFormat.Odt);
 
 <h3>PPTX에서 ODT로 온라인 변환기</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="odt에서 pptx로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

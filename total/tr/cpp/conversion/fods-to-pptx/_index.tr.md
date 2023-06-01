@@ -47,7 +47,7 @@ pptx->Save(u"convertedFile.pptx", SaveFormat::Pptx);
 
 <h3>FODS'den PPTX'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="fods'dan pptx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=fods" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/fods-to-pptx/">FODS'den PPTX'e dönüştürme için ücretsiz uygulamamızı deneyin</a></p>
 </div></div>
 </div></div>

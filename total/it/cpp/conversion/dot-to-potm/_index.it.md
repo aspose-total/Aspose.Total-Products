@@ -74,7 +74,7 @@ pres->Save(output.potm, Aspose::Slides::Export::SaveFormat::Potm);
 
 <h3>Convertitore online gratuito da DOT a POTM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Strumento di conversione gratuito da dot a potm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

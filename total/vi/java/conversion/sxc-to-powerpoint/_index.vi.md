@@ -47,7 +47,7 @@ document.save("output.pptx", com.aspose.pdf.SaveFormat.Pptx);
 
 <h3>Công cụ chuyển đổi trực tuyến từ SXC sang POWERPOINT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ sxc sang pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=sxc" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/sxc-to-pptx/">Hãy dùng thử ứng dụng miễn phí của chúng tôi để chuyển đổi SXC sang POWERPOINT</a></p>
 </div></div>
 </div></div>

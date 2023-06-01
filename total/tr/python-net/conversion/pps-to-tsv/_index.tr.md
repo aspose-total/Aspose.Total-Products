@@ -60,7 +60,7 @@ Esas olarak iki adımdadır. PPS dosyasını HTML'ye dönüştürmek için önce
 
 <h3>PPS'den TSV'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="pps'dan tsv'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

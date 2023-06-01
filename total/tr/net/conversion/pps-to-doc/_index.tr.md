@@ -85,7 +85,7 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
 
 <h3>PPS'den DOC'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="pps'dan doc'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

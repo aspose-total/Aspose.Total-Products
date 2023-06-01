@@ -85,7 +85,7 @@ docx.Save("output.docx", Aspose.Words.SaveFormat.Docx);
 
 <h3>POTX'den DOCX'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="potx'dan docx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

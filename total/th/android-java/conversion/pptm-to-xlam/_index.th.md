@@ -45,7 +45,7 @@ otherformats: XLT DIF MARKDOWN CSV XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB O
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPTM เป็น XLAM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptm เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

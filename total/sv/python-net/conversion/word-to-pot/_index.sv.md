@@ -60,7 +60,7 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 
 <h3>Gratis onlinekonverterare för WORD till POT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pot&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="docx till pot Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pot&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

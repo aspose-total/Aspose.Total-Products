@@ -61,7 +61,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 <h3>免費的 SXC 到 OTT 在線轉換器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="sxc 到 ott 轉換在線工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=sxc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

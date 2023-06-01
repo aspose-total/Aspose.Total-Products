@@ -45,7 +45,7 @@ otherformats: TSV XLT XLSX MARKDOWN XLAM MHTML ODS XLSB XLTM XLS XLSM SXC FODS E
 
 <h3>PPTXからDIFへの無料オンラインコンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptxからdifへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

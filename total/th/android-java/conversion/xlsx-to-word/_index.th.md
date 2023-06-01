@@ -53,7 +53,7 @@ wordument.save("output.word", com.aspose.pdf.SaveFormat.Word);
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ XLSX เป็น WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง xlsx เป็น docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

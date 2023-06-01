@@ -45,7 +45,7 @@ Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler
 
 <h3>POWERPOINT'den TSV'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx'dan tsv'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -110,7 +110,7 @@ using (Presentation potx = new Presentation()){
 
 <h3>DOT 到 POTX 在线转换器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dot 到 potx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

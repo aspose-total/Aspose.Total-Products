@@ -85,7 +85,7 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
 
 <h3>Konwerter online dla POT na DOC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji doc na pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -60,7 +60,7 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Cells for Python
 
 <h3>Gratis online converter voor TSV naar POTX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=tsv" id="child-iframe" width="80%"></iframe>
+<iframe title="tsv naar potx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=tsv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

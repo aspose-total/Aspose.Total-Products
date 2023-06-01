@@ -46,7 +46,7 @@ otherformats: ODP POT POTX PPSM POTM POWERPOINT PPS PPTX PPTM PPT CSV DIF FODS O
 
 <h3>免费的 FLATOPC 到 PPSX 在线转换器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=flatopc" id="child-iframe" width="80%"></iframe>
+<iframe title="flatopc 到 ppsx 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=flatopc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: XLTM DIF XLAM FODS XLT TSV SXC EXCEL XLSX ODS XLTX XLS XLSB XLSM
 
 <h3>OTTからXLTXへの無料オンラインコンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ottからxltxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

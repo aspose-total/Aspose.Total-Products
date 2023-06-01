@@ -45,7 +45,7 @@ otherformats: FODS XLAM TSV ODS XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ POWERPOINT เป็น ODS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง pptx เป็น ods" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

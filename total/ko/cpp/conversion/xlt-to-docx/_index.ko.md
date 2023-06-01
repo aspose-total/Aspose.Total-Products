@@ -47,7 +47,7 @@ docx->Save(u"convertedFile.docx", SaveFormat::DocxX);
 
 <h3>XLT에서 DOCX로 온라인 변환기</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="docx에서 xlt로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlt-to-docx/">XLT를 DOCX로 변환하는 무료 앱을 사용해 보세요.</a></p>
 </div></div>
 </div></div>

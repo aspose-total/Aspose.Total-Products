@@ -41,7 +41,7 @@ Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.comt
 
 <h3>Gratis onlinekonverterare för DOTX till SXC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotx till sxc Conversion Online Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

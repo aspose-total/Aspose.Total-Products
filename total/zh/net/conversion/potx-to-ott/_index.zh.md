@@ -90,7 +90,7 @@ ott.Save("output.ott", Aspose.Words.SaveFormat.Ott);
 
 <h3>POTX 到 OTT 在线转换器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="potx 到 ott 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

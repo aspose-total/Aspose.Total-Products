@@ -45,7 +45,7 @@ otherformats: XLSX XLAM CSV EXCEL TSV FODS DIF SXC XLTX ODS XLSM XLS XLTM XLSB
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ WORD เป็น XLT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง docx เป็น xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

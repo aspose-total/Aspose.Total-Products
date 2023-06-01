@@ -47,7 +47,7 @@ word->Save(u"convertedFile.word", SaveFormat::Word);
 
 <h3>Online Converter voor EXCEL naar WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx naar docx conversie online tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlsx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlsx-to-docx/">Probeer onze gratis app voor conversie van EXCEL naar WORD</a></p>
 </div></div>
 </div></div>

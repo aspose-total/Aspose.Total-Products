@@ -45,7 +45,7 @@ otherformats: EXCEL XLSX XLSB FODS DIF ODS XLT MARKDOWN SXC XLTM XLTX XLAM CSV T
 
 <h3>PPT를 MHTML로 변환하는 무료 온라인 변환기</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="mhtml에서 ppt로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

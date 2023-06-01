@@ -60,7 +60,7 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 
 <h3>Công cụ chuyển đổi trực tuyến miễn phí cho WORD sang POWERPOINT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ docx sang pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

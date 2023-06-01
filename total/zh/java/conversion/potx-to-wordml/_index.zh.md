@@ -41,7 +41,7 @@ otherformats: TEXT RTF WORDMLM OTT DOT ODT WORDML DOTM WORD DOTX FLATOPC WORDMLX
 
 <h3>免费的 POTX 到 WORDML 在线转换器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=wordml&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="potx 到 wordml 转换在线工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=wordml&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

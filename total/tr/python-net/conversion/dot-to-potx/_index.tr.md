@@ -60,7 +60,7 @@ Esas olarak iki adımdadır. DOT dosyasını PDF'ye dönüştürmek için öncel
 
 <h3>DOT'den POTX'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dot'dan potx'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

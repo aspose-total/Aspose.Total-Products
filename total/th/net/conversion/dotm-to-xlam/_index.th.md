@@ -45,7 +45,7 @@ otherformats: TSV XLS ODS EXCEL XLTX XLTM XLT XLSB XLAM DIF XLSX XLSM SXC FODS
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTM เป็น XLAM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotm เป็น xlam" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

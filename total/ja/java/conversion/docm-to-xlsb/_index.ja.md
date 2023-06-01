@@ -41,7 +41,7 @@ otherformats: XLTM XLSB XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 
 <h3>DOCMからXLSBへの無料オンラインコンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="docmからxlsbへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

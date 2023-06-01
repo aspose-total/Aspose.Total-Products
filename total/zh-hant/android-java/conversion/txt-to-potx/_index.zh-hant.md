@@ -46,7 +46,7 @@ otherformats: PPTM PPTX PPT POTM POWERPOINT ODP POT PPS PPSM PPSX CSV DIF FODS O
 
 <h3>免費的 TXT 到 POTX 在線轉換器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="txt 到 potx 轉換在線工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

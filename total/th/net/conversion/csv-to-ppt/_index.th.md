@@ -50,7 +50,7 @@ pptxument.Save("output.pptx", SaveFormat.Pptx);
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ CSV เป็น PPT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=csv" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง csv เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=csv" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

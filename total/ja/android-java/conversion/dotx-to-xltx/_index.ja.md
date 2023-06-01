@@ -45,7 +45,7 @@ otherformats: XLSX DIF XLTM TSV XLAM EXCEL CSV XLSM SXC ODS FODS XLT XLSB XLS
 
 <h3>DOTXからXLTXへの無料オンラインコンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotxからxltxへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: ODS SXC TSV DIF XLSM XLSX FODS XLS XLTM EXCEL XLTX CSV XLAM XLT
 
 <h3>OTTからXLSBへの無料オンラインコンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="ottからxlsbへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

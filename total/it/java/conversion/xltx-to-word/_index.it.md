@@ -47,7 +47,7 @@ document.save("output.word", com.aspose.pdf.SaveFormat.Word);
 
 <h3>Convertitore online da XLTX a WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
+<iframe title="Strumento di conversione gratuito da xltx a docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xltx" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltx-to-docx/">Prova la nostra app gratuita per la conversione da XLTX a WORD</a></p>
 </div></div>
 </div></div>

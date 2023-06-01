@@ -41,7 +41,7 @@ Alternatif olarak, [indirilenler](https://releases.aspose.com/total/java) adresi
 
 <h3>PPSX'den ODT'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx'dan odt'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

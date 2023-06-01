@@ -85,7 +85,7 @@ dot.Save("output.dot", Aspose.Words.SaveFormat.Dot);
 
 <h3>PPS에서 DOT로 온라인 변환기</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="dot에서 pps로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

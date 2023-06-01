@@ -46,7 +46,7 @@ otherformats: PPS PPT POT PPSM POWERPOINT POTX ODP PPTM PPTX PPSX CSV DIF FODS O
 
 <h3>免費的 RTF 到 POTM 在線轉換器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="rtf 到 potm 轉換在線工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

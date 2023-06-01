@@ -51,7 +51,7 @@ doc->Save(u"output.doc");
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPT เป็น DOC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppt เป็น doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -102,7 +102,7 @@ using (Presentation ppt = new Presentation()){
 
 <h3>Conversor Online de DOC para PPT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Ferramenta on-line de conversão de ppt para doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -46,7 +46,7 @@ otherformats: ODP PPTM PPS POWERPOINT POTM POT PPTX PPSM PPT POTX
 
 <h3>免費的 DOC 到 PPSX 在線轉換器</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="doc 到 ppsx 轉換在線工具" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

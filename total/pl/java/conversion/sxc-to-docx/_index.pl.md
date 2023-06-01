@@ -47,7 +47,7 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 
 <h3>Konwerter online dla SXC na DOCX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="Narzędzie online do konwersji docx na sxc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/sxc-to-docx/">Wypróbuj naszą bezpłatną aplikację do konwersji SXC na DOCX</a></p>
 </div></div>
 </div></div>

@@ -102,7 +102,7 @@ using (Presentation pptx = new Presentation()){
 
 <h3>ตัวแปลงออนไลน์สำหรับ WORDML เป็น PPTX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง wordml เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

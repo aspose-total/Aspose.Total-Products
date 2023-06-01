@@ -41,7 +41,7 @@ otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ PPSX เป็น OTT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง ppsx เป็น ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ott&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

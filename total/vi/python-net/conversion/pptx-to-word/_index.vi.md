@@ -61,7 +61,7 @@ Nó chủ yếu gồm hai bước. Trước hết hãy sử dụng API [Aspose.S
 
 <h3>Công cụ chuyển đổi trực tuyến miễn phí cho PPTX sang WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Công cụ trực tuyến chuyển đổi từ pptx sang docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

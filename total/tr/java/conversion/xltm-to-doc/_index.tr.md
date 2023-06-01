@@ -47,7 +47,7 @@ document.save("output.doc", com.aspose.pdf.SaveFormat.Doc);
 
 <h3>XLTM'den DOC'e Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=xltm" id="child-iframe" width="80%"></iframe>
+<iframe title="xltm'dan doc'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=xltm" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xltm-to-doc/">XLTM'den DOC'e dönüştürme için ücretsiz uygulamamızı deneyin</a></p>
 </div></div>
 </div></div>

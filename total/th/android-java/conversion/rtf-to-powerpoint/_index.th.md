@@ -46,7 +46,7 @@ otherformats: PPS POTX PPT PPSX PPTX PPSM POT POTM ODP PPTM CSV DIF FODS ODS SXC
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ RTF เป็น POWERPOINT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง rtf เป็น pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

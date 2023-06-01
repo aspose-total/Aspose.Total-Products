@@ -45,7 +45,7 @@ otherformats: ODS XLSM XLTX SXC XLS XLSB XLT EXCEL FODS TSV XLSX DIF XLTM XLAM
 
 <h3>DOTからDIFへの無料オンラインコンバーター</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="dotからdifへの変換オンラインツール" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

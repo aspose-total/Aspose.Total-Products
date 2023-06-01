@@ -45,7 +45,7 @@ PPS을 DIF로 변환하려면 [Maven](https://releases.aspose.com/total/java/) �
 
 <h3>PPS를 DIF로 변환하는 무료 온라인 변환기</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="dif에서 pps로 변환 온라인 도구" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

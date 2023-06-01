@@ -60,7 +60,7 @@ Esas olarak iki adımdadır. MD dosyasını PDF'ye dönüştürmek için önceli
 
 <h3>MD'den POTM'e Ücretsiz Çevrimiçi Dönüştürücü</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=md" id="child-iframe" width="80%"></iframe>
+<iframe title="md'dan potm'ye Çevrimiçi Dönüştürme Aracı" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=md" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

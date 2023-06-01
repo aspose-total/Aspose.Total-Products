@@ -45,7 +45,7 @@ otherformats: XLTM CSV DIF SXC TSV XLSX FODS XLSM ODS XLTX EXCEL XLSB XLS XLAM
 
 <h3>ตัวแปลงออนไลน์ฟรีสำหรับ DOTX เป็น XLT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="เครื่องมือออนไลน์สำหรับการแปลง dotx เป็น xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
