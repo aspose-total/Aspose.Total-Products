@@ -41,7 +41,7 @@ otherformats: DOT FLATOPC TEXT DOTM ODT OTT RTF WORD DOTX DOCX DOCM WORDML
 
 <h3>Δωρεάν Online Μετατροπέας για PPTM σε DOC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής doc σε pptm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

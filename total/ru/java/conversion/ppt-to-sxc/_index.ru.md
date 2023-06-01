@@ -41,7 +41,7 @@ otherformats: SXC TSV XLTM XLSX XLS XLSB DIF FODS XLT XLTX EXCEL MHTML ODS MARKD
 
 <h3>Бесплатный онлайн-конвертер PPT в SXC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до ppt долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

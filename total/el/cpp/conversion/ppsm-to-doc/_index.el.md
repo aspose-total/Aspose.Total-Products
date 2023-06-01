@@ -51,7 +51,7 @@ doc->Save(u"output.doc");
 
 <h3>Δωρεάν Online Μετατροπέας για PPSM σε DOC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής doc σε ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

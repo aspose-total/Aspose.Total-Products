@@ -45,7 +45,7 @@ otherformats: XLTM XLTX XLT XLSB EXCEL XLS XLSX ODS TSV SXC XLSM XLAM FODS DIF
 
 <h3>Бесплатный онлайн-конвертер MOBI в XLTX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltx до mobi долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

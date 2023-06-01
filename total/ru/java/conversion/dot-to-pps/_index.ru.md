@@ -42,7 +42,7 @@ otherformats: PPT PPS POTM PPSM PPSX POWERPOINT PPTX POT PPTM POTX CSV DIF FODS 
 
 <h3>Бесплатный онлайн-конвертер DOT в PPS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pps до dot долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

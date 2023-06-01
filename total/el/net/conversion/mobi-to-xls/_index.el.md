@@ -45,7 +45,7 @@ otherformats: XLSM XLT TSV EXCEL XLTX SXC XLSB XLS XLSX ODS DIF FODS XLAM XLTM
 
 <h3>Δωρεάν Online Μετατροπέας για MOBI σε XLS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xls σε mobi" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

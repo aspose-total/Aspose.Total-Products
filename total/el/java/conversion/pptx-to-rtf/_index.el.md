@@ -41,7 +41,7 @@ otherformats: DOT TEXT DOTM WORD FLATOPC RTF RTFX RTFM ODT WORDML DOTX OTT
 
 <h3>Δωρεάν Online Μετατροπέας για PPTX σε RTF</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής rtf σε pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=rtf&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

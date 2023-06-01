@@ -60,7 +60,7 @@ Főleg két lépésben. Először is használja az [Aspose.Slides for Python via
 
 <h3>Ingyenes online konverter POTM-hez CSV-be</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="potm-ból csv-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

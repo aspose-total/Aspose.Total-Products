@@ -53,7 +53,7 @@ document.Save("output.docx", SaveFormat.DocX);
 
 <h3>Бесплатный онлайн-конвертер FODS в DOCX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=fods" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от docx до fods долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=fods" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

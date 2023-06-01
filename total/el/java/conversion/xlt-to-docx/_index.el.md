@@ -47,7 +47,7 @@ Document.save("output.docxx", com.aspose.pdf.SaveFormat.DocxX);
 
 <h3>Διαδικτυακός μετατροπέας για XLT σε DOCX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής docx σε xlt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=xlt" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/xlt-to-docx/">Δοκιμάστε τη δωρεάν εφαρμογή μας για μετατροπή XLT σε DOCX</a></p>
 </div></div>
 </div></div>

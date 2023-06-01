@@ -45,7 +45,7 @@ otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF MHTML ODS 
 
 <h3>Бесплатный онлайн-конвертер PPSM в MHTML</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от mhtml до ppsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

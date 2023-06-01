@@ -45,7 +45,7 @@ otherformats: TSV XLTM XLSX MARKDOWN XLT XLSB MHTML DIF CSV XLSM ODS SXC EXCEL X
 
 <h3>محول مجاني على الإنترنت لـ POWERPOINT إلى XLS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="xls to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 
 <h3>Бесплатный онлайн-конвертер POTX в MARKDOWN</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от markdown до potx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

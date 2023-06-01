@@ -61,7 +61,7 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 <h3>Ingyenes online konverter WORDML-ből TSV-be</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="wordml-ból tsv-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

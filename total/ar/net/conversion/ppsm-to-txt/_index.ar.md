@@ -85,7 +85,7 @@ txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
 
 <h3>محول عبر الإنترنت لـ PPSM إلى TXT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=txt&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="txt to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=txt&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

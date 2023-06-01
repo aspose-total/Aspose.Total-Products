@@ -41,7 +41,7 @@ otherformats: FODS EXCEL XLS SXC XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 
 <h3>Бесплатный онлайн-конвертер OTT в SXC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до ott долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

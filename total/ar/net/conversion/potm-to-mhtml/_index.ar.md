@@ -45,7 +45,7 @@ otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS MHTML DIF XLT XLTX ODS XLSM XLSB F
 
 <h3>محول مجاني على الإنترنت لـ POTM إلى MHTML</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="mhtml to potm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=mhtml&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

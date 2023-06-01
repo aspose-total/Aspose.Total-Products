@@ -74,7 +74,7 @@ pres->Save(output.pps, Aspose::Slides::Export::SaveFormat::Pps);
 
 <h3>Бесплатный онлайн-конвертер DOTM в PPS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от pps до dotm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pps&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

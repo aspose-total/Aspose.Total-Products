@@ -45,7 +45,7 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 
 <h3>Бесплатный онлайн-конвертер POT в XLTX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltx до pot долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltx&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

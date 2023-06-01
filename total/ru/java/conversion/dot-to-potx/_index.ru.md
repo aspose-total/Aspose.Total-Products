@@ -42,7 +42,7 @@ otherformats: PPTM PPSM PPS PPT POWERPOINT POT POTX POTM PPSX PPTX CSV DIF FODS 
 
 <h3>Бесплатный онлайн-конвертер DOT в POTX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от potx до dot долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ Případně si stáhněte offline instalační program MSI nebo knihovny DLL v s
 
 <h3>Zdarma online převodník PPTX na XLAM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Online nástroj xlam až pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

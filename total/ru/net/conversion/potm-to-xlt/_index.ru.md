@@ -45,7 +45,7 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM XLT 
 
 <h3>Бесплатный онлайн-конвертер POTM в XLT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=potm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlt до potm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=potm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

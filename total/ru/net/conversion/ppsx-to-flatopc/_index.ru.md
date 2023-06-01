@@ -88,7 +88,7 @@ flatopc.Save("output.flatopc", Aspose.Words.SaveFormat.Flatopc);
 
 <h3>Онлайн-конвертер PPSX в FLATOPC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от flatopc до ppsx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=flatopc&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

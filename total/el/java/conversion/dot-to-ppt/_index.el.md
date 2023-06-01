@@ -42,7 +42,7 @@ otherformats: PPTM POT POWERPOINT POTM PPSM PPTX PPS POTX PPT PPSX CSV DIF FODS 
 
 <h3>Δωρεάν Online Μετατροπέας για DOT σε PPT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής ppt σε dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -41,7 +41,7 @@ otherformats: DOTX DOTM FLATOPC RTF DOT WORD DOCX TEXT WORDML ODT OTT DOCM
 
 <h3>محول مجاني على الإنترنت لـ POWERPOINT إلى DOC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="doc to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

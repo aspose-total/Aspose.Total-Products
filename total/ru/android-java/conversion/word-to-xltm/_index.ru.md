@@ -45,7 +45,7 @@ otherformats: CSV ODS TSV XLAM SXC XLSM XLTX XLSX EXCEL XLSB XLS DIF FODS XLT
 
 <h3>Бесплатный онлайн-конвертер WORD в XLTM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xltm до docx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

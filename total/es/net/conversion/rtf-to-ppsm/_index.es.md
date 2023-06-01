@@ -102,7 +102,7 @@ using (Presentation ppsm = new Presentation()){
 
 <h3>Convertidor en línea de RTF a PPSM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de ppsm a rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

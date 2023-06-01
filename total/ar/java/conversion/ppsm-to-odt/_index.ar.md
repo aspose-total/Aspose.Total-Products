@@ -41,7 +41,7 @@ otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 
 <h3>محول مجاني على الإنترنت لـ PPSM إلى ODT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="odt to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=odt&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

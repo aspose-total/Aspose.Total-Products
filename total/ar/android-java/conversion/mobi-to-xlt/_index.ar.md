@@ -45,7 +45,7 @@ otherformats: TSV XLSB CSV XLSM XLS ODS DIF XLTX SXC XLAM XLSX FODS EXCEL XLTM
 
 <h3>محول مجاني على الإنترنت لـ MOBI إلى XLT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt to mobi" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -1,6 +1,6 @@
 ---
-title: Convert PPTX to Markdown Format via Java or with free Online Converter
-description: Convert PPTX to Markdown format via Java without using using Microsoft Excel or PowerPoint or online. Test free PPTX to Markdown online converter quickly before integrating the code. 
+title: Convert PPTX to Markdown | Java Solution & Free Online Converter
+description: Convert PPTX to Markdown format seamlessly in Java, eliminating the need for Microsoft Excel or PowerPoint or relying on online converters. Explore a free PPTX to Markdown online converter for quick testing before integrating the code into your project
 url_ignore: /java/conversion/pptx-to-markdown/
 family: total
 platformtag: java
@@ -44,7 +44,7 @@ In order to convert PPTX to Markdown, you can easily use Aspose.Total for Java d
 
 <h3>Free Online Converter for PPTX to Markdown</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="Free pptx to markdown Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=markdown&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

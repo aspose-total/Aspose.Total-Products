@@ -46,7 +46,7 @@ otherformats: POTM PPT PPSX PPS PPTX PPTM POTX PPSM ODP POT
 
 <h3>محول مجاني على الإنترنت لـ DOT إلى POWERPOINT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="pptx to dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

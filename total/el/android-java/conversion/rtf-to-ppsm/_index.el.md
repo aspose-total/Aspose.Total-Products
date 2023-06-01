@@ -46,7 +46,7 @@ otherformats: POTM PPTX POWERPOINT PPT POTX ODP PPSX PPTM PPS POT CSV DIF FODS O
 
 <h3>Δωρεάν Online Μετατροπέας για RTF σε PPSM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής ppsm σε rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

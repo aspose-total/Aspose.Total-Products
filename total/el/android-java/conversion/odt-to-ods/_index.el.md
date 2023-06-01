@@ -45,7 +45,7 @@ otherformats: FODS XLAM XLSX XLSB XLT XLTM XLTX EXCEL XLS CSV DIF SXC XLSM TSV
 
 <h3>Δωρεάν Online Μετατροπέας για ODT σε ODS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής ods σε odt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

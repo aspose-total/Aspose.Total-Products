@@ -45,7 +45,7 @@ otherformats: ODS FODS XLSB XLTX XLSM EXCEL TSV XLSX XLTM SXC XLAM XLT DIF XLS
 
 <h3>Δωρεάν Online Μετατροπέας για DOC σε TSV</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής tsv σε doc" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

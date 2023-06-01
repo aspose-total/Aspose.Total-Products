@@ -45,7 +45,7 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX X
 
 <h3>Δωρεάν Online Μετατροπέας για POT σε XLAM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Εργαλείο μετατροπής xlam σε pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -88,7 +88,7 @@ dotm.Save("output.dotm", Aspose.Words.SaveFormat.Dotm);
 
 <h3>Онлайн-конвертер POT в DOTM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotm&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dotm до pot долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dotm&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLSM TSV EXCEL ODS XLT SXC XLTX XLTM FODS XLS XLSB MHTML XLAM CSV 
 
 <h3>Бесплатный онлайн-конвертер PPSM в XLSX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlsx до ppsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

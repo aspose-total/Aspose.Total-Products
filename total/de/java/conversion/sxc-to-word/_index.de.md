@@ -47,7 +47,7 @@ document.save("output.word", com.aspose.pdf.SaveFormat.Word);
 
 <h3>Online-Konverter für SXC zu WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
+<iframe title="docx bis sxc Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=sxc" id="child-iframe" width="80%"></iframe>
 <p style="font-size:1.3rem;color:#3d8ec4;font-weight:400"><a href="https://products.aspose.app/total/sxc-to-docx/">Testen Sie unsere kostenlose App für die Konvertierung von SXC in WORD</a></p>
 </div></div>
 </div></div>

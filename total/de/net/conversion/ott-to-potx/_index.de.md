@@ -102,7 +102,7 @@ using (Presentation potx = new Presentation()){
 
 <h3>Online-Konverter für OTT zu POTX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="potx bis ott Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potx&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

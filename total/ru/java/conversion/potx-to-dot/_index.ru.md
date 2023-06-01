@@ -41,7 +41,7 @@ otherformats: WORD TEXT ODT OTT WORDML RTF DOTX DOTM DOTX DOTM FLATOPC DOT
 
 <h3>Бесплатный онлайн-конвертер POTX в DOT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dot до potx долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dot&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

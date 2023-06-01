@@ -45,7 +45,7 @@ otherformats: XLAM XLT XLS XLSX SXC EXCEL DIF TSV XLTM XLSB MHTML FODS MARKDOWN 
 
 <h3>محول مجاني على الإنترنت لـ POTX إلى XLSB</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsb to potx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLAM FODS EXCEL XLTM XLSX TSV XLT XLS DIF ODS XLSM XLTX XLSB SXC
 
 <h3>बीएमपी से जीआईएफ के लिए मुफ्त ऑनलाइन कन्वर्टर</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
+<iframe title="sxc से dotm रूपांतरण ऑनलाइन टूल" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dotm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -52,7 +52,7 @@ wordmlument.save("output.wordml",SaveFormat.WordML);
 
 <h3>Convertisseur en ligne gratuit pour PPSM en WORDML</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion wordml en ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=wordml&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

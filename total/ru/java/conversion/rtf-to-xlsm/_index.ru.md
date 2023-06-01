@@ -41,7 +41,7 @@ otherformats: XLAM XLSM ODS FODS TSV DIF XLS XLT XLSB XLTM XLTX XLSX EXCEL SXC
 
 <h3>Бесплатный онлайн-конвертер RTF в XLSM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsm&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от xlsm до rtf долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsm&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

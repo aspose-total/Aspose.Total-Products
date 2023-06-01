@@ -41,7 +41,7 @@ otherformats: WORD DOT RTF ODT WORDX DOTM WORDML OTT WORDM FLATOPC TEXT DOTX
 
 <h3>Бесплатный онлайн-конвертер PPSM в WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от docx до ppsm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

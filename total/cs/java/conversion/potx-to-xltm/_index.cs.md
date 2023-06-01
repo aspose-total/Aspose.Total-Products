@@ -41,7 +41,7 @@ Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.co
 
 <h3>Zdarma online převodník POTX na XLTM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=potx" id="child-iframe" width="80%"></iframe>
+<iframe title="Online nástroj xltm až potx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xltm&from=potx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -50,7 +50,7 @@ powerpointument.Save("output.pptx", SaveFormat.Pptx);
 
 <h3>Ingyenes online konverter XLS-hez POWERPOINT-be</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
+<iframe title="xls-ból pptx-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=xls" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

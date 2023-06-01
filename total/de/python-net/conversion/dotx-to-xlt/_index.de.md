@@ -61,7 +61,7 @@ Es ist hauptsächlich in zwei Schritten. Verwenden Sie zunächst die [Aspose.Wor
 
 <h3>Kostenloser Online-Konverter für DOTX zu XLT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt bis dotx Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

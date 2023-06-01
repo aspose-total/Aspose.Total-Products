@@ -46,7 +46,7 @@ otherformats: PPTX PPT PPSM POTX ODP POTM POT PPTM PPS POWERPOINT CSV DIF FODS O
 
 <h3>محول مجاني على الإنترنت لـ WORDML إلى PPSX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=wordml" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsx to wordml" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsx&from=wordml" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

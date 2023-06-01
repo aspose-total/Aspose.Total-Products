@@ -41,7 +41,7 @@ otherformats: SXC FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 
 <h3>محول مجاني على الإنترنت لـ POWERPOINT إلى SXC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe title="sxc to pptx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

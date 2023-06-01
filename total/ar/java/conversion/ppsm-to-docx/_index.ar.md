@@ -41,7 +41,7 @@ otherformats: OTT WORDML DOTX DOTM DOCX ODT DOCXM TEXT RTF DOT FLATOPC WORD
 
 <h3>محول مجاني على الإنترنت لـ PPSM إلى DOCX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=ppsm" id="child-iframe" width="80%"></iframe>
+<iframe title="docx to ppsm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=ppsm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

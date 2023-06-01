@@ -102,7 +102,7 @@ using (Presentation pptm = new Presentation()){
 
 <h3>बीएमपी से जीआईएफ के लिए ऑनलाइन कन्वर्टर</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptm&from=txt" id="child-iframe" width="80%"></iframe>
+<iframe title="pptm से txt रूपांतरण ऑनलाइन टूल" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptm&from=txt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

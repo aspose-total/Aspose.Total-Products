@@ -45,7 +45,7 @@ otherformats: XLSB XLTM SXC ODS DIF TSV EXCEL XLSM XLTX CSV FODS XLT XLS XLSX
 
 <h3>محول مجاني على الإنترنت لـ DOT إلى XLAM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe title="xlam to dot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlam&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

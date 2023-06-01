@@ -45,7 +45,7 @@ Como alternativa, obtenga el instalador MSI sin conexión o las DLL en un archiv
 
 <h3>Convertidor en línea gratuito para RTF a CSV</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de csv a rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

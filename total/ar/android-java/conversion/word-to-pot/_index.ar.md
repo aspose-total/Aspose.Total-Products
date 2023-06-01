@@ -46,7 +46,7 @@ otherformats: PPSM PPTX PPSX POTM POTX PPT ODP PPS PPTM POWERPOINT
 
 <h3>محول مجاني على الإنترنت لـ WORD إلى POT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pot&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe title="pot to docx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pot&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

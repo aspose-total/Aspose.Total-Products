@@ -45,7 +45,7 @@ otherformats: XLSM EXCEL XLTX TSV SXC MARKDOWN XLSX XLAM XLS ODS XLTM DIF XLSB X
 
 <h3>Бесплатный онлайн-конвертер PPS в SXC</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от sxc до pps долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

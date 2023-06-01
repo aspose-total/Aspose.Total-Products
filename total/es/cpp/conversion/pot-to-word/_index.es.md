@@ -51,7 +51,7 @@ word->Save(u"output.wordx");
 
 <h3>Convertidor en línea gratuito para POT a WORD</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe title="Herramienta de conversión de docx a pot" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=docx&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

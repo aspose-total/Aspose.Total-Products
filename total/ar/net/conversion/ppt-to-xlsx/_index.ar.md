@@ -45,7 +45,7 @@ otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM XLSX XLTM MARKD
 
 <h3>محول مجاني على الإنترنت لـ PPT إلى XLSX</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsx to ppt" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

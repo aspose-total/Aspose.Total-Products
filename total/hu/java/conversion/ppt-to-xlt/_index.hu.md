@@ -41,7 +41,7 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads](https://rele
 
 <h3>Ingyenes online konverter PPT-hez XLT-be</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe title="ppt-ból xlt-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

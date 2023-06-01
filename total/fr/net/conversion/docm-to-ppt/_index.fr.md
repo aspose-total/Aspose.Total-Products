@@ -102,7 +102,7 @@ using (Presentation ppt = new Presentation()){
 
 <h3>Convertisseur en ligne pour DOCM en PPT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="Outil en ligne de conversion ppt en docm" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppt&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

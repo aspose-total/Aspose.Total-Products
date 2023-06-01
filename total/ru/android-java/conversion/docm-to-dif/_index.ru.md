@@ -45,7 +45,7 @@ otherformats: FODS XLT TSV SXC XLAM XLSX XLTM EXCEL XLSB XLSM CSV XLTX XLS ODS
 
 <h3>Бесплатный онлайн-конвертер DOCM в DIF</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от dif до docm долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=dif&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

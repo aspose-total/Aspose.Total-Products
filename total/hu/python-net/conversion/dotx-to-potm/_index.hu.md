@@ -60,7 +60,7 @@ Főleg két lépésben. Először használja az [Aspose.Words for Python via .NE
 
 <h3>Ingyenes online konverter DOTX-hez POTM-be</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotx-ból potm-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=potm&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

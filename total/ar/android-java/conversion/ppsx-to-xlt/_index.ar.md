@@ -45,7 +45,7 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX CSV XLSM XLSX MARKD
 
 <h3>محول مجاني على الإنترنت لـ PPSX إلى XLT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe title="xlt to ppsx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlt&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -45,7 +45,7 @@ otherformats: XLT XLTX TSV XLAM XLTM FODS XLSM DIF XLSX EXCEL XLS XLSB ODS SXC
 
 <h3>محول مجاني على الإنترنت لـ OTT إلى XLSB</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=ott" id="child-iframe" width="80%"></iframe>
+<iframe title="xlsb to ott" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsb&from=ott" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

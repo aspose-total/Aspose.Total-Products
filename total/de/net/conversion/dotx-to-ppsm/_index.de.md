@@ -102,7 +102,7 @@ using (Presentation ppsm = new Presentation()){
 
 <h3>Online-Konverter für DOTX zu PPSM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsm bis dotx Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

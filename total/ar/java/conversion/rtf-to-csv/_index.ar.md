@@ -41,7 +41,7 @@ otherformats: ODS XLTM XLSX XLS XLAM FODS XLSM DIF SXC XLSB XLT XLTX EXCEL TSV
 
 <h3>محول مجاني على الإنترنت لـ RTF إلى CSV</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe title="csv to rtf" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

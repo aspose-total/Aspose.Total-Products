@@ -85,7 +85,7 @@ txt.Save("output.txt", Aspose.Words.SaveFormat.Txt);
 
 <h3>Online-Konverter für PPS zu TXT</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=txt&from=pps" id="child-iframe" width="80%"></iframe>
+<iframe title="txt bis pps Online-Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=txt&from=pps" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -61,7 +61,7 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 <h3>Ingyenes online konverter DOTX-ből FODS-be</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="dotx-ból fods-be konvertáló online eszköz" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=fods&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

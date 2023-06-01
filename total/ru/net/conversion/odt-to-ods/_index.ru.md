@@ -45,7 +45,7 @@ otherformats: ODS XLS SXC TSV XLTM FODS EXCEL XLTX XLAM XLSB XLT XLSX DIF XLSM
 
 <h3>Бесплатный онлайн-конвертер ODT в ODS</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe title="Онлайн-инструмент от ods до odt долларов" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

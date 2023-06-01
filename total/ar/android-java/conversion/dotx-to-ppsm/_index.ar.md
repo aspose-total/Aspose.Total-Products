@@ -46,7 +46,7 @@ otherformats: POWERPOINT POT ODP PPTX PPS PPTM PPT POTX POTM PPSX
 
 <h3>محول مجاني على الإنترنت لـ DOTX إلى PPSM</h3>
 
-<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe title="ppsm to dotx" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ppsm&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
