@@ -1,19 +1,22 @@
 ---
 title: Convert CGM to MD via C# API
 description: C# API to Convert CGM File to MD without using Microsoft Excel or Adobe Reader
-url_ignore: /net/conversion/cgm-to-md/
 family: total
 platformtag: net
 feature: conversion
 informat: CGM
 outformat: MD
-otherformats: TXT ODS EXCEL SXC DIF XLTX XLSM TSV CSV XLTM XLAM XLT
+otherformats: TXT ODS EXCEL SXC DIF XLTX XLSM TSV CSV XLTM XLAM XLT IMAGE
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="C# API to Render CGM to MD" h2="Export CGM File to MD via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert CGM file to MD within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export CGM to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to MD. 
+With Aspose.Total for .NET, converting CGM files to MD (Markdown) format within .NET, C#, ASP.NET, and VB.NET applications becomes effortless. The conversion process involves two simple steps, leveraging the capabilities of Aspose.PDF for .NET and Aspose.Cells for .NET Spreadsheet Programming API.
+
+To begin, using Aspose.PDF for .NET, you can export CGM files to XLSX (Excel) format. Aspose.PDF for .NET provides a powerful API for working with PDF documents and offers comprehensive functionality for seamless CGM to XLSX conversion.
+
+Once you have the XLSX file, the next step involves utilizing Aspose.Cells for .NET. This Spreadsheet Programming API allows you to easily convert XLSX to MD (Markdown) format. Aspose.Cells for .NET offers a wide range of features and tools to manipulate and process Excel files, making the XLSX to MD conversion smooth and efficient. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,8 +27,10 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to MD format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Md` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
+
+Two [Aspose.Total for .NET](https://products.aspose.com/total/net/) child APIs, [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) and [Aspose.Cells for .NET](https://products.aspose.com/cells/net/)  will be used.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,6 @@
 ---
 title: Convert CGM to TXT via C# API
 description: C# API to Convert CGM File to TXT without using Microsoft Excel or Adobe Reader
-url_ignore: /net/conversion/cgm-to-txt/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +12,11 @@ otherformats: XLSM XLTX FODS TSV XLT XLSB XLAM MD XLTM ODS CSV EXCEL
 {{< blocks/products/pf/feature-page-header h1="C# API to Render CGM to TXT" h2="Export CGM File to TXT via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert CGM file to TXT within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export CGM to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TXT. 
+With Aspose.Total for .NET, converting CGM files to TXT format within .NET, C#, ASP.NET, and VB.NET applications is made easy. The process involves two simple steps using the powerful capabilities of Aspose.PDF for .NET and Aspose.Cells for .NET Spreadsheet Programming API.
+
+Firstly, using Aspose.PDF for .NET, you can export CGM files to XLSX (Excel) format. Aspose.PDF for .NET provides a robust API for working with PDF documents, allowing seamless CGM to XLSX conversion.
+
+Next, by leveraging Aspose.Cells for .NET, the Spreadsheet Programming API, you can easily convert the XLSX file to TXT format. Aspose.Cells for .NET offers a comprehensive range of features and tools to manipulate Excel files, facilitating efficient XLSX to TXT conversion. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,8 +27,10 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to TXT format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Txt` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
+
+Two [Aspose.Total for .NET](https://products.aspose.com/total/net/) child APIs, [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) and [Aspose.Cells for .NET](https://products.aspose.com/cells/net/)  will be used.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

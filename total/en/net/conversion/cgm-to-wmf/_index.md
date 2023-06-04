@@ -1,7 +1,6 @@
 ---
 title: Convert CGM to WMF via C# API
 description: Export CGM to WMF in your .NET applications without using any third party application 
-url_ignore: /net/conversion/cgm-to-wmf/
 family: total
 platformtag: net
 feature: conversion
@@ -13,7 +12,11 @@ otherformats: EMZ SVGZ APNG TGA JPEG2000 DXF  PSD WMZ IMAGE DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert CGM file to WMF via C#" h2="Export CGM to WMF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export CGM to WMF image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export CGM to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to WMF. 
+With Aspose.Total for .NET, converting CGM files to WMF (Windows Metafile) images within any .NET application is a breeze. This can be accomplished in just two simple steps using Aspose.PDF for .NET and Aspose.Imaging for .NET Image Processing API.
+
+Firstly, using Aspose.PDF for .NET, you can export CGM files to JPEG format. Aspose.PDF for .NET provides a robust API for working with PDF documents, ensuring a seamless CGM to JPEG conversion process.
+
+Next, by leveraging Aspose.Imaging for .NET's Image Processing API, you can effortlessly convert the JPEG image obtained in the previous step to WMF format. Aspose.Imaging for .NET offers a comprehensive set of tools and features for image manipulation, facilitating the conversion of JPEG to WMF. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,8 +27,10 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to WMF format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
+
+Two [Aspose.Total for .NET](https://products.aspose.com/total/net/) child APIs, [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) and [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/)  will be used.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

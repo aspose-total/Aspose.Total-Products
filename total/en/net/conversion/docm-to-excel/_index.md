@@ -13,7 +13,11 @@ otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOCM to EXCEL via C# or Online App" h2="Convert DOCM to EXCEL via C# or Online App without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOCM to EXCEL  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to EXCEL. 
+With Aspose.Total for .NET, converting DOCM (Microsoft Word Macro-Enabled Document) files to Excel format within any .NET, C#, ASP.NET, and VB.NET application is a straightforward process accomplished in just two steps.
+
+Firstly, utilizing Aspose.Words for .NET, you can export DOCM files to HTML format. Aspose.Words for .NET provides a powerful API for working with Microsoft Word documents and ensures seamless DOCM to HTML conversion.
+
+Afterward, by leveraging the capabilities of Aspose.Cells for .NET Spreadsheet Programming API, you can effortlessly convert the HTML file to Excel format. Aspose.Cells for .NET offers a comprehensive range of features and tools for working with Excel files, simplifying the conversion process from HTML to EXCEL. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,8 +28,10 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Xlsx` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
+
+Two [Aspose.Total for .NET](https://products.aspose.com/total/net/) child APIs, [Aspose.Words for .NET](https://products.aspose.com/words/net/) and [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) will be used.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -42,7 +48,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for DOCM to EXCEL</h3>
 
-<iframe title="Free docm to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=docm" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=docm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
