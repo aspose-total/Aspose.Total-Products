@@ -13,7 +13,13 @@ otherformats: CSV SXC XLT XLSM XLSB XLTX XLS EXCEL TSV ODS XLAM XLTM FODS DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to XLS via C# or Online App" h2="Convert DOCX to XLS via C# or Online App without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOCX to XLS  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert DOCX to XLS within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting DOCX to XLS.
+
+The first step is to use Aspose.Words for .NET to export the DOCX file to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to easily create, edit, and convert documents in a variety of formats, including DOCX, HTML, PDF, and more. With Aspose.Words for .NET, developers can quickly and easily export DOCX files to HTML with just a few lines of code.
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to XLS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, edit, and convert spreadsheets in a variety of formats, including XLS, XLSX, HTML, and more. With Aspose.Cells for .NET, developers can quickly and easily convert HTML files to XLS with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to XLS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLS` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +48,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for DOCX to XLS</h3>
 
-<iframe title="Free docx to xls Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xls&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

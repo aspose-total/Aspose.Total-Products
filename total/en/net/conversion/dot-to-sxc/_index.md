@@ -13,7 +13,13 @@ otherformats: DIF XLSM XLTX EXCEL FODS CSV TSV XLSB XLAM ODS XLTM XLSX XLT XLS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to SXC or Online App" h2="Export DOT to SXC via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to SXC. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily include DOT to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of APIs provides a wide range of features and capabilities that can be used to create, manipulate, and convert various file formats. 
+
+The process of converting DOT to SXC is simple and straightforward. Firstly, Aspose.Words for .NET can be used to export DOT to HTML. This API provides a wide range of features and capabilities that can be used to create, manipulate, and convert various document formats. It also provides a powerful set of features that can be used to convert DOT to HTML. 
+
+Once the DOT file is converted to HTML, Aspose.Cells for .NET can be used to convert HTML to SXC. This API provides a wide range of features and capabilities that can be used to create, manipulate, and convert various spreadsheet formats. It also provides a powerful set of features that can be used to convert HTML to SXC. 
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to SXC format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `SXC` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +48,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for DOT to SXC</h3>
 
-<iframe title="Free dot to sxc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dot" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=dot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

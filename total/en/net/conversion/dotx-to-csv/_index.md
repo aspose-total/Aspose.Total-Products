@@ -13,7 +13,13 @@ otherformats: SXC DIF XLSB XLSM XLSX ODS XLT EXCEL XLAM TSV XLTM XLTX XLS FODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOTX to CSV or Online App" h2="Export DOTX to CSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOTX to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include DOTX to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a wide range of features and capabilities that can be used to create powerful applications. 
+
+The process of converting DOTX to CSV involves two simple steps. Firstly, Aspose.Words for .NET can be used to export DOTX to HTML. This component provides a wide range of features and capabilities that can be used to create powerful applications. It enables developers to easily create, modify, convert and render documents in various formats. It also provides support for a wide range of document formats, including DOTX. 
+
+Once the DOTX document has been converted to HTML, Aspose.Cells for .NET can be used to convert HTML to CSV. This component provides a wide range of features and capabilities that can be used to create powerful spreadsheet applications. It enables developers to easily create, modify, convert and render spreadsheets in various formats. It also provides support for a wide range of spreadsheet formats, including CSV. 
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `CSV` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +48,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for DOTX to CSV</h3>
 
-<iframe title="Free dotx to csv Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=dotx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
