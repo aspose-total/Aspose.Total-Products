@@ -13,7 +13,15 @@ otherformats: XLTX CSV XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML FO
 {{< blocks/products/pf/feature-page-header h1="Convert PPTM to EXCEL via C# or Online App" h2=".NET API for PPTM to EXCEL conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPTM file to EXCEL within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPTM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to EXCEL. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert PPTM files to EXCEL within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting PPTM files to EXCEL. 
+
+The first step involves using Aspose.Slides for .NET to export the PPTM file to HTML. This component provides a wide range of features that enable developers to create, modify and convert presentations in various formats. It also supports a wide range of features such as text formatting, slide transitions, animations, and more. 
+
+The second step involves using Aspose.Cells for .NET to convert the HTML file to EXCEL. This powerful Spreadsheet Programming API provides a wide range of features that enable developers to create, modify and convert spreadsheets in various formats. It also supports a wide range of features such as data validation, formula calculation, charting, and more. 
+
+By using Aspose.Total for .NET, developers can easily convert PPTM files to EXCEL within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting PPTM files to EXCEL. It also provides a wide range of features that enable developers to create, modify and convert presentations and spreadsheets in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for PPTM to EXCEL</h3>
 
-<iframe title="Free pptm to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptm" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptm" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

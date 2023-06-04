@@ -13,7 +13,15 @@ otherformats: TGA PSD DXF WMF APNG SVGZ JPEG2000 EMZ WMZ IMAGE
 {{< blocks/products/pf/feature-page-header h1="Convert MD file to DICOM via C#" h2="Export MD to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MD to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MD to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export MD to DICOM image within any .NET applications. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, edit, and convert various file formats. 
+
+The process of exporting MD to DICOM image can be completed in two simple steps. First, Aspose.PDF for .NET can be used to export MD to JPEG. This component provides a wide range of features and capabilities that make it easy to create, edit, and convert PDF documents. It also supports a variety of image formats, including JPEG, which makes it ideal for exporting MD to JPEG. 
+
+Once the MD has been exported to JPEG, Aspose.Imaging for .NET can be used to convert the JPEG to DICOM. This powerful Image Processing API provides a wide range of features and capabilities that make it easy to manipulate and convert various image formats. It also supports a variety of medical image formats, including DICOM, which makes it ideal for converting JPEG to DICOM. 
+
+By using Aspose.Total for .NET, developers can easily export MD to DICOM image within any .NET applications. This comprehensive suite of components provides a wide range of features and capabilities that make it easy to create, edit, and convert various file formats. With Aspose.PDF for .NET, developers can export MD to JPEG, and with Aspose.Imaging for .NET, developers can convert JPEG to DICOM. This makes it easy to export MD to DICOM image within any .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to DICOM format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

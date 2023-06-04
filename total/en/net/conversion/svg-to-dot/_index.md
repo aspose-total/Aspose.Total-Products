@@ -13,7 +13,15 @@ otherformats: RTF PS WORDML FLATOPC DOTX PCL MARKDOWN DOTM XAMLFLOW ODT OTT MHTM
 {{< blocks/products/pf/feature-page-header h1="Render SVG to DOT via .NET" h2=".NET API to Export SVG to DOT on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert SVG file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to DOT. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to add powerful document manipulation and conversion features to their .NET applications. It includes the Aspose.PDF for .NET API, which provides advanced PDF processing capabilities, and the Aspose.Words for .NET API, which provides powerful document processing features. 
+
+Using the Aspose.PDF for .NET API, developers can easily convert SVG file formats to DOC. This API provides a wide range of features, such as the ability to create, edit, and convert PDF documents, as well as the ability to extract text, images, and other content from PDF documents. 
+
+Once the SVG file has been converted to DOC, developers can use the Aspose.Words for .NET API to render the DOC to DOT. This API provides a wide range of features, such as the ability to create, edit, and convert documents, as well as the ability to generate reports, mail merge documents, and more. It also provides support for a variety of document formats, including DOC, DOCX, RTF, HTML, and more. 
+
+Overall, Aspose.Total for .NET is a powerful suite of APIs that enables developers to quickly and easily add powerful document manipulation and conversion features to their .NET applications. With the Aspose.PDF for .NET API, developers can easily convert SVG file formats to DOC, and with the Aspose.Words for .NET API, developers can render the DOC to DOT.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: RTF PS WORDML FLATOPC DOTX PCL MARKDOWN DOTM XAMLFLOW ODT OTT MHTM
 4. Save the document to DOT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dot as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

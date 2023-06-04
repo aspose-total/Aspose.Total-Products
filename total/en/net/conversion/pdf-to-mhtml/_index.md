@@ -13,7 +13,15 @@ otherformats: DOTM XAMLFLOW WORDML DOT PCL FLATOPC RTF DOTX ODT OTT DOCM MARKDOW
 {{< blocks/products/pf/feature-page-header h1="Render PDF to MHTML via .NET" h2=".NET API to Export PDF to MHTML on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert PDF file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to MHTML. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides powerful document manipulation and conversion features for .NET applications. It includes the Aspose.PDF for .NET API, which enables developers to convert PDF files to DOC format. This is followed by the Aspose.Words for .NET API, which allows developers to render DOC files to MHTML. 
+
+The Aspose.PDF for .NET API provides a wide range of features for manipulating PDF documents, such as the ability to create, edit, and convert PDF files. It also supports the extraction of text, images, and other content from PDF documents. Additionally, it can be used to add annotations, watermarks, and digital signatures to PDF documents. 
+
+The Aspose.Words for .NET API provides a comprehensive set of features for creating, editing, and converting DOC files. It supports a wide range of document formats, including DOC, DOCX, RTF, HTML, and MHTML. It also provides features for manipulating document elements, such as text, images, tables, and hyperlinks. Additionally, it can be used to add headers and footers, page numbers, and bookmarks to documents. 
+
+Aspose.Total for .NET is a powerful API that enables developers to quickly and easily add document manipulation and conversion features to their .NET applications. It provides a comprehensive set of features for manipulating PDF and DOC files, including the ability to convert PDF to DOC and render DOC to MHTML.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: DOTM XAMLFLOW WORDML DOT PCL FLATOPC RTF DOTX ODT OTT DOCM MARKDOW
 4. Save the document to MHTML format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Mhtml as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

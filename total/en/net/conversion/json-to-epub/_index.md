@@ -13,7 +13,15 @@ otherformats: WORD RTF OTT DOTX DOCM DOT FLATOPC DOC PCL CHM PS MOBI WORDML ODT
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to EPUB via C#" h2="C# API to parse JSON to EPUB without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can parse JSON to EPUB  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), you can export JSON to PDF. After that, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can convert PDF to EPUB. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to parse JSON to EPUB within any .NET, C#, ASP.NET and VB.NET application. This process can be completed in two simple steps. 
+
+The first step is to use Aspose.Cells for .NET to export JSON to PDF. Aspose.Cells for .NET is a powerful .NET library that enables developers to create, manipulate and convert spreadsheets without requiring Microsoft Excel. It supports a wide range of file formats, including JSON, and can be used to export JSON to PDF with ease. 
+
+The second step is to use Aspose.Words for .NET to convert PDF to EPUB. Aspose.Words for .NET is a powerful .NET library that enables developers to create, manipulate and convert documents without requiring Microsoft Word. It supports a wide range of file formats, including PDF, and can be used to convert PDF to EPUB with ease. 
+
+By using Aspose.Total for .NET, developers can quickly and easily parse JSON to EPUB within any .NET, C#, ASP.NET and VB.NET application. This process can be completed in two simple steps, by using Aspose.Cells for .NET to export JSON to PDF and Aspose.Words for .NET to convert PDF to EPUB.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to EPUB format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

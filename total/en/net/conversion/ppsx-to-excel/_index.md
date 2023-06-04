@@ -13,7 +13,15 @@ otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM CSV FO
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to EXCEL via C# or Online App" h2=".NET API for PPSX to EXCEL conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPSX file to EXCEL within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPSX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to EXCEL. 
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert PPSX files to EXCEL within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting PPSX files to EXCEL. 
+
+The first step is to use Aspose.Slides for .NET to export the PPSX file to HTML. Aspose.Slides for .NET is a powerful component that enables developers to create, manipulate, convert and render presentations in a variety of formats, including PPSX. It provides a wide range of features, such as the ability to create presentations from scratch, manipulate existing presentations, convert presentations to other formats, and render presentations to images. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to EXCEL. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, convert and render spreadsheets in a variety of formats, including EXCEL. It provides a wide range of features, such as the ability to create spreadsheets from scratch, manipulate existing spreadsheets, convert spreadsheets to other formats, and render spreadsheets to images. 
+
+By using Aspose.Total for .NET, developers can quickly and easily convert PPSX files to EXCEL within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting PPSX files to EXCEL, making it an ideal solution for developers who need to quickly and easily convert PPSX files to EXCEL.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for PPSX to EXCEL</h3>
 
-<iframe title="Free ppsx to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppsx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

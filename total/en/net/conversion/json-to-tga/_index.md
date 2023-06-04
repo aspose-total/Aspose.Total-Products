@@ -13,7 +13,15 @@ otherformats: EMZ PSD IMAGE APNG DXF WMZ WMF JPEG2000 SVGZ DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to TGA via C#" h2="C# API to parse JSON to TGA without using third party dependencies" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can parse JSON to TGA  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), you can export JSON to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), you can convert JPEG to TGA. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily parse JSON to TGA within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting JSON to TGA. 
+
+The first step is to use Aspose.Cells for .NET to export JSON to JPEG. This component provides a wide range of features for manipulating spreadsheets, including the ability to export JSON to JPEG. It also supports a variety of file formats, including XLS, XLSX, CSV, ODS, HTML, PDF, and many more. 
+
+The second step is to use Aspose.Imaging for .NET to convert JPEG to TGA. This component provides a comprehensive set of features for manipulating images, including the ability to convert JPEG to TGA. It also supports a variety of image formats, including BMP, GIF, JPEG, PNG, TIFF, and many more. 
+
+By using Aspose.Total for .NET, developers can quickly and easily parse JSON to TGA within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting JSON to TGA, making it an ideal solution for developers who need to quickly and easily convert JSON to TGA.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to TGA format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

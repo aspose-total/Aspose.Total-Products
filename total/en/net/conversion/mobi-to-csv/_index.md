@@ -13,7 +13,15 @@ otherformats: EXCEL SXC XLSM XLSX XLAM XLTX DIF XLSB XLTM XLS ODS TSV XLT FODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert MOBI to CSV or Online App" h2="Export MOBI to CSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include MOBI to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export MOBI to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include MOBI to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert MOBI to CSV. 
+
+The first step is to use Aspose.Words for .NET to export MOBI to HTML. This component is a powerful .NET library that enables developers to create, read, write and modify documents in a variety of formats, including DOC, DOCX, ODT, HTML, MHTML, RTF, TXT, PDF, EPUB, XPS, and MOBI. It also provides a wide range of features, such as document manipulation, mail merge, text search and replace, and document protection. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to CSV. This component is a powerful spreadsheet programming API that enables developers to create, read, write and modify spreadsheets in a variety of formats, including XLS, XLSX, XLSM, XLSB, CSV, HTML, ODS, PDF, and TXT. It also provides a wide range of features, such as data import and export, formula calculation engine, pivot tables, charts, and worksheet protection. 
+
+By using Aspose.Total for .NET, developers can easily include MOBI to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert MOBI to CSV, making it easy to integrate this feature into any application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `CSV` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for MOBI to CSV</h3>
 
-<iframe title="Free mobi to csv Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=mobi" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=mobi" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

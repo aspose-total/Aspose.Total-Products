@@ -13,7 +13,15 @@ otherformats: DOC MOBI DOT ODT WORDML DOTX FLATOPC EPUB DOCM OTT PS RTF CHM PCL
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to WORD via C#" h2="C# API to parse JSON to WORD without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can parse JSON to WORD  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), you can export JSON to PDF. After that, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can convert PDF to WORD. 
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to parse JSON to WORD within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert JSON to WORD. 
+
+The first step involves using Aspose.Cells for .NET to export JSON to PDF. This component is a powerful spreadsheet processing API that enables developers to create, manipulate and convert spreadsheets without requiring Microsoft Excel to be installed on the machine. It provides a wide range of features such as creating, editing and converting spreadsheets, creating charts, applying formulas, and much more. 
+
+The second step involves using Aspose.Words for .NET to convert PDF to WORD. This component is a powerful word processing API that enables developers to create, manipulate and convert documents without requiring Microsoft Word to be installed on the machine. It provides a wide range of features such as creating, editing and converting documents, creating and manipulating tables, applying formatting, and much more. 
+
+By using Aspose.Total for .NET, developers can easily parse JSON to WORD within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert JSON to WORD, making it easy for developers to quickly and efficiently convert JSON to WORD.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to DOC format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/3) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

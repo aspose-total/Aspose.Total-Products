@@ -13,7 +13,13 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  APNG DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to IMAGE via C#" h2="Export TEX to IMAGE within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to IMAGE image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to IMAGE. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export TEX to IMAGE within any .NET application. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, two powerful components that make the process of converting TEX to IMAGE a breeze. 
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to JPEG. This component provides a wide range of features that make it easy to convert TEX to JPEG, including the ability to set the resolution, image quality, and other parameters. Once the TEX has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to IMAGE. This component provides a comprehensive set of image processing features, including the ability to resize, crop, rotate, and flip images. It also supports a wide range of image formats, including PNG, BMP, TIFF, and GIF. 
+
+Using Aspose.Total for .NET, developers can quickly and easily export TEX to IMAGE within any .NET application. The suite includes two powerful components that make the process of converting TEX to IMAGE a breeze. Aspose.PDF for .NET makes it easy to export TEX to JPEG, while Aspose.Imaging for .NET provides a comprehensive set of image processing features that make it easy to convert JPEG to IMAGE.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to JPEG2000 format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

@@ -13,7 +13,15 @@ otherformats: XLS XLTM MARKDOWN SXC EXCEL XLAM TSV XLSB XLTX FODS DIF XLT ODS MH
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLSX via C# or Online App" h2=".NET API for PPTX to XLSX conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPTX file to XLSX within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSX. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within any .NET, C#, ASP.NET and VB.NET application. It provides a wide range of features and capabilities, including the ability to convert PPTX files to XLSX. This can be done in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export the PPTX file to HTML. This component provides a wide range of features and capabilities, including the ability to export presentations to HTML. It also supports a variety of other formats, such as PDF, TIFF, JPEG, PNG, and more. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to XLSX. This component provides a powerful Spreadsheet Programming API that enables developers to easily create, manipulate and convert various spreadsheet formats. It supports a variety of features and capabilities, including the ability to convert HTML to XLSX. 
+
+By using Aspose.Total for .NET, developers can quickly and easily convert PPTX files to XLSX within any .NET, C#, ASP.NET and VB.NET application. It provides a comprehensive suite of components that enable developers to easily create, manipulate and convert various file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for PPTX to XLSX</h3>
 
-<iframe title="Free pptx to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

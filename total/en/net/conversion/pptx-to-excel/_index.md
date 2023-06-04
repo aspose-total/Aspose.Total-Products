@@ -13,7 +13,15 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MH
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to EXCEL via C# or Online App" h2=".NET API for PPTX to EXCEL conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPTX file to EXCEL within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to EXCEL. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within any .NET, C#, ASP.NET and VB.NET application. With Aspose.Total for .NET, you can easily convert PPTX file to EXCEL in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export PPTX to HTML. Aspose.Slides for .NET is a powerful .NET component that enables developers to read, write and manipulate PowerPoint presentations without using Microsoft PowerPoint. It provides a wide range of features such as creating, editing, converting, printing and exporting presentations to various formats. With Aspose.Slides for .NET, you can easily export PPTX to HTML.
+
+The second step is to use Aspose.Cells for .NET to convert HTML to EXCEL. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It provides a wide range of features such as creating, editing, formatting, printing and exporting spreadsheets to various formats. With Aspose.Cells for .NET, you can easily convert HTML to EXCEL.
+
+In conclusion, Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within any .NET, C#, ASP.NET and VB.NET application. With Aspose.Total for .NET, you can easily convert PPTX file to EXCEL in two simple steps. Firstly, by using Aspose.Slides for .NET, you can export PPTX to HTML. After that, by using Aspose.Cells for .NET Spreadsheet Programming API, you can convert HTML to EXCEL.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for PPTX to EXCEL</h3>
 
-<iframe title="Free pptx to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

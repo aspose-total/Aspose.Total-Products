@@ -13,7 +13,15 @@ otherformats: XLSX XLT SXC XLTM XLTX DIF FODS CSV XLS XLSM ODS XLSB XLAM EXCEL
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORD to TSV or Online App" h2="Export WORD to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORD to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORD to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily incorporate WORD to TSV conversion feature into any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+Firstly, Aspose.Words for .NET API can be used to export WORD documents to HTML. This API provides a wide range of features for manipulating and converting documents in various formats. It supports a variety of document formats such as DOC, DOCX, ODT, RTF, HTML, MHTML, OpenDocument Text, and many more. It also provides features for creating, editing, and converting documents. 
+
+Secondly, Aspose.Cells for .NET API can be used to convert HTML to TSV. This API provides a comprehensive set of features for working with spreadsheets. It supports a variety of spreadsheet formats such as XLS, XLSX, CSV, ODS, and many more. It also provides features for creating, editing, and converting spreadsheets. It also provides features for working with charts, pivot tables, and formulas. 
+
+By using Aspose.Total for .NET, developers can easily incorporate WORD to TSV conversion feature into any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. Firstly, Aspose.Words for .NET API can be used to export WORD documents to HTML. Secondly, Aspose.Cells for .NET API can be used to convert HTML to TSV. This feature can be used to create, edit, and convert documents and spreadsheets in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `TSV` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for WORD to TSV</h3>
 
-<iframe title="Free docx to tsv Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=docx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=tsv&from=docx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

@@ -13,7 +13,15 @@ otherformats: XLT ODS CSV XLAM XLS XLSM TSV EXCEL FODS DIF XLSX XLTM XLSB XLTX
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to SXC or Online App" h2="Export RTF to SXC via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to SXC. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include RTF to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert RTF to SXC. 
+
+The first step is to use Aspose.Words for .NET to export RTF to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, convert and print Word documents without using Microsoft Word. It supports a wide range of document formats, including RTF, DOC, DOCX, HTML, OpenDocument, PDF, XPS, EPUB and many more. With Aspose.Words for .NET, developers can easily convert RTF to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to SXC. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including SXC, XLS, XLSX, CSV, HTML, PDF and many more. With Aspose.Cells for .NET, developers can easily convert HTML to SXC with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily include RTF to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert RTF to SXC with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to SXC format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `SXC` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for RTF to SXC</h3>
 
-<iframe title="Free rtf to sxc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=rtf" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=sxc&from=rtf" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

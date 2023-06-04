@@ -13,7 +13,15 @@ otherformats: XLSB XLAM FODS XLT XLS ODS DIF XLTX SXC CSV XLSM TSV XLTM EXCEL
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert ODT to XLSX or Online App" h2="Export ODT to XLSX via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include ODT to XLSX conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export ODT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSX. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include ODT to XLSX conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, manipulate and convert documents, spreadsheets, images and other file formats. 
+
+The process of converting ODT to XLSX is simple and straightforward. Firstly, you can use Aspose.Words for .NET to export ODT to HTML. This component provides a wide range of features and capabilities that make it easy to create, manipulate and convert documents. It supports a wide range of document formats, including ODT, DOC, DOCX, HTML, PDF, XPS, EPUB and many more. 
+
+Once the ODT document is converted to HTML, you can use Aspose.Cells for .NET to convert HTML to XLSX. This powerful Spreadsheet Programming API provides a wide range of features and capabilities that make it easy to create, manipulate and convert spreadsheets. It supports a wide range of spreadsheet formats, including XLSX, XLS, ODS, CSV, HTML and many more. 
+
+By using Aspose.Total for .NET, you can easily include ODT to XLSX conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, manipulate and convert documents, spreadsheets, images and other file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSX` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for ODT to XLSX</h3>
 
-<iframe title="Free odt to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

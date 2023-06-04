@@ -13,7 +13,15 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ APNG DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XSLFO file to DXF via C#" h2="Export XSLFO to DXF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export XSLFO to DXF image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XSLFO to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DXF. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, edit, convert, and export documents within their .NET applications. With Aspose.Total for .NET, you can easily export XSLFO to DXF image in two simple steps. 
+
+The first step is to use Aspose.PDF for .NET to export XSLFO to JPEG. Aspose.PDF for .NET is a powerful .NET library that enables developers to create, read, edit, and convert PDF documents within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, and much more. With Aspose.PDF for .NET, you can easily export XSLFO to JPEG with just a few lines of code. 
+
+The second step is to use Aspose.Imaging for .NET to convert JPEG to DXF. Aspose.Imaging for .NET is a powerful .NET library that enables developers to create, edit, and convert images within their .NET applications. It provides a wide range of features such as image manipulation, image conversion, image resizing, and much more. With Aspose.Imaging for .NET, you can easily convert JPEG to DXF with just a few lines of code. 
+
+In conclusion, Aspose.Total for .NET makes it easy to export XSLFO to DXF image within any .NET applications in two simple steps. First, you can use Aspose.PDF for .NET to export XSLFO to JPEG. Then, you can use Aspose.Imaging for .NET to convert JPEG to DXF. With Aspose.Total for .NET, you can easily create, edit, convert, and export documents within your .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to DXF format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

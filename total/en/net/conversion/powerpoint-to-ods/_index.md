@@ -13,7 +13,13 @@ otherformats: FODS XLAM TSV CSV XLSX XLS MHTML XLT XLTM EXCEL SXC XLTX DIF MARKD
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to ODS via C# or Online App" h2=".NET API for POWERPOINT to ODS conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert POWERPOINT file to ODS within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export POWERPOINT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert POWERPOINT files to ODS within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting POWERPOINT files to ODS. 
+
+The first step is to use Aspose.Slides for .NET to export the POWERPOINT file to HTML. This component provides a wide range of features for manipulating POWERPOINT files, including the ability to export to HTML. Once the POWERPOINT file has been exported to HTML, the second step is to use Aspose.Cells for .NET to convert the HTML to ODS. This component provides a powerful Spreadsheet Programming API that enables developers to easily convert HTML to ODS. 
+
+Aspose.Total for .NET is a great solution for developers who need to quickly and easily convert POWERPOINT files to ODS. The two-step process is simple and straightforward, and the components provide a wide range of features for manipulating POWERPOINT and HTML files. With Aspose.Total for .NET, developers can easily convert POWERPOINT files to ODS within any .NET, C#, ASP.NET and VB.NET application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +48,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for POWERPOINT to ODS</h3>
 
-<iframe title="Free pptx to ods Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

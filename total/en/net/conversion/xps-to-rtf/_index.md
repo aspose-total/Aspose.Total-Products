@@ -13,7 +13,15 @@ otherformats: PCL FLATOPC WORDML XAMLFLOW ODT DOTM DOCM OTT MHTML PS DOTX DOT
 {{< blocks/products/pf/feature-page-header h1="Render XPS to RTF via .NET" h2=".NET API to Export XPS to RTF on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert XPS file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to RTF. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides powerful document manipulation and conversion features for .NET applications. It includes the Aspose.PDF for .NET API, which allows you to convert XPS file format to DOC. Once the conversion is complete, you can use the Aspose.Words for .NET API to render the DOC file to RTF. This API provides a wide range of features, such as the ability to create, edit, and convert documents, as well as the ability to manipulate document elements, such as text, images, and tables.
+
+The Aspose.PDF for .NET API provides a wide range of features for manipulating PDF documents, such as the ability to create, edit, and convert PDF documents, as well as the ability to extract text, images, and other content from PDF documents. It also provides support for PDF/A-1b, PDF/A-2b, and PDF/A-3b standards, as well as the ability to digitally sign PDF documents.
+
+The Aspose.Words for .NET API provides a wide range of features for manipulating Word documents, such as the ability to create, edit, and convert Word documents, as well as the ability to manipulate document elements, such as text, images, and tables. It also provides support for DOC, DOCX, RTF, and HTML formats, as well as the ability to generate PDF documents from Word documents.
+
+Overall, Aspose.Total for .NET is a powerful suite of APIs that provides a wide range of features for manipulating and converting documents. It provides support for a variety of document formats, as well as the ability to extract text, images, and other content from documents. With Aspose.Total for .NET, you can easily add document manipulation and conversion features to your .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: PCL FLATOPC WORDML XAMLFLOW ODT DOTM DOCM OTT MHTML PS DOTX DOT
 4. Save the document to RTF format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Rtf as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

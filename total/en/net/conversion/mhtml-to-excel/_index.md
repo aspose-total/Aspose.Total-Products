@@ -13,7 +13,15 @@ otherformats: XLTX XLAM DIF XLSB SXC CSV XLTM MD XLT TXT FODS ODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MHTML to EXCEL" h2="Export MHTML File to EXCEL via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML file to EXCEL within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to EXCEL. 
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert MHTML files to EXCEL within any .NET, C#, ASP.NET and VB.NET applications. The conversion process is simple and straightforward, and requires two steps. 
+
+The first step is to use Aspose.PDF for .NET to export the MHTML file to XLSX. Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, convert, print, render and manipulate PDF documents without any external dependencies. It also allows developers to export MHTML files to XLSX, which is the second step in the conversion process. 
+
+The second step is to use Aspose.Cells for .NET to convert the XLSX file to EXCEL. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, convert, print, render and manipulate spreadsheets without any external dependencies. It also allows developers to convert XLSX files to EXCEL, which is the final step in the conversion process. 
+
+Overall, Aspose.Total for .NET makes it easy to convert MHTML files to EXCEL within any .NET, C#, ASP.NET and VB.NET applications. By using Aspose.PDF for .NET to export the MHTML file to XLSX and Aspose.Cells for .NET to convert the XLSX file to EXCEL, developers can quickly and easily convert MHTML files to EXCEL.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

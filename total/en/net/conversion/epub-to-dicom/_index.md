@@ -13,7 +13,15 @@ otherformats: PSD WMF TGA WMZ DXF JPEG2000 APNG IMAGE SVGZ EMZ
 {{< blocks/products/pf/feature-page-header h1="Convert EPUB file to DICOM via C#" h2="Export EPUB to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export EPUB to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export EPUB to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export EPUB to DICOM image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to convert EPUB to DICOM. 
+
+The first step in the process is to use Aspose.PDF for .NET to export EPUB to JPEG. This component provides a wide range of features that allow developers to easily convert EPUB to JPEG. It also supports a variety of image formats, including JPEG, PNG, TIFF, and BMP. 
+
+Once the EPUB has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to DICOM. This component provides a comprehensive set of image processing features that enable developers to easily convert JPEG to DICOM. It also supports a variety of image formats, including DICOM, JPEG, PNG, TIFF, and BMP. 
+
+By using Aspose.Total for .NET, developers can easily export EPUB to DICOM image within any .NET applications in two simple steps. First, they can use Aspose.PDF for .NET to export EPUB to JPEG. Then, they can use Aspose.Imaging for .NET to convert the JPEG to DICOM. This suite of components provides developers with a powerful and easy-to-use solution for converting EPUB to DICOM.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to DICOM format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

@@ -13,7 +13,15 @@ otherformats: IMAGE DXF SVGZ JPEG2000 EMZ PSD WMF WMZ  TGA DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to APNG via C#" h2="Export HTML to APNG within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export HTML to APNG image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export HTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to APNG. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export HTML to APNG image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to convert HTML to APNG. 
+
+The process of converting HTML to APNG involves two steps. First, Aspose.PDF for .NET can be used to export HTML to JPEG. This component is a powerful PDF manipulation API that enables developers to create, read, edit, and convert PDF documents. It also provides the ability to convert HTML to JPEG with high fidelity. 
+
+Once the HTML has been converted to JPEG, Aspose.Imaging for .NET can be used to convert the JPEG to APNG. This component is an image processing API that provides a wide range of features for manipulating images. It enables developers to convert JPEG to APNG with ease. It also provides the ability to resize, crop, rotate, and flip images, as well as apply various effects and filters. 
+
+By using Aspose.Total for .NET, developers can easily export HTML to APNG image within any .NET applications. This suite provides powerful components that enable developers to convert HTML to JPEG and then convert JPEG to APNG with ease. It also provides a wide range of features for manipulating images, such as resizing, cropping, rotating, and flipping.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to APNG format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

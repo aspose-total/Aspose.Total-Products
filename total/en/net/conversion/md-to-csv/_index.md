@@ -13,7 +13,13 @@ otherformats: EXCEL ODS XLAM SXC FODS XLT DIF XLSB XLSM XLTM TSV TXT
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MD to CSV" h2="Export MD File to CSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MD file to CSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MD to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to CSV. 
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert MD file to CSV within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps. Firstly, Aspose.PDF for .NET can be used to export MD to XLSX. This component is a powerful PDF manipulation API that enables developers to create, read, edit, convert and print PDF documents without using Adobe Acrobat. It also provides features such as document conversion, text extraction, document signing, form filling, document assembly, and much more. 
+
+The second step involves using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to CSV. This component is a powerful spreadsheet programming API that enables developers to create, manipulate, convert and render spreadsheets without using Microsoft Excel. It also provides features such as data import/export, formula calculation engine, pivot tables, charting, and much more. With Aspose.Cells for .NET, developers can easily convert XLSX to CSV and other popular formats such as XLS, HTML, PDF, ODS, and more. 
+
+In conclusion, Aspose.Total for .NET is an ideal solution for developers who need to convert MD file to CSV within any .NET, C#, ASP.NET and VB.NET applications. It provides two powerful components, Aspose.PDF for .NET and Aspose.Cells for .NET, that enable developers to easily export MD to XLSX and then convert XLSX to CSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Csv` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

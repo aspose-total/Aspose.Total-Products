@@ -13,7 +13,15 @@ otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM CSV XLTM MARKDO
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to XLSX via C# or Online App" h2=".NET API for PPT to XLSX conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPT file to XLSX within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSX. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features and capabilities, including the ability to convert PPT files to XLSX. This can be achieved in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export the PPT file to HTML. This component provides a wide range of features and capabilities, including the ability to export presentations to HTML, as well as other popular formats such as PDF, XPS, TIFF, JPEG, PNG and more. It also provides a range of options to customize the output, such as setting the desired image quality, page size, background color and more. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to XLSX. This component provides a powerful Spreadsheet Programming API that enables developers to create, manipulate and convert spreadsheets in a variety of formats, including XLSX, XLS, CSV, ODS, HTML and more. It also provides a range of features and capabilities, such as the ability to add and remove worksheets, set cell values, format cells, add formulas and more. 
+
+By using Aspose.Total for .NET, developers can easily convert PPT files to XLSX within any .NET, C#, ASP.NET and VB.NET application. It provides a comprehensive suite of components that enable developers to easily create, manipulate and convert various file formats within their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for PPT to XLSX</h3>
 
-<iframe title="Free ppt to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

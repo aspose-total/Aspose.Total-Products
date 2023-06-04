@@ -13,7 +13,15 @@ otherformats: APNG DXF IMAGE PSD EMZ  JPEG2000 SVGZ WMF WMZ DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert PS file to TGA via C#" h2="Export PS to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export PS to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PS to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export PS to TGA image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export PS to TGA image. 
+
+The first step in the process is to use Aspose.PDF for .NET to export PS to JPEG. This component provides a wide range of features that enable developers to easily convert PS to JPEG. It supports a variety of image formats, including JPEG, PNG, TIFF, and BMP. It also provides a range of options for customizing the output image, such as setting the resolution, color depth, and compression level. 
+
+The second step is to use Aspose.Imaging for .NET to convert the JPEG to TGA. This component provides a comprehensive set of image processing features that enable developers to easily convert JPEG to TGA. It supports a variety of image formats, including TGA, GIF, and PNG. It also provides a range of options for customizing the output image, such as setting the resolution, color depth, and compression level. 
+
+By using Aspose.Total for .NET, developers can easily export PS to TGA image within any .NET applications in two simple steps. This suite provides a comprehensive set of features that enable developers to easily convert PS to JPEG and then convert the JPEG to TGA. It supports a variety of image formats and provides a range of options for customizing the output image.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to TGA format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

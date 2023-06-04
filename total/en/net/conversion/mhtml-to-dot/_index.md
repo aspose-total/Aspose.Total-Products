@@ -13,7 +13,15 @@ otherformats: WORDML PS FLATOPC OTT MARKDOWN DOTX PCL RTF ODT XAMLFLOW DOTM DOCM
 {{< blocks/products/pf/feature-page-header h1="Render MHTML to DOT via .NET" h2=".NET API to Export MHTML to DOT on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert MHTML file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to DOT. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides powerful document manipulation and conversion features for .NET applications. It includes the Aspose.PDF for .NET API, which enables you to convert MHTML files to DOC format. Once the file is in DOC format, you can use the Aspose.Words for .NET API to render the DOC file to DOT format.
+
+The Aspose.PDF for .NET API is a powerful PDF processing API that provides a wide range of features for manipulating PDF documents. It can be used to convert MHTML files to DOC format, as well as to create, edit, and convert PDF documents. It also supports a variety of other features, such as text extraction, image extraction, and PDF/A compliance.
+
+The Aspose.Words for .NET API is a powerful document processing API that provides a wide range of features for manipulating DOC files. It can be used to render DOC files to DOT format, as well as to create, edit, and convert DOC files. It also supports a variety of other features, such as text extraction, image extraction, and document comparison.
+
+Aspose.Total for .NET is a powerful suite of APIs that provides a comprehensive set of features for manipulating and converting documents. With the Aspose.PDF for .NET API, you can easily convert MHTML files to DOC format, and with the Aspose.Words for .NET API, you can render DOC files to DOT format. Both APIs provide a wide range of features for manipulating and converting documents, making Aspose.Total for .NET an ideal choice for any .NET application that requires document manipulation and conversion features.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: WORDML PS FLATOPC OTT MARKDOWN DOTX PCL RTF ODT XAMLFLOW DOTM DOCM
 4. Save the document to DOT format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Dot as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Format APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

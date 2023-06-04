@@ -13,7 +13,15 @@ otherformats: XLTM FODS ODS XLSX EXCEL XLSB SXC DIF XLAM XLT XLSM XLS XLTX TSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert ODT to CSV or Online App" h2="Export ODT to CSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include ODT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export ODT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate ODT to CSV conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting ODT files to CSV. 
+
+The first step involves using Aspose.Words for .NET to export ODT files to HTML. This component is a powerful .NET library that enables developers to create, read, modify and convert documents in a variety of formats, including ODT. It provides a comprehensive set of features for manipulating documents, including the ability to export ODT files to HTML. 
+
+The second step involves using Aspose.Cells for .NET to convert HTML to CSV. This component is a powerful Spreadsheet Programming API that enables developers to create, read, modify and convert spreadsheets in a variety of formats, including CSV. It provides a comprehensive set of features for manipulating spreadsheets, including the ability to convert HTML to CSV. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate ODT to CSV conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting ODT files to CSV, making it an ideal solution for developers who need to quickly and easily add ODT to CSV conversion feature to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `CSV` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for ODT to CSV</h3>
 
-<iframe title="Free odt to csv Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=odt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=odt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

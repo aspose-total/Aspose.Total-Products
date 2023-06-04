@@ -13,7 +13,13 @@ otherformats: EMZ TGA WMF IMAGE WMZ APNG JPEG2000 DXF SVGZ PSD
 {{< blocks/products/pf/feature-page-header h1="Convert MHTML file to DICOM via C#" h2="Export MHTML to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MHTML to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export MHTML to DICOM image within any .NET applications. This suite of components includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which together provide a powerful and efficient solution for converting MHTML to DICOM. 
+
+The process of converting MHTML to DICOM involves two steps. First, Aspose.PDF for .NET is used to export MHTML to JPEG. This component provides a wide range of features for manipulating PDF documents, including the ability to convert MHTML to JPEG. Once the MHTML has been converted to JPEG, Aspose.Imaging for .NET is used to convert the JPEG to DICOM. This component provides a comprehensive set of image processing features, including the ability to convert JPEG to DICOM. 
+
+Using Aspose.Total for .NET, developers can quickly and easily convert MHTML to DICOM with just two simple steps. This suite of components provides a powerful and efficient solution for converting MHTML to DICOM, and is an ideal choice for developers who need to export MHTML to DICOM within their .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to DICOM format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

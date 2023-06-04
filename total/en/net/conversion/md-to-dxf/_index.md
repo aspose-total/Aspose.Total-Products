@@ -13,7 +13,15 @@ otherformats:  JPEG2000 PSD WMF APNG IMAGE WMZ SVGZ EMZ TGA DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MD file to DXF via C#" h2="Export MD to DXF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MD to DXF image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MD to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DXF. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export MD to DXF image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, both of which are powerful and feature-rich APIs that can be used to export MD to DXF image. 
+
+The process of exporting MD to DXF image involves two simple steps. First, you can use Aspose.PDF for .NET to export MD to JPEG. This API provides a wide range of features and options that can be used to convert MD to JPEG. It also supports a variety of image formats, including JPEG, PNG, TIFF, and BMP. 
+
+Once you have exported MD to JPEG, you can use Aspose.Imaging for .NET to convert JPEG to DXF. This API provides a comprehensive set of features and options that can be used to convert JPEG to DXF. It also supports a variety of image formats, including DXF, DWG, SVG, and WMF. 
+
+By using Aspose.Total for .NET, you can easily export MD to DXF image within any .NET applications. This suite of components provides a comprehensive set of features and options that can be used to convert MD to DXF image. It also supports a variety of image formats, including JPEG, PNG, TIFF, BMP, DXF, DWG, SVG, and WMF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to DXF format using [Save](https://reference.aspose.com/imaging/net/aspose.imaging.image/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or install directly from Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

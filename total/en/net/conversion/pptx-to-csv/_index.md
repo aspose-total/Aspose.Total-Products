@@ -13,7 +13,15 @@ otherformats: XLSM XLSX SXC XLAM TSV XLTM FODS ODS XLSB XLTX MARKDOWN XLT XLS DI
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to CSV via C# or Online App" h2=".NET API for PPTX to CSV conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPTX file to CSV within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications. It includes components for manipulating Microsoft Office documents, PDFs, emails, images, barcodes and many more. With Aspose.Total for .NET, you can easily convert a PPTX file to CSV in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export the PPTX file to HTML. Aspose.Slides for .NET is a powerful component that enables developers to create, manipulate and convert PowerPoint presentations within their .NET applications. It provides a wide range of features such as creating, editing and converting presentations, adding text, shapes, images, audio and video, and much more. With Aspose.Slides for .NET, you can easily export a PPTX file to HTML. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to CSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets within their .NET applications. It provides a wide range of features such as creating, editing and converting spreadsheets, adding formulas, formatting cells, and much more. With Aspose.Cells for .NET, you can easily convert the HTML file to CSV. 
+
+In conclusion, Aspose.Total for .NET is an ideal solution for converting a PPTX file to CSV within any .NET, C#, ASP.NET and VB.NET application. It provides two powerful components, Aspose.Slides for .NET and Aspose.Cells for .NET, that enable developers to easily export a PPTX file to HTML and then convert the HTML file to CSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -42,7 +50,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for PPTX to CSV</h3>
 
-<iframe title="Free pptx to csv Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=pptx" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=csv&from=pptx" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

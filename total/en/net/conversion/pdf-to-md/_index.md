@@ -13,7 +13,15 @@ otherformats: XLSB TXT TSV XLAM SXC CSV XLT DIF FODS EXCEL XLSM XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render PDF to MD" h2="Export PDF File to MD via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert PDF file to MD within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PDF to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to MD. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert PDF files to MD within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to create powerful and efficient applications. 
+
+The process of converting PDF to MD begins with Aspose.PDF for .NET, which is a powerful PDF manipulation API that enables developers to export PDF to XLSX. This API provides a wide range of features and capabilities that make it easy to manipulate PDF documents, including the ability to convert PDF to other formats such as XLSX. 
+
+Once the PDF has been converted to XLSX, Aspose.Cells for .NET can be used to convert the XLSX to MD. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets. This API provides a wide range of features and capabilities that make it easy to create powerful and efficient applications. 
+
+By using Aspose.Total for .NET, developers can easily convert PDF to MD within any .NET, C#, ASP.NET and VB.NET applications. This comprehensive suite of components provides a wide range of features and capabilities that make it easy to create powerful and efficient applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can ea
 4. Save the document to MD format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `Md` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

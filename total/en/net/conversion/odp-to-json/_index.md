@@ -13,7 +13,11 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert ODP to JSON Format via C#" h2="Export ODP to JSON via C# without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert ODP to JSON format within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export ODP to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to JSON. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert ODP to JSON format within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting ODP to JSON. 
+
+The first step is to use Aspose.Slides for .NET to export ODP to HTML. This component is a powerful library for creating, manipulating and converting presentations in the OpenDocument Presentation (ODP) format. It provides a wide range of features for creating, editing and converting presentations, including support for ODP, PPT, PPTX, PPS, PPSX, POT, POTX, ODPX, OTP, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, POTX, ODPX, OTPX, PPTM, PPSM, POTM, PPTX, PPSX, P
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +28,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
