@@ -7,6 +7,7 @@ description: Convert PowerPoint ppt documents to Word doc files with C#. Convert
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert PPT to DOC using C# or online" h2="Build Microsoft PowerPoint PPT Presentation to Word DOC document conversion apps on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPT" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
+
 {{% blocks/products/pf/agp/content h2="How to Convert PPT to DOC Using C#" %}}
 
  In order to automate the process for any PowerPoint ppt presentation to Word doc files batch conversion, we’ll use [Aspose.Slides for .NET](https://products.aspose.com/slides/net) and [Aspose.Words for .NET](https://products.aspose.com/words/net) APIs. The former is a PowerPoint presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Whereas, the latter is a word processing API for processing or manipulating Microsoft Word documents. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
@@ -85,7 +86,7 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
 
 <h3>Online Converter for PPT to DOC</h3>
 
-<iframe title="Free ppt to doc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=ppt" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

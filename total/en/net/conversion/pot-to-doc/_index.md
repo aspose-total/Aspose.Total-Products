@@ -8,6 +8,7 @@ description: Convert PowerPoint pot documents to Word doc files with C#. Convert
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert POT to DOC using C# or online" h2="Build Microsoft PowerPoint POT Presentation to Word DOC document conversion apps on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="POT" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
+
 {{% blocks/products/pf/agp/content h2="How to Convert POT to DOC Using C#" %}}
 
  In order to automate the process for any PowerPoint pot presentation to Word doc files batch conversion, we’ll use [Aspose.Slides for .NET](https://products.aspose.com/slides/net) and [Aspose.Words for .NET](https://products.aspose.com/words/net) APIs. The former is a PowerPoint presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Whereas, the latter is a word processing API for processing or manipulating Microsoft Word documents. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
@@ -86,7 +87,7 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
 
 <h3>Online Converter for POT to DOC</h3>
 
-<iframe title="Free pot to doc Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pot" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=doc&from=pot" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
@@ -99,16 +100,6 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your POT file and hit the \"Convert\" button." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant DOC file." >}}
-
-    {{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    
 
 {{< /blocks/products/pf/agp/demobox >}}
 

@@ -8,6 +8,7 @@ description: Convert Word doc documents to PowerPoint pptx files with C#. Conver
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert DOC to PPTX using C# or online" h2="Build Microsoft Word DOC to PowerPoint PPTX conversion apps on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
+
 {{% blocks/products/pf/agp/content h2="How to Convert DOC to PPTX Using C#" %}}
 
  In order to automate the process for any Word doc files to PowerPoint pptx presentation batch conversion, we’ll use [Aspose.Words for .NET](https://products.aspose.com/words/net) and [Aspose.Slides for .NET](https://products.aspose.com/slides/net) APIs. The former is a word processing API for processing or manipulating Microsoft Word documents. Whereas, the latter is a presentation manipulation API that lets you create or modify Microsoft PowerPoint slides. Both APIs are part of [Aspose.Total for .NET](https://products.aspose.com/total/net) package. You can directly [download](https://releases.aspose.com/) from Nuget or may use the following commands from the Package Manager Console.
@@ -106,7 +107,7 @@ using (Presentation pptx = new Presentation()){
 
 <h3>Online Converter for DOC to PPTX</h3>
 
-<iframe title="Free doc to pptx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=pptx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
