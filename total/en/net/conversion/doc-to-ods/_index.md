@@ -13,7 +13,13 @@ otherformats: XLAM CSV FODS XLS SXC XLSX XLTX XLSB TSV XLT XLSM DIF EXCEL XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOC to ODS or Online App" h2="Export DOC to ODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOC to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that provides a wide range of features for working with DOC, HTML, and ODS formats. In just two simple steps, you can use Aspose.Total for .NET to convert DOC to ODS within any .NET, C#, ASP.NET, or VB.NET application.
+
+Firstly, you can use Aspose.Words for .NET to export DOC to HTML. Aspose.Words for .NET is a powerful word processing component that makes it easy to work with DOC, HTML, and other document formats. With Aspose.Words for .NET, you can export DOC to HTML with just a few lines of code.
+
+After that, you can use Aspose.Cells for .NET to convert HTML to ODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that makes it easy to work with ODS and other spreadsheet formats. With Aspose.Cells for .NET, you can convert HTML to ODS with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `ODS` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +48,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for DOC to ODS</h3>
 
-<iframe title="Free doc to ods Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=ods&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>

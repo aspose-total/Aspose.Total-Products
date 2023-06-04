@@ -13,7 +13,11 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to XLSX via C# or Online App" h2="Convert DOC to XLSX via C# or Online App without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOC to XLSX  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSX. 
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables you to perform a wide range of document processing tasks. With Aspose.Total for .NET, you can convert DOC to XLSX within any .NET, C#, ASP.NET and VB.NET application in two simple steps. 
+
+Firstly, by using Aspose.Words for .NET, you can export DOC to HTML. After that, by using Aspose.Cells for .NET Spreadsheet Programming API, you can convert HTML to XLSX. Aspose.Cells for .NET provides a wide range of features that makes it easy to work with Excel spreadsheets.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +28,7 @@ By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method and set `XLSX` as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from the command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
@@ -42,7 +46,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 <h3>Free Online Converter for DOC to XLSX</h3>
 
-<iframe title="Free doc to xlsx Conversion Tool" style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=doc" id="child-iframe" width="80%"></iframe>
+<iframe style="border: none; height: 426px;" scrolling="no" src="https://total-conversion-app-65z5r2lp.qa.k8s.dynabic.com/?to=xlsx&from=doc" id="child-iframe" width="80%"></iframe>
 
 </div></div>
 </div></div>
