@@ -1,6 +1,5 @@
 ---
 title: Convert PPT to DOC via C# .NET or with free Online Converter
-url_ignore: /net/conversion/ppt-to-doc/ 
 description: Convert PowerPoint ppt documents to Word doc files with C#. Convert multiple files within ASP.NET or other .NET applications.
 ---
 
@@ -100,15 +99,6 @@ doc.Save("output.doc", Aspose.Words.SaveFormat.Doc);
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PPT file and hit the \"Convert\" button." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant DOC file." >}}
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Total" %}}
-
-Aspose.Total for .NET is complete package of document Manipulation APIs. APIs are easily integratable within any .NET based application to manipulate Microsoft Word, Excel, PowerPoint, Outlook, PDF, Images, Barcodes and more than 100 other formats. Programmers can easily use these to create, modify, render, print and convert between most popular file formats within any .NET, C#, ASP.NET and VB.NET applications without the need of any other software.
-
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    
 
 {{< /blocks/products/pf/agp/demobox >}}
 
