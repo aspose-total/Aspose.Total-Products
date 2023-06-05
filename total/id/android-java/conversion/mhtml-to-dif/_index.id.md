@@ -48,7 +48,7 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.co
 {{% /blocks/products/pf/feature-page-section %}}
 ](https://
 {{% blocks/products/pf/feature-page-section  h2="Lindungi Dokumen DIF di Android melalui Java" %}}
-[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) mendukung perlindungan file DIF Anda tergantung pada kebutuhan Anda. Untuk melindungi dokumen Anda, Anda dapat menggunakan metode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) dari [Buku Kerja]( https://reference.aspose.com/cells/Java/com.aspose.cells/Workbook).
+[Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) mendukung perlindungan file DIF Anda tergantung pada kebutuhan Anda. Untuk melindungi dokumen Anda, Anda dapat menggunakan metode [protectSharedWorkbook](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#protectSharedWorkbook(java.lang.String)) dari [Buku Kerjareference.aspose.com/cells/Java/com.aspose.cells/Workbook).
 {{% blocks/products/pf/feature-page-code %}}
 
 {{< gist "aspose-com-gists" "216c598605624ff6264b8db912df1c50" "protect-dif.java" >}}

@@ -62,7 +62,7 @@ document.save("PptxOutput.pptx", SaveFormat.Pptx);
 {{% /blocks/products/pf/feature-page-section %}}
 ](https://
 {{% blocks/products/pf/feature-page-section  h2="Android 애플리케이션에서 POT 파일의 썸네일 이미지 생성" %}}
-CGM을 POT로 변환한 후 출력 문서의 축소판 이미지를 만들 수도 있습니다. 풍부한 기능의 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 [프레젠테이션]( https://reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스. 그런 다음 ID 또는 인덱스를 사용하여 원하는 슬라이드의 참조를 얻을 수 있으며 참조된 슬라이드의 축소판 이미지를 지정된 축척으로 가져올 수 있습니다.
+CGM을 POT로 변환한 후 출력 문서의 축소판 이미지를 만들 수도 있습니다. 풍부한 기능의 [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/)를 사용하여 [프레젠테이션reference.aspose.com/slides/java/com.aspose.slides/Presentation) 클래스. 그런 다음 ID 또는 인덱스를 사용하여 원하는 슬라이드의 참조를 얻을 수 있으며 참조된 슬라이드의 축소판 이미지를 지정된 축척으로 가져올 수 있습니다.
 {{% blocks/products/pf/feature-page-code %}}
 
 ```java
