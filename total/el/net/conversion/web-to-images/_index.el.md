@@ -1,0 +1,60 @@
+---
+title: Μετατροπή ιστοσελίδων HTML σε εικόνες χρησιμοποιώντας C#
+description: Ξύστε ιστοσελίδες ιστότοπου και εξάγετε HTML σε Εικόνες. Αναπτύξτε εφαρμογές .NET για την απόξεση δεδομένων ιστότοπου σε JPEG, PNG, GIF, BMP κ.λπ. 
+family: total
+platformtag: net
+feature: conversion
+informat: WEB
+outformat: IMAGE
+otherformats: WORD EXCEL POWERPOINT PDF
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Μετατροπή ιστοσελίδων σε εικόνες μέσω C#" h2="Εξαγωγή δεδομένων ιστότοπου από ιστοσελίδες HTML. Μετατροπή HTML σε εικόνες JPG, GIF, PNG, BMP μέσα σε εφαρμογές .NET." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+<h2 class="heading-border">Γιατί να μετατρέψετε ιστοσελίδες σε εικόνες;</h2>
+<p>Η μετατροπή ιστοσελίδων σε εικόνες μπορεί να είναι χρήσιμη σε διάφορες καταστάσεις. Είναι μια κοινή απαίτηση για πολλές εφαρμογές. Σε ορισμένα σενάρια, είναι απαραίτητο να αποτυπωθεί ολόκληρη η ιστοσελίδα ως εικόνα, συμπεριλαμβανομένων των τμημάτων που δεν είναι ορατά στην οθόνη. Αυτό μπορεί να είναι χρήσιμο για τη δημιουργία προεπισκοπήσεων ιστότοπου, τη λήψη αποδείξεων και τιμολογίων ή την αρχειοθέτηση ιστοσελίδων για νομικούς σκοπούς. Μπορεί να χρησιμοποιηθεί για τη δημιουργία στιγμιότυπων οθόνης ιστοσελίδων για σκοπούς τεκμηρίωσης ή δοκιμής. Μπορεί επίσης να χρησιμοποιηθεί για τη δημιουργία μικρογραφιών ή προεπισκοπήσεων ιστοσελίδων για χρήση σε αποτελέσματα αναζήτησης ή γκαλερί εικόνων. Είτε δημιουργείτε μια εφαρμογή επιτραπέζιου υπολογιστή είτε μια εφαρμογή Ιστού, υπάρχουν πολλές διαθέσιμες επιλογές για τη μετατροπή ιστοσελίδων σε εικόνες χρησιμοποιώντας C#.</p><br />
+
+<p>Η μετατροπή ιστοσελίδων σε εικόνες με χρήση C# μπορεί να προσφέρει πολλά οφέλη, όπως:</p><br />
+<ul>
+<li>Βελτιωμένη προσβασιμότητα: Οι εικόνες μπορεί να είναι πιο ευανάγνωστες και κατανοητές για άτομα με προβλήματα όρασης ή άλλες αναπηρίες.</li>
+<li>Αυξημένη φορητότητα: Οι εικόνες μπορούν εύκολα να κοινοποιηθούν ή να ενσωματωθούν σε άλλα έγγραφα ή εφαρμογές.</li>
+</ul>
+<p>Η μετατροπή ιστοσελίδων σε εικόνες με χρήση C# μπορεί επίσης να παρουσιάσει ορισμένες προκλήσεις, όπως:</p><br />
+<ul>
+<li>Υποστήριξη περιορισμένης μορφής: Ορισμένα API ή εργαλεία ενδέχεται να μην υποστηρίζουν όλες τις μορφές εικόνας ή μπορεί να έχουν περιορισμούς στο μέγεθος ή την ανάλυση των εικόνων εξόδου.</li>
+<li>Ζητήματα συμβατότητας: Ορισμένες ιστοσελίδες ενδέχεται να μην αποδίδονται σωστά σε όλα τα προγράμματα περιήγησης ή μπορεί να απαιτούν συγκεκριμένες ρυθμίσεις ή πρόσθετα για να εμφανίζονται σωστά.</li>
+</ul>
+{{% /blocks/products/pf/feature-page-summary  %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε ιστοσελίδες σε εικόνες χρησιμοποιώντας C#;" %}}
+Για να μετατρέψετε ιστοσελίδες σε εικόνες χρησιμοποιώντας C#, μπορείτε να χρησιμοποιήσετε ένα Aspose.HTML για .NET API που παρέχει αυτήν τη λειτουργία για τη μετατροπή σελίδων HTML σε μορφές εικόνας, συμπεριλαμβανομένων των JPEG, PNG και TIFF.</p>
+
+1. Φορτώστε ένα έγγραφο HTML χρησιμοποιώντας έναν από τους κατασκευαστές που είναι διαθέσιμοι σε [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/). Μπορείτε να φορτώσετε HTML από ένα αρχείο, έναν κώδικα HTML, μια ροή ή μια διεύθυνση URL.
+2. Δημιουργήστε μια νέα παρουσία του [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) και ορίστε την ιδιότητα ImageFormat σε JPEG. Από προεπιλογή, η ιδιότητα Μορφοποίηση έχει οριστεί σε PNG.
+3. Χρησιμοποιήστε το [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) μέθοδο από την κλάση Converter για να αποθηκεύσετε το έγγραφο HTML ως αρχείο JPEG. Θα χρειαστεί να παρέχετε το HTMLDocument, το ImageSaveOptions και τη διαδρομή του αρχείου εξόδου ως παραμέτρους στη μέθοδο ConvertHTML().
+4. Το αρχείο JPEG που προκύπτει θα αποθηκευτεί στην καθορισμένη διαδρομή αρχείου.
+ 
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις απόσυρσης ιστού και μετατροπής εικόνας" %}}
+Εγκαταστήστε από τη γραμμή εντολών ως ``` nuget install Aspose.Total``` ή κάντε απευθείας εγκατάσταση από την Κονσόλα Package Manager του Visual Studio.
+
+Δύο [Aspose.Total for .NET](https://products.aspose.com/total/net/) παιδί API, [Aspose.HTML for .NET](https://products.aspose.com/html/net/) θα ενσωματωθεί.
+
+Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από [downloads](https://releases.aspose.com/total/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/feature-page-code %}}
+{{< gist "aspose-com-gists" "7c89a27cea5417369683e976a8fae326" "convert-web-pages-to-images.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/other-autogen-total >}}
+{{< blocks/products/pf/agp/about-autogen-total >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< /blocks/products/pf/feature-page-wrap >}}
