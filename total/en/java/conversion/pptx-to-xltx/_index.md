@@ -10,7 +10,7 @@ outformat: XLTX
 otherformats: EXCEL DIF ODS XLSM CSV XLT XLSX SXC XLTM MHTML FODS TSV MARKDOWN XLAM XLS XLSB DOC DOCX DOCM DOT DOTM DOTX ODT OTT RTF WORD WORDML TEXT FLATOPX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLTX via Java or online" h2="On Premise Java API to export PPTX to XLTX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLTX via Java or Online App" h2="On Premise Java API to export PPTX to XLTX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 You can convert PPTX file to XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTX.
