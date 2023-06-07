@@ -11,7 +11,7 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOT via C++ or online" h2="Export Excel&reg; CSV to DOT within full-functional C++ applications">}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOT via C++ or Online App" h2="Export Excel&reg; CSV to DOT within full-functional C++ applications">}}
 {{< blocks/products/pf/main-container >}}
 
 
