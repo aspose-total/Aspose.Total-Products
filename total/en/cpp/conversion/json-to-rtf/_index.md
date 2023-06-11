@@ -13,7 +13,15 @@ otherformats: PCL PS WORD FLATOPC EPUB ODT DOCM OTT WORDML MOBI DOT DOC DOTX CHM
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to RTF via C++" h2="Parse JSON to RTF within C++ applications without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can parse JSON to RTF within your C++ applications in two simple steps. Firstly, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can export JSON to PDF. After that, by using [Aspose.Words for C++](https://products.aspose.com/words/cppp/), you can convert PDF to RTF. 
+
+Aspose.Total for C++ is a comprehensive suite of components that enables developers to easily parse JSON to RTF within their C++ applications. This powerful suite of components provides two simple steps to achieve this goal. 
+
+The first step is to use Aspose.Cells for C++ to export JSON to PDF. This component provides a wide range of features that allow developers to quickly and easily convert JSON to PDF. It supports a variety of formats, including XLSX, XLS, ODS, CSV, HTML, and PDF. It also provides a range of features such as data validation, cell formatting, and charting. 
+
+The second step is to use Aspose.Words for C++ to convert PDF to RTF. This component provides a wide range of features that allow developers to quickly and easily convert PDF to RTF. It supports a variety of formats, including DOC, DOCX, ODT, RTF, HTML, and PDF. It also provides a range of features such as document merging, mail merge, and document protection. 
+
+By using Aspose.Total for C++, developers can easily parse JSON to RTF within their C++ applications. This powerful suite of components provides two simple steps to achieve this goal. Firstly, by using Aspose.Cells for C++, developers can export JSON to PDF. After that, by using Aspose.Words for C++, developers can convert PDF to RTF. This makes it easy for developers to quickly and easily parse JSON to RTF within their C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

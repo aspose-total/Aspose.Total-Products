@@ -13,7 +13,9 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to EXCEL via Java or Online App" h2="On Premise Java API to convert DOC to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOC to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+Converting a DOC file to an EXCEL file can be done quickly and easily with the help of Aspose.Total for Java. This feature-rich document manipulation and conversion API provides a two-step process for converting DOC to EXCEL. The first step is to use Aspose.Words for Java to export the DOC file to HTML. This API provides a wide range of features for manipulating and converting documents, including DOC to HTML conversion. Once the DOC file has been converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML file to EXCEL. This API provides a comprehensive set of features for manipulating and converting spreadsheets, including HTML to EXCEL conversion. With the help of Aspose.Total for Java, you can easily and quickly convert a DOC file to an EXCEL file in just two steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +26,7 @@ You can converting DOC to EXCEL via [Aspose.Total for Java](https://products.asp
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

@@ -13,7 +13,15 @@ otherformats: TSV XLSM DIF XLTM SXC XLT CSV EXCEL FODS XLSB XLTX XLAM ODS XLSX
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to XLS via Java or Online App" h2="On Premise Java API to convert RTF to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting RTF to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export RTF to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+Converting RTF to XLS via Aspose.Total for Java is a straightforward two-step process. Aspose.Total for Java is a feature-rich document manipulation and conversion API that enables you to easily export RTF to HTML. Once you have the HTML file, you can use Aspose.Cells for Java to convert it to XLS.
+
+Aspose.Words for Java is a powerful document manipulation API that enables you to easily convert RTF to HTML. It supports a wide range of document formats, including RTF, DOC, DOCX, ODT, and more. It also provides a range of features such as document manipulation, text extraction, document comparison, and more. With Aspose.Words for Java, you can easily export RTF to HTML with just a few lines of code.
+
+Once you have the HTML file, you can use Aspose.Cells for Java to convert it to XLS. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to easily convert HTML to XLS. It supports a wide range of spreadsheet formats, including XLS, XLSX, ODS, and more. It also provides a range of features such as spreadsheet manipulation, data extraction, charting, and more. With Aspose.Cells for Java, you can easily convert HTML to XLS with just a few lines of code.
+
+In summary, converting RTF to XLS via Aspose.Total for Java is a simple two-step process. First, you use Aspose.Words for Java to export RTF to HTML. Then, you use Aspose.Cells for Java to convert the HTML to XLS. With Aspose.Total for Java, you can easily and quickly convert RTF to XLS with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: TSV XLSM DIF XLTM SXC XLT CSV EXCEL FODS XLSB XLTX XLAM ODS XLSX
 4. Save the document to XLS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

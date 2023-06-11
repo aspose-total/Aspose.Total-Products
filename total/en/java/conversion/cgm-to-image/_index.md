@@ -13,7 +13,13 @@ otherformats: TGA DXF APNG WMZ JPEG2000 WMF SVGZ  PSD EMZ DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert CGM to IMAGE via Java" h2="Export CGM file to IMAGE within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert cgm file to IMAGE image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export CGM to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to IMAGE. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+Converting a CGM file to an Image in Java can be done in two easy steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export CGM files to JPEG format. The second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG file to an Image. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents. It supports a wide range of features, including the ability to export CGM files to JPEG format. Aspose.Imaging for Java is an image processing API that enables developers to create, edit, and manipulate images. It supports a wide range of image formats, including IMAGE, and provides a comprehensive set of features for image manipulation. 
+
+Using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, developers can easily convert CGM files to Images in Java. The Aspose.Total for Java package provides both APIs, making it easy to access the features of both APIs in one package. With the help of these APIs, developers can quickly and easily convert CGM files to Images in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can convert cgm file to IMAGE image in Java in two simple steps. Firstly, by
 4. Save the document to JPEG2000 format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
@@ -50,7 +56,7 @@ Using the API, you can also export CGM file to IMAGE with watermark in your IMAG
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert & Rotate CGM to IMAGE File via Java" %}}
-Using the API, you can also rotate the output IMAGE image as per your needs. The Image.rotateFlip method can be used to rotate the image by 90/180/270-degrees and flip the image horizontally or vertically. The library provides simple methods to perform complex operations while encapsulating all ugly details. You can specify the type of rotation and flip to apply to the image. In order to rotate and flip the image, you can load the converted JPEG image using the [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class and call the Image.rotateFlip method while specifying the appropriate [RotateFlipType](https://reference.aspose.com/imaging/java/com.aspose.imaging/RotateFlipType).
+Using the API, you can also rotate the output Image as per your needs. The Image.rotateFlip method can be used to rotate the image by 90/180/270-degrees and flip the image horizontally or vertically. The library provides simple methods to perform complex operations while encapsulating all ugly details. You can specify the type of rotation and flip to apply to the image. In order to rotate and flip the image, you can load the converted JPEG image using the [Image](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image) class and call the Image.rotateFlip method while specifying the appropriate [RotateFlipType](https://reference.aspose.com/imaging/java/com.aspose.imaging/RotateFlipType).
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "a0abf986a98e2b1f1e86127b1a4449bd" "convert-and-rotate-pdf-to-image.java" >}}
 {{% /blocks/products/pf/feature-page-code  %}}

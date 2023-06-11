@@ -13,7 +13,9 @@ otherformats: DOCM WORDML PCL MHTML FLATOPC DOT DOTM PS OTT DOTX XAMLFLOW ODT
 {{< blocks/products/pf/feature-page-header h1="Render MD to MARKDOWN on Android via Java" h2="Convert MD to MARKDOWN in mobile apps without installing any software" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate MD to MARKDOWN conversion feature in your mobile apps by using two APIs of [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) package. First you need to convert MD file to DOC using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Secondly, by using Word Processing API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), you can render DOC to MARKDOWN.
+
+Integrating MD to MARKDOWN conversion feature in your mobile apps can be done by using two APIs of the Aspose.Total for Android Java package. The first step is to convert the MD file to DOC using the Aspose.PDF for Android via Java API. This API provides a wide range of features for creating, editing, and converting PDF documents. After the MD file is converted to DOC, the Word Processing API of Aspose.Words for Android Java can be used to render the DOC to MARKDOWN. This API provides a comprehensive set of features for creating, editing, and converting documents in various formats. It also supports a wide range of document formats, including DOC, DOCX, ODT, HTML, and more. With the help of these two APIs, you can easily convert MD files to MARKDOWN in your mobile apps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

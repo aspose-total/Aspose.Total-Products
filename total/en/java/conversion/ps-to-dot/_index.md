@@ -13,7 +13,9 @@ otherformats: OTT XAMLFLOW ODT DOCM RTF MHTML MARKDOWN FLATOPC WORDML DOTM DOTX 
 {{< blocks/products/pf/feature-page-header h1="Transform PS to DOT via Java" h2="On Premise Java API to Render PS to DOT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PS to DOT by using two simple steps. First you need to render PS file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to DOT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting a PostScript (PS) file to a Document Template (DOT) file can be done in two simple steps using the Aspose.Total for Java package. The first step is to render the PS file to a DOC file using the Aspose.PDF for Java API. This powerful PDF processing API allows you to easily convert PS files to DOC files. Once the PS file has been converted to a DOC file, the second step is to use the Aspose.Words for Java API to convert the DOC file to a DOT file. This powerful document processing API allows you to quickly and easily convert DOC files to DOT files. With the Aspose.Total for Java package, you can easily and quickly convert PS files to DOT files in just two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

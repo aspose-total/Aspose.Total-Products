@@ -13,7 +13,9 @@ otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM CSV XLTM MARKDO
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to XLSX in Android via Java or Online App" h2="Export PPT file to XLSX in Android applications without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can easily convert PPT file to XLSX in your Android applications in a two-step process via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). In the first step you can export PPT file to HTML by using [Aspose.Slides for Android via Java](https://products.aspose.com/slides/android-java/). Secondly, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to XLSX.
+
+Converting a PPT file to XLSX in Android applications is a simple two-step process with the help of Aspose.Total for Android via Java. The first step is to export the PPT file to HTML using Aspose.Slides for Android via Java. This is done by loading the PPT file into the Aspose.Slides for Android via Java library and then saving it as an HTML file. The second step is to convert the HTML file to XLSX using Aspose.Cells for Android via Java. This is done by loading the HTML file into the Aspose.Cells for Android via Java library and then saving it as an XLSX file. With these two steps, you can easily convert a PPT file to XLSX in your Android applications. Aspose.Total for Android via Java provides a comprehensive set of APIs that make it easy to convert PPT files to XLSX in Android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,15 @@ otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN CSV XLTM TSV XLT DIF FODS M
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to ODS via Java or Online App" h2="On Premise Java API to export PPTX to ODS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTX file to ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to ODS.
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to create, manipulate, convert and render a wide range of file formats. It can be used to convert PPTX file to ODS in two simple steps. 
+
+The first step is to export PPTX to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that enables developers to create, manipulate, convert and render presentations in a variety of file formats. It provides a wide range of features such as creating presentations from scratch, adding slides, manipulating text, images, shapes, tables, animations, and more. It also supports exporting presentations to HTML format. 
+
+The second step is to convert HTML to ODS using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that enables developers to create, manipulate, convert and render spreadsheets in a variety of file formats. It provides a wide range of features such as creating spreadsheets from scratch, adding worksheets, manipulating text, images, shapes, tables, formulas, and more. It also supports converting HTML to ODS format. 
+
+By using Aspose.Total for Java, developers can easily convert PPTX file to ODS in two simple steps. It is a comprehensive suite of APIs that enables developers to create, manipulate, convert and render a wide range of file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

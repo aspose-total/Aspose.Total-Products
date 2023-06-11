@@ -13,7 +13,11 @@ otherformats: XLTM DIF FODS XLTX SXC TSV XLSB XLAM XLSX XLS XLT XLSM CSV ODS
 {{< blocks/products/pf/feature-page-header h1="Convert MOBI to EXCEL via Java or Online App" h2="On Premise Java API to convert MOBI to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting MOBI to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export MOBI to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+Using Aspose.Total for Java, converting MOBI to EXCEL is a straightforward two-step process. First, you need to use the feature-rich document manipulation and conversion API Aspose.Words for Java to export MOBI to HTML. This API provides a wide range of features to manipulate documents, such as creating, editing, converting, and printing. It also supports a variety of document formats, including MOBI. After that, you can use Aspose.Cells for Java to convert HTML to EXCEL. This API provides a comprehensive set of features to create, manipulate, and convert spreadsheets. It also supports a variety of spreadsheet formats, including EXCEL. 
+
+By using Aspose.Total for Java, you can easily convert MOBI to EXCEL in a few simple steps. Aspose.Words for Java allows you to export MOBI to HTML, and Aspose.Cells for Java allows you to convert HTML to EXCEL. Both APIs provide a wide range of features to manipulate documents and spreadsheets, as well as support a variety of document and spreadsheet formats. With Aspose.Total for Java, you can quickly and easily convert MOBI to EXCEL.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +28,7 @@ otherformats: XLTM DIF FODS XLTX SXC TSV XLSB XLAM XLSX XLS XLT XLSM CSV ODS
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

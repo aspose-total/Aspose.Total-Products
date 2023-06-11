@@ -13,7 +13,11 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB CSV XLS XLSX SXC
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to DIF via Java or Online App" h2="On Premise Java API to convert RTF to DIF without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting RTF to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export RTF to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+Aspose.Total for Java is a comprehensive suite of document manipulation and conversion APIs that makes it easy to convert RTF to DIF. The process is simple and involves two steps. First, you need to use the feature-rich Aspose.Words for Java API to export RTF to HTML. This API provides a wide range of features for manipulating documents, including the ability to convert RTF to HTML. After that, you can use Aspose.Cells for Java to convert the HTML to DIF. This API provides a comprehensive set of features for working with spreadsheets, including the ability to convert HTML to DIF. 
+
+The combination of Aspose.Words for Java and Aspose.Cells for Java makes it easy to convert RTF to DIF. The APIs provide a wide range of features for manipulating documents and spreadsheets, making it easy to convert between different formats. With Aspose.Total for Java, you can quickly and easily convert RTF to DIF in just two steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +28,7 @@ otherformats: XLAM ODS XLSM XLTX TSV EXCEL XLTM FODS XLT XLSB CSV XLS XLSX SXC
 4. Save the document to DIF format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

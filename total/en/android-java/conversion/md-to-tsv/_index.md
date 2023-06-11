@@ -13,7 +13,13 @@ otherformats: CSV EXCEL DIF XLAM ODS XLSB SXC XLSM FODS TXT XLTM XLTX
 {{< blocks/products/pf/feature-page-header h1="Render MD to TSV in Android via Java" h2="Transform MD to TSV within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate MD to TSV conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert MD to XLSX. Secondly, you can convert XLSX to TSV by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating MD to TSV conversion feature into your android applications is a two step process. Firstly, you can use Aspose.PDF for Android via Java to convert MD to XLSX. Aspose.PDF for Android via Java is a powerful PDF manipulation API that allows you to convert MD to XLSX with ease. It is part of the Aspose.Total for Android via Java product family, which provides a comprehensive set of APIs for manipulating various file formats.
+
+Secondly, you can use Aspose.Cells for Android via Java to convert XLSX to TSV. Aspose.Cells for Android via Java is a powerful spreadsheet processing API that allows you to convert XLSX to TSV with ease. It is also part of the Aspose.Total for Android via Java product family, which provides a comprehensive set of APIs for manipulating various file formats.
+
+By using Aspose.PDF for Android via Java and Aspose.Cells for Android via Java, you can easily integrate MD to TSV conversion feature into your android applications. Both APIs are easy to use and provide a comprehensive set of features for manipulating various file formats. With these APIs, you can quickly and easily convert MD to TSV within your android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

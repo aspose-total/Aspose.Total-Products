@@ -13,7 +13,13 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{< blocks/products/pf/feature-page-header h1="Convert WORD to XLS via Java or Online App" h2="On Premise Java API to convert WORD to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting WORD to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export WORD to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+Converting a WORD document to XLS can be done quickly and easily with Aspose.Total for Java. This comprehensive suite of document manipulation and conversion APIs provides the tools necessary to complete the task in two simple steps. 
+
+The first step is to use Aspose.Words for Java to export the WORD document to HTML. This feature-rich API allows you to manipulate the document in a variety of ways, including converting it to HTML. Once the document is in HTML format, the second step is to use Aspose.Cells for Java to convert the HTML to XLS. This powerful API provides the tools necessary to convert HTML to XLS quickly and easily. 
+
+By using Aspose.Total for Java, you can convert WORD to XLS in a matter of minutes. This comprehensive suite of APIs provides the tools necessary to manipulate and convert documents quickly and easily. With Aspose.Words for Java, you can export WORD to HTML, and with Aspose.Cells for Java, you can convert HTML to XLS. This two-step process makes it easy to convert WORD to XLS in no time.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can converting WORD to XLS via [Aspose.Total for Java](https://products.aspo
 4. Save the document to XLS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

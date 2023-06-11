@@ -13,7 +13,15 @@ otherformats: XLAM XLSM DIF XLT CSV XLTX XLSX TSV ODS XLTM EXCEL FODS XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to JSON Format in Android via Java" h2="Design Android applications to export DOCX to JSON without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert DOCX to JSON format in your Android Applications via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). By using document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to JSON.
+
+Using Aspose.Total for Android via Java, you can easily convert DOCX to JSON format in your Android Applications. Aspose.Words for Android via Java is a document manipulation and conversion API that enables you to export DOCX to HTML. Once you have the HTML file, you can use Aspose.Cells for Android via Java to convert it to JSON.
+
+Aspose.Total for Android via Java is a comprehensive suite of APIs that provides a wide range of features for document manipulation and conversion. It includes Aspose.Words for Android via Java, which is a powerful document manipulation and conversion API that enables you to export DOCX to HTML. After you have the HTML file, you can use Aspose.Cells for Android via Java to convert it to JSON.
+
+Aspose.Cells for Android via Java is a powerful spreadsheet manipulation and conversion API that enables you to convert HTML to JSON. It provides a wide range of features for manipulating and converting spreadsheets, including the ability to convert HTML to JSON. With Aspose.Cells for Android via Java, you can easily convert HTML to JSON, allowing you to quickly and easily convert DOCX to JSON format in your Android Applications.
+
+In conclusion, Aspose.Total for Android via Java is a comprehensive suite of APIs that provides a wide range of features for document manipulation and conversion. It includes Aspose.Words for Android via Java, which enables you to export DOCX to HTML, and Aspose.Cells for Android via Java, which enables you to convert HTML to JSON. With these APIs, you can easily convert DOCX to JSON format in your Android Applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

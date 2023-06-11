@@ -13,9 +13,9 @@ outformat: MHTML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a PDF to MHTML (Web archive format) conversion feature or HtmlFixed mean want to save the document in the HTML format using absolutely positioned elements within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
+As a Python developer, you may need to add a feature to your application that allows you to convert PDF files to MHTML (Web archive format) or HtmlFixed (HTML format with absolutely positioned elements). Aspose.Total for Python via .NET API can help you automate this process. It is a comprehensive package of various APIs that can handle different file formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the PDF to MHTML conversion feature. In case the PDF file is simple then its just two lines of code. Load the PDF file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
+Aspose.Words for Python via .NET API, which is part of the Aspose.Total for Python via .NET package, can be used to add the PDF to MHTML conversion feature. If the PDF file is simple, it can be done with just two lines of code. You can load the PDF file and call the save method with the appropriate file path and the SaveFormat enumeration as MHTML or HTML_FIXED. However, if you need to restore the document model as close to the original as possible, you will need to save some extra information within the resultant document, known as round-trip information.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

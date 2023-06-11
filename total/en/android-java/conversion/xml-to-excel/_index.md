@@ -13,7 +13,9 @@ otherformats: DIF TXT XLAM SXC XLSB MD XLTM XLT ODS FODS TSV XLSM
 {{< blocks/products/pf/feature-page-header h1="Render XML to EXCEL in Android via Java" h2="Transform XML to EXCEL within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate XML to EXCEL conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert XML to XLSX. Secondly, you can convert XLSX to EXCEL by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating XML to EXCEL conversion feature within your android applications is a two step process. Firstly, you can use Aspose.PDF for Android via Java to convert XML to XLSX. Aspose.PDF for Android via Java is a powerful PDF manipulation API that is part of the Aspose.Total for Android via Java product family. It allows you to convert XML to XLSX with ease. Secondly, you can convert XLSX to EXCEL by using Aspose.Cells for Android via Java. Aspose.Cells for Android via Java is a powerful Spreadsheet Processing API that is also part of the Aspose.Total for Android via Java product family. It allows you to convert XLSX to EXCEL with ease. By using both APIs, you can easily integrate XML to EXCEL conversion feature within your android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

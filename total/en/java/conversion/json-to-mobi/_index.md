@@ -13,7 +13,15 @@ otherformats: DOT PS ODT OTT WORDML EPUB CHM DOC FLATOPC DOTX DOCM RTF WORD PCL
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to MOBI via Java" h2="On premise Java API to parse JSON to MOBI without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can convert JSON to MOBI in your Java applications in two-step process. Firstly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/) you can parse JSON to PDF. In the second step, you can convert PDF to MOBI by using Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).  
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert JSON to MOBI in their Java applications. The two-step process involves using Aspose.Cells for Java to parse JSON to PDF and then using Aspose.Words for Java to convert the PDF to MOBI.
+
+Aspose.Cells for Java is a powerful spreadsheet API that enables developers to parse JSON to PDF with ease. It provides a wide range of features such as creating, editing, and manipulating spreadsheets, and supports a variety of formats including XLS, XLSX, CSV, ODS, and PDF. It also provides a comprehensive set of features for working with charts, pivot tables, and formulas.
+
+Aspose.Words for Java is a powerful Word Processing API that enables developers to convert PDF to MOBI with ease. It provides a wide range of features such as creating, editing, and manipulating documents, and supports a variety of formats including DOC, DOCX, ODT, and PDF. It also provides a comprehensive set of features for working with text, images, tables, and headers and footers.
+
+By using Aspose.Total for Java, developers can easily convert JSON to MOBI in their Java applications. The two-step process involves using Aspose.Cells for Java to parse JSON to PDF and then using Aspose.Words for Java to convert the PDF to MOBI. This makes it easy for developers to quickly and easily convert JSON to MOBI in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you ca
 4. Save the document to MOBI format using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

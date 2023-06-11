@@ -13,7 +13,13 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to XLSX via Java or Online App" h2="On Premise Java API to convert DOC to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOC to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+Converting a DOC file to XLSX can be done quickly and easily with the help of Aspose.Total for Java. This comprehensive suite of document manipulation and conversion APIs provides a simple two-step process for converting DOC to XLSX. 
+
+The first step is to use Aspose.Words for Java to export the DOC file to HTML. This feature-rich API allows you to manipulate documents in a variety of ways, including converting them to HTML. Once the DOC file has been converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML to XLSX. This powerful API enables you to quickly and easily convert HTML to XLSX, allowing you to take advantage of the features and benefits of the XLSX format. 
+
+By using Aspose.Total for Java, you can quickly and easily convert DOC to XLSX in just two steps. Aspose.Words for Java enables you to export the DOC file to HTML, and Aspose.Cells for Java allows you to convert the HTML to XLSX. This comprehensive suite of document manipulation and conversion APIs makes it easy to take advantage of the features and benefits of the XLSX format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can converting DOC to XLSX via [Aspose.Total for Java](https://products.aspo
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

@@ -13,7 +13,11 @@ otherformats: WORDML DOT PCL DOTM PS ODT DOCM OTT FLATOPC DOTX XAMLFLOW MHTML
 {{< blocks/products/pf/feature-page-header h1="Transform EPUB to RTF via Java" h2="On Premise Java API to Render EPUB to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert EPUB to RTF by using two simple steps. First you need to render EPUB file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting EPUB to RTF is a simple two-step process. First, you need to render the EPUB file to DOC using Aspose.PDF for Java. This powerful PDF Processing API is part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for working with a variety of document formats. Once the EPUB file has been rendered to DOC, you can then use Aspose.Words for Java to convert the DOC to RTF. Aspose.Words for Java is a powerful Document Processing API that enables you to quickly and easily convert documents from one format to another. 
+
+The combination of Aspose.PDF for Java and Aspose.Words for Java makes it easy to convert EPUB to RTF. All you need to do is render the EPUB file to DOC using Aspose.PDF for Java, and then use Aspose.Words for Java to convert the DOC to RTF. With Aspose.Total for Java, you can easily and quickly convert EPUB to RTF in just two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

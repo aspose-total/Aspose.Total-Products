@@ -13,7 +13,15 @@ otherformats: DOC WORD MOBI RTF DOCM EPUB ODT CHM PS WORDML DOT PCL FLATOPC DOTX
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to OTT via Java" h2="On premise Java API to parse JSON to OTT without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can convert JSON to OTT in your Java applications in two-step process. Firstly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/) you can parse JSON to PDF. In the second step, you can convert PDF to OTT by using Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).  
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert JSON to OTT in their Java applications. The two-step process begins with Aspose.Cells for Java, which allows developers to parse JSON to PDF. This is followed by the use of Aspose.Words for Java, a Word Processing API, to convert the PDF to OTT.
+
+Aspose.Cells for Java is a powerful API that enables developers to create, manipulate, and convert spreadsheets. It supports a wide range of file formats, including JSON, and can be used to parse JSON to PDF. The API also provides a range of features, such as the ability to create charts, apply formulas, and set page settings.
+
+Aspose.Words for Java is a Word Processing API that enables developers to create, edit, and convert documents. It supports a wide range of file formats, including PDF, and can be used to convert PDF to OTT. The API also provides a range of features, such as the ability to insert images, apply formatting, and set page settings.
+
+By using Aspose.Total for Java, developers can quickly and easily convert JSON to OTT in their Java applications. The two-step process begins with Aspose.Cells for Java, which allows developers to parse JSON to PDF. This is followed by the use of Aspose.Words for Java, a Word Processing API, to convert the PDF to OTT.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you ca
 4. Save the document to OTT format using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

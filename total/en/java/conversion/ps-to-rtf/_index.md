@@ -13,7 +13,13 @@ otherformats: XAMLFLOW FLATOPC ODT DOTM WORDML DOT MARKDOWN MHTML DOCM DOTX PCL 
 {{< blocks/products/pf/feature-page-header h1="Transform PS to RTF via Java" h2="On Premise Java API to Render PS to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PS to RTF by using two simple steps. First you need to render PS file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting a PostScript (PS) file to Rich Text Format (RTF) can be done in two easy steps. The first step is to render the PS file to a DOC file using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF Processing API that is part of the Aspose.Total for Java package. This package contains a suite of APIs that can be used to create, edit, and convert a variety of document formats. 
+
+Once the PS file has been rendered to a DOC file, the second step is to use Aspose.Words for Java to convert the DOC file to RTF. Aspose.Words for Java is a powerful Document Processing API that is also part of the Aspose.Total for Java package. This API can be used to create, edit, and convert a variety of document formats, including DOC, RTF, and HTML. 
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can easily convert a PS file to RTF in two simple steps. Aspose.Total for Java provides a suite of APIs that can be used to create, edit, and convert a variety of document formats, making it the perfect choice for converting PS to RTF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

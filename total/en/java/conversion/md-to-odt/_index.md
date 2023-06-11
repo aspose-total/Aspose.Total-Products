@@ -13,7 +13,13 @@ otherformats: RTF MHTML DOTM WORDML DOT OTT FLATOPC PCL MARKDOWN XAMLFLOW PS DOT
 {{< blocks/products/pf/feature-page-header h1="Transform MD to ODT via Java" h2="On Premise Java API to Render MD to ODT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MD to ODT by using two simple steps. First you need to render MD file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to ODT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting a Markdown (MD) file to OpenDocument Text (ODT) format can be easily done in two simple steps. The first step is to render the MD file to a DOC format using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF Processing API that is part of the Aspose.Total for Java package. This package contains a range of APIs that can be used to create, edit, and convert a variety of document formats. 
+
+Once the MD file has been rendered to a DOC format, the second step is to use Aspose.Words for Java to convert the DOC file to an ODT format. Aspose.Words for Java is a powerful Document Processing API that is also part of the Aspose.Total for Java package. This API can be used to create, edit, and convert a variety of document formats, including DOC and ODT. 
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can easily convert an MD file to an ODT file in just two simple steps. Both APIs are part of the Aspose.Total for Java package, which provides a range of APIs for creating, editing, and converting a variety of document formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

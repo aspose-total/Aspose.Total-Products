@@ -13,7 +13,9 @@ otherformats: CHM WORDML OTT ODT PS MOBI WORD DOTX RTF DOC DOCM FLATOPC EPUB PCL
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to DOT via C++" h2="Parse JSON to DOT within C++ applications without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can parse JSON to DOT within your C++ applications in two simple steps. Firstly, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can export JSON to PDF. After that, by using [Aspose.Words for C++](https://products.aspose.com/words/cppp/), you can convert PDF to DOT. 
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to parse JSON to DOT within their C++ applications. It provides two simple steps to achieve this. Firstly, Aspose.Cells for C++ can be used to export JSON to PDF. This API provides a wide range of features such as creating, manipulating, and converting spreadsheets. It also supports a variety of file formats, including PDF, XLSX, XLS, ODS, CSV, HTML, and more. After that, Aspose.Words for C++ can be used to convert PDF to DOT. This API provides a wide range of features such as creating, manipulating, and converting documents. It also supports a variety of file formats, including DOC, DOCX, ODT, RTF, HTML, and more. With Aspose.Total for C++, developers can easily parse JSON to DOT within their C++ applications. It provides a simple and efficient way to achieve this task.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

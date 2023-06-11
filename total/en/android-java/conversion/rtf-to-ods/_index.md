@@ -13,7 +13,9 @@ otherformats: CSV XLSX XLSB DIF FODS TSV XLAM XLTM SXC XLTX EXCEL XLS XLT XLSM
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to ODS in Android Applications or Online App" h2="Export RTF to ODS in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate RTF to ODS conversion feature inside your android applications. Firstly, you can convert RTF to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to ODS.
+
+Aspose.Total for Android via Java is a comprehensive suite of APIs that can be used to integrate RTF to ODS conversion feature into your Android applications. The process of conversion involves two steps. Firstly, you can use the feature-rich document manipulation and conversion API, Aspose.Words for Android via Java, to convert RTF to HTML. This API provides a wide range of features such as document manipulation, document conversion, document comparison, document protection, and more. After that, you can use Aspose.Cells for Java to convert HTML to ODS. This API provides features such as spreadsheet manipulation, spreadsheet conversion, spreadsheet comparison, spreadsheet protection, and more. With these two APIs, you can easily convert RTF to ODS in your Android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,15 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC CSV DIF XLSX XLS TSV XLTM XLTX
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to ODS via Java or Online App" h2="On Premise Java API to convert DOCX to ODS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOCX to ODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to ODS.
+
+Aspose.Total for Java is a comprehensive suite of document manipulation and conversion APIs that makes it easy to convert DOCX to ODS. The process is simple and straightforward, requiring only two steps. 
+
+The first step is to use Aspose.Words for Java to export the DOCX file to HTML. Aspose.Words for Java is a feature-rich API that enables you to manipulate documents with ease. It supports a wide range of document formats, including DOCX, and provides a comprehensive set of features for manipulating documents. 
+
+The second step is to use Aspose.Cells for Java to convert the HTML file to ODS. Aspose.Cells for Java is a powerful API for working with spreadsheets. It supports a wide range of spreadsheet formats, including ODS, and provides a comprehensive set of features for manipulating spreadsheets. 
+
+By using Aspose.Total for Java, you can easily convert DOCX to ODS in just two steps. Aspose.Words for Java enables you to export the DOCX file to HTML, and Aspose.Cells for Java enables you to convert the HTML file to ODS. With Aspose.Total for Java, you can quickly and easily convert documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: EXCEL XLAM FODS XLSB XLT XLSM SXC CSV DIF XLSX XLS TSV XLTM XLTX
 4. Save the document to ODS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

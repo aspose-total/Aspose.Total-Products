@@ -13,7 +13,9 @@ otherformats: PCL ODT FLATOPC WORDML DOTX DOCM MHTML XAMLFLOW DOT OTT MARKDOWN R
 {{< blocks/products/pf/feature-page-header h1="Transform XPS to GIF via Java" h2="On Premise Java API to Render XPS to GIF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert XPS to GIF by using two simple steps. First you need to render XPS file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to GIF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting an XPS file to GIF can be done in two simple steps using the powerful Aspose.Total for Java package. The first step is to render the XPS file to DOC using Aspose.PDF for Java. This API is part of the Aspose.Total for Java package and provides a comprehensive set of features for manipulating PDF documents. After the XPS file has been rendered to DOC, the second step is to convert the DOC to GIF using Aspose.Words for Java. This API is also part of the Aspose.Total for Java package and provides a comprehensive set of features for manipulating Word documents. With these two APIs, you can easily convert XPS to GIF in just two steps. Aspose.Total for Java is a comprehensive package that provides a wide range of features for manipulating documents of various formats. It is an ideal solution for developers who need to convert XPS to GIF quickly and easily.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

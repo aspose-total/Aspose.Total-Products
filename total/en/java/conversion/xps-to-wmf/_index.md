@@ -13,7 +13,9 @@ otherformats: TGA EMZ PSD SVGZ JPEG2000 WMZ  APNG IMAGE DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XPS to WMF via Java" h2="Export XPS file to WMF within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert xps file to WMF image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export XPS to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to WMF. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+Converting an XPS file to a WMF image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the XPS file to a JPEG image. This API is part of the Aspose.Total for Java package, which provides a comprehensive suite of tools for manipulating documents and images. Once the JPEG image is created, the second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a WMF image. This API also comes with the Aspose.Total for Java package, and provides a range of features for manipulating images, including resizing, cropping, and rotating. With these two APIs, you can easily convert an XPS file to a WMF image in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +26,7 @@ You can convert xps file to WMF image in Java in two simple steps. Firstly, by u
 4. Save the document to WMF format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

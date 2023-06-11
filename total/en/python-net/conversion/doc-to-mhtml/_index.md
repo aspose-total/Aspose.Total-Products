@@ -13,9 +13,9 @@ outformat: MHTML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a DOC to MHTML (Web archive format) conversion feature or HtmlFixed mean want to save the document in the HTML format using absolutely positioned elements within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
+As a Python developer, you may need to add a feature to your application that allows you to convert DOC files to MHTML (Web archive format) or HtmlFixed, which saves the document in the HTML format using absolutely positioned elements. Aspose.Total for Python via .NET API can help you automate this process. This package includes various APIs that can help you with different file formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the DOC to MHTML conversion feature. In case the DOC file is simple then its just two lines of code. Load the DOC file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
+Aspose.Words for Python via .NET API, which is part of the Aspose.Total for Python via .NET package, can be used to add the DOC to MHTML conversion feature. If the DOC file is simple, it only requires two lines of code: loading the DOC file and calling the save method with the appropriate file path and SaveFormat enumeration (MHTML or HTML_FIXED). However, if you need to restore the document model as close to the original as possible, you will need to save extra information within the resultant document, known as round-trip information.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

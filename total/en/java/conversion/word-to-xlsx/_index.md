@@ -13,7 +13,15 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{< blocks/products/pf/feature-page-header h1="Convert WORD to XLSX via Java or Online App" h2="On Premise Java API to convert WORD to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting WORD to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export WORD to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+Converting a WORD document to XLSX format can be easily accomplished with the help of Aspose.Total for Java. This comprehensive suite of APIs provides feature-rich document manipulation and conversion capabilities. The process of converting WORD to XLSX involves two steps. 
+
+The first step is to export the WORD document to HTML format using Aspose.Words for Java. This API provides a wide range of features for manipulating WORD documents. It can be used to create, edit, convert, render, print and save documents in various formats. It also supports a variety of features such as document protection, mail merge, document comparison, and more. 
+
+The second step is to convert the HTML document to XLSX format using Aspose.Cells for Java. This API provides a comprehensive set of features for manipulating spreadsheets. It can be used to create, edit, convert, render, print and save spreadsheets in various formats. It also supports a variety of features such as data validation, conditional formatting, charting, and more. 
+
+By using Aspose.Total for Java, you can easily convert WORD documents to XLSX format in a few simple steps. This comprehensive suite of APIs provides feature-rich document manipulation and conversion capabilities that can be used to create, edit, convert, render, print and save documents in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ You can converting WORD to XLSX via [Aspose.Total for Java](https://products.asp
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

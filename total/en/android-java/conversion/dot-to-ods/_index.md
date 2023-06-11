@@ -13,7 +13,9 @@ otherformats: SXC TSV XLT XLTX XLTM XLAM FODS XLSB DIF XLSX EXCEL XLSM CSV XLS
 {{< blocks/products/pf/feature-page-header h1="Convert DOT to ODS in Android Applications or Online App" h2="Export DOT to ODS in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate DOT to ODS conversion feature inside your android applications. Firstly, you can convert DOT to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to ODS.
+
+Aspose.Total for Android via Java is a comprehensive suite of document manipulation and conversion APIs that can be used to integrate DOT to ODS conversion feature inside your Android applications. The process involves two steps. Firstly, you can use Aspose.Words for Android via Java to convert DOT to HTML. This feature-rich API provides a wide range of features to manipulate documents in various formats. It supports a wide range of document formats such as DOC, DOCX, DOT, DOTX, HTML, ODT, RTF, TXT, and many more. After that, you can use Aspose.Cells for Java to convert HTML to ODS. This API provides a wide range of features to manipulate spreadsheets in various formats. It supports a wide range of spreadsheet formats such as XLS, XLSX, ODS, CSV, HTML, PDF, and many more. With Aspose.Total for Android via Java, you can easily integrate DOT to ODS conversion feature inside your Android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

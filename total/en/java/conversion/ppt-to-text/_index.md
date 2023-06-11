@@ -13,7 +13,15 @@ otherformats: DOT DOTX DOCX DOC FLATOPC WORD ODT DOTM OTT WORDML RTF DOCM
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to TEXT via Java or Online App" h2="On Premise Java API for PowerPoint PPT to TEXT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPT to Word TEXT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPT to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to TEXT. 
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPT to Word TEXT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPT to HTML, enabling them to create, edit, render, and convert presentations from within their own Java applications. It also provides features such as creating and manipulating slides, shapes, text, and images, as well as support for various file formats. 
+
+Aspose.Words for Java is a feature-rich Word Processing API that enables developers to convert HTML to TEXT. It provides a wide range of features such as creating, editing, and converting documents from within their own Java applications. It also supports a variety of file formats, including DOC, DOCX, ODT, RTF, and HTML. Additionally, it provides features such as document manipulation, mail merge, and document comparison. 
+
+By combining the power of Aspose.Slides for Java and Aspose.Words for Java, developers can easily automate the batch conversion process of PowerPoint PPT to Word TEXT. This allows them to quickly and easily convert documents from one format to another, without having to manually perform the conversion process.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

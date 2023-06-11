@@ -13,7 +13,13 @@ otherformats: XLSB EXCEL DIF XLSM FODS CSV ODS TSV XLAM XLTM SXC XLT
 {{< blocks/products/pf/feature-page-header h1="Render XML to TXT in Android via Java" h2="Transform XML to TXT within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate XML to TXT conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert XML to XLSX. Secondly, you can convert XLSX to TXT by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating XML to TXT conversion feature within your android applications is a two step process. To begin, you can use Aspose.PDF for Android via Java to convert XML to XLSX. Aspose.PDF for Android via Java is a part of the Aspose.Total for Android via Java product family. This product family provides a comprehensive set of APIs to work with a variety of file formats. 
+
+Once you have converted the XML to XLSX, you can use Aspose.Cells for Android via Java to convert the XLSX to TXT. Aspose.Cells for Android via Java is a powerful spreadsheet processing API that allows you to manipulate and convert spreadsheets. It supports a wide range of features, including formatting, calculations, charts, and more. 
+
+By using Aspose.PDF for Android via Java and Aspose.Cells for Android via Java, you can easily integrate XML to TXT conversion feature within your android applications. Both APIs are reliable, easy to use, and provide a comprehensive set of features to work with a variety of file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

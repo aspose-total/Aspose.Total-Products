@@ -13,7 +13,9 @@ otherformats: MARKDOWN DOT DOCM ODT PS DOTX PCL XAMLFLOW DOTM FLATOPC RTF MHTML
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to OTT via Java" h2="On Premise Java API to Render TEX to OTT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to OTT by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to OTT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting a TEX file to OTT can be done in two easy steps with the help of Aspose.Total for Java. Aspose.Total for Java is a powerful suite of APIs that can be used to process documents. The first step is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that can be used to convert TEX to DOC. Once the TEX file is converted to DOC, the second step is to use Aspose.Words for Java to convert the DOC to OTT. Aspose.Words for Java is a powerful document processing API that can be used to convert DOC to OTT. With the help of these two APIs, you can easily convert TEX to OTT in just two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

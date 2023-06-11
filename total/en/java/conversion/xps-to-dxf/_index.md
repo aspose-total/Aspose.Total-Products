@@ -13,7 +13,13 @@ otherformats: WMZ IMAGE APNG EMZ WMF SVGZ TGA JPEG2000  PSD DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XPS to DXF via Java" h2="Export XPS file to DXF within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert xps file to DXF image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export XPS to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DXF. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+Converting an XPS file to a DXF image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the XPS file to a JPEG image. This API is part of the Aspose.Total for Java package, which provides a comprehensive suite of tools for working with documents, images, and other file formats. 
+
+Once the XPS file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java API to render the JPEG image to a DXF file. This API provides a range of image processing capabilities, including the ability to convert between different image formats. 
+
+By using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can quickly and easily convert an XPS file to a DXF image in Java. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of tools for working with documents, images, and other file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can convert xps file to DXF image in Java in two simple steps. Firstly, by u
 4. Save the document to DXF format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

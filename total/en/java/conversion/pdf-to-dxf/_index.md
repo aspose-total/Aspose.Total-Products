@@ -13,7 +13,15 @@ otherformats: WMF PSD APNG IMAGE TGA EMZ WMZ JPEG2000 SVGZ DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert PDF to DXF via Java" h2="Export PDF file to DXF within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert pdf file to DXF image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export PDF to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DXF. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+Converting a PDF file to a DXF image in Java can be done in two easy steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export a PDF file to a JPEG image. The second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a DXF image. 
+
+The Aspose.PDF for Java API is a powerful PDF manipulation library that allows you to create, edit, convert, and manipulate PDF documents. It also provides features such as text extraction, document signing, and document merging. The API supports a wide range of file formats, including PDF, XPS, and HTML. 
+
+The Aspose.Imaging for Java Image Processing API is a powerful library that allows you to manipulate images. It provides features such as image resizing, cropping, and rotating. It also supports a wide range of image formats, including JPEG, PNG, and TIFF. 
+
+By using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert a PDF file to a DXF image in Java. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for manipulating documents, images, and other file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ You can convert pdf file to DXF image in Java in two simple steps. Firstly, by u
 4. Save the document to DXF format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

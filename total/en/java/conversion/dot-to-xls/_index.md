@@ -13,7 +13,9 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOT to XLS via Java or Online App" h2="On Premise Java API to convert DOT to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOT to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+Converting DOT to XLS via Aspose.Total for Java is a straightforward two-step process. Aspose.Words for Java is a feature-rich document manipulation and conversion API that can be used to export DOT to HTML. Once the DOT file has been converted to HTML, Aspose.Cells for Java can be used to convert the HTML to XLS. Aspose.Total for Java is a suite of APIs that provides a comprehensive set of tools for manipulating and converting documents, spreadsheets, and other file formats. Aspose.Words for Java is a powerful API that enables developers to create, edit, and convert documents in a variety of formats, including DOT. Aspose.Cells for Java is a powerful API that enables developers to create, edit, and convert spreadsheets in a variety of formats, including XLS. With Aspose.Total for Java, developers can quickly and easily convert DOT to XLS in just two steps. First, the DOT file is exported to HTML using Aspose.Words for Java. Then, the HTML is converted to XLS using Aspose.Cells for Java. Aspose.Total for Java is an ideal solution for developers who need to quickly and easily convert DOT to XLS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +26,7 @@ You can converting DOT to XLS via [Aspose.Total for Java](https://products.aspos
 4. Save the document to XLS format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

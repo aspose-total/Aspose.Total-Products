@@ -13,7 +13,13 @@ otherformats: SVGZ EMZ  APNG WMF WMZ PSD IMAGE TGA JPEG2000 DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MHTML to DXF via Java" h2="Export MHTML file to DXF within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert mhtml file to DXF image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DXF. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+Converting an MHTML file to a DXF image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the MHTML file to a JPEG image. This API is part of the Aspose.Total for Java package, which is a comprehensive suite of APIs for manipulating various file formats. Once the JPEG image is created, the second step is to use the Aspose.Imaging for Java API to render the JPEG image to a DXF image. This API is also part of the Aspose.Total for Java package and provides a wide range of image processing capabilities. 
+
+The Aspose.PDF for Java API provides a range of features for working with PDF files, including the ability to export MHTML files to JPEG images. It also supports a variety of other file formats, such as DOCX, XLSX, PPTX, and HTML. The Aspose.Imaging for Java API provides a comprehensive set of image processing capabilities, including the ability to render JPEG images to DXF images. It also supports a variety of other image formats, such as TIFF, GIF, BMP, and PNG. 
+
+By using the Aspose.Total for Java package, you can easily convert an MHTML file to a DXF image in Java. The first step is to use the Aspose.PDF for Java API to export the MHTML file to a JPEG image. The second step is to use the Aspose.Imaging for Java API to render the JPEG image to a DXF image. With these two APIs, you can quickly and easily convert MHTML files to DXF images in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can convert mhtml file to DXF image in Java in two simple steps. Firstly, by
 4. Save the document to DXF format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

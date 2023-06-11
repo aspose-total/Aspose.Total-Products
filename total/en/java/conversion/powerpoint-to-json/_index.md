@@ -13,7 +13,13 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to JSON Format via Java" h2="On Premise Java API to export POWERPOINT to JSON without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting POWERPOINT to JSON format via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. In the first step you can export POWERPOINT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to JSON.
+
+Using Aspose.Total for Java, converting POWERPOINT to JSON format is a straightforward two-step process. The first step involves exporting POWERPOINT to HTML using Aspose.Slides for Java. This powerful library provides a wide range of features for creating, editing, and converting presentations. It can be used to export presentations to HTML, PDF, XPS, and other popular formats.
+
+The second step involves converting the HTML to JSON using Aspose.Cells for Java. This library is designed to work with spreadsheets and provides a comprehensive set of features for creating, editing, and converting spreadsheets. It can be used to convert HTML to JSON, as well as other popular formats such as XLSX, XLS, CSV, and ODS.
+
+By using Aspose.Total for Java, you can quickly and easily convert POWERPOINT presentations to JSON format. The two-step process is simple and efficient, and the powerful features of Aspose.Slides and Aspose.Cells make it easy to export and convert presentations and spreadsheets.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ Converting POWERPOINT to JSON format via [Aspose.Total for Java](https://product
 4. Save the document to JSON format using [save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

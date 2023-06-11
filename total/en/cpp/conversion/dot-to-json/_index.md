@@ -13,7 +13,15 @@ otherformats: XLAM XLSB XLTM ODS XLT TSV SXC EXCEL FODS DIF XLTX CSV XLS XLSM
 {{< blocks/products/pf/feature-page-header h1="Convert DOT to JSON Format via C++" h2="Export DOT to JSON via C++ without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can convert DOT to JSON format within your C++ applications. Firstly, by using [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOT to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to JSON format. 
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to easily convert DOT to JSON format within their C++ applications. The process involves two steps, firstly using Aspose.Words for C++ to export DOT to HTML and then using Aspose.Cells for C++ to convert HTML to JSON format. 
+
+Aspose.Words for C++ is a powerful API that enables developers to create, edit, render, and convert documents in various formats such as DOC, DOCX, DOT, HTML, ODT, PDF, and RTF. It also provides features such as document manipulation, mail merge, text extraction, and more. With Aspose.Words for C++, developers can easily export DOT to HTML format.
+
+Aspose.Cells for C++ is a powerful API that enables developers to create, manipulate, and convert spreadsheets in various formats such as XLS, XLSX, CSV, HTML, ODS, PDF, and more. It also provides features such as data manipulation, charting, formatting, and more. With Aspose.Cells for C++, developers can easily convert HTML to JSON format.
+
+By using Aspose.Total for C++, developers can easily convert DOT to JSON format within their C++ applications. Aspose.Words for C++ enables developers to export DOT to HTML format and Aspose.Cells for C++ enables developers to convert HTML to JSON format. This makes it easy for developers to quickly and easily convert DOT to JSON format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

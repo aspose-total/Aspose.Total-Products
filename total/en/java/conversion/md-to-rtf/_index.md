@@ -13,7 +13,15 @@ otherformats: DOTM DOT PCL ODT PS MARKDOWN DOCM XAMLFLOW WORDML OTT DOTX FLATOPC
 {{< blocks/products/pf/feature-page-header h1="Transform MD to RTF via Java" h2="On Premise Java API to Render MD to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MD to RTF by using two simple steps. First you need to render MD file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting a Markdown (MD) file to Rich Text Format (RTF) is a simple two-step process. The first step is to render the MD file to a DOC file using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that is part of the Aspose.Total for Java package. Once the MD file is rendered to a DOC file, the second step is to use Aspose.Words for Java to convert the DOC file to RTF. Aspose.Words for Java is a powerful document processing API that is also part of the Aspose.Total for Java package. 
+
+Using Aspose.PDF for Java, you can easily render MD files to DOC files. This API provides a wide range of features such as the ability to convert MD to DOC, PDF, HTML, XPS, and other formats. It also supports various image formats such as JPEG, PNG, TIFF, and BMP. Additionally, it can be used to extract text from PDF documents and to add annotations and bookmarks to PDF documents. 
+
+Once the MD file is rendered to a DOC file, Aspose.Words for Java can be used to convert the DOC file to RTF. This API provides a wide range of features such as the ability to convert DOC to RTF, DOCX, HTML, PDF, and other formats. It also supports various image formats such as JPEG, PNG, TIFF, and BMP. Additionally, it can be used to extract text from documents and to add annotations and bookmarks to documents. 
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can easily convert MD files to RTF files. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for working with various file formats. With these APIs, you can easily render MD files to DOC files and then convert the DOC files to RTF files.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

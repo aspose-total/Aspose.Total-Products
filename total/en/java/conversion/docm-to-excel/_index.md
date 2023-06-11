@@ -13,7 +13,13 @@ otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOCM to EXCEL via Java or Online App" h2="On Premise Java API to convert DOCM to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOCM to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+Converting a DOCM file to an EXCEL file can be done quickly and easily with the help of Aspose.Total for Java. This comprehensive suite of document manipulation and conversion APIs provides a two-step process for converting DOCM to EXCEL. 
+
+The first step is to use Aspose.Words for Java to export the DOCM file to HTML. This feature-rich API allows you to manipulate documents in a variety of ways, including converting them to HTML. Once the DOCM file has been converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML file to EXCEL. This powerful API provides a range of features for working with spreadsheets, including the ability to convert HTML to EXCEL. 
+
+By using Aspose.Total for Java, you can quickly and easily convert DOCM to EXCEL in just two steps. This comprehensive suite of APIs provides a range of features for manipulating and converting documents, making it the perfect choice for converting DOCM to EXCEL.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can converting DOCM to EXCEL via [Aspose.Total for Java](https://products.as
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

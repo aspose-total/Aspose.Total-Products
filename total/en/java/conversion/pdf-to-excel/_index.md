@@ -13,7 +13,15 @@ otherformats: XLTM XLAM XLTX SXC DIF MD XLSB XLT FODS TSV CSV TXT
 {{< blocks/products/pf/feature-page-header h1="Export PDF to EXCEL via Java" h2="Convert PDF file to EXCEL by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PDF to EXCEL conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PDF to XLSX. In the second step, you can convert XLSX to EXCEL by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate PDF to EXCEL conversion feature in their Java applications. This suite of APIs consists of two components: Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render PDF documents to XLSX format. It provides a wide range of features such as PDF to XLSX conversion, text extraction, image extraction, page manipulation, and more. It also supports a variety of formats such as PDF, XPS, HTML, and more. 
+
+Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to convert XLSX to EXCEL. It provides a wide range of features such as cell formatting, data validation, worksheet protection, charting, and more. It also supports a variety of formats such as XLSX, XLS, CSV, and more. 
+
+By using Aspose.Total for Java, developers can easily integrate PDF to EXCEL conversion feature in their Java applications in two-step process. Firstly, they can render PDF to XLSX by using Aspose.PDF for Java. In the second step, they can convert XLSX to EXCEL by using Aspose.Cells for Java. This makes it easy for developers to quickly and easily integrate PDF to EXCEL conversion feature in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

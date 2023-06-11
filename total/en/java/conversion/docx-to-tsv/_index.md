@@ -13,7 +13,13 @@ otherformats: XLSM XLTX SXC XLT ODS CSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to TSV via Java or Online App" h2="On Premise Java API to convert DOCX to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOCX to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+Using Aspose.Total for Java, converting a DOCX file to TSV is a straightforward two-step process. The first step is to use the feature-rich document manipulation and conversion API Aspose.Words for Java to export the DOCX file to HTML. This API provides a wide range of features, such as the ability to create, edit, and convert documents, as well as to manipulate document elements like text, images, and tables.
+
+The second step is to use Aspose.Cells for Java to convert the HTML file to TSV. This API provides a comprehensive set of features for working with spreadsheets, such as the ability to create, edit, and convert spreadsheets, as well as to manipulate spreadsheet elements like cells, formulas, and charts.
+
+By using Aspose.Total for Java, you can quickly and easily convert a DOCX file to TSV. The two APIs provide a comprehensive set of features for working with documents and spreadsheets, making it easy to convert between different file formats. With just a few simple steps, you can convert a DOCX file to TSV and take advantage of the powerful features of Aspose.Total for Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ otherformats: XLSM XLTX SXC XLT ODS CSV FODS XLSX XLSB XLTM DIF XLAM XLS EXCEL
 4. Save the document to TSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

@@ -13,9 +13,11 @@ outformat: MHTML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a WORD to MHTML (Web archive format) conversion feature or HtmlFixed mean want to save the document in the HTML format using absolutely positioned elements within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
+As a Python developer, adding a WORD to MHTML (Web archive format) conversion feature or HtmlFixed mean saving the document in the HTML format using absolutely positioned elements within application. To automate the process, Aspose.Total for Python via .NET API can be used. It is a full package of various APIs dealing with different formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the WORD to MHTML conversion feature. In case the WORD file is simple then its just two lines of code. Load the WORD file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
+Aspose.Words for Python via .NET API, which is part of Aspose.Total for Python via .NET Package, can be used to add the WORD to MHTML conversion feature. If the WORD file is simple, then it is just two lines of code. The first line is to load the WORD file and the second line is to call the save method with the appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. However, if there is a need to restore the document model as close to the original one, then there is a need to save some extra information within the resultant document, which is called round-trip information. 
+
+The API provides a wide range of features such as document conversion, document manipulation, document comparison, document signing, and many more. It also supports various file formats such as DOC, DOCX, ODT, RTF, HTML, PDF, XPS, EPUB, and many more. Furthermore, it also provides the ability to convert documents to different formats such as HTML, MHTML, XPS, PDF, and many more.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

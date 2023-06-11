@@ -13,7 +13,13 @@ otherformats: WORDML RTF DOCM ODT PCL PS MHTML OTT DOTM FLATOPC DOTX DOT
 {{< blocks/products/pf/feature-page-header h1="Transform XPS to MARKDOWN via Java" h2="On Premise Java API to Render XPS to MARKDOWN without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert XPS to MARKDOWN by using two simple steps. First you need to render XPS file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MARKDOWN. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting XPS to MARKDOWN is a simple two-step process. First, you need to render the XPS file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that is part of the Aspose.Total for Java package. This API allows you to easily convert XPS to DOC with just a few lines of code. 
+
+Once you have the DOC file, you can then use Aspose.Words for Java to convert it to MARKDOWN. Aspose.Words for Java is a powerful document processing API that is also part of the Aspose.Total for Java package. This API allows you to easily convert DOC to MARKDOWN with just a few lines of code. 
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can quickly and easily convert XPS to MARKDOWN in just two simple steps. Aspose.Total for Java provides both APIs in one convenient package, making it easy to get started with XPS to MARKDOWN conversion.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,15 @@ otherformats: XLAM DIF EXCEL XLSM XLTX ODS XLS XLSX SXC XLT TSV XLTM FODS XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to CSV via Java or Online App" h2="On Premise Java API to convert DOCX to CSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOCX to CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to CSV.
+
+Converting a DOCX file to CSV format can be easily done with the help of Aspose.Total for Java. This comprehensive suite of APIs provides feature-rich document manipulation and conversion capabilities. The process of converting a DOCX file to CSV involves two steps. 
+
+The first step is to export the DOCX file to HTML format. This can be done by using Aspose.Words for Java, a powerful document manipulation API. This API allows you to easily convert DOCX files to HTML format with just a few lines of code. 
+
+The second step is to convert the HTML file to CSV format. This can be done by using Aspose.Cells for Java, a powerful spreadsheet manipulation API. This API allows you to easily convert HTML files to CSV format with just a few lines of code. 
+
+By using Aspose.Total for Java, you can easily convert DOCX files to CSV format in just two steps. The process is simple and straightforward, and requires minimal coding. Aspose.Total for Java is a great choice for developers who need to quickly and easily convert DOCX files to CSV format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: XLAM DIF EXCEL XLSM XLTX ODS XLS XLSX SXC XLT TSV XLTM FODS XLSB
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

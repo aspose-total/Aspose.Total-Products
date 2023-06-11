@@ -13,7 +13,15 @@ otherformats: CSV XLTX XLSB SXC XLTM XLSM XLS XLAM DIF EXCEL ODS FODS TSV XLT
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to XLSX via Java or Online App" h2="On Premise Java API to convert RTF to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting RTF to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export RTF to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+Using Aspose.Total for Java, converting RTF to XLSX is a straightforward two-step process. Aspose.Words for Java is a feature-rich document manipulation and conversion API that can be used to export RTF to HTML. Once the RTF document has been converted to HTML, Aspose.Cells for Java can be used to convert the HTML to XLSX.
+
+Aspose.Total for Java is a suite of APIs that provides developers with a comprehensive set of tools for manipulating and converting documents. Aspose.Words for Java is a powerful API that enables developers to create, edit, and convert documents in a variety of formats, including RTF. It can be used to export RTF documents to HTML, which can then be converted to XLSX using Aspose.Cells for Java.
+
+Aspose.Cells for Java is a powerful API that enables developers to create, edit, and convert spreadsheets in a variety of formats, including XLSX. It can be used to convert HTML documents to XLSX, which can be used to open and edit the RTF document.
+
+By using Aspose.Total for Java, developers can quickly and easily convert RTF documents to XLSX. Aspose.Words for Java can be used to export RTF to HTML, and Aspose.Cells for Java can be used to convert the HTML to XLSX. This two-step process makes it easy to convert RTF documents to XLSX and open them in a spreadsheet program.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: CSV XLTX XLSB SXC XLTM XLSM XLS XLAM DIF EXCEL ODS FODS TSV XLT
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

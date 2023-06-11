@@ -13,7 +13,15 @@ otherformats: XLT EXCEL MD TXT CSV TSV XLTM FODS ODS SXC XLSB DIF
 {{< blocks/products/pf/feature-page-header h1="Render MHTML to XLSM in Android via Java" h2="Transform MHTML to XLSM within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate MHTML to XLSM conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert MHTML to XLSX. Secondly, you can convert XLSX to XLSM by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating MHTML to XLSM conversion feature within your android applications is now possible with the help of Aspose.Total for Android via Java. This product family consists of two powerful APIs, Aspose.PDF for Android via Java and Aspose.Cells for Android via Java, which can be used to convert MHTML to XLSM in two steps. 
+
+The first step is to use Aspose.PDF for Android via Java to convert MHTML to XLSX. This API provides a wide range of features to manipulate PDF documents, such as creating, editing, converting, and printing. It also supports a variety of document formats, including MHTML, HTML, XPS, and PDF. With this API, you can easily convert MHTML to XLSX with just a few lines of code. 
+
+The second step is to use Aspose.Cells for Android via Java to convert XLSX to XLSM. This powerful spreadsheet processing API provides a wide range of features to manipulate spreadsheets, such as creating, editing, formatting, and printing. It also supports a variety of document formats, including XLSX, XLSM, XLSB, and CSV. With this API, you can easily convert XLSX to XLSM with just a few lines of code. 
+
+By using Aspose.Total for Android via Java, you can easily integrate MHTML to XLSM conversion feature within your android applications. This product family provides two powerful APIs, Aspose.PDF for Android via Java and Aspose.Cells for Android via Java, which can be used to convert MHTML to XLSM in two steps. With just a few lines of code, you can easily convert MHTML to XLSM and integrate this feature within your android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

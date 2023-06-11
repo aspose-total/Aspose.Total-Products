@@ -13,7 +13,15 @@ otherformats: DOTX PS DOT RTF XAMLFLOW MHTML WORDML FLATOPC PCL DOCM DOTM ODT
 {{< blocks/products/pf/feature-page-header h1="Transform MD to MARKDOWN via Java" h2="On Premise Java API to Render MD to MARKDOWN without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MD to MARKDOWN by using two simple steps. First you need to render MD file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MARKDOWN. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting MD to MARKDOWN can be done in two easy steps using Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides powerful document processing capabilities. 
+
+The first step is to render the MD file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, and convert PDF documents. It also allows you to render MD files to DOC format. 
+
+The second step is to convert the DOC file to MARKDOWN using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and convert documents. It also allows you to convert DOC files to MARKDOWN format. 
+
+By using Aspose.Total for Java, you can easily convert MD to MARKDOWN in two simple steps. Aspose.PDF for Java is used to render MD files to DOC and Aspose.Words for Java is used to convert DOC to MARKDOWN. This makes it easy to convert MD to MARKDOWN without any hassle.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

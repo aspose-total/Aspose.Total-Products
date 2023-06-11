@@ -13,7 +13,9 @@ otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM CSV
 {{< blocks/products/pf/feature-page-header h1="Convert ODT to EXCEL via Java or Online App" h2="On Premise Java API to convert ODT to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting ODT to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export ODT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+Using Aspose.Total for Java, converting ODT to EXCEL is a straightforward two-step process. The first step is to export the ODT file to HTML using Aspose.Words for Java, a feature-rich document manipulation and conversion API. Aspose.Words for Java allows you to easily convert ODT to HTML with just a few lines of code. Once the ODT file is converted to HTML, the second step is to convert the HTML to EXCEL using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that enables you to quickly and easily convert HTML to EXCEL. With just a few lines of code, you can convert HTML to EXCEL in a matter of seconds. By using Aspose.Total for Java, you can easily convert ODT to EXCEL in a few simple steps. Aspose.Words for Java allows you to quickly and easily export ODT to HTML, and Aspose.Cells for Java enables you to quickly and easily convert HTML to EXCEL. With Aspose.Total for Java, you can easily convert ODT to EXCEL in a matter of seconds.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +26,7 @@ otherformats: SXC XLS XLTM TSV XLT XLSB XLTX ODS DIF FODS XLSX XLAM XLSM CSV
 4. Save the document to XLSX format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

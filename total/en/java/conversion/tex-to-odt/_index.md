@@ -13,7 +13,9 @@ otherformats: FLATOPC MARKDOWN PS DOT XAMLFLOW WORDML DOTM PCL DOTX DOCM RTF OTT
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to ODT via Java" h2="On Premise Java API to Render TEX to ODT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to ODT by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to ODT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+Converting a TEX file to ODT can be done in two simple steps using Aspose.Total for Java. Aspose.Total for Java is a powerful suite of APIs that can be used to process documents. The first step is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that can be used to render TEX files to DOC. Once the TEX file is rendered to DOC, the second step is to convert the DOC file to ODT using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that can be used to convert DOC files to ODT. With these two simple steps, you can easily convert TEX to ODT using Aspose.Total for Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

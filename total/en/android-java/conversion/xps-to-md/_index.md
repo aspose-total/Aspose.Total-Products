@@ -13,7 +13,15 @@ otherformats: XLAM TXT XLTX FODS EXCEL XLSB XLSM TSV DIF ODS SXC XLTM
 {{< blocks/products/pf/feature-page-header h1="Render XPS to MD in Android via Java" h2="Transform XPS to MD within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate XPS to MD conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert XPS to XLSX. Secondly, you can convert XLSX to MD by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating XPS to MD conversion feature within your android applications can be done in two simple steps. Firstly, you can use [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) to convert XPS to XLSX. This API is part of the [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family. Secondly, you can use the Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) to convert XLSX to MD.
+
+Aspose.PDF for Android via Java is a powerful PDF manipulation API that enables you to convert XPS to XLSX. It supports a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of file formats such as PDF, XPS, HTML, and more.
+
+Aspose.Cells for Android via Java is a powerful spreadsheet processing API that enables you to convert XLSX to MD. It supports a wide range of features such as creating, editing, converting, and manipulating spreadsheets. It also supports a variety of file formats such as XLSX, XLS, CSV, and more.
+
+By using these two APIs, you can easily integrate XPS to MD conversion feature within your android applications. Both APIs are easy to use and provide a wide range of features to help you achieve your desired results. With Aspose.Total for Android via Java, you can easily access both APIs and get the most out of them.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

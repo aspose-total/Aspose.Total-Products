@@ -13,7 +13,9 @@ otherformats: MARKDOWN FODS XLTX XLSB XLT XLSM XLS XLTM XLAM XLSX TSV SXC CSV MH
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to EXCEL via Java or Online App" h2="On Premise Java API to export PPTX to EXCEL without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTX file to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert PPTX files to EXCEL. This conversion can be done in two steps. The first step is to export the PPTX file to HTML using Aspose.Slides for Java. This API provides a wide range of features to manipulate PowerPoint presentations. It can be used to create, read, modify and convert presentations to other formats. After the PPTX file is converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML file to EXCEL. This API provides a comprehensive set of features to manipulate spreadsheets. It can be used to create, read, modify and convert spreadsheets to other formats. With Aspose.Total for Java, you can easily convert PPTX files to EXCEL in a few simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

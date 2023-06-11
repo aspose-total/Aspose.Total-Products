@@ -13,7 +13,13 @@ otherformats: WMZ TGA SVGZ APNG WMF EMZ DXF PSD JPEG2000 IMAGE
 {{< blocks/products/pf/feature-page-header h1="Convert HTML to DICOM via Java" h2="Export HTML file to DICOM within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert html file to DICOM image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export HTML to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DICOM. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+Converting an HTML file to a DICOM image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the HTML file to a JPEG image. Aspose.PDF for Java is part of the Aspose.Total for Java package, which includes a range of APIs for working with documents, images, and other file formats. 
+
+Once the HTML file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java API to render the JPEG image to a DICOM image. Aspose.Imaging for Java is an image processing API that provides a range of features for manipulating images, including the ability to convert between different image formats. 
+
+By using the two APIs together, you can easily convert an HTML file to a DICOM image in Java. The process is straightforward and requires minimal coding, making it an ideal solution for developers who need to convert HTML files to DICOM images.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +30,7 @@ You can convert html file to DICOM image in Java in two simple steps. Firstly, b
 4. Save the document to DICOM format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

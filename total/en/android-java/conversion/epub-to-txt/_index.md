@@ -13,7 +13,9 @@ otherformats: SXC XLAM ODS FODS TSV MD XLSB XLTX EXCEL DIF XLSM XLTM
 {{< blocks/products/pf/feature-page-header h1="Render EPUB to TXT in Android via Java" h2="Transform EPUB to TXT within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate EPUB to TXT conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert EPUB to XLSX. Secondly, you can convert XLSX to TXT by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating EPUB to TXT conversion feature within your android applications is now possible with two step process. Aspose.Total for Android via Java product family provides two powerful APIs to make this possible. Firstly, Aspose.PDF for Android via Java can be used to convert EPUB to XLSX. This API provides a wide range of features to manipulate PDF documents. It allows you to create, edit, convert, render, print, and secure PDF documents. Secondly, Aspose.Cells for Android via Java can be used to convert XLSX to TXT. This API provides a comprehensive set of features to manipulate spreadsheets. It allows you to create, edit, format, calculate, and print spreadsheets. It also supports a wide range of popular file formats such as XLS, XLSX, CSV, ODS, and PDF. With these two APIs, you can easily integrate EPUB to TXT conversion feature within your android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

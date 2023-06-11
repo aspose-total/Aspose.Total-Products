@@ -13,7 +13,15 @@ otherformats: WORDML EPUB WORD RTF DOT CHM PCL PS DOCM DOC OTT MOBI FLATOPC DOTX
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to ODT via Java" h2="On premise Java API to parse JSON to ODT without using Microsoft<sup>&reg;</sup> Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can convert JSON to ODT in your Java applications in two-step process. Firstly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/) you can parse JSON to PDF. In the second step, you can convert PDF to ODT by using Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/).  
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert JSON to ODT in their Java applications. The two-step process involves using Aspose.Cells for Java to parse JSON to PDF, and then using Aspose.Words for Java to convert the PDF to ODT.
+
+Aspose.Cells for Java is a powerful spreadsheet API that enables developers to create, manipulate, and convert spreadsheets in various formats. It can parse JSON to PDF, allowing developers to quickly and easily convert JSON data into a PDF document.
+
+Aspose.Words for Java is a powerful Word Processing API that enables developers to create, manipulate, and convert documents in various formats. It can convert PDF to ODT, allowing developers to quickly and easily convert PDF documents into an ODT file.
+
+By using Aspose.Total for Java, developers can easily convert JSON to ODT in their Java applications. The two-step process involves using Aspose.Cells for Java to parse JSON to PDF, and then using Aspose.Words for Java to convert the PDF to ODT. This makes it easy for developers to quickly and easily convert JSON data into an ODT file.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you ca
 4. Save the document to ODT format using [Save](https://reference.aspose.com/words/java/com.aspose.words/Document#save(java.lang.String,com.aspose.words.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

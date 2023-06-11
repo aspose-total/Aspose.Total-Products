@@ -13,7 +13,15 @@ otherformats: XLSB XLTM EXCEL XLSM SXC ODS CSV MD XLAM XLTX FODS XLT
 {{< blocks/products/pf/feature-page-header h1="Render PCL to TSV in Android via Java" h2="Transform PCL to TSV within Android applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate PCL to TSV conversion feature within your android applications in two step process. Firstly, by using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) you can covert PCL to XLSX. Secondly, you can convert XLSX to TSV by using Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). Both APIs come under [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family.
+
+Integrating PCL to TSV conversion feature within your android applications can be done in two simple steps. Firstly, you can use [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/) to convert PCL to XLSX. This API is part of the [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) product family. Secondly, you can use the Powerful Spreadsheet Processing API [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/) to convert XLSX to TSV. 
+
+Aspose.PDF for Android via Java is a powerful PDF manipulation API that enables you to convert PCL to XLSX. It supports a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of file formats including PDF, XLSX, HTML, and more. With this API, you can easily convert PCL to XLSX in a few simple steps.
+
+Aspose.Cells for Android via Java is a powerful spreadsheet processing API that enables you to convert XLSX to TSV. It supports a wide range of features such as creating, editing, converting, and manipulating spreadsheets. It also supports a variety of file formats including XLSX, CSV, HTML, and more. With this API, you can easily convert XLSX to TSV in a few simple steps.
+
+By using Aspose.PDF for Android via Java and Aspose.Cells for Android via Java, you can easily integrate PCL to TSV conversion feature within your android applications. Both APIs are part of the Aspose.Total for Android via Java product family, which provides a comprehensive set of APIs for manipulating various file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

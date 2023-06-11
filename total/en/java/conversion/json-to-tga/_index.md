@@ -13,7 +13,15 @@ otherformats: IMAGE APNG DXF PSD WMZ JPEG2000 EMZ SVGZ DICOM WMF
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to TGA via Java" h2="Java API to parse JSON format to TGA within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for Java](https://products.aspose.com/total/java/), you can convert JSON format to TGA within any Java application in two simple steps. Firstly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can parse JSON to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/), you can convert JPEG to TGA.
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert JSON format to TGA within any Java application. This suite of APIs includes Aspose.Cells for Java and Aspose.Imaging for Java, which can be used to parse JSON to JPEG and convert JPEG to TGA respectively.
+
+Using Aspose.Cells for Java, developers can parse JSON to JPEG in a few simple steps. This API provides a wide range of features that allow developers to manipulate and convert spreadsheets in various formats. It also provides a powerful set of features to parse JSON to JPEG, such as the ability to read and write JSON files, convert JSON to Excel, and more.
+
+Once the JSON is parsed to JPEG, Aspose.Imaging for Java can be used to convert JPEG to TGA. This API provides a wide range of features that allow developers to manipulate and convert images in various formats. It also provides a powerful set of features to convert JPEG to TGA, such as the ability to read and write TGA files, convert JPEG to TGA, and more.
+
+By using Aspose.Total for Java, developers can easily convert JSON format to TGA within any Java application in two simple steps. This suite of APIs provides a comprehensive set of features that allow developers to manipulate and convert spreadsheets and images in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ Using [Aspose.Total for Java](https://products.aspose.com/total/java/), you can 
 4. Save the document to TGA format using [save](https://reference.aspose.com/imaging/java/com.aspose.imaging/Image#save-java.lang.String-com.aspose.imaging.ImageOptionsBase-) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include libraries in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).

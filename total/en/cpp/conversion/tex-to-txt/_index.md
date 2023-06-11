@@ -13,7 +13,9 @@ otherformats: CSV EXCEL XLTM XLAM ODS FODS DIF XLTX XLSM XLSB XLT MD
 {{< blocks/products/pf/feature-page-header h1="Render TEX to TXT in C++ Applications" h2="Convert TEX to TXT in native C++ applications without requiring Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Converting TEX to TXT in C++ via [Aspose.Total for C++](https://products.aspose.com/total/cpp/) file format automation libraries is a simple two step process. In the first step, you can export TEX to XLSX by using [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/), After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) Spreadsheet Programming API, you can convert XLSX to TXT. 
+
+Converting TEX to TXT in C++ is a simple two step process that can be achieved using the Aspose.Total for C++ file format automation libraries. The first step involves exporting the TEX file to XLSX using the Aspose.PDF for C++ library. This library provides a range of features for working with PDF documents, including the ability to convert PDF files to other formats. Once the TEX file has been converted to XLSX, the second step involves using the Aspose.Cells for C++ Spreadsheet Programming API to convert the XLSX file to TXT. This API provides a range of features for working with spreadsheets, including the ability to convert spreadsheets to other formats. With the help of these two libraries, it is possible to quickly and easily convert TEX to TXT in C++.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

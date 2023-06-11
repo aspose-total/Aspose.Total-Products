@@ -13,7 +13,15 @@ otherformats: WORDML PCL MHTML DOCM DOTM PS ODT DOTX XAMLFLOW OTT DOT MARKDOWN
 {{< blocks/products/pf/feature-page-header h1="C++ API to Export MD to RTF" h2="Render MD to RTF within C++ applications without requiring any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for C++](https://products.aspose.com/total/cpp/) file format automation libraries allows C++ developer to convert MD to RTF in two simple steps. Firstly, you can use [Aspose.PDF for C++](https://products.aspose.com/pdf/cpp/) API to convert MD file format to DOC. Secondly, by using advanced Word Document Processing API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOC to RTF. 
+
+Aspose.Total for C++ is a comprehensive file format automation library that enables C++ developers to easily convert Markdown (MD) files to Rich Text Format (RTF) in two simple steps. 
+
+The first step involves using the Aspose.PDF for C++ API to convert the MD file format to DOC. This API provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of file formats, including PDF, XPS, TIFF, HTML, and many more. 
+
+The second step involves using the advanced Word Document Processing API, Aspose.Words for C++. This API provides a comprehensive set of features for creating, editing, and manipulating Microsoft Word documents. It also supports a variety of file formats, including DOC, DOCX, RTF, HTML, and many more. With this API, you can easily export the DOC file to RTF. 
+
+Aspose.Total for C++ is a powerful and reliable file format automation library that makes it easy for C++ developers to convert MD files to RTF. It provides a comprehensive set of features for creating, editing, and manipulating a variety of file formats. With its two-step process, you can quickly and easily convert MD files to RTF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

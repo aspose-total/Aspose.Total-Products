@@ -13,7 +13,9 @@ otherformats: RTF XAMLFLOW DOTX DOT WORDML OTT ODT DOTM MHTML PS FLATOPC MARKDOW
 {{< blocks/products/pf/feature-page-header h1="Render PDF to PCL on Android via Java" h2="Convert PDF to PCL in mobile apps without installing any software" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate PDF to PCL conversion feature in your mobile apps by using two APIs of [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) package. First you need to convert PDF file to DOC using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Secondly, by using Word Processing API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), you can render DOC to PCL.
+
+Integrating PDF to PCL conversion feature in your mobile apps is now possible with the help of two APIs from the Aspose.Total for Android Java package. The first step is to convert the PDF file to DOC using the Aspose.PDF for Android via Java API. This API provides a wide range of features to manipulate PDF documents, such as creating, editing, converting, and printing. Once the PDF file is converted to DOC, the next step is to render the DOC to PCL using the Word Processing API, Aspose.Words for Android Java. This API provides a comprehensive set of features to create, edit, and convert documents in various formats, such as DOC, DOCX, ODT, HTML, and PDF. With the help of these two APIs, you can easily integrate PDF to PCL conversion feature in your mobile apps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

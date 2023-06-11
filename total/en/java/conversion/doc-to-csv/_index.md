@@ -13,7 +13,15 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to CSV via Java or Online App" h2="On Premise Java API to convert DOC to CSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOC to CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to CSV.
+
+Converting a DOC file to CSV format can be easily done with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides a comprehensive set of tools for developers to work with a variety of document formats. The process of converting a DOC file to CSV involves two steps.
+
+The first step is to export the DOC file to HTML format using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, convert, and print documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, HTML, and more. With Aspose.Words for Java, you can easily export a DOC file to HTML format.
+
+The second step is to convert the HTML file to CSV format using Aspose.Cells for Java. Aspose.Cells for Java is a powerful spreadsheet processing API that enables developers to create, manipulate, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including CSV, XLS, XLSX, and more. With Aspose.Cells for Java, you can easily convert an HTML file to CSV format.
+
+By using Aspose.Total for Java, you can easily convert a DOC file to CSV format in just two steps. Aspose.Total for Java provides a comprehensive set of tools for developers to work with a variety of document formats, making it an ideal choice for converting DOC to CSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -24,7 +32,7 @@ otherformats: XLSM XLT ODS TSV XLS XLSB FODS DIF XLTX XLAM XLSX XLTM SXC EXCEL
 4. Save the document to CSV format using [Save](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#save(java.lang.String,%20com.aspose.cells.SaveOptions)) method
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Java File Automation APIs" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 You can easily use Aspose.Total for Java directly from a [Maven](https://releases.aspose.com/total/java/) based project and include [Aspose.Words for Java](https://docs.aspose.com/words/java/installation/) and [Aspose.Cells for Java](https://docs.aspose.com/cells/java/installation/) in your pom.xml.
 
 Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/total/java).
