@@ -9,7 +9,7 @@ description: Short script code to generate barcodes using Python. Barcodes can b
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Barcodes have become an essential component for numerous businesses across various industries. They enable efficient tracking, inventory management, and data collection processes. As businesses rely heavily on software solutions to handle their operations, it is crucial to have reliable barcode generation capabilities integrated into these software systems. One such solution is the Aspose.BarCode for Python via .NET API, which is a part of the Aspose.Total for Python via .NET APIs package. This powerful API offers a wide range of features to cater to the diverse needs of businesses.
+Barcodes have become an essential component for numerous businesses across various industries. They enable efficient tracking, inventory management, and data collection processes. As businesses rely heavily on software solutions to handle their operations, it is crucial to have reliable barcode generation capabilities integrated into these software systems. One such solution is the [Aspose.BarCode for Python via .NET](https://products.aspose.com/barcode/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) APIs package, which is a part of the Aspose.Total for Python via .NET APIs package. This powerful API offers a wide range of features to cater to the diverse needs of businesses.
 
 <h2>Barcode Appearance Customization</h2>
 
@@ -23,7 +23,7 @@ To accommodate the diverse needs of different industries, the Aspose.BarCode API
 
 The procedure for creating barcodes using the Aspose.BarCode API is straightforward and easy to follow. Here is a step-by-step guide:
 
-- Install the Aspose.BarCode for Python via .NET API package.
+- Install the [Aspose.BarCode for Python via .NET](https://products.aspose.com/barcode/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) APIs package.
 - Import the necessary modules and dependencies into your Python project.
 - Initialize the barcode generation process by creating an instance of the BarcodeGenerator class.
 - Set the desired properties for the barcode, such as symbology, text, size, and color.
@@ -34,7 +34,7 @@ By following these simple steps, businesses can quickly integrate barcode genera
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="How to Generate Barcode using Python" %}}
+{{% blocks/products/pf/feature-page-section  h2="How to Generate Barcode using Python?" %}}
 
 To generate barcodes of any symbology using the Aspose.BarCode API, you can utilize the BarcodeGenerator class. This class takes encoding types as parameters, which define the type of barcode symbology to be used. Whether it's a 1D, 2D, or postal barcode, the encoding type selection allows you to generate the desired barcode.
 <br /><br />
