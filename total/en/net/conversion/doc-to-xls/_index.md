@@ -13,7 +13,16 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to XLS via C# or Online App" h2="Convert DOC to XLS via C# or Online App without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOC to XLS  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily create, manipulate, and convert documents within any .NET, C#, ASP.NET and VB.NET application. It provides a wide range of features and capabilities, including the ability to convert DOC to XLS. This can be achieved in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export the DOC file to HTML. Aspose.Words for .NET is a powerful .NET Word processing API that enables developers to create, read, modify, and convert Word documents without using Microsoft Word. It provides a wide range of features and capabilities, including the ability to export DOC to HTML. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML to XLS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, modify, and convert spreadsheets without using Microsoft Excel. It provides a wide range of features and capabilities, including the ability to convert HTML to XLS. 
+
+By using Aspose.Total for .NET, developers can easily convert DOC to XLS within any .NET, C#, ASP.NET and VB.NET application. It provides a simple and efficient way to convert documents without the need for any additional software or libraries.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

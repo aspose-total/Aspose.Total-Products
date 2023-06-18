@@ -13,7 +13,18 @@ otherformats: DOTM OTT MHTML ODT DOCM PCL DOT FLATOPC DOTX PS WORDML MARKDOWN
 {{< blocks/products/pf/feature-page-header h1="Render TEX to RTF via .NET" h2=".NET API to Export TEX to RTF on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert TEX file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to RTF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides powerful document manipulation and conversion features for .NET applications. It includes the Aspose.PDF for .NET API, which enables developers to convert TEX file format to DOC. This API is equipped with advanced features such as text extraction, document splitting, page manipulation, and more. 
+
+Once the TEX file is converted to DOC, the Aspose.Words for .NET API can be used to render the DOC file to RTF. This API provides a wide range of features such as document comparison, mail merge, document protection, and more. It also supports a variety of document formats such as DOC, DOCX, ODT, HTML, and more. 
+
+Aspose.Total for .NET also includes APIs for other document formats such as Excel, PowerPoint, and Outlook. These APIs provide features such as spreadsheet manipulation, chart creation, presentation conversion, and more. 
+
+In addition, Aspose.Total for .NET also includes APIs for image manipulation, barcode generation, and email processing. These APIs provide features such as image conversion, barcode recognition, and email sending. 
+
+Overall, Aspose.Total for .NET is a powerful suite of APIs that provides a wide range of features for document manipulation and conversion. It includes APIs for PDF, Word, Excel, PowerPoint, Outlook, image manipulation, barcode generation, and email processing. With these APIs, developers can easily add document manipulation and conversion features to their .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

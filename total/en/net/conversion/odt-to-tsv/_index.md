@@ -13,7 +13,16 @@ otherformats: EXCEL FODS XLSB XLSX XLT CSV ODS XLS XLTM SXC XLTX XLAM XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert ODT to TSV or Online App" h2="Export ODT to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include ODT to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export ODT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate ODT to TSV conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a wide range of features and capabilities that can help developers to quickly and easily create powerful applications.
+
+The process of converting ODT to TSV is simple and straightforward. It can be done in two steps. Firstly, using Aspose.Words for .NET, developers can export ODT to HTML. This powerful component provides a wide range of features and capabilities that can help developers to quickly and easily create powerful applications. It supports a wide range of document formats, including ODT, DOC, DOCX, RTF, HTML, and more.
+
+Once the ODT document has been converted to HTML, developers can use Aspose.Cells for .NET to convert HTML to TSV. This powerful Spreadsheet Programming API provides a wide range of features and capabilities that can help developers to quickly and easily create powerful applications. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, TSV, and more.
+
+By using Aspose.Total for .NET, developers can easily and quickly incorporate ODT to TSV conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a wide range of features and capabilities that can help developers to quickly and easily create powerful applications. It supports a wide range of document and spreadsheet formats, making it the perfect choice for developers who need to quickly and easily convert ODT to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

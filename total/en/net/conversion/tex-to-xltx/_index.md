@@ -13,7 +13,16 @@ otherformats: MD CSV TSV XLAM FODS TXT XLSB DIF EXCEL XLSM XLT XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render TEX to XLTX" h2="Export TEX File to XLTX via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert TEX file to XLTX within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to XLTX. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert TEX file to XLTX within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to convert TEX to XLSX and then XLTX.
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to XLSX. This component provides a wide range of features and capabilities that make it easy to convert TEX to XLSX. It supports a wide range of formats, including PDF, XPS, TIFF, HTML, and more. It also provides a range of features such as text extraction, image extraction, and more.
+
+Once the TEX file has been converted to XLSX, the next step is to use Aspose.Cells for .NET to convert XLSX to XLTX. This component provides a wide range of features and capabilities that make it easy to convert XLSX to XLTX. It supports a wide range of formats, including XLSX, XLS, CSV, and more. It also provides a range of features such as formatting, data validation, and more.
+
+By using Aspose.Total for .NET, developers can easily convert TEX file to XLTX within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to convert TEX to XLSX and then XLTX. It supports a wide range of formats, provides a range of features, and is easy to use.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

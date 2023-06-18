@@ -13,7 +13,16 @@ otherformats: TSV XLS XLTM CSV XLSX XLSM DIF ODS EXCEL XLT XLTX XLSB XLAM SXC
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOTX to FODS or Online App" h2="Export DOTX to FODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOTX to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to FODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily include DOTX to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities, including the ability to convert DOTX to FODS. The process of converting DOTX to FODS is simple and straightforward, and can be completed in two easy steps.
+
+The first step is to use Aspose.Words for .NET to export the DOTX file to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to easily create, edit, and convert documents in a variety of formats, including DOTX. With Aspose.Words for .NET, developers can quickly and easily export DOTX files to HTML.
+
+The second step is to use Aspose.Cells for .NET to convert the HTML to FODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to easily create, edit, and convert spreadsheets in a variety of formats, including FODS. With Aspose.Cells for .NET, developers can quickly and easily convert HTML to FODS.
+
+By using Aspose.Total for .NET, developers can quickly and easily include DOTX to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities, including the ability to convert DOTX to FODS in two simple steps. With Aspose.Total for .NET, developers can quickly and easily create, edit, and convert documents and spreadsheets in a variety of formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

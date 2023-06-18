@@ -13,7 +13,16 @@ otherformats: CSV FODS XLSM EXCEL TXT SXC XLAM ODS DIF XLSB XLT MD
 {{< blocks/products/pf/feature-page-header h1="C# API to Render CGM to TSV" h2="Export CGM File to TSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert CGM file to TSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export CGM to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert CGM files to TSV within any .NET, C#, ASP.NET and VB.NET applications. The conversion process involves two steps. 
+
+The first step is to use Aspose.PDF for .NET to export the CGM file to XLSX. Aspose.PDF for .NET is a powerful library that enables developers to create, read, edit, and convert PDF documents within .NET applications. It supports a wide range of features, including the ability to export CGM files to XLSX. 
+
+The second step is to use Aspose.Cells for .NET to convert the XLSX file to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, and convert spreadsheets within .NET applications. It supports a wide range of features, including the ability to convert XLSX files to TSV. 
+
+Using Aspose.Total for .NET, developers can easily convert CGM files to TSV within any .NET, C#, ASP.NET and VB.NET applications. The conversion process involves two steps: exporting the CGM file to XLSX using Aspose.PDF for .NET, and then converting the XLSX file to TSV using Aspose.Cells for .NET. Both components are included in the Aspose.Total for .NET suite, making it easy for developers to quickly and easily convert CGM files to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

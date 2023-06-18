@@ -13,7 +13,16 @@ otherformats: SXC FODS XLSB XLT EXCEL XLSX XLTM ODS CSV XLAM XLSM XLTX XLS TSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to DIF or Online App" h2="Export OTT to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include OTT to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting OTT to DIF. 
+
+The first step involves using Aspose.Words for .NET to export OTT to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, and convert documents in a variety of formats, including OTT. It provides a wide range of features, such as document manipulation, document conversion, document comparison, and document protection. With Aspose.Words for .NET, developers can easily export OTT to HTML. 
+
+The second step involves using Aspose.Cells for .NET to convert HTML to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets in a variety of formats, including DIF. It provides a wide range of features, such as spreadsheet manipulation, spreadsheet conversion, spreadsheet comparison, and spreadsheet protection. With Aspose.Cells for .NET, developers can easily convert HTML to DIF. 
+
+By using Aspose.Total for .NET, developers can easily include OTT to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting OTT to DIF. With Aspose.Words for .NET, developers can easily export OTT to HTML. And with Aspose.Cells for .NET, developers can easily convert HTML to DIF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

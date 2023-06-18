@@ -13,7 +13,16 @@ otherformats: EMZ APNG SVGZ IMAGE WMF  JPEG2000 WMZ DXF PSD DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert CGM file to TGA via C#" h2="Export CGM to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export CGM to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export CGM to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export CGM to TGA image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export CGM to TGA image. 
+
+The process of exporting CGM to TGA image is quite simple and can be done in two steps. First, you need to use Aspose.PDF for .NET to export CGM to JPEG. This component provides a wide range of features that can be used to manipulate PDF documents. It also allows you to export CGM to JPEG with just a few lines of code. 
+
+Once you have exported CGM to JPEG, you can then use Aspose.Imaging for .NET to convert JPEG to TGA. This component provides a comprehensive set of image processing features that can be used to manipulate various image formats. It also allows you to convert JPEG to TGA with just a few lines of code. 
+
+Overall, Aspose.Total for .NET is a great suite of components that can be used to easily export CGM to TGA image within any .NET applications. It provides a wide range of features that can be used to manipulate PDF documents and various image formats. With just a few lines of code, you can easily export CGM to TGA image with Aspose.Total for .NET.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

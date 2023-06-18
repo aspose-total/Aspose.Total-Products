@@ -13,7 +13,16 @@ otherformats: XLSX FODS CSV DIF ODS TSV XLS XLAM XLSM EXCEL XLT XLSB XLTM XLTX
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOC to SXC or Online App" h2="Export DOC to SXC via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOC to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to SXC. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate DOC to SXC conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a wide range of features and capabilities, including the ability to convert DOC to SXC. The process of converting DOC to SXC can be completed in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export the DOC file to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, read, write and modify Word documents without using Microsoft Word. It also provides the ability to export DOC files to HTML, which is the format required for the next step. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to SXC. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, write and modify Excel spreadsheets without using Microsoft Excel. It also provides the ability to convert HTML files to SXC, which is the format required for the final output. 
+
+By using Aspose.Total for .NET, developers can easily incorporate DOC to SXC conversion feature into their .NET, C#, ASP.NET and VB.NET applications. The process is simple and straightforward, and requires only two steps. First, use Aspose.Words for .NET to export the DOC file to HTML. Then, use Aspose.Cells for .NET to convert the HTML file to SXC. With Aspose.Total for .NET, developers can quickly and easily add DOC to SXC conversion feature to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

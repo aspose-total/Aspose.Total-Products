@@ -13,7 +13,16 @@ otherformats: MARKDOWN ODS XLSB SXC CSV XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TSV
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to FODS via C# or Online App" h2=".NET API for PPSX to FODS conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPSX file to FODS within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPSX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to FODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications. With Aspose.Total for .NET, you can easily convert PPSX file to FODS in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export the PPSX file to HTML. Aspose.Slides for .NET is a powerful .NET library that enables developers to create, read, write and modify PowerPoint presentations without using Microsoft PowerPoint. It also provides the ability to export presentations to HTML format. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to FODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert various spreadsheet file formats within their .NET applications. It provides the ability to convert HTML files to FODS format. 
+
+By using Aspose.Total for .NET, you can easily convert PPSX file to FODS within any .NET, C#, ASP.NET and VB.NET application. It is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET applications. With Aspose.Total for .NET, you can easily convert PPSX file to FODS in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

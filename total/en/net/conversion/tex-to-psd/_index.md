@@ -13,7 +13,16 @@ otherformats: SVGZ EMZ WMF IMAGE JPEG2000 APNG  WMZ DXF TGA DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to PSD via C#" h2="Export TEX to PSD within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to PSD image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to PSD. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export TEX to PSD images within any .NET application. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, two powerful components that make it easy to convert TEX to PSD.
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to JPEG. This component provides a wide range of features that make it easy to convert TEX to JPEG, including the ability to set the resolution, image quality, and compression level. Additionally, Aspose.PDF for .NET supports a variety of image formats, including JPEG, PNG, TIFF, and BMP.
+
+Once the TEX has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to PSD. This component provides a comprehensive set of features for image processing, including the ability to resize, crop, rotate, and flip images. Additionally, Aspose.Imaging for .NET supports a variety of image formats, including PSD, GIF, TIFF, and BMP.
+
+Using Aspose.Total for .NET, developers can easily export TEX to PSD images within any .NET application in just two simple steps. First, Aspose.PDF for .NET is used to export TEX to JPEG. Then, Aspose.Imaging for .NET is used to convert the JPEG to PSD. This suite of components provides a comprehensive set of features for image processing, making it easy to convert TEX to PSD.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

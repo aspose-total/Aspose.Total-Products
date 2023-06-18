@@ -13,7 +13,14 @@ otherformats: FODS XLAM XLSB XLT EXCEL SXC DIF XLTM XLSX ODS TSV CSV XLSM XLTX
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to XLS or Online App" h2="Export OTT to XLS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate OTT to XLS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides developers with the tools they need to quickly and easily create applications that can convert OTT to XLS. 
+
+The process of converting OTT to XLS is simple and straightforward. The first step is to use Aspose.Words for .NET to export OTT to HTML. This powerful component provides developers with the ability to quickly and easily convert OTT documents to HTML. Once the OTT document has been converted to HTML, the next step is to use Aspose.Cells for .NET Spreadsheet Programming API to convert the HTML to XLS. This powerful component provides developers with the ability to quickly and easily convert HTML documents to XLS. 
+
+Aspose.Total for .NET is an ideal solution for developers who need to quickly and easily incorporate OTT to XLS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides developers with the tools they need to quickly and easily create applications that can convert OTT to XLS. With Aspose.Total for .NET, developers can easily and quickly incorporate OTT to XLS conversion feature into their applications in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

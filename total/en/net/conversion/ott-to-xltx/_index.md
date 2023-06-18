@@ -13,7 +13,16 @@ otherformats: FODS DIF XLAM CSV XLSX SXC ODS TSV XLSM EXCEL XLS XLTM XLT XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to XLTX or Online App" h2="Export OTT to XLTX via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to XLTX conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLTX. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications. It includes powerful APIs for Word, Excel, PowerPoint, PDF, Email, Project, Barcode, OCR and many more. With Aspose.Total for .NET, developers can easily add OTT to XLTX conversion feature to their applications in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export OTT to HTML. Aspose.Words for .NET is a powerful Word Processing API that enables developers to create, edit, convert and print Word documents within their .NET applications. It supports a wide range of file formats including DOC, DOCX, ODT, OTT, HTML, MHTML, PDF, XPS, EPUB, XAML and many more. It also provides a wide range of features such as document manipulation, mail merge, document comparison, document protection, document conversion, document rendering, document printing and much more. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to XLTX. Aspose.Cells for .NET is a powerful Spreadsheet Programming API that enables developers to create, manipulate and convert spreadsheets within their .NET applications. It supports a wide range of file formats including XLS, XLSX, XLSM, XLSB, XLTX, CSV, HTML, ODS, PDF, XPS, TXT and many more. It also provides a wide range of features such as spreadsheet manipulation, formula calculation engine, charting, pivot tables, data validation, conditional formatting, worksheet protection, worksheet to image conversion, worksheet to PDF conversion and much more. 
+
+By using Aspose.Total for .NET, developers can easily add OTT to XLTX conversion feature to their applications in two simple steps. It is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

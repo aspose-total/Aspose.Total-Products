@@ -13,7 +13,16 @@ otherformats: EXCEL XLTX ODS XLTM XLSB XLT FODS MD XLSM SXC CSV XLAM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render PDF to TSV" h2="Export PDF File to TSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert PDF file to TSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PDF to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily convert PDF files to TSV within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export the PDF to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert the XLSX to TSV.
+
+Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, convert and print PDF documents within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, annotation, form filling, and much more. With this API, developers can easily export PDF files to XLSX format.
+
+Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, and convert spreadsheets within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, annotation, form filling, and much more. With this API, developers can easily convert XLSX files to TSV format.
+
+Using Aspose.Total for .NET, developers can easily convert PDF files to TSV within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export the PDF to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert the XLSX to TSV. This process is simple and efficient, and can be used to quickly convert PDF files to TSV format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

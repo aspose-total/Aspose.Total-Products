@@ -13,7 +13,16 @@ otherformats: SXC CSV ODS XLSX EXCEL XLAM XLT XLSM XLTX TSV XLTM FODS XLSB XLS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORD to DIF or Online App" h2="Export WORD to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORD to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORD to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate WORD to DIF conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting WORD documents to DIF format. 
+
+The first step involves using Aspose.Words for .NET to export WORD documents to HTML. This component is a powerful .NET library that enables developers to create, read, write and modify WORD documents without using Microsoft Word. It supports a wide range of features, including document manipulation, formatting, mail merge, reporting, and much more. With Aspose.Words for .NET, developers can easily convert WORD documents to HTML with just a few lines of code. 
+
+The second step involves using Aspose.Cells for .NET to convert HTML to DIF. This component is a powerful spreadsheet programming API that enables developers to create, read, write and modify Excel spreadsheets without using Microsoft Excel. It supports a wide range of features, including data manipulation, formatting, charting, reporting, and much more. With Aspose.Cells for .NET, developers can easily convert HTML to DIF with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate WORD to DIF conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting WORD documents to DIF format. With Aspose.Words for .NET, developers can export WORD documents to HTML and with Aspose.Cells for .NET, developers can convert HTML to DIF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

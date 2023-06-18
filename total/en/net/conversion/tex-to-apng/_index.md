@@ -13,7 +13,16 @@ otherformats: JPEG2000  PSD TGA DXF EMZ SVGZ WMZ IMAGE WMF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to APNG via C#" h2="Export TEX to APNG within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to APNG image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to APNG. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export TEX to APNG image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are both powerful APIs that can be used to achieve this goal. 
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to JPEG. This API provides a wide range of features that make it easy to convert TEX to JPEG. It supports a variety of formats, including TEX, PDF, HTML, and more. It also provides a range of options for customizing the output, such as setting the resolution, color depth, and more. 
+
+Once the TEX has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to APNG. This API provides a range of features for image processing, including resizing, cropping, rotating, and more. It also supports a variety of image formats, including JPEG, PNG, BMP, and more. With this API, you can easily convert JPEG to APNG with just a few lines of code. 
+
+By using Aspose.Total for .NET, you can easily export TEX to APNG image within any .NET applications in two simple steps. First, you can use Aspose.PDF for .NET to export TEX to JPEG. Then, you can use Aspose.Imaging for .NET to convert the JPEG to APNG. With this suite of APIs, you can quickly and easily convert TEX to APNG with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

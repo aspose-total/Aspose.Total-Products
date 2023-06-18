@@ -13,7 +13,16 @@ otherformats: XLS XLT XLTM SXC XLAM XLSB XLTX DIF EXCEL XLSX ODS XLSM TSV CSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert ODT to FODS or Online App" h2="Export ODT to FODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include ODT to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export ODT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to FODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate ODT to FODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple and efficient way to convert ODT to FODS in two easy steps. 
+
+The first step is to use Aspose.Words for .NET to export ODT to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert and print Word documents without using Microsoft Word. It supports a wide range of document formats, including ODT, DOC, DOCX, RTF, HTML, PDF, XPS, EPUB and many more. With Aspose.Words for .NET, developers can easily convert ODT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to FODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, ODS, HTML, PDF, XPS, EPUB and many more. With Aspose.Cells for .NET, developers can easily convert HTML to FODS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate ODT to FODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple and efficient way to convert ODT to FODS in two easy steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

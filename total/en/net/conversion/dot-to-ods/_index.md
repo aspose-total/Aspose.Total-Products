@@ -13,7 +13,16 @@ otherformats: XLSB XLTX DIF TSV CSV EXCEL SXC XLS XLT XLSX FODS XLSM XLTM XLAM
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to ODS or Online App" h2="Export DOT to ODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate DOT to ODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOT to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, read, edit, and convert Microsoft Word documents without using Microsoft Word. It supports a wide range of document formats, including DOT, DOC, DOCX, HTML, ODT, PDF, and many more. With Aspose.Words for .NET, developers can easily convert DOT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to ODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, and convert Microsoft Excel and OpenOffice spreadsheets without using Microsoft Excel or OpenOffice. It supports a wide range of spreadsheet formats, including ODS, XLS, XLSX, HTML, PDF, and many more. With Aspose.Cells for .NET, developers can easily convert HTML to ODS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily incorporate DOT to ODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. It is a comprehensive suite of .NET components that enables developers to quickly and easily create, read, edit, and convert documents and spreadsheets without using Microsoft Word or Excel. It supports a wide range of document and spreadsheet formats, including DOT, DOC, DOCX, HTML, ODT, ODS, XLS, XLSX, PDF, and many more.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

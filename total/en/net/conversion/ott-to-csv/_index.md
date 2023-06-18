@@ -13,7 +13,16 @@ otherformats: DIF EXCEL XLT XLS FODS TSV ODS SXC XLAM XLSX XLSB XLSM XLTM XLTX
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to CSV or Online App" h2="Export OTT to CSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include OTT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export OTT to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, convert, render and print documents without using Microsoft Word. It supports a wide range of document formats, including OTT, and provides a comprehensive set of features for manipulating documents. With Aspose.Words for .NET, developers can easily convert OTT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET Spreadsheet Programming API to convert HTML to CSV. Aspose.Cells for .NET is a powerful .NET component that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including CSV, and provides a comprehensive set of features for manipulating spreadsheets. With Aspose.Cells for .NET, developers can easily convert HTML to CSV with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily include OTT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps, using Aspose.Words for .NET to export OTT to HTML and Aspose.Cells for .NET to convert HTML to CSV. With Aspose.Total for .NET, developers can quickly and easily add this feature to their applications, saving time and effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

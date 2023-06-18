@@ -13,7 +13,16 @@ otherformats: XLTM DIF XLAM XLT EXCEL XLTX XLSX CSV FODS TSV XLSM SXC XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORDML to ODS or Online App" h2="Export WORDML to ODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORDML to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORDML to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily add powerful document processing features to their applications. With Aspose.Total for .NET, developers can easily include WORDML to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export WORDML to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, read, modify and convert Word documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words for .NET, developers can easily convert WORDML to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to ODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, ODS, HTML, PDF and other formats. With Aspose.Cells for .NET, developers can easily convert HTML to ODS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily include WORDML to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. This feature can be implemented quickly and easily, and it can save developers time and effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

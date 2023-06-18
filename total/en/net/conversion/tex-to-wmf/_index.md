@@ -13,7 +13,16 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ APNG DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to WMF via C#" h2="Export TEX to WMF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to WMF image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to WMF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily export TEX to WMF image within any .NET applications. This suite of APIs provides a wide range of features and capabilities that can be used to create, manipulate, convert, and render documents and images. 
+
+The process of exporting TEX to WMF image involves two simple steps. First, you need to use Aspose.PDF for .NET to export TEX to JPEG. This API provides a wide range of features and capabilities that can be used to create, manipulate, convert, and render PDF documents. It also provides the ability to convert TEX to JPEG. 
+
+Once you have the JPEG image, you can use Aspose.Imaging for .NET to convert it to WMF. This API provides a wide range of features and capabilities that can be used to create, manipulate, convert, and render images. It also provides the ability to convert JPEG to WMF. 
+
+By using Aspose.Total for .NET, you can easily export TEX to WMF image within any .NET applications. This suite of APIs provides a wide range of features and capabilities that can be used to create, manipulate, convert, and render documents and images. It also provides the ability to convert TEX to JPEG and then convert JPEG to WMF. This makes it easy to export TEX to WMF image within any .NET applications in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

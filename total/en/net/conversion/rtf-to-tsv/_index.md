@@ -13,7 +13,16 @@ otherformats: FODS XLAM EXCEL XLSX SXC DIF XLSM ODS XLTX XLSB CSV XLS XLTM XLT
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to TSV or Online App" h2="Export RTF to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include RTF to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting RTF to TSV. 
+
+The first step involves using Aspose.Words for .NET to export RTF to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, convert, and print documents without using Microsoft Word. It supports a wide range of document formats, including RTF, HTML, DOC, DOCX, ODT, and PDF. With Aspose.Words for .NET, developers can easily convert RTF to HTML. 
+
+The second step involves using Aspose.Cells for .NET to convert HTML to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, HTML, and TSV. With Aspose.Cells for .NET, developers can easily convert HTML to TSV. 
+
+By using Aspose.Total for .NET, developers can quickly and easily include RTF to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting RTF to TSV. With Aspose.Words for .NET, developers can export RTF to HTML. Then, with Aspose.Cells for .NET, developers can convert HTML to TSV. Aspose.Total for .NET is the perfect solution for developers who need to include RTF to TSV conversion feature within their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

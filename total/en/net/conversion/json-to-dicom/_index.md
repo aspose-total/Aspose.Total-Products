@@ -13,7 +13,16 @@ otherformats: APNG IMAGE SVGZ TGA WMZ WMF PSD EMZ DXF JPEG2000
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to DICOM via C#" h2="C# API to parse JSON to DICOM without using third party dependencies" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can parse JSON to DICOM  within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), you can export JSON to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/), you can convert JPEG to DICOM. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily parse JSON to DICOM within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting JSON to DICOM. 
+
+The first step is to use Aspose.Cells for .NET to export JSON to JPEG. This component is a powerful spreadsheet processing API that enables developers to create, manipulate, convert and render spreadsheets in a variety of formats. It supports a wide range of features, including the ability to export JSON to JPEG. 
+
+The second step is to use Aspose.Imaging for .NET to convert JPEG to DICOM. This component is a powerful imaging API that enables developers to create, edit, convert and render images in a variety of formats. It supports a wide range of features, including the ability to convert JPEG to DICOM. 
+
+By using Aspose.Total for .NET, developers can quickly and easily parse JSON to DICOM within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting JSON to DICOM. First, developers can use Aspose.Cells for .NET to export JSON to JPEG. Then, they can use Aspose.Imaging for .NET to convert JPEG to DICOM. With Aspose.Total for .NET, developers can quickly and easily parse JSON to DICOM within any .NET application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

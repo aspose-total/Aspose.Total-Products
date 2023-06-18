@@ -13,7 +13,16 @@ otherformats: XLT TXT XLSM XLSB MD XLAM FODS ODS SXC EXCEL TSV CSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MHTML to DIF" h2="Export MHTML File to DIF via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML file to DIF within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert MHTML files to DIF within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a powerful set of features that make it easy to manipulate and convert documents of various formats. 
+
+The process of converting MHTML to DIF involves two steps. Firstly, Aspose.PDF for .NET can be used to export MHTML to XLSX. This component provides a wide range of features that make it easy to manipulate PDF documents. It supports a variety of features such as text extraction, document conversion, document signing, and more. 
+
+Once the MHTML file has been converted to XLSX, Aspose.Cells for .NET can be used to convert the XLSX to DIF. This component provides a comprehensive set of features that make it easy to manipulate spreadsheets. It supports a variety of features such as data import/export, formula calculation, charting, and more. 
+
+By using Aspose.Total for .NET, developers can easily convert MHTML files to DIF within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly exporting MHTML to XLSX using Aspose.PDF for .NET, and then converting XLSX to DIF using Aspose.Cells for .NET. Both components provide a wide range of features that make it easy to manipulate and convert documents of various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: EXCEL FODS CSV XLSM XLAM XLTM TSV ODS XLTX DIF XLS XLSB XLSX XLT
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORDML to SXC or Online App" h2="Export WORDML to SXC via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORDML to SXC conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORDML to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to SXC. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include WORDML to SXC conversion feature in their .NET, C#, ASP.NET and VB.NET applications. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export WORDML to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert and print Word documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. It also provides a comprehensive set of features for manipulating and converting Word documents. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to SXC. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, XLSM, XLSB, CSV, ODS, SpreadsheetML, HTML, PDF, XPS, EPUB and other formats. It also provides a comprehensive set of features for manipulating and converting spreadsheets. 
+
+By using Aspose.Total for .NET, developers can easily include WORDML to SXC conversion feature in their .NET, C#, ASP.NET and VB.NET applications. It provides a simple and efficient way to convert WORDML to SXC without any manual intervention. It also ensures that the converted documents are of the highest quality and accuracy.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

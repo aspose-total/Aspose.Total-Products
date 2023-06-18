@@ -13,7 +13,16 @@ otherformats: XLAM XLS DIF CSV XLTX ODS TSV FODS XLSB XLT XLSX EXCEL XLSM SXC
 {{< blocks/products/pf/feature-page-header h1="Convert DOT to JSON Format via C#" h2="Parse DOT to JSON via C# without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOT to JSON format within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to JSON. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily convert DOT to JSON format within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of APIs provides a simple two-step process to convert DOT to JSON. 
+
+The first step is to use Aspose.Words for .NET to export DOT to HTML. Aspose.Words for .NET is a powerful .NET API that enables developers to create, edit, convert, and manipulate Microsoft Word documents without using Microsoft Office. It provides a wide range of features such as document manipulation, document conversion, mail merge, and more. With Aspose.Words for .NET, developers can easily export DOT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to JSON. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert Microsoft Excel spreadsheets without using Microsoft Office. It provides a wide range of features such as spreadsheet manipulation, spreadsheet conversion, formula calculation, and more. With Aspose.Cells for .NET, developers can easily convert HTML to JSON with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily convert DOT to JSON format within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of APIs provides a simple two-step process to convert DOT to JSON. With Aspose.Words for .NET, developers can easily export DOT to HTML and with Aspose.Cells for .NET, developers can easily convert HTML to JSON.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

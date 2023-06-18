@@ -13,7 +13,16 @@ otherformats: XLTX XLAM XLSB ODS XLSM SXC XLT EXCEL TSV XLSX DIF CSV FODS XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to XLS or Online App" h2="Export RTF to XLS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate RTF to XLS conversion feature into any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting RTF to XLS. 
+
+The first step involves using Aspose.Words for .NET to export RTF to HTML. This component is a powerful .NET Word processing API that enables developers to create, read, edit, and convert Word documents without using Microsoft Word. It supports a wide range of features, including document manipulation, formatting, mail merge, and more. 
+
+The second step involves using Aspose.Cells for .NET to convert HTML to XLS. This component is a powerful spreadsheet programming API that enables developers to create, read, edit, and convert Excel spreadsheets without using Microsoft Excel. It supports a wide range of features, including charting, formatting, data validation, and more. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate RTF to XLS conversion feature into any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting RTF to XLS, making it easy to create, read, edit, and convert Word and Excel documents without using Microsoft Word or Excel.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

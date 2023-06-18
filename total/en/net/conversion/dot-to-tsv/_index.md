@@ -13,7 +13,16 @@ otherformats: XLS EXCEL XLT XLTX XLAM XLSM XLTM DIF CSV XLSX ODS XLSB FODS SXC
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to TSV or Online App" h2="Export DOT to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include DOT to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOT to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert and print Word documents without using Microsoft Word. It supports a wide range of document formats, including DOT, DOC, DOCX, HTML, PDF, RTF, TXT and many more. With Aspose.Words for .NET, developers can easily convert DOT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, HTML, ODS, PDF and many more. With Aspose.Cells for .NET, developers can easily convert HTML to TSV with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily include DOT to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps, by using Aspose.Words for .NET to export DOT to HTML and Aspose.Cells for .NET to convert HTML to TSV. Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, edit, convert and print documents and spreadsheets without using Microsoft Office.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

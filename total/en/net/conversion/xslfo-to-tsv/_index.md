@@ -13,7 +13,16 @@ otherformats: XLSM DIF XLSB SXC MD FODS XLAM XLT XLTX CSV ODS TXT
 {{< blocks/products/pf/feature-page-header h1="C# API to Render XSLFO to TSV" h2="Export XSLFO File to TSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XSLFO file to TSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XSLFO to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert XSLFO files to TSV within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export XSLFO to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to TSV. 
+
+Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, convert and print PDF documents from within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, annotation, form filling, bookmarks, watermarks, digital signatures, and much more. It also provides the ability to export XSLFO to XLSX. 
+
+Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, convert and print spreadsheets from within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, annotation, form filling, bookmarks, watermarks, digital signatures, and much more. It also provides the ability to convert XLSX to TSV. 
+
+Using Aspose.Total for .NET, developers can easily convert XSLFO files to TSV within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export XSLFO to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to TSV. This makes it easy for developers to quickly and easily convert XSLFO files to TSV without having to write any complex code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

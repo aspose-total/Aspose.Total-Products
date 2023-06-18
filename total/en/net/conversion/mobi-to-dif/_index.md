@@ -13,7 +13,16 @@ otherformats: XLTM CSV XLSB FODS TSV XLS XLAM XLT XLSX SXC XLSM ODS XLTX EXCEL
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert MOBI to DIF or Online App" h2="Export MOBI to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include MOBI to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export MOBI to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include MOBI to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities that can be used to create, manipulate, and convert documents, spreadsheets, and other file formats. 
+
+The process of converting MOBI to DIF is simple and straightforward. It can be done in two steps. Firstly, you can use Aspose.Words for .NET to export MOBI to HTML. This component provides a wide range of features and capabilities that can be used to create, manipulate, and convert documents. It also supports a variety of document formats, including MOBI. 
+
+Once the MOBI file has been converted to HTML, you can use Aspose.Cells for .NET to convert HTML to DIF. This powerful Spreadsheet Programming API provides a wide range of features and capabilities that can be used to create, manipulate, and convert spreadsheets. It also supports a variety of spreadsheet formats, including DIF. 
+
+By using Aspose.Total for .NET, you can easily include MOBI to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This comprehensive suite of components provides a wide range of features and capabilities that can be used to create, manipulate, and convert documents, spreadsheets, and other file formats. The process of converting MOBI to DIF is simple and straightforward, and can be done in two steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

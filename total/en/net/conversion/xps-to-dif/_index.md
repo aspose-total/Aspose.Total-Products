@@ -13,7 +13,16 @@ otherformats: FODS MD CSV XLTX SXC XLAM XLSB XLTM TSV ODS TXT XLSM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render XPS to DIF" h2="Export XPS File to DIF via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XPS file to DIF within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XPS to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate, convert and render a wide range of file formats within any .NET, C#, ASP.NET and VB.NET applications. It provides a comprehensive set of APIs to work with Microsoft Office, PDF, CAD, Image, Project and other file formats. 
+
+Using Aspose.Total for .NET, you can easily convert XPS file to DIF. Firstly, you need to use Aspose.PDF for .NET to export XPS to XLSX. Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, convert and print PDF documents within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features to work with PDF documents, such as create, edit, convert, split, merge, compress, sign, watermark, annotate, search, extract text and images, etc. 
+
+After that, you can use Aspose.Cells for .NET to convert XLSX to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, convert and render spreadsheets within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features to work with spreadsheets, such as create, edit, format, calculate, protect, encrypt, convert, split, merge, compare, search, sort, etc. 
+
+In conclusion, Aspose.Total for .NET provides a comprehensive set of APIs to easily convert XPS file to DIF within any .NET, C#, ASP.NET and VB.NET applications. It enables developers to export XPS to XLSX using Aspose.PDF for .NET and then convert XLSX to DIF using Aspose.Cells for .NET.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

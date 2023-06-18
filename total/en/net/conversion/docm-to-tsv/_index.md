@@ -13,7 +13,16 @@ otherformats: FODS SXC XLTM EXCEL ODS XLS XLAM CSV XLSX XLTX XLT XLSB XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOCM to TSV or Online App" h2="Export DOCM to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOCM to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include DOCM to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a wide range of features and capabilities, allowing developers to quickly and easily create powerful applications.
+
+The process of converting DOCM to TSV is simple and straightforward. The first step is to use Aspose.Words for .NET to export the DOCM file to HTML. This component provides a wide range of features and capabilities, allowing developers to quickly and easily create powerful applications. It also provides a range of options for customizing the output HTML, such as setting the page size, margins, and font size.
+
+Once the DOCM file has been exported to HTML, the next step is to use Aspose.Cells for .NET to convert the HTML to TSV. This component provides a range of features and capabilities, allowing developers to quickly and easily create powerful applications. It also provides a range of options for customizing the output TSV, such as setting the delimiter, encoding, and column widths.
+
+In summary, Aspose.Total for .NET provides a comprehensive suite of components that enables developers to easily include DOCM to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. The process of converting DOCM to TSV is simple and straightforward, and can be completed in two simple steps. Firstly, by using Aspose.Words for .NET, developers can export the DOCM file to HTML. Secondly, by using Aspose.Cells for .NET, developers can convert the HTML to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

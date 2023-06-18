@@ -13,7 +13,16 @@ otherformats: IMAGE WMF APNG WMZ SVGZ EMZ  PSD DXF JPEG2000 DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MD file to TGA via C#" h2="Export MD to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MD to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MD to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export MD to TGA image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export MD to TGA image. 
+
+The first step in the process is to use Aspose.PDF for .NET to export MD to JPEG. This component provides a wide range of features that enable developers to easily create, edit, and manipulate PDF documents. It also provides the ability to export MD to JPEG, which is the first step in the process of converting MD to TGA. 
+
+Once the MD is exported to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to TGA. This component provides a comprehensive set of features for image processing, including the ability to convert between different image formats. It also provides the ability to resize, crop, rotate, and flip images, as well as to apply various effects and filters. With this component, developers can easily convert JPEG to TGA, which is the second step in the process of converting MD to TGA. 
+
+By using Aspose.Total for .NET, developers can easily export MD to TGA image within any .NET applications in two simple steps. First, they can use Aspose.PDF for .NET to export MD to JPEG. Then, they can use Aspose.Imaging for .NET to convert the JPEG to TGA. This suite of components provides developers with a powerful set of features for image processing, enabling them to easily convert MD to TGA image.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

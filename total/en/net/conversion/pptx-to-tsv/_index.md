@@ -13,7 +13,16 @@ otherformats: DIF MARKDOWN XLAM XLSM CSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to TSV via C# or Online App" h2=".NET API for PPTX to TSV conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPTX file to TSV within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily convert PPTX files to TSV within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting PPTX files to TSV.
+
+The first step is to use Aspose.Slides for .NET to export the PPTX file to HTML. Aspose.Slides for .NET is a powerful .NET component that enables developers to create, edit, and convert presentations in a variety of formats, including PPTX, PPT, ODP, and HTML. It also provides a wide range of features, such as the ability to add, delete, and modify slides, as well as the ability to add text, images, and shapes to slides.
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, edit, and convert spreadsheets in a variety of formats, including XLSX, XLS, CSV, and TSV. It also provides a wide range of features, such as the ability to add, delete, and modify cells, as well as the ability to add formulas and functions to cells.
+
+By using Aspose.Total for .NET, developers can quickly and easily convert PPTX files to TSV within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting PPTX files to TSV, making it an ideal solution for developers who need to quickly and easily convert PPTX files to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

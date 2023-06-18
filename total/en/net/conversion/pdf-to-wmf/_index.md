@@ -13,7 +13,16 @@ otherformats: SVGZ PSD EMZ DXF IMAGE TGA JPEG2000 WMZ APNG DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert PDF file to WMF via C#" h2="Export PDF to WMF within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export PDF to WMF image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PDF to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to WMF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export PDF to WMF image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export PDF to WMF image. 
+
+The process of exporting PDF to WMF image can be done in two simple steps. First, Aspose.PDF for .NET can be used to export PDF to JPEG. This component is a powerful PDF manipulation API that enables developers to create, read, edit, and convert PDF documents without any external dependencies. It also provides a wide range of features such as document manipulation, text extraction, image extraction, and more. 
+
+Once the PDF is exported to JPEG, Aspose.Imaging for .NET can be used to convert JPEG to WMF. This component is a powerful image processing API that enables developers to create, edit, and convert images in various formats. It also provides a wide range of features such as image manipulation, image conversion, image resizing, and more. 
+
+By using Aspose.Total for .NET, developers can easily export PDF to WMF image within any .NET applications. This suite provides a comprehensive set of components that can be used to create, read, edit, and convert PDF documents as well as manipulate and convert images in various formats. With this suite, developers can easily export PDF to WMF image in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

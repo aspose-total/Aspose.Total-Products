@@ -13,7 +13,16 @@ otherformats: XLAM XLTM EXCEL XLS CSV FODS XLSM SXC XLT XLTX DIF ODS XLSX XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert MOBI to TSV or Online App" h2="Export MOBI to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include MOBI to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export MOBI to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include MOBI to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a wide range of features and capabilities that can be used to create powerful applications. 
+
+The process of converting MOBI to TSV involves two simple steps. Firstly, Aspose.Words for .NET can be used to export MOBI to HTML. This component provides a wide range of features and capabilities that can be used to create powerful applications. It supports a wide range of document formats, including MOBI, and can be used to convert documents from one format to another. 
+
+Once the MOBI document has been converted to HTML, Aspose.Cells for .NET Spreadsheet Programming API can be used to convert HTML to TSV. This component provides a comprehensive set of features and capabilities that can be used to create powerful spreadsheet applications. It supports a wide range of spreadsheet formats, including TSV, and can be used to convert documents from one format to another. 
+
+By using Aspose.Total for .NET, developers can easily include MOBI to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a wide range of features and capabilities that can be used to create powerful applications. It supports a wide range of document and spreadsheet formats, and can be used to convert documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

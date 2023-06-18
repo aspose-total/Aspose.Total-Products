@@ -13,7 +13,16 @@ otherformats: XLAM DIF MD FODS XLTM XLSM TXT SXC XLSB XLTX TSV XLT
 {{< blocks/products/pf/feature-page-header h1="C# API to Render TEX to CSV" h2="Export TEX File to CSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert TEX file to CSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to CSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert TEX file to CSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to convert TEX to CSV. 
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to XLSX. This component provides a wide range of features and capabilities that make it easy to convert TEX to XLSX. It supports a wide range of features such as text extraction, image extraction, table extraction, and more. It also supports a wide range of formats such as PDF, XPS, TIFF, and more. 
+
+Once the TEX file has been converted to XLSX, the next step is to use Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to CSV. This component provides a wide range of features and capabilities that make it easy to convert XLSX to CSV. It supports a wide range of features such as data validation, cell formatting, charting, and more. It also supports a wide range of formats such as XLSX, XLS, CSV, and more. 
+
+By using Aspose.Total for .NET, developers can easily convert TEX file to CSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to convert TEX to CSV. It supports a wide range of features such as text extraction, image extraction, table extraction, data validation, cell formatting, charting, and more. It also supports a wide range of formats such as PDF, XPS, TIFF, XLSX, XLS, CSV, and more.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

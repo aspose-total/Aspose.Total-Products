@@ -13,7 +13,16 @@ otherformats: TSV SXC CSV XLSM XLAM XLT XLS FODS XLTM XLTX EXCEL XLSX ODS XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to DIF or Online App" h2="Export RTF to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily add powerful document processing features to their applications. With Aspose.Total for .NET, developers can easily include RTF to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export RTF to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, read, edit and convert documents in a variety of popular formats, including DOC, DOCX, RTF, HTML, PDF and ODT. It also provides a comprehensive set of features for manipulating and converting documents, including support for document layout, formatting, text manipulation, document comparison and more. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit and convert spreadsheets in a variety of popular formats, including XLS, XLSX, CSV, ODS, PDF and HTML. It also provides a comprehensive set of features for manipulating and converting spreadsheets, including support for formulas, charts, pivot tables, data validation, formatting and more. 
+
+By using Aspose.Total for .NET, developers can quickly and easily add powerful document processing features to their applications. With just two simple steps, developers can easily include RTF to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. Aspose.Total for .NET is the perfect solution for developers who need to quickly and easily add powerful document processing features to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

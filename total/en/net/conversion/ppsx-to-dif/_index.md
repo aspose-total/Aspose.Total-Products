@@ -13,7 +13,16 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM X
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to DIF via C# or Online App" h2=".NET API for PPSX to DIF conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPSX file to DIF within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPSX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features and capabilities, including the ability to convert PPSX files to DIF. This can be achieved in two simple steps.
+
+The first step is to use Aspose.Slides for .NET to export the PPSX file to HTML. Aspose.Slides for .NET is a powerful library that allows developers to create, manipulate and convert PowerPoint presentations within their .NET applications. It provides a wide range of features and capabilities, including the ability to export presentations to HTML.
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to DIF. Aspose.Cells for .NET is a powerful library that allows developers to create, manipulate and convert spreadsheets within their .NET applications. It provides a wide range of features and capabilities, including the ability to convert HTML files to DIF.
+
+By using Aspose.Total for .NET, developers can easily convert PPSX files to DIF within their .NET, C#, ASP.NET and VB.NET applications. It provides a simple and efficient way to convert PPSX files to DIF, without the need for any additional software or libraries. All that is required is to use Aspose.Slides for .NET to export the PPSX file to HTML, and then use Aspose.Cells for .NET to convert the HTML file to DIF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

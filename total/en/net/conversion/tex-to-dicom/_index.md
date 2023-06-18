@@ -13,7 +13,16 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 APNG TGA SVGZ PSD
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to DICOM via C#" h2="Export TEX to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export TEX to DICOM image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to achieve this goal. 
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to JPEG. This component provides a wide range of features that allow developers to create, edit, and convert PDF documents. It also supports a variety of image formats, including JPEG, which makes it ideal for exporting TEX to JPEG. 
+
+Once the TEX has been exported to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to DICOM. This component is a powerful image processing API that provides a wide range of features for manipulating and converting images. It supports a variety of image formats, including DICOM, which makes it ideal for converting JPEG to DICOM. 
+
+Using Aspose.Total for .NET, developers can easily export TEX to DICOM image within any .NET applications in two simple steps. First, they can use Aspose.PDF for .NET to export TEX to JPEG. Then, they can use Aspose.Imaging for .NET to convert the JPEG to DICOM. This suite of components provides developers with a powerful and easy-to-use solution for exporting TEX to DICOM image within any .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

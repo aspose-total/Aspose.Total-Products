@@ -13,7 +13,16 @@ otherformats: XLTX FODS XLAM XLSM XLSX XLTM SXC DIF XLS CSV ODS XLT XLSB EXCEL
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOCX to TSV or Online App" h2="Export DOCX to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOCX to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily incorporate DOCX to TSV conversion feature into any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting DOCX to TSV. 
+
+The first step is to use Aspose.Words for .NET to export the DOCX file to HTML. Aspose.Words for .NET is a powerful .NET Word Processing API that enables developers to create, read, edit, and convert Word documents without using Microsoft Word. It supports a wide range of features, including document manipulation, formatting, mail merge, and more. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, and convert Excel spreadsheets without using Microsoft Excel. It supports a wide range of features, including data manipulation, formatting, charting, and more. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate DOCX to TSV conversion feature into any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting DOCX to TSV, making it easy to add this feature to any application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

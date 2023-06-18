@@ -13,7 +13,16 @@ otherformats: FODS XLT DIF XLSM SXC XLSX XLTX CSV EXCEL TSV XLSB XLTM XLS XLAM
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to ODS or Online App" h2="Export OTT to ODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate OTT to ODS conversion feature into any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, manipulate and convert documents, spreadsheets, images and other file formats.
+
+The OTT to ODS conversion feature can be implemented in two simple steps. Firstly, Aspose.Words for .NET can be used to export OTT to HTML. This powerful component provides a wide range of features and capabilities that make it easy to create, manipulate and convert documents. It supports a wide range of document formats, including OTT, HTML, DOC, DOCX, ODT, RTF, TXT and PDF.
+
+Once the OTT document has been converted to HTML, Aspose.Cells for .NET can be used to convert the HTML to ODS. This powerful Spreadsheet Programming API provides a wide range of features and capabilities that make it easy to create, manipulate and convert spreadsheets. It supports a wide range of spreadsheet formats, including ODS, XLS, XLSX, CSV, HTML, PDF and TXT.
+
+By using Aspose.Total for .NET, developers can easily incorporate OTT to ODS conversion feature into any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, manipulate and convert documents, spreadsheets, images and other file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,14 @@ otherformats: POWERPOINT POTM OTP POT PPS PPT PPSM POTX ODP PPSX
 {{< blocks/products/pf/feature-page-header h1="Convert JSON Format to PPTM via C#" h2="C# API to parse JSON to PPTM without using Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert JSON to PPTM within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), you can parse JSON to PPTX. After that, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can convert PPTX to PPTM. Both APIs come under [Aspose.Total for .NET](https://products.aspose.com/total/net/) package.
+
+
+Converting JSON to PPTM within any .NET, C#, ASP.NET and VB.NET application is a simple two-step process. The first step is to parse the JSON to PPTX using Aspose.Cells for .NET. Aspose.Cells for .NET is a powerful .NET library that enables developers to create, manipulate and convert spreadsheets within any .NET, C#, ASP.NET and VB.NET application.
+
+The second step is to convert the PPTX to PPTM using Aspose.Slides for .NET. Aspose.Slides for .NET is a powerful .NET library that enables developers to create, manipulate and convert presentations within any .NET, C#, ASP.NET and VB.NET application.
+
+Both Aspose.Cells for .NET and Aspose.Slides for .NET are part of the Aspose.Total for .NET package. Aspose.Total for .NET is a suite of .NET libraries that enables developers to create, manipulate and convert documents, spreadsheets, presentations, images and PDFs within any .NET, C#, ASP.NET and VB.NET application. With Aspose.Total for .NET, developers can easily convert JSON to PPTM within any .NET, C#, ASP.NET and VB.NET application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

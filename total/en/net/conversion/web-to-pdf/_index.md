@@ -19,19 +19,15 @@ otherformats: WORD EXCEL POWERPOINT IMAGES
 
 <h2 class="heading-border">Using Aspose.HTML as HTML Parser API</h2>
 
-<p>One of the most popular APIs for Parsing web pages via C# is Aspose.HTML for .NET, a child API of Aspose.Total for .NET. It is a simple and easy-to-use API for parsing HTML and CSS in .NET applications. It provides a range of features that make it easy to extract data from HTML files and manipulate the document structure with ease</p><br />
+<p>One of the most popular APIs for Parsing web pages via C# is Aspose.HTML for .NET, a child API of Aspose.Total for .NET. It is a simple and easy-to-use API for parsing HTML and CSS in .NET applications. It provides a range of features that make it easy to extract data from HTML files and manipulate the document structure with ease.</p><br />
 
 <p>When developing a web scraper, the selection of data becomes pivotal in effectively identifying and extracting the desired information from HTML files. Data selectors, often employing XPath, CSS selectors, or a combination of both, play a fundamental role in locating the precise data elements within the HTML structure. By acting as navigation tools within the document, these selectors allow you to pinpoint and extract the data you need.</p>
 
 <h2 class="heading-border">Tasks one can perform for Web Scrapping</h2>
 
-<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively including</p><br />
+<p>With the utilization of Aspose.HTML for .NET, automating data extraction from web pages becomes effortless, enabling developers to carry out various web scraping tasks effectively. These tasks include HTML navigation, downloading websites from URLs, downloading files from URLs, downloading images from websites, and downloading SVG from websites.</p><br />
 
-1. [HTML Navigation](https://docs.aspose.com/html/net/html-navigation/) - Conduct comprehensive inspections of HTML documents and their elements. This feature facilitates detailed analysis, custom filtering for element iteration, and seamless navigation using CSS Selectors or XPath.
-2. [Download Website](https://docs.aspose.com/html/net/download-website/) - Download websites from URLs and customize the downloading process. You have the flexibility to download the entire website or specific web pages, tailoring the process to meet your specific requirements.
-3. [Download Files From URL](https://docs.aspose.com/html/net/download-file-from-url/) - Efficiently download files from URLs using Aspose.HTML for .NET.
-4. [Download Images From Website](https://docs.aspose.com/html/net/download-images-from-website/) - Seamlessly download various types of images from websites using the capabilities provided by Aspose.HTML for .NET.
-5. [Download SVG From Website](https://docs.aspose.com/html/net/download-svg-from-website/) - Retrieve Scalable Vector Graphics (SVG) files from websites using C# with the assistance of Aspose.HTML for .NET.
+<p>HTML navigation allows developers to conduct comprehensive inspections of HTML documents and their elements. This feature facilitates detailed analysis, custom filtering for element iteration, and seamless navigation using CSS Selectors or XPath. Downloading websites from URLs allows developers to customize the downloading process, giving them the flexibility to download the entire website or specific web pages. Downloading files from URLs and downloading images from websites are also made easy with the help of Aspose.HTML for .NET. Lastly, developers can also retrieve Scalable Vector Graphics (SVG) files from websites using C# with the assistance of Aspose.HTML for .NET.</p>
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

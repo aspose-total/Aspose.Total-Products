@@ -13,7 +13,16 @@ otherformats: PS ODT DOT PCL MHTML DOTX FLATOPC DOTM MARKDOWN WORDML XAMLFLOW DO
 {{< blocks/products/pf/feature-page-header h1="Render PDF to RTF via .NET" h2=".NET API to Export PDF to RTF on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert PDF file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to RTF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to add powerful document manipulation and conversion features to their .NET applications. It includes the Aspose.PDF for .NET API, which provides advanced PDF processing capabilities, and the Aspose.Words for .NET API, which provides powerful document processing features. 
+
+The Aspose.PDF for .NET API allows developers to convert PDF files to DOC format. It supports a wide range of features, including the ability to extract text from PDF documents, convert PDF documents to images, and convert PDF documents to other popular file formats. It also supports the ability to add annotations, watermarks, and digital signatures to PDF documents. 
+
+The Aspose.Words for .NET API enables developers to render DOC files to RTF format. It supports a wide range of features, including the ability to create, edit, and convert documents, as well as the ability to insert, delete, and manipulate text, images, and tables. It also supports the ability to add headers and footers, and to apply formatting to documents. 
+
+Aspose.Total for .NET is a powerful suite of APIs that provides developers with the tools they need to add powerful document manipulation and conversion features to their .NET applications. With the Aspose.PDF for .NET API, developers can convert PDF files to DOC format, and with the Aspose.Words for .NET API, developers can render DOC files to RTF format. Together, these APIs provide developers with the ability to create, edit, and convert documents, as well as the ability to add annotations, watermarks, and digital signatures to PDF documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

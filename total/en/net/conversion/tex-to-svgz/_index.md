@@ -13,7 +13,16 @@ otherformats: APNG JPEG2000 WMZ EMZ TGA IMAGE  WMF PSD DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to SVGZ via C#" h2="Export TEX to SVGZ within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to SVGZ image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to SVGZ. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export TEX to SVGZ image within any .NET applications. This suite of components includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are both essential for the conversion process. 
+
+The first step in the process is to use Aspose.PDF for .NET to export TEX to JPEG. This component provides a wide range of features that enable developers to create, edit, and manipulate PDF documents. It also allows developers to convert PDF documents to other formats, such as JPEG. 
+
+Once the TEX document has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to SVGZ. This component is an image processing API that provides a wide range of features for manipulating and converting images. It allows developers to convert images from one format to another, including JPEG to SVGZ. 
+
+By using Aspose.Total for .NET, developers can easily export TEX to SVGZ image within any .NET applications in two simple steps. First, they can use Aspose.PDF for .NET to export TEX to JPEG. Then, they can use Aspose.Imaging for .NET to convert the JPEG to SVGZ. This suite of components provides developers with all the tools they need to quickly and easily convert TEX documents to SVGZ images.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

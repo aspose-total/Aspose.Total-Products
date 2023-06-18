@@ -13,7 +13,16 @@ otherformats: FODS XLTM SXC XLSB EXCEL XLS CSV XLTX XLT XLAM TSV ODS XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to XLSX or Online App" h2="Export RTF to XLSX via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to XLSX conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLSX. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily add powerful file conversion features to their applications. With Aspose.Total for .NET, developers can easily convert RTF to XLSX in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export RTF to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, and convert documents in a variety of popular formats, including RTF, DOC, DOCX, HTML, and PDF. It also provides a comprehensive set of features for manipulating and converting RTF documents. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to XLSX. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets in a variety of popular formats, including XLSX, XLS, CSV, and HTML. It also provides a comprehensive set of features for manipulating and converting HTML documents. 
+
+By using Aspose.Total for .NET, developers can quickly and easily add powerful file conversion features to their .NET, C#, ASP.NET, and VB.NET applications. With just two simple steps, developers can easily convert RTF to XLSX and add powerful file conversion features to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: DIF XLTM XLSX XLAM EXCEL XLTX ODS XLSB XLT XLS CSV TSV XLSM SXC
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to FODS or Online App" h2="Export DOT to FODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to FODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate DOT to FODS conversion feature into any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOT to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, convert, render and print documents without using Microsoft Word. It supports a wide range of document formats, including DOT, HTML, DOC, DOCX, RTF, ODT, TXT and PDF. With Aspose.Words for .NET, developers can easily convert DOT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to FODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including FODS, XLS, XLSX, CSV, ODS, HTML and PDF. With Aspose.Cells for .NET, developers can easily convert HTML to FODS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate DOT to FODS conversion feature into any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps, using Aspose.Words for .NET to export DOT to HTML and Aspose.Cells for .NET to convert HTML to FODS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

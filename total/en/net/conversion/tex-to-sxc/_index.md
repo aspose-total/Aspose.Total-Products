@@ -13,7 +13,16 @@ otherformats: ODS XLTM TXT FODS XLAM CSV EXCEL DIF TSV MD XLSM XLTX
 {{< blocks/products/pf/feature-page-header h1="C# API to Render TEX to SXC" h2="Export TEX File to SXC via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert TEX file to SXC within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to SXC. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert TEX file to SXC within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities to help developers create powerful applications quickly and easily. 
+
+The process of converting TEX to SXC involves two steps. Firstly, Aspose.PDF for .NET can be used to export TEX to XLSX. This component provides a wide range of features and capabilities to help developers create powerful applications quickly and easily. It can be used to create, edit, and manipulate PDF documents in .NET applications. It also supports a variety of features such as text extraction, document conversion, text search, and more. 
+
+Once the TEX file has been converted to XLSX, Aspose.Cells for .NET can be used to convert XLSX to SXC. This component provides a wide range of features and capabilities to help developers create powerful spreadsheet applications quickly and easily. It can be used to create, edit, and manipulate spreadsheets in .NET applications. It also supports a variety of features such as data import/export, formula calculation, charting, and more. 
+
+By using Aspose.Total for .NET, developers can easily convert TEX file to SXC within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities to help developers create powerful applications quickly and easily. It can be used to create, edit, and manipulate PDF documents and spreadsheets in .NET applications. It also supports a variety of features such as text extraction, document conversion, text search, data import/export, formula calculation, charting, and more.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

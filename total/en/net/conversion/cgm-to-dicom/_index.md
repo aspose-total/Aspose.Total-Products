@@ -13,7 +13,16 @@ otherformats: EMZ PSD WMF WMZ TGA APNG DXF SVGZ IMAGE JPEG2000 DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert CGM file to DICOM via C#" h2="Export CGM to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export CGM to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export CGM to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export CGM to DICOM image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are both powerful and feature-rich APIs that provide a wide range of features and capabilities. 
+
+Using Aspose.PDF for .NET, developers can easily export CGM to JPEG. This API provides a wide range of features and capabilities, such as the ability to convert CGM to JPEG, as well as other image formats. It also provides support for various image formats, including TIFF, PNG, BMP, and more. Additionally, it offers a range of features for manipulating images, such as resizing, cropping, and rotating. 
+
+Once the CGM has been converted to JPEG, Aspose.Imaging for .NET can be used to convert the JPEG to DICOM. This powerful Image Processing API provides a wide range of features and capabilities, such as the ability to convert JPEG to DICOM, as well as other image formats. It also provides support for various image formats, including TIFF, PNG, BMP, and more. Additionally, it offers a range of features for manipulating images, such as resizing, cropping, and rotating. 
+
+In summary, Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export CGM to DICOM image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are both powerful and feature-rich APIs that provide a wide range of features and capabilities. Using these APIs, developers can easily export CGM to JPEG and then convert the JPEG to DICOM.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

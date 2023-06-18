@@ -13,7 +13,16 @@ otherformats: FODS XLTX XLSM XLS XLT XLSB ODS CSV TSV XLTM EXCEL SXC XLAM DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to JSON Format via C#" h2="Parse DOCX to JSON via C# without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert DOCX to JSON format within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to JSON. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily convert DOCX to JSON format within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process for converting DOCX to JSON. 
+
+The first step is to use Aspose.Words for .NET to export the DOCX file to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert, and manipulate Microsoft Word documents without using Microsoft Office. It provides a wide range of features, including the ability to export DOCX to HTML. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML to JSON. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert Microsoft Excel spreadsheets without using Microsoft Office. It provides a wide range of features, including the ability to convert HTML to JSON. 
+
+By using Aspose.Total for .NET, developers can quickly and easily convert DOCX to JSON format within any .NET, C#, ASP.NET and VB.NET application. The two-step process of using Aspose.Words for .NET to export the DOCX file to HTML and then using Aspose.Cells for .NET to convert the HTML to JSON is simple and straightforward. With Aspose.Total for .NET, developers can easily and quickly convert DOCX to JSON format in no time.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

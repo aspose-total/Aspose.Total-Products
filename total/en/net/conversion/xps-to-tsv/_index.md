@@ -13,7 +13,16 @@ otherformats: MD XLTM DIF XLTX XLSB SXC TXT XLAM EXCEL CSV FODS ODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Render XPS to TSV" h2="Export XPS File to TSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XPS file to TSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XPS to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert XPS file to TSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to work with XPS files. 
+
+The first step in the process is to use Aspose.PDF for .NET to export XPS to XLSX. This component provides a wide range of features and capabilities that make it easy to work with XPS files. It allows you to convert XPS to XLSX with just a few lines of code. It also provides support for a wide range of XPS features, including text, images, shapes, and more. 
+
+Once the XPS file has been converted to XLSX, the next step is to use Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to TSV. This component provides a wide range of features and capabilities that make it easy to work with XLSX files. It allows you to convert XLSX to TSV with just a few lines of code. It also provides support for a wide range of XLSX features, including formulas, charts, pivot tables, and more. 
+
+Using Aspose.Total for .NET, you can easily convert XPS file to TSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to work with XPS and XLSX files. It allows you to quickly and easily convert XPS to XLSX and then XLSX to TSV with just a few lines of code. It also provides support for a wide range of XPS and XLSX features, making it easy to work with these files.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

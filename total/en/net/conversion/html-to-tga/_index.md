@@ -13,7 +13,16 @@ otherformats: WMZ DXF IMAGE JPEG2000 EMZ SVGZ WMF APNG PSD DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to TGA via C#" h2="Export HTML to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export HTML to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export HTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export HTML to TGA image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export HTML to TGA image. 
+
+The first step in the process is to use Aspose.PDF for .NET to export HTML to JPEG. This component provides a wide range of features that enable developers to easily convert HTML documents to JPEG images. It supports a variety of HTML elements, such as tables, images, text, and more. It also provides a range of options to customize the output JPEG image, such as setting the resolution, quality, and size. 
+
+Once the HTML document has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG image to TGA. This component provides a wide range of features that enable developers to easily manipulate images. It supports a variety of image formats, such as TIFF, PNG, BMP, and more. It also provides a range of options to customize the output TGA image, such as setting the resolution, quality, and size. 
+
+By using Aspose.Total for .NET, developers can easily export HTML to TGA image within any .NET applications in two simple steps. First, they can use Aspose.PDF for .NET to export HTML to JPEG. Then, they can use Aspose.Imaging for .NET to convert the JPEG image to TGA. This suite provides a wide range of features that enable developers to easily manipulate images and customize the output TGA image.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

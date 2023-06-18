@@ -13,7 +13,16 @@ otherformats: XLT XLTM XLTX FODS TXT CSV XLSB MD XLSM DIF ODS TSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MHTML to SXC" h2="Export MHTML File to SXC via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML file to SXC within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to SXC. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert MHTML files to SXC within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export MHTML to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to SXC. 
+
+Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, convert and print PDF documents within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features such as document conversion, text extraction, document signing, document security, document manipulation, document comparison, document annotation, document printing, and much more. It also provides the ability to export MHTML to XLSX. 
+
+Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, convert and print spreadsheets within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features such as document conversion, text extraction, document signing, document security, document manipulation, document comparison, document annotation, document printing, and much more. It also provides the ability to convert XLSX to SXC. 
+
+Using Aspose.Total for .NET, developers can easily convert MHTML files to SXC within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export MHTML to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to SXC. Aspose.PDF for .NET and Aspose.Cells for .NET provide a wide range of features that enable developers to easily and quickly convert MHTML to SXC.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

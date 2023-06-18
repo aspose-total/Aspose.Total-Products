@@ -13,7 +13,16 @@ otherformats: DXF SVGZ IMAGE EMZ APNG WMF PSD  TGA WMZ DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX file to JPEG2000 via C#" h2="Export TEX to JPEG2000 within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export TEX to JPEG2000 image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to JPEG2000. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export TEX to JPEG2000 image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export TEX to JPEG and convert JPEG to JPEG2000 respectively. 
+
+The process of exporting TEX to JPEG2000 image is quite simple and can be done in two steps. First, you need to use Aspose.PDF for .NET to export TEX to JPEG. This component provides a wide range of features that enable developers to create, edit, and manipulate PDF documents. It also allows you to export TEX to JPEG with just a few lines of code. 
+
+Once you have exported TEX to JPEG, you can then use Aspose.Imaging for .NET to convert JPEG to JPEG2000. This component provides a comprehensive set of image processing features that enable developers to manipulate images in various ways. It also allows you to convert JPEG to JPEG2000 with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can easily export TEX to JPEG2000 image within any .NET applications. This suite provides a wide range of features that enable developers to create, edit, and manipulate PDF documents as well as manipulate images in various ways. With just a few lines of code, developers can easily export TEX to JPEG and convert JPEG to JPEG2000.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

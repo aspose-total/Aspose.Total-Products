@@ -13,7 +13,16 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS 
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to XLS via C# or Online App" h2=".NET API for PPT to XLS conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPT file to XLS within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications. With Aspose.Total for .NET, you can easily convert a PPT file to XLS in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export the PPT file to HTML. Aspose.Slides for .NET is a powerful .NET component that enables developers to create, read, write and modify PowerPoint presentations without using Microsoft PowerPoint. It supports a wide range of features such as creating, editing, converting, printing and exporting presentations to various file formats. With Aspose.Slides for .NET, you can easily export a PPT file to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert the HTML file to XLS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of features such as creating, editing, formatting, printing and exporting spreadsheets to various file formats. With Aspose.Cells for .NET, you can easily convert the HTML file to XLS with just a few lines of code. 
+
+In conclusion, Aspose.Total for .NET makes it easy to convert a PPT file to XLS in two simple steps. With Aspose.Slides for .NET, you can export the PPT file to HTML and with Aspose.Cells for .NET, you can convert the HTML file to XLS. Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within their .NET, C#, ASP.NET and VB.NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

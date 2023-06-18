@@ -13,7 +13,16 @@ otherformats: WMF EMZ  DXF APNG WMZ TGA IMAGE SVGZ PSD DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MD file to JPEG2000 via C#" h2="Export MD to JPEG2000 within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MD to JPEG2000 image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MD to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to JPEG2000. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily export MD to JPEG2000 image within any .NET applications. This suite of APIs includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are both powerful and feature-rich APIs that allow developers to quickly and easily create, manipulate, and convert various file formats. 
+
+Using Aspose.PDF for .NET, developers can export MD to JPEG. This API provides a wide range of features that allow developers to easily create, manipulate, and convert PDF documents. It also provides features such as text extraction, document splitting, page merging, and more. 
+
+Once the MD has been exported to JPEG, Aspose.Imaging for .NET can be used to convert the JPEG to JPEG2000. This powerful Image Processing API provides a wide range of features that allow developers to easily manipulate, convert, and process various image formats. It also provides features such as image resizing, cropping, rotating, and more. 
+
+With Aspose.Total for .NET, developers can easily export MD to JPEG2000 image within any .NET applications in two simple steps. First, by using Aspose.PDF for .NET, developers can export MD to JPEG. Then, by using Aspose.Imaging for .NET, developers can convert the JPEG to JPEG2000. This suite of APIs provides developers with a comprehensive set of features that allow them to quickly and easily create, manipulate, and convert various file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

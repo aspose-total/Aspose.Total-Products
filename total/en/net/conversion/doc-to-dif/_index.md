@@ -13,7 +13,16 @@ otherformats: EXCEL TSV XLSB CSV XLTX XLAM XLSX XLT FODS XLTM SXC ODS XLSM XLS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOC to DIF or Online App" h2="Export DOC to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOC to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily add DOC to DIF conversion feature to their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides developers with the tools they need to quickly and easily create powerful applications that can handle a wide range of document processing tasks. 
+
+The process of converting DOC to DIF using Aspose.Total for .NET is simple and straightforward. The first step is to use Aspose.Words for .NET to export the DOC file to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to easily create, edit, and convert documents in a variety of formats, including DOC, DOCX, HTML, and PDF. 
+
+Once the DOC file has been exported to HTML, the next step is to use Aspose.Cells for .NET to convert the HTML to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to easily create, edit, and convert spreadsheets in a variety of formats, including DIF, XLS, XLSX, and CSV. 
+
+Using Aspose.Total for .NET, developers can quickly and easily add DOC to DIF conversion feature to their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides developers with the tools they need to quickly and easily create powerful applications that can handle a wide range of document processing tasks. With Aspose.Total for .NET, developers can easily and quickly add DOC to DIF conversion feature to their applications, allowing them to quickly and easily convert documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: DXF EMZ WMZ JPEG2000  APNG IMAGE PSD SVGZ WMF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XSLFO file to TGA via C#" h2="Export XSLFO to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export XSLFO to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XSLFO to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate, convert, and export documents within any .NET application. It includes a wide range of components, such as Aspose.PDF for .NET, Aspose.Imaging for .NET, and more. With Aspose.Total for .NET, you can easily export XSLFO to TGA image within any .NET applications in two simple steps. 
+
+The first step is to use Aspose.PDF for .NET to export XSLFO to JPEG. Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, and convert PDF documents within any .NET application. It provides a wide range of features, such as creating PDF documents from scratch, converting PDF documents to other formats, adding annotations, and more. With Aspose.PDF for .NET, you can easily export XSLFO to JPEG. 
+
+The second step is to use Aspose.Imaging for .NET to convert JPEG to TGA. Aspose.Imaging for .NET is an advanced image processing API that enables developers to create, edit, and convert images within any .NET application. It provides a wide range of features, such as creating images from scratch, converting images to other formats, resizing images, and more. With Aspose.Imaging for .NET, you can easily convert JPEG to TGA. 
+
+In conclusion, with Aspose.Total for .NET, you can easily export XSLFO to TGA image within any .NET applications in two simple steps. First of all, by using Aspose.PDF for .NET, you can export XSLFO to JPEG. After that, by using Aspose.Imaging for .NET Image Processing API, you can convert JPEG to TGA.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

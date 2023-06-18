@@ -13,7 +13,16 @@ otherformats: DXF SVGZ WMF TGA EMZ PSD APNG IMAGE WMZ JPEG2000 DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XPS file to DICOM via C#" h2="Export XPS to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export XPS to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XPS to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate, and convert a wide range of file formats within their .NET applications. With Aspose.Total for .NET, developers can quickly and easily export XPS to DICOM image with just two simple steps. 
+
+The first step is to use Aspose.PDF for .NET to export XPS to JPEG. Aspose.PDF for .NET is a powerful .NET library that enables developers to create, read, edit, and convert PDF documents within their .NET applications. It provides a wide range of features, such as creating PDF documents from scratch, converting PDF documents to other file formats, and manipulating existing PDF documents. With Aspose.PDF for .NET, developers can easily export XPS to JPEG with just a few lines of code. 
+
+The second step is to use Aspose.Imaging for .NET to convert JPEG to DICOM. Aspose.Imaging for .NET is a powerful image processing API that enables developers to manipulate and convert a wide range of image file formats within their .NET applications. It provides a wide range of features, such as resizing, cropping, rotating, and converting images to other file formats. With Aspose.Imaging for .NET, developers can easily convert JPEG to DICOM with just a few lines of code. 
+
+In conclusion, Aspose.Total for .NET makes it easy for developers to export XPS to DICOM image within any .NET applications. By using Aspose.PDF for .NET to export XPS to JPEG, and Aspose.Imaging for .NET to convert JPEG to DICOM, developers can quickly and easily convert XPS to DICOM with just two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

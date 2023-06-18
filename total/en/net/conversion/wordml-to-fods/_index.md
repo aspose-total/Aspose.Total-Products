@@ -13,7 +13,16 @@ otherformats: EXCEL CSV XLT XLTX XLSM TSV SXC XLS XLAM DIF XLSX XLTM XLSB ODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORDML to FODS or Online App" h2="Export WORDML to FODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORDML to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORDML to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to FODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily integrate WORDML to FODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting WORDML to FODS. 
+
+The first step is to use Aspose.Words for .NET to export WORDML to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to quickly and easily create, edit, and convert documents in a variety of formats, including DOC, DOCX, RTF, HTML, and PDF. It also provides a comprehensive set of features for manipulating and converting WORDML documents. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to FODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to quickly and easily create, edit, and convert spreadsheets in a variety of formats, including XLS, XLSX, CSV, and FODS. It also provides a comprehensive set of features for manipulating and converting HTML documents. 
+
+By using Aspose.Total for .NET, developers can quickly and easily add WORDML to FODS conversion feature to their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting WORDML to FODS, making it easy to integrate this feature into any application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

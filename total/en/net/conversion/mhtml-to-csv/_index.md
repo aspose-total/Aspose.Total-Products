@@ -13,7 +13,16 @@ otherformats: XLTM MD DIF XLT ODS XLTX XLSB XLAM EXCEL FODS XLSM TSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MHTML to CSV" h2="Export MHTML File to CSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML file to CSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to CSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily create, manipulate, convert and export MHTML files to CSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to work with MHTML files.
+
+The process of converting MHTML to CSV involves two steps. Firstly, you need to use Aspose.PDF for .NET to export the MHTML file to XLSX. This component provides a wide range of features and capabilities that make it easy to work with PDF documents. It allows you to easily convert MHTML to XLSX with just a few lines of code.
+
+Once you have exported the MHTML file to XLSX, you can then use Aspose.Cells for .NET to convert the XLSX file to CSV. This component provides a comprehensive set of features and capabilities that make it easy to work with spreadsheets. It allows you to easily convert XLSX to CSV with just a few lines of code.
+
+By using Aspose.Total for .NET, you can easily convert MHTML to CSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to work with MHTML files. It allows you to easily export MHTML to XLSX and then convert XLSX to CSV with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

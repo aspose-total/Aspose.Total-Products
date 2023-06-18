@@ -13,7 +13,16 @@ otherformats: ODS XLSM XLSX XLSB XLS XLT DIF SXC XLTM XLTX XLAM EXCEL TSV FODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOT to CSV or Online App" h2="Export DOT to CSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that provides developers with the ability to easily include DOT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components enables developers to quickly and easily convert DOT to CSV in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOT to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, convert, and print documents in a variety of formats, including DOC, DOCX, ODT, HTML, and PDF. It also provides the ability to export DOT to HTML, which is the first step in the conversion process. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to CSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets in a variety of formats, including XLS, XLSX, CSV, and HTML. It also provides the ability to convert HTML to CSV, which is the second step in the conversion process. 
+
+By using Aspose.Total for .NET, developers can quickly and easily include DOT to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components enables developers to export DOT to HTML using Aspose.Words for .NET and then convert HTML to CSV using Aspose.Cells for .NET. With Aspose.Total for .NET, developers can easily and quickly convert DOT to CSV in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

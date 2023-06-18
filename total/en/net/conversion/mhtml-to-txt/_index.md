@@ -13,7 +13,14 @@ otherformats: XLTX MD FODS CSV EXCEL TSV SXC XLSB XLAM DIF ODS XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MHTML to TXT" h2="Export MHTML File to TXT via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML file to TXT within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TXT. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert MHTML files to TXT within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps. Firstly, Aspose.PDF for .NET is used to export MHTML to XLSX. This component provides a wide range of features for creating, manipulating and converting PDF documents. It also supports a variety of other formats such as HTML, MHTML, XPS, EPUB, XAML, SVG, PCL, TIFF, and many more. 
+
+Once the MHTML file is converted to XLSX, Aspose.Cells for .NET can be used to convert it to TXT. This component provides a comprehensive set of features for working with spreadsheets. It supports a wide range of features such as creating, manipulating, and converting spreadsheets. It also supports a variety of other formats such as HTML, MHTML, XPS, EPUB, XAML, SVG, PCL, TIFF, and many more. 
+
+Aspose.Total for .NET is a powerful suite of components that makes it easy to convert MHTML files to TXT within any .NET, C#, ASP.NET and VB.NET applications. It provides a comprehensive set of features for creating, manipulating and converting PDF documents as well as spreadsheets. It also supports a variety of other formats such as HTML, MHTML, XPS, EPUB, XAML, SVG, PCL, TIFF, and many more. With Aspose.Total for .NET, developers can easily convert MHTML files to TXT with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

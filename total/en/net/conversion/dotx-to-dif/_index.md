@@ -13,7 +13,16 @@ otherformats: FODS SXC XLSM XLSB ODS TSV XLTX EXCEL XLTM XLSX CSV XLAM XLS XLT
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOTX to DIF or Online App" h2="Export DOTX to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOTX to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate DOTX to DIF conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOTX to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert and print Word documents without using Microsoft Word. It supports a wide range of document formats, including DOTX, and provides a comprehensive set of features for manipulating Word documents. With Aspose.Words for .NET, developers can easily export DOTX to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including DIF, and provides a comprehensive set of features for manipulating spreadsheets. With Aspose.Cells for .NET, developers can easily convert HTML to DIF with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate DOTX to DIF conversion feature into their .NET, C#, ASP.NET and VB.NET applications. It provides a simple and efficient way to export DOTX to HTML and then convert HTML to DIF. With Aspose.Total for .NET, developers can save time and effort when implementing DOTX to DIF conversion feature in their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

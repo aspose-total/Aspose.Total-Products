@@ -13,7 +13,16 @@ otherformats: FODS CSV XLTM XLT XLSB XLTX ODS SXC XLSX XLAM DIF EXCEL XLS XLSM
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOTM to TSV or Online App" h2="Export DOTM to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOTM to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTM to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate DOTM to TSV conversion feature into any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a wide range of features and capabilities that can be used to create powerful and efficient applications.
+
+The process of converting DOTM to TSV is simple and straightforward. It involves two steps. Firstly, you need to use Aspose.Words for .NET to export DOTM to HTML. This component provides a comprehensive set of features and capabilities that enable developers to easily create, edit, and convert documents in various formats. It also provides support for a wide range of document formats, including DOTM.
+
+Once the DOTM document has been converted to HTML, you can use Aspose.Cells for .NET to convert the HTML to TSV. This component provides a powerful and feature-rich spreadsheet programming API that enables developers to easily create, edit, and convert spreadsheets in various formats. It also provides support for a wide range of spreadsheet formats, including TSV.
+
+By using Aspose.Total for .NET, you can quickly and easily incorporate DOTM to TSV conversion feature into any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a comprehensive set of features and capabilities that can be used to create powerful and efficient applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

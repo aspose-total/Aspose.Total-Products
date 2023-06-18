@@ -13,7 +13,16 @@ otherformats: ODS XLT TSV XLSX EXCEL FODS XLSM SXC XLSB XLTM XLAM XLS CSV XLTX
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORDML to DIF or Online App" h2="Export WORDML to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORDML to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORDML to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include WORDML to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert WORDML to DIF. 
+
+The first step is to use Aspose.Words for .NET to export WORDML to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to easily create, edit, and convert documents in a variety of formats, including DOC, DOCX, RTF, HTML, and WORDML. It also provides a comprehensive set of features for manipulating documents, such as document merging, splitting, and formatting. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to easily create, manipulate, and convert spreadsheets in a variety of formats, including XLS, XLSX, CSV, and DIF. It also provides a comprehensive set of features for manipulating spreadsheets, such as cell formatting, data validation, and charting. 
+
+By using Aspose.Total for .NET, developers can quickly and easily include WORDML to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a simple two-step process to convert WORDML to DIF, making it easy to create, edit, and convert documents and spreadsheets in a variety of formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

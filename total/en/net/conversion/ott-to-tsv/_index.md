@@ -13,7 +13,16 @@ otherformats: XLSX XLTX XLSB XLAM EXCEL XLSM ODS XLS DIF FODS XLTM XLT SXC CSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to TSV or Online App" h2="Export OTT to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily add OTT to TSV conversion feature to their .NET, C#, ASP.NET and VB.NET applications. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export OTT to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert and print documents in various formats, including OTT. It provides a wide range of features, such as document manipulation, text extraction, document comparison, mail merge, and more. With Aspose.Words for .NET, developers can easily convert OTT to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets in various formats, including TSV. It provides a wide range of features, such as data import/export, formula calculation, charting, and more. With Aspose.Cells for .NET, developers can easily convert HTML to TSV with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily add OTT to TSV conversion feature to their .NET, C#, ASP.NET and VB.NET applications. It provides a comprehensive suite of .NET components that enables developers to easily create, edit, convert and print documents in various formats, as well as manipulate and convert spreadsheets in various formats. With Aspose.Total for .NET, developers can quickly and easily add OTT to TSV conversion feature to their applications with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: XLTX XLAM CSV TSV XLSB XLSM DIF SXC XLSX EXCEL XLT XLTM ODS XLS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOC to FODS or Online App" h2="Export DOC to FODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOC to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to FODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include DOC to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOC to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert, and print Word documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, ODT, RTF, HTML, and PDF. With Aspose.Words for .NET, developers can easily export DOC to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET Spreadsheet Programming API to convert HTML to FODS. Aspose.Cells for .NET is a powerful .NET library that enables developers to create, manipulate, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, ODS, CSV, and HTML. With Aspose.Cells for .NET, developers can easily convert HTML to FODS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily include DOC to FODS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps, using Aspose.Words for .NET to export DOC to HTML, and Aspose.Cells for .NET to convert HTML to FODS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

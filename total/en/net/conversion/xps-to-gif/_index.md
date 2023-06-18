@@ -13,7 +13,16 @@ otherformats: FLATOPC OTT DOTM DOT WORDML RTF XAMLFLOW PS DOCM MARKDOWN DOTX MHT
 {{< blocks/products/pf/feature-page-header h1="Render XPS to GIF via .NET" h2=".NET API to Export XPS to GIF on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert XPS file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to GIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides powerful document manipulation and conversion features for .NET applications. It includes the Aspose.PDF for .NET API, which enables developers to convert XPS file formats to DOC. This API also provides a range of features for manipulating PDF documents, such as creating, editing, and converting PDFs.
+
+The Aspose.Words for .NET API is another powerful component of Aspose.Total for .NET. It enables developers to render DOC files to GIF, as well as a range of other formats. This API also provides a range of features for manipulating documents, such as creating, editing, and converting documents. It also provides features for working with text, images, and tables.
+
+In addition to the two APIs mentioned above, Aspose.Total for .NET also includes a range of other APIs for working with different file formats. These include APIs for working with Microsoft Office documents, such as Excel, PowerPoint, and Outlook. It also includes APIs for working with images, such as JPEG, PNG, and TIFF.
+
+Overall, Aspose.Total for .NET is a powerful suite of APIs that provides a range of features for manipulating and converting documents. It enables developers to easily convert XPS file formats to DOC, as well as render DOC to GIF. It also provides a range of features for working with different file formats, such as Microsoft Office documents, images, and more.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

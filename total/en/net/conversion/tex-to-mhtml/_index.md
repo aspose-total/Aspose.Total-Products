@@ -13,7 +13,16 @@ otherformats: OTT PCL ODT MARKDOWN FLATOPC DOCM WORDML DOTM DOT PS XAMLFLOW RTF
 {{< blocks/products/pf/feature-page-header h1="Render TEX to MHTML via .NET" h2=".NET API to Export TEX to MHTML on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert TEX file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to MHTML. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides developers with a powerful set of tools to add document manipulation and conversion features to their .NET applications. With Aspose.Total for .NET, developers can easily convert TEX file format to DOC using the advanced PDF Processing API, Aspose.PDF for .NET. After that, developers can render the DOC file to MHTML using the powerful Document Processing API, Aspose.Words for .NET. 
+
+Aspose.PDF for .NET is a powerful API that enables developers to create, edit, and manipulate PDF documents. It provides a wide range of features such as document conversion, text extraction, text search, document signing, and more. With Aspose.PDF for .NET, developers can easily convert TEX file format to DOC. 
+
+Aspose.Words for .NET is a powerful API that enables developers to create, edit, and manipulate Word documents. It provides a wide range of features such as document conversion, text extraction, text search, document signing, and more. With Aspose.Words for .NET, developers can easily render DOC to MHTML. 
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides developers with a powerful set of tools to add document manipulation and conversion features to their .NET applications. It includes APIs such as Aspose.PDF for .NET and Aspose.Words for .NET, which enable developers to easily convert TEX file format to DOC and render DOC to MHTML. With Aspose.Total for .NET, developers can easily add document manipulation and conversion features to their .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: ODT DOTX OTT MARKDOWN PCL RTF DOTM DOT DOCM WORDML XAMLFLOW MHTML
 {{< blocks/products/pf/feature-page-header h1="Render TEX to GIF via .NET" h2=".NET API to Export TEX to GIF on Windows, macOS, and Linux without using Microsoft Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for .NET](https://products.aspose.com/total/net/) is a powerful API to add document manipulation and conversion features inside your .NET application. By using advanced PDF Processing API [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can convert TEX file format to DOC. After that, by using powerful Document Processing API [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can render DOC to GIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that provides powerful document manipulation and conversion features for .NET applications. It includes the Aspose.PDF for .NET API, which enables developers to convert TEX file formats to DOC. This is followed by the Aspose.Words for .NET API, which allows developers to render DOC to GIF.
+
+The Aspose.PDF for .NET API is a powerful PDF processing API that enables developers to create, edit, and convert PDF documents. It provides a wide range of features, such as the ability to create PDF documents from scratch, edit existing PDF documents, and convert PDF documents to other file formats. It also supports the conversion of TEX file formats to DOC, allowing developers to easily convert documents from one format to another.
+
+The Aspose.Words for .NET API is a powerful document processing API that enables developers to create, edit, and convert documents. It provides a wide range of features, such as the ability to create documents from scratch, edit existing documents, and convert documents to other file formats. It also supports the rendering of DOC to GIF, allowing developers to easily convert documents from one format to another.
+
+Aspose.Total for .NET is a powerful suite of APIs that provides developers with the tools they need to create, edit, and convert documents. It includes the Aspose.PDF for .NET API, which enables developers to convert TEX file formats to DOC, and the Aspose.Words for .NET API, which allows developers to render DOC to GIF. With these powerful APIs, developers can easily manipulate and convert documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

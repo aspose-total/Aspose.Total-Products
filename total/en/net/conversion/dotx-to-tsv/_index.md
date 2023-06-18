@@ -13,7 +13,16 @@ otherformats: XLAM FODS XLS DIF XLTM XLSM SXC EXCEL XLSX CSV XLTX XLSB XLT ODS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOTX to TSV or Online App" h2="Export DOTX to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOTX to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily add powerful document processing features to their applications. With Aspose.Total for .NET, developers can easily include DOTX to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export DOTX to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, convert and print all popular document formats within their .NET applications. It supports a wide range of document formats, including DOTX, DOCX, DOC, HTML, PDF, XPS, EPUB, XAML, and many more. With Aspose.Words for .NET, developers can easily export DOTX to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to TSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets within their .NET applications. It supports a wide range of spreadsheet formats, including XLSX, XLS, CSV, HTML, ODS, PDF, and many more. With Aspose.Cells for .NET, developers can easily convert HTML to TSV with just a few lines of code. 
+
+In conclusion, Aspose.Total for .NET makes it easy for developers to include DOTX to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. By using Aspose.Words for .NET to export DOTX to HTML and Aspose.Cells for .NET to convert HTML to TSV, developers can quickly and easily add powerful document processing features to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

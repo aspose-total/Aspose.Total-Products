@@ -13,7 +13,16 @@ otherformats: XLTM XLTX XLT EXCEL XLAM TSV XLS CSV ODS XLSM FODS XLSB XLSX SXC
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOCX to DIF or Online App" h2="Export DOCX to DIF via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOCX to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOCX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily add DOCX to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, manipulate and convert various document formats. 
+
+The process of converting DOCX to DIF using Aspose.Total for .NET is quite simple and can be accomplished in two steps. Firstly, you can use Aspose.Words for .NET to export DOCX to HTML. This powerful component provides a wide range of features and capabilities that make it easy to create, manipulate and convert various document formats. It also provides a comprehensive set of features for manipulating and converting HTML documents. 
+
+Once you have exported the DOCX to HTML, you can then use Aspose.Cells for .NET Spreadsheet Programming API to convert the HTML to DIF. This powerful component provides a wide range of features and capabilities that make it easy to create, manipulate and convert various spreadsheet formats. It also provides a comprehensive set of features for manipulating and converting DIF documents. 
+
+By using Aspose.Total for .NET, you can easily add DOCX to DIF conversion feature within any .NET, C#, ASP.NET and VB.NET application. This powerful suite of components provides a wide range of features and capabilities that make it easy to create, manipulate and convert various document formats. It also provides a comprehensive set of features for manipulating and converting HTML and DIF documents. With Aspose.Total for .NET, you can easily and quickly convert DOCX to DIF in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

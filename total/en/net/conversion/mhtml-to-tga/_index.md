@@ -13,7 +13,16 @@ otherformats: PSD  APNG EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MHTML file to TGA via C#" h2="Export MHTML to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export MHTML to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export MHTML to TGA image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to achieve this goal. 
+
+The first step in the process is to use Aspose.PDF for .NET to export MHTML to JPEG. This component provides a wide range of features that make it easy to convert MHTML to JPEG. It supports a variety of image formats, including JPEG, PNG, TIFF, and BMP. It also provides a range of options for controlling the output quality, such as resolution, compression, and color depth. 
+
+Once the MHTML has been converted to JPEG, the next step is to use Aspose.Imaging for .NET to convert the JPEG to TGA. This component provides a comprehensive set of image processing features that make it easy to convert JPEG to TGA. It supports a variety of image formats, including TGA, GIF, BMP, and PNG. It also provides a range of options for controlling the output quality, such as resolution, compression, and color depth. 
+
+By using Aspose.Total for .NET, developers can easily export MHTML to TGA image within any .NET applications in two simple steps. First, Aspose.PDF for .NET is used to export MHTML to JPEG. Then, Aspose.Imaging for .NET is used to convert the JPEG to TGA. This suite of components provides a comprehensive set of features that make it easy to achieve this goal.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

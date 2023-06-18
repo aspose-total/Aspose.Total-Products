@@ -13,7 +13,16 @@ otherformats: XLAM TSV XLSX XLTM DIF XLSM CSV XLTX XLT FODS ODS SXC EXCEL XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORDML to XLS or Online App" h2="Export WORDML to XLS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORDML to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORDML to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to quickly and easily add powerful document processing features to their applications. With Aspose.Total for .NET, developers can easily include WORDML to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export WORDML to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, read, modify, and convert Microsoft Word documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, OOXML, RTF, HTML, OpenDocument, PDF, XPS, EPUB, and other popular formats. With Aspose.Words for .NET, developers can easily convert WORDML to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to XLS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, XLSB, CSV, ODS, and other popular formats. With Aspose.Cells for .NET, developers can easily convert HTML to XLS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily add powerful document processing features to their applications. With just two simple steps, developers can easily include WORDML to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application. Aspose.Words for .NET and Aspose.Cells for .NET make it easy to export WORDML to HTML and convert HTML to XLS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

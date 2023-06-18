@@ -13,7 +13,16 @@ otherformats:  EMZ SVGZ PSD APNG DXF WMF JPEG2000 IMAGE WMZ DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XPS file to TGA via C#" h2="Export XPS to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export XPS to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XPS to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export XPS to TGA image within any .NET applications. This suite includes Aspose.PDF for .NET and Aspose.Imaging for .NET, which are two powerful components that can be used to export XPS to TGA image. 
+
+The process of exporting XPS to TGA image involves two simple steps. First, Aspose.PDF for .NET can be used to export XPS to JPEG. This component provides a wide range of features that enable developers to easily convert XPS to JPEG. It supports a variety of image formats, including JPEG, PNG, TIFF, and BMP. It also provides a range of features that enable developers to customize the output image, such as setting the resolution, image quality, and compression level. 
+
+Once the XPS file has been converted to JPEG, Aspose.Imaging for .NET can be used to convert JPEG to TGA. This component provides a range of features that enable developers to easily convert JPEG to TGA. It supports a variety of image formats, including TGA, GIF, BMP, and PNG. It also provides a range of features that enable developers to customize the output image, such as setting the resolution, image quality, and compression level. 
+
+By using Aspose.Total for .NET, developers can easily export XPS to TGA image within any .NET applications. This suite provides two powerful components that enable developers to easily convert XPS to JPEG and then convert JPEG to TGA. It also provides a range of features that enable developers to customize the output image, such as setting the resolution, image quality, and compression level.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

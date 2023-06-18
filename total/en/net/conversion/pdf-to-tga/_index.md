@@ -13,7 +13,13 @@ otherformats: SVGZ APNG JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert PDF file to TGA via C#" h2="Export PDF to TGA within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export PDF to TGA image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export PDF to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to TGA. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export PDF to TGA image within any .NET applications. It provides a wide range of features and capabilities that make it easy to work with PDF documents, images, and other file formats. 
+The process of exporting PDF to TGA image can be completed in two simple steps. First, you need to use Aspose.PDF for .NET to export PDF to JPEG. This component provides a wide range of features and capabilities that make it easy to work with PDF documents. It enables you to convert PDF documents to various image formats, including JPEG. 
+Once you have exported the PDF to JPEG, you can use Aspose.Imaging for .NET Image Processing API to convert the JPEG to TGA. This API provides a comprehensive set of features and capabilities that make it easy to work with images. It enables you to convert images from one format to another, including TGA. 
+In conclusion, Aspose.Total for .NET makes it easy to export PDF to TGA image within any .NET applications. It provides two components, Aspose.PDF for .NET and Aspose.Imaging for .NET, which enable you to easily convert PDF documents to JPEG and then convert JPEG to TGA. This makes it easy to work with PDF documents, images, and other file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

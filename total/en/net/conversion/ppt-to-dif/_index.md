@@ -13,7 +13,16 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM CSV XLTX MARKDOWN XLS XLSM FO
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to DIF via C# or Online App" h2=".NET API for PPT to DIF conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPT file to DIF within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate, convert and render documents in various formats. It includes components for working with Microsoft Office documents, PDFs, emails, images, barcodes, and more. With Aspose.Total for .NET, you can easily convert a PowerPoint (PPT) file to a Data Interchange Format (DIF) file within any .NET, C#, ASP.NET, and VB.NET application.
+
+The conversion process is simple and straightforward. It involves two steps. Firstly, you need to use Aspose.Slides for .NET to export the PPT file to HTML. Aspose.Slides for .NET is a powerful library for working with PowerPoint presentations. It allows you to create, edit, and convert presentations in various formats. It also provides features for manipulating slides, shapes, text, and images.
+
+Once you have exported the PPT file to HTML, you can use Aspose.Cells for .NET to convert the HTML to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets in various formats. It provides features for working with worksheets, cells, formulas, charts, and more.
+
+By using Aspose.Total for .NET, you can easily convert a PPT file to DIF within any .NET, C#, ASP.NET, and VB.NET application. The conversion process is simple and straightforward. It involves two steps: exporting the PPT file to HTML using Aspose.Slides for .NET, and then converting the HTML to DIF using Aspose.Cells for .NET.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

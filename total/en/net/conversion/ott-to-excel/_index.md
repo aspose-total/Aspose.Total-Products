@@ -13,7 +13,16 @@ otherformats: DIF XLTX XLAM XLSB XLT CSV ODS TSV XLTM FODS XLS XLSX XLSM SXC
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert OTT to EXCEL or Online App" h2="Export OTT to EXCEL via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include OTT to EXCEL conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export OTT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to EXCEL. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include OTT to EXCEL conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a simple two-step process to convert OTT to EXCEL. 
+
+The first step is to use Aspose.Words for .NET to export OTT to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, and convert documents in various formats, including OTT. It provides a wide range of features, such as document manipulation, document conversion, document comparison, and document protection. With Aspose.Words for .NET, developers can easily export OTT to HTML. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to EXCEL. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets in various formats, including EXCEL. It provides a wide range of features, such as spreadsheet manipulation, spreadsheet conversion, spreadsheet comparison, and spreadsheet protection. With Aspose.Cells for .NET, developers can easily convert HTML to EXCEL. 
+
+By using Aspose.Total for .NET, developers can quickly and easily include OTT to EXCEL conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a simple two-step process to convert OTT to EXCEL. First, developers can use Aspose.Words for .NET to export OTT to HTML. Then, they can use Aspose.Cells for .NET to convert HTML to EXCEL. With Aspose.Total for .NET, developers can quickly and easily include OTT to EXCEL conversion feature within any .NET, C#, ASP.NET and VB.NET application.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

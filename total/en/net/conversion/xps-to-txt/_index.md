@@ -13,7 +13,16 @@ otherformats: XLTM EXCEL XLSM DIF SXC XLAM FODS TSV XLT CSV ODS XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Render XPS to TXT" h2="Export XPS File to TXT via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert XPS file to TXT within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export XPS to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TXT. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert XPS files to TXT within any .NET, C#, ASP.NET and VB.NET applications. The conversion process is simple and straightforward, and requires two steps. 
+
+The first step is to use Aspose.PDF for .NET to export the XPS file to XLSX. Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, and convert PDF documents without any external dependencies. It also provides the ability to export XPS files to XLSX, allowing developers to easily convert XPS files to other formats. 
+
+The second step is to use Aspose.Cells for .NET to convert the XLSX file to TXT. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit, and convert spreadsheets without any external dependencies. It also provides the ability to convert XLSX files to TXT, allowing developers to easily convert XPS files to other formats. 
+
+Using Aspose.Total for .NET, developers can quickly and easily convert XPS files to TXT within any .NET, C#, ASP.NET and VB.NET applications. The two-step process is simple and straightforward, and requires no external dependencies. Aspose.PDF for .NET is used to export the XPS file to XLSX, and Aspose.Cells for .NET is used to convert the XLSX file to TXT. With Aspose.Total for .NET, developers can quickly and easily convert XPS files to TXT with minimal effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

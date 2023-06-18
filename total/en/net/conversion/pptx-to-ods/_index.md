@@ -13,7 +13,16 @@ otherformats: XLS XLTX XLSX XLSM EXCEL XLSB MARKDOWN CSV XLTM TSV XLT DIF FODS M
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to ODS via C# or Online App" h2=".NET API for PPTX to ODS conversion without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can convert PPTX file to ODS within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), you can export PPTX to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to create, manipulate, convert and render a wide range of file formats within any .NET, C#, ASP.NET and VB.NET application. It provides a set of APIs that can be used to convert PPTX file to ODS in two simple steps. 
+
+The first step is to use Aspose.Slides for .NET to export PPTX to HTML. Aspose.Slides for .NET is a powerful API that enables developers to create, manipulate, convert and render presentations in a variety of file formats. It provides a wide range of features such as creating, editing and converting presentations, adding text, shapes, images, audio and video, and more. With Aspose.Slides for .NET, developers can easily export PPTX to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to ODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, convert and render spreadsheets in a variety of file formats. It provides a wide range of features such as creating, editing and converting spreadsheets, adding formulas, charts, images, and more. With Aspose.Cells for .NET, developers can easily convert HTML to ODS with just a few lines of code. 
+
+In conclusion, Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to convert PPTX file to ODS within any .NET, C#, ASP.NET and VB.NET application in two simple steps. By using Aspose.Slides for .NET, developers can export PPTX to HTML and by using Aspose.Cells for .NET, developers can convert HTML to ODS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

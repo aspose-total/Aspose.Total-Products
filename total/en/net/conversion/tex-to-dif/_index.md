@@ -13,7 +13,16 @@ otherformats: TXT EXCEL XLT SXC XLAM CSV TSV XLTX XLSM ODS MD XLTM
 {{< blocks/products/pf/feature-page-header h1="C# API to Render TEX to DIF" h2="Export TEX File to DIF via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert TEX file to DIF within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to DIF. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features and capabilities to help developers create powerful applications. One of the features of Aspose.Total for .NET is the ability to convert TEX file to DIF.
+
+The process of converting TEX to DIF involves two steps. Firstly, you need to use Aspose.PDF for .NET to export TEX to XLSX. Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit and convert PDF documents within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features and capabilities to help developers create powerful applications.
+
+Once you have exported the TEX file to XLSX, you can then use Aspose.Cells for .NET to convert XLSX to DIF. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, read, edit and convert spreadsheets within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features and capabilities to help developers create powerful applications.
+
+Using Aspose.Total for .NET, you can easily convert TEX file to DIF within any .NET, C#, ASP.NET and VB.NET applications. It provides a comprehensive suite of .NET components that enables developers to easily create, manipulate and convert various file formats within any .NET, C#, ASP.NET and VB.NET applications. It provides a wide range of features and capabilities to help developers create powerful applications. With Aspose.Total for .NET, you can easily convert TEX to DIF in just two steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

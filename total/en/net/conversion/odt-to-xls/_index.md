@@ -13,7 +13,16 @@ otherformats: EXCEL XLSB XLAM CSV XLSM XLTX XLTM ODS XLSX DIF XLT TSV FODS SXC
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert ODT to XLS or Online App" h2="Export ODT to XLS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include ODT to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export ODT to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to XLS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily include ODT to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of components provides a wide range of features and capabilities that make it easy to create powerful and efficient applications.
+
+The process of converting ODT to XLS is simple and straightforward. It can be done in two steps. Firstly, Aspose.Words for .NET can be used to export ODT to HTML. This component provides a wide range of features and capabilities that make it easy to convert ODT documents to HTML. It supports all versions of ODT documents and provides a wide range of options for customizing the output HTML.
+
+Once the ODT document has been converted to HTML, Aspose.Cells for .NET can be used to convert the HTML to XLS. This component provides a powerful Spreadsheet Programming API that makes it easy to convert HTML to XLS. It supports all versions of XLS documents and provides a wide range of options for customizing the output XLS.
+
+In conclusion, Aspose.Total for .NET makes it easy to include ODT to XLS conversion feature within any .NET, C#, ASP.NET and VB.NET application. By using Aspose.Words for .NET and Aspose.Cells for .NET, developers can easily convert ODT documents to XLS documents in two simple steps. This suite of components provides a wide range of features and capabilities that make it easy to create powerful and efficient applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

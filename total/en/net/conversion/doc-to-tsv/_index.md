@@ -13,7 +13,16 @@ otherformats: ODS FODS XLSB XLTX XLSM EXCEL CSV XLSX XLTM SXC XLAM XLT DIF XLS
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert DOC to TSV or Online App" h2="Export DOC to TSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include DOC to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export DOC to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to easily include DOC to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of APIs provides a wide range of features and functionalities that can be used to create, manipulate, convert, and render documents in various formats. 
+
+The DOC to TSV conversion feature can be implemented in two simple steps. Firstly, Aspose.Words for .NET can be used to export DOC to HTML. This API provides a wide range of features and functionalities that can be used to create, manipulate, and convert documents in various formats. It also provides a powerful set of features for manipulating and converting documents from one format to another. 
+
+Once the DOC file is converted to HTML, Aspose.Cells for .NET Spreadsheet Programming API can be used to convert HTML to TSV. This API provides a wide range of features and functionalities that can be used to create, manipulate, and convert spreadsheets in various formats. It also provides a powerful set of features for manipulating and converting spreadsheets from one format to another. 
+
+By using Aspose.Total for .NET, developers can easily include DOC to TSV conversion feature within any .NET, C#, ASP.NET and VB.NET application. This suite of APIs provides a wide range of features and functionalities that can be used to create, manipulate, convert, and render documents in various formats. It also provides a powerful set of features for manipulating and converting documents and spreadsheets from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

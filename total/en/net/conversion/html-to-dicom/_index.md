@@ -13,7 +13,16 @@ otherformats: WMZ TGA SVGZ APNG WMF EMZ DXF PSD JPEG2000 IMAGE
 {{< blocks/products/pf/feature-page-header h1="Convert HTML file to DICOM via C#" h2="Export HTML to DICOM within .NET applications without using Adobe<sup>&reg;</sup> Acrobat Reader or any other third party applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily export HTML to DICOM image within any .NET applications in two simple steps. First of all, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export HTML to JPEG. After that, by using [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) Image Processing API, you can convert JPEG to DICOM. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily export HTML to DICOM image within any .NET applications. This powerful suite of components provides a wide range of features and capabilities that can be used to create, manipulate, convert, and export various file formats. 
+
+The process of exporting HTML to DICOM image can be completed in two simple steps. First, by using Aspose.PDF for .NET, developers can export HTML to JPEG. This powerful component enables developers to create, manipulate, and convert PDF documents from within their .NET applications. It also provides a wide range of features and capabilities that can be used to create, manipulate, and convert PDF documents. 
+
+Once the HTML has been converted to JPEG, developers can use Aspose.Imaging for .NET to convert the JPEG to DICOM. This powerful Image Processing API provides a wide range of features and capabilities that can be used to manipulate, convert, and export various image formats. It also enables developers to easily convert JPEG to DICOM, allowing them to export HTML to DICOM image within their .NET applications. 
+
+By using Aspose.Total for .NET, developers can easily export HTML to DICOM image within any .NET applications. This powerful suite of components provides a wide range of features and capabilities that can be used to create, manipulate, convert, and export various file formats. With Aspose.PDF for .NET, developers can export HTML to JPEG, and with Aspose.Imaging for .NET, developers can convert JPEG to DICOM. This makes it easy for developers to export HTML to DICOM image within their .NET applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: TSV FODS XLAM TXT XLSM EXCEL CSV XLSB ODS SXC XLTX DIF
 {{< blocks/products/pf/feature-page-header h1="C# API to Render MHTML to XLTM" h2="Export MHTML File to XLTM via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert MHTML file to XLTM within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export MHTML to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to XLTM. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert MHTML files to XLTM within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export MHTML to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to XLTM. 
+
+Aspose.PDF for .NET is a powerful PDF manipulation API that enables developers to create, read, edit, convert and print PDF documents from within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, annotation, form filling, bookmarks, watermarks, digital signatures, and much more. With Aspose.PDF for .NET, developers can easily export MHTML files to XLSX.
+
+Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, convert and print spreadsheets from within their .NET applications. It provides a wide range of features such as document manipulation, text extraction, image extraction, annotation, form filling, bookmarks, watermarks, digital signatures, and much more. With Aspose.Cells for .NET, developers can easily convert XLSX to XLTM.
+
+Using Aspose.Total for .NET, developers can easily convert MHTML files to XLTM within any .NET, C#, ASP.NET and VB.NET applications. The process involves two steps, firstly using Aspose.PDF for .NET to export MHTML to XLSX and then using Aspose.Cells for .NET Spreadsheet Programming API to convert XLSX to XLTM. Aspose.PDF for .NET and Aspose.Cells for .NET provide a wide range of features that enable developers to easily and quickly convert MHTML files to XLTM.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

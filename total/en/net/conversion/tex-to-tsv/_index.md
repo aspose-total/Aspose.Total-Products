@@ -13,7 +13,16 @@ otherformats: TXT XLAM XLTM XLT FODS EXCEL DIF SXC ODS XLSM MD CSV
 {{< blocks/products/pf/feature-page-header h1="C# API to Render TEX to TSV" h2="Export TEX File to TSV via C# without using Microsoft<sup>&reg;</sup> Excel or Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can easily convert TEX file to TSV within any .NET, C#, ASP.NET and VB.NET applications. Firstly, by using [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), you can export TEX to XLSX. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert XLSX to TSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of components that enables developers to easily convert TEX file to TSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to create, manipulate, and convert documents. 
+
+The process of converting TEX to TSV involves two steps. Firstly, Aspose.PDF for .NET can be used to export TEX to XLSX. This component provides a wide range of features and capabilities that make it easy to create, manipulate, and convert PDF documents. It also supports a wide range of file formats, including TEX, XLSX, and TSV. 
+
+Once the TEX file has been converted to XLSX, Aspose.Cells for .NET can be used to convert XLSX to TSV. This component provides a powerful Spreadsheet Programming API that makes it easy to create, manipulate, and convert spreadsheets. It also supports a wide range of file formats, including XLSX, TSV, and TEX. 
+
+Using Aspose.Total for .NET, developers can easily convert TEX file to TSV within any .NET, C#, ASP.NET and VB.NET applications. This suite of components provides a wide range of features and capabilities that make it easy to create, manipulate, and convert documents. It also supports a wide range of file formats, including TEX, XLSX, and TSV. By using Aspose.PDF for .NET to export TEX to XLSX, and Aspose.Cells for .NET to convert XLSX to TSV, developers can quickly and easily convert TEX to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

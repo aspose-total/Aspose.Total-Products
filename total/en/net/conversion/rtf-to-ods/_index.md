@@ -13,7 +13,16 @@ otherformats: XLTX EXCEL XLAM XLT XLTM XLSX DIF FODS XLSM SXC CSV TSV XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert RTF to ODS or Online App" h2="Export RTF to ODS via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include RTF to ODS conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export RTF to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to ODS. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate RTF to ODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting RTF to ODS. 
+
+The first step involves using Aspose.Words for .NET to export RTF to HTML. Aspose.Words for .NET is a powerful .NET component that enables developers to create, edit, and convert documents from one format to another. It supports a wide range of document formats, including RTF, HTML, DOC, DOCX, ODT, and many more. With Aspose.Words for .NET, developers can easily convert RTF to HTML with just a few lines of code. 
+
+The second step involves using Aspose.Cells for .NET to convert HTML to ODS. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets from one format to another. It supports a wide range of spreadsheet formats, including ODS, XLS, XLSX, CSV, and many more. With Aspose.Cells for .NET, developers can easily convert HTML to ODS with just a few lines of code. 
+
+By using Aspose.Total for .NET, developers can quickly and easily incorporate RTF to ODS conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This powerful suite of components provides a simple two-step process for converting RTF to ODS, making it easy for developers to quickly and easily add this feature to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

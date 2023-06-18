@@ -13,7 +13,16 @@ otherformats: XLSX DIF TSV XLS EXCEL XLT SXC FODS XLTM XLSB XLAM XLTX ODS XLSM
 {{< blocks/products/pf/feature-page-header h1="C# API to Convert WORDML to CSV or Online App" h2="Export WORDML to CSV via C# without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for .NET](https://products.aspose.com/total/net/) you can include WORDML to CSV conversion feature within any .NET, C#, ASP.NET and VB.NET application in two simple steps. Firstly, by using [Aspose.Words for .NET](https://products.aspose.com/words/net/), you can export WORDML to HTML. After that, by using [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) Spreadsheet Programming API, you can convert HTML to CSV. 
+
+
+Aspose.Total for .NET is a comprehensive suite of .NET components that enables developers to easily incorporate WORDML to CSV conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This feature can be implemented in two simple steps. 
+
+The first step is to use Aspose.Words for .NET to export WORDML to HTML. Aspose.Words for .NET is a powerful .NET library that enables developers to create, edit, convert and print Word documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, OOXML, HTML, OpenDocument, PDF, EPUB, XPS, and other popular formats. It also provides a comprehensive set of features for manipulating Word documents, such as document creation, conversion, mail merge, text manipulation, and more. 
+
+The second step is to use Aspose.Cells for .NET to convert HTML to CSV. Aspose.Cells for .NET is a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, XLSB, CSV, HTML, ODS, and other popular formats. It also provides a comprehensive set of features for manipulating spreadsheets, such as spreadsheet creation, conversion, data extraction, data manipulation, and more. 
+
+By using Aspose.Total for .NET, developers can easily incorporate WORDML to CSV conversion feature into their .NET, C#, ASP.NET and VB.NET applications. This feature can be implemented in two simple steps, using Aspose.Words for .NET to export WORDML to HTML, and Aspose.Cells for .NET to convert HTML to CSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
