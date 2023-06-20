@@ -4,7 +4,7 @@ description: تحويل مستندات Word dotm إلى ملفات PowerPoint po
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="تحويل DOTM إلى POTM باستخدام C# أو عبر الإنترنت" h2="أنشئ Microsoft Word DOTM إلى تطبيقات تحويل PowerPoint POTM على .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin الأنظمة الأساسية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="تحويل DOTM إلى POTM باستخدام C# أو عبر الإنترنت" h2="أنشئ Microsoft Word DOTM إلى تطبيقات تحويل PowerPoint POTM على .NET Framework أو .NET Core أو Windows Azure أو Mono أو Xamarin الأنظمة الأساسية." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="كيفية تحويل DOTM إلى POTM باستخدام C# أو عبر الإنترنت" %}}

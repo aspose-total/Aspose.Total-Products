@@ -6,11 +6,11 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android για χειρισμό μορφών αρχείων σε εφαρμογές για κινητά" h2="Χειριστείτε Word, Excel, PowerPoint, PDF, Outlook και πολλές άλλες μορφές εγγράφων σε εφαρμογές για κινητά χωρίς να εγκαταστήσετε λογισμικό." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android για χειρισμό μορφών αρχείων σε εφαρμογές για κινητά" h2="Χειριστείτε Word, Excel, PowerPoint, PDF, Outlook και πολλές άλλες μορφές εγγράφων σε εφαρμογές για κινητά χωρίς να εγκαταστήσετε λογισμικό." logoImageSrc="/total/images/aspose_total-for-android-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total for Android via Java είναι μια συλλογή κάθε API Android που προσφέρεται από την Aspose. Οι προγραμματιστές μπορούν να δημιουργούν, να χειρίζονται, να αποδίδουν και να μετατρέπουν μεταξύ διαφορετικών μορφών εγγράφων εντός εφαρμογών Android.
@@ -18,27 +18,27 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total for Android via Java περιλαμβάνει τα ακόλουθα API μορφής εγγράφου:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/el/android-java/" imgSrc="/total/images/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Το Aspose.Words for Android via Java είναι ένα προηγμένο API επεξεργασίας εγγράφων του Word που σας δίνει τη δυνατότητα να δημιουργείτε, να τροποποιείτε, να μετατρέπετε και να αποδίδετε έγγραφα Microsoft Word εύκολα στις εφαρμογές σας Android.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/el/android-java/" imgSrc="/total/images/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Το Aspose.PDF for Android via Java είναι ένα API δημιουργίας και χειρισμού PDF που επιτρέπει στις εφαρμογές σας Android να γράφουν, να διαβάζουν και να επεξεργάζονται αρχεία PDF χωρίς τη χρήση άλλης εφαρμογής τρίτων.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/el/android-java/" imgSrc="/total/images/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Το Aspose.Cells for Android via Java είναι ένα API υπολογιστικού φύλλου του Microsoft Excel που σας επιτρέπει να αναπτύξετε εφαρμογές Android για ανάγνωση, γραφή και χειρισμό υπολογιστικών φύλλων Excel χωρίς να εξαρτάστε από το Microsoft Excel.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/el/android-java/" imgSrc="/total/images/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Το Aspose.Email for Android via Java είναι ένα API χειρισμού μηνυμάτων του Microsoft Outlook, χρησιμοποιώντας το οποίο μπορείτε να αναπτύξετε εφαρμογές Android για διαχείριση και χειρισμό μηνυμάτων email χωρίς να χαθείτε στην πολυπλοκότητα της εφαρμογής μορφής αρχείου του Microsoft Outlook.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/el/android-java/" imgSrc="/total/images/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Το Aspose.Slides for Android via Java είναι ένα συγκεκριμένο API διαχείρισης και ανάλυσης PowerPoint που επιτρέπει σε εφαρμογές που βασίζονται στο Android να γράφουν, να διαβάζουν και να χειρίζονται παρουσιάσεις PowerPoint χωρίς τη χρήση του Microsoft PowerPoint. Προσφέρει ενσωματωμένη υποστήριξη για τη δημιουργία γραφημάτων MSO, σχημάτων SmartArt και στοιχείων ελέγχου ActiveX.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/el/android-java/" imgSrc="/total/images/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Το Aspose.BarCode for Android via Java είναι ένα σύνολο API γραμμωτού κώδικα για τη δημιουργία και την αναγνώριση γραμμωτών κωδίκων 1D και 2D από εικόνες σε οποιαδήποτε γωνία.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -170,8 +170,8 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Total για Android μέσω Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -180,12 +180,12 @@ description: API μορφοποίησης αρχείων Android για Word Exc
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/el/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ description: Python könyvtárak Excel-táblázatok elemzéséhez, vonalkód gen
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python automatizálási megoldás Excel, Visio és vonalkódokhoz" h2="Manipulálhat Excel-táblázatokat és Visio-diagram fájlokat, valamint különféle szimbólumok vonalkódjait generálhatja és felismerheti." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-java.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/total/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python automatizálási megoldás Excel, Visio és vonalkódokhoz" h2="Manipulálhat Excel-táblázatokat és Visio-diagram fájlokat, valamint különféle szimbólumok vonalkódjait generálhatja és felismerheti." logoImageSrc="/total/images/aspose_total-for-python-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/total/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-java/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for Python via Java egy teljes programcsomag Python-fejlesztők számára, amelyek segítségével a Python-alkalmazásokon belül létrehozhatnak, kezelhetnek, renderelhetnek és konvertálhatnak különböző Excel és Visio formátumokat.
@@ -22,15 +22,15 @@ Az Aspose.Total for Python via Java egy teljes programcsomag Python-fejlesztők 
 PDF Python API PDF-fájlok létrehozásához, szerkesztéséhez és kezeléséhez Adobe Acrobat-függőségek nélkül. A fejlesztők beszerezhetik és beállíthatják a metaadatokat, módosíthatják a szöveget és az oldaladatokat, feloszthatnak és egyesíthetnek fájlokat, exportálhatnak PDF-dokumentumot más formátumokba és még sok mást.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/python-java/" imgSrc="/total/images/aspose_cells-for-python-java.svg" productName="Aspose.Cells for Python via Java">}}
 Egy Excel Python-könyvtár olyan folyamatok automatizálására, mint a táblázatok generálása, manipulálása és konvertálása. A munkalapokat XPS-re, PDF-re, MHTML-re, HTML-re, egyszerű szövegre és képekre is képes renderelni. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/python-java/" imgSrc="/total/images/aspose_barcode-for-python-java.svg" productName="Aspose.BarCode for Python via Java">}}
 Python vonalkódkönyvtár 1D és 2D vonalkódok generálására és felismerésére a képekből bármilyen szögben a Python alkalmazásokon belül a python-java bridge használatával. A fejlesztők könnyedén hozzáadhatnak vonalkód-generáló és -felismerési funkciókat saját Python-alkalmazásaikhoz. 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/hu/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/hu/python-java/" imgSrc="/total/images/aspose_diagram-for-python-java.svg" productName="Aspose.Diagram for Python via Java">}}
 Python Diagram könyvtár, amely segít létrehozni, olvasni, írni és exportálni a Microsoft Visio VSDX, VDX, VSX, VTX és más formátumokat anélkül, hogy Microsoft Visio vagy bármilyen más szoftver kellene.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -194,8 +194,8 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum gyors 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.Total a Python számára Java-n keresztül?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -204,15 +204,15 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum gyors 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
     
-    {{< blocks/products/pf/offers-section-item link="/total/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -10,7 +10,7 @@ outformat: RTF
 otherformats: ODT DOT TEXT DOTM DOCM DOCX WORDML DOTX FLATOPC WORD OTT DOC
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Render POTM to RTF on Andorid via Java or Online App" h2="File format APIs to convert POTM to RTF within Android apps without depending upon Microsoft PowerPoint or Word" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Render POTM to RTF on Andorid via Java or Online App" h2="File format APIs to convert POTM to RTF within Android apps without depending upon Microsoft PowerPoint or Word" logoImageSrc="/total/images/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for Android via Java" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert POTM to RTF within Android Applications" %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) allows manipulating file formats within Android applications. By using the APIs provided in the package you can automate PowerPoint POTM to Word RTF conversion process in your apps. 

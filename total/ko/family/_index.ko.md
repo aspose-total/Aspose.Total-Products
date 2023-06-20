@@ -6,36 +6,36 @@ description: Microsoft Excel Word PowerPoint 이메일 PDF Visio 프로젝트 �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 API 세트" h2=".NET, Java, Android, C++ 및 기타 플랫폼용 기본 API를 사용하여 Word, Excel, PDF, PowerPoint, Outlook 및 100개 이상의 기타 파일 형식을 조작하십시오." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 API 세트" h2=".NET, Java, Android, C++ 및 기타 플랫폼용 기본 API를 사용하여 Word, Excel, PDF, PowerPoint, Outlook 및 100개 이상의 기타 파일 형식을 조작하십시오." logoImageSrc="/total/images/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total 제품군 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="/total/ko/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="/total/ko/net" >}}
 Windows Forms, ASP.NET, WPF, WCF 또는 .NET Framework 2.0 이상을 기반으로 하는 모든 유형의 응용 프로그램을 대상으로 합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="/total/ko/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="/total/ko/java" >}}
 데스크탑, 웹 또는 Java SE 또는 EE를 기반으로 하는 모든 종류의 애플리케이션을 위한 기본 Java API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/ko/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="/total/ko/cpp" >}}
 C++ 응용 프로그램에서 Word 문서, Excel 스프레드시트, PowerPoint 프레젠테이션, 이메일 메시지 및 PDF 파일을 생성, 조작, 변환 또는 렌더링합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/ko/android-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="/total/images/aspose_total-for-android-java.svg" productLink="/total/ko/android-java" >}}
 모바일 앱에서 Word, Excel, PowerPoint 및 기타 형식을 조작합니다. Android OS 2.3 이상에서 작동합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" productLink="/total/ko/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="/total/images/aspose_total-for-sharepoint.svg" productLink="/total/ko/sharepoint" >}}
 SharePoint Foundation 및 Server에서 Word, Excel, PowerPoint 및 기타 형식을 변환합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" productLink="/total/ko/reporting-services" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="/total/images/aspose_total-for-reporting-services.svg" productLink="/total/ko/reporting-services" >}}
 SQL Server Reporting Services에서 RDL 보고서를 Word, Excel, PowerPoint 및 기타 형식으로 내보냅니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" productLink="/total/ko/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="/total/images/aspose_words-for-jasperreports.svg" productLink="/total/ko/jasperreports" >}}
 JasperReports 또는 JasperServer에서 Word, Excel, PowerPoint 및 기타 형식으로 보고서를 내보냅니다.
 {{< /blocks/products/pf/product >}}
 
@@ -57,8 +57,8 @@ JasperReports 또는 JasperServer에서 Word, Excel, PowerPoint 및 기타 형�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.Total 제품군을 선택해야 하는 이유?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

@@ -4,7 +4,7 @@ description: PowerPoint ppt belgelerini C# ile Word dotm dosyalarına dönüşt�
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="C# kullanarak PPT'yi DOTM'ye dönüştürün veya çevrimiçi" h2=".NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında Microsoft PowerPoint PPT Sunumunu Word DOTM belge dönüştürme uygulamalarına oluşturun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C# kullanarak PPT'yi DOTM'ye dönüştürün veya çevrimiçi" h2=".NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında Microsoft PowerPoint PPT Sunumunu Word DOTM belge dönüştürme uygulamalarına oluşturun." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="C# Kullanarak PPT'yi DOTM'ye Dönüştürme" %}}

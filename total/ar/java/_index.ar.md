@@ -6,11 +6,11 @@ description: مجموعة من واجهات برمجة التطبيقات لمط
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="إنشاء وتحرير وتحويل الملفات عبر Java APIs" h2="تعامل مع Word و Excel و PowerPoint و Outlook و PDF و 3D و CAD وتنسيقات المستندات الأخرى من تطبيقات Java الخاصة بك." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="إنشاء وتحرير وتحويل الملفات عبر Java APIs" h2="تعامل مع Word و Excel و PowerPoint و Outlook و PDF و 3D و CAD وتنسيقات المستندات الأخرى من تطبيقات Java الخاصة بك." logoImageSrc="/total/images/aspose_total-for-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Java عبارة عن مجموعة من مكتبات أتمتة تنسيق الملفات لمطوري Java ، وتمكينهم من إنشاء وتحديث وطباعة وتقديم وتحويل بين تنسيقات ملفات متعددة من داخل أي تطبيقات Java J2SE و J2EE و J2ME.
@@ -18,83 +18,83 @@ Aspose.Total for Java عبارة عن مجموعة من مكتبات أتمتة 
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Java يسمح للمطورين بأداء مجموعة واسعة من إدارة تنسيق المستندات ومعالجتها ومعالجتها مباشرة داخل تطبيقات Java. وهو يدعم معظم التنسيقات الشائعة بما في ذلك مستندات Word وجداول بيانات Excel وعروض PowerPoint التقديمية و HTML و OpenDocument و Visio و PDF و CAD والعديد من تنسيقات الملفات الأخرى. باستخدام Aspose.Total ، يمكن للمرء إنشاء المستندات وتعديلها وتحويلها دون استخدام أي برنامج." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
+{{< blocks/products/pf/total/product-item href="/words/ar/java/" imgSrc="/total/images/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 يسمح Aspose.Words for Java للمطورين بأداء مجموعة كبيرة من مهام معالجة المستندات مباشرة داخل تطبيقات Java. وهو يدعم تنسيقات معالجة النصوص الأكثر شيوعًا بما في ذلك DOC و OOXML و RTF و HTML و OpenDocument. باستخدام Aspose.Words ، يمكنك إنشاء وتعديل وتحويل المستندات دون استخدام Microsoft Word.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ar/java/" imgSrc="/total/images/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
 Aspose.PDF for Java عبارة عن واجهة برمجة تطبيقات لإنشاء مستندات PDF تمكّن تطبيقات Java الخاصة بك من قراءة مستندات PDF وكتابتها ومعالجتها دون استخدام Adobe Acrobat. إنها واجهة برمجة تطبيقات مستقلة توفر قدرًا كبيرًا من الميزات بما في ذلك خيارات ضغط PDF ، وإنشاء الجدول ومعالجته ، ومعالجة الخطوط المخصصة وعناصر تحكم الأمان الموسعة.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/java/" imgSrc="/total/images/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
 يوفر Aspose.Cells for Java إنشاء ملفات Excel وتحويلها ومعالجتها. تمكّن API تطبيقات Java من إنشاء جداول بيانات Excel وإدارتها دون استخدام Microsoft Excel. Aspose.Cells for Java هي واجهة برمجة تطبيقات غنية بالمميزات تقدم أكثر بكثير من مجرد وظائف تصدير البيانات الأساسية.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
+{{< blocks/products/pf/total/product-item href="/email/ar/java/" imgSrc="/total/images/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
 Aspose.Email for Java عبارة عن مجموعة من Java APIs لقراءة وكتابة ملفات رسائل البريد الإلكتروني بتنسيقات مختلفة بدون Microsoft Outlook. يوفر فئات لقراءة ملفات Outlook MSG و EML و EMLX و OFT ومعالجتها - إضافة المرفقات والمستلمين وتحديث الموضوع والجسم وخصائص ملف MSG الأخرى.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/ar/java/" imgSrc="/total/images/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
 Aspose.Slides for Java هي واجهة برمجة تطبيقات فريدة لمعالجة العروض التقديمية تمكّن التطبيقات المستندة إلى Java من قراءة ملفات PowerPoint وكتابتها وتحديثها. يمكن للمطورين إنشاء العروض التقديمية ومعالجتها ونسخها وتحويلها وتقديمها وطباعتها دون تثبيت Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productName="Aspose.Imaging for Java">}}
+{{< blocks/products/pf/total/product-item href="/imaging/java/" imgSrc="/total/images/aspose_imaging-for-java.svg" productName="Aspose.Imaging for Java">}}
 Aspose.Imaging for Java هي واجهة برمجة تطبيقات للتصوير تتيح للمطورين تحرير الصور أو إنشائها أو رسمها أو عرضها في تطبيقات Java الخاصة بهم. إنه يوفر مجموعة واسعة من عمليات معالجة الصور التقليدية بالإضافة إلى الميزات الأكثر طلبًا التي تجعله محرك التصوير الأكثر استخدامًا.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/java/" imgSrc="/total/images/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
 تقدم Aspose.BarCode for Java API إضافة عمليات إنشاء الرموز الشريطية والتعرف عليها ضمن تطبيقات Java الخاصة بهم. وهو يدعم منصات Java SE و Java EE و Java ME والعديد من أنواع الرموز الشريطية الخطية والثنائية الأبعاد والبريدية.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/ar/java/" imgSrc="/total/images/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
 Aspose.Diagram for Java هو واجهة برمجة تطبيقات غير رسومية وذات بنية جيدة تسمح للمطورين بتحميل الرسوم البيانية الموجودة أو إنشاء الرسوم البيانية من البداية أو حفظ رسم تخطيطي بأي تنسيق ملف مدعوم أو معالجة رسومات Microsoft Visio داخل تطبيقات Java دون استخدام Microsoft Visio.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
+{{< blocks/products/pf/total/product-item href="/tasks/ar/java/" imgSrc="/total/images/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
 Aspose.Tasks for Java هي واجهة برمجة تطبيقات لإدارة المشاريع تمكن مطوري تطبيقات Java من توفير إمكانية معالجة مستندات Microsoft Project في تطبيقاتهم - كل ذلك بدون استخدام Microsoft Project. باستخدام واجهة برمجة التطبيقات القوية هذه ، يمكن للمطورين التحكم في مختلف مراحل إدارة المشروع مثل تخطيط المشروع وتعريفه وتتبعه.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
+{{< blocks/products/pf/total/product-item href="/ocr/ar/java/" imgSrc="/total/images/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
 Aspose.OCR for Java عبارة عن واجهة برمجة تطبيقات Java للتعرف الضوئي على الأحرف تسمح للمبرمجين بإضافة تقنية OCR إلى تطبيقات Java بسرعة وسهولة. تقدم API مجموعة من الفئات للتعرف على الأحرف من تنسيقات صور متعددة.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
+{{< blocks/products/pf/total/product-item href="/note/ar/java/" imgSrc="/total/images/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
 Aspose.Note for Java API يمكّن البرامج المستندة إلى Java من التعامل مع Microsoft OneNote برمجيًا دون تثبيته على الخادم. إنه بديل خالص لنموذج كائن Microsoft OneNote ويوفر أداءً أفضل وسهولة في الاستخدام لإدارة مستندات OneNote.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
+{{< blocks/products/pf/total/product-item href="/cad/ar/java/" imgSrc="/total/images/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
 يقدم Aspose.CAD for Java تحويل ملفات رسم AutoCAD DXF و DWG إلى PDF والصور النقطية. لكونه واجهة برمجة تطبيقات أصلية ، فإنه لا يتطلب أوتوكاد أو أي برنامج ليكون ضروريًا.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
+{{< blocks/products/pf/total/product-item href="/3d/ar/java/" imgSrc="/total/images/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
 تم تصميم Aspose.3D for Java API لإنشاء وتحرير ومعالجة وحفظ التنسيقات ثلاثية الأبعاد. إنه يمكّن تطبيقات Java من الاتصال بالمستندات ثلاثية الأبعاد دون تثبيت أي حزمة برامج على الكمبيوتر ، ويساعد المطورين في نمذجة وإنشاء عوالم اللعبة ومشاهدها لتصور التصميم.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/html/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
+{{< blocks/products/pf/total/product-item href="/html/java/" imgSrc="/total/images/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
 Aspose.HTML for Java هي واجهة برمجة تطبيقات متقدمة لمعالجة HTML تسمح بإنشاء أو تحميل أو تحرير أو تحويل (X) مستندات HTML داخل تطبيقات Java. توفر API أيضًا محرك عرض عالي الدقة لملفات PDF و XPS وعدد من تنسيقات الصور النقطية.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
+{{< blocks/products/pf/total/product-item href="/page/ar/java/" imgSrc="/total/images/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
 Aspose.Page for Java هي واجهة برمجة تطبيقات لتحليل ومعالجة مستندات PostScript و XPS. يمكن للمطورين بسهولة تحويل ملفات PS و EPS إلى تنسيقات PDF وتنسيقات صور نقطية. تسمح API أيضًا للمطورين بإنشاء ملفات XPS وتحليلها وحفظها دون أي تبعيات.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
+{{< blocks/products/pf/total/product-item href="/psd/ar/java/" imgSrc="/total/images/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
 Aspose.PSD for Java هي واجهة برمجة تطبيقات أساسية لمعالجة تنسيقات Photoshop. يمكن للمطورين إنشاء وتحميل وتحويل وتعديل تنسيقات PSD و PSB بسهولة. يمكن لواجهة برمجة التطبيقات إجراء عمليات مختلفة مثل إضافة العلامات المائية والضغط والتدوير والقياس والمزيد دون الحاجة إلى تثبيت Adobe Photoshop.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
+{{< blocks/products/pf/total/product-item href="/omr/ar/java/" imgSrc="/total/images/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
 Aspose.OMR for Java هو واجهة برمجة تطبيقات للتعرف على العلامات الضوئية من صور الأوراق الرقمية OMR وكذلك من تنسيقات الصور المختلفة مثل BMP و JPG و TIF و TIFF و GIF. تقوم واجهة برمجة التطبيقات (API) بالتقاط البيانات التي يميزها الإنسان من نماذج المستندات مثل الاستطلاعات والاستبيانات و MCQs وما إلى ذلك. أساس التعرف هو ترميز القالب الذي يحتوي على تعيين رسومي للعناصر التي سيتم التعرف عليها من الصور الممسوحة ضوئيًا.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
+{{< blocks/products/pf/total/product-item href="/pub/ar/java/" imgSrc="/total/images/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
 Aspose.PUB for Java هي واجهة برمجة تطبيقات تسمح بقراءة ملفات Microsoft Publisher وتحويلها إلى PDF. علاوة على ذلك ، تسمح API بالعمل مع تنسيق .pub دون الحاجة إلى الخوض في تفاصيل بنية تنسيق الملف الأساسي دون أي تبعيات لـ Microsoft Publisher.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
+{{< blocks/products/pf/total/product-item href="/font/ar/java/" imgSrc="/total/images/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
 Aspose.Font for Java عبارة عن واجهة برمجة تطبيقات لتحميل الخطوط ورسمها تدعم تنسيقات خطوط متعددة. يمكنه بسهولة تنفيذ عمليات ملفات الخطوط مثل تحميل الخطوط من القرص أو البث ، وقراءة معلومات الحروف الرسومية والمقاييس بالإضافة إلى اكتشاف الرموز اللاتينية ، وتقديم النص باستخدام الحروف الرسومية للخط والمزيد.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
+{{< blocks/products/pf/total/product-item href="/tex/ar/java/" imgSrc="/total/images/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
 Aspose.TeX for Java هو واجهة برمجة تطبيقات لتنضيد ملفات TeX. يمكنه بسهولة طباعة ملفات TeX للحصول على مستندات بتنسيقات مختلفة مثل XPS و PDF و PNG و JPEG و TIFF و BMP. كما يتميز بإنشاء تنسيقات TeX المخصصة.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -287,8 +287,8 @@ Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أن�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Total لجافا" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -297,12 +297,12 @@ Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أن�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/ar/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ description: Word Excel PDF PowerPoint 및 이메일용 Android 파일 형식 AP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="모바일 앱에서 파일 형식을 조작하는 Android API" h2="소프트웨어를 설치하지 않고도 모바일 앱에서 Word, Excel, PowerPoint, PDF, Outlook 및 기타 훨씬 더 많은 문서 형식을 조작할 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-android-java.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="모바일 앱에서 파일 형식을 조작하는 Android API" h2="소프트웨어를 설치하지 않고도 모바일 앱에서 Word, Excel, PowerPoint, PDF, Outlook 및 기타 훨씬 더 많은 문서 형식을 조작할 수 있습니다." logoImageSrc="/total/images/aspose_total-for-android-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/androidjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/androidjava" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Android via Java 은 Aspose에서 제공하는 모든 Android API의 컴파일입니다. 개발자는 Android 애플리케이션 내에서 다양한 문서 형식을 생성, 조작, 렌더링 및 변환할 수 있습니다.
@@ -18,27 +18,27 @@ Aspose.Total for Android via Java 은 Aspose에서 제공하는 모든 Android A
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Android via Java 에는 다음 문서 형식 API가 포함됩니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/words/ko/android-java/" imgSrc="/total/images/aspose_words-for-android-java.svg" productName="Aspose.Words for Android via Java">}}
 Aspose.Words for Android via Java 는 Android 애플리케이션 내에서 Microsoft Word 문서를 쉽게 생성, 수정, 변환 및 렌더링할 수 있는 고급 Word 문서 처리 API입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ko/android-java/" imgSrc="/total/images/aspose_pdf-for-android-java.svg" productName="Aspose.PDF for Android via Java">}}
 Aspose.PDF for Android via Java 는 다른 타사 응용 프로그램을 사용하지 않고도 Android 응용 프로그램에서 PDF 파일을 작성, 읽기 및 편집할 수 있도록 하는 PDF 생성 및 조작 API입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/ko/android-java/" imgSrc="/total/images/aspose_cells-for-android-java.svg" productName="Aspose.Cells for Android via Java">}}
 Aspose.Cells for Android via Java 는 Microsoft Excel에 의존하지 않고 Excel 스프레드시트를 읽고, 쓰고, 조작하기 위한 Android 애플리케이션을 개발할 수 있는 Microsoft Excel 스프레드시트 API입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/email/ko/android-java/" imgSrc="/total/images/aspose_email-for-android-java.svg" productName="Aspose.Email for Android via Java">}}
 Aspose.Email for Android via Java 은 Microsoft Outlook 메시지 조작 API로, 이를 사용하여 Microsoft Outlook 파일 형식 구현의 복잡성에서 길을 잃지 않고 이메일 메시지를 관리 및 조작하기 위한 Android 애플리케이션을 개발할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/ko/android-java/" imgSrc="/total/images/aspose_slides-for-android-java.svg" productName="Aspose.Slides for Android via Java">}}
 Aspose.Slides for Android via Java 는 Android 기반 애플리케이션이 Microsoft PowerPoint를 사용하지 않고도 PowerPoint 프레젠테이션을 작성, 읽기 및 조작할 수 있도록 하는 특정 PowerPoint 관리 및 구문 분석 API입니다. MSO 차트, SmartArt 모양 및 ActiveX 컨트롤을 만들기 위한 기본 제공 지원을 제공합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ko/android-java/" imgSrc="/total/images/aspose_barcode-for-android-java.svg" productName="Aspose.BarCode for Android via Java">}}
 Aspose.BarCode for Android via Java 는 모든 각도의 이미지에서 1D 및 2D 바코드를 생성하고 인식하는 바코드 API 세트입니다.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -170,8 +170,8 @@ Aspose.Total은 거의 모든 종류의 문서를 고속으로 우수한 품질�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.Total for Android via Java 을 사용해야 하는 이유?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -180,12 +180,12 @@ Aspose.Total은 거의 모든 종류의 문서를 고속으로 우수한 품질�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼에 대한 개별 솔루션을 제공합니다." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/ko/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

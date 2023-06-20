@@ -6,11 +6,11 @@ description: تقوم JasperReports بتصدير مجموعة لتصدير ال�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="JasperReports ملحقات لتسليم التقارير في تنسيقات Office" h2="يمكنك تصدير JasperReports بسهولة إلى تنسيقات Word و Excel و PDF و PowerPoint و Image أثناء إضافة الرموز الشريطية إلى المستندات المصدرة." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="JasperReports ملحقات لتسليم التقارير في تنسيقات Office" h2="يمكنك تصدير JasperReports بسهولة إلى تنسيقات Word و Excel و PDF و PowerPoint و Image أثناء إضافة الرموز الشريطية إلى المستندات المصدرة." logoImageSrc="/total/images/aspose_total-for-jasperreports-header.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_words-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for JasperReports هو مجموعة غنية بالمميزات من JasperReports Exporters تسمح للمطورين بتصدير التقارير بتنسيقات Microsoft Word و Excel و PowerPoint و PDF. يوفر أحد المصدرين في Aspose.Total لعائلة JasperReports أيضًا القدرة على إضافة رموز شريطية إلى الملفات المصدرة.
@@ -18,31 +18,31 @@ Aspose.Total for JasperReports هو مجموعة غنية بالمميزات م�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for JasperReports يشمل المصدرين التاليين:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/ar/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/ar/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words for JasperReports هو الحل الوحيد في السوق لتصدير التقارير من JasperReports و JasperServer إلى مستند Microsoft Word (DOC) ، Office Open XML (OOXML ، DOCX) ، Rich Text Format (RTF) ، OpenDocument Text (ODT) ، Web صفحة (HTML) وتنسيقات نص عادي (TXT).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/ar/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ar/jasperreports/" imgSrc="/total/images/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 Aspose.PDF for JasperReports تم تصميمه وتطويره خصيصًا لتصدير التقارير من JasperReports و JasperServer إلى تنسيق المستندات المحمولة (PDF) وإصدارها القياسي ISO ؛ PDF / A. يتم تحويل معظم ميزات التقرير مثل المخططات والجداول والصور إلى PDF بأعلى درجة من الدقة.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/ar/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/ar/jasperreports/" imgSrc="/total/images/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 Aspose.Cells for JasperReports يسمح لأحد بتصدير التقارير من JasperReports و JasperServer إلى تنسيقات جداول بيانات Microsoft Excel بما في ذلك XLS و XLSX و SpreadsheetML. كما أنه يدعم التنسيقات الشائعة الأخرى مثل PDF و ODS و CSV و Tab-delimited.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/ar/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/ar/jasperreports/" imgSrc="/total/images/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 Aspose.Slides for JasperReports مصمم للمطورين الذين يحتاجون إلى تصدير تقارير من JasperReports إلى Microsoft PowerPoint 97-2003 (PPT و PPS) و Microsoft PowerPoint 2007-2013 (PPTX و PPSX) تنسيقات العرض من داخل تطبيقات Java.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="/total/images/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 Aspose.Imaging for JasperReports يوفر حلاً مرنًا لتصدير JasperReports إلى تنسيقات صور متعددة. يمكن للمرء بسهولة إنشاء تقارير متعددة الصفحات أو تصدير الدُفعات. في وضع الدُفعات. سيتم حفظ كل صفحة تقرير كمستند منفصل.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/ar/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ar/jasperreports/" imgSrc="/total/images/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 Aspose.BarCode لـ JasperReports يوفر حلاً فريدًا وقويًا لتعزيز فائدة عملك. يسمح للمطورين بإنشاء ملصقات باركود عالية الجودة وعرضها على JasperReports.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="/total/images/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 يوفر Aspose.CAD for JasperReports حلاً فريدًا وقويًا لتصدير JasperReports إلى تنسيقات CAD متنوعة وتنسيقات متجهية أخرى. يمكنه بسهولة إنشاء تقارير متعددة الصفحات أو تصدير الدُفعات في وضع الدُفعات. سيتم حفظ كل صفحة تقرير كمستند منفصل.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -215,8 +215,8 @@ Aspose.BarCode لـ JasperReports يوفر حلاً فريدًا وقويًا ل
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Total for JasperReports؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -225,12 +225,12 @@ Aspose.BarCode لـ JasperReports يوفر حلاً فريدًا وقويًا ل
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/ar/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ar/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ar/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

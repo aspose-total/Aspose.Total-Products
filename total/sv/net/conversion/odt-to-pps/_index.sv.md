@@ -4,7 +4,7 @@ description: Konvertera Word odt-dokument till PowerPoint pps-filer med C#. Konv
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODT till PPS med C# eller online" h2="Bygg Microsoft Word ODT till PowerPoint PPS-konverteringsappar på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPS" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODT till PPS med C# eller online" h2="Bygg Microsoft Word ODT till PowerPoint PPS-konverteringsappar på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPS" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Hur man konverterar ODT till PPS med C#" %}}

@@ -4,7 +4,7 @@ description: C#을 사용하여 PowerPoint pptm 문서를 Word 문서 파일로 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="C#을 사용하여 PPTM를 DOT로 변환 또는 온라인" h2=".NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 플랫폼에서 Microsoft PowerPoint PPTM 프레젠테이션을 Word DOT 문서 변환 앱으로 빌드합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C#을 사용하여 PPTM를 DOT로 변환 또는 온라인" h2=".NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 플랫폼에서 Microsoft PowerPoint PPTM 프레젠테이션을 Word DOT 문서 변환 앱으로 빌드합니다." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 PPTM를 DOT로 변환 또는 온라인하는 방법" %}}

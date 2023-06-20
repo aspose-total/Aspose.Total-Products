@@ -6,20 +6,20 @@ description: Xây dựng các ứng dụng thao tác tài liệu bằng API On P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Bộ hoàn chỉnh các giải pháp thao tác định dạng tệp" h2="Aspose.Total cung cấp bộ giải pháp xử lý tài liệu hoàn chỉnh và hiệu quả nhất mà không cần cài đặt và phụ thuộc phần mềm nào khác." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Bộ hoàn chỉnh các giải pháp thao tác định dạng tệp" h2="Aspose.Total cung cấp bộ giải pháp xử lý tài liệu hoàn chỉnh và hiệu quả nhất mà không cần cài đặt và phụ thuộc phần mềm nào khác." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm các API mã cao của Aspose.Total" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/vi/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/vi/net/" >}}
 Trên các API Premise .NET để thao tác với nhiều định dạng tài liệu trong các ứng dụng dựa trên Windows, Web, iOS và Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/vi/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/vi/java/" >}}
 Các API nền tảng dựa trên Java để tạo, sửa đổi, hiển thị hoặc phân tích cú pháp tệp Microsoft Word, tài liệu Web, Văn bản và OpenOffice trực tiếp trong các ứng dụng.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/vi/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/vi/cpp/" >}}
 Tạo, tải, thao tác hoặc chuyển đổi các định dạng và hình ảnh tài liệu khác nhau trong các ứng dụng C++ thuần túy bằng cách sử dụng thư viện C++ gốc.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ Tạo, tải, thao tác hoặc chuyển đổi các định dạng và hình ả
 
 {{< blocks/products/pf/product-card-row title="Bao gồm các API mã Aspose.Total Low" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 Thao tác và xử lý các tệp Microsoft Word thông qua lệnh gọi API REST từ bất kỳ thiết bị nào.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 Các API REST PDF để tạo, hiển thị, chia nhỏ và chuyển đổi các tài liệu PDF một cách dễ dàng.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs để phát triển các ứng dụng thao tác bảng tính hỗ trợ nhiều định dạng Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Cloud APIs để phát triển các ứng dụng thao tác bảng t
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Không bao gồm các ứng dụng mã" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 Dễ dàng kết hợp nhiều tệp với nhau. Hợp nhất tài liệu trực tuyến theo thứ tự của bạn.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Dễ dàng nén tài liệu mà vẫn giữ nguyên chất lượng ban đầu.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Tự do chuyển đổi hơn 100 định dạng sang các tài liệu khác trực tuyến.
 {{< /blocks/products/pf/product >}}
 

@@ -4,7 +4,7 @@ description: Chuyển đổi tài liệu pot PowerPoint sang tệp Word dot bằ
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi POT sang DOT bằng C# hoặc trực tuyến" h2="Xây dựng Microsoft PowerPoint POT Presentation sang các ứng dụng chuyển đổi tài liệu Word DOT trên .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi POT sang DOT bằng C# hoặc trực tuyến" h2="Xây dựng Microsoft PowerPoint POT Presentation sang các ứng dụng chuyển đổi tài liệu Word DOT trên .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin Platforms." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi POT sang DOT bằng C#" %}}

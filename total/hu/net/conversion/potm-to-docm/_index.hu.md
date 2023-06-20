@@ -4,7 +4,7 @@ description: Konvertálja a PowerPoint potm dokumentumokat Word docm fájlokká 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="POTM konvertálása DOCM-ba a C# használatával vagy online" h2="Microsoft PowerPoint POTM-bemutatót készíthet Word DOCM-dokumentumkonverziós alkalmazásokba .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="POTM konvertálása DOCM-ba a C# használatával vagy online" h2="Microsoft PowerPoint POTM-bemutatót készíthet Word DOCM-dokumentumkonverziós alkalmazásokba .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Hogyan lehet az POTM-t DOCM-ba konvertálni C# használatával" %}}

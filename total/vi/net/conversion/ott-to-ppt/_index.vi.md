@@ -4,7 +4,7 @@ description: Chuyển đổi tài liệu Word ott sang tệp ppt PowerPoint bằ
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi OTT sang PPT bằng C# hoặc trực tuyến" h2="Xây dựng ứng dụng chuyển đổi Microsoft Word OTT sang PowerPoint PPT trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi OTT sang PPT bằng C# hoặc trực tuyến" h2="Xây dựng ứng dụng chuyển đổi Microsoft Word OTT sang PowerPoint PPT trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Cách chuyển OTT sang PPT bằng C#" %}}

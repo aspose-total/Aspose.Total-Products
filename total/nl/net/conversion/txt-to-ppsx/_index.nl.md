@@ -4,7 +4,7 @@ description: Converteer Word-documentdocumenten naar PowerPoint PPSX-bestanden m
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Converteer TXT naar PPSX met C# of online" h2="Bouw Microsoft Word TXT naar PowerPoint PPSX-conversie-apps op .NET Framework-, .NET Core-, Windows Azure-, Mono- of Xamarin-platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Converteer TXT naar PPSX met C# of online" h2="Bouw Microsoft Word TXT naar PowerPoint PPSX-conversie-apps op .NET Framework-, .NET Core-, Windows Azure-, Mono- of Xamarin-platforms." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Hoe TXT naar PPSX te converteren met C#" %}}

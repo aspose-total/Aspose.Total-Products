@@ -4,7 +4,7 @@ description: Konvertálja a Word flatopc dokumentumokat PowerPoint pptx fájlokk
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="A FLATOPC konvertálása PPTX-vé a C# használatával vagy online" h2="A Microsoft Word FLATOPC-ból PowerPoint PPTX-konverziós alkalmazásokat készíthet .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="A FLATOPC konvertálása PPTX-vé a C# használatával vagy online" h2="A Microsoft Word FLATOPC-ból PowerPoint PPTX-konverziós alkalmazásokat készíthet .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="FLATOPC konvertálása PPTX-vé C# használatával" %}}

@@ -6,11 +6,11 @@ description: JasperReports는 보고서를 Word Excel PDF 및 PowerPoint 형식�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Office 형식으로 보고서를 제공하는 JasperReports Extensions" h2="내보낸 문서에 바코드를 추가하면서 JasperReports를 Word, Excel, PDF, PowerPoint 및 이미지 형식으로 쉽게 내보낼 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-jasperreports.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Office 형식으로 보고서를 제공하는 JasperReports Extensions" h2="내보낸 문서에 바코드를 추가하면서 JasperReports를 Word, Excel, PDF, PowerPoint 및 이미지 형식으로 쉽게 내보낼 수 있습니다." logoImageSrc="/total/images/aspose_total-for-jasperreports-header.svg" pfName="Aspose.Total" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_words-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/jasperreports/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/jasperreports" >}}
 
 {{< blocks/products/pf/total/overview >}}
 JasperReports용 Aspose.Total은 기능이 풍부한 JasperReports 내보내기 제품군으로 개발자가 보고서를 Microsoft Word, Excel, PowerPoint 및 PDF 형식으로 내보낼 수 있습니다. Aspose.Total for JasperReports 제품군의 내보내기 중 하나는 내보낸 파일에 바코드를 추가하는 기능도 제공합니다.
@@ -18,31 +18,31 @@ JasperReports용 Aspose.Total은 기능이 풍부한 JasperReports 내보내기 
 
 {{< blocks/products/pf/total/products description="JasperReports용 Aspose.Total에는 다음 내보내기가 포함됩니다." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/ko/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/words/ko/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" productName="Aspose.Words for JasperReports">}}
 Aspose.Words for JasperReports는 JasperReports 및 JasperServer에서 Microsoft Word 문서(DOC), Office Open XML(OOXML, DOCX), 서식 있는 텍스트 형식(RTF), OpenDocument 텍스트(ODT), 웹으로 보고서를 내보낼 수 있는 유일한 솔루션입니다. 페이지(HTML) 및 일반 텍스트(TXT) 형식.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/ko/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/pdf/ko/jasperreports/" imgSrc="/total/images/aspose_pdf-for-jasperreports.svg" productName="Aspose.PDF for JasperReports">}}
 JasperReports용 Aspose.PDF는 JasperReports 및 JasperServer에서 PDF(휴대용 문서 형식) 및 ISO 표준 버전으로 보고서를 내보내도록 특별히 설계 및 개발되었습니다. PDF/A. 차트, 표 및 이미지와 같은 대부분의 보고서 기능은 최고의 정밀도로 PDF로 변환됩니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/ko/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cells/ko/jasperreports/" imgSrc="/total/images/aspose_cells-for-jasperreports.svg" productName="Aspose.Cells for JasperReports">}}
 JasperReports용 Aspose.Cells를 사용하면 JasperReports 및 JasperServer에서 XLS, XLSX 및 SpreadsheetML을 포함한 Microsoft Excel 스프레드시트 형식으로 보고서를 내보낼 수 있습니다. 또한 PDF, ODS, CSV 및 탭으로 구분된 다른 인기 있는 형식을 지원합니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/ko/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/slides/ko/jasperreports/" imgSrc="/total/images/aspose_slides-for-jasperreports.svg" productName="Aspose.Slides for JasperReports">}}
 JasperReports용 Aspose.Slides는 Java 애플리케이션 내에서 JasperReports의 보고서를 Microsoft PowerPoint 97 – 2003(PPT 및 PPS) 및 Microsoft PowerPoint 2007-2013(PPTX 및 PPSX) 프레젠테이션 형식으로 내보내야 하는 개발자를 위해 설계되었습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/imaging/jasperreports/" imgSrc="/total/images/aspose_imaging-for-jasperreports.svg" productName="Aspose.Imaging for JasperReports">}}
 JasperReports용 Aspose.Imaging은 JasperReports를 여러 이미지 형식으로 내보낼 수 있는 유연한 솔루션을 제공합니다. 여러 페이지로 된 보고서 또는 일괄 내보내기를 쉽게 생성할 수 있습니다. 배치 모드에서. 각 보고서 페이지는 별도의 문서로 저장됩니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/ko/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/barcode/ko/jasperreports/" imgSrc="/total/images/aspose_barcode-for-jasperreports.svg" productName="Aspose.BarCode for JasperReports">}}
 JasperReports용 Aspose.BarCode는 비즈니스의 유용성을 향상시키는 독특하고 강력한 솔루션을 제공합니다. 이를 통해 개발자는 JasperReports에서 고품질 바코드 레이블을 생성하고 표시할 수 있습니다.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
+{{< blocks/products/pf/total/product-item href="/cad/jasperreports/" imgSrc="/total/images/aspose_cad-for-jasperreports.svg" productName="Aspose.CAD for JasperReports">}}
 JasperReports용 Aspose.CAD는 JasperReports를 다양한 CAD 및 기타 벡터 형식으로 내보낼 수 있는 독특하고 강력한 솔루션을 제공합니다. 여러 페이지로 된 보고서를 생성하거나 일괄 처리 모드에서 일괄 내보내기를 쉽게 생성할 수 있습니다. 각 보고서 페이지는 별도의 문서로 저장됩니다.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -213,8 +213,8 @@ JasperReports용 Aspose.CAD는 JasperReports를 다양한 CAD 및 기타 벡터 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="JasperReports에 Aspose.Total이 필요한 이유는 무엇입니까?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -223,12 +223,12 @@ JasperReports용 Aspose.CAD는 JasperReports를 다양한 CAD 및 기타 벡터 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼에 대한 개별 솔루션을 제공합니다." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/ko/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/ko/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/ko/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

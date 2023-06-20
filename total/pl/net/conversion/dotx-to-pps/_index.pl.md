@@ -4,7 +4,7 @@ description: Konwertuj dokumenty Word dotx na pliki pps programu PowerPoint za p
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konwertuj DOTX na PPS za pomocą C# lub online" h2="Twórz aplikacje do konwersji Microsoft Word DOTX na PowerPoint PPS na platformach .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPS" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTXM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konwertuj DOTX na PPS za pomocą C# lub online" h2="Twórz aplikacje do konwersji Microsoft Word DOTX na PowerPoint PPS na platformach .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPS" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTXM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować DOTX na PPS za pomocą C#" %}}

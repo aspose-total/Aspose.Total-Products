@@ -4,7 +4,7 @@ description: Konversikan dokumen PowerPoint ppsm ke file dokumen Word dengan C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konversi PPSM ke WORDML menggunakan C# atau daring" h2="Bangun Presentasi PPSM Microsoft PowerPoint ke aplikasi konversi dokumen Word WORDML di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konversi PPSM ke WORDML menggunakan C# atau daring" h2="Bangun Presentasi PPSM Microsoft PowerPoint ke aplikasi konversi dokumen Word WORDML di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi PPSM ke WORDML Menggunakan C#" %}}

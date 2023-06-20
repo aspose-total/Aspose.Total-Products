@@ -6,20 +6,20 @@ description: أنشئ تطبيقات لمعالجة المستندات باست�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من حلول معالجة تنسيق الملف" h2="Aspose.Total يوفر المجموعة الأكثر اكتمالا وفعالية من حلول معالجة المستندات دون أي تثبيت برامج أخرى وتبعيات." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="مجموعة كاملة من حلول معالجة تنسيق الملف" h2="Aspose.Total يوفر المجموعة الأكثر اكتمالا وفعالية من حلول معالجة المستندات دون أي تثبيت برامج أخرى وتبعيات." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs تشمل" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ar/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ar/net/" >}}
 في Premise .NET APIs للتعامل مع تنسيقات مستندات متعددة داخل تطبيقات Windows و Web و iOS و Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ar/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ar/java/" >}}
 واجهات برمجة تطبيقات النظام الأساسي المستندة إلى Java لإنشاء أو تعديل أو عرض أو تحليل ملفات Microsoft Word و Web و Text و OpenOffice مباشرة داخل التطبيقات.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ar/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ar/cpp/" >}}
 قم بإنشاء أو تحميل أو معالجة أو تحويل تنسيقات المستندات والصور المختلفة داخل تطبيقات C++ الخالصة باستخدام مكتبة C++ أصلية.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ description: أنشئ تطبيقات لمعالجة المستندات باست�
 
 {{< blocks/products/pf/product-card-row title="Aspose. يشمل إجمالي واجهات برمجة التطبيقات ذات الشفرة المنخفضة" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 معالجة ومعالجة ملفات Microsoft Word عبر استدعاء REST API من أي جهاز.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 واجهات برمجة تطبيقات PDF REST لإنشاء مستندات PDF وعرضها وتقسيمها وتحويلها بسهولة.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs لتطوير تطبيقات معالجة جداول البيانات التي تدعم تنسيقات Microsoft Excel المتعددة.
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Cloud APIs لتطوير تطبيقات معالجة جداول ال
 
 {{< blocks/products/pf/product-card-row title="Aspose. إجمالي لا تشمل تطبيقات الكود" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 يمكنك الجمع بين ملفات متعددة معًا بسهولة. دمج المستندات عبر الإنترنت حسب حاجتك.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 ضغط المستندات بسهولة مع الحفاظ على الجودة الأصلية.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 قم بتحويل أكثر من 100 تنسيق بحرية إلى مستندات أخرى عبر الإنترنت.
 {{< /blocks/products/pf/product >}}
 

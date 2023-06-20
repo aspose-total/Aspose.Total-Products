@@ -5,7 +5,7 @@ description: Преобразование документов Word txt в фа�
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Преобразование TXT в PPT с помощью C# или онлайн" h2="Создавайте приложения преобразования Microsoft Word TXT в PowerPoint PPT на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="TXT" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Преобразование TXT в PPT с помощью C# или онлайн" h2="Создавайте приложения преобразования Microsoft Word TXT в PowerPoint PPT на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="TXT" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Как преобразовать TXT в PPT с помощью C#" %}}

@@ -4,7 +4,7 @@ description: Konvertálja a Word docx dokumentumokat PowerPoint potx fájlokká 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="A DOCX konvertálása POTX-vé a C# használatával vagy online" h2="A Microsoft Word DOCX-ból PowerPoint POTX-konverziós alkalmazásokat készíthet .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="A DOCX konvertálása POTX-vé a C# használatával vagy online" h2="A Microsoft Word DOCX-ból PowerPoint POTX-konverziós alkalmazásokat készíthet .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="DOCX konvertálása POTX-vé C# használatával" %}}

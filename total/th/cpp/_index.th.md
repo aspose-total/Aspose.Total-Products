@@ -6,11 +6,11 @@ description: C++ Libraries อ่านการเขียนและแป�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API สำหรับรูปแบบไฟล์ Microsoft Office, PDF และบาร์โค้ด" h2="พัฒนาแอปพลิเคชัน C++ ดั้งเดิมเพื่อจัดการรูปแบบ Microsoft Project, Excel, Word, PowerPoint, Outlook และ PDF เครื่องกำเนิดบาร์โค้ดและเครื่องอ่านรวมอยู่ด้วย!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API สำหรับรูปแบบไฟล์ Microsoft Office, PDF และบาร์โค้ด" h2="พัฒนาแอปพลิเคชัน C++ ดั้งเดิมเพื่อจัดการรูปแบบ Microsoft Project, Excel, Word, PowerPoint, Outlook และ PDF เครื่องกำเนิดบาร์โค้ดและเครื่องอ่านรวมอยู่ด้วย!" logoImageSrc="/total/images/aspose_total-for-cpp-header.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ เป็นแพ็คเกจที่สมบูรณ์ของไลบรารี C++ File Format Automation ที่ออกแบบมาโดยเฉพาะเพื่อสร้าง จัดการ และแปลงรูปแบบยอดนิยมจาก Microsoft Office และ PDF โดยไม่ต้องใช้ Office หรือ Adobe Automation แพ็คเกจ C++ API ยังรวมถึงไลบรารีเฉพาะเพื่อสร้างและจดจำฉลากบาร์โค้ดจากรูปภาพด้วยคุณสมบัติขั้นสูงเพื่อปรับแต่งกระบวนการสร้างบาร์โค้ดและจดจำ
@@ -18,51 +18,51 @@ Aspose.Total for C++ เป็นแพ็คเกจที่สมบูร�
 
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ ประกอบด้วยไลบรารี C++ ต่อไปนี้:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/th/cpp/" imgSrc="/total/images/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 ไลบรารีคลาส C++ สำหรับโปรแกรมเมอร์เพื่อทำงานแยกวิเคราะห์เอกสารได้หลากหลายโดยตรงจากภายในแอปพลิเคชัน C++ อนุญาตให้สร้าง แปลง และจัดการ DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT และรูปแบบไฟล์ประมวลผลคำยอดนิยมอื่น ๆ อีกมากมายโดยไม่ต้องพึ่งพา
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/th/cpp/" imgSrc="/total/images/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 ไลบรารี C++ PDF ที่ช่วยให้แอปพลิเคชัน C++ สร้าง จัดการ และแสดงไฟล์ PDF โดยไม่ต้องใช้ Adobe Acrobat Aspose.PDF for C++ รองรับการสร้างและจัดการแบบฟอร์ม การจัดการไฟล์แนบ คำอธิบายประกอบ บุ๊กมาร์ก ลายน้ำ เช่นเดียวกับการแสดงหน้าเป็น PNG, JPEG & BMP
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/cpp/" imgSrc="/total/images/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++ ช่วยให้นักพัฒนาทำงานกับรูปแบบไฟล์ Excel ภายในแอปพลิเคชัน C++ ของตนเองโดยไม่ต้องติดตั้ง Microsoft Excel Excel C++ API รองรับรูปแบบไฟล์ Microsoft Excel หลักทั้งหมด รวมถึง XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited และสามารถส่งออกรูปแบบสเปรดชีตทั้งหมดเป็น PDF, XPS, HTML และรูปภาพ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/th/cpp/" imgSrc="/total/images/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Aspose.Email for C++ เป็นไลบรารี MIME และอีเมลสำหรับ C++ ที่เสนอการจัดการไฟล์อีเมลและการเก็บถาวรข้อความอีเมลจากภายในแอปพลิเคชัน C++ Email C++ API สามารถสร้าง จัดการ และแปลงรูปแบบข้อความยอดนิยมส่วนใหญ่ได้ เช่น MSG, EML, EMLX & MHTML และสามารถสร้าง ตรวจสอบ และแยกข้อความจากไฟล์เก็บถาวร PST & OST
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/th/cpp/" imgSrc="/total/images/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 เป็นการนำเสนอ PowerPoint และการจัดการสไลด์และการแยกวิเคราะห์ API ที่ช่วยให้แอปพลิเคชัน C++ สามารถอ่าน เขียน และแก้ไขงานนำเสนอและสไลด์ในรูปแบบ PPT, POT, PPTX, PPS, PPSX, POTX และ OPD นักพัฒนาสามารถสร้าง แก้ไข แปลง และแสดงงานนำเสนอได้โดยไม่ต้องใช้ Microsoft PowerPoint
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/th/cpp/" imgSrc="/total/images/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 ไลบรารีบาร์โค้ด C++ มีอัลกอริธึมการสร้างและจดจำความเร็วสูงสำหรับบาร์โค้ด 1D, 2D และไปรษณีย์สำหรับนักพัฒนาเพื่อเพิ่มคุณสมบัติบาร์โค้ดให้กับแอปพลิเคชัน C++ ของตนเอง ไลบรารีบาร์โค้ดสำหรับ C++ ยังช่วยให้นักพัฒนาสามารถส่งออกฉลากบาร์โค้ดเป็นรูปแบบภาพแรสเตอร์และอ่านบาร์โค้ดที่หมุนได้จากภาพ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/th/cpp/" imgSrc="/total/images/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Aspose.Tasks for C++ คือการประมวลผลไฟล์ Microsoft Project และการแยกวิเคราะห์ไลบรารี อนุญาตให้สร้าง อ่าน และจัดการหลายรูปแบบรวมทั้งแสดงโครงการเป็นรูปแบบเอาต์พุตต่างๆ นอกจากนี้ จัดการการตั้งค่าโครงการหลักและเริ่มต้น แอตทริบิวต์เพิ่มเติม ข้อจำกัดในงาน ตลอดจนกำหนดวันทำงานสำหรับโครงการ ปฏิทิน และข้อยกเว้นของปฏิทิน
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/th/cpp/" imgSrc="/total/images/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++ เป็นไลบรารี OCR ดั้งเดิมสำหรับการแยกข้อความจากรูปภาพที่มีแบบอักษรและสไตล์ต่างกัน นักพัฒนาสามารถประหยัดเวลาและความพยายามในการพัฒนาซอฟต์แวร์ OCR ตั้งแต่เริ่มต้น API รองรับไฟล์รูปภาพหลายรูปแบบ รวมถึง BMP, JPG และ PNG
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/th/cpp/" imgSrc="/total/images/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++ เป็นไฟล์ Postscript และ XPS แบบสแตนด์อโลนที่ประมวลผลและแยกวิเคราะห์ไฟล์ อนุญาตให้สร้าง โหลด และจัดการรูปแบบ XPS, PS และ EPS นอกจากนี้ API ยังให้การแปลงไฟล์ PS และ EPS เป็นรูปแบบ PDF และภาพแรสเตอร์รวมถึง EMF, BMP, GIF, PNG, JPEG และ TIFF
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/th/cpp/" imgSrc="/total/images/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Aspose.PUB for C++ เป็นไฟล์ Microsoft Publisher แบบสแตนด์อโลนที่ประมวลผลและแยกวิเคราะห์ไฟล์ได้ นักพัฒนาสามารถอ่านและแยกวิเคราะห์รูปแบบ .pub ได้อย่างง่ายดาย นอกจากนี้ การแปลง PUB เป็น PDF เป็นหนึ่งในคุณสมบัติหลัก
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/th/cpp/" imgSrc="/total/images/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++ คือการรวมแบบอักษรและ API การจัดการเพื่อทำงานกับรูปแบบแบบอักษรต่างๆ เช่น TrueType, CFF, OpenType และ Type1 สามารถโหลด วาด และบันทึกฟอนต์จากไฟล์และสตรีมได้อย่างง่ายดาย
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/th/cpp/" imgSrc="/total/images/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Aspose.TeX for C++ คือ API การจัดการและการรวม tex เพื่อทำงานกับไฟล์ tex สามารถโหลด เรียงพิมพ์ และบันทึกผลลัพธ์เป็นรูปภาพหรือ pdf ได้อย่างง่ายดาย
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -215,8 +215,8 @@ Aspose.Total สำหรับชุด .NET อย่างมีประส�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total for C++" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -225,12 +225,12 @@ Aspose.Total สำหรับชุด .NET อย่างมีประส�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

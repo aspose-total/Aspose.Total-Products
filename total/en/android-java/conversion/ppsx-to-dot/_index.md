@@ -10,7 +10,7 @@ outformat: DOT
 otherformats: DOCX DOC DOCM WORD WORDML RTF ODT OTT DOTM TEXT FLATOPC DOTX
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Render PPSX to DOT on Andorid via Java or Online App" h2="File format APIs to convert PPSX to DOT within Android apps without depending upon Microsoft PowerPoint or Word" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Render PPSX to DOT on Andorid via Java or Online App" h2="File format APIs to convert PPSX to DOT within Android apps without depending upon Microsoft PowerPoint or Word" logoImageSrc="/total/images/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for Android via Java" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert PPSX to DOT within Android Applications" %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) allows manipulating file formats within Android applications. By using the APIs provided in the package you can automate PowerPoint PPSX to Word DOT conversion process in your apps. 

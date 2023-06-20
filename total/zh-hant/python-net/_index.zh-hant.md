@@ -6,11 +6,11 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用於自動化 Microsoft Word、PowerPoint、Outlook 和 3D 文件的 Python API" h2="使用 Python 創建、編輯或轉換文檔、演示文稿、電子郵件 3D 和 CAD 文件" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="用於自動化 Microsoft Word、PowerPoint、Outlook 和 3D 文件的 Python API" h2="使用 Python 創建、編輯或轉換文檔、演示文稿、電子郵件 3D 和 CAD 文件" logoImageSrc="/total/images/aspose_total-for-python-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 用於 Python 的文檔自動化庫，有助於創建能夠從 Python 應用程序中創建、編輯或轉換 DOC、DOCX、PPT、PPTX、EML、MSG、3D 和其他格式的應用程序。
@@ -18,7 +18,7 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET 包括" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/zh-hant/python-net/" imgSrc="/total/images/aspose_words-for-python-net.svg" productName="Aspose.Words for Python via .NET">}}
 用於 Microsoft Word 和 OpenOffice 的文字處理格式的獨立 Python 庫。允許使用 MailMerge 創建報告，生成和編輯文檔，將包括 DOC、DOCX 和 ODT 在內的文件呈現或導出為圖像、PDF、HTML 和其他幾種格式。
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -26,36 +26,36 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 用於 PDF 處理功能的 Python API，無需在 Python 應用程序中使用 Adobe Acrobat。 一些功能包括合併和拆分 PDF 文件、將 PDF 文件轉換為圖像以及添加、更新和刪除圖像、附件、書籤、註釋、超鏈接、水印等。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/zh-hant/python-net/" imgSrc="/total/images/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 用於電子表格自動化過程的 Python Excel API，例如創建、操作和轉換。此外，它將工作表呈現為 XPS、PDF、HTML、純文本和圖像。 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/zh-hant/python-net/" imgSrc="/total/images/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 一個電子郵件 Python 庫，有助於創建、操作或轉換電子郵件和電子郵件檔案。還提供電子郵件管理功能，例如消息編輯和附件操作。開發人員可以使用它通過 POP3、IMAP 和 SMTP 發送或接收電子郵件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/zh-hant/python-net/" imgSrc="/total/images/aspose_slides-for-python-net.svg" productName="Aspose.Slides for Python via .NET">}}
 用於 PowerPoint 和 OpenOffice 演示格式的 Python 庫，可以幫助創建、讀取、寫入、修改、合併、克隆、保護和轉換 PPT、PPTX 和 ODP 文件為圖像、固定佈局和 Web 格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/zh-hant/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API 用於生成和識別各種 1D、2D 和郵政符號體系的條碼，以便在 Python 應用程序中進行編碼和解碼。
 {{< /blocks/products/pf/total/product-item >}}
 
 
-{{< blocks/products/pf/total/product-item href="/diagram/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/zh-hant/python-net/" imgSrc="/total/images/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
 Microsoft Visio 格式操作 Python API，用於在 Python 應用程序中創建、讀取、寫入和導出 VSDX、VDX、VSX、VTX 和更多格式。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/zh-hant/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/zh-hant/python-net/" imgSrc="/total/images/aspose_tasks-for-python-net.svg" productName="Aspose.Tasks for Python via .NET">}}
 在沒有 Microsoft Project 依賴項或任何其他軟件的情況下，在 Python 應用程序中創建、加載、更新和轉換 Microsoft Project 文件。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/zh-hant/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/zh-hant/python-net/" imgSrc="/total/images/aspose_3d-for-python-net.svg" productName="Aspose.3D for Python via .NET">}}
 一個 Python 3D API，可以創建、編輯或轉換 Discreet3DS、WavefrontOBJ、FBX、STL、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Draco 文件格式，無需任何依賴。
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/zh-hant/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/zh-hant/python-net/" imgSrc="/total/images/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
 XBRL 和 iXBRL 格式處理 API 可直接在 Python 應用程序中輕鬆創建、讀取和驗證可擴展商業報告語言文檔。
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -225,8 +225,8 @@ Aspose.Total 是一個功能強大的套件，可以高速、高質量地處理�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼要通過 .NET 為 Python 使用 Aspose.Total？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -235,14 +235,14 @@ Aspose.Total 是一個功能強大的套件，可以高速、高質量地處理�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
     
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/zh-hant/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

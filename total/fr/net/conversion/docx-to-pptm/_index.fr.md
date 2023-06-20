@@ -4,7 +4,7 @@ description: Convertissez des documents Word en fichiers PowerPoint pptm avec C#
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Convertir DOCX en PPTM en utilisant C# ou en ligne" h2="Créez des applications de conversion Microsoft Word DOCX vers PowerPoint PPTM sur les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Convertir DOCX en PPTM en utilisant C# ou en ligne" h2="Créez des applications de conversion Microsoft Word DOCX vers PowerPoint PPTM sur les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Comment convertir DOCX en PPTM en utilisant C#" %}}

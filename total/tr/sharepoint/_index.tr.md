@@ -6,11 +6,11 @@ description: Microsoft SharePoint içinde Word Excel PDF PowerPoint E-posta ve G
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Dosyaları Yönetmek için SharePoint Uygulamaları" h2="Microsoft SharePoint uygulamalarında Word, Excel, PowerPoint, PDF, Outlook ve diğer birçok formatı kolayca dönüştürün ve birleştirin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Dosyaları Yönetmek için SharePoint Uygulamaları" h2="Microsoft SharePoint uygulamalarında Word, Excel, PowerPoint, PDF, Outlook ve diğer birçok formatı kolayca dönüştürün ve birleştirin." logoImageSrc="/total/images/aspose_total-for-sharepoint-header.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for SharePoint, Aspose tarafından sunulan her derlenmiş SharePoint uygulamasının bir birleşimidir. Geliştiricilere Microsoft SharePoint içinden belgeleri kolayca dönüştürme ve birleştirme olanağı sunar ve yüksek kaliteli dönüştürme ile birden çok belge biçimini destekler.
@@ -18,31 +18,31 @@ Aspose.Total for SharePoint, Aspose tarafından sunulan her derlenmiş SharePoin
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint, SharePoint içinde tutulan belgeleri kullanıcılarınızın ihtiyaç duyduğu çeşitli belge biçimlerine dönüştürmek için Windows SharePoint Services (WSS) veya Microsoft Office SharePoint Server (MOSS) teknolojilerinde kurumsal bir belge deposuna sahip olmanıza yardımcı olur." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/tr/sharepoint/" imgSrc="/total/images/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint, SharePoint içinde tutulan belgeleri kullanıcılarınızın ihtiyaç duyduğu çeşitli belge biçimlerine dönüştürmek için Windows SharePoint Services (WSS) veya Microsoft Office SharePoint Server'ın (MOSS) teknolojilerinde kurumsal bir belge deposuna sahip olmanıza yardımcı olur.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/tr/sharepoint/" imgSrc="/total/images/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF for SharePoint, liste öğelerini ve wiki sayfalarını Taşınabilir Belge Formatına (PDF) dönüştürme yeteneği sağlar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/tr/sharepoint/" imgSrc="/total/images/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint, geliştiricilerin Microsoft Excel belgelerini Microsoft SharePoint içinde dönüştürmesine ve yerel desteklenen biçimlerin ötesinde birden çok belge biçimini desteklemesine olanak tanıyan esnek bir elektronik tablo işleme çözümüdür. Ayrıca, SharePoint içinde tutulan dosyaları kullanıcılarınızın ihtiyaç duyduğu biçimlere dönüştürmenize izin vererek kurumsal bilgileri dağıtmanıza da yardımcı olur.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/tr/sharepoint/" imgSrc="/total/images/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint, doğrudan Microsoft SharePoint belge kitaplığından mesaj dosyası formatı dönüştürme, e-posta eki çıkarma, posta sunucularıyla e-posta senkronizasyonu ve FTP sunucusuna dosya aktarımı gibi çok sayıda özellik sunar.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/tr/sharepoint/" imgSrc="/total/images/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint, geliştiricilerin PowerPoint dosyalarını (PPT, POT, PPS, PPTX, POT ve PPSX formatı) Microsoft PowerPoint kullanmadan bir SharePoint uygulamasında okumasına ve dönüştürmesine olanak tanır. Çeşitli PowerPoint dosya biçimlerini aslına uygunluğunu kaybetmeden PDF, TIFF veya XPS biçimlerine dönüştürmesi gereken SharePoint geliştiricilerine yöneliktir. WSS 3.0, MOSS 2007 ve MOSS 2010 ile çalışması desteklenmektedir.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="/total/images/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging for SharePoint, SharePoint çözümlerine görüntü işleme yeteneği ekler. Farklı görüntü dosyası biçimleri arasında dönüştürmeyi ve Microsoft SharePoint Server 2010 ve Microsoft SharePoint Foundation 2010 içinden görüntü düzenlemeyi destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/tr/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/tr/sharepoint/" imgSrc="/total/images/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePoint, bu barkod sistemini kullanarak SharePoint listelerinizi geliştirmek için benzersiz ve sağlam bir uygulama sunar. Barkod SharePoint uygulaması, Linear, Postal ve 2D barkodlar dahil olmak üzere en popüler 40'tan fazla barkod sembolojisini destekler.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -124,8 +124,8 @@ Aspose.BarCode for SharePoint, bu barkod sistemini kullanarak SharePoint listele
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Total for SharePoint?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -134,12 +134,12 @@ Aspose.BarCode for SharePoint, bu barkod sistemini kullanarak SharePoint listele
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total, diğer platformlar için bireysel çözümler sunar." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/tr/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/tr/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/tr/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/tr/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/tr/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/tr/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/tr/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/tr/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/tr/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/tr/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/tr/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/tr/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

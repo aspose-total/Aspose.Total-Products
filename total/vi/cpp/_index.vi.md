@@ -6,11 +6,11 @@ description: Thư viện C++ đọc kết xuất và chuyển đổi nhiều đ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API C++ cho Định dạng tệp Microsoft Office, PDF & Mã vạch" h2="Phát triển các ứng dụng C++ gốc để thao tác với các định dạng Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF. Trình tạo và đọc mã vạch cũng được bao gồm!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API C++ cho Định dạng tệp Microsoft Office, PDF & Mã vạch" h2="Phát triển các ứng dụng C++ gốc để thao tác với các định dạng Microsoft Project, Excel, Word, PowerPoint, Outlook & PDF. Trình tạo và đọc mã vạch cũng được bao gồm!" logoImageSrc="/total/images/aspose_total-for-cpp-header.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ là một gói hoàn chỉnh của thư viện Tự động hóa Định dạng Tệp C++ được thiết kế đặc biệt để tạo, thao tác và chuyển đổi các định dạng phổ biến từ Microsoft Office & PDF mà không yêu cầu Office hoặc Adobe Automation. Gói C++ API cũng bao gồm một thư viện chuyên biệt để tạo và nhận dạng nhãn mã vạch từ hình ảnh với các tính năng nâng cao để tùy chỉnh quá trình tạo và nhận dạng mã vạch.
@@ -18,51 +18,51 @@ Aspose.Total for C++ là một gói hoàn chỉnh của thư viện Tự động
 
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ bao gồm các thư viện C++ sau:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/vi/cpp/" imgSrc="/total/images/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 Thư viện lớp C++ dành cho các lập trình viên để thực hiện nhiều tác vụ phân tích cú pháp tài liệu trực tiếp từ bên trong các ứng dụng C++. Nó cho phép tạo, chuyển đổi và thao tác DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT & một số định dạng tệp xử lý văn bản phổ biến khác mà không cần bất kỳ phụ thuộc nào.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/vi/cpp/" imgSrc="/total/images/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 Thư viện PDF C++ cho phép các ứng dụng C++ tạo, thao tác và hiển thị các tệp PDF mà không cần sử dụng Adobe Acrobat. Aspose.PDF for C++ hỗ trợ tạo và quản lý biểu mẫu, thao tác với tệp đính kèm, chú thích, dấu trang, hình mờ cũng như kết xuất trang thành hình ảnh PNG, JPEG & BMP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/vi/cpp/" imgSrc="/total/images/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++ cho phép các nhà phát triển làm việc với các định dạng tệp Excel trong ứng dụng C++ của riêng họ mà không yêu cầu cài đặt Microsoft Excel. Excel C++ API hỗ trợ tất cả các định dạng tệp Microsoft Excel chính bao gồm XLSX, XLS, XLSM, XLSB, CSV & Tab Delimited và có thể xuất tất cả các định dạng bảng tính sang PDF, XPS, HTML và hình ảnh.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/vi/cpp/" imgSrc="/total/images/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Aspose.Email for C++ là thư viện MIME & email dành cho C++ cung cấp thao tác lưu trữ tệp email và thư email từ bên trong các ứng dụng C++. Email C++ API có khả năng tạo, thao tác và chuyển đổi hầu hết các định dạng thư phổ biến như MSG, EML, EMLX & MHTML, đồng thời có thể tạo, kiểm tra và trích xuất thư từ các kho lưu trữ PST & OST.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/vi/cpp/" imgSrc="/total/images/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Đây là một API phân tích cú pháp và quản lý trang trình bày & trang chiếu độc đáo cho phép các ứng dụng C++ đọc, viết và chỉnh sửa bản trình bày & trang chiếu ở các định dạng PPT, POT, PPTX, PPS, PPSX, POTX & OPD. Các nhà phát triển có thể tạo, sửa đổi, chuyển đổi và hiển thị bản trình bày mà không cần Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/vi/cpp/" imgSrc="/total/images/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 Thư viện mã vạch C++ cung cấp các thuật toán tạo và nhận dạng tốc độ cao cho mã vạch 1D, 2D và mã vạch bưu điện để các nhà phát triển thêm các tính năng mã vạch vào ứng dụng C++ của riêng họ. Thư viện mã vạch cho C++ cũng cho phép các nhà phát triển xuất nhãn mã vạch sang các định dạng hình ảnh raster cũng như đọc mã vạch xoay từ hình ảnh.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/vi/cpp/" imgSrc="/total/images/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Aspose.Tasks for C++ là thư viện xử lý và phân tích cú pháp tệp Microsoft Project. Nó cho phép tạo, đọc và thao tác nhiều định dạng cũng như kết xuất Dự án sang các định dạng đầu ra khác nhau. Hơn nữa, Quản lý cài đặt dự án chính và mặc định, thuộc tính mở rộng, ràng buộc về nhiệm vụ cũng như xác định các ngày trong tuần cho dự án, lịch và các ngoại lệ lịch.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/vi/cpp/" imgSrc="/total/images/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++ là một thư viện OCR gốc để trích xuất văn bản từ các hình ảnh có phông chữ và kiểu khác nhau. Các nhà phát triển có thể tiết kiệm thời gian và công sức liên quan đến việc phát triển một phần mềm OCR từ đầu. API hỗ trợ nhiều định dạng hình ảnh bao gồm BMP, JPG và PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/vi/cpp/" imgSrc="/total/images/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++ là một thư viện xử lý và phân tích cú pháp tệp Postscript và XPS độc lập và đáng tin cậy. Nó cho phép tạo, tải và thao tác các định dạng XPS, PS và EPS. Hơn nữa, API cung cấp chuyển đổi các tệp PS và EPS sang các định dạng hình ảnh PDF và raster bao gồm EMF, BMP, GIF, PNG, JPEG và TIFF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/vi/cpp/" imgSrc="/total/images/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Aspose.PUB for C++ là một thư viện xử lý và phân tích cú pháp tệp Microsoft Publisher độc lập và đáng tin cậy. Các nhà phát triển có thể dễ dàng đọc và phân tích cú pháp các định dạng .pub. Hơn nữa, chuyển đổi PUB sang PDF là một trong những tính năng cốt lõi của nó.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/vi/cpp/" imgSrc="/total/images/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++ là một API quản lý và tích hợp phông chữ để làm việc với các định dạng phông chữ khác nhau như TrueType, CFF, OpenType và Type1. Người ta có thể dễ dàng tải, vẽ và lưu phông chữ từ các tệp cũng như dòng.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/vi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/vi/cpp/" imgSrc="/total/images/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Aspose.TeX for C++ là một API quản lý và tích hợp tex để làm việc với các tệp tex. Người ta có thể dễ dàng tải, sắp chữ và lưu kết quả dưới dạng hình ảnh hoặc pdf.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -215,8 +215,8 @@ Việc triển khai rất đơn giản, chúng tôi thực sự tập trung vào
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total for C++" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -225,12 +225,12 @@ Việc triển khai rất đơn giản, chúng tôi thực sự tập trung vào
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/vi/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/vi/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/vi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/vi/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/vi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/vi/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/vi/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/vi/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/vi/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/vi/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/vi/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/vi/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

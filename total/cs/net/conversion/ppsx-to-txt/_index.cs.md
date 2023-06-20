@@ -4,7 +4,7 @@ description: Převádějte dokumenty ppsx aplikace PowerPoint na soubory dokumen
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Převést PPSX na TXT pomocí C# nebo online" h2="Vytvářejte aplikace Microsoft PowerPoint PPSX Presentation do aplikací pro převod dokumentů Word TXT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Převést PPSX na TXT pomocí C# nebo online" h2="Vytvářejte aplikace Microsoft PowerPoint PPSX Presentation do aplikací pro převod dokumentů Word TXT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Jak převést PPSX na TXT pomocí C#" %}}

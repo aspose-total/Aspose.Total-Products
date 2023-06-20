@@ -6,20 +6,20 @@ description: Δημιουργήστε εφαρμογές χειρισμού εγ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Πλήρες σύνολο λύσεων χειρισμού μορφής αρχείου" h2="Το Aspose.Total παρέχει το πιο πλήρες και αποτελεσματικό σύνολο λύσεων επεξεργασίας εγγράφων χωρίς καμία άλλη εγκατάσταση λογισμικού και εξαρτήσεις." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Πλήρες σύνολο λύσεων χειρισμού μορφής αρχείου" h2="Το Aspose.Total παρέχει το πιο πλήρες και αποτελεσματικό σύνολο λύσεων επεξεργασίας εγγράφων χωρίς καμία άλλη εγκατάσταση λογισμικού και εξαρτήσεις." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/el/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/el/net/" >}}
 Σε Premise .NET API για χειρισμό πολλαπλών μορφών εγγράφων σε εφαρμογές που βασίζονται σε Windows, Web, iOS και Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/el/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/el/java/" >}}
 API πλατφόρμας που βασίζονται σε Java για τη δημιουργία, τροποποίηση, απόδοση ή ανάλυση αρχείων Microsoft Word, Web, κειμένου και εγγράφων OpenOffice απευθείας μέσα στις εφαρμογές.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/el/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/el/cpp/" >}}
 Δημιουργήστε, φορτώστε, χειριστείτε ή μετατρέψτε διαφορετικές μορφές εγγράφων και εικόνων σε εφαρμογές καθαρής C++ χρησιμοποιώντας την εγγενή βιβλιοθήκη C++.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ API πλατφόρμας που βασίζονται σε Java για τη δη�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Συνολικά χαμηλού κώδικα API περιλαμβάνουν" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 Χειριστείτε και επεξεργαστείτε αρχεία Microsoft Word μέσω κλήσης REST API από οποιαδήποτε συσκευή.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API για δημιουργία, απόδοση, διαχωρισμό και μετατροπή εγγράφων PDF με ευκολία.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud API για την ανάπτυξη εφαρμογών χειρισμού υπολογιστικών φύλλων που υποστηρίζουν πολλαπλές μορφές Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Cloud API για την ανάπτυξη εφαρμογών χει�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total No Code Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 Συνδυάστε εύκολα πολλά αρχεία μαζί. Διαδικτυακή συγχώνευση εγγράφων με τη σειρά της ανάγκης σας.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Συμπιέστε εύκολα έγγραφα διατηρώντας παράλληλα την αρχική ποιότητα.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Μετατρέψτε ελεύθερα 100+ μορφές σε άλλα έγγραφα στο διαδίκτυο.
 {{< /blocks/products/pf/product >}}
 

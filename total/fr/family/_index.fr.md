@@ -6,36 +6,36 @@ description: Microsoft Excel Word PowerPoint E-mail PDF Visio Project Barcode OC
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Ensemble complet d'API de manipulation de format de fichier" h2="Manipulez Word, Excel, PDF, PowerPoint, Outlook et plus de 100 autres formats de fichiers à l'aide de nos API natives pour .NET, Java, Android, C++ et d'autres plateformes." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Ensemble complet d'API de manipulation de format de fichier" h2="Manipulez Word, Excel, PDF, PowerPoint, Outlook et plus de 100 autres formats de fichiers à l'aide de nos API natives pour .NET, Java, Android, C++ et d'autres plateformes." logoImageSrc="/total/images/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="La famille de produits Aspose.Total comprend" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="/total/fr/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="/total/fr/net" >}}
 Ciblez Windows Forms, ASP.NET, WPF, WCF ou tout type d'application basée sur .NET Framework 2.0 ou version ultérieure.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="/total/fr/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="/total/fr/java" >}}
 API Java natives pour le bureau, le Web ou tout type d'application basée sur Java SE ou EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/fr/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="/total/fr/cpp" >}}
 Créez, manipulez, convertissez ou affichez des documents Word, des feuilles de calcul Excel, des présentations PowerPoint, des messages électroniques et des fichiers PDF dans des applications C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/fr/android-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="/total/images/aspose_total-for-android-java.svg" productLink="/total/fr/android-java" >}}
 Manipulez Word, Excel, PowerPoint et d'autres formats dans les applications mobiles. Il fonctionne avec Android OS 2.3 ou ultérieur.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" productLink="/total/fr/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="/total/images/aspose_total-for-sharepoint.svg" productLink="/total/fr/sharepoint" >}}
 Convertissez Word, Excel, PowerPoint et d'autres formats dans SharePoint Foundation et Server.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" productLink="/total/fr/reporting-services" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="/total/images/aspose_total-for-reporting-services.svg" productLink="/total/fr/reporting-services" >}}
 Exportez des rapports RDL vers Word, Excel, PowerPoint et d'autres formats à partir de SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" productLink="/total/fr/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="/total/images/aspose_words-for-jasperreports.svg" productLink="/total/fr/jasperreports" >}}
 Exportez des rapports vers Word, Excel, PowerPoint et d'autres formats depuis JasperReports ou JasperServer.
 {{< /blocks/products/pf/product >}}
 
@@ -57,8 +57,8 @@ Exportez des rapports vers Word, Excel, PowerPoint et d'autres formats depuis Ja
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Total Famille de produits?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Réussites" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
+{{< blocks/products/pf/slr-element name="Liste des clients" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Réussites" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

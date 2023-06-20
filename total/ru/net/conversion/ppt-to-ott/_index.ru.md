@@ -5,7 +5,7 @@ description: Преобразование документов PowerPoint ppt в
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Преобразование PPT в OTT с помощью C# или онлайн" h2="Создавайте приложения для преобразования документов Microsoft PowerPoint PPT Presentation в Word OTT на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPT" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Преобразование PPT в OTT с помощью C# или онлайн" h2="Создавайте приложения для преобразования документов Microsoft PowerPoint PPT Presentation в Word OTT на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPT" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Как преобразовать PPT в OTT с помощью C#" %}}

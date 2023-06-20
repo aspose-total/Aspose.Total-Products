@@ -4,7 +4,7 @@ description: Konvertera Word doc-dokument till PowerPoint pptx-filer med C#. Kon
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konvertera DOC till PPTX med C# eller online" h2="Bygg Microsoft Word DOC till PowerPoint PPTX-konverteringsappar på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konvertera DOC till PPTX med C# eller online" h2="Bygg Microsoft Word DOC till PowerPoint PPTX-konverteringsappar på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Hur man konverterar DOC till PPTX med C#" %}}

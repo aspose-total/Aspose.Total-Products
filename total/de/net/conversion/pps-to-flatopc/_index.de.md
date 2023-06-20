@@ -4,7 +4,7 @@ description: Konvertieren Sie PowerPoint-PPS-Dokumente mit C# in Word-Flatopc-Da
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie PPS in FLATOPC mit C# oder online" h2="Erstellen Sie Apps zur Umwandlung von Microsoft PowerPoint PPS-Präsentationen in Word FLATOPC-Dokumente auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPS" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie PPS in FLATOPC mit C# oder online" h2="Erstellen Sie Apps zur Umwandlung von Microsoft PowerPoint PPS-Präsentationen in Word FLATOPC-Dokumente auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPS" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie PPS in FLATOPC mit C#" %}}

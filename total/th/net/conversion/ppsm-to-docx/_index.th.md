@@ -4,7 +4,7 @@ description: แปลงเอกสาร PowerPoint ppsm เป็นไฟ�
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="แปลง PPSM เป็น DOCX โดยใช้ C# หรือทางออนไลน์" h2="สร้าง Microsoft PowerPoint PPSM Presentation เป็นแอปแปลงเอกสาร Word DOCX บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="แปลง PPSM เป็น DOCX โดยใช้ C# หรือทางออนไลน์" h2="สร้าง Microsoft PowerPoint PPSM Presentation เป็นแอปแปลงเอกสาร Word DOCX บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms" logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="วิธีแปลง PPSM เป็น DOCX โดยใช้ C# หรือทางออนไลน์" %}}

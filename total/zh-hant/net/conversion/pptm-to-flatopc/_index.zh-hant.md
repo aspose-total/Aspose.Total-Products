@@ -4,7 +4,7 @@ description: 使用 C# 將 PowerPoint pptm 文檔轉換為 Word flatopc 文件�
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="使用 C# 將 PPTM 轉換為 FLATOPC 或在線" h2="在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上構建 Microsoft PowerPoint PPTM 演示文稿到 Word FLATOPC 文檔轉換應用程序。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="使用 C# 將 PPTM 轉換為 FLATOPC 或在線" h2="在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上構建 Microsoft PowerPoint PPTM 演示文稿到 Word FLATOPC 文檔轉換應用程序。" logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="如何使用 C# 將 PPTM 轉換為 FLATOPC 或在線" %}}

@@ -6,11 +6,11 @@ description: Biblioteki C++ odczytują, zapisują, renderują i konwertują wiel
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API dla formatów plików Microsoft Office, PDF i kodów kreskowych" h2="Twórz natywne aplikacje C++, aby manipulować formatami Microsoft Project, Excel, Word, PowerPoint, Outlook i PDF. Generator i czytnik kodów kreskowych również w zestawie!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API dla formatów plików Microsoft Office, PDF i kodów kreskowych" h2="Twórz natywne aplikacje C++, aby manipulować formatami Microsoft Project, Excel, Word, PowerPoint, Outlook i PDF. Generator i czytnik kodów kreskowych również w zestawie!" logoImageSrc="/total/images/aspose_total-for-cpp-header.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for C++ to kompletny pakiet bibliotek automatyzacji formatu plików C++ zaprojektowanych specjalnie do tworzenia, manipulowania i konwertowania popularnych formatów z Microsoft Office i PDF bez konieczności automatyzacji Office lub Adobe. Pakiet C++ API zawiera również specjalistyczną bibliotekę do generowania i rozpoznawania etykiet z kodami kreskowymi z obrazów z zaawansowanymi funkcjami dostosowywania procesu generowania i rozpoznawania kodów kreskowych.
@@ -18,51 +18,51 @@ Aspose.Total for C++ to kompletny pakiet bibliotek automatyzacji formatu plików
 
 {{< blocks/products/pf/total/products description="Aspose.Total for C++ zawiera następujące biblioteki C++:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/pl/cpp/" imgSrc="/total/images/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 Biblioteka klas C++ dla programistów do wykonywania szerokiego zakresu zadań związanych z analizowaniem dokumentów bezpośrednio z aplikacji C++. Pozwala tworzyć, konwertować i manipulować plikami DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT i kilkoma innymi popularnymi formatami plików tekstowych bez żadnych zależności.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/pl/cpp/" imgSrc="/total/images/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 Biblioteka C++ PDF, która umożliwia aplikacjom C++ tworzenie, manipulowanie i renderowanie plików PDF bez użycia programu Adobe Acrobat. Aspose.PDF for C++ obsługuje tworzenie i zarządzanie formularzami, manipulację załącznikami, adnotacjami, zakładkami, znakami wodnymi, a także renderowanie stron do obrazów PNG, JPEG i BMP.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/pl/cpp/" imgSrc="/total/images/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Aspose.Cells for C++ umożliwia programistom pracę z formatami plików Excel w ich własnych aplikacjach C++ bez konieczności instalowania programu Microsoft Excel. Excel C++ API obsługuje wszystkie główne formaty plików Microsoft Excel, w tym XLSX, XLS, XLSM, XLSB, CSV i Tab Delimited i może eksportować wszystkie formaty arkuszy kalkulacyjnych do PDF, XPS, HTML i obrazów.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/pl/cpp/" imgSrc="/total/images/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Aspose.Email for C++ to biblioteka MIME i poczty e-mail dla C++ oferująca manipulację plikami e-mail i archiwum wiadomości e-mail z poziomu aplikacji C++. Email C++ API jest w stanie tworzyć, manipulować i konwertować najpopularniejsze formaty wiadomości, takie jak MSG, EML, EMLX i MHTML, a także może tworzyć, sprawdzać i wyodrębniać wiadomości z archiwów PST i OST.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/pl/cpp/" imgSrc="/total/images/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Jest to unikalny interfejs API do zarządzania prezentacjami i slajdami PowerPoint oraz do analizowania, który umożliwia aplikacjom C++ odczytywanie, pisanie i edytowanie prezentacji i slajdów w formatach PPT, POT, PPTX, PPS, PPSX, POTX i OPD. Programiści mogą tworzyć, modyfikować, konwertować i renderować prezentacje bez konieczności korzystania z programu Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/pl/cpp/" imgSrc="/total/images/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 Biblioteka kodów kreskowych C++ oferuje szybkie algorytmy generowania i rozpoznawania kodów kreskowych 1D, 2D i pocztowych, aby programiści mogli dodawać funkcje kodów kreskowych do własnych aplikacji C++. Biblioteka kodów kreskowych dla C++ umożliwia również programistom eksportowanie etykiet z kodami kreskowymi do formatów obrazów rastrowych, a także odczytywanie obróconych kodów kreskowych z obrazów.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/pl/cpp/" imgSrc="/total/images/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Aspose.Tasks for C++ to biblioteka do przetwarzania i analizowania plików Microsoft Project. Pozwala tworzyć, czytać i manipulować wieloma formatami, a także renderować Projekt do różnych formatów wyjściowych. Ponadto zarządzaj głównymi i domyślnymi ustawieniami projektu, rozszerzonymi atrybutami, ograniczeniami na zadaniach, a także definiuj dni tygodnia dla projektu, kalendarze i wyjątki kalendarzowe.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/pl/cpp/" imgSrc="/total/images/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Aspose.OCR for C++ to natywna biblioteka OCR do wyodrębniania tekstu z obrazów o różnych czcionkach i stylach. Deweloperzy mogą zaoszczędzić czas i wysiłek związany z tworzeniem oprogramowania OCR od podstaw. API obsługuje wiele formatów graficznych, w tym BMP, JPG i PNG.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/pl/cpp/" imgSrc="/total/images/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Aspose.Page for C++ to samodzielna i niezawodna biblioteka do przetwarzania i analizowania plików Postscript i XPS. Pozwala tworzyć, ładować i manipulować formatami XPS, PS i EPS. Ponadto API zapewnia konwersję plików PS i EPS do formatów PDF i obrazów rastrowych, w tym EMF, BMP, GIF, PNG, JPEG i TIFF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/pl/cpp/" imgSrc="/total/images/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Aspose.PUB for C++ to samodzielna i niezawodna biblioteka do przetwarzania i analizowania plików Microsoft Publisher. Deweloperzy mogą łatwo czytać i analizować formaty .pub. Co więcej, konwersja PUB do PDF jest jedną z jego podstawowych funkcji.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/pl/cpp/" imgSrc="/total/images/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Aspose.Font for C++ to interfejs API do integracji i zarządzania czcionkami do pracy z różnymi formatami czcionek, takimi jak TrueType, CFF, OpenType i Type1. Można łatwo ładować, rysować i zapisywać czcionki z plików, a także przesyłać strumieniowo.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/pl/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/pl/cpp/" imgSrc="/total/images/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Aspose.TeX for C++ to integracja i zarządzanie tex API do pracy z plikami tex. Można łatwo załadować, złożyć i zapisać wynik jako obraz lub pdf.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -215,8 +215,8 @@ Wdrożenie było proste, naprawdę skupiamy się na naszej architekturze, a Aspo
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total for C++" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Lista klientów" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -225,12 +225,12 @@ Wdrożenie było proste, naprawdę skupiamy się na naszej architekturze, a Aspo
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total oferuje indywidualne rozwiązania dla innych platform." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/pl/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/pl/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/pl/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/pl/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/pl/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/pl/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/pl/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/pl/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/pl/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/pl/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/pl/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/pl/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

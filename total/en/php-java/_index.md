@@ -5,7 +5,7 @@ description: Process Excel Spreadsheets and PowerPoint Documents via PHP API. Re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel and PowerPoint Files as well as Barcode Processing APIs" h2="Manipulate Excel Spreadsheets as well as Read, Write, Create and Convert PowerPoint and OpenOffice Presentations via PHP API. Moreover, Generate and Scan BarCodes with ease." logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/headers/aspose_total-for-php-java.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel and PowerPoint Files as well as Barcode Processing APIs" h2="Manipulate Excel Spreadsheets as well as Read, Write, Create and Convert PowerPoint and OpenOffice Presentations via PHP API. Moreover, Generate and Scan BarCodes with ease." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
@@ -17,15 +17,15 @@ Aspose.Total for PHP via Java is a complete package for Excel Spreadsheet manipu
 
 {{< blocks/products/pf/total/products description="Aspose.Total for PHP via Java includes the following APIs:" >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/php-java/" imgSrc="/total/images/aspose_cells-for-php-java.svg" productName="Aspose.Cells for PHP via Java">}}
 Aspose.Cells for PHP via Java API is designed for managing and processing Excel spreadsheets. It handle tasks such as converting spreadsheet formats, managing and rendering charts, implementing formulas, applying detailed styles to worksheets, and much more. With the JavaBridge integration, developers can seamlessly incorporate the power of creating, editing, converting, and rendering Excel files into their PHP applications.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/slides/aspose_slides-for-php-via-java.svg" productName="Aspose.Slides for PHP via Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/php-java/" imgSrc="/total/images/aspose_slides-for-php-java.svg" productName="Aspose.Slides for PHP via Java">}}
 Aspose.Slides for PHP via Java library enables developers to work with and process presentations effectively. It offers reading, editing, and converting PowerPoint presentations without relying on external applications. The library allows loading, opening, and viewing presentations, converting them to various formats, rendering and printing presentations, encrypting and decrypting them, manipulating presentation entities like master slides, shapes, charts, audio and video frames, animations, and more.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/php-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-php-java.svg" productName="Aspose.BarCode for PHP via Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/php-java/" imgSrc="/total/images/aspose_barcode-for-php-java.svg" productName="Aspose.BarCode for PHP via Java">}}
 Aspose.BarCode for PHP via Java is a collection of barcode generation and reading APIs designed for PHP applications. It provides developers with the capability to read various types of barcodes, including 1D, 2D, and postal barcodes, from images captured at different angles. The barcode generator API allows for the creation of barcode images in different formats such as JPG, PNG, GIF, and BMP. Additionally, it offers several imaging features, such as border manipulation, color adjustment, image rotation, resolution customization, and more. By utilizing API, developers can easily incorporate barcode functionality into their PHP applications.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -308,8 +308,8 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total for PHP via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
@@ -318,16 +318,16 @@ Aspose.Total is a powerful suite to process nearly all kinds of documents in hig
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total offers individual solutions for other platforms." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" sdkName=" Python via .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
- {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
- {{< blocks/products/pf/offers-section-item link="/total/nodejs-java/" imgSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-node-via-java.svg" sdkName=" Node.js via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

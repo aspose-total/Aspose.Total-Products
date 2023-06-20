@@ -6,20 +6,20 @@ description: Şirket İçi veya Bulut API'lerini kullanarak belge işleme uygula
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Eksiksiz Dosya Biçimi Manipülasyon Çözümleri Seti" h2="Aspose.Total, başka herhangi bir yazılım kurulumu ve bağımlılığı olmaksızın en eksiksiz ve verimli belge işleme çözümlerini sunar." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Eksiksiz Dosya Biçimi Manipülasyon Çözümleri Seti" h2="Aspose.Total, başka herhangi bir yazılım kurulumu ve bağımlılığı olmaksızın en eksiksiz ve verimli belge işleme çözümlerini sunar." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API'leri şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/tr/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/tr/net/" >}}
 Windows, Web, iOS ve Android tabanlı uygulamalarda birden çok belge biçimini işlemek için Şirket İçi .NET API'leri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/tr/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/tr/java/" >}}
 Doğrudan uygulamalar içinde Microsoft Word dosyaları, Web, Metin ve OpenOffice belgeleri oluşturmak, değiştirmek, işlemek veya ayrıştırmak için Java tabanlı platform API'leri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/tr/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/tr/cpp/" >}}
 Yerel C++ kitaplığını kullanarak saf C++ uygulamaları içinde farklı belge biçimleri ve görüntüleri oluşturun, yükleyin, işleyin veya dönüştürün.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ Yerel C++ kitaplığını kullanarak saf C++ uygulamaları içinde farklı belge
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Düşük Kodlu API'ler şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 Herhangi bir cihazdan REST API çağrısı yoluyla Microsoft Word dosyalarını işleyin ve işleyin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF belgelerini kolaylıkla oluşturmak, işlemek, bölmek ve dönüştürmek için PDF REST API'leri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Çoklu Microsoft Excel formatlarını destekleyen elektronik tablo işleme Uygulamaları geliştirmek için Bulut API'leri.
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Çoklu Microsoft Excel formatlarını destekleyen elektronik tablo 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Kodsuz Uygulamalar Dahildir" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 Birden çok dosyayı kolayca birleştirin. İhtiyaçlarınıza göre çevrimiçi birleştirme belgeleri.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Orijinal kaliteyi korurken belgeleri kolayca sıkıştırın.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 100'den fazla formatı çevrimiçi olarak diğer belgelere özgürce dönüştürün.
 {{< /blocks/products/pf/product >}}
 

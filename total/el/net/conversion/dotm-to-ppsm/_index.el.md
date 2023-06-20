@@ -4,7 +4,7 @@ description: Μετατρέψτε έγγραφα Word dotm σε αρχεία pps
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή DOTM σε PPSM χρησιμοποιώντας C# ή διαδικτυακά" h2="Δημιουργήστε εφαρμογές μετατροπής Microsoft Word DOTM σε PowerPoint PPSM σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή DOTM σε PPSM χρησιμοποιώντας C# ή διαδικτυακά" h2="Δημιουργήστε εφαρμογές μετατροπής Microsoft Word DOTM σε PowerPoint PPSM σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το DOTM σε PPSM χρησιμοποιώντας C#" %}}

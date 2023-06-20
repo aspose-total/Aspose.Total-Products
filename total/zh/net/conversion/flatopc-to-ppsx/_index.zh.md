@@ -5,7 +5,7 @@ description: 使用 C# 将 Word flatopc 文档转换为 PowerPoint ppsx 文件�
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="使用 C# 将 FLATOPC 转换为 PPSX 或在线" h2="在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上构建 Microsoft Word FLATOPC 到 PowerPoint PPSX 转换应用程序。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="FLATOPC" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="使用 C# 将 FLATOPC 转换为 PPSX 或在线" h2="在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上构建 Microsoft Word FLATOPC 到 PowerPoint PPSX 转换应用程序。" logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="FLATOPC" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将 FLATOPC 转换为 PPSX 或在线" %}}

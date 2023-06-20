@@ -4,7 +4,7 @@ description: Konversikan dokumen dokumen Word ke file potx PowerPoint dengan C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konversi ODT ke POTX menggunakan C# atau daring" h2="Bangun aplikasi konversi Microsoft Word ODT ke PowerPoint POTX di .NET Framework, .NET Core, Windows Azure, Mono, atau Platform Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konversi ODT ke POTX menggunakan C# atau daring" h2="Bangun aplikasi konversi Microsoft Word ODT ke PowerPoint POTX di .NET Framework, .NET Core, Windows Azure, Mono, atau Platform Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Cara Mengkonversi ODT ke POTX Menggunakan C#" %}}

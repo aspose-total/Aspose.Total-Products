@@ -6,20 +6,20 @@ description: Cree aplicaciones de manipulación de documentos utilizando API loc
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Conjunto completo de soluciones de manipulación de formato de archivo" h2="Aspose.Total proporciona el conjunto de soluciones de procesamiento de documentos más completo y eficiente sin ninguna otra instalación de software ni dependencias." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="Conjunto completo de soluciones de manipulación de formato de archivo" h2="Aspose.Total proporciona el conjunto de soluciones de procesamiento de documentos más completo y eficiente sin ninguna otra instalación de software ni dependencias." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Las API de código alto de Aspose.Total incluyen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/es/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/es/net/" >}}
 API .NET locales para manipular múltiples formatos de documentos dentro de aplicaciones basadas en Windows, Web, iOS y Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/es/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/es/java/" >}}
 API de plataforma basada en Java para crear, modificar, representar o analizar archivos de Microsoft Word, Web, texto y documentos de OpenOffice directamente dentro de las aplicaciones.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/es/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/es/cpp/" >}}
 Cree, cargue, manipule o convierta diferentes formatos de documentos e imágenes dentro de aplicaciones C++ puras utilizando la biblioteca C++ nativa.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ Cree, cargue, manipule o convierta diferentes formatos de documentos e imágenes
 
 {{< blocks/products/pf/product-card-row title="Las API de código bajo de Aspose.Total incluyen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 Manipule y procese archivos de Microsoft Word a través de una llamada API REST desde cualquier dispositivo.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 API REST de PDF para crear, renderizar, dividir y convertir documentos PDF con facilidad.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud API para desarrollar aplicaciones de manipulación de hojas de cálculo compatibles con múltiples formatos de Microsoft Excel.
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Cloud API para desarrollar aplicaciones de manipulación de hojas d
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Las aplicaciones sin código incluyen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 Combine fácilmente varios archivos juntos. Combinar documentos en línea en orden de su necesidad.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Comprima fácilmente documentos conservando la calidad original.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 Convierta libremente más de 100 formatos a otros documentos en línea.
 {{< /blocks/products/pf/product >}}
 

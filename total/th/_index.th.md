@@ -6,20 +6,20 @@ description: สร้างแอปพลิเคชันการจัด�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ชุดโซลูชั่นการจัดการรูปแบบไฟล์ที่สมบูรณ์" h2="Aspose.Total มอบชุดโซลูชันการประมวลผลเอกสารที่สมบูรณ์และมีประสิทธิภาพที่สุดโดยไม่ต้องติดตั้งซอฟต์แวร์และการอ้างอิงอื่นใด" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="ชุดโซลูชั่นการจัดการรูปแบบไฟล์ที่สมบูรณ์" h2="Aspose.Total มอบชุดโซลูชันการประมวลผลเอกสารที่สมบูรณ์และมีประสิทธิภาพที่สุดโดยไม่ต้องติดตั้งซอฟต์แวร์และการอ้างอิงอื่นใด" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code API รวม" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/th/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/th/net/" >}}
 บน Premise .NET API เพื่อจัดการรูปแบบเอกสารหลายรูปแบบภายในแอปพลิเคชันที่ใช้ Windows, เว็บ, iOS และ Android
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/th/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/th/java/" >}}
 API แพลตฟอร์มที่ใช้ Java เพื่อสร้าง แก้ไข แสดงผล หรือแยกวิเคราะห์ไฟล์ Microsoft Word, เว็บ, ข้อความ และเอกสาร OpenOffice ภายในแอปพลิเคชันโดยตรง
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/th/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/th/cpp/" >}}
 สร้าง โหลด จัดการ หรือแปลงรูปแบบเอกสารและรูปภาพต่างๆ ภายในแอปพลิเคชัน C++ แท้โดยใช้ไลบรารี C++ ดั้งเดิม
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ API แพลตฟอร์มที่ใช้ Java เพื่อสร้�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code API รวม" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 จัดการและประมวลผลไฟล์ Microsoft Word ผ่านการเรียก REST API จากอุปกรณ์ใดก็ได้
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API เพื่อสร้าง แสดงผล แยก และแปลงเอกสาร PDF อย่างง่ายดาย
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs เพื่อพัฒนาแอพจัดการสเปรดชีตที่รองรับ Microsoft Excel หลายรูปแบบ
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Cloud APIs เพื่อพัฒนาแอพจัดกา�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total ไม่มีแอพรหัสรวม" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 รวมหลายไฟล์เข้าด้วยกันได้อย่างง่ายดาย เอกสารผสานออนไลน์ตามลำดับที่คุณต้องการ
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 บีบอัดเอกสารได้อย่างง่ายดายโดยคงคุณภาพต้นฉบับไว้
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 แปลงรูปแบบไฟล์มากกว่า 100 รูปแบบเป็นเอกสารอื่นๆ ทางออนไลน์ได้อย่างอิสระ
 {{< /blocks/products/pf/product >}}
 

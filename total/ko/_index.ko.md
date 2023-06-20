@@ -6,20 +6,20 @@ description: On Premise 또는 Cloud API를 사용하여 문서 조작 애플리
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 솔루션 세트" h2="Aspose.Total은 다른 소프트웨어 설치 및 종속성 없이 가장 완벽하고 효율적인 문서 처리 솔루션 세트를 제공합니다." logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="완전한 파일 형식 조작 솔루션 세트" h2="Aspose.Total은 다른 소프트웨어 설치 및 종속성 없이 가장 완벽하고 효율적인 문서 처리 솔루션 세트를 제공합니다." logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total 하이 코드 API 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ko/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/ko/net/" >}}
 온프레미스 .NET API를 사용하여 Windows, 웹, iOS 및 Android 기반 애플리케이션 내에서 여러 문서 형식을 조작합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ko/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/ko/java/" >}}
 응용 프로그램 내에서 직접 Microsoft Word 파일, 웹, 텍스트 및 OpenOffice 문서를 생성, 수정, 렌더링 또는 구문 분석하는 Java 기반 플랫폼 API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ko/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/ko/cpp/" >}}
 네이티브 C++ 라이브러리를 사용하여 순수 C++ 애플리케이션 내에서 다양한 문서 형식과 이미지를 생성, 로드, 조작 또는 변환합니다.
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ description: On Premise 또는 Cloud API를 사용하여 문서 조작 애플리
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total 로우 코드 API 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 모든 장치에서 REST API 호출을 통해 Microsoft Word 파일을 조작하고 처리합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 변환할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 여러 Microsoft Excel 형식을 지원하는 스프레드시트 조작 앱을 개발하기 위한 Aspose.Cells Cloud API.
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ PDF REST API를 사용하면 PDF 문서를 쉽게 생성, 렌더링, 분할 및 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total 코드 앱 포함 없음" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 여러 파일을 쉽게 결합할 수 있습니다. 필요에 따라 온라인으로 문서를 병합합니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 원본 품질을 유지하면서 문서를 쉽게 압축할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 100개 이상의 형식을 온라인에서 다른 문서로 자유롭게 변환하십시오.
 {{< /blocks/products/pf/product >}}
 

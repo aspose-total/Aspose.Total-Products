@@ -4,7 +4,7 @@ description: Convierta documentos potm de PowerPoint en archivos rtf de Word con
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Convierta POTM a RTF usando C# o en línea" h2="Cree aplicaciones de conversión de presentaciones de Microsoft PowerPoint POTM a documentos RTF de Word en las plataformas .NET Framework, .NET Core, Windows Azure, Mono o Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Convierta POTM a RTF usando C# o en línea" h2="Cree aplicaciones de conversión de presentaciones de Microsoft PowerPoint POTM a documentos RTF de Word en las plataformas .NET Framework, .NET Core, Windows Azure, Mono o Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Cómo convertir POTM a RTF usando C#" %}}

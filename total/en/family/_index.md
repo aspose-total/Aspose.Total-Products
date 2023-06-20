@@ -6,48 +6,48 @@ description: Microsoft Excel Word PowerPoint Email PDF Visio Project Barcode OCR
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Complete Set of File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats using our native APIs for .NET, Java, Android, C++ and other Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Complete Set of File Format Manipulation APIs" h2="Manipulate Word, Excel, PDF, PowerPoint, Outlook and more than 100 other file formats using our native APIs for .NET, Java, Android, C++ and other Platforms." logoImageSrc="/total/images/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total Product Family Includes" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="/total/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="/total/net" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="/total/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="/total/java" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="/total/cpp" >}}
 Create, manipulate, convert or render Word documents, Excel spreadsheets, PowerPoint presentations, email messages & PDF files in C++ applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" productLink="/total/python-net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/python-net" >}}
 Generate, edit or convert DOC, DOCX, PPT, PPTX, EML, MSG and 3D formats using Python library suite for Microsoft Word, PowerPoint & Outlook.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" productLink="/total/python-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/python-java" >}}
 Python libraries for Microsoft Excel & Visio that help create, edit or convert XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX and other formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/android-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="/total/images/aspose_total-for-android-java.svg" productLink="/total/android-java" >}}
 Manipulate Word, Excel, PowerPoint and other formats in mobile apps. It works with Android OS 2.3 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" productLink="/total/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="/total/images/aspose_total-for-sharepoint.svg" productLink="/total/sharepoint" >}}
 Convert Word, Excel, PowerPoint and other formats in SharePoint Foundation and Server.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" productLink="/total/reporting-services" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="/total/images/aspose_total-for-reporting-services.svg" productLink="/total/reporting-services" >}}
 Export RDL reports to Word, Excel, PowerPoint and other formats from SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" productLink="/total/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="/total/images/aspose_words-for-jasperreports.svg" productLink="/total/jasperreports" >}}
 Export reports to Word, Excel, PowerPoint and other formats from JasperReports or JasperServer.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-node-via-java.svg" productLink="/total/nodejs-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/nodejs-java" >}}
 Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCodes of various symbologies using Node.js.
 {{< /blocks/products/pf/product >}}
 
@@ -69,8 +69,8 @@ Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCo
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total Product Family?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}

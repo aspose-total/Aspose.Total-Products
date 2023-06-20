@@ -10,7 +10,7 @@ outformat: DOTX
 otherformats: TEXT DOCX OTT ODT FLATOPC DOC DOT WORDML DOTM DOCM WORD RTF
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Render PPS to DOTX on Andorid via Java or Online App" h2="File format APIs to convert PPS to DOTX within Android apps without depending upon Microsoft PowerPoint or Word" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen-total h1="Render PPS to DOTX on Andorid via Java or Online App" h2="File format APIs to convert PPS to DOTX within Android apps without depending upon Microsoft PowerPoint or Word" logoImageSrc="/total/images/aspose_total-for-android-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Total" subTitlepfName="for Android via Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPTX" >}}
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for Android via Java" >}}
 {{% blocks/products/pf/agp/content h2="How to Convert PPS to DOTX within Android Applications" %}}
 [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) allows manipulating file formats within Android applications. By using the APIs provided in the package you can automate PowerPoint PPS to Word DOTX conversion process in your apps. 

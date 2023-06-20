@@ -5,7 +5,7 @@ description: 使用 C# 将 PowerPoint ppsx 文档转换为 Word dotm 文件。�
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="使用 C# 将 PPSX 转换为 DOTM 或在线" h2="在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上构建 Microsoft PowerPoint PPSX 演示文稿到 Word DOTM 文档转换应用程序。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPSX" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="使用 C# 将 PPSX 转换为 DOTM 或在线" h2="在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上构建 Microsoft PowerPoint PPSX 演示文稿到 Word DOTM 文档转换应用程序。" logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOTM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="PPSX" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将 PPSX 转换为 DOTM 或在线" %}}

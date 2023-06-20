@@ -6,11 +6,11 @@ description: Samling av API:er för Java-utvecklare för att manipulera filer fr
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Skapa, redigera och konvertera filer via Java API" h2="Manipulera Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD och andra dokumentformat från dina egna Java-applikationer." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-java.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.comtotal/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Skapa, redigera och konvertera filer via Java API" h2="Manipulera Word, Excel, PowerPoint, Outlook, PDF, 3D, CAD och andra dokumentformat från dina egna Java-applikationer." logoImageSrc="/total/images/aspose_total-for-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Java" downloadUrl="https://releases.aspose.comtotal/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.comtotal/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/java/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.comtotal/java" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Java är en samling filformatsautomatiseringsbibliotek för Java-utvecklare, som ger dem möjlighet att skapa, uppdatera, skriva ut, rendera och konvertera mellan flera filformat från alla Java J2SE, J2EE, J2ME-applikationer.
@@ -18,83 +18,83 @@ Aspose.Total for Java är en samling filformatsautomatiseringsbibliotek för Jav
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Java tillåter utvecklarna att utföra ett brett utbud av dokumentformathantering, manipulation och bearbetning direkt i Java-applikationer. Den stöder de flesta populära formaten inklusive Word-dokument, Excel-kalkylblad, PowerPoint-presentationer, HTML, OpenDocument, Visio, PDF, CAD och olika andra filformat. Med Aspose.Total kan man generera, modifiera och konvertera dokument utan att använda någon programvara." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
+{{< blocks/products/pf/total/product-item href="/words/sv/java/" imgSrc="/total/images/aspose_words-for-java.svg" productName="Aspose.Words for Java">}}
 Aspose.Words for Java låter utvecklarna utföra ett stort antal dokumentbearbetningsuppgifter direkt i Java-applikationer. Den stöder de flesta populära ordbehandlingsformaten inklusive DOC, OOXML, RTF, HTML och OpenDocument. Med Aspose.Words kan du skapa, ändra och konvertera dokument utan att använda Microsoft Word.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
+{{< blocks/products/pf/total/product-item href="/pdf/sv/java/" imgSrc="/total/images/aspose_pdf-for-java.svg" productName="Aspose.PDF for Java">}}
 Aspose.PDF for Java är ett PDF-dokument skapande API som gör att dina Java-applikationer kan läsa, skriva och manipulera PDF-dokument utan att använda Adobe Acrobat. Det är ett fristående API som erbjuder en hel del funktioner, inklusive PDF-komprimeringsalternativ, tabellskapande och manipulering, anpassad teckensnittshantering och utökade säkerhetskontroller.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
+{{< blocks/products/pf/total/product-item href="/cells/sv/java/" imgSrc="/total/images/aspose_cells-for-java.svg" productName="Aspose.Cells for Java">}}
 Aspose.Cells for Java erbjuder Excel-filgenerering, konvertering och manipulation. API gör det möjligt för Java-applikationer att skapa och hantera Excel-kalkylblad utan att använda Microsoft Excel. Aspose.Cells for Java är ett otroligt funktionsrikt API som erbjuder mycket mer än bara grundläggande dataexportfunktioner.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
+{{< blocks/products/pf/total/product-item href="/email/sv/java/" imgSrc="/total/images/aspose_email-for-java.svg" productName="Aspose.Email for Java">}}
 Aspose.Email for Java är en uppsättning Java API:er för att läsa och skriva e-postmeddelandefiler i olika format utan Microsoft Outlook. Den tillhandahåller klasser för att läsa och manipulera Outlook MSG-, EML-, EMLX-, OFT-filer – lägg till bilagor, mottagare, uppdatera ämne, brödtext och andra MSG-filegenskaper.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
+{{< blocks/products/pf/total/product-item href="/slides/sv/java/" imgSrc="/total/images/aspose_slides-for-java.svg" productName="Aspose.Slides for Java">}}
 Aspose.Slides for Java är ett unikt presentationsbearbetnings-API som gör det möjligt för Java-baserade applikationer att läsa, skriva och uppdatera PowerPoint-filer. Utvecklare kan skapa, manipulera, kopiera, konvertera, rendera och skriva ut presentationer utan att installera Microsoft PowerPoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productName="Aspose.Imaging for Java">}}
+{{< blocks/products/pf/total/product-item href="/imaging/java/" imgSrc="/total/images/aspose_imaging-for-java.svg" productName="Aspose.Imaging for Java">}}
 Aspose.Imaging for Java är ett bildbehandlings-API som låter utvecklare redigera, skapa, rita eller rendera bilder i sina Java-applikationer. Den erbjuder ett brett spektrum av traditionella bildbehandlingsoperationer samt de mest efterfrågade funktionerna som gör den till den mest använda bildbehandlingsmotorn.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
+{{< blocks/products/pf/total/product-item href="/barcode/sv/java/" imgSrc="/total/images/aspose_barcode-for-java.svg" productName="Aspose.BarCode for Java">}}
 Aspose.BarCode for Java API erbjuder att lägga till streckkodsgenerering och igenkänningsprocesser i sina Java-applikationer. Den stöder Java SE, Java EE och Java ME-plattformar och en mängd linjära, 2D- och poststreckkoder.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
+{{< blocks/products/pf/total/product-item href="/diagram/sv/java/" imgSrc="/total/images/aspose_diagram-for-java.svg" productName="Aspose.Diagram for Java">}}
 Aspose.Diagram for Java är ett icke-grafiskt och välstrukturerat API som tillåter utvecklare att ladda befintliga diagram, skapa diagram från början, spara ett diagram i vilket filformat som helst eller manipulera Microsoft Visio-ritningar i Java-applikationer utan att använda Microsoft Visio.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
+{{< blocks/products/pf/total/product-item href="/tasks/sv/java/" imgSrc="/total/images/aspose_tasks-for-java.svg" productName="Aspose.Tasks for Java">}}
 Aspose.Tasks for Java är ett projekthanterings-API som gör det möjligt för Java-applikationsutvecklare att tillhandahålla Microsoft Project-dokumentmanipuleringsmöjligheter i sina applikationer – allt utan att använda Microsoft Project. Med detta kraftfulla API kan utvecklare kontrollera olika stadier av projektledning som projektplanering, definition och spårning.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
+{{< blocks/products/pf/total/product-item href="/ocr/sv/java/" imgSrc="/total/images/aspose_ocr-for-java.svg" productName="Aspose.OCR for Java">}}
 Aspose.OCR for Java är ett Java API för optisk teckenigenkänning som gör det möjligt för programmerare att lägga till OCR-teknik till Java-applikationer snabbt och enkelt. API erbjuder uppsättning klasser för att känna igen tecken från flera bildformat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/note/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/note/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
+{{< blocks/products/pf/total/product-item href="/note/sv/java/" imgSrc="/total/images/aspose_note-for-java.svg" productName="Aspose.Note for Java">}}
 Aspose.Note for Java API gör det möjligt för Java-baserad programvara att hantera Microsoft OneNote programmatiskt utan att det installeras på servern. Det är ett rent alternativ för Microsoft OneNote Object Model och ger bättre prestanda och användarvänlighet för att hantera OneNote-dokument.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cad/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
+{{< blocks/products/pf/total/product-item href="/cad/sv/java/" imgSrc="/total/images/aspose_cad-for-java.svg" productName="Aspose.CAD for Java">}}
 Aspose.CAD for Java erbjuder att konvertera AutoCAD DXF- och DWG-ritfiler till PDF- och rasterbilder. Eftersom det är ett inbyggt API, kräver det inte att AutoCAD eller någon programvara är nödvändig.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
+{{< blocks/products/pf/total/product-item href="/3d/sv/java/" imgSrc="/total/images/aspose_3d-for-java.svg" productName="Aspose.3D for Java">}}
 Aspose.3D for Java API är byggt för att skapa, redigera, manipulera och spara 3D-format. Det ger Java-applikationer möjlighet att ansluta till 3D-dokument utan att installera något programpaket på datorn, och hjälper utvecklarna att modellera och skapa spelvärldar och scener för designvisualisering.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/html/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/html/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
+{{< blocks/products/pf/total/product-item href="/html/java/" imgSrc="/total/images/aspose_html-for-java.svg" productName="Aspose.HTML for Java">}}
 Aspose.HTML for Java är ett avancerat HTML-manipulerings-API som tillåter att skapa, ladda, redigera eller konvertera (X)HTML-dokument inom Java-applikationerna. API:et tillhandahåller också en motor för rendering av hög kvalitet för PDF, XPS och ett antal rasterbildsformat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
+{{< blocks/products/pf/total/product-item href="/page/sv/java/" imgSrc="/total/images/aspose_page-for-java.svg" productName="Aspose.Page for Java">}}
 Aspose.Page for Java är ett API för att analysera och bearbeta PostScript- och XPS-dokument. Utvecklare kan enkelt konvertera PS- och EPS-filer till PDF- och rasterbildsformat. API tillåter också utvecklarna att skapa, analysera och spara XPS-filer utan några beroenden.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/psd/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/psd/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
+{{< blocks/products/pf/total/product-item href="/psd/sv/java/" imgSrc="/total/images/aspose_psd-for-java.svg" productName="Aspose.PSD for Java">}}
 Aspose.PSD for Java är ett premiss-API för Photoshop-formatmanipulation. Utvecklare kan enkelt skapa, ladda, konvertera och ändra PSD- och PSB-format. API kan utföra olika operationer som att lägga till vattenstämplar, komprimering, rotation, skalning och mer utan att Adobe Photoshop behöver installeras.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/omr/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/omr/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
+{{< blocks/products/pf/total/product-item href="/omr/sv/java/" imgSrc="/total/images/aspose_omr-for-java.svg" productName="Aspose.OMR for Java">}}
 Aspose.OMR for Java är ett API för att känna igen optiska märken från OMR digitaliserade arkbilder såväl som från olika bildformat som BMP, JPG, TIF, TIFF, GIF. API fångar människomärkta data från dokumentformulär som undersökningar, frågeformulär, MCQs etc. Basen för igenkänning är malluppmärkning med en grafisk kartläggning av de element som ska kännas igen från de skannade bilderna.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
+{{< blocks/products/pf/total/product-item href="/pub/sv/java/" imgSrc="/total/images/aspose_pub-for-java.svg" productName="Aspose.PUB for Java">}}
 Aspose.PUB for Java är ett API som gör det möjligt att läsa Microsoft Publisher-filer och konvertera till PDF. Dessutom tillåter API att arbeta med .pub-format utan att behöva gå in på detaljerna i den underliggande filformatstrukturen utan några beroenden av Microsoft Publisher.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
+{{< blocks/products/pf/total/product-item href="/font/sv/java/" imgSrc="/total/images/aspose_font-for-java.svg" productName="Aspose.Font for Java">}}
 Aspose.Font for Java är ett API för att ladda och rita teckensnitt som stöder flera teckensnittsformat. Det kan enkelt utföra teckensnittsfiloperationer som att ladda teckensnitt från skiva eller stream, läsa glyfer och statistikinformation samt upptäcka latinska symboler, rendera text med teckensnittsglyfer och mer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/sv/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
+{{< blocks/products/pf/total/product-item href="/tex/sv/java/" imgSrc="/total/images/aspose_tex-for-java.svg" productName="Aspose.TeX for Java">}}
 Aspose.TeX for Java är ett TeX-filtypsättnings-API. Det kan enkelt sätta TeX-filer för att få dokument i olika format som XPS, PDF, PNG, JPEG, TIFF och BMP. Den har också skapande av anpassade TeX-format.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -285,8 +285,8 @@ Aspose.Total är en kraftfull svit för att bearbeta nästan alla typer av dokum
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Total for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -295,12 +295,12 @@ Aspose.Total är en kraftfull svit för att bearbeta nästan alla typer av dokum
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total erbjuder individuella lösningar för andra plattformar." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/sv/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sv/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sv/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sv/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sv/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sv/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sv/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sv/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sv/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sv/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sv/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/sv/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

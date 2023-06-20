@@ -4,7 +4,7 @@ description: Konversikan dokumen PowerPoint pptx ke file dokumen Word dengan C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konversi PPTX ke DOTM menggunakan C# atau daring" h2="Bangun Presentasi PPTX Microsoft PowerPoint ke aplikasi konversi dokumen Word DOTM di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konversi PPTX ke DOTM menggunakan C# atau daring" h2="Bangun Presentasi PPTX Microsoft PowerPoint ke aplikasi konversi dokumen Word DOTM di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi PPTX ke DOTM Menggunakan C#" %}}

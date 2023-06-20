@@ -6,11 +6,11 @@ description: Aplikace pro formát souborů SharePoint pro převod a kombinaci fo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="SharePoint Apps pro manipulaci se soubory" h2="Snadno převádějte a kombinujte Word, Excel, PowerPoint, PDF, Outlook a mnoho dalších formátů v aplikacích Microsoft SharePoint." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="SharePoint Apps pro manipulaci se soubory" h2="Snadno převádějte a kombinujte Word, Excel, PowerPoint, PDF, Outlook a mnoho dalších formátů v aplikacích Microsoft SharePoint." logoImageSrc="/total/images/aspose_total-for-sharepoint-header.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total pro SharePoint je kombinací každé zkompilované aplikace SharePoint nabízené Aspose. Nabízí vývojářům snadnou konverzi a kombinování dokumentů z Microsoft SharePoint a podporuje více formátů dokumentů s vysoce věrným převodem.
@@ -18,31 +18,31 @@ Aspose.Total pro SharePoint je kombinací každé zkompilované aplikace SharePo
 
 {{< blocks/products/pf/total/products description="Aspose.Total for SharePoint pomáhá vaší organizaci mít firemní úložiště dokumentů na technologiích Windows SharePoint Services (WSS) nebo Microsoft Office SharePoint Server (MOSS) pro převod dokumentů uložených v SharePointu do různých formátů dokumentů, ve kterých je vaši uživatelé potřebují." >}}
 
-{{< blocks/products/pf/total/product-item href="/words/cs/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/cs/sharepoint/" imgSrc="/total/images/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint pomáhá vaší organizaci mít firemní úložiště dokumentů na technologiích Windows SharePoint Services (WSS) nebo Microsoft Office SharePoint Server (MOSS) pro převod dokumentů uložených v SharePointu do různých formátů dokumentů, ve kterých je vaši uživatelé potřebují.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/cs/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/cs/sharepoint/" imgSrc="/total/images/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF pro SharePoint vám dává možnost převádět položky seznamu a stránky wiki do formátu PDF (Portable Document Format).
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/cs/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/cs/sharepoint/" imgSrc="/total/images/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint je flexibilní řešení pro manipulaci s tabulkami, které umožňuje vývojářům převádět dokumenty Microsoft Excel v rámci Microsoft SharePoint a podporovat více formátů dokumentů nad rámec nativních podporovaných formátů. Pomáhá vám také distribuovat podnikové znalosti tím, že vám umožňuje převádět soubory uložené na SharePointu do formátů, ve kterých je vaši uživatelé potřebují.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/cs/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/cs/sharepoint/" imgSrc="/total/images/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email pro SharePoint poskytuje množství funkcí, včetně konverze formátu souboru zpráv, extrakce příloh e-mailu, synchronizace e-mailu s poštovními servery a přenosu souborů na server FTP přímo z knihovny dokumentů Microsoft SharePoint.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/cs/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/cs/sharepoint/" imgSrc="/total/images/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint umožňuje vývojářům číst a převádět soubory PowerPoint (formát PPT, POT, PPS, PPTX, POT a PPSX) v aplikaci SharePoint bez použití aplikace Microsoft PowerPoint. Je zaměřen na vývojáře SharePoint, kteří potřebují převádět různé formáty souborů PowerPoint do formátů PDF, TIFF nebo XPS bez ztráty věrnosti. Je podporován pro práci s WSS 3.0, MOSS 2007 a MOSS 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="/total/images/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging pro SharePoint přidává do řešení SharePoint možnost zpracování obrázků. Podporuje převod mezi různými formáty souborů obrázků a úpravy obrázků v rámci Microsoft SharePoint Server 2010 a Microsoft SharePoint Foundation 2010.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/cs/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/cs/sharepoint/" imgSrc="/total/images/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode for SharePoint poskytuje jedinečnou a robustní aplikaci pro vylepšení seznamů SharePointu pomocí tohoto systému čárových kódů. Aplikace Barcode SharePoint podporuje více než 40 nejoblíbenějších symbolik čárových kódů včetně lineárních, poštovních a 2D čárových kódů.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -124,8 +124,8 @@ Aspose.BarCode for SharePoint poskytuje jedinečnou a robustní aplikaci pro vyl
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Total pro SharePoint?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -134,12 +134,12 @@ Aspose.BarCode for SharePoint poskytuje jedinečnou a robustní aplikaci pro vyl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total nabízí individuální řešení pro jiné platformy." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/cs/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cs/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cs/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cs/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cs/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cs/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cs/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cs/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cs/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cs/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cs/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/cs/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

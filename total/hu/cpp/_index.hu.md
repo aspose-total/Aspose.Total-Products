@@ -6,11 +6,11 @@ description: A C++ könyvtárak írási renderelést írnak le, és több dokume
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API-k Microsoft Office fájlformátumokhoz, PDF-hez és vonalkódokhoz" h2="Natív C++ alkalmazások fejlesztése a Microsoft Project, Excel, Word, PowerPoint, Outlook és PDF formátumok kezeléséhez. Vonalkód generátor és olvasó is!" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-cpp.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API-k Microsoft Office fájlformátumokhoz, PDF-hez és vonalkódokhoz" h2="Natív C++ alkalmazások fejlesztése a Microsoft Project, Excel, Word, PowerPoint, Outlook és PDF formátumok kezeléséhez. Vonalkód generátor és olvasó is!" logoImageSrc="/total/images/aspose_total-for-cpp-header.svg" pfName="Aspose.Total" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/cpp/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/cpp" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for C++ a C++ fájlformátum-automatizálási könyvtárak teljes csomagja, amelyet kifejezetten népszerű formátumok létrehozására, manipulálására és konvertálására terveztek Microsoft Office-ból és PDF-ből Office vagy Adobe Automation nélkül. A C++ API csomag egy speciális könyvtárat is tartalmaz, amely vonalkódcímkéket generál és felismer a képekről, fejlett funkciókkal a vonalkód generálási és felismerési folyamat testreszabásához.
@@ -18,51 +18,51 @@ Az Aspose.Total for C++ a C++ fájlformátum-automatizálási könyvtárak telje
 
 {{< blocks/products/pf/total/products description="Az Aspose.Total for C++ a következő C++ könyvtárakat tartalmazza:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
+{{< blocks/products/pf/total/product-item href="/words/hu/cpp/" imgSrc="/total/images/aspose_words-for-cpp.svg" productName="Aspose.Words for C++">}}
 C++ osztálykönyvtár a programozók számára, hogy a dokumentumelemzési feladatok széles skáláját hajtsák végre közvetlenül a C++ alkalmazásokból. Lehetővé teszi a DOC, DOT, DOCX, DOCM, DOTX, DOTM, RTF, FlatOPC, TXT, ODT és számos más népszerű szövegszerkesztő fájlformátum létrehozását, konvertálását és manipulálását függőségek nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
+{{< blocks/products/pf/total/product-item href="/pdf/hu/cpp/" imgSrc="/total/images/aspose_pdf-for-cpp.svg" productName="Aspose.PDF for C++">}}
 Egy C++ PDF könyvtár, amely lehetővé teszi a C++ alkalmazások számára PDF fájlok létrehozását, kezelését és renderelését Adobe Acrobat használata nélkül. Az Aspose.PDF for C++ támogatja az űrlapok létrehozását és kezelését, a mellékletek, megjegyzések, könyvjelzők, vízjelek kezelését, valamint az oldalak PNG, JPEG és BMP képek formátumban történő megjelenítését.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
+{{< blocks/products/pf/total/product-item href="/cells/hu/cpp/" imgSrc="/total/images/aspose_cells-for-cpp.svg" productName="Aspose.Cells for C++">}}
 Az Aspose.Cells for C++ lehetővé teszi a fejlesztők számára, hogy Excel-fájlformátumokkal dolgozzanak saját C++-alkalmazásaikon belül, anélkül, hogy a Microsoft Excelt telepíteni kellene. Az Excel C++ API támogatja az összes fő Microsoft Excel fájlformátumot, beleértve az XLSX, XLS, XLSM, XLSB, CSV és tabulátorral tagolt fájlokat, és minden táblázatformátumot exportál PDF, XPS, HTML és képek formátumba.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
+{{< blocks/products/pf/total/product-item href="/email/hu/cpp/" imgSrc="/total/images/aspose_email-for-cpp.svg" productName="Aspose.Email for C++">}}
 Az Aspose.Email for C++ egy MIME és e-mail könyvtár C++-hoz, amely e-mail fájlokat és e-mail üzenetarchívumot kínál a C++ alkalmazásokon belül. Az Email C++ API képes a legnépszerűbb üzenetformátumok létrehozására, manipulálására és konvertálására, például MSG, EML, EMLX és MHTML, valamint üzenetek létrehozására, ellenőrzésére és kibontására a PST és OST archívumokból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
+{{< blocks/products/pf/total/product-item href="/slides/hu/cpp/" imgSrc="/total/images/aspose_slides-for-cpp.svg" productName="Aspose.Slides for C++">}}
 Ez egy egyedülálló PowerPoint prezentáció- és diakezelő és -elemző API, amely lehetővé teszi a C++ alkalmazások számára PPT, POT, PPTX, PPS, PPSX, POTX és OPD formátumú prezentációk és diák olvasását, írását és szerkesztését. A fejlesztők prezentációkat hozhatnak létre, módosíthatnak, konvertálhatnak és renderelhetnek Microsoft PowerPoint nélkül.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hu/cpp/" imgSrc="/total/images/aspose_barcode-for-cpp.svg" productName="Aspose.BarCode for C++">}}
 A Vonalkód C++ könyvtár nagy sebességű generálási és felismerési algoritmusokat kínál 1D, 2D és postai vonalkódokhoz a fejlesztők számára, hogy vonalkód-szolgáltatásokat adhassanak saját C++ alkalmazásaikhoz. A C++ vonalkódkönyvtára lehetővé teszi a fejlesztők számára a vonalkódcímkék raszteres képformátumokba történő exportálását, valamint az elforgatott vonalkódok olvasását a képekről.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tasks/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
+{{< blocks/products/pf/total/product-item href="/tasks/hu/cpp/" imgSrc="/total/images/aspose_tasks-for-cpp.svg" productName="Aspose.Tasks for C++">}}
 Az Aspose.Tasks for C++ egy Microsoft Project fájlfeldolgozó és -elemző könyvtár. Lehetővé teszi több formátum létrehozását, olvasását és kezelését, valamint a projekt különféle kimeneti formátumokba való renderelését. Ezenkívül kezelheti a fő és az alapértelmezett projektbeállításokat, a kiterjesztett attribútumokat, a feladatokra vonatkozó kényszereket, valamint meghatározhatja a projekt hétköznapjait, naptárakat és naptárkivételeket.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/ocr/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/ocr/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
+{{< blocks/products/pf/total/product-item href="/ocr/hu/cpp/" imgSrc="/total/images/aspose_ocr-for-cpp.svg" productName="Aspose.OCR for C++">}}
 Az Aspose.OCR for C++ egy natív OCR-könyvtár, amellyel szöveget vonhat ki különböző betűtípusú és stílusú képekből. A fejlesztők időt és erőfeszítést takaríthatnak meg az OCR-szoftver fejlesztésével a semmiből. Az API többféle képformátumot támogat, beleértve a BMP-t, JPG-t és PNG-t.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/page/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/page/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
+{{< blocks/products/pf/total/product-item href="/page/hu/cpp/" imgSrc="/total/images/aspose_page-for-cpp.svg" productName="Aspose.Page for C++">}}
 Az Aspose.Page for C++ egy önálló és megbízható Postscript és XPS fájlfeldolgozó és -elemző könyvtár. Lehetővé teszi XPS, PS és EPS formátumok létrehozását, betöltését és kezelését. Ezenkívül az API lehetővé teszi a PS és EPS fájlok konvertálását PDF és raszteres képformátumokká, beleértve az EMF, BMP, GIF, PNG, JPEG és TIFF formátumokat.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pub/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pub/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
+{{< blocks/products/pf/total/product-item href="/pub/hu/cpp/" imgSrc="/total/images/aspose_pub-for-cpp.svg" productName="Aspose.PUB for C++">}}
 Az Aspose.PUB for C++ egy önálló és megbízható Microsoft Publisher fájlfeldolgozó és -elemző könyvtár. A fejlesztők könnyen olvashatják és elemezhetik a .pub formátumokat. Ezenkívül a PUB-ból PDF-be konvertálás az egyik fő funkciója.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/font/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
+{{< blocks/products/pf/total/product-item href="/font/hu/cpp/" imgSrc="/total/images/aspose_font-for-cpp.svg" productName="Aspose.Font for C++">}}
 Az Aspose.Font for C++ egy betűtípus-integrációs és -kezelési API, amely különféle betűtípusokkal, például TrueType, CFF, OpenType és Type1 használható. Könnyen betölthető, rajzolható és menthető betűtípusok fájlokból, valamint adatfolyamból.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tex/hu/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
+{{< blocks/products/pf/total/product-item href="/tex/hu/cpp/" imgSrc="/total/images/aspose_tex-for-cpp.svg" productName="Aspose.TeX for C++">}}
 Az Aspose.TeX for C++ egy tex integrációs és felügyeleti API, amely tex fájlokkal dolgozik. Az eredmény könnyen betölthető, beírható és menthető képként vagy pdf-ként.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -215,8 +215,8 @@ A megvalósítás egyszerű volt, valóban az architektúránkra koncentrálunk,
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Total for C++" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -225,12 +225,12 @@ A megvalósítás egyszerű volt, valóban az architektúránkra koncentrálunk,
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/hu/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hu/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hu/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -4,7 +4,7 @@ description: PowerPoint ppsm दस्तावेज़ों को C# के 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="सी # का उपयोग कर ओडीपी को डीओसी में कनवर्ट करें या ऑनलाइन" h2=".NET Framework, .NET Core, Windows Azure, Mono या Xamarin प्लेटफॉर्म पर Word ODT दस्तावेज़ रूपांतरण ऐप्स के लिए Microsoft PowerPoint PPSM प्रस्तुति बनाएं।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="सी # का उपयोग कर ओडीपी को डीओसी में कनवर्ट करें या ऑनलाइन" h2=".NET Framework, .NET Core, Windows Azure, Mono या Xamarin प्लेटफॉर्म पर Word ODT दस्तावेज़ रूपांतरण ऐप्स के लिए Microsoft PowerPoint PPSM प्रस्तुति बनाएं।" logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPSM" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके PPSM को ODT में कैसे बदलें" %}}

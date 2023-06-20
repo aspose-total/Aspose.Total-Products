@@ -4,7 +4,7 @@ description: Μετατρέψτε έγγραφα ppt του PowerPoint σε αρ
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή PPT σε ODT χρησιμοποιώντας C# ή διαδικτυακά" h2="Δημιουργήστε εφαρμογές μετατροπής εγγράφων Microsoft PowerPoint PPT σε Word ODT σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή PPT σε ODT χρησιμοποιώντας C# ή διαδικτυακά" h2="Δημιουργήστε εφαρμογές μετατροπής εγγράφων Microsoft PowerPoint PPT σε Word ODT σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPT" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOCM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το PPT σε ODT χρησιμοποιώντας C#" %}}

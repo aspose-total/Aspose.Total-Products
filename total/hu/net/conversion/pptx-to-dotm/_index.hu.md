@@ -4,7 +4,7 @@ description: Konvertálja a PowerPoint pptx dokumentumokat Word dotm fájlokká 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="PPTX konvertálása DOTM-ba a C# használatával vagy online" h2="Microsoft PowerPoint PPTX-bemutatót készíthet Word DOTM-dokumentumkonverziós alkalmazásokba .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PPTX konvertálása DOTM-ba a C# használatával vagy online" h2="Microsoft PowerPoint PPTX-bemutatót készíthet Word DOTM-dokumentumkonverziós alkalmazásokba .NET-keretrendszer, .NET Core, Windows Azure, Mono vagy Xamarin platformokon." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Hogyan lehet az PPTX-t DOTM-ba konvertálni C# használatával" %}}

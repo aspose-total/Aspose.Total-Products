@@ -6,11 +6,11 @@ description: แอปรูปแบบไฟล์ SharePoint เพื่อ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="แอป SharePoint เพื่อจัดการไฟล์" h2="แปลงและรวม Word, Excel, PowerPoint, PDF, Outlook และรูปแบบอื่นๆ มากมายภายในแอป Microsoft SharePoint ได้อย่างง่ายดาย" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-sharepoint.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="แอป SharePoint เพื่อจัดการไฟล์" h2="แปลงและรวม Word, Excel, PowerPoint, PDF, Outlook และรูปแบบอื่นๆ มากมายภายในแอป Microsoft SharePoint ได้อย่างง่ายดาย" logoImageSrc="/total/images/aspose_total-for-sharepoint-header.svg" pfName="Aspose.Total" subTitlepfName="for SharePoint" downloadUrl="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/sharepoint/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/sharepoint" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total สำหรับ SharePoint คือการรวมกันของแอป SharePoint ที่คอมไพล์แต่ละรายการที่นำเสนอโดย Aspose ให้นักพัฒนาแปลงและรวมเอกสารจากภายใน Microsoft SharePoint ได้อย่างง่ายดาย และสนับสนุนรูปแบบเอกสารหลายรูปแบบด้วยการแปลงที่มีความเที่ยงตรงสูง
@@ -18,31 +18,31 @@ Aspose.Total สำหรับ SharePoint คือการรวมกัน�
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ SharePoint ช่วยให้องค์กรของคุณมีที่เก็บเอกสารขององค์กรบน Windows SharePoint Services (WSS) หรือเทคโนโลยีของ Microsoft Office SharePoint Server (MOSS) เพื่อแปลงเอกสารที่เก็บไว้ใน SharePoint เป็นรูปแบบเอกสารต่างๆ ที่ผู้ใช้ของคุณจำเป็นต้องใช้" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/words/th/sharepoint/" imgSrc="/total/images/aspose_words-for-sharepoint.svg" productName="Aspose.Words for SharePoint">}}
 Aspose.Words for SharePoint ช่วยให้องค์กรของคุณมีที่เก็บเอกสารขององค์กรบน Windows SharePoint Services (WSS) หรือเทคโนโลยีของ Microsoft Office SharePoint Server (MOSS) เพื่อแปลงเอกสารที่เก็บไว้ใน SharePoint เป็นรูปแบบเอกสารต่างๆ ที่ผู้ใช้ของคุณจำเป็นต้องใช้
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/pdf/th/sharepoint/" imgSrc="/total/images/aspose_pdf-for-sharepoint.svg" productName="Aspose.PDF for SharePoint">}}
 Aspose.PDF สำหรับ SharePoint ช่วยให้คุณสามารถแปลงรายการและหน้า Wiki เป็น Portable Document Format (PDF)
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/sharepoint/" imgSrc="/total/images/aspose_cells-for-sharepoint.svg" productName="Aspose.Cells for SharePoint">}}
 Aspose.Cells for SharePoint เป็นโซลูชันการจัดการสเปรดชีตที่ยืดหยุ่นซึ่งช่วยให้นักพัฒนาสามารถแปลงเอกสาร Microsoft Excel ภายใน Microsoft SharePoint และสนับสนุนรูปแบบเอกสารได้หลายรูปแบบ นอกจากนี้ยังช่วยให้คุณกระจายความรู้ขององค์กรโดยอนุญาตให้คุณแปลงไฟล์ที่เก็บไว้ใน SharePoint เป็นรูปแบบที่ผู้ใช้ของคุณต้องการ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/email/th/sharepoint/" imgSrc="/total/images/aspose_email-for-sharepoint.svg" productName="Aspose.Email for SharePoint">}}
 Aspose.Email for SharePoint มีคุณสมบัติมากมาย เช่น การแปลงรูปแบบไฟล์ข้อความ การดึงไฟล์แนบอีเมล การซิงโครไนซ์อีเมลกับเซิร์ฟเวอร์อีเมล และการถ่ายโอนไฟล์ไปยังเซิร์ฟเวอร์ FTP จากไลบรารีเอกสาร Microsoft SharePoint
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/slides/th/sharepoint/" imgSrc="/total/images/aspose_slides-for-sharepoint.svg" productName="Aspose.Slides for SharePoint">}}
 Aspose.Slides for SharePoint ช่วยให้นักพัฒนาสามารถอ่านและแปลงไฟล์ PowerPoint (รูปแบบ PPT, POT, PPS, PPTX, POT และ PPSX) ในแอปพลิเคชัน SharePoint ได้โดยไม่ต้องใช้ Microsoft PowerPoint มุ่งเป้าไปที่นักพัฒนา SharePoint ที่ต้องการแปลงรูปแบบไฟล์ PowerPoint ต่างๆ เป็นรูปแบบ PDF, TIFF หรือ XPS โดยไม่สูญเสียความเที่ยงตรง รองรับการทำงานกับ WSS 3.0, MOSS 2007 และ MOSS 2010
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/imaging/sharepoint/" imgSrc="/total/images/aspose_imaging-for-sharepoint.svg" productName="Aspose.Imaging for SharePoint">}}
 Aspose.Imaging สำหรับ SharePoint เพิ่มความสามารถในการประมวลผลรูปภาพให้กับโซลูชันของ SharePoint รองรับการแปลงไฟล์รูปภาพรูปแบบต่างๆ และการแก้ไขรูปภาพจากภายใน Microsoft SharePoint Server 2010 และ Microsoft SharePoint Foundation 2010
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
+{{< blocks/products/pf/total/product-item href="/barcode/th/sharepoint/" imgSrc="/total/images/aspose_barcode-for-sharepoint.svg" productName="Aspose.BarCode for SharePoint">}}
 Aspose.BarCode สำหรับ SharePoint มีแอปที่ไม่ซ้ำใครและมีประสิทธิภาพเพื่อปรับปรุงรายการ SharePoint ของคุณโดยใช้ระบบบาร์โค้ดนี้ แอป Barcode SharePoint รองรับสัญลักษณ์บาร์โค้ดยอดนิยมมากกว่า 40 รายการ รวมถึงบาร์โค้ดเชิงเส้น ไปรษณีย์ และ 2D
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -124,8 +124,8 @@ Aspose.BarCode สำหรับ SharePoint มีแอปที่ไม่�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Total สำหรับ SharePoint" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -134,12 +134,12 @@ Aspose.BarCode สำหรับ SharePoint มีแอปที่ไม่�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

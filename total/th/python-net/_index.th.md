@@ -6,11 +6,11 @@ description: Python APIs สำหรับเอกสาร Microsoft Word, �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python APIs เพื่อทำให้ Microsoft Word, PowerPoint, Outlook และไฟล์ 3D ทำงานโดยอัตโนมัติ" h2="สร้าง แก้ไข หรือแปลงเอกสาร งานนำเสนอ อีเมลไฟล์ 3D และ CAD โดยใช้ Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python APIs เพื่อทำให้ Microsoft Word, PowerPoint, Outlook และไฟล์ 3D ทำงานโดยอัตโนมัติ" h2="สร้าง แก้ไข หรือแปลงเอกสาร งานนำเสนอ อีเมลไฟล์ 3D และ CAD โดยใช้ Python" logoImageSrc="/total/images/aspose_total-for-python-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 ไลบรารีการทำงานอัตโนมัติของเอกสารสำหรับ Python ที่ช่วยในการสร้างแอปที่มีความสามารถในการสร้าง แก้ไข หรือแปลง DOC, DOCX, PPT, PPTX, EML, MSG, 3D และรูปแบบอื่นๆ จากภายในแอป Python
@@ -18,7 +18,7 @@ description: Python APIs สำหรับเอกสาร Microsoft Word, �
 
 {{< blocks/products/pf/total/products description="Aspose.Total สำหรับ Python ผ่าน .NET รวมถึง" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/th/python-net/" imgSrc="/total/images/aspose_words-for-python-net.svg" productName="Aspose.Words for Python via .NET">}}
 ไลบรารี Python แบบสแตนด์อโลนสำหรับรูปแบบการประมวลผลคำจาก Microsoft Word & OpenOffice อนุญาตให้สร้างรายงานโดยใช้ MailMerge สร้างและแก้ไขเอกสาร แสดงผลหรือส่งออกไฟล์รวมถึง DOC, DOCX และ ODT เป็นรูปภาพ, PDF, HTML และรูปแบบอื่น ๆ
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -26,35 +26,35 @@ description: Python APIs สำหรับเอกสาร Microsoft Word, �
 Python API สำหรับความสามารถในการประมวลผล PDF โดยไม่ต้องใช้ Adobe Acrobat ภายในแอปพลิเคชัน Python มีความสามารถไม่กี่อย่าง เช่น การรวมและแยกไฟล์ PDF การแปลงไฟล์ PDF เป็นรูปภาพ ตลอดจนการเพิ่ม อัปเดต และลบรูปภาพ ไฟล์แนบ บุ๊กมาร์ก คำอธิบายประกอบ ไฮเปอร์ลิงก์ ลายน้ำ และอื่น ๆ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/th/python-net/" imgSrc="/total/images/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 Python Excel API สำหรับกระบวนการทำงานอัตโนมัติของสเปรดชีต เช่น การสร้าง การจัดการ และการแปลง นอกจากนี้ยังแสดงแผ่นงานเป็น XPS, PDF, HTML, ข้อความธรรมดาและรูปภาพ 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/th/python-net/" imgSrc="/total/images/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 ไลบรารี Email Python ที่ช่วยในการสร้าง จัดการ หรือแปลงข้อความอีเมลและที่เก็บอีเมล ยังมีคุณสมบัติการจัดการอีเมล เช่น การแก้ไขข้อความและการจัดการไฟล์แนบ นักพัฒนาสามารถใช้เพื่อส่งหรือรับอีเมลผ่าน POP3, IMAP & SMTP
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/th/python-net/" imgSrc="/total/images/aspose_slides-for-python-net.svg" productName="Aspose.Slides for Python via .NET">}}
 ไลบรารี Python สำหรับรูปแบบการนำเสนอ PowerPoint และ OpenOffice ที่ช่วยสร้าง อ่าน เขียน แก้ไข ผสาน โคลน ป้องกันและแปลงไฟล์ PPT, PPTX และ ODP เป็นรูปภาพ รูปแบบคงที่ และรูปแบบเว็บ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/th/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API เพื่อสร้างและจดจำบาร์โค้ดของสัญลักษณ์ 1D, 2D และไปรษณีย์ต่างๆ สำหรับทั้งการเข้ารหัสและการถอดรหัสภายในแอปพลิเคชัน Python
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/th/python-net/" imgSrc="/total/images/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
 รูปแบบ Microsoft Visio จัดการกับ Python API เพื่อสร้าง อ่าน เขียน และส่งออก VSDX, VDX, VSX, VTX และรูปแบบอื่นๆ ภายในแอปพลิเคชัน Python
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/th/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/th/python-net/" imgSrc="/total/images/aspose_tasks-for-python-net.svg" productName="Aspose.Tasks for Python via .NET">}}
 สร้าง โหลด อัปเดต และแปลงไฟล์ Microsoft Project ภายในแอปพลิเคชัน Python โดยไม่ต้องพึ่งพา Microsoft Project หรือซอฟต์แวร์อื่นใด
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/3d/th/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/th/python-net/" imgSrc="/total/images/aspose_3d-for-python-net.svg" productName="Aspose.3D for Python via .NET">}}
 Python 3D API ที่สามารถสร้าง แก้ไข และแปลงไฟล์ Discreet3DS, WavefrontOBJ, FBX, STL, Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco รูปแบบไฟล์โดยไม่ต้องพึ่งพิงใดๆ
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/th/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/th/python-net/" imgSrc="/total/images/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
 API การประมวลผลรูปแบบ XBRL และ iXBRL เพื่อสร้าง อ่าน และตรวจสอบความถูกต้องของเอกสาร eXtensible Business Reporting Language ภายในแอปพลิเคชัน Python ได้โดยตรง
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -224,8 +224,8 @@ Aspose.Total เป็นชุดที่มีประสิทธิภา�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Total สำหรับ Python ผ่าน .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -234,14 +234,14 @@ Aspose.Total เป็นชุดที่มีประสิทธิภา�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
     
-    {{< blocks/products/pf/offers-section-item link="/total/th/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/th/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/th/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

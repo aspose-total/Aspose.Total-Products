@@ -6,11 +6,11 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="माइक्रोसॉफ्ट वर्ड, पावरपॉइंट, आउटलुक और 3डी फाइलों को स्वचालित करने के लिए पायथन एपीआई" h2="पायथन का उपयोग करके दस्तावेज़, प्रस्तुतियाँ, ईमेल 3D और CAD फ़ाइलें बनाएँ, संपादित करें या परिवर्तित करें" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-python-via-net.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="माइक्रोसॉफ्ट वर्ड, पावरपॉइंट, आउटलुक और 3डी फाइलों को स्वचालित करने के लिए पायथन एपीआई" h2="पायथन का उपयोग करके दस्तावेज़, प्रस्तुतियाँ, ईमेल 3D और CAD फ़ाइलें बनाएँ, संपादित करें या परिवर्तित करें" logoImageSrc="/total/images/aspose_total-for-python-net-header.svg" pfName="Aspose.Total" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/python-net/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/python-net/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 पायथन के लिए दस्तावेज़ स्वचालन पुस्तकालय जो पायथन ऐप के भीतर से DOC, DOCX, PPT, PPTX, EML, MSG, 3D और अन्य प्रारूपों को बनाने, संपादित करने या बदलने की क्षमता वाले ऐप बनाने में मदद करता है।
@@ -18,7 +18,7 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 
 {{< blocks/products/pf/total/products description="Aspose.Total for Python via .NET शामिल है" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-python.svg" productName="Aspose.Words for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/words/hi/python-net/" imgSrc="/total/images/aspose_words-for-python-net.svg" productName="Aspose.Words for Python via .NET">}}
 माइक्रोसॉफ्ट वर्ड और ओपनऑफिस से वर्ड प्रोसेसिंग फॉर्मेट के लिए स्टैंडअलोन पायथन लाइब्रेरी। MailMerge का उपयोग करके रिपोर्ट बनाने, दस्तावेज़ बनाने और संपादित करने, DOC, DOCX और ODT सहित फ़ाइलों को छवियों, PDF, HTML और कई अन्य स्वरूपों में रेंडर या निर्यात करने की अनुमति देता है।
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -26,36 +26,36 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 पायथन अनुप्रयोगों के भीतर एडोब एक्रोबैट के उपयोग के बिना पीडीएफ प्रसंस्करण क्षमताओं के लिए पायथन एपीआई। कुछ क्षमताओं में पीडीएफ फाइलों को मर्ज और स्प्लिट करना, पीडीएफ फाइलों को इमेज में बदलने के साथ-साथ इमेज, अटैचमेंट, बुकमार्क, एनोटेशन, हाइपरलिंक, वॉटरमार्क और बहुत कुछ जोड़ना, अपडेट करना और हटाना शामिल है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/cells/hi/python-net/" imgSrc="/total/images/aspose_cells-for-python-net.svg" productName="Aspose.Cells for Python via .NET">}}
 निर्माण, हेरफेर और रूपांतरण जैसी स्प्रेडशीट स्वचालन प्रक्रियाओं के लिए पायथन एक्सेल एपीआई। इसके अलावा, यह वर्कशीट को XPS, PDF, HTML, प्लेन टेक्स्ट और इमेज के लिए रेंडर करता है। 
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/email/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/email/hi/python-net/" imgSrc="/total/images/aspose_email-for-python-net.svg" productName="Aspose.Email for Python via .NET">}}
 एक ईमेल पायथन पुस्तकालय जो ईमेल संदेशों और ईमेल अभिलेखागार के निर्माण, हेरफेर या रूपांतरण में मदद करता है। संदेश संपादन और अनुलग्नक हेरफेर जैसी ईमेल प्रबंधन सुविधाएँ भी प्रदान करता है। डेवलपर्स इसका उपयोग POP3, IMAP और SMTP के माध्यम से ईमेल भेजने या प्राप्त करने के लिए कर सकते हैं।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-python.svg" productName="Aspose.Slides for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/slides/hi/python-net/" imgSrc="/total/images/aspose_slides-for-python-net.svg" productName="Aspose.Slides for Python via .NET">}}
 पावरपॉइंट और ओपनऑफिस प्रेजेंटेशन फॉर्मेट के लिए पायथन लाइब्रेरी जो पीपीटी, पीपीटीएक्स और ओडीपी फाइलों को इमेज, फिक्स्ड-लेआउट और वेब फॉर्मेट में बनाने, पढ़ने, लिखने, संशोधित करने, मर्ज करने, क्लोन करने, संरक्षित करने और बदलने में मदद कर सकती है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hi/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 पायथन बारकोड एपीआई विभिन्न 1D, 2D और डाक प्रतीकों के बारकोड को उत्पन्न करने और पहचानने के लिए दोनों एन्कोडिंग के साथ-साथ पायथन अनुप्रयोगों के भीतर डिकोडिंग के लिए।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/diagram/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/diagram/hi/python-net/" imgSrc="/total/images/aspose_diagram-for-python-net.svg" productName="Aspose.Diagram for Python via .NET">}}
 Microsoft Visio पायथन अनुप्रयोगों के भीतर वीएसडीएक्स, वीडीएक्स, वीएसएक्स, वीटीएक्स और अधिक प्रारूप बनाने, पढ़ने, लिखने और निर्यात करने के लिए पायथन एपीआई में हेरफेर करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/tasks/hi/python-net/" imgSrc="https://docs.aspose.com/tasks/home_4.png" productName="Aspose.Tasks for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/tasks/hi/python-net/" imgSrc="/total/images/aspose_tasks-for-python-net.svg" productName="Aspose.Tasks for Python via .NET">}}
 Microsoft प्रोजेक्ट निर्भरता या किसी अन्य सॉफ़्टवेयर के बिना Python अनुप्रयोगों के भीतर Microsoft प्रोजेक्ट फ़ाइलों को बनाएँ, लोड करें, अपडेट करें और परिवर्तित करें।
 {{< /blocks/products/pf/total/product-item >}}
 
 
-{{< blocks/products/pf/total/product-item href="/3d/hi/python-net/" imgSrc="https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg" productName="Aspose.3D for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/3d/hi/python-net/" imgSrc="/total/images/aspose_3d-for-python-net.svg" productName="Aspose.3D for Python via .NET">}}
 एक पायथन 3डी एपीआई जो बिना किसी निर्भरता के डिस्क्रीट3डीएस, वेवफ्रंटओबीजे, एफबीएक्स, एसटीएल, यूनिवर्सल3डी, कोलाडा, जीएलटीएफ, जीएलबी, पीएलवाई, डायरेक्टएक्स, गूगल ड्रेको फ़ाइल स्वरूपों को बना, संपादित कर सकता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/finance/hi/python-net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/finance/hi/python-net/" imgSrc="/total/images/aspose_finance-for-python-net.svg" productName="Aspose.Finance for Python via .NET">}}
 एक्सबीआरएल और आईएक्सबीआरएल प्रोसेसिंग एपीआई को आसानी से बनाने, पढ़ने और सीधे पायथन अनुप्रयोगों के भीतर एक्स्टेंसिबल बिजनेस रिपोर्टिंग लैंग्वेज दस्तावेजों को मान्य करने के लिए प्रारूपित करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -225,8 +225,8 @@ Aspose.Total लगभग सभी प्रकार के दस्ताव
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Total .NET के माध्यम से पायथन के लिए?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -235,14 +235,14 @@ Aspose.Total लगभग सभी प्रकार के दस्ताव
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए व्यक्तिगत समाधान प्रदान करता है।" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
     
-    {{< blocks/products/pf/offers-section-item link="/total/hi/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-python-via-java.svg" sdkName=" Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

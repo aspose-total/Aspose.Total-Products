@@ -6,36 +6,36 @@ description: Microsoft Excel Word PowerPoint ईमेल PDF Visio Project ब�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल प्रारूप मैनिपुलेशन एपीआई का पूरा सेट" h2=".नेट, जावा, एंड्रॉइड, सी ++ और अन्य प्लेटफॉर्म के लिए हमारे मूल एपीआई का उपयोग करके वर्ड, एक्सेल, पीडीएफ, पावरपॉइंट, आउटलुक और 100 से अधिक अन्य फ़ाइल स्वरूपों में हेरफेर करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल प्रारूप मैनिपुलेशन एपीआई का पूरा सेट" h2=".नेट, जावा, एंड्रॉइड, सी ++ और अन्य प्लेटफॉर्म के लिए हमारे मूल एपीआई का उपयोग करके वर्ड, एक्सेल, पीडीएफ, पावरपॉइंट, आउटलुक और 100 से अधिक अन्य फ़ाइल स्वरूपों में हेरफेर करें।" logoImageSrc="/total/images/aspose_total.svg" pfName="Aspose.Total" downloadUrl="https://releases.aspose.com/total" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total उत्पाद परिवार में शामिल हैं" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="/total/hi/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="/total/hi/net" >}}
 विंडोज फॉर्म, एएसपी.नेट, डब्ल्यूपीएफ, डब्ल्यूसीएफ या .NET फ्रेमवर्क 2.0 या बाद के संस्करण के आधार पर किसी भी प्रकार के एप्लिकेशन को लक्षित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="/total/hi/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="/total/hi/java" >}}
 जावा एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव जावा एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="/total/hi/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="/total/hi/cpp" >}}
 C++ एप्लिकेशन में Word दस्तावेज़, एक्सेल स्प्रेडशीट, पावरपॉइंट प्रेजेंटेशन, ईमेल संदेश और पीडीएफ फाइलें बनाएं, हेरफेर करें, कनवर्ट करें या प्रस्तुत करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" productLink="/total/hi/android-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Android via Java" imgSrc="/total/images/aspose_total-for-android-java.svg" productLink="/total/hi/android-java" >}}
 मोबाइल ऐप्स में Word, Excel, PowerPoint और अन्य स्वरूपों में हेरफेर करें। यह एंड्रॉइड ओएस 2.3 या बाद के संस्करण के साथ काम करता है।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" productLink="/total/hi/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="SharePoint" imgSrc="/total/images/aspose_total-for-sharepoint.svg" productLink="/total/hi/sharepoint" >}}
 Word, Excel, PowerPoint और अन्य स्वरूपों को SharePoint Foundation और सर्वर में कनवर्ट करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" productLink="/total/hi/reporting-services" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Reporting Services" imgSrc="/total/images/aspose_total-for-reporting-services.svg" productLink="/total/hi/reporting-services" >}}
 SQL सर्वर रिपोर्टिंग सेवाओं से Word, Excel, PowerPoint और अन्य स्वरूपों में RDL रिपोर्ट निर्यात करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" productLink="/total/hi/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="JasperReports" imgSrc="/total/images/aspose_words-for-jasperreports.svg" productLink="/total/hi/jasperreports" >}}
 JasperReports या JasperServer से Word, Excel, PowerPoint और अन्य स्वरूपों में रिपोर्ट निर्यात करें।
 {{< /blocks/products/pf/product >}}
 
@@ -57,8 +57,8 @@ JasperReports या JasperServer से Word, Excel, PowerPoint और अन�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Total उत्पाद परिवार?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-total" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

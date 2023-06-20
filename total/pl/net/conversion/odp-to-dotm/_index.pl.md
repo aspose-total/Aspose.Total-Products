@@ -4,7 +4,7 @@ description: Konwertuj dokumenty odp programu PowerPoint na pliki dotm programu 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/i18n/upper-banner h1="Konwertuj ODP na DOTM za pomocą C# lub online" h2="Twórz aplikacje Microsoft PowerPoint ODP Presentation do Word DOTM do konwersji dokumentów na platformach .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODP" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Konwertuj ODP na DOTM za pomocą C# lub online" h2="Twórz aplikacje Microsoft PowerPoint ODP Presentation do Word DOTM do konwersji dokumentów na platformach .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin." logoImageSrc="/total/images/aspose_total-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODP" pfName="Aspose.Total" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOTM" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total " subTitlepfName="for .NET" >}}
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować ODP na DOTM za pomocą C#" %}}

@@ -6,11 +6,11 @@ description: SQL सर्वर रिपोर्टिंग सेवाए�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="कार्यालय स्वरूपों में रिपोर्ट वितरित करने के लिए रिपोर्टिंग सेवा एक्सटेंशन" h2="Word, Excel, PDF और PowerPoint स्वरूपों में RDL और RDLC रिपोर्ट निर्यात करें और निर्यात किए गए दस्तावेज़ों में बारकोड जोड़ें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="कार्यालय स्वरूपों में रिपोर्ट वितरित करने के लिए रिपोर्टिंग सेवा एक्सटेंशन" h2="Word, Excel, PDF और PowerPoint स्वरूपों में RDL और RDLC रिपोर्ट निर्यात करें और निर्यात किए गए दस्तावेज़ों में बारकोड जोड़ें।" logoImageSrc="/total/images/aspose_total-for-reporting-services-header.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for रिपोर्टिंग सर्विसेज, माइक्रोसॉफ्ट एसक्यूएल सर्वर रिपोर्टिंग सर्विसेज के लिए रेंडरिंग एक्सटेंशन का एक सूट है, जिससे डेवलपर्स आसानी से वर्ड, एक्सेल, पावरपॉइंट और पीडीएफ दस्तावेज़ प्रारूपों में आरडीएल रिपोर्ट निर्यात कर सकते हैं। आप निर्यात किए गए दस्तावेज़ों में बारकोड जोड़कर कार्यप्रवाह को भी बढ़ा सकते हैं।
@@ -18,23 +18,23 @@ Aspose.Total for रिपोर्टिंग सर्विसेज, मा
 
 {{< blocks/products/pf/total/products description="Aspose.Total for रिपोर्टिंग सर्विसेज में निम्नलिखित रेंडरिंग एक्सटेंशन शामिल हैं:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/hi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/hi/reporting-services/" imgSrc="/total/images/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Aspose.Words for Reporting Services, Microsoft SQL Server रिपोर्टिंग सेवाओं के साथ-साथ Microsoft रिपोर्ट व्यूअर में OOXML, DOC, RTF और WordprocessingML दस्तावेज़ों के रूप में RDL और RDLC रिपोर्ट को निर्यात करने का समर्थन करता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/hi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/hi/reporting-services/" imgSrc="/total/images/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 रिपोर्टिंग सेवाओं के लिए Aspose.PDF एक मजबूत समाधान है जो Microsoft SQL सर्वर रिपोर्टिंग सेवाओं से PDF रिपोर्ट तैयार करने की क्षमता प्रदान करता है। अधिकांश आरडीएल रिपोर्ट सुविधाएँ समर्थित हैं, जिससे डेवलपर्स उच्चतम गुणवत्ता वाली पीडीएफ रिपोर्ट तैयार कर सकते हैं।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/hi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/hi/reporting-services/" imgSrc="/total/images/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 रिपोर्टिंग सेवाओं के लिए Aspose.Cells आपको Microsoft SQL सर्वर रिपोर्टिंग सेवाओं के साथ-साथ Microsoft रिपोर्ट व्यूअर के सबसे लोकप्रिय संस्करणों से मूल एक्सेल रिपोर्ट वितरित करने की अनुमति देता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/hi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/hi/reporting-services/" imgSrc="/total/images/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Aspose.Slides for Reporting Services बाजार पर Microsoft SQL Server रिपोर्टिंग सेवाओं से Microsoft PowerPoint स्वरूपों में रिपोर्ट जनरेट करने का एकमात्र समाधान है। टेबल, मैट्रिक्स, चार्ट और छवियों जैसी आरडीएल रिपोर्ट सुविधाओं को उच्च गुणवत्ता के साथ प्रस्तुतियों या स्लाइड शो में परिवर्तित किया जा सकता है।
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/hi/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/hi/reporting-services/" imgSrc="/total/images/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Aspose.BarCode रिपोर्टिंग सेवाओं के लिए Microsoft SQL सर्वर रिपोर्टिंग सेवाओं के भीतर बारकोड छवियों को प्रस्तुत करने के लिए सबसे व्यापक समाधान है।
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -233,8 +233,8 @@ Aspose.BarCode रिपोर्टिंग सेवाओं के लि�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="रिपोर्टिंग सेवाओं के लिए Aspose.Total क्यों?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -243,12 +243,12 @@ Aspose.BarCode रिपोर्टिंग सेवाओं के लि�
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए व्यक्तिगत समाधान प्रदान करता है।" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/hi/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

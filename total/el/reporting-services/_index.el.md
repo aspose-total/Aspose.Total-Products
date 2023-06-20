@@ -6,11 +6,11 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Επεκτάσεις υπηρεσιών αναφοράς για την παράδοση αναφορών σε μορφές του Office" h2="Εξαγωγή αναφορών RDL και RDLC σε μορφές Word, Excel, PDF και PowerPoint και Προσθήκη γραμμωτών κωδίκων στα εξαγόμενα έγγραφα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/headers/aspose_total-for-reporting-services.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Επεκτάσεις υπηρεσιών αναφοράς για την παράδοση αναφορών σε μορφές του Office" h2="Εξαγωγή αναφορών RDL και RDLC σε μορφές Word, Excel, PDF και PowerPoint και Προσθήκη γραμμωτών κωδίκων στα εξαγόμενα έγγραφα." logoImageSrc="/total/images/aspose_total-for-reporting-services-header.svg" pfName="Aspose.Total" subTitlepfName="for Reporting Services" downloadUrl="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/total/images/aspose_total-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/reportingservices/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/reportingservices" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Το Aspose.Total for Reporting Services είναι μια σουίτα επεκτάσεων απόδοσης για τις υπηρεσίες αναφοράς του Microsoft SQL Server, που επιτρέπει στους προγραμματιστές να εξάγουν εύκολα αναφορές RDL σε μορφές εγγράφων Word, Excel, PowerPoint και PDF. Μπορείτε επίσης να βελτιώσετε τη ροή εργασίας προσθέτοντας τους γραμμωτούς κώδικες στα εξαγόμενα έγγραφα.
@@ -18,23 +18,23 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 
 {{< blocks/products/pf/total/products description="Το Aspose.Total for Reporting Services περιλαμβάνει τις ακόλουθες επεκτάσεις απόδοσης:" >}}
 
-{{< blocks/products/pf/total/product-item href="/words/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/words/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/words/el/reporting-services/" imgSrc="/total/images/aspose_words-for-reporting-services.svg" productName="Aspose.Words for Reporting Services">}}
 Το Aspose.Words for Reporting Services υποστηρίζει την εξαγωγή αναφορών RDL και RDLC ως εγγράφων OOXML, DOC, RTF και WordprocessingML από τις υπηρεσίες αναφοράς του Microsoft SQL Server καθώς και από το Microsoft Report Viewer.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/pdf/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/pdf/el/reporting-services/" imgSrc="/total/images/aspose_pdf-for-reporting-services.svg" productName="Aspose.PDF for Reporting Services">}}
 Το Aspose.PDF για Υπηρεσίες Αναφοράς είναι μια ισχυρή λύση που παρέχει τη δυνατότητα παραγωγής αναφορών PDF από τις Υπηρεσίες αναφοράς του Microsoft SQL Server. Οι περισσότερες από τις δυνατότητες αναφοράς RDL υποστηρίζονται επιτρέποντας στους προγραμματιστές να δημιουργούν τις υψηλότερης ποιότητας αναφορές PDF.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/cells/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/cells/el/reporting-services/" imgSrc="/total/images/aspose_cells-for-reporting-services.svg" productName="Aspose.Cells for Reporting Services">}}
 Το Aspose.Cells for Reporting Services σάς επιτρέπει να παρέχετε εγγενείς αναφορές του Excel από τις υπηρεσίες αναφοράς του Microsoft SQL Server καθώς και από τις πιο δημοφιλείς εκδόσεις του προγράμματος προβολής αναφορών της Microsoft.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/slides/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/slides/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/slides/el/reporting-services/" imgSrc="/total/images/aspose_slides-for-reporting-services.svg" productName="Aspose.Slides for Reporting Services">}}
 Το Aspose.Slides for Reporting Services είναι η μόνη λύση στην αγορά για τη δημιουργία αναφορών σε μορφές Microsoft PowerPoint από τις υπηρεσίες αναφοράς του Microsoft SQL Server. Οι δυνατότητες αναφοράς RDL, όπως πίνακες, πίνακες, γραφήματα και εικόνες μπορούν να μετατραπούν με υψηλή ποιότητα σε παρουσιάσεις ή παρουσιάσεις.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/barcode/el/reporting-services/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/barcode/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
+{{< blocks/products/pf/total/product-item href="/barcode/el/reporting-services/" imgSrc="/total/images/aspose_barcode-for-reporting-services.svg" productName="Aspose.BarCode for Reporting Services">}}
 Το Aspose.BarCode for Reporting Services είναι η πιο ολοκληρωμένη λύση για την απόδοση εικόνων γραμμικού κώδικα στις υπηρεσίες αναφοράς του Microsoft SQL Server.
 {{< /blocks/products/pf/total/product-item >}}
 
@@ -233,8 +233,8 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί το Aspose.Total for Reporting Services;" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}} 
-{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-total" >}} 
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers/" >}} 
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://about.aspose.com/customers/success-stories/" >}} 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
@@ -243,12 +243,12 @@ description: Επεκτάσεις απόδοσης υπηρεσιών αναφο
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Το Aspose.Total προσφέρει μεμονωμένες λύσεις για άλλες πλατφόρμες." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/el/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/cpp/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/android-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/sharepoint/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/el/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-jasperreports.svg" sdkName=" JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/el/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

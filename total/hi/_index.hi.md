@@ -6,20 +6,20 @@ description: ऑन-प्रिमाइस या क्लाउड एपी
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल स्वरूप हेरफेर समाधान का पूरा सेट" h2="Aspose.Total बिना किसी अन्य सॉफ़्टवेयर इंस्टॉलेशन और निर्भरता के दस्तावेज़ प्रसंस्करण समाधान का सबसे पूर्ण और कुशल सेट प्रदान करता है।" logoImageSrc="https://www.aspose.com/templates/brand/images/total/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
+{{< blocks/products/pf/i18n/upper-banner h1="फ़ाइल स्वरूप हेरफेर समाधान का पूरा सेट" h2="Aspose.Total बिना किसी अन्य सॉफ़्टवेयर इंस्टॉलेशन और निर्भरता के दस्तावेज़ प्रसंस्करण समाधान का सबसे पूर्ण और कुशल सेट प्रदान करता है।" logoImageSrc="/total/images/aspose_total-brand.png" imageAlt="Aspose.Total Product Family" subTitlepfName="Aspose.Total">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Total High Code APIs शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/hi/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title=".NET" imgSrc="/total/images/aspose_total-for-net.svg" productLink="https://products.aspose.com/total/hi/net/" >}}
 विंडोज, वेब, आईओएस और एंड्रॉइड आधारित अनुप्रयोगों के भीतर कई दस्तावेज़ प्रारूपों में हेरफेर करने के लिए परिसर .NET एपीआई पर।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/hi/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="Java" imgSrc="/total/images/aspose_total-for-java.svg" productLink="https://products.aspose.com/total/hi/java/" >}}
 जावा-आधारित प्लेटफॉर्म एपीआई सीधे अनुप्रयोगों के भीतर माइक्रोसॉफ्ट वर्ड फाइलों, वेब, टेक्स्ट और ओपनऑफिस दस्तावेजों को बनाने, संशोधित करने, प्रस्तुत करने या पार्स करने के लिए।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/total/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/hi/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total for " title="C++" imgSrc="/total/images/aspose_total-for-cpp.svg" productLink="https://products.aspose.com/total/hi/cpp/" >}}
 देशी C++ लाइब्रेरी का उपयोग करके शुद्ध C++ अनुप्रयोगों के भीतर विभिन्न दस्तावेज़ स्वरूपों और छवियों को बनाएं, लोड करें, हेरफेर करें या परिवर्तित करें।
 {{< /blocks/products/pf/product >}}
 
@@ -29,15 +29,15 @@ description: ऑन-प्रिमाइस या क्लाउड एपी
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total Low Code APIs शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Words" title="Cloud Product Family" imgSrc="/total/images/aspose_words-for-cloud.png" productLink="https://products.aspose.cloud/words/family" >}}
 किसी भी डिवाइस से आरईएसटी एपीआई कॉल के माध्यम से माइक्रोसॉफ्ट वर्ड फाइलों को हेरफेर और संसाधित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/pdf/272x272/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.PDF" title="Cloud Product Family" imgSrc="/total/images/aspose_pdf-for-cloud.png" productLink="https://products.aspose.cloud/pdf/family" >}}
 पीडीएफ दस्तावेजों को आसानी से बनाने, प्रस्तुत करने, विभाजित करने और परिवर्तित करने के लिए पीडीएफ आरईएसटी एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="https://cms.admin.containerize.com/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud Product Family" imgSrc="/total/images/aspose_cells-for-cloud.png" productLink="https://products.aspose.cloud/cells/family" >}}
 Aspose.Cells Cloud APIs स्प्रेडशीट मैनिपुलेशन विकसित करने के लिए कई Microsoft Excel स्वरूपों का समर्थन करने वाले ऐप्स।
 {{< /blocks/products/pf/product >}}
 
@@ -47,15 +47,15 @@ Aspose.Cells Cloud APIs स्प्रेडशीट मैनिपुले�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Total No Code Apps शामिल हैं" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Merger" imgSrc="/total/images/aspose_merger-app.png" productLink="https://products.aspose.app/total/merger" >}}
 आसानी से कई फाइलों को एक साथ मिलाएं। अपनी जरूरत के क्रम में दस्तावेजों को ऑनलाइन मर्ज करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Compress" imgSrc="/total/images/aspose_compress-app.png" productLink="https://products.aspose.app/total/compress" >}}
 मूल गुणवत्ता को बनाए रखते हुए दस्तावेज़ों को आसानी से संपीड़ित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
+{{< blocks/products/pf/product pfName="Aspose.Total " title="Conversion" imgSrc="/total/images/aspose_conversion-app.png" productLink="https://products.aspose.app/total/compress" >}}
 ऑनलाइन 100+ प्रारूपों को अन्य दस्तावेज़ों में स्वतंत्र रूप से परिवर्तित करें।
 {{< /blocks/products/pf/product >}}
 
