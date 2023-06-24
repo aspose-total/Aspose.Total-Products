@@ -13,7 +13,16 @@ otherformats: TEXT DOC WORDML DOCM RTF DOTX FLATOPC WORD DOTM ODT DOCX OTT
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to DOT via Java or Online App" h2="On Premise Java API for PowerPoint PPTX to DOT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPTX to Word DOT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPTX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPTX to Word DOT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPTX to HTML, which is the first step in the conversion process. Aspose.Slides for Java is a feature-rich API that provides a wide range of features for creating, editing, and manipulating presentations. It also supports a variety of file formats, including PPTX, PPT, PPS, POT, and more.
+
+The second step in the conversion process is to use Aspose.Words for Java, a feature-rich Word Processing API. Aspose.Words for Java allows developers to convert HTML to DOT, the file format used by Microsoft Word. Aspose.Words for Java provides a wide range of features for creating, editing, and manipulating documents. It also supports a variety of file formats, including DOC, DOCX, RTF, HTML, and more.
+
+Aspose.Total for Java is a powerful suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPTX to Word DOT. With Aspose.Slides for Java and Aspose.Words for Java, developers can quickly and easily convert PPTX to HTML and HTML to DOT, respectively. Aspose.Total for Java is a comprehensive suite of file format automation libraries that provide developers with a wide range of features for creating, editing, and manipulating presentations and documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: FLATOPC PCL MHTML WORDML DOTX PS OTT XAMLFLOW RTF ODT DOCM MARKDOW
 {{< blocks/products/pf/feature-page-header h1="Transform PDF to DOT via Java" h2="On Premise Java API to Render PDF to DOT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PDF to DOT by using two simple steps. First you need to render PDF file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to DOT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting PDF to DOT is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a powerful suite of APIs that can be used to perform a variety of document processing tasks. 
+
+The first step in the process is to render the PDF file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful API that can be used to create, read, edit, and convert PDF documents. It can also be used to render PDF files to DOC format. 
+
+The second step is to convert the DOC file to DOT using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that can be used to create, read, edit, and convert a variety of document formats. It can also be used to convert DOC files to DOT format. 
+
+By using Aspose.Total for Java, you can easily convert PDF to DOT in just two simple steps. Aspose.PDF for Java can be used to render PDF files to DOC format, and Aspose.Words for Java can be used to convert the DOC file to DOT format. With the help of these powerful APIs, you can quickly and easily convert PDF to DOT.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

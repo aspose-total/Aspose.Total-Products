@@ -13,7 +13,14 @@ otherformats: RTF WORDML FLATOPC DOT ODT OTT DOTX DOTM PCL XAMLFLOW DOCM PS
 {{< blocks/products/pf/feature-page-header h1="Transform MHTML to MARKDOWN via Java" h2="On Premise Java API to Render MHTML to MARKDOWN without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MHTML to MARKDOWN by using two simple steps. First you need to render MHTML file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MARKDOWN. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting MHTML to MARKDOWN is a simple two-step process. The first step is to render the MHTML file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that is part of the Aspose.Total for Java package. It allows you to easily convert MHTML to DOC with just a few lines of code.
+
+Once you have the DOC file, the second step is to convert it to MARKDOWN using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that is also part of the Aspose.Total for Java package. It allows you to easily convert DOC to MARKDOWN with just a few lines of code.
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can quickly and easily convert MHTML to MARKDOWN. Both APIs are part of the Aspose.Total for Java package, so you don't have to worry about purchasing separate licenses for each API. With just a few lines of code, you can easily convert MHTML to MARKDOWN.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

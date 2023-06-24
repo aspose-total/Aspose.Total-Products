@@ -13,7 +13,16 @@ otherformats: WORDML RTF OTT DOTM PS DOCM FLATOPC XAMLFLOW MHTML MARKDOWN PCL OD
 {{< blocks/products/pf/feature-page-header h1="Transform MD to DOT via Java" h2="On Premise Java API to Render MD to DOT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MD to DOT by using two simple steps. First you need to render MD file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to DOT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting MD to DOT is a simple two-step process that can be accomplished with the help of Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features for document processing. 
+
+The first step in the conversion process is to render the MD file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, convert, and manipulate PDF documents. It also provides features for rendering MD files to DOC. 
+
+The second step is to convert the DOC file to DOT using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, convert, and manipulate Word documents. It also provides features for converting DOC files to DOT. 
+
+By using Aspose.Total for Java, developers can easily convert MD to DOT in a few simple steps. Aspose.Total for Java provides a comprehensive suite of APIs that can be used to create, edit, convert, and manipulate a wide range of document formats. It also provides features for rendering MD files to DOC and converting DOC files to DOT.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

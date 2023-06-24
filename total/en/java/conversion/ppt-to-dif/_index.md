@@ -13,7 +13,14 @@ otherformats: XLSX XLT ODS SXC EXCEL TSV XLSB XLAM CSV XLTX MARKDOWN XLS XLSM FO
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to DIF via Java or Online App" h2="On Premise Java API to export PPT to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPT file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert a PPT file to DIF. This can be done in two steps. The first step is to export the PPT file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that can be used to create, read, modify, and convert presentations in various formats. It supports a wide range of features, including the ability to export presentations to HTML.
+
+Once the PPT file has been exported to HTML, the second step is to convert the HTML to DIF using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that can be used to create, read, modify, and convert spreadsheets in various formats. It supports a wide range of features, including the ability to convert HTML to DIF.
+
+By using Aspose.Total for Java, you can easily convert a PPT file to DIF in two steps. First, you can export the PPT file to HTML using Aspose.Slides for Java. Then, you can convert the HTML to DIF using Aspose.Cells for Java. This process is quick and easy, and can be done in just a few minutes.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: WMZ DXF IMAGE JPEG2000 EMZ SVGZ WMF APNG PSD DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert HTML to TGA via Java" h2="Export HTML file to TGA within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert html file to TGA image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export HTML to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to TGA. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting an HTML file to a TGA image in Java is a straightforward process that can be completed in two simple steps. The first step involves using the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export HTML to JPEG. The second step involves using the Aspose.Imaging for Java Image Processing API to render the JPEG to TGA. 
+
+The Aspose.PDF for Java API is a powerful tool for converting HTML to JPEG. It is designed to be easy to use and provides a wide range of features, such as the ability to convert HTML to PDF, XPS, and other image formats. It also supports a variety of image formats, including JPEG, PNG, BMP, and TIFF. 
+
+The Aspose.Imaging for Java Image Processing API is a comprehensive library for manipulating images. It provides a wide range of features, such as the ability to resize, crop, rotate, and flip images. It also supports a variety of image formats, including JPEG, PNG, BMP, and TIFF. With this API, you can easily render JPEG to TGA. 
+
+By combining the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert HTML to TGA in Java. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of tools for working with documents, images, and other file formats. With this package, you can quickly and easily convert HTML to TGA in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

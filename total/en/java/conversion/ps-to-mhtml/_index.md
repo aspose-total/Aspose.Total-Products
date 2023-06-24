@@ -13,7 +13,14 @@ otherformats: WORDML RTF XAMLFLOW DOCM DOTX DOT DOTM PCL FLATOPC ODT OTT MARKDOW
 {{< blocks/products/pf/feature-page-header h1="Transform PS to MHTML via Java" h2="On Premise Java API to Render PS to MHTML without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PS to MHTML by using two simple steps. First you need to render PS file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MHTML. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting a PostScript (PS) file to MHTML is a simple two-step process. The first step is to render the PS file to a DOC file using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that is part of the Aspose.Total for Java package. This package contains a suite of APIs that can be used to create, edit, and convert a variety of document formats.
+
+Once the PS file has been rendered to a DOC file, the second step is to convert the DOC file to MHTML using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that is also part of the Aspose.Total for Java package. This API can be used to convert a variety of document formats, including DOC, to MHTML.
+
+By following these two simple steps, you can easily convert a PS file to MHTML. Aspose.PDF for Java and Aspose.Words for Java are both powerful APIs that are part of the Aspose.Total for Java package. This package contains a suite of APIs that can be used to create, edit, and convert a variety of document formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

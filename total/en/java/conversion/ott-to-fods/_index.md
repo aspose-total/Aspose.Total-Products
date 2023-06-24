@@ -13,7 +13,16 @@ otherformats: TSV EXCEL XLSM DIF XLS XLTX ODS XLSX XLSB SXC CSV XLTM XLAM XLT
 {{< blocks/products/pf/feature-page-header h1="Convert OTT to FODS via Java or Online App" h2="On Premise Java API to convert OTT to FODS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting OTT to FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export OTT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to FODS.
+
+
+Aspose.Total for Java is a comprehensive suite of feature-rich APIs that enables developers to easily manipulate and convert documents. It provides a simple two-step process for converting OTT (Open Text Template) to FODS (Formatted Office Document Set). 
+
+The first step is to export OTT to HTML using Aspose.Words for Java. Aspose.Words for Java is a powerful document manipulation and conversion API that enables developers to create, edit, convert, and print documents without using Microsoft Word. It supports a wide range of document formats, including OTT, HTML, DOC, DOCX, and many more. With Aspose.Words for Java, developers can easily convert OTT to HTML with just a few lines of code. 
+
+The second step is to convert HTML to FODS using Aspose.Cells for Java. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables developers to create, edit, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including HTML, XLS, XLSX, and FODS. With Aspose.Cells for Java, developers can easily convert HTML to FODS with just a few lines of code. 
+
+In conclusion, Aspose.Total for Java provides a simple two-step process for converting OTT to FODS. By using Aspose.Words for Java, developers can easily export OTT to HTML. And by using Aspose.Cells for Java, developers can easily convert HTML to FODS. With Aspose.Total for Java, developers can quickly and easily manipulate and convert documents with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

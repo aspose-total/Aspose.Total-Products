@@ -13,7 +13,16 @@ otherformats: DOCM ODT OTT MHTML DOTM MARKDOWN RTF FLATOPC WORDML DOT PS XAMLFLO
 {{< blocks/products/pf/feature-page-header h1="Transform MD to PCL via Java" h2="On Premise Java API to Render MD to PCL without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MD to PCL by using two simple steps. First you need to render MD file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to PCL. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting a MD file to PCL can be done in two easy steps with the help of Aspose.Total for Java. Aspose.Total for Java is a powerful suite of APIs that can help you with document processing tasks. 
+
+The first step is to render the MD file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful API that can help you with PDF document processing tasks. It can help you render MD files to DOC format with ease. 
+
+The second step is to convert the DOC file to PCL using Aspose.Words for Java. Aspose.Words for Java is a powerful API that can help you with document processing tasks. It can help you convert DOC files to PCL format with ease. 
+
+With the help of Aspose.Total for Java, you can easily convert MD files to PCL in two simple steps. First, you need to render MD file to DOC using Aspose.PDF for Java. Then, you can convert DOC to PCL using Aspose.Words for Java. Both APIs come under Aspose.Total for Java package, making it easy to convert MD files to PCL.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

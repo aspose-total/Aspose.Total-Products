@@ -13,7 +13,16 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOT to XLSX via Java or Online App" h2="On Premise Java API to convert DOT to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOT to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+
+Converting DOT to XLSX is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides the necessary tools to convert DOT to XLSX. 
+
+The first step in the process is to use Aspose.Words for Java to export DOT to HTML. Aspose.Words for Java is a powerful document manipulation API that enables developers to create, edit, and convert documents from one format to another. It supports a wide range of document formats, including DOT, and provides a comprehensive set of features to manipulate documents. With Aspose.Words for Java, developers can easily export DOT to HTML. 
+
+The second step is to use Aspose.Cells for Java to convert HTML to XLSX. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables developers to create, edit, and convert spreadsheets from one format to another. It supports a wide range of spreadsheet formats, including XLSX, and provides a comprehensive set of features to manipulate spreadsheets. With Aspose.Cells for Java, developers can easily convert HTML to XLSX. 
+
+By using Aspose.Total for Java, developers can easily convert DOT to XLSX in a simple two-step process. Aspose.Words for Java is used to export DOT to HTML, and Aspose.Cells for Java is used to convert HTML to XLSX. Aspose.Total for Java provides the necessary tools to quickly and easily convert DOT to XLSX.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

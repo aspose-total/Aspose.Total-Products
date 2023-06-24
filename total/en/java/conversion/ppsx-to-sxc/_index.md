@@ -13,7 +13,16 @@ otherformats: XLS XLTX XLSB XLSX CSV FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to SXC via Java or Online App" h2="On Premise Java API to export PPSX to SXC without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to SXC via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to SXC.
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to create, manipulate, convert and render a wide range of file formats. It includes components for manipulating Microsoft Office documents, PDFs, images, emails, and more. With Aspose.Total for Java, you can easily convert PPSX files to SXC. The process involves two steps. 
+
+In the first step, you can use Aspose.Slides for Java to export the PPSX file to HTML. Aspose.Slides for Java is a powerful component that enables developers to create, manipulate, and convert presentations in the PPT, PPTX, PPS, PPSX, and ODP formats. It also provides features for creating, editing, and converting slides, shapes, text, and images. 
+
+In the second step, you can use Aspose.Cells for Java to convert the HTML file to SXC. Aspose.Cells for Java is a powerful component that enables developers to create, manipulate, and convert spreadsheets in the XLS, XLSX, XLSM, XLSB, CSV, and ODS formats. It also provides features for creating, editing, and converting worksheets, cells, formulas, and charts. 
+
+By using Aspose.Total for Java, you can easily convert PPSX files to SXC in two simple steps. Aspose.Slides for Java can be used to export the PPSX file to HTML, and Aspose.Cells for Java can be used to convert the HTML file to SXC. With Aspose.Total for Java, you can quickly and easily convert PPSX files to SXC.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

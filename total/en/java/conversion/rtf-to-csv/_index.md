@@ -13,7 +13,16 @@ otherformats: ODS XLTM XLSX XLS XLAM FODS XLSM DIF SXC XLSB XLT XLTX EXCEL TSV
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to CSV via Java or Online App" h2="On Premise Java API to convert RTF to CSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting RTF to CSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export RTF to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to CSV.
+
+
+Using Aspose.Total for Java, converting RTF to CSV is a straightforward two-step process. Aspose.Total for Java is a comprehensive suite of feature-rich document manipulation and conversion APIs that enable developers to easily create, edit, and convert documents. 
+
+The first step is to export RTF to HTML using Aspose.Words for Java. Aspose.Words for Java is a powerful API that enables developers to create, edit, and convert documents in various formats, including RTF, HTML, DOC, DOCX, and more. It also provides a wide range of features, such as document manipulation, document conversion, mail merge, and more. With Aspose.Words for Java, you can easily export RTF to HTML. 
+
+The second step is to convert HTML to CSV using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that enables developers to create, edit, and convert spreadsheets in various formats, including XLS, XLSX, HTML, and more. It also provides a wide range of features, such as spreadsheet manipulation, spreadsheet conversion, formula calculation, and more. With Aspose.Cells for Java, you can easily convert HTML to CSV. 
+
+In conclusion, converting RTF to CSV via Aspose.Total for Java is a simple two-step process. By using Aspose.Words for Java, you can export RTF to HTML. And by using Aspose.Cells for Java, you can convert HTML to CSV. With Aspose.Total for Java, you can easily create, edit, and convert documents and spreadsheets in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

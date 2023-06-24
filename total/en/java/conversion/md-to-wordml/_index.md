@@ -13,7 +13,16 @@ otherformats: RTF OTT DOTX DOCM PS FLATOPC DOTM MARKDOWN XAMLFLOW PCL MHTML DOT
 {{< blocks/products/pf/feature-page-header h1="Transform MD to WORDML via Java" h2="On Premise Java API to Render MD to WORDML without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MD to WORDML by using two simple steps. First you need to render MD file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to WORDML. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting MD to WORDML is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides powerful document processing capabilities. 
+
+The first step is to render the MD file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, and manipulate PDF documents. It provides a wide range of features such as creating PDF documents from scratch, converting PDF documents to other formats, and extracting text and images from PDF documents. 
+
+The second step is to convert the DOC file to WORDML using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and manipulate Word documents. It provides a wide range of features such as creating Word documents from scratch, converting Word documents to other formats, and extracting text and images from Word documents. 
+
+By using Aspose.Total for Java, you can easily convert MD to WORDML in just two simple steps. Aspose.Total for Java provides a comprehensive suite of APIs that enables developers to create, edit, and manipulate a wide range of document formats. With its powerful document processing capabilities, you can easily convert MD to WORDML in no time.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: TXT XLSM XLSB ODS SXC XLTX MD XLT XLAM CSV TSV XLTM
 {{< blocks/products/pf/feature-page-header h1="Export MHTML to EXCEL via Java" h2="Convert MHTML file to EXCEL by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to EXCEL conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to EXCEL by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate MHTML to EXCEL conversion feature into their Java applications. This two-step process begins with Aspose.PDF for Java, which is used to render MHTML to XLSX. Once the XLSX file is generated, Aspose.Cells for Java can be used to convert it to the EXCEL format.
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents without any external dependencies. It provides a wide range of features such as document conversion, text extraction, image extraction, and more. With Aspose.PDF for Java, developers can easily render MHTML to XLSX, which is the first step in the MHTML to EXCEL conversion process.
+
+The second step in the process is to convert the XLSX file to the EXCEL format. This can be done using Aspose.Cells for Java, a powerful spreadsheet programming API that enables developers to create, manipulate, and convert spreadsheets without any external dependencies. Aspose.Cells for Java provides a wide range of features such as document conversion, text extraction, image extraction, and more. With Aspose.Cells for Java, developers can easily convert XLSX to EXCEL.
+
+By using Aspose.Total for Java, developers can easily integrate MHTML to EXCEL conversion feature into their Java applications. This two-step process begins with Aspose.PDF for Java, which is used to render MHTML to XLSX. Once the XLSX file is generated, Aspose.Cells for Java can be used to convert it to the EXCEL format. Aspose.Total for Java provides developers with a comprehensive suite of components that enables them to easily integrate MHTML to EXCEL conversion feature into their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

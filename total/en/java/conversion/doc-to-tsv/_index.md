@@ -13,7 +13,16 @@ otherformats: XLSB XLTX XLTM EXCEL DIF XLS XLAM FODS CSV XLSM ODS XLSX SXC XLT
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to TSV via Java or Online App" h2="On Premise Java API to convert DOC to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOC to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Converting a DOC file to a TSV file can be done quickly and easily with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides a comprehensive set of tools for developers to work with a variety of document formats. The process of converting a DOC file to a TSV file is a two-step process. 
+
+The first step is to use Aspose.Words for Java to export the DOC file to HTML. Aspose.Words for Java is a powerful document manipulation API that enables developers to create, edit, and convert documents in a variety of formats. It provides a comprehensive set of features for working with DOC files, including the ability to export them to HTML. 
+
+The second step is to use Aspose.Cells for Java to convert the HTML file to a TSV file. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables developers to create, edit, and convert spreadsheets in a variety of formats. It provides a comprehensive set of features for working with HTML files, including the ability to convert them to TSV. 
+
+By using Aspose.Total for Java, developers can quickly and easily convert a DOC file to a TSV file in just two steps. Aspose.Words for Java is used to export the DOC file to HTML, and Aspose.Cells for Java is used to convert the HTML file to a TSV file. This process is simple and efficient, and it allows developers to quickly and easily convert DOC files to TSV files.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

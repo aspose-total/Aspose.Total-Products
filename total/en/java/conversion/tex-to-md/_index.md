@@ -13,7 +13,16 @@ otherformats: CSV XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 {{< blocks/products/pf/feature-page-header h1="Export TEX to MD via Java" h2="Convert TEX file to MD by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to MD conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to MD by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate a wide range of features into their Java applications. One of the features that can be integrated is the ability to convert TEX to MD. This can be done in two steps. 
+
+The first step is to use Aspose.PDF for Java to render TEX to XLSX. Aspose.PDF for Java is a powerful API that enables developers to create, edit, and convert PDF documents in Java applications. It provides a wide range of features such as creating PDF documents from scratch, converting PDF documents to other formats, and manipulating existing PDF documents. 
+
+The second step is to use Aspose.Cells for Java to convert XLSX to MD. Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to create, edit, and manipulate spreadsheets in Java applications. It provides a wide range of features such as creating spreadsheets from scratch, converting spreadsheets to other formats, and manipulating existing spreadsheets. 
+
+By using Aspose.Total for Java, developers can easily integrate the ability to convert TEX to MD into their Java applications. Aspose.PDF for Java is used to render TEX to XLSX, and Aspose.Cells for Java is used to convert XLSX to MD. This two-step process makes it easy for developers to add this feature to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

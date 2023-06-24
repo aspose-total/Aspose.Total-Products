@@ -13,7 +13,16 @@ otherformats: MARKDOWN ODS XLSB SXC CSV XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TSV
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to FODS via Java or Online App" h2="On Premise Java API to export PPSX to FODS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to FODS.
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily create, manipulate, convert and render documents in various formats. It provides a wide range of features and capabilities to help developers create powerful applications. With Aspose.Total for Java, you can easily convert PPSX file to FODS in two simple steps.
+
+The first step is to export PPSX to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful library that enables developers to create, manipulate, convert and render presentations in various formats. It provides a wide range of features and capabilities to help developers create powerful applications. With Aspose.Slides for Java, you can easily export PPSX to HTML.
+
+The second step is to convert HTML to FODS using Aspose.Cells for Java. Aspose.Cells for Java is a powerful library that enables developers to create, manipulate, convert and render spreadsheets in various formats. It provides a wide range of features and capabilities to help developers create powerful applications. With Aspose.Cells for Java, you can easily convert HTML to FODS.
+
+In conclusion, Aspose.Total for Java is a comprehensive suite of components that enables developers to easily create, manipulate, convert and render documents in various formats. It provides a wide range of features and capabilities to help developers create powerful applications. With Aspose.Total for Java, you can easily convert PPSX file to FODS in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

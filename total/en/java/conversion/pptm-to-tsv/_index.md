@@ -13,7 +13,14 @@ otherformats: ODS SXC XLS MHTML XLTX XLAM FODS CSV DIF XLTM XLT XLSB XLSM XLSX M
 {{< blocks/products/pf/feature-page-header h1="Convert PPTM to TSV via Java or Online App" h2="On Premise Java API to export PPTM to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTM file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTM to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert PPTM files to TSV. This can be done in two steps. The first step is to use Aspose.Slides for Java to export the PPTM file to HTML. Aspose.Slides for Java is a powerful API that enables developers to create, read, write and modify PowerPoint presentations. It supports a wide range of features, including the ability to export presentations to HTML.
+
+The second step is to use Aspose.Cells for Java to convert the HTML file to TSV. Aspose.Cells for Java is a powerful API that enables developers to create, read, write and modify spreadsheets. It supports a wide range of features, including the ability to convert HTML files to TSV.
+
+By using Aspose.Total for Java, developers can easily convert PPTM files to TSV in two steps. First, they can use Aspose.Slides for Java to export the PPTM file to HTML. Then, they can use Aspose.Cells for Java to convert the HTML file to TSV. This process is quick and easy, and can be done with minimal effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

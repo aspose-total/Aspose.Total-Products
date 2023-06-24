@@ -13,7 +13,14 @@ otherformats: XLTM ODS XLSM CSV XLS XLSX EXCEL SXC XLSB XLT XLAM XLTX DIF FODS
 {{< blocks/products/pf/feature-page-header h1="Convert ODT to TSV via Java or Online App" h2="On Premise Java API to convert ODT to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting ODT to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export ODT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of document manipulation and conversion APIs that makes it easy to convert ODT to TSV. The process involves two simple steps. First, you need to use the feature-rich Aspose.Words for Java API to export ODT to HTML. Aspose.Words for Java is a powerful document manipulation API that enables you to manipulate and convert documents in various formats. It supports a wide range of document formats, including ODT, HTML, DOCX, and more.
+
+Once you have exported the ODT file to HTML, you can use the Aspose.Cells for Java API to convert the HTML to TSV. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to create, edit, and convert spreadsheets in various formats. It supports a wide range of spreadsheet formats, including HTML, XLSX, CSV, and more. With Aspose.Cells for Java, you can easily convert HTML to TSV.
+
+By using Aspose.Total for Java, you can quickly and easily convert ODT to TSV. The two-step process involves using Aspose.Words for Java to export ODT to HTML, and then using Aspose.Cells for Java to convert the HTML to TSV. Aspose.Total for Java is a comprehensive suite of document manipulation and conversion APIs that makes it easy to convert ODT to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

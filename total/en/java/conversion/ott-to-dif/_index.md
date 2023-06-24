@@ -13,7 +13,14 @@ otherformats: XLTM XLSB XLAM XLSX ODS XLTX FODS XLT SXC XLS CSV EXCEL TSV XLSM
 {{< blocks/products/pf/feature-page-header h1="Convert OTT to DIF via Java or Online App" h2="On Premise Java API to convert OTT to DIF without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting OTT to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export OTT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of feature-rich APIs that enable developers to manipulate and convert documents with ease. It provides a simple two-step process for converting OTT to DIF. The first step is to export OTT to HTML using Aspose.Words for Java, a powerful document manipulation and conversion API. Aspose.Words for Java provides a wide range of features that allow developers to create, edit, and convert documents in various formats. It supports a variety of document formats, including OTT, HTML, and DIF.
+
+Once the OTT document is exported to HTML, the second step is to convert the HTML document to DIF using Aspose.Cells for Java. Aspose.Cells for Java is a powerful spreadsheet manipulation and conversion API that enables developers to create, edit, and convert spreadsheets in various formats. It supports a variety of spreadsheet formats, including HTML, DIF, and OTT. With Aspose.Cells for Java, developers can easily convert HTML documents to DIF.
+
+By using Aspose.Total for Java, developers can quickly and easily convert OTT to DIF. The two-step process involves exporting OTT to HTML using Aspose.Words for Java and then converting the HTML document to DIF using Aspose.Cells for Java. Aspose.Total for Java provides a comprehensive suite of feature-rich APIs that enable developers to manipulate and convert documents with ease.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

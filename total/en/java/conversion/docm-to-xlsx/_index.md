@@ -13,7 +13,16 @@ otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOCM to XLSX via Java or Online App" h2="On Premise Java API to convert DOCM to XLSX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOCM to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+
+Converting a DOCM file to XLSX can be done quickly and easily with the help of Aspose.Total for Java. This comprehensive suite of document manipulation and conversion APIs provides a simple two-step process for converting DOCM to XLSX. 
+
+The first step is to use Aspose.Words for Java to export the DOCM file to HTML. Aspose.Words for Java is a feature-rich API that enables you to manipulate and convert documents with ease. It supports a wide range of document formats, including DOCM, and can be used to export documents to HTML. 
+
+The second step is to use Aspose.Cells for Java to convert the HTML file to XLSX. Aspose.Cells for Java is a powerful API that enables you to create, manipulate, and convert spreadsheets with ease. It supports a wide range of spreadsheet formats, including XLSX, and can be used to convert HTML files to XLSX. 
+
+By using Aspose.Total for Java, you can easily convert DOCM to XLSX in just two steps. Aspose.Words for Java can be used to export the DOCM file to HTML, and Aspose.Cells for Java can be used to convert the HTML file to XLSX. This comprehensive suite of document manipulation and conversion APIs makes it easy to convert DOCM to XLSX quickly and easily.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

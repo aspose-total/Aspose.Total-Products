@@ -13,7 +13,16 @@ otherformats: DOCM DOC WORDML DOCX OTT DOTX DOT ODT FLATOPC WORD RTF DOTM
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to TEXT via Java or Online App" h2="On Premise Java API for PowerPoint PPTX to TEXT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPTX to Word TEXT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPTX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to TEXT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPTX to Word TEXT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a powerful PowerPoint API for presentations manipulation and management. It allows developers to convert PPTX to HTML with ease. The API provides a wide range of features such as creating, editing, and converting presentations, as well as adding and removing slides, shapes, text, and images. It also supports a variety of file formats, including PPTX, PPT, PPS, POT, and POTX.
+
+Aspose.Words for Java is a feature-rich Word Processing API that enables developers to convert HTML to TEXT. It provides a comprehensive set of features for creating, editing, and converting documents, as well as adding and removing text, images, and tables. It also supports a variety of file formats, including DOC, DOCX, RTF, HTML, and TXT.
+
+By combining the power of Aspose.Slides for Java and Aspose.Words for Java, developers can easily automate the batch conversion process of PowerPoint PPTX to Word TEXT. This process is simple and efficient, and can be used to quickly convert large numbers of documents in a short amount of time. With Aspose.Total for Java, developers can save time and effort while ensuring the highest quality results.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

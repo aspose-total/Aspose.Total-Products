@@ -13,7 +13,14 @@ otherformats: PCL OTT DOT XAMLFLOW PS MHTML ODT DOTM FLATOPC DOTX DOCM RTF
 {{< blocks/products/pf/feature-page-header h1="Transform CGM to MARKDOWN via Java" h2="On Premise Java API to Render CGM to MARKDOWN without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert CGM to MARKDOWN by using two simple steps. First you need to render CGM file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MARKDOWN. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting CGM to MARKDOWN is a simple two-step process. To begin, you need to render the CGM file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF document processing API that is part of the Aspose.Total for Java package. With Aspose.PDF for Java, you can easily render CGM files to DOC format.
+
+Once the CGM file is rendered to DOC, you can then use Aspose.Words for Java to convert the DOC to MARKDOWN. Aspose.Words for Java is a powerful document processing API that is also part of the Aspose.Total for Java package. With Aspose.Words for Java, you can easily convert DOC files to MARKDOWN format.
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can quickly and easily convert CGM files to MARKDOWN. Both APIs are part of the Aspose.Total for Java package, so you can access both APIs with a single license. With these two APIs, you can quickly and easily convert CGM files to MARKDOWN format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

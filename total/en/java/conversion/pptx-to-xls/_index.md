@@ -13,7 +13,14 @@ otherformats: CSV FODS MHTML MARKDOWN SXC XLSX XLTM XLT XLTX ODS XLAM TSV DIF XL
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to XLS via Java or Online App" h2="On Premise Java API to export PPTX to XLS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTX file to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert PPTX files to XLS. This conversion can be done in two steps. The first step is to export the PPTX file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that can be used to create, read, modify and convert presentations in various formats. It can also be used to export presentations to HTML.
+
+Once the PPTX file is converted to HTML, the second step is to convert the HTML to XLS using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that can be used to create, read, modify and convert spreadsheets in various formats. It can also be used to convert HTML to XLS.
+
+By using Aspose.Total for Java, you can easily convert PPTX files to XLS in two steps. First, you can export the PPTX file to HTML using Aspose.Slides for Java. Secondly, you can convert the HTML to XLS using Aspose.Cells for Java. This makes it easy to convert PPTX files to XLS without any hassle.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

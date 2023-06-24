@@ -13,7 +13,14 @@ otherformats: XLTM CSV XLSB SXC XLT XLS EXCEL ODS XLTX FODS DIF XLSM XLAM XLSX
 {{< blocks/products/pf/feature-page-header h1="Convert OTT to TSV via Java or Online App" h2="On Premise Java API to convert OTT to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting OTT to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export OTT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of document manipulation and conversion APIs that makes it easy to convert OTT to TSV. The process involves two simple steps. First, you can use the feature-rich Aspose.Words for Java API to export OTT to HTML. Aspose.Words for Java is a powerful document manipulation API that enables you to create, edit, and convert documents in various formats. It supports a wide range of document formats, including OTT, HTML, DOC, DOCX, and many more.
+
+Once you have the HTML file, you can use Aspose.Cells for Java to convert it to TSV. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to create, edit, and convert spreadsheets in various formats. It supports a wide range of spreadsheet formats, including HTML, XLS, XLSX, and TSV. With Aspose.Cells for Java, you can easily convert HTML to TSV.
+
+In summary, converting OTT to TSV via Aspose.Total for Java is a simple two step process. First, you can use Aspose.Words for Java to export OTT to HTML. Then, you can use Aspose.Cells for Java to convert HTML to TSV. With these two powerful APIs, you can quickly and easily convert OTT to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

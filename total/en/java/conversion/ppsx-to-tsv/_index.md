@@ -13,7 +13,14 @@ otherformats: XLTX DIF CSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to TSV via Java or Online App" h2="On Premise Java API to export PPSX to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert PPSX files to TSV. This can be done in two steps. The first step is to export the PPSX file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that can be used to create, read, modify, and convert presentations in various formats. It can be used to export PPSX files to HTML, which is the first step in the conversion process.
+
+The second step is to convert the HTML file to TSV using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that can be used to create, read, modify, and convert spreadsheets in various formats. It can be used to convert HTML files to TSV, which is the second step in the conversion process.
+
+By using Aspose.Total for Java, you can easily convert PPSX files to TSV in two steps. First, you can export the PPSX file to HTML using Aspose.Slides for Java. Then, you can convert the HTML file to TSV using Aspose.Cells for Java. This process is quick and easy, and can be done with minimal effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

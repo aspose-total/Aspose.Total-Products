@@ -13,7 +13,16 @@ otherformats: RTF DOCM FLATOPC DOCX DOTM DOT TEXT WORD WORDML DOTX OTT DOC
 {{< blocks/products/pf/feature-page-header h1="Convert PPSM to ODT via Java or Online App" h2="On Premise Java API for PowerPoint PPSM to ODT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSM to Word ODT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSM to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to ODT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSM to Word ODT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPSM to HTML, which is the first step in the conversion process. Aspose.Slides for Java is a feature-rich API that provides a wide range of features, such as creating, editing, and converting presentations, as well as manipulating slides, shapes, text, and images. 
+
+The second step in the conversion process is to use Aspose.Words for Java, a Word Processing API. Aspose.Words for Java is a powerful API that enables developers to create, edit, and convert documents. It provides a wide range of features, such as creating, editing, and converting documents, as well as manipulating text, images, and tables. With Aspose.Words for Java, developers can easily convert the HTML to ODT. 
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSM to Word ODT. With Aspose.Slides for Java and Aspose.Words for Java, developers can easily convert PPSM to HTML and then HTML to ODT. Aspose.Total for Java provides a wide range of features and is a powerful tool for automating the conversion process.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

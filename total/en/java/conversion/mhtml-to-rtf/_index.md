@@ -13,7 +13,14 @@ otherformats: WORDML ODT XAMLFLOW DOTX OTT PS DOTM MARKDOWN FLATOPC DOT DOCM PCL
 {{< blocks/products/pf/feature-page-header h1="Transform MHTML to RTF via Java" h2="On Premise Java API to Render MHTML to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MHTML to RTF by using two simple steps. First you need to render MHTML file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting MHTML to RTF is a simple two-step process that can be accomplished with the help of Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features for document processing. The first step in the conversion process is to render the MHTML file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, convert, and manipulate PDF documents. It also provides the ability to render MHTML files to DOC.
+
+Once the MHTML file is rendered to DOC, the second step is to convert the DOC file to RTF using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, convert, and manipulate Word documents. It provides a wide range of features for document processing, including the ability to convert DOC to RTF.
+
+By using Aspose.Total for Java, developers can easily convert MHTML to RTF in just two simple steps. First, the MHTML file is rendered to DOC using Aspose.PDF for Java. Then, the DOC file is converted to RTF using Aspose.Words for Java. This process is quick and easy, and provides developers with the ability to quickly and easily convert MHTML to RTF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

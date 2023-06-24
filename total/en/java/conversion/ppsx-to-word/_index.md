@@ -13,7 +13,16 @@ otherformats: ODT DOTM TEXT DOTX FLATOPC DOC DOCX OTT DOCM RTF DOT WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to WORD via Java or Online App" h2="On Premise Java API for PowerPoint PPSX to WORD conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSX to Word WORD. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to WORD. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word WORD. This process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPSX to HTML, which is the first step in the conversion process. Aspose.Slides for Java is a powerful API that provides a wide range of features for manipulating and managing presentations. It supports a variety of features such as creating, editing, and converting presentations, as well as adding and removing slides, shapes, text, and images.
+
+The second step in the conversion process is to use Aspose.Words for Java, a feature-rich Word Processing API. Aspose.Words for Java allows developers to convert HTML to WORD. It is a powerful API that provides a wide range of features for manipulating and managing documents. It supports a variety of features such as creating, editing, and converting documents, as well as adding and removing text, images, and tables.
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word WORD. With the help of Aspose.Slides for Java and Aspose.Words for Java, developers can easily and quickly convert PPSX to WORD. Aspose.Total for Java is a powerful suite of APIs that provides a wide range of features for manipulating and managing presentations and documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

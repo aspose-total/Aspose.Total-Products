@@ -13,7 +13,16 @@ otherformats: OTT PS ODT FLATOPC DOCM PCL DOTM DOTX XAMLFLOW RTF MARKDOWN MHTML
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to DOT via Java" h2="On Premise Java API to Render TEX to DOT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to DOT by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to DOT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting a TEX file to DOT can be done in two easy steps using Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides powerful document processing capabilities. 
+
+The first step is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF manipulation API that enables you to create, edit, and convert PDF documents. It also allows you to render TEX files to DOC format. 
+
+The second step is to convert the DOC file to DOT using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables you to create, edit, and convert various document formats. It also allows you to convert DOC files to DOT format. 
+
+By using Aspose.Total for Java, you can easily convert TEX to DOT in two simple steps. First, you render the TEX file to DOC using Aspose.PDF for Java. Then, you convert the DOC file to DOT using Aspose.Words for Java. This makes it easy to convert TEX to DOT without any hassle.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,14 @@ otherformats: DOTX DOC DOCM FLATOPC WORD ODT TEXT WORDML DOTM DOT DOCX OTT
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to RTF via Java or Online App" h2="On Premise Java API for PowerPoint PPSX to RTF conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSX to Word RTF. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to RTF. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word RTF. This process involves two APIs, Aspose.Slides for Java and Aspose.Words for Java. Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management, and it is used to convert PPSX to HTML. Aspose.Words for Java is a feature-rich Word Processing API that is used to convert the HTML to RTF.
+
+The conversion process is a two-step process. First, Aspose.Slides for Java is used to convert the PPSX file to HTML. This API provides a wide range of features for manipulating and managing presentations, such as creating, editing, and converting presentations. It also supports a variety of file formats, including PPSX, PPTX, PPT, and ODP. After the PPSX file is converted to HTML, Aspose.Words for Java is used to convert the HTML to RTF. This API provides a comprehensive set of features for creating, editing, and converting documents. It supports a variety of file formats, including DOC, DOCX, ODT, and RTF.
+
+Aspose.Total for Java is a powerful suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word RTF. It provides a comprehensive set of features for manipulating and managing presentations, as well as creating, editing, and converting documents. It supports a variety of file formats, including PPSX, PPTX, PPT, ODP, DOC, DOCX, ODT, and RTF. With Aspose.Total for Java, developers can quickly and easily convert PPSX to RTF in a two-step process.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

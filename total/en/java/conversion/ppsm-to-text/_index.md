@@ -13,7 +13,16 @@ otherformats: RTF DOCM ODT FLATOPC DOTM DOCX DOT DOC OTT DOTX WORD WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert PPSM to TEXT via Java or Online App" h2="On Premise Java API for PowerPoint PPSM to TEXT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSM to Word TEXT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSM to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to TEXT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSM to Word TEXT. This process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java.
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPSM to HTML. This API provides a wide range of features, including the ability to create, modify, and convert presentations in various formats. It also supports the manipulation of slides, shapes, text, and images.
+
+Aspose.Words for Java is a feature-rich Word Processing API. It enables developers to convert HTML to TEXT. This API provides a wide range of features, including the ability to create, modify, and convert documents in various formats. It also supports the manipulation of text, images, tables, and formatting.
+
+By using Aspose.Total for Java, developers can easily automate the batch conversion process of PowerPoint PPSM to Word TEXT. This process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. Aspose.Slides for Java allows developers to convert PPSM to HTML, while Aspose.Words for Java enables developers to convert HTML to TEXT. Both APIs provide a wide range of features, including the ability to create, modify, and convert documents and presentations in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: XLT ODS EXCEL TSV XLSB XLSM DIF XLTX XLAM MD SXC XLTM
 {{< blocks/products/pf/feature-page-header h1="Export PDF to TXT via Java" h2="Convert PDF file to TXT by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PDF to TXT conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PDF to XLSX. In the second step, you can convert XLSX to TXT by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate PDF to TXT conversion feature in their Java applications. It consists of two APIs, Aspose.PDF for Java and Aspose.Cells for Java, which can be used in a two-step process to convert PDF to TXT. 
+
+The first step involves using Aspose.PDF for Java to render PDF to XLSX. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents without any external dependencies. It provides a wide range of features such as PDF to image conversion, text extraction, form filling, document signing, and more. 
+
+In the second step, Aspose.Cells for Java can be used to convert XLSX to TXT. Aspose.Cells for Java is a Spreadsheet Programming API that enables developers to create, manipulate, and convert spreadsheets in various formats such as XLSX, XLS, CSV, and ODS. It provides a wide range of features such as data validation, formula calculation, chart creation, and more. 
+
+By using Aspose.Total for Java, developers can easily integrate PDF to TXT conversion feature in their Java applications. It is a reliable and cost-effective solution that can be used to create, edit, and convert PDF documents with ease. Furthermore, it is a secure and reliable solution that ensures the safety of your data.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

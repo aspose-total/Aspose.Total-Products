@@ -13,7 +13,14 @@ otherformats: RTF ODT XAMLFLOW PS MHTML DOTM OTT DOTX DOCM FLATOPC DOT MARKDOWN
 {{< blocks/products/pf/feature-page-header h1="Transform PCL to WORDML via Java" h2="On Premise Java API to Render PCL to WORDML without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PCL to WORDML by using two simple steps. First you need to render PCL file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to WORDML. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting PCL to WORDML is a simple two-step process. First, you need to render the PCL file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF Processing API that is part of the Aspose.Total for Java package. This API allows you to easily convert PCL to DOC with just a few lines of code. 
+
+Once you have the PCL file rendered to DOC, you can use Aspose.Words for Java to convert the DOC to WORDML. Aspose.Words for Java is a powerful Document Processing API that is also part of the Aspose.Total for Java package. This API allows you to easily convert DOC to WORDML with just a few lines of code. 
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can quickly and easily convert PCL to WORDML. Both APIs are part of the Aspose.Total for Java package, so you can get both APIs in one package. This makes it easy to get started with PCL to WORDML conversion.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

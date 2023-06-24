@@ -13,7 +13,16 @@ otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM CSV FO
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to EXCEL via Java or Online App" h2="On Premise Java API to export PPSX to EXCEL without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+
+Converting a PPSX file to an EXCEL file can be done quickly and easily with the help of Aspose.Total for Java. This comprehensive suite of Java APIs provides a range of tools to help you with your document conversion needs. The two-step process involves firstly exporting the PPSX file to HTML using Aspose.Slides for Java, and then converting the HTML to EXCEL using Aspose.Cells for Java.
+
+Aspose.Slides for Java is a powerful API that enables you to create, read, write, and modify PowerPoint presentations without the need for Microsoft PowerPoint. It supports a wide range of features, including the ability to export presentations to HTML. This makes it the perfect tool for converting PPSX files to HTML.
+
+Once the PPSX file has been converted to HTML, Aspose.Cells for Java can be used to convert the HTML to EXCEL. Aspose.Cells for Java is a powerful API that enables you to create, read, write, and modify spreadsheets without the need for Microsoft Excel. It supports a wide range of features, including the ability to import HTML files and convert them to EXCEL.
+
+By using Aspose.Total for Java, you can quickly and easily convert PPSX files to EXCEL. The two-step process involves firstly exporting the PPSX file to HTML using Aspose.Slides for Java, and then converting the HTML to EXCEL using Aspose.Cells for Java. This comprehensive suite of Java APIs provides a range of tools to help you with your document conversion needs.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

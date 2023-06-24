@@ -13,7 +13,16 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM CSV TSV DIF 
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to MARKDOWN via Java or Online App" h2="On Premise Java API to export PPSX to MARKDOWN without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to MARKDOWN via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to MARKDOWN.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert PPSX files to MARKDOWN. This can be done in two simple steps. 
+
+The first step is to export the PPSX file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that enables developers to create, read, write, modify and convert presentations in various formats. It supports a wide range of features such as creating, editing, and converting presentations, adding text, shapes, images, and other objects, and more. With this API, developers can easily export PPSX files to HTML. 
+
+The second step is to convert the HTML file to MARKDOWN using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that enables developers to create, read, write, modify and convert spreadsheets in various formats. It supports a wide range of features such as creating, editing, and converting spreadsheets, adding formulas, formatting cells, and more. With this API, developers can easily convert HTML files to MARKDOWN. 
+
+By using Aspose.Total for Java, developers can easily convert PPSX files to MARKDOWN in two simple steps. Aspose.Slides for Java can be used to export PPSX files to HTML, and Aspose.Cells for Java can be used to convert HTML to MARKDOWN. This makes it easy for developers to quickly and easily convert PPSX files to MARKDOWN.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

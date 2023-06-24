@@ -13,7 +13,18 @@ otherformats: SXC TSV XLAM CSV EXCEL XLSB MD XLSM DIF FODS XLTM ODS
 {{< blocks/products/pf/feature-page-header h1="Export PDF to XLTX via Java" h2="Convert PDF file to XLTX by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate PDF to XLTX conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render PDF to XLSX. In the second step, you can convert XLSX to XLTX by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate PDF to XLTX conversion feature in their Java applications. It consists of two components, Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF processing API that enables developers to render PDF documents to XLSX format. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports various features such as text extraction, page manipulation, annotations, and form filling. 
+
+Aspose.Cells for Java is a Spreadsheet Programming API that enables developers to convert XLSX to XLTX format. It provides a wide range of features such as creating, editing, formatting, and manipulating spreadsheets. It also supports various features such as data validation, worksheet protection, and charting. 
+
+By using Aspose.Total for Java, developers can easily integrate PDF to XLTX conversion feature in their Java applications. It provides a two-step process for conversion. Firstly, developers can render PDF documents to XLSX format by using Aspose.PDF for Java. In the second step, developers can convert XLSX to XLTX format by using Aspose.Cells for Java. 
+
+Overall, Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate PDF to XLTX conversion feature in their Java applications. It provides a two-step process for conversion and supports various features such as text extraction, page manipulation, annotations, form filling, data validation, worksheet protection, and charting.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

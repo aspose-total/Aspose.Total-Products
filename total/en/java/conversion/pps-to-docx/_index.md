@@ -13,7 +13,16 @@ otherformats: DOCM TEXT DOC RTF DOTX WORDML ODT DOTM FLATOPC OTT WORD DOT
 {{< blocks/products/pf/feature-page-header h1="Convert PPS to DOCX via Java or Online App" h2="On Premise Java API for PowerPoint PPS to DOCX conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPS to Word DOCX. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPS to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOCX. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPS to Word DOCX. This process involves two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It can be used to convert PPS to HTML. This API provides a wide range of features for creating, editing, and manipulating presentations. It also supports a variety of file formats, including PPT, PPTX, PPS, PPSX, POT, POTX, ODP, and OTP. 
+
+Aspose.Words for Java is a feature-rich Word Processing API that can be used to convert HTML to DOCX. This API provides a comprehensive set of features for creating, editing, and manipulating documents. It supports a variety of file formats, including DOC, DOCX, ODT, RTF, HTML, and MHTML. It also provides a range of features for document conversion, including converting HTML to DOCX. 
+
+By combining the two APIs, Aspose.Total for Java enables developers to automate the batch conversion process of PowerPoint PPS to Word DOCX. This process is simple and efficient, and it can be used to quickly and easily convert documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

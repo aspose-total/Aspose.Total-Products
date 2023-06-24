@@ -13,7 +13,16 @@ otherformats: CSV FODS XLTX MHTML ODS MARKDOWN DIF XLTM XLSX XLT XLSM XLS TSV EX
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to SXC via Java or Online App" h2="On Premise Java API to export POWERPOINT to SXC without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert POWERPOINT file to SXC via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POWERPOINT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to SXC.
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily convert POWERPOINT files to SXC. This can be achieved in two simple steps. 
+
+The first step involves using Aspose.Slides for Java to export the POWERPOINT file to HTML. Aspose.Slides for Java is a powerful component that enables developers to manipulate and convert POWERPOINT documents. It supports a wide range of features such as creating, editing, and converting presentations. It also supports a variety of formats such as PPT, PPTX, PPS, PPSX, and HTML. 
+
+The second step involves using Aspose.Cells for Java to convert the HTML file to SXC. Aspose.Cells for Java is a powerful component that enables developers to manipulate and convert spreadsheet documents. It supports a wide range of features such as creating, editing, and converting spreadsheets. It also supports a variety of formats such as XLS, XLSX, CSV, HTML, and SXC. 
+
+By using Aspose.Total for Java, developers can easily convert POWERPOINT files to SXC in two simple steps. Aspose.Slides for Java is used to export the POWERPOINT file to HTML, and Aspose.Cells for Java is used to convert the HTML file to SXC. Aspose.Total for Java is a comprehensive suite of components that enables developers to easily manipulate and convert documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

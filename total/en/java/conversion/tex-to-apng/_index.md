@@ -13,7 +13,14 @@ otherformats: JPEG2000  PSD TGA DXF EMZ SVGZ WMZ IMAGE WMF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX to APNG via Java" h2="Export TEX file to APNG within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert tex file to APNG image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to APNG. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a TEX file to an APNG image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the TEX file to a JPEG image. Aspose.PDF for Java is a powerful PDF manipulation API that is part of the Aspose.Total for Java package. It allows you to convert a variety of document formats, including TEX, to JPEG. 
+
+The second step is to use the Aspose.Imaging for Java API to render the JPEG image to an APNG image. Aspose.Imaging for Java is an image processing API that is also part of the Aspose.Total for Java package. It provides a wide range of image manipulation capabilities, including the ability to render JPEG images to APNG. 
+
+By using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert a TEX file to an APNG image in Java. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for manipulating a variety of document and image formats. With just two simple steps, you can quickly and easily convert a TEX file to an APNG image in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

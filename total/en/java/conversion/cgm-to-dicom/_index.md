@@ -13,7 +13,16 @@ otherformats: EMZ PSD WMF WMZ TGA APNG DXF SVGZ IMAGE JPEG2000 DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert CGM to DICOM via Java" h2="Export CGM file to DICOM within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert cgm file to DICOM image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export CGM to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DICOM. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a CGM file to a DICOM image in Java can be done in two simple steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export CGM files to JPEG images. The second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a DICOM image. 
+
+The Aspose.PDF for Java API is a powerful PDF manipulation library that enables developers to create, edit, convert, and print PDF documents from within their Java applications. It supports a wide range of features, including the ability to export CGM files to JPEG images. The API also provides a range of other features, such as the ability to create PDF documents from scratch, convert PDF documents to other formats, and manipulate existing PDF documents. 
+
+The Aspose.Imaging for Java Image Processing API is a powerful library that enables developers to manipulate images in a variety of ways. It supports a wide range of features, including the ability to render JPEG images to DICOM images. The API also provides a range of other features, such as the ability to create images from scratch, convert images to other formats, and manipulate existing images. 
+
+By combining the Aspose.PDF for Java and Aspose.Imaging for Java APIs, developers can easily convert CGM files to DICOM images in Java. This makes it easy to create, edit, and manipulate medical images in Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

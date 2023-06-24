@@ -13,7 +13,16 @@ otherformats: XLTX XLSX XLSB DIF CSV MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to XLS via Java or Online App" h2="On Premise Java API to export PPSX to XLS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+
+Converting a PPSX file to XLS can be easily done with the help of Aspose.Total for Java. Aspose.Total for Java is a suite of components that provides a wide range of features for manipulating various file formats. It includes Aspose.Slides for Java and Aspose.Cells for Java, which can be used to convert PPSX to XLS. 
+
+The process of converting PPSX to XLS involves two steps. In the first step, you can use Aspose.Slides for Java to export the PPSX file to HTML. Aspose.Slides for Java is a powerful component that enables you to manipulate PowerPoint presentations in various ways. It provides a wide range of features for creating, editing, and converting presentations. 
+
+In the second step, you can use Aspose.Cells for Java to convert the HTML file to XLS. Aspose.Cells for Java is a powerful component that enables you to manipulate spreadsheets in various ways. It provides a wide range of features for creating, editing, and converting spreadsheets. 
+
+By using Aspose.Total for Java, you can easily convert PPSX to XLS in two steps. First, you can use Aspose.Slides for Java to export the PPSX file to HTML. Secondly, you can use Aspose.Cells for Java to convert the HTML file to XLS. Aspose.Total for Java provides a wide range of features for manipulating various file formats, making it an ideal choice for converting PPSX to XLS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

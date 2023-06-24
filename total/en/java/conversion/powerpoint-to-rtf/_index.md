@@ -13,7 +13,16 @@ otherformats: WORDML DOC FLATOPC OTT WORD DOTX DOCM DOTM DOCX DOT TEXT ODT
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to RTF via Java or Online App" h2="On Premise Java API for PowerPoint POWERPOINT to RTF conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint POWERPOINT to Word RTF. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert POWERPOINT to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to RTF. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint to Word RTF. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java.
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PowerPoint to HTML, which is then used as an intermediate format for further conversion.
+
+Aspose.Words for Java is a feature-rich Word Processing API that enables developers to convert HTML to RTF. It provides a wide range of features such as document manipulation, formatting, mail merge, and more.
+
+Using Aspose.Total for Java, developers can easily automate the conversion process of PowerPoint to Word RTF. It is a powerful and reliable solution that can be used to quickly and efficiently convert PowerPoint presentations to Word documents. The APIs are easy to use and provide a wide range of features that make the conversion process easier and faster.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

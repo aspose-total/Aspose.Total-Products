@@ -13,7 +13,16 @@ otherformats: MARKDOWN FLATOPC DOCM DOT MHTML DOTM XAMLFLOW RTF PCL ODT PS WORDM
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to DOTX via Java" h2="On Premise Java API to Render TEX to DOTX without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to DOTX by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to DOTX. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting a TEX file to DOTX can be done in two simple steps using Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides powerful document processing capabilities. 
+
+The first step is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, convert, and manipulate PDF documents. It can be used to render TEX files to DOC format. 
+
+The second step is to convert the DOC file to DOTX using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, convert, and manipulate Word documents. It can be used to convert DOC files to DOTX format. 
+
+By using Aspose.Total for Java, you can easily convert TEX to DOTX in two simple steps. Aspose.PDF for Java can be used to render TEX files to DOC format, and Aspose.Words for Java can be used to convert DOC files to DOTX format. This makes it easy to convert TEX to DOTX without any hassle.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

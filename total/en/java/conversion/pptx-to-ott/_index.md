@@ -13,7 +13,16 @@ otherformats: DOT DOC RTF DOTM DOCX WORD DOTX WORDML DOCM TEXT ODT FLATOPC
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to OTT via Java or Online App" h2="On Premise Java API for PowerPoint PPTX to OTT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPTX to Word OTT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPTX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to OTT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPTX to Word OTT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPTX to HTML, enabling them to manipulate the presentation in a variety of ways. This includes the ability to add, remove, and modify slides, as well as to insert images, shapes, and text. 
+
+Aspose.Words for Java is a feature-rich Word Processing API that enables developers to convert HTML to OTT. This API provides a wide range of features, including the ability to create, edit, and convert documents, as well as to insert, delete, and modify text, images, and tables. It also allows developers to add headers and footers, as well as to apply formatting to the document. 
+
+By combining the power of Aspose.Slides for Java and Aspose.Words for Java, developers can easily automate the batch conversion process of PowerPoint PPTX to Word OTT. This allows them to quickly and efficiently convert presentations into documents, enabling them to save time and effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

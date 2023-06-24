@@ -13,7 +13,16 @@ otherformats: DIF MD CSV TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 {{< blocks/products/pf/feature-page-header h1="Export TEX to FODS via Java" h2="Convert TEX file to FODS by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to FODS conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to FODS by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate a wide range of features into their Java applications. One of the features it provides is the ability to convert TEX to FODS. This can be achieved in two steps. 
+
+The first step is to use Aspose.PDF for Java to render TEX to XLSX. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents in Java applications. It provides a range of features such as the ability to convert TEX to XLSX, as well as the ability to create, edit, and manipulate PDF documents. 
+
+The second step is to use Aspose.Cells for Java to convert XLSX to FODS. Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to create, edit, and manipulate spreadsheets in Java applications. It provides a range of features such as the ability to convert XLSX to FODS, as well as the ability to create, edit, and manipulate spreadsheets. 
+
+By using Aspose.Total for Java, developers can easily integrate TEX to FODS conversion feature into their Java applications. The two-step process of using Aspose.PDF for Java to render TEX to XLSX, and then using Aspose.Cells for Java to convert XLSX to FODS, makes it easy to integrate this feature into any Java application. Aspose.Total for Java provides a comprehensive suite of components that enable developers to integrate a wide range of features into their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: DOCX DOCM TEXT DOTM FLATOPC DOC ODT DOTX RTF WORD OTT WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to DOT via Java or Online App" h2="On Premise Java API for PowerPoint PPSX to DOT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSX to Word DOT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word DOT. This process involves two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a powerful PowerPoint API for presentations manipulation and management. It can be used to convert PPSX to HTML. This API provides a wide range of features such as creating, editing, and converting presentations, as well as adding and manipulating text, images, shapes, and other elements. It also supports a variety of output formats, including HTML, PDF, and PPTX.
+
+Aspose.Words for Java is a feature-rich Word Processing API that can be used to convert HTML to DOT. This API provides a comprehensive set of features for creating, editing, and converting documents. It supports a variety of input and output formats, including DOC, DOCX, HTML, and PDF. It also provides a range of features for manipulating text, images, tables, and other elements.
+
+By combining the two APIs, Aspose.Total for Java enables developers to automate the batch conversion process of PowerPoint PPSX to Word DOT. This process is simple and efficient, and it can be used to quickly convert large numbers of documents. With Aspose.Total for Java, developers can save time and effort when converting documents, allowing them to focus on other tasks.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

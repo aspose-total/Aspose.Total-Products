@@ -13,7 +13,16 @@ otherformats: XLTX XLSM XLT XLAM FODS XLS ODS EXCEL MHTML CSV TSV XLTM MARKDOWN 
 {{< blocks/products/pf/feature-page-header h1="Convert PPS to DIF via Java or Online App" h2="On Premise Java API to export PPS to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPS file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPS to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily convert PPS files to DIF. This can be done in two simple steps. 
+
+The first step is to export the PPS file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful library that enables developers to create, manipulate, and convert presentations in various formats. It supports a wide range of features, including the ability to export presentations to HTML. 
+
+The second step is to convert the HTML file to DIF using Aspose.Cells for Java. Aspose.Cells for Java is a powerful library that enables developers to create, manipulate, and convert spreadsheets in various formats. It supports a wide range of features, including the ability to convert HTML to DIF. 
+
+By using Aspose.Total for Java, developers can easily convert PPS files to DIF in two simple steps. First, they can export the PPS file to HTML using Aspose.Slides for Java. Then, they can convert the HTML file to DIF using Aspose.Cells for Java. This makes it easy to convert PPS files to DIF quickly and efficiently.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

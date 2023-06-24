@@ -13,7 +13,16 @@ otherformats: ODS XLS TSV XLSM CSV SXC XLT XLAM XLSB XLTX EXCEL XLTM DIF XLSX
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to FODS via Java or Online App" h2="On Premise Java API to convert RTF to FODS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting RTF to FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export RTF to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to FODS.
+
+
+Using Aspose.Total for Java, converting RTF to FODS is a straightforward two-step process. Aspose.Total for Java is a comprehensive suite of feature-rich document manipulation and conversion APIs that make it easy to convert RTF to FODS. 
+
+The first step is to use Aspose.Words for Java to export RTF to HTML. Aspose.Words for Java is a powerful document manipulation API that enables you to easily convert RTF to HTML. It provides a wide range of features such as document manipulation, document conversion, document comparison, and more. With Aspose.Words for Java, you can easily convert RTF to HTML with just a few lines of code. 
+
+The second step is to use Aspose.Cells for Java to convert HTML to FODS. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to easily convert HTML to FODS. It provides a wide range of features such as spreadsheet manipulation, spreadsheet conversion, spreadsheet comparison, and more. With Aspose.Cells for Java, you can easily convert HTML to FODS with just a few lines of code. 
+
+In conclusion, converting RTF to FODS via Aspose.Total for Java is a simple two-step process. By using Aspose.Words for Java to export RTF to HTML, and Aspose.Cells for Java to convert HTML to FODS, you can easily convert RTF to FODS with just a few lines of code. Aspose.Total for Java is a comprehensive suite of feature-rich document manipulation and conversion APIs that make it easy to convert RTF to FODS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

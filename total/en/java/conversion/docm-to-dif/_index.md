@@ -13,7 +13,16 @@ otherformats: FODS XLSB XLSX XLTX XLSM TSV XLS SXC XLT XLAM CSV ODS EXCEL XLTM
 {{< blocks/products/pf/feature-page-header h1="Convert DOCM to DIF via Java or Online App" h2="On Premise Java API to convert DOCM to DIF without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOCM to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Using [Aspose.Total for Java](https://products.aspose.com/total/java/), you can easily convert a DOCM file to DIF in two simple steps. Aspose.Total for Java is a comprehensive suite of feature-rich APIs that enable you to manipulate and convert documents. 
+
+The first step is to export the DOCM file to HTML using [Aspose.Words for Java](https://products.aspose.com/words/java/). Aspose.Words for Java is a powerful document manipulation and conversion API that enables you to easily convert DOCM to HTML. It supports a wide range of document formats, including DOCM, DOCX, HTML, PDF, and many more. 
+
+The second step is to convert the HTML file to DIF using [Aspose.Cells for Java](https://products.aspose.com/cells/java/). Aspose.Cells for Java is a powerful spreadsheet manipulation and conversion API that enables you to easily convert HTML to DIF. It supports a wide range of spreadsheet formats, including XLSX, XLS, HTML, PDF, and many more. 
+
+By using Aspose.Total for Java, you can quickly and easily convert a DOCM file to DIF in two simple steps. Aspose.Words for Java enables you to export the DOCM file to HTML, and Aspose.Cells for Java enables you to convert the HTML file to DIF. With Aspose.Total for Java, you can easily manipulate and convert documents with ease.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

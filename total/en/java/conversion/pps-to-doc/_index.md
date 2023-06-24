@@ -13,7 +13,16 @@ otherformats: DOCM FLATOPC WORDML ODT DOCX OTT TEXT WORD DOT RTF DOTM DOTX
 {{< blocks/products/pf/feature-page-header h1="Convert PPS to DOC via Java or Online App" h2="On Premise Java API for PowerPoint PPS to DOC conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPS to Word DOC. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPS to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOC. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPS to Word DOC. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a powerful PowerPoint API for presentations manipulation and management. It allows developers to convert PPS to HTML with ease. It supports a wide range of features, such as creating, editing, and converting presentations, as well as adding and manipulating text, images, shapes, and other elements. It also supports a variety of output formats, including HTML, PDF, and PPTX.
+
+Aspose.Words for Java is a feature-rich Word Processing API that enables developers to convert HTML to DOC. It supports a wide range of features, such as creating, editing, and converting documents, as well as adding and manipulating text, images, tables, and other elements. It also supports a variety of output formats, including DOC, DOCX, and PDF.
+
+By combining the power of Aspose.Slides for Java and Aspose.Words for Java, developers can easily automate the batch conversion process of PowerPoint PPS to Word DOC. This process is simple and efficient, and can be used to quickly and easily convert large numbers of documents. Aspose.Total for Java is the perfect solution for developers who need to automate the conversion of PowerPoint PPS to Word DOC.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

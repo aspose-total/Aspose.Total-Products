@@ -13,7 +13,16 @@ otherformats: PS DOTX WORDML RTF OTT ODT FLATOPC MHTML DOT MARKDOWN DOTM XAMLFLO
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to GIF via Java" h2="On Premise Java API to Render TEX to GIF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to GIF by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to GIF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting TEX to GIF is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features for document processing. 
+
+The first step in the process is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, and convert PDF documents. It also allows developers to render TEX files to DOC format. 
+
+The second step is to convert the DOC file to GIF using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and convert documents. It also allows developers to convert DOC files to GIF format. 
+
+By using Aspose.Total for Java, developers can easily convert TEX to GIF in a few simple steps. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features for document processing. It includes Aspose.PDF for Java and Aspose.Words for Java, which are both necessary for converting TEX to GIF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

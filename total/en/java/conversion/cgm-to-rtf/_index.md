@@ -13,7 +13,16 @@ otherformats: ODT PCL DOTM OTT MARKDOWN WORDML XAMLFLOW FLATOPC DOTX MHTML DOCM 
 {{< blocks/products/pf/feature-page-header h1="Transform CGM to RTF via Java" h2="On Premise Java API to Render CGM to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert CGM to RTF by using two simple steps. First you need to render CGM file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting CGM to RTF is a simple two-step process that can be accomplished using the powerful Aspose.Total for Java package. Aspose.Total for Java is a suite of APIs that provide developers with the tools they need to create, edit, and manipulate documents in a variety of formats. 
+
+The first step in the conversion process is to render the CGM file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, and convert PDF documents. It also provides the ability to render CGM files to DOC, making it the perfect choice for this conversion. 
+
+Once the CGM file has been rendered to DOC, the second step is to use Aspose.Words for Java to convert the DOC to RTF. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and manipulate documents in a variety of formats. It provides the ability to convert DOC to RTF, making it the perfect choice for this conversion. 
+
+By using Aspose.Total for Java, developers can easily convert CGM to RTF in just two simple steps. First, they can render the CGM file to DOC using Aspose.PDF for Java. Then, they can use Aspose.Words for Java to convert the DOC to RTF. This process is quick and easy, and provides developers with the tools they need to create, edit, and manipulate documents in a variety of formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

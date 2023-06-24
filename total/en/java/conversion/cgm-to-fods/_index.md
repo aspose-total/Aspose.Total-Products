@@ -13,7 +13,16 @@ otherformats: ODS TSV XLTX EXCEL XLSB TXT SXC XLSM XLTM MD XLT DIF
 {{< blocks/products/pf/feature-page-header h1="Export CGM to FODS via Java" h2="Convert CGM file to FODS by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate CGM to FODS conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render CGM to XLSX. In the second step, you can convert XLSX to FODS by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate CGM to FODS conversion feature in their Java applications. This suite of APIs provides a two-step process for converting CGM to FODS. 
+
+The first step involves using Aspose.PDF for Java to render CGM to XLSX. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents in Java applications. It provides a wide range of features such as creating PDF documents from scratch, converting PDF documents to other formats, adding or removing text, images, annotations, and other elements from PDF documents, and much more. 
+
+The second step involves using Aspose.Cells for Java to convert XLSX to FODS. Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to create, edit, and manipulate spreadsheets in Java applications. It provides a wide range of features such as creating spreadsheets from scratch, converting spreadsheets to other formats, adding or removing worksheets, rows, columns, and other elements from spreadsheets, and much more. 
+
+By using Aspose.Total for Java, developers can easily integrate CGM to FODS conversion feature in their Java applications. This suite of APIs provides a two-step process for converting CGM to FODS, which makes it easy for developers to quickly and easily add this feature to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

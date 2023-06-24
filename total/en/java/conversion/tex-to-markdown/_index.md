@@ -13,7 +13,16 @@ otherformats: DOCM DOTM DOT FLATOPC XAMLFLOW PCL DOTX WORDML MHTML ODT RTF PS
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to MARKDOWN via Java" h2="On Premise Java API to Render TEX to MARKDOWN without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to MARKDOWN by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MARKDOWN. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting TEX to MARKDOWN is a simple two-step process that can be done using the powerful APIs from Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides developers with the tools they need to create, edit, and convert documents.
+
+The first step is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, and convert PDF documents. It provides a wide range of features, including the ability to render TEX files to DOC.
+
+The second step is to convert the DOC file to MARKDOWN using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and convert documents. It provides a wide range of features, including the ability to convert DOC files to MARKDOWN.
+
+By using Aspose.Total for Java, developers can easily convert TEX to MARKDOWN in just two simple steps. Aspose.PDF for Java is used to render the TEX file to DOC, and Aspose.Words for Java is used to convert the DOC file to MARKDOWN. This makes it easy for developers to quickly and easily convert TEX to MARKDOWN.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

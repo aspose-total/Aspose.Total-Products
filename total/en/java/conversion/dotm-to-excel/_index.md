@@ -13,7 +13,10 @@ otherformats: TSV XLAM SXC CSV EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{< blocks/products/pf/feature-page-header h1="Convert DOTM to EXCEL via Java or Online App" h2="On Premise Java API to convert DOTM to EXCEL without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOTM to EXCEL via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOTM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to EXCEL.
+
+
+Converting DOTM to EXCEL is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides the necessary tools to convert DOTM to EXCEL. The first step is to export the DOTM file to HTML using Aspose.Words for Java. Aspose.Words for Java is a powerful document manipulation API that enables you to easily convert DOTM to HTML. Once the DOTM file is converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML file to EXCEL. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to quickly and easily convert HTML to EXCEL. With the help of Aspose.Total for Java, you can easily convert DOTM to EXCEL in just two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

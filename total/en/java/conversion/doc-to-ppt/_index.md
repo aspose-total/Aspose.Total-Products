@@ -13,7 +13,16 @@ otherformats: POT PPS ODP PPTX PPSX PPTM POWERPOINT POTX PPSM POTM CSV DIF FODS 
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to PPT via Java or Online App" h2="DOC to PPT conversion by using on premise Java API within any Java J2SE, J2EE, J2ME applications without using Microsoft<sup>&reg;</sup> PowerPoint or Word" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Often times developers have to convert DOC file to PPT programmatically. By using the File Automation Java libraries [Aspose.Total for Java](https://products.aspose.com/total/java/) you can automate the rendering process in a few simple steps. You can load your DOC file by using [Aspose.Words for Java](https://products.aspose.com/words/java/) and convert it to HTML. After that by using powerful PowerPoint manipulation Java API [Aspose.Slides for Java](https://products.aspose.com/slides/java/) you can create a new Presentation, write HTML content in it, and save it as PPT. 
+
+
+Developers often need to convert DOC files to PPT programmatically. Aspose.Total for Java is a powerful File Automation library that makes this process easy and straightforward. It consists of three components: Aspose.Words for Java, Aspose.Slides for Java, and Aspose.Total for Java. 
+
+Aspose.Words for Java is a powerful Java library for manipulating DOC files. It can be used to load a DOC file and convert it to HTML. Aspose.Slides for Java is a powerful Java library for manipulating PPT files. It can be used to create a new Presentation, write HTML content in it, and save it as PPT. 
+
+Using Aspose.Total for Java, developers can automate the process of converting DOC files to PPT in a few simple steps. First, they can use Aspose.Words for Java to load the DOC file and convert it to HTML. Then, they can use Aspose.Slides for Java to create a new Presentation, write HTML content in it, and save it as PPT. Finally, they can use Aspose.Total for Java to automate the rendering process. 
+
+Overall, Aspose.Total for Java is a powerful File Automation library that makes it easy for developers to convert DOC files to PPT programmatically. It consists of three components: Aspose.Words for Java, Aspose.Slides for Java, and Aspose.Total for Java. By using these components, developers can automate the process of converting DOC files to PPT in a few simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

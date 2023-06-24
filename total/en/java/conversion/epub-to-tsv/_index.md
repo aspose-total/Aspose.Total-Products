@@ -13,7 +13,16 @@ otherformats: DIF XLSM XLT ODS CSV EXCEL XLAM XLTX MD FODS SXC TXT
 {{< blocks/products/pf/feature-page-header h1="Export EPUB to TSV via Java" h2="Convert EPUB file to TSV by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate EPUB to TSV conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render EPUB to XLSX. In the second step, you can convert XLSX to TSV by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate a wide range of features into their Java applications. One of the features it provides is the ability to convert EPUB files to TSV format. This can be achieved in two steps. 
+
+The first step is to use Aspose.PDF for Java to render the EPUB file to XLSX format. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, convert, and manipulate PDF documents in Java applications. It provides a wide range of features such as creating PDF documents from scratch, converting PDF documents to other formats, extracting text and images from PDF documents, and more. 
+
+The second step is to use Aspose.Cells for Java to convert the XLSX file to TSV format. Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to create, edit, and manipulate spreadsheets in Java applications. It provides a wide range of features such as creating spreadsheets from scratch, converting spreadsheets to other formats, extracting data from spreadsheets, and more. 
+
+By using Aspose.Total for Java, developers can easily integrate EPUB to TSV conversion feature into their Java applications. It provides a simple and efficient way to convert EPUB files to TSV format in two steps. The first step is to use Aspose.PDF for Java to render the EPUB file to XLSX format. The second step is to use Aspose.Cells for Java to convert the XLSX file to TSV format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

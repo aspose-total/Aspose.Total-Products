@@ -13,7 +13,16 @@ otherformats: DXF EMZ WMZ JPEG2000  APNG IMAGE PSD SVGZ WMF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert XSLFO to TGA via Java" h2="Export XSLFO file to TGA within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert xslfo file to TGA image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export XSLFO to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to TGA. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting an XSLFO file to a TGA image in Java can be done in two simple steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export XSLFO to JPEG. The second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG to TGA. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and print PDF documents from within their Java applications. It supports a wide range of features, including the ability to export XSLFO to JPEG. It also provides a comprehensive set of features for manipulating PDF documents, such as adding text, images, and annotations, as well as merging, splitting, and extracting pages. 
+
+Aspose.Imaging for Java is an advanced image processing API that enables developers to manipulate images in a variety of formats, including TGA. It provides a comprehensive set of features for manipulating images, such as resizing, cropping, rotating, and flipping. It also supports a wide range of image formats, including JPEG, PNG, BMP, and TIFF. With this API, you can easily render a JPEG to TGA. 
+
+By combining the features of Aspose.PDF for Java and Aspose.Imaging for Java, you can easily convert an XSLFO file to a TGA image in Java. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for manipulating documents, images, and other file formats. With this package, you can easily create, edit, convert, and print documents and images from within your Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

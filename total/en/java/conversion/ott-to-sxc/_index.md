@@ -13,7 +13,14 @@ otherformats: FODS EXCEL XLS CSV XLTX XLSM ODS XLAM XLT XLTM XLSX TSV DIF XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert OTT to SXC via Java or Online App" h2="On Premise Java API to convert OTT to SXC without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting OTT to SXC via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export OTT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to SXC.
+
+
+Using [Aspose.Total for Java](https://products.aspose.com/total/java/) to convert OTT to SXC is a straightforward two-step process. The first step is to use the feature-rich document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/) to export OTT to HTML. This API provides a wide range of features to manipulate documents, such as creating, editing, converting, and printing documents. It also supports a variety of document formats, including OTT.
+
+The second step is to use [Aspose.Cells for Java](https://products.aspose.com/cells/java/) to convert HTML to SXC. This API provides a comprehensive set of features to work with spreadsheets, such as creating, editing, and converting spreadsheets. It also supports a variety of spreadsheet formats, including SXC.
+
+By using Aspose.Total for Java, you can easily convert OTT to SXC in just two steps. Aspose.Words for Java allows you to export OTT to HTML, and Aspose.Cells for Java allows you to convert HTML to SXC. This makes it easy to convert OTT to SXC without any hassle.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

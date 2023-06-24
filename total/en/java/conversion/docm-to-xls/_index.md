@@ -13,7 +13,16 @@ otherformats: XLTM CSV XLAM ODS EXCEL XLT XLSX FODS XLTX SXC XLSB TSV XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOCM to XLS via Java or Online App" h2="On Premise Java API to convert DOCM to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOCM to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+
+Converting a DOCM file to XLS can be done quickly and easily with Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provide powerful document manipulation and conversion capabilities. With Aspose.Words for Java, you can export DOCM files to HTML. Aspose.Cells for Java then allows you to convert the HTML file to XLS. This two-step process is simple and straightforward, and can be completed in a matter of minutes.
+
+Aspose.Words for Java is a feature-rich API that enables you to manipulate DOCM files with ease. It allows you to open, edit, and save DOCM files, as well as convert them to other formats. With Aspose.Words for Java, you can export DOCM files to HTML, which can then be used as the source file for the conversion to XLS.
+
+Aspose.Cells for Java is a powerful API that enables you to manipulate XLS files with ease. It allows you to open, edit, and save XLS files, as well as convert them to other formats. With Aspose.Cells for Java, you can convert HTML files to XLS. This makes it easy to convert a DOCM file to XLS in a two-step process.
+
+By using Aspose.Total for Java, you can quickly and easily convert a DOCM file to XLS. Aspose.Words for Java allows you to export the DOCM file to HTML, and Aspose.Cells for Java allows you to convert the HTML file to XLS. This two-step process is simple and straightforward, and can be completed in a matter of minutes.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,18 @@ otherformats: APNG JPEG2000 WMZ EMZ TGA IMAGE  WMF PSD DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX to SVGZ via Java" h2="Export TEX file to SVGZ within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert tex file to SVGZ image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to SVGZ. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a TEX file to an SVGZ image in Java can be done in two easy steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export the TEX file to a JPEG image. The second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to an SVGZ image. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and print PDF documents from within their Java applications. It supports a wide range of features, including the ability to export TEX files to JPEG images. The API also supports a variety of other file formats, such as DOCX, XLSX, PPTX, HTML, and more. 
+
+Aspose.Imaging for Java is an image processing API that enables developers to manipulate images within their Java applications. It supports a wide range of features, including the ability to render JPEG images to SVGZ images. The API also supports a variety of other image formats, such as TIFF, BMP, GIF, and more. 
+
+Both Aspose.PDF for Java and Aspose.Imaging for Java are part of the Aspose.Total for Java package. This package includes a comprehensive suite of APIs that enable developers to create, edit, convert, and print a variety of documents and images from within their Java applications. 
+
+By using Aspose.PDF for Java and Aspose.Imaging for Java, you can easily convert a TEX file to an SVGZ image in Java in two simple steps. The first step is to export the TEX file to a JPEG image, and the second step is to render the JPEG image to an SVGZ image. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive suite of APIs for creating, editing, converting, and printing documents and images from within Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

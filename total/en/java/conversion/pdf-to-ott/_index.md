@@ -13,7 +13,16 @@ otherformats: RTF WORDML ODT DOCM FLATOPC DOTM XAMLFLOW DOTX MARKDOWN DOT MHTML 
 {{< blocks/products/pf/feature-page-header h1="Transform PDF to OTT via Java" h2="On Premise Java API to Render PDF to OTT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PDF to OTT by using two simple steps. First you need to render PDF file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to OTT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting PDF to OTT is now easier than ever with the help of Aspose.Total for Java. This powerful package includes two APIs, Aspose.PDF for Java and Aspose.Words for Java, that can be used to render PDF files to DOC and then convert DOC to OTT respectively. 
+
+The first step in the process is to render PDF file to DOC using Aspose.PDF for Java. This API is a powerful PDF manipulation tool that can be used to create, edit, convert, and render PDF documents. It supports a wide range of features such as text extraction, document conversion, image extraction, and more. It also supports a variety of formats including DOC, DOCX, HTML, XPS, and more. 
+
+Once the PDF file is rendered to DOC, the next step is to convert DOC to OTT using Aspose.Words for Java. This powerful Document Processing API can be used to create, edit, convert, and render documents in a variety of formats including DOC, DOCX, OTT, HTML, and more. It supports a wide range of features such as text extraction, document conversion, image extraction, and more. 
+
+With the help of Aspose.Total for Java, you can easily convert PDF to OTT in just two simple steps. All you need to do is render PDF file to DOC using Aspose.PDF for Java and then convert DOC to OTT using Aspose.Words for Java. This powerful package makes it easy to manipulate PDF and DOC documents with ease.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

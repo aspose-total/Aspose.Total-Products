@@ -13,7 +13,16 @@ otherformats: DXF WMF EMZ SVGZ JPEG2000 PSD APNG  WMZ IMAGE DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX to TGA via Java" h2="Export TEX file to TGA within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert tex file to TGA image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to TGA. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a TeX file to a TGA image in Java is a straightforward process that can be completed in two simple steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package. This API allows you to export TeX files to JPEG images. The second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a TGA image. 
+
+The Aspose.PDF for Java API is a powerful tool for converting TeX files to JPEG images. It supports a wide range of TeX formats, including LaTeX, Plain TeX, and ConTeXt. It also supports a variety of image formats, including JPEG, PNG, and TIFF. The API also provides a range of features, such as text extraction, page manipulation, and document conversion. 
+
+The Aspose.Imaging for Java Image Processing API is a powerful tool for rendering JPEG images to TGA images. It supports a wide range of image formats, including JPEG, PNG, TIFF, and BMP. It also provides a range of features, such as image manipulation, image resizing, and image conversion. 
+
+By combining the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert TeX files to TGA images in Java. The Aspose.Total for Java package provides both APIs, making it easy to access the features of both APIs in one package. With the Aspose.Total for Java package, you can quickly and easily convert TeX files to TGA images in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

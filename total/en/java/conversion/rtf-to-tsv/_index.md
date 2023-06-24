@@ -13,7 +13,16 @@ otherformats: SXC FODS XLSB XLSM ODS XLT XLS XLSX XLTX XLTM XLAM EXCEL CSV DIF
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to TSV via Java or Online App" h2="On Premise Java API to convert RTF to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting RTF to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export RTF to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of document manipulation and conversion APIs that makes it easy to convert RTF to TSV. The process is simple and straightforward, requiring only two steps. 
+
+The first step is to use Aspose.Words for Java to export RTF to HTML. Aspose.Words for Java is a feature-rich API that enables you to manipulate documents with ease. It allows you to convert RTF to HTML quickly and accurately, preserving the original formatting and layout of the document. 
+
+The second step is to use Aspose.Cells for Java to convert HTML to TSV. Aspose.Cells for Java is a powerful API that enables you to create, manipulate, and convert spreadsheets with ease. It allows you to convert HTML to TSV quickly and accurately, preserving the original formatting and layout of the document. 
+
+By using Aspose.Total for Java, you can easily convert RTF to TSV in just two steps. Aspose.Words for Java enables you to export RTF to HTML, and Aspose.Cells for Java enables you to convert HTML to TSV. With Aspose.Total for Java, you can quickly and accurately convert RTF to TSV, preserving the original formatting and layout of the document.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

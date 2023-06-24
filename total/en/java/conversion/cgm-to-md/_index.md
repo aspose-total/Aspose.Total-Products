@@ -13,7 +13,16 @@ otherformats: XLSB XLT XLTM XLTX FODS EXCEL TXT TSV DIF XLSM ODS XLAM
 {{< blocks/products/pf/feature-page-header h1="Export CGM to MD via Java" h2="Convert CGM file to MD by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate CGM to MD conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render CGM to XLSX. In the second step, you can convert XLSX to MD by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate CGM to MD conversion feature in their Java applications. It provides two components, Aspose.PDF for Java and Aspose.Cells for Java, that can be used to render CGM to XLSX and then convert XLSX to MD respectively. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render CGM to XLSX in a few simple steps. It provides a wide range of features that can be used to create, edit, convert, and manipulate PDF documents. It also supports a wide range of file formats, including CGM, XLSX, and MD. 
+
+Aspose.Cells for Java is a powerful Spreadsheet Programming API that enables developers to convert XLSX to MD. It provides a wide range of features that can be used to create, edit, convert, and manipulate spreadsheets. It also supports a wide range of file formats, including XLSX and MD. 
+
+By using Aspose.Total for Java, developers can easily integrate CGM to MD conversion feature in their Java applications. It provides two components, Aspose.PDF for Java and Aspose.Cells for Java, that can be used to render CGM to XLSX and then convert XLSX to MD respectively. It provides a wide range of features that can be used to create, edit, convert, and manipulate PDF documents and spreadsheets. It also supports a wide range of file formats, including CGM, XLSX, and MD.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

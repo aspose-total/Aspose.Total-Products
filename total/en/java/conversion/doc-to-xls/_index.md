@@ -13,7 +13,16 @@ otherformats: CSV SXC DIF XLTX XLSX TSV XLAM XLTM FODS ODS XLT XLSM EXCEL XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to XLS via Java or Online App" h2="On Premise Java API to convert DOC to XLS without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOC to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+
+Converting a DOC file to XLS format is a simple two-step process that can be accomplished with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides users with the ability to easily convert documents from one format to another. 
+
+The first step in the process is to use Aspose.Words for Java to export the DOC file to HTML. Aspose.Words for Java is a powerful document manipulation API that allows users to easily convert documents from one format to another. It provides users with the ability to quickly and easily convert documents from DOC to HTML format. 
+
+Once the DOC file has been converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML file to XLS format. Aspose.Cells for Java is a powerful spreadsheet manipulation API that allows users to quickly and easily convert documents from HTML to XLS format. It provides users with the ability to quickly and easily convert documents from HTML to XLS format. 
+
+By using Aspose.Total for Java, users can easily convert DOC files to XLS format in just two simple steps. Aspose.Words for Java is used to export the DOC file to HTML, and Aspose.Cells for Java is used to convert the HTML file to XLS format. This process is quick and easy, and provides users with the ability to quickly and easily convert documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

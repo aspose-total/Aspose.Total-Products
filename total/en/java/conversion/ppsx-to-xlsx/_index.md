@@ -13,7 +13,16 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to XLSX via Java or Online App" h2="On Premise Java API to export PPSX to XLSX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to create, manipulate, convert, and render a wide range of file formats. It provides a simple and efficient way to convert PPSX file to XLSX. The conversion process involves two steps. 
+
+In the first step, you can use Aspose.Slides for Java to export PPSX to HTML. Aspose.Slides for Java is a powerful API that enables developers to create, manipulate, and convert presentations in various formats. It provides a wide range of features such as creating, editing, and converting presentations, adding text, shapes, and images, and more. 
+
+In the second step, you can use Aspose.Cells for Java to convert HTML to XLSX. Aspose.Cells for Java is a powerful API that enables developers to create, manipulate, and convert spreadsheets in various formats. It provides a wide range of features such as creating, editing, and converting spreadsheets, adding formulas, formatting cells, and more. 
+
+By using Aspose.Total for Java, you can easily convert PPSX file to XLSX in two simple steps. Aspose.Slides for Java enables you to export PPSX to HTML, and Aspose.Cells for Java enables you to convert HTML to XLSX. Aspose.Total for Java is a comprehensive suite of APIs that provides a simple and efficient way to convert PPSX file to XLSX.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

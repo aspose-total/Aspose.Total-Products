@@ -13,7 +13,16 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS CSV
 {{< blocks/products/pf/feature-page-header h1="Export TEX to DIF via Java" h2="Convert TEX file to DIF by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to DIF conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to DIF by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate a wide range of features into their Java applications. One of the features it offers is the ability to convert TEX to DIF files. This can be achieved in two steps. 
+
+The first step is to use Aspose.PDF for Java to render the TEX file to XLSX. Aspose.PDF for Java is a powerful API that allows developers to create, edit, and convert PDF documents in Java applications. It also provides the ability to render TEX files to XLSX, which is the format required for the second step. 
+
+The second step is to use Aspose.Cells for Java to convert the XLSX file to DIF. Aspose.Cells for Java is a Spreadsheet Programming API that enables developers to create, manipulate, and convert spreadsheets in Java applications. It provides a range of features, including the ability to convert XLSX to DIF. 
+
+By using Aspose.Total for Java, developers can easily integrate TEX to DIF conversion into their Java applications. It provides the necessary APIs to render TEX to XLSX and then convert XLSX to DIF. This makes it easy for developers to add this feature to their applications without having to write any additional code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

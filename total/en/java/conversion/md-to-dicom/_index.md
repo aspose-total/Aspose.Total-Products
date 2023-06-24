@@ -13,7 +13,14 @@ otherformats: TGA PSD DXF WMF APNG SVGZ JPEG2000 EMZ WMZ IMAGE
 {{< blocks/products/pf/feature-page-header h1="Convert MD to DICOM via Java" h2="Export MD file to DICOM within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert md file to DICOM image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export MD to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DICOM. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting an MD file to a DICOM image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the MD file to a JPEG image. This API is part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for working with various file formats. 
+
+Once the MD file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a DICOM image. This API provides a wide range of image processing capabilities, such as resizing, cropping, rotating, and flipping images. It also supports a variety of image formats, including JPEG, PNG, TIFF, and DICOM. 
+
+Using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert an MD file to a DICOM image in Java. The Aspose.Total for Java package provides a comprehensive set of APIs for working with various file formats, making it easy to convert MD files to DICOM images. With just two simple steps, you can quickly and easily convert MD files to DICOM images in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

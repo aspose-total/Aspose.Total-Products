@@ -13,7 +13,16 @@ otherformats: DIF XLS XLT XLSM FODS XLAM XLTM ODS CSV EXCEL XLSX SXC TSV XLSB
 {{< blocks/products/pf/feature-page-header h1="Convert DOT to XLTX via Java or Online App" h2="On Premise Java API to convert DOT to XLTX without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOT to XLTX via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOT to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLTX.
+
+
+Converting DOT to XLTX is a simple two step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that enables users to easily convert DOT to HTML. 
+
+The first step in the process is to use Aspose.Words for Java to export DOT to HTML. Aspose.Words for Java is a powerful document manipulation API that enables users to easily convert DOT to HTML. It provides a wide range of features that allow users to manipulate documents in a variety of ways. It also provides a comprehensive set of features that enable users to easily convert DOT to HTML. 
+
+The second step in the process is to use Aspose.Cells for Java to convert HTML to XLTX. Aspose.Cells for Java is a powerful document manipulation API that enables users to easily convert HTML to XLTX. It provides a wide range of features that allow users to manipulate documents in a variety of ways. It also provides a comprehensive set of features that enable users to easily convert HTML to XLTX. 
+
+By using Aspose.Total for Java, users can easily convert DOT to XLTX in a simple two step process. Aspose.Words for Java enables users to export DOT to HTML, and Aspose.Cells for Java enables users to convert HTML to XLTX. With the help of Aspose.Total for Java, users can easily convert DOT to XLTX in a matter of minutes.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: DIF MARKDOWN XLAM XLSM CSV XLTX XLTM ODS MHTML XLSX FODS XLSB SXC 
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to TSV via Java or Online App" h2="On Premise Java API to export PPTX to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTX file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to work with a wide range of file formats, including PPTX, HTML, and TSV. With Aspose.Total for Java, you can easily convert PPTX files to TSV in two simple steps. 
+
+The first step is to export the PPTX file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that enables developers to create, read, write, and modify PowerPoint presentations. It supports a wide range of features, including the ability to export presentations to HTML. With Aspose.Slides for Java, you can easily convert PPTX files to HTML with just a few lines of code. 
+
+The second step is to convert the HTML file to TSV using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that enables developers to create, read, write, and modify spreadsheets. It supports a wide range of features, including the ability to convert HTML files to TSV. With Aspose.Cells for Java, you can easily convert HTML files to TSV with just a few lines of code. 
+
+In conclusion, Aspose.Total for Java makes it easy to convert PPTX files to TSV in two simple steps. First, you can export the PPTX file to HTML using Aspose.Slides for Java. Then, you can convert the HTML file to TSV using Aspose.Cells for Java. With Aspose.Total for Java, you can quickly and easily convert PPTX files to TSV with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,18 @@ otherformats: XLTX ODS SXC XLTM MD FODS TXT CSV EXCEL XLSM TSV XLAM
 {{< blocks/products/pf/feature-page-header h1="Export TEX to XLSB via Java" h2="Convert TEX file to XLSB by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to XLSB conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to XLSB by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate TEX to XLSB conversion feature in their Java applications. This suite consists of two components, Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render TEX to XLSX. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of formats such as PDF, XPS, TIFF, HTML, and many more. 
+
+Aspose.Cells for Java is a Spreadsheet Programming API that enables developers to convert XLSX to XLSB. It provides a wide range of features such as creating, editing, formatting, and manipulating spreadsheets. It also supports a variety of formats such as XLSX, XLSB, XLSM, XLS, CSV, and many more. 
+
+Using Aspose.Total for Java, developers can easily integrate TEX to XLSB conversion feature in their Java applications. The two-step process involves rendering TEX to XLSX using Aspose.PDF for Java and then converting XLSX to XLSB using Aspose.Cells for Java. This process is simple and straightforward and can be completed in a few lines of code. 
+
+Aspose.Total for Java is a comprehensive suite of components that provides developers with the tools they need to integrate TEX to XLSB conversion feature in their Java applications. It is easy to use and provides a wide range of features that make it an ideal choice for developers.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

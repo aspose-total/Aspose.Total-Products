@@ -13,7 +13,16 @@ otherformats: EXCEL SXC XLTX XLAM XLSM CSV TSV MD XLTM XLT XLSB ODS
 {{< blocks/products/pf/feature-page-header h1="Export XSLFO to TXT via Java" h2="Convert XSLFO file to TXT by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate XSLFO to TXT conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render XSLFO to XLSX. In the second step, you can convert XLSX to TXT by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate XSLFO to TXT conversion feature in their Java applications. This suite includes Aspose.PDF for Java and Aspose.Cells for Java, which are two powerful APIs that can be used to render XSLFO to XLSX and convert XLSX to TXT respectively. 
+
+The process of converting XSLFO to TXT involves two steps. In the first step, Aspose.PDF for Java can be used to render XSLFO to XLSX. This API provides a wide range of features that can be used to create, manipulate, and convert PDF documents. It also supports XSLFO to XLSX conversion, which enables developers to convert XSLFO documents to XLSX format. 
+
+In the second step, Aspose.Cells for Java can be used to convert XLSX to TXT. This API provides a comprehensive set of features that can be used to create, manipulate, and convert spreadsheets. It also supports XLSX to TXT conversion, which enables developers to convert XLSX documents to TXT format. 
+
+By using Aspose.Total for Java, developers can easily integrate XSLFO to TXT conversion feature in their Java applications. This suite provides a comprehensive set of features that can be used to render XSLFO to XLSX and convert XLSX to TXT. It also offers a wide range of features that can be used to create, manipulate, and convert PDF and spreadsheet documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

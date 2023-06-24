@@ -13,7 +13,16 @@ otherformats: DOTM DOT ODT DOCM WORDML MARKDOWN PCL MHTML PS FLATOPC XAMLFLOW DO
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to RTF via Java" h2="On Premise Java API to Render TEX to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to RTF by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting a TEX file to RTF is a simple two-step process that can be accomplished with the help of Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features for document processing. 
+
+The first step in the conversion process is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, edit, and convert PDF documents. It also provides the ability to render TEX files to DOC format. 
+
+Once the TEX file has been rendered to DOC, the second step is to convert the DOC file to RTF using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and convert a wide range of document formats. It provides the ability to convert DOC files to RTF format. 
+
+By using Aspose.Total for Java, developers can easily convert TEX files to RTF in a few simple steps. The first step is to render the TEX file to DOC using Aspose.PDF for Java, and the second step is to convert the DOC file to RTF using Aspose.Words for Java. With the help of these powerful APIs, developers can quickly and easily convert TEX files to RTF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

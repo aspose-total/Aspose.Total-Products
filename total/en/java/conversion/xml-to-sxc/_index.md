@@ -13,7 +13,16 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD CSV EXCEL XLTX TSV DIF
 {{< blocks/products/pf/feature-page-header h1="Export XML to SXC via Java" h2="Convert XML file to SXC by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate XML to SXC conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render XML to XLSX. In the second step, you can convert XLSX to SXC by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate XML to SXC conversion feature in their Java applications. It consists of two components, Aspose.PDF for Java and Aspose.Cells for Java, which can be used to render XML to XLSX and convert XLSX to SXC respectively. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render XML to XLSX. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of formats including PDF, XPS, TIFF, HTML, PCL, and many more. It also provides features such as text extraction, document signing, and digital signature verification. 
+
+Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to convert XLSX to SXC. It provides a wide range of features such as creating, editing, and manipulating spreadsheets. It also supports a variety of formats including XLSX, XLS, CSV, ODS, and many more. It also provides features such as data validation, formula calculation, and charting. 
+
+By using Aspose.Total for Java, developers can easily integrate XML to SXC conversion feature in their Java applications. It provides a two-step process to render XML to XLSX and convert XLSX to SXC. It also provides a wide range of features to create, edit, and manipulate PDF documents and spreadsheets. It also supports a variety of formats to ensure that developers can easily convert documents and spreadsheets to the desired format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

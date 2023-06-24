@@ -13,7 +13,16 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM X
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to DIF via Java or Online App" h2="On Premise Java API to export PPSX to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPSX file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPSX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert PPSX files to DIF. The conversion process is simple and can be completed in two steps. 
+
+The first step is to export the PPSX file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that allows developers to create, read, write, modify, and convert PowerPoint presentations. It supports a wide range of features, including the ability to export presentations to HTML. 
+
+The second step is to convert the HTML file to DIF using Aspose.Cells for Java. Aspose.Cells for Java is a powerful API that enables developers to create, read, write, modify, and convert spreadsheets. It supports a wide range of features, including the ability to convert HTML to DIF. 
+
+By using Aspose.Total for Java, developers can easily convert PPSX files to DIF in two simple steps. Aspose.Slides for Java can be used to export the PPSX file to HTML, and Aspose.Cells for Java can be used to convert the HTML file to DIF. This makes it easy for developers to quickly and easily convert PPSX files to DIF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

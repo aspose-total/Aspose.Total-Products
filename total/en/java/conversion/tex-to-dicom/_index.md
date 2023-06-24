@@ -13,7 +13,14 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 APNG TGA SVGZ PSD
 {{< blocks/products/pf/feature-page-header h1="Convert TEX to DICOM via Java" h2="Export TEX file to DICOM within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert tex file to DICOM image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DICOM. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a tex file to a DICOM image in Java can be done in two simple steps. The first step is to use the Aspose.PDF for Java API, which is part of the Aspose.Total for Java package, to export the TEX file to a JPEG image. This API provides a wide range of features for manipulating PDF documents, including the ability to convert PDFs to other image formats. 
+
+The second step is to use the Aspose.Imaging for Java API to render the JPEG image to a DICOM image. This API provides a comprehensive set of image processing features, including the ability to convert images to and from various formats, such as DICOM. It also provides a range of image manipulation features, such as resizing, cropping, and rotating images. 
+
+Using these two APIs, you can easily convert a tex file to a DICOM image in Java. The Aspose.PDF for Java API provides the ability to export the TEX file to a JPEG image, while the Aspose.Imaging for Java API provides the ability to render the JPEG image to a DICOM image. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of features for manipulating PDF documents and images.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

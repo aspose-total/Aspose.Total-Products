@@ -13,7 +13,16 @@ otherformats: DOCM DOCX OTT WORD DOTX RTF DOT FLATOPC DOC DOTM ODT WORDML
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to TEXT via Java or Online App" h2="On Premise Java API for PowerPoint PPSX to TEXT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSX to Word TEXT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to TEXT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word TEXT. This process involves two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It can be used to convert PPSX to HTML. This API is feature-rich and provides a wide range of features such as creating, editing, and converting presentations. It also supports a variety of formats such as PPT, PPTX, PPS, PPSX, and ODP. 
+
+Aspose.Words for Java is a feature-rich Word Processing API that can be used to convert HTML to TEXT. It provides a wide range of features such as creating, editing, and converting documents. It also supports a variety of formats such as DOC, DOCX, RTF, HTML, and ODT. 
+
+By using Aspose.Total for Java, developers can easily automate the batch conversion process of PowerPoint PPSX to Word TEXT. This process involves two steps, first converting PPSX to HTML using Aspose.Slides for Java and then converting the HTML to TEXT using Aspose.Words for Java. This process is quick and efficient and can be used to automate the conversion of large numbers of documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

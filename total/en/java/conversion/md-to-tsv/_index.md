@@ -13,7 +13,16 @@ otherformats: XLT XLSB EXCEL XLAM TXT CSV SXC FODS XLSM DIF ODS XLTX
 {{< blocks/products/pf/feature-page-header h1="Export MD to TSV via Java" h2="Convert MD file to TSV by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MD to TSV conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MD to XLSX. In the second step, you can convert XLSX to TSV by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate MD to TSV conversion feature in their Java applications. This suite includes Aspose.PDF for Java and Aspose.Cells for Java, which are two powerful APIs that can be used to render MD to XLSX and convert XLSX to TSV respectively. 
+
+The process of converting MD to TSV involves two steps. In the first step, Aspose.PDF for Java can be used to render MD to XLSX. This API provides a wide range of features that can be used to create, manipulate, and convert PDF documents. It also supports a variety of other file formats such as HTML, XPS, PCL, and SVG. 
+
+In the second step, Aspose.Cells for Java can be used to convert XLSX to TSV. This Spreadsheet Programming API provides a comprehensive set of features that can be used to create, manipulate, and convert spreadsheets. It supports a variety of file formats such as XLS, XLSX, XLSB, CSV, HTML, ODS, and PDF. 
+
+By using Aspose.Total for Java, developers can easily integrate MD to TSV conversion feature in their Java applications. This suite provides a comprehensive set of features that can be used to create, manipulate, and convert documents and spreadsheets. It also supports a variety of other file formats such as HTML, XPS, PCL, SVG, CSV, HTML, ODS, and PDF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: DIF EXCEL XLSX XLS XLSM MARKDOWN XLAM MHTML XLTX TSV SXC ODS XLT C
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to FODS via Java or Online App" h2="On Premise Java API to export PPTX to FODS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTX file to FODS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to FODS.
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to create, manipulate, convert, and render documents in various formats. It includes Aspose.Slides for Java and Aspose.Cells for Java, which can be used to convert PPTX files to FODS.
+
+The process of converting PPTX to FODS involves two steps. First, you need to export the PPTX file to HTML using Aspose.Slides for Java. This component provides a wide range of features for creating, manipulating, and converting presentations. It supports a variety of formats, including PPTX, PPT, ODP, and HTML.
+
+Once the PPTX file is converted to HTML, you can use Aspose.Cells for Java to convert the HTML file to FODS. This component provides a comprehensive set of features for creating, manipulating, and converting spreadsheets. It supports a variety of formats, including XLSX, XLS, CSV, HTML, and FODS.
+
+By using Aspose.Total for Java, you can easily convert PPTX to FODS in two steps. First, you need to export the PPTX file to HTML using Aspose.Slides for Java. Then, you can use Aspose.Cells for Java to convert the HTML file to FODS. This process is simple and efficient, and it can be completed in a matter of minutes.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

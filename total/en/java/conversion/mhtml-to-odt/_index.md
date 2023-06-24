@@ -13,7 +13,16 @@ otherformats: XAMLFLOW OTT DOCM FLATOPC DOTX PCL MARKDOWN RTF PS DOT WORDML DOTM
 {{< blocks/products/pf/feature-page-header h1="Transform MHTML to ODT via Java" h2="On Premise Java API to Render MHTML to ODT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MHTML to ODT by using two simple steps. First you need to render MHTML file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to ODT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting MHTML to ODT can be done in two easy steps with the help of Aspose.Total for Java. Aspose.Total for Java is a powerful suite of APIs that enables developers to create, manipulate, and convert documents in various formats. 
+
+The first step is to render the MHTML file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF processing API that enables developers to create, read, edit, and convert PDF documents. It also allows developers to render MHTML files to DOC format. 
+
+The second step is to convert the DOC file to ODT using Aspose.Words for Java. Aspose.Words for Java is a powerful document processing API that enables developers to create, read, edit, and convert documents in various formats. It also allows developers to convert DOC files to ODT format. 
+
+By using Aspose.Total for Java, developers can easily convert MHTML to ODT in two simple steps. Aspose.PDF for Java is used to render MHTML files to DOC format and Aspose.Words for Java is used to convert DOC files to ODT format. This makes it easy for developers to convert MHTML to ODT without any hassle.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

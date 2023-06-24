@@ -13,7 +13,16 @@ otherformats: CSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 {{< blocks/products/pf/feature-page-header h1="Export MHTML to TSV via Java" h2="Convert MHTML file to TSV by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to TSV conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to TSV by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate powerful file conversion features into their Java applications. With Aspose.Total for Java, you can easily convert MHTML to TSV in two simple steps. 
+
+The first step involves using Aspose.PDF for Java to render MHTML to XLSX. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents without any external dependencies. It provides a wide range of features such as PDF to HTML conversion, PDF to XLSX conversion, PDF to image conversion, and more. 
+
+The second step involves using Aspose.Cells for Java to convert XLSX to TSV. Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to create, edit, and manipulate spreadsheets without any external dependencies. It provides a wide range of features such as spreadsheet to HTML conversion, spreadsheet to image conversion, spreadsheet to PDF conversion, and more. 
+
+In conclusion, Aspose.Total for Java provides an easy and efficient way to convert MHTML to TSV in two simple steps. With Aspose.PDF for Java, you can render MHTML to XLSX and with Aspose.Cells for Java, you can convert XLSX to TSV. Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate powerful file conversion features into their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

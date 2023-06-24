@@ -13,7 +13,14 @@ otherformats: RTF PCL PS MARKDOWN MHTML WORDML XAMLFLOW OTT DOTX FLATOPC DOCM DO
 {{< blocks/products/pf/feature-page-header h1="Transform XPS to ODT via Java" h2="On Premise Java API to Render XPS to ODT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert XPS to ODT by using two simple steps. First you need to render XPS file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to ODT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting XPS to ODT is a simple two-step process. The first step is to render the XPS file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF Processing API that is part of the Aspose.Total for Java package. It allows you to easily convert XPS files to DOC format.
+
+The second step is to convert the DOC file to ODT using Aspose.Words for Java. Aspose.Words for Java is a powerful Document Processing API that is also part of the Aspose.Total for Java package. It allows you to quickly and easily convert DOC files to ODT format.
+
+By using Aspose.PDF for Java and Aspose.Words for Java, you can easily convert XPS to ODT in just two simple steps. Aspose.Total for Java is a comprehensive suite of APIs that provides a wide range of features and capabilities for working with documents. It is the perfect choice for developers who need to quickly and easily convert XPS to ODT.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

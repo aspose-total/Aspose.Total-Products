@@ -13,7 +13,14 @@ otherformats: SXC XLTX XLSM XLSX XLS EXCEL ODS FODS XLSB XLAM XLT CSV XLTM TSV
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to DIF via Java or Online App" h2="On Premise Java API to convert DOCX to DIF without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOCX to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOCX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of feature-rich APIs that can be used to manipulate and convert documents. It provides a simple two-step process to convert DOCX to DIF. The first step is to export the DOCX document to HTML using Aspose.Words for Java. Aspose.Words for Java is a powerful document manipulation and conversion API that enables you to convert DOCX to HTML with ease. It provides a wide range of features such as document manipulation, document conversion, document comparison, document protection, and more.
+
+Once the DOCX document is converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML to DIF. Aspose.Cells for Java is a powerful spreadsheet manipulation and conversion API that enables you to convert HTML to DIF with ease. It provides a wide range of features such as spreadsheet manipulation, spreadsheet conversion, spreadsheet comparison, spreadsheet protection, and more.
+
+Using Aspose.Total for Java, you can easily convert DOCX to DIF in a few simple steps. It provides a comprehensive suite of feature-rich APIs that can be used to manipulate and convert documents. With Aspose.Words for Java, you can export DOCX to HTML and with Aspose.Cells for Java, you can convert HTML to DIF. This makes it easy to convert DOCX to DIF with Aspose.Total for Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

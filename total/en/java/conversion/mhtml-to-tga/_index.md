@@ -13,7 +13,14 @@ otherformats: PSD  APNG EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MHTML to TGA via Java" h2="Export MHTML file to TGA within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert mhtml file to TGA image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to TGA. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting an MHTML file to a TGA image in Java is a straightforward process that can be accomplished in two simple steps. The first step is to use the Aspose.PDF for Java API to export the MHTML file to a JPEG image. This API is part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for manipulating and converting various file formats. 
+
+Once the MHTML file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a TGA image. This API provides a wide range of features for manipulating images, including the ability to convert images from one format to another. 
+
+By following these two steps, you can easily convert an MHTML file to a TGA image in Java. The Aspose.Total for Java package provides a comprehensive set of APIs for manipulating and converting various file formats, making it an ideal choice for this task. With the help of the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can quickly and easily convert an MHTML file to a TGA image in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

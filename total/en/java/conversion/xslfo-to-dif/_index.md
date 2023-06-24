@@ -13,7 +13,18 @@ otherformats: TSV XLAM XLSM CSV XLTX EXCEL XLTM MD SXC FODS ODS TXT
 {{< blocks/products/pf/feature-page-header h1="Export XSLFO to DIF via Java" h2="Convert XSLFO file to DIF by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate XSLFO to DIF conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render XSLFO to XLSX. In the second step, you can convert XLSX to DIF by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate XSLFO to DIF conversion feature in their Java applications. This two-step process is made possible by using Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render XSLFO to XLSX. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of formats such as PDF, XPS, TIFF, HTML, and more. 
+
+Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to convert XLSX to DIF. It provides a wide range of features such as creating, editing, converting, and manipulating spreadsheets. It also supports a variety of formats such as XLSX, XLS, CSV, ODS, and more. 
+
+By using Aspose.Total for Java, developers can easily integrate XSLFO to DIF conversion feature in their Java applications. It provides a comprehensive suite of components that enables developers to render XSLFO to XLSX and then convert XLSX to DIF. This two-step process is made possible by using Aspose.PDF for Java and Aspose.Cells for Java. Aspose.PDF for Java provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. Aspose.Cells for Java provides a wide range of features such as creating, editing, converting, and manipulating spreadsheets. 
+
+Overall, Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate XSLFO to DIF conversion feature in their Java applications. It provides a two-step process that is made possible by using Aspose.PDF for Java and Aspose.Cells for Java. Aspose.PDF for Java provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. Aspose.Cells for Java provides a wide range of features such as creating, editing, converting, and manipulating spreadsheets.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

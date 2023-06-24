@@ -13,7 +13,16 @@ otherformats: DOCX ODT WORDML FLATOPC OTT DOT DOTM DOCM RTF DOC TEXT WORD
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to DOTX via Java or Online App" h2="On Premise Java API for PowerPoint PPSX to DOTX conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSX to Word DOTX. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOTX. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word DOTX. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It is used to convert PPSX to HTML. This API provides a wide range of features for creating, editing, and converting presentations. It also supports a variety of file formats, including PPT, PPTX, PPS, PPSX, POT, POTX, ODP, and OTP. 
+
+Aspose.Words for Java is a feature-rich Word Processing API that is used to convert HTML to DOTX. This API provides a comprehensive set of features for creating, editing, and converting documents. It supports a variety of file formats, including DOC, DOCX, DOT, DOTX, RTF, ODT, and HTML. It also provides a range of features for manipulating document elements, such as text, images, tables, and hyperlinks. 
+
+By using Aspose.Total for Java, developers can easily automate the batch conversion process of PowerPoint PPSX to Word DOTX. This comprehensive suite of file format automation libraries provides a wide range of features for creating, editing, and converting documents. It is an ideal solution for automating the conversion of documents from one format to another.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

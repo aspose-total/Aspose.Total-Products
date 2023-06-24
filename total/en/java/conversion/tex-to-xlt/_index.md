@@ -13,7 +13,14 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM CSV EXCEL MD XLSM DIF
 {{< blocks/products/pf/feature-page-header h1="Export TEX to XLT via Java" h2="Convert TEX file to XLT by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to XLT conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to XLT by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate TEX to XLT conversion feature in their Java applications. This suite of APIs consists of Aspose.PDF for Java and Aspose.Cells for Java. By using Aspose.PDF for Java, developers can render TEX to XLSX in a two-step process. The first step is to load the TEX file into the Aspose.PDF for Java API. Once the file is loaded, the API can be used to render the TEX file to XLSX.
+
+In the second step, developers can use the Spreadsheet Programming API Aspose.Cells for Java to convert the XLSX file to XLT. This API provides a wide range of features that can be used to manipulate the XLSX file. For example, developers can use the API to add, delete, and modify worksheets, cells, and formulas. They can also use the API to apply formatting to the XLSX file, such as setting font size, font color, and background color.
+
+By using Aspose.Total for Java, developers can quickly and easily integrate TEX to XLT conversion feature in their Java applications. The suite of APIs provides a comprehensive set of features that can be used to render TEX to XLSX and then convert the XLSX to XLT. This makes it easy for developers to quickly and easily add TEX to XLT conversion feature to their applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

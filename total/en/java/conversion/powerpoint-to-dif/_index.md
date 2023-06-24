@@ -13,7 +13,16 @@ otherformats: XLS FODS XLSM XLTX SXC XLSX EXCEL TSV XLTM XLSB XLAM CSV MARKDOWN 
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to DIF via Java or Online App" h2="On Premise Java API to export POWERPOINT to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert POWERPOINT file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POWERPOINT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert POWERPOINT files to DIF. This can be achieved in two simple steps. 
+
+The first step is to export the POWERPOINT file to HTML using Aspose.Slides for Java. This API provides a wide range of features for manipulating and converting POWERPOINT files. It allows developers to create, modify, and convert POWERPOINT presentations to other popular formats such as HTML, PDF, and XPS. It also supports a variety of features such as text formatting, slide transitions, and animation. 
+
+The second step is to convert the HTML file to DIF using Aspose.Cells for Java. This API provides a comprehensive set of features for working with spreadsheets. It allows developers to create, modify, and convert spreadsheets to other popular formats such as HTML, PDF, and XLSX. It also supports a variety of features such as cell formatting, formulas, and charts. 
+
+By using Aspose.Total for Java, developers can easily convert POWERPOINT files to DIF in two simple steps. The first step is to export the POWERPOINT file to HTML using Aspose.Slides for Java. The second step is to convert the HTML file to DIF using Aspose.Cells for Java. This API provides a comprehensive set of features for working with spreadsheets and allows developers to create, modify, and convert spreadsheets to other popular formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

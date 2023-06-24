@@ -13,7 +13,16 @@ otherformats: MARKDOWN XLT CSV EXCEL MHTML XLSM FODS XLTM SXC XLSB XLS DIF XLTX 
 {{< blocks/products/pf/feature-page-header h1="Convert POTX to TSV via Java or Online App" h2="On Premise Java API to export POTX to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert POTX file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to create, manipulate, convert, and render a wide variety of file formats. It includes components for working with Microsoft Office documents, PDFs, images, and more. With Aspose.Total for Java, you can easily convert POTX files to TSV in two simple steps. 
+
+The first step is to export the POTX file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful library that enables developers to create, manipulate, and convert presentations in the POTX format. It supports a wide range of features, including the ability to export presentations to HTML. 
+
+The second step is to convert the HTML file to TSV using Aspose.Cells for Java. Aspose.Cells for Java is a powerful library that enables developers to create, manipulate, and convert spreadsheets in a variety of formats, including HTML. It supports a wide range of features, including the ability to convert HTML to TSV. 
+
+In summary, Aspose.Total for Java makes it easy to convert POTX files to TSV in two simple steps. First, you can export the POTX file to HTML using Aspose.Slides for Java. Then, you can convert the HTML file to TSV using Aspose.Cells for Java. With Aspose.Total for Java, you can quickly and easily convert POTX files to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

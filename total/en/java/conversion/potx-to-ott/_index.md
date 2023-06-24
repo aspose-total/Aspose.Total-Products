@@ -13,7 +13,16 @@ otherformats: FLATOPC RTF DOTX ODT WORD DOC DOT WORDML DOTM TEXT DOCX DOCM
 {{< blocks/products/pf/feature-page-header h1="Convert POTX to OTT via Java or Online App" h2="On Premise Java API for PowerPoint POTX to OTT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint POTX to Word OTT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert POTX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to OTT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint POTX to Word OTT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert POTX to HTML with ease. This API is feature-rich and provides a wide range of features such as creating, editing, and converting presentations. It also supports a variety of file formats such as PPT, PPTX, PPS, PPSX, POT, POTX, ODP, OTP, and more. 
+
+Aspose.Words for Java is a feature-rich Word Processing API that enables developers to convert HTML to OTT. This API provides a wide range of features such as creating, editing, and converting documents. It also supports a variety of file formats such as DOC, DOCX, ODT, RTF, HTML, and more. It also provides features such as document comparison, mail merge, and document protection. 
+
+By using Aspose.Total for Java, developers can easily automate the batch conversion process of PowerPoint POTX to Word OTT. This comprehensive suite of file format automation libraries provides developers with the tools they need to quickly and easily convert documents. With its powerful APIs, developers can create, edit, and convert documents with ease.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

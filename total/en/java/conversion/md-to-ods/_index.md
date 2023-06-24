@@ -13,7 +13,16 @@ otherformats: TXT XLT TSV CSV XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 {{< blocks/products/pf/feature-page-header h1="Export MD to ODS via Java" h2="Convert MD file to ODS by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MD to ODS conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MD to XLSX. In the second step, you can convert XLSX to ODS by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate MD to ODS conversion feature in their Java applications. This suite includes Aspose.PDF for Java and Aspose.Cells for Java, which are two powerful APIs that can be used to render MD to XLSX and convert XLSX to ODS respectively. 
+
+The process of converting MD to ODS involves two steps. In the first step, Aspose.PDF for Java can be used to render MD to XLSX. This API provides a wide range of features that enable developers to create, manipulate, and convert PDF documents in their Java applications. It also provides the ability to render MD to XLSX, which is a format that is supported by Aspose.Cells for Java. 
+
+In the second step, Aspose.Cells for Java can be used to convert XLSX to ODS. This Spreadsheet Programming API provides a comprehensive set of features that enable developers to create, manipulate, and convert spreadsheets in their Java applications. It also provides the ability to convert XLSX to ODS, which is a format that is supported by Aspose.Total for Java. 
+
+By using Aspose.Total for Java, developers can easily integrate MD to ODS conversion feature in their Java applications. This suite of components provides a two-step process that enables developers to render MD to XLSX and convert XLSX to ODS. Aspose.PDF for Java and Aspose.Cells for Java are two powerful APIs that can be used to achieve this conversion.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

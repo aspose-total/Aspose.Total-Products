@@ -13,7 +13,16 @@ otherformats: XLS EXCEL MHTML XLAM ODS XLTM FODS DIF CSV XLT MARKDOWN XLSX SXC X
 {{< blocks/products/pf/feature-page-header h1="Convert POWERPOINT to TSV via Java or Online App" h2="On Premise Java API to export POWERPOINT to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert POWERPOINT file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export POWERPOINT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Converting a POWERPOINT file to TSV can be done quickly and easily with the help of Aspose.Total for Java. Aspose.Total for Java is a suite of APIs that provide developers with the tools they need to create, manipulate, and convert a variety of file formats. With Aspose.Total for Java, you can convert a POWERPOINT file to TSV in two simple steps. 
+
+The first step is to export the POWERPOINT file to HTML using Aspose.Slides for Java. Aspose.Slides for Java is a powerful API that enables developers to create, manipulate, and convert presentations in a variety of formats. It provides a wide range of features, including the ability to export presentations to HTML. 
+
+The second step is to convert the HTML file to TSV using Aspose.Cells for Java. Aspose.Cells for Java is an API that enables developers to create, manipulate, and convert spreadsheets in a variety of formats. It provides a wide range of features, including the ability to convert HTML to TSV. 
+
+By using Aspose.Total for Java, you can quickly and easily convert a POWERPOINT file to TSV in two simple steps. First, you can export the POWERPOINT file to HTML using Aspose.Slides for Java. Then, you can convert the HTML file to TSV using Aspose.Cells for Java. With Aspose.Total for Java, you can easily convert POWERPOINT to TSV in no time.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

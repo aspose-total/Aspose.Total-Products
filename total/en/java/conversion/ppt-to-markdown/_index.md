@@ -13,7 +13,16 @@ otherformats: DIF XLT FODS ODS XLS EXCEL TSV XLAM XLSB XLSM MHTML XLSX SXC XLTX 
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to MARKDOWN via Java or Online App" h2="On Premise Java API to export PPT to MARKDOWN without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPT file to MARKDOWN via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to MARKDOWN.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert PPT files to MARKDOWN. This can be done in two simple steps. 
+
+The first step involves using Aspose.Slides for Java to export the PPT file to HTML. Aspose.Slides for Java is a powerful API that enables developers to create, read, modify, and convert presentations in various formats. It supports a wide range of features, such as creating presentations from scratch, manipulating existing presentations, and converting presentations to other formats. 
+
+The second step involves using Aspose.Cells for Java to convert the HTML file to MARKDOWN. Aspose.Cells for Java is a powerful API that enables developers to create, read, modify, and convert spreadsheets in various formats. It supports a wide range of features, such as creating spreadsheets from scratch, manipulating existing spreadsheets, and converting spreadsheets to other formats. 
+
+By using Aspose.Total for Java, developers can easily convert PPT files to MARKDOWN in two simple steps. The first step involves using Aspose.Slides for Java to export the PPT file to HTML, and the second step involves using Aspose.Cells for Java to convert the HTML file to MARKDOWN. Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert PPT files to MARKDOWN.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

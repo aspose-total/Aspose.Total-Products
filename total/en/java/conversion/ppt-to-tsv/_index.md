@@ -13,7 +13,14 @@ otherformats: DIF XLS CSV XLTX XLAM SXC EXCEL XLSX XLSB XLTM ODS XLSM FODS MHTML
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to TSV via Java or Online App" h2="On Premise Java API to export PPT to TSV without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPT file to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert PPT files to TSV in two simple steps. The first step involves using Aspose.Slides for Java to export the PPT file to HTML. Aspose.Slides for Java is a powerful API that enables developers to create, edit, and convert presentations in various formats. It supports a wide range of features such as creating presentations from scratch, adding text, images, and shapes, and converting presentations to other formats.
+
+The second step involves using Aspose.Cells for Java to convert the HTML file to TSV. Aspose.Cells for Java is a powerful API that enables developers to create, edit, and convert spreadsheets in various formats. It supports a wide range of features such as creating spreadsheets from scratch, adding formulas, formatting cells, and converting spreadsheets to other formats.
+
+By using Aspose.Total for Java, developers can easily convert PPT files to TSV in two simple steps. The first step involves using Aspose.Slides for Java to export the PPT file to HTML. The second step involves using Aspose.Cells for Java to convert the HTML file to TSV. Aspose.Total for Java is a comprehensive suite of APIs that can be used to convert PPT files to TSV quickly and easily.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

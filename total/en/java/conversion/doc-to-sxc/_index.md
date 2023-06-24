@@ -13,7 +13,16 @@ otherformats: XLS CSV TSV XLT XLAM DIF EXCEL XLTX XLTM ODS FODS XLSX XLSB XLSM
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to SXC via Java or Online App" h2="On Premise Java API to convert DOC to SXC without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOC to SXC via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to SXC.
+
+
+Using Aspose.Total for Java, converting a DOC file to SXC is a straightforward two-step process. Aspose.Total for Java is a comprehensive suite of feature-rich document manipulation and conversion APIs that enable developers to easily create, edit, and convert documents. 
+
+The first step in the process is to use Aspose.Words for Java to export the DOC file to HTML. Aspose.Words for Java is a powerful API that enables developers to create, edit, and convert a wide range of document formats, including DOC, DOCX, HTML, and PDF. It also provides a range of features for manipulating documents, such as inserting, deleting, and replacing text, images, and other elements. 
+
+The second step is to use Aspose.Cells for Java to convert the HTML file to SXC. Aspose.Cells for Java is a powerful API that enables developers to create, edit, and convert a wide range of spreadsheet formats, including SXC, XLS, XLSX, and PDF. It also provides a range of features for manipulating spreadsheets, such as inserting, deleting, and replacing cells, rows, and columns. 
+
+By using Aspose.Total for Java, developers can easily convert DOC files to SXC in a few simple steps. Aspose.Words for Java is used to export the DOC file to HTML, and Aspose.Cells for Java is used to convert the HTML file to SXC. Aspose.Total for Java provides a comprehensive suite of feature-rich document manipulation and conversion APIs that enable developers to easily create, edit, and convert documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: SXC XLTM FODS EXCEL CSV ODS XLAM TXT XLTX XLT DIF XLSB
 {{< blocks/products/pf/feature-page-header h1="Export TEX to TSV via Java" h2="Convert TEX file to TSV by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to TSV conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to TSV by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate TEX to TSV conversion feature in their Java applications. This suite includes Aspose.PDF for Java and Aspose.Cells for Java, which are two of the most popular APIs for document manipulation and spreadsheet programming.
+
+Using Aspose.PDF for Java, developers can render TEX to XLSX in a single step. This API provides a wide range of features for manipulating PDF documents, including the ability to convert TEX to XLSX. It also supports a variety of other formats, such as DOCX, HTML, and TXT.
+
+Once the TEX document has been converted to XLSX, developers can use Aspose.Cells for Java to convert it to TSV. This API provides a comprehensive set of features for working with spreadsheets, including the ability to convert XLSX to TSV. It also supports a variety of other formats, such as CSV, HTML, and PDF.
+
+By using Aspose.Total for Java, developers can easily integrate TEX to TSV conversion feature in their Java applications. This suite provides a comprehensive set of features for manipulating documents and spreadsheets, making it easy to convert TEX to TSV in two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: WORDML MARKDOWN DOTM DOT ODT FLATOPC OTT XAMLFLOW DOTX PCL PS RTF
 {{< blocks/products/pf/feature-page-header h1="Transform TEX to MHTML via Java" h2="On Premise Java API to Render TEX to MHTML without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert TEX to MHTML by using two simple steps. First you need to render TEX file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to MHTML. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting TEX to MHTML is a simple two-step process that can be accomplished with the help of Aspose.Total for Java. Aspose.Total for Java is a comprehensive suite of APIs that provides powerful document processing capabilities. 
+
+The first step in the conversion process is to render the TEX file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, and convert PDF documents. It also provides the ability to render TEX files to DOC format. 
+
+Once the TEX file has been rendered to DOC, the second step is to use Aspose.Words for Java to convert the DOC file to MHTML. Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, and convert a wide variety of document formats. It also provides the ability to convert DOC files to MHTML. 
+
+By using Aspose.Total for Java, developers can easily convert TEX files to MHTML in just two simple steps. Aspose.PDF for Java is used to render the TEX file to DOC, and Aspose.Words for Java is used to convert the DOC file to MHTML. This makes it easy for developers to quickly and easily convert TEX files to MHTML.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

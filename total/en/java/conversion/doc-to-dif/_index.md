@@ -13,7 +13,16 @@ otherformats: EXCEL XLAM XLT XLTX XLTM FODS XLSX SXC XLSB CSV XLSM XLS ODS TSV
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to DIF via Java or Online App" h2="On Premise Java API to convert DOC to DIF without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOC to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Using Aspose.Total for Java, converting a DOC file to DIF is a straightforward two-step process. The first step involves using the feature-rich document manipulation and conversion API, Aspose.Words for Java, to export the DOC file to HTML. The second step involves using Aspose.Cells for Java to convert the HTML file to DIF.
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to create, manipulate, and convert a wide variety of document formats. It includes Aspose.Words for Java, which is a powerful API for creating, editing, and converting documents. It supports a wide range of document formats, including DOC, DOCX, HTML, and PDF. It also provides a range of features for manipulating documents, such as inserting and deleting text, images, and tables.
+
+Aspose.Cells for Java is a powerful API for creating, editing, and converting spreadsheets. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, and DIF. It also provides a range of features for manipulating spreadsheets, such as inserting and deleting cells, formatting cells, and creating charts.
+
+By using Aspose.Total for Java, you can easily convert a DOC file to DIF in just two steps. First, you can use Aspose.Words for Java to export the DOC file to HTML. Then, you can use Aspose.Cells for Java to convert the HTML file to DIF. This process is quick and easy, and it ensures that the resulting DIF file is of the highest quality.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

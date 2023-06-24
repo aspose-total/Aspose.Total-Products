@@ -13,7 +13,16 @@ otherformats: EMZ APNG SVGZ IMAGE WMF  JPEG2000 WMZ DXF PSD DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert CGM to TGA via Java" h2="Export CGM file to TGA within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert cgm file to TGA image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export CGM to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to TGA. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a CGM file to a TGA image in Java can be done in two simple steps. Aspose.PDF for Java, a part of the Aspose.Total for Java package, can be used to export the CGM file to a JPEG image. Aspose.Imaging for Java, another part of the Aspose.Total for Java package, can then be used to render the JPEG image to a TGA image. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to create, edit, convert, and manipulate PDF documents without using Adobe Acrobat. It supports a wide range of features, including the ability to export CGM files to JPEG images. It also supports a wide range of other features, such as creating and manipulating PDF documents, converting PDF documents to other formats, and extracting text and images from PDF documents. 
+
+Aspose.Imaging for Java is a powerful image processing API that enables developers to create, edit, and manipulate images without using any external image editing software. It supports a wide range of features, including the ability to render JPEG images to TGA images. It also supports a wide range of other features, such as creating and manipulating images, converting images to other formats, and extracting text and images from images. 
+
+By using Aspose.PDF for Java and Aspose.Imaging for Java, developers can easily convert CGM files to TGA images in Java. Both APIs come under the Aspose.Total for Java package, which provides developers with a comprehensive set of APIs for manipulating a wide range of file formats. With Aspose.Total for Java, developers can easily create, edit, convert, and manipulate a wide range of file formats, including PDF, CGM, JPEG, and TGA.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

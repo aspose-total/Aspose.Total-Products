@@ -13,7 +13,16 @@ otherformats: TSV FODS SXC XLT CSV EXCEL ODS MD DIF XLTX XLAM XLSM
 {{< blocks/products/pf/feature-page-header h1="Export XSLFO to XLTM via Java" h2="Convert XSLFO file to XLTM by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate XSLFO to XLTM conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render XSLFO to XLSX. In the second step, you can convert XLSX to XLTM by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate XSLFO to XLTM conversion feature in their Java applications. This two-step process is made possible by using Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render XSLFO to XLSX. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports various file formats such as PDF, XPS, EPUB, HTML, and XSL-FO. 
+
+Aspose.Cells for Java is a powerful spreadsheet programming API that enables developers to convert XLSX to XLTM. It provides a wide range of features such as creating, editing, converting, and manipulating spreadsheets. It also supports various file formats such as XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, and ODS. 
+
+By using Aspose.Total for Java, developers can easily integrate XSLFO to XLTM conversion feature in their Java applications. This two-step process is made possible by using Aspose.PDF for Java and Aspose.Cells for Java. Aspose.PDF for Java enables developers to render XSLFO to XLSX and Aspose.Cells for Java enables developers to convert XLSX to XLTM. This makes it easy for developers to integrate XSLFO to XLTM conversion feature in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: OTT DOTM WORDML RTF DOC DOCX FLATOPC DOCM TEXT DOT WORD DOTX
 {{< blocks/products/pf/feature-page-header h1="Convert PPS to ODT via Java or Online App" h2="On Premise Java API for PowerPoint PPS to ODT conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPS to Word ODT. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPS to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to ODT. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPS to Word ODT. This two-step process involves using two APIs, Aspose.Slides for Java and Aspose.Words for Java.
+
+Aspose.Slides for Java is a powerful PowerPoint API for presentations manipulation and management. It can be used to convert PPS to HTML, which is the first step in the conversion process. Aspose.Slides for Java provides a wide range of features that make it easy to manipulate presentations, such as creating, editing, and converting presentations. It also supports a variety of formats, including PPT, PPTX, PPS, PPSX, and HTML.
+
+The second step in the conversion process is to use Aspose.Words for Java, a feature-rich Word Processing API. Aspose.Words for Java can be used to convert HTML to ODT, allowing developers to quickly and easily convert documents from one format to another. Aspose.Words for Java provides a wide range of features, such as creating, editing, and converting documents, as well as support for a variety of formats, including DOC, DOCX, ODT, and HTML.
+
+By using Aspose.Total for Java, developers can quickly and easily automate the batch conversion process of PowerPoint PPS to Word ODT. Aspose.Slides for Java and Aspose.Words for Java provide a wide range of features that make it easy to manipulate and convert documents, allowing developers to save time and effort.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: EMZ TGA WMF IMAGE WMZ APNG JPEG2000 DXF SVGZ PSD
 {{< blocks/products/pf/feature-page-header h1="Convert MHTML to DICOM via Java" h2="Export MHTML file to DICOM within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert mhtml file to DICOM image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export MHTML to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DICOM. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting an MHTML file to a DICOM image in Java is a simple two-step process. The first step is to use Aspose.PDF for Java to export the MHTML file to a JPEG image. Aspose.PDF for Java is part of the Aspose.Total for Java package, which is a suite of APIs for manipulating documents, images, and other file formats. 
+
+Once the MHTML file has been converted to a JPEG image, the second step is to use Aspose.Imaging for Java to render the JPEG image to a DICOM image. Aspose.Imaging for Java is an image processing API that provides a wide range of features for manipulating images, including the ability to convert images from one format to another. 
+
+To use Aspose.PDF for Java and Aspose.Imaging for Java, you will need to download and install the Aspose.Total for Java package. Once the package is installed, you can use the APIs to export the MHTML file to a JPEG image and then render the JPEG image to a DICOM image. 
+
+By following these two simple steps, you can easily convert an MHTML file to a DICOM image in Java. Aspose.Total for Java provides a comprehensive suite of APIs for manipulating documents, images, and other file formats, making it an ideal choice for converting MHTML files to DICOM images.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,10 @@ otherformats: XLAM ODS TSV XLT FODS CSV DIF XLTM XLS SXC XLSM XLSB EXCEL XLSX
 {{< blocks/products/pf/feature-page-header h1="Convert DOTX to XLSB via Java or Online App" h2="On Premise Java API to convert DOTX to XLSB without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOTX to XLSB via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOTX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSB.
+
+
+Converting DOTX to XLSB is a simple two-step process that can be accomplished with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides the necessary tools to convert DOTX to XLSB. The first step is to use Aspose.Words for Java to export the DOTX file to HTML. Aspose.Words for Java is a powerful document manipulation API that enables you to convert DOTX to HTML with ease. Once the DOTX file is converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML file to XLSB. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to convert HTML to XLSB with ease. With the help of Aspose.Total for Java, you can easily convert DOTX to XLSB in a few simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

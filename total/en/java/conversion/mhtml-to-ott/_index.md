@@ -13,7 +13,12 @@ otherformats: XAMLFLOW DOTX WORDML ODT DOTM RTF PS DOCM FLATOPC PCL MARKDOWN DOT
 {{< blocks/products/pf/feature-page-header h1="Transform MHTML to OTT via Java" h2="On Premise Java API to Render MHTML to OTT without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert MHTML to OTT by using two simple steps. First you need to render MHTML file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to OTT. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting MHTML to OTT is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a powerful suite of APIs that can be used to manipulate documents and images. The first step in the process is to render the MHTML file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF manipulation API that can be used to render MHTML files to DOC. After the MHTML file is rendered to DOC, the second step is to use Aspose.Words for Java to convert the DOC to OTT. Aspose.Words for Java is a powerful document processing API that can be used to convert DOC files to OTT.
+
+The process of converting MHTML to OTT is simple and straightforward. All you need to do is render the MHTML file to DOC using Aspose.PDF for Java and then use Aspose.Words for Java to convert the DOC to OTT. Aspose.Total for Java is a comprehensive suite of APIs that can be used to manipulate documents and images. It includes both Aspose.PDF for Java and Aspose.Words for Java, making it easy to convert MHTML to OTT. With Aspose.Total for Java, you can easily and quickly convert MHTML to OTT in just two simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

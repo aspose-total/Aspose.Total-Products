@@ -13,7 +13,16 @@ otherformats: CSV TXT XLTM MD FODS XLSM XLT DIF ODS EXCEL XLSB XLTX
 {{< blocks/products/pf/feature-page-header h1="Export TEX to SXC via Java" h2="Convert TEX file to SXC by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to SXC conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to SXC by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to integrate powerful file conversion features into their Java applications. It includes Aspose.PDF for Java and Aspose.Cells for Java, which can be used to convert TEX to SXC.
+
+The process of converting TEX to SXC involves two steps. Firstly, Aspose.PDF for Java can be used to render TEX to XLSX. This API provides a wide range of features that enable developers to create, edit, and manipulate PDF documents in Java applications. It also supports the conversion of TEX to XLSX, allowing developers to easily convert TEX documents to XLSX format.
+
+In the second step, Aspose.Cells for Java can be used to convert XLSX to SXC. This Spreadsheet Programming API provides a comprehensive set of features for working with spreadsheets in Java applications. It supports the conversion of XLSX to SXC, allowing developers to easily convert XLSX documents to SXC format.
+
+Overall, Aspose.Total for Java provides a comprehensive set of APIs that enable developers to integrate powerful file conversion features into their Java applications. It includes Aspose.PDF for Java and Aspose.Cells for Java, which can be used to convert TEX to SXC in two-step process. By using these APIs, developers can easily convert TEX documents to SXC format in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: ODT WORDML DOTM FLATOPC DOTX MARKDOWN MHTML OTT XAMLFLOW PS DOCM D
 {{< blocks/products/pf/feature-page-header h1="Transform PCL to RTF via Java" h2="On Premise Java API to Render PCL to RTF without using any third party application" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PCL to RTF by using two simple steps. First you need to render PCL file to DOC using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/). After that, by using powerful Document Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can convert DOC to RTF. Both APIs come under [Aspose.Total for Java](https://products.aspose.com/total/java/) package.
+
+
+Converting PCL to RTF is a simple two-step process that can be done using the powerful Document Processing API Aspose.Words for Java. Aspose.Words for Java is part of the Aspose.Total for Java package, which includes a range of APIs for working with documents.
+
+The first step is to render the PCL file to DOC using Aspose.PDF for Java. Aspose.PDF for Java is a powerful PDF manipulation API that can be used to convert PCL to DOC. It is easy to use and provides a range of features for working with PDF documents.
+
+Once the PCL file has been converted to DOC, the second step is to use Aspose.Words for Java to convert the DOC to RTF. Aspose.Words for Java is a powerful document processing API that can be used to convert documents from one format to another. It is easy to use and provides a range of features for working with documents.
+
+Using Aspose.Words for Java, you can easily convert PCL to RTF in just two simple steps. First, you need to render the PCL file to DOC using Aspose.PDF for Java. Then, you can use Aspose.Words for Java to convert the DOC to RTF. Both APIs are part of the Aspose.Total for Java package, which provides a range of APIs for working with documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

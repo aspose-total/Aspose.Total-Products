@@ -13,7 +13,14 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ APNG DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert TEX to WMF via Java" h2="Export TEX file to WMF within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert tex file to WMF image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export TEX to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to WMF. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a TeX file to a WMF image in Java can be done in two easy steps. The first step is to use the Aspose.PDF for Java API to export the TeX file to a JPEG image. Aspose.PDF for Java is part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for manipulating and converting various file formats. 
+
+Once the TeX file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java API to render the JPEG image to a WMF image. Aspose.Imaging for Java is an image processing API that provides a wide range of features for manipulating images, including the ability to convert images from one format to another. 
+
+By using the two APIs together, you can easily convert a TeX file to a WMF image in Java. The process is simple and straightforward, and the resulting WMF image will be of high quality. With the help of Aspose.Total for Java, you can quickly and easily convert TeX files to WMF images in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

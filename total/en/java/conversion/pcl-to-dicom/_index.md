@@ -13,7 +13,14 @@ otherformats: APNG DXF WMF TGA IMAGE WMZ PSD JPEG2000 EMZ SVGZ
 {{< blocks/products/pf/feature-page-header h1="Convert PCL to DICOM via Java" h2="Export PCL file to DICOM within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert pcl file to DICOM image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export PCL to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to DICOM. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a PCL file to a DICOM image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the PCL file to a JPEG image. This API is part of the Aspose.Total for Java package, which includes a range of APIs for working with different file formats. 
+
+Once the PCL file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java Image Processing API to render the JPEG image to a DICOM image. This API provides a range of features for manipulating images, including the ability to convert between different image formats. 
+
+Using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert a PCL file to a DICOM image in Java. The Aspose.Total for Java package provides a comprehensive set of APIs for working with different file formats, making it easy to convert between different file types. With just two simple steps, you can quickly and easily convert a PCL file to a DICOM image in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

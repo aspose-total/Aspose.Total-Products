@@ -13,7 +13,16 @@ otherformats: SXC TXT EXCEL XLT XLTX CSV MD XLAM XLSM ODS FODS DIF
 {{< blocks/products/pf/feature-page-header h1="Export MHTML to XLTM via Java" h2="Convert MHTML file to XLTM by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MHTML to XLTM conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MHTML to XLSX. In the second step, you can convert XLSX to XLTM by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate MHTML to XLTM conversion feature in their Java applications. This two-step process is made possible by using Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render MHTML to XLSX. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also allows developers to add annotations, bookmarks, and digital signatures to PDF documents. 
+
+Aspose.Cells for Java is a Spreadsheet Programming API that enables developers to convert XLSX to XLTM. It provides a wide range of features such as creating, editing, converting, and manipulating spreadsheets. It also allows developers to add formulas, charts, and images to spreadsheets. It also supports a variety of file formats such as XLSX, XLSM, XLTM, XLSB, and CSV. 
+
+By using Aspose.Total for Java, developers can easily integrate MHTML to XLTM conversion feature in their Java applications. It provides a comprehensive suite of components that enables developers to render MHTML to XLSX and convert XLSX to XLTM. It also provides a wide range of features such as creating, editing, converting, and manipulating PDF documents and spreadsheets.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

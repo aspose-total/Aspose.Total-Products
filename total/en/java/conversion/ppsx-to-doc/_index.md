@@ -13,7 +13,16 @@ otherformats: OTT TEXT WORD ODT RTF WORDML DOTM DOCX DOCM FLATOPC DOT DOTX
 {{< blocks/products/pf/feature-page-header h1="Convert PPSX to DOC via Java or Online App" h2="On Premise Java API for PowerPoint PPSX to DOC conversion within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Total for Java](https://products.aspose.com/total/java/) File Format Automation libraries empower Java developers to automate the batch conversion process of PowerPoint PPSX to Word DOC. Converting the document is a two-step process and involves using two APIs. We’ll use [Aspose.Slides for Java](https://products.aspose.com/slides/java/) that is a PowerPoint API for presentations manipulation and management to convert PPSX to HTML. After that by using feature-rich Word Processing API [Aspose.Words for Java](https://products.aspose.com/words/java/) we will convert the HTML to DOC. 
+
+
+Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable Java developers to automate the batch conversion process of PowerPoint PPSX to Word DOC. This process involves two APIs, Aspose.Slides for Java and Aspose.Words for Java. 
+
+Aspose.Slides for Java is a PowerPoint API for presentations manipulation and management. It allows developers to convert PPSX to HTML with ease. It is a feature-rich API that provides a wide range of features such as creating, editing, and converting presentations. It also supports a variety of file formats such as PPT, PPTX, PPS, PPSX, and more. 
+
+Aspose.Words for Java is a powerful Word Processing API that enables developers to convert HTML to DOC. It is a feature-rich API that provides a wide range of features such as creating, editing, and converting documents. It also supports a variety of file formats such as DOC, DOCX, RTF, HTML, and more. 
+
+By using Aspose.Total for Java, developers can easily automate the batch conversion process of PowerPoint PPSX to Word DOC. It is a reliable and efficient solution that provides a simple and straightforward way to convert documents. It also offers a wide range of features such as creating, editing, and converting documents. Aspose.Total for Java is a comprehensive suite of file format automation libraries that enable developers to automate the batch conversion process of PowerPoint PPSX to Word DOC with ease.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

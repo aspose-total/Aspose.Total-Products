@@ -13,7 +13,16 @@ otherformats: CSV SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 {{< blocks/products/pf/feature-page-header h1="Export MD to XLT via Java" h2="Convert MD file to XLT by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MD to XLT conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MD to XLSX. In the second step, you can convert XLSX to XLT by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate powerful document manipulation features into their Java applications. It includes Aspose.PDF for Java and Aspose.Cells for Java, which can be used to convert Markdown (MD) to Excel Template (XLT) in a two-step process. 
+
+The first step is to use Aspose.PDF for Java to render MD to XLSX. This component provides a wide range of features for manipulating PDF documents, including the ability to convert MD to XLSX. It supports a variety of formats, including HTML, XHTML, XML, and Markdown, and can be used to convert MD to XLSX with ease. 
+
+The second step is to use Aspose.Cells for Java to convert XLSX to XLT. This component provides a comprehensive set of APIs for manipulating spreadsheets, including the ability to convert XLSX to XLT. It supports a variety of formats, including XLSX, XLS, XLT, and CSV, and can be used to convert XLSX to XLT with ease. 
+
+Aspose.Total for Java makes it easy to integrate MD to XLT conversion into your Java applications. With its powerful components, you can quickly and easily convert MD to XLSX and then XLSX to XLT. This makes it easy to create Excel templates from Markdown documents, allowing you to quickly and easily create professional-looking documents.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

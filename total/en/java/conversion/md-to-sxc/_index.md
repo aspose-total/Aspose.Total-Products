@@ -13,7 +13,16 @@ otherformats: DIF EXCEL TXT XLTM CSV XLT XLTX XLSM XLSB FODS XLAM TSV
 {{< blocks/products/pf/feature-page-header h1="Export MD to SXC via Java" h2="Convert MD file to SXC by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate MD to SXC conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render MD to XLSX. In the second step, you can convert XLSX to SXC by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate MD to SXC conversion feature in their Java applications. It consists of two components, Aspose.PDF for Java and Aspose.Cells for Java, which can be used in a two-step process to achieve the desired result. 
+
+The first step involves using Aspose.PDF for Java to render MD to XLSX. This component provides a wide range of features for manipulating PDF documents, including the ability to convert MD to XLSX. It supports a variety of formats, including PDF, XPS, HTML, and SVG, and provides a comprehensive set of APIs for creating, editing, and converting documents. 
+
+The second step involves using Aspose.Cells for Java to convert XLSX to SXC. This component provides a comprehensive set of APIs for working with spreadsheets, including the ability to convert XLSX to SXC. It supports a variety of formats, including XLSX, XLS, CSV, and ODS, and provides a wide range of features for manipulating spreadsheets, such as formatting, data validation, and charting. 
+
+By using Aspose.Total for Java, developers can easily integrate MD to SXC conversion feature in their Java applications. It provides a comprehensive set of APIs for creating, editing, and converting documents and spreadsheets, and supports a variety of formats. With its two-step process, developers can quickly and easily convert MD to SXC in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

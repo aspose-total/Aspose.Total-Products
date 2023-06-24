@@ -13,7 +13,18 @@ otherformats: XLSB ODS XLAM XLTX XLS FODS XLSM EXCEL XLTM SXC CSV XLSX DIF XLT
 {{< blocks/products/pf/feature-page-header h1="Convert WORD to TSV via Java or Online App" h2="On Premise Java API to convert WORD to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting WORD to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export WORD to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Using Aspose.Total for Java, converting a WORD document to a TSV file is a straightforward two-step process. The first step is to use the feature-rich document manipulation and conversion API, Aspose.Words for Java, to export the WORD document to HTML. The second step is to use Aspose.Cells for Java to convert the HTML file to a TSV file.
+
+Aspose.Words for Java is a powerful document manipulation and conversion API that enables developers to create, edit, convert, and print documents without using Microsoft Word. It supports a wide range of document formats, including DOC, DOCX, ODT, RTF, HTML, and PDF. It also provides features such as document manipulation, mail merge, document comparison, and document protection.
+
+Aspose.Cells for Java is an Excel spreadsheet manipulation and conversion API that enables developers to create, edit, and convert spreadsheets without using Microsoft Excel. It supports a wide range of spreadsheet formats, including XLS, XLSX, CSV, HTML, and PDF. It also provides features such as spreadsheet manipulation, charting, data validation, and formula calculation.
+
+By combining the features of Aspose.Words for Java and Aspose.Cells for Java, developers can easily convert a WORD document to a TSV file. The first step is to use Aspose.Words for Java to export the WORD document to HTML. The second step is to use Aspose.Cells for Java to convert the HTML file to a TSV file. This two-step process is simple and efficient, and it can be completed in a matter of minutes.
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to create, edit, and convert documents and spreadsheets without using Microsoft Office. It provides a wide range of features and capabilities, and it is an ideal solution for developers who need to convert WORD documents to TSV files.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

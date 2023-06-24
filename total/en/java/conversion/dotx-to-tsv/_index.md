@@ -13,7 +13,16 @@ otherformats: SXC XLSX XLT XLAM XLSB ODS XLS XLTX EXCEL CSV DIF XLTM XLSM FODS
 {{< blocks/products/pf/feature-page-header h1="Convert DOTX to TSV via Java or Online App" h2="On Premise Java API to convert DOTX to TSV without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Converting DOTX to TSV via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOTX to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to TSV.
+
+
+Using [Aspose.Total for Java](https://products.aspose.com/total/java/), you can easily convert DOTX to TSV in two simple steps. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides a comprehensive set of tools for developers to work with various file formats. 
+
+The first step in the process is to export DOTX to HTML using [Aspose.Words for Java](https://products.aspose.com/words/java/). Aspose.Words for Java is a powerful document processing API that enables developers to create, edit, convert, and print documents without using Microsoft Word. It supports a wide range of file formats, including DOTX, and provides a comprehensive set of features for manipulating documents. 
+
+The second step is to convert the HTML to TSV using [Aspose.Cells for Java](https://products.aspose.com/cells/java/). Aspose.Cells for Java is a powerful spreadsheet processing API that enables developers to create, edit, and convert spreadsheets without using Microsoft Excel. It supports a wide range of file formats, including HTML, and provides a comprehensive set of features for manipulating spreadsheets. 
+
+By using Aspose.Total for Java, you can easily convert DOTX to TSV in two simple steps. Aspose.Words for Java is used to export DOTX to HTML, and Aspose.Cells for Java is used to convert the HTML to TSV. Aspose.Total for Java provides a comprehensive set of tools for developers to work with various file formats, making it an ideal choice for converting DOTX to TSV.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

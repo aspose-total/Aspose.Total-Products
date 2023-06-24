@@ -13,7 +13,16 @@ otherformats: TSV XLSB EXCEL MD TXT XLT FODS CSV XLSM ODS XLAM SXC
 {{< blocks/products/pf/feature-page-header h1="Export XPS to DIF via Java" h2="Convert XPS file to DIF by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate XPS to DIF conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render XPS to XLSX. In the second step, you can convert XLSX to DIF by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate XPS to DIF conversion feature in their Java applications. This suite includes Aspose.PDF for Java and Aspose.Cells for Java, which are two powerful APIs that can be used to render XPS to XLSX and convert XLSX to DIF respectively.
+
+The process of converting XPS to DIF involves two steps. Firstly, Aspose.PDF for Java can be used to render XPS to XLSX. This API provides a wide range of features that can be used to manipulate PDF documents. It can be used to convert XPS to XLSX with ease. It also supports a wide range of other file formats such as DOC, DOCX, HTML, TXT, and more.
+
+In the second step, Aspose.Cells for Java can be used to convert XLSX to DIF. This API provides a comprehensive set of features that can be used to manipulate spreadsheets. It can be used to convert XLSX to DIF with ease. It also supports a wide range of other file formats such as XLS, XLSM, XLSB, CSV, and more.
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to integrate XPS to DIF conversion feature in their Java applications. It provides a two-step process to convert XPS to DIF. Firstly, Aspose.PDF for Java can be used to render XPS to XLSX. In the second step, Aspose.Cells for Java can be used to convert XLSX to DIF. This suite of components provides a powerful and easy-to-use solution for developers to integrate XPS to DIF conversion feature in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

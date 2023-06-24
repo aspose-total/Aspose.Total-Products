@@ -13,7 +13,14 @@ otherformats: SVGZ APNG JPEG2000 WMF IMAGE PSD  WMZ EMZ DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert PDF to TGA via Java" h2="Export PDF file to TGA within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert pdf file to TGA image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export PDF to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to TGA. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting a PDF file to a TGA image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the PDF file to a JPEG image. Aspose.PDF for Java is part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for working with PDF documents. 
+
+Once the PDF file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java API to render the JPEG image to a TGA image. Aspose.Imaging for Java is an image processing API that provides a wide range of features for manipulating and converting images. It can be used to convert images from one format to another, as well as to apply various effects and transformations to images. 
+
+By using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert a PDF file to a TGA image in Java. Both APIs are part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for working with PDF documents and images. With just two simple steps, you can quickly and easily convert a PDF file to a TGA image in Java.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

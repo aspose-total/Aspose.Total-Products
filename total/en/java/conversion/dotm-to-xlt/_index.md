@@ -13,7 +13,16 @@ otherformats: TSV XLAM SXC CSV EXCEL ODS FODS XLSM XLTX XLS XLSX DIF XLSB XLT
 {{< blocks/products/pf/feature-page-header h1="Convert DOTM to XLT via Java or Online App" h2="On Premise Java API to convert DOTM to XLT without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can converting DOTM to XLT via [Aspose.Total for Java](https://products.aspose.com/total/java/) is a simple two step process. By using feature-rich, document manipulation and conversion API [Aspose.Words for Java](https://products.aspose.com/words/java/), you can export DOTM to HTML. After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLT.
+
+
+Converting DOTM to XLT is a simple two-step process that can be done with the help of Aspose.Total for Java. Aspose.Total for Java is a feature-rich document manipulation and conversion API that provides the necessary tools to convert DOTM to HTML and then HTML to XLT. 
+
+The first step in the process is to use Aspose.Words for Java to export DOTM to HTML. Aspose.Words for Java is a powerful document manipulation API that allows you to easily convert DOTM to HTML. It provides a wide range of features that make it easy to convert DOTM to HTML, including support for a variety of document formats, the ability to manipulate documents, and the ability to convert documents to other formats. 
+
+Once you have exported the DOTM to HTML, the second step is to use Aspose.Cells for Java to convert the HTML to XLT. Aspose.Cells for Java is a powerful spreadsheet manipulation API that allows you to easily convert HTML to XLT. It provides a wide range of features that make it easy to convert HTML to XLT, including support for a variety of spreadsheet formats, the ability to manipulate spreadsheets, and the ability to convert spreadsheets to other formats. 
+
+By using Aspose.Total for Java, you can easily convert DOTM to XLT in just two steps. Aspose.Words for Java makes it easy to export DOTM to HTML, and Aspose.Cells for Java makes it easy to convert HTML to XLT. With Aspose.Total for Java, you can quickly and easily convert DOTM to XLT.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

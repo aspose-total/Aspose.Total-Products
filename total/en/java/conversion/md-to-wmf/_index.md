@@ -13,7 +13,14 @@ otherformats: PSD JPEG2000 WMZ SVGZ IMAGE EMZ TGA  APNG DXF DICOM
 {{< blocks/products/pf/feature-page-header h1="Convert MD to WMF via Java" h2="Export MD file to WMF within any within any Java J2SE, J2EE, J2ME applications without using Adobe<sup>&reg;</sup> Acrobat Reader" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert md file to WMF image in Java in two simple steps. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/), you can export MD to JPEG. After that, by using [Aspose.Imaging for Java](https://products.aspose.com/imaging/java/) Image Processing API, you can render JPEG to WMF. Both APIs come under the [Aspose.Total for Java](https://products.aspose.com/total/java/) package. 
+
+
+Converting an MD file to a WMF image in Java is a simple two-step process. The first step is to use the Aspose.PDF for Java API to export the MD file to a JPEG image. Aspose.PDF for Java is part of the Aspose.Total for Java package, which provides a comprehensive set of APIs for working with a variety of file formats. 
+
+Once the MD file has been converted to a JPEG image, the second step is to use the Aspose.Imaging for Java API to render the JPEG image to a WMF image. Aspose.Imaging for Java is an image processing API that provides a range of features for manipulating images, including the ability to convert between different image formats. 
+
+By using the Aspose.PDF for Java and Aspose.Imaging for Java APIs, you can easily convert an MD file to a WMF image in Java. The Aspose.Total for Java package provides a comprehensive set of APIs for working with a variety of file formats, making it easy to convert MD files to WMF images.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,18 @@ otherformats: XLAM SXC MD FODS XLTM TXT EXCEL ODS XLT XLSM XLTX TSV
 {{< blocks/products/pf/feature-page-header h1="Export TEX to CSV via Java" h2="Convert TEX file to CSV by using on premise Java API within any Java J2SE, J2EE, J2ME applications" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Java](https://products.aspose.com/total/java/) you can integrate TEX to CSV conversion feature in your Java applications in two-step process. Firstly, by using [Aspose.PDF for Java](https://products.aspose.com/pdf/java/) you can render TEX to XLSX. In the second step, you can convert XLSX to CSV by using Spreadsheet Programming API [Aspose.Cells for Java](https://products.aspose.com/cells/java/).  
+
+
+Aspose.Total for Java is a comprehensive suite of components that enables developers to easily integrate TEX to CSV conversion feature in their Java applications. This suite consists of two components, namely Aspose.PDF for Java and Aspose.Cells for Java. 
+
+Aspose.PDF for Java is a powerful PDF manipulation API that enables developers to render TEX to XLSX. It provides a wide range of features such as creating, editing, converting, and manipulating PDF documents. It also supports a variety of formats including PDF, XPS, TIFF, HTML, and many more. 
+
+Aspose.Cells for Java is a Spreadsheet Programming API that enables developers to convert XLSX to CSV. It provides a wide range of features such as creating, editing, formatting, and manipulating spreadsheets. It also supports a variety of formats including XLSX, XLS, CSV, HTML, and many more. 
+
+To convert TEX to CSV, you need to follow a two-step process. Firstly, you need to render TEX to XLSX by using Aspose.PDF for Java. In the second step, you can convert XLSX to CSV by using Aspose.Cells for Java. This two-step process is simple and easy to implement. 
+
+By using Aspose.Total for Java, you can easily integrate TEX to CSV conversion feature in your Java applications. It provides a wide range of features and supports a variety of formats. It also enables developers to follow a two-step process to convert TEX to CSV. This makes it an ideal choice for developers who need to integrate TEX to CSV conversion feature in their Java applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

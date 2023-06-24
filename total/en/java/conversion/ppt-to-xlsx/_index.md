@@ -13,7 +13,10 @@ otherformats: DIF XLSB ODS XLTX XLS SXC FODS XLSM EXCEL XLT XLAM CSV XLTM MARKDO
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to XLSX via Java or Online App" h2="On Premise Java API to export PPT to XLSX without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPT file to XLSX via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLSX.
+
+
+Using Aspose.Total for Java, you can easily convert a PPT file to XLSX in two simple steps. The first step is to export the PPT file to HTML using Aspose.Slides for Java. This powerful library allows you to quickly and easily convert PPT files to HTML with just a few lines of code. Once the PPT file is converted to HTML, the second step is to use Aspose.Cells for Java to convert the HTML to XLSX. Aspose.Cells for Java is a powerful library that enables you to quickly and easily convert HTML to XLSX with just a few lines of code. With Aspose.Total for Java, you can easily convert PPT to XLSX in two simple steps. All you need to do is export the PPT file to HTML using Aspose.Slides for Java and then use Aspose.Cells for Java to convert the HTML to XLSX. Aspose.Total for Java makes it easy to convert PPT to XLSX in a few simple steps.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

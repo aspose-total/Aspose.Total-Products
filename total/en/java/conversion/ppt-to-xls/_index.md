@@ -13,7 +13,16 @@ otherformats: EXCEL XLTM XLSM XLAM XLSB FODS CSV XLTX XLSX MARKDOWN DIF SXC ODS 
 {{< blocks/products/pf/feature-page-header h1="Convert PPT to XLS via Java or Online App" h2="On Premise Java API to export PPT to XLS without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPT file to XLS via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPT to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to XLS.
+
+
+Converting a PPT file to XLS can be done quickly and easily with the help of Aspose.Total for Java. Aspose.Total for Java is a suite of APIs that provides developers with the tools they need to create, manipulate, and convert a variety of file formats. It includes Aspose.Slides for Java and Aspose.Cells for Java, which can be used to convert a PPT file to XLS.
+
+The process of converting a PPT file to XLS involves two steps. The first step is to export the PPT file to HTML using Aspose.Slides for Java. This API provides developers with the ability to read, write, and manipulate PowerPoint presentations. It also allows developers to export presentations to HTML, which can then be used as the source for the XLS conversion.
+
+The second step is to convert the HTML to XLS using Aspose.Cells for Java. This API provides developers with the ability to read, write, and manipulate spreadsheets. It also allows developers to convert HTML to XLS, which can then be used as the output of the conversion process.
+
+By using Aspose.Total for Java, developers can quickly and easily convert a PPT file to XLS. The process involves two steps: exporting the PPT file to HTML using Aspose.Slides for Java, and then converting the HTML to XLS using Aspose.Cells for Java. With the help of Aspose.Total for Java, developers can easily and quickly convert PPT files to XLS.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

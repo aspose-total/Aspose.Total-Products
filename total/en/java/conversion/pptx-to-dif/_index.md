@@ -13,7 +13,16 @@ otherformats: TSV XLT XLSX MARKDOWN XLAM MHTML ODS XLSB XLTM XLS XLSM SXC FODS E
 {{< blocks/products/pf/feature-page-header h1="Convert PPTX to DIF via Java or Online App" h2="On Premise Java API to export PPTX to DIF without using Microsoft<sup>&reg;</sup> Excel or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert PPTX file to DIF via [Aspose.Total for Java](https://products.aspose.com/total/java/) in two step steps. In the first step you can export PPTX to HTML by using [Aspose.Slides for Java](https://products.aspose.com/slides/java/). Secondly, by using [Aspose.Cells for Java](https://products.aspose.com/cells/java/), you can convert HTML to DIF.
+
+
+Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert PPTX files to DIF. This can be done in two simple steps. 
+
+The first step involves using Aspose.Slides for Java to export the PPTX file to HTML. Aspose.Slides for Java is a powerful API that enables developers to create, read, write and modify PowerPoint presentations. It supports a wide range of features such as creating slides, adding text, images, shapes, tables, and charts. It also supports the conversion of PPTX to HTML. 
+
+The second step involves using Aspose.Cells for Java to convert the HTML file to DIF. Aspose.Cells for Java is a powerful API that enables developers to create, read, write and modify Excel spreadsheets. It supports a wide range of features such as creating worksheets, adding text, images, formulas, and charts. It also supports the conversion of HTML to DIF. 
+
+By using Aspose.Total for Java, developers can easily convert PPTX files to DIF in two simple steps. Aspose.Slides for Java can be used to export the PPTX file to HTML, and Aspose.Cells for Java can be used to convert the HTML file to DIF. Aspose.Total for Java is a comprehensive suite of APIs that enables developers to easily convert PPTX files to DIF.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
