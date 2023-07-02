@@ -17,7 +17,7 @@ otherformats: XLT XLAM XLSX FODS XLSM DIF EXCEL TSV XLS XLTX CSV XLSB SXC XLTM
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert RTF to ODS or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert RTF to ODS" %}}
 1. Open RTF file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert RTF to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

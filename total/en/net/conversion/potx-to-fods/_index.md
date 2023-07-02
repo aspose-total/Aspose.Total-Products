@@ -26,7 +26,7 @@ In conclusion, Aspose.Total for .NET makes it easy to convert POTX file to FODS 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTX to FODS via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert POTX to FODS via C#" %}}
 1. Open POTX file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export POTX as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

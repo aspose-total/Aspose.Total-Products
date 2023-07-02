@@ -26,7 +26,7 @@ By using Aspose.Total for .NET, you can easily convert DOCX to XLTX within any .
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOCX to XLTX via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOCX to XLTX via C#" %}}
 1. Open DOCX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
 2. Convert DOCX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

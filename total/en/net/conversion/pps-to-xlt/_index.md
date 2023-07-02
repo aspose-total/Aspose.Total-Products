@@ -26,7 +26,7 @@ In summary, Aspose.Total for .NET makes it easy to convert a PPS file to XLT in 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to XLT via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPS to XLT via C#" %}}
 1. Open PPS file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPS as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

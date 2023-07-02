@@ -22,7 +22,7 @@ Bibliotecas de automatización de documentos para Python que ayudan a crear apli
 Biblioteca independiente de Python para formatos de procesamiento de textos de Microsoft Word y OpenOffice. Permite crear informes utilizando MailMerge, generar y editar documentos, renderizar o exportar archivos, incluidos DOC, DOCX y ODT a imágenes, PDF, HTML y varios otros formatos.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/pdf/es/python-net/" imgSrc="https://products.aspose.com/pdf/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/pdf/es/python-net/" imgSrc="/total/images/aspose_pdf-for-python-net.svg" productName="Aspose.PDF for Python via .NET">}}
 API de Python para capacidades de procesamiento de PDF sin el uso de Adobe Acrobat dentro de las aplicaciones de Python. Algunas de las capacidades incluyen fusionar y dividir archivos PDF, convertir archivos PDF en imágenes, así como agregar, actualizar y eliminar imágenes, archivos adjuntos, marcadores, anotaciones, hipervínculos, marcas de agua y más.
 {{< /blocks/products/pf/total/product-item >}}
 

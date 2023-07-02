@@ -17,7 +17,7 @@ otherformats: CSV TSV XLAM SXC FODS EXCEL ODS XLS XLT XLTX XLSX XLTM XLSM XLSB
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert WORDML to DIF or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert WORDML to DIF" %}}
 1. Open WORDML file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert WORDML to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

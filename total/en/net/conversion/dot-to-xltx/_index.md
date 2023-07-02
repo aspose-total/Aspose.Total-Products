@@ -28,7 +28,7 @@ By using Aspose.Total for .NET, developers can easily convert DOT to XLTX within
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOT to XLTX via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOT to XLTX via C#" %}}
 1. Open DOT file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
 2. Convert DOT to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

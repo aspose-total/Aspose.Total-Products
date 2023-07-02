@@ -17,7 +17,7 @@ otherformats: SXC XLSB XLSM XLSX XLAM CSV XLS XLTM FODS DIF EXCEL ODS XLTX TSV
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert OTT to XLT or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert OTT to XLT" %}}
 1. Open OTT file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert OTT to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

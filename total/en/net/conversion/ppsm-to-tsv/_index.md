@@ -26,7 +26,7 @@ By using Aspose.Total for .NET, developers can quickly and easily convert PPSM f
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSM to TSV via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSM to TSV via C#" %}}
 1. Open PPSM file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPSM as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

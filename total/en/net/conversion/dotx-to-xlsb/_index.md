@@ -26,7 +26,7 @@ In conclusion, Aspose.Total for .NET makes it easy to convert DOTX to XLSB withi
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to XLSB via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to XLSB via C#" %}}
 1. Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
 2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

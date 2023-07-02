@@ -26,7 +26,7 @@ By using Aspose.Total for .NET, developers can easily convert PPSX files to CSV 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSX to CSV via C# or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert PPSX to CSV via C#" %}}
 1. Open PPSX file using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
 2. Export PPSX as HTML by using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method
 3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 

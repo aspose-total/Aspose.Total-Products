@@ -17,7 +17,7 @@ otherformats: XLSX XLS CSV XLTX XLTM EXCEL XLAM FODS SXC XLT DIF TSV XLSM XLSB
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert DOCM to ODS or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert DOCM to ODS" %}}
 1. Open DOCM file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert DOCM to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference

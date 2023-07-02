@@ -17,7 +17,7 @@ otherformats: TSV XLTM XLT XLSX XLSB ODS XLSM FODS XLS XLAM SXC XLTX CSV EXCEL
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert ODT to DIF or Online App" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C++ API to Convert ODT to DIF" %}}
 1. Open ODT file using [Document](https://reference.aspose.com/words/cpp/class/aspose.words.document) class reference
 2. Convert ODT to HTML by using [Save](https://reference.aspose.com/words/cpp/class/aspose.words.document#save_string_saveformat) member function
 3. Load HTML document by using [IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) class reference
