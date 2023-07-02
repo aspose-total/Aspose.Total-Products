@@ -229,6 +229,10 @@ Aspose.CAD for JasperReports bietet eine einzigartige und robuste Lösung zum Ex
     {{< blocks/products/pf/offers-section-item link="/total/de/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/de/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/de/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/de/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/de/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/de/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/de/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

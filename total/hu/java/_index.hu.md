@@ -301,6 +301,10 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum gyors 
     {{< blocks/products/pf/offers-section-item link="/total/hu/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/hu/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/hu/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/hu/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/hu/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/hu/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/hu/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
