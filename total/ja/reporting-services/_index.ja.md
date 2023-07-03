@@ -249,6 +249,10 @@ Aspose.BarCode for Reporting Servicesは、Microsoft SQL ServerReportingServices
     {{< blocks/products/pf/offers-section-item link="/total/ja/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/ja/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/ja/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ja/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ja/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ja/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ja/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

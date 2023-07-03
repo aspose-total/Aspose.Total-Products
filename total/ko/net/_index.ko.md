@@ -307,6 +307,10 @@ Aspose.Finance for .NET은 금융 관련 포맷 처리 API입니다. 비즈니�
     {{< blocks/products/pf/offers-section-item link="/total/ko/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/ko/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/ko/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ko/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ko/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ko/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/ko/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

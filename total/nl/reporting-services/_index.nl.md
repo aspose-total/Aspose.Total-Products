@@ -249,6 +249,10 @@ Aspose.BarCode voor Reporting Services is de meest uitgebreide oplossing voor he
     {{< blocks/products/pf/offers-section-item link="/total/nl/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/nl/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/total/nl/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/nl/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/nl/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/nl/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/nl/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

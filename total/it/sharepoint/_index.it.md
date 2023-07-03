@@ -140,6 +140,10 @@ Aspose.BarCode per SharePoint fornisce un'app unica e robusta per migliorare gli
     {{< blocks/products/pf/offers-section-item link="/total/it/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/total/it/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
     {{< blocks/products/pf/offers-section-item link="/total/it/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/it/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/it/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/it/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+ {{< blocks/products/pf/offers-section-item link="/total/it/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
