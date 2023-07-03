@@ -51,6 +51,10 @@ Export reports to Word, Excel, PowerPoint and other formats from JasperReports o
 Manipulate Excel spreadsheets and Visio files as well as scan and generate BarCodes of various symbologies using Node.js.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/php-java" >}}
+Manipulate Excel Spreadsheets, PowerPoint and OpenOffice Presentations as well as recognize and create BarCodes of various symbologies.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
