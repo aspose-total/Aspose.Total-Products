@@ -13,7 +13,16 @@ otherformats: XLTM XLT EXCEL SXC ODS FODS XLTX XLSX TSV CSV XLSB DIF XLSM XLAM
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOT to XLS or Online App" h2="Export DOT to XLS via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include DOT to XLS conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOT to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to XLS. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+The DOT file format is a text-based file format used for storing diagrams. It is used by the popular graphviz tool for creating diagrams from text. However, the DOT file format is not supported by many applications, and thus it is necessary to convert it to a more widely supported format such as XLS.
+
+<h2>How Aspose.Total Helps for DOT to XLS Conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to easily manipulate and convert documents. It includes two powerful APIs, Aspose.Words for C++ and Aspose.Cells for C++, which can be used to convert DOT to XLS. Aspose.Words for C++ can be used to export DOT to HTML, and Aspose.Cells for C++ can be used to convert HTML to XLS. Both APIs are feature-rich, powerful, and easy to use, and they can be used to include DOT to XLS conversion feature within C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

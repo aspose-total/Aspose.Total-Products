@@ -13,7 +13,16 @@ otherformats: SXC XLS XLSX CSV EXCEL DIF XLTX XLAM XLSM XLTM FODS XLSB ODS XLT
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOC to TSV or Online App" h2="Export DOC to TSV via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include DOC to TSV conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOC to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to TSV. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+Converting documents from one format to another is a common requirement in many applications. For example, converting a DOC file to TSV format is a common requirement in many C++ applications. TSV (Tab Separated Values) is a plain text format used for storing tabular data. It is a popular format for exchanging data between different applications.
+
+<h2>How Aspose.Total Helps for DOC to TSV Conversion</h2>
+
+Aspose.Total for C++ is a comprehensive package of APIs for manipulating and converting documents. It includes two powerful APIs, Aspose.Words for C++ and Aspose.Cells for C++, which can be used to easily convert DOC to TSV. Aspose.Words for C++ is a feature-rich and powerful document manipulation and conversion API that can be used to export DOC to HTML. After that, Aspose.Cells for C++ can be used to convert HTML to TSV. Both APIs come under the Aspose.Total for C++ package. Thus, with the help of Aspose.Total for C++, you can easily include DOC to TSV conversion feature within your C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

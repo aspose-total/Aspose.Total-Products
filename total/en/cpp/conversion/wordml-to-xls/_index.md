@@ -13,7 +13,16 @@ otherformats: XLT XLSM ODS EXCEL XLSB SXC TSV XLTM FODS XLAM XLSX CSV XLTX DIF
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert WORDML to XLS or Online App" h2="Export WORDML to XLS via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include WORDML to XLS conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export WORDML to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to XLS. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+The need to convert WordML to XLS arises when you want to use the data stored in a WordML document in an Excel spreadsheet. WordML is a markup language used to store documents in XML format. It is a subset of the XML language and is used to store documents in a structured format. XLS, on the other hand, is a spreadsheet file format used by Microsoft Excel. It is used to store data in tabular form and can be used to perform calculations and other operations.
+
+<h2>How Aspose.Total Helps for WordML to XLS Conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that can be used to manipulate and convert documents. It includes two APIs, Aspose.Words for C++ and Aspose.Cells for C++, which can be used to convert WordML to XLS. Aspose.Words for C++ is a feature-rich, powerful and easy to use document manipulation and conversion API. It can be used to export WordML to HTML. Aspose.Cells for C++ is a powerful spreadsheet manipulation API that can be used to convert HTML to XLS. Both APIs come under the Aspose.Total for C++ package, making it easy to include WORDML to XLS conversion feature within your C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

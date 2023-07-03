@@ -13,7 +13,18 @@ otherformats: XLT SXC EXCEL XLSM FODS ODS DIF XLSX XLTM XLS TSV XLSB XLTX XLAM
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert OTT to CSV or Online App" h2="Export OTT to CSV via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include OTT to CSV conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export OTT to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to CSV. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+Converting data from one format to another is a common requirement in many applications. OTT (OpenDocument Text Template) is a file format used for creating documents with a template. It is used to create documents with a predefined layout and formatting. CSV (Comma Separated Values) is a plain text file format used for storing tabular data. It is widely used for data exchange between different applications. Therefore, it is often necessary to convert OTT to CSV for further processing.
+
+<h2>How Aspose.Total helps for ott to csv conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to create, manipulate and convert documents, images, and other file formats. It includes APIs for manipulating documents, images, email, and other file formats. It also includes APIs for converting documents from one format to another. Using Aspose.Total for C++, you can easily include OTT to CSV conversion feature within your C++ applications.
+
+The Aspose.Words for C++ API can be used to export OTT to HTML. It is a feature-rich, powerful and easy to use document manipulation and conversion API. It enables developers to create, manipulate, convert and render documents in various formats. After that, Aspose.Cells for C++ can be used to convert HTML to CSV. It is a powerful spreadsheet manipulation API that enables developers to create, manipulate, convert and render spreadsheets in various formats. Both APIs come under Aspose.Total for C++ package. Therefore, you can use Aspose.Total for C++ to easily include OTT to CSV conversion feature within your C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

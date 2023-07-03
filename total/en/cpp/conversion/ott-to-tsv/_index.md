@@ -13,7 +13,20 @@ otherformats: XLT XLTX XLTM XLSX CSV SXC FODS XLAM ODS XLSM EXCEL DIF XLS XLSB
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert OTT to TSV or Online App" h2="Export OTT to TSV via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include OTT to TSV conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export OTT to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to TSV. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+OTT (OpenDocument Text) is a document format used for creating and editing text documents. It is an open standard for text documents and is used by many applications. TSV (Tab Separated Values) is a text format used for storing tabular data. It is a simple and lightweight format that is used to store data in a tabular form. Converting OTT to TSV is useful when you need to store data in a tabular form.
+
+<h2>How Aspose.Total Helps for OTT to TSV Conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to create, manipulate and convert documents, images and other file formats. It includes APIs for manipulating documents, images, email, barcodes, and other file formats. With Aspose.Total for C++, you can easily include OTT to TSV conversion feature within your C++ applications. 
+
+Aspose.Words for C++ is a feature-rich, powerful and easy to use document manipulation and conversion API. It enables you to export OTT to HTML. Aspose.Cells for C++ is a powerful spreadsheet manipulation API that enables you to convert HTML to TSV. Both APIs come under Aspose.Total for C++ package. 
+
+By using Aspose.Total for C++, you can easily convert OTT to TSV within your C++ applications. It is a comprehensive suite of APIs that enables developers to create, manipulate and convert documents, images and other file formats. It is a powerful and easy to use solution for including OTT to TSV conversion feature within your C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

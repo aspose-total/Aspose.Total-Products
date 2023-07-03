@@ -13,7 +13,16 @@ otherformats: DIF XLAM XLSB XLT EXCEL XLS XLSX ODS XLTM SXC XLSM CSV XLTX FODS
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOCM to TSV or Online App" h2="Export DOCM to TSV via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include DOCM to TSV conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOCM to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to TSV. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert DOCM to TSV</h2>
+
+The DOCM file format is a Microsoft Office Open XML format used by Microsoft Word. It is a combination of the DOCX and XML file formats, and is used to store documents that contain macros. It is not a widely used format, and is not supported by many applications. Therefore, it is often necessary to convert DOCM files to other formats, such as TSV.
+
+<h2>How Aspose.Total Helps for DOCM to TSV Conversion</h2>
+
+Aspose.Total for C++ is a feature-rich, powerful and easy to use document manipulation and conversion API. It includes two APIs, Aspose.Words for C++ and Aspose.Cells for C++, which can be used to convert DOCM to TSV. By using Aspose.Words for C++, you can export DOCM to HTML. After that, by using Aspose.Cells for C++, you can convert HTML to TSV. Both APIs come under Aspose.Total for C++ package, which makes it easy to include DOCM to TSV conversion feature within your C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to JSON Format via C++" h2="Export DOC to JSON via C++ without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for C++](https://products.aspose.com/total/cpp/) you can convert DOC to JSON format within your C++ applications. Firstly, by using [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOC to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to JSON format. 
+
+
+<h2>Why to Convert</h2>
+
+Converting documents from one format to another is a common requirement for many applications. For example, converting a DOC file to JSON format can be useful for web applications that need to store and display data in a structured format. JSON is a popular data format that is used for storing and exchanging data between different applications.
+
+<h2>How Aspose.Total Helps for DOC to JSON Conversion</h2>
+
+Aspose.Total for C++ is a suite of APIs that can be used to convert documents from one format to another. It includes Aspose.Words for C++, which can be used to export DOC files to HTML. Aspose.Cells for C++ can then be used to convert the HTML to JSON format. This makes it easy to convert DOC files to JSON format within C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

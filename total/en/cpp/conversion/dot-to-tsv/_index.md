@@ -13,7 +13,16 @@ otherformats: XLSM FODS SXC XLT CSV EXCEL XLSB XLAM XLTX XLTM XLS ODS XLSX DIF
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOT to TSV or Online App" h2="Export DOT to TSV via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include DOT to TSV conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOT to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to TSV. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+The DOT (Drawing Exchange Format) file format is a text-based file format used for storing graphs and diagrams. It is a popular format for storing and exchanging diagrams and graphs. However, it is not suitable for data analysis and manipulation. Therefore, it is necessary to convert DOT to TSV (Tab Separated Values) format. TSV is a popular format for storing tabular data and it is supported by many data analysis and manipulation tools.
+
+<h2>How Aspose.Total helps for dot to tsv conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to create, manipulate and convert documents, spreadsheets, images, and other file formats. It includes two powerful APIs, Aspose.Words for C++ and Aspose.Cells for C++, which can be used to convert DOT to TSV. Aspose.Words for C++ can be used to export DOT to HTML and Aspose.Cells for C++ can be used to convert HTML to TSV. Both APIs are feature-rich, powerful and easy to use. They can be used to include DOT to TSV conversion feature within C++ applications easily.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

@@ -13,7 +13,16 @@ otherformats: XLSM XLTM SXC EXCEL CSV XLSB XLTX XLSX XLT DIF XLAM ODS TSV XLS
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert DOCX to FODS or Online App" h2="Export DOCX to FODS via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include DOCX to FODS conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export DOCX to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to FODS. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+Converting documents from one format to another is a common requirement in many applications. For example, you may need to convert a DOCX file to FODS format for further processing. This can be done easily by using feature-rich, powerful and easy to use document manipulation and conversion APIs.
+
+<h2>How Aspose.Total helps for docx to fods conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to create, manipulate and convert documents, spreadsheets, images and other file formats. It includes Aspose.Words for C++ and Aspose.Cells for C++. Aspose.Words for C++ is a feature-rich, powerful and easy to use document manipulation and conversion API that enables developers to export DOCX to HTML. Aspose.Cells for C++ is a powerful spreadsheet manipulation API that enables developers to convert HTML to FODS. By using these two APIs, you can easily include DOCX to FODS conversion feature within your C++ applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

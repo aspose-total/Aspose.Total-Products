@@ -13,7 +13,16 @@ otherformats: TSV XLS DIF XLSX XLAM XLTM XLT EXCEL XLSB XLSM CSV XLTX SXC ODS
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert RTF to FODS or Online App" h2="Export RTF to FODS via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include RTF to FODS conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export RTF to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to FODS. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+RTF (Rich Text Format) is a document file format developed by Microsoft for exchanging text between different word processors. It is a popular format for exchanging documents between different applications and platforms. FODS (Flat OpenDocument Spreadsheet) is an open standard for electronic spreadsheets, developed by the Organization for the Advancement of Structured Information Standards (OASIS). It is an XML-based format for storing spreadsheets and is used by many applications, such as OpenOffice.org Calc, LibreOffice Calc, and Microsoft Excel.
+
+<h2>How Aspose.Total helps for RTF to FODS Conversion</h2>
+
+You can easily include RTF to FODS conversion feature within your C++ applications by using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/). This API allows you to export RTF to HTML. After that, you can use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/) to convert HTML to FODS. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. Aspose.Total for C++ is a compilation of all the C++ APIs offered by Aspose. It includes APIs for manipulating and converting various file formats such as PDF, Word, Excel, PowerPoint, Outlook, Visio, Project, and many more. Aspose.Total for C++ is a comprehensive suite of file format APIs that enables developers to create, manipulate, convert, and render documents without any external dependencies. It provides a wide range of features and capabilities that make it easy to create, manipulate, and convert documents in various formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

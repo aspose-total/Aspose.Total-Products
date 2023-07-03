@@ -13,7 +13,18 @@ otherformats: ODS CSV TSV XLSX XLAM XLS XLSM XLTX SXC XLSB FODS XLTM EXCEL XLT
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert RTF to DIF or Online App" h2="Export RTF to DIF via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include RTF to DIF conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export RTF to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to DIF. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+RTF (Rich Text Format) is a document file format developed by Microsoft Corporation. It is used to store formatted text and graphics. It is widely used for exchanging documents between different applications. On the other hand, DIF (Data Interchange Format) is a text-based file format used to exchange data between different applications. It is used to store tabular data in a plain text format. Therefore, it is necessary to convert RTF to DIF in order to exchange data between different applications.
+
+<h2>How Aspose.Total helps for rtf to dif conversion</h2>
+
+Aspose.Total for C++ is a comprehensive suite of APIs that enables developers to create, manipulate and convert documents, spreadsheets, images and other file formats. It includes APIs such as Aspose.Words for C++, Aspose.Cells for C++ and Aspose.PDF for C++. With the help of these APIs, developers can easily include RTF to DIF conversion feature within their C++ applications. 
+
+Aspose.Words for C++ is a feature-rich, powerful and easy to use document manipulation and conversion API. It enables developers to export RTF to HTML. Aspose.Cells for C++ is a powerful spreadsheet manipulation API. It enables developers to convert HTML to DIF. Both APIs come under Aspose.Total for C++ package. Therefore, developers can easily include RTF to DIF conversion feature within their C++ applications by using Aspose.Total for C++.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

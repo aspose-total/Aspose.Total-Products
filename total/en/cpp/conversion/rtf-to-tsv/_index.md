@@ -13,7 +13,20 @@ otherformats: XLSB XLTM XLS DIF FODS XLTX XLSM ODS XLSX EXCEL XLT CSV XLAM SXC
 {{< blocks/products/pf/feature-page-header h1="C++ API to Convert RTF to TSV or Online App" h2="Export RTF to TSV via C++ without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- You can include RTF to TSV conversion feature within your C++ applications easily. By using feature-rich, powerful and easy to use document manipulation and conversion API [Aspose.Words for C++](https://products.aspose.com/words/cpp/), you can export RTF to HTML. After that, by using [Aspose.Cells for C++](https://products.aspose.com/cells/cpp/), you can convert HTML to TSV. Both APIs come under [Aspose.Total for C++](https://products.aspose.com/total/cpp/) package. 
+
+
+<h2>Why to Convert</h2>
+
+RTF (Rich Text Format) is a document file format that enables you to write text with basic formatting such as bold, italic, underline, font size, font color, etc. It is widely used for exchanging documents between different applications. TSV (Tab Separated Values) is a simple text format used for storing tabular data such as a spreadsheet or database. It is a popular format for exchanging data between different applications. Therefore, it is necessary to convert RTF to TSV for various purposes.
+
+<h2>How Aspose.Total helps for RTF to TSV Conversion</h2>
+
+Aspose.Total for C++ is a comprehensive package of all the C++ APIs offered by Aspose. It includes APIs for manipulating and converting documents, images, emails, and other file formats. It also includes APIs for manipulating and converting RTF and TSV files.
+
+You can include RTF to TSV conversion feature within your C++ applications easily by using Aspose.Total for C++. It includes two powerful APIs, Aspose.Words for C++ and Aspose.Cells for C++, which can be used to export RTF to HTML and then convert HTML to TSV respectively. Aspose.Words for C++ is a feature-rich, powerful and easy to use document manipulation and conversion API. It enables you to export RTF to HTML with just a few lines of code. Aspose.Cells for C++ is a powerful spreadsheet manipulation API that enables you to convert HTML to TSV with just a few lines of code. Both APIs come under Aspose.Total for C++ package. 
+
+Therefore, by using Aspose.Total for C++, you can easily include RTF to TSV conversion feature within your C++ applications. It is a comprehensive package of all the C++ APIs offered by Aspose, which makes it easier to manipulate and convert documents, images, emails, and other file formats.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
