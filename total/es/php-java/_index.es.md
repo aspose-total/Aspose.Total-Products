@@ -318,16 +318,17 @@ Aspose.Total es una poderosa suite para procesar casi todo tipo de documentos a 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total ofrece soluciones individuales para otras plataformas." >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
- {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
- {{< blocks/products/pf/offers-section-item link="/total/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+	{{< blocks/products/pf/offers-section-item link="/total/es/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/es/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/es/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/total/es/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/es/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/es/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/es/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/es/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/es/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/es/nodejs-java/" imgSrc="/total/images/aspose_total-for-node-java.svg" sdkName=" Node.js via Java" >}}
+	 
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

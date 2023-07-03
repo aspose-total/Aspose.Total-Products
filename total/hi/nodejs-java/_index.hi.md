@@ -246,17 +246,17 @@ Aspose.Total उच्च गति और अच्छी गुणवत्त
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए अलग-अलग समाधान प्रदान करता है।" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/total/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
- {{< blocks/products/pf/offers-section-item link="/total/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/total/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
- 
- {{< blocks/products/pf/offers-section-item link="/total/hi/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/total/hi/net/" imgSrc="/total/images/aspose_total-for-net.svg" sdkName=" .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/java/" imgSrc="/total/images/aspose_total-for-java.svg" sdkName=" Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/cpp/" imgSrc="/total/images/aspose_total-for-cpp.svg" sdkName=" C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/total/hi/android-java/" imgSrc="/total/images/aspose_total-for-android-java.svg" sdkName=" Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/sharepoint/" imgSrc="/total/images/aspose_total-for-sharepoint.svg" sdkName=" SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/total/hi/reporting-services/" imgSrc="/total/images/aspose_total-for-reporting-services.svg" sdkName=" Reporting Services" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/hi/jasperreports/" imgSrc="/total/images/aspose_words-for-jasperreports.svg" sdkName=" JasperReports" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/hi/python-net/" imgSrc="/total/images/aspose_total-for-python-net.svg" sdkName=" Python via .NET" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/hi/python-java/" imgSrc="/total/images/aspose_total-for-python-java.svg" sdkName=" Python via Java" >}}
+	 {{< blocks/products/pf/offers-section-item link="/total/hi/php-java/" imgSrc="/total/images/aspose_total-for-php-java.svg" sdkName=" PHP via Java" >}}
+
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
