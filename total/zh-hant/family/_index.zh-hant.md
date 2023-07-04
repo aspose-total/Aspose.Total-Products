@@ -47,6 +47,14 @@ description: Microsoft Excel Word PowerPoint 電子郵件 PDF Visio 項目條碼
 從 JasperReports 或 JasperServer 將報告導出為 Word、Excel、PowerPoint 和其他格式。
 {{< /blocks/products/pf/product >}}
 
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/zh-hant/nodejs-java" >}}
+	使用 Node.js 操作 Excel 電子表格和 Visio 文件以及掃描和生成各種符號系統的條形碼。
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/zh-hant/php-java" >}}
+	操作 Excel 電子表格、PowerPoint 和 OpenOffice 演示文稿，以及識別和創建各種符號體系的條形碼。
+	{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

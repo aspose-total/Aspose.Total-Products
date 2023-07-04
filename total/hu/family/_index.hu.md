@@ -39,6 +39,22 @@ Exportálhatja az RDL-jelentéseket Word, Excel, PowerPoint és más formátumok
 Exportálhatja a jelentéseket Word, Excel, PowerPoint és más formátumokba a JasperReportsból vagy a JasperServerből.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/hu/python-net" >}}
+Létrehozhat, szerkesszen vagy konvertáljon DOC, DOCX, PPT, PPTX, EML, MSG és 3D formátumokat a Python könyvtárkészlettel Microsoft Word, PowerPoint és Outlook programokhoz.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/hu/python-java" >}}
+Python-könyvtárak a Microsoft Excel és Visio számára, amelyek segítenek XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX és más formátumok létrehozásában, szerkesztésében vagy konvertálásában.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/hu/nodejs-java" >}}
+Manipuláljon Excel-táblázatokat és Visio-fájlokat, valamint szkennelje be és állítsa elő a különböző szimbólumok vonalkódjait a Node.js használatával.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/hu/php-java" >}}
+Manipulálhat Excel-táblázatokat, PowerPoint- és OpenOffice-prezentációkat, valamint felismerheti és létrehozhatja a különféle szimbólumok vonalkódjait.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

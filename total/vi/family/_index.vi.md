@@ -39,6 +39,22 @@ Xuất báo cáo RDL sang Word, Excel, PowerPoint và các định dạng khác 
 Xuất báo cáo sang Word, Excel, PowerPoint và các định dạng khác từ JasperReports hoặc JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/vi/python-net" >}}
+	Tạo, chỉnh sửa hoặc chuyển đổi các định dạng DOC, DOCX, PPT, PPTX, EML, MSG và 3D bằng bộ thư viện Python cho Microsoft Word, PowerPoint & Outlook.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/vi/python-java" >}}
+	Các thư viện Python dành cho Microsoft Excel & Visio giúp tạo, chỉnh sửa hoặc chuyển đổi các định dạng XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX và các định dạng khác.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/vi/nodejs-java" >}}
+	Thao tác với bảng tính Excel và tệp Visio cũng như quét và tạo Mã vạch của các ký hiệu khác nhau bằng Node.js.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/vi/php-java" >}}
+	Thao tác với Bảng tính Excel, Bản trình bày PowerPoint và OpenOffice cũng như nhận dạng và tạo Mã vạch của các ký hiệu khác nhau.
+	{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

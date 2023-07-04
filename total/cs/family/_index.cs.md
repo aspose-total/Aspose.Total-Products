@@ -39,6 +39,23 @@ Export sestav RDL do Wordu, Excelu, PowerPointu a dalších formátů ze služby
 Export sestav do Wordu, Excelu, PowerPointu a dalších formátů z JasperReports nebo JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/cs/python-net" >}}
+Generujte, upravujte nebo převádějte formáty DOC, DOCX, PPT, PPTX, EML, MSG a 3D pomocí sady knihoven Python pro Microsoft Word, PowerPoint a Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/cs/python-java" >}}
+Knihovny Pythonu pro Microsoft Excel a Visio, které pomáhají vytvářet, upravovat nebo převádět formáty XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX a další.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/cs/nodejs-java" >}}
+Manipulujte s excelovými tabulkami a soubory Visio a také skenujte a generujte čárové kódy různých symbologií pomocí Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/cs/php-java" >}}
+Manipulujte s tabulkami Excel, prezentacemi PowerPoint a OpenOffice a také rozpoznávejte a vytvářejte čárové kódy různých symbolů.
+{{< /blocks/products/pf/product >}}
+
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -39,6 +39,23 @@ Exporteer RDL-rapporten naar Word, Excel, PowerPoint en andere formaten vanuit S
 Exporteer rapporten naar Word, Excel, PowerPoint en andere formaten vanuit JasperReports of JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/nl/python-net" >}}
+Genereer, bewerk of converteer DOC-, DOCX-, PPT-, PPTX-, EML-, MSG- en 3D-indelingen met behulp van de Python-bibliotheeksuite voor Microsoft Word, PowerPoint en Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/nl/python-java" >}}
+Python-bibliotheken voor Microsoft Excel en Visio die helpen bij het maken, bewerken of converteren van XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX en andere formaten.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/nl/nodejs-java" >}}
+Bewerk Excel-spreadsheets en Visio-bestanden en scan en genereer streepjescodes van verschillende symbolieken met behulp van Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/nl/php-java" >}}
+Bewerk Excel-spreadsheets, PowerPoint en OpenOffice-presentaties en herken en maak streepjescodes van verschillende symbolieken.
+{{< /blocks/products/pf/product >}}
+
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

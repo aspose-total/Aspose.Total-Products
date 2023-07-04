@@ -39,6 +39,22 @@ SQL सर्वर रिपोर्टिंग सेवाओं से Wor
 JasperReports या JasperServer से Word, Excel, PowerPoint और अन्य स्वरूपों में रिपोर्ट निर्यात करें।
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/hi/python-net" >}}
+माइक्रोसॉफ्ट वर्ड, पॉवरपॉइंट और आउटलुक के लिए पायथन लाइब्रेरी सूट का उपयोग करके DOC, DOCX, PPT, PPTX, EML, MSG और 3D प्रारूप तैयार करें, संपादित करें या परिवर्तित करें।
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/hi/python-java" >}}
+Microsoft Excel और Visio के लिए पायथन लाइब्रेरीज़ जो XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX और अन्य प्रारूप बनाने, संपादित करने या परिवर्तित करने में सहायता करती हैं।
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/hi/nodejs-java" >}}
+Excel स्प्रेडशीट और Visio फ़ाइलों में हेरफेर करने के साथ-साथ Node.js का उपयोग करके विभिन्न प्रतीकों के बारकोड को स्कैन और जेनरेट करें।
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/hi/php-java" >}}
+एक्सेल स्प्रेडशीट, पॉवरपॉइंट और ओपनऑफिस प्रेजेंटेशन में हेरफेर करें और साथ ही विभिन्न सहजीवन के बारकोड को पहचानें और बनाएं।
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

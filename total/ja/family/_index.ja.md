@@ -39,6 +39,22 @@ RDLレポートをSQLServerReporting ServicesからWord、Excel、PowerPointお�
 JasperReportsまたはJasperServerからWord、Excel、PowerPointおよびその他の形式にレポートをエクスポートします。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/ja/python-net" >}}
+Microsoft Word、PowerPoint、Outlook 用の Python ライブラリ スイートを使用して、DOC、DOCX、PPT、PPTX、EML、MSG、および 3D 形式を生成、編集、変換します。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/ja/python-java" >}}
+XLS、XLSX、VSDX、VDX、VSX、VTX、VSSX およびその他の形式の作成、編集、変換に役立つ Microsoft Excel および Visio 用の Python ライブラリ。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ja/nodejs-java" >}}
+Excel スプレッドシートと Visio ファイルを操作するだけでなく、Node.js を使用してさまざまなシンボルのバーコードをスキャンして生成します。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ja/php-java" >}}
+Excel スプレッドシート、PowerPoint、OpenOffice プレゼンテーションを操作するだけでなく、さまざまなシンボルのバーコードを認識して作成します。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

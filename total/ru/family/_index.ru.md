@@ -39,6 +39,22 @@ description: Microsoft Excel Word PowerPoint Электронная почта P
 Экспортируйте отчеты в Word, Excel, PowerPoint и другие форматы из JasperReports или JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/ru/python-net" >}}
+	Создавайте, редактируйте или конвертируйте форматы DOC, DOCX, PPT, PPTX, EML, MSG и 3D, используя набор библиотек Python для Microsoft Word, PowerPoint и Outlook.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/ru/python-java" >}}
+	Библиотеки Python для Microsoft Excel и Visio, которые помогают создавать, редактировать или конвертировать XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX и другие форматы.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ru/nodejs-java" >}}
+	Управляйте электронными таблицами Excel и файлами Visio, а также сканируйте и создавайте штрих-коды с различными символами с помощью Node.js.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ru/php-java" >}}
+	Управляйте электронными таблицами Excel, презентациями PowerPoint и OpenOffice, а также распознавайте и создавайте штрих-коды различных символик.
+	{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

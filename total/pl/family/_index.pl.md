@@ -39,6 +39,22 @@ Eksportuj raporty RDL do Worda, Excela, PowerPointa i innych formatów z usług 
 Eksportuj raporty do Worda, Excela, PowerPointa i innych formatów z JasperReports lub JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/pl/python-net" >}}
+Generuj, edytuj lub konwertuj formaty DOC, DOCX, PPT, PPTX, EML, MSG i 3D za pomocą pakietu bibliotek Python dla programów Microsoft Word, PowerPoint i Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/pl/python-java" >}}
+Biblioteki Python dla Microsoft Excel i Visio, które pomagają tworzyć, edytować lub konwertować formaty XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX i inne.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/pl/nodejs-java" >}}
+Manipuluj arkuszami kalkulacyjnymi Excel i plikami Visio, a także skanuj i generuj kody kreskowe różnych symboli za pomocą Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/pl/php-java" >}}
+Manipuluj arkuszami kalkulacyjnymi Excel, prezentacjami PowerPoint i OpenOffice, a także rozpoznawaj i twórz kody kreskowe różnych symboli.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

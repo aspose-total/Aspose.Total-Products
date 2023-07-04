@@ -39,6 +39,22 @@ Esporta report RDL in Word, Excel, PowerPoint e altri formati da SQL Server Repo
 Esporta report in Word, Excel, PowerPoint e altri formati da JasperReports o JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/it/python-net" >}}
+Genera, modifica o converti i formati DOC, DOCX, PPT, PPTX, EML, MSG e 3D utilizzando la suite di librerie Python per Microsoft Word, PowerPoint e Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/it/python-java" >}}
+Librerie Python per Microsoft Excel e Visio che aiutano a creare, modificare o convertire XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX e altri formati.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/it/nodejs-java" >}}
+Manipola fogli di calcolo Excel e file Visio, nonché scansiona e genera codici a barre di varie simbologie utilizzando Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/it/php-java" >}}
+Manipola fogli di calcolo Excel, presentazioni PowerPoint e OpenOffice, oltre a riconoscere e creare codici a barre di varie simbologie.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

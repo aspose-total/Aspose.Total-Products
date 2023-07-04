@@ -39,6 +39,22 @@ description: Microsoft Excel Word PowerPoint البريد الإلكتروني P
 تصدير التقارير إلى Word و Excel و PowerPoint وتنسيقات أخرى من JasperReports أو JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/ar/python-net" >}}
+قم بإنشاء أو تحرير أو تحويل تنسيقات DOC و DOCX و PPT و PPTX و EML و MSG و 3D باستخدام مجموعة مكتبة Python لـ Microsoft Word و PowerPoint و Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/ar/python-java" >}}
+مكتبات Python لـ Microsoft Excel و Visio التي تساعد في إنشاء أو تحرير أو تحويل XLS و XLSX و VSDX و VDX و VSX و VTX و VSSX وتنسيقات أخرى.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ar/nodejs-java" >}}
+تعامل مع جداول بيانات Excel وملفات Visio بالإضافة إلى المسح الضوئي وإنشاء رموز شريطية من الرموز المختلفة باستخدام Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ar/php-java" >}}
+تعامل مع جداول بيانات Excel و PowerPoint و OpenOffice التقديمية بالإضافة إلى التعرف على الرموز الشريطية من الرموز المختلفة وإنشاءها.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

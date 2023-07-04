@@ -39,6 +39,22 @@ Exportera RDL-rapporter till Word, Excel, PowerPoint och andra format från SQL 
 Exportera rapporter till Word, Excel, PowerPoint och andra format från JasperReports eller JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/sv/python-net" >}}
+	Generera, redigera eller konvertera DOC, DOCX, PPT, PPTX, EML, MSG och 3D-format med Python bibliotekssvit för Microsoft Word, PowerPoint och Outlook.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/sv/python-java" >}}
+	Python-bibliotek för Microsoft Excel och Visio som hjälper till att skapa, redigera eller konvertera XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX och andra format.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/sv/nodejs-java" >}}
+	Manipulera Excel-kalkylblad och Visio-filer samt skanna och generera streckkoder för olika symboler med hjälp av Node.js.
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/sv/php-java" >}}
+	Manipulera Excel-kalkylblad, PowerPoint och OpenOffice-presentationer samt känna igen och skapa streckkoder av olika symboler.
+	{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -39,6 +39,22 @@ description: Microsoft Excel Word PowerPoint 电子邮件 PDF Visio 项目条码
 从 JasperReports 或 JasperServer 将报告导出为 Word、Excel、PowerPoint 和其他格式。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/zh/python-net" >}}
+	使用适用于 Microsoft Word、PowerPoint 和 Outlook 的 Python 库套件生成、编辑或转换 DOC、DOCX、PPT、PPTX、EML、MSG 和 3D 格式。
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/zh/python-java" >}}
+	适用于 Microsoft Excel 和 Visio 的 Python 库，可帮助创建、编辑或转换 XLS、XLSX、VSDX、VDX、VSX、VTX、VSSX 和其他格式。
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/zh/nodejs-java" >}}
+	使用 Node.js 操作 Excel 电子表格和 Visio 文件以及扫描和生成各种符号系统的条形码。
+	{{< /blocks/products/pf/product >}}
+
+	{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/zh/php-java" >}}
+	操作 Excel 电子表格、PowerPoint 和 OpenOffice 演示文稿，以及识别和创建各种符号体系的条形码。
+	{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

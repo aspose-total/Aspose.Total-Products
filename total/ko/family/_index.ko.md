@@ -39,6 +39,22 @@ SQL Server Reporting Services에서 RDL 보고서를 Word, Excel, PowerPoint 및
 JasperReports 또는 JasperServer에서 Word, Excel, PowerPoint 및 기타 형식으로 보고서를 내보냅니다.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/ko/python-net" >}}
+Microsoft Word, PowerPoint 및 Outlook용 Python 라이브러리 제품군을 사용하여 DOC, DOCX, PPT, PPTX, EML, MSG 및 3D 형식을 생성, 편집 또는 변환합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/ko/python-java" >}}
+XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX 및 기타 형식을 생성, 편집 또는 변환하는 데 도움이 되는 Microsoft Excel 및 Visio용 Python 라이브러리.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/ko/nodejs-java" >}}
+Excel 스프레드시트 및 Visio 파일을 조작하고 Node.js를 사용하여 다양한 기호의 바코드를 스캔 및 생성합니다.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/ko/php-java" >}}
+Excel 스프레드시트, PowerPoint 및 OpenOffice 프레젠테이션을 조작하고 다양한 기호의 바코드를 인식하고 생성합니다.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

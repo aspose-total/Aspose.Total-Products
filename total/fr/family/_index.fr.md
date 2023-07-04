@@ -39,6 +39,22 @@ Exportez des rapports RDL vers Word, Excel, PowerPoint et d'autres formats à pa
 Exportez des rapports vers Word, Excel, PowerPoint et d'autres formats depuis JasperReports ou JasperServer.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/fr/python-net" >}}
+Générez, modifiez ou convertissez les formats DOC, DOCX, PPT, PPTX, EML, MSG et 3D à l'aide de la suite de bibliothèques Python pour Microsoft Word, PowerPoint et Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/fr/python-java" >}}
+Bibliothèques Python pour Microsoft Excel et Visio qui aident à créer, éditer ou convertir XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX et d'autres formats.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/fr/nodejs-java" >}}
+Manipulez des feuilles de calcul Excel et des fichiers Visio, numérisez et générez des codes-barres de diverses symbologies à l'aide de Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/fr/php-java" >}}
+Manipulez des feuilles de calcul Excel, des présentations PowerPoint et OpenOffice, ainsi que reconnaissez et créez des codes-barres de diverses symbologies.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

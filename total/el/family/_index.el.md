@@ -39,6 +39,23 @@ Native Java API για επιτραπέζιους υπολογιστές, web ή
 Εξαγωγή αναφορών σε Word, Excel, PowerPoint και άλλες μορφές από το JasperReports ή τον JasperServer.
 {{< /blocks/products/pf/product >}}
 
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via .NET" imgSrc="/total/images/aspose_total-for-python-net.svg" productLink="/total/el/python-net" >}}
+Δημιουργήστε, επεξεργαστείτε ή μετατρέψτε μορφές DOC, DOCX, PPT, PPTX, EML, MSG και 3D χρησιμοποιώντας τη σουίτα βιβλιοθήκης Python για Microsoft Word, PowerPoint και Outlook.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Python via Java" imgSrc="/total/images/aspose_total-for-python-java.svg" productLink="/total/el/python-java" >}}
+Βιβλιοθήκες Python για Microsoft Excel & Visio που βοηθούν στη δημιουργία, επεξεργασία ή μετατροπή XLS, XLSX, VSDX, VDX, VSX, VTX, VSSX και άλλες μορφές.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="Node.js via Java" imgSrc="/total/images/aspose_total-for-node-java.svg" productLink="/total/el/nodejs-java" >}}
+Χειριστείτε υπολογιστικά φύλλα Excel και αρχεία Visio καθώς και σαρώστε και δημιουργήστε BarCodes διαφόρων συμβολολογιών χρησιμοποιώντας το Node.js.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Total for" title="PHP via Java" imgSrc="/total/images/aspose_total-for-php-java.svg" productLink="/total/el/php-java" >}}
+Χειριστείτε Υπολογιστικά φύλλα Excel, Παρουσιάσεις PowerPoint και OpenOffice καθώς και αναγνώριση και δημιουργία Barcodes διαφόρων συμβολολογιών.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
