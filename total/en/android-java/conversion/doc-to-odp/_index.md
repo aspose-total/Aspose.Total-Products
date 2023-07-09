@@ -13,7 +13,22 @@ otherformats: PPTX POWERPOINT POTX PPTM POT PPS PPSX POTM PPT PPSM
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to ODP in Android Apps or Online App" h2="DOC to ODP conversion in your Android Applications without installing Microsoft Word<sup>&reg;</sup> or PowerPoint" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Are you an Android developer looking to add a document conversion feature to your application? [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) File Format Automation libraries can help you automate the document conversion process in your Android applications. In order to convert DOC file to ODP, you can first use document manipulation API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/) to convert DOC file format to HTML. After that by using PowerPoint API [Aspose.Slides for Android Java](https://products.aspose.com/slides/android-java/), you can create a new Presentation, write HTML content in it, and save it as ODP. 
+
+
+<h2>Why to Convert</h2>
+
+As an Android developer, you may need to convert documents from one format to another for various reasons. For example, you may need to convert a DOC file to ODP in order to make it easier to share with other users or to make it compatible with other applications.
+
+<h2>How Aspose.Total Helps for Doc to ODP Conversion</h2>
+
+Aspose.Total for Android via Java is a set of File Format Automation libraries that can help you automate the document conversion process in your Android applications. In order to convert DOC file to ODP, you can first use document manipulation API Aspose.Words for Android Java to convert DOC file format to HTML. After that by using PowerPoint API Aspose.Slides for Android Java, you can create a new Presentation, write HTML content in it, and save it as ODP. 
+
+Aspose.Words for Android Java is a powerful document manipulation API that enables you to convert DOC files to HTML with just a few lines of code. It also provides features such as document manipulation, document conversion, text extraction, and more.
+
+Aspose.Slides for Android Java is a powerful PowerPoint API that enables you to create, edit, and save presentations in ODP format. It also provides features such as slide manipulation, text manipulation, shape manipulation, and more.
+
+By using Aspose.Total for Android via Java, you can easily automate the document conversion process in your Android applications. It provides a comprehensive set of APIs that can help you quickly and easily convert documents from one format to another. With Aspose.Total for Android via Java, you can easily convert DOC files to ODP with just a few lines of code.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

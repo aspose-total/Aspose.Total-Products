@@ -13,7 +13,14 @@ otherformats: XLSM XLAM XLS SXC XLSB FODS XLSX XLT XLTM ODS CSV DIF XLTX EXCEL
 {{< blocks/products/pf/feature-page-header h1="Convert RTF to TSV in Android Applications or Online App" h2="Export RTF to TSV in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate RTF to TSV conversion feature inside your android applications. Firstly, you can convert RTF to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to TSV.
+
+
+<h2>Why to Convert</h2>
+RTF (Rich Text Format) is a document file format that enables you to write, edit, and exchange text files between different operating systems and applications. It is a popular format for exchanging documents between different applications and platforms. TSV (Tab Separated Values) is a text-based format for representing tabular data in which columns are separated by tabs. It is a popular format for exchanging data between different applications and platforms. Therefore, it is necessary to convert RTF to TSV in order to exchange data between different applications and platforms.
+
+<h2>How Aspose.Total helps for RTF to TSV Conversion</h2>
+Aspose.Total for Android via Java is a feature-rich, document manipulation and conversion API that enables you to integrate RTF to TSV conversion feature inside your android applications. Firstly, you can convert RTF to HTML by using feature-rich, document manipulation and conversion API Aspose.Words for Android via Java. After that, by using Aspose.Cells for Java, you can convert HTML to TSV. Aspose.Words for Android via Java is a powerful document manipulation API that enables you to create, edit, and convert documents in various formats. It supports a wide range of document formats, including RTF, HTML, DOC, DOCX, and more. Aspose.Cells for Java is a powerful spreadsheet manipulation API that enables you to create, edit, and convert spreadsheets in various formats. It supports a wide range of spreadsheet formats, including TSV, XLS, XLSX, and more. Therefore, Aspose.Total for Android via Java is the perfect solution for integrating RTF to TSV conversion feature inside your android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

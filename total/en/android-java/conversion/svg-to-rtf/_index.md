@@ -13,7 +13,22 @@ otherformats: DOCM PS DOTX ODT MARKDOWN PCL FLATOPC MHTML DOTM XAMLFLOW WORDML O
 {{< blocks/products/pf/feature-page-header h1="Render SVG to RTF on Android via Java" h2="Convert SVG to RTF in mobile apps without installing any software" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can integrate SVG to RTF conversion feature in your mobile apps by using two APIs of [Aspose.Total for Android Java](https://products.aspose.com/total/android-java/) package. First you need to convert SVG file to DOC using [Aspose.PDF for Android via Java](https://products.aspose.com/pdf/android-java/). Secondly, by using Word Processing API [Aspose.Words for Android Java](https://products.aspose.com/words/android-java/), you can render DOC to RTF.
+
+
+<h2>Why to Convert</h2>
+
+SVG (Scalable Vector Graphics) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. It is widely used for web graphics, and is supported by most web browsers. On the other hand, RTF (Rich Text Format) is a document file format used by Microsoft products, such as Word and Office. It is used to store formatted text and graphics, and is supported by most word processors. Therefore, it is necessary to convert SVG to RTF in order to make it compatible with Microsoft products.
+
+<h2>How Aspose.Total helps for svg to rtf conversion</h2>
+
+Aspose.Total for Android Java is a comprehensive suite of APIs that enables developers to create, manipulate, convert, and render documents in various formats. It includes two APIs that can be used to integrate SVG to RTF conversion feature in mobile apps. 
+
+The first API is Aspose.PDF for Android via Java, which can be used to convert SVG file to DOC. This API provides a wide range of features, such as creating, editing, and converting PDF documents. It also supports various image formats, including SVG.
+
+The second API is Aspose.Words for Android Java, which can be used to render DOC to RTF. This API provides a wide range of features, such as creating, editing, and converting documents. It also supports various document formats, including RTF.
+
+By using these two APIs, developers can easily integrate SVG to RTF conversion feature in their mobile apps. This feature can be used to make SVG files compatible with Microsoft products, such as Word and Office.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

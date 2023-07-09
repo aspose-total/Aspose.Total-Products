@@ -13,7 +13,16 @@ otherformats: XLAM XLT CSV XLSX FODS XLTM XLSM XLTX ODS XLSB EXCEL SXC TSV DIF
 {{< blocks/products/pf/feature-page-header h1="Convert DOC to JSON Format in Android via Java" h2="Design Android applications to export DOC to JSON without using Microsoft<sup>&reg;</sup> Word or Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-You can convert DOC to JSON format in your Android Applications via [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/). By using document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/), you can export DOC to HTML. After that, by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/), you can convert HTML to JSON.
+
+
+<h2>Why to Convert</h2>
+
+Converting documents from one format to another is a common requirement in many applications. For example, converting a DOC file to JSON format can be useful for Android applications that need to store and manipulate data in a structured format. JSON is a popular data interchange format that is easy to read and write, and is supported by many programming languages.
+
+<h2>How Aspose.Total Helps for DOC to JSON Conversion</h2>
+
+Aspose.Total for Android via Java is a comprehensive suite of document manipulation and conversion APIs that can be used to convert DOC to JSON format. It includes the Aspose.Words for Android via Java API, which can be used to export DOC files to HTML. The Aspose.Cells for Android via Java API can then be used to convert the HTML to JSON. This makes it easy to convert DOC files to JSON format in Android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

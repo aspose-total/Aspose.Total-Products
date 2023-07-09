@@ -13,7 +13,16 @@ otherformats: XLSX TSV XLT XLTX CSV ODS XLAM FODS EXCEL XLTM XLSB DIF XLS XLSM
 {{< blocks/products/pf/feature-page-header h1="Convert DOCX to SXC in Android Applications or Online App" h2="Export DOCX to SXC in Android via Java without using Microsoft<sup>&reg;</sup> Word or Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-By using [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) you can integrate DOCX to SXC conversion feature inside your android applications. Firstly, you can convert DOCX to HTML by using feature-rich, document manipulation and conversion API [Aspose.Words for Android via Java](https://products.aspose.com/words/android-java/). After that, by using [Aspose.Cells for Java](https://products.aspose.com/cells/android-java/), you can convert HTML to SXC.
+
+
+<h2>Why to Convert</h2>
+
+The DOCX format is a popular file format used for creating and editing documents. It is a Microsoft Office Open XML format, which is a zipped, XML-based file format used by Microsoft Word. However, the SXC format is a spreadsheet format used by OpenOffice Calc. It is an open source format, which is based on the Open Document Format (ODF) and is used for storing tabular data. Therefore, it is necessary to convert DOCX to SXC in order to open and edit the documents in OpenOffice Calc.
+
+<h2>How Aspose.Total helps for docx to sxc conversion</h2>
+
+Aspose.Total for Android via Java is a comprehensive suite of APIs that enables developers to easily integrate document manipulation and conversion features into their Android applications. It includes Aspose.Words for Android via Java, which is a feature-rich document manipulation API that enables developers to convert DOCX to HTML. Aspose.Cells for Java is a powerful spreadsheet API that enables developers to convert HTML to SXC. By using Aspose.Total for Android via Java, developers can easily integrate DOCX to SXC conversion feature inside their Android applications.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}

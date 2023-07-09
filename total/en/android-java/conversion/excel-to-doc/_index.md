@@ -13,7 +13,22 @@ otherformats: PPTX WORD DOCX POWERPOINT
 {{< blocks/products/pf/feature-page-header h1="Render EXCEL to DOC on Android via Java or Online App" h2="Transform EXCEL to DOC within your Android Applications without using Microsoft<sup>&reg;</sup> Excel" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- [Aspose.Total for Android via Java](https://products.aspose.com/total/android-java/) is a package of powerful File Automation APIs. By using two of its APIs, you can integrate EXCEL to DOC conversion feature inside your Android applications. In the first step you can export EXCEL to PDF by using [Aspose.Cells for Android via Java](https://products.aspose.com/cells/android-java/). After that, by using [Aspose.PDF for Android via  Java](https://products.aspose.com/pdf/android-java/), you can convert PDF to DOC.
+
+
+<h2>Why to Convert</h2>
+
+Converting Excel to DOC is a common requirement for many Android applications. It is often necessary to convert Excel documents to DOC format for further processing. For example, if you need to share an Excel document with someone who does not have access to Excel, you can convert it to DOC format. Additionally, DOC format is more suitable for printing and archiving purposes.
+
+<h2>How Aspose.Total helps for excel to doc conversion</h2>
+
+Aspose.Total for Android via Java is a package of powerful File Automation APIs that can help you to integrate EXCEL to DOC conversion feature inside your Android applications. It includes two APIs, Aspose.Cells for Android via Java and Aspose.PDF for Android via Java. By using these APIs, you can easily export EXCEL to PDF and then convert PDF to DOC.
+
+Aspose.Cells for Android via Java is a powerful API that enables you to export Excel documents to PDF format. It supports a wide range of features such as formatting, styling, and data manipulation. It also supports a variety of output formats such as PDF, XLSX, HTML, and more.
+
+Aspose.PDF for Android via Java is a powerful API that enables you to convert PDF documents to DOC format. It supports a wide range of features such as text extraction, image extraction, and page manipulation. It also supports a variety of output formats such as DOC, HTML, and more.
+
+By using Aspose.Total for Android via Java, you can easily integrate EXCEL to DOC conversion feature inside your Android applications. It is a powerful and reliable solution that can help you to quickly and easily convert Excel documents to DOC format.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
