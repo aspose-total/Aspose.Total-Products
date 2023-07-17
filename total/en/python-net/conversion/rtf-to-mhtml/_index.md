@@ -13,9 +13,14 @@ outformat: MHTML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a RTF to MHTML (Web archive format) conversion feature or HtmlFixed mean want to save the document in the HTML format using absolutely positioned elements within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the RTF to MHTML conversion feature. In case the RTF file is simple then its just two lines of code. Load the RTF file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
+# Why to Convert RTF to MHTML (Web Archive Format)
+
+The Rich Text Format (RTF) is a document file format that enables the exchange of text between different word processors and text-processing applications. It is a popular format for exchanging documents between different applications and platforms. However, the MHTML (Web Archive Format) is a web page archive format that is used to save web pages in a single file. It is a convenient way to save web pages for offline viewing and is supported by most web browsers. Therefore, it is necessary to convert RTF documents to MHTML (Web Archive Format) in order to view them offline. 
+
+# How Aspose.Total Helps for RTF to MHTML Conversion
+
+Aspose.Total for Python via .NET is a full package of various APIs dealing different formats. It includes Aspose.Words for Python via .NET API which can be used to add the RTF to MHTML conversion feature. In case the RTF file is simple, it is just two lines of code. Load the RTF file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. However, in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information. Aspose.Words for Python via .NET API provides the capability to save the document in the HTML format using absolutely positioned elements. Therefore, Aspose.Total for Python via .NET API can help to automate the conversion process from RTF to MHTML (Web Archive Format).
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

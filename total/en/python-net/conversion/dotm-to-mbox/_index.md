@@ -14,7 +14,14 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a DOTM to MBOX conversion feature within application? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats including Email, Images and Microsoft Word formats. [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) and [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) APIs that are part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) package makes this conversion easy using Python. It's a two step process, firstly load the Word file and render it into HTML via [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/). Secondly load the converted HTML using [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) and save it into MBOX format.
+
+Why to Convert
+
+There can be different reasons to convert a DOTM file to MBOX format. For example, a user may want to switch from Microsoft Outlook to another email client that supports MBOX format. Or, a user may want to back up emails from Microsoft Outlook in MBOX format. Whatever the reason, Aspose.Total for Python via .NET can help to automate the conversion process.
+
+How Aspose.Total helps for dotm to mbox conversion
+
+Aspose.Total for Python via .NET is a full package of various APIs dealing different formats including Email, Images and Microsoft Word formats. Aspose.Words for Python via .NET and Aspose.Email for Python via .NET APIs that are part of Aspose.Total for Python via .NET package makes this conversion easy using Python. It's a two step process, firstly load the Word file and render it into HTML via Aspose.Words for Python via .NET. Secondly load the converted HTML using Aspose.Email for Python via .NET and save it into MBOX format.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

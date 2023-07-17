@@ -14,7 +14,14 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a EMAIL to OTT conversion feature within application? [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats including Email, Images and Microsoft Word formats. [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) and [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/) APIs that are part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) package makes this conversion easy using Python. It's a two step process, firstly load Email and render it into HTML via [Aspose.Email for Python via .NET](https://products.aspose.com/email/python-net/). Secondly load the converted HTML using [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) and save it into respective Word OTT format.
+
+<h2>Why to Convert Email to OTT?</h2>
+
+Email to OTT conversion is a process of converting emails into Open Office Text Template (OTT) format. This conversion is useful for developers who want to add a feature of email to OTT conversion within their application. OTT format is a template format used by Open Office applications such as Writer, Calc, Impress and Draw. It is an XML based format which stores the content of the document along with its formatting. This makes it easier to edit the document and also makes it easier to share the document with other users.
+
+<h2>How Aspose.Total helps for Email to OTT Conversion?</h2>
+
+Aspose.Total for Python via .NET is a full package of various APIs dealing different formats including Email, Images and Microsoft Word formats. It provides two APIs, Aspose.Words for Python via .NET and Aspose.Email for Python via .NET, which makes the conversion of Email to OTT easy using Python. It is a two step process, firstly load Email and render it into HTML via Aspose.Email for Python via .NET. Secondly load the converted HTML using Aspose.Words for Python via .NET and save it into respective Word OTT format. This makes it easier for developers to add the feature of email to OTT conversion within their application.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -13,9 +13,12 @@ outformat: Images
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a DOC to PNG, BMP, TIFF, JPEG and GIF Images conversion feature within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to import and export images and Word files as well as to automate the conversion process. It's a full package of various APIs dealing different formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the DOC to JPG, PNG, GIF, BMP and TIFF Images conversion feature. For just conversion it's just two lines of code. Load the DOC file and call the save method with appropriate image path along with SaveFormat of relevant format. But in case if there is need to set extra information like setting horizental and vertical resolution, scale, pixel format, brightness and more, then there is [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) class to be used for all these. Using [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) one can easily renders a specific DOC page into an image with transparent or colored background, specify a resolution while rendering, configure compression and more. Depending on the requirement, one can use as of his requirement, Here is another way for [Word To Image](https://products.aspose.com/words/python-net/conversion/word-to-image/) conversion.
+<h2>Why to Convert</h2>
+Converting DOC to images is a common requirement for many applications. It can be used for creating thumbnails of documents, for creating previews of documents, for creating images for web pages, for creating images for mobile applications and for many other purposes. 
+
+<h2>How Aspose.Total helps for doc to images conversion</h2>
+Aspose.Total for Python via .NET is a full package of various APIs dealing different formats. It includes Aspose.Words for Python via .NET API that is used to add the DOC to JPG, PNG, GIF, BMP and TIFF Images conversion feature. It is very easy to use and requires just two lines of code. Load the DOC file and call the save method with appropriate image path along with SaveFormat of relevant format. In case if there is need to set extra information like setting horizental and vertical resolution, scale, pixel format, brightness and more, then there is ImageSaveOptions class to be used for all these. Using ImageSaveOptions one can easily renders a specific DOC page into an image with transparent or colored background, specify a resolution while rendering, configure compression and more. Moreover, there is another way for Word To Image conversion.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

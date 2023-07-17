@@ -13,9 +13,16 @@ outformat: MHTML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a WORDML to MHTML (Web archive format) conversion feature or HtmlFixed mean want to save the document in the HTML format using absolutely positioned elements within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the WORDML to MHTML conversion feature. In case the WORDML file is simple then its just two lines of code. Load the WORDML file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
+# Why to Convert WORDML to MHTML (Web Archive Format)
+
+The WORDML to MHTML (Web Archive Format) conversion is a useful feature for Python developers who want to save documents in HTML format using absolutely positioned elements within their application. This conversion process can be automated with the help of Aspose.Total for Python via .NET API. 
+
+# How Aspose.Total Helps for WORDML to MHTML Conversion
+
+Aspose.Total for Python via .NET is a full package of various APIs that deal with different formats. Aspose.Words for Python via .NET API, which is part of the Aspose.Total package, can be used to add the WORDML to MHTML conversion feature. In the case of a simple WORDML file, it is just two lines of code to load the WORDML file and call the save method with the appropriate file path along with the SaveFormat enumeration as MHTML or HTML_FIXED. 
+
+However, if there is a need to restore the document model as close to the original one, then there is a need to save some extra information within the resultant document, which is called round-trip information. This can be done by using the Aspose.Words for Python via .NET API.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

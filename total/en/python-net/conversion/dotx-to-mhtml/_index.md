@@ -13,9 +13,12 @@ outformat: MHTML
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a DOTX to MHTML (Web archive format) conversion feature or HtmlFixed mean want to save the document in the HTML format using absolutely positioned elements within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to automate the conversion process. It's a full package of various APIs dealing different formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the DOTX to MHTML conversion feature. In case the DOTX file is simple then its just two lines of code. Load the DOTX file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
+# Why to Convert DOTX to MHTML (Web Archive Format)
+The DOTX file format is a Microsoft Word template file used to create documents. It is a compressed file format that stores text, images, and other media in a single file. MHTML (Web Archive Format) is a web page archive format used to store web pages in a single file. It is a combination of HTML and other resources such as images, audio, and video. Converting DOTX to MHTML (Web Archive Format) allows developers to save the document in the HTML format using absolutely positioned elements within the application. 
+
+# How Aspose.Total Helps for DOTX to MHTML Conversion
+Aspose.Total for Python via .NET is a full package of various APIs dealing different formats. We use Aspose.Words for Python via .NET API that is part of Aspose.Total for Python via .NET Package to add the DOTX to MHTML conversion feature. In case the DOTX file is simple then its just two lines of code. Load the DOTX file and call the save method with appropriate file path along with SaveFormat enumeration as MHTML or HTML_FIXED. But in case if there is need to restore the document model as close to original one then there is need to save some extra information within resultant document called round-trip information.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

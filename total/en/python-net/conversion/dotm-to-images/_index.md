@@ -13,9 +13,18 @@ outformat: Images
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For a Python developer, who is trying to add a DOTM to PNG, BMP, TIFF, JPEG and GIF Images conversion feature within application. [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) API can help to import and export images and Word files as well as to automate the conversion process. It's a full package of various APIs dealing different formats. 
 
-We use [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/) API that is part of [Aspose.Total for Python via .NET](https://products.aspose.com/total/python-net/) Package to add the DOTM to JPG, PNG, GIF, BMP and TIFF Images conversion feature. For just conversion it's just two lines of code. Load the DOTM file and call the save method with appropriate image path along with SaveFormat of relevant format. But in case if there is need to set extra information like setting horizental and vertical resolution, scale, pixel format, brightness and more, then there is [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) class to be used for all these. Using [ImageSaveOptions](https://reference.aspose.com/words/python-net/aspose.words.saving/imagesaveoptions/) one can easily renders a specific DOTM page into an image with transparent or colored background, specify a resolution while rendering, configure compression and more. Depending on the requirement, one can use as of his requirement, Here is another way for [Word To Image](https://products.aspose.com/words/python-net/conversion/word-to-image/) conversion.
+Why to Convert
+
+There can be various reasons to convert a DOTM file to image. For example, to share the document with someone who does not have Microsoft Word installed on their system or to prevent others from making changes to the document. Images can also be easier to view on a mobile device than a Word document.
+
+How Aspose.Total helps for dotm to images conversion
+
+Aspose.Total for Python via .NET is a full package of various APIs dealing different formats. We use Aspose.Words for Python via .NET API that is part of Aspose.Total for Python via .NET Package to add the DOTM to JPG, PNG, GIF, BMP and TIFF Images conversion feature.
+
+For just conversion, it's just two lines of code. Load the DOTM file and call the save method with the appropriate image path along with SaveFormat of the relevant format. But in case if there is a need to set extra information like setting horizontal and vertical resolution, scale, pixel format, brightness, and more, then there is the ImageSaveOptions class to be used for all these.
+
+Using ImageSaveOptions, one can easily render a specific DOTM page into an image with a transparent or colored background, specify a resolution while rendering, configure compression, and more. Depending on the requirement, one can use as of his requirement.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
