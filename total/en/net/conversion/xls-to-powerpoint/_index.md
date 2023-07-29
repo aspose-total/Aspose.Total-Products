@@ -12,20 +12,28 @@ otherformats: PPTX WORD DOCX DOC
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to POWERPOINT via C# or Online App" h2="Export Excel&reg; XLS to POWERPOINT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
+There are many reasons to convert XLS files to PowerPoint files. The most common reason is to create a presentation from data that is stored in an Excel spreadsheet. PowerPoint is a much better tool for creating presentations than Excel, and it is very easy to convert an Excel file to a PowerPoint file.<br />
 
+Another reason to convert XLS files to PowerPoint files is to make the data more visually appealing. Excel is great for storing data, but it is not very good at making that data look good. PowerPoint, on the other hand, is designed to create visually appealing presentations. By converting an Excel file to a PowerPoint file, you can make your data look much better.<br />
+
+Aspose.Total for .NET API is a great tool for converting XLS files to PowerPoint files. It is very easy to use and it can handle large files very well.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLS to POWERPOINT Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XLS to POWERPOINT?" %}}
 1. Open XLS file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert XLS to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to PPTX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Pptx as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

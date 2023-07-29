@@ -12,20 +12,30 @@ otherformats: WORD POWERPOINT DOCX PPTX
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to DOC via C# or Online App" h2="Export Excel&reg; XLT to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+If you are working with Microsoft Excel, you may need to convert your files to the .doc format. The .doc format is the standard document format for Microsoft Word. When you convert your files to this format, you will be able to open them in Microsoft Word and edit them as needed.<br />
+
+There are a few reasons why you might need to convert your files to the .doc format. One reason is that Microsoft Word can open and edit .doc files much more easily than .xlt files. Another reason is that .doc files are more widely compatible with other programs and devices.<br />
+
+If you need to convert your .xlt files to .doc files, you can use the Aspose.Total for .NET API. This API makes it easy to convert files from one format to another. With just a few lines of code, you can convert your .xlt files to .doc files.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLT to DOC Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XLT to DOC?" %}}
 1. Open XLT file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert XLT to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

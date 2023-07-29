@@ -12,20 +12,26 @@ otherformats: WORD PPTX POWERPOINT DOC
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to DOCX via C# or Online App" h2="Export Excel&reg; SXC to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+SXC is a file format used by OpenOffice.org Calc, an open-source spreadsheet application. DOCX is a file format used by Microsoft Word, a word processing application. There is a need to convert SXC files to DOCX files because Microsoft Word does not support the SXC file format. Aspose.Total for .NET API helps for this conversion by providing a set of classes and methods that can be used to convert SXC files to DOCX files.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="SXC to DOCX Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert SXC to DOCX?" %}}
 1. Open SXC file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert SXC to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOCX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

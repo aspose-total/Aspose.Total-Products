@@ -12,20 +12,28 @@ otherformats: DOCX WORD DOC POWERPOINT
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLT to PPTX via C# or Online App" h2="Export Excel&reg; XLT to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+If you have been using Microsoft Excel for a while, you may have come across .xlt files. These are template files that can be used to create new Excel workbooks. While .xlt files are useful, they have some limitations. For example, they cannot be opened in PowerPoint. This is where Aspose.Total for .NET API comes in.<br />
+
+Aspose.Total for .NET API is a powerful tool that can be used to convert .xlt files to .pptx files. This is useful if you want to open your Excel template in PowerPoint or if you want to share your template with others who do not have Excel installed. Aspose.Total for .NET API preserves the formatting of the original .xlt file so you do not need to worry about losing any data during the conversion process.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLT to PPTX Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XLT to PPTX?" %}}
 1. Open XLT file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert XLT to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to PPTX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Pptx as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

@@ -12,20 +12,30 @@ otherformats: PPTX POWERPOINT WORD DOCX
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert FODS to DOC via C# or Online App" h2="Export Excel&reg; FODS to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+FODS is a file format used by OpenOffice.org and LibreOffice. DOC is a file format used by Microsoft Word. There are many reasons why someone might want to convert a FODS file to a DOC file.<br />
+
+One reason is that DOC files are more widely compatible with different word processors and operating systems than FODS files. Another reason is that DOC files retain more formatting information than FODS files.<br />
+
+Aspose.Total for .NET API is a comprehensive set of tools for working with DOC files. It includes a DOC file converter that can be used to convert FODS files to DOC files. Aspose.Total for .NET API is available for free from the Aspose website.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="FODS to DOC Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert FODS to DOC?" %}}
 1. Open FODS file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert FODS to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

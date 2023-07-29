@@ -12,20 +12,27 @@ otherformats: PPTX WORD POWERPOINT DOCX
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert EXCEL to DOC via C# or Online App" h2="Export Excel&reg; EXCEL to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
+There are many reasons to convert an Excel file to a DOC file. One reason is that a DOC file is much easier to read and edit than an Excel file. A DOC file can be opened in any word processor, such as Microsoft Word or OpenOffice Writer.<br />
 
+Another reason to convert an Excel file to a DOC file is that a DOC file is much smaller in size than an Excel file. This is because a DOC file only contains text, while an Excel file contains both text and data.<br />
 
+Aspose.Total for .NET API is a powerful tool that can help you convert an Excel file to a DOC file. Aspose.Total for .NET API can convert an Excel file to a DOC file in just a few seconds.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="EXCEL to DOC Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert EXCEL to DOC?" %}}
 1. Open EXCEL file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert EXCEL to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

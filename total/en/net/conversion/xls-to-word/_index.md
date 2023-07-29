@@ -12,20 +12,26 @@ otherformats: DOCX DOC PPTX POWERPOINT
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to WORD via C# or Online App" h2="Export Excel&reg; XLS to WORD on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+There are many reasons to convert XLS files to WORD files. One reason is that WORD files are easier to read and edit than XLS files. Another reason is that WORD files can be password protected, while XLS files cannot. Aspose.Total for .NET API helps to convert XLS files to WORD files by providing a number of features, including the ability to convert XLS files to PDF, HTML, XML, and other formats. Aspose.Total for .NET API also provides a number of features that make it easy to work with XLS files, including the ability to open, edit, and save XLS files.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLS to WORD Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XLS to WORD?" %}}
 1. Open XLS file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert XLS to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

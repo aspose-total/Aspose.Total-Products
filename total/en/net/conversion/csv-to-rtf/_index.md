@@ -12,20 +12,30 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to RTF via C# or Online App" h2="Export Excel&reg; CSV to RTF on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
+There are a number of reasons why you might want to convert a CSV file to an RTF file. Perhaps you need to send the file to someone who doesn't have a CSV reader, or you want to make the file more readable. Aspose.Total for .NET API can help you with this conversion.<br />
 
+Aspose.Total for .NET API is a comprehensive suite of .NET components that allow you to work with a variety of file formats. With Aspose.Total for .NET API, you can easily convert a CSV file to an RTF file. Aspose.Total for .NET API supports a wide range of file formats, including CSV, RTF, and PDF.<br />
+
+Aspose.Total for .NET API is easy to use. Simply specify the input and output file formats, and Aspose.Total for .NET API will do the rest. Aspose.Total for .NET API can also handle a variety of other file conversion tasks, such as converting PDF files to Excel or Word files.<br />
+
+Aspose.Total for .NET API is a cost-effective solution for converting CSV files to RTF files. Aspose.Total for .NET API is available for a free trial, so you can try it before you buy it.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="CSV to RTF Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert CSV to RTF?" %}}
 1. Open CSV file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert CSV to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to RTF format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

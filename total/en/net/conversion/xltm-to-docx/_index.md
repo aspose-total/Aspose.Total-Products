@@ -12,20 +12,34 @@ otherformats: DOC PPTX POWERPOINT WORD
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLTM to DOCX via C# or Online App" h2="Export Excel&reg; XLTM to DOCX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+The Extensible Markup Language for Transformations (XSLT) is a language for transforming XML documents into other XML documents, or other formats such as HTML for web pages, plain text or XSL Formatting Objects, which may subsequently be converted to other formats, such as PDF, PostScript and PNG.<br />
+
+Aspose.Total for .NET API provides a number of classes for working with XSLT. The most important class is the XslTransform class. This class provides methods and properties for loading an XSLT stylesheet, executing the transform, and saving the results.<br />
+
+The XslTransform class can load an XSLT stylesheet from a file, a stream, or an XML reader. Once the stylesheet is loaded, the Transform method can be used to execute the transform and save the results to a file, a stream, or an XML writer.<br />
+
+The XslTransform class also provides a number of properties for controlling the transform process, such as the XsltArgumentList property, which can be used to pass parameters to the XSLT stylesheet, and the XmlResolver property, which can be used to resolve external resources, such as XML Schema definitions.<br />
+
+The Aspose.Total for .NET API also provides a number of other classes for working with XSLT. These include the XsltCompiledTransform class, which can be used to compile an XSLT stylesheet into an assembly, and the XsltSettings class, which can be used to configure the XSLT processor.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLTM to DOCX Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XLTM to DOCX?" %}}
 1. Open XLTM file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert XLTM to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOCX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

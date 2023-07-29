@@ -12,20 +12,32 @@ otherformats: WORD PPTX DOCX POWERPOINT
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert SXC to DOC via C# or Online App" h2="Export Excel&reg; SXC to DOC on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+SXC is a file format used by OpenOffice.org Calc, an open-source spreadsheet application. DOC is a file format used by Microsoft Word, a word processing application. There are many reasons why someone might want to convert an SXC file to a DOC file.<br />
+
+One reason is that DOC files are more widely compatible than SXC files. While OpenOffice.org Calc can open SXC files, many other spreadsheet applications cannot. This means that if you want to share your spreadsheet with someone who does not have OpenOffice.org Calc, you will need to convert it to a DOC file first.<br />
+
+Another reason to convert an SXC file to a DOC file is that DOC files are generally smaller in size than SXC files. This is because DOC files are compressed, while SXC files are not. This means that if you need to email your spreadsheet or upload it to a website, it will take up less space if you convert it to a DOC file first.<br />
+
+Finally, Aspose.Total for .NET API makes it easy to convert SXC files to DOC files. With just a few lines of code, you can convert any SXC file to a DOC file. Aspose.Total for .NET API also supports many other file formats, so you can easily convert your SXC files to other formats as well.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="SXC to DOC Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert SXC to DOC?" %}}
 1. Open SXC file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert SXC to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOC format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Doc as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

@@ -12,20 +12,28 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert CSV to DOT via C# or Online App" h2="Export Excel&reg; CSV to DOT on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
+ CSV (Comma Separated Values) files are simple text files where data is stored in a tabular format. DOT (Graphviz) files are used to represent graphs. Graphviz is a tool for visualizing graph data.
+There are many reasons why you might want to convert a CSV file to a DOT file. For example, you might want to:<br />
 
+- Visualize data in a CSV file<br />
+- Generate a graph from data in a CSV file<br />
 
+Aspose.Total for .NET API is a comprehensive set of APIs for working with a wide range of file formats, including CSV and DOT. The API includes everything you need to convert CSV files to DOT files.
+{{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="CSV to DOT Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert CSV to DOT?" %}}
 1. Open CSV file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert CSV to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to DOT format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set DocX as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).

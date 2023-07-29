@@ -12,20 +12,26 @@ otherformats: POWERPOINT WORD DOCX DOC
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen-total h1="Convert XLS to PPTX via C# or Online App" h2="Export Excel&reg; XLS to PPTX on .NET Framework, .NET Core, Mono or Xamarin Platforms">}}
+
 {{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+There are a number of reasons to convert XLS files to PPTX files. One reason is that PPTX files are more compatible with a wider range of software applications. Additionally, PPTX files are generally smaller in size than XLS files, making them easier to store and share. Aspose.Total for .NET API provides a number of benefits for those looking to convert XLS files to PPTX files. The API offers a number of features that make it easy to convert XLS files to PPTX files, including the ability to preserve formatting and to convert multiple XLS files to PPTX files in a single operation.
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLS to PPTX Conversion on .NET" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert XLS to PPTX?" %}}
 1. Open XLS file using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
 2. Convert XLS to PDF and set SaveFormat to Auto
 3. Load the converted PDF file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
 4. Save the document to PPTX format using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method and set Pptx as SaveFormat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Total API" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
 Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
 
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
