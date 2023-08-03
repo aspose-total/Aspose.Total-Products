@@ -10,7 +10,7 @@ outformat: PPT
 otherformats: POWERPOINT PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PHP API لتحويل XLTX إلى PPT أو تطبيق عبر الإنترنت" h2="قم بتصدير مستند XLTX إلى PPT عبر PHP بدون استخدام Microsoft <sup> & reg؛ </sup> Powerpoint أو Microsoft <sup> & reg؛ </sup> Excel." >}}
+{{< blocks/products/pf/feature-page-header h1="PHP API لتحويل XLTX إلى PPT أو تطبيق عبر الإنترنت" h2="قم بتصدير مستند XLTX إلى PPT عبر PHP بدون استخدام Microsoft <sup>&reg;</sup> Powerpoint أو Microsoft <sup>&reg;</sup> Excel." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

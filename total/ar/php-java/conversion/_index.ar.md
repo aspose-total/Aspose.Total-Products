@@ -5,7 +5,7 @@ description: قم بتحويل تنسيقات Microsoft Excel و PowerPoint إل
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل تنسيق الملف باستخدام PHP" h2="يمكنك تحويل شرائح Microsoft <sup> & reg؛ </sup> Office Excel و PowerPoint إلى تنسيقات أخرى مختلفة بما في ذلك الصور و HTML و PDF دون استخدام أي برامج أخرى." >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل تنسيق الملف باستخدام PHP" h2="يمكنك تحويل شرائح Microsoft<sup>&reg;</sup> Office Excel و PowerPoint إلى تنسيقات أخرى مختلفة بما في ذلك الصور و HTML و PDF دون استخدام أي برامج أخرى." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [مكتبة PHP الإجمالية](https://products.aspose.com/total/php-java/) تسريع تطوير حلول إدارة المستندات وخاصة مستندات Excel و PowerPoint من البداية أو تحسين التطبيقات الحالية للتعامل مع التلاعب بالمستندات بسهولة. لا تقوم واجهة برمجة التطبيقات بإدارة مستندات Microsoft Powerpoint و Excel فحسب ، بل تقوم أيضًا بتحويل ملفات PDF و HTML و Images TIFF و JPG و PNG و BMP. إنها مجموعة كاملة من واجهات برمجة تطبيقات إدارة المستندات وحلول المعالجة من Excel و Powerpoint بدون أي تبعيات للبرامج.  يمكن للمبرمجين التعامل بسهولة وتحويل مستندات Excel و Powerpoint بين التنسيقات الأكثر شيوعًا داخل أي تطبيقات تستند إلى PHP.
