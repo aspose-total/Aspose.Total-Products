@@ -30,9 +30,12 @@ Verwenden Sie zunächst Aspose.Cells für PHP über Java, um die XLTX-Datei in P
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderungen" %}}
-Installieren Sie über die Befehlszeile als „nuget install Aspose.Total“ oder über die Paket-Manager-Konsole von Visual Studio mit „Install-Package Aspose.Total“.
+1. PHP 7 oder höhere Versionen sind installiert
+2. Die Maschine muss über Oracle JDK 7 oder höhere Versionen verfügen
+3. Laden Sie die PHP/Java Bridge-Binärdatei [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) und die PHP-Bibliothek java/Java.inc [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) und speichern Sie es im Einstellungsordner
+4. Passen Sie die plattformrelevante Einstellung (Windows, Linux, MacOS usw.) für [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) und [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Alternativ können Sie das Offline-MSI-Installationsprogramm oder die DLLs in einer ZIP-Datei von herunterladen [Downloads](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

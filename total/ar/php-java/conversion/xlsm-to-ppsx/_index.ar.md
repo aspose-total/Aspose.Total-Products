@@ -30,9 +30,11 @@ Aspose.Total for PHP via Java عبارة عن مجموعة شاملة توفر �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-قم بالتثبيت من سطر الأوامر كـ `` nuget install Aspose.Total "` أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Total ''.
+1. تم تثبيت PHP 7 أو الإصدارات الأحدث
+2. يجب أن يحتوي الجهاز على Oracle JDK 7 أو إصدارات أحدث
+3. تنزيل PHP / Java Bridge الثنائي [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) ومكتبة java / Java.inc PHP [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) واحفظه في مجلد الإعدادات
+4. اضبط الإعداد ذي الصلة بالنظام الأساسي (Windows و Linux و MacOS وما إلى ذلك) لـ [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) و [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://releases.aspose.com/total/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

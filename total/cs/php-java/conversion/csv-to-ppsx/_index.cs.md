@@ -30,9 +30,12 @@ Nejprve použijte Aspose.Cells pro PHP přes Javu k exportu souboru CSV do PDF. 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na konverzi" %}}
-Instalujte z příkazového řádku jako ```nuget install Aspose.Total``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Total```.
+1. Je nainstalována verze PHP 7 nebo vyšší
+2. Stroj musí mít verzi Oracle JDK 7 nebo vyšší
+3. Stáhněte si binární PHP/Java Bridge [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) a java/Java.inc PHP knihovnu [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) a uložte jej do složky nastavení
+4. Upravte nastavení relevantní pro platformu (Windows, Linux, MacOS atd.) pro [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) a [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP [stahování](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}
