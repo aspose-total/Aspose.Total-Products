@@ -30,9 +30,12 @@ Aspose.Total for PHP via Java là một bộ toàn diện cung cấp nhiều tí
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Cài đặt từ dòng lệnh dưới dạng ```nuget install Aspose.Total``` hoặc thông qua Package Manager Console của Visual Studio với ```Install-Package Aspose.Total```.
+1. PHP 7 hoặc các phiên bản cao hơn được cài đặt
+2. Máy phải có phiên bản Oracle JDK 7 trở lên
+3. Tải xuống tệp nhị phân PHP/Java Bridge [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) và thư viện java/Java.inc PHP [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) và lưu nó vào thư mục cài đặt
+4. Điều chỉnh cài đặt phù hợp với nền tảng (Windows, Linux, MacOS, v.v.) cho [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) và [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Ngoài ra, hãy lấy trình cài đặt MSI ngoại tuyến hoặc tệp DLL trong tệp ZIP từ [lượt tải xuống](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

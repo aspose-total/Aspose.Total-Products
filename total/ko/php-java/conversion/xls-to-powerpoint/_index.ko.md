@@ -30,9 +30,12 @@ Aspose.Total for PHP via Java는 Excel 스프레드시트, Powerpoint 프레젠�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="전환 요건" %}}
-명령줄에서 ```nuget install Aspose.Total```로 설치하거나 ```Install-Package Aspose.Total```을 사용하여 Visual Studio의 패키지 관리자 콘솔을 통해 설치합니다.
+1. PHP 7 이상 버전이 설치되어 있습니다.
+2. 머신에 Oracle JDK 7 이상 버전이 있어야 합니다.
+3. PHP/Java Bridge 바이너리[JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) 및 java/Java.inc PHP 라이브러리[Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) 설정 폴더에 저장
+4. 플랫폼(Windows, Linux, MacOS 등)과 관련된 설정을 조정하여 [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) 및 [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-또는 다음에서 오프라인 MSI 설치 프로그램 또는 ZIP 파일의 DLL을 가져옵니다. [다운로드](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

@@ -30,9 +30,12 @@ Aspose.Total สำหรับ PHP ผ่านทาง Java เป็นช�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-ติดตั้งจากบรรทัดคำสั่งเป็น ``` nuget install Aspose.Total``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Total```
+1. ติดตั้ง PHP 7 ขึ้นไปแล้ว
+2. เครื่องต้องมีเวอร์ชัน Oracle JDK 7 ขึ้นไป
+3. ดาวน์โหลดไบนารี PHP/Java Bridge [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) และไลบรารี PHP java/Java.inc [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) และบันทึกลงในโฟลเดอร์การตั้งค่า
+4. ปรับการตั้งค่าที่เกี่ยวข้องกับแพลตฟอร์ม (Windows, Linux, MacOS ฯลฯ) สำหรับ [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) และ [Aspose.Cells] สไลด์] [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-หรืออีกทางหนึ่ง ให้ดาวน์โหลดตัวติดตั้ง MSI หรือ DLL แบบออฟไลน์ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

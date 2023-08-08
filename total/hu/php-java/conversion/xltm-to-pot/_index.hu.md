@@ -30,9 +30,12 @@ Először is használja az Aspose.Cells for PHP-t Java-n keresztül a XLTM-fájl
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-Telepítés parancssorból ```nuget install Aspose.Total``` néven, vagy a Visual Studio csomagkezelő konzolján keresztül az ```Install-Package Aspose.Total``` paranccsal.
+1. PHP 7 vagy újabb verzió van telepítve
+2. A gépnek Oracle JDK 7 vagy újabb verzióval kell rendelkeznie
+3. Töltse le a PHP/Java Bridge bináris [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) és a java/Java.inc PHP könyvtárat [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php), és mentse el a beállítások mappába
+4. Módosítsa a platformnak megfelelő beállítást (Windows, Linux, MacOS stb.) az [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) és az [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

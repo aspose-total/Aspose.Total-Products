@@ -30,9 +30,12 @@ En primer lugar, use Aspose.Cells para PHP a través de Java para exportar el ar
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Instale desde la línea de comandos como ```nuget install Aspose.Total``` o a través de Package Manager Console de Visual Studio con ```Install-Package Aspose.Total```.
+1. Está instalado PHP 7 o versiones superiores
+2. La máquina debe tener Oracle JDK 7 o versiones superiores
+3. Descargue el binario PHP/Java Bridge [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) y la biblioteca java/Java.inc PHP [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) y guárdelo en la carpeta de configuración
+4. Ajuste la configuración correspondiente a la plataforma (Windows, Linux, MacOS, etc.) para [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) y [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

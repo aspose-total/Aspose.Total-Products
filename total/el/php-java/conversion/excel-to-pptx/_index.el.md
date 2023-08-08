@@ -30,9 +30,12 @@ otherformats: POWERPOINT PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Εγκαταστήστε από τη γραμμή εντολών ως ``` nuget install Aspose.Total``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.Total``.
+1. Έχει εγκατασταθεί η PHP 7 ή νεότερη έκδοση
+2. Το μηχάνημα πρέπει να έχει Oracle JDK 7 ή νεότερη έκδοση
+3. Κατεβάστε το δυαδικό PHP/Java Bridge [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) και τη βιβλιοθήκη PHP java/Java.inc [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) και αποθηκεύστε το στον φάκελο ρυθμίσεων
+4. Προσαρμόστε τη ρύθμιση που σχετίζεται με την πλατφόρμα (Windows, Linux, MacOS κ.λπ.) για [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) και [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από [λήψεις](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

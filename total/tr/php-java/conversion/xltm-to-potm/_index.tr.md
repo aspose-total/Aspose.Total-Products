@@ -30,9 +30,12 @@ Aspose.Total for PHP via Java, Excel elektronik tabloları, Powerpoint sunumlar�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
-Komut satırından ``nuget install Aspose.Total`` olarak veya Visual Studio'nun Paket Yöneticisi Konsolu aracılığıyla ''Install-Package Aspose.Total'' ile kurun.
+1. PHP 7 veya üzeri sürümler yüklü
+2. Makine, Oracle JDK 7 veya üzeri sürümlere sahip olmalıdır
+3. PHP/Java Bridge ikili dosyasını [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) ve java/Java.inc PHP kitaplığını [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) ve ayarlar klasörüne kaydedin
+4. [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) ve [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten edinin: [İndirilenler](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

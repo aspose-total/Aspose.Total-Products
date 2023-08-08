@@ -30,9 +30,12 @@ Pertama, gunakan Aspose.Cells for PHP via Java untuk mengekspor file XLSM ke PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Instal dari baris perintah sebagai ```nuget install Aspose.Total``` atau melalui Package Manager Console Visual Studio dengan ```Install-Package Aspose.Total```.
+1. PHP 7 atau versi yang lebih besar diinstal
+2. Mesin harus memiliki Oracle JDK 7 atau versi yang lebih baru
+3. Unduh biner PHP/Java Bridge [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) dan pustaka PHP java/Java.inc [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) dan simpan ke folder pengaturan
+4. Sesuaikan pengaturan yang relevan dengan platform (Windows, Linux, MacOS dll) untuk [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) dan [Aspose.Slide](https://docs.aspose.com/slides/php-java/installation/)
 
-Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [download](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

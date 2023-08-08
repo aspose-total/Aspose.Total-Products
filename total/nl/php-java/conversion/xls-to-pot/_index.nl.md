@@ -30,9 +30,12 @@ Gebruik eerst Aspose.Cells voor PHP via Java om het XLS-bestand naar PDF te expo
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Omzettingsvereisten" %}}
-Installeer vanaf de opdrachtregel als ```nuget install Aspose.Total``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Total```.
+1. PHP 7 of hogere versies zijn geïnstalleerd
+2. Machine moet Oracle JDK 7 of hogere versies hebben
+3. Download PHP/Java Bridge binary [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) en java/Java.inc PHP-bibliotheek [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) en sla het op in de instellingenmap
+4. Pas de instelling aan die relevant is voor het platform (Windows, Linux, MacOS enz.) voor [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) en [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van [downloaden](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}

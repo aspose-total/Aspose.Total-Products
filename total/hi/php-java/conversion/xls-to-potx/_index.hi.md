@@ -30,9 +30,12 @@ otherformats: POWERPOINT PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-कमांड लाइन से ```nuget install Aspose.Total``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```Install-Package Aspose.Total``` के साथ इंस्टॉल करें।
+1. PHP 7 या उससे अधिक संस्करण स्थापित है
+2. मशीन में Oracle JDK 7 या इससे अधिक संस्करण होना चाहिए
+3. PHP/Java ब्रिज बाइनरी [JavaBridge.jar](http://php-java-bridge.sourceforge.net/pjb/download.php) और java/Java.inc PHP लाइब्रेरी [Java.inc](http://php-java-bridge.sourceforge.net/pjb/download.php) और इसे सेटिंग फ़ोल्डर में सेव करें
+4. प्लेटफ़ॉर्म (विंडोज़, लिनक्स, मैकओएस आदि) के लिए प्रासंगिक सेटिंग समायोजित करें [Aspose.Cells](https://docs.aspose.com/cells/php-java/setup-and-installation-guidelines/) और [Aspose.Slides](https://docs.aspose.com/slides/php-java/installation/)
 
-वैकल्पिक रूप से, ज़िप फ़ाइल में ऑफ़लाइन एमएसआई इंस्टॉलर या डीएलएल प्राप्त करें [डाउनलोड](https://releases.aspose.com/total/net).
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/feature-page-code %}}
 {{< gist "aspose-com-gists" "8e9ad83326cfb7c5b163348006171785" "excel-to-pdf.php" >}}
