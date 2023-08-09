@@ -5,11 +5,11 @@ description: Verwerk Excel-spreadsheets en PowerPoint-documenten via PHP API. He
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel- en PowerPoint-bestanden, evenals API's voor het verwerken van streepjescodes" h2="Bewerk Excel-spreadsheets en lees, schrijf, maak en converteer PowerPoint- en OpenOffice-presentaties via PHP API. Bovendien kunt u eenvoudig barcodes genereren en scannen." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel- en PowerPoint-bestanden, evenals API's voor het verwerken van streepjescodes" h2="Bewerk Excel-spreadsheets en lees, schrijf, maak en converteer PowerPoint- en OpenOffice-presentaties via PHP API. Bovendien kunt u eenvoudig barcodes genereren en scannen." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total voor PHP via Java is een compleet pakket voor het manipuleren van Excel-spreadsheets en voor PowerPoint- en OpenOffice-presentaties. Ontwikkelaars kunnen Excel-bestanden maken, manipuleren, renderen en converteren via PHP-applicaties en PowerPoint-formaten laden, lezen, schrijven en exporteren, waaronder PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP en meer formaten. Ontwikkelaars kunnen eenvoudig PHP API integreren voor het herkennen en genereren van streepjescodes.
@@ -314,7 +314,7 @@ Aspose.Total is een krachtige suite om bijna alle soorten documenten met hoge sn
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total biedt individuele oplossingen voor andere platformen." >}}
 

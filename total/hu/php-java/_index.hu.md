@@ -5,11 +5,11 @@ description: Excel-táblázatok és PowerPoint-dokumentumok feldolgozása PHP AP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel és PowerPoint fájlok, valamint vonalkód feldolgozó API-k" h2="Manipuláljon Excel-táblázatokat, valamint olvasson, írjon, hozzon létre és alakítson át PowerPoint és OpenOffice prezentációkat PHP API-n keresztül. Ezenkívül könnyedén generálhat és szkennelhet vonalkódokat." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel és PowerPoint fájlok, valamint vonalkód feldolgozó API-k" h2="Manipuláljon Excel-táblázatokat, valamint olvasson, írjon, hozzon létre és alakítson át PowerPoint és OpenOffice prezentációkat PHP API-n keresztül. Ezenkívül könnyedén generálhat és szkennelhet vonalkódokat." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for PHP Java-n keresztül egy teljes csomag az Excel táblázatkezeléshez, valamint a PowerPoint és az OpenOffice prezentációkhoz. A fejlesztők létrehozhatnak, manipulálhatnak, renderelhetnek és konvertálhatnak Excel fájlokat PHP-alkalmazásokon keresztül, valamint PowerPoint formátumokat tölthetnek be, olvashatnak, írhatnak és exportálhatnak, beleértve a PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP és más formátumokat. A fejlesztők könnyen integrálhatják a PHP API-t a vonalkód felismeréshez és generálásához.
@@ -314,7 +314,7 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum nagy s
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 

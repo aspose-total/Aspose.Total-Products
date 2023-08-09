@@ -5,11 +5,11 @@ description: Traitez des feuilles de calcul Excel et des documents PowerPoint vi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Fichiers PHP Excel et PowerPoint ainsi que les API de traitement de codes-barres" h2="Manipulez des feuilles de calcul Excel ainsi que lisez, écrivez, créez et convertissez des présentations PowerPoint et OpenOffice via l'API PHP. De plus, générez et numérisez facilement des codes-barres." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Fichiers PHP Excel et PowerPoint ainsi que les API de traitement de codes-barres" h2="Manipulez des feuilles de calcul Excel ainsi que lisez, écrivez, créez et convertissez des présentations PowerPoint et OpenOffice via l'API PHP. De plus, générez et numérisez facilement des codes-barres." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total pour PHP via Java est un package complet pour la manipulation de feuilles de calcul Excel ainsi que pour les présentations PowerPoint et OpenOffice. Les développeurs peuvent créer, manipuler, rendre et convertir des fichiers Excel via des applications PHP ainsi que charger, lire, écrire et exporter des formats PowerPoint, notamment PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP et d'autres formats. Les développeurs peuvent facilement intégrer l'API PHP pour la reconnaissance et la génération de codes-barres.
@@ -314,7 +314,7 @@ Aspose.Total est une suite puissante pour traiter presque tous les types de docu
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total propose des solutions individuelles pour d'autres plateformes." >}}
 

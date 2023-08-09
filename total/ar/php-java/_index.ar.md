@@ -5,11 +5,11 @@ description: معالجة جداول بيانات Excel ومستندات PowerPo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ملفات PHP Excel و PowerPoint بالإضافة إلى واجهات برمجة تطبيقات معالجة الرموز الشريطية" h2="تعامل مع جداول بيانات Excel بالإضافة إلى قراءة وكتابة وإنشاء وتحويل عروض PowerPoint و OpenOffice التقديمية عبر PHP API. علاوة على ذلك ، قم بإنشاء ومسح الرموز الشريطية بسهولة." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ملفات PHP Excel و PowerPoint بالإضافة إلى واجهات برمجة تطبيقات معالجة الرموز الشريطية" h2="تعامل مع جداول بيانات Excel بالإضافة إلى قراءة وكتابة وإنشاء وتحويل عروض PowerPoint و OpenOffice التقديمية عبر PHP API. علاوة على ذلك ، قم بإنشاء ومسح الرموز الشريطية بسهولة." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total لـ PHP عبر Java عبارة عن حزمة كاملة لمعالجة جداول بيانات Excel وكذلك لعروض PowerPoint و OpenOffice التقديمية. يمكن للمطورين إنشاء ملفات Excel ومعالجتها وعرضها وتحويلها عبر تطبيقات PHP بالإضافة إلى تحميل وقراءة وكتابة وتصدير تنسيقات PowerPoint بما في ذلك PPT و PPTX و PPS و POT و PPSX و OpenOffice ODP والمزيد من التنسيقات. يمكن للمطورين دمج PHP API بسهولة للتعرف على الباركود وإنشائه.
@@ -314,7 +314,7 @@ Aspose.Total عبارة عن مجموعة قوية لمعالجة جميع أن�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="تقدم Aspose.Total حلولاً فردية لمنصات أخرى." >}}
 

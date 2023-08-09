@@ -5,11 +5,11 @@ description: PHP API 経由で Excel スプレッドシートと PowerPoint ド�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel および PowerPoint ファイル、およびバーコード処理 API" h2="PHP API を介して Excel スプレッドシートを操作したり、PowerPoint や OpenOffice プレゼンテーションを読み取り、書き込み、作成、変換したりできます。さらに、バーコードの生成とスキャンも簡単です。" logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel および PowerPoint ファイル、およびバーコード処理 API" h2="PHP API を介して Excel スプレッドシートを操作したり、PowerPoint や OpenOffice プレゼンテーションを読み取り、書き込み、作成、変換したりできます。さらに、バーコードの生成とスキャンも簡単です。" logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for PHP via Java は、Excel スプレッドシート操作、PowerPoint および OpenOffice プレゼンテーション用の完全なパッケージです。 開発者は、PHP アプリケーションを介して Excel ファイルを作成、操作、レンダリング、変換できるだけでなく、PPT、PPTX、PPS、POT、PPSX、OpenOffice ODP などの形式を含む PowerPoint 形式の読み込み、読み取り、書き込み、エクスポートを行うことができます。 開発者は、バーコードの認識と生成のために PHP API を簡単に統合できます。
@@ -314,7 +314,7 @@ Aspose.Total は、ほぼすべての種類のドキュメントを高速かつ�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total は、他のプラットフォーム向けに個別のソリューションを提供します。" >}}
 

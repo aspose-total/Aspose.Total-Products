@@ -5,11 +5,11 @@ description: 通過 PHP API 處理 Excel 電子表格和 PowerPoint 文檔。通
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 和 PowerPoint 文件以及條碼處理 API" h2="通過 PHP API 操作 Excel 電子表格以及讀取、寫入、創建和轉換 PowerPoint 和 OpenOffice 演示文稿。此外，輕鬆生成和掃描條形碼。" logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 和 PowerPoint 文件以及條碼處理 API" h2="通過 PHP API 操作 Excel 電子表格以及讀取、寫入、創建和轉換 PowerPoint 和 OpenOffice 演示文稿。此外，輕鬆生成和掃描條形碼。" logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for PHP via Java 是一個用於 Excel 電子表格操作以及 PowerPoint 和 OpenOffice 演示文稿的完整軟件包。 開發人員可以通過 PHP 應用程序創建、操作、渲染和轉換 Excel 文件，以及加載、讀取、寫入和導出 PowerPoint 格式，包括 PPT、PPTX、PPS、POT、PPSX、OpenOffice ODP 等格式。 開發人員可以輕鬆集成 PHP API 以進行條碼識別和生成。
@@ -314,7 +314,7 @@ Aspose.Total 是一個功能強大的套件，可以高速、高質量地處理�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供個性化解決方案。" >}}
 

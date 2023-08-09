@@ -5,11 +5,11 @@ description: ประมวลผลสเปรดชีต Excel และเ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ไฟล์ PHP Excel และ PowerPoint รวมถึง API การประมวลผลบาร์โค้ด" h2="จัดการสเปรดชีต Excel ตลอดจนอ่าน เขียน สร้าง และแปลงงานนำเสนอ PowerPoint และ OpenOffice ผ่าน PHP API นอกจากนี้ยังสร้างและสแกนบาร์โค้ดได้อย่างง่ายดาย" logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ไฟล์ PHP Excel และ PowerPoint รวมถึง API การประมวลผลบาร์โค้ด" h2="จัดการสเปรดชีต Excel ตลอดจนอ่าน เขียน สร้าง และแปลงงานนำเสนอ PowerPoint และ OpenOffice ผ่าน PHP API นอกจากนี้ยังสร้างและสแกนบาร์โค้ดได้อย่างง่ายดาย" logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total สำหรับ PHP ผ่าน Java เป็นแพ็คเกจที่สมบูรณ์สำหรับการจัดการสเปรดชีต Excel เช่นเดียวกับการนำเสนอ PowerPoint และ OpenOffice นักพัฒนาสามารถสร้าง จัดการ แสดงผล และแปลงไฟล์ Excel ผ่านแอปพลิเคชัน PHP ตลอดจนโหลด อ่าน เขียน และส่งออกรูปแบบ PowerPoint รวมถึง PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP และรูปแบบอื่นๆ นักพัฒนาสามารถรวม PHP API สำหรับการจดจำและสร้างบาร์โค้ดได้อย่างง่ายดาย
@@ -314,7 +314,7 @@ Aspose.Total เป็นชุดโปรแกรมที่มีประ�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 

@@ -5,11 +5,11 @@ description: Zpracovávejte Excelové tabulky a PowerPointové dokumenty prostř
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Soubory PHP Excel a PowerPoint a rozhraní API pro zpracování čárových kódů" h2="Manipulujte s tabulkami Excelu, stejně jako čtěte, pište, vytvářejte a převádějte prezentace v PowerPointu a OpenOffice prostřednictvím PHP API. Navíc snadno generujte a skenujte čárové kódy." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Soubory PHP Excel a PowerPoint a rozhraní API pro zpracování čárových kódů" h2="Manipulujte s tabulkami Excelu, stejně jako čtěte, pište, vytvářejte a převádějte prezentace v PowerPointu a OpenOffice prostřednictvím PHP API. Navíc snadno generujte a skenujte čárové kódy." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total pro PHP přes Javu je kompletní balíček pro manipulaci s tabulkovým procesorem Excel a také pro prezentace PowerPoint a OpenOffice. Vývojáři mohou vytvářet, manipulovat, vykreslovat a převádět soubory Excel prostřednictvím aplikací PHP a také načítat, číst, zapisovat a exportovat formáty PowerPoint včetně PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP a dalších formátů. Vývojáři mohou snadno integrovat PHP API pro rozpoznávání a generování čárových kódů.
@@ -314,7 +314,7 @@ Aspose.Total je výkonná sada pro zpracování téměř všech druhů dokument�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total nabízí individuální řešení pro jiné platformy." >}}
 

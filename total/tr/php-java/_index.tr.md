@@ -5,11 +5,11 @@ description: PHP API aracılığıyla Excel Elektronik Tablolarını ve PowerPoi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel ve PowerPoint Dosyalarının yanı sıra Barkod İşleme API'leri" h2="PHP API aracılığıyla Excel Elektronik Tablolarının yanı sıra PowerPoint ve OpenOffice Sunumlarını Okuyun, Yazın, Oluşturun ve Dönüştürün. Ayrıca Barkodları kolaylıkla oluşturun ve tarayın." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel ve PowerPoint Dosyalarının yanı sıra Barkod İşleme API'leri" h2="PHP API aracılığıyla Excel Elektronik Tablolarının yanı sıra PowerPoint ve OpenOffice Sunumlarını Okuyun, Yazın, Oluşturun ve Dönüştürün. Ayrıca Barkodları kolaylıkla oluşturun ve tarayın." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for PHP via Java, PowerPoint ve OpenOffice Sunumları için olduğu kadar Excel Elektronik Tablo manipülasyonu için eksiksiz bir pakettir. Geliştiriciler, PHP uygulamaları aracılığıyla Excel Dosyaları oluşturabilir, işleyebilir, işleyebilir ve dönüştürebilir ve ayrıca PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP ve daha fazla format dahil olmak üzere PowerPoint formatlarını yükleyebilir, okuyabilir, yazabilir ve dışa aktarabilir. Geliştiriciler, Barkod tanıma ve oluşturma için PHP API'yi kolayca entegre edebilir.
@@ -314,7 +314,7 @@ Aspose.Total, neredeyse her türden belgeyi yüksek hızda ve mükemmel kalitede
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total, diğer platformlar için bireysel çözümler sunar." >}}
 

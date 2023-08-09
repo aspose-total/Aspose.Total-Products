@@ -5,11 +5,11 @@ description: PHP API를 통해 Excel 스프레드시트 및 PowerPoint 문서를
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 및 PowerPoint 파일과 바코드 처리 API" h2="Excel 스프레드시트를 조작하고 PHP API를 통해 PowerPoint 및 OpenOffice 프레젠테이션을 읽고, 쓰고, 만들고 변환합니다. 또한 바코드를 쉽게 생성하고 스캔할 수 있습니다." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 및 PowerPoint 파일과 바코드 처리 API" h2="Excel 스프레드시트를 조작하고 PHP API를 통해 PowerPoint 및 OpenOffice 프레젠테이션을 읽고, 쓰고, 만들고 변환합니다. 또한 바코드를 쉽게 생성하고 스캔할 수 있습니다." logoImageSrc="/total/images/aspose_total-for-php-java-header.svg" pfName="Aspose.Total" subTitlepfName="for PHP via Java" downloadUrl="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/img/products/total/aspose_total-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/phpjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/php-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for PHP via Java는 PowerPoint 및 OpenOffice 프리젠테이션뿐만 아니라 Excel 스프레드시트 조작을 위한 완벽한 패키지입니다. 개발자는 PHP 애플리케이션을 통해 Excel 파일을 생성, 조작, 렌더링 및 변환할 수 있을 뿐만 아니라 PPT, PPTX, PPS, POT, PPSX, OpenOffice ODP 및 기타 형식을 포함한 PowerPoint 형식을 로드, 읽기, 쓰기 및 내보낼 수 있습니다. 개발자는 바코드 인식 및 생성을 위해 PHP API를 쉽게 통합할 수 있습니다.
@@ -314,7 +314,7 @@ Aspose.Total은 거의 모든 종류의 문서를 빠르고 우수한 품질로 
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/php" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/php-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/php-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼을 위한 개별 솔루션을 제공합니다." >}}
 
