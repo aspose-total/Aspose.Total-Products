@@ -5,11 +5,11 @@ description: Node.js API aracılığıyla Excel Elektronik Tablolarını ve Visi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel ve Visio Dosyalarının yanı sıra Barkod İşleme API'leri" h2="Node.js API aracılığıyla Excel Elektronik Tablolarını Yönetin ve Visio Dosyalarını Okuyun, Yazın, Oluşturun ve Dışa Aktarın. Ayrıca Barkodları kolaylıkla Tarayın ve Oluşturun." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel ve Visio Dosyalarının yanı sıra Barkod İşleme API'leri" h2="Node.js API aracılığıyla Excel Elektronik Tablolarını Yönetin ve Visio Dosyalarını Okuyun, Yazın, Oluşturun ve Dışa Aktarın. Ayrıca Barkodları kolaylıkla Tarayın ve Oluşturun." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Node.js via Java, Excel Elektronik Tablo düzenlemesi ve Viso belge işleme için eksiksiz bir pakettir. Geliştiriciler, Nodejs aracılığıyla Excel Dosyaları oluşturabilir, işleyebilir, işleyebilir ve dönüştürebilir ve ayrıca VDX, VSDX, VTX, VSX ve daha fazla format dahil olmak üzere Visio formatlarını yükleyebilir, okuyabilir, yazabilir ve dışa aktarabilir. Geliştiriciler, Barkod tanıma ve oluşturma için Node API'yi kolayca entegre edebilir.
@@ -242,7 +242,7 @@ Aspose.Total, neredeyse her türden belgeyi yüksek hızda ve mükemmel kalitede
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total, diğer platformlar için bireysel çözümler sunar." >}}
 

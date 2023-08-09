@@ -5,11 +5,11 @@ description: 通過 Node.js API 處理 Excel 電子表格和 Visio 文檔。利�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 和 Visio 文件以及條碼處理 API" h2="通過 Node.js API 操作 Excel 電子表格以及讀取、寫入、創建和導出 Visio 文件。此外，輕鬆掃描並生成條形碼。" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 和 Visio 文件以及條碼處理 API" h2="通過 Node.js API 操作 Excel 電子表格以及讀取、寫入、創建和導出 Visio 文件。此外，輕鬆掃描並生成條形碼。" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Node.js via Java 是用於 Excel 電子表格操作和 Viso 文檔處理的完整包。 開發人員可以通過 Nodejs 創建、操作、呈現和轉換 Excel 文件，以及加載、讀取、寫入和導出 Visio 格式，包括 VDX、VSDX、VTX、VSX 等格式。 開發人員可以輕鬆集成 Node API 進行條碼識別和生成。
@@ -242,7 +242,7 @@ Aspose.Total 是一個強大的套件，可以高速和高質量地處理幾乎�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total 為其他平台提供單獨的解決方案。" >}}
 

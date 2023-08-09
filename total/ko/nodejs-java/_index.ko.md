@@ -5,11 +5,11 @@ description: Node.js API를 통해 Excel 스프레드시트 및 Visio 문서를 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 및 Visio 파일과 바코드 처리 API" h2="Excel 스프레드시트를 조작하고 Node.js API를 통해 Visio 파일을 읽고, 쓰고, 만들고, 내보냅니다. 또한 바코드를 쉽게 스캔하고 생성합니다." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 및 Visio 파일과 바코드 처리 API" h2="Excel 스프레드시트를 조작하고 Node.js API를 통해 Visio 파일을 읽고, 쓰고, 만들고, 내보냅니다. 또한 바코드를 쉽게 스캔하고 생성합니다." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total for Node.js via Java는 Excel 스프레드시트 조작 및 Viso 문서 처리를 위한 완벽한 패키지입니다. 개발자는 Nodejs를 통해 Excel 파일을 생성, 조작, 렌더링 및 변환할 수 있을 뿐만 아니라 VDX, VSDX, VTX, VSX 및 기타 형식을 포함한 Visio 형식을 로드, 읽기, 쓰기 및 내보낼 수 있습니다. 개발자는 바코드 인식 및 생성을 위해 Node API를 쉽게 통합할 수 있습니다.
@@ -242,7 +242,7 @@ Aspose.Total은 거의 모든 종류의 문서를 빠르고 우수한 품질로 
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total은 다른 플랫폼을 위한 개별 솔루션을 제공합니다." >}}
 

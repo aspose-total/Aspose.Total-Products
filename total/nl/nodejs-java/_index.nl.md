@@ -5,11 +5,11 @@ description: Verwerk Excel-spreadsheets en Visio-documenten via Node.js API. Geb
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel- en Visio-bestanden, evenals API's voor streepjescodeverwerking" h2="Bewerk Excel-spreadsheets en lees, schrijf, maak en exporteer Visio-bestanden via Node.js API. Bovendien kunt u eenvoudig barcodes scannen en genereren." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel- en Visio-bestanden, evenals API's voor streepjescodeverwerking" h2="Bewerk Excel-spreadsheets en lees, schrijf, maak en exporteer Visio-bestanden via Node.js API. Bovendien kunt u eenvoudig barcodes scannen en genereren." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total voor Node.js via Java is een compleet pakket voor het manipuleren van Excel-spreadsheets en het verwerken van Viso-documenten. Ontwikkelaars kunnen Excel-bestanden maken, manipuleren, renderen en converteren via Nodejs en ook Visio-formaten laden, lezen, schrijven en exporteren, waaronder VDX, VSDX, VTX, VSX en meer formaten. Ontwikkelaars kunnen Node API eenvoudig integreren voor het herkennen en genereren van streepjescodes.
@@ -242,7 +242,7 @@ Aspose.Total is een krachtige suite om bijna alle soorten documenten met hoge sn
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total biedt individuele oplossingen voor andere platformen." >}}
 

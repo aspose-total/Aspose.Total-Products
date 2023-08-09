@@ -5,11 +5,11 @@ description: Node.js API を介して Excel スプレッドシートと Visio �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel および Visio ファイル、およびバーコード処理 API" h2="Excel スプレッドシートを操作するだけでなく、Node.js API を介して Visio ファイルの読み取り、書き込み、作成、エクスポートを行います。さらに、バーコードを簡単にスキャンして生成できます。" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel および Visio ファイル、およびバーコード処理 API" h2="Excel スプレッドシートを操作するだけでなく、Node.js API を介して Visio ファイルの読み取り、書き込み、作成、エクスポートを行います。さらに、バーコードを簡単にスキャンして生成できます。" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Java 経由の Aspose.Total for Node.js は、Excel スプレッドシート操作および Viso ドキュメント処理のための完全なパッケージです。 開発者は、Nodejs を介して Excel ファイルを作成、操作、レンダリング、変換できるだけでなく、VDX、VSDX、VTX、VSX などの形式を含む Visio 形式の読み込み、読み取り、書き込み、エクスポートを行うことができます。 開発者は、バーコードの認識と生成のために Node API を簡単に統合できます。
@@ -242,7 +242,7 @@ Aspose.Total は、ほぼすべての種類のドキュメントを高速かつ�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total は、他のプラットフォーム向けに個別のソリューションを提供します。" >}}
 

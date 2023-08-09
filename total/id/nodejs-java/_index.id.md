@@ -5,11 +5,11 @@ description: Memproses Spreadsheet Excel dan Dokumen Visio melalui Node.js API. 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="File Node.js Excel dan Visio serta Barcode Processing API" h2="Memanipulasi Spreadsheet Excel serta Membaca, Menulis, Membuat, dan Mengekspor File Visio melalui API Node.js. Selain itu, Pindai dan Hasilkan BarCodes dengan mudah." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="File Node.js Excel dan Visio serta Barcode Processing API" h2="Memanipulasi Spreadsheet Excel serta Membaca, Menulis, Membuat, dan Mengekspor File Visio melalui API Node.js. Selain itu, Pindai dan Hasilkan BarCodes dengan mudah." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total untuk Node.js via Java adalah paket lengkap untuk manipulasi Spreadsheet Excel serta pemrosesan dokumen Viso. Pengembang dapat membuat, memanipulasi, merender, dan mengonversi File Excel melalui Nodejs serta memuat, membaca, menulis, dan mengekspor format Visio termasuk format VDX, VSDX, VTX, VSX, dan lainnya. Pengembang dapat dengan mudah mengintegrasikan Node API untuk pengenalan dan pembuatan Barcode.
@@ -242,7 +242,7 @@ Aspose.Total adalah suite yang kuat untuk memproses hampir semua jenis dokumen d
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total menawarkan solusi individual untuk platform lain." >}}
 

@@ -5,11 +5,11 @@ description: Xử lý Bảng tính Excel và Tài liệu Visio thông qua API No
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Các tệp Excel và Visio của Node.js cũng như các API xử lý mã vạch" h2="Thao tác Bảng tính Excel cũng như Đọc, Viết, Tạo và Xuất tệp Visio thông qua API Node.js. Hơn nữa, Quét và tạo mã vạch một cách dễ dàng." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Các tệp Excel và Visio của Node.js cũng như các API xử lý mã vạch" h2="Thao tác Bảng tính Excel cũng như Đọc, Viết, Tạo và Xuất tệp Visio thông qua API Node.js. Hơn nữa, Quét và tạo mã vạch một cách dễ dàng." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total cho Node.js qua Java là một gói hoàn chỉnh để thao tác Bảng tính Excel cũng như xử lý tài liệu Viso. Các nhà phát triển có thể tạo, thao tác, kết xuất và chuyển đổi Tệp Excel thông qua Nodejs cũng như tải, đọc, viết và xuất các định dạng Visio bao gồm VDX, VSDX, VTX, VSX và các định dạng khác. Các nhà phát triển có thể dễ dàng tích hợp Node API để nhận dạng và tạo mã vạch.
@@ -242,7 +242,7 @@ Aspose.Total là một bộ phần mềm mạnh mẽ để xử lý gần như t
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total cung cấp các giải pháp riêng lẻ cho các nền tảng khác." >}}
 

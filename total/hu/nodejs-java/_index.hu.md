@@ -5,11 +5,11 @@ description: Dolgozzon fel Excel-táblázatokat és Visio-dokumentumokat a Node.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel- és Visio-fájlok, valamint vonalkód-feldolgozó API-k" h2="Manipuláljon Excel-táblázatokat, valamint olvasson, írjon, hozzon létre és exportáljon Visio fájlokat a Node.js API-n keresztül. Ezenkívül könnyedén szkennelhet és generálhat vonalkódokat." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel- és Visio-fájlok, valamint vonalkód-feldolgozó API-k" h2="Manipuláljon Excel-táblázatokat, valamint olvasson, írjon, hozzon létre és exportáljon Visio fájlokat a Node.js API-n keresztül. Ezenkívül könnyedén szkennelhet és generálhat vonalkódokat." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Az Aspose.Total for Node.js a Java-n keresztül egy teljes csomag az Excel-táblázatkezeléshez, valamint a Viso-dokumentumok feldolgozásához. A fejlesztők létrehozhatnak, manipulálhatnak, renderelhetnek és konvertálhatnak Excel-fájlokat a Nodejs-en keresztül, valamint Visio-formátumokat tölthetnek be, olvashatnak, írhatnak és exportálhatnak, beleértve a VDX, VSDX, VTX, VSX és más formátumokat. A fejlesztők könnyen integrálhatják a Node API-t a vonalkód felismeréshez és generálásához.
@@ -242,7 +242,7 @@ Az Aspose.Total egy hatékony programcsomag szinte mindenféle dokumentum nagy s
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Az Aspose.Total egyedi megoldásokat kínál más platformokhoz." >}}
 

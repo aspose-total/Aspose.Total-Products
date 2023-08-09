@@ -5,11 +5,11 @@ description: Bearbeta Excel-kalkylblad och Visio-dokument via Node.js API. Anvä
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel- och Visio-filer samt API:er för streckkodsbehandling" h2="Manipulera Excel-kalkylblad samt läsa, skriva, skapa och exportera Visio-filer via Node.js API. Skanna och generera dessutom streckkoder med lätthet." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel- och Visio-filer samt API:er för streckkodsbehandling" h2="Manipulera Excel-kalkylblad samt läsa, skriva, skapa och exportera Visio-filer via Node.js API. Skanna och generera dessutom streckkoder med lätthet." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total för Node.js via Java är ett komplett paket för Excel-kalkylbladsmanipulation samt Viso-dokumentbehandling. Utvecklare kan skapa, manipulera, rendera och konvertera Excel-filer via Nodejs samt ladda, läsa, skriva och exportera Visio-format inklusive VDX, VSDX, VTX, VSX och fler format. Utvecklare kan enkelt integrera Node API för streckkodsigenkänning och generering.
@@ -242,7 +242,7 @@ Aspose.Total är en kraftfull svit för att bearbeta nästan alla typer av dokum
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total erbjuder individuella lösningar för andra plattformar." >}}
 

@@ -5,11 +5,11 @@ description: ประมวลผลสเปรดชีต Excel และเ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js ไฟล์ Excel และ Visio รวมถึง API การประมวลผลบาร์โค้ด" h2="จัดการสเปรดชีต Excel ตลอดจนอ่าน เขียน สร้าง และส่งออกไฟล์ Visio ผ่าน Node.js API นอกจากนี้ สแกนและสร้างบาร์โค้ดได้อย่างง่ายดาย" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js ไฟล์ Excel และ Visio รวมถึง API การประมวลผลบาร์โค้ด" h2="จัดการสเปรดชีต Excel ตลอดจนอ่าน เขียน สร้าง และส่งออกไฟล์ Visio ผ่าน Node.js API นอกจากนี้ สแกนและสร้างบาร์โค้ดได้อย่างง่ายดาย" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total สำหรับ Node.js ผ่าน Java เป็นแพ็คเกจที่สมบูรณ์สำหรับการจัดการสเปรดชีต Excel รวมถึงการประมวลผลเอกสาร Viso นักพัฒนาสามารถสร้าง จัดการ เรนเดอร์ และแปลงไฟล์ Excel ผ่าน Nodejs ตลอดจนโหลด อ่าน เขียน และส่งออกรูปแบบ Visio รวมถึง VDX, VSDX, VTX, VSX และรูปแบบอื่นๆ นักพัฒนาสามารถรวม Node API สำหรับการจดจำและการสร้างบาร์โค้ดได้อย่างง่ายดาย
@@ -242,7 +242,7 @@ Aspose.Total เป็นชุดโปรแกรมที่มีประ�
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total นำเสนอโซลูชันส่วนบุคคลสำหรับแพลตฟอร์มอื่นๆ" >}}
 

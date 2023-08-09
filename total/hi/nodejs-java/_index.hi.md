@@ -5,11 +5,11 @@ description: Node.js API के माध्यम से Excel स्प्र�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel और Visio फ़ाइलें और साथ ही बारकोड प्रोसेसिंग APIs" h2="नोड.जेएस एपीआई के माध्यम से एक्सेल स्प्रेडशीट के साथ-साथ रीड, राइट, क्रिएट और एक्सपोर्ट विसियो फाइल्स में हेरफेर करें। इसके अलावा, बारकोड को आसानी से स्कैन और जनरेट करें।" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel और Visio फ़ाइलें और साथ ही बारकोड प्रोसेसिंग APIs" h2="नोड.जेएस एपीआई के माध्यम से एक्सेल स्प्रेडशीट के साथ-साथ रीड, राइट, क्रिएट और एक्सपोर्ट विसियो फाइल्स में हेरफेर करें। इसके अलावा, बारकोड को आसानी से स्कैन और जनरेट करें।" logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total जावा के माध्यम से Node.js के लिए एक्सेल स्प्रेडशीट हेरफेर के साथ-साथ वीसो दस्तावेज़ प्रसंस्करण के लिए एक पूर्ण पैकेज है। डेवलपर्स Nodejs के साथ-साथ VDX, VSDX, VTX, VSX और अन्य स्वरूपों सहित Visio स्वरूपों को लोड, पढ़ने, लिखने और निर्यात करने के साथ-साथ Excel फ़ाइलों को बना, हेरफेर, रेंडर और परिवर्तित कर सकते हैं। डेवलपर्स बारकोड पहचान और पीढ़ी के लिए नोड एपीआई को आसानी से एकीकृत कर सकते हैं।
@@ -242,7 +242,7 @@ Aspose.Total उच्च गति और अच्छी गुणवत्त
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total अन्य प्लेटफार्मों के लिए अलग-अलग समाधान प्रदान करता है।" >}}
 

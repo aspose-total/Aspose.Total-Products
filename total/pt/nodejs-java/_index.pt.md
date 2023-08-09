@@ -5,11 +5,11 @@ description: Processe planilhas do Excel e documentos do Visio por meio da API N
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Arquivos Node.js Excel e Visio, bem como APIs de processamento de código de barras" h2="Manipule planilhas do Excel, bem como leia, escreva, crie e exporte arquivos do Visio por meio da API Node.js. Além disso, digitalize e gere códigos de barras com facilidade." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Arquivos Node.js Excel e Visio, bem como APIs de processamento de código de barras" h2="Manipule planilhas do Excel, bem como leia, escreva, crie e exporte arquivos do Visio por meio da API Node.js. Além disso, digitalize e gere códigos de barras com facilidade." logoImageSrc="/total/images/aspose_total-for-node-java-header.svg" pfName="Aspose.Total" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Total" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/total/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/total/images/aspose_total-for-node-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/total/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/total/nodejsjava/" instalationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/total/nodejs-java/" >}}
 
 {{< blocks/products/pf/total/overview >}}
 Aspose.Total para Node.js via Java é um pacote completo para manipulação de planilhas Excel, bem como processamento de documentos Viso. Os desenvolvedores podem criar, manipular, renderizar e converter arquivos do Excel via Nodejs, bem como carregar, ler, gravar e exportar formatos do Visio, incluindo VDX, VSDX, VTX, VSX e outros formatos. Os desenvolvedores podem integrar facilmente a API Node para reconhecimento e geração de código de barras.
@@ -242,7 +242,7 @@ Aspose.Total é uma suíte poderosa para processar quase todos os tipos de docum
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/total/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/total/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/total/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Total" description="Aspose.Total oferece soluções individuais para outras plataformas." >}}
 
