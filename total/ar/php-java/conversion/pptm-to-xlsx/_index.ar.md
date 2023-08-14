@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: EXCEL XLS, XLSX, XLSB, XLTX, XLTM, XLSM, ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PHP API لتحويل PPTM إلى XLSX أو تطبيق عبر الإنترنت" h2="قم بتصدير عرض PPTM التقديمي إلى XLSX عبر PHP بدون استخدام Microsoft <sup> & reg؛ </sup> Office." >}}
+{{< blocks/products/pf/feature-page-header h1="PHP API لتحويل PPTM إلى XLSX أو تطبيق عبر الإنترنت" h2="قم بتصدير عرض PPTM التقديمي إلى XLSX عبر PHP بدون استخدام Microsoft <sup>&reg;</sup> Office." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

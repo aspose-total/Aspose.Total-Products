@@ -10,7 +10,7 @@ outformat: ODS
 otherformats: EXCEL XLS, XLSX, XLSB, XLTX, XLTM, XLSM, ODS
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="PHP API لتحويل PPS إلى ODS أو تطبيق عبر الإنترنت" h2="قم بتصدير عرض PPS التقديمي إلى ODS عبر PHP بدون استخدام Microsoft <sup> & reg؛ </sup> Office." >}}
+{{< blocks/products/pf/feature-page-header h1="PHP API لتحويل PPS إلى ODS أو تطبيق عبر الإنترنت" h2="قم بتصدير عرض PPS التقديمي إلى ODS عبر PHP بدون استخدام Microsoft <sup>&reg;</sup> Office." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
