@@ -38,7 +38,7 @@ An Email Python library that helps in creation, manipulation or conversion of em
 Python library for PowerPoint & OpenOffice presentation formats that can help create, read, write, modify, merge, clone, protect & convert PPT, PPTX and ODP files to images, fixed-layout & web formats.
 {{< /blocks/products/pf/total/product-item >}}
 
-{{< blocks/products/pf/total/product-item href="/imaging/python-net/" imgSrc="/total/images/imaging/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+{{< blocks/products/pf/total/product-item href="/imaging/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
 Python image library that provides advanced image processing features like filtering, dithering, masking, deskewing as well as core features such as create, load, manipulate or convert images without requiring any image editor.
 {{< /blocks/products/pf/total/product-item >}}
 
