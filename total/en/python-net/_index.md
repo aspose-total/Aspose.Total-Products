@@ -38,6 +38,10 @@ An Email Python library that helps in creation, manipulation or conversion of em
 Python library for PowerPoint & OpenOffice presentation formats that can help create, read, write, modify, merge, clone, protect & convert PPT, PPTX and ODP files to images, fixed-layout & web formats.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/python-net/" imgSrc="/total/images/imaging/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Python image library that provides advanced image processing features like filtering, dithering, masking, deskewing as well as core features such as create, load, manipulate or convert images without requiring any image editor.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API to generate and recognize barcode of various 1D, 2D and postal symbologies for both encoding as well as decoding within Python applications.
 {{< /blocks/products/pf/total/product-item >}}
