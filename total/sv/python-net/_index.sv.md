@@ -38,6 +38,10 @@ Ett Email Python-bibliotek som hjälper till att skapa, manipulera eller konvert
 Python-bibliotek för PowerPoint- och OpenOffice-presentationsformat som kan hjälpa till att skapa, läsa, skriva, ändra, slå samman, klona, skydda och konvertera PPT-, PPTX- och ODP-filer till bilder, fast layout och webbformat.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/sv/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Python-bildbibliotek som tillhandahåller avancerade bildbehandlingsfunktioner som filtrering, vibrering, maskering, skevning samt kärnfunktioner som att skapa, ladda, manipulera eller konvertera bilder utan att behöva någon bildredigerare.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/sv/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API för att generera och känna igen streckkoder för olika 1D-, 2D- och postsymboliker för både kodning och avkodning inom Python-applikationer.
 {{< /blocks/products/pf/total/product-item >}}

@@ -38,6 +38,10 @@ Python Excel API لعمليات أتمتة جداول البيانات مثل ا
 مكتبة Python لتنسيقات عروض PowerPoint و OpenOffice التي يمكن أن تساعد في إنشاء وقراءة وكتابة وتعديل ودمج واستنساخ وحماية وتحويل ملفات PPT و PPTX و ODP إلى صور وتنسيقات ذات تنسيق ثابت وتنسيقات ويب.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/ar/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+مكتبة صور Python التي توفر ميزات معالجة صور متقدمة مثل التصفية والتردد والإخفاء وتزيين المكاتب بالإضافة إلى الميزات الأساسية مثل إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/ar/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API لإنشاء والتعرف على الرموز الشريطية لمختلف الرموز 1D و 2 D والبريدية لكل من الترميز وكذلك فك التشفير داخل تطبيقات Python.
 {{< /blocks/products/pf/total/product-item >}}

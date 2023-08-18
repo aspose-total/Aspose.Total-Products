@@ -38,6 +38,10 @@ description: Python 應用程序中用於 Microsoft Word 文檔、PowerPoint 演
 用於 PowerPoint 和 OpenOffice 演示格式的 Python 庫，可以幫助創建、讀取、寫入、修改、合併、克隆、保護和轉換 PPT、PPTX 和 ODP 文件為圖像、固定佈局和 Web 格式。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/zh-hant/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Python 圖像庫，提供高級圖像處理功能（如過濾、抖動、遮蔽、糾偏）以及核心功能（如創建、加載、操作或轉換圖像），無需任何圖像編輯器。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/zh-hant/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API 用於生成和識別各種 1D、2D 和郵政符號體系的條碼，以便在 Python 應用程序中進行編碼和解碼。
 {{< /blocks/products/pf/total/product-item >}}

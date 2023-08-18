@@ -38,6 +38,10 @@ Thư viện Email Python giúp tạo, thao tác hoặc chuyển đổi thư emai
 Thư viện Python dành cho các định dạng trình bày PowerPoint & OpenOffice có thể giúp tạo, đọc, viết, sửa đổi, hợp nhất, sao chép, bảo vệ và chuyển đổi các tệp PPT, PPTX và ODP sang hình ảnh, bố cục cố định & định dạng web.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/vi/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Thư viện hình ảnh Python cung cấp các tính năng xử lý hình ảnh nâng cao như lọc, phối màu, tạo mặt nạ, làm mờ cũng như các tính năng cốt lõi như tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/vi/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 API mã vạch Python để tạo và nhận dạng mã vạch của các ký hiệu 1D, 2D và bưu chính khác nhau cho cả mã hóa cũng như giải mã trong các ứng dụng Python.
 {{< /blocks/products/pf/total/product-item >}}

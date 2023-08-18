@@ -38,6 +38,10 @@ E-mail Python könyvtár, amely segít az e-mail üzenetek és e-mail archívumo
 Python-könyvtár PowerPoint és OpenOffice prezentációs formátumokhoz, amelyek segíthetnek létrehozni, olvasni, írni, módosítani, egyesíteni, klónozni, védeni és konvertálni PPT-, PPTX- és ODP-fájlokat képekké, rögzített elrendezésű és webes formátumokká.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/hu/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Python képtár, amely fejlett képfeldolgozási funkciókat, például szűrést, dithering-et, maszkolást, torzításcsökkentést, valamint olyan alapvető funkciókat kínál, mint a képek létrehozása, betöltése, manipulálása vagy konvertálása képszerkesztő nélkül.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/hu/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API különféle 1D, 2D és postai szimbólumok vonalkódjának generálására és felismerésére a Python alkalmazásokon belüli kódoláshoz és dekódoláshoz egyaránt.
 {{< /blocks/products/pf/total/product-item >}}

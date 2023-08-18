@@ -38,6 +38,10 @@ E-posta mesajlarının ve e-posta arşivlerinin oluşturulmasına, değiştirilm
 PPT, PPTX ve ODP dosyalarını oluşturmaya, okumaya, yazmaya, değiştirmeye, birleştirmeye, klonlamaya, korumaya ve resimlere, sabit düzene ve web biçimlerine dönüştürmeye yardımcı olabilecek PowerPoint ve OpenOffice sunum biçimleri için Python kitaplığı.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/tr/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Filtreleme, renk taklidi, maskeleme, eğrilik düzeltme gibi gelişmiş görüntü işleme özelliklerinin yanı sıra herhangi bir görüntü düzenleyici gerektirmeden görüntüleri oluşturma, yükleme, değiştirme veya dönüştürme gibi temel özellikler sağlayan Python görüntü kitaplığı.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/tr/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python uygulamalarında hem kodlama hem de kod çözme için çeşitli 1B, 2B ve posta sembolojilerinin barkodunu oluşturmak ve tanımak için Python Barkod API'si.
 {{< /blocks/products/pf/total/product-item >}}

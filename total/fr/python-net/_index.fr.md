@@ -38,6 +38,10 @@ Une bibliothèque Email Python qui aide à la création, la manipulation ou la c
 Bibliothèque Python pour les formats de présentation PowerPoint et OpenOffice pouvant aider à créer, lire, écrire, modifier, fusionner, cloner, protéger et convertir des fichiers PPT, PPTX et ODP en images, à mise en page fixe et en formats Web.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/fr/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Bibliothèque d'images Python qui fournit des fonctionnalités avancées de traitement d'image telles que le filtrage, le tramage, le masquage, le redressement ainsi que des fonctionnalités de base telles que la création, le chargement, la manipulation ou la conversion d'images sans nécessiter d'éditeur d'image.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/fr/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 API Python Barcode pour générer et reconnaître le code-barres de diverses symbologies 1D, 2D et postales pour l'encodage et le décodage dans les applications Python.
 {{< /blocks/products/pf/total/product-item >}}

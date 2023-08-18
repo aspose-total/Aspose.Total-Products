@@ -38,6 +38,10 @@ Python Excel API สำหรับกระบวนการทำงานอ
 ไลบรารี Python สำหรับรูปแบบการนำเสนอ PowerPoint และ OpenOffice ที่ช่วยสร้าง อ่าน เขียน แก้ไข ผสาน โคลน ป้องกันและแปลงไฟล์ PPT, PPTX และ ODP เป็นรูปภาพ รูปแบบคงที่ และรูปแบบเว็บ
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/th/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+ไลบรารีรูปภาพ Python ที่ให้คุณสมบัติการประมวลผลรูปภาพขั้นสูง เช่น การกรอง การไดเทอร์ การมาสก์ การเลื่อนโต๊ะ ตลอดจนคุณสมบัติหลัก เช่น สร้าง โหลด จัดการ หรือแปลงรูปภาพโดยไม่ต้องใช้โปรแกรมแก้ไขรูปภาพ
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/th/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API เพื่อสร้างและจดจำบาร์โค้ดของสัญลักษณ์ 1D, 2D และไปรษณีย์ต่างๆ สำหรับทั้งการเข้ารหัสและการถอดรหัสภายในแอปพลิเคชัน Python
 {{< /blocks/products/pf/total/product-item >}}

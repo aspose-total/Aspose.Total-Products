@@ -38,6 +38,10 @@ description: Microsoft Word दस्तावेज़ों, PowerPoint प्
 पावरपॉइंट और ओपनऑफिस प्रेजेंटेशन फॉर्मेट के लिए पायथन लाइब्रेरी जो पीपीटी, पीपीटीएक्स और ओडीपी फाइलों को इमेज, फिक्स्ड-लेआउट और वेब फॉर्मेट में बनाने, पढ़ने, लिखने, संशोधित करने, मर्ज करने, क्लोन करने, संरक्षित करने और बदलने में मदद कर सकती है।
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/hi/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+पायथन इमेज लाइब्रेरी जो फ़िल्टरिंग, डिथरिंग, मास्किंग, डेस्क्यूइंग जैसी उन्नत छवि प्रसंस्करण सुविधाएँ प्रदान करती है और साथ ही किसी भी छवि संपादक की आवश्यकता के बिना छवियों को बनाने, लोड करने, हेरफेर करने या परिवर्तित करने जैसी मुख्य सुविधाएँ प्रदान करती है।
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/hi/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 पायथन बारकोड एपीआई विभिन्न 1D, 2D और डाक प्रतीकों के बारकोड को उत्पन्न करने और पहचानने के लिए दोनों एन्कोडिंग के साथ-साथ पायथन अनुप्रयोगों के भीतर डिकोडिंग के लिए।
 {{< /blocks/products/pf/total/product-item >}}

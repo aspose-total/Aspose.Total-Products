@@ -38,6 +38,10 @@ Python Excel API для процессов автоматизации элект
 Библиотека Python для форматов презентаций PowerPoint и OpenOffice, которая может помочь создавать, читать, писать, изменять, объединять, клонировать, защищать и преобразовывать файлы PPT, PPTX и ODP в изображения, форматы с фиксированным макетом и веб-форматы.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/ru/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Библиотека изображений Python, которая предоставляет расширенные функции обработки изображений, такие как фильтрация, дизеринг, маскирование, устранение перекоса, а также основные функции, такие как создание, загрузка, манипулирование или преобразование изображений без использования какого-либо редактора изображений.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/ru/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API для создания и распознавания штрих-кодов различных одномерных, двухмерных и почтовых символик как для кодирования, так и для декодирования в приложениях Python.
 {{< /blocks/products/pf/total/product-item >}}

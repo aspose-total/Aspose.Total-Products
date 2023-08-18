@@ -38,6 +38,10 @@ description: Python 应用程序中用于 Microsoft Word 文档、PowerPoint 演
 用于 PowerPoint 和 OpenOffice 演示格式的 Python 库，可以帮助创建、读取、写入、修改、合并、克隆、保护和转换 PPT、PPTX 和 ODP 文件为图像、固定布局和 Web 格式。
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/zh/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Python 图像库，提供高级图像处理功能（如过滤、抖动、遮蔽、纠偏）以及核心功能（如创建、加载、操作或转换图像），无需任何图像编辑器。
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/zh/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API 用于生成和识别各种 1D、2D 和邮政符号体系的条码，以便在 Python 应用程序中进行编码和解码。
 {{< /blocks/products/pf/total/product-item >}}

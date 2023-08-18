@@ -38,6 +38,10 @@ Een e-mailpython-bibliotheek die helpt bij het maken, manipuleren of converteren
 Python-bibliotheek voor PowerPoint- en OpenOffice-presentatieformaten die kunnen helpen bij het maken, lezen, schrijven, wijzigen, samenvoegen, klonen, beschermen en converteren van PPT-, PPTX- en ODP-bestanden naar afbeeldingen, vaste lay-out en webformaten.
 {{< /blocks/products/pf/total/product-item >}}
 
+{{< blocks/products/pf/total/product-item href="/imaging/nl/python-net/" imgSrc="/total/images/aspose_imaging-for-python-net.svg" productName="Aspose.Imaging for Python via .NET">}}
+Python-beeldbibliotheek die geavanceerde functies voor beeldverwerking biedt, zoals filteren, ditheren, maskeren, rechtzetten, evenals kernfuncties zoals het maken, laden, manipuleren of converteren van afbeeldingen zonder dat een afbeeldingseditor nodig is.
+{{< /blocks/products/pf/total/product-item >}}
+
 {{< blocks/products/pf/total/product-item href="/barcode/nl/python-net/" imgSrc="/total/images/aspose_barcode-for-python-net.svg" productName="Aspose.BarCode for Python via .NET">}}
 Python Barcode API voor het genereren en herkennen van barcodes van verschillende 1D-, 2D- en postsymbolen voor zowel codering als decodering binnen Python-toepassingen.
 {{< /blocks/products/pf/total/product-item >}}
